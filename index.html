@@ -1228,7 +1228,11 @@ function addToCalendar(title, date, time, durationMin, cinemaName, cinemaAddress
 
   const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
   const url  = URL.createObjectURL(blob);
-  window.open(url, '_blank');
+  const a    = document.createElement('a');
+  a.href     = url;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
   setTimeout(() => URL.revokeObjectURL(url), 3000);
 }
 
