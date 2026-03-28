@@ -1,0 +1,30 @@
+name: Atualizar sessões
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # todos os dias às 8h UTC (9h Lisboa inverno / 10h verão)
+  workflow_dispatch:        # permite correr manualmente no GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Correr scraper
+        run: python3 scrapers/run.py
+
+      - name: Commit e push se houver alterações
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sessions.js data/omdb_cache.json
+          git diff --cached --quiet || git commit -m "chore: atualizar sessões $(date -u '+%Y-%m-%d')"
+          git push

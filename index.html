@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cine Lisboa</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    :root {
+      --bg:        #f7f7f5;
+      --surface:   #ffffff;
+      --surface-2: #eeeeec;
+      --accent:    #c8ff47;
+      --accent-dim:#a8d936;
+      --text:      #0a0a0a;
+      --text-2:    #666;
+      --text-3:    #bbb;
+      --border:    #e2e2e0;
+      --radius:    6px;
+    }
+
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Space Grotesk', sans-serif;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── HEADER ─────────────────────────────────────────── */
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(247,247,245,0.92);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 58px;
+    }
+
+    .logo {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      user-select: none;
+    }
+    .logo em { font-style: normal; color: var(--accent); }
+
+    nav { display: flex; gap: 2px; }
+
+    nav button {
+      background: none;
+      border: none;
+      color: var(--text-2);
+      font-family: inherit;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 7px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+    }
+    nav button:hover  { color: var(--text); background: var(--surface-2); }
+    nav button.active { color: var(--bg);   background: var(--accent); }
+
+    /* ── DATE BAR ───────────────────────────────────────── */
+
+    .date-bar {
+      padding: 14px 40px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .date-bar::-webkit-scrollbar { display: none; }
+
+    .date-chip {
+      flex-shrink: 0;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-2);
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 18px;
+      border-radius: 40px;
+      cursor: pointer;
+      transition: all 0.15s;
+      text-align: center;
+      min-width: 62px;
+    }
+    .date-chip:hover { border-color: var(--text-3); color: var(--text); }
+    .date-chip.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--bg);
+      font-weight: 700;
+    }
+    .date-chip .dn  { display: block; font-size: 9px; text-transform: uppercase; letter-spacing: 0.7px; opacity: 0.6; margin-bottom: 2px; }
+    .date-chip .dd  { display: block; font-size: 18px; font-weight: 700; line-height: 1; }
+    .date-chip .dm  { display: block; font-size: 9px; opacity: 0.5; margin-top: 2px; }
+
+    /* ── FILTER BAR ─────────────────────────────────────── */
+
+    .filter-bar {
+      padding: 10px 40px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .filter-bar::-webkit-scrollbar { display: none; }
+
+    .filter-label {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-3);
+      font-weight: 700;
+      flex-shrink: 0;
+      padding-right: 6px;
+      border-right: 1px solid var(--border);
+      margin-right: 2px;
+    }
+
+    .cinema-chip {
+      flex-shrink: 0;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-2);
+      font-family: inherit;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 5px 12px;
+      border-radius: 40px;
+      cursor: pointer;
+      transition: all 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      letter-spacing: 0.2px;
+    }
+    .cinema-chip .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+    .cinema-chip:hover { color: var(--text); border-color: #444; }
+    .cinema-chip.active { color: var(--text); background: rgba(255,255,255,0.04); }
+
+    /* ── MAIN ───────────────────────────────────────────── */
+
+    main {
+      padding: 36px 40px 80px;
+      max-width: 1440px;
+      margin: 0 auto;
+    }
+
+    /* ── AGENDA VIEW ────────────────────────────────────── */
+
+    .agenda-day { margin-bottom: 52px; }
+
+    .day-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 6px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .day-header .dname {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--text-3);
+      font-weight: 700;
+    }
+    .day-header .ddate {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+    .day-header .ddate.today { color: var(--accent); }
+    .day-header .dcount {
+      font-size: 12px;
+      color: var(--text-3);
+      margin-left: auto;
+    }
+
+    .sessions-list { display: flex; flex-direction: column; }
+
+    .session-row {
+      display: grid;
+      grid-template-columns: 58px 1fr auto;
+      align-items: center;
+      gap: 24px;
+      padding: 13px 10px;
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: background 0.12s;
+      border-bottom: 1px solid transparent;
+    }
+    .session-row:hover { background: var(--surface); }
+
+    .stime {
+      font-size: 15px;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      color: var(--text);
+      letter-spacing: -0.3px;
+    }
+
+    .smovie { display: flex; flex-direction: column; gap: 3px; }
+    .stitle { font-size: 15px; font-weight: 600; }
+    .smeta  { font-size: 12px; color: var(--text-2); }
+
+    .scinema {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-2);
+      white-space: nowrap;
+      letter-spacing: 0.1px;
+    }
+    .scinema .cdot { width: 8px; height: 8px; border-radius: 50%; }
+
+    /* ── FILMES VIEW ────────────────────────────────────── */
+
+    .movies-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 28px;
+    }
+
+    .movie-card { cursor: pointer; }
+
+    .movie-poster {
+      width: 100%;
+      aspect-ratio: 2/3;
+      border-radius: 8px;
+      overflow: hidden;
+      position: relative;
+      margin-bottom: 14px;
+    }
+
+    .poster-bg {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transition: transform 0.35s ease;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 18px;
+    }
+    .movie-card:hover .poster-bg { transform: scale(1.04); }
+
+    .poster-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.1) 55%, transparent 100%);
+    }
+
+    .poster-title {
+      position: relative;
+      z-index: 1;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+
+    .poster-dir {
+      position: relative;
+      z-index: 1;
+      font-size: 11px;
+      color: rgba(255,255,255,0.55);
+      margin-top: 3px;
+    }
+
+    .movie-foot {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .genres { display: flex; gap: 4px; flex-wrap: wrap; }
+    .genre-tag {
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      font-weight: 700;
+      padding: 3px 7px;
+      border-radius: 3px;
+      background: var(--surface-2);
+      color: var(--text-3);
+    }
+
+    .session-pill {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--bg);
+      background: var(--text);
+      padding: 3px 8px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+
+    /* ── MODAL ──────────────────────────────────────────── */
+
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.6);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      z-index: 500;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+    }
+    .modal-overlay.open {
+      opacity: 1;
+      pointer-events: all;
+    }
+
+    .modal {
+      background: var(--surface);
+      border-radius: 14px;
+      width: 100%;
+      max-width: 760px;
+      max-height: 90vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      transform: translateY(16px);
+      transition: transform 0.2s ease;
+    }
+    .modal-overlay.open .modal { transform: translateY(0); }
+
+    .modal-top {
+      display: flex;
+      gap: 28px;
+      padding: 28px 28px 24px;
+    }
+
+    .modal-poster {
+      flex-shrink: 0;
+      width: 160px;
+      aspect-ratio: 2/3;
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--surface-2);
+    }
+    .modal-poster img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .modal-poster-fallback {
+      width: 100%;
+      height: 100%;
+    }
+
+    .modal-info {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .modal-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .modal-title {
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .modal-close {
+      flex-shrink: 0;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      border: none;
+      background: var(--surface-2);
+      cursor: pointer;
+      font-size: 16px;
+      color: var(--text-2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s;
+    }
+    .modal-close:hover { background: var(--border); }
+
+    .modal-meta {
+      font-size: 13px;
+      color: var(--text-2);
+    }
+
+    .modal-genres { display: flex; gap: 4px; flex-wrap: wrap; }
+
+    .modal-plot {
+      font-size: 13px;
+      line-height: 1.6;
+      color: var(--text-2);
+    }
+
+    .modal-sessions {
+      border-top: 1px solid var(--border);
+      padding: 20px 28px 28px;
+    }
+
+    .modal-sessions-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--text-3);
+      margin-bottom: 14px;
+    }
+
+    .modal-session-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px;
+    }
+    .modal-session-row:last-child { border-bottom: none; }
+
+    .modal-sdate {
+      width: 110px;
+      flex-shrink: 0;
+      color: var(--text-2);
+    }
+    .modal-stime {
+      font-weight: 700;
+      width: 44px;
+      flex-shrink: 0;
+    }
+    .modal-scinema {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-2);
+    }
+    .modal-scinema .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+    /* ── CINEMAS VIEW ───────────────────────────────────── */
+
+    #cinema-map {
+      width: 100%;
+      height: 420px;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 52px;
+      border: 1px solid var(--border);
+    }
+
+    .leaflet-popup-content-wrapper {
+      border-radius: 10px !important;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15) !important;
+      border: 1px solid #e2e2e0 !important;
+      font-family: 'Space Grotesk', sans-serif !important;
+    }
+    .leaflet-popup-tip-container { display: none; }
+
+    .cinema-section { margin-bottom: 52px; }
+
+    .cinema-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .cinema-header .chball {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .cinema-header .chname {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    .cinema-header .chzone {
+      font-size: 12px;
+      color: var(--text-3);
+      margin-left: auto;
+    }
+
+    /* ── SORT BAR ───────────────────────────────────────── */
+
+    .sort-bar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 28px;
+    }
+    .sort-label {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-3);
+      font-weight: 700;
+      margin-right: 4px;
+    }
+    .sort-btn {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-2);
+      font-family: inherit;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 40px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .sort-btn:hover { color: var(--text); border-color: var(--text-3); }
+    .sort-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--bg);
+    }
+
+    /* ── EMPTY ──────────────────────────────────────────── */
+    .empty {
+      padding: 100px 0;
+      text-align: center;
+      color: var(--text-3);
+      font-size: 14px;
+      letter-spacing: 0.2px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">cine<em>.</em>lisboa</div>
+  <nav id="nav">
+    <button onclick="setView('agenda')">Agenda</button>
+    <button onclick="setView('filmes')">Filmes</button>
+    <button onclick="setView('cinemas')">Cinemas</button>
+  </nav>
+</header>
+
+<!-- dados reais gerados pelo scraper (se existirem) -->
+<script src="data/sessions.js" onerror="window.CINEMA_DATA=null"></script>
+
+<div class="date-bar" id="dateBar"></div>
+<div class="filter-bar" id="filterBar"></div>
+
+<main id="main"></main>
+
+<div class="modal-overlay" id="modalOverlay" onclick="handleOverlayClick(event)">
+  <div class="modal" id="modal">
+    <div class="modal-top">
+      <div class="modal-poster" id="modalPoster"></div>
+      <div class="modal-info">
+        <div class="modal-header">
+          <h2 class="modal-title" id="modalTitle"></h2>
+          <button class="modal-close" onclick="closeModal()">✕</button>
+        </div>
+        <div class="modal-meta" id="modalMeta"></div>
+        <div class="modal-genres" id="modalGenres"></div>
+        <p class="modal-plot" id="modalPlot"></p>
+      </div>
+    </div>
+    <div class="modal-sessions">
+      <div class="modal-sessions-title">Sessões</div>
+      <div id="modalSessionsList"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── DATA ─────────────────────────────────────────────────────────────────────
+
+const CINEMAS = [
+  { id:"cinemateca",  name:"Cinemateca Portuguesa", zone:"Marquês de Pombal", color:"#ff7043", short:"Cinemateca",
+    lat:38.7197, lng:-9.1455, address:"Rua Barata Salgueiro 39, 1250-044 Lisboa",
+    url:"https://cinemateca.pt" },
+  { id:"nimas",       name:"Medeia Nimas",          zone:"Av. 5 de Outubro",  color:"#ab47bc", short:"Nimas",
+    lat:38.7272, lng:-9.1397, address:"Av. 5 de Outubro 42-B, 1050-059 Lisboa",
+    url:"https://medeiafilmes.com" },
+  { id:"sao_jorge",   name:"Cinema São Jorge",      zone:"Av. Liberdade",     color:"#ef5350", short:"S. Jorge",
+    lat:38.7194, lng:-9.1461, address:"Av. da Liberdade 175, 1250-141 Lisboa",
+    url:"https://cinemasaojorge.pt" },
+  { id:"ideal",       name:"Cinema Ideal",          zone:"Chiado",            color:"#42a5f5", short:"Ideal",
+    lat:38.7093, lng:-9.1428, address:"Rua do Loreto 16, 1200-242 Lisboa",
+    url:"https://cinemalideal.pt" },
+  { id:"fernando",    name:"Cinema Fernando Lopes", zone:"Campo Grande",      color:"#26a69a", short:"F. Lopes",
+    lat:38.7572, lng:-9.1541, address:"Campo Grande 376, 1700-097 Lisboa",
+    url:"https://cinemafernandolopes.pt" },
+  { id:"culturgest",  name:"Culturgest",            zone:"Entrecampos",       color:"#66bb6a", short:"Culturgest",
+    lat:38.7390, lng:-9.1370, address:"Rua Arco do Cego 1, 1000-300 Lisboa",
+    url:"https://culturgest.pt" },
+  { id:"nos_colombo", name:"NOS Cinemas Colombo",   zone:"Benfica",           color:"#5c6bc0", short:"NOS",
+    lat:38.7561, lng:-9.1931, address:"Centro Colombo, Av. Lusíada, 1500-392 Lisboa",
+    url:"https://www.noscinemas.pt" },
+  { id:"cc",          name:"Cinema City",           zone:"Campo Pequeno",     color:"#ffa726", short:"Cin. City",
+    lat:38.7368, lng:-9.1434, address:"Campo Pequeno 52, 1000-082 Lisboa",
+    url:"" },
+];
+
+const MOCK_MOVIES = [
+  {
+    id:1, title:"Stalker", director:"Andrei Tarkovsky", year:1979,
+    genres:["Drama","Ficção Científica"], duration:162,
+    bg:"linear-gradient(135deg, #0d2218 0%, #1a3a28 100%)", accent:"#4caf50",
+    sessions:[
+      {date:"2026-03-25",time:"18:00",cinema:"cinemateca"},
+      {date:"2026-03-25",time:"21:30",cinema:"cinemateca"},
+      {date:"2026-03-27",time:"19:00",cinema:"ideal"},
+      {date:"2026-03-29",time:"21:00",cinema:"nimas"},
+    ]
+  },
+  {
+    id:2, title:"Dune: Part Three", director:"Denis Villeneuve", year:2026,
+    genres:["Ficção Científica","Aventura"], duration:158,
+    bg:"linear-gradient(135deg, #1a1200 0%, #2e2000 100%)", accent:"#f59e0b",
+    sessions:[
+      {date:"2026-03-25",time:"14:00",cinema:"nos_colombo"},
+      {date:"2026-03-25",time:"17:30",cinema:"nos_colombo"},
+      {date:"2026-03-25",time:"20:45",cinema:"nos_colombo"},
+      {date:"2026-03-25",time:"16:00",cinema:"cc"},
+      {date:"2026-03-25",time:"20:00",cinema:"cc"},
+      {date:"2026-03-26",time:"14:00",cinema:"nos_colombo"},
+      {date:"2026-03-26",time:"17:30",cinema:"nos_colombo"},
+      {date:"2026-03-26",time:"21:00",cinema:"nos_colombo"},
+      {date:"2026-03-27",time:"16:30",cinema:"cc"},
+      {date:"2026-03-28",time:"17:00",cinema:"nos_colombo"},
+    ]
+  },
+  {
+    id:3, title:"Nosferatu", director:"Robert Eggers", year:2024,
+    genres:["Terror","Drama"], duration:133,
+    bg:"linear-gradient(135deg, #0e0510 0%, #1a0a20 100%)", accent:"#ce93d8",
+    sessions:[
+      {date:"2026-03-25",time:"22:00",cinema:"nos_colombo"},
+      {date:"2026-03-26",time:"22:00",cinema:"cc"},
+      {date:"2026-03-27",time:"22:15",cinema:"nos_colombo"},
+      {date:"2026-03-28",time:"22:00",cinema:"sao_jorge"},
+    ]
+  },
+  {
+    id:4, title:"A Zona de Interesse", director:"Jonathan Glazer", year:2023,
+    genres:["Drama","História"], duration:105,
+    bg:"linear-gradient(135deg, #0c1220 0%, #1a2030 100%)", accent:"#64b5f6",
+    sessions:[
+      {date:"2026-03-25",time:"19:30",cinema:"ideal"},
+      {date:"2026-03-26",time:"19:30",cinema:"ideal"},
+      {date:"2026-03-27",time:"19:30",cinema:"ideal"},
+      {date:"2026-03-26",time:"18:00",cinema:"nimas"},
+      {date:"2026-03-27",time:"18:00",cinema:"nimas"},
+    ]
+  },
+  {
+    id:5, title:"Anora", director:"Sean Baker", year:2024,
+    genres:["Comédia","Drama","Romance"], duration:139,
+    bg:"linear-gradient(135deg, #1a0c18 0%, #2e1428 100%)", accent:"#f48fb1",
+    sessions:[
+      {date:"2026-03-25",time:"18:30",cinema:"sao_jorge"},
+      {date:"2026-03-25",time:"21:15",cinema:"sao_jorge"},
+      {date:"2026-03-26",time:"18:30",cinema:"sao_jorge"},
+      {date:"2026-03-26",time:"21:15",cinema:"sao_jorge"},
+      {date:"2026-03-27",time:"18:30",cinema:"ideal"},
+      {date:"2026-03-28",time:"21:15",cinema:"sao_jorge"},
+    ]
+  },
+  {
+    id:6, title:"A Substância", director:"Coralie Fargeat", year:2024,
+    genres:["Terror","Ficção Científica"], duration:141,
+    bg:"linear-gradient(135deg, #1a0404 0%, #2e0808 100%)", accent:"#ff5252",
+    sessions:[
+      {date:"2026-03-25",time:"21:30",cinema:"sao_jorge"},
+      {date:"2026-03-27",time:"21:00",cinema:"nos_colombo"},
+      {date:"2026-03-28",time:"21:00",cinema:"nos_colombo"},
+      {date:"2026-03-29",time:"21:30",cinema:"sao_jorge"},
+    ]
+  },
+  {
+    id:7, title:"Emília Pérez", director:"Jacques Audiard", year:2024,
+    genres:["Musical","Crime","Drama"], duration:132,
+    bg:"linear-gradient(135deg, #180818 0%, #280e28 100%)", accent:"#ce93d8",
+    sessions:[
+      {date:"2026-03-26",time:"16:00",cinema:"nos_colombo"},
+      {date:"2026-03-26",time:"19:00",cinema:"cc"},
+      {date:"2026-03-27",time:"16:30",cinema:"cc"},
+      {date:"2026-03-28",time:"16:00",cinema:"nos_colombo"},
+    ]
+  },
+  {
+    id:8, title:"Close", director:"Lukas Dhont", year:2022,
+    genres:["Drama"], duration:105,
+    bg:"linear-gradient(135deg, #081814 0%, #102a20 100%)", accent:"#81c784",
+    sessions:[
+      {date:"2026-03-25",time:"16:00",cinema:"fernando"},
+      {date:"2026-03-26",time:"16:00",cinema:"fernando"},
+      {date:"2026-03-27",time:"21:00",cinema:"culturgest"},
+      {date:"2026-03-28",time:"16:00",cinema:"fernando"},
+    ]
+  },
+  {
+    id:9, title:"Jeanne Dielman, 23, Quai du Commerce", director:"Chantal Akerman", year:1975,
+    genres:["Drama"], duration:202,
+    bg:"linear-gradient(135deg, #141008 0%, #241c0c 100%)", accent:"#ffcc02",
+    sessions:[
+      {date:"2026-03-26",time:"14:00",cinema:"cinemateca"},
+      {date:"2026-03-30",time:"15:00",cinema:"ideal"},
+    ]
+  },
+  {
+    id:10, title:"Persona", director:"Ingmar Bergman", year:1966,
+    genres:["Drama"], duration:85,
+    bg:"linear-gradient(135deg, #101010 0%, #202020 100%)", accent:"#e0e0e0",
+    sessions:[
+      {date:"2026-03-27",time:"19:00",cinema:"cinemateca"},
+      {date:"2026-03-30",time:"21:00",cinema:"nimas"},
+      {date:"2026-04-01",time:"19:00",cinema:"ideal"},
+    ]
+  },
+  {
+    id:11, title:"António, Miúdo de Lisboa", director:"Mário Barroso", year:2025,
+    genres:["Drama","Português"], duration:98,
+    bg:"linear-gradient(135deg, #081418 0%, #102030 100%)", accent:"#4dd0e1",
+    sessions:[
+      {date:"2026-03-25",time:"17:30",cinema:"fernando"},
+      {date:"2026-03-26",time:"17:30",cinema:"fernando"},
+      {date:"2026-03-27",time:"19:30",cinema:"culturgest"},
+      {date:"2026-03-28",time:"17:30",cinema:"fernando"},
+      {date:"2026-03-29",time:"19:30",cinema:"culturgest"},
+    ]
+  },
+  {
+    id:12, title:"Três Cores: Azul", director:"Krzysztof Kieślowski", year:1993,
+    genres:["Drama"], duration:98,
+    bg:"linear-gradient(135deg, #040c1a 0%, #081828 100%)", accent:"#42a5f5",
+    sessions:[
+      {date:"2026-03-28",time:"19:00",cinema:"culturgest"},
+      {date:"2026-03-29",time:"19:00",cinema:"culturgest"},
+      {date:"2026-03-30",time:"19:00",cinema:"ideal"},
+    ]
+  },
+  {
+    id:13, title:"Conclave", director:"Edward Berger", year:2024,
+    genres:["Drama","Suspense"], duration:120,
+    bg:"linear-gradient(135deg, #0a0c18 0%, #141828 100%)", accent:"#90caf9",
+    sessions:[
+      {date:"2026-03-25",time:"19:00",cinema:"cc"},
+      {date:"2026-03-25",time:"21:30",cinema:"cc"},
+      {date:"2026-03-26",time:"19:00",cinema:"cc"},
+      {date:"2026-03-27",time:"19:00",cinema:"nos_colombo"},
+      {date:"2026-03-28",time:"19:00",cinema:"nos_colombo"},
+    ]
+  },
+  {
+    id:14, title:"Vermiglio", director:"Maura Delpero", year:2024,
+    genres:["Drama"], duration:119,
+    bg:"linear-gradient(135deg, #101408 0%, #1c2410 100%)", accent:"#aed581",
+    sessions:[
+      {date:"2026-03-26",time:"21:00",cinema:"cinemateca"},
+      {date:"2026-03-27",time:"21:00",cinema:"cinemateca"},
+      {date:"2026-03-29",time:"19:30",cinema:"nimas"},
+    ]
+  },
+];
+
+// ── STATE ─────────────────────────────────────────────────────────────────────
+
+// ── CARREGAR DADOS (reais ou mock) ────────────────────────────────────────────
+
+// Se o scraper já correu, usa os dados reais; caso contrário usa os dados mock
+const CINEMA_COLORS = Object.fromEntries(CINEMAS.map(c => [c.id, c.color]));
+const CINEMA_GRADIENTS = {
+  cinemateca: 'linear-gradient(135deg,#1a0808 0%,#2e1010 100%)',
+  sao_jorge:  'linear-gradient(135deg,#0a0a18 0%,#181828 100%)',
+  ideal:      'linear-gradient(135deg,#081418 0%,#102030 100%)',
+  nimas:      'linear-gradient(135deg,#0e0818 0%,#1c1028 100%)',
+  fernando:   'linear-gradient(135deg,#041410 0%,#082018 100%)',
+  culturgest: 'linear-gradient(135deg,#081408 0%,#102010 100%)',
+  nos_colombo:'linear-gradient(135deg,#080c18 0%,#101828 100%)',
+  cc:         'linear-gradient(135deg,#100c04 0%,#201808 100%)',
+};
+
+const MOVIES = (window.CINEMA_DATA?.movies ?? MOCK_MOVIES).map(m => {
+  const firstCinema = m.sessions?.[0]?.cinema;
+  return {
+    ...m,
+    bg: m.bg ?? CINEMA_GRADIENTS[firstCinema] ?? 'linear-gradient(135deg,#111 0%,#1e1e1e 100%)',
+    sessions: (m.sessions ?? []).map(s => ({ ...s, time: s.time.replace('*', '').trim() })),
+  };
+});
+
+// Ajusta a data inicial ao dia actual
+const TODAY = new Date().toISOString().split('T')[0];
+
+let activeView   = 'agenda';
+let activeDate   = TODAY;
+let activeCinemas = new Set();
+let filmesSort   = 'data'; // 'data' | 'rating'
+let leafletMap   = null;
+
+// ── HELPERS ───────────────────────────────────────────────────────────────────
+
+const PT_DAYS   = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+const PT_MONTHS = ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+
+function getDates() {
+  const start = new Date(TODAY + 'T00:00:00');
+  return Array.from({length: 12}, (_, i) => {
+    const d = new Date(start);
+    d.setDate(start.getDate() + i);
+    return {
+      value:  d.toISOString().split('T')[0],
+      name:   PT_DAYS[d.getDay()],
+      num:    d.getDate(),
+      month:  PT_MONTHS[d.getMonth()],
+      today:  i === 0
+    };
+  });
+}
+
+function cinema(id) { return CINEMAS.find(c => c.id === id) || {}; }
+
+function movieMeta(m) {
+  const parts = [];
+  if (m.director) parts.push(m.director);
+  if (m.year)     parts.push(m.year);
+  if (m.duration) parts.push(m.duration + 'min');
+  if (m.rating)   parts.push('★ ' + m.rating.toFixed(1));
+  return parts.join(' · ') || '—';
+}
+
+function cinemaOk(cid) {
+  return activeCinemas.size === 0 || activeCinemas.has(cid);
+}
+
+function sessionCount(movie) {
+  return movie.sessions.filter(s => cinemaOk(s.cinema)).length;
+}
+
+// ── RENDER DATE BAR ───────────────────────────────────────────────────────────
+
+function renderDateBar() {
+  document.getElementById('dateBar').innerHTML =
+    getDates().map(d => `
+      <button class="date-chip ${d.value === activeDate ? 'active' : ''}"
+              onclick="setDate('${d.value}')">
+        <span class="dn">${d.name}</span>
+        <span class="dd">${d.num}</span>
+        <span class="dm">${d.month}</span>
+      </button>
+    `).join('');
+}
+
+// ── RENDER FILTER BAR ─────────────────────────────────────────────────────────
+
+function renderFilterBar() {
+  // Só mostra cinemas que têm sessões nos dados actuais
+  const activeCinemaIds = new Set(MOVIES.flatMap(m => m.sessions.map(s => s.cinema)));
+  const visibleCinemas  = CINEMAS.filter(c => activeCinemaIds.has(c.id));
+
+  document.getElementById('filterBar').innerHTML =
+    `<span class="filter-label">Cinema</span>` +
+    visibleCinemas.map(c => {
+      const on = activeCinemas.has(c.id);
+      return `
+        <button class="cinema-chip ${on ? 'active' : ''}"
+                style="${on ? `color:${c.color};border-color:${c.color}` : ''}"
+                onclick="toggleCinema('${c.id}')">
+          <span class="dot" style="background:${c.color}"></span>
+          ${c.short}
+        </button>`;
+    }).join('');
+}
+
+// ── RENDER AGENDA ─────────────────────────────────────────────────────────────
+
+function renderAgenda() {
+  let html = '';
+
+  for (const d of getDates()) {
+    let sessions = [];
+    for (const m of MOVIES) {
+      for (const s of m.sessions) {
+        if (s.date === d.value && cinemaOk(s.cinema))
+          sessions.push({ ...s, movie: m });
+      }
+    }
+    if (sessions.length === 0) continue;
+    sessions.sort((a, b) => a.time.localeCompare(b.time));
+
+    html += `
+      <div class="agenda-day">
+        <div class="day-header">
+          <span class="dname">${d.name}</span>
+          <span class="ddate ${d.today ? 'today' : ''}">${d.num} ${d.month}</span>
+          <span class="dcount">${sessions.length} sessões</span>
+        </div>
+        <div class="sessions-list">
+          ${sessions.map(s => {
+            const c = cinema(s.cinema);
+            return `
+              <div class="session-row" onclick="openModal('${s.movie.id}')">
+                <span class="stime">${s.time}</span>
+                <div class="smovie">
+                  <span class="stitle">${s.movie.title}</span>
+                  <span class="smeta">${movieMeta(s.movie)}</span>
+                </div>
+                <div class="scinema">
+                  <span class="cdot" style="background:${c.color}"></span>
+                  ${c.short}
+                </div>
+              </div>`;
+          }).join('')}
+        </div>
+      </div>`;
+  }
+
+  document.getElementById('main').innerHTML = html || '<div class="empty">Sem sessões disponíveis.</div>';
+}
+
+// ── RENDER FILMES ─────────────────────────────────────────────────────────────
+
+function nextSession(movie) {
+  // Data+hora da próxima sessão futura
+  const now = TODAY;
+  const future = movie.sessions
+    .filter(s => cinemaOk(s.cinema) && s.date >= now)
+    .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
+  return future[0] ?? null;
+}
+
+function renderFilmes() {
+  let movies = MOVIES.filter(m => sessionCount(m) > 0);
+
+  if (filmesSort === 'rating') {
+    movies = [...movies].sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
+  } else {
+    // Ordena pela próxima sessão mais próxima
+    movies = [...movies].sort((a, b) => {
+      const sa = nextSession(a), sb = nextSession(b);
+      if (!sa && !sb) return 0;
+      if (!sa) return 1;
+      if (!sb) return -1;
+      return (sa.date + sa.time).localeCompare(sb.date + sb.time);
+    });
+  }
+
+  document.getElementById('main').innerHTML = `
+    <div class="sort-bar">
+      <span class="sort-label">Ordenar</span>
+      <button class="sort-btn ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">Próxima sessão</button>
+      <button class="sort-btn ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">Melhor rating ★</button>
+    </div>
+    <div class="movies-grid">
+      ${movies.map(m => `
+        <div class="movie-card" onclick="openModal('${m.id}')">
+          <div class="movie-poster">
+            <div class="poster-bg" style="${m.poster
+              ? `background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 60%), url('${m.poster}') center/cover no-repeat`
+              : `background:${m.bg}`}">
+              ${m.poster ? '' : '<div class="poster-overlay"></div>'}
+              <span class="poster-title">${m.title}</span>
+              <span class="poster-dir">${m.director ?? ''}</span>
+            </div>
+          </div>
+          <div class="movie-foot">
+            <div class="genres">
+              ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag">${g}</span>`).join('')}
+              ${m.rating ? `<span class="genre-tag" style="background:var(--accent);color:var(--bg)">★ ${m.rating.toFixed(1)}</span>` : ''}
+            </div>
+            <span class="session-pill">Ver sessões</span>
+          </div>
+        </div>`).join('')}
+    </div>`;
+}
+
+// ── RENDER CINEMAS ────────────────────────────────────────────────────────────
+
+function initCinemaMap() {
+  if (leafletMap) { leafletMap.remove(); leafletMap = null; }
+  const el = document.getElementById('cinema-map');
+  if (!el || typeof L === 'undefined') return;
+
+  leafletMap = L.map('cinema-map', {
+    center: [38.727, -9.148],
+    zoom: 13,
+    zoomControl: true,
+    scrollWheelZoom: false,
+  });
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19,
+  }).addTo(leafletMap);
+
+  // Count total sessions per cinema
+  const sessionCounts = {};
+  for (const m of MOVIES) {
+    for (const s of m.sessions) {
+      sessionCounts[s.cinema] = (sessionCounts[s.cinema] || 0) + 1;
+    }
+  }
+
+  for (const c of CINEMAS) {
+    if (!c.lat) continue;
+    const count = sessionCounts[c.id] ?? 0;
+
+    const icon = L.divIcon({
+      className: '',
+      html: `<div style="width:16px;height:16px;border-radius:50%;background:${c.color};border:2.5px solid #fff;box-shadow:0 2px 8px rgba(0,0,0,0.25);cursor:pointer"></div>`,
+      iconSize: [16, 16],
+      iconAnchor: [8, 8],
+      popupAnchor: [0, -12],
+    });
+
+    const linkBtn = c.url
+      ? `<a href="${c.url}" target="_blank" rel="noopener"
+            style="display:inline-block;margin-top:8px;padding:5px 12px;border-radius:5px;background:${c.color};color:#fff;font-size:11px;font-weight:700;text-decoration:none;letter-spacing:0.3px">
+           Abrir site ↗
+         </a>`
+      : '';
+
+    const popupHtml = `
+      <div style="font-family:'Space Grotesk',sans-serif;padding:6px 2px;min-width:190px">
+        <div style="display:flex;align-items:center;gap:7px;margin-bottom:6px">
+          <span style="width:10px;height:10px;border-radius:50%;background:${c.color};flex-shrink:0;display:inline-block"></span>
+          <span style="font-size:14px;font-weight:700;color:#0a0a0a;line-height:1.2">${c.name}</span>
+        </div>
+        <div style="font-size:12px;color:#666;margin-bottom:4px;line-height:1.4">${c.address}</div>
+        <div style="font-size:11px;color:#999">${count > 0 ? `${count} sessões programadas` : 'Sem sessões'}</div>
+        ${linkBtn}
+      </div>`;
+
+    L.marker([c.lat, c.lng], { icon })
+      .addTo(leafletMap)
+      .bindPopup(popupHtml, { maxWidth: 260, closeButton: false });
+  }
+
+  leafletMap.invalidateSize();
+}
+
+function renderCinemas() {
+  let html = '<div id="cinema-map"></div>';
+
+  for (const c of CINEMAS) {
+    if (!cinemaOk(c.id)) continue;
+
+    let sessions = [];
+    for (const m of MOVIES) {
+      for (const s of m.sessions) {
+        if (s.cinema === c.id) sessions.push({ ...s, movie: m });
+      }
+    }
+    if (sessions.length === 0) continue;
+    sessions.sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
+
+    html += `
+      <div class="cinema-section">
+        <div class="cinema-header">
+          <span class="chball" style="background:${c.color}"></span>
+          <span class="chname">${c.name}</span>
+          <span class="chzone">${c.zone}</span>
+        </div>
+        <div class="sessions-list">
+          ${sessions.map(s => {
+            const dateObj = new Date(s.date);
+            const label = `${PT_DAYS[dateObj.getDay()]} ${dateObj.getDate()} ${PT_MONTHS[dateObj.getMonth()]}`;
+            return `
+              <div class="session-row">
+                <span class="stime">${s.time}</span>
+                <div class="smovie">
+                  <span class="stitle">${s.movie.title}</span>
+                  <span class="smeta">${movieMeta(s.movie)}</span>
+                </div>
+                <div class="scinema" style="color:var(--text-3)">
+                  ${label}
+                </div>
+              </div>`;
+          }).join('')}
+        </div>
+      </div>`;
+  }
+
+  document.getElementById('main').innerHTML = html;
+  setTimeout(initCinemaMap, 0);
+}
+
+// ── MODAL ─────────────────────────────────────────────────────────────────────
+
+function openModal(id) {
+  const m = MOVIES.find(x => String(x.id) === String(id));
+  if (!m) return;
+
+  // Poster
+  const posterEl = document.getElementById('modalPoster');
+  if (m.poster) {
+    posterEl.innerHTML = `<img src="${m.poster}" alt="${m.title}">`;
+  } else {
+    posterEl.innerHTML = `<div class="modal-poster-fallback" style="background:${m.bg}"></div>`;
+  }
+
+  // Título e meta
+  document.getElementById('modalTitle').textContent = m.title;
+  document.getElementById('modalMeta').textContent = movieMeta(m);
+
+  // Géneros
+  const genres = (m.genres ?? []).slice(0,3);
+  document.getElementById('modalGenres').innerHTML =
+    genres.map(g => `<span class="genre-tag">${g}</span>`).join('');
+
+  // Descrição
+  const plotEl = document.getElementById('modalPlot');
+  plotEl.textContent = m.plot ?? '';
+  plotEl.style.display = m.plot ? '' : 'none';
+
+  // Sessões
+  const sessions = m.sessions
+    .filter(s => s.date >= TODAY)
+    .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
+
+  document.getElementById('modalSessionsList').innerHTML = sessions.map(s => {
+    const d = new Date(s.date + 'T00:00:00');
+    const label = s.date === TODAY
+      ? `Hoje`
+      : `${PT_DAYS[d.getDay()]} ${d.getDate()} ${PT_MONTHS[d.getMonth()]}`;
+    const c = cinema(s.cinema);
+    return `
+      <div class="modal-session-row">
+        <span class="modal-sdate">${label}</span>
+        <span class="modal-stime">${s.time}</span>
+        <span class="modal-scinema">
+          <span class="dot" style="background:${c.color ?? '#888'}"></span>
+          ${c.name ?? s.cinema}
+        </span>
+      </div>`;
+  }).join('');
+
+  document.getElementById('modalOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function handleOverlayClick(e) {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+}
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ── DISPATCH ──────────────────────────────────────────────────────────────────
+
+function render() {
+  renderDateBar();
+  renderFilterBar();
+
+  const datebar = document.getElementById('dateBar');
+  datebar.style.display = activeView === 'agenda' ? 'flex' : 'none';
+
+  if (activeView === 'agenda')  renderAgenda();
+  if (activeView === 'filmes')  renderFilmes();
+  if (activeView === 'cinemas') renderCinemas();
+
+  document.querySelectorAll('nav button').forEach((btn, i) => {
+    btn.classList.toggle('active', ['agenda','filmes','cinemas'][i] === activeView);
+  });
+}
+
+function setView(v) {
+  if (v !== 'cinemas' && leafletMap) { leafletMap.remove(); leafletMap = null; }
+  activeView = v;
+  render();
+}
+function setDate(d)  { activeDate = d; render(); }
+function setSort(s)  { filmesSort = s; renderFilmes(); }
+function toggleCinema(id) {
+  activeCinemas.has(id) ? activeCinemas.delete(id) : activeCinemas.add(id);
+  render();
+}
+
+render();
+</script>
+</body>
+</html>
