@@ -1178,14 +1178,8 @@ function openModal(id) {
       ? `Hoje`
       : `${PT_DAYS[d.getDay()]} ${d.getDate()} ${PT_MONTHS[d.getMonth()]}`;
     const c = cinema(s.cinema);
-    const calArgs = [
-      JSON.stringify(m.title),
-      JSON.stringify(s.date),
-      JSON.stringify(s.time),
-      m.duration || 120,
-      JSON.stringify(c.name ?? s.cinema),
-      JSON.stringify(c.address ?? ''),
-    ].join(',');
+    const esc = v => JSON.stringify(String(v ?? '')).replace(/"/g, '&quot;');
+    const calArgs = [esc(m.title), esc(s.date), esc(s.time), m.duration||120, esc(c.name??s.cinema), esc(c.address??'')].join(',');
     return `
       <div class="modal-session-row">
         <span class="modal-sdate">${label}</span>
@@ -1234,11 +1228,8 @@ function addToCalendar(title, date, time, durationMin, cinemaName, cinemaAddress
 
   const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
   const url  = URL.createObjectURL(blob);
-  const a    = document.createElement('a');
-  a.href     = url;
-  a.download = `${title.replace(/[^a-z0-9]/gi, '_')}.ics`;
-  a.click();
-  URL.revokeObjectURL(url);
+  window.open(url, '_blank');
+  setTimeout(() => URL.revokeObjectURL(url), 3000);
 }
 
 function closeModal() {
