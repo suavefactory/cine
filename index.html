@@ -476,6 +476,23 @@
     }
     .modal-scinema .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
 
+    .modal-cal-btn {
+      margin-left: auto;
+      flex-shrink: 0;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 3px 9px;
+      font-family: inherit;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-2);
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .modal-cal-btn:hover { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
     /* ── CINEMAS VIEW ───────────────────────────────────── */
 
     #cinema-map {
@@ -1161,6 +1178,14 @@ function openModal(id) {
       ? `Hoje`
       : `${PT_DAYS[d.getDay()]} ${d.getDate()} ${PT_MONTHS[d.getMonth()]}`;
     const c = cinema(s.cinema);
+    const calArgs = [
+      JSON.stringify(m.title),
+      JSON.stringify(s.date),
+      JSON.stringify(s.time),
+      m.duration || 120,
+      JSON.stringify(c.name ?? s.cinema),
+      JSON.stringify(c.address ?? ''),
+    ].join(',');
     return `
       <div class="modal-session-row">
         <span class="modal-sdate">${label}</span>
@@ -1169,11 +1194,51 @@ function openModal(id) {
           <span class="dot" style="background:${c.color ?? '#888'}"></span>
           ${c.name ?? s.cinema}
         </span>
+        <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">+ Calendário</button>
       </div>`;
   }).join('');
 
   document.getElementById('modalOverlay').classList.add('open');
   document.body.style.overflow = 'hidden';
+}
+
+function addToCalendar(title, date, time, durationMin, cinemaName, cinemaAddress) {
+  const [h, m] = time.split(':').map(Number);
+  const dur = durationMin || 120;
+  const pad = n => String(n).padStart(2, '0');
+
+  const startDate = new Date(date + 'T' + pad(h) + ':' + pad(m) + ':00');
+  const endDate   = new Date(startDate.getTime() + dur * 60000);
+
+  const fmt = d =>
+    `${d.getFullYear()}${pad(d.getMonth()+1)}${pad(d.getDate())}T${pad(d.getHours())}${pad(d.getMinutes())}00`;
+
+  const uid = `cine-${date}-${time.replace(':','')}-${Math.random().toString(36).slice(2)}@cinelisboa`;
+  const location = cinemaAddress ? `${cinemaName}\\, ${cinemaAddress}` : cinemaName;
+
+  const ics = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//Cine Lisboa//PT',
+    'CALSCALE:GREGORIAN',
+    'METHOD:PUBLISH',
+    'BEGIN:VEVENT',
+    `UID:${uid}`,
+    `DTSTART:${fmt(startDate)}`,
+    `DTEND:${fmt(endDate)}`,
+    `SUMMARY:${title}`,
+    `LOCATION:${location}`,
+    'END:VEVENT',
+    'END:VCALENDAR',
+  ].join('\r\n');
+
+  const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = `${title.replace(/[^a-z0-9]/gi, '_')}.ics`;
+  a.click();
+  URL.revokeObjectURL(url);
 }
 
 function closeModal() {
