@@ -878,6 +878,7 @@ function movieMeta(m) {
   if (m.director) parts.push(m.director);
   if (m.year)     parts.push(m.year);
   if (m.duration) parts.push(m.duration + 'min');
+  if (m.country)  parts.push(m.country);
   if (m.rating)   parts.push('★ ' + m.rating.toFixed(1));
   return parts.join(' · ') || '—';
 }

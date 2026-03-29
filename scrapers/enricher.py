@@ -359,7 +359,17 @@ def lbxd_lookup(title, year=None):
     if alias_slug:
         slugs_to_try.append(alias_slug)
 
-    # 2. Slug gerado do título limpo + variações de ano (±2 para diferenças de estreia)
+    # 2. Título entre parênteses = língua original (ex: "A Alegria (La gioia)" → "la-gioia")
+    paren_m = re.search(r'\(([^)]+)\)', title)
+    if paren_m:
+        paren_slug = to_slug(paren_m.group(1).strip())
+        if paren_slug and year:
+            for dy in [0, -1, -2]:
+                slugs_to_try.append(f"{paren_slug}-{year + dy}")
+        if paren_slug:
+            slugs_to_try.append(paren_slug)
+
+    # 3. Slug gerado do título limpo + variações de ano (±2 para diferenças de estreia)
     auto = to_slug(clean)
     if auto:
         if year:
@@ -409,19 +419,36 @@ def omdb_lookup(title, year=None, director=None):
     no_acc   = strip_accents(clean)
     alias    = OMDB_ALIASES.get(clean.upper()) or OMDB_ALIASES.get(no_acc.upper())
 
+    # Título entre parênteses = título original (ex: "A Alegria (La gioia)" → "La gioia")
+    paren_m = re.search(r'\(([^)]+)\)', title)
+    paren_title = paren_m.group(1).strip() if paren_m else None
+
     attempts = []
-    if year:
-        # Tenta o ano exacto e os 2 anos anteriores (diferenças de estreia)
-        for dy in [0, -1, -2]:
-            attempts.append((clean, year + dy))
-            if no_acc != clean:
-                attempts.append((no_acc, year + dy))
-        if alias:
+    # Se existe título original (parênteses), usa-o e NÃO faz fallback para o título
+    # traduzido (evita encontrar um filme diferente com título semelhante noutra língua)
+    if paren_title:
+        if year:
             for dy in [0, -1, -2]:
-                attempts.append((alias, year + dy))
-        attempts.append((clean, None))
-    attempts += [(clean, None), (no_acc, None)]
-    if alias:  attempts.append((alias, None))
+                attempts.append((paren_title, year + dy))
+        attempts.append((paren_title, None))
+        if alias:
+            if year:
+                for dy in [0, -1, -2]:
+                    attempts.append((alias, year + dy))
+            attempts.append((alias, None))
+    else:
+        if year:
+            # Tenta o ano exacto e os 2 anos anteriores (diferenças de estreia)
+            for dy in [0, -1, -2]:
+                attempts.append((clean, year + dy))
+                if no_acc != clean:
+                    attempts.append((no_acc, year + dy))
+            if alias:
+                for dy in [0, -1, -2]:
+                    attempts.append((alias, year + dy))
+            attempts.append((clean, None))
+        attempts += [(clean, None), (no_acc, None)]
+        if alias:  attempts.append((alias, None))
 
     seen, unique = set(), []
     for a in attempts:
@@ -513,6 +540,8 @@ def enrich(movies):
                 movie["genres"] = [g.strip() for g in omdb["Genre"].split(",")][:3]
             if not movie.get("plot") and omdb.get("Plot") not in (None, "N/A"):
                 movie["plot"] = omdb["Plot"]
+            if not movie.get("country") and omdb.get("Country") not in (None, "N/A"):
+                movie["country"] = omdb["Country"]
 
     if changed:
         save_cache(cache)

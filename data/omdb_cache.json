@@ -1244,13 +1244,6 @@
       "Response": "True"
     }
   },
-  "Nostalgia (1983)|1983": {
-    "lbxd": {
-      "rating": 4.28,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431"
-    },
-    "omdb": null
-  },
   "Fairytale|2022": {
     "lbxd": {
       "rating": 3.38,
@@ -3278,163 +3271,12 @@
     },
     "omdb": null
   },
-  "Três Vezes Adeus (Tre ciotole) | SESSÃO DE ENCERRAMENTO|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "ROBERT BEAVERS: PROGRAMA 3|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "ROBERT BEAVERS: PROGRAMA 4|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "ROBERT BEAVERS: PROGRAMA 5|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "ROBERT BEAVERS: PROGRAMA 6|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "ONE A.M. | THE ELECTRIC HOUSE | SAUTE MA VILLE|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "7 BALAS PARA SELMA|1967": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Seven Bullets for Selma",
-      "Year": "1967",
-      "Rated": "N/A",
-      "Released": "03 Nov 1967",
-      "Runtime": "100 min",
-      "Genre": "Action, Thriller",
-      "Director": "António de Macedo",
-      "Writer": "Alexandre O'Neill, António de Macedo",
-      "Actors": "Florbela Queiroz, Sinde Filipe, Tomás de Macedo",
-      "Plot": "World peace is at stake if a spy-ring obtains the electronic device",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg1ODgzYTEtNDlhNS00ZWQ2LTlmMmEtMzkwZmQ5MGU0NWJhXkEyXkFqcGdeQXVyNzQ2ODYyODA@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.5",
-      "imdbVotes": "15",
-      "imdbID": "tt0062250",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "VISITA OU MEMÓRIAS E CONFISSÕES|1982": {
     "lbxd": {
       "rating": 3.84,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/8/0/7/8/268078-visit-or-memories-and-confessions-0-500-0-750-crop.jpg?v=4de4364ca6"
     },
     "omdb": null
-  },
-  "APPUNTI PER UN ROMANZO SULL’IMMONDEZZA (filme inacabado)|1970": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/5/4/3/9/855439-appunti-per-un-romanzo-sull-immondezza-0-500-0-750-crop.jpg?v=40a5ff5ce1"
-    },
-    "omdb": null
-  },
-  "Histórias do Vale Bom|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "O Massacre de Gilles de Rais|2025": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "O Massacre de Gilles de Rais",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "24 Sep 2025",
-      "Runtime": "N/A",
-      "Genre": "Drama",
-      "Director": "Juan Branco",
-      "Writer": "Juan Branco",
-      "Actors": "João Arrais, Inês Pires Tavares",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY1MDYwYzctNjBiMC00YTdhLWJjNmUtMWYyYTlhZmFmZDEwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt37007132",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "A Uma Hora Incerta|2024": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/6/5/8/7/286587-at-an-uncertain-time-0-500-0-750-crop.jpg?v=fab6edcc9f"
-    },
-    "omdb": null
-  },
-  "Variações de Casanova|2014": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "O Barqueiro|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "O Diário do Realizador|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "SINAIS DE VIDA|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Sinais de Vida",
-      "Year": "2013–",
-      "Rated": "N/A",
-      "Released": "14 Jan 2013",
-      "Runtime": "N/A",
-      "Genre": "Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Dalila Carmo, Joaquim Horta, São José Correia",
-      "Plot": "The work and lives of doctors and nurses in a Portuguese hospital.",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "1 win & 3 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5MWY3MTItMjY0Ny00MTQzLWExNDgtNjJhMTU0NGE2NDU2XkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.6/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.6",
-      "imdbVotes": "17",
-      "imdbID": "tt2567816",
-      "Type": "series",
-      "totalSeasons": "1",
-      "Response": "True"
-    }
   },
   "Entroncamento|2025": {
     "lbxd": {
@@ -3522,10 +3364,6 @@
       "Response": "True"
     }
   },
-  "Mr Nobody Contra Putin|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "LIÇÕES DA ESCURIDÃO|None": {
     "lbxd": {
       "rating": 4.16,
@@ -3567,10 +3405,6 @@
       "Website": "N/A",
       "Response": "True"
     }
-  },
-  "A Pequena Amélie|None": {
-    "lbxd": null,
-    "omdb": null
   },
   "AGUIRRE, A CÓLERA DE DEUS|None": {
     "lbxd": {
@@ -3702,60 +3536,10 @@
       "Response": "True"
     }
   },
-  "IL CORTO|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Il lungo, il corto, il gatto",
-      "Year": "1967",
-      "Rated": "N/A",
-      "Released": "03 May 1967",
-      "Runtime": "90 min",
-      "Genre": "Comedy",
-      "Director": "Lucio Fulci",
-      "Writer": "Gian Paolo Callegari, Roberto Gianviti, Marino Girolami",
-      "Actors": "Franco Franchi, Ciccio Ingrassia, Ivy Holzer",
-      "Plot": "Two dim-witted servants to an elderly, wealthy woman learn that they are to inherent the late woman's money, on the condition that they have to care for her rambunctious pet cat, which turns it out is not easy to do.",
-      "Language": "Italian",
-      "Country": "Italy",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk0ZTk2MGMtNjFmMi00MTg4LWI1ZDMtZTA4ZjkxZWM1Yzk0XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.3",
-      "imdbVotes": "143",
-      "imdbID": "tt0061925",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "INTERNATIONAL OCEAN FILM TOUR Volume 12|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "European Outdoor Film Tour 25|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "La valle dei sorrisi|None": {
     "lbxd": {
       "rating": 3.55,
       "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/3/4/5/985345-the-holy-boy-0-500-0-750-crop.jpg?v=0e8bd81d97"
-    },
-    "omdb": null
-  },
-  "Camilleri 100|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/7/1/9/2/1417192-camilleri-100-0-500-0-750-crop.jpg?v=05636474e8"
     },
     "omdb": null
   },
@@ -3791,52 +3575,6 @@
       "Website": "N/A",
       "Response": "True"
     }
-  },
-  "Mediterrâneo (Mediterraneo)|None": {
-    "lbxd": {
-      "rating": 3.82,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/0/5/26305-mediterraneo-0-500-0-750-crop.jpg?v=061be62eec"
-    },
-    "omdb": {
-      "Title": "Mediterraneo",
-      "Year": "1991",
-      "Rated": "R",
-      "Released": "31 Jan 1991",
-      "Runtime": "96 min",
-      "Genre": "Comedy, Drama, War",
-      "Director": "Gabriele Salvatores",
-      "Writer": "Enzo Monteleone",
-      "Actors": "Diego Abatantuono, Claudio Bigagli, Giuseppe Cederna",
-      "Plot": "In WW2, an Italian Army unit of misfits occupies an isolated non-strategic Greek island for the duration of the war.",
-      "Language": "Italian, English, Greek, Turkish",
-      "Country": "Italy",
-      "Awards": "Won 1 Oscar. 9 wins & 17 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYzY5OTktZDg3OC00NDA0LTlhYzAtNTE3ZmU1YWU1NWUwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "80%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.4",
-      "imdbVotes": "16,675",
-      "imdbID": "tt0102426",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$4,532,791",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Sotto le nuvole|None": {
-    "lbxd": null,
-    "omdb": null
   },
   "La vita da grandi|None": {
     "lbxd": {
@@ -3977,71 +3715,6 @@
       "Response": "True"
     }
   },
-  "A Alegria (La gioia)|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "A Alegria que Contagia",
-      "Year": "2010",
-      "Rated": "N/A",
-      "Released": "19 Aug 2010",
-      "Runtime": "N/A",
-      "Genre": "Short",
-      "Director": "Manuela Fonseca, Enrique Nasseh Freitas, Pedro Goifman",
-      "Writer": "Manuela Fonseca, Enrique Nasseh Freitas, Pedro Goifman",
-      "Actors": "Manuela Fonseca, Enrique Nasseh Freitas, Pedro Goifman",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Brazil",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU5ZWE2NTgtMzRkMy00YTIyLThlZTktZmE2NWQ3ZDFmZTBmXkEyXkFqcGdeQXVyMTI3NjQwNTg2._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt13727712",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Un anno di scuola|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Un anno di scuola",
-      "Year": "1977",
-      "Rated": "N/A",
-      "Released": "19 Aug 1979",
-      "Runtime": "120 min",
-      "Genre": "Drama",
-      "Director": "Franco Giraldi",
-      "Writer": "Lucio Battistrada, Franco Giraldi, Lucio Guzzinati",
-      "Actors": "Mario Adorf, Laura Lenzi, Stefano Patrizi",
-      "Plot": "The story, released the first time in 1929, tells the story of a girl, Edda Marty, who enters (the only woman) to be part of a class of boys, to attend the last year of high school, 8th gymnasium in Trieste. Edda is a wild child, ...",
-      "Language": "Italian",
-      "Country": "Italy",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.1",
-      "imdbVotes": "25",
-      "imdbID": "tt0074145",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "Gioia mia|None": {
     "lbxd": {
       "rating": 3.48,
@@ -4108,41 +3781,6 @@
       "Response": "True"
     }
   },
-  "White Lies|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/8/9/0/87890-white-lies-0-500-0-750-crop.jpg?v=18bac19aa4"
-    },
-    "omdb": {
-      "Title": "White Lies",
-      "Year": "2024–",
-      "Rated": "N/A",
-      "Released": "07 Mar 2024",
-      "Runtime": "N/A",
-      "Genre": "Crime, Drama, Thriller",
-      "Director": "N/A",
-      "Writer": "Sean Steinberg",
-      "Actors": "Brendon Daniels, Kiroshan Naidoo, Natalie Dormer",
-      "Plot": "When investigative journalist Edie Hansen's estranged brother is murdered in his home, she's drawn into the dark underbelly of Cape Town. With her brother's children as prime suspects, she clashes with veteran detective Forty Bell.",
-      "Language": "English",
-      "Country": "South Africa",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE2NTMzZTYtNjY2Yy00OTQ0LTg5ZTYtMjQ4ZTkxOTU3ZDg4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.1",
-      "imdbVotes": "596",
-      "imdbID": "tt26925240",
-      "Type": "series",
-      "totalSeasons": "1",
-      "Response": "True"
-    }
-  },
   "GEN_|None": {
     "lbxd": {
       "rating": 3.1,
@@ -4184,72 +3822,6 @@
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/6/3/3/8/1016338-la-citta-proibita-0-500-0-750-crop.jpg?v=f5967ed1a0"
     },
     "omdb": null
-  },
-  "Arsa|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/7/5/0/4/1247504-arsa-0-500-0-750-crop.jpg?v=700cfcbf98"
-    },
-    "omdb": {
-      "Title": "Arsa",
-      "Year": "2024",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "93 min",
-      "Genre": "Drama",
-      "Director": "Iacopo Bedogni, Masbedo",
-      "Writer": "Iacopo Bedogni, Nicolò Massazza, Giorgio Vasta",
-      "Actors": "Gala Martinucci, Jacopo Olmo Antinori, Lino Musella",
-      "Plot": "Eighteen-year-old Arsa lives at the edge of the world. The island she loves and has always lived on is a natural reserve, and her job is to collect the trash that the sea has washed up. Inspired by her father's sculptures, Arsa re...",
-      "Language": "Italian",
-      "Country": "Italy",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmViNjUwMmEtNTRjNi00N2RhLWIxYjUtYTYwYTcwNGNiNDczXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt33484317",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Una lunghissima ombra|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/8/5/3/1406853-una-lunghissima-ombra-0-500-0-750-crop.jpg?v=9525e6c160"
-    },
-    "omdb": {
-      "Title": "Una lunghissima ombra",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "12 May 2025",
-      "Runtime": "67 min",
-      "Genre": "Documentary",
-      "Director": "Andrea Laszlo De Simone",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "None",
-      "Country": "Italy",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt37108948",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
   },
   "La vita va così|None": {
     "lbxd": {
@@ -4334,44 +3906,6 @@
       "Response": "True"
     }
   },
-  "Buen camino|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/6/4/5/4/606454-buen-camino-0-500-0-750-crop.jpg?v=c31d5f1076"
-    },
-    "omdb": {
-      "Title": "Buen Camino",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "25 Dec 2025",
-      "Runtime": "90 min",
-      "Genre": "Comedy",
-      "Director": "Gennaro Nunziante",
-      "Writer": "Gennaro Nunziante, Checco Zalone",
-      "Actors": "Checco Zalone, Beatriz Arjona, Letizia Arnò",
-      "Plot": "A father leaves his comfort zone to search for his missing daughter on the Camino de Santiago. During his pilgrimage, amid blisters and unexpected encounters, he discovers much more than mere clues: he rediscovers himself.",
-      "Language": "Italian",
-      "Country": "Italy",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFhZTM0MTItNDY4YS00ZTdlLTk4MmItYjJlYmU1OTg2ZGZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.4",
-      "imdbVotes": "2,705",
-      "imdbID": "tt38350059",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "5 CARD STUD|1968": {
     "lbxd": {
       "rating": 3.22,
@@ -4415,10 +3949,6 @@
       "rating": 3.0,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/7/1/4/5/567145-the-time-of-indifference-0-500-0-750-crop.jpg?v=539e405738"
     },
-    "omdb": null
-  },
-  "CEUX DE CHEZ NOUS + ITALIANAMERICAN|None": {
-    "lbxd": null,
     "omdb": null
   },
   "VAGHE STELLE DELL’ORSA…|1965": {
@@ -4474,10 +4004,6 @@
       "Response": "True"
     }
   },
-  "SOFT AND HARD (A SOFT CONVERSATION BETWEEN TWO FRIENDS ON A HARD SUBJECT) + JLG/JLG|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "QUE LE DIABLE NOUS EMPORTE|2018": {
     "lbxd": {
       "rating": 3.29,
@@ -4515,74 +4041,6 @@
       "imdbRating": "7.2",
       "imdbVotes": "216",
       "imdbID": "tt1289430",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "TRYING TO KISS THE MOON|1994": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/4/2/2/1/284221-trying-to-kiss-the-moon-0-500-0-750-crop.jpg?v=289a0e95b9"
-    },
-    "omdb": {
-      "Title": "Trying to Kiss the Moon",
-      "Year": "1994",
-      "Rated": "N/A",
-      "Released": "25 Nov 1996",
-      "Runtime": "95 min",
-      "Genre": "Documentary, Biography",
-      "Director": "Stephen Dwoskin",
-      "Writer": "Stephen Dwoskin",
-      "Actors": "Astley Harvey",
-      "Plot": "Stephen Dwoskin tells the double story on memory, bringing together the beauty of its documents and the sadness of its elusiveness. Extracts from the filmmaker's own films are collaged with photographs and bits of home movies, sti...",
-      "Language": "English",
-      "Country": "United Kingdom",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDI3MWU2MjctZTg3ZC00ZGZmLWIxMTgtOGRiNzI1MzY3ZjU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.0",
-      "imdbVotes": "40",
-      "imdbID": "tt0111505",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "PROJECTO GLOBAL|2026": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Projecto Global",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "31 Jan 2026",
-      "Runtime": "140 min",
-      "Genre": "Drama, Thriller",
-      "Director": "Ivo Ferreira",
-      "Writer": "Helder Beja, Ivo Ferreira",
-      "Actors": "Jani Zhao, Rodrigo Tomás, José Pimentão",
-      "Plot": "Follows members of far-left armed group FP25 in 1980s Lisbon as they live underground lives built on bank robberies and attacks while facing the perpetual threat of prison or death.",
-      "Language": "Portuguese",
-      "Country": "Luxembourg, Portugal",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFlNzA5ZTUtNmRlMC00ZDI1LTgwNTYtYjRiNTQxOWFjOTE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "18",
-      "imdbID": "tt37698048",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -4675,44 +4133,6 @@
       "Response": "True"
     }
   },
-  "CORLEONE|1978": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/7/1/5/123715-corleone-0-500-0-750-crop.jpg?v=73b538e1b4"
-    },
-    "omdb": {
-      "Title": "Corleone",
-      "Year": "1978",
-      "Rated": "R",
-      "Released": "10 Nov 1978",
-      "Runtime": "108 min",
-      "Genre": "Crime, Thriller",
-      "Director": "Pasquale Squitieri",
-      "Writer": "Orazio Barrese, Massimo De Rita, Dino Maiuri",
-      "Actors": "Giuliano Gemma, Claudia Cardinale, Francisco Rabal",
-      "Plot": "Two friends grow up together in the Sicily of the '50s. Two different destiny, two different way of life. Could their friendship survive to the mafia shadow?",
-      "Language": "Italian",
-      "Country": "Italy",
-      "Awards": "2 wins",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RjMjNjZGMtOGRlNC00ZGQ3LTg2YzEtZDhhZjQ4OGYwNTg2XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.8/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.8",
-      "imdbVotes": "264",
-      "imdbID": "tt0075879",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "NO HOME MOVIE|2015": {
     "lbxd": {
       "rating": 3.81,
@@ -4758,10 +4178,6 @@
       "Website": "N/A",
       "Response": "True"
     }
-  },
-  "Mostra Essencial Werner Herzog|None": {
-    "lbxd": null,
-    "omdb": null
   },
   "Riefenstahl|None": {
     "lbxd": {
@@ -4809,56 +4225,10 @@
       "Response": "True"
     }
   },
-  "As Provadoras de Hitler (Le assaggiatrici)|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Giulio Regeni – Tutto il male del mondo|None": {
     "lbxd": {
       "rating": 3.74,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/4/6/7/5/1474675-giulio-regeni-tutto-il-male-del-mondo-0-500-0-750-crop.jpg?v=377bbe601e"
-    },
-    "omdb": null
-  },
-  "Breve História de Amor (Breve storia d’amore)|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Una breve historia de amor",
-      "Year": "2014",
-      "Rated": "N/A",
-      "Released": "26 Mar 2015",
-      "Runtime": "78 min",
-      "Genre": "Comedy",
-      "Director": "Alan Nadal Piantini",
-      "Writer": "Alan Nadal Piantini",
-      "Actors": "Isaac Saviñón, Alba García, Angela Bernal",
-      "Plot": "Martín, an irresponsible creative director with a big ego, falls in love with Inés, a disciplined account executive who will turn his world upside down.",
-      "Language": "Spanish",
-      "Country": "Dominican Republic",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODgxMjk0MTU4NF5BMl5BanBnXkFtZTgwMzQxNTE1NDE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.6/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.6",
-      "imdbVotes": "26",
-      "imdbID": "tt3762674",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Campo de Batalha (Campo di battaglia)|None": {
-    "lbxd": {
-      "rating": 2.9,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/9/3/1061393-battleground-0-500-0-750-crop.jpg?v=48c757f1ea"
     },
     "omdb": null
   },
@@ -4891,13 +4261,6 @@
       "totalSeasons": "N/A",
       "Response": "True"
     }
-  },
-  "Cinco Segundos (Cinque secondi)|None": {
-    "lbxd": {
-      "rating": 3.36,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/2/3/6/1256236-cinque-secondi-0-500-0-750-crop.jpg?v=b3070125db"
-    },
-    "omdb": null
   },
   "Modì – Tre giorni sulle ali della follia|None": {
     "lbxd": {
@@ -5042,14 +4405,599 @@
     },
     "omdb": null
   },
-  "Marcel e Monsieur Pagnol|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Valor Sentimental|2025": {
     "lbxd": {
       "rating": 4.16,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/3/5/7/1013357-sentimental-value-2025-0-500-0-750-crop.jpg?v=e89e64a309"
+    },
+    "omdb": null
+  },
+  "IL CORTO|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Il lungo, il corto, il gatto",
+      "Year": "1967",
+      "Rated": "N/A",
+      "Released": "03 May 1967",
+      "Runtime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Lucio Fulci",
+      "Writer": "Gian Paolo Callegari, Roberto Gianviti, Marino Girolami",
+      "Actors": "Franco Franchi, Ciccio Ingrassia, Ivy Holzer",
+      "Plot": "Two dim-witted servants to an elderly, wealthy woman learn that they are to inherent the late woman's money, on the condition that they have to care for her rambunctious pet cat, which turns it out is not easy to do.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk0ZTk2MGMtNjFmMi00MTg4LWI1ZDMtZTA4ZjkxZWM1Yzk0XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "143",
+      "imdbID": "tt0061925",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "INTERNATIONAL OCEAN FILM TOUR Volume 12|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "European Outdoor Film Tour 25|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Camilleri 100|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/7/1/9/2/1417192-camilleri-100-0-500-0-750-crop.jpg?v=05636474e8"
+    },
+    "omdb": null
+  },
+  "Sotto le nuvole|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Un anno di scuola|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Un anno di scuola",
+      "Year": "1977",
+      "Rated": "N/A",
+      "Released": "19 Aug 1979",
+      "Runtime": "120 min",
+      "Genre": "Drama",
+      "Director": "Franco Giraldi",
+      "Writer": "Lucio Battistrada, Franco Giraldi, Lucio Guzzinati",
+      "Actors": "Mario Adorf, Laura Lenzi, Stefano Patrizi",
+      "Plot": "The story, released the first time in 1929, tells the story of a girl, Edda Marty, who enters (the only woman) to be part of a class of boys, to attend the last year of high school, 8th gymnasium in Trieste. Edda is a wild child, ...",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "25",
+      "imdbID": "tt0074145",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "White Lies|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/8/9/0/87890-white-lies-0-500-0-750-crop.jpg?v=18bac19aa4"
+    },
+    "omdb": {
+      "Title": "White Lies",
+      "Year": "2024–",
+      "Rated": "N/A",
+      "Released": "07 Mar 2024",
+      "Runtime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Sean Steinberg",
+      "Actors": "Brendon Daniels, Kiroshan Naidoo, Natalie Dormer",
+      "Plot": "When investigative journalist Edie Hansen's estranged brother is murdered in his home, she's drawn into the dark underbelly of Cape Town. With her brother's children as prime suspects, she clashes with veteran detective Forty Bell.",
+      "Language": "English",
+      "Country": "South Africa",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE2NTMzZTYtNjY2Yy00OTQ0LTg5ZTYtMjQ4ZTkxOTU3ZDg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "596",
+      "imdbID": "tt26925240",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
+  },
+  "Arsa|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/7/5/0/4/1247504-arsa-0-500-0-750-crop.jpg?v=700cfcbf98"
+    },
+    "omdb": {
+      "Title": "Arsa",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "93 min",
+      "Genre": "Drama",
+      "Director": "Iacopo Bedogni, Masbedo",
+      "Writer": "Iacopo Bedogni, Nicolò Massazza, Giorgio Vasta",
+      "Actors": "Gala Martinucci, Jacopo Olmo Antinori, Lino Musella",
+      "Plot": "Eighteen-year-old Arsa lives at the edge of the world. The island she loves and has always lived on is a natural reserve, and her job is to collect the trash that the sea has washed up. Inspired by her father's sculptures, Arsa re...",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmViNjUwMmEtNTRjNi00N2RhLWIxYjUtYTYwYTcwNGNiNDczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33484317",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Una lunghissima ombra|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/8/5/3/1406853-una-lunghissima-ombra-0-500-0-750-crop.jpg?v=9525e6c160"
+    },
+    "omdb": {
+      "Title": "Una lunghissima ombra",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "12 May 2025",
+      "Runtime": "67 min",
+      "Genre": "Documentary",
+      "Director": "Andrea Laszlo De Simone",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "None",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37108948",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Buen camino|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/6/4/5/4/606454-buen-camino-0-500-0-750-crop.jpg?v=c31d5f1076"
+    },
+    "omdb": {
+      "Title": "Buen Camino",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "25 Dec 2025",
+      "Runtime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Gennaro Nunziante",
+      "Writer": "Gennaro Nunziante, Checco Zalone",
+      "Actors": "Checco Zalone, Beatriz Arjona, Letizia Arnò",
+      "Plot": "A father leaves his comfort zone to search for his missing daughter on the Camino de Santiago. During his pilgrimage, amid blisters and unexpected encounters, he discovers much more than mere clues: he rediscovers himself.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFhZTM0MTItNDY4YS00ZTdlLTk4MmItYjJlYmU1OTg2ZGZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "2,705",
+      "imdbID": "tt38350059",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "ONE A.M. | THE ELECTRIC HOUSE | SAUTE MA VILLE|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "7 BALAS PARA SELMA|1967": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Seven Bullets for Selma",
+      "Year": "1967",
+      "Rated": "N/A",
+      "Released": "03 Nov 1967",
+      "Runtime": "100 min",
+      "Genre": "Action, Thriller",
+      "Director": "António de Macedo",
+      "Writer": "Alexandre O'Neill, António de Macedo",
+      "Actors": "Florbela Queiroz, Sinde Filipe, Tomás de Macedo",
+      "Plot": "World peace is at stake if a spy-ring obtains the electronic device",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg1ODgzYTEtNDlhNS00ZWQ2LTlmMmEtMzkwZmQ5MGU0NWJhXkEyXkFqcGdeQXVyNzQ2ODYyODA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "15",
+      "imdbID": "tt0062250",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "CEUX DE CHEZ NOUS + ITALIANAMERICAN|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "TRYING TO KISS THE MOON|1994": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/4/2/2/1/284221-trying-to-kiss-the-moon-0-500-0-750-crop.jpg?v=289a0e95b9"
+    },
+    "omdb": {
+      "Title": "Trying to Kiss the Moon",
+      "Year": "1994",
+      "Rated": "N/A",
+      "Released": "25 Nov 1996",
+      "Runtime": "95 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Stephen Dwoskin",
+      "Writer": "Stephen Dwoskin",
+      "Actors": "Astley Harvey",
+      "Plot": "Stephen Dwoskin tells the double story on memory, bringing together the beauty of its documents and the sadness of its elusiveness. Extracts from the filmmaker's own films are collaged with photographs and bits of home movies, sti...",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDI3MWU2MjctZTg3ZC00ZGZmLWIxMTgtOGRiNzI1MzY3ZjU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "40",
+      "imdbID": "tt0111505",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "PROJECTO GLOBAL|2026": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Projecto Global",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "31 Jan 2026",
+      "Runtime": "140 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Ivo Ferreira",
+      "Writer": "Helder Beja, Ivo Ferreira",
+      "Actors": "Jani Zhao, Rodrigo Tomás, José Pimentão",
+      "Plot": "Follows members of far-left armed group FP25 in 1980s Lisbon as they live underground lives built on bank robberies and attacks while facing the perpetual threat of prison or death.",
+      "Language": "Portuguese",
+      "Country": "Luxembourg, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFlNzA5ZTUtNmRlMC00ZDI1LTgwNTYtYjRiNTQxOWFjOTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "18",
+      "imdbID": "tt37698048",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "CORLEONE|1978": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/7/1/5/123715-corleone-0-500-0-750-crop.jpg?v=73b538e1b4"
+    },
+    "omdb": {
+      "Title": "Corleone",
+      "Year": "1978",
+      "Rated": "R",
+      "Released": "10 Nov 1978",
+      "Runtime": "108 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Pasquale Squitieri",
+      "Writer": "Orazio Barrese, Massimo De Rita, Dino Maiuri",
+      "Actors": "Giuliano Gemma, Claudia Cardinale, Francisco Rabal",
+      "Plot": "Two friends grow up together in the Sicily of the '50s. Two different destiny, two different way of life. Could their friendship survive to the mafia shadow?",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RjMjNjZGMtOGRlNC00ZGQ3LTg2YzEtZDhhZjQ4OGYwNTg2XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "264",
+      "imdbID": "tt0075879",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Uma Hora Incerta|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/6/5/8/7/286587-at-an-uncertain-time-0-500-0-750-crop.jpg?v=fab6edcc9f"
+    },
+    "omdb": null
+  },
+  "Histórias do Vale Bom|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Variações de Casanova|2014": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Barqueiro|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Diário do Realizador|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Mr Nobody Contra Putin|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Pequena Amélie|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Marcel e Monsieur Pagnol|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "As Provadoras de Hitler (Le assaggiatrici)|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Le assaggiatrici",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "27 Mar 2025",
+      "Runtime": "123 min",
+      "Genre": "Drama",
+      "Director": "Silvio Soldini",
+      "Writer": "Rosella Postorino, Doriana Leondeff, Silvio Soldini",
+      "Actors": "Elisa Schlott, Max Riemelt, Alma Hasun",
+      "Plot": "A women conscripted to be Adolf Hitler's food tasters.",
+      "Language": "German",
+      "Country": "Italy, Belgium, Switzerland",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhMDIwMzYtOTQ4MC00ZDI2LTk5ZjktOGI3NjdkYzdhNGQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "535",
+      "imdbID": "tt27811248",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mediterrâneo (Mediterraneo)|None": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/0/5/26305-mediterraneo-0-500-0-750-crop.jpg?v=061be62eec"
+    },
+    "omdb": {
+      "Title": "Mediterraneo",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "31 Jan 1991",
+      "Runtime": "96 min",
+      "Genre": "Comedy, Drama, War",
+      "Director": "Gabriele Salvatores",
+      "Writer": "Enzo Monteleone",
+      "Actors": "Diego Abatantuono, Claudio Bigagli, Giuseppe Cederna",
+      "Plot": "In WW2, an Italian Army unit of misfits occupies an isolated non-strategic Greek island for the duration of the war.",
+      "Language": "Italian, English, Greek, Turkish",
+      "Country": "Italy",
+      "Awards": "Won 1 Oscar. 9 wins & 17 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYzY5OTktZDg3OC00NDA0LTlhYzAtNTE3ZmU1YWU1NWUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "16,675",
+      "imdbID": "tt0102426",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,532,791",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Alegria (La gioia)|None": {
+    "lbxd": {
+      "rating": 3.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/9/5/8/6/1279586-gioia-2025-1-0-500-0-750-crop.jpg?v=cb7c84ea49"
+    },
+    "omdb": {
+      "Title": "La gioia",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "28 Aug 2025",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Nicolangelo Gelormini",
+      "Writer": "N/A",
+      "Actors": "Valeria Golino, Jasmine Trinca, Saul Nanni",
+      "Plot": "N/A",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt35093403",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Campo de Batalha (Campo di battaglia)|None": {
+    "lbxd": {
+      "rating": 2.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/9/3/1061393-battleground-0-500-0-750-crop.jpg?v=48c757f1ea"
+    },
+    "omdb": null
+  },
+  "Cinco Segundos (Cinque secondi)|None": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/2/3/6/1256236-cinque-secondi-0-500-0-750-crop.jpg?v=b3070125db"
+    },
+    "omdb": {
+      "Title": "Cinque secondi",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "30 Oct 2025",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Paolo Virzì",
+      "Writer": "Francesco Bruni, Carlo Virzì, Paolo Virzì",
+      "Actors": "Valerio Mastandrea, Galatéa Bellugi, Valeria Bruni Tedeschi",
+      "Plot": "N/A",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0ZDUyZmQtMzNiNy00YWRhLWIxY2MtYzE5MDVjNGVkN2UwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34960684",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Três Vezes Adeus (Tre ciotole) | SESSÃO DE ENCERRAMENTO|None": {
+    "lbxd": {
+      "rating": 3.67,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/6/5/8/1311658-three-goodbyes-0-500-0-750-crop.jpg?v=ec44a278bc"
+    },
+    "omdb": null
+  },
+  "APPUNTI PER UN ROMANZO SULL’IMMONDEZZA (filme inacabado)|1970": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/5/4/3/9/855439-appunti-per-un-romanzo-sull-immondezza-0-500-0-750-crop.jpg?v=40a5ff5ce1"
+    },
+    "omdb": null
+  },
+  "SOFT AND HARD (A SOFT CONVERSATION BETWEEN TWO FRIENDS ON A HARD SUBJECT) + JLG/JLG|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Nostalgia (1983)|1983": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/3/5/5/177355-1983-0-500-0-750-crop.jpg?v=b7408f6a42"
+    },
+    "omdb": null
+  },
+  "Breve História de Amor (Breve storia d’amore)|None": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/5/9/5/1181595-a-brief-affair-0-500-0-750-crop.jpg?v=1aace707d2"
     },
     "omdb": null
   }
