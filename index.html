@@ -173,7 +173,7 @@
 
     /* ── AGENDA VIEW ────────────────────────────────────── */
 
-    .agenda-day { margin-bottom: 52px; }
+    .agenda-day { margin-bottom: 52px; scroll-margin-top: 120px; }
 
     .day-header {
       display: flex;
@@ -943,7 +943,7 @@ function renderAgenda() {
     sessions.sort((a, b) => a.time.localeCompare(b.time));
 
     html += `
-      <div class="agenda-day">
+      <div class="agenda-day" data-date="${d.value}">
         <div class="day-header">
           <span class="dname">${d.name}</span>
           <span class="ddate ${d.today ? 'today' : ''}">${d.num} ${d.month}</span>
@@ -1271,7 +1271,15 @@ function setView(v) {
   activeView = v;
   render();
 }
-function setDate(d)  { activeDate = d; render(); }
+function setDate(d) {
+  activeDate = d;
+  if (activeView !== 'agenda') { activeView = 'agenda'; render(); }
+  else render();
+  requestAnimationFrame(() => {
+    const el = document.querySelector(`.agenda-day[data-date="${d}"]`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+}
 function setSort(s)  { filmesSort = s; renderFilmes(); }
 function toggleCinema(id) {
   activeCinemas.has(id) ? activeCinemas.delete(id) : activeCinemas.add(id);
