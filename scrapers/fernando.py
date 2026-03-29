@@ -42,7 +42,8 @@ def strip_tags(html):
 
 
 def parse_date(date_str):
-    """Converte 'qua, 25 mar' → '2026-03-25'. Avança o ano se o mês já passou."""
+    """Converte 'qua, 25 mar' → '2026-03-25'. Avança o ano só se a data estiver
+    há mais de 60 dias no passado (nunca para datas da semana corrente)."""
     m = re.search(r"(\d{1,2})\s+(\w{3})", date_str.lower())
     if not m:
         return None
@@ -52,7 +53,12 @@ def parse_date(date_str):
         return None
     today = date.today()
     year  = today.year
-    if (month, day) < (today.month, today.day):
+    try:
+        candidate = date(year, month, day)
+    except ValueError:
+        return None
+    # Avança o ano só se a data estiver mais de 60 dias no passado
+    if (today - candidate).days > 60:
         year += 1
     return f"{year:04d}-{month:02d}-{day:02d}"
 
@@ -241,19 +247,25 @@ def scrape():
         print(f"  [Fernando Lopes] {title}...", end=" ", flush=True)
 
         is_series = slug in series_slugs
-        if not is_series:
-            if slug not in meta_cache:
-                meta_cache[slug] = scrape_film_page(slug)
-                time.sleep(0.3)
-            meta = meta_cache[slug]
-        else:
-            meta = {}  # enriquecedor trata via OMDB/Letterboxd
+        # Busca sempre a página do filme para obter o título canónico.
+        # Para séries reais (e.g. Werner Herzog), a página não devolve título útil
+        # → o anchor text fica como fallback. Para VALOR-SENTIMENTAL etc., a página
+        # tem o título correto e sobrepõe-se ao rótulo abreviado do schedule.
+        if slug not in meta_cache:
+            meta_cache[slug] = scrape_film_page(slug)
+            time.sleep(0.3)
+        meta = meta_cache[slug]
 
         print(f"{len(film['sessions'])} sessão(ões)")
 
         raw_title = meta.get("title") or title
         # Rejeita títulos com CSS (e.g. quando a página retorna CSS no lugar de HTML)
         if "{" in raw_title or "}" in raw_title or len(raw_title) > 200:
+            raw_title = title
+        # Para séries: só usa o título da página se a página também tem realizador ou ano
+        # (= é uma página de filme real). Páginas de ciclo/retrospetiva (e.g. Werner Herzog)
+        # não têm esses campos → usa o texto do anchor como título do filme.
+        if is_series and meta.get("title") and not (meta.get("year") or meta.get("director")):
             raw_title = title
         # Remove etiquetas de série/retrospetiva que aparecem no <h1> da página
         final_title = re.sub(r"\s*[-–]\s*mostra\s+essencial.*$",         "", raw_title, flags=re.IGNORECASE).strip()

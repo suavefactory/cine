@@ -161,6 +161,27 @@ LBXD_SLUGS = {
     "O ULTIMO PADRINHO":            "the-last-godfather",
     "ENTRONCAMENTO":                "entroncamento",
     "MARCEL E MONSIEUR PAGNOL":     "the-screenplay-of-my-life",
+    "VALOR SENTIMENTAL":            "sentimental-value-2025",
+    "RIEFENSTAHL":                  "riefenstahl",
+    # ── São Jorge — filmes italianos e outros ──
+    "ENRICO IV":                    "henry-iv",
+    "DIE FREUDLOSE GASSE":          "the-joyless-street",
+    "LIBERA, AMORE MIO…":           "libera-my-love",
+    "LIBERA, AMORE MIO":            "libera-my-love",
+    "CAMPO DE BATALHA (CAMPO DI BATTAGLIA)": "campo-di-battaglia",
+    "CAMPO DI BATTAGLIA":           "campo-di-battaglia",
+    "HEY JOE":                      "hey-joe-2024",
+    "FUORI":                        "fuori-2025",
+    "NAPOLI – NEW YORK":            "napoli-new-york",
+    "NAPOLI - NEW YORK":            "napoli-new-york",
+    "MODÌ – TRE GIORNI SULLE ALI DELLA FOLLIA": "modi-2024",
+    "MODI - TRE GIORNI SULLE ALI DELLA FOLLIA": "modi-2024",
+    "GIULIO REGENI – TUTTO IL MALE DEL MONDO": "giulio-regeni-tutto-il-male-del-mondo",
+    "GIULIO REGENI - TUTTO IL MALE DEL MONDO": "giulio-regeni-tutto-il-male-del-mondo",
+    "CINCO SEGUNDOS (CINQUE SECONDI)": "cinque-secondi",
+    "CINQUE SECONDI":               "cinque-secondi",
+    "BREVE HISTÓRIA DE AMOR (BREVE STORIA D'AMORE)": "breve-storia-damore",
+    "BREVE STORIA D'AMORE":         "breve-storia-damore",
 }
 
 # Títulos originais → título inglês para OMDB
@@ -425,6 +446,13 @@ def omdb_lookup(title, year=None, director=None):
             if director:
                 if not director_matches(data.get("Director", ""), director):
                     continue
+            # Validação de título — evita matches onde o OMDB retorna título muito diferente
+            # (ex: procura "SEN" → OMDB devolve "Sen Kimsin?" → rejeita)
+            omdb_t  = re.sub(r'[^a-z0-9 ]', '', strip_accents(data.get("Title","").lower())).strip()
+            search_t = re.sub(r'[^a-z0-9 ]', '', strip_accents(t.lower())).strip()
+            if omdb_t and search_t and omdb_t != search_t:
+                if omdb_t.startswith(search_t) and len(search_t) / len(omdb_t) < 0.6:
+                    continue  # título OMDB muito mais longo que a pesquisa
             return data
         except Exception:
             pass

@@ -3404,10 +3404,6 @@
     "lbxd": null,
     "omdb": null
   },
-  "VALOR SENTIMENTAL|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "SINAIS DE VIDA|None": {
     "lbxd": null,
     "omdb": {
@@ -3576,56 +3572,6 @@
     "lbxd": null,
     "omdb": null
   },
-  "Marcel e Monsieur Pagnol|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Riefenstahl|None": {
-    "lbxd": {
-      "rating": 3.58,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/5/1/9/974519-riefenstahl-0-500-0-750-crop.jpg?v=8f48d78fd6"
-    },
-    "omdb": {
-      "Title": "Riefenstahl",
-      "Year": "2024",
-      "Rated": "N/A",
-      "Released": "21 Oct 2025",
-      "Runtime": "115 min",
-      "Genre": "Documentary, Biography, History",
-      "Director": "Andres Veiel",
-      "Writer": "Andres Veiel",
-      "Actors": "Ulrich Noethen, Leni Riefenstahl, Albrecht Knaus",
-      "Plot": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
-      "Language": "German, English, French",
-      "Country": "Germany",
-      "Awards": "4 wins & 12 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTljOTA3NWItZjRlOC00NDg2LWJiZDQtMGIxYmRlZTg0NTJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "97%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "82/100"
-        }
-      ],
-      "Metascore": "82",
-      "imdbRating": "7.2",
-      "imdbVotes": "1,605",
-      "imdbID": "tt32249940",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$133,396",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "AGUIRRE, A CÓLERA DE DEUS|None": {
     "lbxd": {
       "rating": 4.11,
@@ -3660,41 +3606,6 @@
       "imdbRating": "7.8",
       "imdbVotes": "67,422",
       "imdbID": "tt0068182",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "SEN|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Sen Kimsin?",
-      "Year": "2012",
-      "Rated": "N/A",
-      "Released": "02 Mar 2012",
-      "Runtime": "101 min",
-      "Genre": "Comedy",
-      "Director": "Ozan Açiktan",
-      "Writer": "Ozan Açiktan, Ahmet Levent Pala, Tolga Çevik",
-      "Actors": "Tolga Çevik, Köksal Engür, Pelin Körmükçü",
-      "Plot": "Tekin and retired traffic police deputy Ismail, to find a girl who lost their lives at the expense of any kind of danger afford. An ordinary story that started in pursuit of the missing girl case, reckoning, game turns into an adv...",
-      "Language": "Turkish",
-      "Country": "Turkey",
-      "Awards": "1 win & 1 nomination",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2NDY3NTg1NF5BMl5BanBnXkFtZTcwMTY3NzgzNw@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.0/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.0",
-      "imdbVotes": "5,550",
-      "imdbID": "tt2142883",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -3790,5 +3701,1356 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "IL CORTO|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Il lungo, il corto, il gatto",
+      "Year": "1967",
+      "Rated": "N/A",
+      "Released": "03 May 1967",
+      "Runtime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Lucio Fulci",
+      "Writer": "Gian Paolo Callegari, Roberto Gianviti, Marino Girolami",
+      "Actors": "Franco Franchi, Ciccio Ingrassia, Ivy Holzer",
+      "Plot": "Two dim-witted servants to an elderly, wealthy woman learn that they are to inherent the late woman's money, on the condition that they have to care for her rambunctious pet cat, which turns it out is not easy to do.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk0ZTk2MGMtNjFmMi00MTg4LWI1ZDMtZTA4ZjkxZWM1Yzk0XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "143",
+      "imdbID": "tt0061925",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "INTERNATIONAL OCEAN FILM TOUR Volume 12|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "European Outdoor Film Tour 25|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "La valle dei sorrisi|None": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/3/4/5/985345-the-holy-boy-0-500-0-750-crop.jpg?v=0e8bd81d97"
+    },
+    "omdb": null
+  },
+  "Camilleri 100|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/7/1/9/2/1417192-camilleri-100-0-500-0-750-crop.jpg?v=05636474e8"
+    },
+    "omdb": null
+  },
+  "Gli occhi degli altri|None": {
+    "lbxd": {
+      "rating": 3.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/6/0/8/8/1236088-gli-occhi-degli-altri-0-500-0-750-crop.jpg?v=458257b68a"
+    },
+    "omdb": {
+      "Title": "Gli occhi degli altri",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "18 Oct 2025",
+      "Runtime": "121 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "In the island owned by a wealthy Marquis, Elena's arrival marks the beginning of a passionate love affair. Soon erotic play unfolds into obsession.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34625288",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mediterrâneo (Mediterraneo)|None": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/0/5/26305-mediterraneo-0-500-0-750-crop.jpg?v=061be62eec"
+    },
+    "omdb": {
+      "Title": "Mediterraneo",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "31 Jan 1991",
+      "Runtime": "96 min",
+      "Genre": "Comedy, Drama, War",
+      "Director": "Gabriele Salvatores",
+      "Writer": "Enzo Monteleone",
+      "Actors": "Diego Abatantuono, Claudio Bigagli, Giuseppe Cederna",
+      "Plot": "In WW2, an Italian Army unit of misfits occupies an isolated non-strategic Greek island for the duration of the war.",
+      "Language": "Italian, English, Greek, Turkish",
+      "Country": "Italy",
+      "Awards": "Won 1 Oscar. 9 wins & 17 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTliYzY5OTktZDg3OC00NDA0LTlhYzAtNTE3ZmU1YWU1NWUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "16,675",
+      "imdbID": "tt0102426",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,532,791",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Sotto le nuvole|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "La vita da grandi|None": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/3/6/3/1301363-siblings-2025-0-500-0-750-crop.jpg?v=32c9636122"
+    },
+    "omdb": {
+      "Title": "La vita da grandi",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "03 Apr 2025",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Greta Scarano",
+      "Writer": "Chiara Barzini, Tieta Madia, Greta Scarano",
+      "Actors": "Matilda De Angelis, Christian Ginepro, Lorenzo Gioielli",
+      "Plot": "Irene returns to her hometown to care her autistic brother Omar. But he doesn't want to live with her. To help him achieve independence and his dream of becoming a famous singer, Irene decides to conduct an intensive adulting course.",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmJiYjViMDctZjI0NC00Njk1LWE1MzQtZjFmODhkMjY1Y2QxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30064085",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Le città di pianura|None": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/0/6/3/1339063-the-last-one-for-the-road-0-500-0-750-crop.jpg?v=1b0b124da9"
+    },
+    "omdb": null
+  },
+  "Ultimo schiaffo|None": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/1/7/6/8/1431768-the-last-slap-0-500-0-750-crop.jpg?v=2415a02b1f"
+    },
+    "omdb": {
+      "Title": "Ultimo schiaffo",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "08 Jan 2026",
+      "Runtime": "101 min",
+      "Genre": "Comedy, Drama, Thriller",
+      "Director": "Matteo Oleotto",
+      "Writer": "Salvatore De Mola, Matteo Oleotto, Pier Paolo Piciarelli",
+      "Actors": "Giuseppe Battiston, Alessia Franchin, Vlasto Ivanovic",
+      "Plot": "The Christmas that we all know with the lights, the fir tree and the manger, is not the same of Petra and Jure, two brothers who live below zero. Used to freezing temperatures they wonder if there is an escape for people like them?",
+      "Language": "Italian",
+      "Country": "Italy, Slovenia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDRmODFiZjUtMWVjMi00NTM4LTkwOGUtMjZkNWYxNmYyNzlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "44",
+      "imdbID": "tt38813823",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Testa o croce?|None": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/2/6/0/9/972609-heads-or-tails-2025-0-500-0-750-crop.jpg?v=e22c78c5f2"
+    },
+    "omdb": {
+      "Title": "Testa o croce",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "01 Jan 2021",
+      "Runtime": "N/A",
+      "Genre": "Short, Drama",
+      "Director": "Caterina Gabanella",
+      "Writer": "Caterina Gabanella",
+      "Actors": "Eva Kuen, Chiara Tomei, Marianna Folli",
+      "Plot": "A son proudly builds a new life away from his father's addiction. But then destiny intervenes.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "3 wins & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU0NGE1MjItOTExYS00NzZlLWJhMWQtM2I2ZDFkMzFmN2RjXkEyXkFqcGdeQXVyNzkyMjA1MDE@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt12299436",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Il quieto vivere|None": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/5/8/8/8/1395888-i-want-her-dead-0-500-0-750-crop.jpg?v=413612b966"
+    },
+    "omdb": {
+      "Title": "Il quieto vivere",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Biography",
+      "Director": "Gianluca Matarrese",
+      "Writer": "Gianluca Matarrese, Nico Morabito",
+      "Actors": "Imma Capalbo, Maria Luisa Magno",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI1NjE5ZmItZDYzNi00YjNmLWEyMjItZDE3ZGYwN2FmNDM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38534258",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Alegria (La gioia)|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "A Alegria que Contagia",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "19 Aug 2010",
+      "Runtime": "N/A",
+      "Genre": "Short",
+      "Director": "Manuela Fonseca, Enrique Nasseh Freitas, Pedro Goifman",
+      "Writer": "Manuela Fonseca, Enrique Nasseh Freitas, Pedro Goifman",
+      "Actors": "Manuela Fonseca, Enrique Nasseh Freitas, Pedro Goifman",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU5ZWE2NTgtMzRkMy00YTIyLThlZTktZmE2NWQ3ZDFmZTBmXkEyXkFqcGdeQXVyMTI3NjQwNTg2._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt13727712",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Un anno di scuola|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Un anno di scuola",
+      "Year": "1977",
+      "Rated": "N/A",
+      "Released": "19 Aug 1979",
+      "Runtime": "120 min",
+      "Genre": "Drama",
+      "Director": "Franco Giraldi",
+      "Writer": "Lucio Battistrada, Franco Giraldi, Lucio Guzzinati",
+      "Actors": "Mario Adorf, Laura Lenzi, Stefano Patrizi",
+      "Plot": "The story, released the first time in 1929, tells the story of a girl, Edda Marty, who enters (the only woman) to be part of a class of boys, to attend the last year of high school, 8th gymnasium in Trieste. Edda is a wild child, ...",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "25",
+      "imdbID": "tt0074145",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Gioia mia|None": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/6/3/5/9/1386359-sweetheart-2025-3-0-500-0-750-crop.jpg?v=4e2f52c670"
+    },
+    "omdb": {
+      "Title": "Gioia mia",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "90 min",
+      "Genre": "Drama, Family",
+      "Director": "Margherita Spampinato",
+      "Writer": "Margherita Spampinato",
+      "Actors": "Aurora Quattrocchi, Camille Dugay Comencini, Marco Fiore",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "Italy",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36454256",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Fiume o Morte!|None": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/6/8/2/0/1286820-fiume-o-morte-0-500-0-750-crop.jpg?v=955c291f95"
+    },
+    "omdb": {
+      "Title": "Fiume o morte!",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "112 min",
+      "Genre": "Documentary",
+      "Director": "Igor Bezinovic",
+      "Writer": "Igor Bezinovic",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Croatian, Italian",
+      "Country": "Croatia, Italy, Slovenia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFkMTRjODMtNzY0Ni00MzY0LWE1MzMtYjc2ZjMxYWNlMTViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34383611",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "White Lies|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/8/9/0/87890-white-lies-0-500-0-750-crop.jpg?v=18bac19aa4"
+    },
+    "omdb": {
+      "Title": "White Lies",
+      "Year": "2024–",
+      "Rated": "N/A",
+      "Released": "07 Mar 2024",
+      "Runtime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Sean Steinberg",
+      "Actors": "Brendon Daniels, Kiroshan Naidoo, Natalie Dormer",
+      "Plot": "When investigative journalist Edie Hansen's estranged brother is murdered in his home, she's drawn into the dark underbelly of Cape Town. With her brother's children as prime suspects, she clashes with veteran detective Forty Bell.",
+      "Language": "English",
+      "Country": "South Africa",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE2NTMzZTYtNjY2Yy00OTQ0LTg5ZTYtMjQ4ZTkxOTU3ZDg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "596",
+      "imdbID": "tt26925240",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
+  },
+  "GEN_|None": {
+    "lbxd": {
+      "rating": 3.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/4/4/13744-gen-0-500-0-750-crop.jpg?v=cbed5dcfbb"
+    },
+    "omdb": {
+      "Title": "Gen V",
+      "Year": "2023–",
+      "Rated": "TV-MA",
+      "Released": "29 Sep 2023",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Evan Goldberg, Eric Kripke, Craig Rosenberg",
+      "Actors": "Jaz Sinclair, Lizze Broadway, Maddie Phillips",
+      "Plot": "From the world of \"The Boys\" comes \"Gen V,\" which explores the first generation of superheroes to know that their super powers are from Compound V. These heroes put their physical and moral boundaries to the test competing for the...",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Canada",
+      "Awards": "3 wins & 16 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "144,923",
+      "imdbID": "tt13159924",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
+  },
+  "La città proibita|None": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/6/3/3/8/1016338-la-citta-proibita-0-500-0-750-crop.jpg?v=f5967ed1a0"
+    },
+    "omdb": null
+  },
+  "Arsa|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/7/5/0/4/1247504-arsa-0-500-0-750-crop.jpg?v=700cfcbf98"
+    },
+    "omdb": {
+      "Title": "Arsa",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "93 min",
+      "Genre": "Drama",
+      "Director": "Iacopo Bedogni, Masbedo",
+      "Writer": "Iacopo Bedogni, Nicolò Massazza, Giorgio Vasta",
+      "Actors": "Gala Martinucci, Jacopo Olmo Antinori, Lino Musella",
+      "Plot": "Eighteen-year-old Arsa lives at the edge of the world. The island she loves and has always lived on is a natural reserve, and her job is to collect the trash that the sea has washed up. Inspired by her father's sculptures, Arsa re...",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmViNjUwMmEtNTRjNi00N2RhLWIxYjUtYTYwYTcwNGNiNDczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33484317",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Una lunghissima ombra|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/8/5/3/1406853-una-lunghissima-ombra-0-500-0-750-crop.jpg?v=9525e6c160"
+    },
+    "omdb": {
+      "Title": "Una lunghissima ombra",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "12 May 2025",
+      "Runtime": "67 min",
+      "Genre": "Documentary",
+      "Director": "Andrea Laszlo De Simone",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "None",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37108948",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "La vita va così|None": {
+    "lbxd": {
+      "rating": 3.13,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/8/9/1281489-life-is-life-2025-0-500-0-750-crop.jpg?v=003af9c8a0"
+    },
+    "omdb": null
+  },
+  "Il maestro|None": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/0/9/0/8/1030908-my-tennis-maestro-0-500-0-750-crop.jpg?v=ecdf0aa5e4"
+    },
+    "omdb": {
+      "Title": "Il maestro",
+      "Year": "1990",
+      "Rated": "N/A",
+      "Released": "22 Jan 1992",
+      "Runtime": "90 min",
+      "Genre": "Music",
+      "Director": "Marion Hänsel",
+      "Writer": "Marion Hänsel, Mario Soldati",
+      "Actors": "Malcolm McDowell, Charles Aznavour, Andréa Ferréol",
+      "Plot": "A renowned conductor suddenly pulls out of an evening rehearsal of Madame Butterfly. The opera director senses something is going on and forces the musician to explain himself.",
+      "Language": "French, English",
+      "Country": "Belgium, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYwMDBjYmQtMTNmZi00OTA5LWIzZjQtMmNkZmQ4YzBiOTRhXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.3",
+      "imdbVotes": "90",
+      "imdbID": "tt0097803",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Duse|None": {
+    "lbxd": {
+      "rating": 2.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/2/4/0/1174240-duse-0-500-0-750-crop.jpg?v=8daf9236bd"
+    },
+    "omdb": {
+      "Title": "Duse",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "18 Sep 2025",
+      "Runtime": "122 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Pietro Marcello",
+      "Writer": "Pietro Marcello, Letizia Russo, Guido Silei",
+      "Actors": "Noémie Merlant, Valeria Bruni Tedeschi, Noémie Lvovsky",
+      "Plot": "The legendary Italian stage diva Eleonora Duse, through the latter part of her life and her legendary career is now long over.",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWU2NWJhYTYtMzg2My00OTQwLTk4NjMtZTk1MjNlYThlZTEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt31415482",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Buen camino|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/6/4/5/4/606454-buen-camino-0-500-0-750-crop.jpg?v=c31d5f1076"
+    },
+    "omdb": {
+      "Title": "Buen Camino",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "25 Dec 2025",
+      "Runtime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Gennaro Nunziante",
+      "Writer": "Gennaro Nunziante, Checco Zalone",
+      "Actors": "Checco Zalone, Beatriz Arjona, Letizia Arnò",
+      "Plot": "A father leaves his comfort zone to search for his missing daughter on the Camino de Santiago. During his pilgrimage, amid blisters and unexpected encounters, he discovers much more than mere clues: he rediscovers himself.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFhZTM0MTItNDY4YS00ZTdlLTk4MmItYjJlYmU1OTg2ZGZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "2,705",
+      "imdbID": "tt38350059",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "5 CARD STUD|1968": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/0/8/49008-5-card-stud-0-500-0-750-crop.jpg?v=55bb4faab7"
+    },
+    "omdb": {
+      "Title": "5 Card Stud",
+      "Year": "1968",
+      "Rated": "Approved",
+      "Released": "22 Nov 1968",
+      "Runtime": "103 min",
+      "Genre": "Drama, Mystery, Romance",
+      "Director": "Henry Hathaway",
+      "Writer": "Marguerite Roberts, Ray Gaulden",
+      "Actors": "Dean Martin, Robert Mitchum, Inger Stevens",
+      "Plot": "The players in an ongoing poker game are being mysteriously killed off, one by one.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU1YTdkNjctOTIyZC00MDE2LTk3MWQtMGY4YmM2ZTZkYWE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "4,535",
+      "imdbID": "tt0062626",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "GLI INDIFFERENTI|1964": {
+    "lbxd": {
+      "rating": 3.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/7/1/4/5/567145-the-time-of-indifference-0-500-0-750-crop.jpg?v=539e405738"
+    },
+    "omdb": null
+  },
+  "CEUX DE CHEZ NOUS + ITALIANAMERICAN|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "VAGHE STELLE DELL’ORSA…|1965": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/1/4/8/77148-sandra-0-500-0-750-crop.jpg?v=dad08eafc5"
+    },
+    "omdb": null
+  },
+  "THE PROFESSIONALS|1966": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/9/2/6/37926-the-professionals-0-500-0-750-crop.jpg?v=4b8e8e9666"
+    },
+    "omdb": {
+      "Title": "The Professionals",
+      "Year": "1966",
+      "Rated": "PG-13",
+      "Released": "04 Nov 1966",
+      "Runtime": "117 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Richard Brooks",
+      "Writer": "Frank O'Rourke, Richard Brooks",
+      "Actors": "Burt Lancaster, Lee Marvin, Robert Ryan",
+      "Plot": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 3 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmYzk3NmMtZGQ3My00OGE2LTgzMGYtN2VkOTU5ZTZhMjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.3",
+      "imdbVotes": "20,590",
+      "imdbID": "tt0060862",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$19,537,346",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "SOFT AND HARD (A SOFT CONVERSATION BETWEEN TWO FRIENDS ON A HARD SUBJECT) + JLG/JLG|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "QUE LE DIABLE NOUS EMPORTE|2018": {
+    "lbxd": {
+      "rating": 3.29,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/6/0/3/4/406034-tempting-devils-0-500-0-750-crop.jpg?v=92fd26bb87"
+    },
+    "omdb": null
+  },
+  "LA RABBIA DI PASOLINI|2008": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/3/8/1/96381-la-rabbia-di-pasolini-0-500-0-750-crop.jpg?v=88c998c6ed"
+    },
+    "omdb": {
+      "Title": "La rabbia di Pasolini",
+      "Year": "2008",
+      "Rated": "N/A",
+      "Released": "05 Sep 2008",
+      "Runtime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Pier Paolo Pasolini, Giuseppe Bertolucci",
+      "Writer": "Pier Paolo Pasolini",
+      "Actors": "Giorgio Bassani, Renato Guttuso, Giuseppe Bertolucci",
+      "Plot": "An attempt to reconstruct the complete version of Pier Paolo Pasolini's segment of Anger (1963).",
+      "Language": "Italian, English",
+      "Country": "Italy",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM4MzNlOWQtMjk4Ny00ZjhkLThmZjgtNWU4OWNkZGYwNjdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "216",
+      "imdbID": "tt1289430",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "TRYING TO KISS THE MOON|1994": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/4/2/2/1/284221-trying-to-kiss-the-moon-0-500-0-750-crop.jpg?v=289a0e95b9"
+    },
+    "omdb": {
+      "Title": "Trying to Kiss the Moon",
+      "Year": "1994",
+      "Rated": "N/A",
+      "Released": "25 Nov 1996",
+      "Runtime": "95 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Stephen Dwoskin",
+      "Writer": "Stephen Dwoskin",
+      "Actors": "Astley Harvey",
+      "Plot": "Stephen Dwoskin tells the double story on memory, bringing together the beauty of its documents and the sadness of its elusiveness. Extracts from the filmmaker's own films are collaged with photographs and bits of home movies, sti...",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDI3MWU2MjctZTg3ZC00ZGZmLWIxMTgtOGRiNzI1MzY3ZjU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "40",
+      "imdbID": "tt0111505",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "PROJECTO GLOBAL|2026": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Projecto Global",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "31 Jan 2026",
+      "Runtime": "140 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Ivo Ferreira",
+      "Writer": "Helder Beja, Ivo Ferreira",
+      "Actors": "Jani Zhao, Rodrigo Tomás, José Pimentão",
+      "Plot": "Follows members of far-left armed group FP25 in 1980s Lisbon as they live underground lives built on bank robberies and attacks while facing the perpetual threat of prison or death.",
+      "Language": "Portuguese",
+      "Country": "Luxembourg, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFlNzA5ZTUtNmRlMC00ZDI1LTgwNTYtYjRiNTQxOWFjOTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "18",
+      "imdbID": "tt37698048",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Jojo Rabbit|2019": {
+    "lbxd": {
+      "rating": 4.04,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/6/0/0/444600-jojo-rabbit-0-500-0-750-crop.jpg?v=a5ad083635"
+    },
+    "omdb": {
+      "Title": "Jojo Rabbit",
+      "Year": "2019",
+      "Rated": "PG-13",
+      "Released": "08 Nov 2019",
+      "Runtime": "108 min",
+      "Genre": "Comedy, Drama, War",
+      "Director": "Taika Waititi",
+      "Writer": "Christine Leunens, Taika Waititi",
+      "Actors": "Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson",
+      "Plot": "A young German boy in the Hitler Youth, whose hero and imaginary friend is the country's dictator, is shocked to discover that his mother is hiding a Jewish girl in their home.",
+      "Language": "English, German",
+      "Country": "New Zealand, United States, Czech Republic",
+      "Awards": "Won 1 Oscar. 53 wins & 191 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "7.9",
+      "imdbVotes": "483,917",
+      "imdbID": "tt2584384",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$33,370,906",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "LOST, LOST, LOST|1976": {
+    "lbxd": {
+      "rating": 4.08,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/2/5/6/112256-lost-lost-lost-0-500-0-750-crop.jpg?v=5efbcf983b"
+    },
+    "omdb": {
+      "Title": "Lost, Lost, Lost",
+      "Year": "1976",
+      "Rated": "Not Rated",
+      "Released": "14 Sep 1976",
+      "Runtime": "178 min",
+      "Genre": "Documentary",
+      "Director": "Jonas Mekas",
+      "Writer": "N/A",
+      "Actors": "Peter Beard, Ed Emshwiller, Ken Jacobs",
+      "Plot": "Artist-writer-poet-filmmaker Jonas Mekas documents his early years building a life and discovering an arts community in New York.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2I4YWNmZDktMTJhYy00M2MxLTliZmEtN2E5NzNhYmNkZGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "572",
+      "imdbID": "tt0209110",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "CORLEONE|1978": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/7/1/5/123715-corleone-0-500-0-750-crop.jpg?v=73b538e1b4"
+    },
+    "omdb": {
+      "Title": "Corleone",
+      "Year": "1978",
+      "Rated": "R",
+      "Released": "10 Nov 1978",
+      "Runtime": "108 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Pasquale Squitieri",
+      "Writer": "Orazio Barrese, Massimo De Rita, Dino Maiuri",
+      "Actors": "Giuliano Gemma, Claudia Cardinale, Francisco Rabal",
+      "Plot": "Two friends grow up together in the Sicily of the '50s. Two different destiny, two different way of life. Could their friendship survive to the mafia shadow?",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RjMjNjZGMtOGRlNC00ZGQ3LTg2YzEtZDhhZjQ4OGYwNTg2XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "264",
+      "imdbID": "tt0075879",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "NO HOME MOVIE|2015": {
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/5/2/0/4/285204-no-home-movie-0-500-0-750-crop.jpg?v=2b593dc709"
+    },
+    "omdb": {
+      "Title": "No Home Movie",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "24 Feb 2016",
+      "Runtime": "115 min",
+      "Genre": "Documentary",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "Chantal Akerman, Natalia Akerman, Sylvaine Akerman",
+      "Plot": "Filmmaker Chantal Akerman documents the life of her mother Natalia Akerman, a Polish immigrant and survivor of Auschwitz.",
+      "Language": "French, English, Spanish",
+      "Country": "Belgium, France",
+      "Awards": "3 wins & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4Mjk5ODI2NV5BMl5BanBnXkFtZTgwOTg5ODA1ODE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "6.6",
+      "imdbVotes": "1,130",
+      "imdbID": "tt4881016",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$32,757",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mostra Essencial Werner Herzog|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Riefenstahl|None": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/5/1/9/974519-riefenstahl-0-500-0-750-crop.jpg?v=8f48d78fd6"
+    },
+    "omdb": {
+      "Title": "Riefenstahl",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "21 Oct 2025",
+      "Runtime": "115 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Andres Veiel",
+      "Writer": "Andres Veiel",
+      "Actors": "Ulrich Noethen, Leni Riefenstahl, Albrecht Knaus",
+      "Plot": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
+      "Language": "German, English, French",
+      "Country": "Germany",
+      "Awards": "4 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTljOTA3NWItZjRlOC00NDg2LWJiZDQtMGIxYmRlZTg0NTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.2",
+      "imdbVotes": "1,605",
+      "imdbID": "tt32249940",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$133,396",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "As Provadoras de Hitler (Le assaggiatrici)|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Giulio Regeni – Tutto il male del mondo|None": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/4/6/7/5/1474675-giulio-regeni-tutto-il-male-del-mondo-0-500-0-750-crop.jpg?v=377bbe601e"
+    },
+    "omdb": null
+  },
+  "Breve História de Amor (Breve storia d’amore)|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Una breve historia de amor",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "26 Mar 2015",
+      "Runtime": "78 min",
+      "Genre": "Comedy",
+      "Director": "Alan Nadal Piantini",
+      "Writer": "Alan Nadal Piantini",
+      "Actors": "Isaac Saviñón, Alba García, Angela Bernal",
+      "Plot": "Martín, an irresponsible creative director with a big ego, falls in love with Inés, a disciplined account executive who will turn his world upside down.",
+      "Language": "Spanish",
+      "Country": "Dominican Republic",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODgxMjk0MTU4NF5BMl5BanBnXkFtZTgwMzQxNTE1NDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "26",
+      "imdbID": "tt3762674",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Campo de Batalha (Campo di battaglia)|None": {
+    "lbxd": {
+      "rating": 2.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/9/3/1061393-battleground-0-500-0-750-crop.jpg?v=48c757f1ea"
+    },
+    "omdb": null
+  },
+  "Hey Joe|None": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/8/5/8/9/828589-hey-joe-2024-0-500-0-750-crop.jpg?v=e0a160bf4c"
+    },
+    "omdb": {
+      "Title": "Hey, Joe",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Joe Beddia",
+      "Plot": "A humorously deadpan show about the joys of everyday home cooking, hosted by Philadelphia chef Joe Beddia.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjFmZjY5NzYtYzk4Mi00NzhkLWFkMGItOWZkNzRiYWFhMGVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32566920",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cinco Segundos (Cinque secondi)|None": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/2/3/6/1256236-cinque-secondi-0-500-0-750-crop.jpg?v=b3070125db"
+    },
+    "omdb": null
+  },
+  "Modì – Tre giorni sulle ali della follia|None": {
+    "lbxd": {
+      "rating": 2.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/3/0/6/0/913060-modi-three-days-on-the-wing-of-madness-0-500-0-750-crop.jpg?v=b28014acf8"
+    },
+    "omdb": {
+      "Title": "Modì",
+      "Year": "1989",
+      "Rated": "N/A",
+      "Released": "01 Oct 1989",
+      "Runtime": "98 min",
+      "Genre": "Biography, Drama",
+      "Director": "Franco Brogi Taviani",
+      "Writer": "Franco Brogi Taviani, Maria Carmela Cicinnati, Pietro Exacoustos",
+      "Actors": "Richard Berry, Elide Melli, Trudie Styler",
+      "Plot": "The life of Amedeo Modigliani, a painter and a genius.",
+      "Language": "Italian, French",
+      "Country": "Italy, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRiZDNkNjEtYjIyMi00NjBkLThlMDEtOTQ2YzU3ODkwNmU3XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "38",
+      "imdbID": "tt0190568",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Napoli – New York|None": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/3/1/9/9/1003199-naples-to-new-york-0-500-0-750-crop.jpg?v=1435e7f47f"
+    },
+    "omdb": {
+      "Title": "Napoli",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "80 min",
+      "Genre": "Adult, Crime",
+      "Director": "Mario Salieri",
+      "Writer": "N/A",
+      "Actors": "Laura Angel, Rodolphe Antrim, Carmela Borriello, Philippe Dean",
+      "Plot": "N/A",
+      "Language": "French, Italian",
+      "Country": "Canada, France",
+      "Awards": "1 win.",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "44",
+      "imdbID": "tt0414300",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Fuori|None": {
+    "lbxd": {
+      "rating": 3.03,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/1/7/8/1192178-fuori-2025-0-500-0-750-crop.jpg?v=ed8aaa2e8c"
+    },
+    "omdb": {
+      "Title": "Fuori",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "22 May 2025",
+      "Runtime": "117 min",
+      "Genre": "Biography, Drama",
+      "Director": "Mario Martone",
+      "Writer": "Goliarda Sapienza, Mario Martone, Ippolita Di Majo",
+      "Actors": "Valeria Golino, Matilda De Angelis, Elodie",
+      "Plot": "A writer ends up in prison for a crazy and unexpected act, where she meets with some young inmates. Once out the writer and the other women maintain their friendship, an authentic bond that no one else will be able to understand.",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q1ZGQ0MmMtNWFkYi00OWRiLWFjMTktYzY0NDE0MmIxYjFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "47/100"
+        }
+      ],
+      "Metascore": "47",
+      "imdbRating": "6.1",
+      "imdbVotes": "454",
+      "imdbID": "tt34768402",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "LIBERA, AMORE MIO…|1975": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/5/8/7/116587-libera-my-love-0-500-0-750-crop.jpg?v=5d70b27c9a"
+    },
+    "omdb": null
+  },
+  "ENRICO IV|1984": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/2/5/9/22259-henry-iv-0-500-0-750-crop.jpg?v=7ad1a66790"
+    },
+    "omdb": null
+  },
+  "DIE FREUDLOSE GASSE|1925": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/0/9/47709-joyless-street-0-500-0-750-crop.jpg?v=71b73f0c16"
+    },
+    "omdb": null
+  },
+  "Marcel e Monsieur Pagnol|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Valor Sentimental|2025": {
+    "lbxd": {
+      "rating": 4.16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/3/5/7/1013357-sentimental-value-2025-0-500-0-750-crop.jpg?v=e89e64a309"
+    },
+    "omdb": null
   }
 }
