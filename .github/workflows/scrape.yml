@@ -2,7 +2,7 @@ name: Atualizar sessões
 
 on:
   schedule:
-    - cron: '30 14 * * *'  # todos os dias às 14:30 UTC = 15:30 Lisboa (inverno)
+    - cron: '0 8 * * *'   # todos os dias às 08:00 UTC = 09:00 Lisboa (verão)
   workflow_dispatch:        # permite correr manualmente no GitHub
 
 jobs:
