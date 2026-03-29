@@ -862,7 +862,7 @@ function getDates() {
     const d = new Date(start);
     d.setDate(start.getDate() + i);
     return {
-      value:  d.toISOString().split('T')[0],
+      value:  `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`,
       name:   PT_DAYS[d.getDay()],
       num:    d.getDate(),
       month:  PT_MONTHS[d.getMonth()],
