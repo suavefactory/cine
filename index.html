@@ -494,6 +494,44 @@
     }
     .modal-cal-btn:hover { background: var(--accent); color: var(--bg); border-color: var(--accent); }
 
+    /* ── MODAL MOBILE ───────────────────────────────────── */
+    @media (max-width: 540px) {
+      .modal-overlay {
+        padding: 0;
+        align-items: flex-end;
+      }
+      .modal {
+        border-radius: 22px 22px 0 0;
+        max-height: 92vh;
+        transform: translateY(100%);
+      }
+      .modal-overlay.open .modal { transform: translateY(0); }
+
+      /* Coluna: poster centrado em cima, info em baixo */
+      .modal-top {
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+        padding: 24px 20px 16px;
+      }
+      /* Poster mantém 2:3 mas maior (150px) — vê-se o poster todo */
+      .modal-poster {
+        width: 150px;
+        flex-shrink: 0;
+      }
+      .modal-info {
+        width: 100%;
+        align-self: stretch;
+        gap: 8px;
+      }
+      .modal-header { gap: 10px; }
+      .modal-title  { font-size: 20px; }
+      .modal-sessions { padding: 14px 20px 40px; }
+      .modal-sdate  { width: 82px; font-size: 12px; }
+      .modal-stime  { font-size: 12px; }
+      .modal-session-row { gap: 8px; font-size: 12px; }
+    }
+
     /* ── CINEMAS VIEW ───────────────────────────────────── */
 
     #cinema-map {
