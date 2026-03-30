@@ -597,23 +597,36 @@
       overflow: hidden;
       cursor: pointer;
     }
+    /* Fundo desfocado (só aparece quando há poster) */
+    .snap-blur-bg {
+      position: absolute;
+      inset: -30px;
+      background-size: cover;
+      background-position: center;
+      filter: blur(28px) brightness(0.3);
+    }
+    /* Poster em "contain" — vê-se o poster inteiro */
     .snap-poster-bg {
-      width: 100%; height: 100%;
-      background-size: cover !important;
-      background-position: center !important;
+      position: absolute;
+      inset: 0;
+      background-size: contain !important;
+      background-repeat: no-repeat !important;
+      background-position: center 30% !important;
     }
     .snap-gradient {
       position: absolute;
       inset: 0;
       background: linear-gradient(to top,
-        rgba(0,0,0,0.90) 0%,
-        rgba(0,0,0,0.35) 45%,
-        transparent 70%);
+        rgba(0,0,0,0.92) 0%,
+        rgba(0,0,0,0.15) 45%,
+        transparent 65%);
+      z-index: 1;
     }
     .snap-info {
       position: absolute;
       bottom: 0; left: 0; right: 0;
       padding: 20px 24px 48px;
+      z-index: 2;
       transform: translateY(22px);
       opacity: 0;
       transition: transform 0.45s cubic-bezier(0.22,1,0.36,1), opacity 0.38s ease;
@@ -1152,10 +1165,12 @@ function renderFilmes() {
         ${movies.map(m => {
           const country = m.country ? m.country.split(',')[0].trim() : null;
           const meta = [m.director, m.year, m.duration ? m.duration + 'min' : null].filter(Boolean).join(' · ');
-          const bg = m.poster ? `url('${m.poster}') center/cover no-repeat` : m.bg;
           return `
             <div class="snap-card" onclick="openModal('${m.id}')">
-              <div class="snap-poster-bg" style="background:${bg}"></div>
+              ${m.poster
+                ? `<div class="snap-blur-bg" style="background-image:url('${m.poster}')"></div>
+                   <div class="snap-poster-bg" style="background-image:url('${m.poster}')"></div>`
+                : `<div style="position:absolute;inset:0;background:${m.bg}"></div>`}
               <div class="snap-gradient"></div>
               <div class="snap-info">
                 <div class="snap-badges">
@@ -1174,10 +1189,10 @@ function renderFilmes() {
     requestAnimationFrame(() => {
       const feed = document.getElementById('snapFeed');
       if (feed) {
+        feed.scrollLeft = 0; // reset ao mudar ordenação
         const top = feed.getBoundingClientRect().top;
         feed.style.height = (window.innerHeight - top) + 'px';
         feed.style.width   = window.innerWidth + 'px';
-        // Cada card também precisa da altura correcta
         feed.querySelectorAll('.snap-card').forEach(c => {
           c.style.height = (window.innerHeight - top) + 'px';
         });
@@ -1190,6 +1205,20 @@ function renderFilmes() {
       entries.forEach(e => e.target.classList.toggle('snap-visible', e.isIntersecting));
     }, { root: feed, threshold: 0.6 });
     document.querySelectorAll('.snap-card').forEach(c => obs.observe(c));
+
+    // Swipe vertical também navega entre cards (para além do swipe horizontal nativo)
+    let _tSX = 0, _tSY = 0;
+    feed.addEventListener('touchstart', e => {
+      _tSX = e.touches[0].clientX;
+      _tSY = e.touches[0].clientY;
+    }, { passive: true });
+    feed.addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].clientX - _tSX;
+      const dy = e.changedTouches[0].clientY - _tSY;
+      if (Math.abs(dy) > Math.abs(dx) && Math.abs(dy) > 40) {
+        feed.scrollBy({ left: dy < 0 ? feed.offsetWidth : -feed.offsetWidth, behavior: 'smooth' });
+      }
+    }, { passive: true });
 
   } else {
     // ── Desktop: grelha normal ────────────────────────────
