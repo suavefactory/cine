@@ -354,11 +354,16 @@ def lbxd_fetch(slug):
     genre_slugs = list(dict.fromkeys(re.findall(r'href="/films/genre/([^/"]+)/"', html)))
     genres = [g.replace("-", " ").title() for g in genre_slugs] if genre_slugs else None
 
+    # País: primeiro país da lista /films/country/X/
+    country_m = re.search(r'href="/films/country/[^/"]+/"[^>]*>\s*([^<]+?)\s*<', html)
+    country = country_m.group(1).strip() if country_m else None
+
     return {
         "rating":      float(rating_m.group(1)) if rating_m else None,
         "poster":      poster,
         "description": description,
         "genres":      genres,
+        "country":     country,
     }
 
 def lbxd_lookup(title, year=None):
@@ -533,8 +538,8 @@ def enrich(movies):
         else:
             lb   = cache[key].get("lbxd")
             omdb = cache[key].get("omdb")
-            # Re-fetch from LB if cached entry is missing description (new field)
-            if lb is not None and "description" not in lb:
+            # Re-fetch from LB if cached entry is missing new fields
+            if lb is not None and ("description" not in lb or "country" not in lb):
                 print(f"  [LB+] {title}...", end=" ", flush=True)
                 lb_new = lbxd_lookup(title, year)
                 if lb_new:
@@ -566,6 +571,12 @@ def enrich(movies):
         elif not movie.get("plot") and omdb and omdb.get("Plot") not in (None, "N/A"):
             movie["plot"] = omdb["Plot"]
 
+        # País: Letterboxd sempre, fallback OMDB
+        if lb and lb.get("country"):
+            movie["country"] = lb["country"]
+        elif not movie.get("country") and omdb and omdb.get("Country") not in (None, "N/A"):
+            movie["country"] = omdb["Country"].split(",")[0].strip()
+
         # Metadados via OMDB (fallbacks apenas)
         if omdb:
             if not movie.get("director") and omdb.get("Director") not in (None, "N/A"):
@@ -577,8 +588,6 @@ def enrich(movies):
             if not movie.get("year") and omdb.get("Year"):
                 try: movie["year"] = int(omdb["Year"][:4])
                 except ValueError: pass
-            if not movie.get("country") and omdb.get("Country") not in (None, "N/A"):
-                movie["country"] = omdb["Country"]
 
     if changed:
         save_cache(cache)

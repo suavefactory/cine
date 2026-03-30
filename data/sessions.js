@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-03-30T17:22:09.911551+00:00",
+  "generated": "2026-03-30T17:42:08.078401+00:00",
   "movies": [
     {
       "id": "sao_jorge_10059",
@@ -19,7 +19,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.67,
-      "plot": "A regular family living in the outskirts of Lisbon sees the serenity of their lives shaken beyond any remedy within a week."
+      "plot": "A regular family living in the outskirts of Lisbon sees the serenity of their lives shaken beyond any remedy within a week.",
+      "country": "Portugal"
     },
     {
       "id": "sao_jorge_10261",
@@ -39,8 +40,8 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "Two dim-witted servants to an elderly, wealthy woman learn that they are to inherent the late woman's money, on the condition that they have to care for her rambunctious pet cat, which turns it out is not easy to do.",
-      "year": 1967,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 1967
     },
     {
       "id": "sao_jorge_10274",
@@ -103,8 +104,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.11,
       "plot": "In autumn 1943, in Gross-Partsch, 26-year-old Rosa, who had come from Berlin to stay with the parents of her husband Gregor, who was fighting on the Russian front, was taken by the SS to a mysterious place. Forced to taste a dish, she joins the group of tasters responsible for checking that the food destined for Hitler is not poisoned.",
-      "year": 2025,
-      "country": "Italy, Belgium, Switzerland"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10263",
@@ -124,7 +125,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.74,
-      "plot": "The events related to the death of Giulio Regeni, kidnapped, tortured and killed in Egypt, with the reconstruction of his family and lawyer Alessandra Ballerini, showing the stages of the kidnapping, the torture and killing."
+      "plot": "The events related to the death of Giulio Regeni, kidnapped, tortured and killed in Egypt, with the reconstruction of his family and lawyer Alessandra Ballerini, showing the stages of the kidnapping, the torture and killing.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10259",
@@ -146,7 +148,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.55,
-      "plot": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side."
+      "plot": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10257",
@@ -186,8 +189,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.11,
       "plot": "In the untamed beauty of the island owned by an extraordinarily wealthy Marquis, Elena's arrival marks the beginning of a passionate love affair. Complicity and transgression, sex and power, in a film inspired by 1960s Italian true crime, where erotic play unfolds into obsession.",
-      "year": 2025,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10253",
@@ -210,8 +213,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.82,
       "plot": "Greek Sea, World War II. An Italian ship leaves a handful of soldiers in a little island; their mission is to spot enemy ships and to hold the island in case of attack. The village of the island seems abandoned and there isn't a single enemy in sight, so the soldiers begin to relax a little. Things change when their ship is hit and destroyed by the enemy, and the soldiers find themselves abandoned there.",
-      "year": 1991,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 1991
     },
     {
       "id": "sao_jorge_10251",
@@ -254,6 +257,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.42,
       "plot": "Irene lives in Rome. When her mother ask to, she go back to Rimini, her hometown, to take care of her autistic brother, Omar. She soon discover that Omar knows very well what to expect from the future, but in order to achieve his dreams, he need to be independent, which is why Irene begins a tender crash course to teach him adult life.",
+      "country": "Italy",
       "year": 2025
     },
     {
@@ -279,7 +283,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.89,
-      "plot": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure."
+      "plot": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10246",
@@ -306,8 +311,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.4,
       "plot": "Siblings Petra and Jure want to re-purpose their old lakeside house. To raise money for such a venture, they get involved in the search for a lost dog, hoping to get a substantial financial reward. They cross paths with the ruthless entrepreneur Nicola. When their plan turns sour, Christmas turns into a nightmare riddled with slaps and plot twists.",
-      "year": 2026,
-      "country": "Italy, Slovenia"
+      "country": "Italy",
+      "year": 2026
     },
     {
       "id": "sao_jorge_10244",
@@ -334,8 +339,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.17,
       "plot": "When cowboy Billi and his sweetheart Rosa run away together, he is accused of her husband's death and becomes the symbol of a local uprising. Everyone wants his head and only Rosa knows the secret that could finally set them free.",
-      "year": 2021,
-      "country": "Italy"
+      "country": "France",
+      "year": 2021
     },
     {
       "id": "sao_jorge_10242",
@@ -357,8 +362,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.35,
       "plot": "An unhappy family in a remote village in Calabria: Luisa is at war with the world since day one. She is juggling odd jobs, her love for her children and granddaughter, and her feuding with her mother, brother, and sister-in-law. While the two women exchange insults and call in the cops, three elderly aunts, a tragicomic chorus, try in vain to keep the peace.",
-      "year": 2025,
-      "country": "Italy"
+      "country": "Switzerland",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10208",
@@ -383,7 +388,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.3,
-      "plot": "Lea and Rocco meet by chance in a bar and an instant attraction ignites between them. From that moment, a secret affair begins, consisting of fleeting, clandestine meetings in a hotel room. However, as time passes, Lea's obsession with Rocco intensifies, leading her to intrude more and more into his life. The story soon takes an unexpected and unsettling turn."
+      "plot": "Lea and Rocco meet by chance in a bar and an instant attraction ignites between them. From that moment, a secret affair begins, consisting of fleeting, clandestine meetings in a hotel room. However, as time passes, Lea's obsession with Rocco intensifies, leading her to intrude more and more into his life. The story soon takes an unexpected and unsettling turn.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10230",
@@ -409,8 +415,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.26,
       "plot": "Gioia is a high school teacher who has never known any other love than the oppressive bond with her own parents, with whom she still lives. One of the students at her school, Alessio, is cashing in on his own body to make a couple of hundred euros to help his mother, a cashier in a supermarket. The relationship that dawns between Gioia and Alessio is forbidden fruit, fragile yet, inexplicably, one they can’t do without. Still, Alessio’s desire to improve his social standing is a silent killer that prevents him from ultimately accepting Gioia’s surprising affection for him. He goes and destroys it all, cancelling the only person who has ever loved him.",
-      "year": 2025,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10232",
@@ -435,8 +441,8 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "The story, released the first time in 1929, tells the story of a girl, Edda Marty, who enters (the only woman) to be part of a class of boys, to attend the last year of high school, 8th gymnasium in Trieste. Edda is a wild child, ...",
-      "year": 1977,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 1977
     },
     {
       "id": "sao_jorge_10236",
@@ -462,8 +468,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.48,
       "plot": "A reluctant summer together transforms into an enchanting adventure when a young boy discovers his aunt's mysterious Sicilian house holds secrets and, perhaps, ancient spirits lurking within its walls.",
-      "year": 2025,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10204",
@@ -490,7 +496,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 2.9,
-      "plot": "These are the years of the First World War and Dr. Stefano Zorzi spends his days in the Exemption Clinic in a large city of Northern Italy, where he not only takes care of soldiers who arrive from the massacre of the front, but also he fights simulation and self-harm of those who hope to be dispensed, by sending them before the Military Court. If Stefano, in fact, does his utmost to heal soldiers and send them back to fight, Dr. Giulio Farradio makes them ill, or helps them to self-injure seriously enough to be exonerated. The two doctors, who went to university together and were great friends, they not only (secretly) challenge each other on a professional level, but also on the sentimental one: they are both linked to Anna, a courageous nurse with a strong character. But when the great ‘Spanish’ fever epidemic arrived in 1918, the time for love, politics and science ends up getting confused dangerously..."
+      "plot": "These are the years of the First World War and Dr. Stefano Zorzi spends his days in the Exemption Clinic in a large city of Northern Italy, where he not only takes care of soldiers who arrive from the massacre of the front, but also he fights simulation and self-harm of those who hope to be dispensed, by sending them before the Military Court. If Stefano, in fact, does his utmost to heal soldiers and send them back to fight, Dr. Giulio Farradio makes them ill, or helps them to self-injure seriously enough to be exonerated. The two doctors, who went to university together and were great friends, they not only (secretly) challenge each other on a professional level, but also on the sentimental one: they are both linked to Anna, a courageous nurse with a strong character. But when the great ‘Spanish’ fever epidemic arrived in 1918, the time for love, politics and science ends up getting confused dangerously...",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10193",
@@ -516,8 +523,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.24,
       "plot": "In 1944, American sailor Dean Barry arrives in Naples, a city destroyed by bombing after the liberation of Italy. Dean meets Lucia, a young and very poor girl with whom he falls madly in love. Two years later, at the end of his service, Dean has to return to New Jersey and Lucia remains in Naples, alone and pregnant.",
-      "year": 2023,
-      "country": "United States"
+      "country": "Italy",
+      "year": 2023
     },
     {
       "id": "sao_jorge_10240",
@@ -539,8 +546,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.97,
       "plot": "Through dramatic reconstruction and documentary asides, the spirit of Italian poet, playwright, journalist, aristocrat and army officer Gabriele D’Annunzio is captured, presenting the nascent fascism in his attempts to forge a new state in the aftermath of the First World War.",
-      "year": 2025,
-      "country": "Croatia, Italy, Slovenia"
+      "country": "Croatia",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10238",
@@ -562,8 +569,8 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "How can a smart middle class girl suddenly turn into a devoted right wing debater? That's what happens with Catherine when she meets the charismatic leaders of the neo-nazi organization NIM. Catherine, a first-year university student who feels alienated from the liberal campus, joins a hate group through the Internet and becomes their voice, only to gradually question their beliefs even as she becomes more deeply involved.",
-      "year": 2024,
-      "country": "South Africa"
+      "country": "Canada",
+      "year": 2024
     },
     {
       "id": "sao_jorge_10234",
@@ -584,8 +591,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.1,
       "plot": "A suicide case is informed to the police from a mental hospital in a rocky district. Two policemen comes to hospital to investigate the case. In the same morning, Dr. Deniz comes to hospital as the new psychiatrist. Because of the heavy rain and landslide the only road and telephone connections that provide access to hospital from the city are damaged.There is no transportation to hospital and none can leave hospital. During three days, three patients are killed wildly in the hospital. Everyone becomes anxious. The police deepen the investigation. A mystical patient attracts attention.",
-      "year": 2023,
-      "country": "United States, United Kingdom, Canada"
+      "country": "Turkey",
+      "year": 2023
     },
     {
       "id": "sao_jorge_10228",
@@ -607,7 +614,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.31,
-      "plot": "The son of an indebted restaurant owner joins a foreign girl in search of her sister. Together, they’ll have to fight side by side against the most ruthless members of the Roman criminal underworld."
+      "plot": "The son of an indebted restaurant owner joins a foreign girl in search of her sister. Together, they’ll have to fight side by side against the most ruthless members of the Roman criminal underworld.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10226",
@@ -627,8 +635,8 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "Eighteen-year-old Arsa lives at the edge of the world. The island she loves and has always lived on is a natural reserve, and her job is to collect the trash that the sea has washed up. Inspired by her father's sculptures, Arsa re...",
-      "year": 2024,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 2024
     },
     {
       "id": "sao_jorge_10222",
@@ -647,8 +655,8 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "year": 2025,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10220",
@@ -669,8 +677,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.36,
       "plot": "Who is that scruffy-looking guy who lives alone in the renovated stables of Villa Guelfi? He spends his days doing nothing and avoiding contact with everyone. And when he realizes that a community of young people has settled illegally in the villa and is dedicated to caring for the abandoned countryside and vineyards, he gets nervous and wants to chase them away. They are students, recent graduates, agronomists, and among them is Matilde, who was born there and worked in the vineyard with her grandfather, Count Guelfo Guelfi, as a child. They too are intrigued by this misanthropic gentleman with a mysterious past: why does he live there alone and refuse to have contact with anyone? As the seasons pass, the conflict with this community of young men and women turns into coexistence, and eventually into an alliance. And Adriano finds himself looking after, in his brusque way, the young Countess Matilde, who is pregnant by one of the young men...",
-      "year": 2025,
-      "country": "Italy"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10218",
@@ -691,7 +699,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.13,
-      "plot": "An elderly shepherd takes on big business when he becomes the only holdout against property developers building a luxury resort in his tiny Sardinian village."
+      "plot": "An elderly shepherd takes on big business when he becomes the only holdout against property developers building a luxury resort in his tiny Sardinian village.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10216",
@@ -713,8 +722,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 2.72,
       "plot": "Through the streets of World War I Paris, Italian bohemian artist Modigliani attempts to outmaneuver bombs, policemen, girlfriends, and critics in a increasingly desperate search of a home for his art.",
-      "year": 1989,
-      "country": "Italy, France"
+      "country": "Italy",
+      "year": 1989
     },
     {
       "id": "sao_jorge_10212",
@@ -735,8 +744,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.42,
       "plot": "Italy, 1989. After years of hard training, 13-year-old Felice, carrying his father's expectations on his shoulders, finally sets out to compete in the national tennis tournaments. While dreaming of a simple summer vacation, he's instead placed under the wing of ex tennis champion Raul, an unconventional coach hired by his father. Match after match, the two embark on a journey that will lead Felice to discover the taste of freedom, and Raul to glimpse the possibility of a fresh start. As they travel along the Italian coast, an unexpected, deep, and sincere bond between them develops.",
-      "year": 1990,
-      "country": "Belgium, France"
+      "country": "Italy",
+      "year": 1990
     },
     {
       "id": "sao_jorge_10210",
@@ -758,8 +767,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 2.91,
       "plot": "In the years between WWI and the rise of Fascism, legendary thespian Eleonora Duse shocks everyone by getting back onstage at over 60 years of age. Struggling with the brutality of historical events unfolding and clinging to the possibility of utopia, she makes her art a revolutionary act, even at the cost of sacrificing health and affection—facing her final journey aware she could give up life itself, but not her own true nature.",
-      "year": 2025,
-      "country": "Italy, France"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10202",
@@ -779,8 +788,8 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "A visually impaired woman in her 50s and an 18-year-old girl walk the Camino de Santiago. The older woman, Jae-han, is a masseuse who can only make out the dim outlines of things. She is accompanied by a girl named Da-hee. Jae-han dreams of presenting her own style of flamenco in front of the Cathedral of Santiago de Compostela after completing the pilgrimage. However, the journey, which began with a vague longing, turns out to be much more difficult than either had expected.",
-      "year": 2025,
-      "country": "Italy"
+      "country": "South Korea",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10199",
@@ -802,8 +811,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.42,
       "plot": "In the immediate post-war period, amidst the rubble of a poverty-ridden Naples, two kids, Carmine and Celestina, try to survive as best they can by helping each other out. One night, they secretly board a ship bound for New York to reach Celestina’s sister, who emigrated to America several years earlier. The two children join the many Italian emigrants seeking a new life in America and arrive in an unknown metropolis, which, after several misadventures, they will learn to call home.",
-      "year": 2000,
-      "country": "Canada, France"
+      "country": "Italy",
+      "year": 2000
     },
     {
       "id": "sao_jorge_10191",
@@ -825,8 +834,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.03,
       "plot": "Rome. The 1980s. After the magnum opus The Art of Joy she has been working on for a decade is rejected by the Italian publishing world, writer Goliarda Sapienza commits a desperate theft that costs her her reputation and social position. Incarcerated in Italy’s largest female prison, she finds herself living alongside thieves, junkies, sex workers and revolutionaries. After her release, she continues to meet with these women and over the course of a sweltering summer, a life-changing relationship flowers – a relationship that will reawaken her the desire to live and to write.",
-      "year": 2025,
-      "country": "Italy, France"
+      "country": "Italy",
+      "year": 2025
     },
     {
       "id": "sao_jorge_10189",
@@ -846,7 +855,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.67,
-      "plot": "Follows a couple, Marta and Antonio, who split up after what seems like an trivial argument."
+      "plot": "Follows a couple, Marta and Antonio, who split up after what seems like an trivial argument.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10057",
@@ -867,8 +877,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.44,
       "plot": "In a family-run hotel, by the Portuguese northern shore, lives a group of women from different generations of the same family, whose relationships with each other have grown poisoned by bitterness. They try to survive in the declining hotel, as the unexpected arrival of a granddaughter to this oppressive space stirs trouble, reviving latent hatred and piled-up resentments.",
-      "year": 2023,
-      "country": "Portugal, France"
+      "country": "France",
+      "year": 2023
     },
     {
       "id": "sao_jorge_10048",
@@ -888,7 +898,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.7,
-      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea."
+      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "country": "Italy"
     },
     {
       "id": "sao_jorge_10062",
@@ -909,8 +920,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.44,
       "plot": "In a family-run hotel, by the Portuguese northern shore, lives a group of women from different generations of the same family, whose relationships with each other have grown poisoned by bitterness. They try to survive in the declining hotel, as the unexpected arrival of a granddaughter to this oppressive space stirs trouble, reviving latent hatred and piled-up resentments.",
-      "year": 2023,
-      "country": "Portugal, France"
+      "country": "France",
+      "year": 2023
     },
     {
       "id": "cinemateca_19688",
@@ -931,7 +942,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 2.99,
-      "plot": "George Lester is a man who is chasing rainbows, looking for the pot of gold at the end. When his wife, Pamela grows tired of being dragged all over the world, she leaves him. While she is away, George converts her family home into a discotheque, when she returns, she threatens to send George to jail for fraud, cause she didn't give her approval. George needing some fast bucks, decides to turn to an old cohort of his, William Homer but Willy's a little short. George then decides to steal the plans to a new drill, Pamela's suitor, Dudley Heath is working on. But when George gets the mumps, he can't make it to the meeting place and refuses to give Willy the plans unless he gives him the cash first. And the buyers won't give unless they see the merchandise first."
+      "plot": "George Lester is a man who is chasing rainbows, looking for the pot of gold at the end. When his wife, Pamela grows tired of being dragged all over the world, she leaves him. While she is away, George converts her family home into a discotheque, when she returns, she threatens to send George to jail for fraud, cause she didn't give her approval. George needing some fast bucks, decides to turn to an old cohort of his, William Homer but Willy's a little short. George then decides to steal the plans to a new drill, Pamela's suitor, Dudley Heath is working on. But when George gets the mumps, he can't make it to the meeting place and refuses to give Willy the plans unless he gives him the cash first. And the buyers won't give unless they see the merchandise first.",
+      "country": "UK"
     },
     {
       "id": "cinemateca_19633",
@@ -994,7 +1006,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.05,
       "plot": "Women enter and exit a science fiction author's life over the course of a few years after the author loses the woman he considers his one true love.",
-      "country": "Hong Kong, China, France, Italy, Germany, Netherlands"
+      "country": "Germany"
     },
     {
       "id": "cinemateca_19691",
@@ -1017,7 +1029,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.25,
       "plot": "A guerilla leader falls in love with a mysterious woman in World War II Lisbon.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "cinemateca_19708",
@@ -1063,7 +1075,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.93,
-      "plot": "After a man kills two members of his Yukon gold prospecting team, the other two surviving members struggle to keep him subdued for the next several months until they can turn him over to the law."
+      "plot": "After a man kills two members of his Yukon gold prospecting team, the other two surviving members struggle to keep him subdued for the next several months until they can turn him over to the law.",
+      "country": "USSR"
     },
     {
       "id": "cinemateca_19656",
@@ -1143,7 +1156,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.86,
       "plot": "Lorenzo, who's 16 and born to a wealthy family in Parma, tries to make things right toward a showgirl, Aida, whom his older brother has mistreated. In extending kindness and standing up for her, he comes of age. But, is there anything he can do that will alter Aida's situation or her prospects?",
-      "country": "Italy, France"
+      "country": "Italy"
     },
     {
       "id": "cinemateca_19829",
@@ -1166,7 +1179,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.22,
       "plot": "The players in an ongoing poker game are being mysteriously killed off, one by one.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "cinemateca_19732",
@@ -1188,7 +1201,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.28,
       "plot": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
-      "country": "Italy, France"
+      "country": "Italy"
     },
     {
       "id": "cinemateca_19734",
@@ -1216,7 +1229,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.62,
       "plot": "Set in Sicily, this violent crime drama tells the tale of an Italian cop who heads to a small island town to look into the death of a construction supplier. Once there he is shocked by the influence the Mafia has over the people and even himself.",
-      "country": "Italy, France"
+      "country": "France"
     },
     {
       "id": "cinemateca_19736",
@@ -1238,7 +1251,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.15,
       "plot": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
-      "country": "Italy, France"
+      "country": "France"
     },
     {
       "id": "cinemateca_19737",
@@ -1266,7 +1279,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.42,
       "plot": "The trademark of The Phantom, a renowned jewel thief, is a glove left at the scene of the crime. Inspector Clouseau, an expert on The Phantom's exploits, feels sure that he knows where The Phantom will strike next and leaves Paris for the Tyrolean Alps, where the famous Lugashi jewel 'The Pink Panther' is going to be. However, he does not know who The Phantom really is, or for that matter who anyone else really is...",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "cinemateca_19758",
@@ -1288,7 +1301,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.77,
-      "plot": "Pier Paolo Pasolini’s contribution to the omnibus film RO.GO.PA.G casts Orson Welles as a director attempting to make a film of the crucifixion of Jesus—all while he, the cast, and crew behave in the most un-Christlike ways imaginable. Making explicit Pasolini’s themes of persecution and sacrifice while introducing an overtly political message, LA RICOTTA also reflects a shift from neorealism toward a more symbolic and visionary style in his filmmaking. It got him sentenced to several months in prison for contempt of religion, although the charge was reversed."
+      "plot": "Pier Paolo Pasolini’s contribution to the omnibus film RO.GO.PA.G casts Orson Welles as a director attempting to make a film of the crucifixion of Jesus—all while he, the cast, and crew behave in the most un-Christlike ways imaginable. Making explicit Pasolini’s themes of persecution and sacrifice while introducing an overtly political message, LA RICOTTA also reflects a shift from neorealism toward a more symbolic and visionary style in his filmmaking. It got him sentenced to several months in prison for contempt of religion, although the charge was reversed.",
+      "country": "France"
     },
     {
       "id": "cinemateca_19763",
@@ -1309,7 +1323,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.84,
-      "plot": "A long-hidden, personal doc about leaving a beloved house by the late, revered Portuguese director Manoel de Oliveira."
+      "plot": "A long-hidden, personal doc about leaving a beloved house by the late, revered Portuguese director Manoel de Oliveira.",
+      "country": "Portugal"
     },
     {
       "id": "cinemateca_19759",
@@ -1332,7 +1347,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.68,
       "plot": "Based on the plot of Euripides' Medea. Medea centers on the barbarian protagonist as she finds her position in the Greek world threatened, and the revenge she takes against her husband Jason who has betrayed her for another woman.",
-      "country": "Italy, France, West Germany"
+      "country": "France"
     },
     {
       "id": "cinemateca_19739",
@@ -1354,7 +1369,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.56,
       "plot": "At the end of World War II, shallow, self-centered Mara is the prettiest girl in her small Italian village; Bebo is a Communist partisan who is finding it difficult to adjust to the dull banalities of life in peacetime. When Mara’s father, a passionate Communist, declares that his daughter will marry the returning hero, her reactions range from joy to bitter resentment.",
-      "country": "Italy, France"
+      "country": "France"
     },
     {
       "id": "cinemateca_19764",
@@ -1376,7 +1391,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.21,
       "plot": "Documents the lives of infamous fakers Elmyr de Hory and Clifford Irving. De Hory, who later committed suicide to avoid more prison time, made his name by selling forged works of art by painters like Picasso and Matisse. Irving was infamous for writing a fake autobiography of Howard Hughes. Welles moves between documentary and fiction as he examines the fundamental elements of fraud and the people who commit fraud at the expense of others.",
-      "country": "France, Iran, West Germany"
+      "country": "France"
     },
     {
       "id": "cinemateca_19760",
@@ -1417,7 +1432,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.0,
-      "plot": "Maria Grazia and her children Michele and Carla are left without a livelihood. Maria Grazia's money-hungry lover Leo develops a plan to take the last property from the family - the attic in which they live. Michele tries to thwart Leo's plans, but when his attempts fail, young Carla takes over."
+      "plot": "Maria Grazia and her children Michele and Carla are left without a livelihood. Maria Grazia's money-hungry lover Leo develops a plan to take the last property from the family - the attic in which they live. Michele tries to thwart Leo's plans, but when his attempts fail, young Carla takes over.",
+      "country": "France"
     },
     {
       "id": "cinemateca_19765",
@@ -1455,7 +1471,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.46,
-      "plot": "A strong-willed woman risks everything to support the cause of anti-fascism in World War II Italy."
+      "plot": "A strong-willed woman risks everything to support the cause of anti-fascism in World War II Italy.",
+      "country": "Italy"
     },
     {
       "id": "cinemateca_19744",
@@ -1477,7 +1494,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.69,
-      "plot": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her."
+      "plot": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
+      "country": "Italy"
     },
     {
       "id": "cinemateca_19746",
@@ -1501,7 +1519,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.69,
       "plot": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "cinemateca_19767",
@@ -1539,7 +1557,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.29,
-      "plot": "A woman discovers curious erotic messages on a lost cell phone in the train. When she meets the owner of the phone, a liberated young woman, the two of them embark on an erotic journey."
+      "plot": "A woman discovers curious erotic messages on a lost cell phone in the train. When she meets the owner of the phone, a liberated young woman, the two of them embark on an erotic journey.",
+      "country": "France"
     },
     {
       "id": "cinemateca_19762",
@@ -1582,7 +1601,7 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "In this unique approach to the autobiographical film format, director Stephen Dwoskin pieces together home movies shot by his parents in New York City, a video letter recorded during the 1990 Gulf War by filmmaker Robert Kramer, and raw footage filmed by Dwoskin himself. A veteran of the New York independent film scene of the 1960s, Dwoskin constructs a film poem in which the strong sentiment of his personal story—he was stricken by polio and eventually confined to a wheelchair—never overwhelms the beauty of the film’s distinct form.",
-      "country": "United Kingdom"
+      "country": "UK"
     },
     {
       "id": "cinemateca_19748",
@@ -1603,7 +1622,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.38,
-      "plot": "Deranged after a fall from a horse, a man has lived for twenty years in a castle laboring under the delusion that he is Holy Roman Emperor Henry IV. His psychiatrist concocts an elaborate scheme to shock him out of his medieval reverie."
+      "plot": "Deranged after a fall from a horse, a man has lived for twenty years in a castle laboring under the delusion that he is Holy Roman Emperor Henry IV. His psychiatrist concocts an elaborate scheme to shock him out of his medieval reverie.",
+      "country": "Italy"
     },
     {
       "id": "cinemateca_19830",
@@ -1625,7 +1645,7 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "Follows members of far-left armed group FP25 in 1980s Lisbon as they live underground lives built on bank robberies and attacks while facing the perpetual threat of prison or death.",
-      "country": "Luxembourg, Portugal"
+      "country": "Luxembourg"
     },
     {
       "id": "cinemateca_19724",
@@ -1649,7 +1669,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.04,
       "plot": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
-      "country": "New Zealand, United States, Czech Republic"
+      "country": "New Zealand"
     },
     {
       "id": "cinemateca_19774",
@@ -1671,7 +1691,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.08,
       "plot": "Drawn from footage shot between 1949 and 1963, Jonas Mekas’s autobiographical diary film chronicles his early years in exile, capturing the struggle to build a new life in New York and his gradual discovery of a vibrant artistic community.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "cinemateca_19819",
@@ -1692,7 +1712,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.53,
-      "plot": "In 1921, we follow two women - Marie and Grete - from the same poor Viennese neighborhood, as they try to better the lives of themselves and their families during the period of Austrian postwar hyperinflation."
+      "plot": "In 1921, we follow two women - Marie and Grete - from the same poor Viennese neighborhood, as they try to better the lives of themselves and their families during the period of Austrian postwar hyperinflation.",
+      "country": "Germany"
     },
     {
       "id": "cinemateca_19750",
@@ -1736,7 +1757,29 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.81,
       "plot": "Akerman films her mother Natalia, an elderly woman of Polish origin, in her Brussels apartment. For two hours, we will see them eating, chatting and sharing memories, sometimes accompanied by Sylvaine, Chantal's sister. Also, and to show how small the world has become, Chantal remains in contact with her mother at other times of the year via Skype from lands as far away from Belgium as Oklahoma or New York.",
-      "country": "Belgium, France"
+      "country": "Belgium"
+    },
+    {
+      "id": "nimas_o-rapaz-da-ilha-de-amrum-2025",
+      "title": "O Rapaz da Ilha de Amrum",
+      "director": "Fatih Akin",
+      "year": 2025,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/2/7/5/1/1152751-amrum-0-500-0-750-crop.jpg?v=3030abe919",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-rapaz-da-ilha-de-amrum-2025",
+      "sessions": [
+        {
+          "date": "2026-03-30",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.4,
+      "plot": "On Amrum Island in spring 1945, twelve-year-old Nanning hunts seals, fishes at night, and works the fields to help feed his family. When the war ends, his mother sinks into depression, and he must navigate new conflicts while struggling to find his own path.",
+      "country": "Germany"
     },
     {
       "id": "nimas_entroncamento-2025",
@@ -1787,27 +1830,6 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
-      "id": "nimas_o-rapaz-da-ilha-de-amrum-2025",
-      "title": "O Rapaz da Ilha de Amrum",
-      "director": "Fatih Akin",
-      "year": 2025,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/2/7/5/1/1152751-amrum-0-500-0-750-crop.jpg?v=3030abe919",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-rapaz-da-ilha-de-amrum-2025",
-      "sessions": [
-        {
-          "date": "2026-03-30",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.4,
-      "plot": "On Amrum Island in spring 1945, twelve-year-old Nanning hunts seals, fishes at night, and works the fields to help feed his family. When the war ends, his mother sinks into depression, and he must navigate new conflicts while struggling to find his own path."
-    },
-    {
       "id": "nimas_hamnet-2025",
       "title": "Hamnet",
       "director": "Chloé Zhao",
@@ -1834,28 +1856,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.19,
       "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "country": "United Kingdom, United States"
-    },
-    {
-      "id": "nimas_mae-e-filho-1997",
-      "title": "Mãe e Filho",
-      "director": "Aleksandr Sokurov",
-      "year": 1997,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/8/1/4/20814-mother-and-son-0-500-0-750-crop.jpg?v=37231026b7",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/mae-e-filho-1997",
-      "sessions": [
-        {
-          "date": "2026-03-30",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.96,
-      "plot": "A man goes for a walk through the countryside with his dying mother."
+      "country": "UK"
     },
     {
       "id": "nimas_blue-moon-2025",
@@ -1879,7 +1880,48 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.58,
       "plot": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
-      "country": "United States, Ireland"
+      "country": "Ireland"
+    },
+    {
+      "id": "nimas_mae-e-filho-1997",
+      "title": "Mãe e Filho",
+      "director": "Aleksandr Sokurov",
+      "year": 1997,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/8/1/4/20814-mother-and-son-0-500-0-750-crop.jpg?v=37231026b7",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/mae-e-filho-1997",
+      "sessions": [
+        {
+          "date": "2026-03-30",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.96,
+      "plot": "A man goes for a walk through the countryside with his dying mother.",
+      "country": "Germany"
+    },
+    {
+      "id": "nimas_historias-do-vale-bom-2025",
+      "title": "Histórias do Vale Bom",
+      "director": "José Luis Guerin",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://medeiafilmes.com/uploads/library/historias_do_vale_bom.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/historias-do-vale-bom-2025",
+      "sessions": [
+        {
+          "date": "2026-04-01",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_solaris-1972",
@@ -1908,26 +1950,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.23,
       "plot": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
-      "country": "Soviet Union"
-    },
-    {
-      "id": "nimas_historias-do-vale-bom-2025",
-      "title": "Histórias do Vale Bom",
-      "director": "José Luis Guerin",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/historias_do_vale_bom.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/historias-do-vale-bom-2025",
-      "sessions": [
-        {
-          "date": "2026-04-01",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
+      "country": "USSR"
     },
     {
       "id": "nimas_cidade-portuaria-1948",
@@ -1953,51 +1976,6 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_taurus-2001",
-      "title": "Taurus",
-      "director": "Aleksandr Sokurov",
-      "year": 2001,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/5/1/19351-taurus-0-500-0-750-crop.jpg?v=8ee3315b4d",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/taurus-2001",
-      "sessions": [
-        {
-          "date": "2026-03-31",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Unfolding over two days in 1924, the film depicts the dying Lenin, world revolutionary and father of the USSR, now powerless and isolated at his Gorki estate. Cared for by his wife, Nadezhda Krupskaia, sister Maniasha, his German doctor and several attendants, Lenin raves about his diminishing faculties, discusses the deaths of great figures (including Marx), rides a car to a picnic in a meadow and ponders his historic legacy.",
-      "country": "Russia"
-    },
-    {
-      "id": "nimas_a-janela-indiscreta-1954",
-      "title": "A Janela Indiscreta",
-      "director": "Alfred Hitchcock",
-      "year": 1954,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/5/2/51552-rear-window-0-500-0-750-crop.jpg?v=855a2e3070",
-      "genres": [
-        "Thriller",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-janela-indiscreta-1954",
-      "sessions": [
-        {
-          "date": "2026-03-31",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.36,
-      "plot": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
-      "country": "United States"
-    },
-    {
       "id": "nimas_luz-de-inverno-1963",
       "title": "Luz de Inverno",
       "director": "Ingmar Bergman",
@@ -2020,6 +1998,29 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
+      "id": "nimas_a-janela-indiscreta-1954",
+      "title": "A Janela Indiscreta",
+      "director": "Alfred Hitchcock",
+      "year": 1954,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/5/2/51552-rear-window-0-500-0-750-crop.jpg?v=855a2e3070",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-janela-indiscreta-1954",
+      "sessions": [
+        {
+          "date": "2026-03-31",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.36,
+      "plot": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_depois-do-ensaio-1984",
       "title": "Depois do Ensaio",
       "director": "Ingmar Bergman",
@@ -2039,7 +2040,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.62,
       "plot": "Rational, exacting, and self-controlled theater director, Henrik Vogler, often stays after rehearsal to think and plan. On this day, Anna comes back, ostensibly looking for a bracelet. She is the lead in his new production of Strindberg's A Dream Play. She talks of her hatred for her mother, now dead, an alcoholic actress, who was Vogler's star and lover.",
-      "country": "Sweden, West Germany"
+      "country": "Germany"
     },
     {
       "id": "nimas_ascensao-1977",
@@ -2062,7 +2063,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.43,
       "plot": "During a freezing WWII winter, two Soviet partisans on a mission to gather food contend with the temperature, the occupying Germans, and their own psyches.",
-      "country": "Soviet Union"
+      "country": "USSR"
     },
     {
       "id": "nimas_variacoes-de-casanova-2014",
@@ -2082,6 +2083,28 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_taurus-2001",
+      "title": "Taurus",
+      "director": "Aleksandr Sokurov",
+      "year": 2001,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/5/1/19351-taurus-0-500-0-750-crop.jpg?v=8ee3315b4d",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/taurus-2001",
+      "sessions": [
+        {
+          "date": "2026-03-31",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Unfolding over two days in 1924, the film depicts the dying Lenin, world revolutionary and father of the USSR, now powerless and isolated at his Gorki estate. Cared for by his wife, Nadezhda Krupskaia, sister Maniasha, his German doctor and several attendants, Lenin raves about his diminishing faculties, discusses the deaths of great figures (including Marx), rides a car to a picnic in a meadow and ponders his historic legacy.",
+      "country": "Russia"
     },
     {
       "id": "nimas_acordar-para-a-vida-2001",
@@ -2110,7 +2133,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.91,
       "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "nimas_francofonia-2015",
@@ -2133,7 +2156,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.51,
       "plot": "Master filmmaker Alexander Sokurov (Russian Ark) transforms a portrait of the world-renowned museum into a magisterial, centuries-spanning reflection on the relation between art, culture and power.",
-      "country": "France, Germany, Netherlands"
+      "country": "France"
     },
     {
       "id": "nimas_lagrimas-e-suspiros-1972",
@@ -2154,7 +2177,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 4.21,
-      "plot": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs."
+      "plot": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
+      "country": "Sweden"
     },
     {
       "id": "nimas_morangos-silvestres-1957",
@@ -2227,7 +2251,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.19,
-      "plot": "Set in Mexico City sometime in the future and starring US actor Brian Petsos and Mexican actress Sofia Sisniega, SUNDAYS is an ambitious philosophical science-fiction proof-of-concept short. The end of the world seems like a nightmare to Ben. A memory of a past life that doesn’t belong to him. When Ben starts to remember Isabelle, the only love he’s ever known, he realises she’s missing in his life. An existential descent into confusion and the desperate need to find out the truth begins. This reality depicts a stunning, surprising and dark world. A world that is clearly not his."
+      "plot": "Set in Mexico City sometime in the future and starring US actor Brian Petsos and Mexican actress Sofia Sisniega, SUNDAYS is an ambitious philosophical science-fiction proof-of-concept short. The end of the world seems like a nightmare to Ben. A memory of a past life that doesn’t belong to him. When Ben starts to remember Isabelle, the only love he’s ever known, he realises she’s missing in his life. An existential descent into confusion and the desperate need to find out the truth begins. This reality depicts a stunning, surprising and dark world. A world that is clearly not his.",
+      "country": "Netherlands"
     },
     {
       "id": "nimas_um-verao-de-amor-1951",
@@ -2274,7 +2299,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.76,
       "plot": "When German knights invade Russia, Prince Alexander Nevsky must rally his people to resist the formidable force. After the Teutonic soldiers take over an eastern Russian city, Alexander stages his stand at Novgorod, where a major battle is fought on the ice of frozen Lake Chudskoe. While Alexander leads his outnumbered troops, two of their number, Vasili and Gavrilo, begin a contest of bravery to win the hand of a local maiden.",
-      "country": "Soviet Union"
+      "country": "USSR"
     },
     {
       "id": "nimas_uma-licao-de-amor-1953",
@@ -2322,7 +2347,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.31,
       "plot": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "nimas_andrei-rublev-1966",
@@ -2345,7 +2370,36 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.44,
       "plot": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
-      "country": "Soviet Union"
+      "country": "USSR"
+    },
+    {
+      "id": "nimas_a-mulher-que-viveu-duas-vezes-1958",
+      "title": "A Mulher Que Viveu Duas Vezes",
+      "director": "Alfred Hitchcock",
+      "year": 1958,
+      "duration": 128,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-500-0-750-crop.jpg?v=1403a5e003",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-mulher-que-viveu-duas-vezes-1958",
+      "sessions": [
+        {
+          "date": "2026-04-03",
+          "time": "19:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.22,
+      "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "country": "USA"
     },
     {
       "id": "nimas_romaria-2025",
@@ -2381,36 +2435,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.6,
-      "plot": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers."
-    },
-    {
-      "id": "nimas_a-mulher-que-viveu-duas-vezes-1958",
-      "title": "A Mulher Que Viveu Duas Vezes",
-      "director": "Alfred Hitchcock",
-      "year": 1958,
-      "duration": 128,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-500-0-750-crop.jpg?v=1403a5e003",
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-mulher-que-viveu-duas-vezes-1958",
-      "sessions": [
-        {
-          "date": "2026-04-03",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-12",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.22,
-      "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-      "country": "United States"
+      "plot": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
+      "country": "Spain"
     },
     {
       "id": "nimas_siberiada-1979",
@@ -2434,7 +2460,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 4.11,
-      "plot": "The story about a very small god-forgotten village in Siberia reflects the history of Russia from the beginning of the century till the early 1980s. Three generations try to find the land of happiness and to give it to the people. One builds the road through taiga to the star over horizon, the second 'build communism' and the third searches for oil."
+      "plot": "The story about a very small god-forgotten village in Siberia reflects the history of Russia from the beginning of the century till the early 1980s. Three generations try to find the land of happiness and to give it to the people. One builds the road through taiga to the star over horizon, the second 'build communism' and the third searches for oil.",
+      "country": "USSR"
     },
     {
       "id": "nimas_fanny-e-alexandre-1982",
@@ -2458,7 +2485,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.42,
       "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
-      "country": "Sweden, France, West Germany"
+      "country": "Sweden"
     },
     {
       "id": "nimas_ivan-o-terrivel-parte-1-1944",
@@ -2480,7 +2507,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.95,
-      "plot": "Set during the early part of his reign, Ivan faces betrayal from the aristocracy and even his closest friends as he seeks to unite the Russian people. Sergei Eisenstein's final film, this is the first part of a three-part biopic of Tsar Ivan IV of Russia, which was never completed due to the producer's dissatisfaction with Eisenstein's attempts to use forbidden experimental filming techniques and excessive cost overruns. The second part was completed but not released for a decade after Eisenstein's death and a change of heart in the USSR government toward his work; the third part was only in its earliest stage of filming when shooting was stopped altogether."
+      "plot": "Set during the early part of his reign, Ivan faces betrayal from the aristocracy and even his closest friends as he seeks to unite the Russian people. Sergei Eisenstein's final film, this is the first part of a three-part biopic of Tsar Ivan IV of Russia, which was never completed due to the producer's dissatisfaction with Eisenstein's attempts to use forbidden experimental filming techniques and excessive cost overruns. The second part was completed but not released for a decade after Eisenstein's death and a change of heart in the USSR government toward his work; the third part was only in its earliest stage of filming when shooting was stopped altogether.",
+      "country": "USSR"
     },
     {
       "id": "nimas_ivan-o-terrivel-parte-2-1958",
@@ -2502,7 +2530,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 4.05,
-      "plot": "This is the second part of a projected three-part epic biopic of Russian Czar Ivan Grozny, undertaken by Soviet film-maker Sergei Eisenstein at the behest of Josef Stalin. Production of the epic was stopped before the third part could be filmed, due to producer dissatisfaction with Eisenstein's introducing forbidden experimental filming techniques into the material, more evident in this part than the first part. As it was, this second part was banned from showings until after the deaths of both Eisenstein and Stalin, and a change of attitude by the subsequent heads of the Soviet government. In this part, as Ivan the Terrible attempts to consolidate his power by establishing a personal army, his political rivals, the Russian boyars, plot to assassinate him."
+      "plot": "This is the second part of a projected three-part epic biopic of Russian Czar Ivan Grozny, undertaken by Soviet film-maker Sergei Eisenstein at the behest of Josef Stalin. Production of the epic was stopped before the third part could be filmed, due to producer dissatisfaction with Eisenstein's introducing forbidden experimental filming techniques into the material, more evident in this part than the first part. As it was, this second part was banned from showings until after the deaths of both Eisenstein and Stalin, and a change of attitude by the subsequent heads of the Soviet government. In this part, as Ivan the Terrible attempts to consolidate his power by establishing a personal army, his political rivals, the Russian boyars, plot to assassinate him.",
+      "country": "USSR"
     },
     {
       "id": "nimas_sonata-de-outono-1978",
@@ -2524,30 +2553,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.49,
       "plot": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
-      "country": "West Germany, United Kingdom, Sweden"
-    },
-    {
-      "id": "nimas_moloch-1999",
-      "title": "Moloch",
-      "director": "Aleksandr Sokurov",
-      "year": 1999,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/moloch-1999",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.63,
-      "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
-      "country": "Russia, Germany, Italy, Switzerland"
+      "country": "Germany"
     },
     {
       "id": "nimas_ladrao-de-casaca-1955",
@@ -2571,7 +2577,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.72,
       "plot": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "nimas_o-homem-da-camara-de-filmar-1929",
@@ -2593,7 +2599,30 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.27,
       "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
-      "country": "Soviet Union"
+      "country": "USSR"
+    },
+    {
+      "id": "nimas_moloch-1999",
+      "title": "Moloch",
+      "director": "Aleksandr Sokurov",
+      "year": 1999,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/moloch-1999",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.63,
+      "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
+      "country": "Germany"
     },
     {
       "id": "nimas_stalker-1979",
@@ -2616,7 +2645,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.4,
       "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "country": "Soviet Union"
+      "country": "USSR"
     },
     {
       "id": "nimas_os-passaros-1963",
@@ -2639,7 +2668,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.74,
       "plot": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
-      "country": "United States"
+      "country": "USA"
     },
     {
       "id": "nimas_nostalgia-1983-1983",
@@ -2661,7 +2690,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 4.28,
-      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language."
+      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
+      "country": "Italy"
     },
     {
       "id": "nimas_fairytale-2022",
@@ -2685,7 +2715,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.38,
       "plot": "A civil and artistic statement about those who determined the fate of the planet: Stalin, Churchill, Mussolini, Hitler, according to a Russian newspaper.",
-      "country": "Russia, Belgium"
+      "country": "Belgium"
     },
     {
       "id": "nimas_a-vergonha-1968",
@@ -2729,7 +2759,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.67,
-      "plot": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work."
+      "plot": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work.",
+      "country": "USSR"
     },
     {
       "id": "nimas_a-fonte-da-virgem-1960",
@@ -2776,29 +2807,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.19,
       "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-      "country": "United States"
-    },
-    {
-      "id": "nimas_chuva-de-julho-1966",
-      "title": "Chuva de Julho",
-      "director": "Marlen Khutsiev",
-      "year": 1966,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
-      "sessions": [
-        {
-          "date": "2026-04-09",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.92,
-      "plot": "Lena, a woman in her late twenties, loves her boyfriend, but in time comes to see that their relationship serves no useful function. What's more, she sees that her friends are for the most part empty-headed lackeys, causing her to wonder just what is the point of her life."
+      "country": "USA"
     },
     {
       "id": "nimas_antes-do-amanhecer-1995",
@@ -2821,7 +2830,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.3,
       "plot": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
-      "country": "United States, Austria"
+      "country": "Austria"
     },
     {
       "id": "nimas_o-sol-2005",
@@ -2843,29 +2852,31 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.74,
-      "plot": "A re-imagination of Japanese Emperor Hirohito’s final days in power as WWII draws to a close."
+      "plot": "A re-imagination of Japanese Emperor Hirohito’s final days in power as WWII draws to a close.",
+      "country": "Italy"
     },
     {
-      "id": "nimas_da-vida-das-marionetas-1980",
-      "title": "Da Vida das Marionetas",
-      "director": "Ingmar Bergman",
-      "year": 1980,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
+      "id": "nimas_chuva-de-julho-1966",
+      "title": "Chuva de Julho",
+      "director": "Marlen Khutsiev",
+      "year": 1966,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
+      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
       "sessions": [
         {
           "date": "2026-04-09",
-          "time": "13:00",
+          "time": "17:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.73,
-      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
-      "country": "West Germany, Austria"
+      "rating": 3.92,
+      "plot": "Lena, a woman in her late twenties, loves her boyfriend, but in time comes to see that their relationship serves no useful function. What's more, she sees that her friends are for the most part empty-headed lackeys, causing her to wonder just what is the point of her life.",
+      "country": "USSR"
     },
     {
       "id": "nimas_o-barqueiro-2025",
@@ -2917,6 +2928,28 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_da-vida-das-marionetas-1980",
+      "title": "Da Vida das Marionetas",
+      "director": "Ingmar Bergman",
+      "year": 1980,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.73,
+      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
+      "country": "Germany"
+    },
+    {
       "id": "nimas_a-paixao-1956",
       "title": "A Paixão",
       "director": "Ingmar Bergman",
@@ -2935,7 +2968,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.95,
-      "plot": "A recently divorced man and an emotionally devastated widow begin a love affair."
+      "plot": "A recently divorced man and an emotionally devastated widow begin a love affair.",
+      "country": "Sweden"
     },
     {
       "id": "nimas_o-couracado-potemkine-1925",
@@ -2959,7 +2993,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.0,
       "plot": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre.",
-      "country": "Soviet Union"
+      "country": "USSR"
     },
     {
       "id": "nimas_ainda-funciona-2025",
@@ -2981,7 +3015,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.42,
-      "plot": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form."
+      "plot": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+      "country": "UK"
     },
     {
       "id": "nimas_adeus-a-matiora-1983",
@@ -3003,7 +3038,54 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.98,
       "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
-      "country": "Soviet Union"
+      "country": "USSR"
+    },
+    {
+      "id": "nimas_amadeus-director-s-cut-1984",
+      "title": "Amadeus – Director's Cut",
+      "director": "Milos Forman",
+      "year": 1984,
+      "duration": 181,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
+      "genres": [
+        "Drama",
+        "History",
+        "Music"
+      ],
+      "link": "https://medeiafilmes.com/filmes/amadeus-director-s-cut-1984",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.36,
+      "plot": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_antes-do-anoitecer-2004",
+      "title": "Antes do Anoitecer",
+      "director": "Richard Linklater",
+      "year": 2004,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/0/51970-before-sunset-0-500-0-750-crop.jpg?v=718e2923ff",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/antes-do-anoitecer-2004",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "22:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.32,
+      "plot": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+      "country": "USA"
     },
     {
       "id": "nimas_o-diario-do-realizador-2025",
@@ -3030,52 +3112,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_amadeus-director-s-cut-1984",
-      "title": "Amadeus – Director's Cut",
-      "director": "Milos Forman",
-      "year": 1984,
-      "duration": 181,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
-      "genres": [
-        "Drama",
-        "History",
-        "Music"
-      ],
-      "link": "https://medeiafilmes.com/filmes/amadeus-director-s-cut-1984",
-      "sessions": [
-        {
-          "date": "2026-04-11",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.36,
-      "plot": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart."
-    },
-    {
-      "id": "nimas_antes-do-anoitecer-2004",
-      "title": "Antes do Anoitecer",
-      "director": "Richard Linklater",
-      "year": 2004,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/0/51970-before-sunset-0-500-0-750-crop.jpg?v=718e2923ff",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/antes-do-anoitecer-2004",
-      "sessions": [
-        {
-          "date": "2026-04-11",
-          "time": "22:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.32,
-      "plot": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
-      "country": "United States"
-    },
-    {
       "id": "nimas_a-mascara-1966",
       "title": "A Máscara",
       "director": "Ingmar Bergman",
@@ -3098,28 +3134,6 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_boyhood-momentos-de-uma-vida-2014",
-      "title": "Boyhood: Momentos de Uma Vida",
-      "director": "Richard Linklater",
-      "year": 2014,
-      "duration": 165,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/xi/gm/ev/iu/eKi4e5zXhQKs0De4xu5AAMvu376-0-500-0-750-crop.jpg?v=550c14e234",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/boyhood-momentos-de-uma-vida-2014",
-      "sessions": [
-        {
-          "date": "2026-04-13",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.83,
-      "plot": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
-      "country": "United States"
-    },
-    {
       "id": "nimas_mulheres-que-esperam-1952",
       "title": "Mulheres Que Esperam",
       "director": "Ingmar Bergman",
@@ -3139,7 +3153,30 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.51,
-      "plot": "The four wives of four brothers share stories of their marriages as they wait for their husbands in a small, secluded cottage."
+      "plot": "The four wives of four brothers share stories of their marriages as they wait for their husbands in a small, secluded cottage.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_boyhood-momentos-de-uma-vida-2014",
+      "title": "Boyhood: Momentos de Uma Vida",
+      "director": "Richard Linklater",
+      "year": 2014,
+      "duration": 165,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xi/gm/ev/iu/eKi4e5zXhQKs0De4xu5AAMvu376-0-500-0-750-crop.jpg?v=550c14e234",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/boyhood-momentos-de-uma-vida-2014",
+      "sessions": [
+        {
+          "date": "2026-04-13",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.83,
+      "plot": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+      "country": "USA"
     },
     {
       "id": "nimas_a-prisao-1949",
@@ -3184,7 +3221,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.19,
       "plot": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
-      "country": "Soviet Union"
+      "country": "USSR"
     },
     {
       "id": "nimas_don-giovanni-1979",
@@ -3207,30 +3244,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.69,
       "plot": "Screen adapatation of Mozart's greatest opera. Don Giovanni, the infamous womanizer, makes one conquest after another until the ghost of Donna Anna's father, the Commendatore, (whom Giovanni killed) makes his appearance. He offers Giovanni one last chance to repent for his multitudinious improprieties. He will not change his ways So, he is sucked down into hell by evil spirits. High drama, hysterical comedy, magnificent music!",
-      "country": "France, Italy, West Germany"
-    },
-    {
-      "id": "nimas_arsenal-1929",
-      "title": "Arsenal",
-      "director": "Aleksandr Dovzhenko",
-      "year": 1929,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
-      "genres": [
-        "War",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.75,
-      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
-      "country": "Soviet Union"
+      "country": "Germany"
     },
     {
       "id": "nimas_em-busca-da-verdade-1961",
@@ -3278,6 +3292,29 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
+      "id": "nimas_arsenal-1929",
+      "title": "Arsenal",
+      "director": "Aleksandr Dovzhenko",
+      "year": 1929,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.75,
+      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
+      "country": "USSR"
+    },
+    {
       "id": "fernando_a_pequena_ame_lie",
       "title": "A Pequena Amélie",
       "director": "Liane-Cho Han Jin Kuang e Maïlys Vallade",
@@ -3303,7 +3340,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 4.1,
-      "plot": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan."
+      "plot": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
+      "country": "France"
     },
     {
       "id": "fernando_marcel_e_monsieur_pagnol",
@@ -3336,7 +3374,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.47,
-      "plot": "In 1955, 60-year-old Marcel Pagnol is a well-known and acclaimed playwright and filmmaker. When the editor-in-chief of ELLE magazine commissions a weekly column about Pagnol's childhood, he sees this as a great opportunity to go back to his artistic roots: writing. Realizing his memory is failing him and deeply affected by the disappointing results of his last two plays, Pagnol starts doubting his ability to pursue his work. That is until Little Marcel - the young boy he used to be - appears to him as if by magic. Together, they will explore Marcel Pagnol's incredible life and bring back to life his most cherished encounters and memories..."
+      "plot": "In 1955, 60-year-old Marcel Pagnol is a well-known and acclaimed playwright and filmmaker. When the editor-in-chief of ELLE magazine commissions a weekly column about Pagnol's childhood, he sees this as a great opportunity to go back to his artistic roots: writing. Realizing his memory is failing him and deeply affected by the disappointing results of his last two plays, Pagnol starts doubting his ability to pursue his work. That is until Little Marcel - the young boy he used to be - appears to him as if by magic. Together, they will explore Marcel Pagnol's incredible life and bring back to life his most cherished encounters and memories...",
+      "country": "France"
     },
     {
       "id": "fernando_riefenstahl",
@@ -3386,7 +3425,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 2.83,
-      "plot": "Loosely based on real events that took place during Matteo Messina Denaro's thirty years on the run. A disgraced politician is gifted a second chance when secret services involve him in an operation to root out an elusive Mafia boss. Using his personal connection as the Boss' godfather, his task is to get him to reveal his hiding place in their secret letters."
+      "plot": "Loosely based on real events that took place during Matteo Messina Denaro's thirty years on the run. A disgraced politician is gifted a second chance when secret services involve him in an operation to root out an elusive Mafia boss. Using his personal connection as the Boss' godfather, his task is to get him to reveal his hiding place in their secret letters.",
+      "country": "France"
     },
     {
       "id": "fernando_sen",
@@ -3407,7 +3447,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 4.16,
-      "plot": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star."
+      "plot": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+      "country": "Turkey"
     },
     {
       "id": "fernando_mr_nobody_contra_putin",
@@ -3428,7 +3469,8 @@ window.CINEMA_DATA = {
         }
       ],
       "rating": 3.68,
-      "plot": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school."
+      "plot": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
+      "country": "Denmark"
     },
     {
       "id": "fernando_o_enigma_de_kaspar_hauser_mostra_essencial_werner",
@@ -3451,7 +3493,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.93,
       "plot": "The film follows Kaspar Hauser, who lived the first seventeen years of his life chained in a tiny cellar with only a toy horse to occupy his time, devoid of all human contact except for a man who wears a black overcoat and top hat who feeds him.",
-      "country": "West Germany"
+      "country": "Germany"
     },
     {
       "id": "fernando_nosferatu_o_fantasma_da_noite_mostra_essencial_werner_herzog",
@@ -3474,7 +3516,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.81,
       "plot": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
-      "country": "West Germany, France"
+      "country": "Germany"
     },
     {
       "id": "fernando_lic_o_es_da_escurida_o_mostra_essencial_werner_herzog",
@@ -3498,7 +3540,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.16,
       "plot": "Shortly after the Gulf War, oil fires were raging all through Kuwait. In the week before this sea of fire would be extinguished, Werner Herzog filmed this apocalyptic landscape with its murky skies, scorched earth and capricious flames.",
-      "country": "Germany, France, Spain, United Kingdom"
+      "country": "France"
     },
     {
       "id": "fernando_ale_m_do_azul_selvagem_mostra_essencial_werner_herzog",
@@ -3520,7 +3562,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.34,
       "plot": "An alien narrates the story of his dying planet, his and his people's visitations to Earth and Earth's self-made demise, while human astronauts in space are attempting to find an alternate planet for surviving humans to live on.",
-      "country": "Germany, France, Austria, United Kingdom"
+      "country": "Austria"
     }
   ],
   "errors": []

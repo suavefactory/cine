@@ -6,7 +6,8 @@
       "description": "In a family-run hotel, by the Portuguese northern shore, lives a group of women from different generations of the same family, whose relationships with each other have grown poisoned by bitterness. They try to survive in the declining hotel, as the unexpected arrival of a granddaughter to this oppressive space stirs trouble, reviving latent hatred and piled-up resentments.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Bad Living",
@@ -52,7 +53,8 @@
       "description": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -63,7 +65,8 @@
       "description": "In a family-run hotel, by the Portuguese northern shore, lives a group of women from different generations of the same family, whose relationships with each other have grown poisoned by bitterness. They try to survive in the declining hotel, as the unexpected arrival of a granddaughter to this oppressive space stirs trouble, reviving latent hatred and piled-up resentments.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Bad Living",
@@ -490,7 +493,8 @@
         "Science Fiction",
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "2046",
@@ -922,7 +926,8 @@
       "genres": [
         "Drama",
         "Science Fiction"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Stalker",
@@ -974,7 +979,8 @@
         "Drama",
         "History",
         "Comedy"
-      ]
+      ],
+      "country": "Ireland"
     },
     "omdb": {
       "Title": "Blue Moon",
@@ -1026,7 +1032,8 @@
         "Mystery",
         "Science Fiction",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Solaris",
@@ -1076,7 +1083,8 @@
       "description": "Unfolding over two days in 1924, the film depicts the dying Lenin, world revolutionary and father of the USSR, now powerless and isolated at his Gorki estate. Cared for by his wife, Nadezhda Krupskaia, sister Maniasha, his German doctor and several attendants, Lenin raves about his diminishing faculties, discusses the deaths of great figures (including Marx), rides a car to a picnic in a meadow and ponders his historic legacy.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Russia"
     },
     "omdb": {
       "Title": "Taurus",
@@ -1119,7 +1127,8 @@
       "genres": [
         "Drama",
         "History"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Francofonia",
@@ -1171,7 +1180,8 @@
         "War",
         "History",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Alexander Nevsky",
@@ -1218,7 +1228,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Andrei Rublev",
@@ -1265,7 +1276,8 @@
       "genres": [
         "Drama",
         "History"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "Moloch",
@@ -1313,7 +1325,8 @@
         "Drama",
         "Fantasy",
         "Animation"
-      ]
+      ],
+      "country": "Belgium"
     },
     "omdb": {
       "Title": "Fairytale",
@@ -1361,7 +1374,8 @@
         "Drama",
         "History",
         "Music"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": null
   },
@@ -1373,7 +1387,8 @@
       "genres": [
         "War",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Arsenal",
@@ -1508,7 +1523,8 @@
         "Mystery",
         "Adventure",
         "Thriller"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "North by Northwest",
@@ -1559,7 +1575,8 @@
       "genres": [
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Summer Interlude",
@@ -1649,7 +1666,8 @@
         "Mystery",
         "Fantasy",
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Fanny and Alexander",
@@ -1699,7 +1717,8 @@
       "description": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Persona",
@@ -1756,7 +1775,8 @@
       "description": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Boyhood",
@@ -1852,7 +1872,8 @@
       "description": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "Autumn Sonata",
@@ -1899,7 +1920,8 @@
       "genres": [
         "Horror",
         "Thriller"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "The Birds",
@@ -1949,7 +1971,8 @@
       "description": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Through a Glass Darkly",
@@ -1999,7 +2022,8 @@
       "description": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Winter Light",
@@ -2046,7 +2070,8 @@
       "genres": [
         "Thriller",
         "Mystery"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Rear Window",
@@ -2096,7 +2121,8 @@
       "description": "Rational, exacting, and self-controlled theater director, Henrik Vogler, often stays after rehearsal to think and plan. On this day, Anna comes back, ostensibly looking for a bracelet. She is the lead in his new production of Strindberg's A Dream Play. She talks of her hatred for her mother, now dead, an alcoholic actress, who was Vogler's star and lover.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "After the Rehearsal",
@@ -2144,7 +2170,8 @@
         "Animation",
         "Fantasy",
         "Drama"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Waking Life",
@@ -2194,7 +2221,8 @@
       "description": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": null
   },
@@ -2205,7 +2233,8 @@
       "description": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Wild Strawberries",
@@ -2257,7 +2286,8 @@
         "Mystery",
         "Thriller",
         "Horror"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Psycho",
@@ -2309,7 +2339,8 @@
         "Comedy",
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "A Lesson in Love",
@@ -2357,7 +2388,8 @@
         "Thriller",
         "Romance",
         "Mystery"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Vertigo",
@@ -2409,7 +2441,8 @@
         "Romance",
         "Thriller",
         "Mystery"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "To Catch a Thief",
@@ -2459,7 +2492,8 @@
       "description": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Man with a Movie Camera",
@@ -2509,7 +2543,8 @@
       "description": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": null
   },
@@ -2521,7 +2556,8 @@
       "genres": [
         "Drama",
         "History"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "The Virgin Spring",
@@ -2568,7 +2604,8 @@
       "genres": [
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": null
   },
@@ -2579,7 +2616,8 @@
       "description": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "From the Life of the Marionettes",
@@ -2626,7 +2664,8 @@
       "genres": [
         "Romance",
         "Drama"
-      ]
+      ],
+      "country": "Austria"
     },
     "omdb": {
       "Title": "Before Sunrise",
@@ -2676,7 +2715,8 @@
       "description": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Farewell",
@@ -2720,7 +2760,8 @@
         "Drama",
         "History",
         "War"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Battleship Potemkin",
@@ -2771,7 +2812,8 @@
       "genres": [
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Before Sunset",
@@ -2821,7 +2863,8 @@
       "description": "A filmmaker sets out to create the greatest film in history, but finds out that human abilities have limits.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Prison",
@@ -2864,7 +2907,8 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": null
   },
@@ -2876,7 +2920,8 @@
       "genres": [
         "War",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "Ivan's Childhood",
@@ -2923,7 +2968,8 @@
       "genres": [
         "Romance",
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Music in Darkness",
@@ -3068,7 +3114,8 @@
       "genres": [
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Port of Call",
@@ -3115,7 +3162,8 @@
       "genres": [
         "Drama",
         "War"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": {
       "Title": "The Ascent",
@@ -3164,7 +3212,8 @@
         "War",
         "History",
         "Romance"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": null
   },
@@ -3176,7 +3225,8 @@
       "genres": [
         "Drama",
         "History"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": null
   },
@@ -3188,7 +3238,8 @@
       "genres": [
         "War",
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "Shame",
@@ -3235,7 +3286,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -3290,7 +3342,8 @@
         "History",
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "UK"
     },
     "omdb": {
       "Title": "Hamnet",
@@ -3340,7 +3393,8 @@
       "description": "On Amrum Island in spring 1945, twelve-year-old Nanning hunts seals, fishes at night, and works the fields to help feed his family. When the war ends, his mother sinks into depression, and he must navigate new conflicts while struggling to find his own path.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": null
   },
@@ -3358,7 +3412,8 @@
       "description": "A man goes for a walk through the countryside with his dying mother.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": null
   },
@@ -3369,7 +3424,8 @@
       "description": "Set in Mexico City sometime in the future and starring US actor Brian Petsos and Mexican actress Sofia Sisniega, SUNDAYS is an ambitious philosophical science-fiction proof-of-concept short. The end of the world seems like a nightmare to Ben. A memory of a past life that doesn’t belong to him. When Ben starts to remember Isabelle, the only love he’s ever known, he realises she’s missing in his life. An existential descent into confusion and the desperate need to find out the truth begins. This reality depicts a stunning, surprising and dark world. A world that is clearly not his.",
       "genres": [
         "Science Fiction"
-      ]
+      ],
+      "country": "Netherlands"
     },
     "omdb": null
   },
@@ -3381,7 +3437,8 @@
       "genres": [
         "Music",
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "Don Giovanni",
@@ -3486,7 +3543,8 @@
       "description": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Spain"
     },
     "omdb": null
   },
@@ -3498,7 +3556,8 @@
       "genres": [
         "Comedy",
         "Drama"
-      ]
+      ],
+      "country": "UK"
     },
     "omdb": null
   },
@@ -3555,7 +3614,8 @@
       "description": "A recently divorced man and an emotionally devastated widow begin a love affair.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Sweden"
     },
     "omdb": null
   },
@@ -3567,7 +3627,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": null
   },
@@ -3586,7 +3647,8 @@
       "genres": [
         "Drama",
         "Crime"
-      ]
+      ],
+      "country": "Portugal"
     },
     "omdb": {
       "Title": "Entroncamento",
@@ -3624,7 +3686,8 @@
       "genres": [
         "Drama",
         "Horror"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "Nosferatu the Vampyre",
@@ -3676,7 +3739,8 @@
         "Documentary",
         "Tv Movie",
         "War"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Lessons of Darkness",
@@ -3765,7 +3829,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "The Enigma of Kaspar Hauser",
@@ -3811,7 +3876,8 @@
       "description": "An alien narrates the story of his dying planet, his and his people's visitations to Earth and Earth's self-made demise, while human astronauts in space are attempting to find an alternate planet for surviving humans to live on.",
       "genres": [
         "Science Fiction"
-      ]
+      ],
+      "country": "Austria"
     },
     "omdb": {
       "Title": "The Wild Blue Yonder",
@@ -3863,7 +3929,8 @@
         "Thriller",
         "Drama",
         "Horror"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -3874,7 +3941,8 @@
       "description": "In the untamed beauty of the island owned by an extraordinarily wealthy Marquis, Elena's arrival marks the beginning of a passionate love affair. Complicity and transgression, sex and power, in a film inspired by 1960s Italian true crime, where erotic play unfolds into obsession.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Gli occhi degli altri",
@@ -3912,7 +3980,8 @@
       "genres": [
         "Comedy",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "La vita da grandi",
@@ -3949,7 +4018,8 @@
       "description": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
       "genres": [
         "Comedy"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -3961,7 +4031,8 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Ultimo schiaffo",
@@ -3999,7 +4070,8 @@
       "genres": [
         "Western",
         "Comedy"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Testa o croce",
@@ -4037,7 +4109,8 @@
       "genres": [
         "Drama",
         "Documentary"
-      ]
+      ],
+      "country": "Switzerland"
     },
     "omdb": {
       "Title": "Il quieto vivere",
@@ -4074,7 +4147,8 @@
       "description": "A reluctant summer together transforms into an enchanting adventure when a young boy discovers his aunt's mysterious Sicilian house holds secrets and, perhaps, ancient spirits lurking within its walls.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Gioia mia",
@@ -4112,7 +4186,8 @@
       "genres": [
         "Comedy",
         "Documentary"
-      ]
+      ],
+      "country": "Croatia"
     },
     "omdb": {
       "Title": "Fiume o morte!",
@@ -4149,7 +4224,8 @@
       "description": "A suicide case is informed to the police from a mental hospital in a rocky district. Two policemen comes to hospital to investigate the case. In the same morning, Dr. Deniz comes to hospital as the new psychiatrist. Because of the heavy rain and landslide the only road and telephone connections that provide access to hospital from the city are damaged.There is no transportation to hospital and none can leave hospital. During three days, three patients are killed wildly in the hospital. Everyone becomes anxious. The police deepen the investigation. A mystical patient attracts attention.",
       "genres": [
         "Thriller"
-      ]
+      ],
+      "country": "Turkey"
     },
     "omdb": {
       "Title": "Gen V",
@@ -4190,7 +4266,8 @@
         "Drama",
         "Romance",
         "Action"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -4202,7 +4279,8 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -4213,7 +4291,8 @@
       "description": "Italy, 1989. After years of hard training, 13-year-old Felice, carrying his father's expectations on his shoulders, finally sets out to compete in the national tennis tournaments. While dreaming of a simple summer vacation, he's instead placed under the wing of ex tennis champion Raul, an unconventional coach hired by his father. Match after match, the two embark on a journey that will lead Felice to discover the taste of freedom, and Raul to glimpse the possibility of a fresh start. As they travel along the Italian coast, an unexpected, deep, and sincere bond between them develops.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Il maestro",
@@ -4256,7 +4335,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Duse",
@@ -4443,7 +4523,8 @@
         "War",
         "Comedy",
         "Drama"
-      ]
+      ],
+      "country": "New Zealand"
     },
     "omdb": {
       "Title": "Jojo Rabbit",
@@ -4577,7 +4658,8 @@
       "description": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": {
       "Title": "Riefenstahl",
@@ -4627,7 +4709,8 @@
       "description": "The events related to the death of Giulio Regeni, kidnapped, tortured and killed in Egypt, with the reconstruction of his family and lawyer Alessandra Ballerini, showing the stages of the kidnapping, the torture and killing.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -4638,7 +4721,8 @@
       "description": "In 1944, American sailor Dean Barry arrives in Naples, a city destroyed by bombing after the liberation of Italy. Dean meets Lucia, a young and very poor girl with whom he falls madly in love. Two years later, at the end of his service, Dean has to return to New Jersey and Lucia remains in Naples, alone and pregnant.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Hey, Joe",
@@ -4673,7 +4757,8 @@
       "genres": [
         "Drama",
         "History"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Modì",
@@ -4716,7 +4801,8 @@
       "genres": [
         "Drama",
         "Family"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Napoli",
@@ -4759,7 +4845,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Fuori",
@@ -4873,7 +4960,8 @@
       "description": "The man who successfully exported Sicily to the world, giving it an ironic twist and celebrating its diversity and beauty. We recount his extraordinary artistic journey alongside a cast of illustrious figures from the worlds of literature, theater, and film.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": null
     },
     "omdb": null
   },
@@ -4925,7 +5013,8 @@
         "Tv Movie",
         "Action",
         "Drama"
-      ]
+      ],
+      "country": "Canada"
     },
     "omdb": {
       "Title": "White Lies",
@@ -4964,7 +5053,8 @@
       "description": null,
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Arsa",
@@ -4999,7 +5089,8 @@
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/8/5/3/1406853-una-lunghissima-ombra-0-500-0-750-crop.jpg?v=9525e6c160",
       "description": null,
-      "genres": null
+      "genres": null,
+      "country": null
     },
     "omdb": {
       "Title": "Una lunghissima ombra",
@@ -5036,7 +5127,8 @@
       "description": "A visually impaired woman in her 50s and an 18-year-old girl walk the Camino de Santiago. The older woman, Jae-han, is a masseuse who can only make out the dim outlines of things. She is accompanied by a girl named Da-hee. Jae-han dreams of presenting her own style of flamenco in front of the Cathedral of Santiago de Compostela after completing the pilgrimage. However, the journey, which began with a vague longing, turns out to be much more difficult than either had expected.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "South Korea"
     },
     "omdb": {
       "Title": "Buen Camino",
@@ -5252,7 +5344,8 @@
         "Comedy",
         "War",
         "Romance"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Mediterraneo",
@@ -5298,7 +5391,8 @@
       "description": "Gioia is a high school teacher who has never known any other love than the oppressive bond with her own parents, with whom she still lives. One of the students at her school, Alessio, is cashing in on his own body to make a couple of hundred euros to help his mother, a cashier in a supermarket. The relationship that dawns between Gioia and Alessio is forbidden fruit, fragile yet, inexplicably, one they can’t do without. Still, Alessio’s desire to improve his social standing is a silent killer that prevents him from ultimately accepting Gioia’s surprising affection for him. He goes and destroys it all, cancelling the only person who has ever loved him.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "La gioia",
@@ -5337,7 +5431,8 @@
         "War",
         "History",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -5348,7 +5443,8 @@
       "description": "Who is that scruffy-looking guy who lives alone in the renovated stables of Villa Guelfi? He spends his days doing nothing and avoiding contact with everyone. And when he realizes that a community of young people has settled illegally in the villa and is dedicated to caring for the abandoned countryside and vineyards, he gets nervous and wants to chase them away. They are students, recent graduates, agronomists, and among them is Matilde, who was born there and worked in the vineyard with her grandfather, Count Guelfo Guelfi, as a child. They too are intrigued by this misanthropic gentleman with a mysterious past: why does he live there alone and refuse to have contact with anyone? As the seasons pass, the conflict with this community of young men and women turns into coexistence, and eventually into an alliance. And Adriano finds himself looking after, in his brusque way, the young Countess Matilde, who is pregnant by one of the young men...",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Cinque secondi",
@@ -5385,7 +5481,8 @@
       "description": "Follows a couple, Marta and Antonio, who split up after what seems like an trivial argument.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -5396,7 +5493,8 @@
       "description": "In the spring of 1970, between the African Orestiade and The Decameron, Pasolini shot a film for which he wrote a commentary in verses but never finished editing. The film was born as a typical Pasolini intervention: filming the strike of the garbage collectors in Rome, who at the time worked in dramatic health conditions, and filming the humility of their daily work, amidst the waste and scraps of society, in the squares and in the streets. Pasolini also filmed the faces of garbage collectors engaged in claims discussions and the result was an extraordinary anthropological picture of an unknown humanity.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": null
     },
     "omdb": null
   },
@@ -5411,7 +5509,8 @@
       "description": "Lea and Rocco meet by chance in a bar and an instant attraction ignites between them. From that moment, a secret affair begins, consisting of fleeting, clandestine meetings in a hotel room. However, as time passes, Lea's obsession with Rocco intensifies, leading her to intrude more and more into his life. The story soon takes an unexpected and unsettling turn.",
       "genres": [
         "Comedy"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -5422,7 +5521,8 @@
       "description": "A regular family living in the outskirts of Lisbon sees the serenity of their lives shaken beyond any remedy within a week.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Portugal"
     },
     "omdb": null
   },
@@ -5434,7 +5534,8 @@
       "genres": [
         "History",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Le assaggiatrici",
@@ -5473,7 +5574,8 @@
         "Family",
         "Animation",
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": null
   },
@@ -5486,7 +5588,8 @@
         "Animation",
         "History",
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": null
   },
@@ -5497,7 +5600,8 @@
       "description": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "Denmark"
     },
     "omdb": null
   },
@@ -5509,7 +5613,8 @@
       "genres": [
         "Drama",
         "Romance"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -5522,7 +5627,8 @@
         "Crime",
         "History",
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": null
   },
@@ -5533,7 +5639,8 @@
       "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Turkey"
     },
     "omdb": null
   },
@@ -5591,7 +5698,8 @@
       "genres": [
         "Drama",
         "Thriller"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "The Conspirators",
@@ -5633,7 +5741,8 @@
       "description": "The adventures, fortunes and misfortunes of resourceful peasant Juan Quin Quin - in turns bullfighter, guerrilla fighter and sacristan - who never resigns himself to his fate. Set against the backdrop of 1950s Cuba and steeped in the island's countryside traditions, this comedy is considered the first successful Cuban experimental film.",
       "genres": [
         "Comedy"
-      ]
+      ],
+      "country": "Cuba"
     },
     "omdb": {
       "Title": "The Adventures of Juan Quin Quin",
@@ -5678,7 +5787,8 @@
         "Mystery",
         "Western",
         "Drama"
-      ]
+      ],
+      "country": "USSR"
     },
     "omdb": null
   },
@@ -5691,7 +5801,8 @@
         "Drama",
         "Comedy",
         "Fantasy"
-      ]
+      ],
+      "country": "Mexico"
     },
     "omdb": {
       "Title": "The Exterminating Angel",
@@ -5738,7 +5849,8 @@
       "genres": [
         "Crime",
         "Comedy"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Big Deal on Madonna Street",
@@ -5785,7 +5897,8 @@
       "genres": [
         "Romance",
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Girl with a Suitcase",
@@ -5828,7 +5941,8 @@
       "genres": [
         "Mystery",
         "Western"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "5 Card Stud",
@@ -5870,7 +5984,8 @@
       "description": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "8½",
@@ -5921,7 +6036,8 @@
       "genres": [
         "Drama",
         "Crime"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Mafia",
@@ -5963,7 +6079,8 @@
       "description": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "The Leopard",
@@ -6014,7 +6131,8 @@
       "genres": [
         "Crime",
         "Comedy"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "The Pink Panther",
@@ -6071,7 +6189,8 @@
       "description": "A long-hidden, personal doc about leaving a beloved house by the late, revered Portuguese director Manoel de Oliveira.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "Portugal"
     },
     "omdb": null
   },
@@ -6083,7 +6202,8 @@
       "genres": [
         "Fantasy",
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Medea",
@@ -6129,7 +6249,8 @@
       "description": "At the end of World War II, shallow, self-centered Mara is the prettiest girl in her small Italian village; Bebo is a Communist partisan who is finding it difficult to adjust to the dull banalities of life in peacetime. When Mara’s father, a passionate Communist, declares that his daughter will marry the returning hero, her reactions range from joy to bitter resentment.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "Bebo's Girl",
@@ -6171,7 +6292,8 @@
       "description": "Documents the lives of infamous fakers Elmyr de Hory and Clifford Irving. De Hory, who later committed suicide to avoid more prison time, made his name by selling forged works of art by painters like Picasso and Matisse. Irving was infamous for writing a fake autobiography of Howard Hughes. Welles moves between documentary and fiction as he examines the fundamental elements of fraud and the people who commit fraud at the expense of others.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": {
       "Title": "F for Fake",
@@ -6221,7 +6343,8 @@
       "description": "Maria Grazia and her children Michele and Carla are left without a livelihood. Maria Grazia's money-hungry lover Leo develops a plan to take the last property from the family - the attic in which they live. Michele tries to thwart Leo's plans, but when his attempts fail, young Carla takes over.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": null
   },
@@ -6236,7 +6359,8 @@
       "description": "A strong-willed woman risks everything to support the cause of anti-fascism in World War II Italy.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -6248,7 +6372,8 @@
       "genres": [
         "Drama",
         "Mystery"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -6261,7 +6386,8 @@
         "Adventure",
         "Action",
         "Western"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "The Professionals",
@@ -6315,7 +6441,8 @@
       "description": "A woman discovers curious erotic messages on a lost cell phone in the train. When she meets the owner of the phone, a liberated young woman, the two of them embark on an erotic journey.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": null
   },
@@ -6326,7 +6453,8 @@
       "description": "An attempt to reconstruct the complete version of Pier Paolo Pasolini's segment of La rabbia.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "La rabbia di Pasolini",
@@ -6368,7 +6496,8 @@
       "description": "In this unique approach to the autobiographical film format, director Stephen Dwoskin pieces together home movies shot by his parents in New York City, a video letter recorded during the 1990 Gulf War by filmmaker Robert Kramer, and raw footage filmed by Dwoskin himself. A veteran of the New York independent film scene of the 1960s, Dwoskin constructs a film poem in which the strong sentiment of his personal story—he was stricken by polio and eventually confined to a wheelchair—never overwhelms the beauty of the film’s distinct form.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "UK"
     },
     "omdb": {
       "Title": "Trying to Kiss the Moon",
@@ -6410,7 +6539,8 @@
       "description": "Deranged after a fall from a horse, a man has lived for twenty years in a castle laboring under the delusion that he is Holy Roman Emperor Henry IV. His psychiatrist concocts an elaborate scheme to shock him out of his medieval reverie.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": null
   },
@@ -6451,7 +6581,8 @@
       "description": "Drawn from footage shot between 1949 and 1963, Jonas Mekas’s autobiographical diary film chronicles his early years in exile, capturing the struggle to build a new life in New York and his gradual discovery of a vibrant artistic community.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "USA"
     },
     "omdb": {
       "Title": "Lost, Lost, Lost",
@@ -6493,7 +6624,8 @@
       "description": "In 1921, we follow two women - Marie and Grete - from the same poor Viennese neighborhood, as they try to better the lives of themselves and their families during the period of Austrian postwar hyperinflation.",
       "genres": [
         "Drama"
-      ]
+      ],
+      "country": "Germany"
     },
     "omdb": null
   },
@@ -6505,7 +6637,8 @@
       "genres": [
         "Crime",
         "Thriller"
-      ]
+      ],
+      "country": "Italy"
     },
     "omdb": {
       "Title": "Corleone",
@@ -6547,7 +6680,8 @@
       "description": "Akerman films her mother Natalia, an elderly woman of Polish origin, in her Brussels apartment. For two hours, we will see them eating, chatting and sharing memories, sometimes accompanied by Sylvaine, Chantal's sister. Also, and to show how small the world has become, Chantal remains in contact with her mother at other times of the year via Skype from lands as far away from Belgium as Oklahoma or New York.",
       "genres": [
         "Documentary"
-      ]
+      ],
+      "country": "Belgium"
     },
     "omdb": {
       "Title": "No Home Movie",
@@ -6597,7 +6731,8 @@
       "description": "George Lester is a man who is chasing rainbows, looking for the pot of gold at the end. When his wife, Pamela grows tired of being dragged all over the world, she leaves him. While she is away, George converts her family home into a discotheque, when she returns, she threatens to send George to jail for fraud, cause she didn't give her approval. George needing some fast bucks, decides to turn to an old cohort of his, William Homer but Willy's a little short. George then decides to steal the plans to a new drill, Pamela's suitor, Dudley Heath is working on. But when George gets the mumps, he can't make it to the meeting place and refuses to give Willy the plans unless he gives him the cash first. And the buyers won't give unless they see the merchandise first.",
       "genres": [
         "Comedy"
-      ]
+      ],
+      "country": "UK"
     },
     "omdb": null
   },
@@ -6609,7 +6744,8 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
+      ],
+      "country": "France"
     },
     "omdb": null
   }

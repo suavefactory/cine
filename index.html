@@ -917,8 +917,6 @@ function movieMeta(m) {
   if (m.director) parts.push(m.director);
   if (m.year)     parts.push(m.year);
   if (m.duration) parts.push(m.duration + 'min');
-  if (m.country)  parts.push(m.country);
-  if (m.rating)   parts.push('★ ' + m.rating.toFixed(1));
   return parts.join(' · ') || '—';
 }
 
@@ -1197,10 +1195,13 @@ function openModal(id) {
   document.getElementById('modalTitle').textContent = m.title;
   document.getElementById('modalMeta').textContent = movieMeta(m);
 
-  // Géneros
-  const genres = (m.genres ?? []).slice(0,3);
+  // País + Géneros + Rating (badges em linha)
+  const country = m.country ? m.country.split(',')[0].trim() : null;
+  const genres  = (m.genres ?? []).slice(0, 3);
   document.getElementById('modalGenres').innerHTML =
-    genres.map(g => `<span class="genre-tag">${g}</span>`).join('');
+    (country ? `<span class="genre-tag">${country}</span>` : '') +
+    genres.map(g => `<span class="genre-tag">${g}</span>`).join('') +
+    (m.rating ? `<span class="genre-tag" style="background:var(--accent);color:#000">★ ${m.rating.toFixed(1)}</span>` : '');
 
   // Descrição
   const plotEl = document.getElementById('modalPlot');
