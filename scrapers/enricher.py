@@ -147,6 +147,7 @@ LBXD_SLUGS = {
     "AGUIRRE, A COLERA DE DEUS":    "aguirre-the-wrath-of-god",
     "O ENIGMA DE KASPAR HAUSER":    "the-enigma-of-kaspar-hauser",
     "NOSFERATU, O FANTASMA DA NOITE": "nosferatu-the-vampyre",
+    "NOSTALGIA (1983)":             "nostalghia",
     "LIÇÕES DA ESCURIDÃO":          "lessons-of-darkness",
     "LICOES DA ESCURIDAO":          "lessons-of-darkness",
     "ALÉM DO AZUL SELVAGEM":        "the-wild-blue-yonder",
@@ -157,8 +158,8 @@ LBXD_SLUGS = {
     "KINSKI – MEU INIMIGO MAIS QUERIDO": "my-best-fiend",
     "KINSKI - MEU INIMIGO MAIS QUERIDO": "my-best-fiend",
     # ── Fernando Lopes — outros títulos ──
-    "O ÚLTIMO PADRINHO":            "the-last-godfather",
-    "O ULTIMO PADRINHO":            "the-last-godfather",
+    "O ÚLTIMO PADRINHO":            "iddu",
+    "O ULTIMO PADRINHO":            "iddu",
     "ENTRONCAMENTO":                "entroncamento",
     "MARCEL E MONSIEUR PAGNOL":     "marcel-et-monsieur-pagnol",
     "VALOR SENTIMENTAL":            "sentimental-value-2025",
@@ -365,8 +366,9 @@ def lbxd_lookup(title, year=None):
         slugs_to_try.append(alias_slug)
 
     # 2. Título entre parênteses = língua original (ex: "A Alegria (La gioia)" → "la-gioia")
+    # Ignora parênteses com apenas um ano (ex: "Nostalgia (1983)")
     paren_m = re.search(r'\(([^)]+)\)', title)
-    if paren_m:
+    if paren_m and not re.match(r'^\d{4}$', paren_m.group(1).strip()):
         paren_slug = to_slug(paren_m.group(1).strip())
         if paren_slug and year:
             for dy in [0, -1, -2]:
@@ -425,8 +427,11 @@ def omdb_lookup(title, year=None, director=None):
     alias    = OMDB_ALIASES.get(clean.upper()) or OMDB_ALIASES.get(no_acc.upper())
 
     # Título entre parênteses = título original (ex: "A Alegria (La gioia)" → "La gioia")
+    # Ignora parênteses com apenas um ano (ex: "Nostalgia (1983)")
     paren_m = re.search(r'\(([^)]+)\)', title)
-    paren_title = paren_m.group(1).strip() if paren_m else None
+    paren_title = None
+    if paren_m and not re.match(r'^\d{4}$', paren_m.group(1).strip()):
+        paren_title = paren_m.group(1).strip()
 
     attempts = []
     # Se existe título original (parênteses), usa-o e NÃO faz fallback para o título

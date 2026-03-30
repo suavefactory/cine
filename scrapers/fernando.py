@@ -168,8 +168,8 @@ def scrape_film_page(slug):
                     duration = int(re.search(r"\d+", part).group())
                 elif re.match(r"^M/\d+$", part):
                     pass  # classificação etária
-                elif part.startswith('"'):
-                    pass  # subtítulo original
+                elif part.startswith(('"', '\u201c', '\u201d')):
+                    pass  # subtítulo original (aspas retas ou curvas)
                 elif part and len(part) > 1 and not part[0].isdigit():
                     genres.append(part)
 
