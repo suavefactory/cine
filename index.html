@@ -557,14 +557,34 @@
     }
 
     /* ── FILMES MOBILE — snap scroll feed ───────────────── */
+    .snap-sort-bar {
+      display: flex;
+      gap: 6px;
+      padding: 8px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    .snap-sort-btn {
+      flex: 1;
+      font-family: inherit;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 6px 0;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: none;
+      color: var(--text-2);
+      cursor: pointer;
+    }
+    .snap-sort-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #000;
+    }
     .films-snap-feed {
-      position: fixed;
-      top: 58px;
-      left: 0; right: 0; bottom: 0;
+      /* height definida via JS (fill viewport abaixo da filter bar) */
       overflow-y: scroll;
       scroll-snap-type: y mandatory;
       -webkit-overflow-scrolling: touch;
-      z-index: 10;
     }
     .snap-card {
       height: 100%;
@@ -1119,7 +1139,12 @@ function renderFilmes() {
 
   if (window.innerWidth <= 540) {
     // ── Mobile: snap scroll feed ──────────────────────────
+    document.getElementById('main').style.padding = '0';
     document.getElementById('main').innerHTML = `
+      <div class="snap-sort-bar">
+        <button class="snap-sort-btn ${filmesSort==='data'   ? 'active':''}" onclick="setSort('data')">Próxima sessão</button>
+        <button class="snap-sort-btn ${filmesSort==='rating' ? 'active':''}" onclick="setSort('rating')">Melhor rating ★</button>
+      </div>
       <div class="films-snap-feed" id="snapFeed">
         ${movies.map(m => {
           const country = m.country ? m.country.split(',')[0].trim() : null;
@@ -1141,6 +1166,15 @@ function renderFilmes() {
             </div>`;
         }).join('')}
       </div>`;
+
+    // Altura do feed = viewport menos tudo acima dele
+    requestAnimationFrame(() => {
+      const feed = document.getElementById('snapFeed');
+      if (feed) {
+        const top = feed.getBoundingClientRect().top;
+        feed.style.height = (window.innerHeight - top) + 'px';
+      }
+    });
 
     // Slide-in animation via IntersectionObserver
     const feed = document.getElementById('snapFeed');
@@ -1410,6 +1444,11 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 function render() {
   renderDateBar();
   renderFilterBar();
+
+  // Repõe padding do main (pode ter sido zerado pelo snap feed mobile)
+  if (activeView !== 'filmes' || window.innerWidth > 540) {
+    document.getElementById('main').style.padding = '';
+  }
 
   const datebar = document.getElementById('dateBar');
   datebar.style.display = activeView === 'agenda' ? 'flex' : 'none';
