@@ -581,13 +581,16 @@
       color: #000;
     }
     .films-snap-feed {
-      /* height definida via JS (fill viewport abaixo da filter bar) */
-      overflow-y: scroll;
-      scroll-snap-type: y mandatory;
+      /* height e width definidas via JS */
+      display: flex;
+      flex-direction: row;
+      overflow-x: scroll;
+      scroll-snap-type: x mandatory;
       -webkit-overflow-scrolling: touch;
     }
     .snap-card {
-      height: 100%;
+      width: 100%;
+      flex-shrink: 0;
       scroll-snap-align: start;
       scroll-snap-stop: always;
       position: relative;
@@ -1167,20 +1170,25 @@ function renderFilmes() {
         }).join('')}
       </div>`;
 
-    // Altura do feed = viewport menos tudo acima dele
+    // Dimensões do feed: preenche o espaço restante abaixo dos controlos
     requestAnimationFrame(() => {
       const feed = document.getElementById('snapFeed');
       if (feed) {
         const top = feed.getBoundingClientRect().top;
         feed.style.height = (window.innerHeight - top) + 'px';
+        feed.style.width   = window.innerWidth + 'px';
+        // Cada card também precisa da altura correcta
+        feed.querySelectorAll('.snap-card').forEach(c => {
+          c.style.height = (window.innerHeight - top) + 'px';
+        });
       }
     });
 
-    // Slide-in animation via IntersectionObserver
+    // Slide-in animation via IntersectionObserver (horizontal)
     const feed = document.getElementById('snapFeed');
     const obs = new IntersectionObserver((entries) => {
       entries.forEach(e => e.target.classList.toggle('snap-visible', e.isIntersecting));
-    }, { root: feed, threshold: 0.5 });
+    }, { root: feed, threshold: 0.6 });
     document.querySelectorAll('.snap-card').forEach(c => obs.observe(c));
 
   } else {
