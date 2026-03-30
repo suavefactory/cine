@@ -182,6 +182,8 @@ LBXD_SLUGS = {
     "CINQUE SECONDI":               "cinque-secondi",
     "BREVE HISTÓRIA DE AMOR (BREVE STORIA D'AMORE)": "breve-storia-damore",
     "BREVE STORIA D'AMORE":         "breve-storia-damore",
+    "AS PROVADORAS DE HITLER (LE ASSAGGIATRICI)": "the-tasters",
+    "LE ASSAGGIATRICI":             "the-tasters",
 }
 
 # Títulos originais → título inglês para OMDB
@@ -514,12 +516,11 @@ def enrich(movies):
             omdb = cache[key].get("omdb")
 
         # ── Aplicar dados ───────────────────────────────────────────
-        # Poster: Letterboxd primeiro, depois OMDB
-        if not movie.get("poster"):
-            if lb and lb.get("poster"):
-                movie["poster"] = lb["poster"]
-            elif omdb and omdb.get("Poster") and omdb["Poster"] != "N/A":
-                movie["poster"] = omdb["Poster"]
+        # Poster: Letterboxd sempre (sobrepõe poster do scraper), fallback OMDB
+        if lb and lb.get("poster"):
+            movie["poster"] = lb["poster"]
+        elif not movie.get("poster") and omdb and omdb.get("Poster") and omdb["Poster"] != "N/A":
+            movie["poster"] = omdb["Poster"]
 
         # Rating Letterboxd (escala 0-5)
         if lb and lb.get("rating"):

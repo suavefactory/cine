@@ -4824,36 +4824,6 @@
     "lbxd": null,
     "omdb": null
   },
-  "As Provadoras de Hitler (Le assaggiatrici)|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Le assaggiatrici",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "27 Mar 2025",
-      "Runtime": "123 min",
-      "Genre": "Drama",
-      "Director": "Silvio Soldini",
-      "Writer": "Rosella Postorino, Doriana Leondeff, Silvio Soldini",
-      "Actors": "Elisa Schlott, Max Riemelt, Alma Hasun",
-      "Plot": "A women conscripted to be Adolf Hitler's food tasters.",
-      "Language": "German",
-      "Country": "Italy, Belgium, Switzerland",
-      "Awards": "1 win & 2 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhMDIwMzYtOTQ4MC00ZDI2LTk5ZjktOGI3NjdkYzdhNGQzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "535",
-      "imdbID": "tt27811248",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "Mediterrâneo (Mediterraneo)|None": {
     "lbxd": {
       "rating": 3.82,
@@ -5000,5 +4970,45 @@
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/5/9/5/1181595-a-brief-affair-0-500-0-750-crop.jpg?v=1aace707d2"
     },
     "omdb": null
+  },
+  "Sangue do meu Sangue (versão longa)|None": {
+    "lbxd": {
+      "rating": 3.67,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/4/1/2/69412-blood-of-my-blood-0-500-0-750-crop.jpg?v=ea9f69edd0"
+    },
+    "omdb": null
+  },
+  "As Provadoras de Hitler (Le assaggiatrici)|None": {
+    "lbxd": {
+      "rating": 3.11,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/6/9/5/1174695-the-tasters-0-500-0-750-crop.jpg?v=55f1ce3436"
+    },
+    "omdb": {
+      "Title": "Le assaggiatrici",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "27 Mar 2025",
+      "Runtime": "123 min",
+      "Genre": "Drama",
+      "Director": "Silvio Soldini",
+      "Writer": "Rosella Postorino, Doriana Leondeff, Silvio Soldini",
+      "Actors": "Elisa Schlott, Max Riemelt, Alma Hasun",
+      "Plot": "A women conscripted to be Adolf Hitler's food tasters.",
+      "Language": "German",
+      "Country": "Italy, Belgium, Switzerland",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhMDIwMzYtOTQ4MC00ZDI2LTk5ZjktOGI3NjdkYzdhNGQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "535",
+      "imdbID": "tt27811248",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }

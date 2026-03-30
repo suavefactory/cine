@@ -1,6 +1,25 @@
 window.CINEMA_DATA = {
-  "generated": "2026-03-29T17:34:28.719790+00:00",
+  "generated": "2026-03-30T16:02:15.228533+00:00",
   "movies": [
+    {
+      "id": "sao_jorge_10059",
+      "title": "Sangue do meu Sangue (versão longa)",
+      "director": "João Canijo",
+      "duration": 190,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/4/1/2/69412-blood-of-my-blood-0-500-0-750-crop.jpg?v=ea9f69edd0",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/sangue-do-meu-sangue/",
+      "sessions": [
+        {
+          "date": "2026-03-31",
+          "time": "20:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.67
+    },
     {
       "id": "sao_jorge_10261",
       "title": "IL CORTO",
@@ -63,7 +82,7 @@ window.CINEMA_DATA = {
       "title": "As Provadoras de Hitler (Le assaggiatrici)",
       "director": "Silvio Soldini",
       "duration": 123,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/LE-ASSAGGIATRICI-1-1-scaled.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/6/9/5/1174695-the-tasters-0-500-0-750-crop.jpg?v=55f1ce3436",
       "genres": [
         "Drama"
       ],
@@ -80,6 +99,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
+      "rating": 3.11,
       "year": 2025,
       "plot": "A women conscripted to be Adolf Hitler's food tasters.",
       "country": "Italy, Belgium, Switzerland"
@@ -89,7 +109,7 @@ window.CINEMA_DATA = {
       "title": "Giulio Regeni – Tutto il male del mondo",
       "director": null,
       "duration": 97,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_GIULIOREGENI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/4/6/7/5/1474675-giulio-regeni-tutto-il-male-del-mondo-0-500-0-750-crop.jpg?v=377bbe601e",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/giulio-regeni-tutto-il-male-del-mondo/",
       "sessions": [
@@ -106,7 +126,7 @@ window.CINEMA_DATA = {
       "title": "La valle dei sorrisi",
       "director": null,
       "duration": 122,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_LAVALLEDEISORRISI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/3/4/5/985345-the-holy-boy-0-500-0-750-crop.jpg?v=0e8bd81d97",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/la-valle-dei-sorrisi/",
       "sessions": [
@@ -123,7 +143,7 @@ window.CINEMA_DATA = {
       "title": "Camilleri 100",
       "director": null,
       "duration": 90,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_CAMILLERI100.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/7/1/9/2/1417192-camilleri-100-0-500-0-750-crop.jpg?v=05636474e8",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/camilleri-100/",
       "sessions": [
@@ -139,7 +159,7 @@ window.CINEMA_DATA = {
       "title": "Gli occhi degli altri",
       "director": null,
       "duration": 90,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_GLIOCCHIDEGLIALTRI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/6/0/8/8/1236088-gli-occhi-degli-altri-0-500-0-750-crop.jpg?v=458257b68a",
       "genres": [
         "Drama"
       ],
@@ -161,7 +181,7 @@ window.CINEMA_DATA = {
       "title": "Mediterrâneo (Mediterraneo)",
       "director": "Gabriele Salvatores",
       "duration": 96,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_MEDITERRANEO.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/0/5/26305-mediterraneo-0-500-0-750-crop.jpg?v=061be62eec",
       "genres": [
         "Comedy",
         "Drama",
@@ -201,7 +221,7 @@ window.CINEMA_DATA = {
       "title": "La vita da grandi",
       "director": "Greta Scarano",
       "duration": 96,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_LAVITADIGRANDI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/3/6/3/1301363-siblings-2025-0-500-0-750-crop.jpg?v=32c9636122",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/la-vita-da-grandi/",
       "sessions": [
@@ -225,7 +245,7 @@ window.CINEMA_DATA = {
       "title": "Le città di pianura",
       "director": null,
       "duration": 98,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_LECITTADIPIANURA.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/0/6/3/1339063-the-last-one-for-the-road-0-500-0-750-crop.jpg?v=1b0b124da9",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/le-citta-di-pianura/",
       "sessions": [
@@ -247,7 +267,7 @@ window.CINEMA_DATA = {
       "title": "Ultimo schiaffo",
       "director": "Matteo Oleotto",
       "duration": 100,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_ULTIMOCHIAFFO.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/1/7/6/8/1431768-the-last-slap-0-500-0-750-crop.jpg?v=2415a02b1f",
       "genres": [
         "Comedy",
         "Drama",
@@ -276,7 +296,7 @@ window.CINEMA_DATA = {
       "title": "Testa o croce?",
       "director": "Caterina Gabanella",
       "duration": 123,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_TESTAOCROCE.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/2/6/0/9/972609-heads-or-tails-2025-0-500-0-750-crop.jpg?v=e22c78c5f2",
       "genres": [
         "Short",
         "Drama"
@@ -304,7 +324,7 @@ window.CINEMA_DATA = {
       "title": "Il quieto vivere",
       "director": "Gianluca Matarrese",
       "duration": 87,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_ILQUIETOVIVERE.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/5/8/8/8/1395888-i-want-her-dead-0-500-0-750-crop.jpg?v=413612b966",
       "genres": [
         "Biography"
       ],
@@ -325,7 +345,7 @@ window.CINEMA_DATA = {
       "title": "Breve História de Amor (Breve storia d’amore)",
       "director": null,
       "duration": 98,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/Breve-storia-damore-film-2025-696x464-1.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/5/9/5/1181595-a-brief-affair-0-500-0-750-crop.jpg?v=1aace707d2",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/breve-historia-de-amor-breve-storia-damore/",
       "sessions": [
@@ -347,7 +367,7 @@ window.CINEMA_DATA = {
       "title": "A Alegria (La gioia)",
       "director": "Nicolangelo Gelormini",
       "duration": 108,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_LAGIOIA.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/9/5/8/6/1279586-gioia-2025-1-0-500-0-750-crop.jpg?v=cb7c84ea49",
       "genres": [
         "Drama"
       ],
@@ -399,7 +419,7 @@ window.CINEMA_DATA = {
       "title": "Gioia mia",
       "director": "Margherita Spampinato",
       "duration": 90,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_GIOIAMIA.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/6/3/5/9/1386359-sweetheart-2025-3-0-500-0-750-crop.jpg?v=4e2f52c670",
       "genres": [
         "Drama",
         "Family"
@@ -426,7 +446,7 @@ window.CINEMA_DATA = {
       "title": "Campo de Batalha (Campo di battaglia)",
       "director": null,
       "duration": 104,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/campo-di-battaglia-locandina-low.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/9/3/1061393-battleground-0-500-0-750-crop.jpg?v=48c757f1ea",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/campo-de-batalha-campo-di-battaglia/",
       "sessions": [
@@ -448,7 +468,7 @@ window.CINEMA_DATA = {
       "title": "Hey Joe",
       "director": null,
       "duration": 117,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/image-w1280.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/8/5/8/9/828589-hey-joe-2024-0-500-0-750-crop.jpg?v=e0a160bf4c",
       "genres": [
         "Documentary",
         "Comedy"
@@ -476,7 +496,7 @@ window.CINEMA_DATA = {
       "title": "Fiume o Morte!",
       "director": "Igor Bezinovic",
       "duration": 112,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_FIUMEOMORTE.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/6/8/2/0/1286820-fiume-o-morte-0-500-0-750-crop.jpg?v=955c291f95",
       "genres": [
         "Documentary"
       ],
@@ -497,7 +517,7 @@ window.CINEMA_DATA = {
       "title": "White Lies",
       "director": null,
       "duration": 98,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_WHITELIES.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/8/9/0/87890-white-lies-0-500-0-750-crop.jpg?v=18bac19aa4",
       "genres": [
         "Crime",
         "Drama",
@@ -520,7 +540,7 @@ window.CINEMA_DATA = {
       "title": "GEN_",
       "director": null,
       "duration": 100,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_GEN.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/4/4/13744-gen-0-500-0-750-crop.jpg?v=cbed5dcfbb",
       "genres": [
         "Action",
         "Adventure",
@@ -544,7 +564,7 @@ window.CINEMA_DATA = {
       "title": "La città proibita",
       "director": null,
       "duration": 138,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_LACITTAPROIBITA.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/6/3/3/8/1016338-la-citta-proibita-0-500-0-750-crop.jpg?v=f5967ed1a0",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/la-citta-proibita/",
       "sessions": [
@@ -561,7 +581,7 @@ window.CINEMA_DATA = {
       "title": "Arsa",
       "director": "Iacopo Bedogni, Masbedo",
       "duration": 94,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_ARSA.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/7/5/0/4/1247504-arsa-0-500-0-750-crop.jpg?v=700cfcbf98",
       "genres": [
         "Drama"
       ],
@@ -582,7 +602,7 @@ window.CINEMA_DATA = {
       "title": "Una lunghissima ombra",
       "director": "Andrea Laszlo De Simone",
       "duration": 67,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_UNALUNGHISSIMAOMBRA.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/6/8/5/3/1406853-una-lunghissima-ombra-0-500-0-750-crop.jpg?v=9525e6c160",
       "genres": [
         "Documentary"
       ],
@@ -602,7 +622,7 @@ window.CINEMA_DATA = {
       "title": "Cinco Segundos (Cinque secondi)",
       "director": "Paolo Virzì",
       "duration": 105,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_CINQUESECONDI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/2/3/6/1256236-cinque-secondi-0-500-0-750-crop.jpg?v=b3070125db",
       "genres": [
         "Drama"
       ],
@@ -623,7 +643,7 @@ window.CINEMA_DATA = {
       "title": "La vita va così",
       "director": null,
       "duration": 118,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_LAVITAVACOSI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/8/9/1281489-life-is-life-2025-0-500-0-750-crop.jpg?v=003af9c8a0",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/la-vita-va-cosi/",
       "sessions": [
@@ -640,7 +660,7 @@ window.CINEMA_DATA = {
       "title": "Modì – Tre giorni sulle ali della follia",
       "director": "Franco Brogi Taviani",
       "duration": 114,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/FCI_CSJ_1920X1080_MODI.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/3/0/6/0/913060-modi-three-days-on-the-wing-of-madness-0-500-0-750-crop.jpg?v=b28014acf8",
       "genres": [
         "Biography",
         "Drama"
@@ -663,7 +683,7 @@ window.CINEMA_DATA = {
       "title": "Il maestro",
       "director": "Marion Hänsel",
       "duration": 125,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/maestro.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/0/9/0/8/1030908-my-tennis-maestro-0-500-0-750-crop.jpg?v=ecdf0aa5e4",
       "genres": [
         "Music"
       ],
@@ -685,7 +705,7 @@ window.CINEMA_DATA = {
       "title": "Duse",
       "director": "Pietro Marcello",
       "duration": 122,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/duse.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/2/4/0/1174240-duse-0-500-0-750-crop.jpg?v=8daf9236bd",
       "genres": [
         "Biography",
         "Drama",
@@ -709,7 +729,7 @@ window.CINEMA_DATA = {
       "title": "Buen camino",
       "director": "Gennaro Nunziante",
       "duration": 90,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/MAIN_B_C_pant_00647-scaled.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/6/4/5/4/606454-buen-camino-0-500-0-750-crop.jpg?v=c31d5f1076",
       "genres": [
         "Comedy"
       ],
@@ -730,7 +750,7 @@ window.CINEMA_DATA = {
       "title": "Napoli – New York",
       "director": "Mario Salieri",
       "duration": 124,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/napoli-new-york-recensione-film-gabriele-salvatores-fellini_jpg_1600x900_crop_q85.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/3/1/9/9/1003199-naples-to-new-york-0-500-0-750-crop.jpg?v=1435e7f47f",
       "genres": [
         "Adult",
         "Crime"
@@ -752,7 +772,7 @@ window.CINEMA_DATA = {
       "title": "Fuori",
       "director": "Mario Martone",
       "duration": 117,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/MAIN_V.-Golino-M.-De-Angelis-fuori10816@Mario-Spada-1.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/1/7/8/1192178-fuori-2025-0-500-0-750-crop.jpg?v=ed8aaa2e8c",
       "genres": [
         "Biography",
         "Drama"
@@ -775,7 +795,7 @@ window.CINEMA_DATA = {
       "title": "Três Vezes Adeus (Tre ciotole) | SESSÃO DE ENCERRAMENTO",
       "director": null,
       "duration": 120,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/TRE_CIOTOLE_GRETADELAZZARIS_250321-4147-scaled.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/6/5/8/1311658-three-goodbyes-0-500-0-750-crop.jpg?v=ec44a278bc",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/tres-vezes-adeus-tre-ciotole-sessao-de-encerramento/",
       "sessions": [
@@ -792,7 +812,7 @@ window.CINEMA_DATA = {
       "title": "Mal Viver",
       "director": "João Canijo",
       "duration": 127,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/mal-viver-hd.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/4/5/3/2/984532-bad-living-0-500-0-750-crop.jpg?v=f2da52cbbf",
       "genres": [
         "Drama"
       ],
@@ -814,7 +834,7 @@ window.CINEMA_DATA = {
       "title": "LA GRAZIA | SESSÃO DE ABERTURA",
       "director": "Paolo Sorrentino",
       "duration": 131,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/260306_banners-saoJorge-02.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/10048/",
       "sessions": [
@@ -831,7 +851,7 @@ window.CINEMA_DATA = {
       "title": "Viver Mal",
       "director": "João Canijo",
       "duration": 124,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/03/viver_mal_HD.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/4/5/3/2/984532-bad-living-0-500-0-750-crop.jpg?v=f2da52cbbf",
       "genres": [
         "Drama"
       ],
@@ -1648,22 +1668,12 @@ window.CINEMA_DATA = {
       "director": "Pedro Cabeleira",
       "year": 2025,
       "duration": 131,
-      "poster": "https://medeiafilmes.com/uploads/library/entroncamento_cartaz_pt_web_final.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/4/7/3/9/1074739-night-passengers-0-500-0-750-crop.jpg?v=2bd5841264",
       "genres": [
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/entroncamento-2025",
       "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "16:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-03-29",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-03-31",
           "time": "21:00",
@@ -1704,7 +1714,7 @@ window.CINEMA_DATA = {
       "director": "Fatih Akin",
       "year": 2025,
       "duration": 93,
-      "poster": "https://medeiafilmes.com/uploads/library/amrum_poster_70x100cm.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/2/7/5/1/1152751-amrum-0-500-0-750-crop.jpg?v=3030abe919",
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-rapaz-da-ilha-de-amrum-2025",
       "sessions": [
@@ -1717,236 +1727,12 @@ window.CINEMA_DATA = {
       "rating": 3.4
     },
     {
-      "id": "nimas_o-estrangeiro-2025",
-      "title": "O Estrangeiro",
-      "director": "François Ozon",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/o_estrangeiro_-_cartaz.png",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-2025",
-      "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.34
-    },
-    {
-      "id": "nimas_os-passaros-1963",
-      "title": "Os Pássaros",
-      "director": "Alfred Hitchcock",
-      "year": 1963,
-      "duration": 119,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmtaxnda1odc5mdleqtjeqwpwz15bbwu4mdg2mda4otex_v1.jpg",
-      "genres": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-passaros-1963",
-      "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.74,
-      "plot": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
-      "country": "United States"
-    },
-    {
-      "id": "nimas_em-busca-da-verdade-1961",
-      "title": "Em Busca da Verdade",
-      "director": "Ingmar Bergman",
-      "year": 1961,
-      "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/em_busca_da_verdade_capa_poster.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/em-busca-da-verdade-1961",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.16,
-      "plot": "Recently released from a mental hospital, Karin rejoins her emotionally disconnected family in their island home, only to slip from reality as she begins to believe she is being visited by God.",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_sonata-de-outono-1978",
-      "title": "Sonata de Outono",
-      "director": "Ingmar Bergman",
-      "year": 1978,
-      "duration": 99,
-      "poster": "https://medeiafilmes.com/uploads/library/sonata_de_outono_capa_poster.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sonata-de-outono-1978",
-      "sessions": [
-        {
-          "date": "2026-04-05",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.49,
-      "plot": "A devoted wife is visited by her mother, a successful concert pianist who had little time for her when she was young.",
-      "country": "West Germany, United Kingdom, Sweden"
-    },
-    {
-      "id": "nimas_stalker-1979",
-      "title": "Stalker",
-      "director": "Andrei Tarkovsky",
-      "year": 1979,
-      "duration": 162,
-      "poster": "https://medeiafilmes.com/uploads/library/stalker-3.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/stalker-1979",
-      "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "13:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-13",
-          "time": "21:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.4,
-      "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
-      "country": "Soviet Union"
-    },
-    {
-      "id": "nimas_a-uma-hora-incerta-2024",
-      "title": "A Uma Hora Incerta",
-      "director": "Carlos Saboga",
-      "year": 2024,
-      "duration": 75,
-      "poster": "https://medeiafilmes.com/uploads/library/a-uma-hora-incerta.jpeg",
-      "genres": [
-        "Drama",
-        "Época"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-uma-hora-incerta-2024",
-      "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_blue-moon-2025",
-      "title": "Blue Moon",
-      "director": "Richard Linklater",
-      "year": 2025,
-      "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/blue-moon_poster_70x100cm.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/blue-moon-2025",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.58,
-      "plot": "Tells the story of Lorenz Hart's struggles with alcoholism and mental health as he tries to save face during the opening of \"Oklahoma!\".",
-      "country": "United States, Ireland"
-    },
-    {
-      "id": "nimas_historias-do-vale-bom-2025",
-      "title": "Histórias do Vale Bom",
-      "director": "José Luis Guerin",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/historias_do_vale_bom.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/historias-do-vale-bom-2025",
-      "sessions": [
-        {
-          "date": "2026-04-01",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_mae-e-filho-1997",
-      "title": "Mãe e Filho",
-      "director": "Aleksandr Sokurov",
-      "year": 1997,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/motherandsondvd.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/mae-e-filho-1997",
-      "sessions": [
-        {
-          "date": "2026-03-30",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.96
-    },
-    {
-      "id": "nimas_solaris-1972",
-      "title": "Solaris",
-      "director": "Andrei Tarkovsky",
-      "year": 1972,
-      "duration": 167,
-      "poster": "https://medeiafilmes.com/uploads/library/solaris.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/solaris-1972",
-      "sessions": [
-        {
-          "date": "2026-03-30",
-          "time": "21:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-12",
-          "time": "21:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
-      "country": "Soviet Union"
-    },
-    {
       "id": "nimas_cidade-portuaria-1948",
       "title": "Cidade Portuária",
       "director": "Ingmar Bergman",
       "year": 1948,
       "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/cidade_portuaria_cartaz.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/3/2/14632-port-of-call-0-500-0-750-crop.jpg?v=b8e5d24b3f",
       "genres": [
         "Drama"
       ],
@@ -1968,7 +1754,7 @@ window.CINEMA_DATA = {
       "director": "Chloé Zhao",
       "year": 2025,
       "duration": 125,
-      "poster": "https://medeiafilmes.com/uploads/library/poster_hamnet.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/2/772232-hamnet-0-500-0-750-crop.jpg?v=631489314d",
       "genres": [
         "Drama"
       ],
@@ -1990,27 +1776,112 @@ window.CINEMA_DATA = {
       "country": "United Kingdom, United States"
     },
     {
-      "id": "nimas_ascensao-1977",
-      "title": "Ascensão",
-      "director": "Larisa Shepitko",
-      "year": 1977,
-      "duration": 111,
-      "poster": "https://medeiafilmes.com/uploads/library/ascensao.jpeg",
+      "id": "nimas_blue-moon-2025",
+      "title": "Blue Moon",
+      "director": "Richard Linklater",
+      "year": 2025,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/4/6/3/1181463-blue-moon-2025-0-500-0-750-crop.jpg?v=e7b58cae0d",
       "genres": [
-        "Drama",
-        "Guerra"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/ascensao-1977",
+      "link": "https://medeiafilmes.com/filmes/blue-moon-2025",
       "sessions": [
         {
-          "date": "2026-03-31",
-          "time": "19:15",
+          "date": "2026-04-08",
+          "time": "19:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.43,
-      "plot": "Two Soviet partisans on a mission to gather food contend with the winter cold, the occupying Germans, and their own psyches.",
+      "rating": 3.58,
+      "plot": "Tells the story of Lorenz Hart's struggles with alcoholism and mental health as he tries to save face during the opening of \"Oklahoma!\".",
+      "country": "United States, Ireland"
+    },
+    {
+      "id": "nimas_mae-e-filho-1997",
+      "title": "Mãe e Filho",
+      "director": "Aleksandr Sokurov",
+      "year": 1997,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/8/1/4/20814-mother-and-son-0-500-0-750-crop.jpg?v=37231026b7",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/mae-e-filho-1997",
+      "sessions": [
+        {
+          "date": "2026-03-30",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.96
+    },
+    {
+      "id": "nimas_historias-do-vale-bom-2025",
+      "title": "Histórias do Vale Bom",
+      "director": "José Luis Guerin",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://medeiafilmes.com/uploads/library/historias_do_vale_bom.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/historias-do-vale-bom-2025",
+      "sessions": [
+        {
+          "date": "2026-04-01",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_solaris-1972",
+      "title": "Solaris",
+      "director": "Andrei Tarkovsky",
+      "year": 1972,
+      "duration": 167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-500-0-750-crop.jpg?v=18b2bcf9ce",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/solaris-1972",
+      "sessions": [
+        {
+          "date": "2026-03-30",
+          "time": "21:15",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "21:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.23,
+      "plot": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
       "country": "Soviet Union"
+    },
+    {
+      "id": "nimas_taurus-2001",
+      "title": "Taurus",
+      "director": "Aleksandr Sokurov",
+      "year": 2001,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/5/1/19351-taurus-0-500-0-750-crop.jpg?v=8ee3315b4d",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/taurus-2001",
+      "sessions": [
+        {
+          "date": "2026-03-31",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Joseph Stalin (Sergei Razhuk) visits ailing Russian leader Vladimir Lenin (Leonid Mozgovoy) in 1923.",
+      "country": "Russia"
     },
     {
       "id": "nimas_a-janela-indiscreta-1954",
@@ -2018,7 +1889,7 @@ window.CINEMA_DATA = {
       "director": "Alfred Hitchcock",
       "year": 1954,
       "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/3926a248-d4fe-47e0-9fde-98628e9ff736.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/5/2/51552-rear-window-0-500-0-750-crop.jpg?v=855a2e3070",
       "genres": [
         "Drama"
       ],
@@ -2035,12 +1906,34 @@ window.CINEMA_DATA = {
       "country": "United States"
     },
     {
+      "id": "nimas_luz-de-inverno-1963",
+      "title": "Luz de Inverno",
+      "director": "Ingmar Bergman",
+      "year": 1963,
+      "duration": 81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/7/32847-winter-light-0-500-0-750-crop.jpg?v=4acd9ba380",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/luz-de-inverno-1963",
+      "sessions": [
+        {
+          "date": "2026-04-14",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.25,
+      "plot": "A small-town priest struggles with his faith.",
+      "country": "Sweden"
+    },
+    {
       "id": "nimas_depois-do-ensaio-1984",
       "title": "Depois do Ensaio",
       "director": "Ingmar Bergman",
       "year": 1984,
       "duration": 70,
-      "poster": "https://medeiafilmes.com/uploads/library/depois_do_ensaio_cartaz_a3.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/7/6/22976-after-the-rehearsal-0-500-0-750-crop.jpg?v=ce2df3e6ee",
       "genres": [
         "Drama"
       ],
@@ -2055,28 +1948,6 @@ window.CINEMA_DATA = {
       "rating": 3.62,
       "plot": "As an aging playwright interacts with the young lead in his play after everybody's gone home, he reminisces about her mother, whom he maintained a sexual relationship with before she died.",
       "country": "Sweden, West Germany"
-    },
-    {
-      "id": "nimas_taurus-2001",
-      "title": "Taurus",
-      "director": "Aleksandr Sokurov",
-      "year": 2001,
-      "duration": 104,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzbhmje2ntgtmwyxos00nde1ltkwmmmtngyyngy3odzknjg4xkeyxkfqcgc_v1.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/taurus-2001",
-      "sessions": [
-        {
-          "date": "2026-03-31",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Joseph Stalin (Sergei Razhuk) visits ailing Russian leader Vladimir Lenin (Leonid Mozgovoy) in 1923.",
-      "country": "Russia"
     },
     {
       "id": "nimas_variacoes-de-casanova-2014",
@@ -2098,26 +1969,70 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_luz-de-inverno-1963",
-      "title": "Luz de Inverno",
-      "director": "Ingmar Bergman",
-      "year": 1963,
-      "duration": 81,
-      "poster": "https://medeiafilmes.com/uploads/library/luz-de-inverno.jpeg",
+      "id": "nimas_ascensao-1977",
+      "title": "Ascensão",
+      "director": "Larisa Shepitko",
+      "year": 1977,
+      "duration": 111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/6/6/15466-the-ascent-0-500-0-750-crop.jpg?v=23f005183e",
       "genres": [
-        "Drama"
+        "Drama",
+        "Guerra"
       ],
-      "link": "https://medeiafilmes.com/filmes/luz-de-inverno-1963",
+      "link": "https://medeiafilmes.com/filmes/ascensao-1977",
       "sessions": [
         {
-          "date": "2026-04-14",
-          "time": "17:00",
+          "date": "2026-03-31",
+          "time": "19:15",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.25,
-      "plot": "A small-town priest struggles with his faith.",
-      "country": "Sweden"
+      "rating": 4.43,
+      "plot": "Two Soviet partisans on a mission to gather food contend with the winter cold, the occupying Germans, and their own psyches.",
+      "country": "Soviet Union"
+    },
+    {
+      "id": "nimas_francofonia-2015",
+      "title": "Francofonia",
+      "director": "Aleksandr Sokurov",
+      "year": 2015,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/3/7/2/8/223728-francofonia-0-500-0-750-crop.jpg?v=a454a8ad62",
+      "genres": [
+        "Drama",
+        "Histórico"
+      ],
+      "link": "https://medeiafilmes.com/filmes/francofonia-2015",
+      "sessions": [
+        {
+          "date": "2026-04-01",
+          "time": "17:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.51,
+      "plot": "A history of the Louvre during the Nazi occupation and a meditation on the meaning and timelessness of art.",
+      "country": "France, Germany, Netherlands"
+    },
+    {
+      "id": "nimas_lagrimas-e-suspiros-1972",
+      "title": "Lágrimas e Suspiros",
+      "director": "Ingmar Bergman",
+      "year": 1972,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/4/46414-cries-and-whispers-0-500-0-750-crop.jpg?v=80b1fa11db",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/lagrimas-e-suspiros-1972",
+      "sessions": [
+        {
+          "date": "2026-04-01",
+          "time": "19:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.21
     },
     {
       "id": "nimas_morangos-silvestres-1957",
@@ -2125,7 +2040,7 @@ window.CINEMA_DATA = {
       "director": "Ingmar Bergman",
       "year": 1957,
       "duration": 92,
-      "poster": "https://medeiafilmes.com/uploads/library/morangos_silvestres_capa_poster.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7y/dg/6m/fs/je9lvVfSihc4L4yMNmw0rg6oks0-0-500-0-750-crop.jpg?v=670240b18f",
       "genres": [
         "Drama"
       ],
@@ -2142,32 +2057,12 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_lagrimas-e-suspiros-1972",
-      "title": "Lágrimas e Suspiros",
-      "director": "Ingmar Bergman",
-      "year": 1972,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/lagrimas-e-suspiros.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/lagrimas-e-suspiros-1972",
-      "sessions": [
-        {
-          "date": "2026-04-01",
-          "time": "19:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.21
-    },
-    {
       "id": "nimas_acordar-para-a-vida-2001",
       "title": "Acordar para a Vida",
       "director": "Richard Linklater",
       "year": 2001,
       "duration": 99,
-      "poster": "https://medeiafilmes.com/uploads/library/p27247_p_v8_aa.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-500-0-750-crop.jpg?v=d340df121c",
       "genres": [
         "Animation",
         "Drama",
@@ -2191,27 +2086,71 @@ window.CINEMA_DATA = {
       "country": "United States"
     },
     {
-      "id": "nimas_francofonia-2015",
-      "title": "Francofonia",
-      "director": "Aleksandr Sokurov",
-      "year": 2015,
-      "duration": 88,
-      "poster": "https://medeiafilmes.com/uploads/library/francofonia_poster.jpg",
+      "id": "nimas_alexander-nevsky-1938",
+      "title": "Alexander Nevsky",
+      "director": "Serguei Eisenstein",
+      "year": 1938,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/7/46417-alexander-nevsky-0-500-0-750-crop.jpg?v=047b39ef04",
       "genres": [
-        "Drama",
-        "Histórico"
+        "Acção",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/francofonia-2015",
+      "link": "https://medeiafilmes.com/filmes/alexander-nevsky-1938",
       "sessions": [
         {
-          "date": "2026-04-01",
-          "time": "17:15",
+          "date": "2026-04-02",
+          "time": "17:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.51,
-      "plot": "A history of the Louvre during the Nazi occupation and a meditation on the meaning and timelessness of art.",
-      "country": "France, Germany, Netherlands"
+      "rating": 3.76,
+      "plot": "The story of how a great Russian prince led a ragtag army to battle an invading force of Teutonic Knights.",
+      "country": "Soviet Union"
+    },
+    {
+      "id": "nimas_uma-licao-de-amor-1953",
+      "title": "Uma Lição de Amor",
+      "director": "Ingmar Bergman",
+      "year": 1953,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/83-a-lesson-in-love-0-500-0-750-crop.jpg?v=55899b86d4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/uma-licao-de-amor-1953",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.47,
+      "plot": "After a 15-year marriage, the spouses are going to divorce, but suddenly find out that their feelings have not vanished yet.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_psico-1960",
+      "title": "Psico",
+      "director": "Alfred Hitchcock",
+      "year": 1960,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/8/51578-psycho-0-500-0-750-crop.jpg?v=7250c49dcd",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/psico-1960",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.31,
+      "plot": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+      "country": "United States"
     },
     {
       "id": "nimas_os-domingos-2018",
@@ -2219,7 +2158,7 @@ window.CINEMA_DATA = {
       "director": "Alauda Ruiz de Azúa",
       "year": 2018,
       "duration": 115,
-      "poster": "https://medeiafilmes.com/uploads/library/os_domingos.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/9/9/3/6/259936-sundays-0-500-0-750-crop.jpg?v=aa8a3028cd",
       "genres": [
         "Drama"
       ],
@@ -2264,34 +2203,12 @@ window.CINEMA_DATA = {
       "rating": 3.19
     },
     {
-      "id": "nimas_uma-licao-de-amor-1953",
-      "title": "Uma Lição de Amor",
-      "director": "Ingmar Bergman",
-      "year": 1953,
-      "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/uma-licao-de-amor.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/uma-licao-de-amor-1953",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.47,
-      "plot": "After a 15-year marriage, the spouses are going to divorce, but suddenly find out that their feelings have not vanished yet.",
-      "country": "Sweden"
-    },
-    {
       "id": "nimas_um-verao-de-amor-1951",
       "title": "Um Verão de Amor",
       "director": "Ingmar Bergman",
       "year": 1951,
       "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/um_verao_de_amor_capa_poster.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/8/17928-summer-interlude-0-500-0-750-crop.jpg?v=0c478174a2",
       "genres": [
         "Drama"
       ],
@@ -2308,57 +2225,12 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_alexander-nevsky-1938",
-      "title": "Alexander Nevsky",
-      "director": "Serguei Eisenstein",
-      "year": 1938,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/alexandre_nevsky_capa_frente.jpg",
-      "genres": [
-        "Acção",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/alexander-nevsky-1938",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "The story of how a great Russian prince led a ragtag army to battle an invading force of Teutonic Knights.",
-      "country": "Soviet Union"
-    },
-    {
-      "id": "nimas_psico-1960",
-      "title": "Psico",
-      "director": "Alfred Hitchcock",
-      "year": 1960,
-      "duration": 109,
-      "poster": "https://medeiafilmes.com/uploads/library/1200px-psycho_1960_theatrical_poster_retouched.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/psico-1960",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.31,
-      "plot": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
-      "country": "United States"
-    },
-    {
       "id": "nimas_andrei-rublev-1966",
       "title": "Andrei Rublev",
       "director": "Andrei Tarkovsky",
       "year": 1966,
       "duration": 189,
-      "poster": "https://medeiafilmes.com/uploads/library/andrei-rublev-1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ta/n3/34/bp/andrey-rublyov-0-500-0-750-crop.jpg?v=d30a8bb2cb",
       "genres": [
         "Drama"
       ],
@@ -2380,7 +2252,7 @@ window.CINEMA_DATA = {
       "director": "Alfred Hitchcock",
       "year": 1958,
       "duration": 128,
-      "poster": "https://medeiafilmes.com/uploads/library/vertigomovie_restoration.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-500-0-750-crop.jpg?v=1403a5e003",
       "genres": [
         "Mystery",
         "Romance",
@@ -2409,7 +2281,7 @@ window.CINEMA_DATA = {
       "director": "Carla Simón",
       "year": 2025,
       "duration": 115,
-      "poster": "https://medeiafilmes.com/uploads/library/romeria_cartaz_alta.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/3/7/1069037-romeria-0-500-0-750-crop.jpg?v=5268e5d224",
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/romaria-2025",
       "sessions": [
@@ -2437,12 +2309,30 @@ window.CINEMA_DATA = {
       "rating": 3.59
     },
     {
+      "id": "nimas_siberiada-1979",
+      "title": "Siberíada",
+      "director": "Andrei Konchalovsky",
+      "year": 1979,
+      "duration": 207,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/6/6/4/52664-siberiade-0-500-0-750-crop.jpg?v=9b2b8a3225",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/siberiada-1979",
+      "sessions": [
+        {
+          "date": "2026-04-04",
+          "time": "10:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.11
+    },
+    {
       "id": "nimas_fanny-e-alexandre-1982",
       "title": "Fanny e Alexandre",
       "director": "Ingmar Bergman",
       "year": 1982,
       "duration": 188,
-      "poster": "https://medeiafilmes.com/uploads/library/fanny-e-alexandre.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-500-0-750-crop.jpg?v=7a54d11e04",
       "genres": [
         "Drama"
       ],
@@ -2459,22 +2349,26 @@ window.CINEMA_DATA = {
       "country": "Sweden, France, West Germany"
     },
     {
-      "id": "nimas_siberiada-1979",
-      "title": "Siberíada",
-      "director": "Andrei Konchalovsky",
-      "year": 1979,
-      "duration": 207,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmty0mtu0ntgxov5bml5banbnxkftztgwnze4mjkwmze_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/siberiada-1979",
+      "id": "nimas_sonata-de-outono-1978",
+      "title": "Sonata de Outono",
+      "director": "Ingmar Bergman",
+      "year": 1978,
+      "duration": 99,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/dr/d3/nw/gv/m4I32itPMlRWqWJamFAwFDbrBXp-0-500-0-750-crop.jpg?v=45433653ca",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/sonata-de-outono-1978",
       "sessions": [
         {
-          "date": "2026-04-04",
-          "time": "10:00",
+          "date": "2026-04-05",
+          "time": "17:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.11
+      "rating": 4.49,
+      "plot": "A devoted wife is visited by her mother, a successful concert pianist who had little time for her when she was young.",
+      "country": "West Germany, United Kingdom, Sweden"
     },
     {
       "id": "nimas_ivan-o-terrivel-parte-1-1944",
@@ -2482,7 +2376,7 @@ window.CINEMA_DATA = {
       "director": "Sergei Eisenstein",
       "year": 1944,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/ivan-o-terrivel-parte-i.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/1/5/46815-ivan-the-terrible-part-i-0-500-0-750-crop.jpg?v=4ad52235ad",
       "genres": [
         "Drama"
       ],
@@ -2502,7 +2396,7 @@ window.CINEMA_DATA = {
       "director": "Sergei Eisenstein",
       "year": 1958,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/ivan-o-terrivel-parte-ii.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/0/0/5/22005-ivan-the-terrible-part-ii-the-boyars-plot-0-500-0-750-crop.jpg?v=df0c6bb808",
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/ivan-o-terrivel-parte-2-1958",
       "sessions": [
@@ -2515,34 +2409,12 @@ window.CINEMA_DATA = {
       "rating": 4.05
     },
     {
-      "id": "nimas_o-homem-da-camara-de-filmar-1929",
-      "title": "O Homem da Câmara de Filmar",
-      "director": "Dziga Vertov",
-      "year": 1929,
-      "duration": 68,
-      "poster": "https://medeiafilmes.com/uploads/library/o-homem-da-camara-de-filmar.jpeg",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.27,
-      "plot": "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
-      "country": "Soviet Union"
-    },
-    {
       "id": "nimas_moloch-1999",
       "title": "Moloch",
       "director": "Aleksandr Sokurov",
       "year": 1999,
       "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmmqzngrmnzetotnkmc00mta3lwi5zjctnwjintg5zdkwmtzmxkeyxkfqcgc_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
       "genres": [
         "Drama"
       ],
@@ -2559,12 +2431,34 @@ window.CINEMA_DATA = {
       "country": "Russia, Germany, Italy, Switzerland"
     },
     {
+      "id": "nimas_stalker-1979",
+      "title": "Stalker",
+      "director": "Andrei Tarkovsky",
+      "year": 1979,
+      "duration": 162,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/stalker-1979",
+      "sessions": [
+        {
+          "date": "2026-04-13",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.4,
+      "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+      "country": "Soviet Union"
+    },
+    {
       "id": "nimas_ladrao-de-casaca-1955",
       "title": "Ladrão de Casaca",
       "director": "Alfred Hitchcock",
       "year": 1955,
       "duration": 106,
-      "poster": "https://medeiafilmes.com/uploads/library/tocatchathief.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/4/51704-to-catch-a-thief-0-500-0-750-crop.jpg?v=d33cec8e58",
       "genres": [
         "Drama"
       ],
@@ -2581,12 +2475,80 @@ window.CINEMA_DATA = {
       "country": "United States"
     },
     {
+      "id": "nimas_o-homem-da-camara-de-filmar-1929",
+      "title": "O Homem da Câmara de Filmar",
+      "director": "Dziga Vertov",
+      "year": 1929,
+      "duration": 68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
+      "country": "Soviet Union"
+    },
+    {
+      "id": "nimas_a-vergonha-1968",
+      "title": "A Vergonha",
+      "director": "Ingmar Bergman",
+      "year": 1968,
+      "duration": 103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/6/1/35361-shame-0-500-0-750-crop.jpg?v=b9973d7648",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-vergonha-1968",
+      "sessions": [
+        {
+          "date": "2026-04-07",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.22,
+      "plot": "In the midst of a civil war, former violinists Jan and Eva Rosenberg, who have a tempestuous marriage, run a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of thei...",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_os-passaros-1963",
+      "title": "Os Pássaros",
+      "director": "Alfred Hitchcock",
+      "year": 1963,
+      "duration": 119,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/9/51549-the-birds-0-500-0-750-crop.jpg?v=3b7bf23e10",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-passaros-1963",
+      "sessions": [
+        {
+          "date": "2026-04-07",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.74,
+      "plot": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+      "country": "United States"
+    },
+    {
       "id": "nimas_nostalgia-1983-1983",
       "title": "Nostalgia (1983)",
       "director": "Andrei Tarkovsky",
       "year": 1983,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/nostalgia1.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/3/5/5/177355-1983-0-500-0-750-crop.jpg?v=b7408f6a42",
       "genres": [
         "Drama"
       ],
@@ -2606,7 +2568,7 @@ window.CINEMA_DATA = {
       "director": "Aleksandr Sokurov",
       "year": 2022,
       "duration": 78,
-      "poster": "https://medeiafilmes.com/uploads/library/fairytale_poster_digital.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/6/8/1/4/866814-fairytale-0-500-0-750-crop.jpg?v=76e12f5391",
       "genres": [
         "Animation",
         "Fantasy"
@@ -2624,56 +2586,12 @@ window.CINEMA_DATA = {
       "country": "Russia, Belgium"
     },
     {
-      "id": "nimas_a-vergonha-1968",
-      "title": "A Vergonha",
-      "director": "Ingmar Bergman",
-      "year": 1968,
-      "duration": 103,
-      "poster": "https://medeiafilmes.com/uploads/library/a_vergonha_cartaz.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-vergonha-1968",
-      "sessions": [
-        {
-          "date": "2026-04-07",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.22,
-      "plot": "In the midst of a civil war, former violinists Jan and Eva Rosenberg, who have a tempestuous marriage, run a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of thei...",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_a-fonte-da-virgem-1960",
-      "title": "A Fonte da Virgem",
-      "director": "Ingmar Bergman",
-      "year": 1960,
-      "duration": 89,
-      "poster": "https://medeiafilmes.com/uploads/library/a-fonte-da-virgem.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-fonte-da-virgem-1960",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.16,
-      "plot": "In 14th-century Sweden, an innocent yet pampered teenage girl and her family's pregnant and jealous servant set out from their farm to deliver candles to church, but only one returns from events that transpire in the woods along t...",
-      "country": "Sweden"
-    },
-    {
       "id": "nimas_intriga-internacional-1959",
       "title": "Intriga Internacional",
       "director": "Alfred Hitchcock",
       "year": 1959,
       "duration": 136,
-      "poster": "https://medeiafilmes.com/uploads/library/lstzvlhqmn7mswx0oci0tfagwsi-scaled.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
       "genres": [
         "Adventure",
         "Drama",
@@ -2697,7 +2615,7 @@ window.CINEMA_DATA = {
       "director": "Larisa Shepitko",
       "year": 1971,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/tu-e-eu.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/9/1/5/110915-you-and-me-0-500-0-750-crop.jpg?v=3d3508587e",
       "genres": [
         "Drama"
       ],
@@ -2712,24 +2630,26 @@ window.CINEMA_DATA = {
       "rating": 3.66
     },
     {
-      "id": "nimas_chuva-de-julho-1966",
-      "title": "Chuva de Julho",
-      "director": "Marlen Khutsiev",
-      "year": 1966,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/chuva-de-julho.jpeg",
+      "id": "nimas_a-fonte-da-virgem-1960",
+      "title": "A Fonte da Virgem",
+      "director": "Ingmar Bergman",
+      "year": 1960,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/7/45097-the-virgin-spring-0-500-0-750-crop.jpg?v=a96d692d1e",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
+      "link": "https://medeiafilmes.com/filmes/a-fonte-da-virgem-1960",
       "sessions": [
         {
-          "date": "2026-04-09",
-          "time": "17:00",
+          "date": "2026-04-08",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.92
+      "rating": 4.16,
+      "plot": "In 14th-century Sweden, an innocent yet pampered teenage girl and her family's pregnant and jealous servant set out from their farm to deliver candles to church, but only one returns from events that transpire in the woods along t...",
+      "country": "Sweden"
     },
     {
       "id": "nimas_o-barqueiro-2025",
@@ -2786,7 +2706,7 @@ window.CINEMA_DATA = {
       "director": "Richard Linklater",
       "year": 1995,
       "duration": 101,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzdzhzmi1ztutywi3nc00ntmwltk3nwmtndc0ognjm2i0zjlmxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-500-0-750-crop.jpg?v=006e8fedea",
       "genres": [
         "Comedy",
         "Drama",
@@ -2810,7 +2730,7 @@ window.CINEMA_DATA = {
       "director": "Aleksandr Sokurov",
       "year": 2005,
       "duration": 110,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmtc2mta1mtu2ov5bml5banbnxkftztgwnza0mdaxmze_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/7/5/5/80755-the-sun-0-500-0-750-crop.jpg?v=656d511440",
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-sol-2005",
       "sessions": [
@@ -2823,12 +2743,32 @@ window.CINEMA_DATA = {
       "rating": 3.74
     },
     {
+      "id": "nimas_chuva-de-julho-1966",
+      "title": "Chuva de Julho",
+      "director": "Marlen Khutsiev",
+      "year": 1966,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92
+    },
+    {
       "id": "nimas_da-vida-das-marionetas-1980",
       "title": "Da Vida das Marionetas",
       "director": "Ingmar Bergman",
       "year": 1980,
       "duration": 104,
-      "poster": "https://medeiafilmes.com/uploads/library/da-vida-das-marionetas.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
       "genres": [
         "Drama"
       ],
@@ -2845,12 +2785,54 @@ window.CINEMA_DATA = {
       "country": "West Germany, Austria"
     },
     {
+      "id": "nimas_a-paixao-1956",
+      "title": "A Paixão",
+      "director": "Ingmar Bergman",
+      "year": 1956,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/8/4/22484-the-passion-of-anna-0-500-0-750-crop.jpg?v=31f02e2114",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-paixao-1956",
+      "sessions": [
+        {
+          "date": "2026-04-10",
+          "time": "19:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.95
+    },
+    {
+      "id": "nimas_o-couracado-potemkine-1925",
+      "title": "O Couraçado Potemkine",
+      "director": "Serguei M. Eisenstein",
+      "year": 1925,
+      "duration": 75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/1/51481-battleship-potemkin-0-500-0-750-crop.jpg?v=99212d0d70",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-couracado-potemkine-1925",
+      "sessions": [
+        {
+          "date": "2026-04-10",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.0,
+      "plot": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
+      "country": "Soviet Union"
+    },
+    {
       "id": "nimas_ainda-funciona-2025",
       "title": "Ainda Funciona?",
       "director": "Bradley Cooper",
       "year": 2025,
       "duration": 124,
-      "poster": "https://medeiafilmes.com/uploads/library/cartaz1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cu/cp/cr/2m/o0uOCDLZEwlForZ5Bf3IeBwlPLd-0-500-0-750-crop.jpg?v=371b64c948",
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/ainda-funciona-2025",
       "sessions": [
@@ -2868,7 +2850,7 @@ window.CINEMA_DATA = {
       "director": "Elem Klimov",
       "year": 1983,
       "duration": 121,
-      "poster": "https://medeiafilmes.com/uploads/library/adeus-a-matiora.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
       "genres": [
         "Drama"
       ],
@@ -2883,71 +2865,6 @@ window.CINEMA_DATA = {
       "rating": 3.98,
       "plot": "Matyora is a small village on a beautiful island with the same name. The existence of the village is threatened with flooding by the construction of a dam. This is the story of the inhabitants of Matyora and their farewell to thei...",
       "country": "Soviet Union"
-    },
-    {
-      "id": "nimas_o-couracado-potemkine-1925",
-      "title": "O Couraçado Potemkine",
-      "director": "Serguei M. Eisenstein",
-      "year": 1925,
-      "duration": 75,
-      "poster": "https://medeiafilmes.com/uploads/library/o-couracado-potemkine---2.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-couracado-potemkine-1925",
-      "sessions": [
-        {
-          "date": "2026-04-10",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.0,
-      "plot": "In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.",
-      "country": "Soviet Union"
-    },
-    {
-      "id": "nimas_a-paixao-1956",
-      "title": "A Paixão",
-      "director": "Ingmar Bergman",
-      "year": 1956,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/a_paixao_cartaz_a3.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-paixao-1956",
-      "sessions": [
-        {
-          "date": "2026-04-10",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.95
-    },
-    {
-      "id": "nimas_antes-do-anoitecer-2004",
-      "title": "Antes do Anoitecer",
-      "director": "Richard Linklater",
-      "year": 2004,
-      "duration": 80,
-      "poster": "https://medeiafilmes.com/uploads/library/sunset.png",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/antes-do-anoitecer-2004",
-      "sessions": [
-        {
-          "date": "2026-04-11",
-          "time": "22:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.32,
-      "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
-      "country": "United States"
     },
     {
       "id": "nimas_o-diario-do-realizador-2025",
@@ -2979,7 +2896,7 @@ window.CINEMA_DATA = {
       "director": "Milos Forman",
       "year": 1984,
       "duration": 181,
-      "poster": "https://medeiafilmes.com/uploads/library/rylzgil9anj6jri2dmlapumx5pt.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/amadeus-director-s-cut-1984",
       "sessions": [
@@ -2992,12 +2909,35 @@ window.CINEMA_DATA = {
       "rating": 4.35
     },
     {
+      "id": "nimas_antes-do-anoitecer-2004",
+      "title": "Antes do Anoitecer",
+      "director": "Richard Linklater",
+      "year": 2004,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/0/51970-before-sunset-0-500-0-750-crop.jpg?v=718e2923ff",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/antes-do-anoitecer-2004",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "22:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.32,
+      "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+      "country": "United States"
+    },
+    {
       "id": "nimas_a-mascara-1966",
       "title": "A Máscara",
       "director": "Ingmar Bergman",
       "year": 1966,
       "duration": 84,
-      "poster": "https://medeiafilmes.com/uploads/library/a-mascara.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/5/51355-persona-0-500-0-750-crop.jpg?v=aca1e0fd3d",
       "genres": [
         "Drama"
       ],
@@ -3019,7 +2959,7 @@ window.CINEMA_DATA = {
       "director": "Richard Linklater",
       "year": 2014,
       "duration": 165,
-      "poster": "https://medeiafilmes.com/uploads/library/boyhood-437559718-large.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xi/gm/ev/iu/eKi4e5zXhQKs0De4xu5AAMvu376-0-500-0-750-crop.jpg?v=550c14e234",
       "genres": [
         "Drama"
       ],
@@ -3041,7 +2981,7 @@ window.CINEMA_DATA = {
       "director": "Ingmar Bergman",
       "year": 1949,
       "duration": 79,
-      "poster": "https://medeiafilmes.com/uploads/library/a-prisao.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/5/6/7/90567-prison-0-500-0-750-crop.jpg?v=dc8d16bfcb",
       "genres": [
         "Drama"
       ],
@@ -3063,7 +3003,7 @@ window.CINEMA_DATA = {
       "director": "Ingmar Bergman",
       "year": 1952,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mulheres_que_esperam_cartaz_a3.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/5/7/0/54570-secrets-of-women-1952-0-500-0-750-crop.jpg?v=68725cb764",
       "genres": [
         "Drama"
       ],
@@ -3078,12 +3018,34 @@ window.CINEMA_DATA = {
       "rating": 3.5
     },
     {
+      "id": "nimas_a-infancia-de-ivan-1962",
+      "title": "A Infância de Ivan",
+      "director": "Andrei Tarkovsky",
+      "year": 1962,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/wm/nu/cy/pm/ivans-0-500-0-750-crop.jpg?v=0f5fe79fd4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-infancia-de-ivan-1962",
+      "sessions": [
+        {
+          "date": "2026-04-14",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.19,
+      "plot": "During WWII, Soviet orphan Ivan Bondarev strikes up a friendship with three sympathetic Soviet officers while working as a scout behind the German lines.",
+      "country": "Soviet Union"
+    },
+    {
       "id": "nimas_don-giovanni-1979",
       "title": "Don Giovanni",
       "director": "Joseph Losey",
       "year": 1979,
       "duration": 176,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmgm1ymzkytatnwuwmi00yjc0ltk2otgtotk5zjewyzk2zgu4xkeyxkfqcgc_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/0/5090-don-giovanni-0-500-0-750-crop.jpg?v=4b53a0d247",
       "genres": [
         "Drama",
         "Music"
@@ -3101,56 +3063,12 @@ window.CINEMA_DATA = {
       "country": "France, Italy, West Germany"
     },
     {
-      "id": "nimas_a-infancia-de-ivan-1962",
-      "title": "A Infância de Ivan",
-      "director": "Andrei Tarkovsky",
-      "year": 1962,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/infancia-de-ivan-3.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-infancia-de-ivan-1962",
-      "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.19,
-      "plot": "During WWII, Soviet orphan Ivan Bondarev strikes up a friendship with three sympathetic Soviet officers while working as a scout behind the German lines.",
-      "country": "Soviet Union"
-    },
-    {
-      "id": "nimas_uma-luz-nas-trevas-1948",
-      "title": "Uma Luz nas Trevas",
-      "director": "Ingmar Bergman",
-      "year": 1948,
-      "duration": 87,
-      "poster": "https://medeiafilmes.com/uploads/library/uma_luz_nas_trevas_cartaz.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/uma-luz-nas-trevas-1948",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.28,
-      "plot": "A blind musician falls in love with a kindhearted girl.",
-      "country": "Sweden"
-    },
-    {
       "id": "nimas_arsenal-1929",
       "title": "Arsenal",
       "director": "Aleksandr Dovzhenko",
       "year": 1929,
       "duration": 93,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bntuzotaymjixov5bml5banbnxkftztywnjk2mzg5_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
       "genres": [
         "Drama",
         "War"
@@ -3168,21 +3086,48 @@ window.CINEMA_DATA = {
       "country": "Soviet Union"
     },
     {
-      "id": "fernando_mr_nobody_contra_putin",
-      "title": "Mr Nobody Contra Putin",
-      "director": "David Borenstein, Pavel Talankin",
-      "year": null,
-      "duration": null,
-      "poster": "https://freight.cargo.site/t/original/i/156ce7bc0a68e7161c658a19c7e823037a937c241995db18f8581b5bb5451569/MR-NOBODY-AGAINS-PUTIN_SITE.jpg",
-      "genres": [],
-      "link": "https://cinemafernandolopes.pt/MR-NOBODY-CONTRA-PUTIN",
+      "id": "nimas_em-busca-da-verdade-1961",
+      "title": "Em Busca da Verdade",
+      "director": "Ingmar Bergman",
+      "year": 1961,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rv/fr/9y/nj/oc7XMMpoDuXf7ZeLMNjw8VrHdrB-0-500-0-750-crop.jpg?v=d886332e9b",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/em-busca-da-verdade-1961",
       "sessions": [
         {
-          "date": "2026-04-01",
-          "time": "19:00",
-          "cinema": "fernando"
+          "date": "2026-04-15",
+          "time": "15:30",
+          "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.16,
+      "plot": "Recently released from a mental hospital, Karin rejoins her emotionally disconnected family in their island home, only to slip from reality as she begins to believe she is being visited by God.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_uma-luz-nas-trevas-1948",
+      "title": "Uma Luz nas Trevas",
+      "director": "Ingmar Bergman",
+      "year": 1948,
+      "duration": 87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/9/2/2/52922-music-in-darkness-0-500-0-750-crop.jpg?v=3eef791ce2",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/uma-luz-nas-trevas-1948",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.28,
+      "plot": "A blind musician falls in love with a kindhearted girl.",
+      "country": "Sweden"
     },
     {
       "id": "fernando_a_pequena_ame_lie",
@@ -3223,11 +3168,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/MARCEL-E-MONSIEUR-PAGNOL",
       "sessions": [
         {
-          "date": "2026-03-29",
-          "time": "11:00",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-03-30",
           "time": "16:45",
           "cinema": "fernando"
@@ -3245,35 +3185,12 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "fernando_o_u_ltimo_padrinho",
-      "title": "O Último Padrinho",
-      "director": "Antonio Piazza, Fabio Grassadonia",
-      "year": null,
-      "duration": null,
-      "poster": "https://freight.cargo.site/t/original/i/abb771259c4da80f6a07e0b1154cb91cda45acce4957faa68d14075ad4db65d6/o-ultimo-padrinho_cartaz-site_data.png",
-      "genres": [],
-      "link": "https://cinemafernandolopes.pt/O-ULTIMO-PADRINHO",
-      "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "18:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-03-30",
-          "time": "21:00",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 2.33
-    },
-    {
       "id": "fernando_riefenstahl",
       "title": "Riefenstahl",
       "director": "Andres Veiel",
       "year": 2024,
       "duration": 115,
-      "poster": "https://freight.cargo.site/t/original/i/43f28587502f1d3b3d9560d081b18df5874e9490627c922f8e9d0ddf66bef292/RIEFENSTAHL_site.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/5/1/9/974519-riefenstahl-0-500-0-750-crop.jpg?v=8f48d78fd6",
       "genres": [
         "Documentary",
         "Biography",
@@ -3281,11 +3198,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinemafernandolopes.pt/RIEFENSTAHL",
       "sessions": [
-        {
-          "date": "2026-03-29",
-          "time": "14:15",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-03-30",
           "time": "18:45",
@@ -3302,28 +3214,22 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "fernando_aguirre_a_co_lera_de_deus",
-      "title": "AGUIRRE, A CÓLERA DE DEUS",
-      "director": "Werner Herzog",
-      "year": 1972,
-      "duration": 95,
-      "poster": "https://freight.cargo.site/t/original/i/a43532fdb062f2f28d4fa4604768ee1ac93c6e36bb1ae767c56ed76ffe95f52b/cfl_werner-herzog_cartaz_site.jpg",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Biography"
-      ],
-      "link": "https://cinemafernandolopes.pt/MOSTRA-ESSENCIAL-WERNER-HERZOG",
+      "id": "fernando_o_u_ltimo_padrinho",
+      "title": "O Último Padrinho",
+      "director": "Antonio Piazza, Fabio Grassadonia",
+      "year": null,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/6/3/7/58637-the-last-godfather-0-500-0-750-crop.jpg?v=9ce6060efb",
+      "genres": [],
+      "link": "https://cinemafernandolopes.pt/O-ULTIMO-PADRINHO",
       "sessions": [
         {
-          "date": "2026-03-29",
-          "time": "16:30",
+          "date": "2026-03-30",
+          "time": "21:00",
           "cinema": "fernando"
         }
       ],
-      "rating": 4.11,
-      "plot": "In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.",
-      "country": "West Germany, Mexico, Peru"
+      "rating": 2.33
     },
     {
       "id": "fernando_sen",
@@ -3331,7 +3237,7 @@ window.CINEMA_DATA = {
       "director": "Joachim Trier",
       "year": 2025,
       "duration": 135,
-      "poster": "https://freight.cargo.site/t/original/i/5ed1e09c1307dc12fc84d7f68198db11d7c71663d3dcc8b629ba7f5ccbb35e02/VALOR-SENTIMENTAL_site.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/3/5/7/1013357-sentimental-value-2025-0-500-0-750-crop.jpg?v=e89e64a309",
       "genres": [
         "“SENTIMENTAL VALUE”",
         "Drama"
@@ -3347,12 +3253,29 @@ window.CINEMA_DATA = {
       "rating": 4.16
     },
     {
+      "id": "fernando_mr_nobody_contra_putin",
+      "title": "Mr Nobody Contra Putin",
+      "director": "David Borenstein, Pavel Talankin",
+      "year": null,
+      "duration": null,
+      "poster": "https://freight.cargo.site/t/original/i/156ce7bc0a68e7161c658a19c7e823037a937c241995db18f8581b5bb5451569/MR-NOBODY-AGAINS-PUTIN_SITE.jpg",
+      "genres": [],
+      "link": "https://cinemafernandolopes.pt/MR-NOBODY-CONTRA-PUTIN",
+      "sessions": [
+        {
+          "date": "2026-04-01",
+          "time": "19:00",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
       "id": "fernando_o_enigma_de_kaspar_hauser_mostra_essencial_werner",
       "title": "O ENIGMA DE KASPAR HAUSER",
       "director": "Werner Herzog",
       "year": 1974,
       "duration": 110,
-      "poster": "https://freight.cargo.site/t/original/i/a43532fdb062f2f28d4fa4604768ee1ac93c6e36bb1ae767c56ed76ffe95f52b/cfl_werner-herzog_cartaz_site.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/4/4/45044-the-enigma-of-kaspar-hauser-0-500-0-750-crop.jpg?v=2aca80938c",
       "genres": [
         "Biography",
         "Drama",
@@ -3376,7 +3299,7 @@ window.CINEMA_DATA = {
       "director": "Werner Herzog",
       "year": 1979,
       "duration": 107,
-      "poster": "https://freight.cargo.site/t/original/i/a43532fdb062f2f28d4fa4604768ee1ac93c6e36bb1ae767c56ed76ffe95f52b/cfl_werner-herzog_cartaz_site.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/3/2/9/48329-nosferatu-the-vampyre-0-500-0-750-crop.jpg?v=3d227a531f",
       "genres": [
         "Drama",
         "Horror"
@@ -3399,7 +3322,7 @@ window.CINEMA_DATA = {
       "director": "Werner Herzog",
       "year": 1992,
       "duration": 54,
-      "poster": "https://freight.cargo.site/t/original/i/a43532fdb062f2f28d4fa4604768ee1ac93c6e36bb1ae767c56ed76ffe95f52b/cfl_werner-herzog_cartaz_site.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/3/3/12733-lessons-of-darkness-0-500-0-750-crop.jpg?v=6946318b34",
       "genres": [
         "Documentary",
         "War"
@@ -3422,7 +3345,7 @@ window.CINEMA_DATA = {
       "director": "Werner Herzog",
       "year": 2005,
       "duration": 80,
-      "poster": "https://freight.cargo.site/t/original/i/a43532fdb062f2f28d4fa4604768ee1ac93c6e36bb1ae767c56ed76ffe95f52b/cfl_werner-herzog_cartaz_site.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/4/9/47749-the-wild-blue-yonder-0-500-0-750-crop.jpg?v=0f6af15988",
       "genres": [
         "Sci-Fi"
       ],
