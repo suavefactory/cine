@@ -4812,18 +4812,6 @@
     "lbxd": null,
     "omdb": null
   },
-  "Mr Nobody Contra Putin|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "A Pequena Amélie|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Marcel e Monsieur Pagnol|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Mediterrâneo (Mediterraneo)|None": {
     "lbxd": {
       "rating": 3.82,
@@ -5010,5 +4998,26 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "A Pequena Amélie|None": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/6/2/9/8/606298-little-amelie-or-the-character-of-rain-0-500-0-750-crop.jpg?v=4440475e1e"
+    },
+    "omdb": null
+  },
+  "Marcel e Monsieur Pagnol|None": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/5/7/0/8/755708-the-magnificent-life-of-marcel-pagnol-0-500-0-750-crop.jpg?v=6c2a9e55f5"
+    },
+    "omdb": null
+  },
+  "Mr Nobody Contra Putin|None": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/5/4/5/1277545-mr-nobody-against-putin-0-500-0-750-crop.jpg?v=e15d911787"
+    },
+    "omdb": null
   }
 }

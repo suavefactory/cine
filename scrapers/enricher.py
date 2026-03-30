@@ -160,9 +160,12 @@ LBXD_SLUGS = {
     "O ÚLTIMO PADRINHO":            "the-last-godfather",
     "O ULTIMO PADRINHO":            "the-last-godfather",
     "ENTRONCAMENTO":                "entroncamento",
-    "MARCEL E MONSIEUR PAGNOL":     "the-screenplay-of-my-life",
+    "MARCEL E MONSIEUR PAGNOL":     "marcel-et-monsieur-pagnol",
     "VALOR SENTIMENTAL":            "sentimental-value-2025",
     "RIEFENSTAHL":                  "riefenstahl",
+    "A PEQUENA AMÉLIE":             "little-amelie",
+    "A PEQUENA AMELIE":             "little-amelie",
+    "MR NOBODY CONTRA PUTIN":       "mr-nobody-against-putin",
     # ── São Jorge — filmes italianos e outros ──
     "ENRICO IV":                    "henry-iv",
     "DIE FREUDLOSE GASSE":          "the-joyless-street",
