@@ -427,7 +427,17 @@
       color: var(--text-2);
     }
 
-    .modal-genres { display: flex; gap: 4px; flex-wrap: wrap; }
+    .modal-genres { display: flex; gap: 4px; flex-wrap: wrap; align-items: center; }
+    .modal-country-tag {
+      font-size: 9px;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      font-weight: 700;
+      padding: 3px 7px;
+      border-radius: 3px;
+      background: #555;
+      color: #fff;
+    }
 
     .modal-plot {
       font-size: 13px;
@@ -1199,7 +1209,7 @@ function openModal(id) {
   const country = m.country ? m.country.split(',')[0].trim() : null;
   const genres  = (m.genres ?? []).slice(0, 3);
   document.getElementById('modalGenres').innerHTML =
-    (country ? `<span class="genre-tag">${country}</span>` : '') +
+    (country ? `<span class="modal-country-tag">${country}</span>` : '') +
     genres.map(g => `<span class="genre-tag">${g}</span>`).join('') +
     (m.rating ? `<span class="genre-tag" style="background:var(--accent);color:#000">★ ${m.rating.toFixed(1)}</span>` : '');
 
