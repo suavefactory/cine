@@ -556,97 +556,10 @@
       .modal-session-row { gap: 8px; font-size: 12px; }
     }
 
-    /* ── FILMES MOBILE — snap scroll feed ───────────────── */
-    .snap-sort-bar {
-      display: flex;
-      gap: 6px;
-      padding: 8px 16px;
-      border-bottom: 1px solid var(--border);
-    }
-    .snap-sort-btn {
-      flex: 1;
-      font-family: inherit;
-      font-size: 11px;
-      font-weight: 600;
-      padding: 6px 0;
-      border-radius: 6px;
-      border: 1px solid var(--border);
-      background: none;
-      color: var(--text-2);
-      cursor: pointer;
-    }
-    .snap-sort-btn.active {
-      background: var(--accent);
-      border-color: var(--accent);
-      color: #000;
-    }
-    .films-snap-feed {
-      /* height e width definidas via JS */
-      display: flex;
-      flex-direction: row;
-      overflow-x: scroll;
-      scroll-snap-type: x mandatory;
-      -webkit-overflow-scrolling: touch;
-    }
-    .snap-card {
-      width: 100%;
-      flex-shrink: 0;
-      scroll-snap-align: start;
-      scroll-snap-stop: always;
-      position: relative;
-      overflow: hidden;
-      cursor: pointer;
-    }
-    /* Fundo desfocado (só aparece quando há poster) */
-    .snap-blur-bg {
-      position: absolute;
-      inset: -30px;
-      background-size: cover;
-      background-position: center;
-      filter: blur(28px) brightness(0.3);
-    }
-    /* Poster em "contain" — vê-se o poster inteiro */
-    .snap-poster-bg {
-      position: absolute;
-      inset: 0;
-      background-size: contain !important;
-      background-repeat: no-repeat !important;
-      background-position: center 30% !important;
-    }
-    .snap-gradient {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(to top,
-        rgba(0,0,0,0.92) 0%,
-        rgba(0,0,0,0.15) 45%,
-        transparent 65%);
-      z-index: 1;
-    }
-    .snap-info {
-      position: absolute;
-      bottom: 0; left: 0; right: 0;
-      padding: 20px 24px 48px;
-      z-index: 2;
-      transform: translateY(22px);
-      opacity: 0;
-      transition: transform 0.45s cubic-bezier(0.22,1,0.36,1), opacity 0.38s ease;
-    }
-    .snap-card.snap-visible .snap-info {
-      transform: translateY(0);
-      opacity: 1;
-    }
-    .snap-badges {
-      display: flex; gap: 5px; flex-wrap: wrap;
-      align-items: center; margin-bottom: 10px;
-    }
-    .snap-title {
-      font-size: 28px; font-weight: 800;
-      color: #fff; line-height: 1.15;
-      margin-bottom: 5px;
-    }
-    .snap-meta {
-      font-size: 13px;
-      color: rgba(255,255,255,0.58);
+    @media (max-width: 540px) {
+      main { padding: 16px 12px 80px; }
+      .movies-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+      .sort-bar { padding: 10px 0 14px; }
     }
 
     /* ── CINEMAS VIEW ───────────────────────────────────── */
@@ -1153,104 +1066,35 @@ function renderFilmes() {
     });
   }
 
-  if (window.innerWidth <= 540) {
-    // ── Mobile: snap scroll feed ──────────────────────────
-    document.getElementById('main').style.padding = '0';
-    document.getElementById('main').innerHTML = `
-      <div class="snap-sort-bar">
-        <button class="snap-sort-btn ${filmesSort==='data'   ? 'active':''}" onclick="setSort('data')">Próxima sessão</button>
-        <button class="snap-sort-btn ${filmesSort==='rating' ? 'active':''}" onclick="setSort('rating')">Melhor rating ★</button>
-      </div>
-      <div class="films-snap-feed" id="snapFeed">
-        ${movies.map(m => {
-          const country = m.country ? m.country.split(',')[0].trim() : null;
-          const meta = [m.director, m.year, m.duration ? m.duration + 'min' : null].filter(Boolean).join(' · ');
-          return `
-            <div class="snap-card" onclick="openModal('${m.id}')">
-              ${m.poster
-                ? `<div class="snap-blur-bg" style="background-image:url('${m.poster}')"></div>
-                   <div class="snap-poster-bg" style="background-image:url('${m.poster}')"></div>`
-                : `<div style="position:absolute;inset:0;background:${m.bg}"></div>`}
-              <div class="snap-gradient"></div>
-              <div class="snap-info">
-                <div class="snap-badges">
-                  ${country ? `<span class="modal-country-tag">${country}</span>` : ''}
-                  ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag">${g}</span>`).join('')}
-                  ${m.rating ? `<span class="genre-tag" style="background:var(--accent);color:#000">★ ${m.rating.toFixed(1)}</span>` : ''}
-                </div>
-                <div class="snap-title">${m.title}</div>
-                ${meta ? `<div class="snap-meta">${meta}</div>` : ''}
-              </div>
-            </div>`;
-        }).join('')}
-      </div>`;
-
-    // Dimensões do feed: preenche o espaço restante abaixo dos controlos
-    requestAnimationFrame(() => {
-      const feed = document.getElementById('snapFeed');
-      if (feed) {
-        feed.scrollLeft = 0; // reset ao mudar ordenação
-        const top = feed.getBoundingClientRect().top;
-        feed.style.height = (window.innerHeight - top) + 'px';
-        feed.style.width   = window.innerWidth + 'px';
-        feed.querySelectorAll('.snap-card').forEach(c => {
-          c.style.height = (window.innerHeight - top) + 'px';
-        });
-      }
-    });
-
-    // Slide-in animation via IntersectionObserver (horizontal)
-    const feed = document.getElementById('snapFeed');
-    const obs = new IntersectionObserver((entries) => {
-      entries.forEach(e => e.target.classList.toggle('snap-visible', e.isIntersecting));
-    }, { root: feed, threshold: 0.6 });
-    document.querySelectorAll('.snap-card').forEach(c => obs.observe(c));
-
-    // Swipe vertical também navega entre cards (para além do swipe horizontal nativo)
-    let _tSX = 0, _tSY = 0;
-    feed.addEventListener('touchstart', e => {
-      _tSX = e.touches[0].clientX;
-      _tSY = e.touches[0].clientY;
-    }, { passive: true });
-    feed.addEventListener('touchend', e => {
-      const dx = e.changedTouches[0].clientX - _tSX;
-      const dy = e.changedTouches[0].clientY - _tSY;
-      if (Math.abs(dy) > Math.abs(dx) && Math.abs(dy) > 40) {
-        feed.scrollBy({ left: dy < 0 ? feed.offsetWidth : -feed.offsetWidth, behavior: 'smooth' });
-      }
-    }, { passive: true });
-
-  } else {
-    // ── Desktop: grelha normal ────────────────────────────
-    document.getElementById('main').innerHTML = `
-      <div class="sort-bar">
-        <span class="sort-label">Ordenar</span>
-        <button class="sort-btn ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">Próxima sessão</button>
-        <button class="sort-btn ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">Melhor rating ★</button>
-      </div>
-      <div class="movies-grid">
-        ${movies.map(m => `
-          <div class="movie-card" onclick="openModal('${m.id}')">
-            <div class="movie-poster">
-              <div class="poster-bg" style="${m.poster
-                ? `background: linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.55) 40%, transparent 70%), url('${m.poster}') center/cover no-repeat`
-                : `background:${m.bg}`}">
-                ${m.poster ? '' : '<div class="poster-overlay"></div>'}
-                <span class="poster-title">${m.title}</span>
-                <span class="poster-dir">${m.director ?? ''}</span>
-              </div>
-              ${m.rating ? `<span class="poster-rating">★ ${m.rating.toFixed(1)}</span>` : ''}
+  document.getElementById('main').style.padding = '';
+  document.getElementById('main').innerHTML = `
+    <div class="sort-bar">
+      <span class="sort-label">Ordenar</span>
+      <button class="sort-btn ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">Próxima sessão</button>
+      <button class="sort-btn ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">Melhor rating ★</button>
+    </div>
+    <div class="movies-grid">
+      ${movies.map(m => `
+        <div class="movie-card" onclick="openModal('${m.id}')">
+          <div class="movie-poster">
+            <div class="poster-bg" style="${m.poster
+              ? `background: linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.55) 40%, transparent 70%), url('${m.poster}') center/cover no-repeat`
+              : `background:${m.bg}`}">
+              ${m.poster ? '' : '<div class="poster-overlay"></div>'}
+              <span class="poster-title">${m.title}</span>
+              <span class="poster-dir">${m.director ?? ''}</span>
             </div>
-            <div class="movie-foot">
-              <div class="genres">
-                ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag">${g}</span>`).join('')}
-                ${m.rating ? `<span class="genre-tag" style="background:var(--accent);color:#000">★ ${m.rating.toFixed(1)}</span>` : ''}
-              </div>
-              <span class="session-pill">Ver sessões</span>
+            ${m.rating ? `<span class="poster-rating">★ ${m.rating.toFixed(1)}</span>` : ''}
+          </div>
+          <div class="movie-foot">
+            <div class="genres">
+              ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag">${g}</span>`).join('')}
+              ${m.rating ? `<span class="genre-tag" style="background:var(--accent);color:#000">★ ${m.rating.toFixed(1)}</span>` : ''}
+            </div>
+            <span class="session-pill">Ver sessões</span>
             </div>
           </div>`).join('')}
       </div>`;
-  }
 }
 
 // ── RENDER CINEMAS ────────────────────────────────────────────────────────────
