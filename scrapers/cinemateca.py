@@ -12,6 +12,16 @@ BASE_URL  = "https://cinemateca.pt"
 PROG_URL  = f"{BASE_URL}/Programacao.aspx"
 
 
+def to_title_case(s):
+    """Converte títulos em MAIÚSCULAS para Title Case (ex: 'THE SHINING' → 'The Shining')."""
+    if not s or not s.isupper():
+        return s
+    result = s.lower().title()
+    # Corrige contrações: Don'T / Don'T → Don't (apostrofe reta ou curva)
+    result = re.sub(r"['\u2019]([A-Z])\b", lambda m: "\u2019" + m.group(1).lower(), result)
+    return result
+
+
 def fetch_html(url):
     req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
     with urllib.request.urlopen(req, timeout=15) as r:
@@ -54,7 +64,7 @@ def parse(html):
         if not titles:
             continue
         # Primeiro título é o principal; segundo (em itálico) é o original
-        title = unescape(titles[0].strip())
+        title = to_title_case(unescape(titles[0].strip()))
 
         # ── Realizador ───────────────────────────────────────────
         director = None
