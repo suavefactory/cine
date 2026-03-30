@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cine Lisboa</title>
+  <title></title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
@@ -655,7 +655,7 @@
 <body>
 
 <header>
-  <div class="logo">cine<em>.</em>lisboa</div>
+  <div class="logo"></div>
   <nav id="nav">
     <button onclick="setView('agenda')">Agenda</button>
     <button onclick="setView('filmes')">Filmes</button>
@@ -1280,13 +1280,13 @@ function addToCalendar(title, date, time, durationMin, cinemaName, cinemaAddress
   const fmt = d =>
     `${d.getFullYear()}${pad(d.getMonth()+1)}${pad(d.getDate())}T${pad(d.getHours())}${pad(d.getMinutes())}00`;
 
-  const uid = `cine-${date}-${time.replace(':','')}-${Math.random().toString(36).slice(2)}@cinelisboa`;
+  const uid = `${date}-${time.replace(':','')}-${Math.random().toString(36).slice(2)}`;
   const location = cinemaAddress ? `${cinemaName}\\, ${cinemaAddress}` : cinemaName;
 
   const ics = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//Cine Lisboa//PT',
+    'PRODID:-//cinemas//PT',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
     'BEGIN:VEVENT',
