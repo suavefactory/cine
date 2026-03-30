@@ -331,6 +331,7 @@ def to_slug(title):
 # ── Letterboxd ─────────────────────────────────────────────────────────────────
 
 def lbxd_fetch(slug):
+    from html import unescape as _unescape
     url = f"https://letterboxd.com/film/{slug}/"
     req = urllib.request.Request(url, headers=HEADERS_BROWSER)
     with urllib.request.urlopen(req, timeout=10) as r:
@@ -338,16 +339,26 @@ def lbxd_fetch(slug):
 
     rating_m = re.search(r'twitter:data2" content="([\d.]+)', html)
     poster_m = re.search(r'"image"\s*:\s*"(https://a\.ltrbxd\.com[^"]+)"', html)
+    desc_m   = re.search(r'<meta property="og:description" content="([^"]+)"', html)
 
     poster = None
     if poster_m:
         raw = poster_m.group(1)
-        # Aumenta resolução para 500×750
         poster = re.sub(r'-0-\d+-0-\d+-crop', '-0-500-0-750-crop', raw)
 
+    description = None
+    if desc_m:
+        description = _unescape(desc_m.group(1)).strip()
+
+    # Géneros: links /films/genre/X/ — preserva ordem, sem duplicados
+    genre_slugs = list(dict.fromkeys(re.findall(r'href="/films/genre/([^/"]+)/"', html)))
+    genres = [g.replace("-", " ").title() for g in genre_slugs] if genre_slugs else None
+
     return {
-        "rating": float(rating_m.group(1)) if rating_m else None,
-        "poster": poster,
+        "rating":      float(rating_m.group(1)) if rating_m else None,
+        "poster":      poster,
+        "description": description,
+        "genres":      genres,
     }
 
 def lbxd_lookup(title, year=None):
@@ -522,6 +533,15 @@ def enrich(movies):
         else:
             lb   = cache[key].get("lbxd")
             omdb = cache[key].get("omdb")
+            # Re-fetch from LB if cached entry is missing description (new field)
+            if lb is not None and "description" not in lb:
+                print(f"  [LB+] {title}...", end=" ", flush=True)
+                lb_new = lbxd_lookup(title, year)
+                if lb_new:
+                    cache[key]["lbxd"] = lb_new
+                    lb = lb_new
+                    changed = True
+                print()
 
         # ── Aplicar dados ───────────────────────────────────────────
         # Poster: Letterboxd sempre (sobrepõe poster do scraper), fallback OMDB
@@ -534,7 +554,19 @@ def enrich(movies):
         if lb and lb.get("rating"):
             movie["rating"] = lb["rating"]
 
-        # Metadados via OMDB (fallbacks)
+        # Géneros: Letterboxd sempre (sobrepõe scraper/OMDB), fallback OMDB
+        if lb and lb.get("genres"):
+            movie["genres"] = lb["genres"]
+        elif not movie.get("genres") and omdb and omdb.get("Genre") not in (None, "N/A"):
+            movie["genres"] = [g.strip() for g in omdb["Genre"].split(",")][:3]
+
+        # Descrição: Letterboxd sempre, fallback OMDB
+        if lb and lb.get("description"):
+            movie["plot"] = lb["description"]
+        elif not movie.get("plot") and omdb and omdb.get("Plot") not in (None, "N/A"):
+            movie["plot"] = omdb["Plot"]
+
+        # Metadados via OMDB (fallbacks apenas)
         if omdb:
             if not movie.get("director") and omdb.get("Director") not in (None, "N/A"):
                 movie["director"] = omdb["Director"]
@@ -545,10 +577,6 @@ def enrich(movies):
             if not movie.get("year") and omdb.get("Year"):
                 try: movie["year"] = int(omdb["Year"][:4])
                 except ValueError: pass
-            if not movie.get("genres") and omdb.get("Genre") not in (None, "N/A"):
-                movie["genres"] = [g.strip() for g in omdb["Genre"].split(",")][:3]
-            if not movie.get("plot") and omdb.get("Plot") not in (None, "N/A"):
-                movie["plot"] = omdb["Plot"]
             if not movie.get("country") and omdb.get("Country") not in (None, "N/A"):
                 movie["country"] = omdb["Country"]
 
