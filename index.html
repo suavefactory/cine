@@ -197,12 +197,12 @@
     .genres { display: flex; gap: 4px; flex-wrap: wrap; }
     .genre-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700;
-      padding: 3px 8px; border-radius: 9999px;
+      padding: 3px 8px; border-radius: 3px;
       border: 1px solid var(--line); color: var(--ink3);
     }
     .special-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 800;
-      padding: 3px 9px; border-radius: 9999px;
+      padding: 3px 9px; border-radius: 3px;
       background: var(--acc); color: #000;
     }
     .session-labels { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 5px; }
@@ -238,42 +238,42 @@
     .modal-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
     .modal-title  { font-size: 28px; font-weight: 800; line-height: 1.15; color: #fff; letter-spacing: -0.5px; }
     .modal-close  {
-      flex-shrink: 0; width: 34px; height: 34px; border-radius: 50%;
-      border: none; background: #222; cursor: pointer;
-      font-size: 14px; color: #777;
-      display: flex; align-items: center; justify-content: center; transition: background 0.15s;
+      flex-shrink: 0; width: 32px; height: 32px;
+      border: 1.5px solid #2a2a2a; border-radius: 4px; background: none; cursor: pointer;
+      font-size: 16px; color: #555;
+      display: flex; align-items: center; justify-content: center; transition: border-color 0.15s, color 0.15s;
     }
-    .modal-close:hover { background: #333; color: #fff; }
+    .modal-close:hover { border-color: #555; color: #fff; }
 
     .modal-meta { font-size: 13px; color: #777; }
 
     .modal-genres { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
     .modal-country-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.6px; font-weight: 700;
-      padding: 4px 10px; border-radius: 9999px; background: #1e1e1e; color: #888;
+      padding: 4px 10px; border-radius: 3px; background: #1e1e1e; color: #888;
     }
     .genre-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700;
-      padding: 4px 10px; border-radius: 9999px; border: 1px solid #2a2a2a; color: #666;
+      padding: 4px 10px; border-radius: 3px; border: 1px solid #2a2a2a; color: #666;
     }
     .rating-tag {
       font-size: 10px; font-weight: 800;
-      padding: 4px 10px; border-radius: 9999px;
+      padding: 4px 10px; border-radius: 3px;
       background: var(--acc); color: #000;
     }
     .modal-special-tag {
       font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
-      padding: 4px 11px; border-radius: 9999px;
+      padding: 4px 11px; border-radius: 3px;
       background: var(--acc); color: #000;
     }
     .modal-slabel {
       font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
-      padding: 3px 8px; border-radius: 9999px;
+      padding: 3px 8px; border-radius: 3px;
       background: var(--acc); color: #000;
     }
     .modal-plot {
       font-size: 14px; line-height: 1.7; color: #888;
-      background: #161616; padding: 14px 16px; border-radius: 8px;
+      border-left: 2px solid #2a2a2a; padding: 8px 16px;
     }
 
     .modal-sessions { border-top: 1px solid #1e1e1e; padding: 20px 32px 32px; }
@@ -292,7 +292,7 @@
     .modal-cal-btn {
       margin-left: auto; flex-shrink: 0;
       font-family: inherit; font-size: 11px; font-weight: 700;
-      background: none; border: 1.5px solid #2a2a2a; border-radius: 9999px;
+      background: none; border: 1.5px solid #2a2a2a; border-radius: 3px;
       padding: 5px 13px; color: #555; cursor: pointer; transition: all 0.15s;
     }
     .modal-cal-btn:hover { border-color: var(--acc); color: var(--acc); }
@@ -314,7 +314,7 @@
       display: flex; align-items: center; gap: 12px;
       padding: 28px 0 18px; border-bottom: 2px solid var(--ink);
     }
-    .cinema-header .chball  { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .cinema-header .chball  { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
     .cinema-header .chname  { font-size: 22px; font-weight: 800; }
     .cinema-header .chzone  { font-size: 12px; color: var(--ink3); margin-left: auto; }
 
