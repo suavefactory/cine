@@ -54,6 +54,9 @@
       background: var(--surf); border-bottom: 1px solid var(--line);
       width: 100%;
       display: flex;
+      position: sticky;
+      top: 66px;
+      z-index: 99;
     }
     .date-chip {
       flex: 1;
@@ -98,7 +101,7 @@
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
 
     /* ── AGENDA ── */
-    .agenda-day { scroll-margin-top: 150px; }
+    .agenda-day { scroll-margin-top: 200px; }
 
     .day-header {
       display: flex; align-items: baseline; gap: 14px;
