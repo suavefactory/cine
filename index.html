@@ -52,14 +52,14 @@
     /* ── DATE BAR ── */
     .date-bar {
       background: var(--surf); border-bottom: 1px solid var(--line);
-      display: grid;
-      grid-template-columns: repeat(12, 1fr);
-      /* sem padding, chips ocupam toda a largura */
+      width: 100%;
+      display: flex;
     }
     .date-chip {
+      flex: 1;
       font-family: inherit; background: none; border: none;
       border-right: 1px solid var(--line);
-      padding: 20px 0; text-align: center;
+      padding: 22px 0; text-align: center;
       cursor: pointer; transition: background 0.15s;
       color: var(--ink2);
     }
