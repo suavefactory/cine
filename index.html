@@ -288,7 +288,8 @@
     .modal-session-row:last-child { border-bottom: none; }
     .modal-sdate  { width: 120px; flex-shrink: 0; color: #555; }
     .modal-stime  { font-weight: 800; color: #fff; width: 46px; flex-shrink: 0; }
-    .modal-scinema { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.6px; }
+    .modal-sinfo { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .modal-scinema { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.6px; white-space: nowrap; }
     .modal-cal-btn {
       margin-left: auto; flex-shrink: 0;
       font-family: inherit; font-size: 11px; font-weight: 700;
@@ -350,7 +351,12 @@
       .modal-poster { width: 140px; }
       .modal-title { font-size: 22px; }
       .modal-sessions { padding: 16px 20px 36px; }
-      .modal-sdate { width: 80px; font-size: 12px; }
+      .modal-session-row { flex-wrap: wrap; row-gap: 5px; align-items: center; }
+      .modal-sdate { width: auto; font-size: 11px; flex-shrink: 0; }
+      .modal-stime { flex-shrink: 0; }
+      .modal-cal-btn { margin-left: auto; padding: 5px 10px; font-size: 10px; }
+      .modal-sinfo { order: 10; flex-basis: 100%; padding-left: 2px; }
+      .modal-scinema { white-space: nowrap; font-size: 9px; }
     }
   </style>
 </head>
@@ -968,8 +974,10 @@ function openModal(id) {
       <div class="modal-session-row">
         <span class="modal-sdate">${label}</span>
         <span class="modal-stime">${s.time}</span>
-        <span class="modal-scinema" style="color:${c.color ?? '#888'}">${c.name ?? s.cinema}</span>
-        ${slabels}
+        <div class="modal-sinfo">
+          <span class="modal-scinema" style="color:${c.color ?? '#888'}">${c.name ?? s.cinema}</span>
+          ${slabels}
+        </div>
         <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">+ Calendário</button>
       </div>`;
   }).join('');
