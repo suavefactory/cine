@@ -75,27 +75,19 @@
 
     /* ── FILTER BAR ── */
     .filter-bar {
+      display: flex; width: 100%;
       background: var(--surf); border-bottom: 1px solid var(--line);
-      padding: 10px 48px;
-      display: flex; gap: 6px; align-items: center;
-      overflow-x: auto; scrollbar-width: none;
-    }
-    .filter-bar::-webkit-scrollbar { display: none; }
-    .filter-label {
-      font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
-      color: var(--ink3); flex-shrink: 0;
-      padding-right: 10px; border-right: 1px solid var(--line); margin-right: 2px;
     }
     .cinema-chip {
-      flex-shrink: 0; font-family: inherit; font-size: 11px; font-weight: 600;
-      padding: 5px 14px; border-radius: 9999px;
-      border: 1.5px solid var(--line); background: none; color: var(--ink2);
-      cursor: pointer; transition: all 0.15s;
-      display: flex; align-items: center; gap: 6px;
+      flex: 1; font-family: inherit;
+      font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.7px;
+      padding: 18px 0; text-align: center;
+      background: none; border: none; border-right: 1px solid var(--line);
+      color: var(--ink2); cursor: pointer; transition: background 0.12s, color 0.12s;
     }
-    .cinema-chip .dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
-    .cinema-chip:hover  { color: var(--ink); border-color: var(--ink3); }
-    .cinema-chip.active { color: var(--ink); border-color: var(--ink); }
+    .cinema-chip:last-child { border-right: none; }
+    .cinema-chip:hover { color: var(--ink); }
+    .cinema-chip.active { color: #000; }
 
     /* ── MAIN ── */
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
@@ -141,13 +133,9 @@
     .smeta   { font-size: 13px; color: var(--ink2); }
 
     .scinema {
-      display: inline-flex; align-items: center; gap: 7px;
-      border: 1.5px solid var(--line); border-radius: 9999px;
-      padding: 8px 18px;
-      font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;
-      color: var(--ink2); white-space: nowrap;
+      font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.7px;
+      white-space: nowrap;
     }
-    .scinema .cdot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
 
     /* ── FILMES ── */
     .films-header {
@@ -300,8 +288,7 @@
     .modal-session-row:last-child { border-bottom: none; }
     .modal-sdate  { width: 120px; flex-shrink: 0; color: #555; }
     .modal-stime  { font-weight: 800; color: #fff; width: 46px; flex-shrink: 0; }
-    .modal-scinema { display: flex; align-items: center; gap: 6px; color: #666; }
-    .modal-scinema .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .modal-scinema { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.6px; }
     .modal-cal-btn {
       margin-left: auto; flex-shrink: 0;
       font-family: inherit; font-size: 11px; font-weight: 700;
@@ -695,16 +682,11 @@ function renderFilterBar() {
   const visibleCinemas  = CINEMAS.filter(c => activeCinemaIds.has(c.id));
 
   document.getElementById('filterBar').innerHTML =
-    `<span class="filter-label">Cinema</span>` +
     visibleCinemas.map(c => {
       const on = activeCinemas.has(c.id);
-      return `
-        <button class="cinema-chip ${on ? 'active' : ''}"
-                style="${on ? `color:${c.color};border-color:${c.color}` : ''}"
-                onclick="toggleCinema('${c.id}')">
-          <span class="dot" style="background:${c.color}"></span>
-          ${c.short}
-        </button>`;
+      return `<button class="cinema-chip ${on ? 'active' : ''}"
+                style="${on ? `background:${c.color}` : ''}"
+                onclick="toggleCinema('${c.id}')">${c.short}</button>`;
     }).join('');
 }
 
@@ -751,10 +733,7 @@ function renderAgenda() {
                     return tags.length ? `<div class="session-labels">${tags.join('')}</div>` : '';
                   })()}
                 </div>
-                <div class="scinema">
-                  <span class="cdot" style="background:${c.color}"></span>
-                  ${c.short}
-                </div>
+                <div class="scinema" style="color:${c.color}">${c.short}</div>
               </div>`;
           }).join('')}
         </div>
@@ -989,10 +968,7 @@ function openModal(id) {
       <div class="modal-session-row">
         <span class="modal-sdate">${label}</span>
         <span class="modal-stime">${s.time}</span>
-        <span class="modal-scinema">
-          <span class="dot" style="background:${c.color ?? '#888'}"></span>
-          ${c.name ?? s.cinema}
-        </span>
+        <span class="modal-scinema" style="color:${c.color ?? '#888'}">${c.name ?? s.cinema}</span>
         ${slabels}
         <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">+ Calendário</button>
       </div>`;
