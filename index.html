@@ -52,21 +52,23 @@
     /* ── DATE BAR ── */
     .date-bar {
       background: var(--surf); border-bottom: 1px solid var(--line);
-      padding: 12px 48px;
-      display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      /* sem padding, chips ocupam toda a largura */
     }
-    .date-bar::-webkit-scrollbar { display: none; }
     .date-chip {
-      flex-shrink: 0; font-family: inherit; font-size: 12px; font-weight: 600;
-      padding: 7px 16px; border-radius: 9999px; text-align: center; min-width: 56px;
-      border: 1.5px solid var(--line); background: none; color: var(--ink2);
-      cursor: pointer; transition: all 0.15s;
+      font-family: inherit; background: none; border: none;
+      border-right: 1px solid var(--line);
+      padding: 14px 0; text-align: center;
+      cursor: pointer; transition: background 0.15s;
+      color: var(--ink2);
     }
-    .date-chip:hover { border-color: var(--ink3); color: var(--ink); }
-    .date-chip.active { background: var(--ink); border-color: var(--ink); color: var(--acc); font-weight: 700; }
-    .date-chip .dn { display: block; font-size: 9px; text-transform: uppercase; letter-spacing: 0.6px; opacity: 0.5; margin-bottom: 2px; }
-    .date-chip .dd { display: block; font-size: 17px; font-weight: 800; line-height: 1; }
-    .date-chip .dm { display: block; font-size: 9px; opacity: 0.4; margin-top: 2px; }
+    .date-chip:last-child { border-right: none; }
+    .date-chip:hover  { background: var(--surf2); color: var(--ink); }
+    .date-chip.active { background: var(--acc);   color: var(--ink); }
+    .date-chip .dn { display: block; font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 5px; }
+    .date-chip .dd { display: block; font-size: 22px; font-weight: 800; line-height: 1; }
+    .date-chip .dm { display: none; }
 
     /* ── FILTER BAR ── */
     .filter-bar {
@@ -111,10 +113,10 @@
 
     .session-row {
       display: grid;
-      grid-template-columns: 80px 84px 1fr auto;
+      grid-template-columns: 90px 96px 1fr auto;
       align-items: center;
-      gap: 28px;
-      padding: 20px 0;
+      gap: 40px;
+      padding: 22px 0;
       border-bottom: 1px solid var(--line);
       cursor: pointer;
       transition: opacity 0.15s;
@@ -320,7 +322,9 @@
       .date-bar, .filter-bar { padding: 10px 20px; }
       main { padding: 0 20px 80px; }
 
-      .session-row { grid-template-columns: 52px 60px 1fr; gap: 14px; }
+      .date-chip { padding: 10px 0; }
+      .date-chip .dd { font-size: 16px; }
+      .session-row { grid-template-columns: 52px 60px 1fr; gap: 16px; }
       .scinema { display: none; }
       .stime { font-size: 24px; letter-spacing: -1px; }
       .sthumb { width: 60px; height: 84px; }
