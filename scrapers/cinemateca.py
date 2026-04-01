@@ -94,11 +94,23 @@ def parse(html):
                 "sessions": [],
             }
 
-        movies[key]["sessions"].append({
-            "date":   date_str,
-            "time":   time_str,
-            "cinema": CINEMA_ID,
-        })
+        # ── Sessão especial (convidado, debate, etc.) ────────────
+        labels = []
+        for info_div in re.findall(r'class="infoText"[^>]*>([^<]{4,200})<', block):
+            text = unescape(info_div).strip()
+            # "SESSÃO com a presença de X" → "Com a presença de X"
+            gm = re.match(r'SESS[ÃA]O\s+(com\s+a\s+presen[çc]a\s+de\s+.+)', text, re.IGNORECASE)
+            if gm:
+                labels.append(gm.group(1)[0].upper() + gm.group(1)[1:])
+                continue
+            # "Conversa com X" / "Debate com X" / "Seguida de debate"
+            if re.match(r'(conversa|debate|seguida\s+de\s+(?:conversa|debate))\b', text, re.IGNORECASE):
+                labels.append(text[0].upper() + text[1:])
+
+        sess = {"date": date_str, "time": time_str, "cinema": CINEMA_ID}
+        if labels:
+            sess["labels"] = list(dict.fromkeys(labels))  # dedup, preserve order
+        movies[key]["sessions"].append(sess)
 
     return list(movies.values())
 

@@ -91,10 +91,24 @@ def scrape_film_page(url):
             for s in cinema_data.get("sessions", {}).values():
                 if not isinstance(s, dict):
                     continue
-                date = s.get("date")
+                date  = s.get("date")
                 hours = s.get("hours", [])
+                info  = s.get("info", {})
+
+                # Extrai labels de sessão especial (convidados, debate, etc.)
+                labels = []
+                if isinstance(info, dict):
+                    for item in info.values():
+                        if isinstance(item, dict) and item.get("type") == "text":
+                            text = unescape(re.sub(r"<[^>]+>", "", item.get("text", ""))).strip()
+                            if text:
+                                labels.append(text[0].upper() + text[1:])
+
                 for h in hours:
-                    sessions.append({"date": date, "time": h, "cinema": CINEMA_ID})
+                    sess = {"date": date, "time": h, "cinema": CINEMA_ID}
+                    if labels:
+                        sess["labels"] = labels[:]
+                    sessions.append(sess)
 
         return {
             "year":     year,

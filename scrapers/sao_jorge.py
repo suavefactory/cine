@@ -91,7 +91,22 @@ def parse_metadata(html):
         if not re.match(r'^M/\d+$', candidate):
             festival = candidate
 
-    return {"director": director, "duration": duration, "festival": festival}
+    # Convidado: "com a presença de X", "conversa com X", "debate com X", "Q&A com X"
+    guest = None
+    guest_patterns = [
+        r'com\s+a\s+presen[çc]a\s+d[eo]\s+([\w\s\.\-]+?)(?:[,\.\n]|$)',
+        r'(conversa|debate|q&a)\s+com\s+([\w\s\.\-]+?)(?:[,\.\n]|$)',
+        r'presen[çc]a\s+d[oa]\s+realizador[a]?(?:\s+e\s+[\w\s]+)?',
+        r'seguida\s+de\s+(debate|conversa)',
+    ]
+    for pat in guest_patterns:
+        gm = re.search(pat, text, re.IGNORECASE)
+        if gm:
+            raw = gm.group(0).strip()
+            guest = raw[0].upper() + raw[1:]
+            break
+
+    return {"director": director, "duration": duration, "festival": festival, "guest": guest}
 
 
 def parse_sessions(html):
@@ -168,12 +183,17 @@ def scrape():
             print(f"     Sem sessões encontradas, a saltar.")
             continue
 
-        # Add special label (abertura/encerramento) to all sessions of this event
-        if special_label:
-            for s in sessions:
-                s["labels"] = [special_label]
-
         meta   = parse_metadata(html)
+
+        # Add special labels to all sessions of this event
+        extra_labels = []
+        if special_label:
+            extra_labels.append(special_label)
+        if meta.get("guest"):
+            extra_labels.append(meta["guest"])
+        if extra_labels:
+            for s in sessions:
+                s["labels"] = extra_labels[:]
 
         # Géneros do class_list da API: "genre-drama" → "Drama"
         genres = []
