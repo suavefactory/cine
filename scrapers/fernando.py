@@ -294,6 +294,23 @@ def scrape():
             "sessions": sorted(film["sessions"], key=lambda s: (s["date"], s["time"])),
         })
 
+    # Merge filmes duplicados: mesmo realizador + mesmo poster (e.g. versão PT vs versão EN)
+    merged = {}
+    for m in movies:
+        merge_key = (m.get("director"), m.get("poster")) if m.get("director") and m.get("poster") else None
+        if merge_key and merge_key in merged:
+            # Mantém o título mais curto (normalmente o PT), junta as sessões
+            existing = merged[merge_key]
+            if len(m["title"]) < len(existing["title"]):
+                existing["title"] = m["title"]
+            existing["sessions"] = sorted(
+                existing["sessions"] + m["sessions"],
+                key=lambda s: (s["date"], s["time"])
+            )
+        else:
+            merged[merge_key or id(m)] = m
+
+    movies = list(merged.values())
     print(f"[Fernando Lopes] {len(movies)} filmes com sessões.")
     return movies
 
