@@ -697,7 +697,9 @@ function renderFilterBar() {
 function renderAgenda() {
   let html = '';
 
-  for (const d of getDates()) {
+  const dates = getDates().filter(d => d.value === activeDate);
+
+  for (const d of dates) {
     let sessions = [];
     for (const m of MOVIES) {
       for (const s of m.sessions) {
@@ -705,7 +707,6 @@ function renderAgenda() {
           sessions.push({ ...s, movie: m });
       }
     }
-    if (sessions.length === 0) continue;
     sessions.sort((a, b) => a.time.localeCompare(b.time));
 
     html += `
@@ -1054,12 +1055,9 @@ function setView(v) {
 }
 function setDate(d) {
   activeDate = d;
-  if (activeView !== 'agenda') { activeView = 'agenda'; render(); }
-  else render();
-  requestAnimationFrame(() => {
-    const el = document.querySelector(`.agenda-day[data-date="${d}"]`);
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  });
+  activeView = 'agenda';
+  render();
+  window.scrollTo({ top: 0 });
 }
 function setSort(s)  { filmesSort = s; renderFilmes(); }
 function toggleCinema(id) {
