@@ -54,7 +54,7 @@ def deduplicate(movies):
                     base["sessions"].append(s)
                     existing.add((s["date"], s["time"], s["cinema"]))
             # Preenche campos em falta com os da entrada duplicada
-            for field in ("director", "duration", "poster", "genres", "link"):
+            for field in ("director", "duration", "poster", "genres", "link", "festival"):
                 if not base.get(field) and m.get(field):
                     base[field] = m[field]
 

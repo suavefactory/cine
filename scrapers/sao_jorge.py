@@ -83,7 +83,15 @@ def parse_metadata(html):
             raw = re.sub(rf"\s+{stop}\b.*$", "", raw)
         director = raw.strip() or None
 
-    return {"director": director, "duration": duration}
+    # Festival: <span class="tag ...">Nome do Festival</span>
+    festival = None
+    tag_m = re.search(r'<span[^>]+class="[^"]*\btag\b[^"]*"[^>]*>([^<]{4,80})</span>', html)
+    if tag_m:
+        candidate = unescape(tag_m.group(1)).strip()
+        if not re.match(r'^M/\d+$', candidate):
+            festival = candidate
+
+    return {"director": director, "duration": duration, "festival": festival}
 
 
 def parse_sessions(html):
@@ -130,10 +138,24 @@ def scrape():
         if not is_film(event):
             continue
 
-        link  = event.get("link", "")
-        title = event["title"]["rendered"]
+        link      = event.get("link", "")
+        title_raw = event["title"]["rendered"]
 
-        print(f"  → {title}")
+        # Detect and clean abertura/encerramento from title
+        special_label = None
+        title = title_raw
+        m_sp = re.search(r'\s*\|\s*(sess[ãa]o\s+de\s+(?:abertura|encerramento))\s*$', title_raw, re.IGNORECASE)
+        if m_sp:
+            # "sessão de abertura" → "Sessão de Abertura" (preposições em minúscula)
+            _low  = {"de", "do", "da", "dos", "das", "e", "em"}
+            words = m_sp.group(1).lower().split()
+            special_label = " ".join(
+                w if (i > 0 and w in _low) else w.capitalize()
+                for i, w in enumerate(words)
+            )
+            title = title_raw[:m_sp.start()].strip()
+
+        print(f"  → {unescape(title)}")
 
         try:
             html = fetch_html(link)
@@ -145,6 +167,11 @@ def scrape():
         if not sessions:
             print(f"     Sem sessões encontradas, a saltar.")
             continue
+
+        # Add special label (abertura/encerramento) to all sessions of this event
+        if special_label:
+            for s in sessions:
+                s["labels"] = [special_label]
 
         meta   = parse_metadata(html)
 
@@ -170,6 +197,7 @@ def scrape():
             "title":    unescape(title),
             "director": meta["director"],
             "duration": meta["duration"],
+            "festival": meta.get("festival"),
             "poster":   poster,
             "genres":   genres,
             "link":     link,

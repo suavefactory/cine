@@ -127,15 +127,20 @@ def parse_schedule(html):
             if "Screenings" in slug or "screenings" in slug:
                 continue
 
+            # Detect per-session labels from the raw anchor HTML (before cleaning)
+            labels = []
+            if re.search(r'with\s+english', title_raw, re.IGNORECASE):
+                labels.append("Legendas em inglês")
+            if re.search(r'última\s+sess[aã]o', title_raw, re.IGNORECASE):
+                labels.append("Última sessão")
+
             t     = parse_time(time_raw)
             title = clean_anchor_title(title_raw)
             if t and title and len(title) > 1:
-                sessions.append({
-                    "title": title,
-                    "slug":  slug,
-                    "date":  current_date,
-                    "time":  t,
-                })
+                s = {"title": title, "slug": slug, "date": current_date, "time": t}
+                if labels:
+                    s["labels"] = labels
+                sessions.append(s)
 
     return sessions
 
@@ -235,9 +240,10 @@ def scrape():
         key   = (slug, title) if slug in series_slugs else (slug, "")
         if key not in films_dict:
             films_dict[key] = {"slug": slug, "title": title, "sessions": []}
-        films_dict[key]["sessions"].append({
-            "date": s["date"], "time": s["time"], "cinema": CINEMA_ID
-        })
+        sess_entry = {"date": s["date"], "time": s["time"], "cinema": CINEMA_ID}
+        if s.get("labels"):
+            sess_entry["labels"] = s["labels"]
+        films_dict[key]["sessions"].append(sess_entry)
 
     # Obtém metadados e monta lista final
     movies     = []
@@ -282,6 +288,15 @@ def scrape():
                       unicodedata.normalize("NFD", title.lower()))
         movie_id = f"fernando_{re.sub(r'_+', '_', safe).strip('_')}"
 
+        # For series films, use the series page title as the festival name
+        festival = None
+        if is_series:
+            series_title = meta_cache.get(slug, {}).get("title")
+            if series_title and "{" not in series_title:
+                festival = series_title
+            else:
+                festival = " ".join(w.title() for w in slug.split("-"))
+
         movies.append({
             "id":       movie_id,
             "title":    final_title,
@@ -290,6 +305,7 @@ def scrape():
             "duration": meta.get("duration"),
             "poster":   meta.get("poster"),
             "genres":   meta.get("genres", []),
+            "festival": festival,
             "link":     f"{BASE_URL}/{slug}",
             "sessions": sorted(film["sessions"], key=lambda s: (s["date"], s["time"])),
         })

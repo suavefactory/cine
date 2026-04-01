@@ -212,6 +212,12 @@
       padding: 3px 8px; border-radius: 9999px;
       border: 1px solid var(--line); color: var(--ink3);
     }
+    .special-tag {
+      font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 800;
+      padding: 3px 9px; border-radius: 9999px;
+      background: var(--acc); color: #000;
+    }
+    .session-labels { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 5px; }
 
     /* ── MODAL (dark / cinematic) ── */
     .modal-overlay {
@@ -265,6 +271,16 @@
     .rating-tag {
       font-size: 10px; font-weight: 800;
       padding: 4px 10px; border-radius: 9999px;
+      background: var(--acc); color: #000;
+    }
+    .modal-special-tag {
+      font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
+      padding: 4px 11px; border-radius: 9999px;
+      background: var(--acc); color: #000;
+    }
+    .modal-slabel {
+      font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
+      padding: 3px 8px; border-radius: 9999px;
       background: var(--acc); color: #000;
     }
     .modal-plot {
@@ -728,6 +744,12 @@ function renderAgenda() {
                 <div class="smovie">
                   <span class="stitle">${s.movie.title}</span>
                   <span class="smeta">${s.movie.director ?? ''}${s.movie.year ? ' · ' + s.movie.year : ''}${s.movie.duration ? ' · ' + s.movie.duration + 'min' : ''}</span>
+                  ${(() => {
+                    const tags = [];
+                    if (s.movie.festival) tags.push(`<span class="special-tag">${s.movie.festival}</span>`);
+                    (s.labels ?? []).forEach(l => tags.push(`<span class="special-tag">${l}</span>`));
+                    return tags.length ? `<div class="session-labels">${tags.join('')}</div>` : '';
+                  })()}
                 </div>
                 <div class="scinema">
                   <span class="cdot" style="background:${c.color}"></span>
@@ -793,6 +815,7 @@ function renderFilmes() {
             <div class="film-foot-title">${m.title}</div>
             ${m.director ? `<div class="film-foot-dir">${m.director}</div>` : ''}
             <div class="genres">
+              ${m.festival ? `<span class="special-tag">${m.festival}</span>` : ''}
               ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag">${g}</span>`).join('')}
             </div>
           </div>
@@ -934,10 +957,11 @@ function openModal(id) {
   document.getElementById('modalTitle').textContent = m.title;
   document.getElementById('modalMeta').textContent = movieMeta(m);
 
-  // País + Géneros + Rating (badges em linha)
+  // País + Géneros + Rating + Festival (badges em linha)
   const country = m.country ? m.country.split(',')[0].trim() : null;
   const genres  = (m.genres ?? []).slice(0, 3);
   document.getElementById('modalGenres').innerHTML =
+    (m.festival ? `<span class="modal-special-tag">${m.festival}</span>` : '') +
     (country ? `<span class="modal-country-tag">${country}</span>` : '') +
     genres.map(g => `<span class="genre-tag">${g}</span>`).join('') +
     (m.rating ? `<span class="rating-tag">★ ${m.rating.toFixed(1)}</span>` : '');
@@ -960,6 +984,7 @@ function openModal(id) {
     const c = cinema(s.cinema);
     const esc = v => JSON.stringify(String(v ?? '')).replace(/"/g, '&quot;');
     const calArgs = [esc(m.title), esc(s.date), esc(s.time), m.duration||120, esc(c.name??s.cinema), esc(c.address??'')].join(',');
+    const slabels = (s.labels ?? []).map(l => `<span class="modal-slabel">${l}</span>`).join('');
     return `
       <div class="modal-session-row">
         <span class="modal-sdate">${label}</span>
@@ -968,6 +993,7 @@ function openModal(id) {
           <span class="dot" style="background:${c.color ?? '#888'}"></span>
           ${c.name ?? s.cinema}
         </span>
+        ${slabels}
         <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">+ Calendário</button>
       </div>`;
   }).join('');
