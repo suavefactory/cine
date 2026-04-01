@@ -26,6 +26,22 @@ HEADERS = {
 }
 
 
+def _normalise_session_label(text):
+    """
+    Condensa labels longos com listas de nomes num texto curto.
+    Ex: "Presença dos actores X, Y, Z, o produtor W e ..."
+        → "Presença da equipa e elenco"
+    """
+    t = text.lower()
+    # Presença com lista de nomes (mais de uma vírgula = lista longa)
+    if re.search(r'presen[çc]a\s+d', t) and (text.count(',') >= 1 or len(text) > 60):
+        # Verifica se menciona realizador (não "directora da fotografia" etc.)
+        if re.search(r'\brealizador\b', t) or re.search(r'\bdirector\b(?!\s+da\s+fotografia)', t):
+            return "Presença do realizador e equipa"
+        return "Presença da equipa e elenco"
+    return text
+
+
 def fetch_html(url):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=15) as r:
@@ -101,8 +117,11 @@ def scrape_film_page(url):
                     for item in info.values():
                         if isinstance(item, dict) and item.get("type") == "text":
                             text = unescape(re.sub(r"<[^>]+>", "", item.get("text", ""))).strip()
-                            if text:
-                                labels.append(text[0].upper() + text[1:])
+                            if not text:
+                                continue
+                            # Normaliza listas longas de nomes → label curto
+                            text = _normalise_session_label(text)
+                            labels.append(text[0].upper() + text[1:])
 
                 for h in hours:
                     sess = {"date": date, "time": h, "cinema": CINEMA_ID}

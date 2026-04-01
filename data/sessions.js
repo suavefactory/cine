@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-01T22:25:27.219791+00:00",
+  "generated": "2026-04-01T22:31:57.458605+00:00",
   "movies": [
     {
       "id": "sao_jorge_10261",
@@ -1700,7 +1700,7 @@ window.CINEMA_DATA = {
           "time": "21:15",
           "cinema": "nimas",
           "labels": [
-            "Presença dos actores Rafael Morais, Sérgio Coragem, Tiago Costa, Ivo Arroja, o produtor Vasco Esteves e directora da fotografia Leonor Teles"
+            "Presença da equipa e elenco"
           ]
         },
         {
@@ -1862,6 +1862,29 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
+      "id": "nimas_um-verao-de-amor-1951",
+      "title": "Um Verão de Amor",
+      "director": "Ingmar Bergman",
+      "year": 1951,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/8/17928-summer-interlude-0-500-0-750-crop.jpg?v=0c478174a2",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/um-verao-de-amor-1951",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "15:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.84,
+      "plot": "During a brief summer vacation, a lonely woman recalls her first love thirteen years earlier.",
+      "country": "Sweden"
+    },
+    {
       "id": "nimas_os-domingos-2018",
       "title": "Os Domingos",
       "director": "Alauda Ruiz de Azúa",
@@ -1983,29 +2006,6 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.47,
       "plot": "After fifteen years of marriage and mutual infidelity, a couple on the brink of divorce unexpectedly confront their unresolved love during a journey to Copenhagen. Blending farce with emotional reflection, the film is Ingmar Bergman’s first sustained venture into marital comedy.",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_um-verao-de-amor-1951",
-      "title": "Um Verão de Amor",
-      "director": "Ingmar Bergman",
-      "year": 1951,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/8/17928-summer-interlude-0-500-0-750-crop.jpg?v=0c478174a2",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/um-verao-de-amor-1951",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.84,
-      "plot": "During a brief summer vacation, a lonely woman recalls her first love thirteen years earlier.",
       "country": "Sweden"
     },
     {
@@ -2274,6 +2274,28 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
+      "id": "nimas_o-homem-da-camara-de-filmar-1929",
+      "title": "O Homem da Câmara de Filmar",
+      "director": "Dziga Vertov",
+      "year": 1929,
+      "duration": 68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+      "country": "USSR"
+    },
+    {
       "id": "nimas_moloch-1999",
       "title": "Moloch",
       "director": "Aleksandr Sokurov",
@@ -2295,30 +2317,6 @@ window.CINEMA_DATA = {
       "rating": 3.63,
       "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
       "country": "Germany"
-    },
-    {
-      "id": "nimas_ladrao-de-casaca-1955",
-      "title": "Ladrão de Casaca",
-      "director": "Alfred Hitchcock",
-      "year": 1955,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/4/51704-to-catch-a-thief-0-500-0-750-crop.jpg?v=d33cec8e58",
-      "genres": [
-        "Romance",
-        "Thriller",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ladrao-de-casaca-1955",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.72,
-      "plot": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
-      "country": "USA"
     },
     {
       "id": "nimas_stalker-1979",
@@ -2344,26 +2342,28 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_o-homem-da-camara-de-filmar-1929",
-      "title": "O Homem da Câmara de Filmar",
-      "director": "Dziga Vertov",
-      "year": 1929,
-      "duration": 68,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
+      "id": "nimas_ladrao-de-casaca-1955",
+      "title": "Ladrão de Casaca",
+      "director": "Alfred Hitchcock",
+      "year": 1955,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/4/51704-to-catch-a-thief-0-500-0-750-crop.jpg?v=d33cec8e58",
       "genres": [
-        "Documentary"
+        "Romance",
+        "Thriller",
+        "Mystery"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
+      "link": "https://medeiafilmes.com/filmes/ladrao-de-casaca-1955",
       "sessions": [
         {
           "date": "2026-04-06",
-          "time": "13:00",
+          "time": "21:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.27,
-      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
-      "country": "USSR"
+      "rating": 3.72,
+      "plot": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
+      "country": "USA"
     },
     {
       "id": "nimas_os-passaros-1963",
@@ -2459,6 +2459,30 @@ window.CINEMA_DATA = {
       "country": "Belgium"
     },
     {
+      "id": "nimas_intriga-internacional-1959",
+      "title": "Intriga Internacional",
+      "director": "Alfred Hitchcock",
+      "year": 1959,
+      "duration": 136,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
+      "genres": [
+        "Mystery",
+        "Adventure",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/intriga-internacional-1959",
+      "sessions": [
+        {
+          "date": "2026-04-08",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.19,
+      "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_a-fonte-da-virgem-1960",
       "title": "A Fonte da Virgem",
       "director": "Ingmar Bergman",
@@ -2528,52 +2552,6 @@ window.CINEMA_DATA = {
       "country": "Ireland"
     },
     {
-      "id": "nimas_intriga-internacional-1959",
-      "title": "Intriga Internacional",
-      "director": "Alfred Hitchcock",
-      "year": 1959,
-      "duration": 136,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
-      "genres": [
-        "Mystery",
-        "Adventure",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/intriga-internacional-1959",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.19,
-      "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_da-vida-das-marionetas-1980",
-      "title": "Da Vida das Marionetas",
-      "director": "Ingmar Bergman",
-      "year": 1980,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
-      "sessions": [
-        {
-          "date": "2026-04-09",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.73,
-      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
-      "country": "Germany"
-    },
-    {
       "id": "nimas_o-barqueiro-2025",
       "title": "O Barqueiro",
       "director": "Simão Cayatte",
@@ -2627,6 +2605,28 @@ window.CINEMA_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "nimas_da-vida-das-marionetas-1980",
+      "title": "Da Vida das Marionetas",
+      "director": "Ingmar Bergman",
+      "year": 1980,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.73,
+      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
+      "country": "Germany"
     },
     {
       "id": "nimas_chuva-de-julho-1966",
@@ -2698,6 +2698,28 @@ window.CINEMA_DATA = {
       "country": "Austria"
     },
     {
+      "id": "nimas_adeus-a-matiora-1983",
+      "title": "Adeus a Matiora",
+      "director": "Elem Klimov",
+      "year": 1983,
+      "duration": 121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/adeus-a-matiora-1983",
+      "sessions": [
+        {
+          "date": "2026-04-10",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.98,
+      "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
+      "country": "USSR"
+    },
+    {
       "id": "nimas_o-couracado-potemkine-1925",
       "title": "O Couraçado Potemkine",
       "director": "Serguei M. Eisenstein",
@@ -2765,28 +2787,6 @@ window.CINEMA_DATA = {
       "rating": 3.95,
       "plot": "A recently divorced man and an emotionally devastated widow begin a love affair.",
       "country": "Sweden"
-    },
-    {
-      "id": "nimas_adeus-a-matiora-1983",
-      "title": "Adeus a Matiora",
-      "director": "Elem Klimov",
-      "year": 1983,
-      "duration": 121,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/adeus-a-matiora-1983",
-      "sessions": [
-        {
-          "date": "2026-04-10",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.98,
-      "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
-      "country": "USSR"
     },
     {
       "id": "nimas_o-diario-do-realizador-2025",
