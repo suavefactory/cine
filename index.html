@@ -14,7 +14,7 @@
       --bg:     #f5f5f2;
       --surf:   #ffffff;
       --surf2:  #e8e8e5;
-      --acc:    #fef200;
+      --acc:    #a6cf3a;
       --ink:    #111111;
       --ink2:   #666666;
       --ink3:   #aaaaaa;
@@ -101,7 +101,7 @@
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
 
     /* ── AGENDA ── */
-    .agenda-day { scroll-margin-top: 200px; }
+    .agenda-day { scroll-margin-top: 150px; }
 
     .day-header {
       display: flex; align-items: baseline; gap: 14px;
@@ -322,7 +322,8 @@
     @media (max-width: 720px) {
       header { padding: 0 20px; height: 56px; }
       nav button { padding: 7px 14px; font-size: 11px; }
-      .date-bar, .filter-bar { padding: 10px 20px; }
+      .date-bar { top: 56px; }
+      .filter-bar { padding: 10px 20px; }
       main { padding: 0 20px 80px; }
 
       .date-chip { padding: 12px 0; }
