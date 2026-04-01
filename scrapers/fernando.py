@@ -75,19 +75,21 @@ def clean_anchor_title(raw_html):
     Retorna texto limpo.
     """
     # Remove conteúdo de <b> que é metadata de série/estado
-    raw_html = re.sub(r"<b>[^<]*(?:mostra|última\s+sessão|essencial)[^<]*</b>",
+    # Usa .*? para apanhar nested tags dentro de <b> (ex: <b>- <small>última sessão</small></b>)
+    raw_html = re.sub(r"<b>.*?(?:mostra|última\s+sessão|essencial|with\s+english).*?</b>",
                       "", raw_html, flags=re.IGNORECASE | re.DOTALL)
     # Remove <small>...</small>
     raw_html = re.sub(r"<small>.*?</small>", "", raw_html, flags=re.DOTALL)
     # Strip restantes tags
     text = strip_tags(raw_html)
-    # Remove sufixos em texto puro
-    text = re.sub(r"\s*-\s*mostra\s+essencial.*$",   "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\s*-\s*última\s+sessão.*$",       "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\s*with\s+english\s+subtitles.*$","", text, flags=re.IGNORECASE)
+    # Remove sufixos em texto puro (com ou sem traço antes)
+    text = re.sub(r"\s*[-–]?\s*mostra\s+essencial.*$",        "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*[-–]?\s*última\s+sessão.*$",            "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*[-–]?\s*with\s+english\s+subtitles.*$", "", text, flags=re.IGNORECASE)
     text = unescape(text)
-    # Remove traço inicial (caso a âncora comece por "- TÍTULO")
+    # Remove traço inicial ou final residual
     text = re.sub(r"^\s*[-–]\s*", "", text)
+    text = re.sub(r"\s*[-–]\s*$",  "", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
