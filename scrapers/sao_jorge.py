@@ -18,8 +18,8 @@ PT_MONTHS = {
     "setembro":"09", "outubro":  "10", "novembro":"11",  "dezembro":"12",
 }
 
-# Só queremos eventos de cinema (filmes + sessões de festival)
-INCLUDE_CLASSES = {"filme", "sessao-de-festival"}
+# Só queremos eventos de cinema (filmes + sessões de festival + sessões especiais)
+INCLUDE_CLASSES = {"filme", "sessao-de-festival", "afim-de-filmes"}
 
 
 def fetch_json(url):
@@ -159,7 +159,7 @@ def scrape():
         # Detect and clean abertura/encerramento from title
         special_label = None
         title = title_raw
-        m_sp = re.search(r'\s*\|\s*(sess[ãa]o\s+de\s+(?:abertura|encerramento))\s*$', title_raw, re.IGNORECASE)
+        m_sp = re.search(r'\s*\|\s*(sess[ãa]o\s+[\w\s]+?)\s*$', title_raw, re.IGNORECASE)
         if m_sp:
             # "sessão de abertura" → "Sessão de Abertura" (preposições em minúscula)
             _low  = {"de", "do", "da", "dos", "das", "e", "em"}
