@@ -10494,5 +10494,68 @@
   "O Barqueiro|2026": {
     "lbxd": null,
     "omdb": null
+  },
+  "RIEFENSTAHL|2024": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/4/5/1/9/974519-riefenstahl-0-500-0-750-crop.jpg?v=8f48d78fd6",
+      "description": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Germany"
+    },
+    "omdb": {
+      "Title": "Riefenstahl",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "21 Oct 2025",
+      "Runtime": "115 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Andres Veiel",
+      "Writer": "Andres Veiel",
+      "Actors": "Ulrich Noethen, Leni Riefenstahl, Albrecht Knaus",
+      "Plot": "Explores Leni Riefenstahl's artistic legacy and her complex ties to the Nazi regime, juxtaposing her self-portrayal with evidence suggesting awareness of the regime's atrocities.",
+      "Language": "German, English, French",
+      "Country": "Germany",
+      "Awards": "4 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTljOTA3NWItZjRlOC00NDg2LWJiZDQtMGIxYmRlZTg0NTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.2",
+      "imdbVotes": "1,605",
+      "imdbID": "tt32249940",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$133,396",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "NOITE SEM FIM|2023": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "MARÉS VIVAS|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "COM A ALMA NA MÃO, CAMINHA|2024": {
+    "lbxd": null,
+    "omdb": null
   }
 }
