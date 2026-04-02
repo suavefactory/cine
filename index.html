@@ -102,13 +102,14 @@
     }
     .cinema-chip:last-child { border-right: none; }
     .cinema-chip:hover { color: var(--ink); }
-    .cinema-chip.active { color: #000; }
+    .cinema-chip.active { color: #000; border-right-color: transparent; }
 
     /* ── MAIN ── */
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
 
     /* ── AGENDA ── */
-    .agenda-day { scroll-margin-top: 150px; }
+    .agenda-day { scroll-margin-top: 170px; }
+    @media (max-width: 720px) { .agenda-day { scroll-margin-top: 130px; } }
 
     .day-header {
       display: flex; align-items: baseline; gap: 14px;
@@ -342,7 +343,7 @@
       header { padding: 0 20px; height: 56px; }
       nav button { padding: 7px 14px; font-size: 11px; }
       .date-bar { top: 56px; }
-      .filter-bar { padding: 10px 20px; }
+      .filter-bar { padding: 0; }
       main { padding: 0 20px 80px; }
 
       .date-chip { padding: 12px 0; }
@@ -1108,7 +1109,11 @@ function setDate(d) {
   render();
   requestAnimationFrame(() => {
     const el = document.querySelector(`.agenda-day[data-date="${d}"]`);
-    if (el) window.scrollTo(0, el.offsetTop - 200);
+    if (!el) return;
+    const hdr = document.querySelector('header');
+    const dbar = document.querySelector('.date-bar');
+    const stickyH = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0);
+    window.scrollTo(0, el.offsetTop - stickyH - 8);
   });
 }
 function setSort(s)  { filmesSort = s; renderFilmes(); }
