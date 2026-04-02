@@ -10557,5 +10557,98 @@
   "COM A ALMA NA MÃO, CAMINHA|2024": {
     "lbxd": null,
     "omdb": null
+  },
+  "ALCARRÀS|None": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/5/3/3/721533-alcarras-0-500-0-750-crop.jpg?v=fab3a50506",
+      "description": "In a small village in Catalonia, the peach farmers of the Solé family spend every summer together picking fruit from their orchard. But when plans arise to install solar panels and cut down trees, the members of this tight-knit group suddenly face eviction – and the loss of far more than their home.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain"
+    },
+    "omdb": {
+      "Title": "Alcarràs",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "24 Feb 2023",
+      "Runtime": "120 min",
+      "Genre": "Drama",
+      "Director": "Carla Simón",
+      "Writer": "Carla Simón, Arnau Vilaró",
+      "Actors": "Josep Abad, Jordi Pujol Dolcet, Anna Otin",
+      "Plot": "The life of a family of peach farmers in a small village in Catalonia changes when the owner of their large estate dies and his lifetime heir decides to sell the land, suddenly threatening their livelihood.",
+      "Language": "Catalan, Spanish, English",
+      "Country": "Spain, Italy",
+      "Awards": "21 wins & 56 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJlN2Q2YTItN2Y5Yi00MTA0LWEyZmEtMjA4YzVhNjAxM2RkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.0",
+      "imdbVotes": "8,473",
+      "imdbID": "tt11930126",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$41,093",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "VERÃO 1993|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "ROMARIA|None": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/3/7/1069037-romeria-0-500-0-750-crop.jpg?v=5268e5d224",
+      "description": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain"
+    },
+    "omdb": null
+  },
+  "MEMÓRIAS DO TEATRO DA CORNUCÓPIA|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/1/1/8/8/1421188-memorias-do-teatro-da-cornucopia-0-500-0-750-crop.jpg?v=430e84cb85",
+      "description": "A renowned symbol of Portuguese interventionist theatre, Cornucópia emerged from the darkness of fascism to fight dictatorship on stage. Among the classics, a project is born and dies, but one face remains emblematic: Luís Miguel Cintra, who shared his art with the constant complicity of set designer Cristina Reis. Together, guided by images, they bear witness, telling this story.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": null
+  },
+  "O ESTRANGEIRO|None": {
+    "lbxd": {
+      "rating": 3.34,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "description": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": null
   }
 }
