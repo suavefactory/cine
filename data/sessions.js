@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-02T11:25:19.380987+00:00",
+  "generated": "2026-04-02T15:09:03.675206+00:00",
   "movies": [
     {
       "id": "sao_jorge_10261",
@@ -2181,6 +2181,51 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
+      "id": "nimas_o-homem-da-camara-de-filmar-1929",
+      "title": "O Homem da Câmara de Filmar",
+      "director": "Dziga Vertov",
+      "year": 1929,
+      "duration": 68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+      "country": "USSR"
+    },
+    {
+      "id": "nimas_moloch-1999",
+      "title": "Moloch",
+      "director": "Aleksandr Sokurov",
+      "year": 1999,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/moloch-1999",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.63,
+      "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
+      "country": "Germany"
+    },
+    {
       "id": "nimas_stalker-1979",
       "title": "Stalker",
       "director": "Andrei Tarkovsky",
@@ -2226,51 +2271,6 @@ window.CINEMA_DATA = {
       "rating": 3.72,
       "plot": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
       "country": "USA"
-    },
-    {
-      "id": "nimas_o-homem-da-camara-de-filmar-1929",
-      "title": "O Homem da Câmara de Filmar",
-      "director": "Dziga Vertov",
-      "year": 1929,
-      "duration": 68,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.27,
-      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
-      "country": "USSR"
-    },
-    {
-      "id": "nimas_moloch-1999",
-      "title": "Moloch",
-      "director": "Aleksandr Sokurov",
-      "year": 1999,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/moloch-1999",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.63,
-      "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
-      "country": "Germany"
     },
     {
       "id": "nimas_os-passaros-1963",
@@ -2366,30 +2366,6 @@ window.CINEMA_DATA = {
       "country": "Belgium"
     },
     {
-      "id": "nimas_intriga-internacional-1959",
-      "title": "Intriga Internacional",
-      "director": "Alfred Hitchcock",
-      "year": 1959,
-      "duration": 136,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
-      "genres": [
-        "Mystery",
-        "Adventure",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/intriga-internacional-1959",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.19,
-      "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-      "country": "USA"
-    },
-    {
       "id": "nimas_a-fonte-da-virgem-1960",
       "title": "A Fonte da Virgem",
       "director": "Ingmar Bergman",
@@ -2459,27 +2435,28 @@ window.CINEMA_DATA = {
       "country": "Ireland"
     },
     {
-      "id": "nimas_antes-do-amanhecer-1995",
-      "title": "Antes do Amanhecer",
-      "director": "Richard Linklater",
-      "year": 1995,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-500-0-750-crop.jpg?v=006e8fedea",
+      "id": "nimas_intriga-internacional-1959",
+      "title": "Intriga Internacional",
+      "director": "Alfred Hitchcock",
+      "year": 1959,
+      "duration": 136,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
       "genres": [
-        "Romance",
-        "Drama"
+        "Mystery",
+        "Adventure",
+        "Thriller"
       ],
-      "link": "https://medeiafilmes.com/filmes/antes-do-amanhecer-1995",
+      "link": "https://medeiafilmes.com/filmes/intriga-internacional-1959",
       "sessions": [
         {
-          "date": "2026-04-09",
-          "time": "19:00",
+          "date": "2026-04-08",
+          "time": "21:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.3,
-      "plot": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
-      "country": "Austria"
+      "rating": 4.19,
+      "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+      "country": "USA"
     },
     {
       "id": "nimas_da-vida-das-marionetas-1980",
@@ -2603,6 +2580,29 @@ window.CINEMA_DATA = {
       "rating": 3.74,
       "plot": "A re-imagination of Japanese Emperor Hirohito’s final days in power as WWII draws to a close.",
       "country": "Italy"
+    },
+    {
+      "id": "nimas_antes-do-amanhecer-1995",
+      "title": "Antes do Amanhecer",
+      "director": "Richard Linklater",
+      "year": 1995,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-500-0-750-crop.jpg?v=006e8fedea",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/antes-do-amanhecer-1995",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.3,
+      "plot": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+      "country": "Austria"
     },
     {
       "id": "nimas_adeus-a-matiora-1983",
@@ -3378,6 +3378,81 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
+      "id": "batalha_syGKEUuFdNs7Cid7",
+      "title": "Chelsea-Manhattan, NYC",
+      "director": "Michel Auder",
+      "year": 1990,
+      "duration": 7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/7/4/2/3/497423-chelsea-0-500-0-750-crop.jpg?v=1953d39b00",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-chelsea-manhattan-nyc",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "When Chelsea's best friend Laura gets engaged and moves out of their apartment, she's left with more than an empty room. In her increasingly frustrating search to find a new roommate, Chelsea realizes that her life may not be shaping up the way she'd pictured it."
+    },
+    {
+      "id": "batalha_saVoibxuN5CIN0Sa",
+      "title": "Party Girl",
+      "director": "Daisy von Scherler Mayer",
+      "year": 1995,
+      "duration": 94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/0/6/28106-party-girl-0-500-0-750-crop.jpg?v=ddceb6cdad",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-party-girl",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.68,
+      "plot": "Although Mary has little income, she still finds ways to spend her nights at clubs. After being arrested for throwing an illegal rave, she asks her aunt Judy for bail money. Judy then finds Mary a job at her library so that Mary can repay her. Initially, Mary finds the job as a clerk boring and stifling, and prefers to get to know a street food vendor whom she likes. However, Mary must refocus her life once she loses her job and apartment.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha__sess_sHPeNbZdNINmeMtH",
+      "title": "Visita Guiada",
+      "director": null,
+      "year": 2014,
+      "duration": 25,
+      "poster": null,
+      "genres": [
+        "History"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sHPeNbZdNINmeMtH",
+      "sessions": [
+        {
+          "date": "2026-04-04",
+          "time": "13:30",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-02",
+          "time": "13:30",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "13:30",
+          "cinema": "batalha"
+        }
+      ],
+      "country": "Portugal"
+    },
+    {
       "id": "batalha_s2PU2AiklvNfisK5",
       "title": "The Parent Trap",
       "director": "Nancy Meyers",
@@ -3425,79 +3500,2197 @@ window.CINEMA_DATA = {
       "country": "UK"
     },
     {
-      "id": "trindade_6150",
-      "title": "Caso 137",
-      "director": "Dominik Moll",
-      "year": 2025,
-      "duration": 116,
-      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Dossier137_Cartaz-internacional-609b0-1228x1536.jpeg",
+      "id": "batalha_s3FFGNDPraDx7teW",
+      "title": "The Lady of Chandor",
+      "director": "Catarina Mourão",
+      "year": 1999,
+      "duration": 93,
+      "poster": null,
       "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/caso-137",
+      "link": "https://www.batalhacentrodecinema.pt/filmes/a-dama-de-chandor",
       "sessions": [
         {
-          "date": "2026-04-02",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-03",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-08",
-          "time": "14:15",
-          "cinema": "trindade"
+          "time": "21:15",
+          "cinema": "batalha"
         }
       ]
     },
     {
-      "id": "trindade_8064",
-      "title": "Orwell 2 + 2 = 5",
-      "director": "Raoul Peck",
+      "id": "batalha_sQaruOjJz4TUoVbF",
+      "title": "La Grazia",
+      "director": "Paolo Sorrentino",
       "year": 2025,
-      "duration": 119,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTdkNTNhMGItYTQ3Mi00ZWIwLTlkNzYtYjgwYTM2ODM4ZThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "duration": 133,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
       "genres": [
-        "Documentary",
-        "Biography",
-        "History"
+        "Drama"
       ],
-      "link": "https://cinematrindade.pt/pt/filmes/orwell-2-2-5",
+      "link": "https://www.batalhacentrodecinema.pt/filmes/la-grazia",
       "sessions": [
         {
-          "date": "2026-04-02",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-03",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "21:15",
-          "cinema": "trindade"
+          "date": "2026-04-09",
+          "time": "23:15",
+          "cinema": "batalha"
         }
       ],
-      "plot": "An investigation into the life, work, and enduring influence of the writer George Orwell, connecting his ideas to the contemporary world.",
-      "country": "United States"
+      "rating": 3.7,
+      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "country": "Italy"
+    },
+    {
+      "id": "batalha__sess_sNeIC3QIP2LVmu4S",
+      "title": "Great Artists on Campus: Vhils",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sNeIC3QIP2LVmu4S",
+      "sessions": [
+        {
+          "date": "2026-04-10",
+          "time": "17:00",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sTLjVr4I8bJsOFX1",
+      "title": "Masks",
+      "director": "Nóemia Delgado",
+      "year": 1976,
+      "duration": 111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/8/3/3/97833-masks-0-500-0-750-crop.jpg?v=785ee09518",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/mascaras-1773838714473",
+      "sessions": [
+        {
+          "date": "2026-04-10",
+          "time": "21:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-04-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.14,
+      "plot": "In the 70s Matteusz Gdula invented an acting method that was supposed to make every actor “shine”. Still, lots of his students die mysteriously and Gdula commits suicide. His method gets banned. Now: Stella, an ambitious, but rather untalented drama student, gets accepted at the „Matteusz Gdula“-school. When she bears witness to some strange occurrences, she gets drawn into the bizarre and deadly web that surrounds the dark secret of the school...",
+      "country": "Germany"
+    },
+    {
+      "id": "batalha_seSyzcCWaBdRERUz",
+      "title": "One Is Few, Two Would Fill",
+      "director": "Odilon Lopez",
+      "year": 1970,
+      "duration": 90,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/4/9/2/0/394920-one-is-few-two-would-fill-0-500-0-750-crop.jpg?v=9ef5c09d45",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/um-e-pouco-dois-e-bom",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.64,
+      "plot": "Um é Pouco, Dois é Bom is a Brazilian film, with an urban theme, produced and filmed in Porto Alegre, Rio Grande do Sul, in 1970. The film is divided into two parts (Com um Pouquinho de Sorte and Vida Nova Por Acaso) that have different character cores and independent narrative structures.",
+      "country": "Brazil"
+    },
+    {
+      "id": "batalha_stdBndmkyBT0ayHY",
+      "title": "Boogie Nights",
+      "director": "Paul Thomas Anderson",
+      "year": 1997,
+      "duration": 155,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/0/7/49007-boogie-nights-0-500-0-750-crop.jpg?v=57bef85dc6",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/boogie-nights",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.21,
+      "plot": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_s1fOwcDt40Ntx7Kf",
+      "title": "The Man in the White Suit",
+      "director": "Alexander Mackendrick",
+      "year": 1951,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/3/4/2/30342-the-man-in-the-white-suit-0-500-0-750-crop.jpg?v=60b0e3268d",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-man-in-the-white-suit",
+      "sessions": [
+        {
+          "date": "2026-04-12",
+          "time": "13:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.65,
+      "plot": "The unassuming, nebbishy inventor Sidney Stratton creates a miraculous fabric that will never be dirty or worn out. Clearly he can make a fortune selling clothes made of the material, but may cause a crisis in the process. After all, once someone buys one of his suits they won't ever have to fix them or buy another one, and the clothing industry will collapse overnight. Nevertheless, Sidney is determined to put his invention on the market, forcing the clothing factory bigwigs to resort to more desperate measures...",
+      "country": "UK"
+    },
+    {
+      "id": "batalha_svEuh9dqNW03qcjg",
+      "title": "Seven Beauties",
+      "director": "Lina Wertmüller",
+      "year": 1975,
+      "duration": 116,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/0/26940-seven-beauties-0-500-0-750-crop.jpg?v=8fa49e99ad",
+      "genres": [
+        "War",
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/pasqualino-settebellezze",
+      "sessions": [
+        {
+          "date": "2026-04-12",
+          "time": "19:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-04-17",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.99,
+      "plot": "Pasqualino Frafuso, known in Naples as \"Pasqualino Seven Beauties\" is a petty thief who lives off of the profits of his seven sisters while claiming to protect their honor at any cost, Pasqualino is arrested for murder and later sent to fight in the army after committing sexual assault. The Germans capture him and he gets sent to a concentration camp where he plots to make his escape by seducing a German officer.",
+      "country": "Italy"
+    },
+    {
+      "id": "batalha_s2LTRDhI0bqqMaqI",
+      "title": "Borbaad",
+      "director": "Mehedi Hassan Hridoy",
+      "year": 2025,
+      "duration": 139,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/0/9/3/3/1260933-borbaad-2025-0-500-0-750-crop.jpg?v=2595446237",
+      "genres": [
+        "Romance",
+        "Action"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/borbaad",
+      "sessions": [
+        {
+          "date": "2026-04-14",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 2.8,
+      "plot": "After a heartbreak by Nitu, Ariyan Mirza seeks revenge, guided by his father Adib Mirza's wisdom. Their story transforms from romance to violence, culminating in courtroom confrontations over justice.",
+      "country": "Bangladesh"
+    },
+    {
+      "id": "batalha_s3T6v5gxC5RqM8co",
+      "title": "Cloud",
+      "director": "Kiyoshi Kurosawa",
+      "year": 2024,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/0/0/5/1127005-cloud-2024-0-500-0-750-crop.jpg?v=b5609fae8c",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama",
+        "Horror",
+        "Crime"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/cloud-1772547785589",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.48,
+      "plot": "Ryōsuke Yoshii, an ordinary reseller, carelessly earns grudges by people and becomes entangled in a life-threatening struggle.",
+      "country": "Japan"
+    },
+    {
+      "id": "batalha_sIeMWNgVUc7OK7T7",
+      "title": "Hard Eight",
+      "director": "Paul Thomas Anderson",
+      "year": 1996,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/3/47913-hard-eight-0-500-0-750-crop.jpg?v=d5198f6351",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/hard-eight",
+      "sessions": [
+        {
+          "date": "2026-04-16",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.62,
+      "plot": "A stranger mentors a young Reno gambler who weds a hooker and befriends a vulgar casino regular.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_s1dKLIb1ko49BYv4",
+      "title": "Daisy Doodad's Dial",
+      "director": "Florence Turner",
+      "year": 1914,
+      "duration": 9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/5/4/5/127545-daisy-doodad-s-dial-0-500-0-750-crop.jpg?v=827a07820e",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-daisy-doodadand39s-dial",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.4,
+      "plot": "Daisy and her husband both go in for a face-pulling contest, but when the big day comes she is unable to attend the competition, and her husband wins instead. When the next opportunity comes around, she is determined to win -- but gets a little over-enthusiastic on the way to the contest and finds herself in trouble! She is most ungrateful for her rescue; fate, however, catches up with her that night…",
+      "country": "UK"
+    },
+    {
+      "id": "batalha_sWjI3tjzy4x67Vfa",
+      "title": "Madame’s Cravings",
+      "director": "Alice Guy-Blaché",
+      "year": 1906,
+      "duration": 5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/8/6/7/94867-madame-s-cravings-0-500-0-750-crop.jpg?v=eee65c74d5",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-madame-a-des-envies",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.45,
+      "plot": "A pregnant woman steals things from others on account of her cravings.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sr2sQudBCJLfEch8",
+      "title": "Mabel at the Wheel",
+      "director": "Mabel Normand e Mack Sennett",
+      "year": 1914,
+      "duration": 23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/7/8/12578-mabel-at-the-wheel-0-500-0-750-crop.jpg?v=b4ddf3fc77",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/03-mabel-at-the-wheel",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.05,
+      "plot": "A villain, competing with his rival's race car, kidnaps the rival before the race. Mabel decides to take the wheel in his place.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_su0dQbpid9JK7OQu",
+      "title": "Léontine’s Battery",
+      "director": "Louis Z. Rollini",
+      "year": 1910,
+      "duration": 6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/4/9/4/9/684949-leontine-s-battery-0-500-0-750-crop.jpg?v=9542cbf82c",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/04-la-pile-electrique-de-leontine",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.35,
+      "plot": "Léontine lights up our lives with an electric battery, electrocuting everyone in her path. Her victims include two old ladies (played by men in drag), dancers at a café, workers on a construction site, a group of lackluster conscripts, and the local police force. To add insult to injury, she douses everyone with buckets of water.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sW1MdNqDBIdZzLvM",
+      "title": "The Consequences of Feminism",
+      "director": "Alice Guy-Blaché",
+      "year": 1906,
+      "duration": 7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/8/6/6/94866-the-consequences-of-feminism-0-500-0-750-crop.jpg?v=4a4ac44a34",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/05-les-resultats-du-feminisme",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.82,
+      "plot": "It's a society in which gender roles are switched. Will men stand to be unequal?",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sxgAQyVtjTjeiSH9",
+      "title": "Magnolia",
+      "director": "Paul Thomas Anderson",
+      "year": 1999,
+      "duration": 188,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-500-0-750-crop.jpg?v=178b5e5c17",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/magnolia-1772024237272",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.23,
+      "plot": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sEcP4cb0Onc0zddu",
+      "title": "God-and-a-Half",
+      "director": "Margarida Assis",
+      "year": 2024,
+      "duration": 25,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/deus-e-meio-margarida-assis-batalha.jpg",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-deus-e-meio",
+      "sessions": [
+        {
+          "date": "2026-04-19",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sTBAsaASPLW8MKu8",
+      "title": "Muscled Joy",
+      "director": "Jonathas de Andrade",
+      "year": 2024,
+      "duration": 15,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/muscled-joy-jonathas-de-andrade-batalha.jpg",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-muscled-joy",
+      "sessions": [
+        {
+          "date": "2026-04-19",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_seIgkdc0jyOL1Ibt",
+      "title": "Light Was A Break",
+      "director": "Luís Costa",
+      "year": 2024,
+      "duration": 18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/7/5/5/0/917550-light-was-a-break-0-500-0-750-crop.jpg?v=52b88f5233",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/03-grito",
+      "sessions": [
+        {
+          "date": "2026-04-19",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "One sleepless night, Emília recalls a childhood trauma. Amidst the burning memories, she visits her parents, her sister, Manuel and all the places of her solitude.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha_svoZ6vHuBPIG8hoh",
+      "title": "Ofélia",
+      "director": "Carlos Lobo",
+      "year": 2025,
+      "duration": 21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/1/0/6/1389106-ofelia-2025-0-500-0-750-crop.jpg?v=9273b87691",
+      "genres": [
+        "Short",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/04-ofelia",
+      "sessions": [
+        {
+          "date": "2026-04-19",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Amid dynamics of power, desire, and seduction, Ofélia follows two teenagers who discover their mutual attraction on the threshold between adolescence and adulthood, while simultaneously seeking to define their identity and place within an everchanging society.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha__sess_skmDklS6SreVFo1h",
+      "title": "Porto Femme",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-skmDklS6SreVFo1h",
+      "sessions": [
+        {
+          "date": "2026-04-21",
+          "time": "12:00",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha__sess_siZ1VYf5t5IcbtFs",
+      "title": "Batalha Quiz",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-siZ1VYf5t5IcbtFs",
+      "sessions": [
+        {
+          "date": "2026-04-29",
+          "time": "00:00",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-27",
+          "time": "00:00",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sdUdoXZHuWfkxxN1",
+      "title": "Scenes from the Class Struggle in Portugal",
+      "director": "Robert Kramer e Philip J. Spinelli",
+      "year": 1977,
+      "duration": 90,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/4/8/134648-scenes-from-the-class-struggle-in-portugal-0-500-0-750-crop.jpg?v=6180bf410e",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/scenes-from-the-class-struggle-in-portugal",
+      "sessions": [
+        {
+          "date": "2026-04-29",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.66,
+      "plot": "Combining newsreel footage, still photographs, interviews, and analytical narration, this documentary focuses on the antifascist, anti-imperialist efforts of labor groups, peasants, and working-class soldiers to liberate Portugal from the control of the government of Antonio de Oliveira Salazar.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha__sess_sxs99p3THfeDGvVh",
+      "title": "Rotor Latente, Francisco Pedro Oliveira",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sxs99p3THfeDGvVh",
+      "sessions": [
+        {
+          "date": "2026-04-29",
+          "time": "23:30",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_stqJGFFGjuKduvGs",
+      "title": "Punch-Drunk Love",
+      "director": "Paul Thomas Anderson",
+      "year": 2002,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/3/1/5/76315-punch-0-500-0-750-crop.jpg?v=6309b7e6c6",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/punch-drunk-love",
+      "sessions": [
+        {
+          "date": "2026-04-30",
+          "time": "21:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-16",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.39,
+      "plot": "A deadbeat teacher helps an angry, aimless teenager find direction in life during his final year of high school.",
+      "country": "South Korea"
+    },
+    {
+      "id": "batalha_sRXqXturDUUkqOde",
+      "title": "Popeye",
+      "director": "Robert Altman",
+      "year": 1980,
+      "duration": 114,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/3/9/9/45399-popeye-0-500-0-750-crop.jpg?v=bd28e97000",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/popeye-1772022993715",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 2.93,
+      "plot": "Popeye is a super-strong, spinach-scarfing sailor man who's searching for his father. During a storm that wrecks his ship, Popeye washes ashore and winds up rooming at the Oyl household, where he meets Olive. Before he can win her heart, he must first contend with Olive's fiancé, Bluto.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_swav6q853ohoe5jr",
+      "title": "There Will Be Blood",
+      "director": "Paul Thomas Anderson",
+      "year": 2007,
+      "duration": 158,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-500-0-750-crop.jpg?v=8a533d5350",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/there-will-be-blood",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-08",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.46,
+      "plot": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sHQwHbjkHu2ey6cO",
+      "title": "Yi Yi",
+      "director": "Edward Yang",
+      "year": 2000,
+      "duration": 173,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7s/h0/6e/0f/hhsYCYVPy1V0eTjkGNGdvpDO2qk-0-500-0-750-crop.jpg?v=f8d5b0fe80",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/yi-yi",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.53,
+      "plot": "A Taipei family faces personal and moral uncertainty as everyday events test their relationships and sense of purpose.",
+      "country": "Taiwan"
+    },
+    {
+      "id": "batalha__sess_sdFvmr1FiDaswCWS",
+      "title": "Goshogaoka, Sharon Lockart",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sdFvmr1FiDaswCWS",
+      "sessions": [
+        {
+          "date": "2026-05-06",
+          "time": "13:00",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_s8Aa8luwthaS65yk",
+      "title": "Phantoms of Nabua",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2009,
+      "duration": 11,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/9/15079-phantoms-of-nabua-0-500-0-750-crop.jpg?v=5133dc6835",
+      "genres": [
+        "Mystery"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-phantoms-of-nabua",
+      "sessions": [
+        {
+          "date": "2026-05-06",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.82,
+      "plot": "The story based on the mysterious portrait of the town of Nabua in northeastern Thailand. Soon after nightfall when the crepuscular violets concede to blackness, the wind's rustling intensifies and the boys come out to play.",
+      "country": "Thailand"
+    },
+    {
+      "id": "batalha_s3yvQqJz0170FNnC",
+      "title": "Offside",
+      "director": "Jafar Panahi",
+      "year": 2006,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/5/2/12952-offside-0-500-0-750-crop.jpg?v=12688c34b5",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-offside",
+      "sessions": [
+        {
+          "date": "2026-05-06",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.28,
+      "plot": "In the small Swedish town of Stensfors, the local football team faces dissolution unless it can win its remaining matches. Team member Kent recruits former 1980s Premier League star Duncan Miller to help, only to discover their hero is out of shape, alcoholic, and far from match-ready.",
+      "country": "Sweden"
+    },
+    {
+      "id": "batalha_sBtZW1ffBsu9PK1b",
+      "title": "The Master",
+      "director": "Paul Thomas Anderson",
+      "year": 2012,
+      "duration": 137,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/5/1/2/52512-the-master-2012-0-500-0-750-crop.jpg?v=7cac18ee61",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-master",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "21:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-20",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.98,
+      "plot": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sDAd3aaSHGJgdDpd",
+      "title": "90 Minutes Power Nap",
+      "director": "Miguel Tavares e Letícia Costelha",
+      "year": 2024,
+      "duration": 90,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/90-minutos-power-nap-batalha-filmaporto.jpg",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/90-minutos-power-nap-1774617032770",
+      "sessions": [
+        {
+          "date": "2026-05-08",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sBaVzArndnslzuQ6",
+      "title": "The Best Mother in the World",
+      "director": "Anna Muylaert",
+      "year": 2025,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/3/1/3/0/1093130-the-best-mother-in-the-world-0-500-0-750-crop.jpg?v=c99703eb6a",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/a-melhor-mae-do-mundo",
+      "sessions": [
+        {
+          "date": "2026-05-09",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.67,
+      "plot": "To escape her abusive husband, garbage collector Gal packs her two young children, Rihanna and Benin, onto the top of her cart and heads across São Paulo to her cousin’s house. As she struggles to avoid the dangers of the streets along the way, she convinces the children that they are on a big and exciting adventure. When they arrive at her cousin’s house, they are warmly welcomed and fed. However, what initially seems like a safe haven soon turns out to be a trap. Gal realises that not only her own safety is at risk, but also the future of her children.",
+      "country": "Brazil"
+    },
+    {
+      "id": "batalha_soEYmGnS38MdKZvG",
+      "title": "Red Wood Pigeon",
+      "director": "Nanni Moretti",
+      "year": 1989,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/palombella-rossa",
+      "sessions": [
+        {
+          "date": "2026-05-09",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-13",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "Michele is a Communist MP who loses his memory in a car crash—although nobody seems to notice. Over the course of a water polo match ahead of election day, he begins to remember his past life, revealing the picture of a man whose personal and political identity crisis mirrors the one of Italian communism.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sl0TuBFzLGoEzRWa",
+      "title": "Quem Foste, Alvarez?",
+      "director": "Nóemia Delgado",
+      "year": 1988,
+      "duration": 60,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/3/6/4/463364-quem-foste-alvarez--0-500-0-750-crop.jpg?v=f2bb8528b5",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/quem-foste-alvarez",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Documentary about the life and work of the painter Dominguez Alvarez, interspersed with fictionalized staging of some moments of the life of the artist.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha_so1DxF81l1V4rrT4",
+      "title": "Inherent Vice",
+      "director": "Paul Thomas Anderson",
+      "year": 2014,
+      "duration": 138,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-500-0-750-crop.jpg?v=342795552c",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/inherent-vice",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.61,
+      "plot": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_s3NKfdYOuiQUBHfR",
+      "title": "Amor e Dedinhos de Pé",
+      "director": "Luís Filipe Rocha",
+      "year": 1991,
+      "duration": 124,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/7/3/0/437730-amor-e-dedinhos-de-pe-0-500-0-750-crop.jpg?v=259d8da72c",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/amor-e-dedinhos-de-pe",
+      "sessions": [
+        {
+          "date": "2026-05-13",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Macau 1897. Life is easy for Portuguese settlers. Young reveler Francisco Frontaria is deemed as irresponsible for all his partying and boozing. Shunned and exiled for crossing a line by insulting the daughter of a prominent family, he finds himself penniless and vagrant.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sVCduoL9BozDjq5C",
+      "title": "Vive le Tour",
+      "director": "Louis Malle",
+      "year": 1962,
+      "duration": 18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/3/1/2231-vive-le-tour--0-500-0-750-crop.jpg?v=4267d8de12",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-vive-le-tour",
+      "sessions": [
+        {
+          "date": "2026-05-14",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.82,
+      "plot": "A short documentary about the 1962 Tour-de-France. Topics covered include: crowds of people and motorcycles, drinking raids and feeding, pileups, doping, \"the charge,\" and the mountain stages.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_ssLSylVu7roU7WT3",
+      "title": "The Great Ecstasy of Woodcarver Steiner",
+      "director": "Werner Herzog",
+      "year": 1962,
+      "duration": 45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/7/6/7/18767-the-great-ecstasy-of-woodcarver-steiner-0-500-0-750-crop.jpg?v=33108e7ed1",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-the-great-ecstasy-of-woodcarver-steiner",
+      "sessions": [
+        {
+          "date": "2026-05-14",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.93,
+      "plot": "A study of the psychology of a champion ski-flyer, whose full-time occupation is carpentry.",
+      "country": "Germany"
+    },
+    {
+      "id": "batalha__sess_srSk9cHD84xgKdJM",
+      "title": "Great Artists on Campus: Masterclass com Meg Stuart",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-srSk9cHD84xgKdJM",
+      "sessions": [
+        {
+          "date": "2026-05-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha__sess_s6r7t16lAUP8N0v5",
+      "title": "Meg Stuart: Sessão de Cinema",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s6r7t16lAUP8N0v5",
+      "sessions": [
+        {
+          "date": "2026-05-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha__sess_s8cKDoOuuGH8cefu",
+      "title": "Sulphur Edges, Meg Stuart",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s8cKDoOuuGH8cefu",
+      "sessions": [
+        {
+          "date": "2026-05-15",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sdlHiHzdi7KIX3uy",
+      "title": "Short Films from the 2026 Filmmaking Workshop + The Golden Ball",
+      "director": "Participantes da Oficina de Realização",
+      "year": 2026,
+      "duration": 10,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/cred_renato-cruz-santos_batalha_oficina-realizacao_amarante_4277.jpg",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-curtas-da-oficina-de-realizacao-de-2026",
+      "sessions": [
+        {
+          "date": "2026-05-16",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sYIF0FuqRnYRgwwL",
+      "title": "The Golden Ball",
+      "director": "Cheik Doukouré",
+      "year": 1994,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/3/5/9/119359-the-golden-ball-0-500-0-750-crop.jpg?v=ded037ed7b",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-le-ballon-dand39or",
+      "sessions": [
+        {
+          "date": "2026-05-16",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.45,
+      "plot": "The Golden Ball is a wonderful children's film that tells of a young boy's dream of being a soccer player. Whenever a match is broadcast live in the village of Makono, Bandian and his brother keep their ears to the transistor radio, spinning a picture of the game from the announcer's commentary much as they fantasize themselves on the field. A gift of a real soccer ball, which Bandian paints gold, like a magical object involves him in a series of adventures which bring him in reach of his dream, but which also require him to make difficult choices.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_svuJKO9xkQGSzxiw",
+      "title": "Mistida",
+      "director": "Falcão Nhaga",
+      "year": 2022,
+      "duration": 30,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/9/9/2/4/869924-mistida-0-500-0-750-crop.jpg?v=42efcaa557",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-mistida",
+      "sessions": [
+        {
+          "date": "2026-05-16",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "An immigrant mother, hurting from a backache, calls for her son to help carry her groceries home. Along their way, they talk about the future through the past, returning to all of their disagreements, disillusionments, rancor and resentments.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha_sjAR1r12Q9W272jS",
+      "title": "Sabura",
+      "director": "Falcão Nhaga",
+      "year": 2025,
+      "duration": 26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/7/7/6/3/1337763-sabura-0-500-0-750-crop.jpg?v=773800f801",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-sabura",
+      "sessions": [
+        {
+          "date": "2026-05-16",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "In this love story, a young couple faces an uncertain future between Africa and Europe. When they reunite in Lisbon, sharing a house with other immigrants, farness and closeness will test their relationship.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha_sFdEUnTPHxK0vR7R",
+      "title": "Gauguin",
+      "director": "Alain Resnais",
+      "year": 1948,
+      "duration": 14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/7/6/9/132769-gauguin-0-500-0-750-crop.jpg?v=5181ad6de5",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-gauguin",
+      "sessions": [
+        {
+          "date": "2026-05-17",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.31,
+      "plot": "A short documentary on Paul Gauguin, a French painter and sculptor.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sQtVYPv37GSVih0h",
+      "title": "Van Gogh",
+      "director": "Alain Resnais",
+      "year": 1948,
+      "duration": 20,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/7/7/120577-van-gogh-0-500-0-750-crop.jpg?v=2e074e5d81",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-van-gogh",
+      "sessions": [
+        {
+          "date": "2026-05-17",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.44,
+      "plot": "The biography of Dutch artist Van Gogh, illustrated only with images of his paintings and drawings, or details of those, and according dramatic musical score.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sCqNYmRwaHNzu227",
+      "title": "All the Memory in the World",
+      "director": "Alain Resnais",
+      "year": 1956,
+      "duration": 21,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/all-the-memory-in-the-world-alain-resnais-batalha.jpg",
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/03-toute-la-memoire-du-monde",
+      "sessions": [
+        {
+          "date": "2026-05-17",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "This documentary explores the Bibliothèque Nationale in Paris, its priceless treasures, and how humanity remembers itself.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sQz8yGQ8bRLG9uUL",
+      "title": "Belarmino",
+      "director": "Fernando Lopes",
+      "year": 1964,
+      "duration": 72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/5/4/2/115542-belarmino-0-500-0-750-crop.jpg?v=93c971a5b5",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/belarmino",
+      "sessions": [
+        {
+          "date": "2026-05-17",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.6,
+      "plot": "A portrait of Belarmino Fragoso, a veteran boxer in Lisbon nearing the end of his career. In a blend of reportage and re-enactment, the many vices of the once national featherweight champion are revealed against a background of the grim economics of boxing in 1960s Portugal.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha__sess_s9GgnfbnEulSiKfH",
+      "title": "fRame,d, Adrienne Herr",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s9GgnfbnEulSiKfH",
+      "sessions": [
+        {
+          "date": "2026-05-20",
+          "time": "23:30",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_s3z9VbgsuJTRFsna",
+      "title": "Gentlemen Prefer Blondes",
+      "director": "Howard Hawks",
+      "year": 1953,
+      "duration": 91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-500-0-750-crop.jpg?v=aa60ad810b",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/gentlemen-prefer-blondes",
+      "sessions": [
+        {
+          "date": "2026-05-21",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.86,
+      "plot": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sudi7XSYFufYTPkp",
+      "title": "Harvest",
+      "director": "Athina Rachel Tsangari",
+      "year": 2025,
+      "duration": 133,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/1/6/3/2/841632-harvest-2024-0-500-0-750-crop.jpg?v=fe3ff92f72",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/harvest",
+      "sessions": [
+        {
+          "date": "2026-05-22",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.24,
+      "plot": "Over seven hallucinatory days, a village with no name, in an undefined time and place, disappears.",
+      "country": "Cyprus"
+    },
+    {
+      "id": "batalha_sYQzVvnVQU1QnZjc",
+      "title": "All About Eve",
+      "director": "Joseph L. Mankiewicz",
+      "year": 1950,
+      "duration": 138,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ut/mc/rg/wz/all-about-eve-0-500-0-750-crop.jpg?v=34c6aadc2e",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/all-about-eve",
+      "sessions": [
+        {
+          "date": "2026-05-23",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.36,
+      "plot": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sHwKj9veZWaH5idQ",
+      "title": "Phantom Thread",
+      "director": "Paul Thomas Anderson",
+      "year": 2017,
+      "duration": 130,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/3/8/4/335384-phantom-thread-0-500-0-750-crop.jpg?v=6b47f80ec7",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/phantom-thread",
+      "sessions": [
+        {
+          "date": "2026-05-23",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.17,
+      "plot": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sl1CEvIlSCtu7AJe",
+      "title": "Convicts",
+      "director": "Franco Piavoli",
+      "year": 1964,
+      "duration": 12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/2/7/9/224279-convicts-1964-0-500-0-750-crop.jpg?v=0fa1dd1611",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-evasi",
+      "sessions": [
+        {
+          "date": "2026-05-24",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "The short registers a sports spectacle of great importance (probably of soccer). We never see the spectacle itself but the people watching and reacting at the stadium.",
+      "country": "Italy"
+    },
+    {
+      "id": "batalha_sWKyl2hmZ2AyHXZI",
+      "title": "Garrincha: Joy of the People",
+      "director": "Joaquim Pedro de Andrade",
+      "year": 1963,
+      "duration": 60,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/1/5/4/8/121548-garrincha-joy-of-the-people-0-500-0-750-crop.jpg?v=f7325fc2e7",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-garrincha-alegria-do-povo",
+      "sessions": [
+        {
+          "date": "2026-05-24",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.62,
+      "plot": "Documentary about the most famous dribbler in Brazilian Soccer (some say in Soccer's history!) at the zenith of his career, showing classic scenes of 1958 and 1962 World Cup. Garrincha was a very original and talented player, having curved legs. Women and alcohol were his passion, and the cause of his later decadence. After a glorious career, he died in financial misery, forgotten.",
+      "country": "Brazil"
+    },
+    {
+      "id": "batalha__sess_s8guAxu5fbnzrnYe",
+      "title": "A Nebulosa",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s8guAxu5fbnzrnYe",
+      "sessions": [
+        {
+          "date": "2026-05-24",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sTVG37tXNHBxVOPB",
+      "title": "Treasure of the Bitch Islands",
+      "director": "F. J. Ossang",
+      "year": 1990,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/3/3053-treasure-of-the-bitch-islands-0-500-0-750-crop.jpg?v=815fc7ee53",
+      "genres": [
+        "Science Fiction"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/le-tresor-des-iles-chiennes",
+      "sessions": [
+        {
+          "date": "2026-05-27",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.25,
+      "plot": "The world after the atomic age. An engineer disappears, together with his consortium (Kryo'Corp) and his discovery: a new energy source powered by the fusion of two primary substances. Ulysses, Kryo'Corp's heir, organises an expedition to the only place these substances occur.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_s2najrfXuX4gm9lq",
+      "title": "Cinema",
+      "director": "Fernando Lopes",
+      "year": 2000,
+      "duration": 23,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/cinema-fernando-lopes-batalha.jpg",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-cinema",
+      "sessions": [
+        {
+          "date": "2026-05-28",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sZJWzEJbG1CrQEmM",
+      "title": "In Between",
+      "director": "Sandro Aguilar",
+      "year": 2001,
+      "duration": 23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/0/0/0/123000-in-between-0-500-0-750-crop.jpg?v=af88096213",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-corpo-e-meio",
+      "sessions": [
+        {
+          "date": "2026-05-28",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.66,
+      "plot": "A young woman tries to overcome her anxiety, which is personified by a crocodile.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sRR0vEmoDQN2Xfx8",
+      "title": "Next Stop",
+      "director": "Catarina Mourão",
+      "year": 2001,
+      "duration": 18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/0/3/4/3/670343-next-stop-0-500-0-750-crop.jpg?v=37df852a6c",
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/03-proxima-paragem",
+      "sessions": [
+        {
+          "date": "2026-05-28",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "When two girls look at each other on the subway, the world seems to stop as they dream of breaking with routine.",
+      "country": "Spain"
+    },
+    {
+      "id": "batalha_sqdRrd0wVaYu2vz9",
+      "title": "Licorice Pizza",
+      "director": "Paul Thomas Anderson",
+      "year": 2021,
+      "duration": 133,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/1/0/8/6/641086-licorice-pizza-0-500-0-750-crop.jpg?v=6f08c3828c",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/licorice-pizza",
+      "sessions": [
+        {
+          "date": "2026-05-28",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.54,
+      "plot": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+      "country": "Canada"
+    },
+    {
+      "id": "batalha_sWdLSBrS24ZqRTnZ",
+      "title": "Ecce bombo",
+      "director": "Nanni Moretti",
+      "year": 1978,
+      "duration": 103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/3/8/17238-ecce-bombo-0-500-0-750-crop.jpg?v=2623738283",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/ecce-bombo",
+      "sessions": [
+        {
+          "date": "2026-05-29",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Michele, Goffredo, Mirko and Vito are four friends who have participated in the battles of the student in Sixties. Now in the Seventies, the four friends don't know what to do, though young and with so many possibilities to find a job in life. Intellectuals marginalized and misunderstood, the four friends find themselves when they can in a restaurant to discuss their outlandish theories. A girl named Olga disrupts their life, but Michele is her favorite, although he does not know what to do with the girl.",
+      "country": "Italy"
+    },
+    {
+      "id": "batalha_suugFdw4J3vv3fng",
+      "title": "Monkey Business",
+      "director": "Howard Hawks",
+      "year": 1952,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/8/37098-monkey-business-0-500-0-750-crop.jpg?v=9b72128d36",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/monkey-business-1772032476689",
+      "sessions": [
+        {
+          "date": "2026-05-30",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.45,
+      "plot": "Research chemist Barnaby Fulton works on a fountain of youth pill for a chemical company. One of the labs chimps gets loose in the laboratory and mixes chemicals, but then pours the mix into the water cooler. When trying one of his own samples, washed down with water from the cooler, Fulton begins to act just like a twenty-year-old and believes his potion is working. Soon his wife and boss are also behaving like children.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_smXKcJ7YUP6h5qcn",
+      "title": "Muhammad Ali, the Greatest",
+      "director": "William Klein",
+      "year": 1974,
+      "duration": 123,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/4/9/33049-muhammad-ali-the-greatest-0-500-0-750-crop.jpg?v=e1ac9eddc5",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/muhammad-ali-the-greatest",
+      "sessions": [
+        {
+          "date": "2026-05-30",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.65,
+      "plot": "Universally accepted as a true icon of the 20th century, Muhammad Ali’s phenomenal achievements spanned sport, politics and religion. One man – photographer William Klein had comprehensive access to the events that shaped Ali’s legend. In 1964, the young gregarious Cassius Clay successfully defeated the seemingly invincible Heavyweight Champion of the World Sonny Liston – the manner of Clay’s victory and his amazing persona made him an instant superstar. Through this incredible period, and Clay’s subsequent rematches with Liston, William Klein enjoyed unrivalled access top Clay’s camp – witnessing at first hand Cassius Clay becoming Muhammad Ali and angering the American people with his allegiance to Islam. Forward to Zaire 1974, and the return of Muhammad Ali to the world stage to face another invincible champion George Foreman. As Ali reclaimed the crown for a second time, Klein was ever present, capturing the full story at close quarter.",
+      "country": "France"
+    },
+    {
+      "id": "batalha__sess_sqk8CmclcSo8nwdW",
+      "title": "Curtas-metragens de Norman McLaren",
+      "director": null,
+      "year": 2002,
+      "duration": 30,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/6/9/9/1282699-curtas-0-500-0-750-crop.jpg?v=e38cae0929",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sqk8CmclcSo8nwdW",
+      "sessions": [
+        {
+          "date": "2026-05-31",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Sitting in front of his farmhouse in Mirás, Sério reflects on a life linked to cinema. An exercise in synthesis and memory.",
+      "country": "Portugal"
+    },
+    {
+      "id": "batalha_sct1Jo6hzM5vb0B6",
+      "title": "Don't Bother to Knock",
+      "director": "Roy Ward Baker",
+      "year": 1952,
+      "duration": 76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/0/1/37101-don-t-bother-to-knock-0-500-0-750-crop.jpg?v=0bd117dd19",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/donand39t-bother-to-knock",
+      "sessions": [
+        {
+          "date": "2026-05-31",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.51,
+      "plot": "An airline pilot pursues a live-in babysitter at his hotel and gradually realizes she is not as stable as perhaps she should be.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha__sess_sEAGQy5QUJS56EYQ",
+      "title": "BEAST International Film Festival",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sEAGQy5QUJS56EYQ",
+      "sessions": [
+        {
+          "date": "2026-06-03",
+          "time": "13:00",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_s05ofos4CdTzE1Fd",
+      "title": "Niagara",
+      "director": "Henry Hathaway",
+      "year": 1953,
+      "duration": 92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/2/39302-niagara-0-500-0-750-crop.jpg?v=4ca4fed5fb",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/niagara-1773078672787",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls, N.Y. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_szIqP0kTiCypu1RS",
+      "title": "The Razor's Edge",
+      "director": "Jocelyn Saab",
+      "year": 1985,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/0/6/6/258066-the-razors-edge-1985-0-500-0-750-crop.jpg?v=0ac8b87bcc",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-razorand39s-edge",
+      "sessions": [
+        {
+          "date": "2026-06-11",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.53,
+      "plot": "Samar, a child of the war, finds relief from the chaos around her through Egyptian movies she watches on television. Karim, an artist in retreat from life, remains in his apartment in war-torn West Beirut, confident that he is safe in his familiar neighborhood. An unlikely bond is formed between the two as they face the devastating civil war.",
+      "country": "Argentina"
+    },
+    {
+      "id": "batalha_sYOQ5B2esDWuos8T",
+      "title": "Millennium’s Turn",
+      "director": "Alberto Seixas",
+      "year": 2025,
+      "duration": 15,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/1674833442007-placeholder-2-i.png",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/a-viragem-do-milenio",
+      "sessions": [
+        {
+          "date": "2026-06-12",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_stHW3tNrdpujyYmu",
+      "title": "How to Marry a Millionaire",
+      "director": "Jean Negulesco",
+      "year": 1953,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/6/0/46360-how-to-marry-a-millionaire-0-500-0-750-crop.jpg?v=f22afec192",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/how-to-marry-a-millionaire",
+      "sessions": [
+        {
+          "date": "2026-06-12",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.48,
+      "plot": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sXlLZRu2dOetvUkj",
+      "title": "Savages",
+      "director": "Claude Barras",
+      "year": 2024,
+      "duration": 87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/2/1/0/6/482106-savages-0-500-0-750-crop.jpg?v=fe98167964",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/sauvages",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Zolja, Jasmin and Mali set out to rob a gas station in order to get money for a trip to the World Cup finals. Fleeing the police, they cross the border with Bosnia and Herzegovina and wander into a terrorist camp in the woods.",
+      "country": "Croatia"
+    },
+    {
+      "id": "batalha_sADCwMMiaE1rWtfx",
+      "title": "The Seven Year Itch",
+      "director": "Billy Wilder",
+      "year": 1955,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/1/46021-the-seven-year-itch-0-500-0-750-crop.jpg?v=d0861c1bf5",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-seven-year-itch",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "19:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-19",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.31,
+      "plot": "When his family goes away for summer vacation, a hitherto faithful publishing executive with an overactive imagination is tempted by an attractive new neighbor.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sMFvGggWXijlKXvG",
+      "title": "One Battle After Another",
+      "director": "Paul Thomas Anderson",
+      "year": 2025,
+      "duration": 166,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/1/2/7/7/951277-one-battle-after-another-0-500-0-750-crop.jpg?v=d27c4cc662",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/one-battle-after-another",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.16,
+      "plot": "When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sHCB8PLQdKvY86X1",
+      "title": "The Ernie Game",
+      "director": "Don Owen",
+      "year": 1967,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/1/5/7/181157-the-ernie-game-0-500-0-750-crop.jpg?v=e9bc8da3a8",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-ernie-game",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.43,
+      "plot": "This fictional feature follows a twenty-something man who is struggling to define his position in the world in early adulthood. He has left their parents' home but still has not made an home of his own. Our protagonist’s alienation is palpable; for him life is a game, not because he chooses to make it so, but because he is unable to make anything more of it. But for those who befriend him and eventually turn him loose again, his game is not enough.",
+      "country": "Canada"
+    },
+    {
+      "id": "batalha_sOwqZnDTvhffbSzT",
+      "title": "Hard, Fast and Beautiful!",
+      "director": "Ida Lupino",
+      "year": 1951,
+      "duration": 78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/1/3/5/70135-hard-fast-and-beautiful-0-500-0-750-crop.jpg?v=dde2cc0280",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/hard-fast-and-beautiful",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "19:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.38,
+      "plot": "When most people look at Florence Farley, they see a pretty teenager. But when Milly Farley looks at her daughter she sees something else: a tennis prodigy who could be Milly’s ticket to money and fame.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_s6x2YBDudfidhN4l",
+      "title": "Pumping Iron",
+      "director": "George Butler e Robert Fiore",
+      "year": 1977,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/0/3/48903-pumping-iron-0-500-0-750-crop.jpg?v=5bfa46bc9e",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/pumping-iron",
+      "sessions": [
+        {
+          "date": "2026-06-18",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.75,
+      "plot": "Amateur and professional bodybuilders prepare for the 1975 Mr. Olympia and Mr. Universe contests as five-time champion Arnold Schwarzenegger defends his Mr. Olympia title against Serge Nubret and the shy young Lou Ferrigno.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha__sess_sXUEuoYrPCu44H8u",
+      "title": "Great Artists on Campus: Mauro Cerqueira",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sXUEuoYrPCu44H8u",
+      "sessions": [
+        {
+          "date": "2026-06-19",
+          "time": "17:00",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_stEkQ9CSa7pvoPru",
+      "title": "The Prince and the Showgirl",
+      "director": "Laurence Olivier",
+      "year": 1957,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-prince-and-the-showgirl",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.17,
+      "plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+      "country": "UK"
+    },
+    {
+      "id": "batalha_sEgJIlkr9veC5jM5",
+      "title": "The Killer",
+      "director": "John Woo",
+      "year": 1989,
+      "duration": 110,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/8/5/0/45850-the-killer-0-500-0-750-crop.jpg?v=d65baa059e",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-killer",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.15,
+      "plot": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
+      "country": "Hong Kong"
+    },
+    {
+      "id": "batalha_s41IRzsp3wDrU6oi",
+      "title": "Tokyo Olympiad",
+      "director": "Kon Ichikawa",
+      "year": 1965,
+      "duration": 169,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/5/3/5/21535-tokyo-olympiad-0-500-0-750-crop.jpg?v=e66ea12219",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/tokyo-olympiad",
+      "sessions": [
+        {
+          "date": "2026-06-21",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.19,
+      "plot": "This impressionistic portrait of the 1964 Tokyo Summer Olympics pays as much attention to the crowds and workers as it does to the actual competitive events. Highlights include an epic pole-vaulting match between West Germany and America, and the final marathon race through Tokyo's streets. Two athletes are highlighted: Ethiopian marathon runner Abebe Bikila, who receives his second gold medal, and runner Ahamed Isa from Chad, representing a country younger than he is.",
+      "country": "Japan"
+    },
+    {
+      "id": "batalha_sxQZOEHS6M6OfFBx",
+      "title": "Some Like It Hot",
+      "director": "Billy Wilder",
+      "year": 1959,
+      "duration": 120,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/7/51817-some-like-it-hot-0-500-0-750-crop.jpg?v=fc0b1b87eb",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Comedy"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/some-like-it-hot-1773143219845",
+      "sessions": [
+        {
+          "date": "2026-06-21",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sUEJGChUdSfv0rbr",
+      "title": "Portrait of a Certain Orient",
+      "director": "Marcelo Gomes",
+      "year": 2024,
+      "duration": 92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/3/2/0/4/1103204-portrait-of-a-certain-orient-0-500-0-750-crop.jpg?v=54acefff78",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/retrato-de-um-certo-oriente",
+      "sessions": [
+        {
+          "date": "2026-06-25",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.63,
+      "plot": "At the end of the 1940s, Lebanon is sliding towards a devastating conflict. Catholic siblings Emilie and Emir decide to leave for Brazil. Aboard the ship to their new home, Emilie falls in love with Omar, a Muslim merchant. For an enraged and jealous Emir, the relationship is intolerable. As the story unfolds against the backdrop of the majestic rainforest, Emir’s actions and the choice that Emilie subsequently makes lead to disastrous consequences.",
+      "country": "Brazil"
+    },
+    {
+      "id": "batalha_sQFNOz6wK8HRly05",
+      "title": "The Handmaid's Tale",
+      "director": "Volker Schlöndorff",
+      "year": 1990,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/7/7/5/38775-the-handmaid-s-tale-0-500-0-750-crop.jpg?v=f46ed29563",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-handmaidand39s-tale",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.18,
+      "plot": "In a dystopian, polluted right-wing religious tyranny, a young woman is put in sexual slavery on account of her now rare fertility.",
+      "country": "Germany"
+    },
+    {
+      "id": "batalha_sQuuSMh5xBWuL5r8",
+      "title": "Lion",
+      "director": "Julia Ocker",
+      "year": 2017,
+      "duration": 4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/2/2/2/263222-lion-0-500-0-750-crop.jpg?v=1311804f8d",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-lion",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.93,
+      "plot": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+      "country": "Australia"
+    },
+    {
+      "id": "batalha_sMdzLmjfXImzd9d2",
+      "title": "In the Dance",
+      "director": "Katya Mikheeva",
+      "year": 2024,
+      "duration": 5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/4/8/6/1041486-in-the-dance-0-500-0-750-crop.jpg?v=943050a937",
+      "genres": [
+        "Animation"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-dans-la-dance",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Dance, friendship, group, beatbox, movement, hiphop, freestyle, cypher.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sfjysMcxjD7cUos3",
+      "title": "The Goose",
+      "director": "Jan Míka",
+      "year": 2022,
+      "duration": 13,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/5/5/5/9/805559-the-goose-0-500-0-750-crop.jpg?v=cd886bbad4",
+      "genres": [
+        "Animation"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/03-the-goose",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Masha and Sveta are preparing a birthday present and decide to teach Old Karga a lesson. The dramatic issue of the loan trap, which you can easily end up in due to the simplest everyday needs of an average family, looms in the background.",
+      "country": "Ukraine"
+    },
+    {
+      "id": "batalha_sgxd5Bopv5uXxjdd",
+      "title": "The Cycling Wind",
+      "director": "Nazanin Sobhan Sarbandi",
+      "year": 2014,
+      "duration": 6,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/1674833442007-placeholder-2-i.png",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/04-o-vento-ciclico",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_s46Ww4AR5Yfn6ab2",
+      "title": "The Goofylympics",
+      "director": "Salomé Hamman",
+      "year": 2019,
+      "duration": 4,
+      "poster": "https://cdn.bndlyr.com/sibrwridqpbpm4e3/_assets/les_zozolympiades_batalha.jpg",
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/05-les-zozolympiades",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_su66NTyq43dCejzX",
+      "title": "Grand Bassin",
+      "director": "Héloïse Courtois, Chloé Plat, Victori Jalabert e Adèle Raigneau",
+      "year": 2018,
+      "duration": 6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/7/6/2/6/577626-grand-bassin-0-500-0-750-crop.jpg?v=d39374e56c",
+      "genres": [
+        "Animation"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/06-grand-bassin",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "An afternoon at the pool.",
+      "country": "France"
+    },
+    {
+      "id": "batalha_sIuAs3DlxpVJDIHu",
+      "title": "The Misfits",
+      "director": "John Huston",
+      "year": 1961,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/1/2/45212-the-misfits-0-500-0-750-crop.jpg?v=db194cec22",
+      "genres": [
+        "Western",
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-misfits",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "23:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.7,
+      "plot": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sUoro7bAYjyXjbOz",
+      "title": "Spoor",
+      "director": "Kasia Adamik e Agnieszka Holland",
+      "year": 2017,
+      "duration": 128,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/5/8/1/5/365815-spoor-0-500-0-750-crop.jpg?v=c561e01d1d",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/spoor",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "13:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.3,
+      "plot": "A story about Janina Duszejko, an elderly woman, who lives alone in the Klodzko Valley where a series of mysterious crimes are committed. Duszejko is convinced that she knows who (or what) is the murderer, but nobody believes her.",
+      "country": "Poland"
+    },
+    {
+      "id": "batalha__sess_sPsA7MAGX7sNDECc",
+      "title": "Over and Out",
+      "director": null,
+      "year": 2019,
+      "duration": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzcxNmJiOTktNGI0Yy00YzAyLWIzMzItYTUwYmUzNTJmYmIzXkEyXkFqcGdeQXVyNjU0ODE3MDc@._V1_SX300.jpg",
+      "genres": [
+        "Horror"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sPsA7MAGX7sNDECc",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "17:00",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "19:00",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Lewis and Freya are two young parents fervently trying to raise their children the right way in a world full of wrong. They are stuck in the middle of the two most stressful things imaginable: namely raising young children and sur...",
+      "country": "Australia"
+    },
+    {
+      "id": "batalha_sV7v3UnUDOGlN7u0",
+      "title": "Double Strength",
+      "director": "Barbara Hammer",
+      "year": 1978,
+      "duration": 15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/7/3/2/207732-double-strength-0-500-0-750-crop.jpg?v=f572e3fc07",
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-double-strength",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.64,
+      "plot": "Four stages of a lesbian relationship explored in an experimental film starring performance artists Terry Sendgraff and Barbara Hammer on suspended trapezes and ropes.",
+      "country": "USA"
+    },
+    {
+      "id": "batalha_sGDMSWf2ulvZMtfU",
+      "title": "Cassandro, the Exotico!",
+      "director": "Marie Losier",
+      "year": 2018,
+      "duration": 73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/8/0/6/4/448064-cassandro-the-exotico--0-500-0-750-crop.jpg?v=ae472707e3",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-cassandro-the-exotico",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.36,
+      "plot": "After 26 years of spinning dives and flying uppercuts on the ring, Cassandro, the star of the gender-bending cross-dressing Mexican wrestlers known as the Exoticos, is far from retiring. But with dozens of broken bones and metal pins in his body, he must now reinvent himself.",
+      "country": "France"
     },
     {
       "id": "trindade_8091",
@@ -3646,6 +5839,71 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
+      "id": "trindade_6150",
+      "title": "Caso 137",
+      "director": "Dominik Moll",
+      "year": 2025,
+      "duration": 116,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Dossier137_Cartaz-internacional-609b0-1228x1536.jpeg",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/caso-137",
+      "sessions": [
+        {
+          "date": "2026-04-03",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-07",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-08",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8064",
+      "title": "Orwell 2 + 2 = 5",
+      "director": "Raoul Peck",
+      "year": 2025,
+      "duration": 119,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTdkNTNhMGItYTQ3Mi00ZWIwLTlkNzYtYjgwYTM2ODM4ZThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/orwell-2-2-5",
+      "sessions": [
+        {
+          "date": "2026-04-03",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "21:15",
+          "cinema": "trindade"
+        }
+      ],
+      "plot": "An investigation into the life, work, and enduring influence of the writer George Orwell, connecting his ideas to the contemporary world.",
+      "country": "United States"
+    },
+    {
       "id": "trindade_5475",
       "title": "O Agente Secreto",
       "director": "Kleber Mendonça Filho",
@@ -3741,23 +5999,6 @@ window.CINEMA_DATA = {
       "rating": 4.33,
       "plot": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "country": "Sweden"
-    },
-    {
-      "id": "trindade_7218",
-      "title": "O Bolo do Presidente",
-      "director": "Hasan Hadi",
-      "year": 2025,
-      "duration": 103,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-bolo-do-presidente",
-      "sessions": [
-        {
-          "date": "2026-04-07",
-          "time": "15:00",
-          "cinema": "trindade"
-        }
-      ]
     },
     {
       "id": "trindade_967",

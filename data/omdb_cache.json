@@ -1822,7 +1822,13 @@
   "O Sétimo Selo|1957": {
     "lbxd": {
       "rating": 4.33,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/0/51620-the-seventh-seal-0-500-0-750-crop.jpg?v=fa1963f0b2"
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/0/51620-the-seventh-seal-0-500-0-750-crop.jpg?v=fa1963f0b2",
+      "description": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Sweden"
     },
     "omdb": {
       "Title": "The Seventh Seal",
@@ -3532,7 +3538,14 @@
   "O Estrangeiro|2025": {
     "lbxd": {
       "rating": 3.34,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab"
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "description": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "country": "France"
     },
     "omdb": null
   },
@@ -6877,6 +6890,3345 @@
       ],
       "country": "Italy"
     },
+    "omdb": null
+  },
+  "Sessão-Conferência Por Christa Blümlinger|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Sessão",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Short, Horror",
+      "Director": "Denise Sganzerla",
+      "Writer": "Denise Sganzerla",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExOGExZTAtZWVmYy00NTUwLWEzMjUtNzVlMjY0OTBmNmMxXkEyXkFqcGdeQXVyMTAxMzYwNTc3._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt10222384",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Gebo E A Sombra|2012": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Chelsea-Manhattan, NYC|1990": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/7/4/2/3/497423-chelsea-0-500-0-750-crop.jpg?v=1953d39b00",
+      "description": "When Chelsea's best friend Laura gets engaged and moves out of their apartment, she's left with more than an empty room. In her increasingly frustrating search to find a new roommate, Chelsea realizes that her life may not be shaping up the way she'd pictured it.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": null
+    },
+    "omdb": null
+  },
+  "Party Girl|1995": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/0/6/28106-party-girl-0-500-0-750-crop.jpg?v=ddceb6cdad",
+      "description": "Although Mary has little income, she still finds ways to spend her nights at clubs. After being arrested for throwing an illegal rave, she asks her aunt Judy for bail money. Judy then finds Mary a job at her library so that Mary can repay her. Initially, Mary finds the job as a clerk boring and stifling, and prefers to get to know a street food vendor whom she likes. However, Mary must refocus her life once she loses her job and apartment.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Party Girl",
+      "Year": "1995",
+      "Rated": "R",
+      "Released": "09 Jun 1995",
+      "Runtime": "94 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Daisy von Scherler Mayer",
+      "Writer": "Harry Birckmayer, Daisy von Scherler Mayer, Sheila Gaffney",
+      "Actors": "Parker Posey, Omar Townsend, The Lady Bunny",
+      "Plot": "A 20-something, irresponsible party girl is bailed out of jail by her librarian godmother. To repay the loan, she starts working at the library and gradually turns her life around.",
+      "Language": "English, Arabic",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI4NTdmZjUtNGJlMS00ZTRlLTk5ZTQtNjg3ODk3MmNkNzI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ],
+      "Metascore": "55",
+      "imdbRating": "6.5",
+      "imdbVotes": "7,321",
+      "imdbID": "tt0114095",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$472,370",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Visita Guiada|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Visita Guiada",
+      "Year": "2014–",
+      "Rated": "N/A",
+      "Released": "03 Mar 2014",
+      "Runtime": "25 min",
+      "Genre": "History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Carlos Fiolhais, Anísio Franco, Joana Ramôa Melo",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.7",
+      "imdbVotes": "28",
+      "imdbID": "tt3859560",
+      "Type": "series",
+      "totalSeasons": "7",
+      "Response": "True"
+    }
+  },
+  "The Parent Trap|1998": {
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kx/iu/iq/nv/jzE9AhiNH0r40f3APmeLDvZBfmz-0-500-0-750-crop.jpg?v=2a873afb6f",
+      "description": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+      "genres": [
+        "Family",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "The Parent Trap",
+      "Year": "1998",
+      "Rated": "PG",
+      "Released": "29 Jul 1998",
+      "Runtime": "128 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Nancy Meyers",
+      "Writer": "Erich Kästner, David Swift, Nancy Meyers",
+      "Actors": "Lindsay Lohan, Dennis Quaid, Natasha Richardson",
+      "Plot": "Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together.",
+      "Language": "English, French",
+      "Country": "United States, United Kingdom",
+      "Awards": "2 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRkYmY3Y2QtMGM2Ny00MTNmLTk4NjYtNjMwNTNmMGY5ZDllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "6.7",
+      "imdbVotes": "165,056",
+      "imdbID": "tt0120783",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$66,308,518",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Mastermind|2025": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/2/0/9/7/1242097-the-mastermind-2025-0-500-0-750-crop.jpg?v=7294314d40",
+      "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "UK"
+    },
+    "omdb": {
+      "Title": "The Mastermind",
+      "Year": "2025",
+      "Rated": "R",
+      "Released": "17 Oct 2025",
+      "Runtime": "110 min",
+      "Genre": "Crime",
+      "Director": "Kelly Reichardt",
+      "Writer": "Kelly Reichardt",
+      "Actors": "Josh O'Connor, Sterling Thompson, Alana Haim",
+      "Plot": "In 1970, failed architect James Blaine Mooney and cohorts wander into a museum in broad daylight and steal four paintings. When holding onto the art proves more difficult than stealing them, Mooney is relegated to a life on the run.",
+      "Language": "English, French",
+      "Country": "United States, United Kingdom",
+      "Awards": "7 wins & 21 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmEzYzMwZDUtMjdiYi00YmRlLWJiNjYtYzY2N2E3ZWZjOTcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "6.3",
+      "imdbVotes": "11,079",
+      "imdbID": "tt33455099",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,104,490",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Lady of Chandor|1999": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "La Grazia|2025": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
+      "description": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy"
+    },
+    "omdb": null
+  },
+  "Great Artists on Campus: Vhils|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Masks|1976": {
+    "lbxd": {
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/8/3/3/97833-masks-0-500-0-750-crop.jpg?v=785ee09518",
+      "description": "In the 70s Matteusz Gdula invented an acting method that was supposed to make every actor “shine”. Still, lots of his students die mysteriously and Gdula commits suicide. His method gets banned. Now: Stella, an ambitious, but rather untalented drama student, gets accepted at the „Matteusz Gdula“-school. When she bears witness to some strange occurrences, she gets drawn into the bizarre and deadly web that surrounds the dark secret of the school...",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "country": "Germany"
+    },
+    "omdb": null
+  },
+  "One Is Few, Two Would Fill|1970": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/4/9/2/0/394920-one-is-few-two-would-fill-0-500-0-750-crop.jpg?v=9ef5c09d45",
+      "description": "Um é Pouco, Dois é Bom is a Brazilian film, with an urban theme, produced and filmed in Porto Alegre, Rio Grande do Sul, in 1970. The film is divided into two parts (Com um Pouquinho de Sorte and Vida Nova Por Acaso) that have different character cores and independent narrative structures.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "Brazil"
+    },
+    "omdb": null
+  },
+  "Boogie Nights|1997": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/0/7/49007-boogie-nights-0-500-0-750-crop.jpg?v=57bef85dc6",
+      "description": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Boogie Nights",
+      "Year": "1997",
+      "Rated": "R",
+      "Released": "31 Oct 1997",
+      "Runtime": "155 min",
+      "Genre": "Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Mark Wahlberg, Julianne Moore, Burt Reynolds",
+      "Plot": "An idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 36 wins & 64 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.9",
+      "imdbVotes": "294,236",
+      "imdbID": "tt0118749",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$26,416,349",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Man in the White Suit|1951": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/3/4/2/30342-the-man-in-the-white-suit-0-500-0-750-crop.jpg?v=60b0e3268d",
+      "description": "The unassuming, nebbishy inventor Sidney Stratton creates a miraculous fabric that will never be dirty or worn out. Clearly he can make a fortune selling clothes made of the material, but may cause a crisis in the process. After all, once someone buys one of his suits they won't ever have to fix them or buy another one, and the clothing industry will collapse overnight. Nevertheless, Sidney is determined to put his invention on the market, forcing the clothing factory bigwigs to resort to more desperate measures...",
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "country": "UK"
+    },
+    "omdb": {
+      "Title": "The Man in the White Suit",
+      "Year": "1951",
+      "Rated": "Approved",
+      "Released": "N/A",
+      "Runtime": "85 min",
+      "Genre": "Comedy, Drama, Sci-Fi",
+      "Director": "Alexander Mackendrick",
+      "Writer": "Roger MacDougall, John Dighton, Alexander Mackendrick",
+      "Actors": "Alec Guinness, Joan Greenwood, Cecil Parker",
+      "Plot": "An altruistic chemist invents a fabric which resists wear and stain as a boon to humanity, but big business and labor realize it must be suppressed for economic reasons.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "10,997",
+      "imdbID": "tt0044876",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,718",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Seven Beauties|1975": {
+    "lbxd": {
+      "rating": 3.99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/0/26940-seven-beauties-0-500-0-750-crop.jpg?v=8fa49e99ad",
+      "description": "Pasqualino Frafuso, known in Naples as \"Pasqualino Seven Beauties\" is a petty thief who lives off of the profits of his seven sisters while claiming to protect their honor at any cost, Pasqualino is arrested for murder and later sent to fight in the army after committing sexual assault. The Germans capture him and he gets sent to a concentration camp where he plots to make his escape by seducing a German officer.",
+      "genres": [
+        "War",
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Italy"
+    },
+    "omdb": {
+      "Title": "Seven Beauties",
+      "Year": "1975",
+      "Rated": "R",
+      "Released": "21 Jan 1976",
+      "Runtime": "116 min",
+      "Genre": "Comedy, Drama, War",
+      "Director": "Lina Wertmüller",
+      "Writer": "Lina Wertmüller",
+      "Actors": "Giancarlo Giannini, Fernando Rey, Shirley Stoler",
+      "Plot": "The defense of honor, a strong value in Neapolitan society, and its effects on the life of everyman Pasquale Frafuso.",
+      "Language": "Italian, German, Neapolitan, Spanish, English",
+      "Country": "Italy",
+      "Awards": "Nominated for 4 Oscars. 2 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZmMTIxMjQtZDc1Ny00YzZhLThhZTgtNTY3MWNiNjY4MjRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "6,996",
+      "imdbID": "tt0075040",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$12,408",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Borbaad|2025": {
+    "lbxd": {
+      "rating": 2.8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/0/9/3/3/1260933-borbaad-2025-0-500-0-750-crop.jpg?v=2595446237",
+      "description": "After a heartbreak by Nitu, Ariyan Mirza seeks revenge, guided by his father Adib Mirza's wisdom. Their story transforms from romance to violence, culminating in courtroom confrontations over justice.",
+      "genres": [
+        "Romance",
+        "Action"
+      ],
+      "country": "Bangladesh"
+    },
+    "omdb": null
+  },
+  "Cloud|2024": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/7/0/0/5/1127005-cloud-2024-0-500-0-750-crop.jpg?v=b5609fae8c",
+      "description": "Ryōsuke Yoshii, an ordinary reseller, carelessly earns grudges by people and becomes entangled in a life-threatening struggle.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama",
+        "Horror",
+        "Crime"
+      ],
+      "country": "Japan"
+    },
+    "omdb": {
+      "Title": "Cloud",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "27 Sep 2024",
+      "Runtime": "124 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Kiyoshi Kurosawa",
+      "Writer": "Kiyoshi Kurosawa",
+      "Actors": "Masaki Suda, Kotone Furukawa, Daiken Okudaira",
+      "Plot": "Yoshii, a young man who resells goods online, finds himself at the center of a series of mysterious events that put his life at risk.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "2 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTE5ZjM5MWQtMjU0MS00YzEzLTg5YTQtYmVjZWQ1Mzc0NTc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "6.5",
+      "imdbVotes": "4,019",
+      "imdbID": "tt32828123",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$355,477",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Hard Eight|1996": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/3/47913-hard-eight-0-500-0-750-crop.jpg?v=d5198f6351",
+      "description": "A stranger mentors a young Reno gambler who weds a hooker and befriends a vulgar casino regular.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Hard Eight",
+      "Year": "1996",
+      "Rated": "R",
+      "Released": "28 Feb 1997",
+      "Runtime": "101 min",
+      "Genre": "Crime, Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Philip Baker Hall, John C. Reilly, Gwyneth Paltrow",
+      "Plot": "A stranger mentors a young, troubled Reno gambler.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQyNjBiZWMtYzFjMS00ZDEzLWEyNTYtZGFiZDE4Mjk4M2E2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.1",
+      "imdbVotes": "59,455",
+      "imdbID": "tt0119256",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$222,559",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Daisy Doodad's Dial|1914": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/5/4/5/127545-daisy-doodad-s-dial-0-500-0-750-crop.jpg?v=827a07820e",
+      "description": "Daisy and her husband both go in for a face-pulling contest, but when the big day comes she is unable to attend the competition, and her husband wins instead. When the next opportunity comes around, she is determined to win -- but gets a little over-enthusiastic on the way to the contest and finds herself in trouble! She is most ungrateful for her rescue; fate, however, catches up with her that night…",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "UK"
+    },
+    "omdb": null
+  },
+  "Madame’s Cravings|1906": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/8/6/7/94867-madame-s-cravings-0-500-0-750-crop.jpg?v=eee65c74d5",
+      "description": "A pregnant woman steals things from others on account of her cravings.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Mabel at the Wheel|1914": {
+    "lbxd": {
+      "rating": 3.05,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/7/8/12578-mabel-at-the-wheel-0-500-0-750-crop.jpg?v=b4ddf3fc77",
+      "description": "A villain, competing with his rival's race car, kidnaps the rival before the race. Mabel decides to take the wheel in his place.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Mabel at the Wheel",
+      "Year": "1914",
+      "Rated": "Not Rated",
+      "Released": "18 Apr 1914",
+      "Runtime": "23 min",
+      "Genre": "Short, Comedy",
+      "Director": "Mabel Normand, Mack Sennett",
+      "Writer": "Charles Chaplin",
+      "Actors": "Charles Chaplin, Mabel Normand, Harry McCoy",
+      "Plot": "Charlie, competing with his rival's race car, offers Mabel a ride on his motorcycle but drops her in a puddle. He next joins some dubious characters in abduction of his rival just before the race for the Vanderbilt Cup. With her b...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE1N2UwNjMtYjMwNC00M2NiLWE0ZmItZDFkMWFlYTgwZDc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "1,085",
+      "imdbID": "tt0004277",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Léontine’s Battery|1910": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/4/9/4/9/684949-leontine-s-battery-0-500-0-750-crop.jpg?v=9542cbf82c",
+      "description": "Léontine lights up our lives with an electric battery, electrocuting everyone in her path. Her victims include two old ladies (played by men in drag), dancers at a café, workers on a construction site, a group of lackluster conscripts, and the local police force. To add insult to injury, she douses everyone with buckets of water.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "The Consequences of Feminism|1906": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/8/6/6/94866-the-consequences-of-feminism-0-500-0-750-crop.jpg?v=4a4ac44a34",
+      "description": "It's a society in which gender roles are switched. Will men stand to be unequal?",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Magnolia|1999": {
+    "lbxd": {
+      "rating": 4.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-500-0-750-crop.jpg?v=178b5e5c17",
+      "description": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Magnolia",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "07 Jan 2000",
+      "Runtime": "188 min",
+      "Genre": "Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Tom Cruise, Jason Robards, Julianne Moore",
+      "Plot": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+      "Language": "English, German, French",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 28 wins & 59 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "8.0",
+      "imdbVotes": "341,915",
+      "imdbID": "tt0175880",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$22,455,976",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "God-and-a-Half|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Muscled Joy|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Light Was A Break|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/7/5/5/0/917550-light-was-a-break-0-500-0-750-crop.jpg?v=52b88f5233",
+      "description": "One sleepless night, Emília recalls a childhood trauma. Amidst the burning memories, she visits her parents, her sister, Manuel and all the places of her solitude.",
+      "genres": null,
+      "country": "Portugal"
+    },
+    "omdb": null
+  },
+  "Ofélia|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/1/0/6/1389106-ofelia-2025-0-500-0-750-crop.jpg?v=9273b87691",
+      "description": "Amid dynamics of power, desire, and seduction, Ofélia follows two teenagers who discover their mutual attraction on the threshold between adolescence and adulthood, while simultaneously seeking to define their identity and place within an everchanging society.",
+      "genres": null,
+      "country": "Portugal"
+    },
+    "omdb": {
+      "Title": "Ofélia",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "18 Jul 2025",
+      "Runtime": "20 min",
+      "Genre": "Short, Drama",
+      "Director": "Carlos Lobo",
+      "Writer": "Luís Costa, Carlos Lobo",
+      "Actors": "Miguel Moreira, Raul Macedo, Ofélia Oliveira",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdiOGExMWEtNGMwOS00NWU5LWI1MWYtYjM1OTY3OTkwNjZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32982616",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Porto Femme|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Batalha Quiz|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Scenes from the Class Struggle in Portugal|1977": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/4/8/134648-scenes-from-the-class-struggle-in-portugal-0-500-0-750-crop.jpg?v=6180bf410e",
+      "description": "Combining newsreel footage, still photographs, interviews, and analytical narration, this documentary focuses on the antifascist, anti-imperialist efforts of labor groups, peasants, and working-class soldiers to liberate Portugal from the control of the government of Antonio de Oliveira Salazar.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": {
+      "Title": "Scenes from the Class Struggle in Portugal",
+      "Year": "1977",
+      "Rated": "N/A",
+      "Released": "12 Oct 1977",
+      "Runtime": "85 min",
+      "Genre": "Documentary",
+      "Director": "Robert Kramer, Philip J. Spinelli",
+      "Writer": "N/A",
+      "Actors": "Philip J. Spinelli",
+      "Plot": "Combining newsreel footage, still photographs, interviews, and analytical narration, this documentary focuses on the antifascist, anti-imperialist efforts of labor groups, peasants, and working-class soldiers to liberate Portugal ...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2MmJjMTQtYTZiNC00MWQ0LWFhMTctZTFhNDRjYTM5NDg5XkEyXkFqcGdeQXVyMzMyMjAzNg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "54",
+      "imdbID": "tt0369901",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Rotor Latente, Francisco Pedro Oliveira|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Punch-Drunk Love|2002": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/3/1/5/76315-punch-0-500-0-750-crop.jpg?v=6309b7e6c6",
+      "description": "A deadbeat teacher helps an angry, aimless teenager find direction in life during his final year of high school.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "South Korea"
+    },
+    "omdb": null
+  },
+  "Popeye|1980": {
+    "lbxd": {
+      "rating": 2.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/3/9/9/45399-popeye-0-500-0-750-crop.jpg?v=bd28e97000",
+      "description": "Popeye is a super-strong, spinach-scarfing sailor man who's searching for his father. During a storm that wrecks his ship, Popeye washes ashore and winds up rooming at the Oyl household, where he meets Olive. Before he can win her heart, he must first contend with Olive's fiancé, Bluto.",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Popeye",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "12 Dec 1980",
+      "Runtime": "114 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Robert Altman",
+      "Writer": "Jules Feiffer, E.C. Segar",
+      "Actors": "Robin Williams, Shelley Duvall, Ray Walston",
+      "Plot": "The adventures of the famous sailor man and his friends in the seaside town of Sweethaven.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVlMWUxMmEtOGFlZS00MDJmLWE1NWQtZWI5MGMxZmU2NDIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "5.4",
+      "imdbVotes": "36,737",
+      "imdbID": "tt0081353",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$49,823,037",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "There Will Be Blood|2007": {
+    "lbxd": {
+      "rating": 4.46,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-500-0-750-crop.jpg?v=8a533d5350",
+      "description": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "There Will Be Blood",
+      "Year": "2007",
+      "Rated": "R",
+      "Released": "25 Jan 2008",
+      "Runtime": "158 min",
+      "Genre": "Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson, Upton Sinclair",
+      "Actors": "Daniel Day-Lewis, Paul Dano, Ciarán Hinds",
+      "Plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+      "Language": "English, American Sign ",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 114 wins & 138 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "Metascore": "93",
+      "imdbRating": "8.2",
+      "imdbVotes": "700,517",
+      "imdbID": "tt0469494",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$40,222,514",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Yi Yi|2000": {
+    "lbxd": {
+      "rating": 4.53,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7s/h0/6e/0f/hhsYCYVPy1V0eTjkGNGdvpDO2qk-0-500-0-750-crop.jpg?v=f8d5b0fe80",
+      "description": "A Taipei family faces personal and moral uncertainty as everyday events test their relationships and sense of purpose.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Taiwan"
+    },
+    "omdb": {
+      "Title": "Yi Yi",
+      "Year": "2000",
+      "Rated": "Not Rated",
+      "Released": "16 Dec 2000",
+      "Runtime": "173 min",
+      "Genre": "Drama",
+      "Director": "Edward Yang",
+      "Writer": "Edward Yang",
+      "Actors": "Nien-Jen Wu, Elaine Jin, Issei Ogata",
+      "Plot": "Portrait of a middle-class family in Taipei. A man in his forties, his teenage daughter and his eight-year-old son experience life, navigating between remorse, hope and disappointment.",
+      "Language": "Mandarin, Min Nan, Hokkien, English, Japanese, French",
+      "Country": "Taiwan, Japan",
+      "Awards": "14 wins & 23 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTAyMDQ5Y2MtZDk0NC00N2IyLWE5OTgtZjJkZWNlMDBhMDhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.1",
+      "imdbVotes": "33,452",
+      "imdbID": "tt0244316",
+      "Type": "movie",
+      "DVD": "12 Jun 2007",
+      "BoxOffice": "$1,252,241",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Goshogaoka, Sharon Lockart|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Phantoms of Nabua|2009": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/9/15079-phantoms-of-nabua-0-500-0-750-crop.jpg?v=5133dc6835",
+      "description": "The story based on the mysterious portrait of the town of Nabua in northeastern Thailand. Soon after nightfall when the crepuscular violets concede to blackness, the wind's rustling intensifies and the boys come out to play.",
+      "genres": [
+        "Mystery"
+      ],
+      "country": "Thailand"
+    },
+    "omdb": {
+      "Title": "Phantoms of Nabua",
+      "Year": "2009",
+      "Rated": "N/A",
+      "Released": "10 Sep 2009",
+      "Runtime": "11 min",
+      "Genre": "Short",
+      "Director": "Apichatpong Weerasethakul",
+      "Writer": "Apichatpong Weerasethakul",
+      "Actors": "Phetmongkol Chantawong, Kumgieng Jittamaat, Miti Jittamaat",
+      "Plot": "A fluorescent tube illuminates an empty playground in the evening. Nearby a flash of light is projected on a makeshift screen. This outdoor movie is a portrait of a village repeatedly struck by lightning. As night falls, the silho...",
+      "Language": "None",
+      "Country": "Thailand, Germany, United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGVkODlkNzgtMGQ3YS00ZjQ5LTk5Y2EtMTU3MzEzYWI0MGVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "285",
+      "imdbID": "tt1585269",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Offside|2006": {
+    "lbxd": {
+      "rating": 3.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/5/2/12952-offside-0-500-0-750-crop.jpg?v=12688c34b5",
+      "description": "In the small Swedish town of Stensfors, the local football team faces dissolution unless it can win its remaining matches. Team member Kent recruits former 1980s Premier League star Duncan Miller to help, only to discover their hero is out of shape, alcoholic, and far from match-ready.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Sweden"
+    },
+    "omdb": {
+      "Title": "Offside",
+      "Year": "2006",
+      "Rated": "PG",
+      "Released": "26 May 2006",
+      "Runtime": "93 min",
+      "Genre": "Comedy, Drama, Sport",
+      "Director": "Jafar Panahi",
+      "Writer": "Jafar Panahi, Shadmehr Rastin",
+      "Actors": "Sima Mobarak-Shahi, Shayesteh Irani, Ayda Sadeqi",
+      "Plot": "The struggle of women in a country that excludes them from entering stadiums.",
+      "Language": "Persian",
+      "Country": "Iran",
+      "Awards": "5 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDg1ODY0MF5BMl5BanBnXkFtZTcwNzUwMDY0MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.3",
+      "imdbVotes": "9,088",
+      "imdbID": "tt0499537",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$180,530",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Master|2012": {
+    "lbxd": {
+      "rating": 3.98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/5/1/2/52512-the-master-2012-0-500-0-750-crop.jpg?v=7cac18ee61",
+      "description": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "The Master",
+      "Year": "2012",
+      "Rated": "R",
+      "Released": "21 Sep 2012",
+      "Runtime": "138 min",
+      "Genre": "Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams",
+      "Plot": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by a cult and its charismatic leader.",
+      "Language": "English, Filipino",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 75 wins & 187 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.1",
+      "imdbVotes": "197,015",
+      "imdbID": "tt1560747",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$16,377,274",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "90 Minutes Power Nap|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Best Mother in the World|2025": {
+    "lbxd": {
+      "rating": 3.67,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/3/1/3/0/1093130-the-best-mother-in-the-world-0-500-0-750-crop.jpg?v=c99703eb6a",
+      "description": "To escape her abusive husband, garbage collector Gal packs her two young children, Rihanna and Benin, onto the top of her cart and heads across São Paulo to her cousin’s house. As she struggles to avoid the dangers of the streets along the way, she convinces the children that they are on a big and exciting adventure. When they arrive at her cousin’s house, they are warmly welcomed and fed. However, what initially seems like a safe haven soon turns out to be a trap. Gal realises that not only her own safety is at risk, but also the future of her children.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil"
+    },
+    "omdb": null
+  },
+  "Red Wood Pigeon|1989": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
+      "description": "Michele is a Communist MP who loses his memory in a car crash—although nobody seems to notice. Over the course of a water polo match ahead of election day, he begins to remember his past life, revealing the picture of a man whose personal and political identity crisis mirrors the one of Italian communism.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Red Wood Pigeon",
+      "Year": "1989",
+      "Rated": "N/A",
+      "Released": "15 Sep 1989",
+      "Runtime": "89 min",
+      "Genre": "Comedy, Sport",
+      "Director": "Nanni Moretti",
+      "Writer": "Nanni Moretti",
+      "Actors": "Nanni Moretti, Silvio Orlando, Mariella Valentini",
+      "Plot": "Because of an accident, Michele (a leader of P.C.I. and a water-polo player) loses his memory. During one water-polo match, strange guys torment him; they want him to remember his past. As the match is about to finish, he misses t...",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "6 wins & 15 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTliZDI0MWQtMGEwYi00MWM0LWFiNWUtMDMxMDQyZTIyZDc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "3,282",
+      "imdbID": "tt0098055",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Quem Foste, Alvarez?|1988": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/3/6/4/463364-quem-foste-alvarez--0-500-0-750-crop.jpg?v=f2bb8528b5",
+      "description": "Documentary about the life and work of the painter Dominguez Alvarez, interspersed with fictionalized staging of some moments of the life of the artist.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": {
+      "Title": "Quem Foste, Alvarez?",
+      "Year": "1988",
+      "Rated": "N/A",
+      "Released": "27 Nov 1988",
+      "Runtime": "60 min",
+      "Genre": "Documentary",
+      "Director": "Noémia Delgado",
+      "Writer": "N/A",
+      "Actors": "Tito Almeida, Guilherme Camarinha, Meneres de Campos",
+      "Plot": "Documentary about the life and work of the painter Dominguez Alvarez, interspersed with fictionalized staging of some moments of the life of the artist.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt4210104",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Inherent Vice|2014": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-500-0-750-crop.jpg?v=342795552c",
+      "description": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Inherent Vice",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "09 Jan 2015",
+      "Runtime": "148 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson, Thomas Pynchon",
+      "Actors": "Joaquin Phoenix, Josh Brolin, Owen Wilson",
+      "Plot": "In 1970, drug-fueled Los Angeles private investigator Larry \"Doc\" Sportello investigates the disappearance of a former girlfriend.",
+      "Language": "English, Japanese",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 15 wins & 99 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU3YjYzZWEtZDEzYy00YjA4LWI0YTUtY2RiMzVlYzZkZjg3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "6.6",
+      "imdbVotes": "118,114",
+      "imdbID": "tt1791528",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,110,975",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Amor e Dedinhos de Pé|1991": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/7/3/0/437730-amor-e-dedinhos-de-pe-0-500-0-750-crop.jpg?v=259d8da72c",
+      "description": "Macau 1897. Life is easy for Portuguese settlers. Young reveler Francisco Frontaria is deemed as irresponsible for all his partying and boozing. Shunned and exiled for crossing a line by insulting the daughter of a prominent family, he finds himself penniless and vagrant.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Amor e Dedinhos de Pé",
+      "Year": "1992",
+      "Rated": "N/A",
+      "Released": "21 Oct 1992",
+      "Runtime": "125 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luís Filipe Rocha",
+      "Writer": "Izaías Almada, Luís Filipe Rocha, Henrique de Senna Fernandes",
+      "Actors": "Joaquim de Almeida, Ana Torrent, Jean-Pierre Cassel",
+      "Plot": "Macau 1897. Life is easy for Portuguese settlers. Young reveler Francisco Frontaria is deemed as irresponsible for all his partying and boozing. Shunned and exiled for crossing a line by insulting the daughter of a prominent famil...",
+      "Language": "Portuguese",
+      "Country": "Portugal, Spain, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIzNDdiN2UtMTM2Yi00ODJjLWFlOWYtYThiMmIxNjM4NGFmXkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "85",
+      "imdbID": "tt0101335",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Vive le Tour|1962": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/3/1/2231-vive-le-tour--0-500-0-750-crop.jpg?v=4267d8de12",
+      "description": "A short documentary about the 1962 Tour-de-France. Topics covered include: crowds of people and motorcycles, drinking raids and feeding, pileups, doping, \"the charge,\" and the mountain stages.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Vive le tour",
+      "Year": "1962",
+      "Rated": "N/A",
+      "Released": "01 Oct 1962",
+      "Runtime": "18 min",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "Louis Malle",
+      "Writer": "Louis Malle",
+      "Actors": "Jean Bobet, Jacques Anquetil, Raymond Poulidor",
+      "Plot": "Chronicles the cyclists of the Tour de France and their daily trails along the race.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODc2OGFlMTctMGYzMy00NDljLWEzODEtMzRhOWU2NzdjYWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "999",
+      "imdbID": "tt0056662",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Great Ecstasy of Woodcarver Steiner|1962": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/7/6/7/18767-the-great-ecstasy-of-woodcarver-steiner-0-500-0-750-crop.jpg?v=33108e7ed1",
+      "description": "A study of the psychology of a champion ski-flyer, whose full-time occupation is carpentry.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Germany"
+    },
+    "omdb": null
+  },
+  "Great Artists on Campus: Masterclass com Meg Stuart|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Meg Stuart: Sessão de Cinema|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Sulphur Edges, Meg Stuart|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Short Films from the 2026 Filmmaking Workshop + The Golden Ball|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Golden Ball|1994": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/3/5/9/119359-the-golden-ball-0-500-0-750-crop.jpg?v=ded037ed7b",
+      "description": "The Golden Ball is a wonderful children's film that tells of a young boy's dream of being a soccer player. Whenever a match is broadcast live in the village of Makono, Bandian and his brother keep their ears to the transistor radio, spinning a picture of the game from the announcer's commentary much as they fantasize themselves on the field. A gift of a real soccer ball, which Bandian paints gold, like a magical object involves him in a series of adventures which bring him in reach of his dream, but which also require him to make difficult choices.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "The Golden Ball",
+      "Year": "1994",
+      "Rated": "N/A",
+      "Released": "13 Apr 1994",
+      "Runtime": "93 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Cheik Doukouré",
+      "Writer": "Martin Brossollet, David Carayan, Cheik Doukouré",
+      "Actors": "Aboubacar Sidiki Sumah, Agnès Soral, Habib Hammoud",
+      "Plot": "The story of Salif Keïta, first \"Ballon d'or d'Afrique\" (African Golden Ball).",
+      "Language": "N/A",
+      "Country": "France, Guinea",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDc3MjAzOV5BMl5BanBnXkFtZTcwNzM4MTkxMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "431",
+      "imdbID": "tt0109201",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mistida|2022": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/9/9/2/4/869924-mistida-0-500-0-750-crop.jpg?v=42efcaa557",
+      "description": "An immigrant mother, hurting from a backache, calls for her son to help carry her groceries home. Along their way, they talk about the future through the past, returning to all of their disagreements, disillusionments, rancor and resentments.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": {
+      "Title": "Mistida",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "24 May 2022",
+      "Runtime": "30 min",
+      "Genre": "Short, Drama, Family",
+      "Director": "Falcão Nhaga",
+      "Writer": "Pedro Cabral, Falcão Nhaga",
+      "Actors": "Welket Bungué, Bia Gomes",
+      "Plot": "An immigrant mother, hurting from a backache, calls for her son to help carry her groceries home. Along their way, they talk about the future through the past, returning to all of their disagreements, disillusionments and resentme...",
+      "Language": "Portuguese",
+      "Country": "N/A",
+      "Awards": "3 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTJmYTgyZTEtM2NjMi00YTNlLWFmYjAtMmM1NTU0NWZmMTNkXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "12",
+      "imdbID": "tt19844842",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Sabura|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/7/7/6/3/1337763-sabura-0-500-0-750-crop.jpg?v=773800f801",
+      "description": "In this love story, a young couple faces an uncertain future between Africa and Europe. When they reunite in Lisbon, sharing a house with other immigrants, farness and closeness will test their relationship.",
+      "genres": null,
+      "country": "Portugal"
+    },
+    "omdb": null
+  },
+  "Gauguin|1948": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/7/6/9/132769-gauguin-0-500-0-750-crop.jpg?v=5181ad6de5",
+      "description": "A short documentary on Paul Gauguin, a French painter and sculptor.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Gauguin",
+      "Year": "1949",
+      "Rated": "N/A",
+      "Released": "26 Nov 2005",
+      "Runtime": "14 min",
+      "Genre": "Documentary, Short",
+      "Director": "Alain Resnais",
+      "Writer": "Gaston Diehl, Paul Gauguin",
+      "Actors": "Jean Servais",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1ZTQ1NDQtOGI1NS00MDI1LTlmOTAtNmM2YTA4MDk5MGYyXkEyXkFqcGdeQXVyODU5MTg5NTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "200",
+      "imdbID": "tt0042498",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Van Gogh|1948": {
+    "lbxd": {
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/7/7/120577-van-gogh-0-500-0-750-crop.jpg?v=2e074e5d81",
+      "description": "The biography of Dutch artist Van Gogh, illustrated only with images of his paintings and drawings, or details of those, and according dramatic musical score.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Van Gogh",
+      "Year": "1948",
+      "Rated": "N/A",
+      "Released": "23 May 2022",
+      "Runtime": "20 min",
+      "Genre": "Documentary, Short",
+      "Director": "Alain Resnais",
+      "Writer": "Gaston Diehl, Robert Hessens, Vincent van Gogh",
+      "Actors": "Claude Dauphin",
+      "Plot": "The biography of Dutch artist Van Gogh, illustrated only with images of his paintings and drawings, or details of those, and according dramatic musical score.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "Won 1 Oscar. 2 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWNhMDE0YzgtMjUxNS00ZTRhLWJjNDctOTRmMWVmZWFhNjJjXkEyXkFqcGdeQXVyMzc2Nzc4ODE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "496",
+      "imdbID": "tt0040930",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "All the Memory in the World|1956": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "All the Memory in the World",
+      "Year": "1956",
+      "Rated": "N/A",
+      "Released": "23 May 2022",
+      "Runtime": "21 min",
+      "Genre": "Documentary, Short",
+      "Director": "Alain Resnais",
+      "Writer": "Rémo Forlani, Chris Marker",
+      "Actors": "Jacques Dumesnil",
+      "Plot": "This documentary explores the Bibliothèque Nationale in Paris, its priceless treasures, and how humanity remembers itself.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk0YjI3Y2QtMGY0OC00ZTg0LWI4YmUtODVlYTA5MTk0ZmMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "1,620",
+      "imdbID": "tt0049869",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Belarmino|1964": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/5/4/2/115542-belarmino-0-500-0-750-crop.jpg?v=93c971a5b5",
+      "description": "A portrait of Belarmino Fragoso, a veteran boxer in Lisbon nearing the end of his career. In a blend of reportage and re-enactment, the many vices of the once national featherweight champion are revealed against a background of the grim economics of boxing in 1960s Portugal.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": {
+      "Title": "Belarmino",
+      "Year": "1964",
+      "Rated": "N/A",
+      "Released": "18 Nov 1964",
+      "Runtime": "80 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Fernando Lopes",
+      "Writer": "Fernando Lopes",
+      "Actors": "Belarmino Fragoso, Jean Pierre Gebler, Maria Teresa de Noronha",
+      "Plot": "Interview with a has-been boxing champion «who could have been great», probing, and soul revealing.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4ZmM4NGQtNGQ4YS00ODdkLWE1MDUtYjJjZWJmOTU5OGRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "491",
+      "imdbID": "tt0057880",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "fRame,d, Adrienne Herr|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Gentlemen Prefer Blondes|1953": {
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-500-0-750-crop.jpg?v=aa60ad810b",
+      "description": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Gentlemen Prefer Blondes",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "01 Aug 1953",
+      "Runtime": "91 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Howard Hawks",
+      "Writer": "Charles Lederer, Joseph Fields, Anita Loos",
+      "Actors": "Jane Russell, Marilyn Monroe, Charles Coburn",
+      "Plot": "Showgirls Lorelei Lee and Dorothy Shaw travel to Paris, pursued by a private detective hired by the suspicious father of Lorelei's fiancé, as well as a rich, enamored old man and many other doting admirers.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjQ4MDJhZGMtNDliZS00ZTYwLWJmN2ItZWY3NDc2NTFjN2VmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "46,346",
+      "imdbID": "tt0045810",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Harvest|2025": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/1/6/3/2/841632-harvest-2024-0-500-0-750-crop.jpg?v=fe3ff92f72",
+      "description": "Over seven hallucinatory days, a village with no name, in an undefined time and place, disappears.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Cyprus"
+    },
+    "omdb": {
+      "Title": "Harvest",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "16 Apr 2025",
+      "Runtime": "133 min",
+      "Genre": "Drama, History",
+      "Director": "Athina Rachel Tsangari",
+      "Writer": "Joslyn Barnes, Jim Crace, Athina Rachel Tsangari",
+      "Actors": "Caleb Landry Jones, Harry Melling, Rosy McEwen",
+      "Plot": "Over seven hallucinatory days, a village with no name, in an undefined time and place, disappears.",
+      "Language": "English",
+      "Country": "United Kingdom, Germany, United States, France, Greece",
+      "Awards": "4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWM4NDY4MTUtNGVmMS00MGJkLWFkN2YtZmQwNzNmYmFjYzJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "6.0",
+      "imdbVotes": "1,366",
+      "imdbID": "tt13610344",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "All About Eve|1950": {
+    "lbxd": {
+      "rating": 4.36,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ut/mc/rg/wz/all-about-eve-0-500-0-750-crop.jpg?v=34c6aadc2e",
+      "description": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "All About Eve",
+      "Year": "1950",
+      "Rated": "Approved",
+      "Released": "27 Oct 1950",
+      "Runtime": "138 min",
+      "Genre": "Drama",
+      "Director": "Joseph L. Mankiewicz",
+      "Writer": "Joseph L. Mankiewicz, Mary Orr",
+      "Actors": "Bette Davis, Anne Baxter, George Sanders",
+      "Plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Won 6 Oscars. 27 wins & 22 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "147,735",
+      "imdbID": "tt0042192",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$63,463",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Phantom Thread|2017": {
+    "lbxd": {
+      "rating": 4.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/3/8/4/335384-phantom-thread-0-500-0-750-crop.jpg?v=6b47f80ec7",
+      "description": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Phantom Thread",
+      "Year": "2017",
+      "Rated": "R",
+      "Released": "19 Jan 2018",
+      "Runtime": "130 min",
+      "Genre": "Drama, Romance",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Vicky Krieps, Daniel Day-Lewis, Lesley Manville",
+      "Plot": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+      "Language": "English, French",
+      "Country": "United States, China",
+      "Awards": "Won 1 Oscar. 55 wins & 121 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.4",
+      "imdbVotes": "156,650",
+      "imdbID": "tt5776858",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$21,198,205",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Convicts|1964": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/2/7/9/224279-convicts-1964-0-500-0-750-crop.jpg?v=0fa1dd1611",
+      "description": "The short registers a sports spectacle of great importance (probably of soccer). We never see the spectacle itself but the people watching and reacting at the stadium.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Italy"
+    },
+    "omdb": null
+  },
+  "Garrincha: Joy of the People|1963": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/1/5/4/8/121548-garrincha-joy-of-the-people-0-500-0-750-crop.jpg?v=f7325fc2e7",
+      "description": "Documentary about the most famous dribbler in Brazilian Soccer (some say in Soccer's history!) at the zenith of his career, showing classic scenes of 1958 and 1962 World Cup. Garrincha was a very original and talented player, having curved legs. Women and alcohol were his passion, and the cause of his later decadence. After a glorious career, he died in financial misery, forgotten.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Brazil"
+    },
+    "omdb": null
+  },
+  "A Nebulosa|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Treasure of the Bitch Islands|1990": {
+    "lbxd": {
+      "rating": 3.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/3/3053-treasure-of-the-bitch-islands-0-500-0-750-crop.jpg?v=815fc7ee53",
+      "description": "The world after the atomic age. An engineer disappears, together with his consortium (Kryo'Corp) and his discovery: a new energy source powered by the fusion of two primary substances. Ulysses, Kryo'Corp's heir, organises an expedition to the only place these substances occur.",
+      "genres": [
+        "Science Fiction"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Treasure of the Bitch Islands",
+      "Year": "1990",
+      "Rated": "Not Rated",
+      "Released": "17 Apr 1991",
+      "Runtime": "108 min",
+      "Genre": "Mystery, Sci-Fi",
+      "Director": "F.J. Ossang",
+      "Writer": "F.J. Ossang",
+      "Actors": "Stéphane Ferrara, Diogo Dória, José Wallenstein",
+      "Plot": "The world after the atomic age. An engineer disappears, together with his consortium (Kryo'Corp) and his discovery: a new energy source powered by the fusion of two primary substances. Ulysses, Kryo'Corp's heir, organises an exped...",
+      "Language": "French, English",
+      "Country": "France, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk3MGM3OWYtMGRhNS00N2FlLTkyNWEtOTFjZDJkNmIxNWMxXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.7",
+      "imdbVotes": "181",
+      "imdbID": "tt0098531",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cinema|2000": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "In Between|2001": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/0/0/0/123000-in-between-0-500-0-750-crop.jpg?v=af88096213",
+      "description": "A young woman tries to overcome her anxiety, which is personified by a crocodile.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Next Stop|2001": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/0/3/4/3/670343-next-stop-0-500-0-750-crop.jpg?v=37df852a6c",
+      "description": "When two girls look at each other on the subway, the world seems to stop as they dream of breaking with routine.",
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "country": "Spain"
+    },
+    "omdb": null
+  },
+  "Licorice Pizza|2021": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/1/0/8/6/641086-licorice-pizza-0-500-0-750-crop.jpg?v=6f08c3828c",
+      "description": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "Canada"
+    },
+    "omdb": {
+      "Title": "Licorice Pizza",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "25 Dec 2021",
+      "Runtime": "133 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Will Angarola, Griff Giacchino, James Kelley",
+      "Plot": "A young man and a young woman grow up, run around, and fall in love in the San Fernando Valley, 1973.",
+      "Language": "English, Japanese, Spanish",
+      "Country": "United States, Canada",
+      "Awards": "Nominated for 3 Oscars. 61 wins & 197 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.1",
+      "imdbVotes": "155,060",
+      "imdbID": "tt11271038",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$17,318,007",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Ecce bombo|1978": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/3/8/17238-ecce-bombo-0-500-0-750-crop.jpg?v=2623738283",
+      "description": "Michele, Goffredo, Mirko and Vito are four friends who have participated in the battles of the student in Sixties. Now in the Seventies, the four friends don't know what to do, though young and with so many possibilities to find a job in life. Intellectuals marginalized and misunderstood, the four friends find themselves when they can in a restaurant to discuss their outlandish theories. A girl named Olga disrupts their life, but Michele is her favorite, although he does not know what to do with the girl.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Italy"
+    },
+    "omdb": {
+      "Title": "Ecce bombo",
+      "Year": "1978",
+      "Rated": "Not Rated",
+      "Released": "08 Mar 1978",
+      "Runtime": "103 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Nanni Moretti",
+      "Writer": "Nanni Moretti",
+      "Actors": "Nanni Moretti, Luisa Rossi, Lina Sastri",
+      "Plot": "An ironic peek into the life of a group of Italian university students in the 1970s.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3NzQxYmQtMmY3Yi00MmU0LWEwNGQtODIwNjVjNGQ4MDJmXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "2,508",
+      "imdbID": "tt0077482",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Monkey Business|1952": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/8/37098-monkey-business-0-500-0-750-crop.jpg?v=9b72128d36",
+      "description": "Research chemist Barnaby Fulton works on a fountain of youth pill for a chemical company. One of the labs chimps gets loose in the laboratory and mixes chemicals, but then pours the mix into the water cooler. When trying one of his own samples, washed down with water from the cooler, Fulton begins to act just like a twenty-year-old and believes his potion is working. Soon his wife and boss are also behaving like children.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Monkey Business",
+      "Year": "1952",
+      "Rated": "Approved",
+      "Released": "05 Sep 1952",
+      "Runtime": "97 min",
+      "Genre": "Comedy, Sci-Fi",
+      "Director": "Howard Hawks",
+      "Writer": "Ben Hecht, Charles Lederer, I.A.L. Diamond",
+      "Actors": "Cary Grant, Ginger Rogers, Marilyn Monroe",
+      "Plot": "A chemist finds his personal and professional life turned upside down when one of his chimpanzees finds the fountain of youth.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY1ZTgzMGYtMWQyOC00NDE5LWJiNTQtM2M1ZTdiZTI1MjhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "16,120",
+      "imdbID": "tt0044916",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Muhammad Ali, the Greatest|1974": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/4/9/33049-muhammad-ali-the-greatest-0-500-0-750-crop.jpg?v=e1ac9eddc5",
+      "description": "Universally accepted as a true icon of the 20th century, Muhammad Ali’s phenomenal achievements spanned sport, politics and religion. One man – photographer William Klein had comprehensive access to the events that shaped Ali’s legend. In 1964, the young gregarious Cassius Clay successfully defeated the seemingly invincible Heavyweight Champion of the World Sonny Liston – the manner of Clay’s victory and his amazing persona made him an instant superstar. Through this incredible period, and Clay’s subsequent rematches with Liston, William Klein enjoyed unrivalled access top Clay’s camp – witnessing at first hand Cassius Clay becoming Muhammad Ali and angering the American people with his allegiance to Islam. Forward to Zaire 1974, and the return of Muhammad Ali to the world stage to face another invincible champion George Foreman. As Ali reclaimed the crown for a second time, Klein was ever present, capturing the full story at close quarter.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Curtas-metragens de Norman McLaren|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/6/9/9/1282699-curtas-0-500-0-750-crop.jpg?v=e38cae0929",
+      "description": "Sitting in front of his farmhouse in Mirás, Sério reflects on a life linked to cinema. An exercise in synthesis and memory.",
+      "genres": null,
+      "country": "Portugal"
+    },
+    "omdb": {
+      "Title": "Curtas",
+      "Year": "2002–",
+      "Rated": "N/A",
+      "Released": "19 Jun 2002",
+      "Runtime": "30 min",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "Francisco Penim",
+      "Actors": "Catarina Fajardo, Manuel A. 'Batata' Fajardo, Paulo César Fajardo, Rui F. Fajardo",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "24",
+      "imdbID": "tt0412119",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    }
+  },
+  "Don't Bother to Knock|1952": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/0/1/37101-don-t-bother-to-knock-0-500-0-750-crop.jpg?v=0bd117dd19",
+      "description": "An airline pilot pursues a live-in babysitter at his hotel and gradually realizes she is not as stable as perhaps she should be.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Don't Bother to Knock",
+      "Year": "1952",
+      "Rated": "Approved",
+      "Released": "01 Aug 1952",
+      "Runtime": "76 min",
+      "Genre": "Drama, Film-Noir, Mystery",
+      "Director": "Roy Ward Baker",
+      "Writer": "Daniel Taradash, Charlotte Armstrong",
+      "Actors": "Richard Widmark, Marilyn Monroe, Anne Bancroft",
+      "Plot": "After being dumped by his girlfriend, an airline pilot pursues a babysitter in his hotel and gradually realizes she's dangerous.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY2ODViNmUtMTcwMC00MTFjLTgzYTgtZDUzNWQ5YTE1NzA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ],
+      "Metascore": "61",
+      "imdbRating": "6.9",
+      "imdbVotes": "8,692",
+      "imdbID": "tt0044557",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "BEAST International Film Festival|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Niagara|1953": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/2/39302-niagara-0-500-0-750-crop.jpg?v=4ca4fed5fb",
+      "description": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls, N.Y. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Niagara",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "01 Feb 1953",
+      "Runtime": "92 min",
+      "Genre": "Film-Noir, Thriller",
+      "Director": "Henry Hathaway",
+      "Writer": "Charles Brackett, Walter Reisch, Richard L. Breen",
+      "Actors": "Marilyn Monroe, Joseph Cotten, Jean Peters",
+      "Plot": "As two couples are visiting Niagara Falls, tensions between one wife and her husband reach the level of murder.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTJiODA4ZmItZDE1MS00ODk4LTkyODYtNTk5ODdhY2Q4MTFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "7.0",
+      "imdbVotes": "20,329",
+      "imdbID": "tt0046126",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Razor's Edge|1985": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/0/6/6/258066-the-razors-edge-1985-0-500-0-750-crop.jpg?v=0ac8b87bcc",
+      "description": "Samar, a child of the war, finds relief from the chaos around her through Egyptian movies she watches on television. Karim, an artist in retreat from life, remains in his apartment in war-torn West Beirut, confident that he is safe in his familiar neighborhood. An unlikely bond is formed between the two as they face the devastating civil war.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Argentina"
+    },
+    "omdb": null
+  },
+  "Millennium’s Turn|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "How to Marry a Millionaire|1953": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/6/0/46360-how-to-marry-a-millionaire-0-500-0-750-crop.jpg?v=f22afec192",
+      "description": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "How to Marry a Millionaire",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "20 Nov 1953",
+      "Runtime": "95 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Jean Negulesco",
+      "Writer": "Nunnally Johnson, Zoe Akins, Dale Eunson",
+      "Actors": "Marilyn Monroe, Betty Grable, Lauren Bacall",
+      "Plot": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
+      "Language": "English, French, Latin, Arabic",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFmMTc2NzktZTQ0OS00YmM3LTk1ZTktMDhmNzZlNDA3ZGRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "26,225",
+      "imdbID": "tt0045891",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Savages|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/2/1/0/6/482106-savages-0-500-0-750-crop.jpg?v=fe98167964",
+      "description": "Zolja, Jasmin and Mali set out to rob a gas station in order to get money for a trip to the World Cup finals. Fleeing the police, they cross the border with Bosnia and Herzegovina and wander into a terrorist camp in the woods.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "country": "Croatia"
+    },
+    "omdb": {
+      "Title": "Savages",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "16 Oct 2024",
+      "Runtime": "87 min",
+      "Genre": "Animation, Family",
+      "Director": "Claude Barras",
+      "Writer": "Claude Barras, Nancy Huston, Morgan Navarro",
+      "Actors": "Babette De Coster, Martin Verset, Laetitia Dosch",
+      "Plot": "In Borneo, at the edge of the tropical forest, Kéria is given a baby orangutan. With the forest under greater threat than ever, Kéria, Selaï and the little primate, Oshi, will have to face many obstacles.",
+      "Language": "French",
+      "Country": "Switzerland, France, Belgium",
+      "Awards": "1 win & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzM2IyZmItZjViZC00YzczLWE0YmEtZGYzYjFhY2Y0ZTFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "192",
+      "imdbID": "tt10695672",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Seven Year Itch|1955": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/1/46021-the-seven-year-itch-0-500-0-750-crop.jpg?v=d0861c1bf5",
+      "description": "When his family goes away for summer vacation, a hitherto faithful publishing executive with an overactive imagination is tempted by an attractive new neighbor.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "The Seven Year Itch",
+      "Year": "1955",
+      "Rated": "Approved",
+      "Released": "02 Jul 1955",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Billy Wilder, George Axelrod",
+      "Actors": "Marilyn Monroe, Tom Ewell, Evelyn Keyes",
+      "Plot": "When his family goes away for summer vacation, a hitherto faithful husband with an overactive imagination is tempted by a sexy new neighbor.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 BAFTA Award2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE3OWRkMzUtYmYzNS00ZmRmLTkzMjctZjEwMDFmYmZlYjEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "45,417",
+      "imdbID": "tt0048605",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "One Battle After Another|2025": {
+    "lbxd": {
+      "rating": 4.16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/1/2/7/7/951277-one-battle-after-another-0-500-0-750-crop.jpg?v=d27c4cc662",
+      "description": "When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "One Battle After Another",
+      "Year": "2025",
+      "Rated": "R",
+      "Released": "26 Sep 2025",
+      "Runtime": "161 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson, Thomas Pynchon",
+      "Actors": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro",
+      "Plot": "When their enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Nominated for 13 Oscars. 234 wins & 478 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "7.7",
+      "imdbVotes": "329,147",
+      "imdbID": "tt30144839",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$72,172,051",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Ernie Game|1967": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/1/5/7/181157-the-ernie-game-0-500-0-750-crop.jpg?v=e9bc8da3a8",
+      "description": "This fictional feature follows a twenty-something man who is struggling to define his position in the world in early adulthood. He has left their parents' home but still has not made an home of his own. Our protagonist’s alienation is palpable; for him life is a game, not because he chooses to make it so, but because he is unable to make anything more of it. But for those who befriend him and eventually turn him loose again, his game is not enough.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Canada"
+    },
+    "omdb": {
+      "Title": "The Ernie Game",
+      "Year": "1967",
+      "Rated": "N/A",
+      "Released": "14 Nov 1968",
+      "Runtime": "89 min",
+      "Genre": "Drama",
+      "Director": "Don Owen",
+      "Writer": "Don Owen, Bernard Cole Spencer",
+      "Actors": "Alexis Kanner, Judith Gault, Jackie Burroughs",
+      "Plot": "Set in mid-winter Montreal, a mentally unstable young man becomes involved with 2 women, which fuels his paranoia, forcing him to commit criminal acts.",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "1 win & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWVjMzg1ZTYtODAxZS00ZWJhLWE0N2MtOWRmYmVhZWY0OWQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "117",
+      "imdbID": "tt0060375",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Hard, Fast and Beautiful!|1951": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/1/3/5/70135-hard-fast-and-beautiful-0-500-0-750-crop.jpg?v=dde2cc0280",
+      "description": "When most people look at Florence Farley, they see a pretty teenager. But when Milly Farley looks at her daughter she sees something else: a tennis prodigy who could be Milly’s ticket to money and fame.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Hard, Fast and Beautiful!",
+      "Year": "1951",
+      "Rated": "Approved",
+      "Released": "07 Feb 1952",
+      "Runtime": "78 min",
+      "Genre": "Drama, Romance, Sport",
+      "Director": "Ida Lupino",
+      "Writer": "Martha Wilkerson, John R. Tunis",
+      "Actors": "Claire Trevor, Sally Forrest, Carleton G. Young",
+      "Plot": "Tennis prodigy Florence Farley is torn between romance and her mother's ambitions.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ2ZjM2MDMtOGM4NC00NWE3LWFlZDMtNTM2M2YzZDNlY2UzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "687",
+      "imdbID": "tt0043619",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Pumping Iron|1977": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/0/3/48903-pumping-iron-0-500-0-750-crop.jpg?v=5bfa46bc9e",
+      "description": "Amateur and professional bodybuilders prepare for the 1975 Mr. Olympia and Mr. Universe contests as five-time champion Arnold Schwarzenegger defends his Mr. Olympia title against Serge Nubret and the shy young Lou Ferrigno.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Pumping Iron",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "23 Jun 1977",
+      "Runtime": "86 min",
+      "Genre": "Documentary, Sport",
+      "Director": "George Butler, Robert Fiore",
+      "Writer": "Charles Gaines, George Butler",
+      "Actors": "Arnold Schwarzenegger, Lou Ferrigno, Matty Ferrigno",
+      "Plot": "Arnold Schwarzenegger and Lou Ferrigno face off in a no-holds-barred competition for the title of Mr. Olympia in this critically-acclaimed film that made Schwarzenegger a household name.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFkMDc5ZjYtMzg1My00ZDY3LThlMTYtZmQ3ZDY4YzJhZGY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.3",
+      "imdbVotes": "26,527",
+      "imdbID": "tt0076578",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Great Artists on Campus: Mauro Cerqueira|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Prince and the Showgirl|1957": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
+      "description": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "UK"
+    },
+    "omdb": {
+      "Title": "The Prince and the Showgirl",
+      "Year": "1957",
+      "Rated": "PG",
+      "Released": "13 Jun 1957",
+      "Runtime": "115 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Laurence Olivier",
+      "Writer": "Terence Rattigan",
+      "Actors": "Marilyn Monroe, Laurence Olivier, Richard Wattis",
+      "Plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+      "Language": "English, German, French",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 5 BAFTA 2 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkxYTU5MDktNjg5My00ZjE2LThhOWItMTIyYzMxY2RjZDIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "9,560",
+      "imdbID": "tt0050861",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,300,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Killer|1989": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/8/5/0/45850-the-killer-0-500-0-750-crop.jpg?v=d65baa059e",
+      "description": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "country": "Hong Kong"
+    },
+    "omdb": {
+      "Title": "The Killer",
+      "Year": "1989",
+      "Rated": "R",
+      "Released": "01 Sep 1990",
+      "Runtime": "111 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Woo",
+      "Writer": "John Woo",
+      "Actors": "Chow Yun-Fat, Danny Lee, Sally Yeh",
+      "Plot": "A disillusioned assassin accepts one last hit in hopes of using his earnings to restore the vision of a singer he accidentally blinded.",
+      "Language": "Cantonese, Mandarin, Japanese, English",
+      "Country": "Hong Kong",
+      "Awards": "2 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyZDJhNTktYjZiZC00ODU4LTg5OTYtYjc2MzA2OGFjMzZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.7",
+      "imdbVotes": "53,376",
+      "imdbID": "tt0097202",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Tokyo Olympiad|1965": {
+    "lbxd": {
+      "rating": 4.19,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/5/3/5/21535-tokyo-olympiad-0-500-0-750-crop.jpg?v=e66ea12219",
+      "description": "This impressionistic portrait of the 1964 Tokyo Summer Olympics pays as much attention to the crowds and workers as it does to the actual competitive events. Highlights include an epic pole-vaulting match between West Germany and America, and the final marathon race through Tokyo's streets. Two athletes are highlighted: Ethiopian marathon runner Abebe Bikila, who receives his second gold medal, and runner Ahamed Isa from Chad, representing a country younger than he is.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Japan"
+    },
+    "omdb": {
+      "Title": "Tokyo Olympiad",
+      "Year": "1965",
+      "Rated": "Not Rated",
+      "Released": "20 Mar 1965",
+      "Runtime": "170 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Kon Ichikawa",
+      "Writer": "Claude Darget, Kon Ichikawa, Yoshio Shirasaka",
+      "Actors": "Antonio Ambu, Gary Anderson, Gerry Ashworth",
+      "Plot": "Kon Ichikawa examines the beauty and rich drama on display at the 1964 Summer Games in Tokyo, creating a record of observations that range from the expansive to the intimate.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "Won 2 BAFTA 4 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5MmNhM2MtNTA0Yi00YWYyLWJkMmItZjUzOTYyNjZkNjkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "2,332",
+      "imdbID": "tt0059817",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Some Like It Hot|1959": {
+    "lbxd": {
+      "rating": 4.27,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/7/51817-some-like-it-hot-0-500-0-750-crop.jpg?v=fc0b1b87eb",
+      "description": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Some Like It Hot",
+      "Year": "1959",
+      "Rated": "Approved",
+      "Released": "19 Mar 1959",
+      "Runtime": "121 min",
+      "Genre": "Comedy, Music, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Billy Wilder, I.A.L. Diamond, Robert Thoeren",
+      "Actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon",
+      "Plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 11 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "303,429",
+      "imdbID": "tt0053291",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Portrait of a Certain Orient|2024": {
+    "lbxd": {
+      "rating": 3.63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/3/2/0/4/1103204-portrait-of-a-certain-orient-0-500-0-750-crop.jpg?v=54acefff78",
+      "description": "At the end of the 1940s, Lebanon is sliding towards a devastating conflict. Catholic siblings Emilie and Emir decide to leave for Brazil. Aboard the ship to their new home, Emilie falls in love with Omar, a Muslim merchant. For an enraged and jealous Emir, the relationship is intolerable. As the story unfolds against the backdrop of the majestic rainforest, Emir’s actions and the choice that Emilie subsequently makes lead to disastrous consequences.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil"
+    },
+    "omdb": null
+  },
+  "The Handmaid's Tale|1990": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/7/7/5/38775-the-handmaid-s-tale-0-500-0-750-crop.jpg?v=f46ed29563",
+      "description": "In a dystopian, polluted right-wing religious tyranny, a young woman is put in sexual slavery on account of her now rare fertility.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "country": "Germany"
+    },
+    "omdb": {
+      "Title": "The Handmaid's Tale",
+      "Year": "1990",
+      "Rated": "R",
+      "Released": "09 Mar 1990",
+      "Runtime": "108 min",
+      "Genre": "Drama, Romance, Sci-Fi",
+      "Director": "Volker Schlöndorff",
+      "Writer": "Margaret Atwood, Harold Pinter",
+      "Actors": "Natasha Richardson, Faye Dunaway, Aidan Quinn",
+      "Plot": "Under a dystopian religious tyranny, most women cannot conceive children. Those young women who can live in a form of sexual slavery to provide children for influential families.",
+      "Language": "English",
+      "Country": "United States, Germany",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMxYjNmOTctNWViYS00YjIyLWJlMTEtMTZjY2Q3OTYxY2IwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "35%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ],
+      "Metascore": "53",
+      "imdbRating": "6.0",
+      "imdbVotes": "11,180",
+      "imdbID": "tt0099731",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,960,385",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Lion|2017": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/2/2/2/263222-lion-0-500-0-750-crop.jpg?v=1311804f8d",
+      "description": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Australia"
+    },
+    "omdb": null
+  },
+  "In the Dance|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/4/8/6/1041486-in-the-dance-0-500-0-750-crop.jpg?v=943050a937",
+      "description": "Dance, friendship, group, beatbox, movement, hiphop, freestyle, cypher.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "The Goose|2022": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/5/5/5/9/805559-the-goose-0-500-0-750-crop.jpg?v=cd886bbad4",
+      "description": "Masha and Sveta are preparing a birthday present and decide to teach Old Karga a lesson. The dramatic issue of the loan trap, which you can easily end up in due to the simplest everyday needs of an average family, looms in the background.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "Ukraine"
+    },
+    "omdb": null
+  },
+  "The Cycling Wind|2014": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Goofylympics|2019": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Grand Bassin|2018": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/7/6/2/6/577626-grand-bassin-0-500-0-750-crop.jpg?v=d39374e56c",
+      "description": "An afternoon at the pool.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "The Misfits|1961": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/1/2/45212-the-misfits-0-500-0-750-crop.jpg?v=db194cec22",
+      "description": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
+      "genres": [
+        "Western",
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "The Misfits",
+      "Year": "1961",
+      "Rated": "Approved",
+      "Released": "01 Feb 1961",
+      "Runtime": "125 min",
+      "Genre": "Drama, Romance, Western",
+      "Director": "John Huston",
+      "Writer": "Arthur Miller",
+      "Actors": "Clark Gable, Marilyn Monroe, Montgomery Clift",
+      "Plot": "A divorcée falls for an over-the-hill cowboy who is struggling to maintain his romantically-independent lifestyle.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFiZmEwN2QtN2Y1Ny00ODM2LTgyZjYtMTI2YzdmNmJhMDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "7.2",
+      "imdbVotes": "24,942",
+      "imdbID": "tt0055184",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Spoor|2017": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/5/8/1/5/365815-spoor-0-500-0-750-crop.jpg?v=c561e01d1d",
+      "description": "A story about Janina Duszejko, an elderly woman, who lives alone in the Klodzko Valley where a series of mysterious crimes are committed. Duszejko is convinced that she knows who (or what) is the murderer, but nobody believes her.",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller"
+      ],
+      "country": "Poland"
+    },
+    "omdb": {
+      "Title": "Spoor",
+      "Year": "2017",
+      "Rated": "Not Rated",
+      "Released": "22 Jan 2021",
+      "Runtime": "128 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Agnieszka Holland, Kasia Adamik",
+      "Writer": "Olga Tokarczuk, Agnieszka Holland",
+      "Actors": "Agnieszka Mandat, Wiktor Zborowski, Jakub Gierszal",
+      "Plot": "Janina Duszejko, an elderly woman, lives alone in the Klodzko Valley where a series of mysterious crimes are committed. Duszejko is convinced that she knows who or what is the murderer, but nobody believes her.",
+      "Language": "Polish, English",
+      "Country": "Poland, Germany, Czech Republic, Sweden, Slovakia, France",
+      "Awards": "8 wins & 15 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjVmOWUyNjEtNTE3OC00YTdkLThiNWMtZDdkYWY1ZmVmZTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "6.3",
+      "imdbVotes": "6,126",
+      "imdbID": "tt5328350",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Over and Out|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Over and Out",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "13 Jun 2019",
+      "Runtime": "N/A",
+      "Genre": "Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Adele Vuko, Christiaan Van Vuuren, Elke Van Vuuren",
+      "Plot": "Lewis and Freya are two young parents fervently trying to raise their children the right way in a world full of wrong. They are stuck in the middle of the two most stressful things imaginable: namely raising young children and sur...",
+      "Language": "English",
+      "Country": "Australia",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzcxNmJiOTktNGI0Yy00YzAyLWIzMzItYTUwYmUzNTJmYmIzXkEyXkFqcGdeQXVyNjU0ODE3MDc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "28",
+      "imdbID": "tt10184074",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
+  },
+  "Double Strength|1978": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/7/3/2/207732-double-strength-0-500-0-750-crop.jpg?v=f572e3fc07",
+      "description": "Four stages of a lesbian relationship explored in an experimental film starring performance artists Terry Sendgraff and Barbara Hammer on suspended trapezes and ropes.",
+      "genres": null,
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Double Strength",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "02 Mar 1996",
+      "Runtime": "20 min",
+      "Genre": "Documentary, Short",
+      "Director": "Barbara Hammer",
+      "Writer": "N/A",
+      "Actors": "Barbara Hammer, Terry Sendgraff",
+      "Plot": "Barbara Hammer interviews a lesbian couple, both gymnasts and performance artists and photographs them doing their routines in the nude.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "53",
+      "imdbID": "tt0217388",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cassandro, the Exotico!|2018": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/8/0/6/4/448064-cassandro-the-exotico--0-500-0-750-crop.jpg?v=ae472707e3",
+      "description": "After 26 years of spinning dives and flying uppercuts on the ring, Cassandro, the star of the gender-bending cross-dressing Mexican wrestlers known as the Exoticos, is far from retiring. But with dozens of broken bones and metal pins in his body, he must now reinvent himself.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "Cassandro, The Exotico!",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "19 Jul 2019",
+      "Runtime": "73 min",
+      "Genre": "Documentary",
+      "Director": "Marie Losier",
+      "Writer": "Antoine Barraud, Marie Losier",
+      "Actors": "Cassandro",
+      "Plot": "After 26 years of spinning dives and flying uppercuts in the ring, Cassandro, the star of the gender-bending cross-dressing Mexican wrestlers known as the Exoticos, is far from retiring. But with dozens of broken bones and metal p...",
+      "Language": "English, Spanish",
+      "Country": "France",
+      "Awards": "3 wins & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMzNWY4YzMtZTMzYy00NDllLTgyN2YtMWZmOGE2NDJjMjQ2XkEyXkFqcGdeQXVyNDY2NDMxNDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "6.5",
+      "imdbVotes": "439",
+      "imdbID": "tt8159562",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$11,897",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Drama|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Caso 137|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Orwell 2 + 2 = 5|2025": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Orwell: 2+2=5",
+      "Year": "2025",
+      "Rated": "R",
+      "Released": "10 Oct 2025",
+      "Runtime": "119 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Raoul Peck",
+      "Writer": "N/A",
+      "Actors": "Damian Lewis, George Orwell, U Win Khine",
+      "Plot": "An investigation into the life, work, and enduring influence of the writer George Orwell, connecting his ideas to the contemporary world.",
+      "Language": "English, Burmese, Russian, French, Spanish, Mandarin",
+      "Country": "United States, France",
+      "Awards": "10 wins & 34 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdkNTNhMGItYTQ3Mi00ZWIwLTlkNzYtYjgwYTM2ODM4ZThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,063",
+      "imdbID": "tt27052428",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$355,288",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Agente Secreto|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Voz de Hind Rajab|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Memórias do Teatro da Cornucópia|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/1/1/8/8/1421188-memorias-do-teatro-da-cornucopia-0-500-0-750-crop.jpg?v=430e84cb85",
+      "description": "A renowned symbol of Portuguese interventionist theatre, Cornucópia emerged from the darkness of fascism to fight dictatorship on stage. Among the classics, a project is born and dies, but one face remains emblematic: Luís Miguel Cintra, who shared his art with the constant complicity of set designer Cristina Reis. Together, guided by images, they bear witness, telling this story.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": null
+  },
+  "Sirât|2025": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/7/7/1037777-sirat-2025-0-500-0-750-crop.jpg?v=1660cb1f29",
+      "description": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "Spain"
+    },
+    "omdb": {
+      "Title": "Sirat",
+      "Year": "2025",
+      "Rated": "R",
+      "Released": "06 Jun 2025",
+      "Runtime": "115 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Oliver Laxe",
+      "Writer": "Santiago Fillol, Oliver Laxe",
+      "Actors": "Sergi López, Bruno Núñez Arjona, Stefania Gadda",
+      "Plot": "A father, accompanied by his son, goes looking for his missing daughter in North Africa.",
+      "Language": "Spanish, French, English, Arabic",
+      "Country": "Spain, France",
+      "Awards": "Nominated for 2 Oscars. 38 wins & 103 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1OTkyN2MtMGZjYy00NTcxLTg4Y2ItZjc4NjM2NmQzMzdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.0",
+      "imdbVotes": "21,782",
+      "imdbID": "tt32298285",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$467,119",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Stalker|1983": {
+    "lbxd": {
+      "rating": 4.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
+      "description": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "country": "USSR"
+    },
+    "omdb": null
+  },
+  "Viridiana|1961": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-500-0-750-crop.jpg?v=45489590bd",
+      "description": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain"
+    },
+    "omdb": {
+      "Title": "Viridiana",
+      "Year": "1961",
+      "Rated": "Not Rated",
+      "Released": "19 Mar 1962",
+      "Runtime": "91 min",
+      "Genre": "Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Julio Alejandro, Luis Buñuel, Benito Pérez Galdós",
+      "Actors": "Silvia Pinal, Francisco Rabal, Fernando Rey",
+      "Plot": "Viridiana, a young nun about to take her final vows, pays a visit to her widowed uncle at the request of her Mother Superior.",
+      "Language": "Spanish, English",
+      "Country": "Mexico, Spain",
+      "Awards": "2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjlkMWI3NjEtZmE3NC00OWFjLWFkY2YtZTA1NWE4N2MzNTNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "27,389",
+      "imdbID": "tt0055601",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Viagem A Tóquio|1953": {
+    "lbxd": null,
     "omdb": null
   }
 }
