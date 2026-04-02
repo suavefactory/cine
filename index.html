@@ -966,6 +966,12 @@ function renderCinemas() {
 
 // ── MODAL ─────────────────────────────────────────────────────────────────────
 
+function normTitle(t) {
+  return (t || '').toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim();
+}
+
 function openModal(id) {
   const m = MOVIES.find(x => String(x.id) === String(id));
   if (!m) return;
@@ -996,9 +1002,19 @@ function openModal(id) {
   plotEl.textContent = m.plot ?? '';
   plotEl.style.display = m.plot ? '' : 'none';
 
-  // Sessões
-  const sessions = m.sessions
-    .filter(s => s.date >= TODAY)
+  // Sessões — agrega todas as entradas com o mesmo título normalizado
+  const mNorm = normTitle(m.title);
+  const allSessions = MOVIES
+    .filter(x => normTitle(x.title) === mNorm)
+    .flatMap(x => x.sessions);
+  const seen = new Set();
+  const sessions = allSessions
+    .filter(s => {
+      const k = s.date + s.time + s.cinema;
+      if (seen.has(k)) return false;
+      seen.add(k);
+      return s.date >= TODAY;
+    })
     .sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
   document.getElementById('modalSessionsList').innerHTML = sessions.map(s => {

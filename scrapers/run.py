@@ -44,28 +44,39 @@ def norm(text):
 
 
 def deduplicate(movies):
-    """Junta filmes com o mesmo título normalizado e ano, combinando as suas sessões."""
-    merged = {}
+    """Junta filmes com o mesmo título normalizado, combinando sessões de todos os cinemas.
+    Entradas com year=None fazem merge com qualquer entrada do mesmo título (independente do ano)."""
+    merged   = {}  # key → movie dict
+    by_title = {}  # norm_title → key (para resolver year=None vs year=X)
+
     for m in movies:
-        key = (norm(m["title"]), m.get("year"))
+        t    = norm(m["title"])
+        year = m.get("year")
+
+        # Resolve chave: se year=None ou há entrada sem ano com o mesmo título, usa essa
+        if year is None and t in by_title:
+            key = by_title[t]
+        elif year is not None and t in by_title and by_title[t][1] is None:
+            key = by_title[t]  # merge no entry existente sem ano
+        else:
+            key = (t, year)
+            by_title[t] = key
+
         if key not in merged:
             merged[key] = dict(m)
             merged[key]["sessions"] = list(m["sessions"])
         else:
             base = merged[key]
-            # Adiciona sessões novas (evita duplicados)
             existing = {(s["date"], s["time"], s["cinema"]) for s in base["sessions"]}
             for s in m["sessions"]:
                 if (s["date"], s["time"], s["cinema"]) not in existing:
                     base["sessions"].append(s)
                     existing.add((s["date"], s["time"], s["cinema"]))
-            # Preenche campos em falta com os da entrada duplicada
-            for field in ("director", "duration", "poster", "genres", "link", "festival"):
+            for field in ("director", "year", "duration", "poster", "genres", "link", "festival"):
                 if not base.get(field) and m.get(field):
                     base[field] = m[field]
 
     result = list(merged.values())
-    # Ordena sessões de cada filme
     for m in result:
         m["sessions"].sort(key=lambda s: (s["date"], s["time"]))
     return result
