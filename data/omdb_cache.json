@@ -1822,13 +1822,7 @@
   "O Sétimo Selo|1957": {
     "lbxd": {
       "rating": 4.33,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/0/51620-the-seventh-seal-0-500-0-750-crop.jpg?v=fa1963f0b2",
-      "description": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "country": "Sweden"
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/0/51620-the-seventh-seal-0-500-0-750-crop.jpg?v=fa1963f0b2"
     },
     "omdb": {
       "Title": "The Seventh Seal",
@@ -3538,14 +3532,7 @@
   "O Estrangeiro|2025": {
     "lbxd": {
       "rating": 3.34,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "description": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
-      ],
-      "country": "France"
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab"
     },
     "omdb": null
   },
@@ -6762,30 +6749,6 @@
     },
     "omdb": null
   },
-  "Três Vezes Adeus (Tre ciotole)|None": {
-    "lbxd": {
-      "rating": 3.67,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/6/5/8/1311658-three-goodbyes-0-500-0-750-crop.jpg?v=ec44a278bc",
-      "description": "Follows a couple, Marta and Antonio, who split up after what seems like an trivial argument.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Italy"
-    },
-    "omdb": null
-  },
-  "LA GRAZIA|None": {
-    "lbxd": {
-      "rating": 3.7,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
-      "description": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Italy"
-    },
-    "omdb": null
-  },
   "Programa 1 – Instruções Em Economia Política|None": {
     "lbxd": null,
     "omdb": null
@@ -6841,324 +6804,49 @@
       "Response": "True"
     }
   },
-  "Sessão-Conferência Por Christa Blümlinger|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Sessão",
-      "Year": "2013",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "Short, Horror",
-      "Director": "Denise Sganzerla",
-      "Writer": "Denise Sganzerla",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Brazil",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExOGExZTAtZWVmYy00NTUwLWEzMjUtNzVlMjY0OTBmNmMxXkEyXkFqcGdeQXVyMTAxMzYwNTc3._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt10222384",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "O Gebo E A Sombra|2012": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "The Parent Trap|1998": {
+  "Mr Nobody Against Putin|None": {
     "lbxd": {
-      "rating": 3.81,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/kx/iu/iq/nv/jzE9AhiNH0r40f3APmeLDvZBfmz-0-500-0-750-crop.jpg?v=2a873afb6f",
-      "description": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
-      "genres": [
-        "Family",
-        "Romance",
-        "Comedy"
-      ],
-      "country": "USA"
-    },
-    "omdb": {
-      "Title": "The Parent Trap",
-      "Year": "1998",
-      "Rated": "PG",
-      "Released": "29 Jul 1998",
-      "Runtime": "128 min",
-      "Genre": "Adventure, Comedy, Drama",
-      "Director": "Nancy Meyers",
-      "Writer": "Erich Kästner, David Swift, Nancy Meyers",
-      "Actors": "Lindsay Lohan, Dennis Quaid, Natasha Richardson",
-      "Plot": "Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together.",
-      "Language": "English, French",
-      "Country": "United States, United Kingdom",
-      "Awards": "2 wins & 7 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRkYmY3Y2QtMGM2Ny00MTNmLTk4NjYtNjMwNTNmMGY5ZDllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "87%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "63/100"
-        }
-      ],
-      "Metascore": "63",
-      "imdbRating": "6.7",
-      "imdbVotes": "165,056",
-      "imdbID": "tt0120783",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$66,308,518",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "The Mastermind|2025": {
-    "lbxd": {
-      "rating": 3.22,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/2/0/9/7/1242097-the-mastermind-2025-0-500-0-750-crop.jpg?v=7294314d40",
-      "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "country": "UK"
-    },
-    "omdb": {
-      "Title": "The Mastermind",
-      "Year": "2025",
-      "Rated": "R",
-      "Released": "17 Oct 2025",
-      "Runtime": "110 min",
-      "Genre": "Crime",
-      "Director": "Kelly Reichardt",
-      "Writer": "Kelly Reichardt",
-      "Actors": "Josh O'Connor, Sterling Thompson, Alana Haim",
-      "Plot": "In 1970, failed architect James Blaine Mooney and cohorts wander into a museum in broad daylight and steal four paintings. When holding onto the art proves more difficult than stealing them, Mooney is relegated to a life on the run.",
-      "Language": "English, French",
-      "Country": "United States, United Kingdom",
-      "Awards": "7 wins & 21 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmEzYzMwZDUtMjdiYi00YmRlLWJiNjYtYzY2N2E3ZWZjOTcxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "90%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "80/100"
-        }
-      ],
-      "Metascore": "80",
-      "imdbRating": "6.3",
-      "imdbVotes": "11,079",
-      "imdbID": "tt33455099",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$1,104,490",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Caso 137|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Orwell 2 + 2 = 5|2025": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Orwell: 2+2=5",
-      "Year": "2025",
-      "Rated": "R",
-      "Released": "10 Oct 2025",
-      "Runtime": "119 min",
-      "Genre": "Documentary, Biography, History",
-      "Director": "Raoul Peck",
-      "Writer": "N/A",
-      "Actors": "Damian Lewis, George Orwell, U Win Khine",
-      "Plot": "An investigation into the life, work, and enduring influence of the writer George Orwell, connecting his ideas to the contemporary world.",
-      "Language": "English, Burmese, Russian, French, Spanish, Mandarin",
-      "Country": "United States, France",
-      "Awards": "10 wins & 34 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdkNTNhMGItYTQ3Mi00ZWIwLTlkNzYtYjgwYTM2ODM4ZThkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "74/100"
-        }
-      ],
-      "Metascore": "74",
-      "imdbRating": "6.8",
-      "imdbVotes": "1,063",
-      "imdbID": "tt27052428",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$355,288",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "O Drama|2026": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "O Agente Secreto|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "A Voz de Hind Rajab|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Memórias do Teatro da Cornucópia|2025": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/1/1/8/8/1421188-memorias-do-teatro-da-cornucopia-0-500-0-750-crop.jpg?v=430e84cb85",
-      "description": "A renowned symbol of Portuguese interventionist theatre, Cornucópia emerged from the darkness of fascism to fight dictatorship on stage. Among the classics, a project is born and dies, but one face remains emblematic: Luís Miguel Cintra, who shared his art with the constant complicity of set designer Cristina Reis. Together, guided by images, they bear witness, telling this story.",
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/5/4/5/1277545-mr-nobody-against-putin-0-500-0-750-crop.jpg?v=e15d911787",
+      "description": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
       "genres": [
         "Documentary"
       ],
-      "country": "Portugal"
-    },
-    "omdb": null
-  },
-  "O Bolo do Presidente|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Sirât|2025": {
-    "lbxd": {
-      "rating": 3.56,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/7/7/1037777-sirat-2025-0-500-0-750-crop.jpg?v=1660cb1f29",
-      "description": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "country": "Spain"
+      "country": "Denmark"
     },
     "omdb": {
-      "Title": "Sirat",
+      "Title": "Mr. Nobody Against Putin",
       "Year": "2025",
-      "Rated": "R",
-      "Released": "06 Jun 2025",
-      "Runtime": "115 min",
-      "Genre": "Action, Adventure, Drama",
-      "Director": "Oliver Laxe",
-      "Writer": "Santiago Fillol, Oliver Laxe",
-      "Actors": "Sergi López, Bruno Núñez Arjona, Stefania Gadda",
-      "Plot": "A father, accompanied by his son, goes looking for his missing daughter in North Africa.",
-      "Language": "Spanish, French, English, Arabic",
-      "Country": "Spain, France",
-      "Awards": "Nominated for 2 Oscars. 38 wins & 103 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1OTkyN2MtMGZjYy00NTcxLTg4Y2ItZjc4NjM2NmQzMzdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Rated": "N/A",
+      "Released": "22 Mar 2025",
+      "Runtime": "90 min",
+      "Genre": "Documentary",
+      "Director": "David Borenstein, Pavel Ilyich Talankin",
+      "Writer": "David Borenstein",
+      "Actors": "N/A",
+      "Plot": "A Russian teacher secretly documents his small town school's transformation into a war recruitment center during the Ukraine invasion, revealing the ethical dilemmas educators face amid propaganda and militarization.",
+      "Language": "Russian, English",
+      "Country": "Denmark, Czech Republic, Germany",
+      "Awards": "9 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWVjNGQ5NjYtZDk2My00NzgxLWE1NDMtOGEzYTQzMjAxODIxXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.0/10"
+          "Value": "7.9/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "94%"
+          "Value": "100%"
         },
         {
           "Source": "Metacritic",
-          "Value": "85/100"
+          "Value": "79/100"
         }
       ],
-      "Metascore": "85",
-      "imdbRating": "7.0",
-      "imdbVotes": "21,782",
-      "imdbID": "tt32298285",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$467,119",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Stalker|1983": {
-    "lbxd": {
-      "rating": 4.4,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
-      "description": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "genres": [
-        "Drama",
-        "Science Fiction"
-      ],
-      "country": "USSR"
-    },
-    "omdb": null
-  },
-  "Viridiana|1961": {
-    "lbxd": {
-      "rating": 4.1,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-500-0-750-crop.jpg?v=45489590bd",
-      "description": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Spain"
-    },
-    "omdb": {
-      "Title": "Viridiana",
-      "Year": "1961",
-      "Rated": "Not Rated",
-      "Released": "19 Mar 1962",
-      "Runtime": "91 min",
-      "Genre": "Drama",
-      "Director": "Luis Buñuel",
-      "Writer": "Julio Alejandro, Luis Buñuel, Benito Pérez Galdós",
-      "Actors": "Silvia Pinal, Francisco Rabal, Fernando Rey",
-      "Plot": "Viridiana, a young nun about to take her final vows, pays a visit to her widowed uncle at the request of her Mother Superior.",
-      "Language": "Spanish, English",
-      "Country": "Mexico, Spain",
-      "Awards": "2 wins & 1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjlkMWI3NjEtZmE3NC00OWFjLWFkY2YtZTA1NWE4N2MzNTNmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "97%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.0",
-      "imdbVotes": "27,389",
-      "imdbID": "tt0055601",
+      "Metascore": "79",
+      "imdbRating": "7.9",
+      "imdbVotes": "675",
+      "imdbID": "tt34965515",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -7167,8 +6855,28 @@
       "Response": "True"
     }
   },
-  "Viagem A Tóquio|1953": {
-    "lbxd": null,
+  "Três Vezes Adeus (Tre ciotole)|None": {
+    "lbxd": {
+      "rating": 3.67,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/1/6/5/8/1311658-three-goodbyes-0-500-0-750-crop.jpg?v=ec44a278bc",
+      "description": "Follows a couple, Marta and Antonio, who split up after what seems like an trivial argument.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy"
+    },
+    "omdb": null
+  },
+  "LA GRAZIA|None": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
+      "description": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy"
+    },
     "omdb": null
   }
 }

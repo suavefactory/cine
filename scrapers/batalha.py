@@ -1,31 +1,28 @@
 """
 Scraper: Batalha Centro de Cinema (Porto)
-Fonte: https://www.batalhacentrodecinema.pt/
-Platform: BndLyr CMS — sessões em content JS file
+API: https://repeater.bondlayer.com/fetch  (BndLyr CMS)
+Colecção de sessões: cjN82wrJdnNJZqCM   Projeto: sibrwridqpbpm4e3
 """
 
 import urllib.request
-import re
 import json
+import re
 from html import unescape
 from datetime import datetime, timezone, timedelta
 
-CINEMA_ID = "batalha"
-BASE_URL  = "https://www.batalhacentrodecinema.pt"
-HOME_URL  = BASE_URL + "/"
-
-
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "cineportugal/1.0"})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8", errors="ignore")
+CINEMA_ID  = "batalha"
+BASE_URL   = "https://www.batalhacentrodecinema.pt"
+API_URL    = "https://repeater.bondlayer.com/fetch"
+PROJECT_ID = "sibrwridqpbpm4e3"
+COLLECTION = "cjN82wrJdnNJZqCM"
+REPEATER_ID = "ck42eatHiYE3bglX"
+HASH       = "1775044304610"
 
 
 def utc_to_lisbon(dt_str):
-    """Converte datetime ISO UTC para data/hora de Lisboa (UTC+1 inverno, UTC+2 verão)."""
+    """Converte ISO UTC para data/hora de Lisboa (UTC+1 inverno, UTC+2 verão DST)."""
     dt = datetime.fromisoformat(dt_str.replace("Z", "+00:00"))
     year = dt.year
-    # Último domingo de março = início DST, último domingo de outubro = fim DST
     def last_sunday(y, month):
         for d in range(31, 24, -1):
             try:
@@ -36,106 +33,124 @@ def utc_to_lisbon(dt_str):
     dst_start = last_sunday(year, 3)
     dst_end   = last_sunday(year, 10)
     offset    = 2 if dst_start <= dt < dst_end else 1
-    lisbon    = dt + timedelta(hours=offset)
-    return lisbon.strftime("%Y-%m-%d"), lisbon.strftime("%H:%M")
-
-
-def extract_content_url(html):
-    """Extrai o URL do content JS a partir do HTML da homepage."""
-    m = re.search(r'(https://cdn\.bndlyr\.com/[^"\']+content\.[^"\']+\.js[^"\']*)', html)
-    if m:
-        return m.group(1)
-    return None
-
-
-def parse_bndlyr_json(js_text):
-    """Extrai window.BndLyrContent do JS e devolve o dict."""
-    m = re.search(r'window\.BndLyrContent\s*=\s*', js_text)
-    if not m:
-        return None
-    start = m.end()
-    depth, i = 0, start
-    while i < len(js_text):
-        if js_text[i] == '{':
-            depth += 1
-        elif js_text[i] == '}':
-            depth -= 1
-            if depth == 0:
-                return json.loads(js_text[start:i + 1])
-        i += 1
-    return None
+    local     = dt + timedelta(hours=offset)
+    return local.strftime("%Y-%m-%d"), local.strftime("%H:%M")
 
 
 def get_str(obj, key):
-    """Devolve string de um campo BndLyr (pode ser str ou {"all": "...", "en": "..."})."""
-    val = obj.get(key, "")
+    """Devolve string de campo BndLyr ({all: ...} ou str)."""
+    val = obj.get(key, "") if isinstance(obj, dict) else ""
     if isinstance(val, dict):
-        val = val.get("all") or val.get("en") or ""
-    return unescape(re.sub(r"<[^>]+>", "", val or "")).strip()
+        val = val.get("all") or val.get("pt") or val.get("en") or ""
+    return unescape(re.sub(r"<[^>]+>", "", str(val or ""))).strip()
+
+
+def fetch_sessions():
+    """Chama o BndLyr repeater API e devolve items + related."""
+    payload = {
+        "projectId": PROJECT_ID,
+        "contentId": "0",
+        "locale":    "pt",
+        "hash":      HASH,
+        "repeater": {
+            "id":         REPEATER_ID,
+            "repeaterId": REPEATER_ID,
+            "collection": COLLECTION,
+            "filters": [
+                {
+                    "attr":             "datetime_date",
+                    "condition":        "datetime-isSameOrAfter",
+                    "dateDirection":    "_future",
+                    "dateStart":        "_today",
+                    "dateExcludeToday": False,
+                    "remoteFilter":     False,
+                }
+            ],
+            "sorts":      [{"attr": "datetime_date", "direction": "asc"}],
+            "limit":      {"enabled": False},
+            "pagination": {"enabled": False},
+            "page":       0,
+            "perPage":    500,
+        },
+    }
+    data = json.dumps(payload).encode("utf-8")
+    req  = urllib.request.Request(
+        API_URL,
+        data=data,
+        headers={"Content-Type": "application/json", "User-Agent": "cineportugal/1.0"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=20) as r:
+        resp = json.loads(r.read().decode("utf-8"))
+    if resp.get("error"):
+        raise RuntimeError(f"BndLyr API error: {resp['error']}")
+    return resp.get("items", []), resp.get("related", [])
 
 
 def scrape():
-    print("[Batalha] A carregar homepage...")
-    html = fetch(HOME_URL)
+    print("[Batalha] A chamar BndLyr API para sessões futuras...")
+    items, related_list = fetch_sessions()
+    print(f"[Batalha] {len(items)} sessões, {len(related_list)} registos relacionados")
 
-    content_url = extract_content_url(html)
-    if not content_url:
-        print("[Batalha] ERRO: URL do content JS não encontrado")
-        return []
+    # related é um dict {id: record}
+    films = related_list if isinstance(related_list, dict) else {}
+    # Também indexa por lowercase para facilitar lookup (IDs podem ter case misto)
+    films_lower = {k.lower(): v for k, v in films.items()}
 
-    print(f"[Batalha] Content JS: {content_url}")
-    js_text = fetch(content_url)
+    # Agrupa sessões por filme(s)
+    movie_map = {}  # film_id → {meta, sessions[]}
 
-    data = parse_bndlyr_json(js_text)
-    if not data:
-        print("[Batalha] ERRO: não consegui parsear BndLyrContent")
-        return []
-
-    # ── Recolhe sessões e filmes de todos os repeaters ───────────────────────
-    sessions_by_film = {}  # film_id → list of session dicts
-    film_records = {}      # film_id → BndLyr film object
-
-    for key, value in data.items():
-        if not isinstance(value, dict):
-            continue
-        items   = value.get("items", [])
-        related = value.get("related", {})
-        if not isinstance(items, list) or not items:
+    for item in items:
+        date_raw = item.get("datetime_date", "")
+        if not date_raw:
             continue
 
-        # Repeater de sessões: itens têm datetime_date + ref_film
-        if "datetime_date" in items[0] and "ref_film" in items[0]:
-            for item in items:
-                ref_film = item.get("ref_film")
-                dt_str   = item.get("datetime_date", "")
-                if not ref_film or not dt_str:
-                    continue
-                date_str, time_str = utc_to_lisbon(dt_str)
-                presenca = get_str(item, "text_presencas")
-                sessions_by_film.setdefault(ref_film, []).append({
-                    "date": date_str, "time": time_str, "presenca": presenca
-                })
+        date_str, time_str = utc_to_lisbon(date_raw)
 
-        # Registo de filmes no campo related
-        for fid, fdata in (related or {}).items():
-            if isinstance(fdata, dict) and ("text_title" in fdata or "text_display_title" in fdata):
-                film_records[fid] = fdata
+        presenca = get_str(item, "text_presencas")
+        sess = {"date": date_str, "time": time_str, "cinema": CINEMA_ID}
+        if presenca:
+            sess["labels"] = [presenca]
 
-    if not sessions_by_film:
-        print("[Batalha] AVISO: nenhuma sessão encontrada")
-        return []
+        # Sessão de filme único
+        ref_film = item.get("ref_film")
+        # Sessão multi-filme
+        multi = item.get("multiRef_films") or {}
+        if isinstance(multi, dict):
+            multi_ids = sorted(multi.keys(), key=lambda k: multi[k])
+        elif isinstance(multi, list):
+            multi_ids = multi
+        else:
+            multi_ids = []
+
+        if ref_film:
+            film_ids = [ref_film]
+        elif multi_ids:
+            film_ids = multi_ids
+        else:
+            # Sem filme associado — usa display_title da sessão como título
+            title = get_str(item, "text_display_title")
+            if not title:
+                continue
+            fid = f"_sess_{item.get('id','')}"
+            film_ids = [fid]
+            if fid not in films:
+                films[fid] = {"_synthetic": True, "text_title": {"all": title}}
+
+        for fid in film_ids:
+            if fid not in movie_map:
+                movie_map[fid] = {"film_id": fid, "sessions": []}
+            movie_map[fid]["sessions"].append(sess)
 
     movies = []
-    for film_id, sessions in sessions_by_film.items():
-        film = film_records.get(film_id, {})
+    for fid, entry in movie_map.items():
+        film = films.get(fid) or films_lower.get(fid.lower()) or {}
 
-        # Título (prefere display_title)
         title = get_str(film, "text_display_title") or get_str(film, "text_title")
         if not title:
-            slug = get_str(film, "_slug") or film_id
-            title = slug.replace("-", " ").title()
+            title = get_str(film, "_slug") or fid
+            title = title.replace("-", " ").title()
 
-        # Realizador
         d1 = get_str(film, "text_director1")
         d2 = get_str(film, "text_director2")
         director = ", ".join(filter(None, [d1, d2])) or None
@@ -146,24 +161,21 @@ def scrape():
         if duration: duration = int(duration)
 
         poster = get_str(film, "image_photo") or None
-        slug   = get_str(film, "_slug") or film_id.replace("_", "-")
+        slug   = get_str(film, "_slug") or fid.replace("_", "-")
         link   = f"{BASE_URL}/filmes/{slug}"
 
-        # Deduplica e converte sessões
+        # Deduplica sessões
         seen, unique = set(), []
-        for s in sessions:
+        for s in entry["sessions"]:
             k = (s["date"], s["time"])
             if k not in seen:
                 seen.add(k)
-                sess = {"date": s["date"], "time": s["time"], "cinema": CINEMA_ID}
-                if s.get("presenca"):
-                    sess["labels"] = [s["presenca"]]
-                unique.append(sess)
+                unique.append(s)
         unique.sort(key=lambda s: (s["date"], s["time"]))
 
         print(f"  → {title} ({director}, {year}, {duration}min) — {len(unique)} sessão(ões)")
         movies.append({
-            "id":       f"batalha_{film_id}",
+            "id":       f"batalha_{fid}",
             "title":    title,
             "director": director,
             "year":     year,
