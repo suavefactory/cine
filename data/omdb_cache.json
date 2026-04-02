@@ -10365,5 +10365,130 @@
   "Jlg/Jlg|1994": {
     "lbxd": null,
     "omdb": null
+  },
+  "Zwischen Zwei Kriegen|1978": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Einschlafgeschichten: Brücken|1989": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Jeder Ein Berliner Kindl|1966": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/1/6/2/9/401629-jeder-ein-berliner-kindl-0-500-0-750-crop.jpg?v=c036e6f4b4",
+      "description": "Advertising posters for the Berliner Kindl brewery in the stands of Berlin’s sports arena show beer drinkers through the ages, from an organ-grinder at the turn of the 20th century to a fashionable \"Beatle wannabe\". A critical analysis of the images leads to the parody motto \"Berliner Kindl is a swindle\".",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Germany"
+    },
+    "omdb": {
+      "Title": "Jeder ein Berliner Kindl",
+      "Year": "1966",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "4 min",
+      "Genre": "Documentary, Short",
+      "Director": "Harun Farocki",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "German",
+      "Country": "West Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "19",
+      "imdbID": "tt0417814",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Zur Ansicht: Peter Weiss|1979": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/4/6/5/0/304650-zur-ansicht-peter-weiss-0-500-0-750-crop.jpg?v=0e0baa5b12",
+      "description": "Interview film with Peter Weiss",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Sweden"
+    },
+    "omdb": {
+      "Title": "Zur Ansicht: Peter Weiss",
+      "Year": "1979",
+      "Rated": "N/A",
+      "Released": "19 Oct 1979",
+      "Runtime": "44 min",
+      "Genre": "Documentary",
+      "Director": "Harun Farocki",
+      "Writer": "Harun Farocki",
+      "Actors": "Peter Weiss",
+      "Plot": "N/A",
+      "Language": "German",
+      "Country": "West Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0418353",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Der Geschmack Des Lebens|1979": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/3/6/4/0/1383640-der-geschmack-des-lebens-0-500-0-750-crop.jpg?v=f4ff7f1f42",
+      "description": null,
+      "genres": null,
+      "country": null
+    },
+    "omdb": {
+      "Title": "Der Geschmack des Lebens",
+      "Year": "1979",
+      "Rated": "N/A",
+      "Released": "05 Aug 1979",
+      "Runtime": "29 min",
+      "Genre": "Documentary",
+      "Director": "Harun Farocki",
+      "Writer": "Harun Farocki",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "German",
+      "Country": "West Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "8",
+      "imdbID": "tt0417709",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }

@@ -31,19 +31,26 @@ def fetch_html(url):
 def _parse_multi_description(text):
     """
     Extrai filmes individuais de um bloco de texto multi-filme.
-    Formato:
+    Suporta dois formatos:
+
+    Formato A (secções separadas por linha em branco):
         TÍTULO
         de Realizador
-        [com Elenco]
-        País, Ano[/Ano] - Duração min
-        [linha em branco]
+        País, Ano – Duração min
+
+    Formato B (sessão de grupo — múltiplos títulos ALL-CAPS, 1 realizador, anos compostos):
+        TÍTULO 1
+        "Subtítulo 1"
         TÍTULO 2
-        ...
+        "Subtítulo 2"
+        de Realizador
+        País, 1966, 1979, 1979 – 4, 44, 29 min
+
     Retorna lista de {title, director, year, duration}.
     """
     films = []
-    # Normaliza quebras de linha
-    text = re.sub(r'\r\n', '\n', text).strip()
+    # Normaliza quebras de linha e espaços não separáveis
+    text = re.sub(r'\r\n', '\n', text).replace('\xa0', ' ').strip()
     sections = re.split(r'\n\s*\n', text)
 
     for section in sections:
@@ -51,45 +58,70 @@ def _parse_multi_description(text):
         if not lines:
             continue
 
-        title = director = year = duration = None
+        pending_titles = []  # candidatos a título (para suporte a Formato B)
+        director = None
+        year = duration = None
 
         for line in lines:
-            # Para em "Duração total", "legendad", "M/12", info de legenda
+            # Para em "Duração total", "legenda", "M/12", info de legenda
             if re.match(r'(Dura[çc][aã]o total|legenda|M/\d)', line, re.IGNORECASE):
                 break
 
-            # Realizador: "de Nome"
-            dm = re.match(r'^de\s+(.+)$', line)
-            if dm and title is not None:
-                director = dm.group(1).strip()
+            # Subtítulo entre aspas — ignorar
+            if re.match(r'^[\"\u201c\u201d]', line):
                 continue
 
             # Elenco: "com ..." — ignorar
             if re.match(r'^com\s+', line):
                 continue
 
-            # Ano + duração: "País, Ano[/Ano2] – N min"
+            # Realizador: "de Nome"
+            dm = re.match(r'^de\s+(.+)$', line)
+            if dm and pending_titles:
+                director = dm.group(1).strip()
+                continue
+
+            # Ano + duração composto: "..., Y1, Y2, Y3 – D1, D2, D3 min" (Formato B)
+            cym = re.search(
+                r'(\d{4}(?:,\s*\d{4})+)\s*[-\u2013]\s*(\d+(?:,\s*\d+)+)\s*min',
+                line, re.IGNORECASE
+            )
+            if cym and pending_titles and director:
+                _years = [int(y.strip()) for y in cym.group(1).split(',')]
+                _durs  = [int(d.strip()) for d in cym.group(2).split(',')]
+                for i, t in enumerate(pending_titles):
+                    y_ = _years[i] if i < len(_years) else _years[-1]
+                    d_ = _durs[i]  if i < len(_durs)  else _durs[-1]
+                    films.append({"title": t, "director": director, "year": y_, "duration": d_})
+                pending_titles = []
+                director = year = duration = None
+                continue
+
+            # Ano + duração simples: "País, Ano[/Ano2] – N min"
             ym = re.search(r'(\d{4})(?:[/\-]\d{2,4})?\s*[-\u2013]\s*(\d+)\s*min', line, re.IGNORECASE)
-            if ym and title is not None:
+            if ym and pending_titles:
                 year = int(ym.group(1))
                 duration = int(ym.group(2))
                 continue
 
-            # Título: primeira linha substancial antes de encontrar realizador
-            if title is None and len(line) > 2 and not re.match(r'^\d', line):
-                title = to_title_case(unescape(line))
+            # Título: primeira linha aceita qualquer conteúdo; linhas seguintes só ALL-CAPS
+            if len(line) > 2 and not re.match(r'^\d', line):
+                t = to_title_case(unescape(line))
+                if not pending_titles or line.isupper():
+                    pending_titles.append(t)
 
-        if title and (director or year):
-            films.append({"title": title, "director": director, "year": year, "duration": duration})
+        # Fim da secção: usa o primeiro título (Formato A normal)
+        if pending_titles and director and year:
+            films.append({"title": pending_titles[0], "director": director, "year": year, "duration": duration})
 
     return films
 
 
-def fetch_multi_film_details(film_id, date_str):
+def fetch_film_details(film_id, date_str):
     """
-    Para sessões multi-filme (título com " + ", sem realizador/ano),
-    busca a página individual e extrai os filmes separados.
-    Retorna lista de {title, director, year, duration} ou [] se falhar.
+    Para qualquer sessão sem metadados na página de programação,
+    busca a página individual e extrai 1 ou mais filmes da descrição.
+    Retorna lista de {title, director, year, duration} (0 = não é filme, 1 = filme único, 2+ = multi-filme).
     """
     url = f"{BASE_URL}/Programacao.aspx?id={film_id}&date={date_str}"
     try:
@@ -101,14 +133,13 @@ def fetch_multi_film_details(film_id, date_str):
     for it in info_texts:
         text = unescape(re.sub(r'<[^>]+>', ' ', it)).strip()
         text = re.sub(r'\r\n', '\n', text)
-        # Tem de ter pelo menos 2 linhas "de " (dois realizadores)
-        if len(re.findall(r'\nde\s+\S', text)) < 1:
+        # Tem de ter pelo menos 1 linha "de Realizador" e " min"
+        if not re.search(r'\nde\s+\S', text):
             continue
-        # E pelo menos 2 ocorrências de "min" (duas durações)
-        if text.count(' min') < 2:
+        if ' min' not in text:
             continue
         films = _parse_multi_description(text)
-        if len(films) >= 2:
+        if films:
             return films
 
     return []
@@ -247,33 +278,55 @@ def scrape():
                 unique.append(s)
         m["sessions"] = sorted(unique, key=lambda s: (s["date"], s["time"]))
 
-    # ── Expande sessões multi-filme (título com " + ", sem realizador/ano) ──
+    # ── Resolve sessões sem metadados ou com título composto (multi-filme) ──
+    # Aplica-se a:
+    #   - QUALQUER sessão sem realizador ou sem ano
+    #   - Sessões com " + " no título (podem ter metadados errados por contaminação adjacente)
     to_remove = set()
     to_add    = []
     for m in result:
-        if " + " not in m["title"]:
-            continue
+        is_multi_title = " + " in m.get("title", "")
+        has_meta = m.get("director") and m.get("year")
+        if has_meta and not is_multi_title:
+            continue  # metadados completos e título simples — ok
         film_id  = m["id"].replace("cinemateca_", "")
         date_str = m["sessions"][0]["date"] if m["sessions"] else None
         if not date_str:
             continue
-        multi = fetch_multi_film_details(film_id, date_str)
-        if len(multi) < 2:
-            continue
-        print(f"  [multi] {m['title']} → {len(multi)} filmes")
-        to_remove.add(m["id"])
-        for idx, film in enumerate(multi):
-            to_add.append({
-                "id":       f"cinemateca_{film_id}_{idx}",
-                "title":    film["title"],
-                "director": film["director"],
-                "year":     film["year"],
-                "duration": film["duration"],
-                "poster":   None,
-                "genres":   [],
-                "link":     m["link"],
-                "sessions": m["sessions"],
-            })
+        films = fetch_film_details(film_id, date_str)
+        if not films:
+            # Título multi com metadados suspeitos mas sem descrição → remover para evitar dados errados
+            if is_multi_title and has_meta:
+                to_remove.add(m["id"])
+            continue  # conferência/palestra sem filme — mantém como está
+        if len(films) == 1 and not is_multi_title:
+            # Filme único: actualiza metadados in-place (só se título não tem " + ")
+            # Para títulos com " + ", só confiamos numa resolução de 2+ filmes
+            f = films[0]
+            print(f"  [resolve] {m['title']!r} → {f['title']!r} ({f['director']}, {f['year']})")
+            m["title"]    = f["title"]
+            m["director"] = f["director"]
+            m["year"]     = f["year"]
+            m["duration"] = f["duration"]
+        elif len(films) == 1 and is_multi_title and has_meta:
+            # Título multi mas só 1 filme encontrado — metadados originais provavelmente errados → remover
+            to_remove.add(m["id"])
+        elif len(films) >= 2:
+            # Multi-filme: divide em entradas separadas
+            print(f"  [multi] {m['title']!r} → {len(films)} filmes")
+            to_remove.add(m["id"])
+            for idx, f in enumerate(films):
+                to_add.append({
+                    "id":       f"cinemateca_{film_id}_{idx}",
+                    "title":    f["title"],
+                    "director": f["director"],
+                    "year":     f["year"],
+                    "duration": f["duration"],
+                    "poster":   None,
+                    "genres":   [],
+                    "link":     m["link"],
+                    "sessions": m["sessions"],
+                })
 
     result = [m for m in result if m["id"] not in to_remove] + to_add
 
