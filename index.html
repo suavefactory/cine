@@ -73,6 +73,21 @@
     .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
     .date-chip .dm { display: none; }
 
+    /* ── CITY BAR ── */
+    .city-bar {
+      display: flex; width: 100%;
+      background: var(--bg); border-bottom: 2px solid var(--line);
+    }
+    .city-chip {
+      flex: 1; font-family: inherit;
+      font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;
+      padding: 16px 0; text-align: center;
+      background: none; border: none; border-right: 1px solid var(--line);
+      color: var(--ink2); cursor: pointer; transition: background 0.12s, color 0.12s;
+    }
+    .city-chip:last-child { border-right: none; }
+    .city-chip.active { background: var(--ink); color: var(--acc); }
+
     /* ── FILTER BAR ── */
     .filter-bar {
       display: flex; width: 100%;
@@ -375,6 +390,7 @@
 <script>document.write('<scr'+'ipt src="data/sessions.js?v='+new Date().toISOString().slice(0,10)+'" onerror="window.CINEMA_DATA=null"><\/scr'+'ipt>');</script>
 
 <div class="date-bar" id="dateBar"></div>
+<div class="city-bar" id="cityBar"></div>
 <div class="filter-bar" id="filterBar"></div>
 
 <main id="main"></main>
@@ -406,28 +422,35 @@
 const CINEMAS = [
   { id:"cinemateca",  name:"Cinemateca Portuguesa", zone:"Marquês de Pombal", color:"#ff7043", short:"Cinemateca",
     lat:38.7197, lng:-9.1455, address:"Rua Barata Salgueiro 39, 1250-044 Lisboa",
-    url:"https://cinemateca.pt" },
+    url:"https://cinemateca.pt",           city:"lisboa" },
   { id:"nimas",       name:"Medeia Nimas",          zone:"Av. 5 de Outubro",  color:"#ab47bc", short:"Nimas",
     lat:38.7272, lng:-9.1397, address:"Av. 5 de Outubro 42-B, 1050-059 Lisboa",
-    url:"https://medeiafilmes.com" },
+    url:"https://medeiafilmes.com",        city:"lisboa" },
   { id:"sao_jorge",   name:"Cinema São Jorge",      zone:"Av. Liberdade",     color:"#ef5350", short:"S. Jorge",
     lat:38.7194, lng:-9.1461, address:"Av. da Liberdade 175, 1250-141 Lisboa",
-    url:"https://cinemasaojorge.pt" },
+    url:"https://cinemasaojorge.pt",       city:"lisboa" },
   { id:"ideal",       name:"Cinema Ideal",          zone:"Chiado",            color:"#42a5f5", short:"Ideal",
     lat:38.7093, lng:-9.1428, address:"Rua do Loreto 16, 1200-242 Lisboa",
-    url:"https://cinemalideal.pt" },
+    url:"https://cinemalideal.pt",         city:"lisboa" },
   { id:"fernando",    name:"Cinema Fernando Lopes", zone:"Campo Grande",      color:"#26a69a", short:"F. Lopes",
     lat:38.7572, lng:-9.1541, address:"Campo Grande 376, 1700-097 Lisboa",
-    url:"https://cinemafernandolopes.pt" },
+    url:"https://cinemafernandolopes.pt",  city:"lisboa" },
   { id:"culturgest",  name:"Culturgest",            zone:"Entrecampos",       color:"#66bb6a", short:"Culturgest",
     lat:38.7390, lng:-9.1370, address:"Rua Arco do Cego 1, 1000-300 Lisboa",
-    url:"https://culturgest.pt" },
+    url:"https://culturgest.pt",           city:"lisboa" },
   { id:"nos_colombo", name:"NOS Cinemas Colombo",   zone:"Benfica",           color:"#5c6bc0", short:"NOS",
     lat:38.7561, lng:-9.1931, address:"Centro Colombo, Av. Lusíada, 1500-392 Lisboa",
-    url:"https://www.noscinemas.pt" },
+    url:"https://www.noscinemas.pt",       city:"lisboa" },
   { id:"cc",          name:"Cinema City",           zone:"Campo Pequeno",     color:"#ffa726", short:"Cin. City",
     lat:38.7368, lng:-9.1434, address:"Campo Pequeno 52, 1000-082 Lisboa",
-    url:"" },
+    url:"",                                city:"lisboa" },
+  // ── Porto ──────────────────────────────────────────────────────────────────
+  { id:"batalha",     name:"Batalha Centro de Cinema", zone:"Batalha",        color:"#f9a825", short:"Batalha",
+    lat:41.1478, lng:-8.6068, address:"Praça da Batalha, 4000-101 Porto",
+    url:"https://www.batalhacentrodecinema.pt", city:"porto" },
+  { id:"trindade",    name:"Cinema Trindade",       zone:"Baixa do Porto",    color:"#e91e63", short:"Trindade",
+    lat:41.1484, lng:-8.6150, address:"Rua do Almada 42, 4050-037 Porto",
+    url:"https://cinematrindade.pt",       city:"porto" },
 ];
 
 const MOCK_MOVIES = [
@@ -608,6 +631,8 @@ const CINEMA_GRADIENTS = {
   culturgest: 'linear-gradient(135deg,#081408 0%,#102010 100%)',
   nos_colombo:'linear-gradient(135deg,#080c18 0%,#101828 100%)',
   cc:         'linear-gradient(135deg,#100c04 0%,#201808 100%)',
+  batalha:    'linear-gradient(135deg,#1a1000 0%,#2e1c00 100%)',
+  trindade:   'linear-gradient(135deg,#1a0010 0%,#2e0018 100%)',
 };
 
 const MOVIES = (window.CINEMA_DATA?.movies ?? MOCK_MOVIES).map(m => {
@@ -622,11 +647,12 @@ const MOVIES = (window.CINEMA_DATA?.movies ?? MOCK_MOVIES).map(m => {
 // Ajusta a data inicial ao dia actual
 const TODAY = new Date().toISOString().split('T')[0];
 
-let activeView   = 'agenda';
-let activeDate   = TODAY;
+let activeView    = 'agenda';
+let activeDate    = TODAY;
+let activeCity    = 'lisboa';
 let activeCinemas = new Set();
-let filmesSort   = 'data'; // 'data' | 'rating'
-let leafletMap   = null;
+let filmesSort    = 'data'; // 'data' | 'rating'
+let leafletMap    = null;
 
 // ── HELPERS ───────────────────────────────────────────────────────────────────
 
@@ -659,6 +685,8 @@ function movieMeta(m) {
 }
 
 function cinemaOk(cid) {
+  const c = CINEMAS.find(x => x.id === cid);
+  if (!c || c.city !== activeCity) return false;
   return activeCinemas.size === 0 || activeCinemas.has(cid);
 }
 
@@ -680,12 +708,23 @@ function renderDateBar() {
     `).join('');
 }
 
+// ── RENDER CITY BAR ───────────────────────────────────────────────────────────
+
+function renderCityBar() {
+  const cities = [
+    { id:'lisboa', name:'Lisboa' },
+    { id:'porto',  name:'Porto'  },
+  ];
+  document.getElementById('cityBar').innerHTML =
+    cities.map(c => `<button class="city-chip ${activeCity === c.id ? 'active' : ''}"
+        onclick="setCity('${c.id}')">${c.name}</button>`).join('');
+}
+
 // ── RENDER FILTER BAR ─────────────────────────────────────────────────────────
 
 function renderFilterBar() {
-  // Só mostra cinemas que têm sessões nos dados actuais
   const activeCinemaIds = new Set(MOVIES.flatMap(m => m.sessions.map(s => s.cinema)));
-  const visibleCinemas  = CINEMAS.filter(c => activeCinemaIds.has(c.id));
+  const visibleCinemas  = CINEMAS.filter(c => activeCinemaIds.has(c.id) && c.city === activeCity);
 
   document.getElementById('filterBar').innerHTML =
     visibleCinemas.map(c => {
@@ -1041,6 +1080,7 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 
 function render() {
   renderDateBar();
+  renderCityBar();
   renderFilterBar();
 
   document.getElementById('main').style.padding = '';
@@ -1072,6 +1112,11 @@ function setDate(d) {
   });
 }
 function setSort(s)  { filmesSort = s; renderFilmes(); }
+function setCity(city) {
+  activeCity = city;
+  activeCinemas = new Set();
+  render();
+}
 function toggleCinema(id) {
   activeCinemas.has(id) ? activeCinemas.delete(id) : activeCinemas.add(id);
   render();

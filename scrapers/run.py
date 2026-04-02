@@ -20,6 +20,8 @@ from sao_jorge  import scrape as scrape_sao_jorge
 from cinemateca import scrape as scrape_cinemateca
 from nimas      import scrape as scrape_nimas
 from fernando   import scrape as scrape_fernando
+from batalha    import scrape as scrape_batalha
+from trindade   import scrape as scrape_trindade
 from enricher   import enrich
 
 SCRAPERS = [
@@ -27,6 +29,8 @@ SCRAPERS = [
     ("Cinemateca",      scrape_cinemateca),
     ("Medeia Nimas",    scrape_nimas),
     ("Fernando Lopes",  scrape_fernando),
+    ("Batalha",         scrape_batalha),
+    ("Trindade",        scrape_trindade),
 ]
 
 def norm(text):
