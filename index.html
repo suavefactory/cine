@@ -831,7 +831,7 @@ function renderFilmes() {
             <div class="poster-bg" style="${m.poster
               ? `background:url('${m.poster}') center/cover no-repeat`
               : `background:${m.bg}`}">
-              ${m.poster ? '' : '<div class="poster-overlay"></div><span class="poster-title">${m.title}</span>'}
+              ${m.poster ? '' : `<div class="poster-overlay"></div><span class="poster-title">${m.title}</span>`}
             </div>
             ${m.rating ? `<span class="poster-rating">★ ${m.rating.toFixed(1)}</span>` : ''}
           </div>

@@ -128,14 +128,8 @@ def scrape():
         elif multi_ids:
             film_ids = multi_ids
         else:
-            # Sem filme associado — usa display_title da sessão como título
-            title = get_str(item, "text_display_title")
-            if not title:
-                continue
-            fid = f"_sess_{item.get('id','')}"
-            film_ids = [fid]
-            if fid not in films:
-                films[fid] = {"_synthetic": True, "text_title": {"all": title}}
+            # Sem filme associado — evento/quiz/visita, ignorar
+            continue
 
         for fid in film_ids:
             if fid not in movie_map:
