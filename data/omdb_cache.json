@@ -10242,5 +10242,128 @@
       "country": "Turkey"
     },
     "omdb": null
+  },
+  "La Ricotta – Director’s Cut|1963": {
+    "lbxd": {
+      "rating": 3.77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/5/2/9/5/595295-la-ricotta-0-500-0-750-crop.jpg?v=2259ec6b83",
+      "description": "Pier Paolo Pasolini’s contribution to the omnibus film RO.GO.PA.G casts Orson Welles as a director attempting to make a film of the crucifixion of Jesus—all while he, the cast, and crew behave in the most un-Christlike ways imaginable. Making explicit Pasolini’s themes of persecution and sacrifice while introducing an overtly political message, LA RICOTTA also reflects a shift from neorealism toward a more symbolic and visionary style in his filmmaking. It got him sentenced to several months in prison for contempt of religion, although the charge was reversed.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France"
+    },
+    "omdb": {
+      "Title": "La ricotta",
+      "Year": "1963",
+      "Rated": "N/A",
+      "Released": "19 Feb 1963",
+      "Runtime": "35 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Pier Paolo Pasolini",
+      "Writer": "Pier Paolo Pasolini",
+      "Actors": "Orson Welles, Mario Cipriani, Laura Betti",
+      "Plot": "N/A",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "63",
+      "imdbID": "tt26923328",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Sopralluoghi In Palestina Per Il Vangelo Secondo Matteo|1965": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/3/4/4/134344-location-hunting-in-palestine-0-500-0-750-crop.jpg?v=fd3ce116d3",
+      "description": "In 1963, accompanied by a newsreel photographer and a Catholic priest, Piero Paolo Pasolini traveled to Palestine to investigate the possibility of filming his biblical epic The Gospel According to Matthew in its approximate historical locations. Edited by The Gospel‘s producer for potential funders and distributors, Seeking Locations in Palestine features semi-improvised commentary from Pasolini as its only soundtrack. As we travel from village to village, we listen to Pasolini’s idiosyncratic musings on the teachings of Christ and witness his increasing disappointment with the people and landscapes he sees before him. Israel, he laments, is much too modern. The Palestinians, much too wretched; it would be impossible to believe the teachings of Jesus had reached these faces. The Gospel According to Matthew was ultimately filmed in Southern Italy. Mel Gibson would use some of the same locations forty years later for The Passion of the Christ.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Italy"
+    },
+    "omdb": null
+  },
+  "Ceux De Chez Nous|1915": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/4/8/3/66483-those-of-our-land-0-500-0-750-crop.jpg?v=bb95535f2e",
+      "description": "With family connections to some famous French artists, writers, and musicians of the time, Sacha Guitry decided to film the individuals in action, to celebrate the greatness of his culture, threatened by Germany in the ongoing Great War.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Italianamerican|1974": {
+    "lbxd": {
+      "rating": 3.98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/8/4/76584-italianamerican-0-500-0-750-crop.jpg?v=cb9c4ddd50",
+      "description": "Filmmaker Martin Scorsese interviews his mother and father about their life in New York and family history back in Sicily.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA"
+    },
+    "omdb": {
+      "Title": "Italianamerican",
+      "Year": "1974",
+      "Rated": "Not Rated",
+      "Released": "16 Apr 1980",
+      "Runtime": "49 min",
+      "Genre": "Documentary",
+      "Director": "Martin Scorsese",
+      "Writer": "Lawrence D. Cohen, Mardik Martin",
+      "Actors": "Catherine Scorsese, Charles Scorsese, Martin Scorsese",
+      "Plot": "Martin Scorsese interviews his mother and father about their life in New York City and the family history back in Sicily. These are two people who have lived together for a long time and know each other very well.",
+      "Language": "English, Italian",
+      "Country": "United States",
+      "Awards": "4 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjVjYzBmMTQtMmU1Ny00NzEyLThjNzUtMDFhOTZkYWZlMzI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "4,009",
+      "imdbID": "tt0071680",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Soft And Hard (A Soft Conversation Between Two Friends On A Hard Subject)|1986": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/4/7/160947-soft-and-hard-0-500-0-750-crop.jpg?v=c6dbc0d615",
+      "description": "Jean-Luc Godard and Anne-Marie Miéville talk about their films, while doing everyday tasks around their house.",
+      "genres": [
+        "Tv Movie",
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Jlg/Jlg|1994": {
+    "lbxd": null,
+    "omdb": null
   }
 }

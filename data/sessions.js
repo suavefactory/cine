@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-02T17:27:10.613866+00:00",
+  "generated": "2026-04-02T17:37:54.894671+00:00",
   "movies": [
     {
       "id": "sao_jorge_10298",
@@ -1005,33 +1005,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "cinemateca_19758",
-      "title": "La Ricotta – Director’s Cut + Sopralluoghi In Palestina Per Il Vangelo Secondo Matteo",
-      "director": "Damiano Damiani",
-      "year": 1968,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/5/2/9/5/595295-la-ricotta-0-500-0-750-crop.jpg?v=2259ec6b83",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19758",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "21:45",
-          "cinema": "cinemateca",
-          "labels": [
-            "Com a presença de Claudia Squitieri",
-            "Sessão com apresentação"
-          ]
-        }
-      ],
-      "rating": 3.77,
-      "plot": "Pier Paolo Pasolini’s contribution to the omnibus film RO.GO.PA.G casts Orson Welles as a director attempting to make a film of the crucifixion of Jesus—all while he, the cast, and crew behave in the most un-Christlike ways imaginable. Making explicit Pasolini’s themes of persecution and sacrifice while introducing an overtly political message, LA RICOTTA also reflects a shift from neorealism toward a more symbolic and visionary style in his filmmaking. It got him sentenced to several months in prison for contempt of religion, although the charge was reversed.",
-      "country": "France"
-    },
-    {
       "id": "cinemateca_19763",
       "title": "Visita Ou Memórias E Confissões",
       "director": "Manoel de Oliveira",
@@ -1194,23 +1167,6 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "cinemateca_19765",
-      "title": "Ceux De Chez Nous + Italianamerican",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19765",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
       "id": "cinemateca_19742",
       "title": "Libera, Amore Mio…",
       "director": "Mauro Bolognini",
@@ -1293,23 +1249,6 @@ window.CINEMA_DATA = {
       "rating": 3.69,
       "plot": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
       "country": "USA"
-    },
-    {
-      "id": "cinemateca_19767",
-      "title": "Soft And Hard (A Soft Conversation Between Two Friends On A Hard Subject) + Jlg/Jlg",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19767",
-      "sessions": [
-        {
-          "date": "2026-04-09",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
     },
     {
       "id": "cinemateca_19770",
@@ -1586,23 +1525,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_19766",
-      "title": "Ceux De Chez Nous + Italianamerican",
-      "director": "Mauro Bolognini",
-      "year": 1975,
-      "duration": 110,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19766",
-      "sessions": [
-        {
-          "date": "2026-04-13",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
       "id": "cinemateca_19783",
       "title": "Programa 2 – A Arte Da Observação",
       "director": null,
@@ -1674,6 +1596,152 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-04-15",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_19758_0",
+      "title": "La Ricotta – Director’s Cut",
+      "director": "Pier Paolo Pasolini",
+      "year": 1963,
+      "duration": 38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/5/2/9/5/595295-la-ricotta-0-500-0-750-crop.jpg?v=2259ec6b83",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19758",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "21:45",
+          "cinema": "cinemateca",
+          "labels": [
+            "Com a presença de Claudia Squitieri",
+            "Sessão com apresentação"
+          ]
+        }
+      ],
+      "rating": 3.77,
+      "plot": "Pier Paolo Pasolini’s contribution to the omnibus film RO.GO.PA.G casts Orson Welles as a director attempting to make a film of the crucifixion of Jesus—all while he, the cast, and crew behave in the most un-Christlike ways imaginable. Making explicit Pasolini’s themes of persecution and sacrifice while introducing an overtly political message, LA RICOTTA also reflects a shift from neorealism toward a more symbolic and visionary style in his filmmaking. It got him sentenced to several months in prison for contempt of religion, although the charge was reversed.",
+      "country": "France"
+    },
+    {
+      "id": "cinemateca_19758_1",
+      "title": "Sopralluoghi In Palestina Per Il Vangelo Secondo Matteo",
+      "director": "Pier Paolo Pasolini",
+      "year": 1965,
+      "duration": 55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/3/4/4/134344-location-hunting-in-palestine-0-500-0-750-crop.jpg?v=fd3ce116d3",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19758",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "21:45",
+          "cinema": "cinemateca",
+          "labels": [
+            "Com a presença de Claudia Squitieri",
+            "Sessão com apresentação"
+          ]
+        }
+      ],
+      "rating": 3.43,
+      "plot": "In 1963, accompanied by a newsreel photographer and a Catholic priest, Piero Paolo Pasolini traveled to Palestine to investigate the possibility of filming his biblical epic The Gospel According to Matthew in its approximate historical locations. Edited by The Gospel‘s producer for potential funders and distributors, Seeking Locations in Palestine features semi-improvised commentary from Pasolini as its only soundtrack. As we travel from village to village, we listen to Pasolini’s idiosyncratic musings on the teachings of Christ and witness his increasing disappointment with the people and landscapes he sees before him. Israel, he laments, is much too modern. The Palestinians, much too wretched; it would be impossible to believe the teachings of Jesus had reached these faces. The Gospel According to Matthew was ultimately filmed in Southern Italy. Mel Gibson would use some of the same locations forty years later for The Passion of the Christ.",
+      "country": "Italy"
+    },
+    {
+      "id": "cinemateca_19765_0",
+      "title": "Ceux De Chez Nous",
+      "director": "Sacha Guitry",
+      "year": 1915,
+      "duration": 44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/4/8/3/66483-those-of-our-land-0-500-0-750-crop.jpg?v=bb95535f2e",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19765",
+      "sessions": [
+        {
+          "date": "2026-04-08",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-04-13",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "With family connections to some famous French artists, writers, and musicians of the time, Sacha Guitry decided to film the individuals in action, to celebrate the greatness of his culture, threatened by Germany in the ongoing Great War.",
+      "country": "France"
+    },
+    {
+      "id": "cinemateca_19765_1",
+      "title": "Italianamerican",
+      "director": "Martin Scorsese",
+      "year": 1974,
+      "duration": 45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/8/4/76584-italianamerican-0-500-0-750-crop.jpg?v=cb9c4ddd50",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19765",
+      "sessions": [
+        {
+          "date": "2026-04-08",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-04-13",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.98,
+      "plot": "Filmmaker Martin Scorsese interviews his mother and father about their life in New York and family history back in Sicily.",
+      "country": "USA"
+    },
+    {
+      "id": "cinemateca_19767_0",
+      "title": "Soft And Hard (A Soft Conversation Between Two Friends On A Hard Subject)",
+      "director": "Jean-Luc Godard, Anne-Marie Miéville",
+      "year": 1986,
+      "duration": 48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/4/7/160947-soft-and-hard-0-500-0-750-crop.jpg?v=c6dbc0d615",
+      "genres": [
+        "Tv Movie",
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19767",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.56,
+      "plot": "Jean-Luc Godard and Anne-Marie Miéville talk about their films, while doing everyday tasks around their house.",
+      "country": "France"
+    },
+    {
+      "id": "cinemateca_19767_1",
+      "title": "Jlg/Jlg",
+      "director": "Jean-Luc Godard",
+      "year": 1994,
+      "duration": 55,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19767",
+      "sessions": [
+        {
+          "date": "2026-04-09",
           "time": "19:00",
           "cinema": "cinemateca"
         }
@@ -1839,6 +1907,78 @@ window.CINEMA_DATA = {
       "country": "Spain"
     },
     {
+      "id": "nimas_uma-licao-de-amor-1953",
+      "title": "Uma Lição de Amor",
+      "director": "Ingmar Bergman",
+      "year": 1953,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/83-a-lesson-in-love-0-500-0-750-crop.jpg?v=55899b86d4",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/uma-licao-de-amor-1953",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.47,
+      "plot": "After fifteen years of marriage and mutual infidelity, a couple on the brink of divorce unexpectedly confront their unresolved love during a journey to Copenhagen. Blending farce with emotional reflection, the film is Ingmar Bergman’s first sustained venture into marital comedy.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_psico-1960",
+      "title": "Psico",
+      "director": "Alfred Hitchcock",
+      "year": 1960,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/8/51578-psycho-0-500-0-750-crop.jpg?v=7250c49dcd",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "link": "https://medeiafilmes.com/filmes/psico-1960",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.31,
+      "plot": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_alexander-nevsky-1938",
+      "title": "Alexander Nevsky",
+      "director": "Serguei Eisenstein",
+      "year": 1938,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/7/46417-alexander-nevsky-0-500-0-750-crop.jpg?v=047b39ef04",
+      "genres": [
+        "War",
+        "History",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/alexander-nevsky-1938",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "When German knights invade Russia, Prince Alexander Nevsky must rally his people to resist the formidable force. After the Teutonic soldiers take over an eastern Russian city, Alexander stages his stand at Novgorod, where a major battle is fought on the ice of frozen Lake Chudskoe. While Alexander leads his outnumbered troops, two of their number, Vasili and Gavrilo, begin a contest of bravery to win the hand of a local maiden.",
+      "country": "USSR"
+    },
+    {
       "id": "nimas_entroncamento-2025",
       "title": "Entroncamento",
       "director": "Pedro Cabeleira",
@@ -1941,78 +2081,6 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_uma-licao-de-amor-1953",
-      "title": "Uma Lição de Amor",
-      "director": "Ingmar Bergman",
-      "year": 1953,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/83-a-lesson-in-love-0-500-0-750-crop.jpg?v=55899b86d4",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/uma-licao-de-amor-1953",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.47,
-      "plot": "After fifteen years of marriage and mutual infidelity, a couple on the brink of divorce unexpectedly confront their unresolved love during a journey to Copenhagen. Blending farce with emotional reflection, the film is Ingmar Bergman’s first sustained venture into marital comedy.",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_psico-1960",
-      "title": "Psico",
-      "director": "Alfred Hitchcock",
-      "year": 1960,
-      "duration": 109,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/8/51578-psycho-0-500-0-750-crop.jpg?v=7250c49dcd",
-      "genres": [
-        "Mystery",
-        "Thriller",
-        "Horror"
-      ],
-      "link": "https://medeiafilmes.com/filmes/psico-1960",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.31,
-      "plot": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_alexander-nevsky-1938",
-      "title": "Alexander Nevsky",
-      "director": "Serguei Eisenstein",
-      "year": 1938,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/7/46417-alexander-nevsky-0-500-0-750-crop.jpg?v=047b39ef04",
-      "genres": [
-        "War",
-        "History",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/alexander-nevsky-1938",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "When German knights invade Russia, Prince Alexander Nevsky must rally his people to resist the formidable force. After the Teutonic soldiers take over an eastern Russian city, Alexander stages his stand at Novgorod, where a major battle is fought on the ice of frozen Lake Chudskoe. While Alexander leads his outnumbered troops, two of their number, Vasili and Gavrilo, begin a contest of bravery to win the hand of a local maiden.",
-      "country": "USSR"
-    },
-    {
       "id": "nimas_andrei-rublev-1966",
       "title": "Andrei Rublev",
       "director": "Andrei Tarkovsky",
@@ -2063,6 +2131,30 @@ window.CINEMA_DATA = {
       "rating": 4.22,
       "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
       "country": "USA"
+    },
+    {
+      "id": "nimas_fanny-e-alexandre-1982",
+      "title": "Fanny e Alexandre",
+      "director": "Ingmar Bergman",
+      "year": 1982,
+      "duration": 188,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-500-0-750-crop.jpg?v=7a54d11e04",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/fanny-e-alexandre-1982",
+      "sessions": [
+        {
+          "date": "2026-04-04",
+          "time": "18:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.42,
+      "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+      "country": "Sweden"
     },
     {
       "id": "nimas_siberiada-1979",
@@ -2122,30 +2214,6 @@ window.CINEMA_DATA = {
       "rating": 4.19,
       "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "country": "UK"
-    },
-    {
-      "id": "nimas_fanny-e-alexandre-1982",
-      "title": "Fanny e Alexandre",
-      "director": "Ingmar Bergman",
-      "year": 1982,
-      "duration": 188,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-500-0-750-crop.jpg?v=7a54d11e04",
-      "genres": [
-        "Mystery",
-        "Fantasy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fanny-e-alexandre-1982",
-      "sessions": [
-        {
-          "date": "2026-04-04",
-          "time": "18:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.42,
-      "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
-      "country": "Sweden"
     },
     {
       "id": "nimas_sonata-de-outono-1978",
@@ -2214,6 +2282,29 @@ window.CINEMA_DATA = {
       "rating": 4.05,
       "plot": "This is the second part of a projected three-part epic biopic of Russian Czar Ivan Grozny, undertaken by Soviet film-maker Sergei Eisenstein at the behest of Josef Stalin. Production of the epic was stopped before the third part could be filmed, due to producer dissatisfaction with Eisenstein's introducing forbidden experimental filming techniques into the material, more evident in this part than the first part. As it was, this second part was banned from showings until after the deaths of both Eisenstein and Stalin, and a change of attitude by the subsequent heads of the Soviet government. In this part, as Ivan the Terrible attempts to consolidate his power by establishing a personal army, his political rivals, the Russian boyars, plot to assassinate him.",
       "country": "USSR"
+    },
+    {
+      "id": "nimas_moloch-1999",
+      "title": "Moloch",
+      "director": "Aleksandr Sokurov",
+      "year": 1999,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/moloch-1999",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.63,
+      "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
+      "country": "Germany"
     },
     {
       "id": "nimas_stalker-1979",
@@ -2285,27 +2376,50 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_moloch-1999",
-      "title": "Moloch",
-      "director": "Aleksandr Sokurov",
-      "year": 1999,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/9/2/10092-moloch-0-500-0-750-crop.jpg?v=09b5e34c66",
+      "id": "nimas_nostalgia-1983-1983",
+      "title": "Nostalgia (1983)",
+      "director": "Andrei Tarkovsky",
+      "year": 1983,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
       "genres": [
         "Drama",
-        "History"
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/moloch-1999",
+      "link": "https://medeiafilmes.com/filmes/nostalgia-1983-1983",
       "sessions": [
         {
-          "date": "2026-04-06",
+          "date": "2026-04-07",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.28,
+      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
+      "country": "Italy"
+    },
+    {
+      "id": "nimas_a-vergonha-1968",
+      "title": "A Vergonha",
+      "director": "Ingmar Bergman",
+      "year": 1968,
+      "duration": 103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/6/1/35361-shame-0-500-0-750-crop.jpg?v=b9973d7648",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-vergonha-1968",
+      "sessions": [
+        {
+          "date": "2026-04-07",
           "time": "14:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.63,
-      "plot": "In 1942 Bavaria, Eva is alone, when Adolf arrives with Josef, his wife Magda, and Martin to spend a couple of days without politics.",
-      "country": "Germany"
+      "rating": 4.22,
+      "plot": "In the midst of a civil war, a pair of former violinists in a tempestuous marriage oversee a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of their lives.",
+      "country": "Sweden"
     },
     {
       "id": "nimas_fairytale-2022",
@@ -2355,50 +2469,49 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_nostalgia-1983-1983",
-      "title": "Nostalgia (1983)",
-      "director": "Andrei Tarkovsky",
-      "year": 1983,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
+      "id": "nimas_a-fonte-da-virgem-1960",
+      "title": "A Fonte da Virgem",
+      "director": "Ingmar Bergman",
+      "year": 1960,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/7/45097-the-virgin-spring-0-500-0-750-crop.jpg?v=a96d692d1e",
       "genres": [
         "Drama",
-        "Romance"
+        "History"
       ],
-      "link": "https://medeiafilmes.com/filmes/nostalgia-1983-1983",
+      "link": "https://medeiafilmes.com/filmes/a-fonte-da-virgem-1960",
       "sessions": [
         {
-          "date": "2026-04-07",
-          "time": "19:00",
+          "date": "2026-04-08",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.28,
-      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
-      "country": "Italy"
+      "rating": 4.16,
+      "plot": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+      "country": "Sweden"
     },
     {
-      "id": "nimas_a-vergonha-1968",
-      "title": "A Vergonha",
-      "director": "Ingmar Bergman",
-      "year": 1968,
-      "duration": 103,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/6/1/35361-shame-0-500-0-750-crop.jpg?v=b9973d7648",
+      "id": "nimas_tu-e-eu-1971",
+      "title": "Tu e Eu",
+      "director": "Larisa Shepitko",
+      "year": 1971,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/9/1/5/110915-you-and-me-0-500-0-750-crop.jpg?v=3d3508587e",
       "genres": [
-        "War",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-vergonha-1968",
+      "link": "https://medeiafilmes.com/filmes/tu-e-eu-1971",
       "sessions": [
         {
-          "date": "2026-04-07",
-          "time": "14:30",
+          "date": "2026-04-08",
+          "time": "17:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.22,
-      "plot": "In the midst of a civil war, a pair of former violinists in a tempestuous marriage oversee a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of their lives.",
-      "country": "Sweden"
+      "rating": 3.67,
+      "plot": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work.",
+      "country": "USSR"
     },
     {
       "id": "nimas_blue-moon-2025",
@@ -2447,51 +2560,6 @@ window.CINEMA_DATA = {
       "rating": 4.19,
       "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
       "country": "USA"
-    },
-    {
-      "id": "nimas_a-fonte-da-virgem-1960",
-      "title": "A Fonte da Virgem",
-      "director": "Ingmar Bergman",
-      "year": 1960,
-      "duration": 89,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/7/45097-the-virgin-spring-0-500-0-750-crop.jpg?v=a96d692d1e",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-fonte-da-virgem-1960",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.16,
-      "plot": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_tu-e-eu-1971",
-      "title": "Tu e Eu",
-      "director": "Larisa Shepitko",
-      "year": 1971,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/9/1/5/110915-you-and-me-0-500-0-750-crop.jpg?v=3d3508587e",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/tu-e-eu-1971",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.67,
-      "plot": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work.",
-      "country": "USSR"
     },
     {
       "id": "nimas_o-barqueiro-2025",
@@ -2547,6 +2615,29 @@ window.CINEMA_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "nimas_chuva-de-julho-1966",
+      "title": "Chuva de Julho",
+      "director": "Marlen Khutsiev",
+      "year": 1966,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "Lena, a woman in her late twenties, loves her boyfriend, but in time comes to see that their relationship serves no useful function. What's more, she sees that her friends are for the most part empty-headed lackeys, causing her to wonder just what is the point of her life.",
+      "country": "USSR"
     },
     {
       "id": "nimas_o-sol-2005",
@@ -2617,27 +2708,27 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "nimas_chuva-de-julho-1966",
-      "title": "Chuva de Julho",
-      "director": "Marlen Khutsiev",
-      "year": 1966,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
+      "id": "nimas_ainda-funciona-2025",
+      "title": "Ainda Funciona?",
+      "director": "Bradley Cooper",
+      "year": 2025,
+      "duration": 124,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cu/cp/cr/2m/o0uOCDLZEwlForZ5Bf3IeBwlPLd-0-500-0-750-crop.jpg?v=371b64c948",
       "genres": [
-        "Drama",
-        "Romance"
+        "Comedy",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
+      "link": "https://medeiafilmes.com/filmes/ainda-funciona-2025",
       "sessions": [
         {
-          "date": "2026-04-09",
-          "time": "17:00",
+          "date": "2026-04-10",
+          "time": "17:15",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.92,
-      "plot": "Lena, a woman in her late twenties, loves her boyfriend, but in time comes to see that their relationship serves no useful function. What's more, she sees that her friends are for the most part empty-headed lackeys, causing her to wonder just what is the point of her life.",
-      "country": "USSR"
+      "rating": 3.42,
+      "plot": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+      "country": "UK"
     },
     {
       "id": "nimas_a-paixao-1956",
@@ -2708,27 +2799,51 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_ainda-funciona-2025",
-      "title": "Ainda Funciona?",
-      "director": "Bradley Cooper",
-      "year": 2025,
-      "duration": 124,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/cu/cp/cr/2m/o0uOCDLZEwlForZ5Bf3IeBwlPLd-0-500-0-750-crop.jpg?v=371b64c948",
+      "id": "nimas_amadeus-director-s-cut-1984",
+      "title": "Amadeus – Director's Cut",
+      "director": "Milos Forman",
+      "year": 1984,
+      "duration": 181,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "History",
+        "Music"
       ],
-      "link": "https://medeiafilmes.com/filmes/ainda-funciona-2025",
+      "link": "https://medeiafilmes.com/filmes/amadeus-director-s-cut-1984",
       "sessions": [
         {
-          "date": "2026-04-10",
-          "time": "17:15",
+          "date": "2026-04-11",
+          "time": "15:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.42,
-      "plot": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "country": "UK"
+      "rating": 4.36,
+      "plot": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_antes-do-anoitecer-2004",
+      "title": "Antes do Anoitecer",
+      "director": "Richard Linklater",
+      "year": 2004,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/0/51970-before-sunset-0-500-0-750-crop.jpg?v=718e2923ff",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/antes-do-anoitecer-2004",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "22:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.32,
+      "plot": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+      "country": "USA"
     },
     {
       "id": "nimas_morangos-silvestres-1957",
@@ -2781,53 +2896,6 @@ window.CINEMA_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "nimas_amadeus-director-s-cut-1984",
-      "title": "Amadeus – Director's Cut",
-      "director": "Milos Forman",
-      "year": 1984,
-      "duration": 181,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
-      "genres": [
-        "Drama",
-        "History",
-        "Music"
-      ],
-      "link": "https://medeiafilmes.com/filmes/amadeus-director-s-cut-1984",
-      "sessions": [
-        {
-          "date": "2026-04-11",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.36,
-      "plot": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_antes-do-anoitecer-2004",
-      "title": "Antes do Anoitecer",
-      "director": "Richard Linklater",
-      "year": 2004,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/0/51970-before-sunset-0-500-0-750-crop.jpg?v=718e2923ff",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/antes-do-anoitecer-2004",
-      "sessions": [
-        {
-          "date": "2026-04-11",
-          "time": "22:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.32,
-      "plot": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
-      "country": "USA"
     },
     {
       "id": "nimas_a-mascara-1966",
@@ -3011,6 +3079,51 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
+      "id": "nimas_em-busca-da-verdade-1961",
+      "title": "Em Busca da Verdade",
+      "director": "Ingmar Bergman",
+      "year": 1961,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rv/fr/9y/nj/oc7XMMpoDuXf7ZeLMNjw8VrHdrB-0-500-0-750-crop.jpg?v=d886332e9b",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/em-busca-da-verdade-1961",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "15:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.16,
+      "plot": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_arsenal-1929",
+      "title": "Arsenal",
+      "director": "Aleksandr Dovzhenko",
+      "year": 1929,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.75,
+      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
+      "country": "USSR"
+    },
+    {
       "id": "nimas_uma-luz-nas-trevas-1948",
       "title": "Uma Luz nas Trevas",
       "director": "Ingmar Bergman",
@@ -3056,51 +3169,6 @@ window.CINEMA_DATA = {
       "rating": 3.91,
       "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
       "country": "USA"
-    },
-    {
-      "id": "nimas_em-busca-da-verdade-1961",
-      "title": "Em Busca da Verdade",
-      "director": "Ingmar Bergman",
-      "year": 1961,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/rv/fr/9y/nj/oc7XMMpoDuXf7ZeLMNjw8VrHdrB-0-500-0-750-crop.jpg?v=d886332e9b",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/em-busca-da-verdade-1961",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.16,
-      "plot": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_arsenal-1929",
-      "title": "Arsenal",
-      "director": "Aleksandr Dovzhenko",
-      "year": 1929,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
-      "genres": [
-        "War",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.75,
-      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
-      "country": "USSR"
     },
     {
       "id": "fernando_o_u_ltimo_padrinho",

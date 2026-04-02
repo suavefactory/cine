@@ -28,6 +28,92 @@ def fetch_html(url):
         return r.read().decode("utf-8", errors="ignore")
 
 
+def _parse_multi_description(text):
+    """
+    Extrai filmes individuais de um bloco de texto multi-filme.
+    Formato:
+        TÍTULO
+        de Realizador
+        [com Elenco]
+        País, Ano[/Ano] - Duração min
+        [linha em branco]
+        TÍTULO 2
+        ...
+    Retorna lista de {title, director, year, duration}.
+    """
+    films = []
+    # Normaliza quebras de linha
+    text = re.sub(r'\r\n', '\n', text).strip()
+    sections = re.split(r'\n\s*\n', text)
+
+    for section in sections:
+        lines = [l.strip() for l in section.split('\n') if l.strip()]
+        if not lines:
+            continue
+
+        title = director = year = duration = None
+
+        for line in lines:
+            # Para em "Duração total", "legendad", "M/12", info de legenda
+            if re.match(r'(Dura[çc][aã]o total|legenda|M/\d)', line, re.IGNORECASE):
+                break
+
+            # Realizador: "de Nome"
+            dm = re.match(r'^de\s+(.+)$', line)
+            if dm and title is not None:
+                director = dm.group(1).strip()
+                continue
+
+            # Elenco: "com ..." — ignorar
+            if re.match(r'^com\s+', line):
+                continue
+
+            # Ano + duração: "País, Ano[/Ano2] – N min"
+            ym = re.search(r'(\d{4})(?:[/\-]\d{2,4})?\s*[-\u2013]\s*(\d+)\s*min', line, re.IGNORECASE)
+            if ym and title is not None:
+                year = int(ym.group(1))
+                duration = int(ym.group(2))
+                continue
+
+            # Título: primeira linha substancial antes de encontrar realizador
+            if title is None and len(line) > 2 and not re.match(r'^\d', line):
+                title = to_title_case(unescape(line))
+
+        if title and (director or year):
+            films.append({"title": title, "director": director, "year": year, "duration": duration})
+
+    return films
+
+
+def fetch_multi_film_details(film_id, date_str):
+    """
+    Para sessões multi-filme (título com " + ", sem realizador/ano),
+    busca a página individual e extrai os filmes separados.
+    Retorna lista de {title, director, year, duration} ou [] se falhar.
+    """
+    url = f"{BASE_URL}/Programacao.aspx?id={film_id}&date={date_str}"
+    try:
+        html = fetch_html(url)
+    except Exception:
+        return []
+
+    info_texts = re.findall(r'<div class="infoText[^"]*">(.*?)</div>', html, re.DOTALL)
+    for it in info_texts:
+        text = unescape(re.sub(r'<[^>]+>', ' ', it)).strip()
+        text = re.sub(r'\r\n', '\n', text)
+        # Tem de ter pelo menos 2 linhas "de " (dois realizadores)
+        if len(re.findall(r'\nde\s+\S', text)) < 1:
+            continue
+        # E pelo menos 2 ocorrências de "min" (duas durações)
+        if text.count(' min') < 2:
+            continue
+        films = _parse_multi_description(text)
+        if len(films) >= 2:
+            return films
+
+    return []
+
+
 def parse(html):
     """
     Estrutura do HTML:
@@ -160,6 +246,38 @@ def scrape():
                 seen.add(k)
                 unique.append(s)
         m["sessions"] = sorted(unique, key=lambda s: (s["date"], s["time"]))
+
+    # ── Expande sessões multi-filme (título com " + ", sem realizador/ano) ──
+    to_remove = set()
+    to_add    = []
+    for m in result:
+        if " + " not in m["title"]:
+            continue
+        film_id  = m["id"].replace("cinemateca_", "")
+        date_str = m["sessions"][0]["date"] if m["sessions"] else None
+        if not date_str:
+            continue
+        multi = fetch_multi_film_details(film_id, date_str)
+        if len(multi) < 2:
+            continue
+        print(f"  [multi] {m['title']} → {len(multi)} filmes")
+        to_remove.add(m["id"])
+        for idx, film in enumerate(multi):
+            to_add.append({
+                "id":       f"cinemateca_{film_id}_{idx}",
+                "title":    film["title"],
+                "director": film["director"],
+                "year":     film["year"],
+                "duration": film["duration"],
+                "poster":   None,
+                "genres":   [],
+                "link":     m["link"],
+                "sessions": m["sessions"],
+            })
+
+    result = [m for m in result if m["id"] not in to_remove] + to_add
+
+    for m in result:
         print(f"  → {m['title']}  ({m['director']}, {m['year']}, {m['duration']}min) — {len(m['sessions'])} sessão(ões)")
 
     print(f"[Cinemateca] {len(result)} filmes encontrados.")
