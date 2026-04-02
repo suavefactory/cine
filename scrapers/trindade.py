@@ -90,13 +90,24 @@ def extract_films_from_page(html):
 
 
 def scrape():
+    import time
     from datetime import date
     today = date.today().isoformat()
 
     print("[Trindade] A carregar página de programação...")
-    html = fetch(PROG_URL)
+    raw_films = []
+    for attempt in range(3):
+        if attempt > 0:
+            print(f"[Trindade] Tentativa {attempt + 1}/3...")
+            time.sleep(3)
+        try:
+            html = fetch(PROG_URL)
+            raw_films = extract_films_from_page(html)
+        except Exception as e:
+            print(f"[Trindade] Erro na tentativa {attempt + 1}: {e}")
+        if raw_films:
+            break
 
-    raw_films = extract_films_from_page(html)
     print(f"[Trindade] {len(raw_films)} filmes encontrados na página, a filtrar sessões futuras...")
 
     movies = []

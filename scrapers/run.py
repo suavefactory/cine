@@ -25,12 +25,12 @@ from trindade   import scrape as scrape_trindade
 from enricher   import enrich
 
 SCRAPERS = [
-    ("São Jorge",       scrape_sao_jorge),
-    ("Cinemateca",      scrape_cinemateca),
-    ("Medeia Nimas",    scrape_nimas),
-    ("Fernando Lopes",  scrape_fernando),
-    ("Batalha",         scrape_batalha),
-    ("Trindade",        scrape_trindade),
+    ("São Jorge",      "sao_jorge",      scrape_sao_jorge),
+    ("Cinemateca",     "cinemateca",     scrape_cinemateca),
+    ("Medeia Nimas",   "nimas",          scrape_nimas),
+    ("Fernando Lopes", "fernando_lopes", scrape_fernando),
+    ("Batalha",        "batalha",        scrape_batalha),
+    ("Trindade",       "trindade",       scrape_trindade),
 ]
 
 def norm(text):
@@ -69,17 +69,44 @@ def deduplicate(movies):
     return result
 
 
+def load_previous(out_path):
+    """Lê movies do sessions.js anterior para usar como fallback."""
+    try:
+        with open(out_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        json_str = content.removeprefix("window.CINEMA_DATA = ").removesuffix(";").strip()
+        return json.loads(json_str).get("movies", [])
+    except Exception:
+        return []
+
+
 def run():
+    out_dir  = os.path.join(os.path.dirname(__file__), "..", "data")
+    out_path = os.path.join(out_dir, "sessions.js")
+    previous = load_previous(out_path)
+
     all_movies = []
     errors = []
 
-    for name, scraper in SCRAPERS:
+    for name, cinema_id, scraper in SCRAPERS:
         try:
             movies = scraper()
-            all_movies.extend(movies)
         except Exception as e:
             print(f"[ERRO] {name}: {e}")
             errors.append({"cinema": name, "error": str(e)})
+            movies = []
+
+        if not movies:
+            # Fallback: preserva sessões do ciclo anterior para este cinema
+            prev = [m for m in previous
+                    if any(s.get("cinema") == cinema_id for s in m.get("sessions", []))]
+            if prev:
+                print(f"  [FALLBACK] {name}: 0 filmes obtidos, a usar {len(prev)} filmes anteriores")
+                movies = prev
+            else:
+                print(f"  [AVISO] {name}: 0 filmes e sem dados anteriores")
+
+        all_movies.extend(movies)
 
     # Limpa asteriscos dos horários e títulos (e.g. Nimas devolve "18:30 *")
     for movie in all_movies:
@@ -109,9 +136,7 @@ def run():
     }
 
     # Escreve data/sessions.js (carregado pelo frontend como <script>)
-    out_dir = os.path.join(os.path.dirname(__file__), "..", "data")
     os.makedirs(out_dir, exist_ok=True)
-    out_path = os.path.join(out_dir, "sessions.js")
 
     js_content = f"window.CINEMA_DATA = {json.dumps(payload, ensure_ascii=False, indent=2)};"
 
