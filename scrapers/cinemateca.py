@@ -103,6 +103,18 @@ def parse(html):
             if gm:
                 labels.append(gm.group(1)[0].upper() + gm.group(1)[1:])
                 continue
+            # "com a presença de X" (sem prefixo SESSÃO)
+            if re.match(r'com\s+a\s+presen[çc]a\s+de\b', text, re.IGNORECASE):
+                labels.append(text[0].upper() + text[1:])
+                continue
+            # "Sessão com apresentação" / "Sessão com X"
+            if re.match(r'sess[ãa]o\s+com\b', text, re.IGNORECASE):
+                labels.append(text[0].upper() + text[1:])
+                continue
+            # "com acompanhamento..." (sessões musicais/especiais)
+            if re.match(r'com\s+acompanhamento\b', text, re.IGNORECASE):
+                labels.append(text[0].upper() + text[1:])
+                continue
             # "Conversa com X" / "Debate com X" / "Seguida de debate"
             if re.match(r'(conversa|debate|seguida\s+de\s+(?:conversa|debate))\b', text, re.IGNORECASE):
                 labels.append(text[0].upper() + text[1:])
