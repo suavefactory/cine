@@ -775,7 +775,7 @@ function renderAgenda() {
                   ${(() => {
                     const tags = [];
                     if (s.movie.festival) tags.push(`<span class="special-tag">${s.movie.festival}</span>`);
-                    (s.labels ?? []).forEach(l => tags.push(`<span class="special-tag">${l}</span>`));
+                    (s.labels ?? []).forEach(l => tags.push(`<span class="special-tag">${simplifyLabel(l)}</span>`));
                     return tags.length ? `<div class="session-labels">${tags.join('')}</div>` : '';
                   })()}
                 </div>
@@ -1098,6 +1098,17 @@ function render() {
   });
 }
 
+function simplifyLabel(l) {
+  if (l.length <= 38) return l;
+  if (/^com acompanhamento/i.test(l))        return 'Com acompanhamento';
+  if (/^sessão com acompanhamento/i.test(l)) return 'Com acompanhamento';
+  const m = l.match(/^(com a presen[çc]a d[eo]\s+\S+)/i);
+  if (m) return m[1];
+  if (/^seguida de debate/i.test(l))   return 'Seguida de debate';
+  if (/^conversa com\b/i.test(l))      return l.slice(0, 35).trimEnd() + '…';
+  if (/^sess[ãa]o com\b/i.test(l))     return l.slice(0, 35).trimEnd() + '…';
+  return 'Sessão especial';
+}
 function setView(v) {
   if (v !== 'cinemas' && leafletMap) { leafletMap.remove(); leafletMap = null; }
   activeView = v;
