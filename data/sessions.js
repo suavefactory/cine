@@ -1,6 +1,31 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-02T15:09:03.675206+00:00",
+  "generated": "2026-04-02T15:33:28.649282+00:00",
   "movies": [
+    {
+      "id": "sao_jorge_10298",
+      "title": "Valor Sentimental",
+      "director": "Joachim Trier",
+      "duration": 135,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/3/5/7/1013357-sentimental-value-2025-0-500-0-750-crop.jpg?v=e89e64a309",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/valor-sentimental-sessao-marsupial/",
+      "sessions": [
+        {
+          "date": "2026-04-22",
+          "time": "14:30",
+          "cinema": "sao_jorge",
+          "labels": [
+            "Sessão Marsupial"
+          ]
+        }
+      ],
+      "rating": 4.16,
+      "plot": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+      "country": "Turkey"
+    },
     {
       "id": "sao_jorge_10261",
       "title": "IL CORTO",
@@ -1714,11 +1739,6 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         },
         {
-          "date": "2026-04-02",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-03",
           "time": "16:45",
           "cinema": "nimas"
@@ -1729,29 +1749,14 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         },
         {
-          "date": "2026-04-03",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-04",
           "time": "16:45",
           "cinema": "fernando"
         },
         {
           "date": "2026-04-04",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
           "time": "22:00",
           "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "16:30",
-          "cinema": "trindade"
         },
         {
           "date": "2026-04-05",
@@ -1762,11 +1767,6 @@ window.CINEMA_DATA = {
           "date": "2026-04-05",
           "time": "19:00",
           "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-06",
-          "time": "14:30",
-          "cinema": "trindade"
         },
         {
           "date": "2026-04-06",
@@ -1782,16 +1782,6 @@ window.CINEMA_DATA = {
           "date": "2026-04-07",
           "time": "19:00",
           "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "19:30",
-          "cinema": "trindade"
         },
         {
           "date": "2026-04-08",
@@ -1824,30 +1814,6 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.84,
       "plot": "During a brief summer vacation, a lonely woman recalls her first love thirteen years earlier.",
-      "country": "Sweden"
-    },
-    {
-      "id": "nimas_uma-licao-de-amor-1953",
-      "title": "Uma Lição de Amor",
-      "director": "Ingmar Bergman",
-      "year": 1953,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/83-a-lesson-in-love-0-500-0-750-crop.jpg?v=55899b86d4",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/uma-licao-de-amor-1953",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.47,
-      "plot": "After fifteen years of marriage and mutual infidelity, a couple on the brink of divorce unexpectedly confront their unresolved love during a journey to Copenhagen. Blending farce with emotional reflection, the film is Ingmar Bergman’s first sustained venture into marital comedy.",
       "country": "Sweden"
     },
     {
@@ -1899,6 +1865,30 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
+      "id": "nimas_uma-licao-de-amor-1953",
+      "title": "Uma Lição de Amor",
+      "director": "Ingmar Bergman",
+      "year": 1953,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/83-a-lesson-in-love-0-500-0-750-crop.jpg?v=55899b86d4",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/uma-licao-de-amor-1953",
+      "sessions": [
+        {
+          "date": "2026-04-02",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.47,
+      "plot": "After fifteen years of marriage and mutual infidelity, a couple on the brink of divorce unexpectedly confront their unresolved love during a journey to Copenhagen. Blending farce with emotional reflection, the film is Ingmar Bergman’s first sustained venture into marital comedy.",
+      "country": "Sweden"
+    },
+    {
       "id": "nimas_entroncamento-2025",
       "title": "Entroncamento",
       "director": "Pedro Cabeleira",
@@ -1917,27 +1907,9 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         },
         {
-          "date": "2026-04-02",
-          "time": "21:15",
-          "cinema": "trindade",
-          "labels": [
-            "com a presença do realizador e das actrizes Ana Vilaça e Maria Gil + conversa com o público"
-          ]
-        },
-        {
           "date": "2026-04-03",
           "time": "14:15",
           "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-03",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "19:00",
-          "cinema": "trindade"
         },
         {
           "date": "2026-04-05",
@@ -1963,11 +1935,6 @@ window.CINEMA_DATA = {
           ]
         },
         {
-          "date": "2026-04-07",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-14",
           "time": "12:30",
           "cinema": "nimas"
@@ -1976,29 +1943,6 @@ window.CINEMA_DATA = {
       "rating": 3.39,
       "plot": "In the town of Entroncamento, violence, misfortune, greed, and loyalty rule the streets. Laura arrives there to rebuild her life, but the irresistible pull of quick money and crime immediately draws her back into a troubled past. For those she meets at this crossroads, every day presents the choice between who they were and who they might become.",
       "country": "Portugal"
-    },
-    {
-      "id": "nimas_andrei-rublev-1966",
-      "title": "Andrei Rublev",
-      "director": "Andrei Tarkovsky",
-      "year": 1966,
-      "duration": 189,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ta/n3/34/bp/andrey-rublyov-0-500-0-750-crop.jpg?v=d30a8bb2cb",
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/andrei-rublev-1966",
-      "sessions": [
-        {
-          "date": "2026-04-03",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.44,
-      "plot": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
-      "country": "USSR"
     },
     {
       "id": "nimas_a-mulher-que-viveu-duas-vezes-1958",
@@ -2030,6 +1974,29 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
+      "id": "nimas_andrei-rublev-1966",
+      "title": "Andrei Rublev",
+      "director": "Andrei Tarkovsky",
+      "year": 1966,
+      "duration": 189,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ta/n3/34/bp/andrey-rublyov-0-500-0-750-crop.jpg?v=d30a8bb2cb",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/andrei-rublev-1966",
+      "sessions": [
+        {
+          "date": "2026-04-03",
+          "time": "10:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.44,
+      "plot": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
+      "country": "USSR"
+    },
+    {
       "id": "nimas_hamnet-2025",
       "title": "Hamnet",
       "director": "Chloé Zhao",
@@ -2047,45 +2014,11 @@ window.CINEMA_DATA = {
           "date": "2026-04-04",
           "time": "14:00",
           "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "14:30",
-          "cinema": "trindade"
         }
       ],
       "rating": 4.19,
       "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "country": "UK"
-    },
-    {
-      "id": "nimas_fanny-e-alexandre-1982",
-      "title": "Fanny e Alexandre",
-      "director": "Ingmar Bergman",
-      "year": 1982,
-      "duration": 188,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-500-0-750-crop.jpg?v=7a54d11e04",
-      "genres": [
-        "Mystery",
-        "Fantasy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fanny-e-alexandre-1982",
-      "sessions": [
-        {
-          "date": "2026-04-04",
-          "time": "18:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.42,
-      "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
-      "country": "Sweden"
     },
     {
       "id": "nimas_siberiada-1979",
@@ -2113,27 +2046,28 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_ivan-o-terrivel-parte-2-1958",
-      "title": "Ivan, o Terrível – Parte 2",
-      "director": "Sergei Eisenstein",
-      "year": 1958,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/0/0/5/22005-ivan-the-terrible-part-ii-the-boyars-plot-0-500-0-750-crop.jpg?v=df0c6bb808",
+      "id": "nimas_fanny-e-alexandre-1982",
+      "title": "Fanny e Alexandre",
+      "director": "Ingmar Bergman",
+      "year": 1982,
+      "duration": 188,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-500-0-750-crop.jpg?v=7a54d11e04",
       "genres": [
-        "History",
+        "Mystery",
+        "Fantasy",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/ivan-o-terrivel-parte-2-1958",
+      "link": "https://medeiafilmes.com/filmes/fanny-e-alexandre-1982",
       "sessions": [
         {
-          "date": "2026-04-05",
-          "time": "10:00",
+          "date": "2026-04-04",
+          "time": "18:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.05,
-      "plot": "This is the second part of a projected three-part epic biopic of Russian Czar Ivan Grozny, undertaken by Soviet film-maker Sergei Eisenstein at the behest of Josef Stalin. Production of the epic was stopped before the third part could be filmed, due to producer dissatisfaction with Eisenstein's introducing forbidden experimental filming techniques into the material, more evident in this part than the first part. As it was, this second part was banned from showings until after the deaths of both Eisenstein and Stalin, and a change of attitude by the subsequent heads of the Soviet government. In this part, as Ivan the Terrible attempts to consolidate his power by establishing a personal army, his political rivals, the Russian boyars, plot to assassinate him.",
-      "country": "USSR"
+      "rating": 4.42,
+      "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+      "country": "Sweden"
     },
     {
       "id": "nimas_sonata-de-outono-1978",
@@ -2156,6 +2090,29 @@ window.CINEMA_DATA = {
       "rating": 4.49,
       "plot": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
       "country": "Germany"
+    },
+    {
+      "id": "nimas_ivan-o-terrivel-parte-2-1958",
+      "title": "Ivan, o Terrível – Parte 2",
+      "director": "Sergei Eisenstein",
+      "year": 1958,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/0/0/5/22005-ivan-the-terrible-part-ii-the-boyars-plot-0-500-0-750-crop.jpg?v=df0c6bb808",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ivan-o-terrivel-parte-2-1958",
+      "sessions": [
+        {
+          "date": "2026-04-05",
+          "time": "10:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "This is the second part of a projected three-part epic biopic of Russian Czar Ivan Grozny, undertaken by Soviet film-maker Sergei Eisenstein at the behest of Josef Stalin. Production of the epic was stopped before the third part could be filmed, due to producer dissatisfaction with Eisenstein's introducing forbidden experimental filming techniques into the material, more evident in this part than the first part. As it was, this second part was banned from showings until after the deaths of both Eisenstein and Stalin, and a change of attitude by the subsequent heads of the Soviet government. In this part, as Ivan the Terrible attempts to consolidate his power by establishing a personal army, his political rivals, the Russian boyars, plot to assassinate him.",
+      "country": "USSR"
     },
     {
       "id": "nimas_ivan-o-terrivel-parte-1-1944",
@@ -2181,25 +2138,50 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_o-homem-da-camara-de-filmar-1929",
-      "title": "O Homem da Câmara de Filmar",
-      "director": "Dziga Vertov",
-      "year": 1929,
-      "duration": 68,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
+      "id": "nimas_ladrao-de-casaca-1955",
+      "title": "Ladrão de Casaca",
+      "director": "Alfred Hitchcock",
+      "year": 1955,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/4/51704-to-catch-a-thief-0-500-0-750-crop.jpg?v=d33cec8e58",
       "genres": [
-        "Documentary"
+        "Romance",
+        "Thriller",
+        "Mystery"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
+      "link": "https://medeiafilmes.com/filmes/ladrao-de-casaca-1955",
       "sessions": [
         {
           "date": "2026-04-06",
-          "time": "13:00",
+          "time": "21:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.27,
-      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+      "rating": 3.72,
+      "plot": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_stalker-1979",
+      "title": "Stalker",
+      "director": "Andrei Tarkovsky",
+      "year": 1979,
+      "duration": 162,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "link": "https://medeiafilmes.com/filmes/stalker-1979",
+      "sessions": [
+        {
+          "date": "2026-04-13",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.4,
+      "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "country": "USSR"
     },
     {
@@ -2226,51 +2208,26 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "nimas_stalker-1979",
-      "title": "Stalker",
-      "director": "Andrei Tarkovsky",
-      "year": 1979,
-      "duration": 162,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
+      "id": "nimas_o-homem-da-camara-de-filmar-1929",
+      "title": "O Homem da Câmara de Filmar",
+      "director": "Dziga Vertov",
+      "year": 1929,
+      "duration": 68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
       "genres": [
-        "Drama",
-        "Science Fiction"
+        "Documentary"
       ],
-      "link": "https://medeiafilmes.com/filmes/stalker-1979",
-      "sessions": [
-        {
-          "date": "2026-04-13",
-          "time": "21:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.4,
-      "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "country": "USSR"
-    },
-    {
-      "id": "nimas_ladrao-de-casaca-1955",
-      "title": "Ladrão de Casaca",
-      "director": "Alfred Hitchcock",
-      "year": 1955,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/4/51704-to-catch-a-thief-0-500-0-750-crop.jpg?v=d33cec8e58",
-      "genres": [
-        "Romance",
-        "Thriller",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ladrao-de-casaca-1955",
+      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
       "sessions": [
         {
           "date": "2026-04-06",
-          "time": "21:30",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.72,
-      "plot": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
-      "country": "USA"
+      "rating": 4.27,
+      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+      "country": "USSR"
     },
     {
       "id": "nimas_os-passaros-1963",
@@ -2366,27 +2323,28 @@ window.CINEMA_DATA = {
       "country": "Belgium"
     },
     {
-      "id": "nimas_a-fonte-da-virgem-1960",
-      "title": "A Fonte da Virgem",
-      "director": "Ingmar Bergman",
-      "year": 1960,
-      "duration": 89,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/7/45097-the-virgin-spring-0-500-0-750-crop.jpg?v=a96d692d1e",
+      "id": "nimas_intriga-internacional-1959",
+      "title": "Intriga Internacional",
+      "director": "Alfred Hitchcock",
+      "year": 1959,
+      "duration": 136,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
       "genres": [
-        "Drama",
-        "History"
+        "Mystery",
+        "Adventure",
+        "Thriller"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-fonte-da-virgem-1960",
+      "link": "https://medeiafilmes.com/filmes/intriga-internacional-1959",
       "sessions": [
         {
           "date": "2026-04-08",
-          "time": "13:00",
+          "time": "21:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.16,
-      "plot": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
-      "country": "Sweden"
+      "rating": 4.19,
+      "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+      "country": "USA"
     },
     {
       "id": "nimas_tu-e-eu-1971",
@@ -2435,28 +2393,27 @@ window.CINEMA_DATA = {
       "country": "Ireland"
     },
     {
-      "id": "nimas_intriga-internacional-1959",
-      "title": "Intriga Internacional",
-      "director": "Alfred Hitchcock",
-      "year": 1959,
-      "duration": 136,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/4/3/51843-north-by-northwest-0-500-0-750-crop.jpg?v=b7064eeb7d",
+      "id": "nimas_a-fonte-da-virgem-1960",
+      "title": "A Fonte da Virgem",
+      "director": "Ingmar Bergman",
+      "year": 1960,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/7/45097-the-virgin-spring-0-500-0-750-crop.jpg?v=a96d692d1e",
       "genres": [
-        "Mystery",
-        "Adventure",
-        "Thriller"
+        "Drama",
+        "History"
       ],
-      "link": "https://medeiafilmes.com/filmes/intriga-internacional-1959",
+      "link": "https://medeiafilmes.com/filmes/a-fonte-da-virgem-1960",
       "sessions": [
         {
           "date": "2026-04-08",
-          "time": "21:30",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.19,
-      "plot": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-      "country": "USA"
+      "rating": 4.16,
+      "plot": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+      "country": "Sweden"
     },
     {
       "id": "nimas_da-vida-das-marionetas-1980",
@@ -2536,29 +2493,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_chuva-de-julho-1966",
-      "title": "Chuva de Julho",
-      "director": "Marlen Khutsiev",
-      "year": 1966,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
-      "sessions": [
-        {
-          "date": "2026-04-09",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.92,
-      "plot": "Lena, a woman in her late twenties, loves her boyfriend, but in time comes to see that their relationship serves no useful function. What's more, she sees that her friends are for the most part empty-headed lackeys, causing her to wonder just what is the point of her life.",
-      "country": "USSR"
-    },
-    {
       "id": "nimas_o-sol-2005",
       "title": "O Sol",
       "director": "Aleksandr Sokurov",
@@ -2580,6 +2514,29 @@ window.CINEMA_DATA = {
       "rating": 3.74,
       "plot": "A re-imagination of Japanese Emperor Hirohito’s final days in power as WWII draws to a close.",
       "country": "Italy"
+    },
+    {
+      "id": "nimas_chuva-de-julho-1966",
+      "title": "Chuva de Julho",
+      "director": "Marlen Khutsiev",
+      "year": 1966,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/3/6/84836-july-rain-0-500-0-750-crop.jpg?v=29634ddd4e",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/chuva-de-julho-1966",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "Lena, a woman in her late twenties, loves her boyfriend, but in time comes to see that their relationship serves no useful function. What's more, she sees that her friends are for the most part empty-headed lackeys, causing her to wonder just what is the point of her life.",
+      "country": "USSR"
     },
     {
       "id": "nimas_antes-do-amanhecer-1995",
@@ -2605,26 +2562,27 @@ window.CINEMA_DATA = {
       "country": "Austria"
     },
     {
-      "id": "nimas_adeus-a-matiora-1983",
-      "title": "Adeus a Matiora",
-      "director": "Elem Klimov",
-      "year": 1983,
-      "duration": 121,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
+      "id": "nimas_ainda-funciona-2025",
+      "title": "Ainda Funciona?",
+      "director": "Bradley Cooper",
+      "year": 2025,
+      "duration": 124,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cu/cp/cr/2m/o0uOCDLZEwlForZ5Bf3IeBwlPLd-0-500-0-750-crop.jpg?v=371b64c948",
       "genres": [
+        "Comedy",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/adeus-a-matiora-1983",
+      "link": "https://medeiafilmes.com/filmes/ainda-funciona-2025",
       "sessions": [
         {
           "date": "2026-04-10",
-          "time": "15:00",
+          "time": "17:15",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.98,
-      "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
-      "country": "USSR"
+      "rating": 3.42,
+      "plot": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+      "country": "UK"
     },
     {
       "id": "nimas_o-couracado-potemkine-1925",
@@ -2651,27 +2609,26 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_ainda-funciona-2025",
-      "title": "Ainda Funciona?",
-      "director": "Bradley Cooper",
-      "year": 2025,
-      "duration": 124,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/cu/cp/cr/2m/o0uOCDLZEwlForZ5Bf3IeBwlPLd-0-500-0-750-crop.jpg?v=371b64c948",
+      "id": "nimas_adeus-a-matiora-1983",
+      "title": "Adeus a Matiora",
+      "director": "Elem Klimov",
+      "year": 1983,
+      "duration": 121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
       "genres": [
-        "Comedy",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/ainda-funciona-2025",
+      "link": "https://medeiafilmes.com/filmes/adeus-a-matiora-1983",
       "sessions": [
         {
           "date": "2026-04-10",
-          "time": "17:15",
+          "time": "15:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.42,
-      "plot": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
-      "country": "UK"
+      "rating": 3.98,
+      "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
+      "country": "USSR"
     },
     {
       "id": "nimas_a-paixao-1956",
@@ -2693,6 +2650,28 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.95,
       "plot": "A recently divorced man and an emotionally devastated widow begin a love affair.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_morangos-silvestres-1957",
+      "title": "Morangos Silvestres",
+      "director": "Ingmar Bergman",
+      "year": 1957,
+      "duration": 92,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7y/dg/6m/fs/je9lvVfSihc4L4yMNmw0rg6oks0-0-500-0-750-crop.jpg?v=670240b18f",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/morangos-silvestres-1957",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "20:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.33,
+      "plot": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "country": "Sweden"
     },
     {
@@ -2773,28 +2752,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_morangos-silvestres-1957",
-      "title": "Morangos Silvestres",
-      "director": "Ingmar Bergman",
-      "year": 1957,
-      "duration": 92,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/7y/dg/6m/fs/je9lvVfSihc4L4yMNmw0rg6oks0-0-500-0-750-crop.jpg?v=670240b18f",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/morangos-silvestres-1957",
-      "sessions": [
-        {
-          "date": "2026-04-11",
-          "time": "20:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.33,
-      "plot": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
-      "country": "Sweden"
-    },
-    {
       "id": "nimas_a-mascara-1966",
       "title": "A Máscara",
       "director": "Ingmar Bergman",
@@ -2841,28 +2798,6 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_a-prisao-1949",
-      "title": "A Prisão",
-      "director": "Ingmar Bergman",
-      "year": 1949,
-      "duration": 79,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/5/6/7/90567-prison-0-500-0-750-crop.jpg?v=dc8d16bfcb",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-prisao-1949",
-      "sessions": [
-        {
-          "date": "2026-04-13",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.5,
-      "plot": "A filmmaker sets out to create the greatest film in history, but finds out that human abilities have limits.",
-      "country": "Sweden"
-    },
-    {
       "id": "nimas_mulheres-que-esperam-1952",
       "title": "Mulheres Que Esperam",
       "director": "Ingmar Bergman",
@@ -2886,6 +2821,28 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
+      "id": "nimas_a-prisao-1949",
+      "title": "A Prisão",
+      "director": "Ingmar Bergman",
+      "year": 1949,
+      "duration": 79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/5/6/7/90567-prison-0-500-0-750-crop.jpg?v=dc8d16bfcb",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-prisao-1949",
+      "sessions": [
+        {
+          "date": "2026-04-13",
+          "time": "12:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.5,
+      "plot": "A filmmaker sets out to create the greatest film in history, but finds out that human abilities have limits.",
+      "country": "Sweden"
+    },
+    {
       "id": "nimas_boyhood-momentos-de-uma-vida-2014",
       "title": "Boyhood: Momentos de Uma Vida",
       "director": "Richard Linklater",
@@ -2906,29 +2863,6 @@ window.CINEMA_DATA = {
       "rating": 3.83,
       "plot": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
       "country": "USA"
-    },
-    {
-      "id": "nimas_don-giovanni-1979",
-      "title": "Don Giovanni",
-      "director": "Joseph Losey",
-      "year": 1979,
-      "duration": 176,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/0/5090-don-giovanni-0-500-0-750-crop.jpg?v=4b53a0d247",
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/don-giovanni-1979",
-      "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "21:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Screen adapatation of Mozart's greatest opera. Don Giovanni, the infamous womanizer, makes one conquest after another until the ghost of Donna Anna's father, the Commendatore, (whom Giovanni killed) makes his appearance. He offers Giovanni one last chance to repent for his multitudinious improprieties. He will not change his ways So, he is sucked down into hell by evil spirits. High drama, hysterical comedy, magnificent music!",
-      "country": "Germany"
     },
     {
       "id": "nimas_luz-de-inverno-1963",
@@ -2976,28 +2910,50 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_acordar-para-a-vida-2001",
-      "title": "Acordar para a Vida",
-      "director": "Richard Linklater",
-      "year": 2001,
-      "duration": 99,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-500-0-750-crop.jpg?v=d340df121c",
+      "id": "nimas_don-giovanni-1979",
+      "title": "Don Giovanni",
+      "director": "Joseph Losey",
+      "year": 1979,
+      "duration": 176,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/0/5090-don-giovanni-0-500-0-750-crop.jpg?v=4b53a0d247",
       "genres": [
-        "Animation",
-        "Fantasy",
+        "Music",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/acordar-para-a-vida-2001",
+      "link": "https://medeiafilmes.com/filmes/don-giovanni-1979",
       "sessions": [
         {
-          "date": "2026-04-15",
-          "time": "19:15",
+          "date": "2026-04-14",
+          "time": "21:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.91,
-      "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
-      "country": "USA"
+      "rating": 3.69,
+      "plot": "Screen adapatation of Mozart's greatest opera. Don Giovanni, the infamous womanizer, makes one conquest after another until the ghost of Donna Anna's father, the Commendatore, (whom Giovanni killed) makes his appearance. He offers Giovanni one last chance to repent for his multitudinious improprieties. He will not change his ways So, he is sucked down into hell by evil spirits. High drama, hysterical comedy, magnificent music!",
+      "country": "Germany"
+    },
+    {
+      "id": "nimas_arsenal-1929",
+      "title": "Arsenal",
+      "director": "Aleksandr Dovzhenko",
+      "year": 1929,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.75,
+      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
+      "country": "USSR"
     },
     {
       "id": "nimas_em-busca-da-verdade-1961",
@@ -3022,27 +2978,28 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_arsenal-1929",
-      "title": "Arsenal",
-      "director": "Aleksandr Dovzhenko",
-      "year": 1929,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
+      "id": "nimas_acordar-para-a-vida-2001",
+      "title": "Acordar para a Vida",
+      "director": "Richard Linklater",
+      "year": 2001,
+      "duration": 99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-500-0-750-crop.jpg?v=d340df121c",
       "genres": [
-        "War",
+        "Animation",
+        "Fantasy",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
+      "link": "https://medeiafilmes.com/filmes/acordar-para-a-vida-2001",
       "sessions": [
         {
           "date": "2026-04-15",
-          "time": "17:30",
+          "time": "19:15",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.75,
-      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
-      "country": "USSR"
+      "rating": 3.91,
+      "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+      "country": "USA"
     },
     {
       "id": "nimas_uma-luz-nas-trevas-1948",
@@ -3228,29 +3185,14 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/VALOR-SENTIMENTAL",
       "sessions": [
         {
-          "date": "2026-04-02",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-04",
           "time": "14:15",
           "cinema": "fernando"
         },
         {
-          "date": "2026-04-04",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-06",
           "time": "19:00",
           "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "19:00",
-          "cinema": "trindade"
         },
         {
           "date": "2026-04-08",
@@ -3423,36 +3365,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "batalha__sess_sHPeNbZdNINmeMtH",
-      "title": "Visita Guiada",
-      "director": null,
-      "year": 2014,
-      "duration": 25,
-      "poster": null,
-      "genres": [
-        "History"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sHPeNbZdNINmeMtH",
-      "sessions": [
-        {
-          "date": "2026-04-04",
-          "time": "13:30",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-05-02",
-          "time": "13:30",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "13:30",
-          "cinema": "batalha"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
       "id": "batalha_s2PU2AiklvNfisK5",
       "title": "The Parent Trap",
       "director": "Nancy Meyers",
@@ -3537,23 +3449,6 @@ window.CINEMA_DATA = {
       "rating": 3.7,
       "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
       "country": "Italy"
-    },
-    {
-      "id": "batalha__sess_sNeIC3QIP2LVmu4S",
-      "title": "Great Artists on Campus: Vhils",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sNeIC3QIP2LVmu4S",
-      "sessions": [
-        {
-          "date": "2026-04-10",
-          "time": "17:00",
-          "cinema": "batalha"
-        }
-      ]
     },
     {
       "id": "batalha_sTLjVr4I8bJsOFX1",
@@ -3975,45 +3870,6 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
-      "id": "batalha__sess_skmDklS6SreVFo1h",
-      "title": "Porto Femme",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-skmDklS6SreVFo1h",
-      "sessions": [
-        {
-          "date": "2026-04-21",
-          "time": "12:00",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
-      "id": "batalha__sess_siZ1VYf5t5IcbtFs",
-      "title": "Batalha Quiz",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-siZ1VYf5t5IcbtFs",
-      "sessions": [
-        {
-          "date": "2026-04-29",
-          "time": "00:00",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-05-27",
-          "time": "00:00",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
       "id": "batalha_sdUdoXZHuWfkxxN1",
       "title": "Scenes from the Class Struggle in Portugal",
       "director": "Robert Kramer e Philip J. Spinelli",
@@ -4034,23 +3890,6 @@ window.CINEMA_DATA = {
       "rating": 3.66,
       "plot": "Combining newsreel footage, still photographs, interviews, and analytical narration, this documentary focuses on the antifascist, anti-imperialist efforts of labor groups, peasants, and working-class soldiers to liberate Portugal from the control of the government of Antonio de Oliveira Salazar.",
       "country": "Portugal"
-    },
-    {
-      "id": "batalha__sess_sxs99p3THfeDGvVh",
-      "title": "Rotor Latente, Francisco Pedro Oliveira",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sxs99p3THfeDGvVh",
-      "sessions": [
-        {
-          "date": "2026-04-29",
-          "time": "23:30",
-          "cinema": "batalha"
-        }
-      ]
     },
     {
       "id": "batalha_stqJGFFGjuKduvGs",
@@ -4153,23 +3992,6 @@ window.CINEMA_DATA = {
       "rating": 4.53,
       "plot": "A Taipei family faces personal and moral uncertainty as everyday events test their relationships and sense of purpose.",
       "country": "Taiwan"
-    },
-    {
-      "id": "batalha__sess_sdFvmr1FiDaswCWS",
-      "title": "Goshogaoka, Sharon Lockart",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sdFvmr1FiDaswCWS",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "13:00",
-          "cinema": "batalha"
-        }
-      ]
     },
     {
       "id": "batalha_s8Aa8luwthaS65yk",
@@ -4431,57 +4253,6 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "batalha__sess_srSk9cHD84xgKdJM",
-      "title": "Great Artists on Campus: Masterclass com Meg Stuart",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-srSk9cHD84xgKdJM",
-      "sessions": [
-        {
-          "date": "2026-05-15",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
-      "id": "batalha__sess_s6r7t16lAUP8N0v5",
-      "title": "Meg Stuart: Sessão de Cinema",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s6r7t16lAUP8N0v5",
-      "sessions": [
-        {
-          "date": "2026-05-15",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
-      "id": "batalha__sess_s8cKDoOuuGH8cefu",
-      "title": "Sulphur Edges, Meg Stuart",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s8cKDoOuuGH8cefu",
-      "sessions": [
-        {
-          "date": "2026-05-15",
-          "time": "23:15",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
       "id": "batalha_sdlHiHzdi7KIX3uy",
       "title": "Short Films from the 2026 Filmmaking Workshop + The Golden Ball",
       "director": "Participantes da Oficina de Realização",
@@ -4650,23 +4421,6 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
-      "id": "batalha__sess_s9GgnfbnEulSiKfH",
-      "title": "fRame,d, Adrienne Herr",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s9GgnfbnEulSiKfH",
-      "sessions": [
-        {
-          "date": "2026-05-20",
-          "time": "23:30",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
       "id": "batalha_s3z9VbgsuJTRFsna",
       "title": "Gentlemen Prefer Blondes",
       "director": "Howard Hawks",
@@ -4803,23 +4557,6 @@ window.CINEMA_DATA = {
       "rating": 3.62,
       "plot": "Documentary about the most famous dribbler in Brazilian Soccer (some say in Soccer's history!) at the zenith of his career, showing classic scenes of 1958 and 1962 World Cup. Garrincha was a very original and talented player, having curved legs. Women and alcohol were his passion, and the cause of his later decadence. After a glorious career, he died in financial misery, forgotten.",
       "country": "Brazil"
-    },
-    {
-      "id": "batalha__sess_s8guAxu5fbnzrnYe",
-      "title": "A Nebulosa",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-s8guAxu5fbnzrnYe",
-      "sessions": [
-        {
-          "date": "2026-05-24",
-          "time": "21:15",
-          "cinema": "batalha"
-        }
-      ]
     },
     {
       "id": "batalha_sTVG37tXNHBxVOPB",
@@ -5002,25 +4739,6 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "batalha__sess_sqk8CmclcSo8nwdW",
-      "title": "Curtas-metragens de Norman McLaren",
-      "director": null,
-      "year": 2002,
-      "duration": 30,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/6/9/9/1282699-curtas-0-500-0-750-crop.jpg?v=e38cae0929",
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sqk8CmclcSo8nwdW",
-      "sessions": [
-        {
-          "date": "2026-05-31",
-          "time": "13:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot": "Sitting in front of his farmhouse in Mirás, Sério reflects on a life linked to cinema. An exercise in synthesis and memory.",
-      "country": "Portugal"
-    },
-    {
       "id": "batalha_sct1Jo6hzM5vb0B6",
       "title": "Don't Bother to Knock",
       "director": "Roy Ward Baker",
@@ -5042,23 +4760,6 @@ window.CINEMA_DATA = {
       "rating": 3.51,
       "plot": "An airline pilot pursues a live-in babysitter at his hotel and gradually realizes she is not as stable as perhaps she should be.",
       "country": "USA"
-    },
-    {
-      "id": "batalha__sess_sEAGQy5QUJS56EYQ",
-      "title": "BEAST International Film Festival",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sEAGQy5QUJS56EYQ",
-      "sessions": [
-        {
-          "date": "2026-06-03",
-          "time": "13:00",
-          "cinema": "batalha"
-        }
-      ]
     },
     {
       "id": "batalha_s05ofos4CdTzE1Fd",
@@ -5297,23 +4998,6 @@ window.CINEMA_DATA = {
       "rating": 3.75,
       "plot": "Amateur and professional bodybuilders prepare for the 1975 Mr. Olympia and Mr. Universe contests as five-time champion Arnold Schwarzenegger defends his Mr. Olympia title against Serge Nubret and the shy young Lou Ferrigno.",
       "country": "USA"
-    },
-    {
-      "id": "batalha__sess_sXUEuoYrPCu44H8u",
-      "title": "Great Artists on Campus: Mauro Cerqueira",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sXUEuoYrPCu44H8u",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "17:00",
-          "cinema": "batalha"
-        }
-      ]
     },
     {
       "id": "batalha_stEkQ9CSa7pvoPru",
@@ -5622,32 +5306,6 @@ window.CINEMA_DATA = {
       "country": "Poland"
     },
     {
-      "id": "batalha__sess_sPsA7MAGX7sNDECc",
-      "title": "Over and Out",
-      "director": null,
-      "year": 2019,
-      "duration": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzcxNmJiOTktNGI0Yy00YzAyLWIzMzItYTUwYmUzNTJmYmIzXkEyXkFqcGdeQXVyNjU0ODE3MDc@._V1_SX300.jpg",
-      "genres": [
-        "Horror"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/-sess-sPsA7MAGX7sNDECc",
-      "sessions": [
-        {
-          "date": "2026-06-28",
-          "time": "17:00",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-06-28",
-          "time": "19:00",
-          "cinema": "batalha"
-        }
-      ],
-      "plot": "Lewis and Freya are two young parents fervently trying to raise their children the right way in a world full of wrong. They are stuck in the middle of the two most stressful things imaginable: namely raising young children and sur...",
-      "country": "Australia"
-    },
-    {
       "id": "batalha_sV7v3UnUDOGlN7u0",
       "title": "Double Strength",
       "director": "Barbara Hammer",
@@ -5691,399 +5349,6 @@ window.CINEMA_DATA = {
       "rating": 3.36,
       "plot": "After 26 years of spinning dives and flying uppercuts on the ring, Cassandro, the star of the gender-bending cross-dressing Mexican wrestlers known as the Exoticos, is far from retiring. But with dozens of broken bones and metal pins in his body, he must now reinvent himself.",
       "country": "France"
-    },
-    {
-      "id": "trindade_8091",
-      "title": "O Drama",
-      "director": "Kristoffer Borgli",
-      "year": 2026,
-      "duration": 105,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-02",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-03",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-03",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-06",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-06",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_7881",
-      "title": "O Estrangeiro",
-      "director": "François Ozon",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
-      "sessions": [
-        {
-          "date": "2026-04-02",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-03",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-06",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "19:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.34,
-      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "country": "France"
-    },
-    {
-      "id": "trindade_6150",
-      "title": "Caso 137",
-      "director": "Dominik Moll",
-      "year": 2025,
-      "duration": 116,
-      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Dossier137_Cartaz-internacional-609b0-1228x1536.jpeg",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/caso-137",
-      "sessions": [
-        {
-          "date": "2026-04-03",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-04",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8064",
-      "title": "Orwell 2 + 2 = 5",
-      "director": "Raoul Peck",
-      "year": 2025,
-      "duration": 119,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTdkNTNhMGItYTQ3Mi00ZWIwLTlkNzYtYjgwYTM2ODM4ZThkXkEyXkFqcGc@._V1_SX300.jpg",
-      "genres": [
-        "Documentary",
-        "Biography",
-        "History"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/orwell-2-2-5",
-      "sessions": [
-        {
-          "date": "2026-04-03",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "21:15",
-          "cinema": "trindade"
-        }
-      ],
-      "plot": "An investigation into the life, work, and enduring influence of the writer George Orwell, connecting his ideas to the contemporary world.",
-      "country": "United States"
-    },
-    {
-      "id": "trindade_5475",
-      "title": "O Agente Secreto",
-      "director": "Kleber Mendonça Filho",
-      "year": 2025,
-      "duration": 160,
-      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Captura-de-ecra-2025-05-26-as-21.39.14-732x1024-1.png",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-agente-secreto",
-      "sessions": [
-        {
-          "date": "2026-04-03",
-          "time": "16:30",
-          "cinema": "trindade",
-          "labels": [
-            "com legendas em inglês / with english subtitles"
-          ]
-        },
-        {
-          "date": "2026-04-06",
-          "time": "21:15",
-          "cinema": "trindade",
-          "labels": [
-            "com legendas em inglês / with english subtitles"
-          ]
-        },
-        {
-          "date": "2026-04-08",
-          "time": "16:30",
-          "cinema": "trindade",
-          "labels": [
-            "com legendas em inglês / with english subtitles"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "trindade_7230",
-      "title": "A Voz de Hind Rajab",
-      "director": "Kaouther Ben Hania",
-      "year": 2025,
-      "duration": 89,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/a-voz-de-hind-rajab",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "16:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8008",
-      "title": "Memórias do Teatro da Cornucópia",
-      "director": "Solveig Nordlund",
-      "year": 2025,
-      "duration": 92,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/1/1/8/8/1421188-memorias-do-teatro-da-cornucopia-0-500-0-750-crop.jpg?v=430e84cb85",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/memorias-do-teatro-da-cornucopia",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "18:00",
-          "cinema": "trindade"
-        }
-      ],
-      "plot": "A renowned symbol of Portuguese interventionist theatre, Cornucópia emerged from the darkness of fascism to fight dictatorship on stage. Among the classics, a project is born and dies, but one face remains emblematic: Luís Miguel Cintra, who shared his art with the constant complicity of set designer Cristina Reis. Together, guided by images, they bear witness, telling this story.",
-      "country": "Portugal"
-    },
-    {
-      "id": "trindade_2327",
-      "title": "O Sétimo Selo",
-      "director": "Ingmar Bergman",
-      "year": 1957,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/0/51620-the-seventh-seal-0-500-0-750-crop.jpg?v=fa1963f0b2",
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-setimo-selo",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.33,
-      "plot": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "country": "Sweden"
-    },
-    {
-      "id": "trindade_967",
-      "title": "Sirât",
-      "director": "Oliver Laxe",
-      "year": 2025,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/7/7/1037777-sirat-2025-0-500-0-750-crop.jpg?v=1660cb1f29",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/sirat",
-      "sessions": [
-        {
-          "date": "2026-04-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.56,
-      "plot": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
-      "country": "Spain"
-    },
-    {
-      "id": "trindade_2373",
-      "title": "Stalker",
-      "director": "Andrei Tarkovsky",
-      "year": 1983,
-      "duration": 125,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
-      "genres": [
-        "Drama",
-        "Science Fiction"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/stalker",
-      "sessions": [
-        {
-          "date": "2026-04-13",
-          "time": "21:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.4,
-      "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "country": "USSR"
-    },
-    {
-      "id": "trindade_8103",
-      "title": "Viridiana",
-      "director": "Luis Buñuel",
-      "year": 1961,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-500-0-750-crop.jpg?v=45489590bd",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/viridiana",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.1,
-      "plot": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
-      "country": "Spain"
-    },
-    {
-      "id": "trindade_2955",
-      "title": "Viagem A Tóquio",
-      "director": "Yasujiro Ozu",
-      "year": 1953,
-      "duration": 136,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/viagem-a-toquio",
-      "sessions": [
-        {
-          "date": "2026-04-27",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ]
     }
   ],
   "errors": []
