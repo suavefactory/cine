@@ -141,7 +141,7 @@
     }
     .sthumb {
       width: 84px; height: 116px; border-radius: 0;
-      object-fit: contain; display: block; flex-shrink: 0;
+      object-fit: cover; display: block; flex-shrink: 0;
       background: var(--surf2);
     }
     .smovie { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
@@ -247,7 +247,7 @@
       flex-shrink: 0; width: 175px; aspect-ratio: 2/3;
       border-radius: 0; overflow: hidden; background: #1e1e1e;
     }
-    .modal-poster img { width: 100%; height: 100%; object-fit: contain; }
+    .modal-poster img { width: 100%; height: 100%; object-fit: cover; }
     .modal-poster-fallback { width: 100%; height: 100%; }
 
     .modal-info { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 14px; }
@@ -452,6 +452,9 @@ const CINEMAS = [
   { id:"trindade",    name:"Cinema Trindade",       zone:"Baixa do Porto",    color:"#e91e63", short:"Trindade",
     lat:41.1484, lng:-8.6150, address:"Rua do Almada 42, 4050-037 Porto",
     url:"https://cinematrindade.pt",       city:"porto" },
+  { id:"campo_alegre", name:"Teatro Campo Alegre",  zone:"Foz do Douro",      color:"#00acc1", short:"C. Alegre",
+    lat:41.1506, lng:-8.6397, address:"Rua das Estrelas, 4150-762 Porto",
+    url:"https://medeiafilmes.com/cinemas/teatro-campo-alegre", city:"porto" },
 ];
 
 const MOCK_MOVIES = [

@@ -73,9 +73,9 @@ def parse_duration(length_str):
     return None
 
 
-def scrape_film_page(url):
+def scrape_film_page(url, cinema_id, cinema_slug):
     """
-    Obtém metadados e sessões do Nimas de uma página de filme individual.
+    Obtém metadados e sessões de uma página de filme individual da Medeia Filmes.
     Retorna dict com: year, duration, genre, sessions (lista de {date, time}).
     """
     try:
@@ -96,13 +96,12 @@ def scrape_film_page(url):
         duration = parse_duration(film.get("length", ""))
         genre    = film.get("genre") or None
 
-        # Sessões do Nimas
         programme = film.get("programme", {})
         sessions  = []
         for cinema_data in programme.values():
             if not isinstance(cinema_data, dict):
                 continue
-            if cinema_data.get("slug") != NIMAS_SLUG:
+            if cinema_data.get("slug") != cinema_slug:
                 continue
             for s in cinema_data.get("sessions", {}).values():
                 if not isinstance(s, dict):
@@ -111,7 +110,6 @@ def scrape_film_page(url):
                 hours = s.get("hours", [])
                 info  = s.get("info", {})
 
-                # Extrai labels de sessão especial (convidados, debate, etc.)
                 labels = []
                 if isinstance(info, dict):
                     for item in info.values():
@@ -119,12 +117,11 @@ def scrape_film_page(url):
                             text = unescape(re.sub(r"<[^>]+>", "", item.get("text", ""))).strip()
                             if not text:
                                 continue
-                            # Normaliza listas longas de nomes → label curto
                             text = _normalise_session_label(text)
                             labels.append(text[0].upper() + text[1:])
 
                 for h in hours:
-                    sess = {"date": date, "time": h, "cinema": CINEMA_ID}
+                    sess = {"date": date, "time": h, "cinema": cinema_id}
                     if labels:
                         sess["labels"] = labels[:]
                     sessions.append(sess)
@@ -140,25 +137,24 @@ def scrape_film_page(url):
         return None
 
 
-def scrape():
-    print("[Nimas] A carregar lista de filmes...")
+def scrape_medeia_cinema(cinema_id, cinema_slug, label):
+    """Função genérica para scraper qualquer cinema Medeia Filmes."""
+    print(f"[{label}] A carregar lista de filmes...")
     html = fetch_html(LIST_URL)
     data = extract_global_data(html)
     if not data:
-        raise RuntimeError("Não foi possível extrair global.data de filmes-em-exibicao")
+        raise RuntimeError(f"Não foi possível extrair global.data para {label}")
 
     events = data.get("schedule", {}).get("events", {})
-
-    # Filtra filmes do Nimas com URL de filme individual (não ciclos)
-    nimas_events = [
+    cinema_events = [
         ev for ev in events.values()
-        if NIMAS_SLUG in ev.get("theaters", {})
+        if cinema_slug in ev.get("theaters", {})
         and "/filmes/" in ev.get("url", "")
     ]
-    print(f"[Nimas] {len(nimas_events)} filmes encontrados para o Nimas.")
+    print(f"[{label}] {len(cinema_events)} filmes encontrados.")
 
     movies = []
-    for ev in nimas_events:
+    for ev in cinema_events:
         title    = unescape(ev.get("title", "").strip())
         director = ev.get("director")
         if director:
@@ -170,9 +166,9 @@ def scrape():
             continue
 
         slug = url.rstrip("/").split("/")[-1]
-        print(f"  [Nimas] {title}...", end=" ", flush=True)
+        print(f"  [{label}] {title}...", end=" ", flush=True)
 
-        details = scrape_film_page(url)
+        details = scrape_film_page(url, cinema_id, cinema_slug)
         time.sleep(0.3)
 
         if not details or not details["sessions"]:
@@ -186,7 +182,7 @@ def scrape():
             genres = [g.strip() for g in details["genre"].split(",") if g.strip()]
 
         movies.append({
-            "id":       f"nimas_{slug}",
+            "id":       f"{cinema_id}_{slug}",
             "title":    title,
             "director": director,
             "year":     details["year"],
@@ -197,8 +193,12 @@ def scrape():
             "sessions": sorted(details["sessions"], key=lambda s: (s["date"], s["time"])),
         })
 
-    print(f"[Nimas] {len(movies)} filmes com sessões.")
+    print(f"[{label}] {len(movies)} filmes com sessões.")
     return movies
+
+
+def scrape():
+    return scrape_medeia_cinema(CINEMA_ID, NIMAS_SLUG, "Nimas")
 
 
 if __name__ == "__main__":

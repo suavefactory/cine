@@ -188,6 +188,7 @@ LBXD_SLUGS = {
     "BREVE STORIA D'AMORE":         "breve-storia-damore",
     "AS PROVADORAS DE HITLER (LE ASSAGGIATRICI)": "the-tasters",
     "LE ASSAGGIATRICI":             "the-tasters",
+    "UN ANNO DI SCUOLA":            "a-year-of-school",
 }
 
 # Títulos originais → título inglês para OMDB

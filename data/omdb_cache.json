@@ -4982,41 +4982,6 @@
     "lbxd": null,
     "omdb": null
   },
-  "Un anno di scuola|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Un anno di scuola",
-      "Year": "1977",
-      "Rated": "N/A",
-      "Released": "19 Aug 1979",
-      "Runtime": "120 min",
-      "Genre": "Drama",
-      "Director": "Franco Giraldi",
-      "Writer": "Lucio Battistrada, Franco Giraldi, Lucio Guzzinati",
-      "Actors": "Mario Adorf, Laura Lenzi, Stefano Patrizi",
-      "Plot": "The story, released the first time in 1929, tells the story of a girl, Edda Marty, who enters (the only woman) to be part of a class of boys, to attend the last year of high school, 8th gymnasium in Trieste. Edda is a wild child, ...",
-      "Language": "Italian",
-      "Country": "Italy",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.1",
-      "imdbVotes": "25",
-      "imdbID": "tt0074145",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
   "White Lies|None": {
     "lbxd": {
       "rating": null,
@@ -10661,6 +10626,96 @@
       ],
       "country": "Italy"
     },
+    "omdb": null
+  },
+  "Un anno di scuola|None": {
+    "lbxd": {
+      "rating": 3.37,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/0/5/7/6/1320576-a-year-of-school-0-500-0-750-crop.jpg?v=bf6de6cc88",
+      "description": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy"
+    },
+    "omdb": null
+  },
+  "Fitzcarraldo|1982": {
+    "lbxd": {
+      "rating": 4.14,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mx/hx/fm/03/uovgR063sBxGHQWD8YzQm4WJX4-0-500-0-750-crop.jpg?v=75ea9132cc",
+      "description": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "country": "Germany"
+    },
+    "omdb": {
+      "Title": "Fitzcarraldo",
+      "Year": "1982",
+      "Rated": "PG",
+      "Released": "10 Oct 1982",
+      "Runtime": "158 min",
+      "Genre": "Adventure, Drama, Music",
+      "Director": "Werner Herzog",
+      "Writer": "Werner Herzog",
+      "Actors": "Klaus Kinski, Claudia Cardinale, José Lewgoy",
+      "Plot": "The story of Brian Sweeney Fitzgerald, an extremely determined man who intends to build an opera house in the middle of a jungle.",
+      "Language": "German, Spanish, English, Shuar, Italian",
+      "Country": "West Germany, Peru",
+      "Awards": "Nominated for 1 BAFTA Award4 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJjNTRkNjUtZGE4MC00YmRlLWI0ODYtMzJjNGZkYWMzNTJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "42,549",
+      "imdbID": "tt0083946",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Leben-Brd|1990": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Schatten|1923": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/4/9/7/5/1394975-schatten-0-500-0-750-crop.jpg?v=1848b3ae4a",
+      "description": "Student film by German director Joel Oliveira.",
+      "genres": null,
+      "country": null
+    },
+    "omdb": null
+  },
+  "Marx Può Aspettare|2021": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/6/8/8/9/696889-marx-can-wait-0-500-0-750-crop.jpg?v=d0e460dde4",
+      "description": "\"Marx can wait\" was something Camillo Bellocchio said to his twin Marco the last time they met before the former died at a young age in the heated days of 1968. This documentary is dedicated to his memory.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Italy"
+    },
+    "omdb": null
+  },
+  "A CORRIDA MAIS LOUCA DA EUROPA|None": {
+    "lbxd": null,
     "omdb": null
   }
 }

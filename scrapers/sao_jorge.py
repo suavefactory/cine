@@ -46,7 +46,7 @@ GENRE_MAP = {
 }
 
 # Palavras que indicam o fim do nome do realizador
-DIRECTOR_STOP = r'(?=\s+(?:Com|Ano|País|Duração|Realiz|M\/\d|Sala|Ficha|\d{4}\b))'
+DIRECTOR_STOP = r'(?=\s+(?:Com|Ano|País|Duração|Realiz|M\/\d|Sala|Ficha|Morada|\d{4}\b))'
 
 
 def parse_metadata(html):
