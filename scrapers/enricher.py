@@ -563,11 +563,20 @@ def enrich(movies):
                 print()
 
         # ── Aplicar dados ───────────────────────────────────────────
-        # Remove posters landscape (imagens do cinema, não são posters de filme)
-        _LANDSCAPE = ("1920x1080", "1920X1080", "1920%", "placeholder-2-i",
-                      "captura-de-ecra", "withoutlettering", "noltettering")
-        if movie.get("poster") and any(s in movie["poster"] for s in _LANDSCAPE):
-            movie["poster"] = None
+        # Remove posters que não são de filme (landscape, prints, stills, etc.)
+        # Comparação case-insensitive para apanhar variantes de capitalização
+        _BAD_POSTER = (
+            "1920x1080", "1920%",
+            "placeholder-2-i",
+            "captura-de-ecra",          # cinematrindade + São Jorge print screens
+            "withoutlettering",
+            "noltettering",
+            "cdn.bndlyr.com",           # Batalha cinema — só fornece stills landscape
+        )
+        if movie.get("poster"):
+            p_lower = movie["poster"].lower()
+            if any(s in p_lower for s in _BAD_POSTER):
+                movie["poster"] = None
 
         # Poster: Letterboxd sempre (sobrepõe poster do scraper), fallback OMDB
         if lb and lb.get("poster"):
