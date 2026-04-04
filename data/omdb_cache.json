@@ -10868,10 +10868,6 @@
     },
     "omdb": null
   },
-  "God-and-a-Half|2024": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Muscled Joy|2024": {
     "lbxd": null,
     "omdb": null
@@ -10927,8 +10923,30 @@
     "lbxd": null,
     "omdb": null
   },
+  "God-and-a-Half|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/6/8/5/1198685-god-and-a-half-0-500-0-750-crop.jpg?v=f94ceeb14d",
+      "description": "A man wanders around an abandoned hospital. Years after their last encounter, someone whose life he saved seeks him out in his old office, so that together they can piece together a memory of their shared past.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": null
+  },
   "O Agente Secreto|2025": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/4/3/4/8/1104348-the-secret-agent-2025-0-500-0-750-crop.jpg?v=3bcd2a3e02",
+      "description": "In 1977 Brazil, technology specialist Marcelo, fleeing a mysterious past, returns to Recife in search of peace, but realizes the city is far from the refuge he seeks.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "country": "Brazil"
+    },
     "omdb": null
   }
 }

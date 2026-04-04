@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-04T19:29:09.633957+00:00",
+  "generated": "2026-04-04T21:58:06.485382+00:00",
   "movies": [
     {
       "id": "sao_jorge_10298",
@@ -2033,11 +2033,6 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-04-04",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-04",
           "time": "22:00",
           "cinema": "nimas"
         },
@@ -2137,35 +2132,6 @@ window.CINEMA_DATA = {
       "country": "Spain"
     },
     {
-      "id": "nimas_hamnet-2025",
-      "title": "Hamnet",
-      "director": "Chloé Zhao",
-      "year": 2025,
-      "duration": 125,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/2/772232-hamnet-0-500-0-750-crop.jpg?v=631489314d",
-      "genres": [
-        "History",
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/hamnet-2025",
-      "sessions": [
-        {
-          "date": "2026-04-04",
-          "time": "14:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.19,
-      "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "country": "UK"
-    },
-    {
       "id": "nimas_siberiada-1979",
       "title": "Siberíada",
       "director": "Andrei Konchalovsky",
@@ -2213,6 +2179,35 @@ window.CINEMA_DATA = {
       "rating": 4.42,
       "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "country": "Sweden"
+    },
+    {
+      "id": "nimas_hamnet-2025",
+      "title": "Hamnet",
+      "director": "Chloé Zhao",
+      "year": 2025,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/2/2/3/2/772232-hamnet-0-500-0-750-crop.jpg?v=631489314d",
+      "genres": [
+        "History",
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/hamnet-2025",
+      "sessions": [
+        {
+          "date": "2026-04-04",
+          "time": "14:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-08",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.19,
+      "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "country": "UK"
     },
     {
       "id": "nimas_sonata-de-outono-1978",
@@ -2339,28 +2334,6 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_o-homem-da-camara-de-filmar-1929",
-      "title": "O Homem da Câmara de Filmar",
-      "director": "Dziga Vertov",
-      "year": 1929,
-      "duration": 68,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
-      "sessions": [
-        {
-          "date": "2026-04-06",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.27,
-      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
-      "country": "USSR"
-    },
-    {
       "id": "nimas_ladrao-de-casaca-1955",
       "title": "Ladrão de Casaca",
       "director": "Alfred Hitchcock",
@@ -2428,6 +2401,28 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.4,
       "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+      "country": "USSR"
+    },
+    {
+      "id": "nimas_o-homem-da-camara-de-filmar-1929",
+      "title": "O Homem da Câmara de Filmar",
+      "director": "Dziga Vertov",
+      "year": 1929,
+      "duration": 68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-500-0-750-crop.jpg?v=540bede62d",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-homem-da-camara-de-filmar-1929",
+      "sessions": [
+        {
+          "date": "2026-04-06",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
       "country": "USSR"
     },
     {
@@ -2617,28 +2612,6 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_da-vida-das-marionetas-1980",
-      "title": "Da Vida das Marionetas",
-      "director": "Ingmar Bergman",
-      "year": 1980,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
-      "sessions": [
-        {
-          "date": "2026-04-09",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.73,
-      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
-      "country": "Germany"
-    },
-    {
       "id": "nimas_o-barqueiro-2025",
       "title": "O Barqueiro",
       "director": "Simão Cayatte",
@@ -2808,26 +2781,26 @@ window.CINEMA_DATA = {
       "country": "Austria"
     },
     {
-      "id": "nimas_adeus-a-matiora-1983",
-      "title": "Adeus a Matiora",
-      "director": "Elem Klimov",
-      "year": 1983,
-      "duration": 121,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
+      "id": "nimas_da-vida-das-marionetas-1980",
+      "title": "Da Vida das Marionetas",
+      "director": "Ingmar Bergman",
+      "year": 1980,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/adeus-a-matiora-1983",
+      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
       "sessions": [
         {
-          "date": "2026-04-10",
-          "time": "15:00",
+          "date": "2026-04-09",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.98,
-      "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
-      "country": "USSR"
+      "rating": 3.73,
+      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
+      "country": "Germany"
     },
     {
       "id": "nimas_ainda-funciona-2025",
@@ -2899,34 +2872,26 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_o-diario-do-realizador-2025",
-      "title": "O Diário do Realizador",
-      "director": "Aleksandr Sokurov",
-      "year": 2025,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/o-diario-do-realizador-poster-digital-low.jpg",
+      "id": "nimas_adeus-a-matiora-1983",
+      "title": "Adeus a Matiora",
+      "director": "Elem Klimov",
+      "year": 1983,
+      "duration": 121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
       "genres": [
-        "Documentário"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-diario-do-realizador-2025",
+      "link": "https://medeiafilmes.com/filmes/adeus-a-matiora-1983",
       "sessions": [
         {
-          "date": "2026-04-11",
-          "time": "11:00",
-          "cinema": "nimas",
-          "labels": [
-            "Parte 1. Apresentação por Boris Nelepo"
-          ]
-        },
-        {
-          "date": "2026-04-12",
-          "time": "11:00",
-          "cinema": "nimas",
-          "labels": [
-            "Parte 2. Apresentação por Boris Nelepo"
-          ]
+          "date": "2026-04-10",
+          "time": "15:00",
+          "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.98,
+      "plot": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
+      "country": "USSR"
     },
     {
       "id": "nimas_amadeus-director-s-cut-1984",
@@ -2996,6 +2961,36 @@ window.CINEMA_DATA = {
       "rating": 4.33,
       "plot": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "country": "Sweden"
+    },
+    {
+      "id": "nimas_o-diario-do-realizador-2025",
+      "title": "O Diário do Realizador",
+      "director": "Aleksandr Sokurov",
+      "year": 2025,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/o-diario-do-realizador-poster-digital-low.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-diario-do-realizador-2025",
+      "sessions": [
+        {
+          "date": "2026-04-11",
+          "time": "11:00",
+          "cinema": "nimas",
+          "labels": [
+            "Parte 1. Apresentação por Boris Nelepo"
+          ]
+        },
+        {
+          "date": "2026-04-12",
+          "time": "11:00",
+          "cinema": "nimas",
+          "labels": [
+            "Parte 2. Apresentação por Boris Nelepo"
+          ]
+        }
+      ]
     },
     {
       "id": "nimas_solaris-1972",
@@ -3203,52 +3198,6 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "nimas_acordar-para-a-vida-2001",
-      "title": "Acordar para a Vida",
-      "director": "Richard Linklater",
-      "year": 2001,
-      "duration": 99,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-500-0-750-crop.jpg?v=d340df121c",
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/acordar-para-a-vida-2001",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "19:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.91,
-      "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_em-busca-da-verdade-1961",
-      "title": "Em Busca da Verdade",
-      "director": "Ingmar Bergman",
-      "year": 1961,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/rv/fr/9y/nj/oc7XMMpoDuXf7ZeLMNjw8VrHdrB-0-500-0-750-crop.jpg?v=d886332e9b",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/em-busca-da-verdade-1961",
-      "sessions": [
-        {
-          "date": "2026-04-15",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.16,
-      "plot": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
-      "country": "Sweden"
-    },
-    {
       "id": "nimas_arsenal-1929",
       "title": "Arsenal",
       "director": "Aleksandr Dovzhenko",
@@ -3292,6 +3241,52 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.28,
       "plot": "A blind, upper-class pianist falls in love with a young servant.",
+      "country": "Sweden"
+    },
+    {
+      "id": "nimas_acordar-para-a-vida-2001",
+      "title": "Acordar para a Vida",
+      "director": "Richard Linklater",
+      "year": 2001,
+      "duration": 99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-500-0-750-crop.jpg?v=d340df121c",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/acordar-para-a-vida-2001",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "19:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.91,
+      "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_em-busca-da-verdade-1961",
+      "title": "Em Busca da Verdade",
+      "director": "Ingmar Bergman",
+      "year": 1961,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/rv/fr/9y/nj/oc7XMMpoDuXf7ZeLMNjw8VrHdrB-0-500-0-750-crop.jpg?v=d886332e9b",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/em-busca-da-verdade-1961",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "15:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.16,
+      "plot": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
       "country": "Sweden"
     },
     {
@@ -3906,8 +3901,10 @@ window.CINEMA_DATA = {
       "director": "Margarida Assis",
       "year": 2024,
       "duration": 25,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/6/8/5/1198685-god-and-a-half-0-500-0-750-crop.jpg?v=f94ceeb14d",
+      "genres": [
+        "Documentary"
+      ],
       "link": "https://www.batalhacentrodecinema.pt/filmes/01-deus-e-meio",
       "sessions": [
         {
@@ -3915,7 +3912,9 @@ window.CINEMA_DATA = {
           "time": "19:15",
           "cinema": "batalha"
         }
-      ]
+      ],
+      "plot": "A man wanders around an abandoned hospital. Years after their last encounter, someone whose life he saved seeks him out in his old office, so that together they can piece together a memory of their shared past.",
+      "country": "Portugal"
     },
     {
       "id": "batalha_sTBAsaASPLW8MKu8",
@@ -5457,68 +5456,31 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "trindade_8091",
-      "title": "O Drama",
-      "director": "Kristoffer Borgli",
-      "year": 2026,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
+      "id": "trindade_6150",
+      "title": "Caso 137",
+      "director": "Dominik Moll",
+      "year": 2025,
+      "duration": 116,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Dossier137_Cartaz-internacional-609b0-1228x1536.jpeg",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/caso-137",
       "sessions": [
         {
-          "date": "2026-04-04",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-05",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-05",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-06",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-06",
-          "time": "19:30",
+          "time": "14:15",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-07",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-07",
-          "time": "21:30",
+          "time": "14:15",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-08",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-08",
-          "time": "21:30",
+          "time": "14:15",
           "cinema": "trindade"
         }
-      ],
-      "rating": 3.78,
-      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "country": "USA"
+      ]
     },
     {
       "id": "trindade_7881",
@@ -5534,11 +5496,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
-        {
-          "date": "2026-04-04",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-04-05",
           "time": "14:30",
@@ -5590,31 +5547,63 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "trindade_6150",
-      "title": "Caso 137",
-      "director": "Dominik Moll",
-      "year": 2025,
-      "duration": 116,
-      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Dossier137_Cartaz-internacional-609b0-1228x1536.jpeg",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/caso-137",
+      "id": "trindade_8091",
+      "title": "O Drama",
+      "director": "Kristoffer Borgli",
+      "year": 2026,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
       "sessions": [
         {
           "date": "2026-04-05",
-          "time": "14:15",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-05",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "19:30",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-07",
-          "time": "14:15",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-07",
+          "time": "21:30",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-08",
-          "time": "14:15",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-08",
+          "time": "21:30",
           "cinema": "trindade"
         }
-      ]
+      ],
+      "rating": 3.78,
+      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "country": "USA"
     },
     {
       "id": "trindade_8064",
@@ -5698,8 +5687,12 @@ window.CINEMA_DATA = {
       "director": "Kleber Mendonça Filho",
       "year": 2025,
       "duration": 160,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/4/3/4/8/1104348-the-secret-agent-2025-0-500-0-750-crop.jpg?v=3bcd2a3e02",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
       "link": "https://cinematrindade.pt/pt/filmes/o-agente-secreto",
       "sessions": [
         {
@@ -5718,7 +5711,10 @@ window.CINEMA_DATA = {
             "com legendas em inglês / with english subtitles"
           ]
         }
-      ]
+      ],
+      "rating": 3.81,
+      "plot": "In 1977 Brazil, technology specialist Marcelo, fleeing a mysterious past, returns to Recife in search of peace, but realizes the city is far from the refuge he seeks.",
+      "country": "Brazil"
     },
     {
       "id": "trindade_2327",

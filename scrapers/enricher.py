@@ -202,6 +202,9 @@ LBXD_SLUGS = {
     # ── Verão 1993 (Carla Simón) ──
     "VERÃO 1993":                   "summer-1993",
     "VERAO 1993":                   "summer-1993",
+    # ── Filmes portugueses/outros sem slug automático ──
+    "O AGENTE SECRETO":             "the-secret-agent-2025",
+    "GOD-AND-A-HALF":               "god-and-a-half",
 }
 
 # Títulos originais → título inglês para OMDB
