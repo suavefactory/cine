@@ -118,7 +118,7 @@ LBXD_SLUGS = {
     "BATALHA ATRÁS DE BATALHA":  "one-battle-after-another",
     "BATALHA ATRAS DE BATALHA":  "one-battle-after-another",
     "O RAPAZ DA ILHA DE AMRUM":  "amrum",
-    "OS DOMINGOS":               "sundays",
+    "OS DOMINGOS":               "los-domingos",
     "MÃE E FILHO":               "mother-and-son",
     "MAE E FILHO":               "mother-and-son",
     "DON GIOVANNI":              "don-giovanni",
@@ -375,15 +375,20 @@ def lbxd_fetch(slug):
     country_m = re.search(r'href="/films/country/[^/"]+/"[^>]*>\s*([^<]+?)\s*<', html)
     country = country_m.group(1).strip() if country_m else None
 
+    # Realizador: extrai para validação externa
+    director_m = re.search(r'href="/director/[^/]+/"[^>]*>\s*([^<]+?)\s*</a>', html)
+    director = director_m.group(1).strip() if director_m else None
+
     return {
         "rating":      float(rating_m.group(1)) if rating_m else None,
         "poster":      poster,
         "description": description,
         "genres":      genres,
         "country":     country,
+        "lb_director": director,
     }
 
-def lbxd_lookup(title, year=None):
+def lbxd_lookup(title, year=None, director=None):
     clean  = clean_title(title)
     upper  = clean.upper()
     no_acc = strip_accents(upper)
@@ -421,6 +426,15 @@ def lbxd_lookup(title, year=None):
     for slug in slugs_to_try:
         try:
             data = lbxd_fetch(slug)
+            # Validação de realizador: se temos realizador esperado e o LB diz outro,
+            # rejeita o match para evitar posters errados (ex: "sundays" ≠ Alauda Ruiz de Azúa)
+            if director and data.get("lb_director"):
+                lb_dir  = strip_accents(data["lb_director"].lower())
+                exp_dir = strip_accents(director.lower())
+                exp_last = strip_accents(exp_dir.split()[-1]) if exp_dir.split() else ""
+                if exp_last and exp_last not in lb_dir:
+                    time.sleep(0.3)
+                    continue  # realizador não bate — ignora este slug
             if data["rating"]:
                 return data          # rating encontrado → retorna imediatamente
             if data["poster"] and best is None:
@@ -543,7 +557,7 @@ def enrich(movies):
         if key not in cache:
             print(f"  [LB] {title}...", end=" ", flush=True)
             director = movie.get("director")
-            lb   = lbxd_lookup(title, year)
+            lb   = lbxd_lookup(title, year, director=director)
             omdb = omdb_lookup(title, year, director=director)
             cache[key] = {"lbxd": lb, "omdb": omdb}
             changed = True

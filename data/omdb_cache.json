@@ -3423,18 +3423,6 @@
     },
     "omdb": null
   },
-  "Os Domingos|2018": {
-    "lbxd": {
-      "rating": 3.19,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/9/9/3/6/259936-sundays-0-500-0-750-crop.jpg?v=aa8a3028cd",
-      "description": "Set in Mexico City sometime in the future and starring US actor Brian Petsos and Mexican actress Sofia Sisniega, SUNDAYS is an ambitious philosophical science-fiction proof-of-concept short. The end of the world seems like a nightmare to Ben. A memory of a past life that doesn’t belong to him. When Ben starts to remember Isabelle, the only love he’s ever known, he realises she’s missing in his life. An existential descent into confusion and the desperate need to find out the truth begins. This reality depicts a stunning, surprising and dark world. A world that is clearly not his.",
-      "genres": [
-        "Science Fiction"
-      ],
-      "country": "Netherlands"
-    },
-    "omdb": null
-  },
   "Don Giovanni|1979": {
     "lbxd": {
       "rating": 3.69,
@@ -10946,6 +10934,19 @@
         "Drama"
       ],
       "country": "Brazil"
+    },
+    "omdb": null
+  },
+  "Os Domingos|2018": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/1/0/7/7/1321077-sundays-2025-0-500-0-750-crop.jpg?v=491bb1cc41",
+      "description": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Alauda Ruiz de Azúa"
     },
     "omdb": null
   }
