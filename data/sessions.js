@@ -2242,19 +2242,21 @@ window.CINEMA_DATA = {
       "duration": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/0/0/5/22005-ivan-the-terrible-part-ii-the-boyars-plot-0-500-0-750-crop.jpg?v=df0c6bb808",
       "genres": [
+        "Drama",
+        "War",
         "History",
-        "Drama"
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/ivan-o-terrivel-parte-2-1958",
+      "link": "https://medeiafilmes.com/filmes/siberiada-1979",
       "sessions": [
         {
-          "date": "2026-04-05",
+          "date": "2026-04-04",
           "time": "10:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.05,
-      "plot": "This is the second part of a projected three-part epic biopic of Russian Czar Ivan Grozny, undertaken by Soviet film-maker Sergei Eisenstein at the behest of Josef Stalin. Production of the epic was stopped before the third part could be filmed, due to producer dissatisfaction with Eisenstein's introducing forbidden experimental filming techniques into the material, more evident in this part than the first part. As it was, this second part was banned from showings until after the deaths of both Eisenstein and Stalin, and a change of attitude by the subsequent heads of the Soviet government. In this part, as Ivan the Terrible attempts to consolidate his power by establishing a personal army, his political rivals, the Russian boyars, plot to assassinate him.",
+      "rating": 4.11,
+      "plot": "The story about a very small god-forgotten village in Siberia reflects the history of Russia from the beginning of the century till the early 1980s. Three generations try to find the land of happiness and to give it to the people. One builds the road through taiga to the star over horizon, the second 'build communism' and the third searches for oil.",
       "country": "USSR"
     },
     {
@@ -2381,21 +2383,21 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_stalker-1979",
-      "title": "Stalker",
+      "id": "nimas_nostalgia-1983-1983",
+      "title": "Nostalgia (1983)",
       "director": "Andrei Tarkovsky",
-      "year": 1979,
-      "duration": 162,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
+      "year": 1983,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
       "genres": [
         "Drama",
-        "Science Fiction"
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/stalker-1979",
+      "link": "https://medeiafilmes.com/filmes/nostalgia-1983-1983",
       "sessions": [
         {
-          "date": "2026-04-13",
-          "time": "21:00",
+          "date": "2026-04-07",
+          "time": "19:00",
           "cinema": "nimas"
         }
       ],
@@ -2528,8 +2530,9 @@ window.CINEMA_DATA = {
       "duration": 119,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/9/51549-the-birds-0-500-0-750-crop.jpg?v=3b7bf23e10",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Drama",
+        "History",
+        "Comedy"
       ],
       "link": "https://medeiafilmes.com/filmes/os-passaros-1963",
       "sessions": [
@@ -2551,21 +2554,19 @@ window.CINEMA_DATA = {
       "duration": 100,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/4/6/3/1181463-blue-moon-2025-0-500-0-750-crop.jpg?v=e7b58cae0d",
       "genres": [
-        "Drama",
-        "History",
-        "Comedy"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/blue-moon-2025",
+      "link": "https://medeiafilmes.com/filmes/tu-e-eu-1971",
       "sessions": [
         {
           "date": "2026-04-08",
-          "time": "19:30",
+          "time": "17:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.58,
-      "plot": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
-      "country": "Ireland"
+      "rating": 3.67,
+      "plot": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work.",
+      "country": "USSR"
     },
     {
       "id": "nimas_a-fonte-da-virgem-1960",
@@ -2635,6 +2636,51 @@ window.CINEMA_DATA = {
       "rating": 3.67,
       "plot": "Pyotr, a once-promising neurosurgeon who left his groundbreaking research and career abroad, returns home years later in search of fulfillment. Encountering old friends, strained relationships, and the realities of his choices, Pyotr grapples with regret, identity, and the value of his work.",
       "country": "USSR"
+    },
+    {
+      "id": "nimas_antes-do-amanhecer-1995",
+      "title": "Antes do Amanhecer",
+      "director": "Richard Linklater",
+      "year": 1995,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-500-0-750-crop.jpg?v=006e8fedea",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/antes-do-amanhecer-1995",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.3,
+      "plot": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+      "country": "Austria"
+    },
+    {
+      "id": "nimas_da-vida-das-marionetas-1980",
+      "title": "Da Vida das Marionetas",
+      "director": "Ingmar Bergman",
+      "year": 1980,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/da-vida-das-marionetas-1980",
+      "sessions": [
+        {
+          "date": "2026-04-09",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.73,
+      "plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
+      "country": "Germany"
     },
     {
       "id": "nimas_o-barqueiro-2025",
@@ -3110,27 +3156,26 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_mulheres-que-esperam-1952",
-      "title": "Mulheres Que Esperam",
-      "director": "Ingmar Bergman",
-      "year": 1952,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/5/7/0/54570-secrets-of-women-1952-0-500-0-750-crop.jpg?v=68725cb764",
+      "id": "nimas_boyhood-momentos-de-uma-vida-2014",
+      "title": "Boyhood: Momentos de Uma Vida",
+      "director": "Richard Linklater",
+      "year": 2014,
+      "duration": 165,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xi/gm/ev/iu/eKi4e5zXhQKs0De4xu5AAMvu376-0-500-0-750-crop.jpg?v=550c14e234",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/mulheres-que-esperam-1952",
+      "link": "https://medeiafilmes.com/filmes/boyhood-momentos-de-uma-vida-2014",
       "sessions": [
         {
           "date": "2026-04-13",
-          "time": "14:00",
+          "time": "18:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.51,
-      "plot": "The four wives of four brothers share stories of their marriages as they wait for their husbands in a small, secluded cottage.",
-      "country": "Sweden"
+      "rating": 3.83,
+      "plot": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+      "country": "USA"
     },
     {
       "id": "nimas_boyhood-momentos-de-uma-vida-2014",
@@ -3247,27 +3292,28 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_arsenal-1929",
-      "title": "Arsenal",
-      "director": "Aleksandr Dovzhenko",
-      "year": 1929,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
+      "id": "nimas_acordar-para-a-vida-2001",
+      "title": "Acordar para a Vida",
+      "director": "Richard Linklater",
+      "year": 2001,
+      "duration": 99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/3/6/3/47363-waking-life-0-500-0-750-crop.jpg?v=d340df121c",
       "genres": [
-        "War",
+        "Animation",
+        "Fantasy",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
+      "link": "https://medeiafilmes.com/filmes/acordar-para-a-vida-2001",
       "sessions": [
         {
           "date": "2026-04-15",
-          "time": "17:30",
+          "time": "19:15",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.75,
-      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
-      "country": "USSR"
+      "rating": 3.91,
+      "plot": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+      "country": "USA"
     },
     {
       "id": "nimas_em-busca-da-verdade-1961",
@@ -3290,6 +3336,29 @@ window.CINEMA_DATA = {
       "rating": 4.16,
       "plot": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
       "country": "Sweden"
+    },
+    {
+      "id": "nimas_arsenal-1929",
+      "title": "Arsenal",
+      "director": "Aleksandr Dovzhenko",
+      "year": 1929,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-500-0-750-crop.jpg?v=bac138ab35",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/arsenal-1929",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.75,
+      "plot": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
+      "country": "USSR"
     },
     {
       "id": "nimas_uma-luz-nas-trevas-1948",
