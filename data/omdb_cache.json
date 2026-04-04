@@ -5476,10 +5476,6 @@
     },
     "omdb": null
   },
-  "SOFT AND HARD (A SOFT CONVERSATION BETWEEN TWO FRIENDS ON A HARD SUBJECT) + JLG/JLG|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Breve História de Amor (Breve storia d’amore)|None": {
     "lbxd": {
       "rating": 3.3,
@@ -6408,10 +6404,6 @@
       "Response": "True"
     }
   },
-  "Soft And Hard (A Soft Conversation Between Two Friends On A Hard Subject) + Jlg/Jlg|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Que Le Diable Nous Emporte|2018": {
     "lbxd": {
       "rating": 3.29,
@@ -6886,10 +6878,6 @@
       "Website": "N/A",
       "Response": "True"
     }
-  },
-  "O Gebo E A Sombra|2012": {
-    "lbxd": null,
-    "omdb": null
   },
   "Chelsea-Manhattan, NYC|1990": {
     "lbxd": {
@@ -10009,10 +9997,6 @@
       "Response": "True"
     }
   },
-  "O Drama|2026": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Caso 137|2025": {
     "lbxd": null,
     "omdb": null
@@ -10061,10 +10045,6 @@
     }
   },
   "O Agente Secreto|2025": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "A Voz de Hind Rajab|2025": {
     "lbxd": null,
     "omdb": null
   },
@@ -10191,10 +10171,6 @@
       "Website": "N/A",
       "Response": "True"
     }
-  },
-  "Viagem A Tóquio|1953": {
-    "lbxd": null,
-    "omdb": null
   },
   "Valor Sentimental|None": {
     "lbxd": {
@@ -10325,14 +10301,6 @@
       ],
       "country": "France"
     },
-    "omdb": null
-  },
-  "Jlg/Jlg|1994": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Zwischen Zwei Kriegen|1978": {
-    "lbxd": null,
     "omdb": null
   },
   "Einschlafgeschichten: Brücken|1989": {
@@ -10574,10 +10542,6 @@
       "Response": "True"
     }
   },
-  "VERÃO 1993|None": {
-    "lbxd": null,
-    "omdb": null
-  },
   "ROMARIA|None": {
     "lbxd": {
       "rating": 3.6,
@@ -10716,6 +10680,255 @@
   },
   "A CORRIDA MAIS LOUCA DA EUROPA|None": {
     "lbxd": null,
+    "omdb": null
+  },
+  "L'Udienza|1972": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "L'udienza",
+      "Year": "1972",
+      "Rated": "N/A",
+      "Released": "31 Mar 1972",
+      "Runtime": "112 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Marco Ferreri",
+      "Writer": "Marco Ferreri, Rafael Azcona, Dante Matelli",
+      "Actors": "Enzo Jannacci, Claudia Cardinale, Ugo Tognazzi",
+      "Plot": "A young man from north Italy named Amedeo decides to come to Rome.He has a crazy idea in his head to meet the pope.",
+      "Language": "Italian, French, Latin",
+      "Country": "Italy, France",
+      "Awards": "3 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzhmZDRlZTUtMWQxNS00MzJmLTgxMjctMzFjZmE1YjJmZWI3XkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "745",
+      "imdbID": "tt0067896",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Prosopo me prosopo|1966": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Prosopo me prosopo",
+      "Year": "1966",
+      "Rated": "N/A",
+      "Released": "12 Dec 1966",
+      "Runtime": "84 min",
+      "Genre": "Drama, Romance",
+      "Director": "Roviros Manthoulis",
+      "Writer": "Roviros Manthoulis, Kostas Mourselas",
+      "Actors": "Costas Messaris, Eleni Stavropoulou, Theano Ioannidou",
+      "Plot": "Penniless and without a future, an English teacher agrees to tutor a pampered woman, only to become enmeshed in a strange reality and a downward spiral of desire and illusion, guilt and self-contempt. Will the ugly truth set him f...",
+      "Language": "Greek, German, English, French",
+      "Country": "Greece",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYyZjk5OGMtZDQxMS00ODRjLWFiMTctYTYxMGMyZjFjODJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "246",
+      "imdbID": "tt0145413",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Jlg/Jlg|1994": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/9/1/9/84919-jlg-jlg-self-portrait-in-december-0-500-0-750-crop.jpg?v=1e5d04ca06",
+      "description": "Director Jean-Luc Godard reflects in this movie about his place in film history, the interaction of film industry and film as art, as well as the act of creating art.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Arbeiter Verlassen Die Fabrik|1995": {
+    "lbxd": {
+      "rating": 3.84,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/9/8/6/167986-workers-leaving-the-factory-0-500-0-750-crop.jpg?v=54c51f2cc8",
+      "description": "Using one of the Lumière Brothers' first films of workers leaving the Factory as his starting point, Farocki provides an insight to changes in industrial production, workers' strikes and motion pictures-- via images of workers leaving factories throughout the years.",
+      "genres": [
+        "Documentary",
+        "Tv Movie"
+      ],
+      "country": "Germany"
+    },
+    "omdb": {
+      "Title": "Arbeiter verlassen die Fabrik",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "02 Apr 1995",
+      "Runtime": "36 min",
+      "Genre": "Documentary, Short",
+      "Director": "Harun Farocki",
+      "Writer": "Harun Farocki",
+      "Actors": "Harun Farocki",
+      "Plot": "A hundred years of scenes in which workers are seen leaving their factory spaces are used to deconstruct the ideology behind representations of such workers in both fiction and non fiction films.",
+      "Language": "N/A",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4NzRlNDItYzczOC00MWIxLWI2NTItZGQyOWQ0NjUxNDUyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "202",
+      "imdbID": "tt0360377",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Der Ausdruck Der Hände|1997": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/8/0/8/117808-the-expression-of-hands-0-500-0-750-crop.jpg?v=1618749f87",
+      "description": "Historically, the cinema close-up was initially employed to convey emotions through facial expressions. But soon filmmakers also began focusing their attention on hands. Using film extracts, Farocki explores this visual language, its symbolism, Freudian slips, automatisms and its music. Often, hands betray an emotion which the face tries to dissimulate. They can also function as a conduit (exchanging money) or witness to a form of competence (work).",
+      "genres": null,
+      "country": "Germany"
+    },
+    "omdb": {
+      "Title": "Der Ausdruck der Hände",
+      "Year": "1997",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "30 min",
+      "Genre": "Short",
+      "Director": "Harun Farocki",
+      "Writer": "Harun Farocki",
+      "Actors": "Harun Farocki",
+      "Plot": "N/A",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "52",
+      "imdbID": "tt0268959",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "In-Formation|2005": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/8/0/3/8/1478038-in-2005-0-500-0-750-crop.jpg?v=4bf27143c9",
+      "description": "2005 release",
+      "genres": null,
+      "country": "Japan"
+    },
+    "omdb": null
+  },
+  "O Drama|2026": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA"
+    },
+    "omdb": null
+  },
+  "A Voz de Hind Rajab|2025": {
+    "lbxd": {
+      "rating": 4.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/7/4/0/2/1357402-the-voice-of-hind-rajab-0-500-0-750-crop.jpg?v=c5d8abe27e",
+      "description": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France"
+    },
+    "omdb": null
+  },
+  "Zwischen Zwei Kriegen|1978": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/8/7/8/5/178785-between-two-wars-0-500-0-750-crop.jpg?v=585c5c3b1c",
+      "description": "A film about the time of the blast furnaces – 1917–1933 – about the development of an industry, about perfect machinery which had to run itself to the point of its own destruction.",
+      "genres": null,
+      "country": "Germany"
+    },
+    "omdb": null
+  },
+  "O Gebo E A Sombra|2012": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/4/9/6/88496-gebo-and-the-shadow-0-500-0-750-crop.jpg?v=412470c7e0",
+      "description": "Despite his age and general weariness, Gebo keeps on working as an accountant to provide for his family. He lives with his wife, Doroteia, and his daughter-in-law, Sofia, but it is the absence of João, son and husband, that worries them.Gebo seems to be hiding something, especially to Doroteia, who is anxiously waiting to see her son again. Sofia is also waiting for her husband to come home, and yet she fears him. All of a sudden, João arrives and everything changes.﻿",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal"
+    },
+    "omdb": null
+  },
+  "Viagem A Tóquio|1953": {
+    "lbxd": {
+      "rating": 4.43,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jm/ov/7q/pp/pmb1KAw83l0N5m2sJhdKpgCL6wA-0-500-0-750-crop.jpg?v=ef7ec8c445",
+      "description": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan"
+    },
+    "omdb": null
+  },
+  "VERÃO 1993|None": {
+    "lbxd": {
+      "rating": 3.96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/2/8/371428-summer-1993-0-500-0-750-crop.jpg?v=02af5bab9f",
+      "description": "After her mother's death, six-year-old Frida is sent to her uncle's family to live with them in the countryside. But Frida finds it hard to forget her mother and adapt to her new life.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain"
+    },
     "omdb": null
   }
 }

@@ -189,6 +189,19 @@ LBXD_SLUGS = {
     "AS PROVADORAS DE HITLER (LE ASSAGGIATRICI)": "the-tasters",
     "LE ASSAGGIATRICI":             "the-tasters",
     "UN ANNO DI SCUOLA":            "a-year-of-school",
+    # ── Títulos com slug não óbvio ──
+    "JLG/JLG":                      "jlg-jlg-self-portrait-in-december",
+    "O DRAMA":                      "the-drama",
+    "A VOZ DE HIND RAJAB":          "the-voice-of-hind-rajab",
+    "VIAGEM A TÓQUIO":              "tokyo-story",
+    "VIAGEM A TOQUIO":              "tokyo-story",
+    # ── Farocki / outros títulos alemães ──
+    "ZWISCHEN ZWEI KRIEGEN":        "between-two-wars",
+    # ── Oliveira ──
+    "O GEBO E A SOMBRA":            "gebo-and-the-shadow",
+    # ── Verão 1993 (Carla Simón) ──
+    "VERÃO 1993":                   "summer-1993",
+    "VERAO 1993":                   "summer-1993",
 }
 
 # Títulos originais → título inglês para OMDB
@@ -550,6 +563,12 @@ def enrich(movies):
                 print()
 
         # ── Aplicar dados ───────────────────────────────────────────
+        # Remove posters landscape (imagens do cinema, não são posters de filme)
+        _LANDSCAPE = ("1920x1080", "1920X1080", "1920%", "placeholder-2-i",
+                      "captura-de-ecra", "withoutlettering", "noltettering")
+        if movie.get("poster") and any(s in movie["poster"] for s in _LANDSCAPE):
+            movie["poster"] = None
+
         # Poster: Letterboxd sempre (sobrepõe poster do scraper), fallback OMDB
         if lb and lb.get("poster"):
             movie["poster"] = lb["poster"]
