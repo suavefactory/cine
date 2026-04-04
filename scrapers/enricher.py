@@ -379,6 +379,15 @@ def lbxd_fetch(slug):
     director_m = re.search(r'href="/director/[^/]+/"[^>]*>\s*([^<]+?)\s*</a>', html)
     director = director_m.group(1).strip() if director_m else None
 
+    # Ano: extrai do <title> "Film Name (2025) directed by..."
+    lb_year = None
+    title_m = re.search(r'<title>[^(]*\((\d{4})\)', html)
+    if title_m:
+        try:
+            lb_year = int(title_m.group(1))
+        except ValueError:
+            pass
+
     return {
         "rating":      float(rating_m.group(1)) if rating_m else None,
         "poster":      poster,
@@ -386,6 +395,7 @@ def lbxd_fetch(slug):
         "genres":      genres,
         "country":     country,
         "lb_director": director,
+        "lb_year":     lb_year,
     }
 
 def lbxd_lookup(title, year=None, director=None):
@@ -604,6 +614,11 @@ def enrich(movies):
         # Rating Letterboxd (escala 0-5)
         if lb and lb.get("rating"):
             movie["rating"] = lb["rating"]
+
+        # Ano: Letterboxd é mais fiável que o site do cinema (ex: URLs com anos errados)
+        # Só substitui quando LB confirma realizador — já validado em lbxd_lookup
+        if lb and lb.get("lb_year") and lb["lb_year"] != movie.get("year"):
+            movie["year"] = lb["lb_year"]
 
         # Géneros: Letterboxd sempre (sobrepõe scraper/OMDB), fallback OMDB
         if lb and lb.get("genres"):
