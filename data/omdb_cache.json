@@ -10950,5 +10950,286 @@
       "lb_year": 2025
     },
     "omdb": null
+  },
+  "O Thiasos|1975": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/3/7/51437-the-travelling-players-0-500-0-750-crop.jpg?v=ada634f368",
+      "description": "A traveling theatre troupe tours the Greek countryside from 1939 to the early 1950s, staging “Golfo the Shepherdess”. As the years pass, its members endure persecution, betrayal, executions, and exile. Their personal stories become entangled with the country’s major historical events, in a seemingly endless cycle of violence and loss.",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "country": "Greece",
+      "lb_director": "Theo Angelopoulos",
+      "lb_year": 1975
+    },
+    "omdb": null
+  },
+  "Cría Cuervos|1975": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/1/13991-cria--0-500-0-750-crop.jpg?v=e040a4f888",
+      "description": "In Madrid, the orphan sisters Irene, Ana and Maite are raised by their austere aunt Paulina together with their mute and crippled grandmother after the death of their mother and their military father Anselmo. Ana is a melancholic girl, fascinated by death, after seeing her mother having a painful death and her father dead in bed.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Carlos Saura",
+      "lb_year": 1976
+    },
+    "omdb": {
+      "Title": "Cría Cuervos",
+      "Year": "1976",
+      "Rated": "PG",
+      "Released": "18 May 1977",
+      "Runtime": "105 min",
+      "Genre": "Drama",
+      "Director": "Carlos Saura",
+      "Writer": "Carlos Saura",
+      "Actors": "Ana Torrent, Conchita Pérez, Mayte Sanchez",
+      "Plot": "In the twilight of Francisco Franco's dictatorship, an 8-year-old orphan and her two sisters find shelter in the house of their stern aunt and try their best to acclimatize to a new reality. Can they summon up the courage to grow up?",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "8 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMxMzZhOTUtNTk4NS00NDZhLTlhMjctYWM5MGI0MDhjNDhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "12,218",
+      "imdbID": "tt0074360",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Capybaras|2024": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/9/4/8/1205948-capybaras-0-500-0-750-crop.jpg?v=7bdb433c68",
+      "description": "A female capybara and her cubs are fleeing from a hunter who has settled in the lagoon where they live. Their search for shelter takes them to a nearby chicken coop, but the chickens, seeing their routine threatened, reject the capybaras and react by setting boundaries to keep them at a distance. The curiosity of the youngest, a puppy and a chick, will make them transgress the boundaries and take some risks in order to get to know each other. The situation will lead to an unexpected end that will change the lives of both species and, perhaps, that of some other animals.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "France",
+      "lb_director": "Alfredo Soderguit",
+      "lb_year": 2024
+    },
+    "omdb": null
+  },
+  "A Cada Dia Que Passa|2024": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "A Cada Dia que Passa...",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "16 Nov 2024",
+      "Runtime": "11 min",
+      "Genre": "Animation, Short",
+      "Director": "Emanuel Nevado",
+      "Writer": "Bruno Caetano, Pedro Moura",
+      "Actors": "Ana Vieira, Luís Franco Bastos, Bruno Caetano",
+      "Plot": "Mrs. Piedade is an old mouse who lives in a small village in the mountainous interior of Portugal. Her existence is mainly composed of loneliness and memories, and a hardened routine, guided by the regular beat of the clock and th...",
+      "Language": "N/A",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZjNjhhMDItMzU0Ny00MTRiLWI5NWUtNGQwNjc2MTFhNDYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37819413",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Bobel’s Kitchen|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/7/5/7/4/1337574-bobels-kitchen-0-500-0-750-crop.jpg?v=d46e94cdb5",
+      "description": "Bobel, a poisonous little mushroom, dreams of becoming a cook at his village market. But the prejudices of the villagers will make his task difficult.",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Animation"
+      ],
+      "country": "Belgium",
+      "lb_director": "Fiona Rolland",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Bobel's Kitchen",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "01 Sep 2024",
+      "Runtime": "10 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "Fiona Rolland",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Bobel (a poisonous mushroom) dreams of becoming a chef, but there's only one problem standing between him and his dream: no one wants to taste anything from his stand because of its poisonous nature. Despite this, Bobel doesn't gi...",
+      "Language": "N/A",
+      "Country": "Belgium",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZjNjkxNDYtOWEyOC00YWIyLWJhMTItZGVhNDI2YzY1NWM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37024682",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Menina Com Os Olhos Ocupados|2024": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "A Menina com os Olhos Ocupados",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "26 Apr 2025",
+      "Runtime": "8 min",
+      "Genre": "Animation, Short",
+      "Director": "André Carrilho",
+      "Writer": "André Carrilho",
+      "Actors": "N/A",
+      "Plot": "A girl wanders through the city, countryside, beach, always clutching a phone from which she never takes her eyes off. Along the way, she comes across a group of characters that include a bear, dolphins, pirates, an alien. Everyon...",
+      "Language": "N/A",
+      "Country": "Portugal",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjRhZDhiNzAtYzgwMy00ZmEzLWJmYTItMjM2Y2Y3NTk4YmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "19",
+      "imdbID": "tt23063360",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Le Tunnel De La Nuit|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/9/0/6/3/1379063-le-tunnel-de-la-nuit-0-500-0-750-crop.jpg?v=6dbf82f6ac",
+      "description": "Two children from the opposite ends of the earth meet in a story of exchange and friendship.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "Belgium",
+      "lb_director": "Annechien Strouven",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "Conseguimos Fazer Um Filme|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/5/3/2/8/1175328-conseguimos-fazer-um-filme-0-500-0-750-crop.jpg?v=f73db3709e",
+      "description": "Maria Inês experiences the first breezes of love during a summer vacation. Accompanied by her friends, she strolls through the neighborhood where she lives, spending her time between beads and a movie shoot.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Tota Alves",
+      "lb_year": 2024
+    },
+    "omdb": {
+      "Title": "Conseguimos Fazer Um Filme",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "25 May 2024",
+      "Runtime": "15 min",
+      "Genre": "Short",
+      "Director": "Tota Alves",
+      "Writer": "N/A",
+      "Actors": "Inês Cruz",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk4MTM4YjgtYThhMy00ZjYxLThhNmUtNmVhMWVjZDZlYTNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32404584",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Binti|2020": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/5/4/4/6/505446-binti-0-500-0-750-crop.jpg?v=31fec7ab65",
+      "description": "Binti is a 12-year-old girl of Congolese origin who dreams of becoming a famous vlogger like her idol Tatyana. But when the police raid her home and try to deport her and her father Jovial, they are forced to flee. Binti meets Elias and befriends her. While Binti helps Elias to vlog about his 'save-the-okapi-club', she hatches the perfect plan: her dad has to marry Elias’s mom, so they can stay in Belgium.",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "country": "Belgium",
+      "lb_director": "Frederike Migom",
+      "lb_year": 2019
+    },
+    "omdb": {
+      "Title": "Binti",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "03 Apr 2019",
+      "Runtime": "99 min",
+      "Genre": "Drama, Family",
+      "Director": "Frederike Migom",
+      "Writer": "Frederike Migom",
+      "Actors": "Bebel Tshiani Baloji, Mo Bakker, Joke Devynck",
+      "Plot": "Binti was born in the Congo but lives in Belgium with her father. Despite not having any legal documents, she dreams of living a normal life and becoming a famous vlogger like her idol Tatyana.",
+      "Language": "Dutch",
+      "Country": "Belgium",
+      "Awards": "13 wins & 10 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ2MTU5N2ItODFhNy00OGYzLWI0ZDktZDMyMjhjNDcyNzRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "244",
+      "imdbID": "tt6922062",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
