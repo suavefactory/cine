@@ -11347,5 +11347,206 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Cinématon N. 598: Thomas Harlan|1984": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Wundkanal|1984": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/4/4/5/181445-wundkanal-0-500-0-750-crop.jpg?v=948397fab4",
+      "description": "An old man is kidnapped. His interrogation uncovers the biography of a mass murderer: The 80 years old man was a SS leader and responsible for the killing of thousands of people in the Soviet Union. He also \"invented\" an evil technique of eliminating political prisoners: the manipulated suicide. Thomas Harlan reconstructs the history of a bureaucratic murderer, he also develops a direct connection between the Nationalsocialism and the treatment of prisoners of the RAF terrorists in the Stuttgart isolation prison. Robert Kramer filmed the shooting of Harlan's Wundkanal: Notre Nazi documents a social experiment in which the children of Nazis and of victims meet a real culprit. The reality seems to be stronger that the fiction in Harlan's film. (Edition Filmmuseum)",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Thomas Harlan",
+      "lb_year": 1984
+    },
+    "omdb": {
+      "Title": "Wundkanal",
+      "Year": "1984",
+      "Rated": "N/A",
+      "Released": "29 Aug 1984",
+      "Runtime": "107 min",
+      "Genre": "Drama",
+      "Director": "Thomas Harlan",
+      "Writer": "Yvette Biro, Thomas Harlan",
+      "Actors": "Alfred Filbert, Heike Geschonneck, Robert Kramer",
+      "Plot": "Filbert , manipulated by his mentor Harlan, is a mass murderer who submits himself to police interrogation and Inquisition.",
+      "Language": "French, German",
+      "Country": "France, West Germany",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwM2E3NDgtOWQ2NS00MWMwLTk0MzYtYzk4NDE0NjM0OGI1XkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "53",
+      "imdbID": "tt0090341",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Evdokia|1971": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/1/0/17710-evdokia-0-500-0-750-crop.jpg?v=eb6ddffa2c",
+      "description": "A prostitute (Evdokia) meets a sergeant (Yorgos). They fall in love and get married after a short love affair. Her profession, however, is a barrier for their relationship. They try to stay together and overcome their inner conflicts, but the social environment crushes them.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Greece",
+      "lb_director": "Alexis Damianos",
+      "lb_year": 1971
+    },
+    "omdb": {
+      "Title": "Evdokia",
+      "Year": "1971",
+      "Rated": "N/A",
+      "Released": "21 Sep 1971",
+      "Runtime": "97 min",
+      "Genre": "Drama, Romance",
+      "Director": "Alexis Damianos",
+      "Writer": "John Baldwin, Alexis Damianos",
+      "Actors": "Maria Vassiliou, Giorgos Koutouzis, Koula Agagiotou",
+      "Plot": "Athens, 1971. In the tumultuous years of the Greek military junta, an unconventional couple is torn between the complexities of love, life, and the suffocating pressure of fragile societal relations. Will they survive one another?",
+      "Language": "Greek, English",
+      "Country": "Greece, United Kingdom",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJiNzMxNmEtYzRkNy00Yjg3LWJlODYtMzE5YjA2N2E3OTdmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "865",
+      "imdbID": "tt0067068",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cinématon N. 598: Thomas Harlan | Unser Nazi|1975": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Nino|2025": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/4/5/2/0/1194520-nino-2025-0-500-0-750-crop.jpg?v=2ed3471258",
+      "description": "Nino is a young man on a journey to reconnect with the world and himself in the streets of Paris, following the suggestion of his doctors. In three days, he will face a major challenge.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Pauline Loquès",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Nino",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "17 Sep 2025",
+      "Runtime": "96 min",
+      "Genre": "Drama",
+      "Director": "Pauline Loquès",
+      "Writer": "Pauline Loquès, Maud Ameline",
+      "Actors": "Théodore Pellerin, William Lebghil, Salomé Dewaels",
+      "Plot": "Nino, a young man, explores the streets of Paris to reconnect with the world and himself, after being diagnosed with cancer.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "9 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZiYzM3ZGItMTZiNi00MTdkLTlmYzctZGMyODkxYjBmM2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "595",
+      "imdbID": "tt35519445",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Nossa Terra|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Terminal Norte|2021": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/2/3/5/3/782353-terminal-norte-0-500-0-750-crop.jpg?v=45088bd123",
+      "description": "During the 2020 lockdown, Lucrecia Martel returns to her home in Salta, Argentina’s most conservative region. Here she follows Julieta Laso who, like a muse, introduces her to a group of female artists and defiant people who exchange glances and opinions around a fire.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "Argentina",
+      "lb_director": "Lucrecia Martel",
+      "lb_year": 2021
+    },
+    "omdb": {
+      "Title": "Terminal Norte",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "07 Sep 2021",
+      "Runtime": "37 min",
+      "Genre": "Documentary, Music",
+      "Director": "Lucrecia Martel",
+      "Writer": "Lucrecia Martel",
+      "Actors": "Julieta Laso, Lorena Carpanchay, Mariana Carrizo",
+      "Plot": "During the 2020 lockdown, Lucrecia Martel returns to home in Salta, Argentina. She follows Julieta Laso who, like a muse, introduces her to a group of female artists and defiant people who exchange glances and opinions around a fire.",
+      "Language": "Spanish, English",
+      "Country": "Argentina",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2Nzg2NzctYzQzNy00MWNiLTk3YmItYmY2OTlmMzBjMTNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "279",
+      "imdbID": "tt15357942",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "DIÁRIO DE LISBOA, O LEGADO|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
