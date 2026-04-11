@@ -11766,5 +11766,111 @@
   "Haverá Sangue|2007": {
     "lbxd": null,
     "omdb": null
+  },
+  "Ocupação Da Quinta Da Torre Bela|1975": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "El crimen de Cuenca|1980": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Os Domingos|2025": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/1/0/7/7/1321077-sundays-2025-0-500-0-750-crop.jpg?v=491bb1cc41",
+      "description": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Alauda Ruiz de Azúa",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "Cosmic Boy|2007": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "¿De Qué Casa Eres?|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/3/6/8/1287368-where-do-you-call-home-0-500-0-750-crop.jpg?v=48a2099c28",
+      "description": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Ana Pérez-Quiroga",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "¿De qué casa eres?",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "72 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Ana Pérez-Quiroga",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese, Spanish",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32837881",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Chão Verde De Pássaros Escritos|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/1/9/9/8/1401998-chao-verde-de-passaros-escritos-0-500-0-750-crop.jpg?v=d66511d1f0",
+      "description": null,
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Sandra Inês Cruz",
+      "lb_year": 2026
+    },
+    "omdb": {
+      "Title": "Chão Verde de Pássaros Escritos",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "23 Apr 2026",
+      "Runtime": "77 min",
+      "Genre": "Documentary",
+      "Director": "Sandra Inês Cruz",
+      "Writer": "Sandra Inês Cruz",
+      "Actors": "Sandra Inês Cruz, Daniel Silva, Luandino Vieira",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRmODlkMmYtYWJiZS00NzY0LTgzYjgtNDM4ZjUyNjJkYjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37815327",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
