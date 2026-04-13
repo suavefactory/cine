@@ -12564,5 +12564,109 @@
   "MR. NOBODY CONTRA PUTIN|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "The Lovers on the Bridge|1991": {
+    "lbxd": {
+      "rating": 4.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/0/4/50104-the-lovers-on-the-bridge-0-500-0-750-crop.jpg?v=5e8b06ab05",
+      "description": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Leos Carax",
+      "lb_year": 1991
+    },
+    "omdb": {
+      "Title": "The Lovers on the Bridge",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "02 Jul 1999",
+      "Runtime": "125 min",
+      "Genre": "Drama, Romance",
+      "Director": "Leos Carax",
+      "Writer": "Leos Carax",
+      "Actors": "Juliette Binoche, Denis Lavant, Klaus-Michael Grüber",
+      "Plot": "Alex, who's homeless and addicted to alcohol, and Michèle, who's losing her sight, form a relationship while sleeping rough on Paris's Pont-Neuf bridge.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "Nominated for 1 BAFTA Award4 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmYyZTUyNDctNmYwYi00OTIxLWIzMDQtNTRkZDE0MGI3MmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "16,700",
+      "imdbID": "tt0101318",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$69,652",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Romeo + Juliet|1996": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/4/7/51647-romeo-juliet-0-500-0-750-crop.jpg?v=bbd8155493",
+      "description": "In this contemporary take on William Shakespeare's classic tragedy, the Montagues and Capulets have moved their ongoing feud to the sweltering suburb of Verona Beach, where Romeo and Juliet fall in love and secretly wed. Though the film is visually modern, the bard's dialogue remains.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Australia",
+      "lb_director": "Baz Luhrmann",
+      "lb_year": 1996
+    },
+    "omdb": {
+      "Title": "Romeo + Juliet",
+      "Year": "1996",
+      "Rated": "PG-13",
+      "Released": "01 Nov 1996",
+      "Runtime": "120 min",
+      "Genre": "Drama, Romance",
+      "Director": "Baz Luhrmann",
+      "Writer": "William Shakespeare, Craig Pearce, Baz Luhrmann",
+      "Actors": "Leonardo DiCaprio, Claire Danes, John Leguizamo",
+      "Plot": "Shakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue.",
+      "Language": "English",
+      "Country": "United States, Mexico, Australia, Canada",
+      "Awards": "Nominated for 1 Oscar. 15 wins & 30 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBhYjkxN2EtNDc1Yy00NTViLTkxMjQtMDYxMzM0MzA3NGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "6.7",
+      "imdbVotes": "257,554",
+      "imdbID": "tt0117509",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$46,351,345",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
