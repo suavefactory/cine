@@ -1172,6 +1172,17 @@ function toggleCinema(id) {
   render();
 }
 
+// Expõe funções chamadas por onclick no HTML estático e nos templates gerados
+window.openModal         = openModal;
+window.closeModal        = closeModal;
+window.handleOverlayClick = handleOverlayClick;
+window.setView           = setView;
+window.setDate           = setDate;
+window.setCity           = setCity;
+window.toggleCinema      = toggleCinema;
+window.setSort           = setSort;
+window.addToCalendar     = addToCalendar;
+
 render();
 }; // fim _initApp
 </script>
