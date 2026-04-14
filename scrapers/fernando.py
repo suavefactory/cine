@@ -90,7 +90,11 @@ def clean_anchor_title(raw_html):
     # Remove traço inicial ou final residual
     text = re.sub(r"^\s*[-–]\s*", "", text)
     text = re.sub(r"\s*[-–]\s*$",  "", text)
-    return re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+", " ", text).strip()
+    # Normaliza títulos em maiúsculas (e.g. "DOGFIGHT" → "Dogfight")
+    if text == text.upper() and len(text) > 1:
+        text = text.title()
+    return text
 
 
 def parse_schedule(html):
@@ -270,11 +274,14 @@ def scrape():
         # Rejeita títulos com CSS (e.g. quando a página retorna CSS no lugar de HTML)
         if "{" in raw_title or "}" in raw_title or len(raw_title) > 200:
             raw_title = title
-        # Para séries: só usa o título da página se a página também tem realizador ou ano
-        # (= é uma página de filme real). Páginas de ciclo/retrospetiva (e.g. Werner Herzog)
-        # não têm esses campos → usa o texto do anchor como título do filme.
-        if is_series and meta.get("title") and not (meta.get("year") or meta.get("director")):
+        # Só usa o título/poster da página se a página também tem realizador ou ano
+        # (= é uma página de filme real). Páginas de ciclo/retrospetiva (e.g. Werner Herzog,
+        # Sessões À Pala de Walsh) não têm esses campos → usa o texto do anchor como título
+        # e descarta o poster da página do evento.
+        page_is_event = meta.get("title") and not (meta.get("year") or meta.get("director"))
+        if page_is_event:
             raw_title = title
+            meta = {k: v for k, v in meta.items() if k != "poster"}
         # Remove etiquetas de série/retrospetiva que aparecem no <h1> da página
         final_title = re.sub(r"\s*[-–]\s*mostra\s+essencial.*$",         "", raw_title, flags=re.IGNORECASE).strip()
         final_title = re.sub(r"\s*[-–]\s*última\s+sessão.*$",             "", final_title, flags=re.IGNORECASE).strip()
