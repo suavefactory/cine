@@ -387,8 +387,21 @@
   </nav>
 </header>
 
-<!-- dados reais gerados pelo scraper (se existirem) -->
-<script>document.write('<scr'+'ipt src="data/sessions.js?v='+new Date().toISOString().slice(0,13)+'" onerror="window.CINEMA_DATA=null"><\/scr'+'ipt>');</script>
+<!-- dados reais gerados pelo scraper -->
+<script>
+(async function(){
+  const REMOTE = 'https://suavefactory.github.io/cine/data/sessions.js';
+  const LOCAL  = 'data/sessions.js?v=' + new Date().toISOString().slice(0,13);
+  const url = (window.Capacitor) ? REMOTE : LOCAL;
+  try {
+    const r = await fetch(url);
+    const t = await r.text();
+    // executa "window.CINEMA_DATA = {...}"
+    new Function(t)();
+  } catch(e) { window.CINEMA_DATA = null; }
+  window._initApp();
+})();
+</script>
 
 <div class="date-bar" id="dateBar"></div>
 <div class="city-bar" id="cityBar"></div>
@@ -639,14 +652,16 @@ const CINEMA_GRADIENTS = {
   trindade:   'linear-gradient(135deg,#1a0010 0%,#2e0018 100%)',
 };
 
-const MOVIES = (window.CINEMA_DATA?.movies ?? MOCK_MOVIES).map(m => {
-  const firstCinema = m.sessions?.[0]?.cinema;
-  return {
-    ...m,
-    bg: m.bg ?? CINEMA_GRADIENTS[firstCinema] ?? 'linear-gradient(135deg,#111 0%,#1e1e1e 100%)',
-    sessions: (m.sessions ?? []).map(s => ({ ...s, time: s.time.replace('*', '').trim() })),
-  };
-});
+let MOVIES = [];
+window._initApp = function() {
+  MOVIES = (window.CINEMA_DATA?.movies ?? MOCK_MOVIES).map(m => {
+    const firstCinema = m.sessions?.[0]?.cinema;
+    return {
+      ...m,
+      bg: m.bg ?? CINEMA_GRADIENTS[firstCinema] ?? 'linear-gradient(135deg,#111 0%,#1e1e1e 100%)',
+      sessions: (m.sessions ?? []).map(s => ({ ...s, time: s.time.replace('*', '').trim() })),
+    };
+  });
 
 // Ajusta a data inicial ao dia actual
 const TODAY = new Date().toISOString().split('T')[0];
@@ -1158,6 +1173,7 @@ function toggleCinema(id) {
 }
 
 render();
+}; // fim _initApp
 </script>
 </body>
 </html>
