@@ -12668,5 +12668,145 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Chuva|1999": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Chuva",
+      "Year": "1999",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "15 min",
+      "Genre": "Short",
+      "Director": "Luís Fonseca",
+      "Writer": "N/A",
+      "Actors": "Ana Brandão, Monica Calle, Luís Bonaccorso",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt0186923",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Inferno (Vale De Judeus)|2010": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Última Gravação|2007": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "LIFE IS A FILM: UKRAINIAN SHORTS IN LISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Sessões À Pala de Walsh|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "¿De qué Casa Eres?|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/3/6/8/1287368-where-do-you-call-home-0-500-0-750-crop.jpg?v=48a2099c28",
+      "description": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Ana Pérez-Quiroga",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "¿De qué casa eres?",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "72 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Ana Pérez-Quiroga",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese, Spanish",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32837881",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "FUORI|None": {
+    "lbxd": {
+      "rating": 3.04,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/1/7/8/1192178-fuori-2025-0-500-0-750-crop.jpg?v=ed8aaa2e8c",
+      "description": "Rome. The 1980s. After the magnum opus The Art of Joy she has been working on for a decade is rejected by the Italian publishing world, writer Goliarda Sapienza commits a desperate theft that costs her her reputation and social position. Incarcerated in Italy’s largest female prison, she finds herself living alongside thieves, junkies, sex workers and revolutionaries. After her release, she continues to meet with these women and over the course of a sweltering summer, a life-changing relationship flowers – a relationship that will reawaken her the desire to live and to write.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Mario Martone",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Fuori",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "22 May 2025",
+      "Runtime": "117 min",
+      "Genre": "Biography, Drama",
+      "Director": "Mario Martone",
+      "Writer": "Goliarda Sapienza, Mario Martone, Ippolita Di Majo",
+      "Actors": "Valeria Golino, Matilda De Angelis, Elodie",
+      "Plot": "A writer ends up in prison for a crazy and unexpected act, where she meets with some young inmates. Once out the writer and the other women maintain their friendship, an authentic bond that no one else will be able to understand.",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q1ZGQ0MmMtNWFkYi00OWRiLWFjMTktYzY0NDE0MmIxYjFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "47/100"
+        }
+      ],
+      "Metascore": "47",
+      "imdbRating": "6.1",
+      "imdbVotes": "454",
+      "imdbID": "tt34768402",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
