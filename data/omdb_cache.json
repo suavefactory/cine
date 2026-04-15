@@ -12953,5 +12953,105 @@
   "INDIE THE BLIND COUPLE 585|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "AS LIÑAS DESCONTINUAS|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "ANOCHE CONQUISTÉ TEBAS|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Anoche conquisté Tebas",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "106 min",
+      "Genre": "N/A",
+      "Director": "Gabriel Azorín",
+      "Writer": "Gabriel Azorín, Celso Giménez",
+      "Actors": "Pavle Cemerikic, Santiago Mateus, António Gouveia",
+      "Plot": "On a cold winter afternoon, António and Jota return from the front with their friends, looking for an ancient Roman thermal bath. They joke with each other while wading through swamps, recounting past tactical glories. The baths h...",
+      "Language": "Portuguese, Latin, Galician, Spanish",
+      "Country": "Spain, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2YzU2NmItMWZlYy00ODg5LTlmYzktM2VjM2JhZmQ5NTA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15181334",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Swimming Lesson|2017": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Swimming Lesson",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "24 Sep 2017",
+      "Runtime": "3 min",
+      "Genre": "Animation, Short",
+      "Director": "Tatyana Okruzhnova",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "The sea is no joke and you should always be ready to lend a helping hand.",
+      "Language": "N/A",
+      "Country": "Russia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE5YWIyY2QtZWZmNC00NmIwLWI1MjktOGI0ZWRmOTE3NjFjXkEyXkFqcGdeQXVyMTEyODk4MTUw._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11958840",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Au revoir, éte|2013": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Jules & Juliette|2023": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/5/0/6/8/1085068-jules-juliette-0-500-0-750-crop.jpg?v=4494a01c95",
+      "description": "Jules and Juliette go to the beach. They carry the dinghy on their heads with which they intend to sail. It's already quite a deal. Of course, Jules is clumsy and doesn't fail to play the fool. The beach is deserted. It's going to be a bright day full of laughter and connivance.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Peten",
+      "lb_year": 2022
+    },
+    "omdb": null
+  },
+  "Tatarang!|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Please Frog, Just One Sip!|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/5/8/1502458-please-frog-just-one-sip-0-500-0-750-crop.jpg?v=1e62b26e6f",
+      "description": "It's a hot day in Africa and the frog can no longer bear the heat. She takes a sip, but then can't stop drinking. Once all the water is gone, the other animals must think of a plan to make the frog give back the water.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "South Africa",
+      "lb_director": "Diek Grobler",
+      "lb_year": 2017
+    },
+    "omdb": null
   }
 }

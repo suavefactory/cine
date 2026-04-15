@@ -1,6 +1,48 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-14T23:11:14.624349+00:00",
+  "generated": "2026-04-15T11:41:12.610480+00:00",
   "movies": [
+    {
+      "id": "sao_jorge_10382",
+      "title": "AS LIÑAS DESCONTINUAS",
+      "director": "Anxos Fazáns",
+      "duration": 90,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/04/Linas-Descontinuas-As_primaryStill_01.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/as-linas-descontinuas/",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "21:45",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_10380",
+      "title": "ANOCHE CONQUISTÉ TEBAS",
+      "director": "Gabriel Azorín",
+      "duration": 112,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/04/Anoche-conquiste-Tebas_primaryStill_01.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/anoche-conquiste-tebas/",
+      "sessions": [
+        {
+          "date": "2026-05-04",
+          "time": "21:45",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-05-07",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "plot": "On a cold winter afternoon, António and Jota return from the front with their friends, looking for an ancient Roman thermal bath. They joke with each other while wading through swamps, recounting past tactical glories. The baths h...",
+      "country": "Spain",
+      "year": 2025
+    },
     {
       "id": "sao_jorge_10210",
       "title": "Duse",
@@ -65,14 +107,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemasaojorge.pt/evento/valor-sentimental-sessao-marsupial/",
       "sessions": [
         {
-          "date": "2026-04-14",
-          "time": "21:15",
-          "cinema": "fernando",
-          "labels": [
-            "Última sessão"
-          ]
-        },
-        {
           "date": "2026-04-22",
           "time": "14:30",
           "cinema": "sao_jorge",
@@ -81,7 +115,6 @@ window.CINEMA_DATA = {
           ]
         }
       ],
-      "year": 2025,
       "rating": 4.16,
       "plot": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
       "country": "Turkey"
@@ -135,30 +168,6 @@ window.CINEMA_DATA = {
       "country": "Italy"
     },
     {
-      "id": "sao_jorge_10204",
-      "title": "Campo de Batalha (Campo di battaglia)",
-      "director": "Gianni Amelio",
-      "duration": 104,
-      "festival": "Festa do Cinema Italiano",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/1/3/9/3/1061393-battleground-0-500-0-750-crop.jpg?v=48c757f1ea",
-      "genres": [
-        "War",
-        "History",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/campo-de-batalha-campo-di-battaglia/",
-      "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "16:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 2.9,
-      "plot": "These are the years of the First World War and Dr. Stefano Zorzi spends his days in the Exemption Clinic in a large city of Northern Italy, where he not only takes care of soldiers who arrive from the massacre of the front, but also he fights simulation and self-harm of those who hope to be dispensed, by sending them before the Military Court. If Stefano, in fact, does his utmost to heal soldiers and send them back to fight, Dr. Giulio Farradio makes them ill, or helps them to self-injure seriously enough to be exonerated. The two doctors, who went to university together and were great friends, they not only (secretly) challenge each other on a professional level, but also on the sentimental one: they are both linked to Anna, a courageous nurse with a strong character. But when the great ‘Spanish’ fever epidemic arrived in 1918, the time for love, politics and science ends up getting confused dangerously...",
-      "country": "Italy"
-    },
-    {
       "id": "sao_jorge_10206",
       "title": "As Provadoras de Hitler (Le assaggiatrici)",
       "director": "Silvio Soldini",
@@ -194,11 +203,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinemasaojorge.pt/evento/breve-historia-de-amor-breve-storia-damore/",
       "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        },
         {
           "date": "2026-04-16",
           "time": "16:30",
@@ -350,28 +354,6 @@ window.CINEMA_DATA = {
       "year": 2025
     },
     {
-      "id": "sao_jorge_10232",
-      "title": "Un anno di scuola",
-      "director": "Laura Samani",
-      "duration": 103,
-      "festival": "Festa do Cinema Italiano",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/0/5/7/6/1320576-a-year-of-school-0-500-0-750-crop.jpg?v=bf6de6cc88",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/un-anno-di-scuola/",
-      "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.37,
-      "plot": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
-      "country": "Italy"
-    },
-    {
       "id": "sao_jorge_10236",
       "title": "Gioia mia",
       "director": "Margherita Spampinato",
@@ -431,11 +413,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinemasaojorge.pt/evento/ultimo-schiaffo/",
       "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "21:15",
-          "cinema": "sao_jorge"
-        },
         {
           "date": "2026-04-17",
           "time": "19:45",
@@ -1793,28 +1770,6 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "nimas_quando-a-cidade-dorme-1950",
-      "title": "Quando a Cidade Dorme",
-      "director": "John Huston",
-      "year": 1950,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/262525.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
-      "sessions": [
-        {
-          "date": "2026-04-16",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-07",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_historias-do-vale-bom-2025",
       "title": "Histórias do Vale Bom",
       "director": "José Luis Guerin",
@@ -2071,6 +2026,28 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_quando-a-cidade-dorme-1950",
+      "title": "Quando a Cidade Dorme",
+      "director": "John Huston",
+      "year": 1950,
+      "duration": 112,
+      "poster": "https://medeiafilmes.com/uploads/library/262525.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
+      "sessions": [
+        {
+          "date": "2026-04-16",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-07",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_o-estrangeiro-2025",
       "title": "O Estrangeiro",
       "director": "François Ozon",
@@ -2310,43 +2287,6 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
-      "id": "nimas_magnolia-1999",
-      "title": "Magnolia",
-      "director": "Paul Thomas Anderson",
-      "year": 1999,
-      "duration": 188,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-500-0-750-crop.jpg?v=178b5e5c17",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/magnolia-1999",
-      "sessions": [
-        {
-          "date": "2026-04-18",
-          "time": "23:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-04-19",
-          "time": "11:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-29",
-          "time": "17:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-05-03",
-          "time": "21:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
-      "country": "USA"
-    },
-    {
       "id": "nimas_la-grazia-2025",
       "title": "La Grazia",
       "director": "Paolo Sorrentino",
@@ -2419,6 +2359,43 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_magnolia-1999",
+      "title": "Magnolia",
+      "director": "Paul Thomas Anderson",
+      "year": 1999,
+      "duration": 188,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-500-0-750-crop.jpg?v=178b5e5c17",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/magnolia-1999",
+      "sessions": [
+        {
+          "date": "2026-04-18",
+          "time": "23:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "11:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "17:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-05-03",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.23,
+      "plot": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
+      "country": "USA"
     },
     {
       "id": "nimas_quando-uma-mulher-sobe-as-escadas-1960",
@@ -2770,28 +2747,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-inadaptados-1961",
-      "title": "Os Inadaptados",
-      "director": "John Huston",
-      "year": 1961,
-      "duration": 125,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bntvkmwrmmdytnjzmny00owe4lwe2mgqtzwjhzjuwntu4ytzhxkeyxkfqcgc_v1_fmjpg_uy2806.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-inadaptados-1961",
-      "sessions": [
-        {
-          "date": "2026-04-24",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-05",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_a-culpa-foi-do-macaco-1952",
       "title": "A Culpa Foi do Macaco",
       "director": "Howard Hawks",
@@ -2858,26 +2813,26 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_drive-my-car-2021",
-      "title": "Drive My Car",
-      "director": "Ryûsuke Hamaguchi",
-      "year": 2021,
-      "duration": 179,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/9/2/9/1/679291-drive-my-car-0-500-0-750-crop.jpg?v=9e1f7c9f35",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/drive-my-car-2021",
+      "id": "nimas_os-inadaptados-1961",
+      "title": "Os Inadaptados",
+      "director": "John Huston",
+      "year": 1961,
+      "duration": 125,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bntvkmwrmmdytnjzmny00owe4lwe2mgqtzwjhzjuwntu4ytzhxkeyxkfqcgc_v1_fmjpg_uy2806.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/os-inadaptados-1961",
       "sessions": [
         {
-          "date": "2026-04-25",
-          "time": "11:00",
+          "date": "2026-04-24",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-05",
+          "time": "19:00",
           "cinema": "nimas"
         }
-      ],
-      "rating": 4.2,
-      "plot": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
-      "country": "Japan"
+      ]
     },
     {
       "id": "nimas_o-gosto-do-sake-1962",
@@ -2930,6 +2885,28 @@ window.CINEMA_DATA = {
       ],
       "plot": "Lisbon, 1980s, Rosa, a woman joins a group of young people disappointed at the post-Revolutionary Portugal. Part of a far-left clandestine armed organization, they share political views and a daily life that makes them grow closer. But their idealism collides head-on with a changing country and a large-scale police operation targeting them. Fleeing on a road with no return and no way forward, their existence is made up of bank robberies, bombs, friendships, prison, love and death. Trapped, their only choice is to keep on the run until they get arrested or killed.",
       "country": "Portugal"
+    },
+    {
+      "id": "nimas_drive-my-car-2021",
+      "title": "Drive My Car",
+      "director": "Ryûsuke Hamaguchi",
+      "year": 2021,
+      "duration": 179,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/9/2/9/1/679291-drive-my-car-0-500-0-750-crop.jpg?v=9e1f7c9f35",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/drive-my-car-2021",
+      "sessions": [
+        {
+          "date": "2026-04-25",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.2,
+      "plot": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+      "country": "Japan"
     },
     {
       "id": "nimas_conta-comigo-1986",
@@ -3673,25 +3650,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_crepusculo-em-toquio-1957",
-      "title": "Crepúsculo em Tóquio",
-      "director": "Yasujiro Ozu",
-      "year": 1957,
-      "duration": 140,
-      "poster": "https://medeiafilmes.com/uploads/library/crepusculo-em-toquio-cartaz-digital.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/crepusculo-em-toquio-1957",
-      "sessions": [
-        {
-          "date": "2026-05-11",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_a-mulher-de-quem-se-fala-1954",
       "title": "A Mulher de Quem Se Fala",
       "director": "Kenji Mizoguchi",
@@ -3726,6 +3684,25 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-11",
           "time": "17:15",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_crepusculo-em-toquio-1957",
+      "title": "Crepúsculo em Tóquio",
+      "director": "Yasujiro Ozu",
+      "year": 1957,
+      "duration": 140,
+      "poster": "https://medeiafilmes.com/uploads/library/crepusculo-em-toquio-cartaz-digital.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/crepusculo-em-toquio-1957",
+      "sessions": [
+        {
+          "date": "2026-05-11",
+          "time": "19:30",
           "cinema": "nimas"
         }
       ]
@@ -3788,25 +3765,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
-      "title": "A Imperatriz Yang Kwei Fei",
-      "director": "Kenji Mizoguchi",
-      "year": 1955,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/a_imperatriz_yang_kwei_fei_poster.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
-      "sessions": [
-        {
-          "date": "2026-05-13",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_os-olhos-da-asia-1996",
       "title": "Os Olhos da Ásia",
       "director": "João Mário Grilo",
@@ -3832,62 +3790,23 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "fernando_romaria",
-      "title": "Romaria",
-      "director": "Carla Simón",
-      "year": 2025,
-      "duration": 114,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/3/7/1069037-romeria-0-500-0-750-crop.jpg?v=5268e5d224",
+      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
+      "title": "A Imperatriz Yang Kwei Fei",
+      "director": "Kenji Mizoguchi",
+      "year": 1955,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/a_imperatriz_yang_kwei_fei_poster.jpg",
       "genres": [
         "Drama"
       ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/ROMARIA",
+      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
       "sessions": [
         {
-          "date": "2026-04-14",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-15",
-          "time": "14:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-16",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-18",
-          "time": "18:45",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-19",
-          "time": "14:15",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-19",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-21",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "14:30",
-          "cinema": "trindade"
+          "date": "2026-05-13",
+          "time": "13:00",
+          "cinema": "nimas"
         }
-      ],
-      "rating": 3.6,
-      "plot": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
-      "country": "Spain"
+      ]
     },
     {
       "id": "fernando_life_is_a_film_ukrainian_shorts_in_lisboa",
@@ -3934,6 +3853,59 @@ window.CINEMA_DATA = {
       "rating": 3.68,
       "plot": "As Russia launches its full-scale invasion of Ukraine, primary schools across Russia’s hinterlands are transformed into recruitment stages for the war. Facing the ethical dilemma of working in a system defined by propaganda and violence, a brave teacher goes undercover to film what’s really happening in his own school.",
       "country": "Denmark"
+    },
+    {
+      "id": "fernando_romaria",
+      "title": "Romaria",
+      "director": "Carla Simón",
+      "year": 2025,
+      "duration": 114,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/3/7/1069037-romeria-0-500-0-750-crop.jpg?v=5268e5d224",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ROMARIA",
+      "sessions": [
+        {
+          "date": "2026-04-15",
+          "time": "14:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-16",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-18",
+          "time": "18:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "14:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-19",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.6,
+      "plot": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
+      "country": "Spain"
     },
     {
       "id": "fernando_dogfight",
@@ -4083,29 +4055,6 @@ window.CINEMA_DATA = {
       ],
       "plot": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
       "country": "Portugal"
-    },
-    {
-      "id": "batalha_s2LTRDhI0bqqMaqI",
-      "title": "Borbaad",
-      "director": "Mehedi Hassan Hridoy",
-      "year": 2025,
-      "duration": 139,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/0/9/3/3/1260933-borbaad-2025-0-500-0-750-crop.jpg?v=2595446237",
-      "genres": [
-        "Romance",
-        "Action"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/borbaad",
-      "sessions": [
-        {
-          "date": "2026-04-14",
-          "time": "23:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 2.8,
-      "plot": "After a heartbreak by Nitu, Ariyan Mirza seeks revenge, guided by his father Adib Mirza's wisdom. Their story transforms from romance to violence, culminating in courtroom confrontations over justice.",
-      "country": "Bangladesh"
     },
     {
       "id": "batalha_sTLjVr4I8bJsOFX1",
@@ -6054,6 +6003,104 @@ window.CINEMA_DATA = {
       "rating": 3.46,
       "plot": "In this contemporary take on William Shakespeare's classic tragedy, the Montagues and Capulets have moved their ongoing feud to the sweltering suburb of Verona Beach, where Romeo and Juliet fall in love and secretly wed. Though the film is visually modern, the bard's dialogue remains.",
       "country": "Australia"
+    },
+    {
+      "id": "batalha_s9axHUPuZkG2KFzy",
+      "title": "Swimming Lesson",
+      "director": "Tatyana Okruzhnova",
+      "year": 2017,
+      "duration": 3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDE5YWIyY2QtZWZmNC00NmIwLWI1MjktOGI0ZWRmOTE3NjFjXkEyXkFqcGdeQXVyMTEyODk4MTUw._V1_SX300.jpg",
+      "genres": [
+        "Animation",
+        "Short"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-licao-de-mergulho",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "The sea is no joke and you should always be ready to lend a helping hand.",
+      "country": "Russia"
+    },
+    {
+      "id": "batalha_st9puh9Fj3DyGqYo",
+      "title": "Au revoir, éte",
+      "director": "Jang Seong-Ji",
+      "year": 2013,
+      "duration": 8,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-au-revoir-ete",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sqqhUN3IN1oNSwTP",
+      "title": "Jules & Juliette",
+      "director": "Chantal Peten",
+      "year": 2022,
+      "duration": 7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/5/0/6/8/1085068-jules-juliette-0-500-0-750-crop.jpg?v=4494a01c95",
+      "genres": [
+        "Animation"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/03-jules-andamp-juliette",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "Jules and Juliette go to the beach. They carry the dinghy on their heads with which they intend to sail. It's already quite a deal. Of course, Jules is clumsy and doesn't fail to play the fool. The beach is deserted. It's going to be a bright day full of laughter and connivance.",
+      "country": "Belgium"
+    },
+    {
+      "id": "batalha_saAs2VXZt81hV9ot",
+      "title": "Tatarang!",
+      "director": "Manri Kim",
+      "year": 2024,
+      "duration": 6,
+      "poster": null,
+      "genres": [],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/04-tatarang",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ]
+    },
+    {
+      "id": "batalha_sO91RWTwOEyyBxKm",
+      "title": "Please Frog, Just One Sip!",
+      "director": "Diek Grobler",
+      "year": 2017,
+      "duration": 10,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/5/8/1502458-please-frog-just-one-sip-0-500-0-750-crop.jpg?v=1e62b26e6f",
+      "genres": [
+        "Animation"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/05-por-favor-sapo-apenas-um-gole",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot": "It's a hot day in Africa and the frog can no longer bear the heat. She takes a sip, but then can't stop drinking. Once all the water is gone, the other animals must think of a plan to make the frog give back the water.",
+      "country": "South Africa"
     },
     {
       "id": "trindade_8137",
