@@ -13298,5 +13298,376 @@
   "INDIE A RIVER´S GAZE 111|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "OLÍVIA E O TERRAMOTO INVISÍVEL +7|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "ÓCULOS DE SOL PRETOS|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O VELHO SALAZAR + ESSE OLHAR QUE É SÓ TEU|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CURTAS TODA A FAMÍLIA +3 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CURTAS +8 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CURTAS +3 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CURTAS +10 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "COCHENA|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Cochena",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Diogo Allen",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33810752",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "CN CURTAS 4 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CN CURTAS 3 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CN CURTAS 2 | INDIELISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "CN CURTAS 1 | INDIE LISBOA|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "BUTTHOLE SURFERS: THE HOLE TRUTH AND NOTHING BUTT|None": {
+    "lbxd": {
+      "rating": 3.85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/4/2/3/5/884235-butthole-surfers-the-hole-truth-and-nothing-butt-0-500-0-750-crop.jpg?v=4d51b11ebf",
+      "description": "Follows the story of the groundbreaking Texas-based art-punk band founded by frontman Gibby Haynes and guitarist Paul Leary.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Tom Stern",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "BLUE HERON|None": {
+    "lbxd": {
+      "rating": 3.85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/2/2/0/1071220-blue-heron-0-500-0-750-crop.jpg?v=d5d52f31b6",
+      "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Canada",
+      "lb_director": "Sophy Romvari",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Blue Heron",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Sophy Romvari",
+      "Writer": "Sophy Romvari",
+      "Actors": "Eylul Guven, Amy Zimmer, Iringó Réti",
+      "Plot": "A family of six settles into their new home on Vancouver Island as internal dynamics are slowly revealed through the eyes of the youngest child.",
+      "Language": "N/A",
+      "Country": "Canada, Hungary",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFiNGNmY2YtMmZkNS00NzkwLWFlNGYtNzYzMjI1ZTM0NmJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32252801",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Vrazda Ing. Certa|1970": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Vrazda ing. Certa",
+      "Year": "1970",
+      "Rated": "N/A",
+      "Released": "18 Sep 1970",
+      "Runtime": "77 min",
+      "Genre": "Comedy, Fantasy",
+      "Director": "Ester Krumbachová",
+      "Writer": "Ester Krumbachová",
+      "Actors": "Jirina Bohdalová, Vladimír Mensík, Ljuba Hermanová",
+      "Plot": "She (Jirina Bohdalová) is approximately forty-years old, intelligent and attractive, but, unfortunately, lonesome as one could be. She handles her life quite well, but whenever nostalgia falls upon her, she begins to long for a ma...",
+      "Language": "Czech",
+      "Country": "Czechoslovakia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODI2MDEyNjEzN15BMl5BanBnXkFtZTgwNzc1NTE2MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "214",
+      "imdbID": "tt0066537",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Real Life|1979": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/9/2/8/29928-real-life-0-500-0-750-crop.jpg?v=cc736dd227",
+      "description": "A pushy, narcissistic filmmaker persuades a Phoenix family to let him and his crew film their everyday lives, in the manner of the ground-breaking PBS series \"An American Family\".",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Albert Brooks",
+      "lb_year": 1979
+    },
+    "omdb": {
+      "Title": "Real Life",
+      "Year": "1979",
+      "Rated": "PG",
+      "Released": "23 Mar 1979",
+      "Runtime": "99 min",
+      "Genre": "Comedy",
+      "Director": "Albert Brooks",
+      "Writer": "Monica Mcgowan Johnson, Harry Shearer, Albert Brooks",
+      "Actors": "Dick Haynes, Albert Brooks, Matthew Tobin",
+      "Plot": "A film crew sets out to record a year in the life of an average family, but things quickly start going wrong.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVjYzg5OGUtOGI3YS00OGRhLTg3N2ItZDk4M2U0ZDBlYWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.0",
+      "imdbVotes": "4,543",
+      "imdbID": "tt0079781",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$364,642",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mamma|1982": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/8/2/5/7/288257-mamma-0-500-0-750-crop.jpg?v=fcbfee38d0",
+      "description": "About the young film critic Gerd, who dream of interviewing actors like Jean Gabin and Jean-Louis Barrault and to one day direct a movie.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Sweden",
+      "lb_director": "Suzanne Osten",
+      "lb_year": 1982
+    },
+    "omdb": {
+      "Title": "Mamma",
+      "Year": "1982",
+      "Rated": "N/A",
+      "Released": "22 Sep 1982",
+      "Runtime": "91 min",
+      "Genre": "Drama",
+      "Director": "Suzanne Osten",
+      "Writer": "Tove Ellefsen, Suzanne Osten",
+      "Actors": "Malin Ek, Etienne Glaser, Serge Giambernardini",
+      "Plot": "About a young film critic who dream of interviewing actor Jean Gabin and Jean-Louis Barrault and one day directing a movie.",
+      "Language": "Swedish",
+      "Country": "Sweden",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE5OTA4ZTEtYjI3ZS00NzRlLWFhN2YtNDYyZTgxOTAxMzg3XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.3",
+      "imdbVotes": "89",
+      "imdbID": "tt0084295",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Punishment Park|1971": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/2/6/4/35264-punishment-park-0-500-0-750-crop.jpg?v=8756e64afb",
+      "description": "In this fictional documentary, U.S. prisons are at capacity, and President Nixon declares a state of emergency. All new prisoners, most of whom are connected to the antiwar movement, are now given the choice of jail time or spending three days in Punishment Park, where they will be hunted for sport by federal authorities. The prisoners invariably choose the latter option, but learn that, between the desert heat and the brutal police officers, their chances of survival are slim.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Peter Watkins",
+      "lb_year": 1971
+    },
+    "omdb": {
+      "Title": "Punishment Park",
+      "Year": "1971",
+      "Rated": "R",
+      "Released": "10 Feb 1972",
+      "Runtime": "91 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Peter Watkins",
+      "Writer": "Peter Watkins",
+      "Actors": "Patrick Boland, Kent Foreman, Carmen Argenziano",
+      "Plot": "\"Punishment Park\" is a pseudo-documentary purporting to be a film crews's news coverage of the team of soldiers escorting a group of hippies, draft dodgers, and anti-establishment types across the desert in a type of capture the f...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2U0ZWE5OGYtZTVjZi00ZGVkLTk3N2UtNWMzMzY0NDQ2YzlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "8,030",
+      "imdbID": "tt0067633",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "American Graffiti|1973": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pg/y6/re/c7/xq8MFYQ6MLZ65mFpweqV6mCs39k-0-500-0-750-crop.jpg?v=c90f2b906e",
+      "description": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "George Lucas",
+      "lb_year": 1973
+    },
+    "omdb": {
+      "Title": "American Graffiti",
+      "Year": "1973",
+      "Rated": "PG",
+      "Released": "11 Aug 1973",
+      "Runtime": "110 min",
+      "Genre": "Comedy, Drama",
+      "Director": "George Lucas",
+      "Writer": "George Lucas, Gloria Katz, Willard Huyck",
+      "Actors": "Richard Dreyfuss, Ron Howard, Paul Le Mat",
+      "Plot": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 5 Oscars. 9 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzc5MjUyMWYtMDkyMi00YTc2LTg3ZDMtMjI3MmU3Nzg2YTExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "7.4",
+      "imdbVotes": "104,185",
+      "imdbID": "tt0069704",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$115,000,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
