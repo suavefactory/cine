@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-20T12:01:52.780327+00:00",
+  "generated": "2026-04-21T11:48:24.479487+00:00",
   "movies": [
     {
       "id": "sao_jorge_10477",
@@ -1082,106 +1082,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_19788",
-      "title": "Prosopo me prosopo",
-      "director": "Roviros Manthoulis",
-      "year": 1966,
-      "duration": 84,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzYyZjk5OGMtZDQxMS00ODRjLWFiMTctYTYxMGMyZjFjODJhXkEyXkFqcGc@._V1_SX300.jpg",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19788",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "16:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Penniless and without a future, an English teacher agrees to tutor a pampered woman, only to become enmeshed in a strange reality and a downward spiral of desire and illusion, guilt and self-contempt. Will the ugly truth set him f...",
-      "country": "Greece"
-    },
-    {
-      "id": "cinemateca_19808",
-      "title": "TORRE BELA (versão final)",
-      "director": null,
-      "year": 1977,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/1/0/2/173102-torre-bela-0-500-0-750-crop.jpg?v=698280138c",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19808",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "18:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.66,
-      "plot": "The rise and fall of a revolutionary cooperative movement established in a large private farm in Ribatejo, Portugal, from March to December 1975 (most part of the land occupations occurred in Alentejo, promoted by the communist party). In direct speech, sometimes to the camera, sometimes among themselves, the uneducated rural workers expose their misery, their suffering, their hopes, and ultimately their despair - when a socialist government orders the restitution of the land to their primitive owners, and these transform the land into a hunting reserve.",
-      "country": "Italy"
-    },
-    {
-      "id": "cinemateca_19792",
-      "title": "Los santos inocentes",
-      "director": "Mario Camus",
-      "year": 1984,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/3/4/5/62345-the-holy-innocents-0-500-0-750-crop.jpg?v=c0bb215ad4",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19792",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "16:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.99,
-      "plot": "In 60s Extremadura, Paco el Bajo and his relatives work during day in a farmhouse, and silently suffer submission to their masters, who exploit them and treat them almost like animals. Meanwhile, Paco dreams that one day his children will be able to study.",
-      "country": "Spain"
-    },
-    {
-      "id": "cinemateca_19794",
-      "title": "Tigres De Papel",
-      "director": "Fernando Colomo",
-      "year": 1977,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/7/6/7/160767-paper-tigers-0-500-0-750-crop.jpg?v=8e1650ae53",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19794",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "Sessão com apresentação"
-          ]
-        },
-        {
-          "date": "2026-04-23",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Spain, 1977. The first general elections are about to take place after the long dictatorship and the progressive environment of Madrid is easily palpable. Protagonists, Carmen and Juan were once married and now living separately, both have a child. It's one of the only reasons they maintain cordial to one another. Their separation, the political context and the contradictions of the progressives of the time will not defeat the affinity between the two.",
-      "country": "Spain"
-    },
-    {
       "id": "cinemateca_19791",
       "title": "Cría Cuervos",
       "director": "Carlos Saura",
@@ -1430,6 +1330,27 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "cinemateca_19795",
+      "title": "Tigres De Papel",
+      "director": "Fernando Colomo",
+      "year": 1977,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/7/6/7/160767-paper-tigers-0-500-0-750-crop.jpg?v=8e1650ae53",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19795",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Spain, 1977. The first general elections are about to take place after the long dictatorship and the progressive environment of Madrid is easily palpable. Protagonists, Carmen and Juan were once married and now living separately, both have a child. It's one of the only reasons they maintain cordial to one another. Their separation, the political context and the contradictions of the progressives of the time will not defeat the affinity between the two.",
+      "country": "Spain"
+    },
+    {
       "id": "cinemateca_19818",
       "title": "Ocupação Da Quinta Da Torre Bela",
       "director": "Vítor Silva",
@@ -1472,6 +1393,28 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ]
+    },
+    {
+      "id": "cinemateca_19793",
+      "title": "Los santos inocentes",
+      "director": "Mario Camus",
+      "year": 1984,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/3/4/5/62345-the-holy-innocents-0-500-0-750-crop.jpg?v=c0bb215ad4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19793",
+      "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "16:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.99,
+      "plot": "In 60s Extremadura, Paco el Bajo and his relatives work during day in a farmhouse, and silently suffer submission to their masters, who exploit them and treat them almost like animals. Meanwhile, Paco dreams that one day his children will be able to study.",
+      "country": "Spain"
     },
     {
       "id": "cinemateca_19823",
@@ -1754,24 +1697,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/mektoub-meu-amor-canto-segundo-2025",
       "sessions": [
         {
-          "date": "2026-04-20",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-20",
-          "time": "21:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com João Mendes Ferreira e Vasco Câmara"
-          ]
-        },
-        {
-          "date": "2026-04-20",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-04-21",
           "time": "16:30",
           "cinema": "trindade"
@@ -1844,28 +1769,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_criancas-a-procura-de-mae-1957",
-      "title": "Crianças à Procura de Mãe",
-      "director": "Hiroshi Shimizu",
-      "year": 1957,
-      "duration": 88,
-      "poster": "https://medeiafilmes.com/uploads/library/shimizu_tardio_cartaz-1448x20481.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/criancas-a-procura-de-mae-1957",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "14:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-26",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_la-grazia-2025",
       "title": "La Grazia",
       "director": "Paolo Sorrentino",
@@ -1878,19 +1781,24 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/la-grazia-2025",
       "sessions": [
         {
-          "date": "2026-04-20",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-04-22",
           "time": "21:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "11:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "21:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "22:45",
+          "cinema": "fernando"
         }
       ],
       "rating": 3.7,
@@ -1910,6 +1818,23 @@ window.CINEMA_DATA = {
         {
           "date": "2026-04-25",
           "time": "14:15",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_criancas-a-procura-de-mae-1957",
+      "title": "Crianças à Procura de Mãe",
+      "director": "Hiroshi Shimizu",
+      "year": 1957,
+      "duration": 88,
+      "poster": "https://medeiafilmes.com/uploads/library/shimizu_tardio_cartaz-1448x20481.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/criancas-a-procura-de-mae-1957",
+      "sessions": [
+        {
+          "date": "2026-04-26",
+          "time": "12:00",
           "cinema": "nimas"
         }
       ]
@@ -1942,40 +1867,23 @@ window.CINEMA_DATA = {
       "country": "New Zealand"
     },
     {
-      "id": "nimas_quando-uma-mulher-sobe-as-escadas-1960",
-      "title": "Quando uma Mulher Sobe as Escadas",
-      "director": "Mikio Naruse",
-      "year": 1960,
-      "duration": 111,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bntrjzmyymjctzgm4yy00njc1ltllmtatzmu0ntgyyjlhnmzmxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/quando-uma-mulher-sobe-as-escadas-1960",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "16:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-homens-preferem-as-loiras-1953",
-      "title": "Os Homens Preferem as Loiras",
-      "director": "Howard Hawks",
+      "id": "nimas_como-se-conquista-um-milionario-1953",
+      "title": "Como se Conquista um Milionário",
+      "director": "Jean Negulesco",
       "year": 1953,
-      "duration": 91,
-      "poster": "https://medeiafilmes.com/uploads/library/508315_poster.jpg",
+      "duration": 95,
+      "poster": "https://medeiafilmes.com/uploads/library/how_to_marry_a_millionaire_1953_poster.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-homens-preferem-as-loiras-1953",
+      "link": "https://medeiafilmes.com/filmes/como-se-conquista-um-milionario-1953",
       "sessions": [
         {
-          "date": "2026-04-20",
-          "time": "19:00",
+          "date": "2026-04-21",
+          "time": "15:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-05-03",
-          "time": "14:30",
+          "date": "2026-04-28",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ]
@@ -2020,36 +1928,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-domingos-2018",
-      "title": "Os Domingos",
-      "director": "Alauda Ruiz de Azúa",
-      "year": 2025,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/1/0/7/7/1321077-sundays-2025-0-500-0-750-crop.jpg?v=491bb1cc41",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-domingos-2018",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "12:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-29",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Maria João Avillez, o Embaixador Luís de Almeida Sampaio e o Pe. Ricardo Figueiredo"
-          ]
-        }
-      ],
-      "rating": 3.89,
-      "plot": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
-      "country": "Spain"
-    },
-    {
       "id": "nimas_rio-sem-regresso-1954",
       "title": "Rio Sem Regresso",
       "director": "Otto Preminger",
@@ -2091,28 +1969,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_como-se-conquista-um-milionario-1953",
-      "title": "Como se Conquista um Milionário",
-      "director": "Jean Negulesco",
-      "year": 1953,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/how_to_marry_a_millionaire_1953_poster.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/como-se-conquista-um-milionario-1953",
-      "sessions": [
-        {
-          "date": "2026-04-21",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-28",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_licorice-pizza-2021",
       "title": "Licorice Pizza",
       "director": "Paul Thomas Anderson",
@@ -2145,39 +2001,6 @@ window.CINEMA_DATA = {
       "rating": 3.54,
       "plot": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
       "country": "Canada"
-    },
-    {
-      "id": "nimas_niagara-1953",
-      "title": "Niagara",
-      "director": "Henry Hathaway",
-      "year": 1953,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/2/39302-niagara-0-500-0-750-crop.jpg?v=4ca4fed5fb",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/niagara-1953",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-13",
-          "time": "14:45",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "19:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.42,
-      "plot": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls, N.Y. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
-      "country": "USA"
     },
     {
       "id": "nimas_misery-o-capitulo-final-1990",
@@ -2229,6 +2052,39 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_niagara-1953",
+      "title": "Niagara",
+      "director": "Henry Hathaway",
+      "year": 1953,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/2/39302-niagara-0-500-0-750-crop.jpg?v=4ca4fed5fb",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/niagara-1953",
+      "sessions": [
+        {
+          "date": "2026-04-22",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-13",
+          "time": "14:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls, N.Y. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
+      "country": "USA"
     },
     {
       "id": "nimas_o-mentor-2012",
@@ -2299,6 +2155,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_historias-do-vale-bom-2025",
+      "title": "Histórias do Vale Bom",
+      "director": "José Luis Guerin",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://medeiafilmes.com/uploads/library/historias_do_vale_bom.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/historias-do-vale-bom-2025",
+      "sessions": [
+        {
+          "date": "2026-05-09",
+          "time": "12:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_o-principe-e-a-corista-1957",
       "title": "O Príncipe e a Corista",
       "director": "Laurence Olivier",
@@ -2338,25 +2213,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_historias-do-vale-bom-2025",
-      "title": "Histórias do Vale Bom",
-      "director": "José Luis Guerin",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/historias_do_vale_bom.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/historias-do-vale-bom-2025",
-      "sessions": [
-        {
-          "date": "2026-05-09",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_linha-fantasma-2017",
       "title": "Linha Fantasma",
       "director": "Paul Thomas Anderson",
@@ -2376,6 +2232,26 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-04",
           "time": "17:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_parasitas-2019",
+      "title": "Parasitas",
+      "director": "Bong Joon Ho",
+      "year": 2019,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/download3.jpg",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "link": "https://medeiafilmes.com/filmes/parasitas-2019",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "time": "19:00",
           "cinema": "nimas"
         }
       ]
@@ -2425,59 +2301,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_parasitas-2019",
-      "title": "Parasitas",
-      "director": "Bong Joon Ho",
-      "year": 2019,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/download3.jpg",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ],
-      "link": "https://medeiafilmes.com/filmes/parasitas-2019",
-      "sessions": [
-        {
-          "date": "2026-04-24",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_projecto-global-2025",
-      "title": "Projecto Global",
-      "director": "Ivo M. Ferreira",
-      "year": 2026,
-      "duration": 140,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/6/9/9/3/1466993-global-project-0-500-0-750-crop.jpg?v=407417256f",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/projecto-global-2025",
-      "sessions": [
-        {
-          "date": "2026-04-26",
-          "time": "21:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com o realizador e elenco"
-          ]
-        },
-        {
-          "date": "2026-04-28",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com o realizador e elenco"
-          ]
-        }
-      ],
-      "plot": "Lisbon, 1980s, Rosa, a woman joins a group of young people disappointed at the post-Revolutionary Portugal. Part of a far-left clandestine armed organization, they share political views and a daily life that makes them grow closer. But their idealism collides head-on with a changing country and a large-scale police operation targeting them. Fleeing on a road with no return and no way forward, their existence is made up of bank robberies, bombs, friendships, prison, love and death. Trapped, their only choice is to keep on the run until they get arrested or killed.",
-      "country": "Portugal"
-    },
-    {
       "id": "nimas_drive-my-car-2021",
       "title": "Drive My Car",
       "director": "Ryûsuke Hamaguchi",
@@ -2517,6 +2340,55 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_projecto-global-2025",
+      "title": "Projecto Global",
+      "director": "Ivo M. Ferreira",
+      "year": 2026,
+      "duration": 140,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/6/9/9/3/1466993-global-project-0-500-0-750-crop.jpg?v=407417256f",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/projecto-global-2025",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "21:30",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com o realizador e elenco"
+          ]
+        },
+        {
+          "date": "2026-04-28",
+          "time": "19:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com o realizador e elenco"
+          ]
+        }
+      ],
+      "festival": "Projecto Global",
+      "plot": "Lisbon, 1980s, Rosa, a woman joins a group of young people disappointed at the post-Revolutionary Portugal. Part of a far-left clandestine armed organization, they share political views and a daily life that makes them grow closer. But their idealism collides head-on with a changing country and a large-scale police operation targeting them. Fleeing on a road with no return and no way forward, their existence is made up of bank robberies, bombs, friendships, prison, love and death. Trapped, their only choice is to keep on the run until they get arrested or killed.",
+      "country": "Portugal"
     },
     {
       "id": "nimas_jogos-de-prazer-1997",
@@ -2607,28 +2479,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_evil-does-not-exist-o-mal-nao-esta-aqui-2023",
-      "title": "Evil Does Not Exist – O Mal não Está Aqui",
-      "director": "Ryūsuke Hamaguchi",
-      "year": 2023,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/2/2/7/7/1042277-evil-does-not-exist-0-500-0-750-crop.jpg?v=a76547ed16",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/evil-does-not-exist-o-mal-nao-esta-aqui-2023",
-      "sessions": [
-        {
-          "date": "2026-04-27",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.84,
-      "plot": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature.",
-      "country": "Japan"
-    },
-    {
       "id": "nimas_o-pecado-mora-ao-lado-1955",
       "title": "O Pecado Mora ao Lado",
       "director": "Billy Wilder",
@@ -2649,6 +2499,28 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_evil-does-not-exist-o-mal-nao-esta-aqui-2023",
+      "title": "Evil Does Not Exist – O Mal não Está Aqui",
+      "director": "Ryūsuke Hamaguchi",
+      "year": 2023,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/2/2/7/7/1042277-evil-does-not-exist-0-500-0-750-crop.jpg?v=a76547ed16",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/evil-does-not-exist-o-mal-nao-esta-aqui-2023",
+      "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.84,
+      "plot": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature.",
+      "country": "Japan"
     },
     {
       "id": "nimas_a-romancista-e-o-seu-filme-2023",
@@ -2693,28 +2565,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_desengano-1952",
-      "title": "Desengano",
-      "director": "Fritz Lang",
-      "year": 1952,
-      "duration": 105,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bymvlowrmoditzwfmny00yzk3lwe3nwytndfkzgyymzrinjfixkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/desengano-1952",
-      "sessions": [
-        {
-          "date": "2026-04-29",
-          "time": "14:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-10",
-          "time": "20:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_sem-alternativa-2025",
       "title": "Sem Alternativa",
       "director": "Park Chan-wook",
@@ -2734,42 +2584,48 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_louco-por-mulheres-1950",
-      "title": "Louco por Mulheres",
-      "director": "David Miller",
-      "year": 1950,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/love-happy-german-a1-r1981-1949.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/louco-por-mulheres-1950",
+      "id": "nimas_os-domingos-2018",
+      "title": "Os Domingos",
+      "director": "Alauda Ruiz de Azúa",
+      "year": 2025,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/1/0/7/7/1321077-sundays-2025-0-500-0-750-crop.jpg?v=491bb1cc41",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-domingos-2018",
       "sessions": [
         {
-          "date": "2026-04-30",
-          "time": "17:30",
+          "date": "2026-04-29",
+          "time": "19:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com Maria João Avillez, o Embaixador Luís de Almeida Sampaio e o Pe. Ricardo Figueiredo"
+          ]
+        }
+      ],
+      "rating": 3.89,
+      "plot": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
+      "country": "Spain"
+    },
+    {
+      "id": "nimas_desengano-1952",
+      "title": "Desengano",
+      "director": "Fritz Lang",
+      "year": 1952,
+      "duration": 105,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bymvlowrmoditzwfmny00yzk3lwe3nwytndfkzgyymzrinjfixkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/desengano-1952",
+      "sessions": [
+        {
+          "date": "2026-04-29",
+          "time": "14:30",
           "cinema": "nimas"
         },
         {
           "date": "2026-05-10",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-barba-ruiva-1965",
-      "title": "O Barba Ruiva",
-      "director": "Akira Kurosawa",
-      "year": 1965,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/6_o_barba_ruiva.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-barba-ruiva-1965",
-      "sessions": [
-        {
-          "date": "2026-04-30",
-          "time": "14:00",
+          "time": "20:00",
           "cinema": "nimas"
         }
       ]
@@ -2819,23 +2675,42 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_parada-de-estrelas-1954",
-      "title": "Parada de Estrelas",
-      "director": "Walter Lang",
-      "year": 1954,
-      "duration": 117,
-      "poster": "https://medeiafilmes.com/uploads/library/theres-no-business-like-show-business-md-web.jpg",
+      "id": "nimas_louco-por-mulheres-1950",
+      "title": "Louco por Mulheres",
+      "director": "David Miller",
+      "year": 1950,
+      "duration": 85,
+      "poster": "https://medeiafilmes.com/uploads/library/love-happy-german-a1-r1981-1949.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
+      "link": "https://medeiafilmes.com/filmes/louco-por-mulheres-1950",
       "sessions": [
         {
-          "date": "2026-05-01",
-          "time": "15:00",
+          "date": "2026-04-30",
+          "time": "17:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-05-09",
-          "time": "10:00",
+          "date": "2026-05-10",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-barba-ruiva-1965",
+      "title": "O Barba Ruiva",
+      "director": "Akira Kurosawa",
+      "year": 1965,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/6_o_barba_ruiva.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-barba-ruiva-1965",
+      "sessions": [
+        {
+          "date": "2026-04-30",
+          "time": "14:00",
           "cinema": "nimas"
         }
       ]
@@ -2868,22 +2743,23 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_os-sete-samurais-1954",
-      "title": "Os Sete Samurais",
-      "director": "Akira Kurosawa",
+      "id": "nimas_parada-de-estrelas-1954",
+      "title": "Parada de Estrelas",
+      "director": "Walter Lang",
       "year": 1954,
-      "duration": 207,
-      "poster": "https://medeiafilmes.com/uploads/library/1_os_sete_samurais.jpg",
-      "genres": [
-        "Acção",
-        "Aventura",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-sete-samurais-1954",
+      "duration": 117,
+      "poster": "https://medeiafilmes.com/uploads/library/theres-no-business-like-show-business-md-web.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
       "sessions": [
         {
           "date": "2026-05-01",
-          "time": "11:00",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "10:00",
           "cinema": "nimas"
         }
       ]
@@ -2909,54 +2785,39 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_um-amor-inevitavel-1989",
-      "title": "Um Amor Inevitável",
-      "director": "Rob Reiner",
-      "year": 1989,
-      "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/ems1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/um-amor-inevitavel-1989",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-mulher-que-fugiu-2020",
-      "title": "A Mulher que Fugiu",
-      "director": "Hong Sang-soo",
-      "year": 2020,
-      "duration": 77,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodq3ymuyzjatmziwns00mzmzlwiyotutytuwodzlntaxmdqxxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-mulher-que-fugiu-2020",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-criada-2016",
-      "title": "A Criada",
-      "director": "Park Chan-wook",
-      "year": 2016,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bndjhytk2mtctzmvmos00otviltgxnjqtmzqxotrimddmngrjxkeyxkfqcgdeqxvymtmxodk2otu_v1_fmjpg_uy7087.jpg",
+      "id": "nimas_os-sete-samurais-1954",
+      "title": "Os Sete Samurais",
+      "director": "Akira Kurosawa",
+      "year": 1954,
+      "duration": 207,
+      "poster": "https://medeiafilmes.com/uploads/library/1_os_sete_samurais.jpg",
       "genres": [
+        "Acção",
+        "Aventura",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-criada-2016",
+      "link": "https://medeiafilmes.com/filmes/os-sete-samurais-1954",
+      "sessions": [
+        {
+          "date": "2026-05-01",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_quanto-mais-quente-melhor-1955",
+      "title": "Quanto Mais Quente Melhor",
+      "director": "Billy Wilder",
+      "year": 1955,
+      "duration": 122,
+      "poster": "https://medeiafilmes.com/uploads/library/146255.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/quanto-mais-quente-melhor-1955",
       "sessions": [
         {
           "date": "2026-05-02",
-          "time": "14:30",
+          "time": "12:00",
           "cinema": "nimas"
         }
       ]
@@ -2981,18 +2842,54 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_quanto-mais-quente-melhor-1955",
-      "title": "Quanto Mais Quente Melhor",
-      "director": "Billy Wilder",
-      "year": 1955,
-      "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/146255.jpg",
+      "id": "nimas_um-amor-inevitavel-1989",
+      "title": "Um Amor Inevitável",
+      "director": "Rob Reiner",
+      "year": 1989,
+      "duration": 96,
+      "poster": "https://medeiafilmes.com/uploads/library/ems1.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/quanto-mais-quente-melhor-1955",
+      "link": "https://medeiafilmes.com/filmes/um-amor-inevitavel-1989",
       "sessions": [
         {
           "date": "2026-05-02",
-          "time": "12:00",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_a-criada-2016",
+      "title": "A Criada",
+      "director": "Park Chan-wook",
+      "year": 2016,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bndjhytk2mtctzmvmos00otviltgxnjqtmzqxotrimddmngrjxkeyxkfqcgdeqxvymtmxodk2otu_v1_fmjpg_uy7087.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-criada-2016",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_a-mulher-que-fugiu-2020",
+      "title": "A Mulher que Fugiu",
+      "director": "Hong Sang-soo",
+      "year": 2020,
+      "duration": 77,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bodq3ymuyzjatmziwns00mzmzlwiyotutytuwodzlntaxmdqxxkeyxkfqcgc_v1.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-mulher-que-fugiu-2020",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "10:00",
           "cinema": "nimas"
         }
       ]
@@ -3045,6 +2942,23 @@ window.CINEMA_DATA = {
       "rating": 4.23,
       "plot": "On one random day in the San Fernando Valley, a dying father, a young wife, a male caretaker, a famous lost son, a police officer in love, a boy genius, an ex-boy genius, a game show host and an estranged daughter will each become part of a dazzling multiplicity of plots, but one story.",
       "country": "USA"
+    },
+    {
+      "id": "nimas_os-homens-preferem-as-loiras-1953",
+      "title": "Os Homens Preferem as Loiras",
+      "director": "Howard Hawks",
+      "year": 1953,
+      "duration": 91,
+      "poster": "https://medeiafilmes.com/uploads/library/508315_poster.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/os-homens-preferem-as-loiras-1953",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_o-heroi-sacrilego-1955",
@@ -3121,48 +3035,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-joelho-de-claire-1970",
-      "title": "O Joelho de Claire",
-      "director": "Éric Rohmer",
-      "year": 1970,
-      "duration": 101,
-      "poster": "https://medeiafilmes.com/uploads/library/poster-0-le-genou-de-claire.jpg",
-      "genres": [
-        "Drama",
-        "romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-joelho-de-claire-1970",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Festival Internacional de Literatura e Língua Portuguesa – Apresentação por Pedro Mexia"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "nimas_havera-sangue-2007",
-      "title": "Haverá Sangue",
-      "director": "Paul Thomas Anderson",
-      "year": 2007,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytixzjyyzjetzgywmy00zjg3ltg3nmutnte5oty2otuxytzmxkeyxkfqcgdeqxvymjgyndu4mje_v1.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/havera-sangue-2007",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_roida-ate-ao-osso-1966",
       "title": "Roída até ao Osso",
       "director": "Tai Katô",
@@ -3197,57 +3069,44 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_mulheres-da-noite-1961",
-      "title": "Mulheres da Noite",
-      "director": "Kinuyo Tanaka",
-      "year": 1961,
+      "id": "nimas_havera-sangue-2007",
+      "title": "Haverá Sangue",
+      "director": "Paul Thomas Anderson",
+      "year": 2007,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzdm0mmm4ytmtyzrmny00ntdhlwjkzmutnmy5ndm5mdy1ztzhxkeyxkfqcgdeqxvymtg1mjm0nq_v1_fmjpg_ux1000.jpg",
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bytixzjyyzjetzgywmy00zjg3ltg3nmutnte5oty2otuxytzmxkeyxkfqcgdeqxvymjgyndu4mje_v1.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/mulheres-da-noite-1961",
+      "link": "https://medeiafilmes.com/filmes/havera-sangue-2007",
       "sessions": [
         {
-          "date": "2026-05-07",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-flor-do-equinocio-1958",
-      "title": "A Flor do Equinócio",
-      "director": "Yasujiro Ozu",
-      "year": 1958,
-      "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/6a82596c2dc336d99d787e4d84595f27.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-flor-do-equinocio-1958",
-      "sessions": [
-        {
-          "date": "2026-05-07",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_quando-a-cidade-dorme-1950",
-      "title": "Quando a Cidade Dorme",
-      "director": "John Huston",
-      "year": 1950,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/262525.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
-      "sessions": [
-        {
-          "date": "2026-05-07",
+          "date": "2026-05-06",
           "time": "21:30",
           "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-joelho-de-claire-1970",
+      "title": "O Joelho de Claire",
+      "director": "Éric Rohmer",
+      "year": 1970,
+      "duration": 101,
+      "poster": "https://medeiafilmes.com/uploads/library/poster-0-le-genou-de-claire.jpg",
+      "genres": [
+        "Drama",
+        "romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-joelho-de-claire-1970",
+      "sessions": [
+        {
+          "date": "2026-05-06",
+          "time": "19:00",
+          "cinema": "nimas",
+          "labels": [
+            "Festival Internacional de Literatura e Língua Portuguesa – Apresentação por Pedro Mexia"
+          ]
         }
       ]
     },
@@ -3271,6 +3130,61 @@ window.CINEMA_DATA = {
           "labels": [
             "Festival Literário 5L – Apresentação por Pedro Mexia e Maria João Machado"
           ]
+        }
+      ]
+    },
+    {
+      "id": "nimas_a-flor-do-equinocio-1958",
+      "title": "A Flor do Equinócio",
+      "director": "Yasujiro Ozu",
+      "year": 1958,
+      "duration": 108,
+      "poster": "https://medeiafilmes.com/uploads/library/6a82596c2dc336d99d787e4d84595f27.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-flor-do-equinocio-1958",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_mulheres-da-noite-1961",
+      "title": "Mulheres da Noite",
+      "director": "Kinuyo Tanaka",
+      "year": 1961,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzdm0mmm4ytmtyzrmny00ntdhlwjkzmutnmy5ndm5mdy1ztzhxkeyxkfqcgdeqxvymtg1mjm0nq_v1_fmjpg_ux1000.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/mulheres-da-noite-1961",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_quando-a-cidade-dorme-1950",
+      "title": "Quando a Cidade Dorme",
+      "director": "John Huston",
+      "year": 1950,
+      "duration": 112,
+      "poster": "https://medeiafilmes.com/uploads/library/262525.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "21:30",
+          "cinema": "nimas"
         }
       ]
     },
@@ -3333,6 +3247,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_roda-da-fortuna-e-da-fantasia-2021",
+      "title": "Roda da Fortuna e da Fantasia",
+      "director": "Ryûsuke Hamaguchi",
+      "year": 2021,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/roda_da_fortuna_e_fantasia_poster_v2.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_dersu-uzala-1975",
       "title": "Dersu Uzala",
       "director": "Akira Kurosawa",
@@ -3354,25 +3287,6 @@ window.CINEMA_DATA = {
       "rating": 4.3,
       "plot": "A military explorer meets and befriends a Goldi man in Russia’s unmapped forests. A deep and abiding bond evolves between the two men, one civilized in the usual sense, the other at home in the glacial Siberian woods.",
       "country": "Japan"
-    },
-    {
-      "id": "nimas_roda-da-fortuna-e-da-fantasia-2021",
-      "title": "Roda da Fortuna e da Fantasia",
-      "director": "Ryûsuke Hamaguchi",
-      "year": 2021,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/roda_da_fortuna_e_fantasia_poster_v2.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
-      "sessions": [
-        {
-          "date": "2026-05-10",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_senhora-ogin-1962",
@@ -3413,25 +3327,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_crepusculo-em-toquio-1957",
-      "title": "Crepúsculo em Tóquio",
-      "director": "Yasujiro Ozu",
-      "year": 1957,
-      "duration": 140,
-      "poster": "https://medeiafilmes.com/uploads/library/crepusculo-em-toquio-cartaz-digital.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/crepusculo-em-toquio-1957",
-      "sessions": [
-        {
-          "date": "2026-05-11",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_yojimbo-o-invencivel-1961",
       "title": "Yojimbo, o Invencível",
       "director": "Akira Kurosawa",
@@ -3447,6 +3342,25 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-11",
           "time": "17:15",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_crepusculo-em-toquio-1957",
+      "title": "Crepúsculo em Tóquio",
+      "director": "Yasujiro Ozu",
+      "year": 1957,
+      "duration": 140,
+      "poster": "https://medeiafilmes.com/uploads/library/crepusculo-em-toquio-cartaz-digital.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/crepusculo-em-toquio-1957",
+      "sessions": [
+        {
+          "date": "2026-05-11",
+          "time": "19:30",
           "cinema": "nimas"
         }
       ]
@@ -3509,6 +3423,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
+      "title": "A Imperatriz Yang Kwei Fei",
+      "director": "Kenji Mizoguchi",
+      "year": 1955,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/a_imperatriz_yang_kwei_fei_poster.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
+      "sessions": [
+        {
+          "date": "2026-05-13",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_os-olhos-da-asia-1996",
       "title": "Os Olhos da Ásia",
       "director": "João Mário Grilo",
@@ -3534,25 +3467,6 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
-      "title": "A Imperatriz Yang Kwei Fei",
-      "director": "Kenji Mizoguchi",
-      "year": 1955,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/a_imperatriz_yang_kwei_fei_poster.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
-      "sessions": [
-        {
-          "date": "2026-05-13",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "fernando_entroncamento",
       "title": "Entroncamento",
       "director": "Pedro Cabeleira",
@@ -3563,7 +3477,7 @@ window.CINEMA_DATA = {
         "Drama",
         "Crime"
       ],
-      "festival": null,
+      "festival": "Entroncamento",
       "link": "https://cinemafernandolopes.pt/ENTRONCAMENTO",
       "sessions": [
         {
@@ -3578,6 +3492,14 @@ window.CINEMA_DATA = {
           "date": "2026-04-21",
           "time": "19:00",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "19:00",
+          "cinema": "fernando",
+          "labels": [
+            "Legendas em inglês"
+          ]
         }
       ],
       "rating": 3.39,
@@ -5418,82 +5340,50 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "trindade_8209",
-      "title": "¿De Qué Casa Eres?",
-      "director": "Ana Pérez-Quiroga",
-      "year": 2025,
-      "duration": 72,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/3/6/8/1287368-where-do-you-call-home-0-500-0-750-crop.jpg?v=48a2099c28",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/de-que-casa-eres",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-20",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-21",
-          "time": "15:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-21",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "15:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "15:15",
-          "cinema": "ideal"
-        }
-      ],
-      "plot": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
-      "country": "Portugal"
-    },
-    {
-      "id": "trindade_7672",
-      "title": "Nossa Terra",
-      "director": "Lucrecia Martel",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/NOSSA-TERRA-Cartaz-WEB-copia.png",
+      "id": "trindade_8137",
+      "title": "O Barqueiro",
+      "director": "Simão Cayatte",
+      "year": 2026,
+      "duration": 104,
+      "poster": null,
       "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/nossa-terra",
+      "link": "https://cinematrindade.pt/pt/filmes/o-barqueiro",
       "sessions": [
         {
-          "date": "2026-04-20",
-          "time": "15:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-20",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "19:00",
+          "date": "2026-04-21",
+          "time": "14:10",
           "cinema": "trindade"
         }
       ]
+    },
+    {
+      "id": "trindade_7881",
+      "title": "O Estrangeiro",
+      "director": "François Ozon",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
+      "sessions": [
+        {
+          "date": "2026-04-21",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "17:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.34,
+      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "country": "France"
     },
     {
       "id": "trindade_8177",
@@ -5508,16 +5398,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/fuori",
       "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-20",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-04-21",
           "time": "16:00",
@@ -5549,38 +5429,40 @@ window.CINEMA_DATA = {
       "country": "Italy"
     },
     {
-      "id": "trindade_7881",
-      "title": "O Estrangeiro",
-      "director": "François Ozon",
+      "id": "trindade_8209",
+      "title": "¿De Qué Casa Eres?",
+      "director": "Ana Pérez-Quiroga",
       "year": 2025,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "duration": 72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/3/6/8/1287368-where-do-you-call-home-0-500-0-750-crop.jpg?v=48a2099c28",
       "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
+        "Documentary"
       ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
+      "link": "https://cinematrindade.pt/pt/filmes/de-que-casa-eres",
       "sessions": [
         {
-          "date": "2026-04-20",
-          "time": "19:00",
-          "cinema": "trindade"
+          "date": "2026-04-21",
+          "time": "15:15",
+          "cinema": "ideal"
         },
         {
           "date": "2026-04-21",
-          "time": "14:15",
+          "time": "18:00",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-22",
-          "time": "17:15",
+          "time": "15:00",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "15:15",
+          "cinema": "ideal"
         }
       ],
-      "rating": 3.34,
-      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "country": "France"
+      "plot": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
+      "country": "Portugal"
     },
     {
       "id": "trindade_8091",
@@ -5596,11 +5478,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-drama",
       "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-04-21",
           "time": "19:30",
@@ -5629,11 +5506,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/la-grazia-2",
       "sessions": [
         {
-          "date": "2026-04-20",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-21",
           "time": "21:30",
           "cinema": "trindade"
@@ -5647,45 +5519,6 @@ window.CINEMA_DATA = {
       "rating": 3.71,
       "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
       "country": "Italy"
-    },
-    {
-      "id": "trindade_8103",
-      "title": "Viridiana",
-      "director": "Luis Buñuel",
-      "year": 1961,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-500-0-750-crop.jpg?v=45489590bd",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/viridiana",
-      "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.1,
-      "plot": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
-      "country": "Spain"
-    },
-    {
-      "id": "trindade_8137",
-      "title": "O Barqueiro",
-      "director": "Simão Cayatte",
-      "year": 2026,
-      "duration": 104,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-barqueiro",
-      "sessions": [
-        {
-          "date": "2026-04-21",
-          "time": "14:10",
-          "cinema": "trindade"
-        }
-      ]
     },
     {
       "id": "trindade_967",
@@ -5738,6 +5571,63 @@ window.CINEMA_DATA = {
       "country": "Spain"
     },
     {
+      "id": "trindade_7672",
+      "title": "Nossa Terra",
+      "director": "Lucrecia Martel",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/NOSSA-TERRA-Cartaz-WEB-copia.png",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/nossa-terra",
+      "sessions": [
+        {
+          "date": "2026-04-22",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8238",
+      "title": "Cherchez La Femme",
+      "director": "António da Cunha Telles",
+      "year": 2026,
+      "duration": 90,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/4/4/4/7/1524447-cherchez-la-femme-2026-0-500-0-750-crop.jpg?v=cbf7f713ba",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/cherchez-la-femme",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "21:30",
+          "cinema": "trindade",
+          "labels": [
+            "com a presença de Ângelo Rodrigues e Pedro Marta Santos + conversa com o público"
+          ]
+        },
+        {
+          "date": "2026-04-26",
+          "time": "21:30",
+          "cinema": "trindade",
+          "labels": [
+            "com a presença de Pandora da Cunha Telles + conversa com o público"
+          ]
+        }
+      ],
+      "plot": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
+      "country": "Portugal"
+    },
+    {
       "id": "ideal_nino",
       "title": "NINO",
       "director": "Pauline Loquès",
@@ -5749,11 +5639,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=59185",
       "sessions": [
-        {
-          "date": "2026-04-20",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-04-22",
           "time": "19:00",

@@ -14248,5 +14248,22 @@
   "MASSA FUNKEIRA + BUBBLING BABY|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "Cherchez La Femme|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/4/4/4/7/1524447-cherchez-la-femme-2026-0-500-0-750-crop.jpg?v=cbf7f713ba",
+      "description": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "António da Cunha Telles",
+      "lb_year": 2026
+    },
+    "omdb": null
   }
 }
