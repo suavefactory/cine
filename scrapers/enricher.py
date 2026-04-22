@@ -490,9 +490,10 @@ def lbxd_fetch(slug):
     country_m = re.search(r'href="/films/country/[^/"]+/"[^>]*>\s*([^<]+?)\s*<', html)
     country = country_m.group(1).strip() if country_m else None
 
-    # Realizador: extrai para validação externa
-    director_m = re.search(r'href="/director/[^/]+/"[^>]*>\s*([^<]+?)\s*</a>', html)
-    director = director_m.group(1).strip() if director_m else None
+    # Realizador: extrai nome e slug para validação e página de realizador
+    director_slug_m = re.search(r'href="/director/([^/]+)/"[^>]*>\s*([^<]+?)\s*</a>', html)
+    director       = director_slug_m.group(2).strip() if director_slug_m else None
+    director_slug  = director_slug_m.group(1)         if director_slug_m else None
 
     # Ano: extrai do <title> "Film Name (2025) directed by..."
     lb_year = None
@@ -504,13 +505,14 @@ def lbxd_fetch(slug):
             pass
 
     return {
-        "rating":      float(rating_m.group(1)) if rating_m else None,
-        "poster":      poster,
-        "description": description,
-        "genres":      genres,
-        "country":     country,
-        "lb_director": director,
-        "lb_year":     lb_year,
+        "rating":         float(rating_m.group(1)) if rating_m else None,
+        "poster":         poster,
+        "description":    description,
+        "genres":         genres,
+        "country":        country,
+        "lb_director":    director,
+        "lb_director_slug": director_slug,
+        "lb_year":        lb_year,
     }
 
 def lbxd_lookup(title, year=None, director=None):
@@ -753,6 +755,10 @@ def enrich(movies):
         elif not movie.get("country") and omdb and omdb.get("Country") not in (None, "N/A"):
             movie["country"] = omdb["Country"].split(",")[0].strip()
 
+        # Director Letterboxd slug (para página de realizador na app)
+        if lb and lb.get("lb_director_slug") and not movie.get("director_lbxd_slug"):
+            movie["director_lbxd_slug"] = lb["lb_director_slug"]
+
         # Metadados via OMDB (fallbacks apenas)
         if omdb:
             if not movie.get("director") and omdb.get("Director") not in (None, "N/A"):
@@ -769,6 +775,90 @@ def enrich(movies):
         save_cache(cache)
 
     return movies
+
+
+# ── Directors ──────────────────────────────────────────────────────────────────
+
+WIKI_CACHE_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "wiki_director_cache.json")
+
+def load_wiki_cache():
+    if os.path.exists(WIKI_CACHE_PATH):
+        with open(WIKI_CACHE_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def save_wiki_cache(cache):
+    os.makedirs(os.path.dirname(WIKI_CACHE_PATH), exist_ok=True)
+    with open(WIKI_CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+def wiki_director(name):
+    """Fetches director photo + short bio from Wikipedia."""
+    params = urllib.parse.urlencode({
+        "action":     "query",
+        "titles":     name,
+        "prop":       "pageimages|extracts",
+        "exintro":    True,
+        "explaintext": True,
+        "exsentences": 3,
+        "pithumbsize": 400,
+        "format":     "json",
+        "redirects":  1,
+    })
+    url = f"https://en.wikipedia.org/w/api.php?{params}"
+    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    with urllib.request.urlopen(req, timeout=10) as r:
+        data = json.loads(r.read().decode())
+    pages = data["query"]["pages"]
+    page = next(iter(pages.values()))
+    if page.get("ns") == -1:  # missing page
+        return None, None
+    photo   = page.get("thumbnail", {}).get("source")
+    extract = page.get("extract", "").strip()
+    # Trim extract to first 3 sentences max
+    sentences = re.split(r'(?<=[.!?])\s+', extract)
+    bio = " ".join(sentences[:3]).strip() or None
+    return photo, bio
+
+def build_directors(movies):
+    """Builds directors dict from movies with director info. Fetches Wikipedia data."""
+    wiki_cache = load_wiki_cache()
+    wiki_changed = False
+
+    directors = {}
+    for movie in movies:
+        director = movie.get("director")
+        if not director:
+            continue
+        if director in directors:
+            continue
+
+        lbxd_slug = movie.get("director_lbxd_slug")
+
+        if director not in wiki_cache:
+            print(f"  [Wiki] {director}...", end=" ", flush=True)
+            try:
+                photo, bio = wiki_director(director)
+                wiki_cache[director] = {"photo": photo, "bio": bio}
+                wiki_changed = True
+                print("ok" if photo or bio else "not found")
+            except Exception as e:
+                print(f"err: {e}")
+                wiki_cache[director] = {"photo": None, "bio": None}
+                wiki_changed = True
+            time.sleep(0.2)
+
+        cached = wiki_cache[director]
+        directors[director] = {
+            "lbxd_slug": lbxd_slug,
+            "photo":     cached.get("photo"),
+            "bio":       cached.get("bio"),
+        }
+
+    if wiki_changed:
+        save_wiki_cache(wiki_cache)
+
+    return directors
 
 
 if __name__ == "__main__":

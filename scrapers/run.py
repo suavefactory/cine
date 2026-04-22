@@ -24,7 +24,7 @@ from batalha    import scrape as scrape_batalha
 from trindade   import scrape as scrape_trindade
 from ideal         import scrape as scrape_ideal
 from campo_alegre  import scrape as scrape_campo_alegre
-from enricher   import enrich
+from enricher   import enrich, build_directors
 
 SCRAPERS = [
     ("São Jorge",      "sao_jorge",      scrape_sao_jorge),
@@ -144,9 +144,14 @@ def run():
     print("\n[Enricher] A buscar posters e ratings...")
     all_movies = enrich(all_movies)
 
+    print("\n[Directors] A buscar fotos e bios de realizadores...")
+    directors = build_directors(all_movies)
+    print(f"[Directors] {len(directors)} realizadores.")
+
     payload = {
         "generated": datetime.now(timezone.utc).isoformat(),
         "movies":    all_movies,
+        "directors": directors,
         "errors":    errors,
     }
 

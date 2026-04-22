@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-22T11:29:23.152707+00:00",
+  "generated": "2026-04-22T11:39:52.470325+00:00",
   "movies": [
     {
       "id": "sao_jorge_10473",
@@ -1777,6 +1777,30 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
+      "id": "nimas_culpado-inocente-monstro-2023",
+      "title": "Culpado – Inocente – Monstro",
+      "director": "Hirokazu Kore-Eda",
+      "year": 2023,
+      "duration": 127,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/7/0/3/0/947030-monster-0-500-0-750-crop.jpg?v=9787f75532",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/culpado-inocente-monstro-2023",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "12:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.34,
+      "plot": "After an outburst at school involving her son, a concerned single mother demands answers, triggering a sequence of deepening suspicion and turmoil.",
+      "country": "Japan"
+    },
+    {
       "id": "nimas_o-mentor-2012",
       "title": "O Mentor",
       "director": "Paul Thomas Anderson",
@@ -1797,6 +1821,34 @@ window.CINEMA_DATA = {
       "rating": 3.98,
       "plot": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
       "country": "USA"
+    },
+    {
+      "id": "nimas_o-principe-e-a-corista-1957",
+      "title": "O Príncipe e a Corista",
+      "director": "Laurence Olivier",
+      "year": 1957,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-principe-e-a-corista-1957",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "19:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-11",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.17,
+      "plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+      "country": "UK"
     },
     {
       "id": "nimas_aprender-2024",
@@ -1912,110 +1964,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_culpado-inocente-monstro-2023",
-      "title": "Culpado – Inocente – Monstro",
-      "director": "Hirokazu Kore-Eda",
-      "year": 2023,
-      "duration": 127,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/7/0/3/0/947030-monster-0-500-0-750-crop.jpg?v=9787f75532",
-      "genres": [
-        "Thriller",
-        "Mystery",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/culpado-inocente-monstro-2023",
-      "sessions": [
-        {
-          "date": "2026-04-23",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.34,
-      "plot": "After an outburst at school involving her son, a concerned single mother demands answers, triggering a sequence of deepening suspicion and turmoil.",
-      "country": "Japan"
-    },
-    {
-      "id": "nimas_o-principe-e-a-corista-1957",
-      "title": "O Príncipe e a Corista",
-      "director": "Laurence Olivier",
-      "year": 1957,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-principe-e-a-corista-1957",
-      "sessions": [
-        {
-          "date": "2026-04-23",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-11",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.17,
-      "plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
-      "country": "UK"
-    },
-    {
-      "id": "nimas_parasitas-2019",
-      "title": "Parasitas",
-      "director": "Bong Joon Ho",
-      "year": 2019,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-500-0-750-crop.jpg?v=8f5653f710",
-      "genres": [
-        "Thriller",
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/parasitas-2019",
-      "sessions": [
-        {
-          "date": "2026-04-24",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.53,
-      "plot": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-      "country": "South Korea"
-    },
-    {
-      "id": "nimas_linha-fantasma-2017",
-      "title": "Linha Fantasma",
-      "director": "Paul Thomas Anderson",
-      "year": 2017,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/3/8/4/335384-phantom-thread-0-500-0-750-crop.jpg?v=6b47f80ec7",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/linha-fantasma-2017",
-      "sessions": [
-        {
-          "date": "2026-04-24",
-          "time": "12:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-04",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.17,
-      "plot": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
-      "country": "USA"
-    },
-    {
       "id": "nimas_os-inadaptados-1961",
       "title": "Os Inadaptados",
       "director": "John Huston",
@@ -2069,6 +2017,58 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.45,
       "plot": "Research chemist Barnaby Fulton works on a fountain of youth pill for a chemical company. One of the labs chimps gets loose in the laboratory and mixes chemicals, but then pours the mix into the water cooler. When trying one of his own samples, washed down with water from the cooler, Fulton begins to act just like a twenty-year-old and believes his potion is working. Soon his wife and boss are also behaving like children.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_parasitas-2019",
+      "title": "Parasitas",
+      "director": "Bong Joon Ho",
+      "year": 2019,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-500-0-750-crop.jpg?v=8f5653f710",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/parasitas-2019",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.53,
+      "plot": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "country": "South Korea"
+    },
+    {
+      "id": "nimas_linha-fantasma-2017",
+      "title": "Linha Fantasma",
+      "director": "Paul Thomas Anderson",
+      "year": 2017,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/3/8/4/335384-phantom-thread-0-500-0-750-crop.jpg?v=6b47f80ec7",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/linha-fantasma-2017",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "time": "12:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-04",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.17,
+      "plot": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
       "country": "USA"
     },
     {
@@ -2260,6 +2260,33 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
+      "id": "nimas_jogos-de-prazer-1997",
+      "title": "Jogos de Prazer",
+      "director": "Paul Thomas Anderson",
+      "year": 1997,
+      "duration": 155,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/0/7/49007-boogie-nights-0-500-0-750-crop.jpg?v=57bef85dc6",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/jogos-de-prazer-1997",
+      "sessions": [
+        {
+          "date": "2026-04-26",
+          "time": "14:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-05",
+          "time": "16:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.21,
+      "plot": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_conta-comigo-1986",
       "title": "Conta Comigo",
       "director": "Rob Reiner",
@@ -2316,31 +2343,26 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_jogos-de-prazer-1997",
-      "title": "Jogos de Prazer",
-      "director": "Paul Thomas Anderson",
-      "year": 1997,
-      "duration": 155,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/0/7/49007-boogie-nights-0-500-0-750-crop.jpg?v=57bef85dc6",
+      "id": "nimas_evil-does-not-exist-o-mal-nao-esta-aqui-2023",
+      "title": "Evil Does Not Exist – O Mal não Está Aqui",
+      "director": "Ryūsuke Hamaguchi",
+      "year": 2023,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/2/2/7/7/1042277-evil-does-not-exist-0-500-0-750-crop.jpg?v=a76547ed16",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/jogos-de-prazer-1997",
+      "link": "https://medeiafilmes.com/filmes/evil-does-not-exist-o-mal-nao-esta-aqui-2023",
       "sessions": [
         {
-          "date": "2026-04-26",
-          "time": "14:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-05",
-          "time": "16:15",
+          "date": "2026-04-27",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.21,
-      "plot": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
-      "country": "USA"
+      "rating": 3.84,
+      "plot": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature.",
+      "country": "Japan"
     },
     {
       "id": "nimas_o-pecado-mora-ao-lado-1955",
@@ -2414,28 +2436,6 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.26,
       "plot": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
-      "country": "Japan"
-    },
-    {
-      "id": "nimas_evil-does-not-exist-o-mal-nao-esta-aqui-2023",
-      "title": "Evil Does Not Exist – O Mal não Está Aqui",
-      "director": "Ryūsuke Hamaguchi",
-      "year": 2023,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/2/2/7/7/1042277-evil-does-not-exist-0-500-0-750-crop.jpg?v=a76547ed16",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/evil-does-not-exist-o-mal-nao-esta-aqui-2023",
-      "sessions": [
-        {
-          "date": "2026-04-27",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.84,
-      "plot": "Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, the village inhabitants become aware of a plan to build a camping site near Takumi's house offering city residents a comfortable \"escape\" to nature.",
       "country": "Japan"
     },
     {
@@ -2632,6 +2632,34 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
+      "id": "nimas_parada-de-estrelas-1954",
+      "title": "Parada de Estrelas",
+      "director": "Walter Lang",
+      "year": 1954,
+      "duration": 117,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
+      "sessions": [
+        {
+          "date": "2026-05-01",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "10:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.18,
+      "plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_os-sete-samurais-1954",
       "title": "Os Sete Samurais",
       "director": "Akira Kurosawa",
@@ -2706,105 +2734,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_parada-de-estrelas-1954",
-      "title": "Parada de Estrelas",
-      "director": "Walter Lang",
-      "year": 1954,
-      "duration": 117,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
-      "genres": [
-        "Comedy",
-        "Music"
-      ],
-      "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
-      "sessions": [
-        {
-          "date": "2026-05-01",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-09",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.18,
-      "plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_o-fim-do-outono-1960",
-      "title": "O Fim do Outono",
-      "director": "Yasujiro Ozu",
-      "year": 1960,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ah/is/7h/xm/autumn-0-500-0-750-crop.jpg?v=9c8cd25b4c",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-fim-do-outono-1960",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.12,
-      "plot": "A woman and her daughter are each forced to contend with an increasing pressure to marry, particularly from three men who knew her late husband.",
-      "country": "Japan"
-    },
-    {
-      "id": "nimas_quanto-mais-quente-melhor-1955",
-      "title": "Quanto Mais Quente Melhor",
-      "director": "Billy Wilder",
-      "year": 1959,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/7/51817-some-like-it-hot-0-500-0-750-crop.jpg?v=fc0b1b87eb",
-      "genres": [
-        "Romance",
-        "Crime",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/quanto-mais-quente-melhor-1955",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.27,
-      "plot": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_a-criada-2016",
-      "title": "A Criada",
-      "director": "Park Chan-wook",
-      "year": 2016,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/pc/n6/pz/mi/wvzfK5QR6dGLwND8MCzWjsQWG4Q-0-500-0-750-crop.jpg?v=bcfcc8f8f6",
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-criada-2016",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.39,
-      "plot": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
-      "country": "South Korea"
-    },
-    {
       "id": "nimas_um-amor-inevitavel-1989",
       "title": "Um Amor Inevitável",
       "director": "Rob Reiner",
@@ -2849,6 +2778,77 @@ window.CINEMA_DATA = {
       "rating": 3.67,
       "plot": "While her husband is on a business trip, Gamhee meets three of her friends. She visits the first two at their homes, and the third she encounters by chance at a theater. While they make friendly conversation, as always, several currents flow independently above and below the surface of the sea.",
       "country": "South Korea"
+    },
+    {
+      "id": "nimas_o-fim-do-outono-1960",
+      "title": "O Fim do Outono",
+      "director": "Yasujiro Ozu",
+      "year": 1960,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ah/is/7h/xm/autumn-0-500-0-750-crop.jpg?v=9c8cd25b4c",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-fim-do-outono-1960",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "19:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.12,
+      "plot": "A woman and her daughter are each forced to contend with an increasing pressure to marry, particularly from three men who knew her late husband.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_a-criada-2016",
+      "title": "A Criada",
+      "director": "Park Chan-wook",
+      "year": 2016,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pc/n6/pz/mi/wvzfK5QR6dGLwND8MCzWjsQWG4Q-0-500-0-750-crop.jpg?v=bcfcc8f8f6",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-criada-2016",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.39,
+      "plot": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+      "country": "South Korea"
+    },
+    {
+      "id": "nimas_quanto-mais-quente-melhor-1955",
+      "title": "Quanto Mais Quente Melhor",
+      "director": "Billy Wilder",
+      "year": 1959,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/7/51817-some-like-it-hot-0-500-0-750-crop.jpg?v=fc0b1b87eb",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/quanto-mais-quente-melhor-1955",
+      "sessions": [
+        {
+          "date": "2026-05-02",
+          "time": "12:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+      "country": "USA"
     },
     {
       "id": "nimas_magnolia-1999",
@@ -2901,6 +2901,29 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
+      "id": "nimas_o-heroi-sacrilego-1955",
+      "title": "O Herói Sacrílego",
+      "director": "Kenji Mizoguchi",
+      "year": 1954,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/3/6/2/28362-the-crucified-lovers-0-500-0-750-crop.jpg?v=e00e2b5d9e",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-heroi-sacrilego-1955",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "12:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.16,
+      "plot": "When the wife of a 17th-century Kyoto scrollmaker is falsely accused of having an affair with his best employee, the pair flee the city and find themselves truly falling for one another.",
+      "country": "Japan"
+    },
+    {
       "id": "nimas_paragem-de-autocarro-1956",
       "title": "Paragem de Autocarro",
       "director": "Joshua Logan",
@@ -2928,29 +2951,6 @@ window.CINEMA_DATA = {
       "rating": 2.79,
       "plot": "Cowboys Beauregard Decker and Virgil Blessing attend a rodeo in Phoenix, where Decker falls in love with beautiful cafe singer Cherie. He wants to take Cherie back to his native Montana and marry her, but she dreams of traveling to Hollywood and becoming famous. When she resists his advances, Decker forces Cherie onto the bus back to Montana with him, but, when the bus makes an unscheduled stop due to bad weather, the tables are turned.",
       "country": "USA"
-    },
-    {
-      "id": "nimas_o-heroi-sacrilego-1955",
-      "title": "O Herói Sacrílego",
-      "director": "Kenji Mizoguchi",
-      "year": 1954,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/3/6/2/28362-the-crucified-lovers-0-500-0-750-crop.jpg?v=e00e2b5d9e",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-heroi-sacrilego-1955",
-      "sessions": [
-        {
-          "date": "2026-05-03",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.16,
-      "plot": "When the wife of a 17th-century Kyoto scrollmaker is falsely accused of having an affair with his best employee, the pair flee the city and find themselves truly falling for one another.",
-      "country": "Japan"
     },
     {
       "id": "nimas_os-homens-preferem-as-loiras-1953",
@@ -3020,6 +3020,28 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
+      "id": "nimas_havera-sangue-2007",
+      "title": "Haverá Sangue",
+      "director": "Paul Thomas Anderson",
+      "year": 2007,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-500-0-750-crop.jpg?v=8a533d5350",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/havera-sangue-2007",
+      "sessions": [
+        {
+          "date": "2026-05-06",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.46,
+      "plot": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_roida-ate-ao-osso-1966",
       "title": "Roída até ao Osso",
       "director": "Tai Katô",
@@ -3059,28 +3081,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_havera-sangue-2007",
-      "title": "Haverá Sangue",
-      "director": "Paul Thomas Anderson",
-      "year": 2007,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-500-0-750-crop.jpg?v=8a533d5350",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/havera-sangue-2007",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.46,
-      "plot": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
-      "country": "USA"
-    },
-    {
       "id": "nimas_o-joelho-de-claire-1970",
       "title": "O Joelho de Claire",
       "director": "Éric Rohmer",
@@ -3105,6 +3105,29 @@ window.CINEMA_DATA = {
       "rating": 3.86,
       "plot": "On the eve of his wedding, on holiday on the Lake Annecy shore, a career diplomat visits an old acquaintance, perhaps a former girlfriend. Through her he meets an intense teenager, Laura, and then lusts after her sister, Claire. Whilst Laura attempts to flirt with him, his fantasy becomes focused on wanting to caress Claire's knee.",
       "country": "France"
+    },
+    {
+      "id": "nimas_quando-a-cidade-dorme-1950",
+      "title": "Quando a Cidade Dorme",
+      "director": "John Huston",
+      "year": 1950,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/0/1/41301-the-asphalt-jungle-0-500-0-750-crop.jpg?v=c8ccf94293",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.86,
+      "plot": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
+      "country": "USA"
     },
     {
       "id": "nimas_mulheres-da-noite-1961",
@@ -3177,27 +3200,30 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_quando-a-cidade-dorme-1950",
-      "title": "Quando a Cidade Dorme",
-      "director": "John Huston",
-      "year": 1950,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/0/1/41301-the-asphalt-jungle-0-500-0-750-crop.jpg?v=c8ccf94293",
+      "id": "nimas_violencia-e-paixao-1974",
+      "title": "Violência e Paixão",
+      "director": "Luchino Visconti",
+      "year": 1974,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/3/9933-conversation-piece-0-500-0-750-crop.jpg?v=040897dd01",
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
+      "link": "https://medeiafilmes.com/filmes/violencia-e-paixao-1974",
       "sessions": [
         {
-          "date": "2026-05-07",
-          "time": "21:30",
-          "cinema": "nimas"
+          "date": "2026-05-08",
+          "time": "18:30",
+          "cinema": "nimas",
+          "labels": [
+            "Festival Literário 5L – Apresentação por Pedro Mexia e José Bértolo"
+          ]
         }
       ],
-      "rating": 3.86,
-      "plot": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
-      "country": "USA"
+      "rating": 3.79,
+      "plot": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
+      "country": "France"
     },
     {
       "id": "nimas_bom-dia-1959",
@@ -3248,32 +3274,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_violencia-e-paixao-1974",
-      "title": "Violência e Paixão",
-      "director": "Luchino Visconti",
-      "year": 1974,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/3/9933-conversation-piece-0-500-0-750-crop.jpg?v=040897dd01",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/violencia-e-paixao-1974",
-      "sessions": [
-        {
-          "date": "2026-05-08",
-          "time": "18:30",
-          "cinema": "nimas",
-          "labels": [
-            "Festival Literário 5L – Apresentação por Pedro Mexia e José Bértolo"
-          ]
-        }
-      ],
-      "rating": 3.79,
-      "plot": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
-      "country": "France"
-    },
-    {
       "id": "nimas_rio-sem-regresso-1954",
       "title": "Rio Sem Regresso",
       "director": "Otto Preminger",
@@ -3295,6 +3295,29 @@ window.CINEMA_DATA = {
       "rating": 3.2,
       "plot": "An itinerant farmer and his young son help a heart-of-gold saloon singer search for her estranged husband.",
       "country": "USA"
+    },
+    {
+      "id": "nimas_roda-da-fortuna-e-da-fantasia-2021",
+      "title": "Roda da Fortuna e da Fantasia",
+      "director": "Ryûsuke Hamaguchi",
+      "year": 2021,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/3/713523-wheel-of-fortune-and-fantasy-0-500-0-750-crop.jpg?v=6351c215a2",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.07,
+      "plot": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
+      "country": "Japan"
     },
     {
       "id": "nimas_dersu-uzala-1975",
@@ -3366,29 +3389,6 @@ window.CINEMA_DATA = {
       "rating": 3.54,
       "plot": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
       "country": "Canada"
-    },
-    {
-      "id": "nimas_roda-da-fortuna-e-da-fantasia-2021",
-      "title": "Roda da Fortuna e da Fantasia",
-      "director": "Ryûsuke Hamaguchi",
-      "year": 2021,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/3/713523-wheel-of-fortune-and-fantasy-0-500-0-750-crop.jpg?v=6351c215a2",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
-      "sessions": [
-        {
-          "date": "2026-05-10",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.07,
-      "plot": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
-      "country": "Japan"
     },
     {
       "id": "nimas_a-mulher-de-quem-se-fala-1954",
@@ -6305,5 +6305,877 @@ window.CINEMA_DATA = {
       ]
     }
   ],
+  "directors": {
+    "Meriem Bennani Orian Barki": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Raquel Freire": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Raquel Freire (born 22 June 1973, in Porto) is a Portuguese film director, screenwriter and novelist."
+    },
+    "Adrian Tofei": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Robbie Banfitch": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Ugla Hauksdóttir": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Ugla Hauksdóttir (born 31 July 1989) is an Icelandic film and television director and screenwriter. She is known for directing episodes of international productions including Hanna, Snowfall, The Power, and Alien: Earth. She also directed episodes of the Icelandic series Trapped."
+    },
+    "Christine Turner": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Rodrigo Braz Teixeira": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Francisca Marvão": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Fabien Pisani": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Giorgos Georgopoulos": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Alexis Zelensky": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Irene Iborra Pais Bélgica Suíça Espanha Chile França": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Pedro Ramalhete": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Robert Gordon": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Robert Gordon may refer to:"
+    },
+    "Nicolás Pereda": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nicol%C3%A1s_Pereda%2C_Berlinale_2016.JPG/500px-Nicol%C3%A1s_Pereda%2C_Berlinale_2016.JPG",
+      "bio": "Nicolás Pereda (born 1982) is a Mexican-Canadian film director. His films regularly blend aspects and techniques of both narrative fiction and documentary filmmaking. His films include Where Are Their Stories?"
+    },
+    "Ana Baldini Roly Witherow": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Cooper Raiff": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cooper_Raiff_2020_3.jpg",
+      "bio": "Cooper Michael Raiff (born February 11, 1997) is an American filmmaker and actor. He has received praise for his films Shithouse (2020) and Cha Cha Real Smooth (2022). In August 2022, Raiff launched his production company Small Ideas."
+    },
+    "Annapurna Sriram": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Annapurna Sriram is an American film director, screenwriter, and actor from Nashville, Tennessee. She is known as the writer-director and star of the 2025 film Fucktoys, which premiered at South by Southwest where it won the Special Jury Award for a Multi-Hyphenate and received positive reviews from critics. Sriram's performance in the 2019 film Feral received positive reviews from The New York Times, The Hollywood Reporter, and Variety."
+    },
+    "Clemente Castor": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clemente_Castor.jpg/500px-Clemente_Castor.jpg",
+      "bio": "Clemente Castor is a Mexican director, screenwriter, producer, and visual artist."
+    },
+    "Leonardo Pirondi": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Retrato_de_Leonardo_Pirondi.jpg/500px-Retrato_de_Leonardo_Pirondi.jpg",
+      "bio": "Leonardo Pirondi is a Brazilian film director from São Paulo. Pirondi's work explores the intersection between fiction and non-fiction filmmaking using non-conventional structures of documentary, experimental, and narrative modes. In his films he explores contemporary sociopolitical issues and collective anxieties as a lens to look into history, imagination, myth, and technology."
+    },
+    "Susana de Sousa Dias": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Susana de Sousa Dias (born in Lisbon) is a Portuguese artist and filmmaker."
+    },
+    "Peter Ohs": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Francis Ford Coppola": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
+      "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
+    },
+    "Diogo Allen": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Tom Stern": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Tom Stern may refer to:"
+    },
+    "Sophy Romvari": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sophy_Romvari_at_the_78th_Locarno_Film_Festival_in_2025_01.jpg/500px-Sophy_Romvari_at_the_78th_Locarno_Film_Festival_in_2025_01.jpg",
+      "bio": "Sophy Romvari (born October 20, 1990) is a Canadian film director, writer, and actress. After attracting considerable attention online for her short film work, particularly the award-winning Still Processing (2020), Romvari won widespread critical acclaim and numerous accolades for her feature-length film debut Blue Heron (2025). A collection of Romvari's short films, including Still Processing, was released by The Criterion Collection on their streaming platform in 2022."
+    },
+    "Christoph Hübner": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Pantelis Voulgaris": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Pantelis Voulgaris (Greek: Παντελής Βούλγαρης; born 23 October 1940) is a Greek film director and screenwriter. His first feature film To proxenio tis Annas in 1972 won the first prize in Thessaloniki International Film Festival. His 1989 film The Striker with Number 9 was entered into the 39th Berlin International Film Festival."
+    },
+    "Basilio Martín Patino": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Basilio_Mart%C3%ADn_Patino_en_la_presentaci%C3%B3n_de_%27Libre_te_quiero%27_en_el_Festival_de_Cine_y_Derechos_Humanos_de_San_Sebasti%C3%A1n.jpg",
+      "bio": "Basilio Martín Patino (29 October 1930 – 13 August 2017) was a Spanish film director, specializing in a creative approach to documentary works. Patino produced pieces on the Spanish Civil War (Canciones para después de una guerra), the famous dictator (Caudillo), or his executioners (Queridísimos verdugos). He also produced fiction (Nueve cartas a Berta, Octavia)."
+    },
+    "Thomas Harlan": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oliver_Mark_-_Thomas_Harlan%2C_Berchtesgadener_Land_2007_%282%29_%28cropped%29.jpg/500px-Oliver_Mark_-_Thomas_Harlan%2C_Berchtesgadener_Land_2007_%282%29_%28cropped%29.jpg",
+      "bio": "Thomas Christoph Harlan (19 February 1929 – 16 October 2010) was a German author and director of French-language films."
+    },
+    "Luis Buñuel": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
+      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
+    },
+    "Fernando Colomo": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fernando_Colomo_en_los_Premios_Goya_2017.jpg/500px-Fernando_Colomo_en_los_Premios_Goya_2017.jpg",
+      "bio": "Fernando Colomo Gómez (born 2 February 1946) is a Spanish film producer, screenwriter and film director. He has also acted in small roles in his own and other's films. He is regarded as the father of the so-called comedia madrileña."
+    },
+    "Alexis Damianos": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Alexis Damianos (Greek: Αλέξης Δαμιανός; 1921–2006) was a Greek, film/theatre and television director."
+    },
+    "Vítor Silva": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/V%C3%ADtor_Silva_%281928%29.jpg",
+      "bio": "Vítor Marcolino da Silva (20 February 1909 – 21 July 1982) was a Portuguese footballer. Listed by Benfica, as one of the club's best forwards in history, Silva represented the club on 131 official games, scoring 108 goals."
+    },
+    "Pilar Miró": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pilar_Mir%C3%B3_en_la_toma_de_posesi%C3%B3n_del_director_general_de_TVE._Pool_Moncloa._17_de_enero_de_1989_%28cropped_2025%29.jpeg",
+      "bio": "Pilar Mercedes Miró Romero (20 April 1940 – 19 October 1997) was a Spanish screenwriter and film director. She was the General Director of RTVE from 1986 to 1989. In the 1990s, she directed the television broadcasts of the weddings of the daughters of King Juan Carlos I."
+    },
+    "Mario Camus": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mario_Camus_-_Seminci_2011.jpg/500px-Mario_Camus_-_Seminci_2011.jpg",
+      "bio": "Mario Camus García (20 April 1935 – 18 September 2021) was a Spanish film director and screenwriter. He won the  Golden Bear at the 33rd Berlin International Film Festival with La colmena. His 1987 film The House of Bernarda Alba was screened in the Un Certain Regard section at the 1987 Cannes Film Festival and in the main competition at the 15th Moscow International Film Festival."
+    },
+    "Rita Azevedo Gomes": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rita_Azevedo_Bilbon.jpg/500px-Rita_Azevedo_Bilbon.jpg",
+      "bio": "Rita Azevedo Gomes (born in 1952) is a Portuguese filmmaker. Her work, Characterized by its experimental style, have been recognized at many film festivals such as the Berlin International Film Festival, DocLisboa, and the Las Palmas de Gran Canaria International Film Festival."
+    },
+    "Marco Bellocchio": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Marco_Bellocchio_FCI_Tokyo_2010.jpg/500px-Marco_Bellocchio_FCI_Tokyo_2010.jpg",
+      "bio": "Marco Bellocchio (Italian pronunciation: [ˈmarko belˈlɔkkjo]; born 9 November 1939) is an Italian film director, screenwriter, and actor. His is most known for his films Fists in the Pocket (1965), Slap the Monster on Page One (1972), A Leap in the Dark (1980), Good Morning, Night (2003), The Traitor (2019) and Kidnapped (2023)."
+    },
+    "Pedro Costa": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pedro_Costa_%282020%29.jpg/500px-Pedro_Costa_%282020%29.jpg",
+      "bio": "Pedro Costa (born 30 December 1958) is a Portuguese film director. He is best known for his sequence of films set in Lisbon, which focuses on the lives of the impoverished residents of a slum in the Fontainhas neighbourhood."
+    },
+    "Marcel L’Herbier": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Ester Krumbachová": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Ester Krumbachová (12 November 1923 – 13 January 1996) was a Czech screenwriter, costume designer, stage designer, author and director. She is known for her contributions to Czech New Wave cinema in the 1960s, including collaborations with directors Věra Chytilová and Jan Němec. Krumbachová would often act as both writer and art director on the films she worked on, such as Daisies and Fruit of Paradise."
+    },
+    "Albert Brooks": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Albert_Brooks_at_%27Drive%27_premiere_TIFF_9.10.11.jpg/500px-Albert_Brooks_at_%27Drive%27_premiere_TIFF_9.10.11.jpg",
+      "bio": "Albert Lawrence Einstein (born July 22, 1947), known professionally as Albert Brooks, is an American actor, comedian, director, and screenwriter. He received an Academy Award nomination for Best Supporting Actor for his performance in the comedy-drama Broadcast News (1987) and was widely praised for his performance in the action drama Drive (2011). Brooks has acted in films such as Taxi Driver (1976), Private Benjamin (1980), Unfaithfully Yours (1984), Out of Sight (1998), My First Mister (2001), and Concussion (2015)."
+    },
+    "Suzanne Osten": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Suzanne_Osten_in_Aug_2015.jpg/500px-Suzanne_Osten_in_Aug_2015.jpg",
+      "bio": "Carlota Suzanne Osten (20 June 1944 – 28 October 2024) was a Swedish film director, stage director, and screenwriter. She won the award for Best Director at the 22nd Guldbagge Awards for the film The Mozart Brothers."
+    },
+    "Peter Watkins": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Peter Watkins (29 October 1935 – 30 October 2025) was an English filmmaker, documentarian, writer and film theorist. He is known as a pioneer of the docudrama and the mockumentary genres, typically with heavy political content. His films present pacifist and radical ideas in a nontraditional style."
+    },
+    "Luís Fonseca": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Patrícia Saramago": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Olia Verriopoulou": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Frieda Liappa": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Hiroshi Shimizu": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Hiroshi Shimizu  may refer to:"
+    },
+    "Abdellatif Kechiche": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Abdellatif_Kechiche_Cannes_2013.jpg/500px-Abdellatif_Kechiche_Cannes_2013.jpg",
+      "bio": "Abdellatif Kechiche (French: [abdɛlatif keʃiʃ]; Arabic: عبد اللطيف كشيش, born 7 December 1960), also known as Abdel Kechiche, is a Tunisian-French filmmaker and actor. Known for his naturalistic style, he has been awarded several times at the César Awards, including Best Film for Games of Love and Chance (2003) and The Secret of the Grain (2007), and the Palme d'Or at the 2013 Cannes Film Festival for his film Blue Is the Warmest Colour."
+    },
+    "Paolo Sorrentino": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/500px-Paolo_Sorrentino_2018.jpg",
+      "bio": "Paolo Sorrentino ( SORR-ən-TEE-noh, Italian: [ˈpaːolo sorrenˈtiːno]; born 31 May 1970) is an Italian film director, screenwriter, and writer. He is considered one of the most prominent filmmakers of Italian cinema working today. He is known for visually striking and complex dramas and has often been compared to Federico Fellini and Michelangelo Antonioni."
+    },
+    "Taratoa Stappard": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Simão Cayatte": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Rob Reiner": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rob_Reiner_in_2016_%283x4_cropped%29.jpg/500px-Rob_Reiner_in_2016_%283x4_cropped%29.jpg",
+      "bio": "Robert Reiner (; March 6, 1947 – December 14, 2025) was an American filmmaker, actor, and political activist. He directed a series of acclaimed studio films in a career that spanned comedy, drama, romance, and documentary. Reiner received numerous accolades, including winning two Primetime Emmy Awards and a Hugo Award, as well as nominations for an Academy Award, a BAFTA Award, and nine Golden Globe Awards."
+    },
+    "Henry Hathaway": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Henry_Hathaway_1944_press_photo_%28cropped%29.jpg/500px-Henry_Hathaway_1944_press_photo_%28cropped%29.jpg",
+      "bio": "Henry Hathaway (born Henri Léopold de Fiennes; March 13, 1898 – February 11, 1985) was an American film director and producer, whose career spanned from the 1930s through the 1970s. He was best known as a director of Western, adventure, and noir films, especially starring John Wayne, Gary Cooper, Randolph Scott, and Gregory Peck. He was nominated for the Academy Award for Best Director for The Lives of a Bengal Lancer (1935), starring Cooper."
+    },
+    "Hirokazu Kore-Eda": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hirokazu_Kore-eda_-_The_Egyptian_Theatre.jpg/500px-Hirokazu_Kore-eda_-_The_Egyptian_Theatre.jpg",
+      "bio": "Hirokazu Kore-eda (是枝 裕和, Koreeda Hirokazu; born 6 June 1962) is a Japanese filmmaker. He began his career in television and has since directed more than a dozen feature films, including Nobody Knows (2004) and Still Walking (2008). For Like Father, Like Son (2013) and Shoplifters (2018), he won the Cannes Film Festival's Jury Prize and Palme d'Or, respectively."
+    },
+    "Paul Thomas Anderson": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paul_Thomas_Anderson_in_2025.jpg/500px-Paul_Thomas_Anderson_in_2025.jpg",
+      "bio": "Paul Thomas Anderson (born June 26, 1970), also known by his initials PTA, is an American filmmaker. Often described as one of the preeminent filmmakers of his generation, he is the recipient of three Academy Awards, three Golden Globe Awards, four BAFTAs, three Critics Choice Awards, and nominations for a Grammy. He is the only person to have won the Academy Award for Best Director and directorial prizes at Europe's three major film festivals: Cannes Film Festival, Venice Film Festival, and the Berlin International Film Festival."
+    },
+    "Laurence Olivier": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lord_Olivier_6_Allan_Warren.jpg/500px-Lord_Olivier_6_Allan_Warren.jpg",
+      "bio": "Laurence Kerr Olivier, Baron Olivier ( ə-LIV-ee-ay; 22 May 1907 – 11 July 1989) was an English actor and director. He and his contemporaries John Gielgud, Michael Redgrave and Ralph Richardson made up a quartet of male actors who dominated the British stage of the mid-20th century. He also worked in films throughout his career, playing more than fifty cinema roles."
+    },
+    "Claire Simon": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Claire_Simon_2023.jpg/500px-Claire_Simon_2023.jpg",
+      "bio": "Claire Simon is a French screenwriter, actress, cinematographer, editor, and director."
+    },
+    "José Luis Guerin": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/JL_Guerin.jpeg/500px-JL_Guerin.jpeg",
+      "bio": "José Luis Guerín (born 1960) is a Spanish filmmaker and educator known for Train of Shadows (1997), En construcción (2001), and The Academy of Muses (2015)."
+    },
+    "John Huston": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Huston_1979.jpg/500px-John_Huston_1979.jpg",
+      "bio": "John Marcellus Huston (  HEW-stən; August 5, 1906 – August 28, 1987) was an American film director, screenwriter, and actor. He wrote the screenplays for many of the 37 feature films he directed, many of which are today considered classics. He received numerous accolades including two Academy Awards and three Golden Globe Awards."
+    },
+    "Howard Hawks": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Howard_Hawks_head_shot.jpg/500px-Howard_Hawks_head_shot.jpg",
+      "bio": "Howard Winchester Hawks (May 30, 1896 – December 26, 1977) was an American film director, producer, and screenwriter of the classic Hollywood era. The critic Leonard Maltin called him \"the greatest American director who is not a household name.\" Roger Ebert called Hawks \"one of the greatest American directors of pure movies, and a hero of auteur critics because he found his own laconic values in so many different kinds of genre material.\" He was nominated for the Academy Award for Best Director for Sergeant York (1941) and earned the Honorary Academy Award in 1974. A versatile director, Hawks explored many genres such as comedies, dramas, gangster films, science fiction, film noir, war films and Westerns."
+    },
+    "Bong Joon Ho": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg/500px-Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg",
+      "bio": "Bong Joon Ho (Korean: 봉준호; pronounced [poːŋ tɕuːnho]; born September 14, 1969) is a South Korean filmmaker. His work is characterized by emphasis on social and class themes, genre-mixing, dark comedy, and sudden tone shifts. The recipient of numerous accolades, Bong has won three Academy Awards, two British Academy Film Awards, and five Asian Film Awards."
+    },
+    "Ivo M. Ferreira": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Ivo Ferreira (born September 1975) is a Portuguese film director, screenwriter and actor. His 2016 film Letters from War was shown at the 66th Berlin International Film Festival."
+    },
+    "Ryûsuke Hamaguchi": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ryusuke_Hamaguchi_%28HKAFF2018%29_%28cropped%29.png/500px-Ryusuke_Hamaguchi_%28HKAFF2018%29_%28cropped%29.png",
+      "bio": "Ryusuke Hamaguchi (濱口 竜介, Hamaguchi Ryūsuke; [hamaꜜɡɯtɕi ɾʲɯꜜːsɯ̥ke] ; born 16 December 1978) is a Japanese filmmaker. An alumnus of the University of Tokyo and Tokyo National University of Fine Arts and Music, he first gained international recognition for Happy Hour (2015), Asako I & II (2018) and Wheel of Fortune and Fantasy (2021), which premiered at the main competitions of Locarno, Cannes and Berlin respectively. For Drive My Car (2021), Hamaguchi was nominated at the 94th Academy Awards for Best Director and Best Adapted Screenplay, the film was the first Japanese production to be nominated for Best Picture, and won Best International Feature Film."
+    },
+    "Alauda Ruiz de Azúa": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg/500px-Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg",
+      "bio": "Alauda Ruiz de Azúa Arteche (born 1978) is a Spanish filmmaker. Her full-length debut Lullaby (2022) earned critical acclaim, and won her the Goya Award for Best New Director."
+    },
+    "Yasujiro Ozu": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg",
+      "bio": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker. He began his career during the era of silent films, and his last films were made in colour in the early 1960s. Ozu first made a number of short comedies, before turning to more serious themes in the 1930s."
+    },
+    "George Cukor": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/George_Cukor_-_1946.jpg/500px-George_Cukor_-_1946.jpg",
+      "bio": "George Dewey Cukor ( KEW-kor; July 7, 1899 – January 24, 1983) was an American film director and producer. He mainly concentrated on comedies and literary adaptations. His career flourished at RKO when David O."
+    },
+    "Ryūsuke Hamaguchi": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ryusuke_Hamaguchi_%28HKAFF2018%29_%28cropped%29.png/500px-Ryusuke_Hamaguchi_%28HKAFF2018%29_%28cropped%29.png",
+      "bio": "Ryusuke Hamaguchi (濱口 竜介, Hamaguchi Ryūsuke; [hamaꜜɡɯtɕi ɾʲɯꜜːsɯ̥ke] ; born 16 December 1978) is a Japanese filmmaker. An alumnus of the University of Tokyo and Tokyo National University of Fine Arts and Music, he first gained international recognition for Happy Hour (2015), Asako I & II (2018) and Wheel of Fortune and Fantasy (2021), which premiered at the main competitions of Locarno, Cannes and Berlin respectively. For Drive My Car (2021), Hamaguchi was nominated at the 94th Academy Awards for Best Director and Best Adapted Screenplay, the film was the first Japanese production to be nominated for Best Picture, and won Best International Feature Film."
+    },
+    "Billy Wilder": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Billy_Wilder.jpg",
+      "bio": "Billy Wilder ( WYLE-dər, German: [ˈvɪldɐ] ; born Samuel Wilder; June 22, 1906 – March 27, 2002) was a Polish-American filmmaker and screenwriter. Born in Sucha Beskidzka, at the time in Austria-Hungary (now Poland), Wilder's career in Hollywood spanned five decades, and he is regarded as one of the most versatile filmmakers of classical Hollywood cinema. He received seven Academy Awards (among 21 nominations), a BAFTA Award, the Cannes Film Festival's Palme d'Or and two Golden Globe Awards."
+    },
+    "Hong Sang-soo": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hong_Sang-soo_at_the_2025_Cannes_Film_Festival.jpg/500px-Hong_Sang-soo_at_the_2025_Cannes_Film_Festival.jpg",
+      "bio": "Hong Sang-soo (Korean: 홍상수; born 25 October 1960) is a South Korean film director and screenwriter. He is one of the most prominent exponents of slow cinema, often dealing in love affairs and everyday dilemmas in contemporary South Korea. His work has been widely-acclaimed and received numerous international accolades."
+    },
+    "Kenji Mizoguchi": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kenji_Mizoguchi_3.jpg/500px-Kenji_Mizoguchi_3.jpg",
+      "bio": "Kenji Mizoguchi (溝口 健二, Mizoguchi Kenji; 16 May 1898 – 24 August 1956) was a Japanese filmmaker who directed roughly one hundred films during his career between 1923 and 1956. His most acclaimed works include The Story of the Last Chrysanthemums (1939), The Life of Oharu (1952), Ugetsu (1953), and Sansho the Bailiff (1954), with the latter three all being awarded at the Venice International Film Festival. A recurring theme of his films was the oppression of women in historical and contemporary Japan."
+    },
+    "Jean Negulesco": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/JeanNegulesco14.JPG/500px-JeanNegulesco14.JPG",
+      "bio": "Jean Negulesco (born Ioan Negulescu; 13 March [O.S. 29 February] 1900 – 18 July 1993) was a Romanian-American film director and screenwriter. He first gained notice for his films noir and later made such notable films as Johnny Belinda (1948), How to Marry a Millionaire (1953), Titanic (1953), and Three Coins in the Fountain (1954)."
+    },
+    "Fritz Lang": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fritz_Lang_%281969%29.jpg/500px-Fritz_Lang_%281969%29.jpg",
+      "bio": "Friedrich Christian Anton Lang (Austrian German: [ˈfriːdrɪç ˈkrɪsti̯a(ː)n ˈantɔn ˈlaŋ]; December 5, 1890 – August 2, 1976), better known as Fritz Lang (Austrian German: [ˈfrɪts ˈlaŋ]), was an Austrian film director, screenwriter, and producer, who worked in Germany and later the United States. One of the best-known émigrés from Germany's school of Expressionism, he was dubbed the \"Master of Darkness\" by the British Film Institute. He has been cited as one of the most influential filmmakers of all time."
+    },
+    "Park Chan-wook": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%EB%B0%95%EC%B0%AC%EC%9A%B1_-_%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4.jpg/500px-%EB%B0%95%EC%B0%AC%EC%9A%B1_-_%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4.jpg",
+      "bio": "Park Chan-wook (Korean: 박찬욱; pronounced [pak̚ tɕʰanuk̚]; born 23 August 1963) is a South Korean filmmaker and former film critic. Widely regarded as a leading figure in South Korean and 21st-century world cinema, he is known for films that blend crime, mystery, and thriller elements with other genres. His films are noted for their cinematography, framing, black humor, and often brutal subject matter."
+    },
+    "Milagros Mumenthaler": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Milagros Mumenthaler (born 1977 in La Falda, Argentina) is a film director, and screenplay writer. Born in Argentina and raised in Switzerland, Mumenthaler filmography include two feature-length films and several short films. Back to Stay her first feature-length film was a major critical success and collected many awards in film festivals all around the world."
+    },
+    "Akira Kurosawa": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
+      "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor."
+    },
+    "David Miller": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "David Miller may refer to:"
+    },
+    "Walter Lang": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg/500px-Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg",
+      "bio": "Walter Richard Lang (August 10, 1896 – February 7, 1972) was an American film director."
+    },
+    "Takeshi Kitano": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Takeshi_Kitano_2017.jpg/500px-Takeshi_Kitano_2017.jpg",
+      "bio": "Takeshi Kitano (北野 武, Kitano Takeshi; born January 18, 1947), also known as Beat Takeshi (ビートたけし, Bīto Takeshi) in Japan, is a Japanese comedian, actor, and filmmaker. While he is known primarily as a comedian and TV host in his native Japan, he is better known abroad for his work as a filmmaker and actor as well as TV host. During his time as a student at Meiji University, he became a comedian at the strip theater France-za in Asakusa, Tokyo."
+    },
+    "Joshua Logan": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Joshua Lockwood Logan III (October 5, 1908 – July 12, 1988) was an American theatre and film director, playwright and screenwriter, and actor. He shared a Pulitzer Prize for co-writing the musical South Pacific and was involved in writing other musicals."
+    },
+    "Tai Katô": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Joseph L. Mankiewicz": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Joseph_L._Mankiewicz_%281950%29.jpg/500px-Joseph_L._Mankiewicz_%281950%29.jpg",
+      "bio": "Joseph Leo Mankiewicz ( MANG-kə-wits; February 11, 1909 – February 5, 1993) was an American filmmaker. A four-time Academy Award winner, he is best known for his witty and literate dialogue and his preference for voice-over narration and narrative flashbacks. Also known as an actor's director, Mankiewicz directed several prominent actors, including Bette Davis, Gene Tierney, Humphrey Bogart and Elizabeth Taylor, to several of their memorable onscreen performances."
+    },
+    "Éric Rohmer": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eric_Rohmer_cinematheque_2004-04.jpg/500px-Eric_Rohmer_cinematheque_2004-04.jpg",
+      "bio": "Jean Marie Maurice Schérer or Maurice Henri Joseph Schérer, known as Éric Rohmer (French: [eʁik ʁomɛʁ]; 21 March 1920 – 11 January 2010), was a French film director, film critic, journalist, novelist, screenwriter, and teacher. Rohmer was the last of the post-World War II French New Wave directors to become established. He edited the influential film journal Cahiers du cinéma from 1957 to 1963, while most of his colleagues—among them Jean-Luc Godard and François Truffaut—were making the transition from critics to filmmakers and gaining international attention."
+    },
+    "Kinuyo Tanaka": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kinuyo_Tanaka_in_Jinsei_no_onimotsu_1935.jpg/500px-Kinuyo_Tanaka_in_Jinsei_no_onimotsu_1935.jpg",
+      "bio": "Kinuyo Tanaka (Japanese: 田中 絹代, Hepburn: Tanaka Kinuyo; 29 November 1909 – 21 March 1977) was a Japanese actress and film director. She had a career lasting over 50 years with more than 250 acting credits, but was best known for her 15 films with director Kenji Mizoguchi, such as The Life of Oharu (1952) and Ugetsu (1953). With her 1953 directorial debut, Love Letter, Tanaka became the second Japanese woman to direct a film, after Tazuko Sakane."
+    },
+    "Lucrecia Martel": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lucrecia_Martel_at_the_presentation_of_the_Audioteca_at_the_National_Library%2C_2015.jpg/500px-Lucrecia_Martel_at_the_presentation_of_the_Audioteca_at_the_National_Library%2C_2015.jpg",
+      "bio": "Lucrecia Martel (born December 14, 1966) is an Argentine film director, screenwriter, and producer whose feature films have frequented Cannes, Venice, Berlin, Toronto, and many other international film festivals. Film scholar Paul Julian Smith wrote in 2015 that she is \"arguably the most critically acclaimed auteur in Spanish-language art cinema outside Latin America\" and that her \"transnational auteurism and demanding features have earned her a hard-won reputation in the world art cinema festival circuit\". Similarly, film scholar Haden Guest has called her \"one of the most prodigiously talented filmmakers in contemporary world cinema\", and film scholar David Oubiña has called her body of work a \"rare perfection\"."
+    },
+    "Luchino Visconti": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
+      "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
+    },
+    "Nagisa Oshima": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nagisa_Oshima_at_Cannes_in_2000.jpg",
+      "bio": "Nagisa Ōshima (大島 渚, Ōshima Nagisa; March 31, 1932 – January 15, 2013) was a Japanese film director, writer, and left-wing activist who is best known for his fiction films, of which he directed 23 features in a career spanning from 1959 to 1999. He is regarded as one of the greatest Japanese directors of all time, and as one of the most important figures of the Japanese New Wave (Nūberu bāgu), alongside Shōhei Imamura. His film style was bold, innovative and provocative."
+    },
+    "Otto Preminger": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
+      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
+    },
+    "Lee Chang-dong": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lee_Chang-dong_2010.jpg/500px-Lee_Chang-dong_2010.jpg",
+      "bio": "Lee Chang-dong (Korean: 이창동; born July 4, 1954) is a South Korean film director, screenwriter, and novelist. He has directed six feature films: Green Fish (1997), Peppermint Candy (1999), Oasis (2002), Secret Sunshine (2007), Poetry (2010), and Burning (2018). Burning became the first Korean film to make it to the 91st Academy Awards' final nine-film shortlist for Best Foreign Language Film."
+    },
+    "Naomi Kawase": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Naomi_Kawase_at_the_78th_Locarno_Film_Festival_in_2025_06.jpg/500px-Naomi_Kawase_at_the_78th_Locarno_Film_Festival_in_2025_06.jpg",
+      "bio": "Naomi Kawase (; Japanese: 河瀨直美, romanized: Kawase Naomi; born 30 May 1969) is a Japanese film director. She was also briefly known as Naomi Sento (仙頭直美, Sentō Naomi), with her former husband's surname. Many of her works have been documentaries, including Embracing, about her search for the father who abandoned her as a child, and Katatsumori, about the grandmother who raised her."
+    },
+    "Wim Wenders": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wim_Wenders_at_Berlinale_2026.jpg/500px-Wim_Wenders_at_Berlinale_2026.jpg",
+      "bio": "Wim Wenders (German: [ˈvɪm ˈvɛndɐs]; born Wilhelm Ernst Wenders; 14 August 1945) is a German filmmaker and photographer. Regarded as a major figure of New German Cinema and widely considered an auteur director, he has received various accolades, including a BAFTA Award, a Palme d'Or, a Golden Lion, and an Honorary Golden Bear, in addition to nominations for four Academy Awards and a Grammy Award. Wenders made his feature film debut with Summer in the City (1970)."
+    },
+    "João Mário Grilo": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "João Mário Lourenço Bagão Grilo (born 8 November 1958) is a Portuguese film director, author and professor, born in Figueira da Foz. He attended economics at the University of Coimbra but dropped out. In 1983, he graduated in sociology at Lisbon's ISCTE and in 1994 earned a Ph.D."
+    },
+    "Pedro Cabeleira": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Robert Kramer e Philip J. Spinelli": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Robert Altman": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Robert_Altman_-_1983.jpg/500px-Robert_Altman_-_1983.jpg",
+      "bio": "Robert Bernard Altman ( AWLT-mən; February 20, 1925 – November 20, 2006) was an American filmmaker. He is considered an enduring figure from the New Hollywood era, known for directing subversive and satirical films with overlapping dialogue and ensemble casts. Over his career he received numerous accolades including an Academy Honorary Award, two BAFTAs, a Primetime Emmy Award and a Golden Globe as well as nominations for seven competitive Academy Awards."
+    },
+    "Alexander Mackendrick": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Alexander Mackendrick (September 8, 1912 – December 22, 1993) was an American-born Scottish film director and screenwriter. He directed nine feature films between 1949 and 1967, before retiring from filmmaking to become an influential professor at the California Institute of the Arts. Born to Scottish immigrant parents in Boston, he was raised in Glasgow from the age of six."
+    },
+    "Edward Yang": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E7%AC%AC31%E5%B1%86%E9%87%91%E9%A6%AC%E3%80%8C%E6%9C%80%E4%BD%B3%E5%8E%9F%E8%91%97%E5%8A%87%E6%9C%AC%E7%8D%8E%E3%80%8D%E5%BE%97%E4%B8%BB%E6%A5%8A%E5%BE%B7%E6%98%8C.jpg",
+      "bio": "Edward Yang (Chinese: 楊德昌; pinyin: Yáng Déchāng; November 6, 1947 – June 29, 2007) was a Taiwanese and American filmmaker. He rose to prominence as a pioneer in the Taiwanese New Wave of the 1980s, alongside fellow auteurs Hou Hsiao-hsien and Tsai Ming-liang. Yang was regarded as one of the greatest filmmakers of Taiwanese cinema."
+    },
+    "Apichatpong Weerasethakul": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
+      "bio": "Apichatpong Weerasethakul (Thai: อภิชาติพงศ์ วีระเศรษฐกุล; RTGS: Aphichatphong Wirasetthakun; IPA: [ʔà.pʰí.tɕʰâːt.pʰōŋ wīː.rá.sèːt.tʰà.kūn], born 16 July 1970) is a Thai independent film director, screenwriter, film producer and Professor at Tama Art University in Tokyo. Working outside the strict confines of the Thai film studio system, Apichatpong has directed several features and dozens of short films. Friends and fans sometimes refer to him as \"Joe\" (a nickname that he, like many with similarly long Thai names, has adopted out of convenience)."
+    },
+    "Jafar Panahi": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg/500px-Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg",
+      "bio": "Jafar Panâhi (Persian: جعفر پناهی, [d͡ʒæˈfæɾ pænɒːˈhiː]) (born 11 July 1960) is an Iranian filmmaker and actor. He is known internationally for his artistic contributions to post-1979 Revolution Iranian cinema, and he has been associated with the Iranian New Wave. His work, rooted in neorealism and centered on the lives of women, children, and the marginalized, constitutes a critical portrait of the social, political, and gendered structures of contemporary Iran."
+    },
+    "Miguel Tavares e Letícia Costelha": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Anna Muylaert": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Que_Horas_Ela_Volta%3F_no_Lan%C3%A7amento_do_Cineclube_Ambiente_Cultura_%2822539340222%29.jpg/500px-Que_Horas_Ela_Volta%3F_no_Lan%C3%A7amento_do_Cineclube_Ambiente_Cultura_%2822539340222%29.jpg",
+      "bio": "Ana Luiza Machado da Silva Muylaert (born 21 April 1964), known professionally as Anna Muylaert, is a Brazilian film and television director, producer and screenwriter."
+    },
+    "Nanni Moretti": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nanni_Moretti_Cannes_2011.jpg",
+      "bio": "Giovanni \"Nanni\" Moretti (Italian pronunciation: [ˈnanni moˈretti]; born 19 August 1953) is an Italian film director, producer, screenwriter, and actor. He is most known for his Palme d'Or winner film The Son's Room (2001) and his Special Jury Prize winner film Sweet Dreams (1981). He is also the recipient of three David di Donatello Award for Best Film, for: Caro diario in 1994, The Son's Room in 2001, and The Caiman in 2006."
+    },
+    "Nóemia Delgado": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Luís Filipe Rocha": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Luís Filipe Rocha (born 16 November 1947) is a Portuguese film director, screenwriter and actor. He has directed ten films since 1976. His film Cerromaior was screened in the Un Certain Regard section at the 1981 Cannes Film Festival."
+    },
+    "Louis Malle": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Identite-LouisMalle-1958-Sacem.png/500px-Identite-LouisMalle-1958-Sacem.png",
+      "bio": "Louis Marie Malle (French: [lwi maʁi mal]; 30 October 1932 – 23 November 1995) was a French filmmaker who worked in France and Hollywood. Described as \"eclectic\" and \"difficult to pin down\", his works often depict provocative or controversial subject matter. Malle's most famous works include the crime thriller Elevator to the Gallows (1958), the romantic drama The Lovers (1958), the World War II drama Lacombe, Lucien (1974), the period drama Pretty Baby (1978), the romantic crime film Atlantic City (1980), the dramedy My Dinner with Andre (1981), and the autobiographical Au revoir les enfants (1987)."
+    },
+    "Werner Herzog": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg/500px-Werner_Herzog_Venice_Film_Festival_2025.jpg",
+      "bio": "Werner Herzog (German: [ˈvɛʁnɐ ˈhɛʁtsoːk]; né Stipetić; born 5 September 1942) is a German filmmaker, actor, opera director, and author. Regarded as a pioneer of New German Cinema, his films often feature ambitious protagonists with impossible dreams, people with unusual talents in obscure fields, or individuals in conflict with nature. His film-making process involves avoiding storyboards, emphasizing improvisation, and placing his cast and crew into real situations mirroring those in the film on which they are working."
+    },
+    "Participantes da Oficina de Realização": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Cheik Doukouré": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Cheik Doukouré (born 1943) is a Guinean filmmaker. He is notable as the director of critically acclaimed film Le Ballon d'Or (The Golden Ball). Besides film director, Doukouré is also actor, screenwriter and film producer."
+    },
+    "Falcão Nhaga": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Alain Resnais": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Identite-AlainResnais-1959-Sacem.png/500px-Identite-AlainResnais-1959-Sacem.png",
+      "bio": "Alain Resnais (French: [alɛ̃ ʁɛnɛ]; 3 June 1922 – 1 March 2014) was a French film director and screenwriter whose career extended over more than six decades. His films frequently explore the relationship between consciousness, memory, and the imagination, and he was noted for devising innovative formal structures for his narratives. After training as a film editor in the mid-1940s, Resnais went on to direct short films including Night and Fog (1956), an influential documentary about the Nazi concentration camps."
+    },
+    "Fernando Lopes": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Fernando Lopes may refer to:\n\nFernando Lopes (filmmaker) (1935–2012), Portuguese film director\nFernando Lopes Alcântara (born 1987), Brazilian footballer\nFernando Lopes-Graça (1906–1994), Portuguese composer and conductor\nFernão Lopes (c."
+    },
+    "Athina Rachel Tsangari": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Athina_Rachel_Tsangari_%28cropped%29.jpg",
+      "bio": "Athina Rachel Tsangari (Greek: Αθηνά Ραχήλ Τσαγγάρη, IPA: [aθiˈna raˈçil t͡saŋˈɡari]) (born April 2, 1966) is a Greek filmmaker. Her most notable works include her feature films, The Slow Business of Going (2000), Attenberg (2010) and Chevalier (2015) as well as the co-production of Yorgos Lanthimos' films Kinetta (2005), Dogtooth (2009), and Alps (2011). In her versatile work for cinema, she has also founded and been director of the Cinematexas International Short Film Festival."
+    },
+    "Franco Piavoli": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Franco Piavoli (born 21 June 1933) is an Italian film director, screenwriter, and producer."
+    },
+    "Joaquim Pedro de Andrade": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
+    },
+    "F. J. Ossang": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Sandro Aguilar": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Catarina Mourão": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "William Klein": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Bill, Will, Willy, Willie or William Klein may refer to:"
+    },
+    "Roy Ward Baker": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Roy Ward Baker (born Roy Horace Baker; 19 December 1916 – 5 October 2010) was an English film director. He was known professionally as Roy Baker until 1967, when he adopted Roy Ward Baker as his screen credit."
+    },
+    "Jocelyn Saab": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Alberto Seixas": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Claude Barras": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Barras_2017_%28cropped%29.jpg",
+      "bio": "Claude Barras (born 1973) is a Swiss film director, producer, and writer. Barras was born in Sierre, Switzerland. He studied illustration and computer graphics at Emile Cohl School in Lyon and 3D infographics at ECAL."
+    },
+    "Don Owen": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Don Owen may refer to:"
+    },
+    "Ida Lupino": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ida_Lupino_Cavalcade_of_America.JPG/500px-Ida_Lupino_Cavalcade_of_America.JPG",
+      "bio": "Ida Lupino (4 February 1918 – 3 August 1995) was a British-American actress, director, writer, and producer. Throughout her 48-year career, she appeared in 59 films and directed eight, working primarily in the United States, where she became a citizen in 1948. She is widely regarded as the most prominent female filmmaker working in the 1950s during the Hollywood studio system."
+    },
+    "George Butler e Robert Fiore": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "John Woo": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/02/John_Woo_Cannes_2005.jpg",
+      "bio": "John Woo Yu-sen  (Chinese: 吳宇森; born 22 September 1946) is a Hong Kong filmmaker, known as a highly influential figure in the action film genre. The recipient of various accolades, including a Hong Kong Film Award for Best Picture, Best Director, and Best Editing, as well as a Golden Horse Award, an Asia Pacific Screen Award and a Saturn Award, he is regarded as a pioneer of heroic bloodshed films and the gun fu genre in Hong Kong action cinema. He is known for his highly chaotic \"bullet ballet\" action sequences, stylized imagery, Mexican standoffs, frequent use of slow motion and allusions to wuxia, film noir and Western cinema."
+    },
+    "Kon Ichikawa": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kon_Ichikawa.jpg",
+      "bio": "Kon Ichikawa (市川 崑, Ichikawa Kon; 20 November 1915 – 13 February 2008) was a Japanese film director and screenwriter. His work displays a vast range in genre and style, from the anti-war films The Burmese Harp (1956) and Fires on the Plain (1959), to the documentary Tokyo Olympiad (1965), which won two BAFTA Film Awards, and the 19th-century revenge drama An Actor's Revenge (1963). His film Odd Obsession (1959) won the Jury Prize at the 1960 Cannes Film Festival."
+    },
+    "Marcelo Gomes": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Marcelo Gomes may refer to:"
+    },
+    "Volker Schlöndorff": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Volker_Schloendorff_Lodz_Poland_November29_2009_Fot_Mariusz_Kubik_05.jpg",
+      "bio": "Volker Schlöndorff (German pronunciation: [ˈfɔlkɐ  ˈʃløːndɔʁf] ; born 31 March 1939) is a German film director, screenwriter and producer who has worked in Germany, France and the United States. He was a prominent member of the New German Cinema of the late 1960s and early 1970s. He received an Oscar as well as the Palme d'Or at the 1979 Cannes Film Festival for The Tin Drum (1979), the film version of the novel by Nobel Prize-winning author Günter Grass."
+    },
+    "Julia Ocker": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Katya Mikheeva": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Jan Míka": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Nazanin Sobhan Sarbandi": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Salomé Hamman": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Héloïse Courtois, Chloé Plat, Victori Jalabert e Adèle Raigneau": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Kasia Adamik e Agnieszka Holland": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Barbara Hammer": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ArtAndFeminismNYC-Barbara_Hammer.jpg/500px-ArtAndFeminismNYC-Barbara_Hammer.jpg",
+      "bio": "Barbara Jean Hammer (May 15, 1939 – March 16, 2019) was an American feminist film director, producer, writer, and cinematographer. She is known for being one of the pioneers of the lesbian film genre, and her career spanned over 50 years. Hammer is known for having created experimental films dealing with women's issues such as gender roles, lesbian relationships, coping with aging, and family life."
+    },
+    "Marie Losier": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Marie_Losier.jpg/500px-Marie_Losier.jpg",
+      "bio": "Marie Losier (born 1972 in France) is a filmmaker and curator who has worked in New York City for 25 years and has shown her films and videos at museums, galleries, biennials and festivals. Losier studied literature at the University of Nanterre (France, BA, 1995) and Fine Arts at Hunter College in New York City (MFA, 2003). She has made a number of film portraits of avant-garde directors, musicians and composers, such as the Kuchar brothers, Guy Maddin, Richard Foreman, Tony Conrad, Genesis P-Orridge, Alan Vega, Peter Hristoff and Felix Kubin."
+    },
+    "Tota Alves": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Frederike Migom": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Frederike Migom (born 1985), is a Belgian actress, screenwriter and director. She is best known for the award-winning films Binti, Nkosi coiffure and Malakim."
+    },
+    "Hugh Hudson": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alan_parker%2C_Hugh_Hudson_and_L%C3%A9olo_Victor-Pujebet~2.jpg/500px-Alan_parker%2C_Hugh_Hudson_and_L%C3%A9olo_Victor-Pujebet~2.jpg",
+      "bio": "Hugh Hudson (25 August 1936 – 10 February 2023) was an English film director. He is known for directing the 1981 Academy Award and BAFTA Award Best Picture Chariots of Fire, after beginning his career making documentaries and television commercials. He continued to direct commercials while making films, which included the British Airways face advertisement from 1989 made in collaboration with London-based advertising agency Saatchi & Saatchi."
+    },
+    "Alê Abreu": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Al%C3%AA_Abreu.jpg",
+      "bio": "Alê Abreu (born March 6, 1971) is a Brazilian film director, screenwriter, character animator, film editor and producer. Sírius, his first short film, debuted at the 1993 Anima Mundi as the only Brazilian animation that year. It won the Best Film Award at the Festival de Cine para Niños y Jovenes and was also screened at the Mostra Internacional de Cinema São Paulo and at the section Animation for Children of the Hiroshima International Animation Festival."
+    },
+    "Bob Fosse": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bob_Fosse_1963_%28cropped%29.jpg",
+      "bio": "Robert Louis Fosse ( ; June 23, 1927 – September 23, 1987) was an American choreographer, dancer, actor, filmmaker, and stage director. He is known for his work on stage and screen, and was arguably the most influential figure in the field of jazz dance in the twentieth century. He received numerous accolades including an Academy Award, a BAFTA Award, three Primetime Emmy Awards, nine Tony Awards, and the Palme d'Or."
+    },
+    "Mira Nair": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mira_Nair.jpg",
+      "bio": "Mira Nair (Punjabi: Mīrā Nayyar; born 15 October 1957) is an Indian-American filmmaker. She has received two prizes from the Cannes Film Festival and four from the Venice Film Festival, as well as nominations for an Academy Award, two BAFTA Awards, a Golden Globe, and two César Awards. Nair began her career making documentaries, but went on to make feature films."
+    },
+    "Leos Carax": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Leos_Carax_Cannes_2012.jpg/500px-Leos_Carax_Cannes_2012.jpg",
+      "bio": "Alex Christophe Dupont (born 22 November 1960), best known as Leos Carax (French: [leɔs kaʁaks]), is a French film director, critic, and writer. Carax is noted for his poetic style and his tortured depictions of love. His first major work was Boy Meets Girl (1984), and his notable works include Les Amants du Pont-Neuf (1991), Pola X (1999), Holy Motors (2012) and Annette (2021)."
+    },
+    "Baz Luhrmann": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Baz_Luhrmann_photo.jpg/500px-Baz_Luhrmann_photo.jpg",
+      "bio": "Bazmark Anthony \"Baz\" Luhrmann  (born Mark Anthony Luhrmann; 17 September 1962) is an Australian film director, producer, writer and actor whose various projects extend from film and television into opera, theatre, music and the recording industries. He is regarded by some as a contemporary example of an auteur for his style and deep involvement in the writing, directing, design and musical components of all his work. He is the most commercially successful Australian director, and four of his films are in the top ten highest worldwide grossing Australian films ever."
+    },
+    "Tatyana Okruzhnova": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Jang Seong-Ji": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Chantal Peten": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Manri Kim": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Diek Grobler": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Mati Diop": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mati_Diop_with_Golden_Bear_of_Berlinale_2024-2.jpg/500px-Mati_Diop_with_Golden_Bear_of_Berlinale_2024-2.jpg",
+      "bio": "Mati Diop (born 22 June 1982) is a French film director and actress. She won the Grand Prix at the 2019 Cannes Film Festival for her feature film debut, the supernatural romantic drama Atlantics, and the Golden Bear at the 2024 Berlin International Film Festival for her second feature film, the documentary Dahomey. As an actress, she is known for the drama film 35 Shots of Rum (2008)."
+    },
+    "George Lucas": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
+      "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
+    },
+    "Carla Simón": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carla_Sim%C3%B3n_at_2025_Cannes_Red_Carpet_for_Romer%C3%ADa_1.jpg/500px-Carla_Sim%C3%B3n_at_2025_Cannes_Red_Carpet_for_Romer%C3%ADa_1.jpg",
+      "bio": "Carla Simón Pipó (born 29 December 1986) is a Spanish film director. Most known for her films Summer 1993 (2017) and Alcarràs (2022), for the latter she received the Golden Bear at the 72nd Berlin International Film Festival."
+    },
+    "Ana Pérez-Quiroga": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "François Ozon": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
+    },
+    "Kristoffer Borgli": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kristoffer_Borgli.jpg/500px-Kristoffer_Borgli.jpg",
+      "bio": "Kristoffer Borgli (born 1985) is a Norwegian film director and screenwriter. He wrote and directed the films Sick of Myself (2022), Dream Scenario (2023), and The Drama (2026)."
+    },
+    "Mario Martone": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mario_Martone-8102.jpg/500px-Mario_Martone-8102.jpg",
+      "bio": "Mario Martone (born 20 November 1959) is an Italian filmmaker. He has directed more than 30 films since 1985. His films have been shown in prestigious international film festivals over the world."
+    },
+    "António da Cunha Telles": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "António Cohen da Cunha Telles (26 February 1935 – 23 November 2022) was a Portuguese film director and producer."
+    },
+    "Jim Jarmusch": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
+      "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
+    },
+    "Andrei Tarkovsky": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
+      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
+    },
+    "Federico Fellini": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Federico_Fellini_010.jpg/500px-Federico_Fellini_010.jpg",
+      "bio": "Federico Fellini (Italian: [fedeˈriːko felˈliːni]; 20 January 1920 – 31 October 1993) was an Italian film director and screenwriter. He is known for his distinctive style, which blends fantasy and baroque images with earthiness. He is recognized as one of the greatest and most influential filmmakers of all time."
+    },
+    "Ingmar Bergman": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
+      "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
+    },
+    "Jean-Luc Godard": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
+      "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
+    },
+    "Pauline Loquès": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Stillz": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Claude Jutra": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Claude Jutra (French pronunciation: [klod ʒytʁa]; March 11, 1930 – November 5, 1986) was a Canadian actor, film director, and screenwriter. The Prix Jutra, and the Academy of Canadian Cinema and Television's Claude Jutra Award, were named in his honour because of his importance in Quebec cinema history. The awards were renamed in 2016, as were streets named for him, following the publication of allegations that he had sexually abused children during his lifetime."
+    },
+    "Amin Motallebzadeh": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Aiste Zegulyte": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Mark Jenkin": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mark_Jenkin_at_82nd_Venice_International_Film_Festival-1_%28cropped2%29.jpg/500px-Mark_Jenkin_at_82nd_Venice_International_Film_Festival-1_%28cropped2%29.jpg",
+      "bio": "Mark Jenkin (born 1976) is a Cornish director, editor, screenwriter, cinematographer and producer. Most known for Bait (2019), which earned him a BAFTA Award for Outstanding Debut by a British Writer, Director or Producer."
+    },
+    "Lucia Seles": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Nicola Fausto Neroni": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Manuel Costa e Silva, António da Cunha Telles, Acácio de Almeida": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    }
+  },
   "errors": []
 };
