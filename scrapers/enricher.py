@@ -793,7 +793,7 @@ def save_wiki_cache(cache):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 def wiki_director(name):
-    """Fetches director photo + short bio from Wikipedia."""
+    """Fetches director photo + short bio from Wikipedia, with Wikidata fallback for missing photos."""
     params = urllib.parse.urlencode({
         "action":     "query",
         "titles":     name,
@@ -812,13 +812,86 @@ def wiki_director(name):
     pages = data["query"]["pages"]
     page = next(iter(pages.values()))
     if page.get("ns") == -1:  # missing page
-        return None, None
-    photo   = page.get("thumbnail", {}).get("source")
-    extract = page.get("extract", "").strip()
-    # Trim extract to first 3 sentences max
-    sentences = re.split(r'(?<=[.!?])\s+', extract)
-    bio = " ".join(sentences[:3]).strip() or None
+        photo, bio = None, None
+    else:
+        photo   = page.get("thumbnail", {}).get("source")
+        extract = page.get("extract", "").strip()
+        sentences = re.split(r'(?<=[.!?])\s+', extract)
+        bio = " ".join(sentences[:3]).strip() or None
+
+    # Fallback to Wikidata when Wikipedia has no photo
+    if not photo:
+        wd_photo, wd_bio = wikidata_director(name)
+        if wd_photo:
+            photo = wd_photo
+        if not bio and wd_bio:
+            bio = wd_bio
+
     return photo, bio
+
+
+def wikidata_director(name):
+    """Fetches director photo from Wikidata/Wikimedia Commons."""
+    try:
+        # Search Wikidata for the person
+        search_params = urllib.parse.urlencode({
+            "action": "wbsearchentities", "search": name,
+            "language": "en", "type": "item", "format": "json", "limit": 3,
+        })
+        req = urllib.request.Request(
+            f"https://www.wikidata.org/w/api.php?{search_params}",
+            headers={"User-Agent": "cinelisboa/1.0"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as r:
+            results = json.loads(r.read()).get("search", [])
+
+        # Find best match: label matches name (case-insensitive)
+        entity_id = None
+        for r in results:
+            if r.get("label", "").lower() == name.lower():
+                entity_id = r["id"]
+                break
+        if not entity_id and results:
+            entity_id = results[0]["id"]
+        if not entity_id:
+            return None, None
+
+        # Fetch entity claims
+        entity_params = urllib.parse.urlencode({
+            "action": "wbgetentities", "ids": entity_id,
+            "props": "claims|descriptions", "languages": "en", "format": "json",
+        })
+        req = urllib.request.Request(
+            f"https://www.wikidata.org/w/api.php?{entity_params}",
+            headers={"User-Agent": "cinelisboa/1.0"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as r:
+            entity_data = json.loads(r.read())
+        entity = entity_data["entities"][entity_id]
+        claims = entity.get("claims", {})
+        description = entity.get("descriptions", {}).get("en", {}).get("value")
+
+        # P18 = image
+        if "P18" not in claims:
+            return None, description
+        filename = claims["P18"][0]["mainsnak"]["datavalue"]["value"]
+
+        # Resolve Commons URL via MediaWiki API
+        img_params = urllib.parse.urlencode({
+            "action": "query", "titles": f"File:{filename}",
+            "prop": "imageinfo", "iiprop": "url", "iiurlwidth": 400, "format": "json",
+        })
+        req = urllib.request.Request(
+            f"https://commons.wikimedia.org/w/api.php?{img_params}",
+            headers={"User-Agent": "cinelisboa/1.0"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as r:
+            img_data = json.loads(r.read())
+        img_page = next(iter(img_data["query"]["pages"].values()))
+        photo = img_page.get("imageinfo", [{}])[0].get("thumburl")
+        return photo, description
+    except Exception:
+        return None, None
 
 def build_directors(movies):
     """Builds directors dict from movies with director info. Fetches Wikipedia data."""
