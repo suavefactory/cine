@@ -24,6 +24,7 @@ from batalha    import scrape as scrape_batalha
 from trindade   import scrape as scrape_trindade
 from ideal         import scrape as scrape_ideal
 from campo_alegre  import scrape as scrape_campo_alegre
+from culturgest    import scrape as scrape_culturgest
 from enricher   import enrich, build_directors
 
 SCRAPERS = [
@@ -35,6 +36,7 @@ SCRAPERS = [
     ("Trindade",       "trindade",       scrape_trindade),
     ("Cinema Ideal",   "ideal",          scrape_ideal),
     ("Campo Alegre",   "campo_alegre",   scrape_campo_alegre),
+    ("Culturgest",     "culturgest",     scrape_culturgest),
 ]
 
 def norm(text):
