@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-22T11:05:22.416345+00:00",
+  "generated": "2026-04-22T11:29:23.152707+00:00",
   "movies": [
     {
       "id": "sao_jorge_10473",
@@ -1483,13 +1483,36 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_a-dancarina-1957",
+      "title": "A Dançarina",
+      "director": "Hiroshi Shimizu",
+      "year": 1957,
+      "duration": 96,
+      "poster": "https://medeiafilmes.com/uploads/library/shimizu_tardio_cartaz-1448x20481.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-dancarina-1957",
+      "sessions": [
+        {
+          "date": "2026-04-22",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_mektoub-meu-amor-canto-segundo-2025",
       "title": "Mektoub, Meu Amor: Canto Segundo",
       "director": "Abdellatif Kechiche",
-      "year": 2025,
+      "year": 2019,
       "duration": 134,
-      "poster": "https://medeiafilmes.com/uploads/library/mektoub_meu_amor_poster_digital.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/4/4/7/2/434472-mektoub-my-love-intermezzo-0-500-0-750-crop.jpg?v=f6b28258f8",
       "genres": [
+        "Comedy",
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/mektoub-meu-amor-canto-segundo-2025",
@@ -1549,29 +1572,10 @@ window.CINEMA_DATA = {
           "time": "21:30",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_a-dancarina-1957",
-      "title": "A Dançarina",
-      "director": "Hiroshi Shimizu",
-      "year": 1957,
-      "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/shimizu_tardio_cartaz-1448x20481.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-dancarina-1957",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-28",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
+      ],
+      "rating": 3.0,
+      "plot": "Summer is coming to an end, Amin and his friends meet Marie, a young parisian student.",
+      "country": "France"
     },
     {
       "id": "nimas_la-grazia-2025",
@@ -1773,6 +1777,28 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
+      "id": "nimas_o-mentor-2012",
+      "title": "O Mentor",
+      "director": "Paul Thomas Anderson",
+      "year": 2012,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/5/1/2/52512-the-master-2012-0-500-0-750-crop.jpg?v=7cac18ee61",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-mentor-2012",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.98,
+      "plot": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_aprender-2024",
       "title": "Aprender",
       "director": "Claire Simon",
@@ -1867,64 +1893,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_culpado-inocente-monstro-2023",
-      "title": "Culpado – Inocente – Monstro",
-      "director": "Hirokazu Kore-Eda",
-      "year": 2023,
-      "duration": 127,
-      "poster": "https://medeiafilmes.com/uploads/library/kaibutsu-2023-japan.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/culpado-inocente-monstro-2023",
-      "sessions": [
-        {
-          "date": "2026-04-23",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-principe-e-a-corista-1957",
-      "title": "O Príncipe e a Corista",
-      "director": "Laurence Olivier",
-      "year": 1957,
-      "duration": 115,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodkxytu5mdktnjg5my00zje2lthhowitmtiyyzmxy2rjzdizxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-principe-e-a-corista-1957",
-      "sessions": [
-        {
-          "date": "2026-04-23",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-11",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-mentor-2012",
-      "title": "O Mentor",
-      "director": "Paul Thomas Anderson",
-      "year": 2012,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/the-master_cartel_webbar.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-mentor-2012",
-      "sessions": [
-        {
-          "date": "2026-04-23",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_historias-do-vale-bom-2025",
       "title": "Histórias do Vale Bom",
       "director": "José Luis Guerin",
@@ -1944,48 +1912,56 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-inadaptados-1961",
-      "title": "Os Inadaptados",
-      "director": "John Huston",
-      "year": 1961,
-      "duration": 125,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bntvkmwrmmdytnjzmny00owe4lwe2mgqtzwjhzjuwntu4ytzhxkeyxkfqcgc_v1_fmjpg_uy2806.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-inadaptados-1961",
+      "id": "nimas_culpado-inocente-monstro-2023",
+      "title": "Culpado – Inocente – Monstro",
+      "director": "Hirokazu Kore-Eda",
+      "year": 2023,
+      "duration": 127,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/7/0/3/0/947030-monster-0-500-0-750-crop.jpg?v=9787f75532",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/culpado-inocente-monstro-2023",
       "sessions": [
         {
-          "date": "2026-04-24",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-05",
-          "time": "19:00",
+          "date": "2026-04-23",
+          "time": "12:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.34,
+      "plot": "After an outburst at school involving her son, a concerned single mother demands answers, triggering a sequence of deepening suspicion and turmoil.",
+      "country": "Japan"
     },
     {
-      "id": "nimas_a-culpa-foi-do-macaco-1952",
-      "title": "A Culpa Foi do Macaco",
-      "director": "Howard Hawks",
-      "year": 1952,
-      "duration": 97,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmwy1ztgzmgytmwqyoc00nde5lwjintqtm2m1ztdizti1mjhixkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-culpa-foi-do-macaco-1952",
+      "id": "nimas_o-principe-e-a-corista-1957",
+      "title": "O Príncipe e a Corista",
+      "director": "Laurence Olivier",
+      "year": 1957,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-principe-e-a-corista-1957",
       "sessions": [
         {
-          "date": "2026-04-24",
-          "time": "17:00",
+          "date": "2026-04-23",
+          "time": "19:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-05-04",
-          "time": "13:00",
+          "date": "2026-05-11",
+          "time": "15:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.17,
+      "plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+      "country": "UK"
     },
     {
       "id": "nimas_parasitas-2019",
@@ -1993,10 +1969,11 @@ window.CINEMA_DATA = {
       "director": "Bong Joon Ho",
       "year": 2019,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/download3.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-500-0-750-crop.jpg?v=8f5653f710",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Thriller",
+        "Comedy",
+        "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/parasitas-2019",
       "sessions": [
@@ -2005,7 +1982,10 @@ window.CINEMA_DATA = {
           "time": "19:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.53,
+      "plot": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "country": "South Korea"
     },
     {
       "id": "nimas_linha-fantasma-2017",
@@ -2013,9 +1993,10 @@ window.CINEMA_DATA = {
       "director": "Paul Thomas Anderson",
       "year": 2017,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/phantom-thread_8a33721b.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/3/8/4/335384-phantom-thread-0-500-0-750-crop.jpg?v=6b47f80ec7",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
       "link": "https://medeiafilmes.com/filmes/linha-fantasma-2017",
       "sessions": [
@@ -2029,26 +2010,66 @@ window.CINEMA_DATA = {
           "time": "17:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.17,
+      "plot": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+      "country": "USA"
     },
     {
-      "id": "nimas_o-gosto-do-sake-1962",
-      "title": "O Gosto do Saké",
-      "director": "Yasujiro Ozu",
-      "year": 1962,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/o_gosto_do_sake_poster_70x100_versao_2.jpg",
+      "id": "nimas_os-inadaptados-1961",
+      "title": "Os Inadaptados",
+      "director": "John Huston",
+      "year": 1961,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/1/2/45212-the-misfits-0-500-0-750-crop.jpg?v=db194cec22",
       "genres": [
+        "Western",
+        "Romance",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-gosto-do-sake-1962",
+      "link": "https://medeiafilmes.com/filmes/os-inadaptados-1961",
       "sessions": [
         {
-          "date": "2026-04-25",
-          "time": "18:00",
+          "date": "2026-04-24",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-05",
+          "time": "19:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.7,
+      "plot": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_a-culpa-foi-do-macaco-1952",
+      "title": "A Culpa Foi do Macaco",
+      "director": "Howard Hawks",
+      "year": 1952,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/8/37098-monkey-business-0-500-0-750-crop.jpg?v=9b72128d36",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-culpa-foi-do-macaco-1952",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-04",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.45,
+      "plot": "Research chemist Barnaby Fulton works on a fountain of youth pill for a chemical company. One of the labs chimps gets loose in the laboratory and mixes chemicals, but then pours the mix into the water cooler. When trying one of his own samples, washed down with water from the cooler, Fulton begins to act just like a twenty-year-old and believes his potion is working. Soon his wife and boss are also behaving like children.",
+      "country": "USA"
     },
     {
       "id": "nimas_projecto-global-2025",
@@ -2217,13 +2238,66 @@ window.CINEMA_DATA = {
       "country": "Spain"
     },
     {
+      "id": "nimas_o-gosto-do-sake-1962",
+      "title": "O Gosto do Saké",
+      "director": "Yasujiro Ozu",
+      "year": 1962,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cg/t1/wu/99/yLTJiofk4x6Q7qpCfEOazdpVglP-0-500-0-750-crop.jpg?v=6fb819a4c4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-gosto-do-sake-1962",
+      "sessions": [
+        {
+          "date": "2026-04-25",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.23,
+      "plot": "Widower Shuhei Hirayama's caretaker is his 24-year-old daughter, Michiko. Gradually, he comes to realize that Michiko should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_conta-comigo-1986",
+      "title": "Conta Comigo",
+      "director": "Rob Reiner",
+      "year": 1986,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/1/51821-stand-by-me-0-500-0-750-crop.jpg?v=b3163b5def",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/conta-comigo-1986",
+      "sessions": [
+        {
+          "date": "2026-04-26",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.19,
+      "plot": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+      "country": "USA"
+    },
+    {
       "id": "nimas_vamo-nos-amar-1960",
       "title": "Vamo-nos Amar",
       "director": "George Cukor",
       "year": 1960,
       "duration": 119,
-      "poster": "https://medeiafilmes.com/uploads/library/lets_make_love_xlg.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/5/37095-let-s-make-love-0-500-0-750-crop.jpg?v=2dd635579a",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
       "link": "https://medeiafilmes.com/filmes/vamo-nos-amar-1960",
       "sessions": [
         {
@@ -2236,7 +2310,10 @@ window.CINEMA_DATA = {
           "time": "16:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.25,
+      "plot": "When billionaire Jean-Marc Clement learns that he is to be satirized in an off-Broadway revue, he passes himself off as an actor playing him in order to get closer to the beautiful star of the show, Amanda Dell.",
+      "country": "USA"
     },
     {
       "id": "nimas_jogos-de-prazer-1997",
@@ -2244,10 +2321,9 @@ window.CINEMA_DATA = {
       "director": "Paul Thomas Anderson",
       "year": 1997,
       "duration": 155,
-      "poster": "https://medeiafilmes.com/uploads/library/4fe4528872094f994168fdcdf3ddb889.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/0/7/49007-boogie-nights-0-500-0-750-crop.jpg?v=57bef85dc6",
       "genres": [
-        "Drama",
-        "Comédia"
+        "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/jogos-de-prazer-1997",
       "sessions": [
@@ -2261,29 +2337,60 @@ window.CINEMA_DATA = {
           "time": "16:15",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.21,
+      "plot": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+      "country": "USA"
     },
     {
-      "id": "nimas_conta-comigo-1986",
-      "title": "Conta Comigo",
-      "director": "Rob Reiner",
-      "year": 1986,
-      "duration": 88,
-      "poster": "https://medeiafilmes.com/uploads/library/ems2.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/conta-comigo-1986",
+      "id": "nimas_o-pecado-mora-ao-lado-1955",
+      "title": "O Pecado Mora ao Lado",
+      "director": "Billy Wilder",
+      "year": 1955,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/1/46021-the-seven-year-itch-0-500-0-750-crop.jpg?v=d0861c1bf5",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-pecado-mora-ao-lado-1955",
       "sessions": [
         {
-          "date": "2026-04-26",
-          "time": "17:00",
+          "date": "2026-04-27",
+          "time": "20:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-05-09",
-          "time": "22:00",
+          "date": "2026-05-08",
+          "time": "21:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.31,
+      "plot": "When his family goes away for summer vacation, a hitherto faithful publishing executive with an overactive imagination is tempted by an attractive new neighbor.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_a-romancista-e-o-seu-filme-2023",
+      "title": "A Romancista e o Seu Filme",
+      "director": "Hong Sang-soo",
+      "year": 2023,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/0/4/9/4/0/1004940-in-our-day-0-500-0-750-crop.jpg?v=2fc4911ec1",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-romancista-e-o-seu-filme-2023",
+      "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.56,
+      "plot": "Recently returned to South Korea, an actress in her forties is staying with her friend and her cat. Meanwhile, an aging poet in declining health lives alone after the death of his own cat. One day, each receives a visit from a different young aspiring artist, who come equipped with questions about their careers and life itself.",
+      "country": "South Korea"
     },
     {
       "id": "nimas_contos-da-lua-vaga-1953",
@@ -2291,9 +2398,11 @@ window.CINEMA_DATA = {
       "director": "Kenji Mizoguchi",
       "year": 1953,
       "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/contos-da-lua-vaga.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/8/8/4/42884-ugetsu-0-500-0-750-crop.jpg?v=f955526e53",
       "genres": [
-        "Drama"
+        "Fantasy",
+        "Drama",
+        "Mystery"
       ],
       "link": "https://medeiafilmes.com/filmes/contos-da-lua-vaga-1953",
       "sessions": [
@@ -2302,7 +2411,10 @@ window.CINEMA_DATA = {
           "time": "18:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.26,
+      "plot": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
+      "country": "Japan"
     },
     {
       "id": "nimas_evil-does-not-exist-o-mal-nao-esta-aqui-2023",
@@ -2327,43 +2439,27 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_o-pecado-mora-ao-lado-1955",
-      "title": "O Pecado Mora ao Lado",
-      "director": "Billy Wilder",
-      "year": 1955,
-      "duration": 105,
-      "poster": "https://medeiafilmes.com/uploads/library/the-seven-year-itch-md-web.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-pecado-mora-ao-lado-1955",
+      "id": "nimas_como-se-conquista-um-milionario-1953",
+      "title": "Como se Conquista um Milionário",
+      "director": "Jean Negulesco",
+      "year": 1953,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/6/0/46360-how-to-marry-a-millionaire-0-500-0-750-crop.jpg?v=f22afec192",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/como-se-conquista-um-milionario-1953",
       "sessions": [
         {
-          "date": "2026-04-27",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-08",
-          "time": "21:30",
+          "date": "2026-04-28",
+          "time": "22:00",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_a-romancista-e-o-seu-filme-2023",
-      "title": "A Romancista e o Seu Filme",
-      "director": "Hong Sang-soo",
-      "year": 2023,
-      "duration": 93,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bn2i5ogvjmdctowi5yi00mzbmlwe4y2mtmwfknzjmodcxodqxxkeyxkfqcgc_v1_fmjpg_uy2000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-romancista-e-o-seu-filme-2023",
-      "sessions": [
-        {
-          "date": "2026-04-27",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
+      ],
+      "rating": 3.48,
+      "plot": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
+      "country": "USA"
     },
     {
       "id": "nimas_vicio-intrinseco-2014",
@@ -2371,10 +2467,11 @@ window.CINEMA_DATA = {
       "director": "Paul Thomas Anderson",
       "year": 2014,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/inherent-vice_3f1fc7ec_2.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-500-0-750-crop.jpg?v=342795552c",
       "genres": [
+        "Comedy",
         "Drama",
-        "Comédia"
+        "Mystery"
       ],
       "link": "https://medeiafilmes.com/filmes/vicio-intrinseco-2014",
       "sessions": [
@@ -2388,24 +2485,10 @@ window.CINEMA_DATA = {
           "time": "15:45",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_como-se-conquista-um-milionario-1953",
-      "title": "Como se Conquista um Milionário",
-      "director": "Jean Negulesco",
-      "year": 1953,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/how_to_marry_a_millionaire_1953_poster.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/como-se-conquista-um-milionario-1953",
-      "sessions": [
-        {
-          "date": "2026-04-28",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
+      ],
+      "rating": 3.61,
+      "plot": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+      "country": "USA"
     },
     {
       "id": "nimas_desengano-1952",
@@ -2413,8 +2496,11 @@ window.CINEMA_DATA = {
       "director": "Fritz Lang",
       "year": 1952,
       "duration": 105,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bymvlowrmoditzwfmny00yzk3lwe3nwytndfkzgyymzrinjfixkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/0/3/37103-clash-by-night-0-500-0-750-crop.jpg?v=0b35f860b1",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
       "link": "https://medeiafilmes.com/filmes/desengano-1952",
       "sessions": [
         {
@@ -2427,7 +2513,10 @@ window.CINEMA_DATA = {
           "time": "20:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.51,
+      "plot": "An embittered woman seeks escape in marriage, only to fall for her husband’s best friend.",
+      "country": "USA"
     },
     {
       "id": "nimas_sem-alternativa-2025",
@@ -2444,28 +2533,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-04-29",
           "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_louco-por-mulheres-1950",
-      "title": "Louco por Mulheres",
-      "director": "David Miller",
-      "year": 1950,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/love-happy-german-a1-r1981-1949.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/louco-por-mulheres-1950",
-      "sessions": [
-        {
-          "date": "2026-04-30",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-10",
-          "time": "13:00",
           "cinema": "nimas"
         }
       ]
@@ -2520,7 +2587,7 @@ window.CINEMA_DATA = {
       "director": "Akira Kurosawa",
       "year": 1965,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/6_o_barba_ruiva.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/9/6/49596-red-beard-0-500-0-750-crop.jpg?v=7af28735a1",
       "genres": [
         "Drama"
       ],
@@ -2531,7 +2598,61 @@ window.CINEMA_DATA = {
           "time": "14:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.41,
+      "plot": "Aspiring to an easy job as personal physician to a wealthy family, Noboru Yasumoto is disappointed when his first post after medical school takes him to a small country clinic under the gruff doctor Red Beard. Yasumoto rebels in numerous ways, but Red Beard proves a wise and patient teacher. He gradually introduces his student to the unglamorous side of the profession, ultimately assigning him to care for a prostitute rescued from a local brothel.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_louco-por-mulheres-1950",
+      "title": "Louco por Mulheres",
+      "director": "David Miller",
+      "year": 1949,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/0/2/7/35027-love-happy-0-500-0-750-crop.jpg?v=38f781a90a",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/louco-por-mulheres-1950",
+      "sessions": [
+        {
+          "date": "2026-04-30",
+          "time": "17:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-10",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 2.89,
+      "plot": "The Marx Brothers help young Broadway hopefuls when they get mixed up with gangsters due to a tin of sardines containing Romanoff diamonds.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_os-sete-samurais-1954",
+      "title": "Os Sete Samurais",
+      "director": "Akira Kurosawa",
+      "year": 1954,
+      "duration": 207,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-500-0-750-crop.jpg?v=973d70bb0c",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-sete-samurais-1954",
+      "sessions": [
+        {
+          "date": "2026-05-01",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.6,
+      "plot": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+      "country": "Japan"
     },
     {
       "id": "nimas_embriagado-de-amor-2002",
@@ -2539,10 +2660,11 @@ window.CINEMA_DATA = {
       "director": "Paul Thomas Anderson",
       "year": 2002,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/11827.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/4/47914-punch-drunk-love-0-500-0-750-crop.jpg?v=032fc20313",
       "genres": [
         "Drama",
-        "Comédia"
+        "Romance",
+        "Comedy"
       ],
       "link": "https://medeiafilmes.com/filmes/embriagado-de-amor-2002",
       "sessions": [
@@ -2551,7 +2673,10 @@ window.CINEMA_DATA = {
           "time": "17:15",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.96,
+      "plot": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
+      "country": "USA"
     },
     {
       "id": "nimas_viagem-a-toquio-1953",
@@ -2586,8 +2711,11 @@ window.CINEMA_DATA = {
       "director": "Walter Lang",
       "year": 1954,
       "duration": 117,
-      "poster": "https://medeiafilmes.com/uploads/library/theres-no-business-like-show-business-md-web.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
       "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
       "sessions": [
         {
@@ -2600,62 +2728,10 @@ window.CINEMA_DATA = {
           "time": "10:00",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_os-sete-samurais-1954",
-      "title": "Os Sete Samurais",
-      "director": "Akira Kurosawa",
-      "year": 1954,
-      "duration": 207,
-      "poster": "https://medeiafilmes.com/uploads/library/1_os_sete_samurais.jpg",
-      "genres": [
-        "Acção",
-        "Aventura",
-        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/os-sete-samurais-1954",
-      "sessions": [
-        {
-          "date": "2026-05-01",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_um-amor-inevitavel-1989",
-      "title": "Um Amor Inevitável",
-      "director": "Rob Reiner",
-      "year": 1989,
-      "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/ems1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/um-amor-inevitavel-1989",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-mulher-que-fugiu-2020",
-      "title": "A Mulher que Fugiu",
-      "director": "Hong Sang-soo",
-      "year": 2020,
-      "duration": 77,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodq3ymuyzjatmziwns00mzmzlwiyotutytuwodzlntaxmdqxxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-mulher-que-fugiu-2020",
-      "sessions": [
-        {
-          "date": "2026-05-02",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ]
+      "rating": 3.18,
+      "plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
+      "country": "USA"
     },
     {
       "id": "nimas_o-fim-do-outono-1960",
@@ -2663,9 +2739,10 @@ window.CINEMA_DATA = {
       "director": "Yasujiro Ozu",
       "year": 1960,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/2067a69aa7769df66efd0b26455f7cf4.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ah/is/7h/xm/autumn-0-500-0-750-crop.jpg?v=9c8cd25b4c",
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
       "link": "https://medeiafilmes.com/filmes/o-fim-do-outono-1960",
       "sessions": [
@@ -2674,16 +2751,23 @@ window.CINEMA_DATA = {
           "time": "19:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.12,
+      "plot": "A woman and her daughter are each forced to contend with an increasing pressure to marry, particularly from three men who knew her late husband.",
+      "country": "Japan"
     },
     {
       "id": "nimas_quanto-mais-quente-melhor-1955",
       "title": "Quanto Mais Quente Melhor",
       "director": "Billy Wilder",
-      "year": 1955,
+      "year": 1959,
       "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/146255.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/7/51817-some-like-it-hot-0-500-0-750-crop.jpg?v=fc0b1b87eb",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Comedy"
+      ],
       "link": "https://medeiafilmes.com/filmes/quanto-mais-quente-melhor-1955",
       "sessions": [
         {
@@ -2691,7 +2775,10 @@ window.CINEMA_DATA = {
           "time": "12:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.27,
+      "plot": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+      "country": "USA"
     },
     {
       "id": "nimas_a-criada-2016",
@@ -2699,8 +2786,10 @@ window.CINEMA_DATA = {
       "director": "Park Chan-wook",
       "year": 2016,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bndjhytk2mtctzmvmos00otviltgxnjqtmzqxotrimddmngrjxkeyxkfqcgdeqxvymtmxodk2otu_v1_fmjpg_uy7087.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pc/n6/pz/mi/wvzfK5QR6dGLwND8MCzWjsQWG4Q-0-500-0-750-crop.jpg?v=bcfcc8f8f6",
       "genres": [
+        "Thriller",
+        "Romance",
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/a-criada-2016",
@@ -2710,65 +2799,56 @@ window.CINEMA_DATA = {
           "time": "14:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.39,
+      "plot": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+      "country": "South Korea"
     },
     {
-      "id": "nimas_paragem-de-autocarro-1956",
-      "title": "Paragem de Autocarro",
-      "director": "Joshua Logan",
-      "year": 1956,
+      "id": "nimas_um-amor-inevitavel-1989",
+      "title": "Um Amor Inevitável",
+      "director": "Rob Reiner",
+      "year": 1989,
       "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzjc2mdrkmwqtmde2yi00mddhlwfiotatodi5mgrhnta3owi2xkeyxkfqcgc_v1_fmjpg_ux960.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/paragem-de-autocarro-1956",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/5/51485-when-harry-met-sally--0-500-0-750-crop.jpg?v=2f277e2fe7",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/um-amor-inevitavel-1989",
       "sessions": [
         {
-          "date": "2026-05-03",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-12",
-          "time": "15:15",
+          "date": "2026-05-02",
+          "time": "22:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.07,
+      "plot": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+      "country": "USA"
     },
     {
-      "id": "nimas_o-heroi-sacrilego-1955",
-      "title": "O Herói Sacrílego",
-      "director": "Kenji Mizoguchi",
-      "year": 1955,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/heroi_sacrilego_poster_digital1.jpg",
+      "id": "nimas_a-mulher-que-fugiu-2020",
+      "title": "A Mulher que Fugiu",
+      "director": "Hong Sang-soo",
+      "year": 2020,
+      "duration": 77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/7/6/1/3/587613-the-woman-who-ran-0-500-0-750-crop.jpg?v=d5af3d8b3a",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-heroi-sacrilego-1955",
+      "link": "https://medeiafilmes.com/filmes/a-mulher-que-fugiu-2020",
       "sessions": [
         {
-          "date": "2026-05-03",
-          "time": "12:30",
+          "date": "2026-05-02",
+          "time": "10:00",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_os-homens-preferem-as-loiras-1953",
-      "title": "Os Homens Preferem as Loiras",
-      "director": "Howard Hawks",
-      "year": 1953,
-      "duration": 91,
-      "poster": "https://medeiafilmes.com/uploads/library/508315_poster.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-homens-preferem-as-loiras-1953",
-      "sessions": [
-        {
-          "date": "2026-05-03",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ]
+      ],
+      "rating": 3.67,
+      "plot": "While her husband is on a business trip, Gamhee meets three of her friends. She visits the first two at their homes, and the third she encounters by chance at a theater. While they make friendly conversation, as always, several currents flow independently above and below the surface of the sea.",
+      "country": "South Korea"
     },
     {
       "id": "nimas_magnolia-1999",
@@ -2803,8 +2883,11 @@ window.CINEMA_DATA = {
       "director": "Takeshi Kitano",
       "year": 1999,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5by2fmy2y4mdytzdm2ni00yjazlwi3nzgtmzfmotfmzmzlntnlxkeyxkfqcgdeqxvymtcwotqzotyy_v1_fmjpg_uy2000.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2k/xz/z3/0u/b9lK7Rvysd1ipvAn6gaLxeXhnPX-0-500-0-750-crop.jpg?v=c92ff3e902",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
       "link": "https://medeiafilmes.com/filmes/o-verao-de-kikujiro-1999",
       "sessions": [
         {
@@ -2812,7 +2895,85 @@ window.CINEMA_DATA = {
           "time": "10:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.06,
+      "plot": "Brash, loudmouthed and opportunistic, Kikujiro is the unlikely companion for Masao who is determined to see the mother he has never met. The two begin a series of adventures which soon turns out to be a whimsical journey of laughter and tears with a wide array of surprises and unique characters along the way.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_paragem-de-autocarro-1956",
+      "title": "Paragem de Autocarro",
+      "director": "Joshua Logan",
+      "year": 1956,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/7/37097-bus-stop-0-500-0-750-crop.jpg?v=cf6c8c95c2",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/paragem-de-autocarro-1956",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "19:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-05-12",
+          "time": "15:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 2.79,
+      "plot": "Cowboys Beauregard Decker and Virgil Blessing attend a rodeo in Phoenix, where Decker falls in love with beautiful cafe singer Cherie. He wants to take Cherie back to his native Montana and marry her, but she dreams of traveling to Hollywood and becoming famous. When she resists his advances, Decker forces Cherie onto the bus back to Montana with him, but, when the bus makes an unscheduled stop due to bad weather, the tables are turned.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_o-heroi-sacrilego-1955",
+      "title": "O Herói Sacrílego",
+      "director": "Kenji Mizoguchi",
+      "year": 1954,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/3/6/2/28362-the-crucified-lovers-0-500-0-750-crop.jpg?v=e00e2b5d9e",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-heroi-sacrilego-1955",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "12:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.16,
+      "plot": "When the wife of a 17th-century Kyoto scrollmaker is falsely accused of having an affair with his best employee, the pair flee the city and find themselves truly falling for one another.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_os-homens-preferem-as-loiras-1953",
+      "title": "Os Homens Preferem as Loiras",
+      "director": "Howard Hawks",
+      "year": 1953,
+      "duration": 91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-500-0-750-crop.jpg?v=aa60ad810b",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-homens-preferem-as-loiras-1953",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.86,
+      "plot": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
+      "country": "USA"
     },
     {
       "id": "nimas_dodeskaden-pouca-terra-pouca-terra-1970",
@@ -2820,7 +2981,7 @@ window.CINEMA_DATA = {
       "director": "Akira Kurosawa",
       "year": 1970,
       "duration": 136,
-      "poster": "https://medeiafilmes.com/uploads/library/5_dodeskaden.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/9/5/5/29955-dodes-ka-den-0-500-0-750-crop.jpg?v=004c685be0",
       "genres": [
         "Drama"
       ],
@@ -2831,7 +2992,10 @@ window.CINEMA_DATA = {
           "time": "15:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.72,
+      "plot": "On a Tokyo dump’s shantytown edge, interwoven vignettes follow residents scraping by: a boy who “drives” an imaginary trolley, a homeless father and son designing a dream house, a young woman brutalized at home, drunks, schemers, and saints of small kindnesses. Kurosawa crafts a ragged mosaic of hardship, fantasy, and flickers of grace that keep people moving forward.",
+      "country": "Japan"
     },
     {
       "id": "nimas_rua-da-vergonha-1956",
@@ -2839,7 +3003,7 @@ window.CINEMA_DATA = {
       "director": "Kenji Mizoguchi",
       "year": 1956,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/10512ce3990f4a7ece5df088e41f4515.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/9/1/21891-street-of-shame-0-500-0-750-crop.jpg?v=42a1b89e9d",
       "genres": [
         "Drama"
       ],
@@ -2850,30 +3014,10 @@ window.CINEMA_DATA = {
           "time": "12:30",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_o-joelho-de-claire-1970",
-      "title": "O Joelho de Claire",
-      "director": "Éric Rohmer",
-      "year": 1970,
-      "duration": 101,
-      "poster": "https://medeiafilmes.com/uploads/library/poster-0-le-genou-de-claire.jpg",
-      "genres": [
-        "Drama",
-        "romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-joelho-de-claire-1970",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Festival Internacional de Literatura e Língua Portuguesa – Apresentação por Pedro Mexia"
-          ]
-        }
-      ]
+      "rating": 4.13,
+      "plot": "Follows five sex workers employed at a Japanese brothel while the nation debates the passage of an anti-prostitution law.",
+      "country": "Japan"
     },
     {
       "id": "nimas_roida-ate-ao-osso-1966",
@@ -2898,8 +3042,10 @@ window.CINEMA_DATA = {
       "director": "Joseph L. Mankiewicz",
       "year": 1950,
       "duration": 138,
-      "poster": "https://medeiafilmes.com/uploads/library/144106.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ut/mc/rg/wz/all-about-eve-0-500-0-750-crop.jpg?v=34c6aadc2e",
+      "genres": [
+        "Drama"
+      ],
       "link": "https://medeiafilmes.com/filmes/eva-1950",
       "sessions": [
         {
@@ -2907,7 +3053,10 @@ window.CINEMA_DATA = {
           "time": "14:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.36,
+      "plot": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+      "country": "USA"
     },
     {
       "id": "nimas_havera-sangue-2007",
@@ -2915,7 +3064,7 @@ window.CINEMA_DATA = {
       "director": "Paul Thomas Anderson",
       "year": 2007,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytixzjyyzjetzgywmy00zjg3ltg3nmutnte5oty2otuxytzmxkeyxkfqcgdeqxvymjgyndu4mje_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-500-0-750-crop.jpg?v=8a533d5350",
       "genres": [
         "Drama"
       ],
@@ -2926,7 +3075,58 @@ window.CINEMA_DATA = {
           "time": "21:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.46,
+      "plot": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_o-joelho-de-claire-1970",
+      "title": "O Joelho de Claire",
+      "director": "Éric Rohmer",
+      "year": 1970,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/0/3/9/50039-claire-s-knee-0-500-0-750-crop.jpg?v=02ebd85e37",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-joelho-de-claire-1970",
+      "sessions": [
+        {
+          "date": "2026-05-06",
+          "time": "19:00",
+          "cinema": "nimas",
+          "labels": [
+            "Festival Internacional de Literatura e Língua Portuguesa – Apresentação por Pedro Mexia"
+          ]
+        }
+      ],
+      "rating": 3.86,
+      "plot": "On the eve of his wedding, on holiday on the Lake Annecy shore, a career diplomat visits an old acquaintance, perhaps a former girlfriend. Through her he meets an intense teenager, Laura, and then lusts after her sister, Claire. Whilst Laura attempts to flirt with him, his fantasy becomes focused on wanting to caress Claire's knee.",
+      "country": "France"
+    },
+    {
+      "id": "nimas_mulheres-da-noite-1961",
+      "title": "Mulheres da Noite",
+      "director": "Kinuyo Tanaka",
+      "year": 1961,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/0/5/5/180055-girls-of-the-night-0-500-0-750-crop.jpg?v=7f9f9ef3d8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/mulheres-da-noite-1961",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "In the wake of the 1956 Prostitution Prevention Law, a young woman recently released from one of Japan's new rehabilitation centers struggles to build a new life.",
+      "country": "Japan"
     },
     {
       "id": "nimas_o-pantano-2001",
@@ -2934,9 +3134,8 @@ window.CINEMA_DATA = {
       "director": "Lucrecia Martel",
       "year": 2001,
       "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/la_ci_naga-271787523-large.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/4/5/7845-la-cienaga-0-500-0-750-crop.jpg?v=fd3aed9e82",
       "genres": [
-        "Comédia",
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/o-pantano-2001",
@@ -2949,7 +3148,10 @@ window.CINEMA_DATA = {
             "Festival Literário 5L – Apresentação por Pedro Mexia e Maria João Machado"
           ]
         }
-      ]
+      ],
+      "rating": 3.87,
+      "plot": "Amid the sweltering summer heat in northern Argentina, two middle-class families retreat to a crumbling country estate and a modest townhouse, where strained relationships, simmering tensions, and the presence of children and servants quietly expose the fractures of family life. Between idle days, gossip, and unspoken desires, the boundaries of class, tradition, and faith are reflected in their everyday interactions.",
+      "country": "Argentina"
     },
     {
       "id": "nimas_a-flor-do-equinocio-1958",
@@ -2957,8 +3159,9 @@ window.CINEMA_DATA = {
       "director": "Yasujiro Ozu",
       "year": 1958,
       "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/6a82596c2dc336d99d787e4d84595f27.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/6/8/55868-equinox-flower-0-500-0-750-crop.jpg?v=da36249e5b",
       "genres": [
+        "Comedy",
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/a-flor-do-equinocio-1958",
@@ -2968,7 +3171,10 @@ window.CINEMA_DATA = {
           "time": "17:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.04,
+      "plot": "Wataru's outwardly liberal views on marriage are severely tested when his daughter declares her love for a coworker and is adamant to live her own way, instead of agreeing to an arranged marriage. Outwitted by his female relatives, Hirayama stubbornly refuses to admit defeat.",
+      "country": "Japan"
     },
     {
       "id": "nimas_quando-a-cidade-dorme-1950",
@@ -2976,8 +3182,11 @@ window.CINEMA_DATA = {
       "director": "John Huston",
       "year": 1950,
       "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/262525.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/0/1/41301-the-asphalt-jungle-0-500-0-750-crop.jpg?v=c8ccf94293",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
       "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
       "sessions": [
         {
@@ -2985,26 +3194,34 @@ window.CINEMA_DATA = {
           "time": "21:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.86,
+      "plot": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
+      "country": "USA"
     },
     {
-      "id": "nimas_mulheres-da-noite-1961",
-      "title": "Mulheres da Noite",
-      "director": "Kinuyo Tanaka",
-      "year": 1961,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzdm0mmm4ytmtyzrmny00ntdhlwjkzmutnmy5ndm5mdy1ztzhxkeyxkfqcgdeqxvymtg1mjm0nq_v1_fmjpg_ux1000.jpg",
+      "id": "nimas_bom-dia-1959",
+      "title": "Bom Dia",
+      "director": "Yasujiro Ozu",
+      "year": 1959,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/6/4/55864-good-morning-0-500-0-750-crop.jpg?v=1793183742",
       "genres": [
+        "Comedy",
+        "Family",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/mulheres-da-noite-1961",
+      "link": "https://medeiafilmes.com/filmes/bom-dia-1959",
       "sessions": [
         {
-          "date": "2026-05-07",
-          "time": "13:00",
+          "date": "2026-05-08",
+          "time": "12:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.2,
+      "plot": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan.",
+      "country": "Japan"
     },
     {
       "id": "nimas_contos-crueis-da-juventude-1960",
@@ -3012,8 +3229,12 @@ window.CINEMA_DATA = {
       "director": "Nagisa Oshima",
       "year": 1960,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bntjlmwyzm2mty2m0zs00mjviltk0ntytodhjzjuymtq2m2m4xkeyxkfqcgdeqxvymjgyoti1ody_v1_fmjpg_ux950.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/6/8/0/74680-cruel-story-of-youth-0-500-0-750-crop.jpg?v=6c510c0fe1",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
       "link": "https://medeiafilmes.com/filmes/contos-crueis-da-juventude-1960",
       "sessions": [
         {
@@ -3021,7 +3242,10 @@ window.CINEMA_DATA = {
           "time": "13:45",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.6,
+      "plot": "A harsh young man seduces a freeloading young woman and eventually takes advantage of her knack for hitchhiking to rob middle-class men.",
+      "country": "Japan"
     },
     {
       "id": "nimas_violencia-e-paixao-1974",
@@ -3029,9 +3253,10 @@ window.CINEMA_DATA = {
       "director": "Luchino Visconti",
       "year": 1974,
       "duration": 122,
-      "poster": "https://medeiafilmes.com/uploads/library/707698_poster.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/3/9933-conversation-piece-0-500-0-750-crop.jpg?v=040897dd01",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
       "link": "https://medeiafilmes.com/filmes/violencia-e-paixao-1974",
       "sessions": [
@@ -3043,26 +3268,10 @@ window.CINEMA_DATA = {
             "Festival Literário 5L – Apresentação por Pedro Mexia e José Bértolo"
           ]
         }
-      ]
-    },
-    {
-      "id": "nimas_bom-dia-1959",
-      "title": "Bom Dia",
-      "director": "Yasujiro Ozu",
-      "year": 1959,
-      "duration": 93,
-      "poster": "https://medeiafilmes.com/uploads/library/2a0513a92dc2a9984d29d606f9b80a57.jpg",
-      "genres": [
-        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/bom-dia-1959",
-      "sessions": [
-        {
-          "date": "2026-05-08",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ]
+      "rating": 3.79,
+      "plot": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
+      "country": "France"
     },
     {
       "id": "nimas_rio-sem-regresso-1954",
@@ -3070,8 +3279,11 @@ window.CINEMA_DATA = {
       "director": "Otto Preminger",
       "year": 1954,
       "duration": 91,
-      "poster": "https://medeiafilmes.com/uploads/library/river-of-no-return-us-1s-1954-lb-scaled.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/2/50672-river-of-no-return-0-500-0-750-crop.jpg?v=0b0b64a45c",
+      "genres": [
+        "Western",
+        "Adventure"
+      ],
       "link": "https://medeiafilmes.com/filmes/rio-sem-regresso-1954",
       "sessions": [
         {
@@ -3079,7 +3291,33 @@ window.CINEMA_DATA = {
           "time": "17:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.2,
+      "plot": "An itinerant farmer and his young son help a heart-of-gold saloon singer search for her estranged husband.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_dersu-uzala-1975",
+      "title": "Dersu Uzala",
+      "director": "Akira Kurosawa",
+      "year": 1975,
+      "duration": 136,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/4/6/46846-dersu-uzala-0-500-0-750-crop.jpg?v=d07b5ba998",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "link": "https://medeiafilmes.com/filmes/dersu-uzala-1975",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.3,
+      "plot": "A military explorer meets and befriends a Goldi man in Russia’s unmapped forests. A deep and abiding bond evolves between the two men, one civilized in the usual sense, the other at home in the glacial Siberian woods.",
+      "country": "Japan"
     },
     {
       "id": "nimas_senhora-ogin-1962",
@@ -3135,8 +3373,9 @@ window.CINEMA_DATA = {
       "director": "Ryûsuke Hamaguchi",
       "year": 2021,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/roda_da_fortuna_e_fantasia_poster_v2.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/3/713523-wheel-of-fortune-and-fantasy-0-500-0-750-crop.jpg?v=6351c215a2",
       "genres": [
+        "Romance",
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
@@ -3146,50 +3385,10 @@ window.CINEMA_DATA = {
           "time": "22:00",
           "cinema": "nimas"
         }
-      ]
-    },
-    {
-      "id": "nimas_dersu-uzala-1975",
-      "title": "Dersu Uzala",
-      "director": "Akira Kurosawa",
-      "year": 1975,
-      "duration": 136,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/8/4/6/46846-dersu-uzala-0-500-0-750-crop.jpg?v=d07b5ba998",
-      "genres": [
-        "Drama",
-        "Adventure"
       ],
-      "link": "https://medeiafilmes.com/filmes/dersu-uzala-1975",
-      "sessions": [
-        {
-          "date": "2026-05-10",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.3,
-      "plot": "A military explorer meets and befriends a Goldi man in Russia’s unmapped forests. A deep and abiding bond evolves between the two men, one civilized in the usual sense, the other at home in the glacial Siberian woods.",
+      "rating": 4.07,
+      "plot": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
       "country": "Japan"
-    },
-    {
-      "id": "nimas_yojimbo-o-invencivel-1961",
-      "title": "Yojimbo, o Invencível",
-      "director": "Akira Kurosawa",
-      "year": 1961,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/2_yojimbo_o_invencivel.jpg",
-      "genres": [
-        "Acção",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/yojimbo-o-invencivel-1961",
-      "sessions": [
-        {
-          "date": "2026-05-11",
-          "time": "17:15",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_a-mulher-de-quem-se-fala-1954",
@@ -3197,7 +3396,7 @@ window.CINEMA_DATA = {
       "director": "Kenji Mizoguchi",
       "year": 1954,
       "duration": 83,
-      "poster": "https://medeiafilmes.com/uploads/library/a_mulher_de_quem_se_fala_poster.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/0/1/19301-woman-of-rumor-0-500-0-750-crop.jpg?v=730f8c88f2",
       "genres": [
         "Drama"
       ],
@@ -3208,7 +3407,10 @@ window.CINEMA_DATA = {
           "time": "13:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.84,
+      "plot": "After living a traumatic experience in Tokyo, Yukiko returns to Kyoto, where Hatsuko, her mother, runs a brothel, which upsets Yukiko very much.",
+      "country": "Japan"
     },
     {
       "id": "nimas_crepusculo-em-toquio-1957",
@@ -3216,7 +3418,7 @@ window.CINEMA_DATA = {
       "director": "Yasujiro Ozu",
       "year": 1957,
       "duration": 140,
-      "poster": "https://medeiafilmes.com/uploads/library/crepusculo-em-toquio-cartaz-digital.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/2/5/10925-tokyo-twilight-0-500-0-750-crop.jpg?v=bfa738b350",
       "genres": [
         "Drama"
       ],
@@ -3227,26 +3429,33 @@ window.CINEMA_DATA = {
           "time": "19:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.24,
+      "plot": "Two sisters find out the existence of their long-lost mother, but the younger cannot accept the fact that she was abandoned as a child.",
+      "country": "Japan"
     },
     {
-      "id": "nimas_dias-perfeitos-2023",
-      "title": "Dias Perfeitos",
-      "director": "Wim Wenders",
-      "year": 2023,
+      "id": "nimas_yojimbo-o-invencivel-1961",
+      "title": "Yojimbo, o Invencível",
+      "director": "Akira Kurosawa",
+      "year": 1961,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/perfect-days-cartaz_media.jpg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nw/l2/zw/wy/tN7kYPjRhDolpui9sc9Eq9n5b2O-0-500-0-750-crop.jpg?v=5cea1d49c1",
       "genres": [
+        "Thriller",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/dias-perfeitos-2023",
+      "link": "https://medeiafilmes.com/filmes/yojimbo-o-invencivel-1961",
       "sessions": [
         {
-          "date": "2026-05-12",
-          "time": "21:30",
+          "date": "2026-05-11",
+          "time": "17:15",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.3,
+      "plot": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+      "country": "Japan"
     },
     {
       "id": "nimas_poesia-2010",
@@ -3254,7 +3463,7 @@ window.CINEMA_DATA = {
       "director": "Lee Chang-dong",
       "year": 2010,
       "duration": 139,
-      "poster": "https://medeiafilmes.com/uploads/library/thumb_33.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/4/17524-poetry-0-500-0-750-crop.jpg?v=3dcf186b9f",
       "genres": [
         "Drama"
       ],
@@ -3265,7 +3474,10 @@ window.CINEMA_DATA = {
           "time": "19:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.24,
+      "plot": "A South Korean woman in her sixties enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
+      "country": "South Korea"
     },
     {
       "id": "nimas_as-verdadeiras-maes-2020",
@@ -3273,7 +3485,7 @@ window.CINEMA_DATA = {
       "director": "Naomi Kawase",
       "year": 2020,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/as_verdadeiras_maes_poster_digital.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/5/6/1/5/585615-true-mothers-0-500-0-750-crop.jpg?v=135c598f22",
       "genres": [
         "Drama"
       ],
@@ -3284,7 +3496,56 @@ window.CINEMA_DATA = {
           "time": "12:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.66,
+      "plot": "After suffering through a long and unsuccessful series of fertility treatments, Satoko and her husband Kiyokazu make the decision to adopt a child. Six years after adopting a boy they named Asato, Satoko has quit her job to concentrate fully on her husband and son. The family lives a peaceful existence until the arrival of a stranger.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_dias-perfeitos-2023",
+      "title": "Dias Perfeitos",
+      "director": "Wim Wenders",
+      "year": 2023,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/9/2/2/9/879229-perfect-days-0-500-0-750-crop.jpg?v=4ea80661fd",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/dias-perfeitos-2023",
+      "sessions": [
+        {
+          "date": "2026-05-12",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.31,
+      "plot": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+      "country": "Germany"
+    },
+    {
+      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
+      "title": "A Imperatriz Yang Kwei Fei",
+      "director": "Kenji Mizoguchi",
+      "year": 1955,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/5/1/76551-princess-yang-kwei-fei-0-500-0-750-crop.jpg?v=8d5b66ed47",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
+      "sessions": [
+        {
+          "date": "2026-05-13",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "In 8th-century China, the Emperor grieves the death of his wife. The Yang family wants to provide the Emperor with a consort so that they may consolidate their court influence. General An Lushan finds a distant relative working in their kitchen, whom they groom to present to the Emperor. The Emperor falls in love and she becomes the Princess Yang Kwei-fei. The Yangs are then appointed important ministers, though An Lushan is not given the court position he covets.",
+      "country": "Hong Kong"
     },
     {
       "id": "nimas_os-olhos-da-asia-1996",
@@ -3310,25 +3571,6 @@ window.CINEMA_DATA = {
       ],
       "plot": "Nakaura of Julian (Julião Nakaura), a priest of the Society of Jesus, was one of four young ambassadors sent to Rome by the Jesuits in 1538, as proof that Japan had converted to Christianity. Fifty years after the mission, which so fascinated European royalty, Julian was forced again to prove his faith, only this time before a Shogun, who wanted to force him to abandon his religion. Julian resists, as does Miguel Chijiwa, a fellow at the embassy to Rome, who become a martyr. Betrayed by Cristóvão Ferreira, who cannot bear the torture, Julian suffers an inglorious death ... or maybe not. All the while, a woman wants to discover her past...",
       "country": "Germany"
-    },
-    {
-      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
-      "title": "A Imperatriz Yang Kwei Fei",
-      "director": "Kenji Mizoguchi",
-      "year": 1955,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/a_imperatriz_yang_kwei_fei_poster.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
-      "sessions": [
-        {
-          "date": "2026-05-13",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "fernando_entroncamento",
@@ -5502,8 +5744,10 @@ window.CINEMA_DATA = {
       "director": "Federico Fellini",
       "year": 1963,
       "duration": 138,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/qt/2y/ms/4w/5pQlc8dp5dXzWg1yM70DZrsDpOl-0-500-0-750-crop.jpg?v=17965d9ac6",
+      "genres": [
+        "Drama"
+      ],
       "link": "https://cinematrindade.pt/pt/filmes/fellini-8%c2%bd",
       "sessions": [
         {
@@ -5511,7 +5755,10 @@ window.CINEMA_DATA = {
           "time": "21:30",
           "cinema": "trindade"
         }
-      ]
+      ],
+      "rating": 4.27,
+      "plot": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+      "country": "Italy"
     },
     {
       "id": "trindade_2323",
@@ -5541,8 +5788,11 @@ window.CINEMA_DATA = {
       "director": "Jean-Luc Godard",
       "year": 1960,
       "duration": 89,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/7/51787-breathless-0-500-0-750-crop.jpg?v=53a2f150d5",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
       "link": "https://cinematrindade.pt/pt/filmes/o-acossado",
       "sessions": [
         {
@@ -5550,7 +5800,10 @@ window.CINEMA_DATA = {
           "time": "21:30",
           "cinema": "trindade"
         }
-      ]
+      ],
+      "rating": 3.9,
+      "plot": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+      "country": "France"
     },
     {
       "id": "ideal_nino",
