@@ -45,6 +45,63 @@ def norm(text):
     return re.sub(r"\s+", " ", t).strip()
 
 
+def _levenshtein(s1, s2):
+    if s1 == s2: return 0
+    if len(s1) < len(s2): s1, s2 = s2, s1
+    if not s2: return len(s1)
+    prev = list(range(len(s2) + 1))
+    for c1 in s1:
+        curr = [prev[0] + 1]
+        for j, c2 in enumerate(s2):
+            curr.append(min(prev[j] + (c1 != c2), curr[-1] + 1, prev[j + 1] + 1))
+        prev = curr
+    return prev[-1]
+
+
+def fuzzy_merge(movies):
+    """Junta filmes cujos títulos normalizados diferem em ≤ 1 caracter (mesmo ano).
+    Captura variantes ortográficas como 'Projecto Global' ↔ 'Projeto Global'."""
+    norms = [norm(m["title"]) for m in movies]
+    years = [m.get("year") for m in movies]
+    canonical = list(range(len(movies)))
+
+    for i in range(len(movies)):
+        if canonical[i] != i:
+            continue
+        for j in range(i + 1, len(movies)):
+            if canonical[j] != j:
+                continue
+            t1, t2 = norms[i], norms[j]
+            # Exige títulos com pelo menos 8 chars para evitar falsos positivos
+            if len(t1) < 8 or len(t2) < 8:
+                continue
+            # Diferença de comprimento máxima de 3
+            if abs(len(t1) - len(t2)) > 3:
+                continue
+            # Títulos que diferem apenas nos dígitos são programas numerados distintos
+            # (ex: "SILVESTRE CURTAS 3" ≠ "SILVESTRE CURTAS 4")
+            if re.sub(r"\d", "#", t1) == re.sub(r"\d", "#", t2):
+                continue
+            y1, y2 = years[i], years[j]
+            # Aceita diferença de ±1 ano (metadados ligeiramente divergentes entre cinemas)
+            if y1 is not None and y2 is not None and abs(y1 - y2) > 1:
+                continue
+            if _levenshtein(t1, t2) <= 1:
+                canonical[j] = i
+                base = movies[i]
+                dup  = movies[j]
+                existing = {(s["date"], s["time"], s["cinema"]) for s in base["sessions"]}
+                for s in dup["sessions"]:
+                    if (s["date"], s["time"], s["cinema"]) not in existing:
+                        base["sessions"].append(s)
+                for field in ("director", "year", "duration", "poster", "genres", "link", "festival"):
+                    if not base.get(field) and dup.get(field):
+                        base[field] = dup[field]
+                print(f"  [dedup-fuzzy] {dup['title']!r} → {base['title']!r}")
+
+    return [m for i, m in enumerate(movies) if canonical[i] == i]
+
+
 def deduplicate(movies):
     """Junta filmes com o mesmo título normalizado, combinando sessões de todos os cinemas.
     Entradas com year=None fazem merge com qualquer entrada do mesmo título (independente do ano)."""
@@ -140,6 +197,8 @@ def run():
 
     # Deduplica filmes com o mesmo título+ano (e.g. Cinemateca com 2 IDs diferentes)
     all_movies = deduplicate(all_movies)
+    # Segunda passagem: une variantes ortográficas (projecto/projeto, acção/ação, etc.)
+    all_movies = fuzzy_merge(all_movies)
 
     print("\n[Enricher] A buscar posters e ratings...")
     all_movies = enrich(all_movies)
