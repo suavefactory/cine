@@ -117,17 +117,25 @@ def _parse_multi_description(text):
     return films
 
 
-def fetch_film_details(film_id, date_str):
+def fetch_film_details(film_id, date_str, title_hint=None):
     """
-    Para qualquer sessão sem metadados na página de programação,
-    busca a página individual e extrai 1 ou mais filmes da descrição.
-    Retorna lista de {title, director, year, duration} (0 = não é filme, 1 = filme único, 2+ = multi-filme).
+    Busca a descrição de um filme na página do dia e extrai metadados.
+    title_hint é usado para identificar o bloco infoText correto (evita
+    cruzar dados entre filmes diferentes no mesmo dia).
     """
     url = f"{BASE_URL}/Programacao.aspx?id={film_id}&date={date_str}"
     try:
         html = fetch_html(url)
     except Exception:
         return []
+
+    # Fragmentos de título para matching — usa primeiros 15 chars de cada parte
+    title_frags = []
+    if title_hint:
+        for part in re.split(r'\s*[|+]\s*', title_hint):
+            part = re.sub(r'\s+', ' ', part).strip()
+            if len(part) > 4:
+                title_frags.append(part[:15].upper())
 
     info_texts = re.findall(r'<div class="infoText[^"]*">(.*?)</div>', html, re.DOTALL)
     for it in info_texts:
@@ -138,6 +146,11 @@ def fetch_film_details(film_id, date_str):
             continue
         if ' min' not in text:
             continue
+        # Se há title_hint, rejeita blocos que não contenham nenhum fragmento
+        if title_frags:
+            text_upper = text.upper()
+            if not any(frag in text_upper for frag in title_frags):
+                continue
         films = _parse_multi_description(text)
         if films:
             return films
@@ -285,7 +298,16 @@ def scrape():
     to_remove = set()
     to_add    = []
     for m in result:
-        is_multi_title = " + " in m.get("title", "")
+        title = m.get("title", "")
+        # "|" é sempre separador de múltiplos filmes na Cinemateca
+        # "+" é separador apenas quando os dois lados são títulos substanciais (ex: "SOFT AND HARD + JLG/JLG")
+        # — não quando é parte do título (ex: "MAVRO + ASPRO")
+        has_pipe  = " | " in title
+        has_plus  = " + " in title
+        is_multi_title = has_pipe or (
+            has_plus and len(title) > 25 and
+            all(len(p.strip()) > 5 for p in title.split(" + "))
+        )
         has_meta = m.get("director") and m.get("year")
         if has_meta and not is_multi_title:
             continue  # metadados completos e título simples — ok
@@ -293,23 +315,22 @@ def scrape():
         date_str = m["sessions"][0]["date"] if m["sessions"] else None
         if not date_str:
             continue
-        films = fetch_film_details(film_id, date_str)
+        films = fetch_film_details(film_id, date_str, title_hint=title)
         if not films:
             # Título multi com metadados suspeitos mas sem descrição → remover para evitar dados errados
             if is_multi_title and has_meta:
                 to_remove.add(m["id"])
             continue  # conferência/palestra sem filme — mantém como está
         if len(films) == 1 and not is_multi_title:
-            # Filme único: actualiza metadados in-place (só se título não tem " + ")
-            # Para títulos com " + ", só confiamos numa resolução de 2+ filmes
+            # Filme único sem metadados: actualiza in-place
             f = films[0]
             print(f"  [resolve] {m['title']!r} → {f['title']!r} ({f['director']}, {f['year']})")
             m["title"]    = f["title"]
             m["director"] = f["director"]
             m["year"]     = f["year"]
             m["duration"] = f["duration"]
-        elif len(films) == 1 and is_multi_title and has_meta:
-            # Título multi mas só 1 filme encontrado — metadados originais provavelmente errados → remover
+        elif len(films) == 1 and is_multi_title:
+            # Só 1 filme encontrado num título multi → descarta entrada ambígua
             to_remove.add(m["id"])
         elif len(films) >= 2:
             # Multi-filme: divide em entradas separadas

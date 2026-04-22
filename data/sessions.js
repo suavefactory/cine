@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-04-22T12:01:36.214288+00:00",
+  "generated": "2026-04-22T20:59:58.314779+00:00",
   "movies": [
     {
       "id": "sao_jorge_10473",
@@ -1067,28 +1067,6 @@ window.CINEMA_DATA = {
       "country": "Italy"
     },
     {
-      "id": "cinemateca_19813",
-      "title": "Torre Bela - Trailer",
-      "director": "Luis Buñuel",
-      "year": 1961,
-      "duration": 90,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19813",
-      "sessions": [
-        {
-          "date": "2026-04-23",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-23",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
       "id": "cinemateca_19795",
       "title": "Tigres De Papel",
       "director": "Fernando Colomo",
@@ -1108,6 +1086,31 @@ window.CINEMA_DATA = {
       ],
       "plot": "Spain, 1977. The first general elections are about to take place after the long dictatorship and the progressive environment of Madrid is easily palpable. Protagonists, Carmen and Juan were once married and now living separately, both have a child. It's one of the only reasons they maintain cordial to one another. Their separation, the political context and the contradictions of the progressives of the time will not defeat the affinity between the two.",
       "country": "Spain"
+    },
+    {
+      "id": "cinemateca_19802",
+      "title": "Mavro + aspro",
+      "director": "Thanassis Rentzis, Nikos Zervos",
+      "year": 1973,
+      "duration": 76,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19802",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "22:00",
+          "cinema": "cinemateca",
+          "labels": [
+            "Sessão com apresentação por José Filipe Costa"
+          ]
+        },
+        {
+          "date": "2026-04-28",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ]
     },
     {
       "id": "cinemateca_19797",
@@ -1133,10 +1136,10 @@ window.CINEMA_DATA = {
     },
     {
       "id": "cinemateca_19818",
-      "title": "Ocupação Da Quinta Da Torre Bela",
-      "director": "Vítor Silva",
-      "year": 1975,
-      "duration": 49,
+      "title": "Conversa Sobre A Produção \r\nDe ‘Torre Bela’",
+      "director": null,
+      "year": null,
+      "duration": null,
       "poster": null,
       "genres": [],
       "link": "https://cinemateca.pt/programacao.aspx?id=19818",
@@ -1144,11 +1147,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-04-24",
           "time": "17:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-24",
-          "time": "19:30",
           "cinema": "cinemateca"
         }
       ]
@@ -1159,8 +1157,11 @@ window.CINEMA_DATA = {
       "director": "Pilar Miró",
       "year": 1980,
       "duration": 88,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/2/6/2/85262-the-crime-of-cuenca-0-500-0-750-crop.jpg?v=356c61a607",
+      "genres": [
+        "History",
+        "Drama"
+      ],
       "link": "https://cinemateca.pt/programacao.aspx?id=19804",
       "sessions": [
         {
@@ -1173,7 +1174,11 @@ window.CINEMA_DATA = {
           "time": "15:30",
           "cinema": "cinemateca"
         }
-      ]
+      ],
+      "rating": 3.57,
+      "plot": "Osa de la Vega, Cuenca, Spain, 1913. Gregorio and León, employees on the estate of the village's mayor, a powerful landowner, are arrested and accused of the murder of José María el Cepa, a shepherd who mysteriously disappeared three years earlier.",
+      "country": "Spain",
+      "director_lbxd_slug": "pilar-miro"
     },
     {
       "id": "cinemateca_19793",
@@ -1248,8 +1253,10 @@ window.CINEMA_DATA = {
       "director": "Pedro Costa",
       "year": 2001,
       "duration": 104,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/0/7/4/79074-where-does-your-hidden-smile-lie--0-500-0-750-crop.jpg?v=229a18c2a1",
+      "genres": [
+        "Documentary"
+      ],
       "link": "https://cinemateca.pt/programacao.aspx?id=19824",
       "sessions": [
         {
@@ -1257,7 +1264,11 @@ window.CINEMA_DATA = {
           "time": "19:00",
           "cinema": "cinemateca"
         }
-      ]
+      ],
+      "rating": 4.07,
+      "plot": "Undaunted by a commission to make a film about his mentors and aesthetic exemplars, the filmmaking team of Jean-Marie Straub and Danièle Huillet, Costa records with great sensitivity and insight the exacting process by which the two re-edit their film Sicilia!, discussing and arguing over each cut and its effect. Incorporating comments about the influence of figures as diverse as Chaplin and Eisenstein, about the ethical and aesthetic implications of film technique and such matters as rhythm, sound mixing, and acting. The film becomes a tour de force, immersing us in the mysteries of cinema as practiced by some of its greatest creators. Costa calls the film both his first comedy and his first love story.",
+      "country": "Portugal",
+      "director_lbxd_slug": "pedro-costa-2"
     },
     {
       "id": "cinemateca_19821",
@@ -1380,16 +1391,6 @@ window.CINEMA_DATA = {
           "date": "2026-04-27",
           "time": "19:00",
           "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
         }
       ],
       "country": "Portugal"
@@ -1408,16 +1409,6 @@ window.CINEMA_DATA = {
           "date": "2026-04-27",
           "time": "19:00",
           "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
         }
       ]
     },
@@ -1435,29 +1426,24 @@ window.CINEMA_DATA = {
           "date": "2026-04-27",
           "time": "19:00",
           "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-04-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
         }
       ]
     },
     {
-      "id": "cinemateca_19807_0",
+      "id": "cinemateca_19806_0",
       "title": "I Proti Eikona",
       "director": "Olia Verriopoulou",
       "year": 2025,
       "duration": 25,
       "poster": null,
       "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19807",
+      "link": "https://cinemateca.pt/programacao.aspx?id=19806",
       "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        },
         {
           "date": "2026-04-29",
           "time": "19:30",
@@ -1466,19 +1452,91 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_19807_1",
+      "id": "cinemateca_19806_1",
       "title": "Mia Zoi Se Thymamai Na Fevgeis",
       "director": "Frieda Liappa",
       "year": 1977,
       "duration": 45,
       "poster": null,
       "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19807",
+      "link": "https://cinemateca.pt/programacao.aspx?id=19806",
       "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        },
         {
           "date": "2026-04-29",
           "time": "19:30",
           "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_19769_0",
+      "title": "Soft And Hard (A Soft Conversation Between Two Friends On A Hard Subject)",
+      "director": "Jean-Luc Godard, Anne-Marie Miéville",
+      "year": 1986,
+      "duration": 48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/4/7/160947-soft-and-hard-0-500-0-750-crop.jpg?v=c6dbc0d615",
+      "genres": [
+        "Tv Movie",
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19769",
+      "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.56,
+      "plot": "Jean-Luc Godard and Anne-Marie Miéville talk about their films, while doing everyday tasks around their house.",
+      "country": "France"
+    },
+    {
+      "id": "cinemateca_19769_1",
+      "title": "Jlg/Jlg",
+      "director": "Jean-Luc Godard",
+      "year": 1994,
+      "duration": 55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/9/1/9/84919-jlg-jlg-self-portrait-in-december-0-500-0-750-crop.jpg?v=1e5d04ca06",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19769",
+      "sessions": [
+        {
+          "date": "2026-04-27",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.91,
+      "plot": "Director Jean-Luc Godard reflects in this movie about his place in film history, the interaction of film industry and film as art, as well as the act of creating art.",
+      "country": "France"
+    },
+    {
+      "id": "nimas_a-dancarina-1957",
+      "title": "A Dançarina",
+      "director": "Hiroshi Shimizu",
+      "year": 1957,
+      "duration": 96,
+      "poster": "https://medeiafilmes.com/uploads/library/shimizu_tardio_cartaz-1448x20481.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-dancarina-1957",
+      "sessions": [
+        {
+          "date": "2026-04-22",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "14:00",
+          "cinema": "nimas"
         }
       ]
     },
@@ -1503,12 +1561,12 @@ window.CINEMA_DATA = {
         {
           "date": "2026-04-22",
           "time": "21:30",
-          "cinema": "trindade"
+          "cinema": "campo_alegre"
         },
         {
-          "date": "2026-04-22",
-          "time": "21:30",
-          "cinema": "campo_alegre"
+          "date": "2026-04-23",
+          "time": "16:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-04-23",
@@ -1519,6 +1577,16 @@ window.CINEMA_DATA = {
           "date": "2026-04-25",
           "time": "22:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "21:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-04-29",
@@ -1569,50 +1637,33 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-04-22",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-22",
           "time": "21:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-25",
           "time": "11:00",
           "cinema": "fernando"
         },
         {
-          "date": "2026-04-23",
-          "time": "21:45",
+          "date": "2026-04-26",
+          "time": "22:45",
           "cinema": "fernando"
         },
         {
-          "date": "2026-04-23",
-          "time": "22:45",
+          "date": "2026-04-28",
+          "time": "21:45",
           "cinema": "fernando"
         }
       ],
       "rating": 3.7,
       "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
       "country": "Italy"
-    },
-    {
-      "id": "nimas_a-dancarina-1957",
-      "title": "A Dançarina",
-      "director": "Hiroshi Shimizu",
-      "year": 1957,
-      "duration": 96,
-      "poster": "https://medeiafilmes.com/uploads/library/shimizu_tardio_cartaz-1448x20481.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-dancarina-1957",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-04-28",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_o-idiota-sentimental-1956",
@@ -2170,16 +2221,6 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-04-23",
-          "time": "19:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-23",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-04-23",
           "time": "21:15",
           "cinema": "ideal"
         },
@@ -2209,9 +2250,25 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
+          "date": "2026-04-25",
+          "time": "21:30",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        },
+        {
           "date": "2026-04-26",
           "time": "16:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "19:30",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
         },
         {
           "date": "2026-04-26",
@@ -2230,6 +2287,11 @@ window.CINEMA_DATA = {
           "date": "2026-04-27",
           "time": "16:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "21:00",
+          "cinema": "fernando"
         },
         {
           "date": "2026-04-27",
@@ -2930,29 +2992,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_os-homens-preferem-as-loiras-1953",
-      "title": "Os Homens Preferem as Loiras",
-      "director": "Howard Hawks",
-      "year": 1953,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-500-0-750-crop.jpg?v=aa60ad810b",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-homens-preferem-as-loiras-1953",
-      "sessions": [
-        {
-          "date": "2026-05-03",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.86,
-      "plot": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
-      "country": "USA"
-    },
-    {
       "id": "nimas_o-heroi-sacrilego-1955",
       "title": "O Herói Sacrílego",
       "director": "Kenji Mizoguchi",
@@ -2974,6 +3013,29 @@ window.CINEMA_DATA = {
       "rating": 4.16,
       "plot": "When the wife of a 17th-century Kyoto scrollmaker is falsely accused of having an affair with his best employee, the pair flee the city and find themselves truly falling for one another.",
       "country": "Japan"
+    },
+    {
+      "id": "nimas_os-homens-preferem-as-loiras-1953",
+      "title": "Os Homens Preferem as Loiras",
+      "director": "Howard Hawks",
+      "year": 1953,
+      "duration": 91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/9/3/51393-gentlemen-prefer-blondes-0-500-0-750-crop.jpg?v=aa60ad810b",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-homens-preferem-as-loiras-1953",
+      "sessions": [
+        {
+          "date": "2026-05-03",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.86,
+      "plot": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
+      "country": "USA"
     },
     {
       "id": "nimas_dodeskaden-pouca-terra-pouca-terra-1970",
@@ -3587,17 +3649,77 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/ENTRONCAMENTO",
       "sessions": [
         {
-          "date": "2026-04-23",
+          "date": "2026-04-28",
           "time": "19:00",
           "cinema": "fernando",
           "labels": [
             "Legendas em inglês"
           ]
+        },
+        {
+          "date": "2026-04-29",
+          "time": "19:00",
+          "cinema": "trindade"
         }
       ],
       "rating": 3.39,
       "plot": "In the town of Entroncamento, violence, misfortune, greed, and loyalty rule the streets. Laura arrives there to rebuild her life, but the irresistible pull of quick money and crime immediately draws her back into a troubled past. For those she meets at this crossroads, every day presents the choice between who they were and who they might become.",
       "country": "Portugal"
+    },
+    {
+      "id": "fernando_o_velho_e_a_espada",
+      "title": "O Velho e a Espada",
+      "director": "Fábio Powers",
+      "year": 2024,
+      "duration": 63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/2/0/1/4/1142014-o-velho-e-a-espada-0-500-0-750-crop.jpg?v=cd8bf6dea0",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/O-VELHO-E-A-ESPADA",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "11:00",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 3.35,
+      "plot": "In the remote village of Pé da Serra in the mountains of Portugal, a monk arrives wielding a demonic sword. Before long, the mystical weapon ends up in the hands of the town drunk António da Luz (who plays himself). Together, the drunkard and the sword will have to learn together to fight the encroaching evil.",
+      "country": "Portugal",
+      "director_lbxd_slug": "fabio-powers"
+    },
+    {
+      "id": "fernando_a_rapariga_que_sabia_demais",
+      "title": "A Rapariga que Sabia Demais",
+      "director": "Frédéric Hambalek",
+      "year": 2025,
+      "duration": 87,
+      "poster": "https://freight.cargo.site/t/original/i/5863d2b7b801c35d792d353d415f263b0f737e3d699f41f0882bbabc1be46c09/A-RAPARIGA-QUE-SABIA-DEMAIS_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/A-RAPARIGA-QUE-SABIA-DEMAIS",
+      "sessions": [
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "21:00",
+          "cinema": "fernando"
+        }
+      ]
     },
     {
       "id": "batalha_sdUdoXZHuWfkxxN1",
@@ -5408,91 +5530,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "trindade_8074",
-      "title": "Romaria",
-      "director": "Carla Simón",
-      "year": 2025,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/3/7/1069037-romeria-0-500-0-750-crop.jpg?v=5268e5d224",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/romaria",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-29",
-          "time": "16:30",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
-      "country": "Spain"
-    },
-    {
-      "id": "trindade_8209",
-      "title": "¿De Qué Casa Eres?",
-      "director": "Ana Pérez-Quiroga",
-      "year": 2025,
-      "duration": 72,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/3/6/8/1287368-where-do-you-call-home-0-500-0-750-crop.jpg?v=48a2099c28",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/de-que-casa-eres",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "15:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "15:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-26",
-          "time": "14:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-29",
-          "time": "14:15",
-          "cinema": "ideal"
-        }
-      ],
-      "plot": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
-      "country": "Portugal"
-    },
-    {
-      "id": "trindade_8201",
-      "title": "La Grazia",
-      "director": "Paolo Sorrentino",
-      "year": 2025,
-      "duration": 132,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/la-grazia-2",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "16:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.71,
-      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
-      "country": "Italy"
-    },
-    {
       "id": "trindade_7881",
       "title": "O Estrangeiro",
       "director": "François Ozon",
@@ -5507,14 +5544,44 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
         {
-          "date": "2026-04-22",
-          "time": "17:15",
+          "date": "2026-04-23",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "14:15",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-27",
           "time": "14:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-04-29",
@@ -5527,60 +5594,90 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "trindade_7672",
-      "title": "Nossa Terra",
-      "director": "Lucrecia Martel",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/NOSSA-TERRA-Cartaz-WEB-copia.png",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/nossa-terra",
+      "id": "trindade_8221",
+      "title": "Chão Verde De Pássaros Escritos",
+      "director": "Sandra Inês Cruz",
+      "year": 2026,
+      "duration": 77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/1/9/9/8/1401998-chao-verde-de-passaros-escritos-0-500-0-750-crop.jpg?v=d66511d1f0",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/chao-verde-de-passaros-escritos",
       "sessions": [
         {
-          "date": "2026-04-22",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "19:00",
+          "date": "2026-04-23",
+          "time": "14:30",
           "cinema": "trindade"
         },
         {
           "date": "2026-04-24",
-          "time": "19:00",
-          "cinema": "ideal"
+          "time": "14:30",
+          "cinema": "trindade"
         },
         {
-          "date": "2026-04-28",
-          "time": "14:15",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8091",
-      "title": "O Drama",
-      "director": "Kristoffer Borgli",
-      "year": 2026,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
-      "sessions": [
+          "date": "2026-04-25",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
         {
-          "date": "2026-04-22",
-          "time": "19:30",
+          "date": "2026-04-26",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "16:00",
           "cinema": "trindade"
         }
       ],
-      "rating": 3.78,
-      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "country": "USA"
+      "country": "Portugal"
+    },
+    {
+      "id": "trindade_8209",
+      "title": "¿De Qué Casa Eres?",
+      "director": "Ana Pérez-Quiroga",
+      "year": 2025,
+      "duration": 72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/3/6/8/1287368-where-do-you-call-home-0-500-0-750-crop.jpg?v=48a2099c28",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/de-que-casa-eres",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "14:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "14:15",
+          "cinema": "ideal"
+        }
+      ],
+      "plot": "An artistic vision of a phenomenon in Spanish history, with repercussions in Europe and the West: the exile of 2,895 republican children in the Soviet Union due to the Spanish Civil War; the German invasion of the USSR in World War II; the 19 years spent in the USSR until his return to Spain (1937-1956). It is also autobiographical in nature, because this author revisits the memories of her mother and aunt, who were part of this group of children.",
+      "country": "Portugal"
     },
     {
       "id": "trindade_8177",
@@ -5596,24 +5693,29 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/fuori",
       "sessions": [
         {
-          "date": "2026-04-22",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-04-22",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-04-23",
           "time": "14:15",
           "cinema": "ideal"
         },
         {
+          "date": "2026-04-23",
+          "time": "17:30",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-04-24",
           "time": "14:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-04-25",
@@ -5627,13 +5729,28 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-04-27",
+          "time": "17:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-27",
           "time": "19:00",
           "cinema": "ideal"
         },
         {
           "date": "2026-04-28",
+          "time": "17:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
           "time": "19:00",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "17:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-04-29",
@@ -5659,8 +5776,169 @@ window.CINEMA_DATA = {
           "date": "2026-04-23",
           "time": "19:00",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "21:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "21:30",
+          "cinema": "trindade"
         }
       ]
+    },
+    {
+      "id": "trindade_8091",
+      "title": "O Drama",
+      "director": "Kristoffer Borgli",
+      "year": 2026,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "17:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "country": "USA"
+    },
+    {
+      "id": "trindade_8201",
+      "title": "La Grazia",
+      "director": "Paolo Sorrentino",
+      "year": 2025,
+      "duration": 132,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/la-grazia-2",
+      "sessions": [
+        {
+          "date": "2026-04-23",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-26",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-27",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "16:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.71,
+      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "country": "Italy"
     },
     {
       "id": "trindade_8238",
@@ -5686,12 +5964,37 @@ window.CINEMA_DATA = {
           ]
         },
         {
+          "date": "2026-04-24",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-04-26",
           "time": "21:30",
           "cinema": "trindade",
           "labels": [
             "com a presença de Pandora da Cunha Telles + conversa com o público"
           ]
+        },
+        {
+          "date": "2026-04-27",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "14:30",
+          "cinema": "trindade"
         }
       ],
       "plot": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
@@ -5713,6 +6016,56 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         }
       ]
+    },
+    {
+      "id": "trindade_7672",
+      "title": "Nossa Terra",
+      "director": "Lucrecia Martel",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/NOSSA-TERRA-Cartaz-WEB-copia.png",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/nossa-terra",
+      "sessions": [
+        {
+          "date": "2026-04-24",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "14:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-04-28",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_967",
+      "title": "Sirât",
+      "director": "Oliver Laxe",
+      "year": 2025,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/7/7/1037777-sirat-2025-0-500-0-750-crop.jpg?v=1660cb1f29",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/sirat",
+      "sessions": [
+        {
+          "date": "2026-04-29",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.56,
+      "plot": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
+      "country": "Spain"
     },
     {
       "id": "trindade_2365",
@@ -5803,28 +6156,6 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.9,
       "plot": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
-      "country": "France"
-    },
-    {
-      "id": "ideal_nino",
-      "title": "NINO",
-      "director": "Pauline Loquès",
-      "year": 2025,
-      "duration": 96,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/NINO_70x100_semdata.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=59185",
-      "sessions": [
-        {
-          "date": "2026-04-22",
-          "time": "19:00",
-          "cinema": "ideal"
-        }
-      ],
-      "plot": "Nino, a young man, explores the streets of Paris to reconnect with the world and himself, after being diagnosed with cancer.",
       "country": "France"
     },
     {
@@ -6242,9 +6573,32 @@ window.CINEMA_DATA = {
       "country": "Romania"
     },
     {
+      "id": "ideal_romaria",
+      "title": "ROMARIA",
+      "director": "Carla Simón",
+      "year": null,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/3/7/1069037-romeria-0-500-0-750-crop.jpg?v=5268e5d224",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=58849",
+      "sessions": [
+        {
+          "date": "2026-04-29",
+          "time": "16:30",
+          "cinema": "ideal"
+        }
+      ],
+      "rating": 3.6,
+      "plot": "Marina, 18, orphaned at a young age, must travel to Spain’s Atlantic coast to obtain a signature for a scholarship application from the paternal grandparents she has never met. She navigates a sea of new aunts, uncles, and cousins, uncertain whether she will be embraced or met with resistance. Stirring long-buried emotions, reviving tenderness, and uncovering unspoken wounds tied to the past, Marina pieces together the fragmented and often contradictory memories of the parents she barely remembers.",
+      "country": "Spain"
+    },
+    {
       "id": "ideal_as_armas_e_o_povo",
       "title": "AS ARMAS E O POVO",
-      "director": "Manuel Costa e Silva, António da Cunha Telles, Acácio de Almeida",
+      "director": "sábado: 11:30",
       "year": 1975,
       "duration": 78,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/7/4/254374-the-guns-and-the-people-0-500-0-750-crop.jpg?v=c3b0d4d8c5",
@@ -6267,7 +6621,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_sempre",
       "title": "SEMPRE",
-      "director": null,
+      "director": "Luciana Fina",
       "year": 2024,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/20240829095807_1370HIP3TQ6CZCA5A72X.jpg",
@@ -6289,7 +6643,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_cartas_da_guerra",
       "title": "CARTAS DA GUERRA",
-      "director": null,
+      "director": "Ivo M. Ferreira",
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/cartas_da_guerra_poster_467f610880.webp",
@@ -6456,28 +6810,23 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oliver_Mark_-_Thomas_Harlan%2C_Berchtesgadener_Land_2007_%282%29_%28cropped%29.jpg/500px-Oliver_Mark_-_Thomas_Harlan%2C_Berchtesgadener_Land_2007_%282%29_%28cropped%29.jpg",
       "bio": "Thomas Christoph Harlan (19 February 1929 – 16 October 2010) was a German author and director of French-language films."
     },
-    "Luis Buñuel": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
-      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
-    },
     "Fernando Colomo": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fernando_Colomo_en_los_Premios_Goya_2017.jpg/500px-Fernando_Colomo_en_los_Premios_Goya_2017.jpg",
       "bio": "Fernando Colomo Gómez (born 2 February 1946) is a Spanish film producer, screenwriter and film director. He has also acted in small roles in his own and other's films. He is regarded as the father of the so-called comedia madrileña."
+    },
+    "Thanassis Rentzis, Nikos Zervos": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Alexis Damianos": {
       "lbxd_slug": null,
       "photo": null,
       "bio": "Alexis Damianos (Greek: Αλέξης Δαμιανός; 1921–2006) was a Greek, film/theatre and television director."
     },
-    "Vítor Silva": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/V%C3%ADtor_Silva_%281928%29.jpg",
-      "bio": "Vítor Marcolino da Silva (20 February 1909 – 21 July 1982) was a Portuguese footballer. Listed by Benfica, as one of the club's best forwards in history, Silva represented the club on 131 official games, scoring 108 goals."
-    },
     "Pilar Miró": {
-      "lbxd_slug": null,
+      "lbxd_slug": "pilar-miro",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pilar_Mir%C3%B3_en_la_toma_de_posesi%C3%B3n_del_director_general_de_TVE._Pool_Moncloa._17_de_enero_de_1989_%28cropped_2025%29.jpeg",
       "bio": "Pilar Mercedes Miró Romero (20 April 1940 – 19 October 1997) was a Spanish screenwriter and film director. She was the General Director of RTVE from 1986 to 1989. In the 1990s, she directed the television broadcasts of the weddings of the daughters of King Juan Carlos I."
     },
@@ -6497,7 +6846,7 @@ window.CINEMA_DATA = {
       "bio": "Marco Bellocchio (Italian pronunciation: [ˈmarko belˈlɔkkjo]; born 9 November 1939) is an Italian film director, screenwriter, and actor. His is most known for his films Fists in the Pocket (1965), Slap the Monster on Page One (1972), A Leap in the Dark (1980), Good Morning, Night (2003), The Traitor (2019) and Kidnapped (2023)."
     },
     "Pedro Costa": {
-      "lbxd_slug": null,
+      "lbxd_slug": "pedro-costa-2",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pedro_Costa_%282020%29.jpg/500px-Pedro_Costa_%282020%29.jpg",
       "bio": "Pedro Costa (born 30 December 1958) is a Portuguese film director. He is best known for his sequence of films set in Lisbon, which focuses on the lives of the impoverished residents of a slum in the Fontainhas neighbourhood."
     },
@@ -6546,6 +6895,21 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Greek actor, film director and poet (1948-1994)"
     },
+    "Jean-Luc Godard, Anne-Marie Miéville": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Jean-Luc Godard": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
+      "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
+    },
+    "Hiroshi Shimizu": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Hiroshi Shimizu  may refer to:"
+    },
     "Abdellatif Kechiche": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Abdellatif_Kechiche_Cannes_2013.jpg/500px-Abdellatif_Kechiche_Cannes_2013.jpg",
@@ -6555,11 +6919,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/500px-Paolo_Sorrentino_2018.jpg",
       "bio": "Paolo Sorrentino ( SORR-ən-TEE-noh, Italian: [ˈpaːolo sorrenˈtiːno]; born 31 May 1970) is an Italian film director, screenwriter, and writer. He is considered one of the most prominent filmmakers of Italian cinema working today. He is known for visually striking and complex dramas and has often been compared to Federico Fellini and Michelangelo Antonioni."
-    },
-    "Hiroshi Shimizu": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": "Hiroshi Shimizu  may refer to:"
     },
     "Taratoa Stappard": {
       "lbxd_slug": null,
@@ -6775,6 +7134,16 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
+    },
+    "Fábio Powers": {
+      "lbxd_slug": "fabio-powers",
+      "photo": null,
+      "bio": null
+    },
+    "Frédéric Hambalek": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fr%C3%A9d%C3%A9ric_Hambalek_at_the_2025_Berlin_International_Film_Festival-66601.jpg/500px-Fr%C3%A9d%C3%A9ric_Hambalek_at_the_2025_Berlin_International_Film_Festival-66601.jpg",
+      "bio": "German film director, screen writer and producer"
     },
     "Robert Kramer e Philip J. Spinelli": {
       "lbxd_slug": null,
@@ -7076,30 +7445,30 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
       "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
     },
-    "Carla Simón": {
+    "François Ozon": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carla_Sim%C3%B3n_at_2025_Cannes_Red_Carpet_for_Romer%C3%ADa_1.jpg/500px-Carla_Sim%C3%B3n_at_2025_Cannes_Red_Carpet_for_Romer%C3%ADa_1.jpg",
-      "bio": "Carla Simón Pipó (born 29 December 1986) is a Spanish film director. Most known for her films Summer 1993 (2017) and Alcarràs (2022), for the latter she received the Golden Bear at the 72nd Berlin International Film Festival."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
+    },
+    "Sandra Inês Cruz": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Ana Pérez-Quiroga": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "François Ozon": {
+    "Mario Martone": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
-      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mario_Martone-8102.jpg/500px-Mario_Martone-8102.jpg",
+      "bio": "Mario Martone (born 20 November 1959) is an Italian filmmaker. He has directed more than 30 films since 1985. His films have been shown in prestigious international film festivals over the world."
     },
     "Kristoffer Borgli": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kristoffer_Borgli.jpg/500px-Kristoffer_Borgli.jpg",
       "bio": "Kristoffer Borgli (born 1985) is a Norwegian film director and screenwriter. He wrote and directed the films Sick of Myself (2022), Dream Scenario (2023), and The Drama (2026)."
-    },
-    "Mario Martone": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mario_Martone-8102.jpg/500px-Mario_Martone-8102.jpg",
-      "bio": "Mario Martone (born 20 November 1959) is an Italian filmmaker. He has directed more than 30 films since 1985. His films have been shown in prestigious international film festivals over the world."
     },
     "António da Cunha Telles": {
       "lbxd_slug": null,
@@ -7110,6 +7479,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
       "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
+    },
+    "Oliver Laxe": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Oliver_Laxe_Portrait_at_TIFF_2025_02.jpg/500px-Oliver_Laxe_Portrait_at_TIFF_2025_02.jpg",
+      "bio": "Óliver Laxe Coro (Galician: [ˈlaʃɪ]; born 11 April 1982) is a French-born Galician film director, screenwriter and actor. Better known for his films You All Are Captains (2010), Mimosas (2016), Fire Will Come (2019) and Sirāt (2025). The latter was nominated for Best International Film and Best Sound at the 98th Academy Awards and earned Laxe the Jury Prize at the 2025 Cannes Film Festival."
     },
     "Andrei Tarkovsky": {
       "lbxd_slug": null,
@@ -7125,16 +7499,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
       "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
-    },
-    "Jean-Luc Godard": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
-      "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
-    },
-    "Pauline Loquès": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
     },
     "Stillz": {
       "lbxd_slug": null,
@@ -7171,10 +7535,20 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Manuel Costa e Silva, António da Cunha Telles, Acácio de Almeida": {
+    "Carla Simón": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carla_Sim%C3%B3n_at_2025_Cannes_Red_Carpet_for_Romer%C3%ADa_1.jpg/500px-Carla_Sim%C3%B3n_at_2025_Cannes_Red_Carpet_for_Romer%C3%ADa_1.jpg",
+      "bio": "Carla Simón Pipó (born 29 December 1986) is a Spanish film director. Most known for her films Summer 1993 (2017) and Alcarràs (2022), for the latter she received the Golden Bear at the 72nd Berlin International Film Festival."
+    },
+    "sábado: 11:30": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
+    },
+    "Luciana Fina": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/TFF_OFF_2016_-_Intervista_a_Luciana_Fina.jpg",
+      "bio": "Italian film director"
     }
   },
   "errors": []

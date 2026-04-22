@@ -320,6 +320,35 @@ LBXD_SLUGS = {
     # ── Filmes portugueses/outros sem slug automático ──
     "O AGENTE SECRETO":             "the-secret-agent-2025",
     "GOD-AND-A-HALF":               "god-and-a-half",
+    # ── Cinemateca — ciclo Torre Bela / Ibérico / outros ──
+    "TORRE BELA":                   "torre-bela",
+    "TIGRES DE PAPEL":              "tigres-de-papel",
+    "PAPER TIGERS":                 "tigres-de-papel",
+    "EL CRIMEN DE CUENCA":          "the-crime-of-cuenca",
+    "THE CRIME OF CUENCA":          "the-crime-of-cuenca",
+    "OÙ GÎT VOTRE SOURIRE ENFOUÎ?": "where-does-your-hidden-smile-lie",
+    "OU GIT VOTRE SOURIRE ENFOUI?": "where-does-your-hidden-smile-lie",
+    "L'INHUMAINE":                  "linhumaine",
+    "MAMMA":                        "mother-1982",
+    "HAPPY DAY":                    "happy-day-1976",
+    "EVDOKIA":                      "evdokia",
+    "LOS SANTOS INOCENTES":         "los-santos-inocentes",
+    "CANCIONES PARA DESPUÉS DE UNA GUERRA": "songs-for-after-a-war",
+    "CANCIONES PARA DESPUES DE UNA GUERRA": "songs-for-after-a-war",
+    "VIRIDIANA":                    "viridiana",
+    "MARX PUÒ ASPETTARE":           "marx-can-wait",
+    "MARX PUO ASPETTARE":           "marx-can-wait",
+    "FRÁGIL COMO O MUNDO":          "fragil-como-o-mundo",
+    "FRAGIL COMO O MUNDO":          "fragil-como-o-mundo",
+    "SOFT AND HARD (A SOFT CONVERSATION BETWEEN TWO FRIENDS ON A HARD SUBJECT)": "soft-and-hard",
+    "SOFT AND HARD":                "soft-and-hard",
+    "THOMAS HARLAN – WANDERSPLITTER": "thomas-harlan-wandersplitter",
+    "THOMAS HARLAN - WANDERSPLITTER": "thomas-harlan-wandersplitter",
+    "THOMAS HARLAN – MOVING SHRAPNEL": "thomas-harlan-wandersplitter",
+    "PUNISHMENT PARK":              "punishment-park",
+    "REAL LIFE":                    "real-life",
+    # ── Fernando Lopes — novos filmes ──
+    # A Rapariga Que Sabia Demais (2025, Hambalek) ainda não tem página LB
 }
 
 # Títulos originais → título inglês para OMDB

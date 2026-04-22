@@ -15343,18 +15343,6 @@
     "lbxd": null,
     "omdb": null
   },
-  "El crimen de Cuenca|1980": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Où Gît Votre Sourire Enfouî?|2001": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "L’Inhumaine|1924": {
-    "lbxd": null,
-    "omdb": null
-  },
   "Vrazda Ing. Certa|1970": {
     "lbxd": null,
     "omdb": {
@@ -15900,5 +15888,94 @@
       "totalSeasons": "N/A",
       "Response": "True"
     }
+  },
+  "Mavro + aspro|1973": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Conversa Sobre A Produção \r\nDe ‘Torre Bela’|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Velho e a Espada|2024": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/2/0/1/4/1142014-o-velho-e-a-espada-0-500-0-750-crop.jpg?v=cd8bf6dea0",
+      "description": "In the remote village of Pé da Serra in the mountains of Portugal, a monk arrives wielding a demonic sword. Before long, the mystical weapon ends up in the hands of the town drunk António da Luz (who plays himself). Together, the drunkard and the sword will have to learn together to fight the encroaching evil.",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "country": "Portugal",
+      "lb_director": "Fábio Powers",
+      "lb_director_slug": "fabio-powers",
+      "lb_year": 2024
+    },
+    "omdb": {
+      "Title": "O Velho e a Espada",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Fantasy",
+      "Director": "Fábio Powers",
+      "Writer": "Fábio Powers",
+      "Actors": "Cristiano Guerreiro, António da Luz, Fábio Powers",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt17677998",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Rapariga que Sabia Demais|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "El crimen de Cuenca|1980": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/2/6/2/85262-the-crime-of-cuenca-0-500-0-750-crop.jpg?v=356c61a607",
+      "description": "Osa de la Vega, Cuenca, Spain, 1913. Gregorio and León, employees on the estate of the village's mayor, a powerful landowner, are arrested and accused of the murder of José María el Cepa, a shepherd who mysteriously disappeared three years earlier.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Pilar Miró",
+      "lb_director_slug": "pilar-miro",
+      "lb_year": 1980
+    },
+    "omdb": null
+  },
+  "Où Gît Votre Sourire Enfouî?|2001": {
+    "lbxd": {
+      "rating": 4.07,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/0/7/4/79074-where-does-your-hidden-smile-lie--0-500-0-750-crop.jpg?v=229a18c2a1",
+      "description": "Undaunted by a commission to make a film about his mentors and aesthetic exemplars, the filmmaking team of Jean-Marie Straub and Danièle Huillet, Costa records with great sensitivity and insight the exacting process by which the two re-edit their film Sicilia!, discussing and arguing over each cut and its effect. Incorporating comments about the influence of figures as diverse as Chaplin and Eisenstein, about the ethical and aesthetic implications of film technique and such matters as rhythm, sound mixing, and acting. The film becomes a tour de force, immersing us in the mysteries of cinema as practiced by some of its greatest creators. Costa calls the film both his first comedy and his first love story.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Pedro Costa",
+      "lb_director_slug": "pedro-costa-2",
+      "lb_year": 2001
+    },
+    "omdb": null
+  },
+  "L’Inhumaine|1924": {
+    "lbxd": null,
+    "omdb": null
   }
 }

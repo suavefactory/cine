@@ -97,54 +97,118 @@ def clean_anchor_title(raw_html):
     return text
 
 
+def _derive_slug(title):
+    """Deriva slug no formato do site (TITULO-COM-HIFENS) a partir do título."""
+    import unicodedata
+    s = unicodedata.normalize("NFD", title.upper())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    s = re.sub(r"[^A-Z0-9]+", "-", s)
+    return s.strip("-")
+
+
 def parse_schedule(html):
     """
     Extrai lista de dicts {title, slug, date, time} da página de programação.
-    """
-    sessions = []
-    current_date = None
 
-    for block in re.findall(r"<h2>(.*?)</h2>", html, re.DOTALL):
-        # Verifica se o bloco contém um cabeçalho de data
-        date_m = re.search(r"<b>\s*(\w+,\s*\d{1,2}\s+\w+)\s*</b>", block, re.IGNORECASE)
+    O site usa uma mistura de <h2> estruturados e blocos de texto separados
+    por <br> dentro de <h2> aninhados. Esta função normaliza ambos os formatos
+    substituindo <br> e </h2> por quebras de linha e processando linha a linha.
+    Suporta ainda sessões sem link <a> (texto simples, como filmes em pré-estreia).
+    """
+    # Isola a secção de programação
+    prog_idx = html.find(">Programação<")
+    schedule_html = html[prog_idx:] if prog_idx >= 0 else html
+
+    # Substitui <br> e </h2> por newlines (ambos separam linhas de sessão/data)
+    schedule_html = re.sub(r"<br\s*/?>", "\n", schedule_html, flags=re.IGNORECASE)
+    schedule_html = re.sub(r"</h2>",     "\n", schedule_html, flags=re.IGNORECASE)
+
+    sessions     = []
+    current_date = None
+    seen         = set()   # evita duplicados: (date, time, slug)
+
+    for raw_line in schedule_html.split("\n"):
+        line = raw_line.strip()
+        if not line:
+            continue
+
+        # Atualiza data corrente se esta linha tem um cabeçalho de data
+        date_m = re.search(r"<b>\s*(\w+,\s*\d{1,2}\s+\w+)\s*</b>", line)
         if date_m:
             parsed = parse_date(date_m.group(1))
             if parsed:
                 current_date = parsed
-            # Continua a processar o resto do bloco (pode conter sessões a seguir à data)
-            block = block[date_m.end():]
 
         if not current_date:
             continue
 
-        # Encontra todas as sessões: HHhMM ([-–])? <a href="SLUG">TÍTULO...</a>
-        # Suporta casos onde o traço está dentro da âncora ("21h30 <a>- TÍTULO</a>")
-        for m in re.finditer(
-            r"(\d{1,2}h\d{2})\s*[-–]?\s*"
-            r"<a\s[^>]*href=[\"']([^\"'#][^\"']*)[\"'][^>]*>"
-            r"(.*?)</a>",
-            block, re.DOTALL
+        # Procura horário em qualquer ponto da linha
+        time_m = re.search(r"(?<![:/\d])(\d{1,2}h\d{2})(?!\d)", line)
+        if not time_m:
+            continue
+
+        t = parse_time(time_m.group(1))
+        if not t:
+            continue
+
+        # Ignora links que não são filmes
+        if re.search(r"(?:screenings|newsletter|subscriv)", line, re.IGNORECASE):
+            continue
+
+        # Parte da linha a partir do horário
+        rest = line[time_m.start():]
+
+        # Tenta extrair slug e título a partir dos links <a> presentes
+        slug  = None
+        title = None
+        for anchor_m in re.finditer(
+            r'<a\s[^>]*href=["\']([^"\'#?][^"\']*)["\'][^>]*>(.*?)</a>',
+            rest, re.DOTALL
         ):
-            time_raw, slug, title_raw = m.group(1), m.group(2), m.group(3)
+            a_slug = anchor_m.group(1).strip()
+            a_text = clean_anchor_title(anchor_m.group(2))
+            if not slug and a_slug:
+                slug = a_slug
+            if not title and a_text and len(a_text) > 2:
+                title = a_text
 
-            # Ignora links que não são filmes (subscrição, inglês, etc.)
-            if "Screenings" in slug or "screenings" in slug:
-                continue
+        # Fallback: texto simples (sem link <a>) — ex: "19h00 - O VELHO E A ESPADA"
+        if not title:
+            plain = re.sub(r"<[^>]+>", "", rest)    # remove todas as tags
+            plain = unescape(plain)
+            plain = re.sub(r"^\s*\d{1,2}h\d{2}\s*[-–]?\s*", "", plain)  # tira o horário
+            plain = re.sub(r"\s*[-–]\s*sess[aã]o\s+especial.*$", "", plain, flags=re.IGNORECASE)
+            plain = re.sub(r"\s+", " ", plain).strip()
+            if plain and len(plain) > 1:
+                if plain == plain.upper():
+                    plain = plain.title()
+                title = plain
 
-            # Detect per-session labels from the raw anchor HTML (before cleaning)
-            labels = []
-            if re.search(r'with\s+english', title_raw, re.IGNORECASE):
-                labels.append("Legendas em inglês")
-            if re.search(r'última\s+sess[aã]o', title_raw, re.IGNORECASE):
-                labels.append("Última sessão")
+        if not title or len(title) < 2:
+            continue
 
-            t     = parse_time(time_raw)
-            title = clean_anchor_title(title_raw)
-            if t and title and len(title) > 1:
-                s = {"title": title, "slug": slug, "date": current_date, "time": t}
-                if labels:
-                    s["labels"] = labels
-                sessions.append(s)
+        # Deriva slug a partir do título se não houver link
+        if not slug:
+            slug = _derive_slug(title)
+
+        # Labels
+        labels = []
+        if re.search(r"with\s+english",       line, re.IGNORECASE):
+            labels.append("Legendas em inglês")
+        if re.search(r"última\s+sess",         line, re.IGNORECASE):
+            labels.append("Última sessão")
+        if re.search(r"sess[aã]o\s+especial",  line, re.IGNORECASE):
+            labels.append("Sessão especial")
+
+        key = (current_date, t, slug)
+        if key in seen:
+            continue
+        seen.add(key)
+
+        s = {"title": title, "slug": slug, "date": current_date, "time": t}
+        if labels:
+            s["labels"] = labels
+        sessions.append(s)
 
     return sessions
 
