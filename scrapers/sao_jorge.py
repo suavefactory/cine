@@ -21,6 +21,12 @@ PT_MONTHS = {
 # Só queremos eventos de cinema (filmes + sessões de festival + sessões especiais)
 INCLUDE_CLASSES = {"filme", "sessao-de-festival", "afim-de-filmes"}
 
+# Títulos de eventos que não são sessões de cinema (e.g. cinema para bebés)
+EXCLUDE_TITLE_PATTERNS = re.compile(
+    r'cinema\s+de\s+colo',
+    re.IGNORECASE
+)
+
 
 def fetch_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
@@ -155,6 +161,9 @@ def scrape():
 
         link      = event.get("link", "")
         title_raw = event["title"]["rendered"]
+
+        if EXCLUDE_TITLE_PATTERNS.search(unescape(title_raw)):
+            continue
 
         # Detect and clean abertura/encerramento from title
         special_label = None
