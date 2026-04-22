@@ -15,6 +15,32 @@ BASE_URL     = "https://www.cinemaidealemcasa.pt"
 PROG_URL     = f"{BASE_URL}/no-cinema/"
 SESSIONS_API = "https://bilheteira.cinemaidealemcasa.pt/session/with-movies"
 
+# "INDIE BARRIO TRISTE 138" → ("Barrio Triste", True)
+_INDIE_RE = re.compile(r'^INDIE\s+(.+)\s+\d+$', re.IGNORECASE)
+
+# Billing titles that lack the INDIE prefix but are INDIE films
+_INDIE_OVERRIDES = {
+    "NÃO DESVIAR O OLHAR 429": "Não Desviar o Olhar",
+}
+
+def _title_case(s):
+    """Title-case without capitalizing letters after apostrophes (e.g. "River's" not "River'S")."""
+    return re.sub(r"(?<!['\u00b4\u2019])\b(\w)", lambda m: m.group(1).upper(), s.lower())
+
+def _parse_indie(raw_title):
+    """Returns (clean_title, is_indie). Strips INDIE prefix and trailing billing number."""
+    if raw_title in _INDIE_OVERRIDES:
+        return _INDIE_OVERRIDES[raw_title], True
+    m = _INDIE_RE.match(raw_title.strip())
+    if not m:
+        return raw_title, False
+    film = m.group(1).strip()
+    # Title-case ALL-CAPS titles; normalize ´ → ' to avoid bad casing
+    if film == film.upper():
+        film = film.replace("\u00b4", "'")
+        film = _title_case(film)
+    return film, True
+
 
 def fetch(url):
     req = urllib.request.Request(url, headers={
@@ -78,8 +104,11 @@ def scrape():
         directors = {}
 
     movies = []
-    for title, sess_list in by_movie.items():
-        director = directors.get(title.upper()) or directors.get(title) or None
+    for raw_title, sess_list in by_movie.items():
+        clean_title, is_indie = _parse_indie(raw_title)
+        director = (directors.get(clean_title.upper())
+                    or directors.get(raw_title.upper())
+                    or directors.get(raw_title) or None)
         poster   = next((s["poster"] for s in sess_list if s.get("poster")), None)
         link     = sess_list[0]["link"] if sess_list else PROG_URL
 
@@ -88,16 +117,18 @@ def scrape():
             key=lambda s: (s["date"], s["time"]),
         )
 
-        film_id = re.sub(r'[^a-z0-9]', '_', title.lower())[:40]
-        print(f"  → {title} ({director}) — {len(sessions)} sessão(ões)")
+        film_id = re.sub(r'[^a-z0-9]', '_', clean_title.lower())[:40]
+        festival = "INDIE Lisboa" if is_indie else None
+        print(f"  → {clean_title} ({director}) {'[INDIE] ' if is_indie else ''}— {len(sessions)} sessão(ões)")
         movies.append({
             "id":       f"ideal_{film_id}",
-            "title":    title,
+            "title":    clean_title,
             "director": director,
             "year":     None,
             "duration": None,
             "poster":   poster,
             "genres":   [],
+            "festival": festival,
             "link":     link,
             "sessions": sessions,
         })

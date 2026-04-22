@@ -12954,62 +12954,43 @@
     "lbxd": null,
     "omdb": null
   },
-  "AS LIÑAS DESCONTINUAS|None": {
+  "CINEMA DE COLO | INDIELISBOA 2026|None": {
     "lbxd": null,
     "omdb": null
   },
-  "ANOCHE CONQUISTÉ TEBAS|None": {
-    "lbxd": null,
+  "BOUCHRA|None": {
+    "lbxd": {
+      "rating": 3.63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/2/5/1393025-bouchra-0-500-0-750-crop.jpg?v=069378d0c4",
+      "description": "Bouchra (35), a Moroccan filmmaker in New York, is paralyzed by the fear of the blank page. A phone call with her mother in Casablanca will have memories resurfacing. Their tender yet complex exchange sparks a creative breakthrough, opening a journey through family bonds, daughterhood, and the thrill of love.",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Orian Barki",
+      "lb_year": 2025
+    },
     "omdb": {
-      "Title": "Anoche conquisté Tebas",
+      "Title": "Bouchra",
       "Year": "2025",
       "Rated": "N/A",
       "Released": "N/A",
-      "Runtime": "106 min",
-      "Genre": "N/A",
-      "Director": "Gabriel Azorín",
-      "Writer": "Gabriel Azorín, Celso Giménez",
-      "Actors": "Pavle Cemerikic, Santiago Mateus, António Gouveia",
-      "Plot": "On a cold winter afternoon, António and Jota return from the front with their friends, looking for an ancient Roman thermal bath. They joke with each other while wading through swamps, recounting past tactical glories. The baths h...",
-      "Language": "Portuguese, Latin, Galician, Spanish",
-      "Country": "Spain, Portugal",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2YzU2NmItMWZlYy00ODg5LTlmYzktM2VjM2JhZmQ5NTA0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt15181334",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Swimming Lesson|2017": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Swimming Lesson",
-      "Year": "2017",
-      "Rated": "N/A",
-      "Released": "24 Sep 2017",
-      "Runtime": "3 min",
-      "Genre": "Animation, Short",
-      "Director": "Tatyana Okruzhnova",
+      "Runtime": "83 min",
+      "Genre": "Animation",
+      "Director": "Orian Yani Barki, Meriem Bennani",
       "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "The sea is no joke and you should always be ready to lend a helping hand.",
-      "Language": "N/A",
-      "Country": "Russia",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE5YWIyY2QtZWZmNC00NmIwLWI1MjktOGI0ZWRmOTE3NjFjXkEyXkFqcGdeQXVyMTEyODk4MTUw._V1_SX300.jpg",
+      "Actors": "Orian Yani Barki, Meriem Bennani, Ariana Faye Allensworth",
+      "Plot": "Bouchra, a 35-year-old Moroccan coyote in New York documents her long-distance relationship with her mother in Casablanca, as they explore together the love, pain and secrets that unite them through calls and intimate conversations.",
+      "Language": "English, French, Arabic",
+      "Country": "United States, Italy, Morocco",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4OWU1NDEtMWI1Ny00NzRhLTg0ZWUtN2QyOWY0NmFkODk1XkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt11958840",
+      "imdbID": "tt36543744",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -13018,171 +12999,45 @@
       "Response": "True"
     }
   },
-  "Au revoir, éte|2013": {
+  "Mulheres de Abril|None": {
     "lbxd": null,
     "omdb": null
   },
-  "Jules & Juliette|2023": {
+  "WE PUT THE WORLD TO SLEEP|None": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/5/0/6/8/1085068-jules-juliette-0-500-0-750-crop.jpg?v=4494a01c95",
-      "description": "Jules and Juliette go to the beach. They carry the dinghy on their heads with which they intend to sail. It's already quite a deal. Of course, Jules is clumsy and doesn't fail to play the fool. The beach is deserted. It's going to be a bright day full of laughter and connivance.",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/4/0/353540-we-put-the-world-to-sleep-0-500-0-750-crop.jpg?v=e03200b501",
+      "description": "Adrian and Duru get lost in the characters they play in an apocalyptic film and embark on a secret mission to end the world for real. Second entry in Adrian Țofei and Duru Yücel’s spiritual trilogy which includes Be My Cat: A Film for Anne and Pure.",
       "genres": [
-        "Animation"
-      ],
-      "country": "Belgium",
-      "lb_director": "Chantal Peten",
-      "lb_year": 2022
-    },
-    "omdb": null
-  },
-  "Tatarang!|2024": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Please Frog, Just One Sip!|2024": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/5/8/1502458-please-frog-just-one-sip-0-500-0-750-crop.jpg?v=1e62b26e6f",
-      "description": "It's a hot day in Africa and the frog can no longer bear the heat. She takes a sip, but then can't stop drinking. Once all the water is gone, the other animals must think of a plan to make the frog give back the water.",
-      "genres": [
-        "Animation"
-      ],
-      "country": "South Africa",
-      "lb_director": "Diek Grobler",
-      "lb_year": 2017
-    },
-    "omdb": null
-  },
-  "THE LONELIEST MAN IN TOWN|None": {
-    "lbxd": {
-      "rating": 3.62,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/6/2/4/8/1306248-the-loneliest-man-in-town-2026-0-500-0-750-crop.jpg?v=ad05f41edc",
-      "description": "Blues musician Al Cook lives in an apartment filled with memories. Outside, the world carries on without him. But when his home is slated for demolition, out of the ruins of his existence, a long-forgotten dream suddenly resurfaces.",
-      "genres": [
-        "Music",
-        "Drama",
-        "Documentary"
-      ],
-      "country": "Austria",
-      "lb_director": "Tizza Covi",
-      "lb_year": 2026
-    },
-    "omdb": null
-  },
-  "Où Gît Votre Sourire Enfouî?|2001": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "I Proti Eikona|1977": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "L’Inhumaine|1924": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "The Philadelphia Story|1940": {
-    "lbxd": {
-      "rating": 4.0,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/8/8/51188-the-philadelphia-story-0-500-0-750-crop.jpg?v=d1de7f7887",
-      "description": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "country": "USA",
-      "lb_director": "George Cukor",
-      "lb_year": 1940
-    },
-    "omdb": {
-      "Title": "The Philadelphia Story",
-      "Year": "1940",
-      "Rated": "Approved",
-      "Released": "17 Jan 1941",
-      "Runtime": "112 min",
-      "Genre": "Comedy, Romance",
-      "Director": "George Cukor",
-      "Writer": "Donald Ogden Stewart, Philip Barry, Waldo Salt",
-      "Actors": "Cary Grant, Katharine Hepburn, James Stewart",
-      "Plot": "After a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-      "Language": "English, French",
-      "Country": "United States",
-      "Awards": "Won 2 Oscars. 9 wins & 5 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "100%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "96/100"
-        }
-      ],
-      "Metascore": "96",
-      "imdbRating": "7.8",
-      "imdbVotes": "78,160",
-      "imdbID": "tt0032904",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$404,524",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Atlantics|2019": {
-    "lbxd": {
-      "rating": 3.69,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/3/2/1/427321-atlantics-0-500-0-750-crop.jpg?v=9b99da9ca0",
-      "description": "Arranged to marry a rich man, young Ada is crushed when her true love goes missing at sea during a migration attempt — until a miracle reunites them.",
-      "genres": [
-        "Fantasy",
-        "Romance",
+        "Science Fiction",
+        "Mystery",
+        "Horror",
         "Drama"
       ],
-      "country": "France",
-      "lb_director": "Mati Diop",
-      "lb_year": 2019
+      "country": "Romania",
+      "lb_director": "Adrian Țofei",
+      "lb_year": 2025
     },
     "omdb": {
-      "Title": "Atlantics",
-      "Year": "2019",
-      "Rated": "TV-14",
-      "Released": "29 Nov 2019",
-      "Runtime": "106 min",
-      "Genre": "Drama, Fantasy, Mystery",
-      "Director": "Mati Diop",
-      "Writer": "Mati Diop, Olivier Demangel",
-      "Actors": "Mame Bineta Sane, Amadou Mbow, Traore",
-      "Plot": "In a popular suburb of Dakar, workers on the construction site of a futuristic tower, without pay for months, decide to leave the country by the ocean for a better future. Among them is Souleiman, the lover of Ada, promised to ano...",
-      "Language": "Wolof, French, Arabic, English",
-      "Country": "France, Senegal, Belgium",
-      "Awards": "13 wins & 64 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGY1NTZhMTAtMjc2Ni00OGM1LTliMmUtM2I0MDQ2OTQ1NWJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "96%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "85/100"
-        }
-      ],
-      "Metascore": "85",
-      "imdbRating": "6.7",
-      "imdbVotes": "10,714",
-      "imdbID": "tt10199586",
+      "Title": "We Put the World to Sleep",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "83 min",
+      "Genre": "Adventure, Drama, Horror",
+      "Director": "Adrian Tofei",
+      "Writer": "Adrian Tofei, Duru Yücel",
+      "Actors": "Adrian Tofei, Duru Yücel, Erisse Peterson",
+      "Plot": "Adrian and Duru get lost in the characters they play in an apocalyptic film and embark on a secret mission to end the world for real. Second entry in Adrian Tofei and Duru Yücel's spiritual trilogy which includes Be My Cat: A Film...",
+      "Language": "English",
+      "Country": "Romania",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ1ZmY3OGQtZWI0Yy00MGUyLTgzNGItNDM2N2Q2ZWZjOWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt10069050",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -13191,111 +13046,210 @@
       "Response": "True"
     }
   },
-  "INDIE AUTO DA CASA 126|None": {
+  "TINSMAN ROAD|None": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/3/5/9/3/673593-tinsman-road-0-500-0-750-crop.jpg?v=d426fa57e0",
+      "description": "In the backwoods of New Jersey a young man navigates the serpentine mystery surrounding his long-missing sister and their family home.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Robbie Banfitch",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Tinsman Road",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Robbie Banfitch",
+      "Writer": "Robbie Banfitch",
+      "Actors": "Robbie Banfitch, Leslie Ann Banfitch, Salem Belladonna",
+      "Plot": "A young man searches for the body of his sister years after her tragic disappearance.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQzMjljZDEtZWU1ZS00MjA0LThiYmItODc4MDJhYjM1NzY4XkEyXkFqcGdeQXVyMTI1MDUxNjAw._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt13259900",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "THE FIRES|None": {
+    "lbxd": {
+      "rating": 3.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/9/0/1/3/1189013-the-fires-0-500-0-750-crop.jpg?v=812f316e60",
+      "description": "Top volcanologist Anna Arnardóttir faces two disasters at once: a volcanic eruption that threatens the safety of the capital city and a love affair that could destroy her marriage.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "Iceland",
+      "lb_director": "Ugla Hauksdóttir",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "The Fires",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "11 Sep 2025",
+      "Runtime": "N/A",
+      "Genre": "Thriller",
+      "Director": "Ugla Hauksdóttir",
+      "Writer": "Sigríður Hagalín Björnsdóttir, Markus Englmair, Ugla Hauksdóttir",
+      "Actors": "Pilou Asbæk, Ingvar Sigurdsson, Vigdís Hrefna Pálsdóttir",
+      "Plot": "Anna Arnardóttir, Iceland's top volcanologist, faces two disasters at once: a volcanic eruption that threatens the safety of the capital city and a love affair that could destroy her marriage.",
+      "Language": "Icelandic, English",
+      "Country": "Iceland",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhZjFkYTAtNDY2YS00YmE5LWIxNGEtYjVlYTVmNzlhNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "13",
+      "imdbID": "tt31272500",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "RUA (ISTO NÃO É UM FILME, É UM COMETA) + VINTAGE GLITCH. CIDADES PARA ACABAR COM TODOS OS VERÕES E CREPÚSCULOS|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE BARRIO TRISTE 138|None": {
+  "THE BLOOD COUNTESS + VAMPS|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE BARRIO TRISTE 141|None": {
+  "SUN RA: DO THE IMPOSSIBLE|None": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/2/7/6/8/1342768-sun-ra-do-the-impossible-0-500-0-750-crop.jpg?v=2919337e5e",
+      "description": "A biographical, musical, illuminating journey into the work and vision of Sun Ra, exploring his jazz roots, endless innovations, and ceaseless artistic and social quests.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Christine Turner",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Sun Ra: Do the Impossible",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "10 Jun 2025",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Christine Turner",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "A journey through Sun Ra's life and music, following his jazz foundations, innovative spirit, and ongoing artistic and social pursuits.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36591532",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "SILVESTRE CURTAS 4 | 2026|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE BY DESIGN 171|None": {
+  "SILVESTRE CURTAS 3 | 2026|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE CONFERENCE OF THE BIRDS 243|None": {
+  "SILVESTRE CURTAS 2 | 2026|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE ERUPCJA 300|None": {
+  "SILVESTRE CURTAS 1 | 2026|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE FIZ UM FOGUETE 318|None": {
+  "SEGUNDO AMOR|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE FRACTAIS TROPICAIS 330|None": {
+  "Quem Tem Medo de Zurita de Oliveira?|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE FRÍO METAL 333|None": {
+  "PARA VIVIR EL IMPLACABLE TIEMPO DE PABLO MILANÉS|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Para Vivir, El Implacable Tiempo De Pablo Milanés",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "21 Jun 2025",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Fabien Pisani",
+      "Writer": "Fabien Pisani",
+      "Actors": "Harry Belafonte, Chico Buarque, Omara Portuondo",
+      "Plot": "N/A",
+      "Language": "Spanish",
+      "Country": "Mexico, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNDgwMGYtZDk4NS00MmIwLTk1YjAtYzQ2MDFkMGQwZjRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32033583",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "“”PERCURSOS ALTERNATIVOS”” – ECOS DE GARAGEM: O ROCK EM VISEU NOS ANOS 80 E 90|None": {
     "lbxd": null,
     "omdb": null
   },
-  "INDIE FUCKTOYS 339|None": {
-    "lbxd": null,
+  "PATTY IS SUCH A GIRLY NAME|None": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/3/7/2/1425372-patty-is-such-a-girly-name-0-500-0-750-crop.jpg?v=dc6bbd7944",
+      "description": "Daphne, a teenage judo athlete from a remote Greek island, is ready to spread her wings and follow Sensei Yuri to the big city and ultimately to the next Olympic Games. Yuri, for unknown reasons, has been absent from the world of Judo for the last few years and he is looking for a new beginning, while Daphne transitions from the carefreeness of adolescence into the hard world of adults.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Greece",
+      "lb_director": "Giorgos Georgopoulos",
+      "lb_year": 2025
+    },
     "omdb": null
   },
-  "INDIE HOLY DESTRUCTORS 354|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE MY WIFE CRIES 420|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE MY WIFE CRIES 423|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "NÃO DESVIAR O OLHAR 429|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE ÓCULOS DE SOL PRETOS 462|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE QUEM TEM MEDO DE ZURITA? 504|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE ROSE OF NEVADA 525|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE RUA ISTO NÃO É UM FILME + VINTAGE GLITCH 534|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE THE BEWILDERMENT OF CHILE 573|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE MARATONA 666|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE PREMIADOS 1 791|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE PREMIADOS 2 792|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE PREMIADOS 3 793|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE PREMIADOS 4 794|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE PREMIADOS 5 795|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE PREMIADOS 6 796|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "INDIE A RIVER´S GAZE 111|None": {
+  "PARDO É PAPEL|None": {
     "lbxd": null,
     "omdb": null
   },
@@ -13310,6 +13264,286 @@
   "O VELHO SALAZAR + ESSE OLHAR QUE É SÓ TEU|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "NOVÍSSIMOS 2 | 2026|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "NOVÍSSIMOS 1 | 2026|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "NEWPORT AND THE GREAT FOLK DREAM|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/6/2/1393062-newport-and-the-great-folk-dream-0-500-0-750-crop.jpg?v=d1e3c3a548",
+      "description": "Powerful music leaps from the air and can change the actual world. At the Newport Folk Festivals in the early 1960s, the molecules were electric with rebellion and democracy, with anger and hope. Musicians drove that change — Bob Dylan, Joan Baez and Pete Seeger but also banjo players from coal country, remote Georgia gospel artists, rural Canadian fishermen, and the opportunities created for the urban kids to mingle with those they’d not ordinarily encounter.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Gordon",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "MASSA FUNKEIRA + BUBBLING BABY|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "LO DEMÁS ES RUIDO|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "KISS AND BE FRIENDS|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "HAL & HARPER|None": {
+    "lbxd": {
+      "rating": 4.27,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/2/9/0/1307290-hal-harper-0-500-0-750-crop.jpg?v=407368e03f",
+      "description": "Hal and Harper, two codependent siblings living in Los Angeles, try to preserve their childhood even though their single father forces them to grow up too fast.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Cooper Raiff",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "FUCKTOYS|None": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/4/2/1301542-fucktoys-0-500-0-750-crop.jpg?v=77e2bb2e96",
+      "description": "A cursed young woman sets out on a wild fundraising adventure through Trashtown, USA, after she's told by multiple psychics that she can break the curse by paying them $1000.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Annapurna Sriram",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Fucktoys",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "09 Mar 2025",
+      "Runtime": "107 min",
+      "Genre": "Comedy",
+      "Director": "Annapurna Sriram",
+      "Writer": "Annapurna Sriram",
+      "Actors": "François Arnaud, Jowin Marie Batoon, Brandon Flynn",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt35515220",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "FRÍO METAL|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Frío Metal",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Clemente Castor",
+      "Writer": "Clemente Castor, Karen Plata",
+      "Actors": "Gabino Rodríguez, Mario Hernández, Oscar Hernández",
+      "Plot": "N/A",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32799258",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "FRACTAIS TROPICAIS|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/8/5/2/1284852-tropical-fractals-0-500-0-750-crop.jpg?v=82013e2bb2",
+      "description": "On an interstellar journey, a group of scientists studies the last living vestiges of Earth. The artificial intelligence, Museo, becomes a portal to the crew’s diaries and a fragmented archive of humanity. On Earth, the one believed to be the last of the humans traverses a ruined planet that is slowly recovering, little by little, from the apocalypse it endured.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "country": "Brazil",
+      "lb_director": "Leonardo Pirondi",
+      "lb_year": 2026
+    },
+    "omdb": null
+  },
+  "FORDLÂNDIA PANACEA|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/3/1/5/4/1433154-fordlandia-panacea-0-500-0-750-crop.jpg?v=99bc39d25e",
+      "description": "In 1928, industrialist Henry Ford built a company town in the Brazilian jungle and established a rubber plantation. Within a few years his industrial utopia collapsed, coming to an end in 1945. Fordlândia was largely abandoned and became known as a ghost town.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Brazil",
+      "lb_director": "Susana de Sousa Dias",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Fordlandia Panacea",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "62 min",
+      "Genre": "Documentary",
+      "Director": "Susana de Sousa Dias",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal, Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYyNGEwMTgtNTVmYS00MzllLTlmOWQtYTZmNjBiNWRiN2NkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38267940",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "ERUPCJA|None": {
+    "lbxd": {
+      "rating": 3.34,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/2/0/7/9/1232079-erupcja-0-500-0-750-crop.jpg?v=dfa5abcd3c",
+      "description": "While on vacation in Poland, Bethany breaks away from a romantic itinerary planned by her doting boyfriend, Rob, fearing that a marriage proposal is imminent. Reuniting instead with an old friend, Nel, the two women rekindle a uniquely combustible chemistry over the course of a few days in a chaste but burning trust predicated on sapphic synchronicity and a mutual penchant for poetry.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Pete Ohs",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Erupcja",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "71 min",
+      "Genre": "N/A",
+      "Director": "Pete Ohs",
+      "Writer": "Pete Ohs, Charli XCX, Jeremy O. Harris",
+      "Actors": "Charli XCX, Lena Góra, Will Madden",
+      "Plot": "The combustible chemistry between a Polish florist and a British tourist in this charming postcard of sapphic synchronicity.",
+      "Language": "English, Polish",
+      "Country": "United States, Poland",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33712666",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "DRACULA|None": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/1/3/51913-dracula-0-500-0-750-crop.jpg?v=a27a82cffc",
+      "description": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Tod Browning",
+      "lb_year": 1931
+    },
+    "omdb": {
+      "Title": "Dracula",
+      "Year": "1992",
+      "Rated": "R",
+      "Released": "13 Nov 1992",
+      "Runtime": "128 min",
+      "Genre": "Fantasy, Horror, Romance",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Bram Stoker, James V. Hart",
+      "Actors": "Gary Oldman, Winona Ryder, Anthony Hopkins",
+      "Plot": "Centuries-old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and wreak havoc in the foreign land.",
+      "Language": "English, Romanian, Greek, Bulgarian, Latin",
+      "Country": "United States, United Kingdom",
+      "Awards": "Won 3 Oscars. 30 wins & 21 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVhNzhlMzMtYjJkNy00ODU4LWJmMjUtYzdlMGI3MTQ3YzBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "7.4",
+      "imdbVotes": "267,072",
+      "imdbID": "tt0103874",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$82,522,790",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "CURTAS TODA A FAMÍLIA +3 | INDIELISBOA|None": {
     "lbxd": null,
@@ -13390,7 +13624,7 @@
   },
   "BLUE HERON|None": {
     "lbxd": {
-      "rating": 3.85,
+      "rating": 3.87,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/2/2/0/1071220-blue-heron-0-500-0-750-crop.jpg?v=d5d52f31b6",
       "description": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
       "genres": [
@@ -13432,6 +13666,14 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Où Gît Votre Sourire Enfouî?|2001": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "L’Inhumaine|1924": {
+    "lbxd": null,
+    "omdb": null
   },
   "Vrazda Ing. Certa|1970": {
     "lbxd": null,
@@ -13616,6 +13858,189 @@
       "Response": "True"
     }
   },
+  "I Proti Eikona|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Mia Zoi Se Thymamai Na Fevgeis|1977": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Swimming Lesson|2017": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Swimming Lesson",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "24 Sep 2017",
+      "Runtime": "3 min",
+      "Genre": "Animation, Short",
+      "Director": "Tatyana Okruzhnova",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "The sea is no joke and you should always be ready to lend a helping hand.",
+      "Language": "N/A",
+      "Country": "Russia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE5YWIyY2QtZWZmNC00NmIwLWI1MjktOGI0ZWRmOTE3NjFjXkEyXkFqcGdeQXVyMTEyODk4MTUw._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11958840",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Au revoir, éte|2013": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Jules & Juliette|2023": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/5/0/6/8/1085068-jules-juliette-0-500-0-750-crop.jpg?v=4494a01c95",
+      "description": "Jules and Juliette go to the beach. They carry the dinghy on their heads with which they intend to sail. It's already quite a deal. Of course, Jules is clumsy and doesn't fail to play the fool. The beach is deserted. It's going to be a bright day full of laughter and connivance.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Peten",
+      "lb_year": 2022
+    },
+    "omdb": null
+  },
+  "Tatarang!|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Please Frog, Just One Sip!|2024": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/5/8/1502458-please-frog-just-one-sip-0-500-0-750-crop.jpg?v=1e62b26e6f",
+      "description": "It's a hot day in Africa and the frog can no longer bear the heat. She takes a sip, but then can't stop drinking. Once all the water is gone, the other animals must think of a plan to make the frog give back the water.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "South Africa",
+      "lb_director": "Diek Grobler",
+      "lb_year": 2017
+    },
+    "omdb": null
+  },
+  "The Philadelphia Story|1940": {
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/8/8/51188-the-philadelphia-story-0-500-0-750-crop.jpg?v=d1de7f7887",
+      "description": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "George Cukor",
+      "lb_year": 1940
+    },
+    "omdb": {
+      "Title": "The Philadelphia Story",
+      "Year": "1940",
+      "Rated": "Approved",
+      "Released": "17 Jan 1941",
+      "Runtime": "112 min",
+      "Genre": "Comedy, Romance",
+      "Director": "George Cukor",
+      "Writer": "Donald Ogden Stewart, Philip Barry, Waldo Salt",
+      "Actors": "Cary Grant, Katharine Hepburn, James Stewart",
+      "Plot": "After a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 9 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "7.8",
+      "imdbVotes": "78,160",
+      "imdbID": "tt0032904",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$404,524",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Atlantics|2019": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/3/2/1/427321-atlantics-0-500-0-750-crop.jpg?v=9b99da9ca0",
+      "description": "Arranged to marry a rich man, young Ada is crushed when her true love goes missing at sea during a migration attempt — until a miracle reunites them.",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Mati Diop",
+      "lb_year": 2019
+    },
+    "omdb": {
+      "Title": "Atlantics",
+      "Year": "2019",
+      "Rated": "TV-14",
+      "Released": "29 Nov 2019",
+      "Runtime": "106 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "Mati Diop",
+      "Writer": "Mati Diop, Olivier Demangel",
+      "Actors": "Mame Bineta Sane, Amadou Mbow, Traore",
+      "Plot": "In a popular suburb of Dakar, workers on the construction site of a futuristic tower, without pay for months, decide to leave the country by the ocean for a better future. Among them is Souleiman, the lover of Ada, promised to ano...",
+      "Language": "Wolof, French, Arabic, English",
+      "Country": "France, Senegal, Belgium",
+      "Awards": "13 wins & 64 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGY1NTZhMTAtMjc2Ni00OGM1LTliMmUtM2I0MDQ2OTQ1NWJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "6.7",
+      "imdbVotes": "10,714",
+      "imdbID": "tt10199586",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
   "American Graffiti|1973": {
     "lbxd": {
       "rating": 3.73,
@@ -13670,385 +14095,98 @@
       "Response": "True"
     }
   },
-  "CINEMA DE COLO | INDIELISBOA 2026|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "BOUCHRA|None": {
+  "Fuori|2025": {
     "lbxd": {
-      "rating": 3.62,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/2/5/1393025-bouchra-0-500-0-750-crop.jpg?v=069378d0c4",
-      "description": "Bouchra (35), a Moroccan filmmaker in New York, is paralyzed by the fear of the blank page. A phone call with her mother in Casablanca will have memories resurfacing. Their tender yet complex exchange sparks a creative breakthrough, opening a journey through family bonds, daughterhood, and the thrill of love.",
+      "rating": 3.04,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/1/7/8/1192178-fuori-2025-0-500-0-750-crop.jpg?v=ed8aaa2e8c",
+      "description": "Rome. The 1980s. After the magnum opus The Art of Joy she has been working on for a decade is rejected by the Italian publishing world, writer Goliarda Sapienza commits a desperate theft that costs her her reputation and social position. Incarcerated in Italy’s largest female prison, she finds herself living alongside thieves, junkies, sex workers and revolutionaries. After her release, she continues to meet with these women and over the course of a sweltering summer, a life-changing relationship flowers – a relationship that will reawaken her the desire to live and to write.",
       "genres": [
-        "Animation",
+        "History",
         "Drama"
       ],
-      "country": "USA",
-      "lb_director": "Orian Barki",
+      "country": "Italy",
+      "lb_director": "Mario Martone",
       "lb_year": 2025
     },
     "omdb": {
-      "Title": "Bouchra",
+      "Title": "Fuori",
       "Year": "2025",
       "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "83 min",
-      "Genre": "Animation",
-      "Director": "Orian Yani Barki, Meriem Bennani",
-      "Writer": "N/A",
-      "Actors": "Orian Yani Barki, Meriem Bennani, Ariana Faye Allensworth",
-      "Plot": "Bouchra, a 35-year-old Moroccan coyote in New York documents her long-distance relationship with her mother in Casablanca, as they explore together the love, pain and secrets that unite them through calls and intimate conversations.",
-      "Language": "English, French, Arabic",
-      "Country": "United States, Italy, Morocco",
-      "Awards": "1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4OWU1NDEtMWI1Ny00NzRhLTg0ZWUtN2QyOWY0NmFkODk1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt36543744",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "Mulheres de Abril|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "WE PUT THE WORLD TO SLEEP|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/4/0/353540-we-put-the-world-to-sleep-0-500-0-750-crop.jpg?v=e03200b501",
-      "description": "Adrian and Duru get lost in the characters they play in an apocalyptic film and embark on a secret mission to end the world for real. Second entry in Adrian Țofei and Duru Yücel’s spiritual trilogy which includes Be My Cat: A Film for Anne and Pure.",
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Horror",
-        "Drama"
-      ],
-      "country": "Romania",
-      "lb_director": "Adrian Țofei",
-      "lb_year": 2025
-    },
-    "omdb": {
-      "Title": "We Put the World to Sleep",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "83 min",
-      "Genre": "Adventure, Drama, Horror",
-      "Director": "Adrian Tofei",
-      "Writer": "Adrian Tofei, Duru Yücel",
-      "Actors": "Adrian Tofei, Duru Yücel, Erisse Peterson",
-      "Plot": "Adrian and Duru get lost in the characters they play in an apocalyptic film and embark on a secret mission to end the world for real. Second entry in Adrian Tofei and Duru Yücel's spiritual trilogy which includes Be My Cat: A Film...",
-      "Language": "English",
-      "Country": "Romania",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ1ZmY3OGQtZWI0Yy00MGUyLTgzNGItNDM2N2Q2ZWZjOWUyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt10069050",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "LO DEMÁS ES RUIDO|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "KISS AND BE FRIENDS|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "HAL & HARPER|None": {
-    "lbxd": {
-      "rating": 4.27,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/2/9/0/1307290-hal-harper-0-500-0-750-crop.jpg?v=407368e03f",
-      "description": "Hal and Harper, two codependent siblings living in Los Angeles, try to preserve their childhood even though their single father forces them to grow up too fast.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Cooper Raiff",
-      "lb_year": 2025
-    },
-    "omdb": null
-  },
-  "FUCKTOYS|None": {
-    "lbxd": {
-      "rating": 3.9,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/4/2/1301542-fucktoys-0-500-0-750-crop.jpg?v=77e2bb2e96",
-      "description": "A cursed young woman sets out on a wild fundraising adventure through Trashtown, USA, after she's told by multiple psychics that she can break the curse by paying them $1000.",
-      "genres": [
-        "Comedy"
-      ],
-      "country": "USA",
-      "lb_director": "Annapurna Sriram",
-      "lb_year": 2025
-    },
-    "omdb": {
-      "Title": "Fucktoys",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "09 Mar 2025",
-      "Runtime": "107 min",
-      "Genre": "Comedy",
-      "Director": "Annapurna Sriram",
-      "Writer": "Annapurna Sriram",
-      "Actors": "François Arnaud, Jowin Marie Batoon, Brandon Flynn",
-      "Plot": "N/A",
-      "Language": "N/A",
-      "Country": "United States",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "96%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt35515220",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "FRÍO METAL|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Frío Metal",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "Drama",
-      "Director": "Clemente Castor",
-      "Writer": "Clemente Castor, Karen Plata",
-      "Actors": "Gabino Rodríguez, Mario Hernández, Oscar Hernández",
-      "Plot": "N/A",
-      "Language": "Spanish",
-      "Country": "Mexico",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt32799258",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "FRACTAIS TROPICAIS|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/8/5/2/1284852-tropical-fractals-0-500-0-750-crop.jpg?v=82013e2bb2",
-      "description": "On an interstellar journey, a group of scientists studies the last living vestiges of Earth. The artificial intelligence, Museo, becomes a portal to the crew’s diaries and a fragmented archive of humanity. On Earth, the one believed to be the last of the humans traverses a ruined planet that is slowly recovering, little by little, from the apocalypse it endured.",
-      "genres": [
-        "Drama",
-        "Science Fiction"
-      ],
-      "country": "Brazil",
-      "lb_director": "Leonardo Pirondi",
-      "lb_year": 2026
-    },
-    "omdb": null
-  },
-  "FORDLÂNDIA PANACEA|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/3/1/5/4/1433154-fordlandia-panacea-0-500-0-750-crop.jpg?v=99bc39d25e",
-      "description": "In 1928, industrialist Henry Ford built a company town in the Brazilian jungle and established a rubber plantation. Within a few years his industrial utopia collapsed, coming to an end in 1945. Fordlândia was largely abandoned and became known as a ghost town.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "Brazil",
-      "lb_director": "Susana de Sousa Dias",
-      "lb_year": 2025
-    },
-    "omdb": {
-      "Title": "Fordlandia Panacea",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "62 min",
-      "Genre": "Documentary",
-      "Director": "Susana de Sousa Dias",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Portugal, Brazil",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYyNGEwMTgtNTVmYS00MzllLTlmOWQtYTZmNjBiNWRiN2NkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt38267940",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "ERUPCJA|None": {
-    "lbxd": {
-      "rating": 3.32,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/2/0/7/9/1232079-erupcja-0-500-0-750-crop.jpg?v=dfa5abcd3c",
-      "description": "While on vacation in Poland, Bethany breaks away from a romantic itinerary planned by her doting boyfriend, Rob, fearing that a marriage proposal is imminent. Reuniting instead with an old friend, Nel, the two women rekindle a uniquely combustible chemistry over the course of a few days in a chaste but burning trust predicated on sapphic synchronicity and a mutual penchant for poetry.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Comedy"
-      ],
-      "country": "USA",
-      "lb_director": "Pete Ohs",
-      "lb_year": 2025
-    },
-    "omdb": {
-      "Title": "Erupcja",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "71 min",
-      "Genre": "N/A",
-      "Director": "Pete Ohs",
-      "Writer": "Pete Ohs, Charli XCX, Jeremy O. Harris",
-      "Actors": "Charli XCX, Lena Góra, Will Madden",
-      "Plot": "The combustible chemistry between a Polish florist and a British tourist in this charming postcard of sapphic synchronicity.",
-      "Language": "English, Polish",
-      "Country": "United States, Poland",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "85%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt33712666",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
-  },
-  "DRACULA|None": {
-    "lbxd": {
-      "rating": 3.55,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/1/3/51913-dracula-0-500-0-750-crop.jpg?v=a27a82cffc",
-      "description": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.",
-      "genres": [
-        "Horror"
-      ],
-      "country": "USA",
-      "lb_director": "Tod Browning",
-      "lb_year": 1931
-    },
-    "omdb": {
-      "Title": "Dracula",
-      "Year": "1992",
-      "Rated": "R",
-      "Released": "13 Nov 1992",
-      "Runtime": "128 min",
-      "Genre": "Fantasy, Horror, Romance",
-      "Director": "Francis Ford Coppola",
-      "Writer": "Bram Stoker, James V. Hart",
-      "Actors": "Gary Oldman, Winona Ryder, Anthony Hopkins",
-      "Plot": "Centuries-old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and wreak havoc in the foreign land.",
-      "Language": "English, Romanian, Greek, Bulgarian, Latin",
-      "Country": "United States, United Kingdom",
-      "Awards": "Won 3 Oscars. 30 wins & 21 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVhNzhlMzMtYjJkNy00ODU4LWJmMjUtYzdlMGI3MTQ3YzBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Released": "22 May 2025",
+      "Runtime": "117 min",
+      "Genre": "Biography, Drama",
+      "Director": "Mario Martone",
+      "Writer": "Goliarda Sapienza, Mario Martone, Ippolita Di Majo",
+      "Actors": "Valeria Golino, Matilda De Angelis, Elodie",
+      "Plot": "A writer ends up in prison for a crazy and unexpected act, where she meets with some young inmates. Once out the writer and the other women maintain their friendship, an authentic bond that no one else will be able to understand.",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q1ZGQ0MmMtNWFkYi00OWRiLWFjMTktYzY0NDE0MmIxYjFkXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.4/10"
+          "Value": "6.1/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "69%"
+          "Value": "53%"
         },
         {
           "Source": "Metacritic",
-          "Value": "57/100"
+          "Value": "47/100"
         }
       ],
-      "Metascore": "57",
-      "imdbRating": "7.4",
-      "imdbVotes": "267,072",
-      "imdbID": "tt0103874",
+      "Metascore": "47",
+      "imdbRating": "6.1",
+      "imdbVotes": "454",
+      "imdbID": "tt34768402",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "$82,522,790",
+      "BoxOffice": "N/A",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
     }
   },
-  "TINSMAN ROAD|None": {
+  "Auto Da Casa|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Barrio Triste|None": {
     "lbxd": {
-      "rating": 3.39,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/3/5/9/3/673593-tinsman-road-0-500-0-750-crop.jpg?v=d426fa57e0",
-      "description": "In the backwoods of New Jersey a young man navigates the serpentine mystery surrounding his long-missing sister and their family home.",
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/1/7/1/5/1191715-barrio-triste-0-500-0-750-crop.jpg?v=c2e1f51c8d",
+      "description": "On the outskirts of Medellín, Colombia in the late 1980s, local residents report strange lights descending from the sky. When a reporter arrives to investigate, a ragtag group of teens from a lawless neighbourhood storm the scene and steal his camera. In the hands of its new owners, the device records a mesmerising plunge into their frantic existence.",
       "genres": [
+        "Crime",
         "Drama",
-        "Mystery",
-        "Horror"
+        "Thriller"
       ],
       "country": "USA",
-      "lb_director": "Robbie Banfitch",
+      "lb_director": "STILLZ",
       "lb_year": 2025
     },
     "omdb": {
-      "Title": "Tinsman Road",
-      "Year": "2023",
+      "Title": "Barrio Triste",
+      "Year": "2025",
       "Rated": "N/A",
       "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "Drama, Horror, Mystery",
-      "Director": "Robbie Banfitch",
-      "Writer": "Robbie Banfitch",
-      "Actors": "Robbie Banfitch, Leslie Ann Banfitch, Salem Belladonna",
-      "Plot": "A young man searches for the body of his sister years after her tragic disappearance.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQzMjljZDEtZWU1ZS00MjA0LThiYmItODc4MDJhYjM1NzY4XkEyXkFqcGdeQXVyMTI1MDUxNjAw._V1_SX300.jpg",
+      "Runtime": "84 min",
+      "Genre": "N/A",
+      "Director": "Stillz",
+      "Writer": "N/A",
+      "Actors": "Juan Pablo Baena, Brahian Acevedo, Samuel Ruiz",
+      "Plot": "Four teens as they document their own rowdiness in a hauntingly poetic portrait of violence and loneliness.",
+      "Language": "Spanish",
+      "Country": "Colombia, United States",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt13259900",
+      "imdbID": "tt37660515",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -14057,38 +14195,77 @@
       "Response": "True"
     }
   },
-  "THE FIRES|None": {
+  "By Design|None": {
     "lbxd": {
-      "rating": 3.2,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/9/0/1/3/1189013-the-fires-0-500-0-750-crop.jpg?v=812f316e60",
-      "description": "Top volcanologist Anna Arnardóttir faces two disasters at once: a volcanic eruption that threatens the safety of the capital city and a love affair that could destroy her marriage.",
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/0/7/9/243079-by-design-0-500-0-750-crop.jpg?v=14144da19a",
+      "description": "Angie and Helen are in love. They live and work together designing women's evening wear in Vancouver. When Helen decides she wants to have a baby, the pair set out to find a suitable sperm donor.",
       "genres": [
-        "Thriller"
+        "Drama"
       ],
-      "country": "Iceland",
-      "lb_director": "Ugla Hauksdóttir",
-      "lb_year": 2025
+      "country": "Canada",
+      "lb_director": "Claude Jutra",
+      "lb_year": 1982
     },
     "omdb": {
-      "Title": "The Fires",
+      "Title": "By Design",
+      "Year": "1981",
+      "Rated": "R",
+      "Released": "15 Oct 1982",
+      "Runtime": "92 min",
+      "Genre": "Drama",
+      "Director": "Claude Jutra",
+      "Writer": "Joe Wiesenfeld, Claude Jutra, David Eames",
+      "Actors": "Patty Duke, Sara Botsford, Saul Rubinek",
+      "Plot": "A lesbian couple working as fashion designers in Canada ask their photographer to be the father of their child.",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRkMWEzMWUtN2VmYS00ODhiLWEzMWItMGZhZTAzYWE5NjM0XkEyXkFqcGdeQXVyNDEzNTUxMTk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "128",
+      "imdbID": "tt0082123",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Conference Of The Birds|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Conference of the Birds",
       "Year": "2025",
       "Rated": "N/A",
-      "Released": "11 Sep 2025",
-      "Runtime": "N/A",
-      "Genre": "Thriller",
-      "Director": "Ugla Hauksdóttir",
-      "Writer": "Sigríður Hagalín Björnsdóttir, Markus Englmair, Ugla Hauksdóttir",
-      "Actors": "Pilou Asbæk, Ingvar Sigurdsson, Vigdís Hrefna Pálsdóttir",
-      "Plot": "Anna Arnardóttir, Iceland's top volcanologist, faces two disasters at once: a volcanic eruption that threatens the safety of the capital city and a love affair that could destroy her marriage.",
-      "Language": "Icelandic, English",
-      "Country": "Iceland",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhZjFkYTAtNDY2YS00YmE5LWIxNGEtYjVlYTVmNzlhNTRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Released": "10 Jul 2025",
+      "Runtime": "79 min",
+      "Genre": "Drama",
+      "Director": "Amin Motallebzadeh",
+      "Writer": "N/A",
+      "Actors": "Steven Sowah, Souleymane Sylla",
+      "Plot": "N/A",
+      "Language": "English, Turkish, German, Arabic",
+      "Country": "Germany",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTJmNjliMDMtZGU3NS00YzMzLWJhNTctMzU4MzYzMGQ0NmNkXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
-      "imdbVotes": "13",
-      "imdbID": "tt31272500",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37579616",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -14097,47 +14274,204 @@
       "Response": "True"
     }
   },
-  "RUA (ISTO NÃO É UM FILME, É UM COMETA) + VINTAGE GLITCH. CIDADES PARA ACABAR COM TODOS OS VERÕES E CREPÚSCULOS|None": {
+  "Fiz Um Foguete|None": {
     "lbxd": null,
     "omdb": null
   },
-  "THE BLOOD COUNTESS + VAMPS|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "SUN RA: DO THE IMPOSSIBLE|None": {
+  "Holy Destructors|None": {
     "lbxd": {
-      "rating": 3.56,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/2/7/6/8/1342768-sun-ra-do-the-impossible-0-500-0-750-crop.jpg?v=2919337e5e",
-      "description": "A biographical, musical, illuminating journey into the work and vision of Sun Ra, exploring his jazz roots, endless innovations, and ceaseless artistic and social quests.",
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/7/0/0/0/1437000-holy-destructors-0-500-0-750-crop.jpg?v=3bdb2ac567",
+      "description": "It observes an astonishing cosmos of blooming microorganisms, such as fungi and mould, which have been documented with patience and precision. These images are connected to museum paintings depicting historical and modern Easter processions, while the restoration of frescoes and priests' relics raises questions about decay, fragility, and gratitude.",
       "genres": [
-        "Music",
         "Documentary"
       ],
-      "country": "USA",
-      "lb_director": "Christine Turner",
+      "country": "Lithuania",
+      "lb_director": "Aistė Žegulytė",
       "lb_year": 2025
     },
     "omdb": {
-      "Title": "Sun Ra: Do the Impossible",
+      "Title": "Holy Destructors",
       "Year": "2025",
       "Rated": "N/A",
-      "Released": "10 Jun 2025",
-      "Runtime": "90 min",
-      "Genre": "Documentary, Biography, Music",
-      "Director": "Christine Turner",
-      "Writer": "N/A",
+      "Released": "N/A",
+      "Runtime": "85 min",
+      "Genre": "Documentary",
+      "Director": "Aiste Zegulyte",
+      "Writer": "Licia Eminenti, Vejune Tamuliunaite, Aiste Zegulyte",
       "Actors": "N/A",
-      "Plot": "A journey through Sun Ra's life and music, following his jazz foundations, innovative spirit, and ongoing artistic and social pursuits.",
+      "Plot": "Two powerful forces, both driven by the hunger for life, collide: the relentless growth of microfungi and the boundless persistence of humans.",
+      "Language": "N/A",
+      "Country": "Lithuania, France, Latvia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM4Njg0OGItN2M3My00MGY4LWJlNDMtZGQ0MDQ1MTVmZDM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "7",
+      "imdbID": "tt38743569",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "My Wife Cries|None": {
+    "lbxd": {
+      "rating": 3.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/8/8/1/5/1038815-my-wife-cries-0-500-0-750-crop.jpg?v=25581e5c8d",
+      "description": "A normal working day on a construction site. Thomas, a 40-year-old crane operator, receives a call from his wife asking him to pick her up from the hospital. He finds her crying.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Angela Schanelec",
+      "lb_year": 2026
+    },
+    "omdb": null
+  },
+  "Não Desviar o Olhar|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Quem Tem Medo De Zurita?|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Rose Of Nevada|None": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/3/5/3/1283353-rose-of-nevada-0-500-0-750-crop.jpg?v=2264069784",
+      "description": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Mystery"
+      ],
+      "country": "UK",
+      "lb_director": "Mark Jenkin",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Rose of Nevada",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Jun 2026",
+      "Runtime": "114 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Mark Jenkin",
+      "Writer": "Mark Jenkin",
+      "Actors": "George MacKay, Callum Turner, Rosalind Eleazar",
+      "Plot": "Mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
       "Language": "English",
-      "Country": "United States",
+      "Country": "United Kingdom",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlmNWFhN2MtNTA4Ni00M2M2LWI4NTAtZjk1ZGQ3MDIzNWI4XkEyXkFqcGc@._V1_QL75_UY562_CR61,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "6.7",
+      "imdbVotes": "357",
+      "imdbID": "tt35674521",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Rua Isto Não É Um Filme + Vintage Glitch|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Bewilderment Of Chile|None": {
+    "lbxd": {
+      "rating": 3.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/7/3/4/2/1327342-the-bewilderment-of-chile-0-500-0-750-crop.jpg?v=2d04aae98f",
+      "description": "A wandering man drifts through La Plata's train station, becoming a lens through which we experience various scenes and moments from the Argentine city's daily life.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Argentina",
+      "lb_director": "Lucía Seles",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "The bewilderment of chile",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "06 Apr 2025",
+      "Runtime": "121 min",
+      "Genre": "Romance",
+      "Director": "Lucia Seles",
+      "Writer": "N/A",
+      "Actors": "Manuel Besedovsky, Martin Bussel, Gabriela Ditisheim",
+      "Plot": "N/A",
+      "Language": "Spanish",
+      "Country": "Argentina",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE3YjY5YTMtYWFjOS00OTIxLWJkNGEtYzY5MmEzM2QyZjllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt36393252",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Maratona|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/8/9/8/0/1418980-maratona-0-500-0-750-crop.jpg?v=15942b18fe",
+      "description": "A heated sporting rivalry divides Giorgio Roberti and Fausto Renzi, both capable marathon runners. After a defeat the latter contemplates abandoning competitive sports, but is convinced by Silvia Delotti, daughter of the sports organizer of the \"Aurora\", to return to his father's \"stable\". The rivalry thus also becomes sentimental between Giorgio, already in love with Silvia, and Fausto.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Nicola Fausto Neroni",
+      "lb_year": 1930
+    },
+    "omdb": {
+      "Title": "Maratona",
+      "Year": "1929",
+      "Rated": "N/A",
+      "Released": "31 Jul 1929",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Nicola Fausto Neroni",
+      "Writer": "Nicola Fausto Neroni, Giorgio Simonelli",
+      "Actors": "Gildo Bocci, Gemma De Ferrari, Gabriella Del Fra, Adele Farulli",
+      "Plot": "N/A",
+      "Language": "Italian",
+      "Country": "Italy",
       "Awards": "N/A",
       "Poster": "N/A",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt36591532",
+      "imdbID": "tt0457057",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -14146,124 +14480,118 @@
       "Response": "True"
     }
   },
-  "SILVESTRE CURTAS 4 | 2026|None": {
+  "Premiados 1|None": {
     "lbxd": null,
     "omdb": null
   },
-  "SILVESTRE CURTAS 3 | 2026|None": {
+  "Premiados 2|None": {
     "lbxd": null,
     "omdb": null
   },
-  "SILVESTRE CURTAS 2 | 2026|None": {
+  "Premiados 3|None": {
     "lbxd": null,
     "omdb": null
   },
-  "SILVESTRE CURTAS 1 | 2026|None": {
+  "Premiados 4|None": {
     "lbxd": null,
     "omdb": null
   },
-  "SEGUNDO AMOR|None": {
+  "Premiados 5|None": {
     "lbxd": null,
     "omdb": null
   },
-  "Quem Tem Medo de Zurita de Oliveira?|None": {
+  "Premiados 6|None": {
     "lbxd": null,
     "omdb": null
   },
-  "PARA VIVIR EL IMPLACABLE TIEMPO DE PABLO MILANÉS|None": {
+  "A River's Gaze|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/7/6/9/9/1017699-a-rivers-gaze-0-500-0-750-crop.jpg?v=9f7b040c92",
+      "description": "Lavinia, a single mother trying to make a better life on her own terms for herself and her 13-year-old son, live in a poor Romanian village. She is impulsive, prone to misreading situations, and not sure how to love. But her son, on the threshold between childhood and adolescence, needs his mother more than ever, and over the course of four seasons their relationship is put to the test.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Romania",
+      "lb_director": "Andreea Cristina Bortun",
+      "lb_year": null
+    },
+    "omdb": null
+  },
+  "AS ARMAS E O POVO|None": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/7/4/254374-the-guns-and-the-people-0-500-0-750-crop.jpg?v=c3b0d4d8c5",
+      "description": "Film directors with hand-held cameras went to the streets of Lisbon from April 25 to May 1, 1974, registering interviews and political events of the Portuguese \"Carnation Revolution\", as that period would be later known.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Moedas Miguel",
+      "lb_year": 1975
+    },
+    "omdb": {
+      "Title": "As Armas e o Povo",
+      "Year": "1975",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "78 min",
+      "Genre": "Documentary, History, Reality-TV",
+      "Director": "Manuel Costa e Silva, António da Cunha Telles, Acácio de Almeida",
+      "Writer": "N/A",
+      "Actors": "Fernando Balsinha, Álvaro Cunhal, Adelino Gomes",
+      "Plot": "Film directors with hand-held cameras went to the streets of Lisbon from April 25 to May 1, 1974, registering interviews and political events of the Portuguese \"Carnations Revolution\", as that period would be later known.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTMyYTZiZjctY2Q1ZC00N2QxLWIyZWYtYjc1MWMyMmUyMTA3XkEyXkFqcGdeQXVyNjU3NDg0MTA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "135",
+      "imdbID": "tt0072657",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "SEMPRE|None": {
     "lbxd": null,
     "omdb": {
-      "Title": "Para Vivir, El Implacable Tiempo De Pablo Milanés",
-      "Year": "2025",
+      "Title": "Sempre",
+      "Year": "2024–",
       "Rated": "N/A",
-      "Released": "21 Jun 2025",
+      "Released": "07 Jun 2024",
       "Runtime": "N/A",
-      "Genre": "Documentary",
-      "Director": "Fabien Pisani",
-      "Writer": "Fabien Pisani",
-      "Actors": "Harry Belafonte, Chico Buarque, Omara Portuondo",
-      "Plot": "N/A",
-      "Language": "Spanish",
-      "Country": "Mexico, United States",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Luis Filipe Borges, Luís Lobão, David Neto",
+      "Actors": "Rui Pedro Silva, Diogo Martins, Gabriela Barros",
+      "Plot": "Six different stories about common Portuguese people searching for their own personal deliverance, set during the immediate hours before, during and after the April 25th 1974 revolution.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
       "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNDgwMGYtZDk4NS00MmIwLTk1YjAtYzQ2MDFkMGQwZjRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZiZGIxYzAtNTQxYi00ZjgxLTg0MjgtNDExNDgwMDc4YzIxXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt32033583",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
+      "imdbVotes": "62",
+      "imdbID": "tt31108262",
+      "Type": "series",
+      "totalSeasons": "N/A",
       "Response": "True"
     }
   },
-  "“”PERCURSOS ALTERNATIVOS”” – ECOS DE GARAGEM: O ROCK EM VISEU NOS ANOS 80 E 90|None": {
+  "CARTAS DA GUERRA|None": {
     "lbxd": null,
-    "omdb": null
-  },
-  "PATTY IS SUCH A GIRLY NAME|None": {
-    "lbxd": {
-      "rating": 3.49,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/3/7/2/1425372-patty-is-such-a-girly-name-0-500-0-750-crop.jpg?v=ceabbd1777",
-      "description": "Daphne, a teenage judo athlete from a remote Greek island, is ready to spread her wings and follow Sensei Yuri to the big city and ultimately to the next Olympic Games. Yuri, for unknown reasons, has been absent from the world of Judo for the last few years and he is looking for a new beginning, while Daphne transitions from the carefreeness of adolescence into the hard world of adults.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Greece",
-      "lb_director": "Giorgos Georgopoulos",
-      "lb_year": 2025
-    },
-    "omdb": null
-  },
-  "PARDO É PAPEL|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "NOVÍSSIMOS 2 | 2026|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "NOVÍSSIMOS 1 | 2026|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "NEWPORT AND THE GREAT FOLK DREAM|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/6/2/1393062-newport-and-the-great-folk-dream-0-500-0-750-crop.jpg?v=d1e3c3a548",
-      "description": "Powerful music leaps from the air and can change the actual world. At the Newport Folk Festivals in the early 1960s, the molecules were electric with rebellion and democracy, with anger and hope. Musicians drove that change — Bob Dylan, Joan Baez and Pete Seeger but also banjo players from coal country, remote Georgia gospel artists, rural Canadian fishermen, and the opportunities created for the urban kids to mingle with those they’d not ordinarily encounter.",
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Robert Gordon",
-      "lb_year": 2025
-    },
-    "omdb": null
-  },
-  "MASSA FUNKEIRA + BUBBLING BABY|None": {
-    "lbxd": null,
-    "omdb": null
-  },
-  "Cherchez La Femme|2026": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/4/4/4/7/1524447-cherchez-la-femme-2026-0-500-0-750-crop.jpg?v=cbf7f713ba",
-      "description": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
-      "genres": [
-        "Mystery",
-        "Romance",
-        "Crime",
-        "Drama"
-      ],
-      "country": "Portugal",
-      "lb_director": "António da Cunha Telles",
-      "lb_year": 2026
-    },
     "omdb": null
   }
 }
