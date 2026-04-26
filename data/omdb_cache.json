@@ -16809,5 +16809,35 @@
   "Caronte|2026": {
     "lbxd": null,
     "omdb": null
+  },
+  "ANOCHE CONQUISTÉ TEBAS|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Anoche conquisté Tebas",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "106 min",
+      "Genre": "N/A",
+      "Director": "Gabriel Azorín",
+      "Writer": "Gabriel Azorín, Celso Giménez",
+      "Actors": "Pavle Cemerikic, Santiago Mateus, António Gouveia",
+      "Plot": "On a cold winter afternoon, António and Jota return from the front with their friends, looking for an ancient Roman thermal bath. They joke with each other while wading through swamps, recounting past tactical glories. The baths h...",
+      "Language": "Portuguese, Latin, Galician, Spanish",
+      "Country": "Spain, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2YzU2NmItMWZlYy00ODg5LTlmYzktM2VjM2JhZmQ5NTA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15181334",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
