@@ -18387,5 +18387,122 @@
   "Foi Só Um Acidente|2025": {
     "lbxd": null,
     "omdb": null
+  },
+  "Like Someone in Love|2012": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/iq/od/4r/7e/691KHAO7hVhvveFpz6CSDS7Q4s5-0-500-0-750-crop.jpg?v=9fdf25fb8c",
+      "description": "An old man and a young woman meet in Tokyo. She knows nothing about him, he thinks he knows her. He welcomes her into his home, she offers him her body. But the web that is woven between them in the space of twenty four hours bears no relation to the circumstances of their encounter.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Abbas Kiarostami",
+      "lb_director_slug": "abbas-kiarostami",
+      "lb_year": 2012
+    },
+    "omdb": {
+      "Title": "Like Someone in Love",
+      "Year": "2012",
+      "Rated": "Not Rated",
+      "Released": "15 Sep 2012",
+      "Runtime": "109 min",
+      "Genre": "Drama",
+      "Director": "Abbas Kiarostami",
+      "Writer": "Abbas Kiarostami, Mohammad Rahmani",
+      "Actors": "Rin Takanashi, Tadashi Okuno, Ryô Kase",
+      "Plot": "In Tokyo, a young sex worker develops an unexpected connection with a widower over a period of two days.",
+      "Language": "Japanese",
+      "Country": "Japan, France",
+      "Awards": "1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODAyMjQ4NzE1OF5BMl5BanBnXkFtZTcwMTQzMDYwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.0",
+      "imdbVotes": "13,653",
+      "imdbID": "tt1843287",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$239,056",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Para um Álbum de Lisboa | A Feira | A Embalagem de Vidro | Faça Segundo A Arte | Triunfo da Técnica | Vida e Obra de Ferreira de Castro|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Hard Truths|2024": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/2/8/1/0/912810-hard-truths-2024-0-500-0-750-crop.jpg?v=b4d3eb13ec",
+      "description": "Pansy is a woman so full of rage that every interaction she has devolves into lashing out, whether at her utterly cowed husband and son, or random strangers who have the temerity to address her. In contrast, her younger sister Chantelle lives with her two vivacious daughters and plies a successful trade as a hairdresser, putting clients at their ease all day long. Yet beneath Pansy’s abrasive exterior are hints of a more fragile psyche, one motivated by fear and damaged by repressed pain.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Mike Leigh",
+      "lb_director_slug": "mike-leigh",
+      "lb_year": 2024
+    },
+    "omdb": {
+      "Title": "Hard Truths",
+      "Year": "2025",
+      "Rated": "R",
+      "Released": "10 Jan 2025",
+      "Runtime": "97 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Mike Leigh",
+      "Writer": "Mike Leigh",
+      "Actors": "Marianne Jean-Baptiste, Michele Austin, David Webber",
+      "Plot": "Ongoing exploration of the contemporary world with a tragicomic study of human strengths and weaknesses.",
+      "Language": "English",
+      "Country": "United Kingdom, Spain",
+      "Awards": "Nominated for 2 BAFTA Awards. 28 wins & 60 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTBmNzBlZGYtMTJjMC00YzdiLWFmOGMtZGQ1OWZjYWUxNjI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "7.2",
+      "imdbVotes": "9,106",
+      "imdbID": "tt11891850",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$808,122",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Margot Dias, Etnóloga – I|2012": {
+    "lbxd": null,
+    "omdb": null
   }
 }
