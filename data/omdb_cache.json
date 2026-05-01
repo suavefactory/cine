@@ -18504,5 +18504,216 @@
   "Margot Dias, Etnóloga – I|2012": {
     "lbxd": null,
     "omdb": null
+  },
+  "Rosemary's Baby|1968": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-500-0-750-crop.jpg?v=8e18e4f70c",
+      "description": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Roman Polanski",
+      "lb_director_slug": "roman-polanski",
+      "lb_year": 1968
+    },
+    "omdb": {
+      "Title": "Rosemary's Baby",
+      "Year": "1968",
+      "Rated": "R",
+      "Released": "12 Jun 1968",
+      "Runtime": "137 min",
+      "Genre": "Drama, Horror",
+      "Director": "Roman Polanski",
+      "Writer": "Ira Levin, Roman Polanski",
+      "Actors": "Mia Farrow, John Cassavetes, Ruth Gordon",
+      "Plot": "A young couple trying for a baby moves into an aging, ornate apartment building on Central Park West, where they find themselves surrounded by peculiar neighbors.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 13 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDlhMDI3OTQtNTBkYy00NWQ5LWJmNWEtZGQwYzZlMTQ4MDI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "8.0",
+      "imdbVotes": "250,536",
+      "imdbID": "tt0063522",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Herói|2004": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/4/0/154540-the-hero-0-500-0-750-crop.jpg?v=2e3502719b",
+      "description": "A 20-year veteran of the Angolan civil war returns to the capital city of Luanda where he faces the challenges of assimilation and survival.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Angola",
+      "lb_director": "Zézé Gamboa",
+      "lb_director_slug": "zeze-gamboa",
+      "lb_year": 2004
+    },
+    "omdb": {
+      "Title": "O Herói",
+      "Year": "2004",
+      "Rated": "Not Rated",
+      "Released": "13 May 2004",
+      "Runtime": "97 min",
+      "Genre": "Drama, War",
+      "Director": "Zézé Gamboa",
+      "Writer": "Carla Baptista, Pierre-Marie Goulet, Fernando Vendrell",
+      "Actors": "Makena Diop, Milton 'Santo' Coelho, Maria Ceiça",
+      "Plot": "A 20-year veteran of the Angolan civil war returns to the capital city of Luanda where he faces the challenges of assimilation and survival.",
+      "Language": "Portuguese, French",
+      "Country": "Angola, France, Portugal",
+      "Awards": "6 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MzY5OTI1M15BMl5BanBnXkFtZTgwMjQzMDA2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "162",
+      "imdbID": "tt0424142",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Les Maisons de la Misère |\r\nKiller of Sheep|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/8/6/6/4/268664-houses-of-poverty-0-500-0-750-crop.jpg?v=4357c5666a",
+      "description": "Henri Storck’s militant short on Depression-era Belgium, set in Walloon slums on the outskirts of a prosperous city. Staged vignettes expose substandard housing, overcrowding, and numbed survival through claustrophobic, frame-filling images; a coda on slum clearance and “garden city” rehousing offers guarded hope.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Henri Storck",
+      "lb_director_slug": "henri-storck",
+      "lb_year": 1936
+    },
+    "omdb": {
+      "Title": "Les maisons de la misère",
+      "Year": "1936",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "20 min",
+      "Genre": "Short, Documentary",
+      "Director": "Henri Storck",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "On the outskirts of a prosperous city there are those who live in substandard housing and poverty.This documentary shows one such example from Depression-era Belgium.",
+      "Language": "N/A",
+      "Country": "Belgium",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "24",
+      "imdbID": "tt0292087",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Tommaso|2019": {
+    "lbxd": {
+      "rating": 3.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/3/6/3/4/503634-tommaso-0-500-0-750-crop.jpg?v=72dfcbfc75",
+      "description": "Tommaso is an American expat film director living in Rome with his young wife and their daughter. Disoriented by his past misgivings and subsequent unexpected blows to his self-esteem, Tommaso wades through this late chapter of his life with an increasingly impaired grasp on reality as he prepares for his next film.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Greece",
+      "lb_director": "Abel Ferrara",
+      "lb_director_slug": "abel-ferrara",
+      "lb_year": 2019
+    },
+    "omdb": {
+      "Title": "Tommaso",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "05 Jun 2020",
+      "Runtime": "115 min",
+      "Genre": "Drama",
+      "Director": "Abel Ferrara",
+      "Writer": "Abel Ferrara",
+      "Actors": "Willem Dafoe, Cristina Chiriac, Anna Ferrara",
+      "Plot": "The story of an American artist living in Rome with his young European wife Nikki and their 3-year-old daughter, Dee Dee.",
+      "Language": "English, Italian, Russian",
+      "Country": "Italy, United Kingdom, United States, Greece",
+      "Awards": "3 wins & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTExMWUzMjctM2UwYi00NmE1LWJmNWItOWUwN2ZhZjJlNTFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "6.2",
+      "imdbVotes": "1,902",
+      "imdbID": "tt9482230",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Possessão|1981": {
+    "lbxd": null,
+    "omdb": null
   }
 }
