@@ -18782,5 +18782,116 @@
   "O Último Mergulho|1992": {
     "lbxd": null,
     "omdb": null
+  },
+  "Addams Family Values|1993": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ol/eg/eb/q2/zEwEXGDvJ8Ou2s6XbLMPvMTX53S-0-500-0-750-crop.jpg?v=fcc364f39d",
+      "description": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "country": "USA",
+      "lb_director": "Barry Sonnenfeld",
+      "lb_director_slug": "barry-sonnenfeld",
+      "lb_year": 1993
+    },
+    "omdb": {
+      "Title": "Addams Family Values",
+      "Year": "1993",
+      "Rated": "PG-13",
+      "Released": "19 Nov 1993",
+      "Runtime": "94 min",
+      "Genre": "Comedy, Fantasy",
+      "Director": "Barry Sonnenfeld",
+      "Writer": "Charles Addams, Paul Rudnick",
+      "Actors": "Anjelica Huston, Raul Julia, Christopher Lloyd",
+      "Plot": "The Addams Family try to rescue their beloved Uncle Fester from his gold-digging new love, a black widow named Debbie.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 3 wins & 17 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3Y2ZkYjktZWYxMC00ZmZmLTgxNjYtYmMwYmU5OWJjMThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ],
+      "Metascore": "61",
+      "imdbRating": "6.9",
+      "imdbVotes": "122,736",
+      "imdbID": "tt0106220",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$48,919,043",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Margot Dias, Etnóloga – II|1958": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Virgem Margarida|2011": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Stage Struck|1925": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/0/9/111609-stage-struck-1925-0-500-0-750-crop.jpg?v=08ac26f4f2",
+      "description": "Daydreaming waitress Jennie Hagen fantasizes about becoming a famous actress, while in reality she and her cook boyfriend, Orme Wilson, hope to one day own their own diner. Although Orme loves Jennie, he also has a weakness for stage stars -- so when a riverboat theatrical crew comes to their town, he is smitten by lead actress Lillian Lyons. Desperate to keep Orme, Jennie insists on going onstage to best Lillian, but is soon out of her depth.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Allan Dwan",
+      "lb_director_slug": "allan-dwan",
+      "lb_year": 1925
+    },
+    "omdb": {
+      "Title": "Stage Struck",
+      "Year": "1925",
+      "Rated": "N/A",
+      "Released": "16 Nov 1925",
+      "Runtime": "70 min",
+      "Genre": "Comedy",
+      "Director": "Allan Dwan",
+      "Writer": "Frank R. Adams, Forrest Halsey, Sylvia LaVarre",
+      "Actors": "Gloria Swanson, Lawrence Gray, Gertrude Astor",
+      "Plot": "A young woman dreams of becoming a great actress. When her boyfriend starts to flirt with an actual actress, she becomes jealous and decides to fight with her rival.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "2 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjM5M2E2YmEtN2ZkMS00MDhkLWI4Y2QtZTY1MzY2ZTJmMTFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,150",
+      "imdbID": "tt0016394",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$241,507",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
