@@ -19302,5 +19302,161 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Love in the Afternoon|1957": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/4/1/40441-love-in-the-afternoon-0-500-0-750-crop.jpg?v=5076cdaddc",
+      "description": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with a client's wife.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Billy Wilder",
+      "lb_director_slug": "billy-wilder",
+      "lb_year": 1957
+    },
+    "omdb": {
+      "Title": "Love in the Afternoon",
+      "Year": "1957",
+      "Rated": "Approved",
+      "Released": "30 Jun 1957",
+      "Runtime": "130 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Billy Wilder",
+      "Writer": "Billy Wilder, I.A.L. Diamond, Claude Anet",
+      "Actors": "Gary Cooper, Audrey Hepburn, Maurice Chevalier",
+      "Plot": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with the wife of a client.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "3 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJlZWRjYjQtNzczMy00YzhjLTg0OGItYzljYTZlZmY3YjY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.1",
+      "imdbVotes": "17,841",
+      "imdbID": "tt0050658",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Maria Luísa Bivar, Serialista|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Tab|2022": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Indielisboa: Cn Curtas 1 - Comp. Nacional|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Indielisboa:|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Indielisboa: Conference Of The Birds - Comp. Internacional|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Indielisboa: The Blood Countess + Vamps - Rizoma|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Linguagem Universal|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Rádio Metronom|2022": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Espírito Da Colmeia|1973": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "As Virgens Suicidas|1998": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Diário do Realizador|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Espelho|1974": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Lavagante|2025": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/4/2/1/1356421-lavagante-0-500-0-750-crop.jpg?v=72fb443317",
+      "description": "A story of love and deception, set against a backdrop marked by the actions of the political police under the Salazar dictatorship, censorship, persecution, and imprisonment, and the student revolt of the early 1960s.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Mário Barroso",
+      "lb_director_slug": "mario-barroso",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Lavagante",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "02 Oct 2025",
+      "Runtime": "92 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mário Barroso",
+      "Writer": "José Cardoso Pires, António-Pedro Vasconcelos",
+      "Actors": "Francisco Froes, Nuno Lopes, Júlia Palha",
+      "Plot": "",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmNiMWZiM2YtZTE4OC00YWU4LThjODYtZjM0ZGZmNjM1MWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32678769",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "As Águias da República|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Processo do Cão|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Viver - Ikiru|1952": {
+    "lbxd": null,
+    "omdb": null
   }
 }
