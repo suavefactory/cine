@@ -1,6 +1,50 @@
 window.CINEMA_DATA = {
-  "generated": "2026-05-06T10:23:00.614332+00:00",
+  "generated": "2026-05-07T10:28:40.176050+00:00",
   "movies": [
+    {
+      "id": "sao_jorge_10585",
+      "title": "YALLA HABIBI !",
+      "director": null,
+      "duration": 135,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/3/3/2/4/1463324-yalla-habibi-0-500-0-750-crop.jpg?v=9bceea2d32",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/yalla-habibi-sessao-de-abertura/",
+      "sessions": [
+        {
+          "date": "2026-05-22",
+          "time": "21:00",
+          "cinema": "sao_jorge",
+          "labels": [
+            "Sessão de Abertura"
+          ]
+        }
+      ],
+      "rating": 3.47,
+      "year": 2025,
+      "plot": "FortNine attempts to break the circumnavigation world record with award-winning filmmaker Edwin El Bainou riding pillion. It's a dangerously silly race across thousands of kilometres per day, with the polished and authentic eye that only a ride-along cinematographer can capture. Part documentary and part dark comedy, this is motorcycling as FortNine has never shown before. In less than 19 days, the trio must ride from Anchorage to Miami, Lisbon to Istanbul, Mumbai to Kolkata, Bangkok to Singapore and Perth to Sydney. Their time is inclusive of all flights, border delays and sleep (what few minutes of it there is). Ducati supplied Multistrada V4 Rally motorcycles in each continent for this expedition, and the rest is just gas, swass and the hourglass. Yalla Habibi!",
+      "country": "Canada",
+      "director_lbxd_slug": "edwin-el-bainou"
+    },
+    {
+      "id": "sao_jorge_10569",
+      "title": "My Story My Song: Maria João com João Farinha",
+      "director": null,
+      "duration": 90,
+      "festival": "FESTIVAL MENTAL 2026",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/Maria-Joao-e-Joao-Farinha-fotografia-1200x666-1.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/my-story-my-song-maria-joao-com-joao-farinha/",
+      "sessions": [
+        {
+          "date": "2026-05-17",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
     {
       "id": "sao_jorge_10568",
       "title": "M-Talk: SAÚDE MENTAL NO PERCURSO DOS ARTISTAS",
@@ -203,31 +247,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_10471",
-      "title": "WE PUT THE WORLD TO SLEEP",
-      "director": "Adrian Tofei",
-      "duration": 83,
-      "festival": "INDIE 2026",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/5/4/0/353540-we-put-the-world-to-sleep-0-500-0-750-crop.jpg?v=e03200b501",
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Horror",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/we-put-the-world-to-sleep/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2025,
-      "plot": "Adrian and Duru get lost in the characters they play in an apocalyptic film and embark on a secret mission to end the world for real. Second entry in Adrian Țofei and Duru Yücel’s spiritual trilogy which includes Be My Cat: A Film for Anne and Pure.",
-      "country": "Romania"
-    },
-    {
       "id": "sao_jorge_10469",
       "title": "TINSMAN ROAD",
       "director": "Robbie Banfitch",
@@ -301,11 +320,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemasaojorge.pt/evento/percursos-alternativos-ecos-de-garagem-o-rock-em-viseu-nos-anos-80-e-90/",
       "sessions": [
         {
-          "date": "2026-05-06",
-          "time": "19:15",
-          "cinema": "sao_jorge"
-        },
-        {
           "date": "2026-05-08",
           "time": "19:15",
           "cinema": "sao_jorge"
@@ -330,28 +344,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_10436",
-      "title": "ÓCULOS DE SOL PRETOS",
-      "director": "Pedro Ramalhete",
-      "duration": 72,
-      "festival": "INDIE 2026",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/04/Oculos-de-Sol-Pretos_primaryStill_01.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/oculos-de-sol-pretos/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "14:15",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-05-09",
-          "time": "21:30",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
       "id": "sao_jorge_10426",
       "title": "MASSA FUNKEIRA + BUBBLING BABY",
       "director": null,
@@ -361,11 +353,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/massa-funkeira-bubbling-baby/",
       "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        },
         {
           "date": "2026-05-09",
           "time": "21:45",
@@ -490,138 +477,6 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "On an interstellar journey, a group of scientists studies the last living vestiges of Earth. The artificial intelligence, Museo, becomes a portal to the crew’s diaries and a fragmented archive of humanity. On Earth, the one believed to be the last of the humans traverses a ruined planet that is slowly recovering, little by little, from the apocalypse it endured.",
       "country": "Brazil"
-    },
-    {
-      "id": "sao_jorge_10411",
-      "title": "FORDLÂNDIA PANACEA",
-      "director": "Susana de Sousa Dias",
-      "duration": 66,
-      "festival": "INDIE 2026",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/3/1/5/4/1433154-fordlandia-panacea-0-500-0-750-crop.jpg?v=99bc39d25e",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/fordlandia-panacea/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "16:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2025,
-      "plot": "In 1928, industrialist Henry Ford built a company town in the Brazilian jungle and established a rubber plantation. Within a few years his industrial utopia collapsed, coming to an end in 1945. Fordlândia was largely abandoned and became known as a ghost town.",
-      "country": "Brazil"
-    },
-    {
-      "id": "sao_jorge_10406",
-      "title": "DRACULA",
-      "director": "Francis Ford Coppola",
-      "duration": 170,
-      "festival": "INDIE 2026",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/1/3/51913-dracula-0-500-0-750-crop.jpg?v=a27a82cffc",
-      "genres": [
-        "Horror"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/dracula/",
-      "sessions": [
-        {
-          "date": "2026-05-09",
-          "time": "20:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.55,
-      "year": 1931,
-      "plot": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.",
-      "country": "USA"
-    },
-    {
-      "id": "cinemateca_19843",
-      "title": "David Holzman's Diary",
-      "director": "Jim McBride",
-      "year": 1967,
-      "duration": 74,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/6/5/72165-david-holzman-s-diary-0-500-0-750-crop.jpg?v=e8d1df8567",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19843",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.58,
-      "plot": "A young filmmaker decides to make a movie about his day-to-day activities in an attempt to understand himself and get his life back in order. A precursor to reality television and vlogs.",
-      "country": "USA",
-      "director_lbxd_slug": "jim-mcbride-1"
-    },
-    {
-      "id": "cinemateca_19850",
-      "title": "Zelig",
-      "director": "Woody Allen",
-      "year": 1983,
-      "duration": 79,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/t8/cq/nv/20/47PWRahwzpypXqUoViDXJbVG2hH-0-500-0-750-crop.jpg?v=998e2376b7",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19850",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.89,
-      "plot": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
-      "country": "USA",
-      "director_lbxd_slug": "woody-allen"
-    },
-    {
-      "id": "cinemateca_19863",
-      "title": "Jigoku No Banken: Akai Megane",
-      "director": "Mamoru Oshii",
-      "year": 1987,
-      "duration": 116,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19863",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_19851",
-      "title": "The Connection",
-      "director": "Shirley Clarke",
-      "year": 1961,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/1/9/8019-the-connection-0-500-0-750-crop.jpg?v=8040467087",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19851",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.83,
-      "plot": "Eight drug addicts are waiting for their connection in a New York apartment while a two-man documentary team films the proceedings. Things go out of control as the men grow increasingly nervous and the cameraman keeps recording.",
-      "country": "USA",
-      "director_lbxd_slug": "shirley-clarke"
     },
     {
       "id": "cinemateca_19852",
@@ -955,6 +810,11 @@ window.CINEMA_DATA = {
           "date": "2026-05-12",
           "time": "15:30",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-05-20",
+          "time": "19:30",
+          "cinema": "cinemateca"
         }
       ]
     },
@@ -1125,6 +985,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-14",
           "time": "15:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-05-20",
+          "time": "21:30",
           "cinema": "cinemateca"
         }
       ],
@@ -1475,119 +1340,92 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_as-correntes-2025",
-      "title": "As Correntes",
-      "director": "Milagros Mumenthaler",
+      "id": "cinemateca_19911",
+      "title": "Montadoras - I",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19911",
+      "sessions": [
+        {
+          "date": "2026-05-20",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_19930",
+      "title": "The Apartment",
+      "director": "Billy Wilder",
+      "year": 1960,
+      "duration": 124,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/7/4/51774-the-apartment-0-500-0-750-crop.jpg?v=7df6fac704",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19930",
+      "sessions": [
+        {
+          "date": "2026-05-20",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.43,
+      "plot": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+      "country": "USA",
+      "director_lbxd_slug": "billy-wilder"
+    },
+    {
+      "id": "nimas_o-barqueiro-2025",
+      "title": "O Barqueiro",
+      "director": "Simão Cayatte",
       "year": 2025,
-      "duration": 104,
-      "poster": "https://medeiafilmes.com/uploads/library/as-correntes-poster-digital-low.jpg",
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/o_barqueiro_pt1.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/as-correntes-2025",
+      "link": "https://medeiafilmes.com/filmes/o-barqueiro-2025",
       "sessions": [
         {
-          "date": "2026-05-06",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-05-09",
+          "date": "2026-05-07",
           "time": "15:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-05-12",
-          "time": "17:00",
+          "date": "2026-05-11",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ]
     },
     {
-      "id": "nimas_o-joelho-de-claire-1970",
-      "title": "O Joelho de Claire",
-      "director": "Éric Rohmer",
-      "year": 1970,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/0/3/9/50039-claire-s-knee-0-500-0-750-crop.jpg?v=02ebd85e37",
+      "id": "nimas_quando-a-cidade-dorme-1950",
+      "title": "Quando a Cidade Dorme",
+      "director": "John Huston",
+      "year": 1950,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/0/1/41301-the-asphalt-jungle-0-500-0-750-crop.jpg?v=c8ccf94293",
       "genres": [
-        "Romance",
+        "Crime",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-joelho-de-claire-1970",
+      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
       "sessions": [
         {
-          "date": "2026-05-06",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Festival Internacional de Literatura e Língua Portuguesa – Apresentação por Pedro Mexia"
-          ]
-        }
-      ],
-      "rating": 3.86,
-      "plot": "On the eve of his wedding, on holiday on the Lake Annecy shore, a career diplomat visits an old acquaintance, perhaps a former girlfriend. Through her he meets an intense teenager, Laura, and then lusts after her sister, Claire. Whilst Laura attempts to flirt with him, his fantasy becomes focused on wanting to caress Claire's knee.",
-      "country": "France"
-    },
-    {
-      "id": "nimas_roida-ate-ao-osso-1966",
-      "title": "Roída até ao Osso",
-      "director": "Tai Katô",
-      "year": 1966,
-      "duration": 88,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bngezzta2njqtzwi5nc00mmu3lthmzmqtnzcyognlotu3mgfhxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/roida-ate-ao-osso-1966",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_havera-sangue-2007",
-      "title": "Haverá Sangue",
-      "director": "Paul Thomas Anderson",
-      "year": 2007,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-500-0-750-crop.jpg?v=8a533d5350",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/havera-sangue-2007",
-      "sessions": [
-        {
-          "date": "2026-05-06",
+          "date": "2026-05-07",
           "time": "21:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.46,
-      "plot": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_eva-1950",
-      "title": "Eva",
-      "director": "Joseph L. Mankiewicz",
-      "year": 1950,
-      "duration": 138,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ut/mc/rg/wz/all-about-eve-0-500-0-750-crop.jpg?v=34c6aadc2e",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/eva-1950",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.36,
-      "plot": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+      "rating": 3.86,
+      "plot": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
       "country": "USA"
     },
     {
@@ -1638,48 +1476,25 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_quando-a-cidade-dorme-1950",
-      "title": "Quando a Cidade Dorme",
-      "director": "John Huston",
-      "year": 1950,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/3/0/1/41301-the-asphalt-jungle-0-500-0-750-crop.jpg?v=c8ccf94293",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/quando-a-cidade-dorme-1950",
-      "sessions": [
-        {
-          "date": "2026-05-07",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.86,
-      "plot": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_o-barqueiro-2025",
-      "title": "O Barqueiro",
-      "director": "Simão Cayatte",
+      "id": "nimas_as-correntes-2025",
+      "title": "As Correntes",
+      "director": "Milagros Mumenthaler",
       "year": 2025,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/o_barqueiro_pt1.jpg",
+      "duration": 104,
+      "poster": "https://medeiafilmes.com/uploads/library/as-correntes-poster-digital-low.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-barqueiro-2025",
+      "link": "https://medeiafilmes.com/filmes/as-correntes-2025",
       "sessions": [
         {
-          "date": "2026-05-07",
+          "date": "2026-05-09",
           "time": "15:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-05-11",
-          "time": "22:00",
+          "date": "2026-05-12",
+          "time": "17:00",
           "cinema": "nimas"
         }
       ]
@@ -1713,30 +1528,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_bom-dia-1959",
-      "title": "Bom Dia",
-      "director": "Yasujiro Ozu",
-      "year": 1959,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/6/4/55864-good-morning-0-500-0-750-crop.jpg?v=1793183742",
-      "genres": [
-        "Comedy",
-        "Family",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/bom-dia-1959",
-      "sessions": [
-        {
-          "date": "2026-05-08",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.2,
-      "plot": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan.",
-      "country": "Japan"
-    },
-    {
       "id": "nimas_o-pecado-mora-ao-lado-1955",
       "title": "O Pecado Mora ao Lado",
       "director": "Billy Wilder",
@@ -1757,6 +1548,30 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.31,
       "plot": "When his family goes away for summer vacation, a hitherto faithful publishing executive with an overactive imagination is tempted by an attractive new neighbor.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_vicio-intrinseco-2014",
+      "title": "Vício Intrínseco",
+      "director": "Paul Thomas Anderson",
+      "year": 2014,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-500-0-750-crop.jpg?v=342795552c",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "link": "https://medeiafilmes.com/filmes/vicio-intrinseco-2014",
+      "sessions": [
+        {
+          "date": "2026-05-08",
+          "time": "15:45",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.61,
+      "plot": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
       "country": "USA"
     },
     {
@@ -1786,30 +1601,6 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "nimas_vicio-intrinseco-2014",
-      "title": "Vício Intrínseco",
-      "director": "Paul Thomas Anderson",
-      "year": 2014,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/8/3/0/125830-inherent-vice-0-500-0-750-crop.jpg?v=342795552c",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/vicio-intrinseco-2014",
-      "sessions": [
-        {
-          "date": "2026-05-08",
-          "time": "15:45",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.61,
-      "plot": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
-      "country": "USA"
-    },
-    {
       "id": "nimas_contos-crueis-da-juventude-1960",
       "title": "Contos Cruéis da Juventude",
       "director": "Nagisa Oshima",
@@ -1834,26 +1625,73 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_parada-de-estrelas-1954",
-      "title": "Parada de Estrelas",
-      "director": "Walter Lang",
-      "year": 1954,
-      "duration": 117,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
+      "id": "nimas_bom-dia-1959",
+      "title": "Bom Dia",
+      "director": "Yasujiro Ozu",
+      "year": 1959,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/6/4/55864-good-morning-0-500-0-750-crop.jpg?v=1793183742",
       "genres": [
         "Comedy",
-        "Music"
+        "Family",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
+      "link": "https://medeiafilmes.com/filmes/bom-dia-1959",
       "sessions": [
         {
-          "date": "2026-05-09",
-          "time": "10:00",
+          "date": "2026-05-08",
+          "time": "12:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.18,
-      "plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
+      "rating": 4.2,
+      "plot": "A lighthearted take on director Yasujiro Ozu’s perennial theme of the challenges of inter­generational relationships, Good Morning tells the story of two young boys who stop speaking in protest after their parents refuse to buy a television set. Ozu weaves a wealth of subtle gags through a family portrait as rich as those of his dramatic films, mocking the foibles of the adult world through the eyes of his child protagonists. Shot in stunning color and set in a suburb of Tokyo where housewives gossip about the neighbors’ new washing machine and unemployed husbands look for work as door-to-door salesmen, this charming comedy refashions Ozu’s own silent classic I Was Born, But . . . to gently satirize consumerism in postwar Japan.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_conta-comigo-1986",
+      "title": "Conta Comigo",
+      "director": "Rob Reiner",
+      "year": 1986,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/1/51821-stand-by-me-0-500-0-750-crop.jpg?v=b3163b5def",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/conta-comigo-1986",
+      "sessions": [
+        {
+          "date": "2026-05-09",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.19,
+      "plot": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+      "country": "USA"
+    },
+    {
+      "id": "nimas_rio-sem-regresso-1954",
+      "title": "Rio Sem Regresso",
+      "director": "Otto Preminger",
+      "year": 1954,
+      "duration": 91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/2/50672-river-of-no-return-0-500-0-750-crop.jpg?v=0b0b64a45c",
+      "genres": [
+        "Western",
+        "Adventure"
+      ],
+      "link": "https://medeiafilmes.com/filmes/rio-sem-regresso-1954",
+      "sessions": [
+        {
+          "date": "2026-05-09",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.2,
+      "plot": "An itinerant farmer and his young son help a heart-of-gold saloon singer search for her estranged husband.",
       "country": "USA"
     },
     {
@@ -1904,49 +1742,26 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "nimas_rio-sem-regresso-1954",
-      "title": "Rio Sem Regresso",
-      "director": "Otto Preminger",
+      "id": "nimas_parada-de-estrelas-1954",
+      "title": "Parada de Estrelas",
+      "director": "Walter Lang",
       "year": 1954,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/2/50672-river-of-no-return-0-500-0-750-crop.jpg?v=0b0b64a45c",
+      "duration": 117,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
       "genres": [
-        "Western",
-        "Adventure"
+        "Comedy",
+        "Music"
       ],
-      "link": "https://medeiafilmes.com/filmes/rio-sem-regresso-1954",
+      "link": "https://medeiafilmes.com/filmes/parada-de-estrelas-1954",
       "sessions": [
         {
           "date": "2026-05-09",
-          "time": "17:00",
+          "time": "10:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.2,
-      "plot": "An itinerant farmer and his young son help a heart-of-gold saloon singer search for her estranged husband.",
-      "country": "USA"
-    },
-    {
-      "id": "nimas_conta-comigo-1986",
-      "title": "Conta Comigo",
-      "director": "Rob Reiner",
-      "year": 1986,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/1/51821-stand-by-me-0-500-0-750-crop.jpg?v=b3163b5def",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/conta-comigo-1986",
-      "sessions": [
-        {
-          "date": "2026-05-09",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.19,
-      "plot": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+      "rating": 3.18,
+      "plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
       "country": "USA"
     },
     {
@@ -1975,6 +1790,29 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.3,
       "plot": "A military explorer meets and befriends a Goldi man in Russia’s unmapped forests. A deep and abiding bond evolves between the two men, one civilized in the usual sense, the other at home in the glacial Siberian woods.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_roda-da-fortuna-e-da-fantasia-2021",
+      "title": "Roda da Fortuna e da Fantasia",
+      "director": "Ryûsuke Hamaguchi",
+      "year": 2021,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/3/713523-wheel-of-fortune-and-fantasy-0-500-0-750-crop.jpg?v=6351c215a2",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.07,
+      "plot": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
       "country": "Japan"
     },
     {
@@ -2049,29 +1887,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_roda-da-fortuna-e-da-fantasia-2021",
-      "title": "Roda da Fortuna e da Fantasia",
-      "director": "Ryûsuke Hamaguchi",
-      "year": 2021,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/3/713523-wheel-of-fortune-and-fantasy-0-500-0-750-crop.jpg?v=6351c215a2",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/roda-da-fortuna-e-da-fantasia-2021",
-      "sessions": [
-        {
-          "date": "2026-05-10",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.07,
-      "plot": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
-      "country": "Japan"
-    },
-    {
       "id": "nimas_louco-por-mulheres-1950",
       "title": "Louco por Mulheres",
       "director": "David Miller",
@@ -2122,29 +1937,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "nimas_o-principe-e-a-corista-1957",
-      "title": "O Príncipe e a Corista",
-      "director": "Laurence Olivier",
-      "year": 1957,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-principe-e-a-corista-1957",
-      "sessions": [
-        {
-          "date": "2026-05-11",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.17,
-      "plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
-      "country": "UK"
-    },
-    {
       "id": "nimas_yojimbo-o-invencivel-1961",
       "title": "Yojimbo, o Invencível",
       "director": "Akira Kurosawa",
@@ -2168,6 +1960,29 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
+      "id": "nimas_o-principe-e-a-corista-1957",
+      "title": "O Príncipe e a Corista",
+      "director": "Laurence Olivier",
+      "year": 1957,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/0/9/6/37096-the-prince-and-the-showgirl-0-500-0-750-crop.jpg?v=9eccae1d3c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-principe-e-a-corista-1957",
+      "sessions": [
+        {
+          "date": "2026-05-11",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.17,
+      "plot": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+      "country": "UK"
+    },
+    {
       "id": "nimas_a-mulher-de-quem-se-fala-1954",
       "title": "A Mulher de Quem Se Fala",
       "director": "Kenji Mizoguchi",
@@ -2187,50 +2002,6 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.84,
       "plot": "After living a traumatic experience in Tokyo, Yukiko returns to Kyoto, where Hatsuko, her mother, runs a brothel, which upsets Yukiko very much.",
-      "country": "Japan"
-    },
-    {
-      "id": "nimas_poesia-2010",
-      "title": "Poesia",
-      "director": "Lee Chang-dong",
-      "year": 2010,
-      "duration": 139,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/4/17524-poetry-0-500-0-750-crop.jpg?v=3dcf186b9f",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/poesia-2010",
-      "sessions": [
-        {
-          "date": "2026-05-12",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.24,
-      "plot": "A South Korean woman in her sixties enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
-      "country": "South Korea"
-    },
-    {
-      "id": "nimas_as-verdadeiras-maes-2020",
-      "title": "As Verdadeiras Mães",
-      "director": "Naomi Kawase",
-      "year": 2020,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/5/6/1/5/585615-true-mothers-0-500-0-750-crop.jpg?v=135c598f22",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/as-verdadeiras-maes-2020",
-      "sessions": [
-        {
-          "date": "2026-05-12",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.66,
-      "plot": "After suffering through a long and unsuccessful series of fertility treatments, Satoko and her husband Kiyokazu make the decision to adopt a child. Six years after adopting a boy they named Asato, Satoko has quit her job to concentrate fully on her husband and son. The family lives a peaceful existence until the arrival of a stranger.",
       "country": "Japan"
     },
     {
@@ -2280,28 +2051,48 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
-      "title": "A Imperatriz Yang Kwei Fei",
-      "director": "Kenji Mizoguchi",
-      "year": 1955,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/5/1/76551-princess-yang-kwei-fei-0-500-0-750-crop.jpg?v=8d5b66ed47",
+      "id": "nimas_poesia-2010",
+      "title": "Poesia",
+      "director": "Lee Chang-dong",
+      "year": 2010,
+      "duration": 139,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/4/17524-poetry-0-500-0-750-crop.jpg?v=3dcf186b9f",
       "genres": [
-        "Drama",
-        "Romance",
-        "History"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
+      "link": "https://medeiafilmes.com/filmes/poesia-2010",
       "sessions": [
         {
-          "date": "2026-05-13",
-          "time": "13:00",
+          "date": "2026-05-12",
+          "time": "19:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.76,
-      "plot": "In 8th-century China, the Emperor grieves the death of his wife. The Yang family wants to provide the Emperor with a consort so that they may consolidate their court influence. General An Lushan finds a distant relative working in their kitchen, whom they groom to present to the Emperor. The Emperor falls in love and she becomes the Princess Yang Kwei-fei. The Yangs are then appointed important ministers, though An Lushan is not given the court position he covets.",
-      "country": "Hong Kong"
+      "rating": 4.24,
+      "plot": "A South Korean woman in her sixties enrolls in a poetry class as she grapples with her faltering memory and her grandson's appalling wrongdoing.",
+      "country": "South Korea"
+    },
+    {
+      "id": "nimas_as-verdadeiras-maes-2020",
+      "title": "As Verdadeiras Mães",
+      "director": "Naomi Kawase",
+      "year": 2020,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/5/6/1/5/585615-true-mothers-0-500-0-750-crop.jpg?v=135c598f22",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/as-verdadeiras-maes-2020",
+      "sessions": [
+        {
+          "date": "2026-05-12",
+          "time": "12:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.66,
+      "plot": "After suffering through a long and unsuccessful series of fertility treatments, Satoko and her husband Kiyokazu make the decision to adopt a child. Six years after adopting a boy they named Asato, Satoko has quit her job to concentrate fully on her husband and son. The family lives a peaceful existence until the arrival of a stranger.",
+      "country": "Japan"
     },
     {
       "id": "nimas_niagara-1953",
@@ -2380,6 +2171,30 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
+      "id": "nimas_a-imperatriz-yang-kwei-fei-1955",
+      "title": "A Imperatriz Yang Kwei Fei",
+      "director": "Kenji Mizoguchi",
+      "year": 1955,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/5/1/76551-princess-yang-kwei-fei-0-500-0-750-crop.jpg?v=8d5b66ed47",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-imperatriz-yang-kwei-fei-1955",
+      "sessions": [
+        {
+          "date": "2026-05-13",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "In 8th-century China, the Emperor grieves the death of his wife. The Yang family wants to provide the Emperor with a consort so that they may consolidate their court influence. General An Lushan finds a distant relative working in their kitchen, whom they groom to present to the Emperor. The Emperor falls in love and she becomes the Princess Yang Kwei-fei. The Yangs are then appointed important ministers, though An Lushan is not given the court position he covets.",
+      "country": "Hong Kong"
+    },
+    {
       "id": "nimas_possessao-1981",
       "title": "Possessão",
       "director": "Andrzej Zulawski",
@@ -2416,11 +2231,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/A-RAPARIGA-QUE-SABIA-DEMAIS",
       "sessions": [
         {
-          "date": "2026-05-06",
-          "time": "19:15",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-05-07",
           "time": "21:30",
           "cinema": "fernando"
@@ -2443,24 +2253,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-11",
           "time": "21:00",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_indielisboa_cn_curtas_1_comp_nacional",
-      "title": "Indielisboa: Cn Curtas 1 - Comp. Nacional",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "festival": "Indielisboa",
-      "link": "https://cinemafernandolopes.pt/INDIELISBOA",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
           "cinema": "fernando"
         }
       ]
@@ -2566,11 +2358,6 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-05-08",
           "time": "21:00",
           "cinema": "trindade",
@@ -2652,61 +2439,6 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ]
-    },
-    {
-      "id": "batalha_s8Aa8luwthaS65yk",
-      "title": "Phantoms of Nabua",
-      "director": "Apichatpong Weerasethakul",
-      "year": 2009,
-      "duration": 11,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/9/15079-phantoms-of-nabua-0-500-0-750-crop.jpg?v=5133dc6835",
-      "genres": [
-        "Mystery"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/01-phantoms-of-nabua",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "23:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.82,
-      "plot": "The story based on the mysterious portrait of the town of Nabua in northeastern Thailand. Soon after nightfall when the crepuscular violets concede to blackness, the wind's rustling intensifies and the boys come out to play.",
-      "country": "Thailand"
-    },
-    {
-      "id": "batalha_s3yvQqJz0170FNnC",
-      "title": "Offside",
-      "director": "Jafar Panahi",
-      "year": 2006,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/5/2/12952-offside-0-500-0-750-crop.jpg?v=12688c34b5",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/02-offside",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "23:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.28,
-      "plot": "In the small Swedish town of Stensfors, the local football team faces dissolution unless it can win its remaining matches. Team member Kent recruits former 1980s Premier League star Duncan Miller to help, only to discover their hero is out of shape, alcoholic, and far from match-ready.",
-      "country": "Sweden"
     },
     {
       "id": "batalha_sBtZW1ffBsu9PK1b",
@@ -3441,6 +3173,51 @@ window.CINEMA_DATA = {
       "rating": 3.51,
       "plot": "An airline pilot pursues a live-in babysitter at his hotel and gradually realizes she is not as stable as perhaps she should be.",
       "country": "USA"
+    },
+    {
+      "id": "batalha_s8Aa8luwthaS65yk",
+      "title": "Phantoms of Nabua",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2009,
+      "duration": 11,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/9/15079-phantoms-of-nabua-0-500-0-750-crop.jpg?v=5133dc6835",
+      "genres": [
+        "Mystery"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-phantoms-of-nabua",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.82,
+      "plot": "The story based on the mysterious portrait of the town of Nabua in northeastern Thailand. Soon after nightfall when the crepuscular violets concede to blackness, the wind's rustling intensifies and the boys come out to play.",
+      "country": "Thailand"
+    },
+    {
+      "id": "batalha_s3yvQqJz0170FNnC",
+      "title": "Offside",
+      "director": "Jafar Panahi",
+      "year": 2006,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/5/2/12952-offside-0-500-0-750-crop.jpg?v=12688c34b5",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-offside",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "21:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.28,
+      "plot": "In the small Swedish town of Stensfors, the local football team faces dissolution unless it can win its remaining matches. Team member Kent recruits former 1980s Premier League star Duncan Miller to help, only to discover their hero is out of shape, alcoholic, and far from match-ready.",
+      "country": "Sweden"
     },
     {
       "id": "batalha_szIqP0kTiCypu1RS",
@@ -4360,109 +4137,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "trindade_8221",
-      "title": "Chão Verde De Pássaros Escritos",
-      "director": "Sandra Inês Cruz",
-      "year": 2026,
-      "duration": 77,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/1/9/9/8/1401998-chao-verde-de-passaros-escritos-0-500-0-750-crop.jpg?v=d66511d1f0",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/chao-verde-de-passaros-escritos",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "trindade_8322",
-      "title": "Sonhos",
-      "director": "Michel Franco",
-      "year": 2026,
-      "duration": 98,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/sonhos",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-05-07",
-          "time": "15:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-05-12",
-          "time": "15:00",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8238",
-      "title": "Cherchez La Femme",
-      "director": "António da Cunha Telles",
-      "year": 2026,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/4/4/4/7/1524447-cherchez-la-femme-2026-0-500-0-750-crop.jpg?v=cbf7f713ba",
-      "genres": [
-        "Mystery",
-        "Romance",
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/cherchez-la-femme",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "16:00",
-          "cinema": "trindade"
-        }
-      ],
-      "plot": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
-      "country": "Portugal"
-    },
-    {
-      "id": "trindade_8201",
-      "title": "La Grazia",
-      "director": "Paolo Sorrentino",
-      "year": 2025,
-      "duration": 132,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/la-grazia-2",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-05-07",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-05-11",
-          "time": "15:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.71,
-      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
-      "country": "Italy"
-    },
-    {
       "id": "trindade_7491",
       "title": "Divina Comédia",
       "director": "Ali Asgari",
@@ -4472,21 +4146,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/a-divina-comedia",
       "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "15:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-05-06",
-          "time": "17:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-05-07",
           "time": "14:15",
@@ -4525,6 +4184,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-09",
           "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-05-09",
+          "time": "21:30",
           "cinema": "trindade"
         },
         {
@@ -4590,23 +4254,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "trindade_7672",
-      "title": "Nossa Terra",
-      "director": "Lucrecia Martel",
-      "year": 2025,
-      "duration": 122,
+      "id": "trindade_8322",
+      "title": "Sonhos",
+      "director": "Michel Franco",
+      "year": 2026,
+      "duration": 98,
       "poster": null,
       "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/nossa-terra",
+      "link": "https://cinematrindade.pt/pt/filmes/sonhos",
       "sessions": [
         {
-          "date": "2026-05-06",
-          "time": "19:00",
+          "date": "2026-05-07",
+          "time": "15:00",
           "cinema": "trindade"
         },
         {
           "date": "2026-05-12",
-          "time": "19:15",
+          "time": "15:00",
           "cinema": "trindade"
         }
       ]
@@ -4625,11 +4289,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-drama",
       "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-05-07",
           "time": "16:00",
@@ -4679,6 +4338,33 @@ window.CINEMA_DATA = {
       "rating": 3.78,
       "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
       "country": "USA"
+    },
+    {
+      "id": "trindade_8201",
+      "title": "La Grazia",
+      "director": "Paolo Sorrentino",
+      "year": 2025,
+      "duration": 132,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/la-grazia-2",
+      "sessions": [
+        {
+          "date": "2026-05-07",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-05-11",
+          "time": "15:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.71,
+      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "country": "Italy"
     },
     {
       "id": "trindade_1653",
@@ -5004,6 +4690,23 @@ window.CINEMA_DATA = {
       "country": "Italy"
     },
     {
+      "id": "trindade_7672",
+      "title": "Nossa Terra",
+      "director": "Lucrecia Martel",
+      "year": 2025,
+      "duration": 122,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/nossa-terra",
+      "sessions": [
+        {
+          "date": "2026-05-12",
+          "time": "19:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
       "id": "trindade_1713",
       "title": "O Espírito Da Colmeia",
       "director": "Victor Erice",
@@ -5101,50 +4804,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "ideal_barrio_triste",
-      "title": "Barrio Triste",
-      "director": "Stillz",
+      "id": "ideal__culos_de_sol_pretos",
+      "title": "Óculos De Sol Pretos",
+      "director": null,
       "year": 2025,
-      "duration": 84,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/1/7/1/5/1191715-barrio-triste-0-500-0-750-crop.jpg?v=c2e1f51c8d",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "festival": "INDIE Lisboa",
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=59918",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:30",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.42,
-      "plot": "On the outskirts of Medellín, Colombia in the late 1980s, local residents report strange lights descending from the sky. When a reporter arrives to investigate, a ragtag group of teens from a lawless neighbourhood storm the scene and steal his camera. In the hands of its new owners, the device records a mesmerising plunge into their frantic existence.",
-      "country": "USA"
-    },
-    {
-      "id": "ideal_conference_of_the_birds",
-      "title": "Conference Of The Birds",
-      "director": "Amin Motallebzadeh",
-      "year": 2025,
-      "duration": 79,
+      "duration": 71,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-27.jpg",
       "genres": [
         "Drama"
       ],
       "festival": "INDIE Lisboa",
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=59934",
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=60015",
       "sessions": [
         {
-          "date": "2026-05-06",
-          "time": "19:30",
+          "date": "2026-05-09",
+          "time": "21:30",
           "cinema": "ideal"
         }
       ],
-      "country": "Germany"
+      "country": "Portugal"
     },
     {
       "id": "ideal_quem_tem_medo_de_zurita_",
@@ -5332,24 +5010,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "ideal_curtas_1__ciclo",
-      "title": "Curtas 1º Ciclo",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-27.jpg",
-      "genres": [],
-      "festival": "INDIE Lisboa",
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=60140",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "11:00",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
       "id": "ideal_n_o_desviar_o_olhar",
       "title": "Não Desviar O Olhar",
       "director": null,
@@ -5364,52 +5024,6 @@ window.CINEMA_DATA = {
           "date": "2026-05-07",
           "time": "19:30",
           "cinema": "ideal"
-        }
-      ]
-    },
-    {
-      "id": "ideal_fuori",
-      "title": "FUORI",
-      "director": "Mario Martone",
-      "year": 2025,
-      "duration": 117,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/1/7/8/1192178-fuori-2025-0-500-0-750-crop.jpg?v=ed8aaa2e8c",
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=59539",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "17:00",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.04,
-      "plot": "Rome. The 1980s. After the magnum opus The Art of Joy she has been working on for a decade is rejected by the Italian publishing world, writer Goliarda Sapienza commits a desperate theft that costs her her reputation and social position. Incarcerated in Italy’s largest female prison, she finds herself living alongside thieves, junkies, sex workers and revolutionaries. After her release, she continues to meet with these women and over the course of a sweltering summer, a life-changing relationship flowers – a relationship that will reawaken her the desire to live and to write.",
-      "country": "Italy"
-    },
-    {
-      "id": "campo_alegre_foi-so-um-acidente-2025",
-      "title": "Foi Só Um Acidente",
-      "director": "Jafar Panahi",
-      "year": 2025,
-      "duration": 104,
-      "poster": "https://medeiafilmes.com/uploads/library/poster-jpg-2.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/foi-so-um-acidente-2025",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:00",
-          "cinema": "campo_alegre",
-          "labels": [
-            "XIX Ciclo A JUSTIÇA NO CINEMA – Projecção seguida de debate"
-          ]
         }
       ]
     },
@@ -5461,52 +5075,6 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
-      "id": "campo_alegre_francofonia-2015",
-      "title": "Francofonia",
-      "director": "Aleksandr Sokurov",
-      "year": 2015,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/3/7/2/8/223728-francofonia-0-500-0-750-crop.jpg?v=a454a8ad62",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/francofonia-2015",
-      "sessions": [
-        {
-          "date": "2026-05-09",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 3.51,
-      "plot": "Master filmmaker Alexander Sokurov (Russian Ark) transforms a portrait of the world-renowned museum into a magisterial, centuries-spanning reflection on the relation between art, culture and power.",
-      "country": "France"
-    },
-    {
-      "id": "campo_alegre_nostalgia-1983-1983",
-      "title": "Nostalgia (1983)",
-      "director": "Andrei Tarkovsky",
-      "year": 1983,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/nostalgia-1983-1983",
-      "sessions": [
-        {
-          "date": "2026-05-09",
-          "time": "17:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.28,
-      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
-      "country": "Italy"
-    },
-    {
       "id": "campo_alegre_o-diario-do-realizador-2025",
       "title": "O Diário do Realizador",
       "director": "Aleksandr Sokurov",
@@ -5537,23 +5105,50 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "campo_alegre_o-espelho-1974",
-      "title": "O Espelho",
+      "id": "campo_alegre_nostalgia-1983-1983",
+      "title": "Nostalgia (1983)",
       "director": "Andrei Tarkovsky",
-      "year": 1974,
+      "year": 1983,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/o-espelho.jpeg",
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-espelho-1974",
+      "link": "https://medeiafilmes.com/filmes/nostalgia-1983-1983",
       "sessions": [
         {
-          "date": "2026-05-10",
-          "time": "17:45",
+          "date": "2026-05-09",
+          "time": "17:30",
           "cinema": "campo_alegre"
         }
-      ]
+      ],
+      "rating": 4.28,
+      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
+      "country": "Italy"
+    },
+    {
+      "id": "campo_alegre_francofonia-2015",
+      "title": "Francofonia",
+      "director": "Aleksandr Sokurov",
+      "year": 2015,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/3/7/2/8/223728-francofonia-0-500-0-750-crop.jpg?v=a454a8ad62",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/francofonia-2015",
+      "sessions": [
+        {
+          "date": "2026-05-09",
+          "time": "15:30",
+          "cinema": "campo_alegre"
+        }
+      ],
+      "rating": 3.51,
+      "plot": "Master filmmaker Alexander Sokurov (Russian Ark) transforms a portrait of the world-renowned museum into a magisterial, centuries-spanning reflection on the relation between art, culture and power.",
+      "country": "France"
     },
     {
       "id": "campo_alegre_alexander-nevsky-1938",
@@ -5578,6 +5173,25 @@ window.CINEMA_DATA = {
       "rating": 3.76,
       "plot": "When German knights invade Russia, Prince Alexander Nevsky must rally his people to resist the formidable force. After the Teutonic soldiers take over an eastern Russian city, Alexander stages his stand at Novgorod, where a major battle is fought on the ice of frozen Lake Chudskoe. While Alexander leads his outnumbered troops, two of their number, Vasili and Gavrilo, begin a contest of bravery to win the hand of a local maiden.",
       "country": "USSR"
+    },
+    {
+      "id": "campo_alegre_o-espelho-1974",
+      "title": "O Espelho",
+      "director": "Andrei Tarkovsky",
+      "year": 1974,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/o-espelho.jpeg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-espelho-1974",
+      "sessions": [
+        {
+          "date": "2026-05-10",
+          "time": "17:45",
+          "cinema": "campo_alegre"
+        }
+      ]
     },
     {
       "id": "campo_alegre_stalker-1979",
@@ -5782,25 +5396,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "campo_alegre_viver-ikiru-1952",
-      "title": "Viver - Ikiru",
-      "director": "Akira Kurosawa",
-      "year": 1952,
-      "duration": 143,
-      "poster": "https://medeiafilmes.com/uploads/library/3_viver_ikiru.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/viver-ikiru-1952",
-      "sessions": [
-        {
-          "date": "2026-05-22",
-          "time": "21:00",
-          "cinema": "campo_alegre"
-        }
-      ]
-    },
-    {
       "id": "campo_alegre_contos-da-lua-vaga-1953",
       "title": "Contos da Lua Vaga",
       "director": "Kenji Mizoguchi",
@@ -5822,6 +5417,47 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.26,
       "plot": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama.",
+      "country": "Japan"
+    },
+    {
+      "id": "campo_alegre_viver-ikiru-1952",
+      "title": "Viver - Ikiru",
+      "director": "Akira Kurosawa",
+      "year": 1952,
+      "duration": 143,
+      "poster": "https://medeiafilmes.com/uploads/library/3_viver_ikiru.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/viver-ikiru-1952",
+      "sessions": [
+        {
+          "date": "2026-05-22",
+          "time": "21:00",
+          "cinema": "campo_alegre"
+        }
+      ]
+    },
+    {
+      "id": "campo_alegre_o-gosto-do-sake-1962",
+      "title": "O Gosto do Saké",
+      "director": "Yasujiro Ozu",
+      "year": 1962,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cg/t1/wu/99/yLTJiofk4x6Q7qpCfEOazdpVglP-0-500-0-750-crop.jpg?v=6fb819a4c4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-gosto-do-sake-1962",
+      "sessions": [
+        {
+          "date": "2026-05-23",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        }
+      ],
+      "rating": 4.23,
+      "plot": "Widower Shuhei Hirayama's caretaker is his 24-year-old daughter, Michiko. Gradually, he comes to realize that Michiko should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
       "country": "Japan"
     },
     {
@@ -5847,25 +5483,25 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "campo_alegre_o-gosto-do-sake-1962",
-      "title": "O Gosto do Saké",
-      "director": "Yasujiro Ozu",
-      "year": 1962,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/cg/t1/wu/99/yLTJiofk4x6Q7qpCfEOazdpVglP-0-500-0-750-crop.jpg?v=6fb819a4c4",
+      "id": "campo_alegre_rua-da-vergonha-1956",
+      "title": "Rua da Vergonha",
+      "director": "Kenji Mizoguchi",
+      "year": 1956,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/9/1/21891-street-of-shame-0-500-0-750-crop.jpg?v=42a1b89e9d",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-gosto-do-sake-1962",
+      "link": "https://medeiafilmes.com/filmes/rua-da-vergonha-1956",
       "sessions": [
         {
-          "date": "2026-05-23",
-          "time": "21:30",
+          "date": "2026-05-24",
+          "time": "15:30",
           "cinema": "campo_alegre"
         }
       ],
-      "rating": 4.23,
-      "plot": "Widower Shuhei Hirayama's caretaker is his 24-year-old daughter, Michiko. Gradually, he comes to realize that Michiko should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
+      "rating": 4.13,
+      "plot": "Follows five sex workers employed at a Japanese brothel while the nation debates the passage of an anti-prostitution law.",
       "country": "Japan"
     },
     {
@@ -5892,57 +5528,6 @@ window.CINEMA_DATA = {
       "country": "Japan"
     },
     {
-      "id": "campo_alegre_rua-da-vergonha-1956",
-      "title": "Rua da Vergonha",
-      "director": "Kenji Mizoguchi",
-      "year": 1956,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/9/1/21891-street-of-shame-0-500-0-750-crop.jpg?v=42a1b89e9d",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/rua-da-vergonha-1956",
-      "sessions": [
-        {
-          "date": "2026-05-24",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.13,
-      "plot": "Follows five sex workers employed at a Japanese brothel while the nation debates the passage of an anti-prostitution law.",
-      "country": "Japan"
-    },
-    {
-      "id": "culturgest_indie_shorts_1st_cycle",
-      "title": "Shorts 1st Cycle",
-      "director": null,
-      "year": null,
-      "duration": 41,
-      "poster": null,
-      "genres": [],
-      "link": "https://indielisboa.com/en/screening/2347-8106-shorts-1st-cycle/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "10:30",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        },
-        {
-          "date": "2026-05-08",
-          "time": "10:30",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        }
-      ],
-      "festival": "INDIE"
-    },
-    {
       "id": "culturgest_indie_shorts_pre_school",
       "title": "Shorts Pre-school",
       "director": null,
@@ -5950,16 +5535,8 @@ window.CINEMA_DATA = {
       "duration": 46,
       "poster": null,
       "genres": [],
-      "link": "https://indielisboa.com/en/screening/2354-8006-shorts-pre-school/",
+      "link": "https://indielisboa.com/en/screening/2349-8007-shorts-pre-school/",
       "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "14:30",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        },
         {
           "date": "2026-05-07",
           "time": "10:30",
@@ -5971,128 +5548,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-05-08",
           "time": "14:30",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        }
-      ],
-      "festival": "INDIE"
-    },
-    {
-      "id": "culturgest_indie_shorts_2nd_cycle",
-      "title": "Shorts 2nd Cycle",
-      "director": null,
-      "year": null,
-      "duration": 47,
-      "poster": null,
-      "genres": [],
-      "link": "https://indielisboa.com/en/screening/2348-8203-shorts-2nd-cycle/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "15:00",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        },
-        {
-          "date": "2026-05-08",
-          "time": "10:45",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        }
-      ],
-      "festival": "INDIE"
-    },
-    {
-      "id": "culturgest_indie_by_design",
-      "title": "By Design",
-      "director": "Claude Jutra",
-      "year": 1982,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/0/7/9/243079-by-design-0-500-0-750-crop.jpg?v=14144da19a",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://indielisboa.com/en/screening/2476-174-by-design/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:00",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        }
-      ],
-      "festival": "INDIE",
-      "plot": "Angie and Helen are in love. They live and work together designing women's evening wear in Vancouver. When Helen decides she wants to have a baby, the pair set out to find a suitable sperm donor.",
-      "country": "Canada"
-    },
-    {
-      "id": "culturgest_indie_ic_shorts_4",
-      "title": "IC Shorts 4",
-      "director": null,
-      "year": null,
-      "duration": 83,
-      "poster": null,
-      "genres": [],
-      "link": "https://indielisboa.com/en/screening/2341-192-ic-shorts-4/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "19:15",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        }
-      ],
-      "festival": "INDIE"
-    },
-    {
-      "id": "culturgest_indie_18_holes_to_paradise",
-      "title": "18 Holes to Paradise",
-      "director": null,
-      "year": 2025,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/8/9/6/0/1318960-18-holes-to-paradise-0-500-0-750-crop.jpg?v=84abe002af",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://indielisboa.com/en/screening/2390-102-18-holes-to-paradise/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "21:45",
-          "cinema": "culturgest",
-          "labels": [
-            "INDIE Lisboa 2026"
-          ]
-        }
-      ],
-      "festival": "INDIE",
-      "plot": "A family with a long history (and many members) gathers around a table in a mansion in southern Portugal. The region has transformed from a depressed area into a thriving tourist destination. Kisses, hugs, and greetings quickly turn into complaints and reproaches surrounding the big issue: What should be done with Daddy’s house? It is a tempting piece of cake, laden with rich family memories. But progress cannot be stopped.",
-      "country": "Portugal",
-      "director_lbxd_slug": "joao-nuno-pinto"
-    },
-    {
-      "id": "culturgest_indie_ic_shorts_5",
-      "title": "IC Shorts 5",
-      "director": null,
-      "year": null,
-      "duration": 78,
-      "poster": null,
-      "genres": [],
-      "link": "https://indielisboa.com/en/screening/2342-195-ic-shorts-5/",
-      "sessions": [
-        {
-          "date": "2026-05-06",
-          "time": "22:00",
           "cinema": "culturgest",
           "labels": [
             "INDIE Lisboa 2026"
@@ -6246,6 +5701,48 @@ window.CINEMA_DATA = {
       "plot": "A chant from another time reveals the ancient everyday gestures of a Gypsy family, anchored by the errant couple Maria and Arménio. In the flow of days and life cycles, we find resistance and celebration.",
       "country": "Portugal",
       "director_lbxd_slug": "diogo-allen"
+    },
+    {
+      "id": "culturgest_indie_shorts_1st_cycle",
+      "title": "Shorts 1st Cycle",
+      "director": null,
+      "year": null,
+      "duration": 41,
+      "poster": null,
+      "genres": [],
+      "link": "https://indielisboa.com/en/screening/2351-8109-shorts-1st-cycle/",
+      "sessions": [
+        {
+          "date": "2026-05-08",
+          "time": "10:30",
+          "cinema": "culturgest",
+          "labels": [
+            "INDIE Lisboa 2026"
+          ]
+        }
+      ],
+      "festival": "INDIE"
+    },
+    {
+      "id": "culturgest_indie_shorts_2nd_cycle",
+      "title": "Shorts 2nd Cycle",
+      "director": null,
+      "year": null,
+      "duration": 47,
+      "poster": null,
+      "genres": [],
+      "link": "https://indielisboa.com/en/screening/2355-8204-shorts-2nd-cycle/",
+      "sessions": [
+        {
+          "date": "2026-05-08",
+          "time": "10:45",
+          "cinema": "culturgest",
+          "labels": [
+            "INDIE Lisboa 2026"
+          ]
+        }
+      ],
+      "festival": "INDIE"
     },
     {
       "id": "culturgest_indie_silvestre_shorts_1",
@@ -6657,11 +6154,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Raquel Freire (born 22 June 1973, in Porto) is a Portuguese film director, screenwriter and novelist."
     },
-    "Adrian Tofei": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Robbie Banfitch": {
       "lbxd_slug": null,
       "photo": null,
@@ -6673,11 +6165,6 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Irene Iborra Pais Bélgica Suíça Espanha Chile França": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Pedro Ramalhete": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -6707,36 +6194,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Retrato_de_Leonardo_Pirondi.jpg/500px-Retrato_de_Leonardo_Pirondi.jpg",
       "bio": "Leonardo Pirondi is a Brazilian film director from São Paulo. Pirondi's work explores the intersection between fiction and non-fiction filmmaking using non-conventional structures of documentary, experimental, and narrative modes. In his films he explores contemporary sociopolitical issues and collective anxieties as a lens to look into history, imagination, myth, and technology."
     },
-    "Susana de Sousa Dias": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": "Susana de Sousa Dias (born in Lisbon) is a Portuguese artist and filmmaker."
-    },
-    "Francis Ford Coppola": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
-      "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
-    },
-    "Jim McBride": {
-      "lbxd_slug": "jim-mcbride-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jim_McBride_Adriano_Apr%C3%A0_Salsomaggiore_1981.jpg/500px-Jim_McBride_Adriano_Apr%C3%A0_Salsomaggiore_1981.jpg",
-      "bio": "Jim McBride (born September 16, 1941) is an American screenwriter, producer and director."
-    },
-    "Woody Allen": {
-      "lbxd_slug": "woody-allen",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Woody_Allen_Cannes_2016.jpg/500px-Woody_Allen_Cannes_2016.jpg",
-      "bio": "Heywood \"Woody\" Allen (born Allan Stewart Konigsberg; November 30, 1935) is an American filmmaker, actor, writer, and comedian. In a career spanning eight decades, he has written for film, television, and theater. Allen has received many accolades, including the most wins and nominations for the Academy Award for Best Original Screenplay."
-    },
-    "Mamoru Oshii": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mamoru_Oshii_-_Lucca_Comics_%26_Games_2015.JPG/500px-Mamoru_Oshii_-_Lucca_Comics_%26_Games_2015.JPG",
-      "bio": "Mamoru Oshii (押井 守, Oshii Mamoru; born 8 August 1951) is a Japanese filmmaker, television director and writer. Famous for his philosophy-oriented storytelling, Oshii has directed a number of acclaimed anime films, including Urusei Yatsura 2: Beautiful Dreamer (1984), Angel's Egg (1985), Patlabor 2: The Movie (1993), and Ghost in the Shell (1995). He also holds the distinction of directing the first ever OVA, Dallos (1983)."
-    },
-    "Shirley Clarke": {
-      "lbxd_slug": "shirley-clarke",
-      "photo": null,
-      "bio": "Shirley Clarke (née Brimberg; October 2, 1919 – September 23, 1997) was an American filmmaker."
-    },
     "Kirsten Johnson": {
       "lbxd_slug": "kirsten-johnson",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kirsten_Johnson_in_2016.jpg",
@@ -6764,8 +6221,8 @@ window.CINEMA_DATA = {
     },
     "Christopher Guest": {
       "lbxd_slug": "christopher-guest",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Christopher_Guest_2016.jpg/500px-Christopher_Guest_2016.jpg",
+      "bio": "Christopher Haden-Guest, 5th Baron Haden-Guest (born February 5, 1948), known professionally as Christopher Guest, is an American and British actor, comedian, screenwriter and director. Guest has written, directed, and starred in his series of comedy films shot in mockumentary style. He co-wrote and acted in the rock satire This Is Spinal Tap (1984), and later directed a string of satirical mockumentary films such as Waiting for Guffman (1996), Best in Show (2000), A Mighty Wind (2003), For Your Consideration (2006), and Mascots (2016)."
     },
     "Rémy Belvaux, André Bonzel, Benoît Poelvoorde": {
       "lbxd_slug": null,
@@ -6774,13 +6231,13 @@ window.CINEMA_DATA = {
     },
     "Spike Jonze": {
       "lbxd_slug": "spike-jonze",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Spike_Jonze_Her_Premiere_NYFF_2013_%28cropped%29.jpg/500px-Spike_Jonze_Her_Premiere_NYFF_2013_%28cropped%29.jpg",
+      "bio": "Adam Spiegel (born October 22, 1969), known professionally as Spike Jonze (, same pronunciation as \"Jones\"), is an  American filmmaker, actor, musician, and photographer. His work includes films, commercials, music videos, skateboard videos and television. Jonze began his career as a teenager photographing BMX riders and skateboarders for Freestylin' Magazine and Transworld Skateboarding, and co-founding the youth culture magazine Dirt."
     },
     "Dean Fleischer Camp": {
       "lbxd_slug": "dean-fleischer-camp",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dean_Fleischer_Camp_The_Mischief_at_SXSW_2013_%28cropped%29.jpg",
+      "bio": "Dean Fleischer Camp (born February 28, 1984) is an American film director, film producer, screenwriter and film editor. He created the Marcel the Shell with Shoes On short films with Jenny Slate, to whom he was married from 2012 to 2016. He also directed and starred in the feature film of the same name, which he co-wrote with Slate and Nick Paley."
     },
     "Rob Reiner": {
       "lbxd_slug": "rob-reiner",
@@ -6789,8 +6246,8 @@ window.CINEMA_DATA = {
     },
     "Alan Rudolph": {
       "lbxd_slug": "alan-rudolph",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alan_Rudolph.jpg/500px-Alan_Rudolph.jpg",
+      "bio": "Alan Steven Rudolph (born December 18, 1943) is an American film director and screenwriter."
     },
     "Heinz Emigholz": {
       "lbxd_slug": "heinz-emigholz",
@@ -6887,30 +6344,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hong_Sang-soo_at_the_2025_Cannes_Film_Festival.jpg/500px-Hong_Sang-soo_at_the_2025_Cannes_Film_Festival.jpg",
       "bio": "Hong Sang-soo (Korean: 홍상수; born 25 October 1960) is a South Korean film director and screenwriter. He is one of the most prominent exponents of slow cinema, often dealing in love affairs and everyday dilemmas in contemporary South Korea. His work has been widely-acclaimed and received numerous international accolades."
     },
-    "Milagros Mumenthaler": {
+    "Simão Cayatte": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": "Milagros Mumenthaler (born 1977 in La Falda, Argentina) is a film director, and screenplay writer. Born in Argentina and raised in Switzerland, Mumenthaler filmography include two feature-length films and several short films. Back to Stay her first feature-length film was a major critical success and collected many awards in film festivals all around the world."
+      "bio": "Film Director"
     },
-    "Éric Rohmer": {
+    "John Huston": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eric_Rohmer_cinematheque_2004-04.jpg/500px-Eric_Rohmer_cinematheque_2004-04.jpg",
-      "bio": "Jean Marie Maurice Schérer or Maurice Henri Joseph Schérer, known as Éric Rohmer (French: [eʁik ʁomɛʁ]; 21 March 1920 – 11 January 2010), was a French film director, film critic, journalist, novelist, screenwriter, and teacher. Rohmer was the last of the post-World War II French New Wave directors to become established. He edited the influential film journal Cahiers du cinéma from 1957 to 1963, while most of his colleagues—among them Jean-Luc Godard and François Truffaut—were making the transition from critics to filmmakers and gaining international attention."
-    },
-    "Tai Katô": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kinema-Junpo-1962-April-early-4.jpg/500px-Kinema-Junpo-1962-April-early-4.jpg",
-      "bio": "Japanese film director (1916–1985)"
-    },
-    "Paul Thomas Anderson": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paul_Thomas_Anderson_in_2025.jpg/500px-Paul_Thomas_Anderson_in_2025.jpg",
-      "bio": "Paul Thomas Anderson (born June 26, 1970), also known by his initials PTA, is an American filmmaker. Often described as one of the preeminent filmmakers of his generation, he is the recipient of three Academy Awards, three Golden Globe Awards, four BAFTAs, three Critics Choice Awards, and nominations for a Grammy. He is the only person to have won the Academy Award for Best Director and directorial prizes at Europe's three major film festivals: Cannes Film Festival, Venice Film Festival, and the Berlin International Film Festival."
-    },
-    "Joseph L. Mankiewicz": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Joseph_L._Mankiewicz_%281950%29.jpg/500px-Joseph_L._Mankiewicz_%281950%29.jpg",
-      "bio": "Joseph Leo Mankiewicz ( MANG-kə-wits; February 11, 1909 – February 5, 1993) was an American filmmaker. A four-time Academy Award winner, he is best known for his witty and literate dialogue and his preference for voice-over narration and narrative flashbacks. Also known as an actor's director, Mankiewicz directed several prominent actors, including Bette Davis, Gene Tierney, Humphrey Bogart and Elizabeth Taylor, to several of their memorable onscreen performances."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Huston_1979.jpg/500px-John_Huston_1979.jpg",
+      "bio": "John Marcellus Huston (  HEW-stən; August 5, 1906 – August 28, 1987) was an American film director, screenwriter, and actor. He wrote the screenplays for many of the 37 feature films he directed, many of which are today considered classics. He received numerous accolades including two Academy Awards and three Golden Globe Awards."
     },
     "Lucrecia Martel": {
       "lbxd_slug": null,
@@ -6922,15 +6364,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kinuyo_Tanaka_in_Jinsei_no_onimotsu_1935.jpg/500px-Kinuyo_Tanaka_in_Jinsei_no_onimotsu_1935.jpg",
       "bio": "Kinuyo Tanaka (Japanese: 田中 絹代, Hepburn: Tanaka Kinuyo; 29 November 1909 – 21 March 1977) was a Japanese actress and film director. She had a career lasting over 50 years with more than 250 acting credits, but was best known for her 15 films with director Kenji Mizoguchi, such as The Life of Oharu (1952) and Ugetsu (1953). With her 1953 directorial debut, Love Letter, Tanaka became the second Japanese woman to direct a film, after Tazuko Sakane."
     },
-    "John Huston": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Huston_1979.jpg/500px-John_Huston_1979.jpg",
-      "bio": "John Marcellus Huston (  HEW-stən; August 5, 1906 – August 28, 1987) was an American film director, screenwriter, and actor. He wrote the screenplays for many of the 37 feature films he directed, many of which are today considered classics. He received numerous accolades including two Academy Awards and three Golden Globe Awards."
-    },
-    "Simão Cayatte": {
+    "Milagros Mumenthaler": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": "Film Director"
+      "bio": "Milagros Mumenthaler (born 1977 in La Falda, Argentina) is a film director, and screenplay writer. Born in Argentina and raised in Switzerland, Mumenthaler filmography include two feature-length films and several short films. Back to Stay her first feature-length film was a major critical success and collected many awards in film festivals all around the world."
+    },
+    "Paul Thomas Anderson": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paul_Thomas_Anderson_in_2025.jpg/500px-Paul_Thomas_Anderson_in_2025.jpg",
+      "bio": "Paul Thomas Anderson (born June 26, 1970), also known by his initials PTA, is an American filmmaker. Often described as one of the preeminent filmmakers of his generation, he is the recipient of three Academy Awards, three Golden Globe Awards, four BAFTAs, three Critics Choice Awards, and nominations for a Grammy. He is the only person to have won the Academy Award for Best Director and directorial prizes at Europe's three major film festivals: Cannes Film Festival, Venice Film Festival, and the Berlin International Film Festival."
     },
     "Luchino Visconti": {
       "lbxd_slug": null,
@@ -6942,10 +6384,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nagisa_Oshima_at_Cannes_in_2000.jpg",
       "bio": "Nagisa Ōshima (大島 渚, Ōshima Nagisa; March 31, 1932 – January 15, 2013) was a Japanese film director, writer, and left-wing activist who is best known for his fiction films, of which he directed 23 features in a career spanning from 1959 to 1999. He is regarded as one of the greatest Japanese directors of all time, and as one of the most important figures of the Japanese New Wave (Nūberu bāgu), alongside Shōhei Imamura. His film style was bold, innovative and provocative."
     },
-    "Walter Lang": {
+    "Otto Preminger": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg/500px-Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg",
-      "bio": "Walter Richard Lang (August 10, 1896 – February 7, 1972) was an American film director."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
+      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
     },
     "José Luis Guerin": {
       "lbxd_slug": null,
@@ -6957,10 +6399,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Abdellatif_Kechiche_Cannes_2013.jpg/500px-Abdellatif_Kechiche_Cannes_2013.jpg",
       "bio": "Abdellatif Kechiche (French: [abdɛlatif keʃiʃ]; Arabic: عبد اللطيف كشيش, born 7 December 1960), also known as Abdel Kechiche, is a Tunisian-French filmmaker and actor. Known for his naturalistic style, he has been awarded several times at the César Awards, including Best Film for Games of Love and Chance (2003) and The Secret of the Grain (2007), and the Palme d'Or at the 2013 Cannes Film Festival for his film Blue Is the Warmest Colour."
     },
-    "Otto Preminger": {
+    "Walter Lang": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
-      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg/500px-Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg",
+      "bio": "Walter Richard Lang (August 10, 1896 – February 7, 1972) was an American film director."
     },
     "Akira Kurosawa": {
       "lbxd_slug": null,
@@ -6987,16 +6429,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kenji_Mizoguchi_3.jpg/500px-Kenji_Mizoguchi_3.jpg",
       "bio": "Kenji Mizoguchi (溝口 健二, Mizoguchi Kenji; 16 May 1898 – 24 August 1956) was a Japanese filmmaker who directed roughly one hundred films during his career between 1923 and 1956. His most acclaimed works include The Story of the Last Chrysanthemums (1939), The Life of Oharu (1952), Ugetsu (1953), and Sansho the Bailiff (1954), with the latter three all being awarded at the Venice International Film Festival. A recurring theme of his films was the oppression of women in historical and contemporary Japan."
     },
-    "Lee Chang-dong": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lee_Chang-dong_2010.jpg/500px-Lee_Chang-dong_2010.jpg",
-      "bio": "Lee Chang-dong (Korean: 이창동; born July 4, 1954) is a South Korean film director, screenwriter, and novelist. He has directed six feature films: Green Fish (1997), Peppermint Candy (1999), Oasis (2002), Secret Sunshine (2007), Poetry (2010), and Burning (2018). Burning became the first Korean film to make it to the 91st Academy Awards' final nine-film shortlist for Best Foreign Language Film."
-    },
-    "Naomi Kawase": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Naomi_Kawase_at_the_78th_Locarno_Film_Festival_in_2025_06.jpg/500px-Naomi_Kawase_at_the_78th_Locarno_Film_Festival_in_2025_06.jpg",
-      "bio": "Naomi Kawase (; Japanese: 河瀨直美, romanized: Kawase Naomi; born 30 May 1969) is a Japanese film director. She was also briefly known as Naomi Sento (仙頭直美, Sentō Naomi), with her former husband's surname. Many of her works have been documentaries, including Embracing, about her search for the father who abandoned her as a child, and Katatsumori, about the grandmother who raised her."
-    },
     "Wim Wenders": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wim_Wenders_at_Berlinale_2026.jpg/500px-Wim_Wenders_at_Berlinale_2026.jpg",
@@ -7006,6 +6438,16 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stewart_Logan_Dana_Triangle_Club_1930.jpg/500px-Stewart_Logan_Dana_Triangle_Club_1930.jpg",
       "bio": "Joshua Lockwood Logan III (October 5, 1908 – July 12, 1988) was an American theatre and film director, playwright and screenwriter, and actor. He shared a Pulitzer Prize for co-writing the musical South Pacific and was involved in writing other musicals."
+    },
+    "Lee Chang-dong": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lee_Chang-dong_2010.jpg/500px-Lee_Chang-dong_2010.jpg",
+      "bio": "Lee Chang-dong (Korean: 이창동; born July 4, 1954) is a South Korean film director, screenwriter, and novelist. He has directed six feature films: Green Fish (1997), Peppermint Candy (1999), Oasis (2002), Secret Sunshine (2007), Poetry (2010), and Burning (2018). Burning became the first Korean film to make it to the 91st Academy Awards' final nine-film shortlist for Best Foreign Language Film."
+    },
+    "Naomi Kawase": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Naomi_Kawase_at_the_78th_Locarno_Film_Festival_in_2025_06.jpg/500px-Naomi_Kawase_at_the_78th_Locarno_Film_Festival_in_2025_06.jpg",
+      "bio": "Naomi Kawase (; Japanese: 河瀨直美, romanized: Kawase Naomi; born 30 May 1969) is a Japanese film director. She was also briefly known as Naomi Sento (仙頭直美, Sentō Naomi), with her former husband's surname. Many of her works have been documentaries, including Embracing, about her search for the father who abandoned her as a child, and Katatsumori, about the grandmother who raised her."
     },
     "Henry Hathaway": {
       "lbxd_slug": null,
@@ -7041,16 +6483,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Apichatpong Weerasethakul": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
-      "bio": "Apichatpong Weerasethakul (Thai: อภิชาติพงศ์ วีระเศรษฐกุล; RTGS: Aphichatphong Wirasetthakun; IPA: [ʔà.pʰí.tɕʰâːt.pʰōŋ wīː.rá.sèːt.tʰà.kūn], born 16 July 1970) is a Thai independent film director, screenwriter, film producer and Professor at Tama Art University in Tokyo. Working outside the strict confines of the Thai film studio system, Apichatpong has directed several features and dozens of short films. Friends and fans sometimes refer to him as \"Joe\" (a nickname that he, like many with similarly long Thai names, has adopted out of convenience)."
-    },
-    "Jafar Panahi": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg/500px-Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg",
-      "bio": "Jafar Panâhi (Persian: جعفر پناهی, [d͡ʒæˈfæɾ pænɒːˈhiː]) (born 11 July 1960) is an Iranian filmmaker and actor. He is known internationally for his artistic contributions to post-1979 Revolution Iranian cinema, and he has been associated with the Iranian New Wave. His work, rooted in neorealism and centered on the lives of women, children, and the marginalized, constitutes a critical portrait of the social, political, and gendered structures of contemporary Iran."
     },
     "Miguel Tavares e Letícia Costelha": {
       "lbxd_slug": null,
@@ -7117,6 +6549,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Athina_Rachel_Tsangari_%28cropped%29.jpg",
       "bio": "Athina Rachel Tsangari (Greek: Αθηνά Ραχήλ Τσαγγάρη, IPA: [aθiˈna raˈçil t͡saŋˈɡari]) (born April 2, 1966) is a Greek filmmaker. Her most notable works include her feature films, The Slow Business of Going (2000), Attenberg (2010) and Chevalier (2015) as well as the co-production of Yorgos Lanthimos' films Kinetta (2005), Dogtooth (2009), and Alps (2011). In her versatile work for cinema, she has also founded and been director of the Cinematexas International Short Film Festival."
     },
+    "Joseph L. Mankiewicz": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Joseph_L._Mankiewicz_%281950%29.jpg/500px-Joseph_L._Mankiewicz_%281950%29.jpg",
+      "bio": "Joseph Leo Mankiewicz ( MANG-kə-wits; February 11, 1909 – February 5, 1993) was an American filmmaker. A four-time Academy Award winner, he is best known for his witty and literate dialogue and his preference for voice-over narration and narrative flashbacks. Also known as an actor's director, Mankiewicz directed several prominent actors, including Bette Davis, Gene Tierney, Humphrey Bogart and Elizabeth Taylor, to several of their memorable onscreen performances."
+    },
     "Franco Piavoli": {
       "lbxd_slug": null,
       "photo": null,
@@ -7151,6 +6588,16 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": "Roy Ward Baker (born Roy Horace Baker; 19 December 1916 – 5 October 2010) was an English film director. He was known professionally as Roy Baker until 1967, when he adopted Roy Ward Baker as his screen credit."
+    },
+    "Apichatpong Weerasethakul": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
+      "bio": "Apichatpong Weerasethakul (Thai: อภิชาติพงศ์ วีระเศรษฐกุล; RTGS: Aphichatphong Wirasetthakun; IPA: [ʔà.pʰí.tɕʰâːt.pʰōŋ wīː.rá.sèːt.tʰà.kūn], born 16 July 1970) is a Thai independent film director, screenwriter, film producer and Professor at Tama Art University in Tokyo. Working outside the strict confines of the Thai film studio system, Apichatpong has directed several features and dozens of short films. Friends and fans sometimes refer to him as \"Joe\" (a nickname that he, like many with similarly long Thai names, has adopted out of convenience)."
+    },
+    "Jafar Panahi": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg/500px-Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg",
+      "bio": "Jafar Panâhi (Persian: جعفر پناهی, [d͡ʒæˈfæɾ pænɒːˈhiː]) (born 11 July 1960) is an Iranian filmmaker and actor. He is known internationally for his artistic contributions to post-1979 Revolution Iranian cinema, and he has been associated with the Iranian New Wave. His work, rooted in neorealism and centered on the lives of women, children, and the marginalized, constitutes a critical portrait of the social, political, and gendered structures of contemporary Iran."
     },
     "Jocelyn Saab": {
       "lbxd_slug": null,
@@ -7327,7 +6774,7 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
       "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
     },
-    "Sandra Inês Cruz": {
+    "Ali Asgari": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -7337,25 +6784,15 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "António da Cunha Telles": {
+    "Kristoffer Borgli": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": "António Cohen da Cunha Telles (26 February 1935 – 23 November 2022) was a Portuguese film director and producer."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kristoffer_Borgli.jpg/500px-Kristoffer_Borgli.jpg",
+      "bio": "Kristoffer Borgli (born 1985) is a Norwegian film director and screenwriter. He wrote and directed the films Sick of Myself (2022), Dream Scenario (2023), and The Drama (2026)."
     },
     "Paolo Sorrentino": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/500px-Paolo_Sorrentino_2018.jpg",
       "bio": "Paolo Sorrentino ( SORR-ən-TEE-noh, Italian: [ˈpaːolo sorrenˈtiːno]; born 31 May 1970) is an Italian film director, screenwriter, and writer. He is considered one of the most prominent filmmakers of Italian cinema working today. He is known for visually striking and complex dramas and has often been compared to Federico Fellini and Michelangelo Antonioni."
-    },
-    "Ali Asgari": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Kristoffer Borgli": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kristoffer_Borgli.jpg/500px-Kristoffer_Borgli.jpg",
-      "bio": "Kristoffer Borgli (born 1985) is a Norwegian film director and screenwriter. He wrote and directed the films Sick of Myself (2022), Dream Scenario (2023), and The Drama (2026)."
     },
     "Matthew Rankin": {
       "lbxd_slug": null,
@@ -7427,25 +6864,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
       "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
     },
-    "Stillz": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stillz_at_82nd_Venice_International_Film_Festival-1.jpg/500px-Stillz_at_82nd_Venice_International_Film_Festival-1.jpg",
-      "bio": "video director"
-    },
-    "Amin Motallebzadeh": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Nicola Fausto Neroni": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Mario Martone": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mario_Martone-8102.jpg/500px-Mario_Martone-8102.jpg",
-      "bio": "Mario Martone (born 20 November 1959) is an Italian filmmaker. He has directed more than 30 films since 1985. His films have been shown in prestigious international film festivals over the world."
     },
     "Andrei Tarkovsky": {
       "lbxd_slug": null,
@@ -7486,11 +6908,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Claude Jutra": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": "Claude Jutra (French pronunciation: [klod ʒytʁa]; March 11, 1930 – November 5, 1986) was a Canadian actor, film director, and screenwriter. The Prix Jutra, and the Academy of Canadian Cinema and Television's Claude Jutra Award, were named in his honour because of his importance in Quebec cinema history. The awards were renamed in 2016, as were streets named for him, following the publication of allegations that he had sexually abused children during his lifetime."
     },
     "Diogo Allen": {
       "lbxd_slug": "diogo-allen",
@@ -7534,8 +6951,8 @@ window.CINEMA_DATA = {
     },
     "Meg Stuart": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Meg_Stuart_%28born_1965%29_in_the_video_%27Tanz_im_August_%E2%80%93_Interview_with_Meg_Stuart%27.png",
-      "bio": "Meg Stuart (born 1965) is an American choreographer and dancer who lives and works in Brussels and Berlin. Her company, Damaged Goods, has operated from Brussels since 1994."
+      "photo": null,
+      "bio": null
     }
   },
   "errors": []

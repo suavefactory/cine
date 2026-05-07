@@ -19458,5 +19458,145 @@
   "Viver - Ikiru|1952": {
     "lbxd": null,
     "omdb": null
+  },
+  "YALLA HABIBI !|None": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/3/3/2/4/1463324-yalla-habibi-0-500-0-750-crop.jpg?v=9bceea2d32",
+      "description": "FortNine attempts to break the circumnavigation world record with award-winning filmmaker Edwin El Bainou riding pillion. It's a dangerously silly race across thousands of kilometres per day, with the polished and authentic eye that only a ride-along cinematographer can capture. Part documentary and part dark comedy, this is motorcycling as FortNine has never shown before. In less than 19 days, the trio must ride from Anchorage to Miami, Lisbon to Istanbul, Mumbai to Kolkata, Bangkok to Singapore and Perth to Sydney. Their time is inclusive of all flights, border delays and sleep (what few minutes of it there is). Ducati supplied Multistrada V4 Rally motorcycles in each continent for this expedition, and the rest is just gas, swass and the hourglass. Yalla Habibi!",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Canada",
+      "lb_director": "Edwin El Bainou",
+      "lb_director_slug": "edwin-el-bainou",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Yalla Habibi!",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "27 Dec 2025",
+      "Runtime": "90 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Connor Bondlow, Edwin El Bainou, Ryan Kluftinger",
+      "Plot": "FortNine chases the world circumnavigation record with filmmaker Edwin El Bainou. Racing across continents on Ducati Multistradas, they must cover five segments in 19 days, including flights and borders.",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "106",
+      "imdbID": "tt39119104",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "My Story My Song: Maria João com João Farinha|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Montadoras - I|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Apartment|1960": {
+    "lbxd": {
+      "rating": 4.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/7/4/51774-the-apartment-0-500-0-750-crop.jpg?v=7df6fac704",
+      "description": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Billy Wilder",
+      "lb_director_slug": "billy-wilder",
+      "lb_year": 1960
+    },
+    "omdb": {
+      "Title": "The Apartment",
+      "Year": "1960",
+      "Rated": "Approved",
+      "Released": "29 Jun 1960",
+      "Runtime": "125 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Billy Wilder, I.A.L. Diamond",
+      "Actors": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+      "Plot": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 5 Oscars. 25 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.3",
+      "imdbVotes": "217,548",
+      "imdbID": "tt0053604",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$18,600,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Óculos De Sol Pretos|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Óculos de Sol Pretos",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "01 Oct 2025",
+      "Runtime": "71 min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30274323",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
