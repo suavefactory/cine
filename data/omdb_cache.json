@@ -19598,5 +19598,118 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Dvoryanskoe Gnezdo|1969": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Avanti!|1972": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/0/6/44506-avanti--0-500-0-750-crop.jpg?v=1fc2cb6216",
+      "description": "A successful businessman travels to Italy to arrange for the return of his tycoon father's body, only to learn that dear old dad died with his longtime mistress.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "Italy",
+      "lb_director": "Billy Wilder",
+      "lb_director_slug": "billy-wilder",
+      "lb_year": 1972
+    },
+    "omdb": {
+      "Title": "Avanti!",
+      "Year": "1972",
+      "Rated": "R",
+      "Released": "17 Dec 1972",
+      "Runtime": "144 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Samuel A. Taylor, Billy Wilder, I.A.L. Diamond",
+      "Actors": "Jack Lemmon, Juliet Mills, Clive Revill",
+      "Plot": "A successful businessman goes to Italy to arrange for the return of his tycoon father's body--and discovers that Dad died with his long-time mistress.",
+      "Language": "English, Italian",
+      "Country": "United States, Italy",
+      "Awards": "1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhjMWMzNGUtZDZiNC00MzZjLTkwMWEtOWFmZjliYzVkYTlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "12,585",
+      "imdbID": "tt0068240",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Ana Vieira: e o que não é visto|2011": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Ana Vieira: E O Que Não É Visto",
+      "Year": "2011",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "56 min",
+      "Genre": "Biography",
+      "Director": "Jorge Silva Melo",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt4735914",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Tva Människor|1944": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Short Films from the 2026 Filmmaking Workshop|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Fractais Tropicais|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/8/5/2/1284852-tropical-fractals-0-500-0-750-crop.jpg?v=82013e2bb2",
+      "description": "On an interstellar journey, a group of scientists studies the last living vestiges of Earth. The artificial intelligence, Museo, becomes a portal to the crew’s diaries and a fragmented archive of humanity. On Earth, the one believed to be the last of the humans traverses a ruined planet that is slowly recovering, little by little, from the apocalypse it endured.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "country": "Brazil",
+      "lb_director": "Leonardo Pirondi",
+      "lb_director_slug": "leonardo-pirondi",
+      "lb_year": 2026
+    },
+    "omdb": null
+  },
+  "DOIS PROCURADORES|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
