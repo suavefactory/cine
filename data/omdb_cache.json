@@ -3101,7 +3101,15 @@
   "O Sacrifício|1986": {
     "lbxd": {
       "rating": 4.29,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-500-0-750-crop.jpg?v=abe0768e2a"
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-500-0-750-crop.jpg?v=abe0768e2a",
+      "description": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Sweden",
+      "lb_director": "Andrei Tarkovsky",
+      "lb_director_slug": "andrei-tarkovsky",
+      "lb_year": 1986
     },
     "omdb": null
   },
@@ -19710,6 +19718,1126 @@
   },
   "DOIS PROCURADORES|None": {
     "lbxd": null,
+    "omdb": null
+  },
+  "Racing Mister Farenheit|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Fedora|1978": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/1/5/12015-fedora-0-500-0-750-crop.jpg?v=2eba5b52e1",
+      "description": "Down-on-his-luck Hollywood producer Barry 'Dutch' Detweiler attempts to lure Fedora, a famous but reclusive film actress, out of retirement, only to discover the horrifying truth behind her success.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Billy Wilder",
+      "lb_director_slug": "billy-wilder",
+      "lb_year": 1978
+    },
+    "omdb": {
+      "Title": "Fedora",
+      "Year": "1978",
+      "Rated": "PG",
+      "Released": "13 Sep 1978",
+      "Runtime": "114 min",
+      "Genre": "Drama, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Billy Wilder, I.A.L. Diamond, Tom Tryon",
+      "Actors": "William Holden, Marthe Keller, Hildegard Knef",
+      "Plot": "Down-on-his-luck Hollywood producer Barry 'Dutch' Detweiler attempts to lure Fedora, a famous but reclusive film actress, out of retirement only to discover the horrible truth behind her success.",
+      "Language": "English, Greek, French",
+      "Country": "France, West Germany",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA0ZGEyMGItMjVjOC00OWI1LWE5NDUtZmViYjBkZGM3ZmM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "5,321",
+      "imdbID": "tt0077539",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Russkij Kovcheg|2002": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Yi-Yi|2000": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "As Meninas Exemplares|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/5/7/6/1339576-as-meninas-exemplares-0-500-0-750-crop.jpg?v=5ef60d63ff",
+      "description": "The misfortunes of Sofia, the exemplary Madalena and Camila, the troubled vacations of girls and boys, a few years later leading to the resolution of some mysteries, form the perfect trilogy by the Countess of Ségur on education, social, religious, and political power. Desire and its oppression, violence and punishment, in short, the terrible loss combined with inevitable growth. Both adults and children will understand that precepts, rules, and prayers can tear nerves and blood apart.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Botelho",
+      "lb_director_slug": "joao-botelho",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "As Meninas Exemplares",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "João Botelho",
+      "Writer": "João Botelho, La Comtesse de Ségur",
+      "Actors": "João Estima, Victoria Guerra, Catarina Wallenstein",
+      "Plot": "The misfortunes of Sofia, the exemplary Madalena and Camila, the troubled holidays of the girls and boys, a few years later that lead to the resolution of some mysteries, are the Countess of Ségur's perfect trilogy about education...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJkN2I0ZTMtODkzNC00NDVhLWI2ODQtOGI0OTVlMGFlZmE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30274237",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mulholland Drive|2001": {
+    "lbxd": {
+      "rating": 4.26,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-500-0-750-crop.jpg?v=3d69c00608",
+      "description": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "David Lynch",
+      "lb_director_slug": "david-lynch",
+      "lb_year": 2001
+    },
+    "omdb": {
+      "Title": "Mulholland Drive",
+      "Year": "2001",
+      "Rated": "R",
+      "Released": "19 Oct 2001",
+      "Runtime": "147 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "David Lynch",
+      "Writer": "David Lynch",
+      "Actors": "Naomi Watts, Laura Harring, Justin Theroux",
+      "Plot": "After a car wreck on Mulholland Drive renders a woman amnesiac, she and a Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+      "Language": "English, Spanish, French",
+      "Country": "France, United States",
+      "Awards": "Nominated for 1 Oscar. 50 wins & 61 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.9",
+      "imdbVotes": "415,244",
+      "imdbID": "tt0166924",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$7,220,243",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Metropolis|1926": {
+    "lbxd": {
+      "rating": 4.24,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2z/xx/r0/hy/qriaeUUwdmlgethK3aSAx68mG05-0-500-0-750-crop.jpg?v=31b29ec62d",
+      "description": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "country": "Germany",
+      "lb_director": "Fritz Lang",
+      "lb_director_slug": "fritz-lang-1",
+      "lb_year": 1927
+    },
+    "omdb": {
+      "Title": "Metropolis",
+      "Year": "1927",
+      "Rated": "Passed",
+      "Released": "13 Mar 1927",
+      "Runtime": "153 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "Fritz Lang",
+      "Writer": "Thea von Harbou, Fritz Lang",
+      "Actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",
+      "Plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+      "Language": "German, None",
+      "Country": "Germany",
+      "Awards": "7 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "199,601",
+      "imdbID": "tt0017136",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,236,166",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Sombras (1959)|1959": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Happy Together — Felizes Juntos|1997": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4w/sy/nq/o5/qrpUybe97xNRYk63TryiwbItoAV-0-500-0-750-crop.jpg?v=064ed91055",
+      "description": "A couple travels from Hong Kong to Argentina to revive their relationship but experience turbulence when both men's lives drift in separate directions.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 1997
+    },
+    "omdb": {
+      "Title": "Happy Together",
+      "Year": "1997",
+      "Rated": "Not Rated",
+      "Released": "30 May 1997",
+      "Runtime": "96 min",
+      "Genre": "Drama, Romance",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai, Manuel Puig",
+      "Actors": "Leslie Cheung, Tony Leung Chiu-wai, Chang Chen",
+      "Plot": "A couple take a trip to Argentina but both men find their lives drifting apart in opposite directions.",
+      "Language": "Cantonese, Spanish, English, Mandarin",
+      "Country": "Hong Kong, South Korea, Japan",
+      "Awards": "7 wins & 20 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ2YWYyMzUtMTAyZC00NDg1LWJjZmUtYWRjNzQxYzA4MWUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "7.7",
+      "imdbVotes": "37,857",
+      "imdbID": "tt0118845",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$320,319",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Maridos|1970": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Noite de Estreia|1977": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Uma Mulher Sob Influência|1974": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Providência e a Guitarra|2026": {
+    "lbxd": {
+      "rating": 2.95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/7/5/1/9/1317519-providence-and-the-guitar-0-500-0-750-crop.jpg?v=44c35a121e",
+      "description": "In a distant past, Léon and Elvira Berthelini, itinerant artists, make their living hopping from town to town. In Covarronca, harassed by the Police Commissioner, they are forced to spend the night out in the open. That’s when they meet Stubbs, a young Cambridge student, with whom they find shelter in the home of a painter at odds with his wife. In return for the hospitality, they remind their hosts that the love of art resolves the art of love. Meanwhile, an unusual curse sends them on absurd journeys into the 21st century, where the future of social security and of a rock band are at stake.",
+      "genres": [
+        "Music",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Nicolau",
+      "lb_director_slug": "joao-nicolau",
+      "lb_year": 2026
+    },
+    "omdb": {
+      "Title": "A Providência e a Guitarra",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "29 Jan 2026",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "João Nicolau",
+      "Writer": "João Nicolau, Mariana Ricardo",
+      "Actors": "Pedro Inês, Clara Riedenstein, Salvador Sobral",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32857347",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "In the Mood For Love — Disponível Para Amar|2000": {
+    "lbxd": {
+      "rating": 3.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/5/6/8/579568-in-the-mood-for-love-0-500-0-750-crop.jpg?v=3fe332446b",
+      "description": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 2001
+    },
+    "omdb": {
+      "Title": "In the Mood for Love",
+      "Year": "2000",
+      "Rated": "PG",
+      "Released": "09 Mar 2001",
+      "Runtime": "98 min",
+      "Genre": "Drama, Romance",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai",
+      "Actors": "Maggie Cheung, Tony Leung Chiu-wai, Ping-Lam Siu",
+      "Plot": "Two neighbors form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+      "Language": "Cantonese, Shanghainese, French, Spanish",
+      "Country": "Hong Kong, France",
+      "Awards": "Nominated for 1 BAFTA Award45 wins & 50 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "8.0",
+      "imdbVotes": "184,505",
+      "imdbID": "tt0118694",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,596,859",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Fallen Angels — Anjos Caídos|1995": {
+    "lbxd": {
+      "rating": 4.16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/8/9/45489-fallen-angels-0-500-0-750-crop.jpg?v=26d8dd7207",
+      "description": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
+      "genres": [
+        "Crime",
+        "Romance",
+        "Action"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 1995
+    },
+    "omdb": {
+      "Title": "Fallen Angels",
+      "Year": "1995",
+      "Rated": "Not Rated",
+      "Released": "30 Jan 1998",
+      "Runtime": "99 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai",
+      "Actors": "Leon Lai, Michelle Reis, Takeshi Kaneshiro",
+      "Plot": "This Hong Kong-set crime drama follows the lives of a hitman, hoping to get out of the business, and his elusive female partner.",
+      "Language": "Cantonese, Mandarin, Min Nan, Japanese, English",
+      "Country": "Hong Kong",
+      "Awards": "8 wins & 15 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI3MDk4N2ItNzU2NS00Zjc5LWIxMDYtMGNmZmM2YzMzMDk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.5",
+      "imdbVotes": "56,485",
+      "imdbID": "tt0112913",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$163,145",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Gloria|1979": {
+    "lbxd": {
+      "rating": 3.8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/5/2/4/6524-gloria-0-500-0-750-crop.jpg?v=a561a0493d",
+      "description": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "John Cassavetes",
+      "lb_director_slug": "john-cassavetes",
+      "lb_year": 1980
+    },
+    "omdb": {
+      "Title": "Gloria",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "01 Oct 1980",
+      "Runtime": "123 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "John Cassavetes",
+      "Writer": "John Cassavetes",
+      "Actors": "Gena Rowlands, Buck Henry, Julie Carmen",
+      "Plot": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 4 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk0ZGYxYmQtMWEwZi00MjdlLTg4NTEtZmQ2OGNiODc3YmZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.1",
+      "imdbVotes": "12,367",
+      "imdbID": "tt0080798",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,059,673",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Chungking Express|1994": {
+    "lbxd": {
+      "rating": 4.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/0/2/45602-chungking-express-0-500-0-750-crop.jpg?v=9475abb05b",
+      "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 1994
+    },
+    "omdb": {
+      "Title": "Chungking Express",
+      "Year": "1994",
+      "Rated": "PG-13",
+      "Released": "08 Mar 1996",
+      "Runtime": "102 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai",
+      "Actors": "Brigitte Lin, Takeshi Kaneshiro, Tony Leung Chiu-wai",
+      "Plot": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.",
+      "Language": "Cantonese, Mandarin",
+      "Country": "Hong Kong",
+      "Awards": "8 wins & 19 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4ZmYxODctZDVlZC00OTcxLWJjOGItZjRlMzk4MDA1Yjg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.9",
+      "imdbVotes": "108,698",
+      "imdbID": "tt0109424",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$600,200",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Morte de um Apostador Chinês|1976": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Minnie and Moskowitz – Tempo de amar|1971": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/8/3/6/36836-minnie-and-moskowitz-0-500-0-750-crop.jpg?v=a4b961c8a7",
+      "description": "Depressed and jaded after being dumped by her married boyfriend, aging beauty Minnie Moore wonders if she'll ever find love. After shaggy-haired parking lot attendant Seymour Moskowitz comes to her defense from an angry and rebuffed blind date, he falls hopelessly in love with her despite their myriad differences. Minnie reluctantly agrees to a date with Moskowitz, and, slowly but surely, an unlikely romance blossoms between the two.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "John Cassavetes",
+      "lb_director_slug": "john-cassavetes",
+      "lb_year": 1971
+    },
+    "omdb": {
+      "Title": "Minnie and Moskowitz",
+      "Year": "1971",
+      "Rated": "GP",
+      "Released": "21 Jul 1972",
+      "Runtime": "114 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "John Cassavetes",
+      "Writer": "John Cassavetes",
+      "Actors": "Gena Rowlands, Seymour Cassel, Val Avery",
+      "Plot": "A museum curator falls in love with a crazy parking attendant.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc2N2MxYzUtMTFhOS00MmZmLWIyNDktMTEwNTEzNjRjMjAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "7.2",
+      "imdbVotes": "5,522",
+      "imdbID": "tt0067433",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Santo dos Pobrezinhos|1950": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Love Streams - Amantes|1983": {
+    "lbxd": {
+      "rating": 4.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/6/6/13766-love-streams-0-500-0-750-crop.jpg?v=944feb2e19",
+      "description": "Two closely-bound, emotionally wounded siblings reunite after years apart.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "John Cassavetes",
+      "lb_director_slug": "john-cassavetes",
+      "lb_year": 1984
+    },
+    "omdb": {
+      "Title": "Love Streams",
+      "Year": "1984",
+      "Rated": "PG-13",
+      "Released": "24 Aug 1984",
+      "Runtime": "141 min",
+      "Genre": "Drama",
+      "Director": "John Cassavetes",
+      "Writer": "Ted Allan, John Cassavetes",
+      "Actors": "Gena Rowlands, John Cassavetes, Diahnne Abbott",
+      "Plot": "Two closely bound, emotionally wounded souls reunite after years apart.",
+      "Language": "English, French, Spanish",
+      "Country": "United States",
+      "Awards": "4 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxYzJmOTQtMTc2NS00Njg2LTk5OTItNDUxNWMzMjQyODhhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "6,903",
+      "imdbID": "tt0087644",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Diário de um Pároco de Aldeia|1951": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Breve História de uma Família|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Cão Preto|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Ao Sol de Satanás|1987": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Fogo do Vento|2024": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Fogo do Vento",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "74 min",
+      "Genre": "N/A",
+      "Director": "Marta Mateus",
+      "Writer": "Marta Mateus",
+      "Actors": "Maria Catarina Sapata, Maria Clara Madeira, Safir Eizner",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal, France, Switzerland",
+      "Awards": "1 nomination",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32881169",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Simão do Deserto|1965": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "No Coração do Escuridão|2017": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Idade de Ouro|1930": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "As Tears Go By - Ao Sabor da Ambição|1988": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/7/5/36975-as-tears-go-by-0-500-0-750-crop.jpg?v=69fb90b74c",
+      "description": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Romance"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 1988
+    },
+    "omdb": {
+      "Title": "As Tears Go By",
+      "Year": "1988",
+      "Rated": "Not Rated",
+      "Released": "02 May 2008",
+      "Runtime": "102 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai, Jeffrey Lau",
+      "Actors": "Andy Lau, Maggie Cheung, Jacky Cheung",
+      "Plot": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
+      "Language": "Cantonese",
+      "Country": "Hong Kong",
+      "Awards": "2 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q1YmQyNDgtY2M5Mi00NzQ0LThmNzAtNWIzZjllZjVmOTI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "7.0",
+      "imdbVotes": "13,703",
+      "imdbID": "tt0096461",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$9,436",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Palavra|1955": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Torre sem Sombra|2023": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Passarinhos e Passarões|1966": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Rostos|1968": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Anjo Exterminador|1962": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Benedetta|2021": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/3/1/386631-benedetta-0-500-0-750-crop.jpg?v=9d52b3ab59",
+      "description": "A 17th-century nun becomes entangled in a forbidden lesbian affair with a novice. But it is Benedetta's shocking religious visions that threaten to shake the Church to its core.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "country": "Belgium",
+      "lb_director": "Paul Verhoeven",
+      "lb_director_slug": "paul-verhoeven-3",
+      "lb_year": 2021
+    },
+    "omdb": {
+      "Title": "Benedetta",
+      "Year": "2021",
+      "Rated": "Unrated",
+      "Released": "03 Dec 2021",
+      "Runtime": "131 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Paul Verhoeven",
+      "Writer": "David Birke, Paul Verhoeven, Judith C. Brown",
+      "Actors": "Virginie Efira, Charlotte Rampling, Daphné Patakia",
+      "Plot": "A 17th-century nun in Italy suffers from disturbing religious and erotic visions. She is assisted by a companion, and the relationship between the two women develops into a romantic love affair.",
+      "Language": "French, Latin",
+      "Country": "France, Belgium, Netherlands",
+      "Awards": "3 wins & 20 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE2NzQ3MzgtMmYyZS00ZTgxLTgwMWMtMWYyOTIxMDIxYWE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "6.7",
+      "imdbVotes": "28,633",
+      "imdbID": "tt6823148",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$354,481",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Pai Nosso – Os Últimos dias de Salazar|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Living the Land – O Vento é Imparável|2025": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/0/4/6/1301046-living-the-land-0-500-0-750-crop.jpg?v=14469fe10b",
+      "description": "With both parents working far away, ten-year-old Chuang is being raised by extended family in his home village, where thousands of years of rural tradition collide with the socio-economic changes of China in the early 1990s.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "China",
+      "lb_director": "Huo Meng",
+      "lb_director_slug": "huo-meng",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "Leibniz – Crónica de uma Pintura Perdida Leibniz|2025": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
+      "description": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Germany",
+      "lb_director": "Edgar Reitz",
+      "lb_director_slug": "edgar-reitz",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Leibniz",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Edgar Reitz, Anatol Schuster",
+      "Writer": "Gert Heidenreich, Edgar Reitz",
+      "Actors": "Lars Eidinger, Barbara Sukowa, Edgar Selge",
+      "Plot": "Queen Charlotte commissions a portrait of her beloved philosopher Leibniz. As the sittings progress, they embark on a passionate quest to uncover the essence of art, love, and truth in painting.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34290805",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Evangelho Segundo São Mateus|1964": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Palavra e Utopia|2000": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/4898-word-and-utopia-0-500-0-750-crop.jpg?v=4567daaee8",
+      "description": "The story of Father Antonio Vieira, a 17th-century Portuguese priest who lived in Brazil and worked for better treatment of the Indians and to abolish slavery.",
+      "genres": [
+        "History"
+      ],
+      "country": "Spain",
+      "lb_director": "Manoel de Oliveira",
+      "lb_director_slug": "manoel-de-oliveira",
+      "lb_year": 2000
+    },
+    "omdb": {
+      "Title": "Palavra e Utopia",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "17 Nov 2000",
+      "Runtime": "130 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Manoel de Oliveira",
+      "Writer": "Manoel de Oliveira",
+      "Actors": "Lima Duarte, Luís Miguel Cintra, Ricardo Trêpa",
+      "Plot": "The story of Father Antonio Vieira, a 17th-century Portuguese priest who lived in Brazil and worked for better treatment of the Indians and to abolish slavery.",
+      "Language": "Portuguese",
+      "Country": "Spain, Italy, France, Brazil, Portugal",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzdmMWJmMGItYzBmYS00MjhkLTk2NTYtNDQ2NmRjZGM5NDI0XkEyXkFqcGdeQXVyODY5Nzc1NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "412",
+      "imdbID": "tt0200257",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Eu vos Saúdo, Maria|1984": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "My Blueberry Nights – O Sabor do Amor|2007": {
+    "lbxd": {
+      "rating": 3.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/3/50623-my-blueberry-nights-0-500-0-750-crop.jpg?v=d8cbbb5a09",
+      "description": "Elizabeth has just been through a particularly nasty breakup, and now she's ready to leave her friends and memories behind as she chases her dreams across the country. In order to support herself on her journey, Elizabeth picks up a series of waitress jobs along the way. As Elizabeth crosses paths with a series of lost souls whose yearnings are even greater than her own, their emotional turmoil ultimately helps her gain a greater understanding of her own problems...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 2007
+    },
+    "omdb": {
+      "Title": "My Blueberry Nights",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "28 Nov 2007",
+      "Runtime": "95 min",
+      "Genre": "Drama, Romance",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai, Lawrence Block",
+      "Actors": "Norah Jones, Jude Law, Natalie Portman",
+      "Plot": "A young lonely woman takes a soul-searching journey across America to resolve her questions about love while encountering a series of off-beat characters along the way.",
+      "Language": "English",
+      "Country": "China, France, Hong Kong, United States",
+      "Awards": "5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZkMGI3Y2YtMzEyOS00MjExLWI2YjktYzc0Y2FhMTkyMWMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "46%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "Metascore": "51",
+      "imdbRating": "6.6",
+      "imdbVotes": "58,078",
+      "imdbID": "tt0765120",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$867,275",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Europa 51|1952": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/6/8/23568-europe-51-0-500-0-750-crop.jpg?v=05978ceac6",
+      "description": "A wealthy, self-absorbed Rome socialite is racked by guilt over the death of her young son. As a way of dealing with her grief and finding meaning in her life, she decides to devote her time and money to the city’s poor and sick. Her newfound, single-minded activism leads to conflicts with her husband and questions about her sanity.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Roberto Rossellini",
+      "lb_director_slug": "roberto-rossellini",
+      "lb_year": 1952
+    },
+    "omdb": null
+  },
+  "Regresso ao Pó|2022": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Dois Procuradores|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Days of Being Wild – Dias Selvagens|1990": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/3/4/40434-days-of-being-wild-0-500-0-750-crop.jpg?v=6d9f15154f",
+      "description": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 1990
+    },
+    "omdb": {
+      "Title": "Days of Being Wild",
+      "Year": "1990",
+      "Rated": "Not Rated",
+      "Released": "15 Dec 1990",
+      "Runtime": "94 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Wong Kar-Wai",
+      "Writer": "Wong Kar-Wai, Jeffrey Lau",
+      "Actors": "Leslie Cheung, Maggie Cheung, Andy Lau",
+      "Plot": "A man tries to find out who his real mother is after the woman who raised him tells him the truth.",
+      "Language": "Cantonese, Shanghainese, Tagalog, English, Mandarin",
+      "Country": "Hong Kong",
+      "Awards": "17 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0OGQxNmYtMTU0Mi00ZTc1LTk5OGUtZWY2NDIzNTQ0YjgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "Metascore": "93",
+      "imdbRating": "7.4",
+      "imdbVotes": "28,126",
+      "imdbID": "tt0101258",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$146,310",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Bravo Bene!|2025": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/9/6/9/9/1159699-bravo-bene-0-500-0-750-crop.jpg?v=e097cf41e1",
+      "description": "Filming on Franco Maresco's film about Carmelo Bene is abruptly halted after yet another on-set accident. Producer Andrea Occhipinti pulls the plug, exasperated by the endless takes and repeated delays. Angered, the director simply disappears. Maresco's friend, Umberto Cantone, attempts to mend the rift by calling witnesses from all those involved in the project, in an investigation that offers an opportunity to retrace the personality and ideas of the most corrosive and apocalyptic auteur in Italian cinema.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Italy",
+      "lb_director": "Franco Maresco",
+      "lb_director_slug": "franco-maresco-1",
+      "lb_year": 2025
+    },
     "omdb": null
   }
 }
