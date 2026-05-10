@@ -20839,5 +20839,130 @@
       "lb_year": 2025
     },
     "omdb": null
+  },
+  "SESSÃO DE CURTAS I | LXMFF 26|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Talk “António Maio”|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "SESSÃO DE CURTAS TUGAS | LXMFF 26|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Talk “Diaries Of Travel”|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Panique au Village|2009": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/1/8/1/8/991818-a-town-called-panic-0-500-0-750-crop.jpg?v=0713839923",
+      "description": "Follows the everyday events of Cowboy, Indian and Horse in a small rural town as they go about their lives.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "country": "Belgium",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2002
+    },
+    "omdb": null
+  },
+  "Esta É a Minha Casa | A Vossa Casa|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Esta É a Minha Casa",
+      "Year": "1997",
+      "Rated": "N/A",
+      "Released": "24 Mar 2013",
+      "Runtime": "51 min",
+      "Genre": "Documentary",
+      "Director": "João Pedro Rodrigues",
+      "Writer": "Amândio Coroado, João Pedro Rodrigues",
+      "Actors": "Léa Felix do Fundo, Johnny Felix do Fundo, Justina Rosa Barreira",
+      "Plot": "João Pedro Rodrigues films a vacation trip of a family of emigrants, the Fundo, from Paris to his homeland, Trás-os-Montes. Images of the couple's daily life in Paris - he's a shoemaker, she's a doorkeeper - alternate with the jou...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "13",
+      "imdbID": "tt0201600",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Amélia Borges Rodrigues, Empresária|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Aquarius|2016": {
+    "lbxd": {
+      "rating": 3.98,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/1h/vz/dq/bv/gxuT8EbgXsHq02LLDYuXdTD963V-0-500-0-750-crop.jpg?v=6251c85c5d",
+      "description": "Clara, a vibrant former music critic and widow with flowing tresses is the only remaining apartment owner in a beautiful older building targeted for demolition by ruthless luxury high-rise developers. Clara proves to be a force to be reckoned with as she thwarts the builders plans to kick her out of the apartment.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Kleber Mendonça Filho",
+      "lb_director_slug": "kleber-mendonca-filho",
+      "lb_year": 2016
+    },
+    "omdb": {
+      "Title": "Aquarius",
+      "Year": "2016",
+      "Rated": "Not Rated",
+      "Released": "01 Sep 2016",
+      "Runtime": "146 min",
+      "Genre": "Drama",
+      "Director": "Kleber Mendonça Filho",
+      "Writer": "Kleber Mendonça Filho",
+      "Actors": "Sonia Braga, Maeve Jinkings, Irandhir Santos",
+      "Plot": "Clara, 65, lives her life to the fullest with her family and friends. A construction company wants her Recife oceanfront condo, as they've already bought all the other in the 3 story building. Clara's staying.",
+      "Language": "Portuguese",
+      "Country": "Brazil, France",
+      "Awards": "46 wins & 48 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4YWU1MmEtYjA3MS00MTY0LWI1MDMtMzc2NDVkYTNmZGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "7.4",
+      "imdbVotes": "21,005",
+      "imdbID": "tt5221584",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$285,930",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
