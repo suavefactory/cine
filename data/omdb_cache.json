@@ -20964,5 +20964,103 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Les Maisons de la Misère |\r\nKiller of Sheep|1936": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/8/6/6/4/268664-houses-of-poverty-0-500-0-750-crop.jpg?v=4357c5666a",
+      "description": "Henri Storck’s militant short on Depression-era Belgium, set in Walloon slums on the outskirts of a prosperous city. Staged vignettes expose substandard housing, overcrowding, and numbed survival through claustrophobic, frame-filling images; a coda on slum clearance and “garden city” rehousing offers guarded hope.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Henri Storck",
+      "lb_director_slug": "henri-storck",
+      "lb_year": 1936
+    },
+    "omdb": {
+      "Title": "Les maisons de la misère",
+      "Year": "1936",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "20 min",
+      "Genre": "Short, Documentary",
+      "Director": "Henri Storck",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "On the outskirts of a prosperous city there are those who live in substandard housing and poverty.This documentary shows one such example from Depression-era Belgium.",
+      "Language": "N/A",
+      "Country": "Belgium",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "24",
+      "imdbID": "tt0292087",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Panique au Village|2002": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/1/8/1/8/991818-a-town-called-panic-0-500-0-750-crop.jpg?v=0713839923",
+      "description": "Follows the everyday events of Cowboy, Indian and Horse in a small rural town as they go about their lives.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "country": "Belgium",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2002
+    },
+    "omdb": null
+  },
+  "Esta É a Minha Casa | A Vossa Casa|1997": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Esta É a Minha Casa",
+      "Year": "1997",
+      "Rated": "N/A",
+      "Released": "24 Mar 2013",
+      "Runtime": "51 min",
+      "Genre": "Documentary",
+      "Director": "João Pedro Rodrigues",
+      "Writer": "Amândio Coroado, João Pedro Rodrigues",
+      "Actors": "Léa Felix do Fundo, Johnny Felix do Fundo, Justina Rosa Barreira",
+      "Plot": "João Pedro Rodrigues films a vacation trip of a family of emigrants, the Fundo, from Paris to his homeland, Trás-os-Montes. Images of the couple's daily life in Paris - he's a shoemaker, she's a doorkeeper - alternate with the jou...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "13",
+      "imdbID": "tt0201600",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
