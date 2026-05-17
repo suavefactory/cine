@@ -22043,5 +22043,365 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Visita Guiada à Exposição Temporária: \r\nO Regresso do Cometa Halley|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Truman Show|1998": {
+    "lbxd": {
+      "rating": 4.22,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-500-0-750-crop.jpg?v=704ba393f7",
+      "description": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a reality TV show.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Peter Weir",
+      "lb_director_slug": "peter-weir",
+      "lb_year": 1998
+    },
+    "omdb": {
+      "Title": "The Truman Show",
+      "Year": "1998",
+      "Rated": "PG",
+      "Released": "05 Jun 1998",
+      "Runtime": "103 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Peter Weir",
+      "Writer": "Andrew Niccol",
+      "Actors": "Jim Carrey, Ed Harris, Laura Linney",
+      "Plot": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 42 wins & 69 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,356,843",
+      "imdbID": "tt0120382",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$125,618,201",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Trio em Mi Bemol|2022": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/0/8/8/6/830886-the-kegelstatt-trio-0-500-0-750-crop.jpg?v=924df7f3a8",
+      "description": "Paul and Adèle were once lovers and separated but are still good friends, one year after everything seems to take them away from each other. The key of E-flat may be the key of true friendship, but it is Mozart that pushes them apart...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2022
+    },
+    "omdb": {
+      "Title": "O Trio em Mi Bemol",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "01 Dec 2022",
+      "Runtime": "127 min",
+      "Genre": "Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes, Éric Rohmer",
+      "Actors": "Pierre Léon, Rita Durão, Adolfo Arrieta",
+      "Plot": "A series of encounters between two ex-lovers who still are very fond of each other.",
+      "Language": "Portuguese, Spanish, French",
+      "Country": "Spain, Portugal",
+      "Awards": "6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNlYTcwODAtZWI5Ni00MjU3LTkyNGItMDFmNGRlZmI4YmNmXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "96",
+      "imdbID": "tt17555654",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Inês de Castro|1945": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/8/1/4/9/388149-ines-de-castro-0-500-0-750-crop.jpg?v=4847d8811a",
+      "description": "In 1336, Pedro, heir to the Portuguese crown, marries Constanza Manuel de Villena, a Castilian noblewoman, for political reasons; but the impulsive prince ends up giving in to his love for Inés de Castro, his wife's lady-in-waiting.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "History"
+      ],
+      "country": "Spain",
+      "lb_director": "José Leitão de Barros",
+      "lb_director_slug": "jose-leitao-de-barros-1",
+      "lb_year": 1944
+    },
+    "omdb": {
+      "Title": "Inês de Castro",
+      "Year": "1944",
+      "Rated": "N/A",
+      "Released": "28 Dec 1944",
+      "Runtime": "92 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "José Leitão de Barros",
+      "Writer": "Manuel Augusto García Viñolas, Afonso Lopes Vieira, Manuel Machado",
+      "Actors": "Antonio Vilar, Alicia Palacios, María Dolores Pradera",
+      "Plot": "Dom Pedro, heir to the Portuguese crown, is married to a Castilian princess but falls in love for his wife's maid. In addition to sin and scandal, can they survive the political implications of their romance?",
+      "Language": "Portuguese, Spanish",
+      "Country": "Spain, Portugal",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY3N2MwMjktOGU0ZS00OWE0LWFlODktNDE5NjJmMzRkZTA3XkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "74",
+      "imdbID": "tt0036960",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Isaura Pavia de Magalhães Lisboa, Educadora|1998": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Metropolis|1927": {
+    "lbxd": {
+      "rating": 4.24,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2z/xx/r0/hy/qriaeUUwdmlgethK3aSAx68mG05-0-500-0-750-crop.jpg?v=31b29ec62d",
+      "description": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "country": "Germany",
+      "lb_director": "Fritz Lang",
+      "lb_director_slug": "fritz-lang-1",
+      "lb_year": 1927
+    },
+    "omdb": {
+      "Title": "Metropolis",
+      "Year": "1927",
+      "Rated": "Passed",
+      "Released": "13 Mar 1927",
+      "Runtime": "153 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "Fritz Lang",
+      "Writer": "Thea von Harbou, Fritz Lang",
+      "Actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",
+      "Plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+      "Language": "German, None",
+      "Country": "Germany",
+      "Awards": "7 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.2",
+      "imdbVotes": "199,601",
+      "imdbID": "tt0017136",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,236,166",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "In the Mood For Love — Disponível Para Amar|2001": {
+    "lbxd": {
+      "rating": 3.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/5/6/8/579568-in-the-mood-for-love-0-500-0-750-crop.jpg?v=3fe332446b",
+      "description": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 2001
+    },
+    "omdb": {
+      "Title": "In the Mood for Love 2001",
+      "Year": "2001",
+      "Rated": "N/A",
+      "Released": "16 May 2001",
+      "Runtime": "32 min",
+      "Genre": "Short, Comedy",
+      "Director": "Kar-Wai Wong",
+      "Writer": "Kar-Wai Wong",
+      "Actors": "Maggie Cheung, Tony Leung Chiu-wai",
+      "Plot": "Two people have a chance encounter in a convenience store.",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JjMTM2NmItZTliNi00MmYyLTg3NWUtMGUzMjBlYTBkZGU0XkEyXkFqcGdeQXVyMzk1MjM0NTk@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "113",
+      "imdbID": "tt20833922",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Gloria|1980": {
+    "lbxd": {
+      "rating": 3.8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/5/2/4/6524-gloria-0-500-0-750-crop.jpg?v=a561a0493d",
+      "description": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "John Cassavetes",
+      "lb_director_slug": "john-cassavetes",
+      "lb_year": 1980
+    },
+    "omdb": {
+      "Title": "Gloria",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "01 Oct 1980",
+      "Runtime": "123 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "John Cassavetes",
+      "Writer": "John Cassavetes",
+      "Actors": "Gena Rowlands, Buck Henry, Julie Carmen",
+      "Plot": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 4 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk0ZGYxYmQtMWEwZi00MjdlLTg4NTEtZmQ2OGNiODc3YmZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.1",
+      "imdbVotes": "12,367",
+      "imdbID": "tt0080798",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,059,673",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Love Streams - Amantes|1984": {
+    "lbxd": {
+      "rating": 4.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/6/6/13766-love-streams-0-500-0-750-crop.jpg?v=944feb2e19",
+      "description": "Two closely-bound, emotionally wounded siblings reunite after years apart.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "John Cassavetes",
+      "lb_director_slug": "john-cassavetes",
+      "lb_year": 1984
+    },
+    "omdb": {
+      "Title": "Love Streams",
+      "Year": "1984",
+      "Rated": "PG-13",
+      "Released": "24 Aug 1984",
+      "Runtime": "141 min",
+      "Genre": "Drama",
+      "Director": "John Cassavetes",
+      "Writer": "Ted Allan, John Cassavetes",
+      "Actors": "Gena Rowlands, John Cassavetes, Diahnne Abbott",
+      "Plot": "Two closely bound, emotionally wounded souls reunite after years apart.",
+      "Language": "English, French, Spanish",
+      "Country": "United States",
+      "Awards": "4 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxYzJmOTQtMTc2NS00Njg2LTk5OTItNDUxNWMzMjQyODhhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "6,903",
+      "imdbID": "tt0087644",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
