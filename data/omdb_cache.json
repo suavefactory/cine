@@ -22446,5 +22446,25 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "The Ring – A Maldição|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Yojimbo, o Invencível|None": {
+    "lbxd": {
+      "rating": 4.3,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nw/l2/zw/wy/tN7kYPjRhDolpui9sc9Eq9n5b2O-0-500-0-750-crop.jpg?v=5cea1d49c1",
+      "description": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Akira Kurosawa",
+      "lb_director_slug": "akira-kurosawa",
+      "lb_year": 1961
+    },
+    "omdb": null
   }
 }
