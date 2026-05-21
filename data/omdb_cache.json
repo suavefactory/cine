@@ -22466,5 +22466,185 @@
       "lb_year": 1961
     },
     "omdb": null
+  },
+  "Castle in the Sky|None": {
+    "lbxd": {
+      "rating": 4.08,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/1/5/7/46157-castle-in-the-sky-0-500-0-750-crop.jpg?v=b1924d4dcd",
+      "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Family",
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "country": "Japan",
+      "lb_director": "Hayao Miyazaki",
+      "lb_director_slug": "hayao-miyazaki",
+      "lb_year": 1986
+    },
+    "omdb": {
+      "Title": "Castle in the Sky",
+      "Year": "1986",
+      "Rated": "PG",
+      "Released": "19 Jul 1991",
+      "Runtime": "124 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Hayao Miyazaki",
+      "Writer": "Hayao Miyazaki, Jonathan Swift",
+      "Actors": "Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",
+      "Plot": "Pazu's life changes when he meets Sheeta, a girl whom pirates are chasing for her crystal amulet, which has the potential to locate Laputa, a legendary castle floating in the sky.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "8.0",
+      "imdbVotes": "196,825",
+      "imdbID": "tt0092067",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$523,664",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Akira|None": {
+    "lbxd": {
+      "rating": 4.28,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-500-0-750-crop.jpg?v=dd1e90619a",
+      "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+      "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "country": "Japan",
+      "lb_director": "Katsuhiro Otomo",
+      "lb_director_slug": "katsuhiro-otomo-1",
+      "lb_year": 1988
+    },
+    "omdb": {
+      "Title": "Akira",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "16 Jul 1988",
+      "Runtime": "124 min",
+      "Genre": "Animation, Action, Drama",
+      "Director": "Katsuhiro Ôtomo",
+      "Writer": "Katsuhiro Ôtomo, Izô Hashimoto",
+      "Actors": "Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",
+      "Plot": "A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUxMGRhZDQtMTBmMi00N2IxLWE5NmYtMDMyMWExODAwNWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "8.0",
+      "imdbVotes": "223,673",
+      "imdbID": "tt0094625",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$553,171",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Dias Perfeitos|None": {
+    "lbxd": {
+      "rating": 4.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/9/2/2/9/879229-perfect-days-0-500-0-750-crop.jpg?v=4ea80661fd",
+      "description": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Wim Wenders",
+      "lb_director_slug": "wim-wenders",
+      "lb_year": 2023
+    },
+    "omdb": null
+  },
+  "Montadoras - II|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Leibniz – Crónica de uma Pintura Perdida|2025": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
+      "description": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Germany",
+      "lb_director": "Edgar Reitz",
+      "lb_director_slug": "edgar-reitz",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Leibniz",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Edgar Reitz, Anatol Schuster",
+      "Writer": "Gert Heidenreich, Edgar Reitz",
+      "Actors": "Lars Eidinger, Barbara Sukowa, Edgar Selge",
+      "Plot": "Queen Charlotte commissions a portrait of her beloved philosopher Leibniz. As the sittings progress, they embark on a passionate quest to uncover the essence of art, love, and truth in painting.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34290805",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Crianças à Procura de Mãe|1956": {
+    "lbxd": null,
+    "omdb": null
   }
 }
