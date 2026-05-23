@@ -22646,5 +22646,413 @@
   "Crianças à Procura de Mãe|1956": {
     "lbxd": null,
     "omdb": null
+  },
+  "There’s No Business Like Show Business|1954": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
+      "description": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Walter Lang",
+      "lb_director_slug": "walter-lang",
+      "lb_year": 1954
+    },
+    "omdb": {
+      "Title": "There's No Business Like Show Business",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "06 Jan 1955",
+      "Runtime": "117 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Walter Lang",
+      "Writer": "Phoebe Ephron, Henry Ephron, Lamar Trotti",
+      "Actors": "Ethel Merman, Marilyn Monroe, Donald O'Connor",
+      "Plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
+      "Language": "English, Latin",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ3MmNkY2UtYTU5Mi00ZmY3LTk5MTQtM2ZjZTU5YzFhYzBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "7,076",
+      "imdbID": "tt0047574",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,103,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Ladies Of The Chorus|1949": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/2/3/24923-ladies-of-the-chorus-0-500-0-750-crop.jpg?v=36bdff3541",
+      "description": "Former burlesque star May and her daughter Peggy dance in the chorus. When May has a fight with featured dancer Bubbles, Bubbles leaves the show and Peggy takes her place. When Peggy falls in love with wealthy Randy, May fears class differences may lead to misery.",
+      "genres": [
+        "Music",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Phil Karlson",
+      "lb_director_slug": "phil-karlson",
+      "lb_year": 1948
+    },
+    "omdb": {
+      "Title": "Ladies of the Chorus",
+      "Year": "1948",
+      "Rated": "Approved",
+      "Released": "10 Feb 1949",
+      "Runtime": "61 min",
+      "Genre": "Musical, Romance",
+      "Director": "Phil Karlson",
+      "Writer": "Harry Sauber, Joseph Carole",
+      "Actors": "Adele Jergens, Marilyn Monroe, Rand Brooks",
+      "Plot": "A chorus girl falls in love with a wealthy young man, but their relationship is jeopardized by her mother's fears about the reaction of his family.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFjZGUyNzYtZTA2My00YTVkLTkyNmUtOGZiYzE5MWU3NzBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "1,694",
+      "imdbID": "tt0041571",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Skandal In Budapest|1938": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Le Million|1931": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/4/7/4/30474-le-million-0-500-0-750-crop.jpg?v=174953f215",
+      "description": "Debt-ridden painter Michel is overcome with joy at discovering that he has just won 1 million florins in the Dutch lottery, but almost immediately, he discovers that his softhearted girlfriend, Béatrice, has given away his jacket containing the winning ticket to an elderly petty thief. Soon Michel, Beatrice and Michel's artistic rival, Prosper, are hurtling through the streets of Paris on the trail of the missing jacket.",
+      "genres": [
+        "Music",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "René Clair",
+      "lb_director_slug": "rene-clair-1",
+      "lb_year": 1931
+    },
+    "omdb": {
+      "Title": "Le Million",
+      "Year": "1931",
+      "Rated": "Not Rated",
+      "Released": "04 Feb 1931",
+      "Runtime": "91 min",
+      "Genre": "Comedy, Musical",
+      "Director": "René Clair",
+      "Writer": "Georges Berr, Marcel Guillemaud, René Clair",
+      "Actors": "Annabella, René Lefèvre, Jean-Louis Allibert",
+      "Plot": "An impoverished painter and his rival engage in a race across Paris to recover a jacket concealing a winning lottery ticket.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MTA3NjI3M15BMl5BanBnXkFtZTcwNTA3OTMyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "3,899",
+      "imdbID": "tt0022150",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Hallellujah!|1929": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Love Parade|1929": {
+    "lbxd": {
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/4/14074-the-love-parade-0-500-0-750-crop.jpg?v=fb7150c62f",
+      "description": "The queen of mythical Sylvania marries a courtier, who finds his new life unsatisfying.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Ernst Lubitsch",
+      "lb_director_slug": "ernst-lubitsch",
+      "lb_year": 1929
+    },
+    "omdb": {
+      "Title": "The Love Parade",
+      "Year": "1929",
+      "Rated": "Passed",
+      "Released": "18 Jan 1930",
+      "Runtime": "107 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Ernst Lubitsch",
+      "Writer": "Ernest Vajda, Guy Bolton, Leon Xanrof",
+      "Actors": "Maurice Chevalier, Jeanette MacDonald, Lupino Lane",
+      "Plot": "The queen of mythical Sylvania marries a courtier, who finds his new life unsatisfying.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Nominated for 6 Oscars. 1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDkyNDZjYTktOGNlMC00YzNmLWJjN2UtM2VjMjBhMDQzMDBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "2,668",
+      "imdbID": "tt0020112",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Girl Of The Golden West|1938": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/3/0/4/21304-the-girl-of-the-golden-west-0-500-0-750-crop.jpg?v=c56f677c30",
+      "description": "A bandit disguises himself as an officer in an attempt to woo a saloon singer.",
+      "genres": [
+        "Romance",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Z. Leonard",
+      "lb_director_slug": "robert-z-leonard",
+      "lb_year": 1938
+    },
+    "omdb": {
+      "Title": "The Girl of the Golden West",
+      "Year": "1938",
+      "Rated": "Approved",
+      "Released": "18 Mar 1938",
+      "Runtime": "121 min",
+      "Genre": "Musical, Romance, Western",
+      "Director": "Robert Z. Leonard",
+      "Writer": "Isabel Dawn, Boyce DeGaw, David Belasco",
+      "Actors": "Jeanette MacDonald, Nelson Eddy, Walter Pidgeon",
+      "Plot": "A bandit disguises himself as an officer in an attempt to woo a saloon singer.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4ZDA5OGItOTYwZS00MzkxLWI1ODEtOGM1M2Q3Yjc0OTA5XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "465",
+      "imdbID": "tt0030182",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "One Hundred Men And A Girl|1937": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/1/5081-one-hundred-men-and-a-girl-0-500-0-750-crop.jpg?v=16f7756524",
+      "description": "The daughter of a struggling musician forms a symphony orchestra made up of his unemployed friends and through persistence, charm and a few misunderstandings, is able to get Leopold Stokowski to lead them in a concert that leads to a radio contract.",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Henry Koster",
+      "lb_director_slug": "henry-koster-1",
+      "lb_year": 1937
+    },
+    "omdb": {
+      "Title": "One Hundred Men and a Girl",
+      "Year": "1937",
+      "Rated": "Passed",
+      "Released": "05 Sep 1937",
+      "Runtime": "84 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Henry Koster",
+      "Writer": "Bruce Manning, Charles Kenyon, James Mulhauser",
+      "Actors": "Deanna Durbin, Adolphe Menjou, Alice Brady",
+      "Plot": "The daughter of a struggling musician forms a symphony orchestra made up of his unemployed friends and through persistence, charm and a few misunderstandings, is able to get Leopold Stokowski to lead them in a concert that leads t...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 1 win & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JlYzViNTQtZThhYy00YTQ1LWE4YjMtODY1MTVlNzMxOGJkXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "1,196",
+      "imdbID": "tt0029347",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Bathing Beauty|1944": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/6/0/4/21604-bathing-beauty-0-500-0-750-crop.jpg?v=df018bb1ce",
+      "description": "After breaking up with her fiancé, a gym teacher returns to work at a women's college, but a legal loophole allows him to enroll as one of her students.",
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "George Sidney",
+      "lb_director_slug": "george-sidney-1",
+      "lb_year": 1944
+    },
+    "omdb": {
+      "Title": "Bathing Beauty",
+      "Year": "1944",
+      "Rated": "Approved",
+      "Released": "01 Jul 1944",
+      "Runtime": "101 min",
+      "Genre": "Comedy, Musical",
+      "Director": "George Sidney",
+      "Writer": "Kenneth Earl, M.M. Musselman, Curtis Kenyon",
+      "Actors": "Red Skelton, Esther Williams, Basil Rathbone",
+      "Plot": "A contrived misunderstanding leads to the breakup of a songwriter and his fiancée. She returns to work as a gym teacher at an all-girls school, but a legal loophole allows the man to enroll as one of her students.",
+      "Language": "English, Spanish, French",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjIzYjE1MDYtYzI2Yi00MDk0LWFmNjItYjVhYjRkMTI5OWRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "1,955",
+      "imdbID": "tt0036628",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "La Verbena De La Paloma|1935": {
+    "lbxd": {
+      "rating": 3.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/3/6/0/96360-fair-of-the-dove-0-500-0-750-crop.jpg?v=08346e91ef",
+      "description": "A young printer's relationship with his girlfriend is in trouble after she accepts another suitor's invitation to the fair. This adaption of a popular operetta aims to please with a simple storyline and goofy slapstick.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "Spain",
+      "lb_director": "Benito Perojo",
+      "lb_director_slug": "benito-perojo-2",
+      "lb_year": 1935
+    },
+    "omdb": {
+      "Title": "La verbena de la Paloma",
+      "Year": "1935",
+      "Rated": "N/A",
+      "Released": "24 Oct 1938",
+      "Runtime": "78 min",
+      "Genre": "Musical",
+      "Director": "Benito Perojo",
+      "Writer": "Ricardo de la Vega, Benito Perojo, Pedro de Repide",
+      "Actors": "Miguel Ligero, Roberto Rey, Raquel Rodrigo",
+      "Plot": "A little love drama between Julián, an honest typesetter, and 'chulapa' Susana, adapted from a famous Spanish 'zarzuela'.",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE0OTQ1ZGUtZDdkMC00NGI3LTkxOTUtMmZmNDk1ZWZkYmRmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "128",
+      "imdbID": "tt0025942",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Romance Sentimentale|1930": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Vesiolye Rebiata|1934": {
+    "lbxd": null,
+    "omdb": null
   }
 }
