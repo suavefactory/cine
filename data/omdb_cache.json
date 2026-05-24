@@ -23054,5 +23054,244 @@
   "Vesiolye Rebiata|1934": {
     "lbxd": null,
     "omdb": null
+  },
+  "Bedknobs And Broomsticks|1971": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/2/1/44621-bedknobs-and-broomsticks-0-500-0-750-crop.jpg?v=5286e253fb",
+      "description": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Fantasy"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Stevenson",
+      "lb_director_slug": "robert-stevenson-1",
+      "lb_year": 1971
+    },
+    "omdb": {
+      "Title": "Bedknobs and Broomsticks",
+      "Year": "1971",
+      "Rated": "G",
+      "Released": "13 Dec 1971",
+      "Runtime": "117 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Robert Stevenson, Ward Kimball",
+      "Writer": "Ralph Wright, Ted Berman, Bill Walsh",
+      "Actors": "Angela Lansbury, David Tomlinson, Roddy McDowall",
+      "Plot": "An apprentice witch, three kids, and a cynical magician conman search for the missing component to a magic spell to be used in the defense of Britain in World War II.",
+      "Language": "English, German",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 2 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTY3MTE5OF5BMl5BanBnXkFtZTgwNTQ0ODgxMzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "7.1",
+      "imdbVotes": "42,528",
+      "imdbID": "tt0066817",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Midsummer Night’s Dream|1935": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/4/39884-a-midsummer-night-s-dream-0-500-0-750-crop.jpg?v=3f341f3e22",
+      "description": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "William Dieterle",
+      "lb_director_slug": "william-dieterle",
+      "lb_year": 1935
+    },
+    "omdb": {
+      "Title": "A Midsummer Night's Dream",
+      "Year": "1935",
+      "Rated": "Approved",
+      "Released": "30 Oct 1935",
+      "Runtime": "133 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "William Dieterle, Max Reinhardt",
+      "Writer": "William Shakespeare, Charles Kenyon, Mary C. McCall Jr.",
+      "Actors": "James Cagney, Dick Powell, Ian Hunter",
+      "Plot": "Two couples and a troupe of actors have an encounter with some mischievous fairies in the forest.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjg1MjItNmRjNS00NWE4LWJlMGEtYTczMTU5ZWJiYmZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "3,961",
+      "imdbID": "tt0026714",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Die Dreigroschenoper|1932": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/3/3/117033-the-threepenny-opera-1931-0-500-0-750-crop.jpg?v=797401838d",
+      "description": "The French-language version of the The Threepenny Opera with a different cast from the German version.",
+      "genres": [
+        "Drama",
+        "Music",
+        "Crime"
+      ],
+      "country": "Germany",
+      "lb_director": "G.W. Pabst",
+      "lb_director_slug": "gw-pabst",
+      "lb_year": 1931
+    },
+    "omdb": null
+  },
+  "Lost Highway – Estrada Perdida|1996": {
+    "lbxd": {
+      "rating": 4.11,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-500-0-750-crop.jpg?v=49d0ffd43f",
+      "description": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "David Lynch",
+      "lb_director_slug": "david-lynch",
+      "lb_year": 1997
+    },
+    "omdb": {
+      "Title": "Lost Highway",
+      "Year": "1997",
+      "Rated": "R",
+      "Released": "15 Jan 1997",
+      "Runtime": "134 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "David Lynch",
+      "Writer": "David Lynch, Barry Gifford",
+      "Actors": "Bill Pullman, Patricia Arquette, John Roselius",
+      "Plot": "Anonymous videotapes presage a musician's murder conviction, and a gangster's girlfriend leads a mechanic astray.",
+      "Language": "English",
+      "Country": "France, United States",
+      "Awards": "4 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ],
+      "Metascore": "53",
+      "imdbRating": "7.6",
+      "imdbVotes": "168,943",
+      "imdbID": "tt0116922",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,726,792",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Inland empire|2006": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/2/50822-inland-empire-0-500-0-750-crop.jpg?v=b4bd226d73",
+      "description": "When actress Nikki Grace gets the lead role in a cursed film, her world becomes more and more surreal, blending realities and ideas of infidelity, reincarnation, and supernatural forces.",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "David Lynch",
+      "lb_director_slug": "david-lynch",
+      "lb_year": 2006
+    },
+    "omdb": {
+      "Title": "Inland Empire",
+      "Year": "2006",
+      "Rated": "R",
+      "Released": "07 Feb 2007",
+      "Runtime": "180 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "David Lynch",
+      "Writer": "David Lynch",
+      "Actors": "Karolina Gruszka, Krzysztof Majchrzak, Grace Zabriskie",
+      "Plot": "As an actress begins to adopt the persona of her character in a film, her world becomes nightmarish and surreal.",
+      "Language": "English, Polish",
+      "Country": "France, Poland, United States",
+      "Awards": "5 wins & 20 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NDQyNjM3NF5BMl5BanBnXkFtZTcwMzk5MDU0MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "6.8",
+      "imdbVotes": "66,989",
+      "imdbID": "tt0460829",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,114,878",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
