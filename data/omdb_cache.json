@@ -23293,5 +23293,435 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Filmes-Ensaio:Viver Em Algum Lugar (Aqui Ou Noutro Lado)|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Kentucky Pride|1925": {
+    "lbxd": {
+      "rating": 3.33,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/5/8/5/3/215853-kentucky-pride-0-500-0-750-crop.jpg?v=5b6c3748bb",
+      "description": "This rare John Ford silent is a charming, sweetly sentimental tale of the relationship between humans and animals told largely from the point of view of a racehorse who observes as her breeder (Henry B. Walthall) is forced to sell her when he loses everything in a poker game. Several of the era’s most famous racehorses make appearances, including the legendary champion thoroughbred Man o’ War.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "John Ford",
+      "lb_director_slug": "john-ford-2",
+      "lb_year": 1925
+    },
+    "omdb": {
+      "Title": "Kentucky Pride",
+      "Year": "1925",
+      "Rated": "Passed",
+      "Released": "06 Sep 1925",
+      "Runtime": "70 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "John Ford",
+      "Writer": "Dorothy Yost, Elizabeth Pickett",
+      "Actors": "Virginia's Future, Negofol, Morvich",
+      "Plot": "The story of a Beaumont race horse, told through from the point of view of the horse via intertitles.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1MmI3YmYtMzJkOS00YWYyLWE2MDgtNjBmYThlMWM4NDM4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "221",
+      "imdbID": "tt0015973",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Trois Couleurs: Blanc|1994": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Viktor Und Viktoria|1933": {
+    "lbxd": {
+      "rating": 3.67,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/7/7/2/124772-victor-and-victoria-0-500-0-750-crop.jpg?v=2e6e5b9b3d",
+      "description": "Aspiring singer Susanne takes over one night for her sick friend, a small-time female impersonator, and finds unexpected fame when everyone believes that she is actually a man. While touring London, complications arise as a local womanizer catches on to her game.",
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "Germany",
+      "lb_director": "Reinhold Schünzel",
+      "lb_director_slug": "reinhold-schunzel",
+      "lb_year": 1933
+    },
+    "omdb": null
+  },
+  "El Ultimo Cuplé|1957": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/6/9/1/66691-the-last-couplet-0-500-0-750-crop.jpg?v=826a6d82f0",
+      "description": "A musical drama featuring a tragic love story. Relates a singer's rise to fame and her subsequent downfall because of the death of her lover.",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "country": "Spain",
+      "lb_director": "Juan de Orduña",
+      "lb_director_slug": "juan-de-orduna-2",
+      "lb_year": 1957
+    },
+    "omdb": {
+      "Title": "El último cuplé",
+      "Year": "1957",
+      "Rated": "N/A",
+      "Released": "01 Aug 1957",
+      "Runtime": "110 min",
+      "Genre": "Drama, Musical",
+      "Director": "Juan de Orduña",
+      "Writer": "Antonio Mas Guindal, Jesús María de Arozamena",
+      "Actors": "Sara Montiel, Armando Calvo, Enrique Vera",
+      "Plot": "This is a musical drama featuring a tragic love story that relates a torch singer's rise to fame, and then her downfall because of her lover's death. She manages to return to the stage, but after only one public performance, she p...",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQzOGJiOWYtZGM5Yy00NjNiLTk3ODAtMjk1ZmQzMzllYmE1XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "227",
+      "imdbID": "tt0051246",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Footlight Parade|1933": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bd/f4/ye/gk/eH0KGfZJxMlqheoGzSxieVEKgr4-0-500-0-750-crop.jpg?v=18d0cf7aae",
+      "description": "A fledgling producer finds himself at odds with his workers, financiers and his greedy ex-wife when he tries to produce live musicals for movie-going audiences.",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Lloyd Bacon",
+      "lb_director_slug": "lloyd-bacon",
+      "lb_year": 1933
+    },
+    "omdb": {
+      "Title": "Footlight Parade",
+      "Year": "1933",
+      "Rated": "G",
+      "Released": "21 Oct 1933",
+      "Runtime": "104 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Lloyd Bacon",
+      "Writer": "Manuel Seff, James Seymour, Robert Lord",
+      "Actors": "James Cagney, Joan Blondell, Ruby Keeler",
+      "Plot": "Chester Kent struggles against time, romance, and a rival's spy to produce spectacular live \"prologues\" for movie houses.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmYThkZWQtZjMzMS00NWJmLTkwZGUtNTBiOGY5N2UxZDcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.5",
+      "imdbVotes": "6,202",
+      "imdbID": "tt0024028",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "336 Pek + The Roar Of Lions + The White Nightingale|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Rio Grande|1950": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/3/4/45134-rio-grande-0-500-0-750-crop.jpg?v=e2af061077",
+      "description": "Lt. Col. Kirby Yorke is posted on the Texas frontier to defend settlers against depredations of marauding Apaches. Col. Yorke is under considerable stress by a serious shortage of troops of his command. Tension is added when Yorke's son (whom he hasn't seen in fifteen years), Trooper Jeff Yorke, is one of 18 recruits sent to the regiment.",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "John Ford",
+      "lb_director_slug": "john-ford-2",
+      "lb_year": 1950
+    },
+    "omdb": {
+      "Title": "Rio Grande",
+      "Year": "1950",
+      "Rated": "Approved",
+      "Released": "15 Nov 1950",
+      "Runtime": "105 min",
+      "Genre": "Drama, Romance, Western",
+      "Director": "John Ford",
+      "Writer": "James Kevin McGuinness, James Warner Bellah",
+      "Actors": "John Wayne, Maureen O'Hara, Ben Johnson",
+      "Plot": "A cavalry officer posted on the Rio Grande is confronted with murderous raiding Apaches, a son who's a risk-taking recruit and his wife from whom he has been separated for many years.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGUwZjc5ODAtZDhjMy00ZjY0LWJhMzctMTUzNTUyOWYxMmZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "18,924",
+      "imdbID": "tt0042895",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Kitsune|2001": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Harangozó|2005": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Exotic Words Drifted|2023": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Exotic Words Drifted",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "16 Nov 2023",
+      "Runtime": "15 min",
+      "Genre": "Short, Fantasy",
+      "Director": "Sandro Aguilar",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "Portugal",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30493161",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Primeira Pessoa Do Plural|2025": {
+    "lbxd": {
+      "rating": 2.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/6/8/3/6/1286836-first-person-plural-2025-0-500-0-750-crop.jpg?v=90d7f3c6f2",
+      "description": "Mateus Lagoa and his wife Irene will celebrate their 20th wedding anniversary at a most luxurious resort on a tropical island, leaving their teenage son dangerously adrift. Before departure to paradise, during an unexpected night spent apart, the side effects of the vaccines strike them - fevers, fainting spells, shivers, hallucinations of all sorts. A melancholic mood creeps in and their world seems somehow fractured, capable of unsuspected and dangerous promises.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Sandro Aguilar",
+      "lb_director_slug": "sandro-aguilar",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Primeira Pessoa do Plural",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "03 Feb 2025",
+      "Runtime": "119 min",
+      "Genre": "Drama",
+      "Director": "Sandro Aguilar",
+      "Writer": "Sandro Aguilar",
+      "Actors": "Albano Jerónimo, Isabel Abreu, Eduardo Aguilar",
+      "Plot": "A couple's tropical getaway for their 20th anniversary takes an unsettling turn when vaccine side effects cause strange symptoms. As they prepare to leave their son behind, an eerie atmosphere develops, threatening their relations...",
+      "Language": "Portuguese",
+      "Country": "Portugal, Italy",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc1MjQ0MTMtNzIyNC00MTA3LWE5MzgtMTM2YjI5MTJiNWE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "9",
+      "imdbID": "tt30997030",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "As Provadoras de Hitler|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Pai Nosso - Os Últimos Dias de Salazar|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Inland Empire|2006": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/2/50822-inland-empire-0-500-0-750-crop.jpg?v=b4bd226d73",
+      "description": "When actress Nikki Grace gets the lead role in a cursed film, her world becomes more and more surreal, blending realities and ideas of infidelity, reincarnation, and supernatural forces.",
+      "genres": [
+        "Mystery",
+        "Fantasy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "David Lynch",
+      "lb_director_slug": "david-lynch",
+      "lb_year": 2006
+    },
+    "omdb": {
+      "Title": "Inland Empire",
+      "Year": "2006",
+      "Rated": "R",
+      "Released": "07 Feb 2007",
+      "Runtime": "180 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "David Lynch",
+      "Writer": "David Lynch",
+      "Actors": "Karolina Gruszka, Krzysztof Majchrzak, Grace Zabriskie",
+      "Plot": "As an actress begins to adopt the persona of her character in a film, her world becomes nightmarish and surreal.",
+      "Language": "English, Polish",
+      "Country": "France, Poland, United States",
+      "Awards": "5 wins & 20 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NDQyNjM3NF5BMl5BanBnXkFtZTcwMzk5MDU0MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "6.8",
+      "imdbVotes": "66,989",
+      "imdbID": "tt0460829",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,114,878",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Lenda do Santo Bebedor|1988": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Nazarín|1958": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/9/28739-nazarin-0-500-0-750-crop.jpg?v=32d54174c3",
+      "description": "A Catholic priest in a poor community lives a charitable life in accordance with his religious principles, but others do not return the favor.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1959
+    },
+    "omdb": {
+      "Title": "Nazarin",
+      "Year": "1959",
+      "Rated": "Not Rated",
+      "Released": "20 Jun 1968",
+      "Runtime": "94 min",
+      "Genre": "Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Julio Alejandro, Luis Buñuel, Benito Pérez Galdós",
+      "Actors": "Francisco Rabal, Marga López, Rita Macedo",
+      "Plot": "A priest in a poor community lives a charitable life in accordance with his religious principles, but many others do not return the favor.",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNkZGRjZDUtNGVlNi00MDQyLTlhNWItZWIwMzdiMWE1MDRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "6,931",
+      "imdbID": "tt0051983",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Carteirista|1959": {
+    "lbxd": null,
+    "omdb": null
   }
 }
