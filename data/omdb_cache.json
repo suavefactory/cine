@@ -23735,5 +23735,192 @@
   "Imagem De Uma Mãe|1959": {
     "lbxd": null,
     "omdb": null
+  },
+  "On The Town|1949": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "On the Town",
+      "Year": "1949",
+      "Rated": "Approved",
+      "Released": "30 Dec 1949",
+      "Runtime": "98 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Stanley Donen, Gene Kelly",
+      "Writer": "Adolph Green, Betty Comden, Jerome Robbins",
+      "Actors": "Gene Kelly, Frank Sinatra, Betty Garrett",
+      "Plot": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 4 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgzZTRmNDUtOTk3Ni00MDU1LWExMWQtMDc5ZTRkN2Y1YTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.3",
+      "imdbVotes": "19,516",
+      "imdbID": "tt0041716",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Dead Souls|2025": {
+    "lbxd": {
+      "rating": 3.27,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/1/7/9/2/1371792-dead-souls-2025-0-500-0-750-crop.jpg?v=60c9ea2283",
+      "description": "In 1890, the year of the U.S. census, chaos erupts when a stranger named Strindler arrives in a small town in Arizona and requests money for providing the names of dead Mexican laborers. Adapted from the novel by Nikolai Gogol.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "country": "Spain",
+      "lb_director": "Alex Cox",
+      "lb_director_slug": "alex-cox",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Dead Souls",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama, Western",
+      "Director": "Alex Cox",
+      "Writer": "Alex Cox, Gianni Garko, Nikolay Gogol",
+      "Actors": "Alex Cox, Levee Duplay, Edward Tudor-Pole",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "Spain, United States",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34142731",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Evergreen|1934": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/1/2/7/89127-evergreen-0-500-0-750-crop.jpg?v=3aa05b8c96",
+      "description": "Harriet Green, a beloved and radiant music hall star of the Edwardian era, mysteriously disappears on the eve of her wedding. Years later, she reappears on the stage as young looking and beautiful as ever.",
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Victor Saville",
+      "lb_director_slug": "victor-saville",
+      "lb_year": 1934
+    },
+    "omdb": {
+      "Title": "Evergreen",
+      "Year": "1934",
+      "Rated": "Approved",
+      "Released": "31 Dec 1934",
+      "Runtime": "94 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Victor Saville",
+      "Writer": "Benn W. Levy, Emlyn Williams, Marjorie Gaffney",
+      "Actors": "Jessie Matthews, Sonnie Hale, Betty Balfour",
+      "Plot": "Harriet Green, a beloved and radiant music hall star of the Edwardian era, has a guilty secret: She has a baby daughter, born out of wedlock. Harriet leaves her public and flees to South Africa to raise her daughter quietly. The y...",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODkzNjk4M15BMl5BanBnXkFtZTgwMjgzNjA1MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "647",
+      "imdbID": "tt0025094",
+      "Type": "movie",
+      "DVD": "23 May 2017",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Ma Femme Chamada Bicho|1978": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/1/9/9/211199-ma-femme-chamada-bicho-0-500-0-750-crop.jpg?v=509007ff94",
+      "description": "The film documents the places where the Portuguese painter Maria Helena Vieira da Silva (1908-1992), and Hungarian Arpad Szenes were born, met, and lived together, painting, and living to each other.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "José Álvaro Morais",
+      "lb_director_slug": "jose-alvaro-morais",
+      "lb_year": 1978
+    },
+    "omdb": {
+      "Title": "Ma Femme Chamada Bicho",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "01 Sep 1978",
+      "Runtime": "80 min",
+      "Genre": "Documentary",
+      "Director": "José Álvaro Morais",
+      "Writer": "N/A",
+      "Actors": "Mário Cesariny de Vasconcelos, Arpad Szenes, Guy Wellen",
+      "Plot": "The film documents the places where Portuguese Vieira da Silva, and Hungarian Arpad Szenes were born, met, and lived together, painting, and living to each other.",
+      "Language": "French, Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJlNmMwMmItZGQyZS00M2RjLWIzYzAtOTc2OWE2OTI2NGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "22",
+      "imdbID": "tt0235226",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cinco Segundos|2024": {
+    "lbxd": null,
+    "omdb": null
   }
 }
