@@ -23922,5 +23922,123 @@
   "Cinco Segundos|2024": {
     "lbxd": null,
     "omdb": null
+  },
+  "So This Is Paris|1955": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/5/2/1/276521-so-this-is-paris-0-500-0-750-crop.jpg?v=58f0a90145",
+      "description": "Three sailors on leave head for Paris with one thing on their minds.",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Richard Quine",
+      "lb_director_slug": "richard-quine",
+      "lb_year": 1954
+    },
+    "omdb": {
+      "Title": "So This Is Paris",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "15 Dec 1954",
+      "Runtime": "96 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Richard Quine",
+      "Writer": "Ray Buffum, Charles Hoffman",
+      "Actors": "Tony Curtis, Gloria DeHaven, Gene Nelson",
+      "Plot": "Three sailors on leave (Joe, Al and Davy) head for Paris with one thing on their minds. Joe pursues chanteuse Colette D'Avril who proves to be more than she appears; Davy is pursued by sexy cashier Yvonne; but the blonde Al rescue...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0NzA4YzYtMTg4Ni00ZGRmLWJjOWQtMTRkNzVlODIxNjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "320",
+      "imdbID": "tt0047508",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Tian Xian Pei|1955": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/6/8/8/5/176885-fairy-couple-0-500-0-750-crop.jpg?v=c4ceac7ecc",
+      "description": "The seventh immortal sister flies down to the mortal world and marries Dong Yong until the Jade Emperor obliges her to return to her world.",
+      "genres": [
+        "Music",
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "country": "China",
+      "lb_director": "Shi Hui",
+      "lb_director_slug": "shi-hui-2",
+      "lb_year": 1956
+    },
+    "omdb": {
+      "Title": "Tian xian pei",
+      "Year": "1955",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "91 min",
+      "Genre": "Musical, Romance",
+      "Director": "Hui Shi",
+      "Writer": "Hongfei Lu, Hu Sang",
+      "Actors": "Shaofang Wang, Fengying Yan, Yunfeng Zhang",
+      "Plot": "The youngest one of the Seven Fairies falls in love with a poor decent young man named Dong Yong, but the love between a mortal and a fairy is not allowed by the laws of God in heaven.",
+      "Language": "Chinese",
+      "Country": "China",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmI4MTItNjUyNS00MjA0LThkZjgtZjdjNjIyYTJlODA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "26",
+      "imdbID": "tt3656810",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Pátio Das Cantigas|1942": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/1/5/4/61154-the-courtyard-of-the-ballads-0-500-0-750-crop.jpg?v=4c116bcbaf",
+      "description": "A portrait of the relations between neighbours in a Lisbon courtyard. A story made of small episodes of humour, friendship, rivalry, love.",
+      "genres": [
+        "Music",
+        "Family",
+        "Comedy"
+      ],
+      "country": "Portugal",
+      "lb_director": "Francisco Ribeiro",
+      "lb_director_slug": "francisco-ribeiro",
+      "lb_year": 1942
+    },
+    "omdb": null
+  },
+  "Zu Neuen Ufern|1937": {
+    "lbxd": null,
+    "omdb": null
   }
 }
