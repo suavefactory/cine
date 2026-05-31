@@ -24040,5 +24040,56 @@
   "Zu Neuen Ufern|1937": {
     "lbxd": null,
     "omdb": null
+  },
+  "FAMU – BEAST IFF|2027": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Erupcja – BEAST IFF|2025": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/3/2/0/7/9/1232079-erupcja-0-500-0-750-crop.jpg?v=dfa5abcd3c",
+      "description": "While on vacation in Poland, Bethany breaks away from a romantic itinerary planned by her doting boyfriend, Rob, fearing that a marriage proposal is imminent. Reuniting instead with an old friend, Nel, the two women rekindle a uniquely combustible chemistry over the course of a few days in a chaste but burning trust predicated on sapphic synchronicity and a mutual penchant for poetry.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Pete Ohs",
+      "lb_director_slug": "pete-ohs",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Erupcja",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "71 min",
+      "Genre": "N/A",
+      "Director": "Pete Ohs",
+      "Writer": "Pete Ohs, Charli XCX, Jeremy O. Harris",
+      "Actors": "Charli XCX, Lena Góra, Will Madden",
+      "Plot": "The combustible chemistry between a Polish florist and a British tourist in this charming postcard of sapphic synchronicity.",
+      "Language": "English, Polish",
+      "Country": "United States, Poland",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33712666",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
