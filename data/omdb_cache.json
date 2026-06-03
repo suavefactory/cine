@@ -24272,5 +24272,569 @@
   "A Cronologia da Água|2025": {
     "lbxd": null,
     "omdb": null
+  },
+  "Cover Girl|1943": {
+    "lbxd": {
+      "rating": 3.41,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/2/8/5/38285-cover-girl-0-500-0-750-crop.jpg?v=e2ed85bea5",
+      "description": "A nightclub dancer makes it big in modeling, leaving her dancer boyfriend behind.",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Charles Vidor",
+      "lb_director_slug": "charles-vidor",
+      "lb_year": 1944
+    },
+    "omdb": {
+      "Title": "Cover Girl",
+      "Year": "1944",
+      "Rated": "Approved",
+      "Released": "06 Apr 1944",
+      "Runtime": "107 min",
+      "Genre": "Comedy, Music, Musical",
+      "Director": "Charles Vidor",
+      "Writer": "Virginia Van Upp, Marion Parsonnet, Paul Gangelin",
+      "Actors": "Rita Hayworth, Gene Kelly, Lee Bowman",
+      "Plot": "Rusty Parker wins a contest and becomes a celebrated cover girl; this endangers her romance with dancing mentor Danny.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgzODZjYWEtY2M3YS00NTJmLWEzYjctNDU2NjBkODE0ZDBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "6,294",
+      "imdbID": "tt0036723",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Emperor Waltz|1948": {
+    "lbxd": {
+      "rating": 2.96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/1/4/25814-the-emperor-waltz-0-500-0-750-crop.jpg?v=ada69ba3c9",
+      "description": "A brash American gramophone salesman tries to get Emperor Franz Joseph's endorsement in turn-of-the-century Austria.",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Billy Wilder",
+      "lb_director_slug": "billy-wilder",
+      "lb_year": 1948
+    },
+    "omdb": {
+      "Title": "The Emperor Waltz",
+      "Year": "1948",
+      "Rated": "Approved",
+      "Released": "02 Jul 1948",
+      "Runtime": "106 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Billy Wilder",
+      "Writer": "Charles Brackett, Billy Wilder",
+      "Actors": "Bing Crosby, Joan Fontaine, Roland Culver",
+      "Plot": "A brash American gramophone salesman tries to get Emperor Franz Joseph's endorsement in turn-of-the-century Austria.",
+      "Language": "English, German",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZjVjOGEtNjVjZS00OWVjLWI0YTItODRmODMxZDJhNzYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "1,956",
+      "imdbID": "tt0040317",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Duas Vezes João Liberada|2025": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/0/4/4/1301044-two-times-joao-liberada-0-500-0-750-crop.jpg?v=db84c07914",
+      "description": "João, an actress from Lisbon, as she stars in a biopic about Liberada, a gender-nonconforming figure persecuted by the Portuguese Inquisition in the 18th century. The film's production becomes a battleground as João clashes with the director over how Liberada’s legacy should be portrayed. These tensions deepen as João's dreams are increasingly haunted by Liberada's ghost, blurring the lines between past and present. When the director succumbs to a mysterious paralysis, leaving the film unfinished, João is left to navigate the unfolding chaos. She faces unanswerable questions, not only about the film's future but also about her own connection to Liberada’s spirit and story.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Paula Tomás Marques",
+      "lb_director_slug": "paula-tomas-marques",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Duas Vezes João Liberada",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "18 Feb 2025",
+      "Runtime": "70 min",
+      "Genre": "Biography, Drama",
+      "Director": "Paula Tomás Marques",
+      "Writer": "June João, Paula Tomás Marques",
+      "Actors": "June João, André Tecedeiro, Jenny Larrue",
+      "Plot": "Liberada a gender-nonconforming historical figure targeted by the Inquisition. When the director falls ill, the lead must overcome obstacles to complete the film and do justice to the subject's legacy.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiN2Q3NzUtNDc1Ni00YTNlLTlhOWEtNDc4MmQ1YmJkMDM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "10",
+      "imdbID": "tt35504279",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "To Be A Woman|1951": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/2/6/0/290260-to-be-a-woman-0-500-0-750-crop.jpg?v=6712351482",
+      "description": "Documentary arguing the case for equal pay for women. Women are seen employed in their homes, in factories, teaching, nursing, in politics and in the professions. There are also some newsreel shots of marching suffragettes.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Jill Craigie",
+      "lb_director_slug": "jill-craigie",
+      "lb_year": 1951
+    },
+    "omdb": {
+      "Title": "To Be a Woman",
+      "Year": "1951",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "18 min",
+      "Genre": "Documentary, Short",
+      "Director": "Jill Craigie",
+      "Writer": "Jill Craigie",
+      "Actors": "Wendy Hiller, Julian Somers, Dana Wynter",
+      "Plot": "An educational short subject dissecting the imbalances in pay between men and women in the early 50s UK,showing the dilemma faced by women teachers, nurses,artists, politicians and factory workers.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "28",
+      "imdbID": "tt0313710",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Truth About Women|1957": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/6/7/9/3/206793-the-truth-about-women-0-500-0-750-crop.jpg?v=72f2dbfd2c",
+      "description": "A man recalls his relationships with the women he loved as he tries to help another man try to understand them as well.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Muriel Box",
+      "lb_director_slug": "muriel-box",
+      "lb_year": 1957
+    },
+    "omdb": {
+      "Title": "The Truth About Women",
+      "Year": "1957",
+      "Rated": "Unrated",
+      "Released": "01 Oct 1957",
+      "Runtime": "107 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Muriel Box",
+      "Writer": "Muriel Box, Sydney Box",
+      "Actors": "Laurence Harvey, Julie Harris, Diane Cilento",
+      "Plot": "A man recalls his relationships with the women he loved as he tries to help another man try to understand them as well.",
+      "Language": "English, French",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MzAwMzUwOF5BMl5BanBnXkFtZTgwMjE4Nzk1MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "248",
+      "imdbID": "tt0052323",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "São Paulo Sociedade Anónima|1965": {
+    "lbxd": {
+      "rating": 4.05,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
+      "description": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Luiz Sérgio Person",
+      "lb_director_slug": "luiz-sergio-person",
+      "lb_year": 1965
+    },
+    "omdb": {
+      "Title": "São Paulo, Sociedade Anônima",
+      "Year": "1965",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "107 min",
+      "Genre": "Drama",
+      "Director": "Luiz Sérgio Person",
+      "Writer": "Luiz Sérgio Person",
+      "Actors": "Ana Esmeralda, Eva Wilma, Otelo Zeloni",
+      "Plot": "A man lives in conflict as he deals with his friends and love interests against the backdrop of São Paulo.",
+      "Language": "Portuguese, English",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmODYzOGUtYzczNi00YTI4LWJlMWYtOTAwYzA0ODcyYzgwXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "969",
+      "imdbID": "tt0195324",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Macunaíma|1969": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
+      "description": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "country": "Brazil",
+      "lb_director": "Joaquim Pedro de Andrade",
+      "lb_director_slug": "joaquim-pedro-de-andrade",
+      "lb_year": 1969
+    },
+    "omdb": {
+      "Title": "Macunaima",
+      "Year": "1969",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "95 min",
+      "Genre": "Fantasy, Comedy",
+      "Director": "Joaquim Pedro de Andrade",
+      "Writer": "Joaquim Pedro de Andrade, Mário de Andrade",
+      "Actors": "Grande Otelo, Paulo José, Jardel Filho",
+      "Plot": "Our story begins with Macunaima's miraculous birth to an old woman in a tiny jungle settlement. Born fully grown, he discovers his life's purpose which leads him and his family and followers on a journey to the Big City. More mira...",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "5 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM0YWQ0OGQtZjU0YS00YjFhLTk4MDUtZDg1Zjk4MTQwM2MxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "2,222",
+      "imdbID": "tt0064616",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "One to One: John & Yoko|2024": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
+      "description": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "UK",
+      "lb_director": "Kevin Macdonald",
+      "lb_director_slug": "kevin-macdonald-1",
+      "lb_year": 2024
+    },
+    "omdb": {
+      "Title": "One to One: John & Yoko",
+      "Year": "2024",
+      "Rated": "R",
+      "Released": "N/A",
+      "Runtime": "101 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Kevin Macdonald, Sam Rice-Edwards",
+      "Writer": "Clare Keogh",
+      "Actors": "John Lennon, Yoko Ono, Stan Bronstein",
+      "Plot": "Set in 1972 New York, this documentary explores John and Yoko's world amid a turbulent era. Centered on the One to One charity concert for special needs children, it features unseen archives, home movies, and restored footage.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdlMjhkODYtYWI1My00NTAxLWFkMzItZWE4MzQ4YzFjZGMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.3",
+      "imdbVotes": "991",
+      "imdbID": "tt33029955",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$394,239",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Desafio|1965": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "O Desafio",
+      "Year": "1966",
+      "Rated": "N/A",
+      "Released": "05 May 1966",
+      "Runtime": "81 min",
+      "Genre": "Drama",
+      "Director": "Paulo César Saraceni",
+      "Writer": "Paulo César Saraceni, Oduvaldo Vianna Filho",
+      "Actors": "Isabella, Oduvaldo Vianna Filho, Sérgio Britto",
+      "Plot": "Passively facing the repression imposed by military dictatorship in Brazil in the 60s, a journalist gets into a personal crisis, aggravated by his love affair with an industrialist's wife, who doesn't want to leave her home becaus...",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk3MGQzNWItNGYwOS00NjUyLTg0YmYtNmQxOGRjYjJmZTU3XkEyXkFqcGdeQXVyODY5NzM4Nzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "152",
+      "imdbID": "tt0191947",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Deus e o Diabo na Terra do Sol|1964": {
+    "lbxd": {
+      "rating": 3.77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/5/7/4/53574-black-god-white-devil-0-500-0-750-crop.jpg?v=73a198766f",
+      "description": "Wanted for killing his boss, Manuel flees with his wife Rosa to the sertão, the barren landscape of Northern Brazil. Thrust into a primordial violent region, Manuel and Rosa come under the influence and control of a series of frightening figures.",
+      "genres": [
+        "Drama",
+        "Western",
+        "Adventure"
+      ],
+      "country": "Brazil",
+      "lb_director": "Glauber Rocha",
+      "lb_director_slug": "glauber-rocha",
+      "lb_year": 1964
+    },
+    "omdb": null
+  },
+  "Holy Motors|2012": {
+    "lbxd": {
+      "rating": 3.9,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jv/uy/hh/bg/d5amUFExQCqLkRpWQ6QspBtyWUe-0-500-0-750-crop.jpg?v=2dfef9dc60",
+      "description": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "Germany",
+      "lb_director": "Leos Carax",
+      "lb_director_slug": "leos-carax",
+      "lb_year": 2012
+    },
+    "omdb": {
+      "Title": "Holy Motors",
+      "Year": "2012",
+      "Rated": "Not Rated",
+      "Released": "04 Jul 2012",
+      "Runtime": "115 min",
+      "Genre": "Drama, Fantasy",
+      "Director": "Leos Carax",
+      "Writer": "Leos Carax",
+      "Actors": "Denis Lavant, Edith Scob, Eva Mendes",
+      "Plot": "A man boards a limousine to be driven to his day's work: nine mysterious \"appointments.\"",
+      "Language": "French, English, Chinese",
+      "Country": "France, Germany, Belgium",
+      "Awards": "29 wins & 74 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBiZmJjN2YtMzA4NS00MzRlLWEwMDEtM2NlYTE4YTVmNTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.0",
+      "imdbVotes": "51,058",
+      "imdbID": "tt2076220",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$641,100",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Underground: Era Uma Vez Um País|1995": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Vidas Secas|1963": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/6/51316-barren-lives-0-500-0-750-crop.jpg?v=338162fca4",
+      "description": "In vivid images, the documentary-like story of a drover and his family in the northern badlands of Brazil during the drought. A family in the search of new hope and destiny.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Nelson Pereira dos Santos",
+      "lb_director_slug": "nelson-pereira-dos-santos",
+      "lb_year": 1963
+    },
+    "omdb": null
+  },
+  "Nazarín|1959": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/9/28739-nazarin-0-500-0-750-crop.jpg?v=32d54174c3",
+      "description": "A Catholic priest in a poor community lives a charitable life in accordance with his religious principles, but others do not return the favor.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1959
+    },
+    "omdb": {
+      "Title": "Nazarin",
+      "Year": "1959",
+      "Rated": "Not Rated",
+      "Released": "20 Jun 1968",
+      "Runtime": "94 min",
+      "Genre": "Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Julio Alejandro, Luis Buñuel, Benito Pérez Galdós",
+      "Actors": "Francisco Rabal, Marga López, Rita Macedo",
+      "Plot": "A priest in a poor community lives a charitable life in accordance with his religious principles, but many others do not return the favor.",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNkZGRjZDUtNGVlNi00MDQyLTlhNWItZWIwMzdiMWE1MDRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "6,931",
+      "imdbID": "tt0051983",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }

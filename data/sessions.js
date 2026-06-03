@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-02T12:08:26.685524+00:00",
+  "generated": "2026-06-03T12:45:17.923845+00:00",
   "movies": [
     {
       "id": "sao_jorge_10719",
@@ -408,87 +408,6 @@ window.CINEMA_DATA = {
           "labels": [
             "Sessão de Abertura"
           ]
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20026",
-      "title": "Filmes-Ensaio:Viver Em Algum Lugar (Aqui Ou Noutro Lado)",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20026",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "10:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20019",
-      "title": "Kentucky Pride",
-      "director": "John Ford",
-      "year": 1925,
-      "duration": 70,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/5/8/5/3/215853-kentucky-pride-0-500-0-750-crop.jpg?v=5b6c3748bb",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20019",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.33,
-      "plot": "This rare John Ford silent is a charming, sweetly sentimental tale of the relationship between humans and animals told largely from the point of view of a racehorse who observes as her breeder (Henry B. Walthall) is forced to sell her when he loses everything in a poker game. Several of the era’s most famous racehorses make appearances, including the legendary champion thoroughbred Man o’ War.",
-      "country": "USA",
-      "director_lbxd_slug": "john-ford-2"
-    },
-    {
-      "id": "cinemateca_19951",
-      "title": "Le Million",
-      "director": "René Clair",
-      "year": 1931,
-      "duration": 82,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/4/7/4/30474-le-million-0-500-0-750-crop.jpg?v=174953f215",
-      "genres": [
-        "Music",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19951",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Debt-ridden painter Michel is overcome with joy at discovering that he has just won 1 million florins in the Dutch lottery, but almost immediately, he discovers that his softhearted girlfriend, Béatrice, has given away his jacket containing the winning ticket to an elderly petty thief. Soon Michel, Beatrice and Michel's artistic rival, Prosper, are hurtling through the streets of Paris on the trail of the missing jacket.",
-      "country": "France",
-      "director_lbxd_slug": "rene-clair-1"
-    },
-    {
-      "id": "cinemateca_19953",
-      "title": "Hallellujah!",
-      "director": "King Vidor",
-      "year": 1929,
-      "duration": 106,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19953",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "21:30",
-          "cinema": "cinemateca"
         }
       ]
     },
@@ -1099,6 +1018,82 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "youssef-chahine"
     },
     {
+      "id": "cinemateca_19985",
+      "title": "Cover Girl",
+      "director": "Charles Vidor",
+      "year": 1944,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/2/8/5/38285-cover-girl-0-500-0-750-crop.jpg?v=e2ed85bea5",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19985",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.41,
+      "plot": "A nightclub dancer makes it big in modeling, leaving her dancer boyfriend behind.",
+      "country": "USA",
+      "director_lbxd_slug": "charles-vidor"
+    },
+    {
+      "id": "cinemateca_19987",
+      "title": "The Emperor Waltz",
+      "director": "Billy Wilder",
+      "year": 1948,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/1/4/25814-the-emperor-waltz-0-500-0-750-crop.jpg?v=ada69ba3c9",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19987",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 2.96,
+      "plot": "A brash American gramophone salesman tries to get Emperor Franz Joseph's endorsement in turn-of-the-century Austria.",
+      "country": "USA",
+      "director_lbxd_slug": "billy-wilder"
+    },
+    {
+      "id": "cinemateca_20035",
+      "title": "Duas Vezes João Liberada",
+      "director": "Paula Tomás Marques",
+      "year": 2025,
+      "duration": 70,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/0/4/4/1301044-two-times-joao-liberada-0-500-0-750-crop.jpg?v=db84c07914",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20035",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "21:30",
+          "cinema": "cinemateca",
+          "labels": [
+            "COM A PRESENÇA DE PAULA TOMÁS MARQUES"
+          ]
+        }
+      ],
+      "rating": 3.46,
+      "plot": "João, an actress from Lisbon, as she stars in a biopic about Liberada, a gender-nonconforming figure persecuted by the Portuguese Inquisition in the 18th century. The film's production becomes a battleground as João clashes with the director over how Liberada’s legacy should be portrayed. These tensions deepen as João's dreams are increasingly haunted by Liberada's ghost, blurring the lines between past and present. When the director succumbs to a mysterious paralysis, leaving the film unfinished, João is left to navigate the unfolding chaos. She faces unanswerable questions, not only about the film's future but also about her own connection to Liberada’s spirit and story.",
+      "country": "Portugal",
+      "director_lbxd_slug": "paula-tomas-marques"
+    },
+    {
       "id": "cinemateca_19963_0",
       "title": "Romance Sentimentale",
       "director": "Sergei Eisenstein, Grigori Alexandrov",
@@ -1265,6 +1260,52 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "muriel-box"
     },
     {
+      "id": "cinemateca_19998_0",
+      "title": "To Be A Woman",
+      "director": "Jill Craigie",
+      "year": 1951,
+      "duration": 18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/2/6/0/290260-to-be-a-woman-0-500-0-750-crop.jpg?v=6712351482",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19998",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Documentary arguing the case for equal pay for women. Women are seen employed in their homes, in factories, teaching, nursing, in politics and in the professions. There are also some newsreel shots of marching suffragettes.",
+      "country": "UK",
+      "director_lbxd_slug": "jill-craigie"
+    },
+    {
+      "id": "cinemateca_19998_1",
+      "title": "The Truth About Women",
+      "director": "Muriel Box",
+      "year": 1957,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/6/7/9/3/206793-the-truth-about-women-0-500-0-750-crop.jpg?v=72f2dbfd2c",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19998",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A man recalls his relationships with the women he loved as he tries to help another man try to understand them as well.",
+      "country": "UK",
+      "director_lbxd_slug": "muriel-box"
+    },
+    {
       "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
       "title": "Leibniz – Crónica de uma Pintura Perdida",
       "director": "Edgar Reitz",
@@ -1277,14 +1318,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/leibniz-cronica-de-uma-pintura-perdida-2025",
       "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com João Constâncio e Filipa Oliveira"
-          ]
-        },
         {
           "date": "2026-06-09",
           "time": "17:30",
@@ -1331,11 +1364,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/pai-nosso-os-ultimos-dias-de-salazar-2025",
       "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-06-03",
           "time": "18:30",
@@ -1438,11 +1466,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/as-aguias-da-republica-2025",
       "sessions": [
         {
-          "date": "2026-06-02",
-          "time": "16:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-07",
           "time": "21:30",
           "cinema": "nimas"
@@ -1464,11 +1487,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/gloria-1979",
       "sessions": [
         {
-          "date": "2026-06-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-09",
           "time": "22:00",
           "cinema": "nimas"
@@ -1478,25 +1496,6 @@ window.CINEMA_DATA = {
       "plot": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
       "country": "USA",
       "director_lbxd_slug": "john-cassavetes"
-    },
-    {
-      "id": "nimas_regresso-ao-po-2022",
-      "title": "Regresso ao Pó",
-      "director": "Ruijun Li",
-      "year": 2022,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/return_to_dust_-_cartaz_alta.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/regresso-ao-po-2022",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_a-morte-de-um-apostador-chines-1976",
@@ -1510,11 +1509,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/a-morte-de-um-apostador-chines-1976",
       "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-06-04",
           "time": "19:30",
@@ -1652,6 +1646,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-04",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-04",
           "time": "17:00",
           "cinema": "ideal"
         },
@@ -1664,6 +1663,16 @@ window.CINEMA_DATA = {
           "date": "2026-06-04",
           "time": "21:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-04",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-05",
@@ -1686,6 +1695,16 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         },
         {
+          "date": "2026-06-05",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-06-06",
           "time": "17:00",
           "cinema": "ideal"
@@ -1702,8 +1721,18 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-06",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
           "time": "22:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-07",
@@ -1719,6 +1748,11 @@ window.CINEMA_DATA = {
           "date": "2026-06-07",
           "time": "21:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-08",
@@ -1741,6 +1775,16 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         },
         {
+          "date": "2026-06-08",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-06-09",
           "time": "17:00",
           "cinema": "ideal"
@@ -1749,6 +1793,16 @@ window.CINEMA_DATA = {
           "date": "2026-06-09",
           "time": "21:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-10",
@@ -2032,7 +2086,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.89,
+      "rating": 3.88,
       "plot": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
       "country": "Spain"
     },
@@ -2248,16 +2302,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/PAI-NOSSO",
       "sessions": [
         {
-          "date": "2026-06-02",
-          "time": "14:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-02",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-03",
           "time": "21:00",
           "cinema": "fernando",
@@ -2299,6 +2343,14 @@ window.CINEMA_DATA = {
           "date": "2026-06-08",
           "time": "19:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "21:00",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
         },
         {
           "date": "2026-06-09",
@@ -3459,50 +3511,75 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/radio-metronom",
       "sessions": [
         {
-          "date": "2026-06-02",
+          "date": "2026-06-03",
           "time": "14:15",
           "cinema": "trindade"
         },
         {
-          "date": "2026-06-03",
-          "time": "14:15",
+          "date": "2026-06-08",
+          "time": "16:30",
           "cinema": "trindade"
         }
       ]
     },
     {
-      "id": "trindade_8394",
-      "title": "O Som do Nevoeiro",
-      "director": "Hiroshi Shimizu",
-      "year": 1956,
-      "duration": 84,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-som-do-nevoeiro",
+      "id": "trindade_7881",
+      "title": "O Estrangeiro",
+      "director": "François Ozon",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
         {
-          "date": "2026-06-02",
+          "date": "2026-06-03",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-04",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
           "time": "14:30",
           "cinema": "trindade"
         }
-      ]
-    },
-    {
-      "id": "trindade_7744",
-      "title": "Respirar (Debaixo d’Água)",
-      "director": "António Ferreira",
-      "year": 2000,
-      "duration": 45,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/respirar-debaixo-dagua",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "16:00",
-          "cinema": "trindade"
-        }
-      ]
+      ],
+      "rating": 3.34,
+      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "country": "France"
     },
     {
       "id": "trindade_7491",
@@ -3515,12 +3592,37 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/a-divina-comedia",
       "sessions": [
         {
-          "date": "2026-06-02",
+          "date": "2026-06-03",
           "time": "16:15",
           "cinema": "trindade"
         },
         {
-          "date": "2026-06-03",
+          "date": "2026-06-04",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "16:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "16:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
           "time": "16:15",
           "cinema": "trindade"
         }
@@ -3536,16 +3638,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/uma-mae-o-seu-filho",
       "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-02",
-          "time": "18:45",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-03",
           "time": "14:30",
@@ -3579,13 +3671,289 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/linguagem-universal",
       "sessions": [
         {
-          "date": "2026-06-02",
+          "date": "2026-06-03",
           "time": "18:00",
           "cinema": "trindade"
         },
         {
-          "date": "2026-06-03",
+          "date": "2026-06-06",
           "time": "18:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8091",
+      "title": "O Drama",
+      "director": "Kristoffer Borgli",
+      "year": 2026,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
+      "sessions": [
+        {
+          "date": "2026-06-03",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-03",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "country": "USA"
+    },
+    {
+      "id": "trindade_7246",
+      "title": "Pai, Mãe, Irmã, Irmão",
+      "director": "Jim Jarmusch",
+      "year": 2025,
+      "duration": 110,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/pai-mae-irma-irmao",
+      "sessions": [
+        {
+          "date": "2026-06-03",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-04",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-05",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "17:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_2895",
+      "title": "São Paulo Sociedade Anónima",
+      "director": "Luiz Sérgio Person",
+      "year": 1965,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/sao-paulo-sociedade-anonima",
+      "sessions": [
+        {
+          "date": "2026-06-04",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
+      "country": "Brazil",
+      "director_lbxd_slug": "luiz-sergio-person"
+    },
+    {
+      "id": "trindade_1690",
+      "title": "Macunaíma",
+      "director": "Joaquim Pedro de Andrade",
+      "year": 1969,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/macunaima",
+      "sessions": [
+        {
+          "date": "2026-06-04",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.55,
+      "plot": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
+      "country": "Brazil",
+      "director_lbxd_slug": "joaquim-pedro-de-andrade"
+    },
+    {
+      "id": "trindade_6574",
+      "title": "One to One: John & Yoko",
+      "director": "Kevin Macdonald",
+      "year": 2024,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
+      "sessions": [
+        {
+          "date": "2026-06-04",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-06",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-07",
+          "time": "21:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.71,
+      "plot": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
+      "country": "UK",
+      "director_lbxd_slug": "kevin-macdonald-1"
+    },
+    {
+      "id": "trindade_1703",
+      "title": "O Desafio",
+      "director": "Paulo César Saraceni",
+      "year": 1965,
+      "duration": 100,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzk3MGQzNWItNGYwOS00NjUyLTg0YmYtNmQxOGRjYjJmZTU3XkEyXkFqcGdeQXVyODY5NzM4Nzc@._V1_SX300.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-desafio",
+      "sessions": [
+        {
+          "date": "2026-06-05",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "17:00",
+          "cinema": "trindade"
+        }
+      ],
+      "plot": "Passively facing the repression imposed by military dictatorship in Brazil in the 60s, a journalist gets into a personal crisis, aggravated by his love affair with an industrialist's wife, who doesn't want to leave her home becaus...",
+      "country": "Brazil"
+    },
+    {
+      "id": "trindade_770",
+      "title": "Deus e o Diabo na Terra do Sol",
+      "director": "Glauber Rocha",
+      "year": 1964,
+      "duration": 120,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/5/7/4/53574-black-god-white-devil-0-500-0-750-crop.jpg?v=73a198766f",
+      "genres": [
+        "Drama",
+        "Western",
+        "Adventure"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/deus-e-o-diabo-na-terra-do-sol",
+      "sessions": [
+        {
+          "date": "2026-06-05",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.77,
+      "plot": "Wanted for killing his boss, Manuel flees with his wife Rosa to the sertão, the barren landscape of Northern Brazil. Thrust into a primordial violent region, Manuel and Rosa come under the influence and control of a series of frightening figures.",
+      "country": "Brazil",
+      "director_lbxd_slug": "glauber-rocha"
+    },
+    {
+      "id": "trindade_8473",
+      "title": "FAMU – BEAST IFF",
+      "director": "Anna Wowra, Natálie Durchánková, Greta Stocklassová, Alexandra Hetmerová, Marie-Magdalena Kochová, Jan Saska",
+      "year": 2027,
+      "duration": 57,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/cartaz153436_grande-c885a.png",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/famu-beast-iff",
+      "sessions": [
+        {
+          "date": "2026-06-05",
+          "time": "21:30",
           "cinema": "trindade"
         }
       ]
@@ -3600,16 +3968,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/fogo-do-vento",
       "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-02",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-03",
           "time": "19:15",
@@ -3631,6 +3989,11 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
+          "date": "2026-06-07",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-06-08",
           "time": "15:30",
           "cinema": "ideal"
@@ -3639,133 +4002,38 @@ window.CINEMA_DATA = {
           "date": "2026-06-09",
           "time": "19:00",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "18:00",
+          "cinema": "trindade"
         }
       ],
       "country": "Portugal"
     },
     {
-      "id": "trindade_8091",
-      "title": "O Drama",
-      "director": "Kristoffer Borgli",
-      "year": 2026,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
+      "id": "trindade_2283",
+      "title": "Holy Motors",
+      "director": "Leos Carax",
+      "year": 2012,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/jv/uy/hh/bg/d5amUFExQCqLkRpWQ6QspBtyWUe-0-500-0-750-crop.jpg?v=2dfef9dc60",
       "genres": [
-        "Romance",
         "Drama",
-        "Comedy"
+        "Fantasy"
       ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
+      "link": "https://cinematrindade.pt/pt/filmes/holy-motors",
       "sessions": [
         {
-          "date": "2026-06-02",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-03",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-03",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "country": "USA"
-    },
-    {
-      "id": "trindade_861",
-      "title": "Inland Empire",
-      "director": "David Lynch",
-      "year": 2006,
-      "duration": 180,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/2/50822-inland-empire-0-500-0-750-crop.jpg?v=b4bd226d73",
-      "genres": [
-        "Mystery",
-        "Fantasy",
-        "Drama",
-        "Thriller",
-        "Horror"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/inland-empire",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "21:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.89,
-      "plot": "When actress Nikki Grace gets the lead role in a cursed film, her world becomes more and more surreal, blending realities and ideas of infidelity, reincarnation, and supernatural forces.",
-      "country": "USA",
-      "director_lbxd_slug": "david-lynch"
-    },
-    {
-      "id": "trindade_7246",
-      "title": "Pai, Mãe, Irmã, Irmão",
-      "director": "Jim Jarmusch",
-      "year": 2025,
-      "duration": 110,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/pai-mae-irma-irmao",
-      "sessions": [
-        {
-          "date": "2026-06-02",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-03",
+          "date": "2026-06-07",
           "time": "19:30",
           "cinema": "trindade"
         }
-      ]
-    },
-    {
-      "id": "trindade_7881",
-      "title": "O Estrangeiro",
-      "director": "François Ozon",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
       ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
-      "sessions": [
-        {
-          "date": "2026-06-03",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.34,
-      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "country": "France"
-    },
-    {
-      "id": "trindade_8473",
-      "title": "FAMU – BEAST IFF",
-      "director": "Anna Wowra, Natálie Durchánková, Greta Stocklassová, Alexandra Hetmerová, Marie-Magdalena Kochová, Jan Saska",
-      "year": 2027,
-      "duration": 57,
-      "poster": "https://api.cinematrindade.pt/wp-content/uploads/cartaz153436_grande-c885a.png",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/famu-beast-iff",
-      "sessions": [
-        {
-          "date": "2026-06-05",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ]
+      "rating": 3.9,
+      "plot": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
+      "country": "Germany",
+      "director_lbxd_slug": "leos-carax"
     },
     {
       "id": "trindade_8489",
@@ -3807,6 +4075,46 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         }
       ]
+    },
+    {
+      "id": "trindade_2891",
+      "title": "Underground: Era Uma Vez Um País",
+      "director": "Emir Kusturica",
+      "year": 1995,
+      "duration": 170,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/underground-era-uma-vez-um-pais",
+      "sessions": [
+        {
+          "date": "2026-06-09",
+          "time": "21:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_3223",
+      "title": "Vidas Secas",
+      "director": "Nelson Pereira dos Santos",
+      "year": 1963,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/6/51316-barren-lives-0-500-0-750-crop.jpg?v=338162fca4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/vidas-secas",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "In vivid images, the documentary-like story of a drover and his family in the northern badlands of Brazil during the drought. A family in the search of new hope and destiny.",
+      "country": "Brazil",
+      "director_lbxd_slug": "nelson-pereira-dos-santos"
     },
     {
       "id": "campo_alegre_o-santo-dos-pobrezinhos-1950",
@@ -4188,21 +4496,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "John Ford": {
-      "lbxd_slug": "john-ford-2",
-      "photo": null,
-      "bio": null
-    },
-    "René Clair": {
-      "lbxd_slug": "rene-clair-1",
-      "photo": null,
-      "bio": null
-    },
-    "King Vidor": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Ernst Lubitsch": {
       "lbxd_slug": "ernst-lubitsch",
       "photo": null,
@@ -4270,8 +4563,13 @@ window.CINEMA_DATA = {
     },
     "Lloyd Bacon": {
       "lbxd_slug": "lloyd-bacon",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lloyd_Bacon_%28SAYRE_2691%29.jpg/500px-Lloyd_Bacon_%28SAYRE_2691%29.jpg",
+      "bio": "Lloyd Francis Bacon (December 4, 1889 – November 15, 1955) was an American screen, stage, and vaudeville actor and film director. As a director, he made films in numerous genres, including westerns, musicals, comedies, gangster films, and crime dramas. He was one of the directors at Warner Bros."
+    },
+    "John Ford": {
+      "lbxd_slug": "john-ford-2",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg",
+      "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952)."
     },
     "Stanley Donen, Gene Kelly": {
       "lbxd_slug": null,
@@ -4280,13 +4578,13 @@ window.CINEMA_DATA = {
     },
     "Alex Cox": {
       "lbxd_slug": "alex-cox",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Premio_Tabernas_de_Cine_-_Alex_Cox_AWFF_2019.jpg/500px-Premio_Tabernas_de_Cine_-_Alex_Cox_AWFF_2019.jpg",
+      "bio": "Alexander B. H. Cox (born 15 December 1954) is an English film director, screenwriter, actor, non-fiction author and broadcaster."
     },
     "Victor Saville": {
       "lbxd_slug": "victor-saville",
       "photo": null,
-      "bio": null
+      "bio": "Victor Saville (25 September 1895 – 8 May 1979) was an English film director, producer, and screenwriter. He directed 39 films between 1927 and 1954. He also produced 36 films between 1923 and 1962."
     },
     "Richard Quine": {
       "lbxd_slug": "richard-quine",
@@ -4318,6 +4616,21 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Charles Vidor": {
+      "lbxd_slug": "charles-vidor",
+      "photo": null,
+      "bio": null
+    },
+    "Billy Wilder": {
+      "lbxd_slug": "billy-wilder",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Billy_Wilder.jpg",
+      "bio": "Billy Wilder ( WYLE-dər, German: [ˈvɪldɐ] ; born Samuel Wilder; June 22, 1906 – March 27, 2002) was a Polish-American filmmaker and screenwriter. Born in Sucha Beskidzka, at the time in Austria-Hungary (now Poland), Wilder's career in Hollywood spanned five decades, and he is regarded as one of the most versatile filmmakers of classical Hollywood cinema. He received seven Academy Awards (among 21 nominations), a BAFTA Award, the Cannes Film Festival's Palme d'Or and two Golden Globe Awards."
+    },
+    "Paula Tomás Marques": {
+      "lbxd_slug": "paula-tomas-marques",
+      "photo": null,
+      "bio": null
+    },
     "Sergei Eisenstein, Grigori Alexandrov": {
       "lbxd_slug": null,
       "photo": null,
@@ -4345,6 +4658,11 @@ window.CINEMA_DATA = {
     },
     "Muriel Box": {
       "lbxd_slug": "muriel-box",
+      "photo": null,
+      "bio": null
+    },
+    "Jill Craigie": {
+      "lbxd_slug": "jill-craigie",
       "photo": null,
       "bio": null
     },
@@ -4380,11 +4698,6 @@ window.CINEMA_DATA = {
     },
     "John Cassavetes": {
       "lbxd_slug": "john-cassavetes",
-      "photo": null,
-      "bio": null
-    },
-    "Ruijun Li": {
-      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -4507,11 +4820,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Barras_2017_%28cropped%29.jpg",
       "bio": "Claude Barras (born 1973) is a Swiss film director, producer, and writer. Barras was born in Sierre, Switzerland. He studied illustration and computer graphics at Emile Cohl School in Lyon and 3D infographics at ECAL."
-    },
-    "Billy Wilder": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Billy_Wilder.jpg",
-      "bio": "Billy Wilder ( WYLE-dər, German: [ˈvɪldɐ] ; born Samuel Wilder; June 22, 1906 – March 27, 2002) was a Polish-American filmmaker and screenwriter. Born in Sucha Beskidzka, at the time in Austria-Hungary (now Poland), Wilder's career in Hollywood spanned five decades, and he is regarded as one of the most versatile filmmakers of classical Hollywood cinema. He received seven Academy Awards (among 21 nominations), a BAFTA Award, the Cannes Film Festival's Palme d'Or and two Golden Globe Awards."
     },
     "Paul Thomas Anderson": {
       "lbxd_slug": null,
@@ -4703,15 +5011,10 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Hiroshi Shimizu": {
+    "François Ozon": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": "Hiroshi Shimizu  may refer to:"
-    },
-    "António Ferreira": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
     "Ali Asgari": {
       "lbxd_slug": null,
@@ -4738,10 +5041,30 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
       "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
     },
-    "François Ozon": {
+    "Luiz Sérgio Person": {
+      "lbxd_slug": "luiz-sergio-person",
+      "photo": null,
+      "bio": null
+    },
+    "Joaquim Pedro de Andrade": {
+      "lbxd_slug": "joaquim-pedro-de-andrade",
+      "photo": null,
+      "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
+    },
+    "Kevin Macdonald": {
+      "lbxd_slug": "kevin-macdonald-1",
+      "photo": null,
+      "bio": null
+    },
+    "Paulo César Saraceni": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
-      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
+      "photo": null,
+      "bio": null
+    },
+    "Glauber Rocha": {
+      "lbxd_slug": "glauber-rocha",
+      "photo": null,
+      "bio": null
     },
     "Anna Wowra, Natálie Durchánková, Greta Stocklassová, Alexandra Hetmerová, Marie-Magdalena Kochová, Jan Saska": {
       "lbxd_slug": null,
@@ -4755,6 +5078,16 @@ window.CINEMA_DATA = {
     },
     "Kristen Stewart": {
       "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Emir Kusturica": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Nelson Pereira dos Santos": {
+      "lbxd_slug": "nelson-pereira-dos-santos",
       "photo": null,
       "bio": null
     },
@@ -4809,5 +5142,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
