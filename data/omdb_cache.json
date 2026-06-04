@@ -24836,5 +24836,160 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Homes For The People|1945": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/0/7/5/173075-homes-for-the-people-0-500-0-750-crop.jpg?v=8bf7856b41",
+      "description": "A documentary on the housing problems of Great Britain following WWII",
+      "genres": null,
+      "country": "UK",
+      "lb_director": "Kay Mander",
+      "lb_director_slug": "kay-mander",
+      "lb_year": 1945
+    },
+    "omdb": {
+      "Title": "Homes for the People",
+      "Year": "1945",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Short",
+      "Director": "Kay Mander",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Documentary on the problems of housing in Britain after the end of the Second World War.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYwZTJiMDctNTMzNC00MzViLWEyYmUtMGUyMDE5YTg4MGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "13",
+      "imdbID": "tt0212994",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Way We Live|1946": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/1/8/2/378182-the-way-we-live-0-500-0-750-crop.jpg?v=143cd4b982",
+      "description": "Drama and documentary are combined in this stylish and ambitious film, in which 3000 local people took part. The film delves into the complexities of rebuilding a city, showing frustrations along the way as well as vivid scenes of family life in trying circumstances.",
+      "genres": [
+        "Drama",
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Jill Craigie",
+      "lb_director_slug": "jill-craigie",
+      "lb_year": 1946
+    },
+    "omdb": {
+      "Title": "The Way We Live",
+      "Year": "1946",
+      "Rated": "N/A",
+      "Released": "05 Oct 1946",
+      "Runtime": "64 min",
+      "Genre": "Drama",
+      "Director": "Jill Craigie",
+      "Writer": "Jill Craigie",
+      "Actors": "Peter Willes, Francis Lunt, Verena Chaffé",
+      "Plot": "A look at Plymouth's hopes and fears just after the end of World War 2. Looks at the plan to rebuild the city - like a Phoenix, \"the PLAN FOR PLYMOUTH.\" a local family, the Copperwheats are our stars supported by the City Engineer...",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5N2U4NDgtOTQ3Ni00ZWMyLWI2ZTAtZjY1NGQyZTNkZDcxXkEyXkFqcGdeQXVyMTQwMzQ1MA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "73",
+      "imdbID": "tt0039096",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Fair Rent|1947": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/5/1/4/2/765142-fair-rent-0-500-0-750-crop.jpg?v=652d4f6337",
+      "description": "Power cuts, housing shortages and exorbitant rents – Aberdeen man goes head to head with his greedy landlady.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Mary Beales",
+      "lb_director_slug": "mary-beales",
+      "lb_year": 1947
+    },
+    "omdb": {
+      "Title": "Fair Rent",
+      "Year": "1947",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "11 min",
+      "Genre": "Short",
+      "Director": "Mary Beales",
+      "Writer": "Mary Beales",
+      "Actors": "Norrie Williamson",
+      "Plot": "Power cuts, housing shortages and exorbitant rents. Aberdeen man Norrie Williamson goes head to head with his greedy landlady.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt2639844",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Happy Family|1952": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/6/4/9/8/226498-the-happy-family-0-500-0-750-crop.jpg?v=466dbe5926",
+      "description": "When the Government decide to build a Festival of Britain exhibition site, everything goes to plan, all except the fact that the main road and the pedestrian subway into the site, are blocked by a little corner shop, which is owned and run by a Mr. Lord and his family. When the Lords refuse to be bought off, and decline the compensation offered by the authorities. the police and the bailiffs try to evict them, only to come under fire from the family, who have barricaded themselves inside the shop.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Muriel Box",
+      "lb_director_slug": "muriel-box",
+      "lb_year": 1952
+    },
+    "omdb": null
+  },
+  "18 Buracos para o Paraíso|2027": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "UMA MÃE E O SEU FILHO|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
