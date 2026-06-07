@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-06T10:06:18.145024+00:00",
+  "generated": "2026-06-07T10:31:45.179931+00:00",
   "movies": [
     {
       "id": "sao_jorge_10719",
@@ -25,30 +25,6 @@ window.CINEMA_DATA = {
       "plot": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
       "country": "Japan",
       "director_lbxd_slug": "akira-kurosawa"
-    },
-    {
-      "id": "sao_jorge_10710",
-      "title": "Dias Perfeitos",
-      "director": "Wim Wenders",
-      "duration": 119,
-      "festival": "Ciclo de Cinema Japonês 2026",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/9/2/2/9/879229-perfect-days-0-500-0-750-crop.jpg?v=4ea80661fd",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/dias-perfeitos/",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "17:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.31,
-      "year": 2023,
-      "plot": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
-      "country": "Germany",
-      "director_lbxd_slug": "wim-wenders"
     },
     {
       "id": "sao_jorge_10716",
@@ -132,32 +108,6 @@ window.CINEMA_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "sao_jorge_10713",
-      "title": "Akira",
-      "director": "Katsuhiro Otomo",
-      "duration": 124,
-      "festival": "Ciclo de Cinema Japonês 2026",
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-500-0-750-crop.jpg?v=dd1e90619a",
-      "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/akira-2/",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.28,
-      "year": 1988,
-      "plot": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-      "country": "Japan",
-      "director_lbxd_slug": "katsuhiro-otomo-1"
     },
     {
       "id": "sao_jorge_10689",
@@ -369,133 +319,6 @@ window.CINEMA_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "cinemateca_19942",
-      "title": "Bedknobs And Broomsticks",
-      "director": "Ward Kimball, Robert Stevenson",
-      "year": 1971,
-      "duration": 117,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/6/2/1/44621-bedknobs-and-broomsticks-0-500-0-750-crop.jpg?v=5286e253fb",
-      "genres": [
-        "Family",
-        "Animation",
-        "Fantasy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19942",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "15:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.52,
-      "plot": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
-      "country": "USA",
-      "director_lbxd_slug": "robert-stevenson-1"
-    },
-    {
-      "id": "cinemateca_20037",
-      "title": "The Girl Of The Golden West",
-      "director": "Robert Z. Leonard",
-      "year": 1938,
-      "duration": 121,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/3/0/4/21304-the-girl-of-the-golden-west-0-500-0-750-crop.jpg?v=c56f677c30",
-      "genres": [
-        "Romance",
-        "Western"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20037",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "16:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "A bandit disguises himself as an officer in an attempt to woo a saloon singer.",
-      "country": "USA",
-      "director_lbxd_slug": "robert-z-leonard"
-    },
-    {
-      "id": "cinemateca_19947",
-      "title": "There’s No Business Like Show Business",
-      "director": "Walter Lang",
-      "year": 1954,
-      "duration": 117,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/3/8/2/38382-there-s-no-business-like-show-business-0-500-0-750-crop.jpg?v=ba17e3fbb7",
-      "genres": [
-        "Comedy",
-        "Music"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19947",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "18:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.18,
-      "plot": "Molly and Terry Donahue, plus their three children, are The Five Donahues. Youngest son Tim meets hat-check girl Vicky and the family act begins to fall apart.",
-      "country": "USA",
-      "director_lbxd_slug": "walter-lang"
-    },
-    {
-      "id": "cinemateca_19964",
-      "title": "A Midsummer Night’s Dream",
-      "director": "Max Reinhardt, William Dieterle",
-      "year": 1935,
-      "duration": 134,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/4/39884-a-midsummer-night-s-dream-0-500-0-750-crop.jpg?v=3f341f3e22",
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19964",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-06-11",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.38,
-      "plot": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
-      "country": "USA",
-      "director_lbxd_slug": "william-dieterle"
-    },
-    {
-      "id": "cinemateca_19966",
-      "title": "Die Dreigroschenoper",
-      "director": "Georg Wilhelm Pabst",
-      "year": 1931,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/3/3/117033-the-threepenny-opera-1931-0-500-0-750-crop.jpg?v=797401838d",
-      "genres": [
-        "Drama",
-        "Music",
-        "Crime"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19966",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.43,
-      "plot": "The French-language version of the The Threepenny Opera with a different cast from the German version.",
-      "country": "Germany",
-      "director_lbxd_slug": "gw-pabst"
     },
     {
       "id": "cinemateca_19967",
@@ -725,6 +548,31 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "victor-saville"
     },
     {
+      "id": "cinemateca_19965",
+      "title": "A Midsummer Night’s Dream",
+      "director": "Max Reinhardt, William Dieterle",
+      "year": 1935,
+      "duration": 134,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/4/39884-a-midsummer-night-s-dream-0-500-0-750-crop.jpg?v=3f341f3e22",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19965",
+      "sessions": [
+        {
+          "date": "2026-06-11",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.38,
+      "plot": "Four young people escape Athens to a forest where the king and queen of the fairies are quarreling, while meanwhile, a troupe of amateur actors rehearses a play. When the fairy Puck uses a magic flower to make people fall in love, the whole thing becomes a little bit confused...",
+      "country": "USA",
+      "director_lbxd_slug": "william-dieterle"
+    },
+    {
       "id": "cinemateca_19976",
       "title": "So This Is Paris",
       "director": "Richard Quine",
@@ -811,6 +659,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-06-12",
           "time": "21:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "19:30",
           "cinema": "cinemateca"
         }
       ]
@@ -1204,6 +1057,14 @@ window.CINEMA_DATA = {
           "date": "2026-06-16",
           "time": "19:00",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "21:30",
+          "cinema": "cinemateca",
+          "labels": [
+            "Com a presença de Billy Woodberry"
+          ]
         }
       ],
       "plot": "Documentary arguing the case for equal pay for women. Women are seen employed in their homes, in factories, teaching, nursing, in politics and in the professions. There are also some newsreel shots of marching suffragettes.",
@@ -1228,6 +1089,14 @@ window.CINEMA_DATA = {
           "date": "2026-06-16",
           "time": "19:00",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-06-20",
+          "time": "21:30",
+          "cinema": "cinemateca",
+          "labels": [
+            "Com a presença de Billy Woodberry"
+          ]
         }
       ],
       "plot": "A man recalls his relationships with the women he loved as he tries to help another man try to understand them as well.",
@@ -1391,6 +1260,96 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jill-craigie"
     },
     {
+      "id": "cinemateca_19943_0",
+      "title": "Mardi And The Monkey",
+      "director": "Kay Mander",
+      "year": 1953,
+      "duration": 19,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/9/6/2/249962-mardi-and-the-monkey-0-500-0-750-crop.jpg?v=f4756d70a6",
+      "genres": [
+        "Family"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19943",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "15:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Story of a little Javanese boy who adopts a monkey.",
+      "country": "UK",
+      "director_lbxd_slug": "kay-mander"
+    },
+    {
+      "id": "cinemateca_19943_1",
+      "title": "The Kid From Canada",
+      "director": "Kay Mander",
+      "year": 1957,
+      "duration": 39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/0/7/7/250077-the-kid-from-canada-0-500-0-750-crop.jpg?v=a57392fe76",
+      "genres": [
+        "Family"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19943",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "15:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A Canadian boy visits cousins in Scotland; his attitude first causes antagonism with Scottish youngsters, but disappears when the lad proves himself by riding a horse over dangerous country to bring aid to an injured shepherd.",
+      "country": "UK",
+      "director_lbxd_slug": "kay-mander"
+    },
+    {
+      "id": "cinemateca_20032_0",
+      "title": "A Story From Africa",
+      "director": "Billy Woodberry",
+      "year": 2019,
+      "duration": 32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/4/6/8/7/534687-a-story-from-africa-0-500-0-750-crop.jpg?v=088a84d105",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20032",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.45,
+      "plot": "Following the 1884–85 Berlin Conference resolution on the partition of Africa, the Portuguese army uses a talented ensign to register the effective occupation of the territory belonging to the Cuamato people, conquered in 1907, in the south of Angola. A STORY FROM AFRICA enlivens a rarely seen photographic archive through the tragic tale of Calipalula, the Cuamato nobleman essential to the unfolding of events in this Portuguese pacification campaign.",
+      "country": "USA",
+      "director_lbxd_slug": "billy-woodberry"
+    },
+    {
+      "id": "cinemateca_20032_1",
+      "title": "Notre Musique",
+      "director": "Jean-Luc Godard",
+      "year": 2004,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/8/5/35385-notre-musique-0-500-0-750-crop.jpg?v=0d5cbbbf49",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20032",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.94,
+      "plot": "A three-chapter (Hell, Purgatory and Paradise) meditation on the city of Sarajevo in the wake of the Bosnian war, on Palestine and Israel, and on war itself.",
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
+    },
+    {
       "id": "nimas_dois-procuradores-2025",
       "title": "Dois Procuradores",
       "director": "Sergei Loznitsa",
@@ -1402,36 +1361,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/dois-procuradores-2025",
       "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-06-07",
           "time": "14:15",
@@ -1527,11 +1456,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/bravo-bene-2025",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-08",
           "time": "17:30",
           "cinema": "nimas"
@@ -1546,31 +1470,6 @@ window.CINEMA_DATA = {
       "plot": "Filming on Franco Maresco's film about Carmelo Bene is abruptly halted after yet another on-set accident. Producer Andrea Occhipinti pulls the plug, exasperated by the endless takes and repeated delays. Angered, the director simply disappears. Maresco's friend, Umberto Cantone, attempts to mend the rift by calling witnesses from all those involved in the project, in an investigation that offers an opportunity to retrace the personality and ideas of the most corrosive and apocalyptic auteur in Italian cinema.",
       "country": "Italy",
       "director_lbxd_slug": "franco-maresco-1"
-    },
-    {
-      "id": "nimas_mulholland-drive-2001",
-      "title": "Mulholland Drive",
-      "director": "David Lynch",
-      "year": 2001,
-      "duration": 147,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-500-0-750-crop.jpg?v=3d69c00608",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/mulholland-drive-2001",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.26,
-      "plot": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
-      "country": "France",
-      "director_lbxd_slug": "david-lynch"
     },
     {
       "id": "nimas_metropolis-1926",
@@ -1597,25 +1496,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "fritz-lang-1"
     },
     {
-      "id": "nimas_rostos-1968",
-      "title": "Rostos",
-      "director": "John Cassavetes",
-      "year": 1968,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/cassavetes_cartaz_rostos.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/rostos-1968",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_chungking-express-1994",
       "title": "Chungking Express",
       "director": "Wong Kar Wai",
@@ -1630,11 +1510,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/chungking-express-1994",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-12",
           "time": "21:30",
           "cinema": "campo_alegre"
@@ -1644,32 +1519,6 @@ window.CINEMA_DATA = {
       "plot": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_entroncamento-2025",
-      "title": "Entroncamento",
-      "director": "Pedro Cabeleira",
-      "year": 2025,
-      "duration": 131,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/4/7/3/9/1074739-night-passengers-0-500-0-750-crop.jpg?v=2bd5841264",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/entroncamento-2025",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "19:30",
-          "cinema": "nimas",
-          "labels": [
-            "Apresentação pelo realizador"
-          ]
-        }
-      ],
-      "rating": 3.39,
-      "plot": "In the town of Entroncamento, violence, misfortune, greed, and loyalty rule the streets. Laura arrives there to rebuild her life, but the irresistible pull of quick money and crime immediately draws her back into a troubled past. For those she meets at this crossroads, every day presents the choice between who they were and who they might become.",
-      "country": "Portugal"
     },
     {
       "id": "nimas_os-domingos-2018",
@@ -1684,17 +1533,12 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/os-domingos-2018",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-06-10",
           "time": "15:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.89,
+      "rating": 3.88,
       "plot": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
       "country": "Spain"
     },
@@ -2074,16 +1918,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/PAI-NOSSO",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "16:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-06",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-07",
           "time": "19:15",
           "cinema": "ideal"
@@ -2127,11 +1961,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/A-PROVIDENCIA-E-A-GUITARRA",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "11:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-06-07",
           "time": "18:45",
           "cinema": "fernando"
@@ -2156,11 +1985,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/ACREDITAMOS-EM-TI",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "14:45",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-06-07",
           "time": "01:30",
           "cinema": "fernando"
@@ -2180,11 +2004,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/AS-PROVADORAS-DE-HITLER",
       "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-06-07",
           "time": "14:00",
@@ -3259,11 +3078,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-07",
           "time": "14:30",
           "cinema": "trindade"
@@ -3299,11 +3113,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/a-divina-comedia",
       "sessions": [
         {
-          "date": "2026-06-06",
-          "time": "16:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-07",
           "time": "16:15",
           "cinema": "trindade"
@@ -3321,129 +3130,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "trindade_2895",
-      "title": "São Paulo Sociedade Anónima",
-      "director": "Luiz Sérgio Person",
-      "year": 1965,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/sao-paulo-sociedade-anonima",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-09",
-          "time": "19:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.05,
-      "plot": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
-      "country": "Brazil",
-      "director_lbxd_slug": "luiz-sergio-person"
-    },
-    {
-      "id": "trindade_1653",
-      "title": "Linguagem Universal",
-      "director": "Matthew Rankin",
-      "year": 2024,
-      "duration": 89,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/linguagem-universal",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "18:00",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8091",
-      "title": "O Drama",
-      "director": "Kristoffer Borgli",
-      "year": 2026,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-07",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "country": "USA"
-    },
-    {
-      "id": "trindade_6574",
-      "title": "One to One: John & Yoko",
-      "director": "Kevin Macdonald",
-      "year": 2024,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-07",
-          "time": "21:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-08",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-09",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.71,
-      "plot": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
-      "country": "UK",
-      "director_lbxd_slug": "kevin-macdonald-1"
-    },
-    {
       "id": "trindade_7246",
       "title": "Pai, Mãe, Irmã, Irmão",
       "director": "Jim Jarmusch",
@@ -3453,11 +3139,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/pai-mae-irma-irmao",
       "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-07",
           "time": "17:00",
@@ -3485,11 +3166,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/fogo-do-vento",
       "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-07",
           "time": "15:00",
@@ -3519,6 +3195,35 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
+      "id": "trindade_8091",
+      "title": "O Drama",
+      "director": "Kristoffer Borgli",
+      "year": 2026,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
+      "sessions": [
+        {
+          "date": "2026-06-07",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "country": "USA"
+    },
+    {
       "id": "trindade_2283",
       "title": "Holy Motors",
       "director": "Leos Carax",
@@ -3541,6 +3246,45 @@ window.CINEMA_DATA = {
       "plot": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
       "country": "Germany",
       "director_lbxd_slug": "leos-carax"
+    },
+    {
+      "id": "trindade_6574",
+      "title": "One to One: John & Yoko",
+      "director": "Kevin Macdonald",
+      "year": 2024,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
+      "sessions": [
+        {
+          "date": "2026-06-07",
+          "time": "21:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-08",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-09",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.71,
+      "plot": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
+      "country": "UK",
+      "director_lbxd_slug": "kevin-macdonald-1"
     },
     {
       "id": "trindade_8489",
@@ -3652,6 +3396,29 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "trindade_2895",
+      "title": "São Paulo Sociedade Anónima",
+      "director": "Luiz Sérgio Person",
+      "year": 1965,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/sao-paulo-sociedade-anonima",
+      "sessions": [
+        {
+          "date": "2026-06-09",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
+      "country": "Brazil",
+      "director_lbxd_slug": "luiz-sergio-person"
+    },
+    {
       "id": "trindade_2891",
       "title": "Underground: Era Uma Vez Um País",
       "director": "Emir Kusturica",
@@ -3728,45 +3495,6 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ]
-    },
-    {
-      "id": "campo_alegre_a-palavra-1955",
-      "title": "A Palavra",
-      "director": "Carl Theodor Dreyer",
-      "year": 1955,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/o88mw8fwugpkbu6pzkp-zc2yv_a.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-palavra-1955",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        }
-      ]
-    },
-    {
-      "id": "campo_alegre_viridiana-1961",
-      "title": "Viridiana",
-      "director": "Luis Buñuel",
-      "year": 1961,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-500-0-750-crop.jpg?v=45489590bd",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/viridiana-1961",
-      "sessions": [
-        {
-          "date": "2026-06-06",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.1,
-      "plot": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
-      "country": "Spain"
     },
     {
       "id": "campo_alegre_palavra-e-utopia-2000",
@@ -4072,11 +3800,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
       "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor."
     },
-    "Wim Wenders": {
-      "lbxd_slug": "wim-wenders",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wim_Wenders_at_Berlinale_2026.jpg/500px-Wim_Wenders_at_Berlinale_2026.jpg",
-      "bio": "Wim Wenders (German: [ˈvɪm ˈvɛndɐs]; born Wilhelm Ernst Wenders; 14 August 1945) is a German filmmaker and photographer. Regarded as a major figure of New German Cinema and widely considered an auteur director, he has received various accolades, including a BAFTA Award, a Palme d'Or, a Golden Lion, and an Honorary Golden Bear, in addition to nominations for four Academy Awards and a Grammy Award. Wenders made his feature film debut with Summer in the City (1970)."
-    },
     "Hayao Miyazaki": {
       "lbxd_slug": "hayao-miyazaki",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HayaoMiyazakiCCJuly09.jpg",
@@ -4086,11 +3809,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Katsuhiro Otomo": {
-      "lbxd_slug": "katsuhiro-otomo-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katsuhiro_Otomo.jpg/500px-Katsuhiro_Otomo.jpg",
-      "bio": "Katsuhiro Otomo (大友 克洋, Ōtomo Katsuhiro; born April 14, 1954) is a Japanese manga artist, screenwriter, animator, and film director. He first rose to prominence as a pioneer founder of the New Wave in the 1970s. He is best known as the creator of Akira, both the original 1982 manga series and the 1988 animated film adaptation."
     },
     "Werner Herzog": {
       "lbxd_slug": null,
@@ -4112,35 +3830,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Isabel_Fern%C3%A1ndez._28_January_2020%2C_Ministry_of_Communication%2C_La_Paz._%2851906675317%29.jpg/500px-Isabel_Fern%C3%A1ndez._28_January_2020%2C_Ministry_of_Communication%2C_La_Paz._%2851906675317%29.jpg",
       "bio": "María Isabel Fernández Suárez (born 10 March 1980) is a Bolivian journalist and politician who served as minister of communication from January to June 2020. Fernández was the final official to serve in that post, with the Ministry of Communication being abolished during her term. She subsequently served as vice minister of communication from June 2020 until the conclusion of the transitional government of Jeanine Áñez in November 2020."
     },
-    "Ward Kimball, Robert Stevenson": {
-      "lbxd_slug": "robert-stevenson-1",
-      "photo": null,
-      "bio": null
-    },
-    "Robert Z. Leonard": {
-      "lbxd_slug": "robert-z-leonard",
-      "photo": null,
-      "bio": null
-    },
-    "Walter Lang": {
-      "lbxd_slug": "walter-lang",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg/500px-Christening_of_the_Liberty_Ship_S._S._Carole_Lombard_1944.jpg",
-      "bio": "Walter Richard Lang (August 10, 1896 – February 7, 1972) was an American film director."
-    },
-    "Max Reinhardt, William Dieterle": {
-      "lbxd_slug": "william-dieterle",
-      "photo": null,
-      "bio": null
-    },
-    "Georg Wilhelm Pabst": {
-      "lbxd_slug": "gw-pabst",
-      "photo": null,
-      "bio": null
-    },
     "Reinhold Schünzel": {
       "lbxd_slug": "reinhold-schunzel",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Reinhold_Sch%C3%BCnzel_um_1921_by_Alexander_Binder.jpg",
+      "bio": "Reinhold Schünzel (7 November 1888 – 11 November 1954) was a German actor and director, active in both Germany and the United States. The son of a German father and a Jewish mother, he was born in St. Pauli, the poorest part of Hamburg."
     },
     "Juan de Orduña": {
       "lbxd_slug": "juan-de-orduna-2",
@@ -4174,6 +3867,11 @@ window.CINEMA_DATA = {
     },
     "Victor Saville": {
       "lbxd_slug": "victor-saville",
+      "photo": null,
+      "bio": null
+    },
+    "Max Reinhardt, William Dieterle": {
+      "lbxd_slug": "william-dieterle",
       "photo": null,
       "bio": null
     },
@@ -4287,6 +3985,16 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Billy Woodberry": {
+      "lbxd_slug": "billy-woodberry",
+      "photo": null,
+      "bio": null
+    },
+    "Jean-Luc Godard": {
+      "lbxd_slug": "jean-luc-godard-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
+      "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
+    },
     "Sergei Loznitsa": {
       "lbxd_slug": null,
       "photo": null,
@@ -4297,28 +4005,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "David Lynch": {
-      "lbxd_slug": "david-lynch",
-      "photo": null,
-      "bio": null
-    },
     "Fritz Lang": {
       "lbxd_slug": "fritz-lang-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fritz_Lang_%281969%29.jpg/500px-Fritz_Lang_%281969%29.jpg",
       "bio": "Friedrich Christian Anton Lang (Austrian German: [ˈfriːdrɪç ˈkrɪsti̯a(ː)n ˈantɔn ˈlaŋ]; December 5, 1890 – August 2, 1976), better known as Fritz Lang (Austrian German: [ˈfrɪts ˈlaŋ]), was an Austrian film director, screenwriter, and producer, who worked in Germany and later the United States. One of the best-known émigrés from Germany's school of Expressionism, he was dubbed the \"Master of Darkness\" by the British Film Institute. He has been cited as one of the most influential filmmakers of all time."
     },
-    "John Cassavetes": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Wong Kar Wai": {
       "lbxd_slug": "wong-kar-wai",
-      "photo": null,
-      "bio": null
-    },
-    "Pedro Cabeleira": {
-      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -4326,6 +4019,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg/500px-Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg",
       "bio": "Alauda Ruiz de Azúa Arteche (born 1978) is a Spanish filmmaker. Her full-length debut Lullaby (2022) earned critical acclaim, and won her the Goya Award for Best New Director."
+    },
+    "John Cassavetes": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Tarik Saleh": {
       "lbxd_slug": null,
@@ -4617,15 +4315,10 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Luiz Sérgio Person": {
-      "lbxd_slug": "luiz-sergio-person",
-      "photo": null,
-      "bio": null
-    },
-    "Matthew Rankin": {
+    "Jim Jarmusch": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
+      "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
     },
     "Kristoffer Borgli": {
       "lbxd_slug": null,
@@ -4636,11 +4329,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "kevin-macdonald-1",
       "photo": null,
       "bio": null
-    },
-    "Jim Jarmusch": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
-      "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
     },
     "Pete Ohs": {
       "lbxd_slug": "pete-ohs",
@@ -4667,6 +4355,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Luiz Sérgio Person": {
+      "lbxd_slug": "luiz-sergio-person",
+      "photo": null,
+      "bio": null
+    },
     "Emir Kusturica": {
       "lbxd_slug": null,
       "photo": null,
@@ -4686,16 +4379,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Carl Theodor Dreyer": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Luis Buñuel": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
-      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
     },
     "Manoel de Oliveira": {
       "lbxd_slug": "manoel-de-oliveira",
@@ -4733,5 +4416,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

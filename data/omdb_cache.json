@@ -25101,5 +25101,122 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Mardi And The Monkey|1953": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/9/9/6/2/249962-mardi-and-the-monkey-0-500-0-750-crop.jpg?v=f4756d70a6",
+      "description": "Story of a little Javanese boy who adopts a monkey.",
+      "genres": [
+        "Family"
+      ],
+      "country": "UK",
+      "lb_director": "Kay Mander",
+      "lb_director_slug": "kay-mander",
+      "lb_year": 1953
+    },
+    "omdb": {
+      "Title": "Mardi and the Monkey",
+      "Year": "1953",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "19 min",
+      "Genre": "Short",
+      "Director": "Kay Mander",
+      "Writer": "Kay Mander",
+      "Actors": "Narisah, Sarta, Wasmin",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt3020668",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Kid From Canada|1953": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/0/7/7/250077-the-kid-from-canada-0-500-0-750-crop.jpg?v=a57392fe76",
+      "description": "A Canadian boy visits cousins in Scotland; his attitude first causes antagonism with Scottish youngsters, but disappears when the lad proves himself by riding a horse over dangerous country to bring aid to an injured shepherd.",
+      "genres": [
+        "Family"
+      ],
+      "country": "UK",
+      "lb_director": "Kay Mander",
+      "lb_director_slug": "kay-mander",
+      "lb_year": 1957
+    },
+    "omdb": null
+  },
+  "A Story From Africa|2019": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/4/6/8/7/534687-a-story-from-africa-0-500-0-750-crop.jpg?v=088a84d105",
+      "description": "Following the 1884–85 Berlin Conference resolution on the partition of Africa, the Portuguese army uses a talented ensign to register the effective occupation of the territory belonging to the Cuamato people, conquered in 1907, in the south of Angola. A STORY FROM AFRICA enlivens a rarely seen photographic archive through the tragic tale of Calipalula, the Cuamato nobleman essential to the unfolding of events in this Portuguese pacification campaign.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Billy Woodberry",
+      "lb_director_slug": "billy-woodberry",
+      "lb_year": 2019
+    },
+    "omdb": {
+      "Title": "A Story from Africa",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "20 Aug 2020",
+      "Runtime": "33 min",
+      "Genre": "Documentary, Short",
+      "Director": "Billy Woodberry",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "The Portuguese army uses a talented ensign to register the effective occupation of the territory conquered in 1907 to the Cuamato people, in the south of Angola.",
+      "Language": "Portuguese",
+      "Country": "Portugal, United States",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "17",
+      "imdbID": "tt12749322",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Notre Musique|2004": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/8/5/35385-notre-musique-0-500-0-750-crop.jpg?v=0d5cbbbf49",
+      "description": "A three-chapter (Hell, Purgatory and Paradise) meditation on the city of Sarajevo in the wake of the Bosnian war, on Palestine and Israel, and on war itself.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Luc Godard",
+      "lb_director_slug": "jean-luc-godard-1",
+      "lb_year": 2004
+    },
+    "omdb": null
   }
 }
