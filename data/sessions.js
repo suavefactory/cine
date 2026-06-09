@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-08T12:30:18.645151+00:00",
+  "generated": "2026-06-09T11:21:29.256190+00:00",
   "movies": [
     {
       "id": "sao_jorge_10680",
@@ -281,11 +281,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemateca.pt/programacao.aspx?id=19967",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
           "date": "2026-06-17",
           "time": "19:30",
           "cinema": "cinemateca"
@@ -295,30 +290,6 @@ window.CINEMA_DATA = {
       "plot": "Aspiring singer Susanne takes over one night for her sick friend, a small-time female impersonator, and finds unexpected fame when everyone believes that she is actually a man. While touring London, complications arise as a local womanizer catches on to her game.",
       "country": "Germany",
       "director_lbxd_slug": "reinhold-schunzel"
-    },
-    {
-      "id": "cinemateca_19969",
-      "title": "El Ultimo Cuplé",
-      "director": "Juan de Orduña",
-      "year": 1957,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/6/9/1/66691-the-last-couplet-0-500-0-750-crop.jpg?v=826a6d82f0",
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19969",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.48,
-      "plot": "A musical drama featuring a tragic love story. Relates a singer's rise to fame and her subsequent downfall because of the death of her lover.",
-      "country": "Spain",
-      "director_lbxd_slug": "juan-de-orduna-2"
     },
     {
       "id": "cinemateca_19970",
@@ -846,92 +817,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ernst-lubitsch"
     },
     {
-      "id": "cinemateca_20022_0",
-      "title": "Kitsune",
-      "director": "João Penalva",
-      "year": 2001,
-      "duration": 55,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20022",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20022_1",
-      "title": "A Harangozó",
-      "director": "João Penalva",
-      "year": 2005,
-      "duration": 58,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20022",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20034_0",
-      "title": "Exotic Words Drifted",
-      "director": "Sandro Aguilar",
-      "year": 2023,
-      "duration": 15,
-      "poster": null,
-      "genres": [
-        "Short",
-        "Fantasy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20034",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "Com a presença de João Penalva",
-            "COM A PRESENÇA DE SANDRO AGUILAR"
-          ]
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "cinemateca_20034_1",
-      "title": "Primeira Pessoa Do Plural",
-      "director": "Sandro Aguilar",
-      "year": 2025,
-      "duration": 119,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/6/8/3/6/1286836-first-person-plural-2025-0-500-0-750-crop.jpg?v=90d7f3c6f2",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20034",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "Com a presença de João Penalva",
-            "COM A PRESENÇA DE SANDRO AGUILAR"
-          ]
-        }
-      ],
-      "rating": 2.92,
-      "plot": "Mateus Lagoa and his wife Irene will celebrate their 20th wedding anniversary at a most luxurious resort on a tropical island, leaving their teenage son dangerously adrift. Before departure to paradise, during an unexpected night spent apart, the side effects of the vaccines strike them - fevers, fainting spells, shivers, hallucinations of all sorts. A melancholic mood creeps in and their world seems somehow fractured, capable of unsuspected and dangerous promises.",
-      "country": "Portugal",
-      "director_lbxd_slug": "sandro-aguilar"
-    },
-    {
       "id": "cinemateca_19995_0",
       "title": "The Stranger Left No Card",
       "director": "Wendy Toye",
@@ -1308,31 +1193,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/dois-procuradores-2025",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-08",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-08",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-08",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-09",
           "time": "14:15",
           "cinema": "trindade"
@@ -1356,6 +1216,11 @@ window.CINEMA_DATA = {
           "date": "2026-06-10",
           "time": "14:15",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "16:45",
+          "cinema": "ideal"
         },
         {
           "date": "2026-06-10",
@@ -1366,6 +1231,56 @@ window.CINEMA_DATA = {
           "date": "2026-06-10",
           "time": "21:00",
           "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "21:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "16:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "19:00",
+          "cinema": "ideal"
         }
       ]
     },
@@ -1382,11 +1297,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/bravo-bene-2025",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-10",
           "time": "13:00",
           "cinema": "nimas"
@@ -1398,50 +1308,50 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "franco-maresco-1"
     },
     {
-      "id": "nimas_luz-de-inverno-1963",
-      "title": "Luz de Inverno",
-      "director": "Ingmar Bergman",
-      "year": 1963,
-      "duration": 81,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/7/32847-winter-light-0-500-0-750-crop.jpg?v=4acd9ba380",
+      "id": "nimas_my-blueberry-nights-o-sabor-do-amor-2007",
+      "title": "My Blueberry Nights – O Sabor do Amor",
+      "director": "Wong Kar Wai",
+      "year": 2007,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/3/50623-my-blueberry-nights-0-500-0-750-crop.jpg?v=d8cbbb5a09",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/luz-de-inverno-1963",
+      "link": "https://medeiafilmes.com/filmes/my-blueberry-nights-o-sabor-do-amor-2007",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "14:00",
+          "date": "2026-06-09",
+          "time": "13:30",
           "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:30",
-          "cinema": "campo_alegre"
         }
       ],
-      "rating": 4.25,
-      "plot": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
-      "country": "Sweden"
+      "rating": 3.25,
+      "plot": "Elizabeth has just been through a particularly nasty breakup, and now she's ready to leave her friends and memories behind as she chases her dreams across the country. In order to support herself on her journey, Elizabeth picks up a series of waitress jobs along the way. As Elizabeth crosses paths with a series of lost souls whose yearnings are even greater than her own, their emotional turmoil ultimately helps her gain a greater understanding of her own problems...",
+      "country": "France",
+      "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "nimas_sombras-1959-1959",
-      "title": "Sombras (1959)",
-      "director": "John Cassavetes",
-      "year": 1959,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/cassavetes_cartaz_sombras.jpg",
+      "id": "nimas_la-grazia-2025",
+      "title": "La Grazia",
+      "director": "Paolo Sorrentino",
+      "year": 2025,
+      "duration": 133,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/sombras-1959-1959",
+      "link": "https://medeiafilmes.com/filmes/la-grazia-2025",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "15:30",
+          "date": "2026-06-09",
+          "time": "19:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.7,
+      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
+      "country": "Italy"
     },
     {
       "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
@@ -1491,81 +1401,6 @@ window.CINEMA_DATA = {
       "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
       "country": "Germany",
       "director_lbxd_slug": "edgar-reitz"
-    },
-    {
-      "id": "nimas_happy-together-felizes-juntos-1997",
-      "title": "Happy Together — Felizes Juntos",
-      "director": "Wong Kar Wai",
-      "year": 1997,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/4w/sy/nq/o5/qrpUybe97xNRYk63TryiwbItoAV-0-500-0-750-crop.jpg?v=064ed91055",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/happy-together-felizes-juntos-1997",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-15",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.21,
-      "plot": "A couple travels from Hong Kong to Argentina to revive their relationship but experience turbulence when both men's lives drift in separate directions.",
-      "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_my-blueberry-nights-o-sabor-do-amor-2007",
-      "title": "My Blueberry Nights – O Sabor do Amor",
-      "director": "Wong Kar Wai",
-      "year": 2007,
-      "duration": 95,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/3/50623-my-blueberry-nights-0-500-0-750-crop.jpg?v=d8cbbb5a09",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/my-blueberry-nights-o-sabor-do-amor-2007",
-      "sessions": [
-        {
-          "date": "2026-06-09",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.25,
-      "plot": "Elizabeth has just been through a particularly nasty breakup, and now she's ready to leave her friends and memories behind as she chases her dreams across the country. In order to support herself on her journey, Elizabeth picks up a series of waitress jobs along the way. As Elizabeth crosses paths with a series of lost souls whose yearnings are even greater than her own, their emotional turmoil ultimately helps her gain a greater understanding of her own problems...",
-      "country": "France",
-      "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_la-grazia-2025",
-      "title": "La Grazia",
-      "director": "Paolo Sorrentino",
-      "year": 2025,
-      "duration": 133,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/4/7/4/1281474-la-grazia-0-500-0-750-crop.jpg?v=d28244df69",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/la-grazia-2025",
-      "sessions": [
-        {
-          "date": "2026-06-09",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.7,
-      "plot": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
-      "country": "Italy"
     },
     {
       "id": "nimas_o-barqueiro-2025",
@@ -1653,23 +1488,6 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
-      "id": "nimas_diario-de-um-paroco-de-aldeia-1951",
-      "title": "Diário de um Pároco de Aldeia",
-      "director": "Robert Bresson",
-      "year": 1951,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/1089159.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/diario-de-um-paroco-de-aldeia-1951",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_os-domingos-2018",
       "title": "Os Domingos",
       "director": "Alauda Ruiz de Azúa",
@@ -1692,6 +1510,23 @@ window.CINEMA_DATA = {
       "country": "Spain"
     },
     {
+      "id": "nimas_diario-de-um-paroco-de-aldeia-1951",
+      "title": "Diário de um Pároco de Aldeia",
+      "director": "Robert Bresson",
+      "year": 1951,
+      "duration": 95,
+      "poster": "https://medeiafilmes.com/uploads/library/1089159.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/diario-de-um-paroco-de-aldeia-1951",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "19:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "fernando_pai_nosso_os_u_ltimos_dias_de_salazar",
       "title": "Pai Nosso - Os Últimos Dias de Salazar",
       "director": "José Filipe Costa",
@@ -1705,32 +1540,44 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/PAI-NOSSO",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-08",
-          "time": "21:00",
-          "cinema": "fernando",
-          "labels": [
-            "Sessão especial"
-          ]
-        },
-        {
           "date": "2026-06-09",
           "time": "19:00",
           "cinema": "fernando",
           "labels": [
             "Legendas em inglês"
           ]
+        },
+        {
+          "date": "2026-06-11",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "16:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "14:30",
+          "cinema": "fernando"
         }
       ]
     },
     {
       "id": "fernando_projecto_global",
       "title": "Projecto Global",
-      "director": "Ivo M. Ferreira",
+      "director": "Ivo Ferreira",
       "year": 2026,
       "duration": 140,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/6/9/9/3/1466993-global-project-0-500-0-750-crop.jpg?v=407417256f",
@@ -1747,8 +1594,258 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ],
+      "rating": 3.3,
       "plot": "Lisbon, 1980s, Rosa, a woman joins a group of young people disappointed at the post-Revolutionary Portugal. Part of a far-left clandestine armed organization, they share political views and a daily life that makes them grow closer. But their idealism collides head-on with a changing country and a large-scale police operation targeting them. Fleeing on a road with no return and no way forward, their existence is made up of bank robberies, bombs, friendships, prison, love and death. Trapped, their only choice is to keep on the run until they get arrested or killed.",
-      "country": "Portugal"
+      "country": "Portugal",
+      "director_lbxd_slug": "ivo-m-ferreira"
+    },
+    {
+      "id": "fernando_tre_s_vezes_adeus",
+      "title": "Três Vezes Adeus",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
+      "sessions": [
+        {
+          "date": "2026-06-11",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "16:30",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        },
+        {
+          "date": "2026-06-16",
+          "time": "21:30",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_um_poeta",
+      "title": "Um Poeta",
+      "director": "Guga Coelho",
+      "year": 2015,
+      "duration": 90,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/7866e6ce-742d-fc22-bdc2-55ddfe63be0c.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/UM-POETA",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-11",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "14:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "21:30",
+          "cinema": "fernando"
+        }
+      ],
+      "country": "Brazil"
+    },
+    {
+      "id": "fernando_as_provadoras_de_hitler",
+      "title": "As Provadoras de Hitler",
+      "director": "Silvio Soldini",
+      "year": 2025,
+      "duration": 123,
+      "poster": "https://freight.cargo.site/t/original/i/482a3fc664d64605cbfaf86f414a3995f4243c57b42b3fb5be39c0cf0f4ff003/AS-PROVADORAS-DE-HITLER_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/AS-PROVADORAS-DE-HITLER",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "11:30",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_a_provide_ncia_e_a_guitarra",
+      "title": "A Providência E A Guitarra",
+      "director": "João Nicolau",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/7/5/1/9/1317519-providence-and-the-guitar-0-500-0-750-crop.jpg?v=44c35a121e",
+      "genres": [
+        "Music",
+        "Drama",
+        "Comedy"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/A-PROVIDENCIA-E-A-GUITARRA",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "11:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "19:00",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 2.96,
+      "plot": "In a distant past, Léon and Elvira Berthelini, itinerant artists, make their living hopping from town to town. In Covarronca, harassed by the Police Commissioner, they are forced to spend the night out in the open. That’s when they meet Stubbs, a young Cambridge student, with whom they find shelter in the home of a painter at odds with his wife. In return for the hospitality, they remind their hosts that the love of art resolves the art of love. Meanwhile, an unusual curse sends them on absurd journeys into the 21st century, where the future of social security and of a rock band are at stake.",
+      "country": "Portugal",
+      "director_lbxd_slug": "joao-nicolau"
+    },
+    {
+      "id": "fernando_acreditamos_em_ti",
+      "title": "Acreditamos em Ti",
+      "director": "Charlotte Devillers & Arnaud Dufeys",
+      "year": 2025,
+      "duration": 78,
+      "poster": "https://freight.cargo.site/t/original/i/431e66d2278fdbdc28c2526212774f484d7ca2cd68ed716346f916010f85dee6/ACREDITAMOS_EM_TI.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ACREDITAMOS-EM-TI",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "20:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "17:30",
+          "cinema": "fernando"
+        }
+      ]
     },
     {
       "id": "batalha_s05ofos4CdTzE1Fd",
@@ -2789,11 +2886,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-09",
           "time": "14:30",
           "cinema": "trindade"
@@ -2807,125 +2899,6 @@ window.CINEMA_DATA = {
       "rating": 3.34,
       "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
       "country": "France"
-    },
-    {
-      "id": "trindade_8300",
-      "title": "Rádio Metronom",
-      "director": "Alexandru Belc",
-      "year": 2022,
-      "duration": 102,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/radio-metronom",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "16:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_1703",
-      "title": "O Desafio",
-      "director": "Paulo César Saraceni",
-      "year": 1965,
-      "duration": 100,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzk3MGQzNWItNGYwOS00NjUyLTg0YmYtNmQxOGRjYjJmZTU3XkEyXkFqcGdeQXVyODY5NzM4Nzc@._V1_SX300.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-desafio",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "17:00",
-          "cinema": "trindade"
-        }
-      ],
-      "plot": "Passively facing the repression imposed by military dictatorship in Brazil in the 60s, a journalist gets into a personal crisis, aggravated by his love affair with an industrialist's wife, who doesn't want to leave her home becaus...",
-      "country": "Brazil"
-    },
-    {
-      "id": "trindade_1690",
-      "title": "Macunaíma",
-      "director": "Joaquim Pedro de Andrade",
-      "year": 1969,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/macunaima",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.55,
-      "plot": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
-      "country": "Brazil",
-      "director_lbxd_slug": "joaquim-pedro-de-andrade"
-    },
-    {
-      "id": "trindade_6574",
-      "title": "One to One: John & Yoko",
-      "director": "Kevin Macdonald",
-      "year": 2024,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-09",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.71,
-      "plot": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
-      "country": "UK",
-      "director_lbxd_slug": "kevin-macdonald-1"
-    },
-    {
-      "id": "trindade_7242",
-      "title": "A Cronologia da Água",
-      "director": "Kristen Stewart",
-      "year": 2025,
-      "duration": 128,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/a-cronologia-da-agua",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ]
     },
     {
       "id": "trindade_7491",
@@ -2948,6 +2921,35 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         }
       ]
+    },
+    {
+      "id": "trindade_6574",
+      "title": "One to One: John & Yoko",
+      "director": "Kevin Macdonald",
+      "year": 2024,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
+      "sessions": [
+        {
+          "date": "2026-06-09",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.71,
+      "plot": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
+      "country": "UK",
+      "director_lbxd_slug": "kevin-macdonald-1"
     },
     {
       "id": "trindade_2895",
@@ -3022,11 +3024,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/fogo-do-vento",
       "sessions": [
         {
-          "date": "2026-06-08",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-09",
           "time": "19:00",
           "cinema": "ideal"
@@ -3035,6 +3032,21 @@ window.CINEMA_DATA = {
           "date": "2026-06-10",
           "time": "18:00",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "16:45",
+          "cinema": "ideal"
         }
       ],
       "country": "Portugal"
@@ -3087,6 +3099,31 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
+      "id": "trindade_1690",
+      "title": "Macunaíma",
+      "director": "Joaquim Pedro de Andrade",
+      "year": 1969,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/macunaima",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.55,
+      "plot": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
+      "country": "Brazil",
+      "director_lbxd_slug": "joaquim-pedro-de-andrade"
+    },
+    {
       "id": "trindade_8565",
       "title": "18 Buracos para o Paraíso",
       "director": "João Nuno Pinto",
@@ -3109,7 +3146,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_uma_m_e_e_o_seu_filho",
       "title": "UMA MÃE E O SEU FILHO",
-      "director": "Saeed Roustaee",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-2-7.jpg",
@@ -3121,33 +3158,18 @@ window.CINEMA_DATA = {
           "date": "2026-06-09",
           "time": "14:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-10",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "21:15",
+          "cinema": "ideal"
         }
       ]
-    },
-    {
-      "id": "campo_alegre_benedetta-2021",
-      "title": "Benedetta",
-      "director": "Paul Verhoeven",
-      "year": 2021,
-      "duration": 131,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/3/1/386631-benedetta-0-500-0-750-crop.jpg?v=9d52b3ab59",
-      "genres": [
-        "Drama",
-        "Romance",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/benedetta-2021",
-      "sessions": [
-        {
-          "date": "2026-06-08",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 3.4,
-      "plot": "A 17th-century nun becomes entangled in a forbidden lesbian affair with a novice. But it is Benedetta's shocking religious visions that threaten to shake the Church to its core.",
-      "country": "Belgium",
-      "director_lbxd_slug": "paul-verhoeven-3"
     },
     {
       "id": "campo_alegre_o-carteirista-1959",
@@ -3167,6 +3189,28 @@ window.CINEMA_DATA = {
           "cinema": "campo_alegre"
         }
       ]
+    },
+    {
+      "id": "campo_alegre_luz-de-inverno-1963",
+      "title": "Luz de Inverno",
+      "director": "Ingmar Bergman",
+      "year": 1963,
+      "duration": 81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/7/32847-winter-light-0-500-0-750-crop.jpg?v=4acd9ba380",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/luz-de-inverno-1963",
+      "sessions": [
+        {
+          "date": "2026-06-10",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        }
+      ],
+      "rating": 4.25,
+      "plot": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+      "country": "Sweden"
     },
     {
       "id": "campo_alegre_nostalgia-1983-1983",
@@ -3242,28 +3286,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "campo_alegre_ma-femme-chamada-bicho-1978",
-      "title": "Ma Femme Chamada Bicho",
-      "director": "José Álvaro Morais",
-      "year": 1978,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/1/9/9/211199-ma-femme-chamada-bicho-0-500-0-750-crop.jpg?v=509007ff94",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ma-femme-chamada-bicho-1978",
-      "sessions": [
-        {
-          "date": "2026-06-13",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "plot": "The film documents the places where the Portuguese painter Maria Helena Vieira da Silva (1908-1992), and Hungarian Arpad Szenes were born, met, and lived together, painting, and living to each other.",
-      "country": "Portugal",
-      "director_lbxd_slug": "jose-alvaro-morais"
-    },
-    {
       "id": "campo_alegre_in-the-mood-for-love-disponivel-para-amar-2000",
       "title": "In the Mood For Love — Disponível Para Amar",
       "director": "Wong Kar Wai",
@@ -3292,6 +3314,53 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
+      "id": "campo_alegre_ma-femme-chamada-bicho-1978",
+      "title": "Ma Femme Chamada Bicho",
+      "director": "José Álvaro Morais",
+      "year": 1978,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/1/9/9/211199-ma-femme-chamada-bicho-0-500-0-750-crop.jpg?v=509007ff94",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ma-femme-chamada-bicho-1978",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "15:30",
+          "cinema": "campo_alegre"
+        }
+      ],
+      "plot": "The film documents the places where the Portuguese painter Maria Helena Vieira da Silva (1908-1992), and Hungarian Arpad Szenes were born, met, and lived together, painting, and living to each other.",
+      "country": "Portugal",
+      "director_lbxd_slug": "jose-alvaro-morais"
+    },
+    {
+      "id": "campo_alegre_fallen-angels-anjos-caidos-1995",
+      "title": "Fallen Angels — Anjos Caídos",
+      "director": "Wong Kar Wai",
+      "year": 1995,
+      "duration": 99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/8/9/45489-fallen-angels-0-500-0-750-crop.jpg?v=26d8dd7207",
+      "genres": [
+        "Crime",
+        "Romance",
+        "Action"
+      ],
+      "link": "https://medeiafilmes.com/filmes/fallen-angels-anjos-caidos-1995",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        }
+      ],
+      "rating": 4.16,
+      "plot": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
+      "country": "Hong Kong",
+      "director_lbxd_slug": "wong-kar-wai"
+    },
+    {
       "id": "campo_alegre_2046-2004",
       "title": "2046",
       "director": "Wong Kar Wai",
@@ -3316,27 +3385,26 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "campo_alegre_fallen-angels-anjos-caidos-1995",
-      "title": "Fallen Angels — Anjos Caídos",
+      "id": "campo_alegre_happy-together-felizes-juntos-1997",
+      "title": "Happy Together — Felizes Juntos",
       "director": "Wong Kar Wai",
-      "year": 1995,
-      "duration": 99,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/8/9/45489-fallen-angels-0-500-0-750-crop.jpg?v=26d8dd7207",
+      "year": 1997,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4w/sy/nq/o5/qrpUybe97xNRYk63TryiwbItoAV-0-500-0-750-crop.jpg?v=064ed91055",
       "genres": [
-        "Crime",
-        "Romance",
-        "Action"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/fallen-angels-anjos-caidos-1995",
+      "link": "https://medeiafilmes.com/filmes/happy-together-felizes-juntos-1997",
       "sessions": [
         {
-          "date": "2026-06-14",
+          "date": "2026-06-15",
           "time": "21:30",
           "cinema": "campo_alegre"
         }
       ],
-      "rating": 4.16,
-      "plot": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
+      "rating": 4.21,
+      "plot": "A couple travels from Hong Kong to Argentina to revive their relationship but experience turbulence when both men's lives drift in separate directions.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
     },
@@ -3441,15 +3509,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Reinhold_Sch%C3%BCnzel_um_1921_by_Alexander_Binder.jpg",
       "bio": "Reinhold Schünzel (7 November 1888 – 11 November 1954) was a German actor and director, active in both Germany and the United States. The son of a German father and a Jewish mother, he was born in St. Pauli, the poorest part of Hamburg."
     },
-    "Juan de Orduña": {
-      "lbxd_slug": "juan-de-orduna-2",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Juan_de_Ordu%C3%B1a_1927.jpg",
-      "bio": "Juan de Orduña y Fernández-Shaw (27 December 1900 – 3 February 1974) was a Spanish film director, screenwriter and actor. He was one of the most commercially successful filmmakers in Spain during the mid-20th century. Known for his historical melodramas and popular musical films, his work played a central role in mainstream Spanish cinema under the Franco regime."
-    },
     "Lloyd Bacon": {
       "lbxd_slug": "lloyd-bacon",
       "photo": null,
-      "bio": null
+      "bio": "Lloyd Francis Bacon (December 4, 1889 – November 15, 1955) was an American screen, stage, and vaudeville actor and film director. As a director, he made films in numerous genres, including westerns, musicals, comedies, gangster films, and crime dramas. He was one of the directors at Warner Bros."
     },
     "Henry Koster": {
       "lbxd_slug": "henry-koster-1",
@@ -3546,16 +3609,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "João Penalva": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Sandro Aguilar": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": "Peruvian writer and photographer"
-    },
     "Wendy Toye": {
       "lbxd_slug": "wendy-toye",
       "photo": null,
@@ -3611,21 +3664,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Ingmar Bergman": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
-      "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
-    },
-    "John Cassavetes": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Edgar Reitz": {
-      "lbxd_slug": "edgar-reitz",
-      "photo": null,
-      "bio": null
-    },
     "Wong Kar Wai": {
       "lbxd_slug": "wong-kar-wai",
       "photo": null,
@@ -3636,17 +3674,22 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paolo_Sorrentino_2018.jpg/500px-Paolo_Sorrentino_2018.jpg",
       "bio": "Paolo Sorrentino ( SORR-ən-TEE-noh, Italian: [ˈpaːolo sorrenˈtiːno]; born 31 May 1970) is an Italian film director, screenwriter, and writer. He is considered one of the most prominent filmmakers of Italian cinema working today. He is known for visually striking and complex dramas and has often been compared to Federico Fellini and Michelangelo Antonioni."
     },
+    "Edgar Reitz": {
+      "lbxd_slug": "edgar-reitz",
+      "photo": null,
+      "bio": null
+    },
     "Simão Cayatte": {
       "lbxd_slug": null,
       "photo": null,
       "bio": "Film Director"
     },
-    "Marta Mateus": {
-      "lbxd_slug": null,
+    "John Cassavetes": {
+      "lbxd_slug": "john-cassavetes",
       "photo": null,
       "bio": null
     },
-    "Robert Bresson": {
+    "Marta Mateus": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -3656,15 +3699,40 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg/500px-Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg",
       "bio": "Alauda Ruiz de Azúa Arteche (born 1978) is a Spanish filmmaker. Her full-length debut Lullaby (2022) earned critical acclaim, and won her the Goya Award for Best New Director."
     },
+    "Robert Bresson": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "José Filipe Costa": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Ivo M. Ferreira": {
+    "Ivo Ferreira": {
+      "lbxd_slug": "ivo-m-ferreira",
+      "photo": null,
+      "bio": null
+    },
+    "Guga Coelho": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": "Ivo Ferreira (born September 1975) is a Portuguese film director, screenwriter and actor. His 2016 film Letters from War was shown at the 66th Berlin International Film Festival."
+      "bio": null
+    },
+    "Silvio Soldini": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "João Nicolau": {
+      "lbxd_slug": "joao-nicolau",
+      "photo": null,
+      "bio": null
+    },
+    "Charlotte Devillers & Arnaud Dufeys": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Henry Hathaway": {
       "lbxd_slug": null,
@@ -3891,33 +3959,13 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
       "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
-    "Alexandru Belc": {
+    "Ali Asgari": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Paulo César Saraceni": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Joaquim Pedro de Andrade": {
-      "lbxd_slug": "joaquim-pedro-de-andrade",
-      "photo": null,
-      "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
     },
     "Kevin Macdonald": {
       "lbxd_slug": "kevin-macdonald-1",
-      "photo": null,
-      "bio": null
-    },
-    "Kristen Stewart": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Ali Asgari": {
-      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -3946,20 +3994,20 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kristoffer_Borgli.jpg/500px-Kristoffer_Borgli.jpg",
       "bio": "Kristoffer Borgli (born 1985) is a Norwegian film director and screenwriter. He wrote and directed the films Sick of Myself (2022), Dream Scenario (2023), and The Drama (2026)."
     },
+    "Joaquim Pedro de Andrade": {
+      "lbxd_slug": "joaquim-pedro-de-andrade",
+      "photo": null,
+      "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
+    },
     "João Nuno Pinto": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Saeed Roustaee": {
+    "Ingmar Bergman": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Paul Verhoeven": {
-      "lbxd_slug": "paul-verhoeven-3",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
+      "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
     },
     "Andrei Tarkovsky": {
       "lbxd_slug": null,

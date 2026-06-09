@@ -25218,5 +25218,319 @@
       "lb_year": 2004
     },
     "omdb": null
+  },
+  "So This Is Paris|1954": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/5/2/1/276521-so-this-is-paris-0-500-0-750-crop.jpg?v=58f0a90145",
+      "description": "Three sailors on leave head for Paris with one thing on their minds.",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Richard Quine",
+      "lb_director_slug": "richard-quine",
+      "lb_year": 1954
+    },
+    "omdb": {
+      "Title": "So This Is Paris",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "15 Dec 1954",
+      "Runtime": "96 min",
+      "Genre": "Comedy, Musical, Romance",
+      "Director": "Richard Quine",
+      "Writer": "Ray Buffum, Charles Hoffman",
+      "Actors": "Tony Curtis, Gloria DeHaven, Gene Nelson",
+      "Plot": "Three sailors on leave (Joe, Al and Davy) head for Paris with one thing on their minds. Joe pursues chanteuse Colette D'Avril who proves to be more than she appears; Davy is pursued by sexy cashier Yvonne; but the blonde Al rescue...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0NzA4YzYtMTg4Ni00ZGRmLWJjOWQtMTRkNzVlODIxNjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "320",
+      "imdbID": "tt0047508",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Tian Xian Pei|1956": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/6/8/8/5/176885-fairy-couple-0-500-0-750-crop.jpg?v=c4ceac7ecc",
+      "description": "The seventh immortal sister flies down to the mortal world and marries Dong Yong until the Jade Emperor obliges her to return to her world.",
+      "genres": [
+        "Music",
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "country": "China",
+      "lb_director": "Shi Hui",
+      "lb_director_slug": "shi-hui-2",
+      "lb_year": 1956
+    },
+    "omdb": {
+      "Title": "Tian xian pei",
+      "Year": "1955",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "91 min",
+      "Genre": "Musical, Romance",
+      "Director": "Hui Shi",
+      "Writer": "Hongfei Lu, Hu Sang",
+      "Actors": "Shaofang Wang, Fengying Yan, Yunfeng Zhang",
+      "Plot": "The youngest one of the Seven Fairies falls in love with a poor decent young man named Dong Yong, but the love between a mortal and a fairy is not allowed by the laws of God in heaven.",
+      "Language": "Chinese",
+      "Country": "China",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDc0ZmI4MTItNjUyNS00MjA0LThkZjgtZjdjNjIyYTJlODA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "26",
+      "imdbID": "tt3656810",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cover Girl|1944": {
+    "lbxd": {
+      "rating": 3.41,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/2/8/5/38285-cover-girl-0-500-0-750-crop.jpg?v=e2ed85bea5",
+      "description": "A nightclub dancer makes it big in modeling, leaving her dancer boyfriend behind.",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Charles Vidor",
+      "lb_director_slug": "charles-vidor",
+      "lb_year": 1944
+    },
+    "omdb": {
+      "Title": "Cover Girl",
+      "Year": "1944",
+      "Rated": "Approved",
+      "Released": "06 Apr 1944",
+      "Runtime": "107 min",
+      "Genre": "Comedy, Music, Musical",
+      "Director": "Charles Vidor",
+      "Writer": "Virginia Van Upp, Marion Parsonnet, Paul Gangelin",
+      "Actors": "Rita Hayworth, Gene Kelly, Lee Bowman",
+      "Plot": "Rusty Parker wins a contest and becomes a celebrated cover girl; this endangers her romance with dancing mentor Danny.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 3 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgzODZjYWEtY2M3YS00NTJmLWEzYjctNDU2NjBkODE0ZDBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "6,294",
+      "imdbID": "tt0036723",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Kid From Canada|1957": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/0/7/7/250077-the-kid-from-canada-0-500-0-750-crop.jpg?v=a57392fe76",
+      "description": "A Canadian boy visits cousins in Scotland; his attitude first causes antagonism with Scottish youngsters, but disappears when the lad proves himself by riding a horse over dangerous country to bring aid to an injured shepherd.",
+      "genres": [
+        "Family"
+      ],
+      "country": "UK",
+      "lb_director": "Kay Mander",
+      "lb_director_slug": "kay-mander",
+      "lb_year": 1957
+    },
+    "omdb": {
+      "Title": "The Kid from Canada",
+      "Year": "1957",
+      "Rated": "N/A",
+      "Released": "16 Feb 1958",
+      "Runtime": "57 min",
+      "Genre": "Family",
+      "Director": "Kay Mander",
+      "Writer": "John Eldridge",
+      "Actors": "Christopher Braden, Bernard Braden, Bobby Stevenson",
+      "Plot": "When a Canadian boy visits his cousins in Scotland, his attitude first causes antagonism with Scottish youngsters, then disappears when he helps an injured shepherd.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk1MDhhMzItYzkyMC00NmJiLTliMmYtNWI2YjI0MjllNmUzXkEyXkFqcGdeQXVyMTE5ODAzNg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.1",
+      "imdbVotes": "37",
+      "imdbID": "tt0168919",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Projecto Global|None": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/6/9/9/3/1466993-global-project-0-500-0-750-crop.jpg?v=407417256f",
+      "description": "Lisbon, 1980s, Rosa, a woman joins a group of young people disappointed at the post-Revolutionary Portugal. Part of a far-left clandestine armed organization, they share political views and a daily life that makes them grow closer. But their idealism collides head-on with a changing country and a large-scale police operation targeting them. Fleeing on a road with no return and no way forward, their existence is made up of bank robberies, bombs, friendships, prison, love and death. Trapped, their only choice is to keep on the run until they get arrested or killed.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Portugal",
+      "lb_director": "Ivo M. Ferreira",
+      "lb_director_slug": "ivo-m-ferreira",
+      "lb_year": 2026
+    },
+    "omdb": {
+      "Title": "Projecto Global",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "31 Jan 2026",
+      "Runtime": "140 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Ivo Ferreira",
+      "Writer": "Helder Beja, Ivo Ferreira",
+      "Actors": "Jani Zhao, Rodrigo Tomás, José Pimentão",
+      "Plot": "Follows members of far-left armed group FP25 in 1980s Lisbon as they live underground lives built on bank robberies and attacks while facing the perpetual threat of prison or death.",
+      "Language": "Portuguese",
+      "Country": "Luxembourg, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFlNzA5ZTUtNmRlMC00ZDI1LTgwNTYtYjRiNTQxOWFjOTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "18",
+      "imdbID": "tt37698048",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Três Vezes Adeus|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Um Poeta|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "A Saga da Alma de um Poeta",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "04 Mar 2015",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Guga Coelho",
+      "Writer": "Guga Coelho",
+      "Actors": "Dudu Azevedo, Zezeh Barbosa, Rael Barja",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2IwNzFlMDQtNDU3MC00OThmLWExYWUtYTM0ZGE0NzRhNjk3XkEyXkFqcGdeQXVyMTA4NDQ3MDIz._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11432384",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Providência E A Guitarra|None": {
+    "lbxd": {
+      "rating": 2.96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/7/5/1/9/1317519-providence-and-the-guitar-0-500-0-750-crop.jpg?v=44c35a121e",
+      "description": "In a distant past, Léon and Elvira Berthelini, itinerant artists, make their living hopping from town to town. In Covarronca, harassed by the Police Commissioner, they are forced to spend the night out in the open. That’s when they meet Stubbs, a young Cambridge student, with whom they find shelter in the home of a painter at odds with his wife. In return for the hospitality, they remind their hosts that the love of art resolves the art of love. Meanwhile, an unusual curse sends them on absurd journeys into the 21st century, where the future of social security and of a rock band are at stake.",
+      "genres": [
+        "Music",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Nicolau",
+      "lb_director_slug": "joao-nicolau",
+      "lb_year": 2026
+    },
+    "omdb": {
+      "Title": "A Providência e a Guitarra",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "29 Jan 2026",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "João Nicolau",
+      "Writer": "João Nicolau, Mariana Ricardo",
+      "Actors": "Pedro Inês, Clara Riedenstein, Salvador Sobral",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32857347",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
