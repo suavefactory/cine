@@ -25691,5 +25691,303 @@
   "Um Poeta|2025": {
     "lbxd": null,
     "omdb": null
+  },
+  "Uma Degustação à Romana | Chef Maria Caldeira|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "They Also Serve|1940": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/9/6/3/281963-they-also-serve-0-500-0-750-crop.jpg?v=e9b8dc8615",
+      "description": "Short World War II documentary showing how the everyday work of British housewives aided the war effort.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Ruby Grierson",
+      "lb_director_slug": "ruby-grierson",
+      "lb_year": 1940
+    },
+    "omdb": {
+      "Title": "They Also Serve",
+      "Year": "1940",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "10 min",
+      "Genre": "Documentary, Short",
+      "Director": "Ruby Grierson",
+      "Writer": "N/A",
+      "Actors": "Hal Gordon",
+      "Plot": "A drama/documentary in which a matronly housewife performs various low-key good deeds to help keep her family and neighbours (and hence by extension her country) running during the war.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyNWY5NDUtYTZiZi00YWY3LWI2OTItZDM2YzcwNWFkMjJjXkEyXkFqcGdeQXVyMTY2NTEyMTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "49",
+      "imdbID": "tt0310222",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "We Joined The Navy|1962": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/5/4/9/59549-we-joined-the-navy-0-500-0-750-crop.jpg?v=a2ebf19fe1",
+      "description": "Lt Commander Badger, RN: an exceptionally likeable fellow, the Artful Bodger has one besetting sin a shining honesty which compels him to say the right thing at entirely the wrong time! When untimely remarks to some new recruits are splashed across the tabloids, the rush is on to find him a new posting somewhere far away.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Wendy Toye",
+      "lb_director_slug": "wendy-toye",
+      "lb_year": 1962
+    },
+    "omdb": {
+      "Title": "We Joined the Navy",
+      "Year": "1962",
+      "Rated": "Not Rated",
+      "Released": "22 Nov 1962",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Wendy Toye",
+      "Writer": "Howard Dimsdale, John Winton",
+      "Actors": "Kenneth More, Lloyd Nolan, Joan O'Brien",
+      "Plot": "This is the story of the riotous, romantic, exciting, astonishing and highly entertaining adventures of Lieutenant Commander \"Bodger\" Badger, R.N. (Kenneth More). An exceptionally likeable fellow, the Badger has one besetting sin,...",
+      "Language": "English, French",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWRlNjY1NjAtOTAwMC00N2U0LWJjMjUtMTQ1NGI5MDVhM2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "250",
+      "imdbID": "tt0056681",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "What’s For Dinner|1940": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/3/3/3/2/853332-what-s-for-dinner-0-500-0-750-crop.jpg?v=851efdd6a8",
+      "description": "The challenge of what to feed her family weighs on the mind of hard-pressed Mrs Bond in this surreal wartime film made for the Ministry of Food.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Ruby Grierson",
+      "lb_director_slug": "ruby-grierson",
+      "lb_year": 1940
+    },
+    "omdb": {
+      "Title": "What's for Dinner",
+      "Year": "1940",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "9 min",
+      "Genre": "Documentary, Short, Comedy",
+      "Director": "Ruby Grierson",
+      "Writer": "N/A",
+      "Actors": "Alec Clunes",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt2361581",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Once We Were Four|1942": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/0/6/3/248063-once-we-were-four-0-500-0-750-crop.jpg?v=bed2bd0ff1",
+      "description": "The Secrets of Life series (1934-50) may not conform to modern expectations of nature filmmaking, inclined as it is towards giving cute fluffy creatures human names and characteristics. But it couldn't be accused of shielding kiddies from the harsher realities of the food chain, as this exercise in ruthless Darwinism demonstrates to unintentionally hilarious effect. A more than usually eccentric narrator introduces us to the newborn bunny quartet of Donald, James, Charles and Clifford, but as the film's title gives away, \"the boys\" aren't all long for this world as they face an assault course of hungry owls, predatory badgers, shotgun-happy gardeners and aerial bombardment (no harm in a little anti-Nazi detour, this is 1942 after all). (from http://player.bfi.org.uk/film/watch-once-we-were-four-1942/)",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Mary Field",
+      "lb_director_slug": "mary-field",
+      "lb_year": 1942
+    },
+    "omdb": {
+      "Title": "Once We Were Four",
+      "Year": "1942",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Short",
+      "Director": "Mary Field",
+      "Writer": "N/A",
+      "Actors": "E.V.H. Emmett",
+      "Plot": "Nature study of four young rabbits.",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt8822092",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Victory Wedding|1944": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Critical Harvest|1946": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Stooking And Stacking|1943": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The King’s Breakfast|1963": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/6/2/1/0/566210-the-king-s-breakfast-0-500-0-750-crop.jpg?v=273579c08e",
+      "description": "A king misses the butter on his slice of bread.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Wendy Toye",
+      "lb_director_slug": "wendy-toye",
+      "lb_year": 1963
+    },
+    "omdb": {
+      "Title": "The King's Breakfast",
+      "Year": "1963",
+      "Rated": "N/A",
+      "Released": "01 Jan 1963",
+      "Runtime": "28 min",
+      "Genre": "Short",
+      "Director": "Wendy Toye",
+      "Writer": "A.A. Milne, Wendy Toye",
+      "Actors": "Maurice Denham, Mischa Auer, Robert Flemyng",
+      "Plot": "Dramatisation in dance and mime, of the A.A. Milne poem about a king who had no butter for the royal slice of bread.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE5ZTEyNmUtMDFiZi00YjIwLThmYTUtNTQ3ZWMxMGE5NzY2XkEyXkFqcGdeQXVyMjIyNjE2NA@@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt0865325",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Bolo do Presidente|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Eles Não Usam Black-tie|1981": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Grande Engarrafamento|1979": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Vereda Tropical|1977": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "São Bernardo|1972": {
+    "lbxd": {
+      "rating": 4.04,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/2/2/3/177223-saint-bernard-1972-0-500-0-750-crop.jpg?v=b8fbc873ed",
+      "description": "The story of Paulo Honório, a poor ploughman who becomes a rich farmer. Obsessed by his desire to get even richer, he doesn't pay much attention to his wife, Madalena, a teacher who reacts against his tyrannical ways.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Leon Hirszman",
+      "lb_director_slug": "leon-hirszman",
+      "lb_year": 1972
+    },
+    "omdb": {
+      "Title": "São Bernardo",
+      "Year": "1972",
+      "Rated": "N/A",
+      "Released": "26 Nov 1975",
+      "Runtime": "113 min",
+      "Genre": "Drama",
+      "Director": "Leon Hirszman",
+      "Writer": "Leon Hirszman, Graciliano Ramos",
+      "Actors": "Othon Bastos, Isabel Ribeiro, Nildo Parente",
+      "Plot": "The story of Paulo Honório, a poor kid who becomes a rich farmer. Obsessed by his desire to get even richer, he doesn't pay much attention to his wife, Madalena, a teacher who reacts against his tyrannical ways.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "9 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTlkZDE1NmMtZjJjOC00Y2I4LTgzNDktZDc3ZTJiZmFhZmFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "531",
+      "imdbID": "tt0185714",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Geração Low-cost|2022": {
+    "lbxd": null,
+    "omdb": null
   }
 }

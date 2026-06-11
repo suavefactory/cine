@@ -1,36 +1,19 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-10T11:41:32.965009+00:00",
+  "generated": "2026-06-11T12:12:06.633695+00:00",
   "movies": [
     {
-      "id": "sao_jorge_10680",
-      "title": "Comunicar Arqueologia – O papel das empresas na divulgação | Mesa Redonda",
+      "id": "sao_jorge_10933",
+      "title": "Uma Degustação à Romana | Chef Maria Caldeira",
       "director": null,
       "duration": 90,
       "festival": "MOCA – Mostra de Cinema Arqueológico",
       "poster": null,
       "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/comunicar-arqueologia-o-papel-das-empresas-na-divulgacao-mesa-redonda/",
+      "link": "https://cinemasaojorge.pt/evento/uma-degustacao-a-romana-chef-maria-caldeira/",
       "sessions": [
         {
-          "date": "2026-06-20",
-          "time": "15:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_10668",
-      "title": "3D e Arqueologia | Mesa Redonda",
-      "director": null,
-      "duration": 90,
-      "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/3d-e-arqueologia-mesa-redonda/",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "15:00",
+          "date": "2026-06-21",
+          "time": "20:30",
           "cinema": "sao_jorge"
         }
       ]
@@ -93,23 +76,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_10686",
-      "title": "The Cave of Forgotten Dreams",
-      "director": "Werner Herzog",
-      "duration": 90,
-      "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/23_A-caverna-dos-sonhos-esquecidos-©-Direitos-reservados.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/the-cave-of-forgotten-dreams/",
-      "sessions": [
-        {
-          "date": "2026-06-20",
-          "time": "21:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
       "id": "sao_jorge_10683",
       "title": "MOSTRA DE CURTAS III | MOCA",
       "director": null,
@@ -121,11 +87,6 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-06-20",
-          "time": "18:30",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-06-19",
           "time": "18:30",
           "cinema": "sao_jorge"
         }
@@ -149,120 +110,36 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_10675",
-      "title": "Segredos da pré-história",
-      "director": null,
-      "duration": 71,
+      "id": "sao_jorge_10686",
+      "title": "The Cave of Forgotten Dreams",
+      "director": "Werner Herzog",
+      "duration": 90,
       "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/23_A-caverna-dos-sonhos-esquecidos-©-Direitos-reservados.webp",
       "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/segredos-da-pre-historia-sessao-familias/",
+      "link": "https://cinemasaojorge.pt/evento/the-cave-of-forgotten-dreams/",
       "sessions": [
         {
           "date": "2026-06-20",
-          "time": "11:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Sessão Famílias"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_10673",
-      "title": "As estações",
-      "director": "Maureen Fazendeiro",
-      "duration": 83,
-      "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/16_As-estacoes.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/as-estacoes/",
-      "sessions": [
-        {
-          "date": "2026-06-19",
           "time": "21:00",
           "cinema": "sao_jorge"
         }
       ]
     },
     {
-      "id": "sao_jorge_10669",
-      "title": "Los constructores de la Alhambra",
-      "director": "Isabel Fernández",
-      "duration": 122,
+      "id": "sao_jorge_10680",
+      "title": "Comunicar Arqueologia – O papel das empresas na divulgação | Mesa Redonda",
+      "director": null,
+      "duration": 90,
       "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/4/5/0/6/924506-the-builders-of-the-alhambra-0-500-0-750-crop.jpg?v=9387dbada9",
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/los-constructores-de-la-alhambra/",
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/comunicar-arqueologia-o-papel-das-empresas-na-divulgacao-mesa-redonda/",
       "sessions": [
         {
-          "date": "2026-06-19",
-          "time": "18:00",
+          "date": "2026-06-20",
+          "time": "15:00",
           "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2022,
-      "plot": "Kingdom of Granada, al-Andalus, 14th century. After recognizing that his land, always under siege, is hopelessly doomed to be conquered, Sultan Yusuf I undertakes the construction of a magnificent fortress with the purpose of turning it into the landmark of his civilization and his history, a glorious monument that will survive the oblivion of the coming centuries: the Alhambra.",
-      "country": "Germany",
-      "director_lbxd_slug": "isabel-fernandez-1"
-    },
-    {
-      "id": "sao_jorge_10666",
-      "title": "IMAGO + Contos do esquecimento",
-      "director": null,
-      "duration": 91,
-      "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/08_IMAGO_Foto_01-©-Rui-Pedro-Lamy.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/imago-contos-do-esquecimento/",
-      "sessions": [
-        {
-          "date": "2026-06-18",
-          "time": "21:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Conversa com os realizadores e arqueóloga convidada Sessões Quinta-feira,"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_10664",
-      "title": "MOSTRA DE CURTAS I | MOCA",
-      "director": null,
-      "duration": 85,
-      "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/03_Teatro-Romano-no-seculo-XXI-©-Direitos-reservados.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/mostra-de-curtas-i/",
-      "sessions": [
-        {
-          "date": "2026-06-18",
-          "time": "18:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_10662",
-      "title": "Ecos da cidade dos mortos + Que a terra te seja leve",
-      "director": null,
-      "duration": 78,
-      "festival": "MOCA – Mostra de Cinema Arqueológico",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/05/01_Ecos-da-cidade-dos-mortos-©-Cesar-Figueiredo-Ilustracao.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/ecos-da-cidade-dos-mortos-que-a-terra-te-seja-leve-sessao-de-abertura/",
-      "sessions": [
-        {
-          "date": "2026-06-18",
-          "time": "18:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Sessão de Abertura"
-          ]
         }
       ]
     },
@@ -808,6 +685,55 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "cinemateca_19961",
+      "title": "Bathing Beauty",
+      "director": "George Sidney",
+      "year": 1944,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/6/0/4/21604-bathing-beauty-0-500-0-750-crop.jpg?v=df018bb1ce",
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19961",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.22,
+      "plot": "After breaking up with her fiancé, a gym teacher returns to work at a women's college, but a legal loophole allows him to enroll as one of her students.",
+      "country": "USA",
+      "director_lbxd_slug": "george-sidney-1"
+    },
+    {
+      "id": "cinemateca_19971",
+      "title": "Footlight Parade",
+      "director": "Lloyd Bacon",
+      "year": 1933,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bd/f4/ye/gk/eH0KGfZJxMlqheoGzSxieVEKgr4-0-500-0-750-crop.jpg?v=18d0cf7aae",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=19971",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "A fledgling producer finds himself at odds with his workers, financiers and his greedy ex-wife when he tries to produce live musicals for movie-going audiences.",
+      "country": "USA",
+      "director_lbxd_slug": "lloyd-bacon"
+    },
+    {
       "id": "cinemateca_19995_0",
       "title": "The Stranger Left No Card",
       "director": "Wendy Toye",
@@ -1264,6 +1190,168 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "muriel-box"
     },
     {
+      "id": "cinemateca_20013_0",
+      "title": "They Also Serve",
+      "director": "Ruby Grierson",
+      "year": 1940,
+      "duration": 10,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/1/9/6/3/281963-they-also-serve-0-500-0-750-crop.jpg?v=e9b8dc8615",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20013",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Short World War II documentary showing how the everyday work of British housewives aided the war effort.",
+      "country": "UK",
+      "director_lbxd_slug": "ruby-grierson"
+    },
+    {
+      "id": "cinemateca_20013_1",
+      "title": "We Joined The Navy",
+      "director": "Wendy Toye",
+      "year": 1962,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/9/5/4/9/59549-we-joined-the-navy-0-500-0-750-crop.jpg?v=a2ebf19fe1",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20013",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Lt Commander Badger, RN: an exceptionally likeable fellow, the Artful Bodger has one besetting sin a shining honesty which compels him to say the right thing at entirely the wrong time! When untimely remarks to some new recruits are splashed across the tabloids, the rush is on to find him a new posting somewhere far away.",
+      "country": "UK",
+      "director_lbxd_slug": "wendy-toye"
+    },
+    {
+      "id": "cinemateca_20015_0",
+      "title": "What’s For Dinner",
+      "director": "Ruby Grierson",
+      "year": 1940,
+      "duration": 9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/3/3/3/2/853332-what-s-for-dinner-0-500-0-750-crop.jpg?v=851efdd6a8",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20015",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "The challenge of what to feed her family weighs on the mind of hard-pressed Mrs Bond in this surreal wartime film made for the Ministry of Food.",
+      "country": "UK",
+      "director_lbxd_slug": "ruby-grierson"
+    },
+    {
+      "id": "cinemateca_20015_1",
+      "title": "Once We Were Four",
+      "director": "Mary Field",
+      "year": 1942,
+      "duration": 9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/8/0/6/3/248063-once-we-were-four-0-500-0-750-crop.jpg?v=bed2bd0ff1",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20015",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "The Secrets of Life series (1934-50) may not conform to modern expectations of nature filmmaking, inclined as it is towards giving cute fluffy creatures human names and characteristics. But it couldn't be accused of shielding kiddies from the harsher realities of the food chain, as this exercise in ruthless Darwinism demonstrates to unintentionally hilarious effect. A more than usually eccentric narrator introduces us to the newborn bunny quartet of Donald, James, Charles and Clifford, but as the film's title gives away, \"the boys\" aren't all long for this world as they face an assault course of hungry owls, predatory badgers, shotgun-happy gardeners and aerial bombardment (no harm in a little anti-Nazi detour, this is 1942 after all). (from http://player.bfi.org.uk/film/watch-once-we-were-four-1942/)",
+      "country": "UK",
+      "director_lbxd_slug": "mary-field"
+    },
+    {
+      "id": "cinemateca_20015_2",
+      "title": "Victory Wedding",
+      "director": "Jessie Mathews",
+      "year": 1944,
+      "duration": 20,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20015",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20015_3",
+      "title": "Critical Harvest",
+      "director": "Sylvia Cummins",
+      "year": 1946,
+      "duration": 9,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20015",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20015_4",
+      "title": "Stooking And Stacking",
+      "director": "Rosanne Hunter",
+      "year": 1943,
+      "duration": 12,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20015",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20015_5",
+      "title": "The King’s Breakfast",
+      "director": "Wendy Toye",
+      "year": 1963,
+      "duration": 28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/6/2/1/0/566210-the-king-s-breakfast-0-500-0-750-crop.jpg?v=273579c08e",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20015",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A king misses the butter on his slice of bread.",
+      "country": "UK",
+      "director_lbxd_slug": "wendy-toye"
+    },
+    {
       "id": "nimas_dois-procuradores-2025",
       "title": "Dois Procuradores",
       "director": "Sergei Loznitsa",
@@ -1276,24 +1364,9 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/dois-procuradores-2025",
       "sessions": [
         {
-          "date": "2026-06-10",
-          "time": "14:15",
+          "date": "2026-06-11",
+          "time": "16:30",
           "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "17:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "21:00",
-          "cinema": "fernando"
         },
         {
           "date": "2026-06-11",
@@ -1302,8 +1375,18 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-12",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-12",
           "time": "16:45",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "16:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-13",
@@ -1314,6 +1397,11 @@ window.CINEMA_DATA = {
           "date": "2026-06-13",
           "time": "19:00",
           "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "14:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-14",
@@ -1327,6 +1415,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-15",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-15",
           "time": "19:00",
           "cinema": "ideal"
         },
@@ -1336,157 +1429,24 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
-          "date": "2026-06-17",
-          "time": "16:45",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-17",
-          "time": "19:00",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
-      "id": "nimas_bravo-bene-2025",
-      "title": "Bravo Bene!",
-      "director": "Franco Maresco",
-      "year": 2025,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/9/6/9/9/1159699-bravo-bene-0-500-0-750-crop.jpg?v=e097cf41e1",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/bravo-bene-2025",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.46,
-      "plot": "Filming on Franco Maresco's film about Carmelo Bene is abruptly halted after yet another on-set accident. Producer Andrea Occhipinti pulls the plug, exasperated by the endless takes and repeated delays. Angered, the director simply disappears. Maresco's friend, Umberto Cantone, attempts to mend the rift by calling witnesses from all those involved in the project, in an investigation that offers an opportunity to retrace the personality and ideas of the most corrosive and apocalyptic auteur in Italian cinema.",
-      "country": "Italy",
-      "director_lbxd_slug": "franco-maresco-1"
-    },
-    {
-      "id": "nimas_fogo-do-vento-2024",
-      "title": "Fogo do Vento",
-      "director": "Marta Mateus",
-      "year": 2024,
-      "duration": 74,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnmi3ndnlntktmtyxmc00mtziltk5ymytnta2mdmymjjhmdmwxkeyxkfqcgc_v1_fmjpg_ux800.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/fogo-do-vento-2024",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "nimas_os-domingos-2018",
-      "title": "Os Domingos",
-      "director": "Alauda Ruiz de Azúa",
-      "year": 2025,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/1/0/7/7/1321077-sundays-2025-0-500-0-750-crop.jpg?v=491bb1cc41",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-domingos-2018",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.89,
-      "plot": "17-year-old Ainara is a student at a Catholic secondary school, and is about to take her final year exams and choose her future university course. To everyone’s surprise, this brilliant young girl announces to her family that she wants to take part in an induction period at a convent in order to embrace the religious life. Nobody was expecting this. While her father seems to be won over by his daughter’s aspirations, for Maite, Ainara’s aunt, this unexpected vocation is the manifestation of a deeper problem.",
-      "country": "Spain"
-    },
-    {
-      "id": "nimas_love-streams-amantes-1983",
-      "title": "Love Streams - Amantes",
-      "director": "John Cassavetes",
-      "year": 1984,
-      "duration": 141,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/6/6/13766-love-streams-0-500-0-750-crop.jpg?v=944feb2e19",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/love-streams-amantes-1983",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.2,
-      "plot": "Two closely-bound, emotionally wounded siblings reunite after years apart.",
-      "country": "USA",
-      "director_lbxd_slug": "john-cassavetes"
-    },
-    {
-      "id": "nimas_diario-de-um-paroco-de-aldeia-1951",
-      "title": "Diário de um Pároco de Aldeia",
-      "director": "Robert Bresson",
-      "year": 1951,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/1089159.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/diario-de-um-paroco-de-aldeia-1951",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "fernando_pai_nosso_os_u_ltimos_dias_de_salazar",
-      "title": "Pai Nosso - Os Últimos Dias de Salazar",
-      "director": "José Filipe Costa",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://freight.cargo.site/t/original/i/5d87a3fbeca54128e393751218c1870c5d5f6c433225672339232af34f12d1af/POSTER_PAI_NOSSO_SATIRA_SALAZAR.jpg",
-      "genres": [
-        "Drama/ 108 MIN."
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/PAI-NOSSO",
-      "sessions": [
-        {
-          "date": "2026-06-11",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-13",
-          "time": "14:15",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-14",
-          "time": "16:00",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-16",
-          "time": "19:00",
-          "cinema": "ideal"
+          "time": "17:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-17",
-          "time": "14:30",
+          "time": "16:45",
           "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "19:00",
+          "cinema": "ideal"
         }
       ]
     },
@@ -1547,19 +1507,14 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/UM-POETA",
       "sessions": [
         {
-          "date": "2026-06-10",
+          "date": "2026-06-11",
           "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-10",
-          "time": "19:00",
           "cinema": "ideal"
         },
         {
           "date": "2026-06-11",
-          "time": "14:30",
-          "cinema": "ideal"
+          "time": "19:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-11",
@@ -1587,9 +1542,19 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
+          "date": "2026-06-12",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-06-13",
           "time": "14:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "19:00",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-13",
@@ -1613,6 +1578,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-14",
+          "time": "21:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-14",
           "time": "21:15",
           "cinema": "ideal"
         },
@@ -1620,6 +1590,11 @@ window.CINEMA_DATA = {
           "date": "2026-06-15",
           "time": "14:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "19:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-06-15",
@@ -1643,6 +1618,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-16",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-16",
           "time": "21:15",
           "cinema": "ideal"
         },
@@ -1660,6 +1640,11 @@ window.CINEMA_DATA = {
           "date": "2026-06-17",
           "time": "21:30",
           "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "21:30",
+          "cinema": "trindade"
         }
       ]
     },
@@ -1679,6 +1664,46 @@ window.CINEMA_DATA = {
         {
           "date": "2026-06-13",
           "time": "11:30",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_pai_nosso_os_u_ltimos_dias_de_salazar",
+      "title": "Pai Nosso - Os Últimos Dias de Salazar",
+      "director": "José Filipe Costa",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://freight.cargo.site/t/original/i/5d87a3fbeca54128e393751218c1870c5d5f6c433225672339232af34f12d1af/POSTER_PAI_NOSSO_SATIRA_SALAZAR.jpg",
+      "genres": [
+        "Drama/ 108 MIN."
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/PAI-NOSSO",
+      "sessions": [
+        {
+          "date": "2026-06-11",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "16:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "14:30",
           "cinema": "fernando"
         }
       ]
@@ -1738,74 +1763,6 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ]
-    },
-    {
-      "id": "batalha_s05ofos4CdTzE1Fd",
-      "title": "Niagara",
-      "director": "Henry Hathaway",
-      "year": 1953,
-      "duration": 92,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/2/39302-niagara-0-500-0-750-crop.jpg?v=4ca4fed5fb",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/niagara-1773078672787",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "19:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.42,
-      "plot": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls, N.Y. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
-      "country": "USA"
-    },
-    {
-      "id": "batalha_s8Aa8luwthaS65yk",
-      "title": "Phantoms of Nabua",
-      "director": "Apichatpong Weerasethakul",
-      "year": 2009,
-      "duration": 11,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/0/7/9/15079-phantoms-of-nabua-0-500-0-750-crop.jpg?v=5133dc6835",
-      "genres": [
-        "Mystery"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/01-phantoms-of-nabua",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "21:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.82,
-      "plot": "The story based on the mysterious portrait of the town of Nabua in northeastern Thailand. Soon after nightfall when the crepuscular violets concede to blackness, the wind's rustling intensifies and the boys come out to play.",
-      "country": "Thailand"
-    },
-    {
-      "id": "batalha_s3yvQqJz0170FNnC",
-      "title": "Offside",
-      "director": "Jafar Panahi",
-      "year": 2006,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/5/2/12952-offside-0-500-0-750-crop.jpg?v=12688c34b5",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/02-offside",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "21:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.28,
-      "plot": "In the small Swedish town of Stensfors, the local football team faces dissolution unless it can win its remaining matches. Team member Kent recruits former 1980s Premier League star Duncan Miller to help, only to discover their hero is out of shape, alcoholic, and far from match-ready.",
-      "country": "Sweden"
     },
     {
       "id": "batalha_szIqP0kTiCypu1RS",
@@ -2778,8 +2735,28 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
         {
-          "date": "2026-06-10",
+          "date": "2026-06-11",
           "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "16:30",
           "cinema": "trindade"
         }
       ],
@@ -2788,21 +2765,47 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "trindade_7491",
-      "title": "Divina Comédia",
-      "director": "Ali Asgari",
-      "year": 2025,
-      "duration": 96,
-      "poster": "https://api.cinematrindade.pt/wp-content/uploads/divina-comedia-cartaz-website-ec7c6.png",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/a-divina-comedia",
+      "id": "trindade_2895",
+      "title": "São Paulo Sociedade Anónima",
+      "director": "Luiz Sérgio Person",
+      "year": 1965,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/sao-paulo-sociedade-anonima",
       "sessions": [
         {
-          "date": "2026-06-10",
-          "time": "16:15",
+          "date": "2026-06-11",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "14:30",
           "cinema": "trindade"
         }
-      ]
+      ],
+      "rating": 4.05,
+      "plot": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
+      "country": "Brazil",
+      "director_lbxd_slug": "luiz-sergio-person"
     },
     {
       "id": "trindade_6574",
@@ -2818,8 +2821,28 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
       "sessions": [
         {
-          "date": "2026-06-10",
-          "time": "21:00",
+          "date": "2026-06-11",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "21:30",
           "cinema": "trindade"
         }
       ],
@@ -2839,116 +2862,21 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/pai-mae-irma-irmao",
       "sessions": [
         {
-          "date": "2026-06-10",
+          "date": "2026-06-11",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-14",
           "time": "17:00",
           "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8402",
-      "title": "Fogo do Vento",
-      "director": "Marta Mateus",
-      "year": 2023,
-      "duration": 74,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-3-4.jpg",
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/fogo-do-vento",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-12",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-15",
-          "time": "16:45",
-          "cinema": "ideal"
         },
         {
           "date": "2026-06-17",
-          "time": "16:45",
-          "cinema": "ideal"
-        }
-      ],
-      "country": "Portugal"
-    },
-    {
-      "id": "trindade_3223",
-      "title": "Vidas Secas",
-      "director": "Nelson Pereira dos Santos",
-      "year": 1963,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/6/51316-barren-lives-0-500-0-750-crop.jpg?v=338162fca4",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/vidas-secas",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "19:00",
+          "time": "19:15",
           "cinema": "trindade"
         }
-      ],
-      "rating": 3.76,
-      "plot": "In vivid images, the documentary-like story of a drover and his family in the northern badlands of Brazil during the drought. A family in the search of new hope and destiny.",
-      "country": "Brazil",
-      "director_lbxd_slug": "nelson-pereira-dos-santos"
-    },
-    {
-      "id": "trindade_8091",
-      "title": "O Drama",
-      "director": "Kristoffer Borgli",
-      "year": 2026,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/5/4/9/4/1205494-the-drama-0-500-0-750-crop.jpg?v=2320acafd5",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-drama",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-      "country": "USA"
-    },
-    {
-      "id": "trindade_1690",
-      "title": "Macunaíma",
-      "director": "Joaquim Pedro de Andrade",
-      "year": 1969,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/macunaima",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.55,
-      "plot": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
-      "country": "Brazil",
-      "director_lbxd_slug": "joaquim-pedro-de-andrade"
+      ]
     },
     {
       "id": "trindade_8565",
@@ -2967,13 +2895,317 @@ window.CINEMA_DATA = {
           "labels": [
             "com a presença do realizador + conversa com o público"
           ]
+        },
+        {
+          "date": "2026-06-12",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-12",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-13",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "14:30",
+          "cinema": "trindade"
         }
       ]
     },
     {
+      "id": "trindade_1690",
+      "title": "Macunaíma",
+      "director": "Joaquim Pedro de Andrade",
+      "year": 1969,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/macunaima",
+      "sessions": [
+        {
+          "date": "2026-06-12",
+          "time": "19:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.55,
+      "plot": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
+      "country": "Brazil",
+      "director_lbxd_slug": "joaquim-pedro-de-andrade"
+    },
+    {
+      "id": "trindade_7218",
+      "title": "O Bolo do Presidente",
+      "director": "Hasan Hadi",
+      "year": 2025,
+      "duration": 103,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-bolo-do-presidente",
+      "sessions": [
+        {
+          "date": "2026-06-12",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_6816",
+      "title": "Eles Não Usam Black-tie",
+      "director": "Leon Hirszman",
+      "year": 1981,
+      "duration": 115,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/eles-nao-usam-black-tie-683x1024-1-b1914.jpg",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/eles-nao-usam-black-tie-3",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-14",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-06-16",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_5504",
+      "title": "O Grande Engarrafamento",
+      "director": "Luigi Comencini",
+      "year": 1979,
+      "duration": 109,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/O-GRANDE-ENGARRAFAMANENTO-Cartaz-WEB-717x1024-1-6abf3.png",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-grande-engarrafamento",
+      "sessions": [
+        {
+          "date": "2026-06-13",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_1621",
+      "title": "Vereda Tropical",
+      "director": "Joaquim Pedro de Andrade",
+      "year": 1977,
+      "duration": 24,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/vereda-tropical",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "18:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_1653",
+      "title": "Linguagem Universal",
+      "director": "Matthew Rankin",
+      "year": 2024,
+      "duration": 89,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/linguagem-universal",
+      "sessions": [
+        {
+          "date": "2026-06-14",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_6637",
+      "title": "São Bernardo",
+      "director": "Leon Hirszman",
+      "year": 1972,
+      "duration": 114,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/2/2/3/177223-saint-bernard-1972-0-500-0-750-crop.jpg?v=b8fbc873ed",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/sao-bernardo-2",
+      "sessions": [
+        {
+          "date": "2026-06-15",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.04,
+      "plot": "The story of Paulo Honório, a poor ploughman who becomes a rich farmer. Obsessed by his desire to get even richer, he doesn't pay much attention to his wife, Madalena, a teacher who reacts against his tyrannical ways.",
+      "country": "Brazil",
+      "director_lbxd_slug": "leon-hirszman"
+    },
+    {
+      "id": "trindade_2274",
+      "title": "Geração Low-cost",
+      "director": "Emmanuel Marre, Julie Lecoustre",
+      "year": 2022,
+      "duration": 116,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/geracao-low-cost",
+      "sessions": [
+        {
+          "date": "2026-06-15",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_770",
+      "title": "Deus e o Diabo na Terra do Sol",
+      "director": "Glauber Rocha",
+      "year": 1964,
+      "duration": 120,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/5/7/4/53574-black-god-white-devil-0-500-0-750-crop.jpg?v=73a198766f",
+      "genres": [
+        "Drama",
+        "Western",
+        "Adventure"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/deus-e-o-diabo-na-terra-do-sol",
+      "sessions": [
+        {
+          "date": "2026-06-15",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.77,
+      "plot": "Wanted for killing his boss, Manuel flees with his wife Rosa to the sertão, the barren landscape of Northern Brazil. Thrust into a primordial violent region, Manuel and Rosa come under the influence and control of a series of frightening figures.",
+      "country": "Brazil",
+      "director_lbxd_slug": "glauber-rocha"
+    },
+    {
+      "id": "trindade_1703",
+      "title": "O Desafio",
+      "director": "Paulo César Saraceni",
+      "year": 1965,
+      "duration": 100,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzk3MGQzNWItNGYwOS00NjUyLTg0YmYtNmQxOGRjYjJmZTU3XkEyXkFqcGdeQXVyODY5NzM4Nzc@._V1_SX300.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-desafio",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "16:30",
+          "cinema": "trindade"
+        }
+      ],
+      "plot": "Passively facing the repression imposed by military dictatorship in Brazil in the 60s, a journalist gets into a personal crisis, aggravated by his love affair with an industrialist's wife, who doesn't want to leave her home becaus...",
+      "country": "Brazil"
+    },
+    {
+      "id": "trindade_7491",
+      "title": "Divina Comédia",
+      "director": "Ali Asgari",
+      "year": 2025,
+      "duration": 96,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/divina-comedia-cartaz-website-ec7c6.png",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/a-divina-comedia",
+      "sessions": [
+        {
+          "date": "2026-06-16",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8402",
+      "title": "Fogo do Vento",
+      "director": "Marta Mateus",
+      "year": 2023,
+      "duration": 74,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-3-4.jpg",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/fogo-do-vento",
+      "sessions": [
+        {
+          "date": "2026-06-12",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-15",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-17",
+          "time": "19:30",
+          "cinema": "trindade",
+          "labels": [
+            "+ curta-metragem Farpões Baldios"
+          ]
+        }
+      ],
+      "country": "Portugal"
+    },
+    {
       "id": "ideal_uma_m_e_e_o_seu_filho",
       "title": "UMA MÃE E O SEU FILHO",
-      "director": "Saeed Roustaee",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-2-7.jpg",
@@ -2982,61 +3214,11 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63106",
       "sessions": [
         {
-          "date": "2026-06-10",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-13",
           "time": "21:15",
           "cinema": "ideal"
         }
       ]
-    },
-    {
-      "id": "campo_alegre_nostalgia-1983-1983",
-      "title": "Nostalgia (1983)",
-      "director": "Andrei Tarkovsky",
-      "year": 1983,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/nostalgia-1983-1983",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "18:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.28,
-      "plot": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
-      "country": "Italy"
-    },
-    {
-      "id": "campo_alegre_luz-de-inverno-1963",
-      "title": "Luz de Inverno",
-      "director": "Ingmar Bergman",
-      "year": 1963,
-      "duration": 81,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/7/32847-winter-light-0-500-0-750-crop.jpg?v=4acd9ba380",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/luz-de-inverno-1963",
-      "sessions": [
-        {
-          "date": "2026-06-10",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.25,
-      "plot": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
-      "country": "Sweden"
     },
     {
       "id": "campo_alegre_leibniz-cronica-de-uma-pintura-perdida-2025",
@@ -3331,25 +3513,15 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Werner Herzog": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg/500px-Werner_Herzog_Venice_Film_Festival_2025.jpg",
-      "bio": "Werner Herzog (German: [ˈvɛʁnɐ ˈhɛʁtsoːk]; né Stipetić; born 5 September 1942) is a German filmmaker, actor, opera director, and author. Regarded as a pioneer of New German Cinema, his films often feature ambitious protagonists with impossible dreams, people with unusual talents in obscure fields, or individuals in conflict with nature. His film-making process involves avoiding storyboards, emphasizing improvisation, and placing his cast and crew into real situations mirroring those in the film on which they are working."
-    },
     "Pappi Corsicato": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pappi_Corsicato_at_Lisbon_Film_Festival_2017.jpg/500px-Pappi_Corsicato_at_Lisbon_Film_Festival_2017.jpg",
       "bio": "Pasquale \"Pappi\" Corsicato (born 12 June 1960) is an Italian film director and screenwriter."
     },
-    "Maureen Fazendeiro": {
+    "Werner Herzog": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seminci_2025_-_Maureen_Fazendeiro-2_%28cropped%29.jpg/500px-Seminci_2025_-_Maureen_Fazendeiro-2_%28cropped%29.jpg",
-      "bio": "filmmaker and director"
-    },
-    "Isabel Fernández": {
-      "lbxd_slug": "isabel-fernandez-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Isabel_Fern%C3%A1ndez._28_January_2020%2C_Ministry_of_Communication%2C_La_Paz._%2851906675317%29.jpg/500px-Isabel_Fern%C3%A1ndez._28_January_2020%2C_Ministry_of_Communication%2C_La_Paz._%2851906675317%29.jpg",
-      "bio": "María Isabel Fernández Suárez (born 10 March 1980) is a Bolivian journalist and politician who served as minister of communication from January to June 2020. Fernández was the final official to serve in that post, with the Ministry of Communication being abolished during her term. She subsequently served as vice minister of communication from June 2020 until the conclusion of the transitional government of Jeanine Áñez in November 2020."
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg/500px-Werner_Herzog_Venice_Film_Festival_2025.jpg",
+      "bio": "Werner Herzog (German: [ˈvɛʁnɐ ˈhɛʁtsoːk]; né Stipetić; born 5 September 1942) is a German filmmaker, actor, opera director, and author. Regarded as a pioneer of New German Cinema, his films often feature ambitious protagonists with impossible dreams, people with unusual talents in obscure fields, or individuals in conflict with nature. His film-making process involves avoiding storyboards, emphasizing improvisation, and placing his cast and crew into real situations mirroring those in the film on which they are working."
     },
     "Stanley Donen, Gene Kelly": {
       "lbxd_slug": null,
@@ -3358,13 +3530,13 @@ window.CINEMA_DATA = {
     },
     "Alex Cox": {
       "lbxd_slug": "alex-cox",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Premio_Tabernas_de_Cine_-_Alex_Cox_AWFF_2019.jpg/500px-Premio_Tabernas_de_Cine_-_Alex_Cox_AWFF_2019.jpg",
+      "bio": "Alexander B. H. Cox (born 15 December 1954) is an English film director, screenwriter, actor, non-fiction author and broadcaster."
     },
     "Victor Saville": {
       "lbxd_slug": "victor-saville",
       "photo": null,
-      "bio": null
+      "bio": "Victor Saville (25 September 1895 – 8 May 1979) was an English film director, producer, and screenwriter. He directed 39 films between 1927 and 1954. He also produced 36 films between 1923 and 1962."
     },
     "Max Reinhardt, William Dieterle": {
       "lbxd_slug": "william-dieterle",
@@ -3456,6 +3628,16 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "George Sidney": {
+      "lbxd_slug": "george-sidney-1",
+      "photo": null,
+      "bio": null
+    },
+    "Lloyd Bacon": {
+      "lbxd_slug": "lloyd-bacon",
+      "photo": null,
+      "bio": null
+    },
     "Wendy Toye": {
       "lbxd_slug": "wendy-toye",
       "photo": null,
@@ -3516,37 +3698,32 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Ruby Grierson": {
+      "lbxd_slug": "ruby-grierson",
+      "photo": null,
+      "bio": null
+    },
+    "Mary Field": {
+      "lbxd_slug": "mary-field",
+      "photo": null,
+      "bio": null
+    },
+    "Jessie Mathews": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Sylvia Cummins": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Rosanne Hunter": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Sergei Loznitsa": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Franco Maresco": {
-      "lbxd_slug": "franco-maresco-1",
-      "photo": null,
-      "bio": null
-    },
-    "Marta Mateus": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Alauda Ruiz de Azúa": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg/500px-Alauda_Ruiz_de_Az%C3%BAa_at_Berlinale_2022_%28cropped%29.jpg",
-      "bio": "Alauda Ruiz de Azúa Arteche (born 1978) is a Spanish filmmaker. Her full-length debut Lullaby (2022) earned critical acclaim, and won her the Goya Award for Best New Director."
-    },
-    "John Cassavetes": {
-      "lbxd_slug": "john-cassavetes",
-      "photo": null,
-      "bio": null
-    },
-    "Robert Bresson": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "José Filipe Costa": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -3566,6 +3743,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "José Filipe Costa": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "João Nicolau": {
       "lbxd_slug": "joao-nicolau",
       "photo": null,
@@ -3575,21 +3757,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Henry Hathaway": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Henry_Hathaway_1944_press_photo_%28cropped%29.jpg/500px-Henry_Hathaway_1944_press_photo_%28cropped%29.jpg",
-      "bio": "Henry Hathaway (born Henri Léopold de Fiennes; March 13, 1898 – February 11, 1985) was an American film director and producer, whose career spanned from the 1930s through the 1970s. He was best known as a director of Western, adventure, and noir films, especially starring John Wayne, Gary Cooper, Randolph Scott, and Gregory Peck. He was nominated for the Academy Award for Best Director for The Lives of a Bengal Lancer (1935), starring Cooper."
-    },
-    "Apichatpong Weerasethakul": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
-      "bio": "Apichatpong Weerasethakul (Thai: อภิชาติพงศ์ วีระเศรษฐกุล; RTGS: Aphichatphong Wirasetthakun; IPA: [ʔà.pʰí.tɕʰâːt.pʰōŋ wīː.rá.sèːt.tʰà.kūn], born 16 July 1970) is a Thai independent film director, screenwriter, film producer and Professor at Tama Art University in Tokyo. Working outside the strict confines of the Thai film studio system, Apichatpong has directed several features and dozens of short films. Friends and fans sometimes refer to him as \"Joe\" (a nickname that he, like many with similarly long Thai names, has adopted out of convenience)."
-    },
-    "Jafar Panahi": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg/500px-Jafar_Panahi_at_2025_Cannes_Film_Festival_Photocall.jpg",
-      "bio": "Jafar Panâhi (Persian: جعفر پناهی, [d͡ʒæˈfæɾ pænɒːˈhiː]) (born 11 July 1960) is an Iranian filmmaker and actor. He is known internationally for his artistic contributions to post-1979 Revolution Iranian cinema, and he has been associated with the Iranian New Wave. His work, rooted in neorealism and centered on the lives of women, children, and the marginalized, constitutes a critical portrait of the social, political, and gendered structures of contemporary Iran."
     },
     "Jocelyne Saab": {
       "lbxd_slug": null,
@@ -3801,55 +3968,75 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
       "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
-    "Ali Asgari": {
-      "lbxd_slug": null,
+    "Luiz Sérgio Person": {
+      "lbxd_slug": "luiz-sergio-person",
       "photo": null,
-      "bio": null
+      "bio": "film director"
     },
     "Kevin Macdonald": {
       "lbxd_slug": "kevin-macdonald-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kevin_Macdonald_%28cropped%29.jpg/500px-Kevin_Macdonald_%28cropped%29.jpg",
+      "bio": "Kevin McDonald (born 1961) is a Canadian comedian and actor."
     },
     "Jim Jarmusch": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
       "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
     },
-    "Nelson Pereira dos Santos": {
-      "lbxd_slug": "nelson-pereira-dos-santos",
+    "João Nuno Pinto": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Kristoffer Borgli": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kristoffer_Borgli.jpg/500px-Kristoffer_Borgli.jpg",
-      "bio": "Kristoffer Borgli (born 1985) is a Norwegian film director and screenwriter. He wrote and directed the films Sick of Myself (2022), Dream Scenario (2023), and The Drama (2026)."
     },
     "Joaquim Pedro de Andrade": {
       "lbxd_slug": "joaquim-pedro-de-andrade",
       "photo": null,
       "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
     },
-    "João Nuno Pinto": {
+    "Hasan Hadi": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Saeed Roustaee": {
+    "Leon Hirszman": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Andrei Tarkovsky": {
+    "Luigi Comencini": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
-      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
+      "photo": null,
+      "bio": null
     },
-    "Ingmar Bergman": {
+    "Matthew Rankin": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
-      "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
+      "photo": null,
+      "bio": null
+    },
+    "Emmanuel Marre, Julie Lecoustre": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Glauber Rocha": {
+      "lbxd_slug": "glauber-rocha",
+      "photo": null,
+      "bio": null
+    },
+    "Paulo César Saraceni": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Ali Asgari": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Marta Mateus": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Edgar Reitz": {
       "lbxd_slug": "edgar-reitz",
@@ -3872,5 +4059,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
