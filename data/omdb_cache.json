@@ -25989,5 +25989,536 @@
   "Geração Low-cost|2022": {
     "lbxd": null,
     "omdb": null
+  },
+  "Meet Me In St. Louis|1944": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/4/3/51243-meet-me-in-st-louis-0-500-0-750-crop.jpg?v=8ad88e2642",
+      "description": "A year in the life of a turn-of-the-century middle class family, leading up to the opening of the 1904 St. Louis World's Fair.",
+      "genres": [
+        "Drama",
+        "Family",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Vincente Minnelli",
+      "lb_director_slug": "vincente-minnelli",
+      "lb_year": 1944
+    },
+    "omdb": {
+      "Title": "Meet Me in St. Louis",
+      "Year": "1944",
+      "Rated": "Approved",
+      "Released": "01 Jan 1945",
+      "Runtime": "113 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Vincente Minnelli",
+      "Writer": "Irving Brecher, Fred F. Finklehoffe, Sally Benson",
+      "Actors": "Judy Garland, Margaret O'Brien, Mary Astor",
+      "Plot": "Young love and childish fears highlight a year in the life of a turn-of-the-century family.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 4 Oscars. 9 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ3MGM3ODYtYTJhYS00MjVlLWJkMDUtYmQ4YmExYWYxOTA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.5",
+      "imdbVotes": "29,554",
+      "imdbID": "tt0037059",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,008",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Kuxa Kanema|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Dia da Revelação|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Estrada Perdida|1997": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Bigger Splash|1973": {
+    "lbxd": {
+      "rating": 3.34,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/3/0/1/108301-a-bigger-splash-0-500-0-750-crop.jpg?v=182283da3c",
+      "description": "After a difficult break-up, Hockney is left unable to paint, much to the concern of his friends.",
+      "genres": [
+        "Drama",
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Jack Hazan",
+      "lb_director_slug": "jack-hazan",
+      "lb_year": 1973
+    },
+    "omdb": {
+      "Title": "A Bigger Splash",
+      "Year": "1973",
+      "Rated": "Not Rated",
+      "Released": "16 Oct 1974",
+      "Runtime": "106 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Jack Hazan",
+      "Writer": "Jack Hazan, David Mingay",
+      "Actors": "David Hockney, Peter Schlesinger, Celia Birtwell",
+      "Plot": "Semi-fictionalized documentary biopic of British artist David Hockney. After a difficult break-up, Hockney is left unable to paint, much to the concern of his friends. Titled after Hockney's pop-art painting 'A Bigger Splash'.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzAzODZkMzgtYmQxNy00ZThjLTk2NTMtZDFjY2MxYWYwMThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "654",
+      "imdbID": "tt0071219",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$95,826",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "São Paulo Sociedade Anônima|1965": {
+    "lbxd": {
+      "rating": 4.05,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
+      "description": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Luiz Sérgio Person",
+      "lb_director_slug": "luiz-sergio-person",
+      "lb_year": 1965
+    },
+    "omdb": {
+      "Title": "São Paulo, Sociedade Anônima",
+      "Year": "1965",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "107 min",
+      "Genre": "Drama",
+      "Director": "Luiz Sérgio Person",
+      "Writer": "Luiz Sérgio Person",
+      "Actors": "Ana Esmeralda, Eva Wilma, Otelo Zeloni",
+      "Plot": "A man lives in conflict as he deals with his friends and love interests against the backdrop of São Paulo.",
+      "Language": "Portuguese, English",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmODYzOGUtYzczNi00YTI4LWJlMWYtOTAwYzA0ODcyYzgwXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "969",
+      "imdbID": "tt0195324",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "18 Buracos para o Paraíso|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Magalhães|2025": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Magalhaes",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "18 May 2025",
+      "Runtime": "165 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Lav Diaz",
+      "Writer": "Lav Diaz",
+      "Actors": "Gael García Bernal, Amado Arjay Babon, Dario Yazbek Bernal",
+      "Plot": "A portrayal of Ferdinand Magellan and Beatriz Barbosa's 1517 marriage in Seville, focusing on their brief time together before his departure on the Spanish crown's expedition.",
+      "Language": "Portuguese, Spanish",
+      "Country": "Philippines, Spain, Portugal, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZhMGVhZWQtY2ZkZC00YzZhLWIxZTQtNDQ0ZjllN2I4ODdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36456563",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Homem que Eu Matei|1932": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Ser ou Não Ser|1942": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Bye Bye Brasil|1980": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/8/9/9/22899-bye-bye-brazil-0-500-0-750-crop.jpg?v=4144b2a1d4",
+      "description": "The Caravana Rolidei rolls into town with the Gypsy Lord at the mike: he does magic tricks, the erotic Salomé dances, and the mute Swallow performs feats of strength. A young accordion player is completely enamored of Salomé, and he begs to come along. The Gypsy Lord shrugs, and the accordionist and his pregnant wife, Dasdô, join the troupe.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Argentina",
+      "lb_director": "Carlos Diegues",
+      "lb_director_slug": "carlos-diegues",
+      "lb_year": 1980
+    },
+    "omdb": null
+  },
+  "O Anjo|1937": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Dama de Arminho|1948": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Doze Homens em Fúria|1957": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Loja da Esquina|1940": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Ninotchka|1939": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/4/1/50741-ninotchka-0-500-0-750-crop.jpg?v=23313e051c",
+      "description": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Ernst Lubitsch",
+      "lb_director_slug": "ernst-lubitsch",
+      "lb_year": 1939
+    },
+    "omdb": {
+      "Title": "Ninotchka",
+      "Year": "1939",
+      "Rated": "Approved",
+      "Released": "23 Nov 1939",
+      "Runtime": "110 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Ernst Lubitsch",
+      "Writer": "Charles Brackett, Billy Wilder, Walter Reisch",
+      "Actors": "Greta Garbo, Melvyn Douglas, Ina Claire",
+      "Plot": "A stern Soviet woman sent to Paris to supervise the sale of jewels seized from Russian nobles finds herself attracted to a man who represents everything she is supposed to detest.",
+      "Language": "English, Russian, French",
+      "Country": "United States",
+      "Awards": "Nominated for 4 Oscars. 5 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTllODg3NmItOTY2Yi00NDhkLWE2OWYtNmE0ZWU4NTZiYjljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "23,776",
+      "imdbID": "tt0031725",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Veredicto|1982": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Céu Pode Esperar|1943": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Eles Não Usam Black-Tie|1981": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Ladrão de Alcova|1932": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Uma Mulher para Dois|1933": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Eu Te Amo|1981": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Oitava Mulher do Barba Azul|1938": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Um Dia de Cão|1975": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Pecado de Cluny Brown|1946": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Iracema: Uma Transa Amazônica|1981": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Amor que Perdura|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Terror na Auto-Estrada|1986": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Dossier Anderson|1971": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Cabra marcado para morrer|1984": {
+    "lbxd": {
+      "rating": 4.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/9/6/4/72964-twenty-years-later-0-500-0-750-crop.jpg?v=38fd99c423",
+      "description": "Eduardo Coutinho was filming a movie with the same name in the Northeast of Brazil, in 1964, when there came the military coup. He had to interrupt the project, and came back to it in 1981, looking for the same places and people, showing what had ocurred since then, and trying to gather a family whose patriarch, a political leader fighting for rights of country people, had been murdered.",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "country": "Brazil",
+      "lb_director": "Eduardo Coutinho",
+      "lb_director_slug": "eduardo-coutinho",
+      "lb_year": 1984
+    },
+    "omdb": null
+  },
+  "Pixote: A Lei do Mais Fraco|1980": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Uma Hora Contigo|1932": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Os Insolentes|1957": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Último Metro|1980": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Os Quatrocentos Golpes|1959": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "L’aventura|2025": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/3/2/3/1198323-laventura-0-500-0-750-crop.jpg?v=3afec38f31",
+      "description": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Sophie Letourneur",
+      "lb_director_slug": "sophie-letourneur",
+      "lb_year": 2025
+    },
+    "omdb": null
+  },
+  "A Noiva Estava de Luto|1967": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Quarto Verde|1978": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Disparem Sobre o Pianista|1960": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "As Duas Inglesas e o Continente|1971": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Carmen|1918": {
+    "lbxd": {
+      "rating": 3.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/0/3/128103-carmen-1918-0-500-0-750-crop.jpg?v=cbac386859",
+      "description": "The tragic story of Don Jose, a Spanish cavalryman, who falls under the spell of a gypsy girl, Carmen, who treats him with both love and contempt and leads him into temptation and thus damnation.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Ernst Lubitsch",
+      "lb_director_slug": "ernst-lubitsch",
+      "lb_year": 1918
+    },
+    "omdb": {
+      "Title": "Carmen",
+      "Year": "1918",
+      "Rated": "N/A",
+      "Released": "08 May 1921",
+      "Runtime": "80 min",
+      "Genre": "Drama",
+      "Director": "Ernst Lubitsch",
+      "Writer": "Prosper Mérimée, Hanns Kräly, Grete Diercks",
+      "Actors": "Pola Negri, Harry Liedtke, Sophie Pagay",
+      "Plot": "The tragic story of Don Jose, a Spanish cavalryman, who falls under the spell of a gypsy girl, Carmen, who treats him with both love and contempt and leads him into temptation and thus damnation.",
+      "Language": "None, German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzZkYmY5MmMtZDZiNi00ZWYxLWEwYWMtYTRlMGZlZjc4ODljXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "414",
+      "imdbID": "tt0008950",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Angústia|1963": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A História de Adèle H|1975": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Jules & Jim|1962": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Menino Selvagem|1970": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Mulher do Lado|1981": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Finalmente Domingo!|1982": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Uma Bela Rapariga|1972": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Beijos Roubados|1968": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Convite|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Domicílio Conjugal|1970": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Sereia do Mississipi|1969": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Homem Que Gostava das Mulheres|1976": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Amor em Fuga|1979": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Madame Dubarry|1919": {
+    "lbxd": {
+      "rating": 3.37,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/0/0/17300-madame-dubarry-0-500-0-750-crop.jpg?v=498172549d",
+      "description": "The story of Madame DuBarry, the mistress of Louis XV of France, and her loves in the time of the French revolution.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Germany",
+      "lb_director": "Ernst Lubitsch",
+      "lb_director_slug": "ernst-lubitsch",
+      "lb_year": 1919
+    },
+    "omdb": null
+  },
+  "Na Idade da Inocência|1976": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Princesa das Ostras|1919": {
+    "lbxd": null,
+    "omdb": null
   }
 }
