@@ -26520,5 +26520,184 @@
   "A Princesa das Ostras|1919": {
     "lbxd": null,
     "omdb": null
+  },
+  "Man of Marble (Człowiek z marmuru)|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Pianoforte|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/4/4/6/129446-pianoforte-0-500-0-750-crop.jpg?v=0dd7207b8e",
+      "description": "Maria studies at the university while her boyfriend Paolo is an established journalist. Both are drug addicts. Maria and Paolo try to detox with the help of a specialized clinic but it doesn't last long: back from a trip during which they proved to themselves that they could resist without drugs, both fall victim to addiction again. The consequences are not long in coming.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Francesca Comencini",
+      "lb_director_slug": "francesca-comencini",
+      "lb_year": 1984
+    },
+    "omdb": {
+      "Title": "Pianoforte",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "09 Jan 2024",
+      "Runtime": "91 min",
+      "Genre": "Documentary, Music",
+      "Director": "Jakub Piatek",
+      "Writer": "N/A",
+      "Actors": "Leonora Armellini, Alexander Gadjiev, Eva Gevorgyan",
+      "Plot": "Young pianists take part in the legendary International Chopin Piano Competition. A unique chance of a lifetime, portrayed from backstage and set to Chopin's music.",
+      "Language": "Slovenian, Polish, English, Chinese, Italian, Russian",
+      "Country": "Poland",
+      "Awards": "7 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODA1ZjNmMjctZmFlMy00ZjBjLWJkYjYtN2VkNTQ3Mzk2MzlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "444",
+      "imdbID": "tt24082644",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,500",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Home Sweet Home (Dom Dobry)|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Little Miss Broadway|1938": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/4/8/25848-little-miss-broadway-0-500-0-750-crop.jpg?v=43b1adc7f1",
+      "description": "An orphan is provisionally adopted by the manager of a hotel populated by show business people. The hotel's owner doesn't like the entertainers and wants the girl returned to the orphanage.",
+      "genres": [
+        "Music",
+        "Family",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Irving Cummings",
+      "lb_director_slug": "irving-cummings",
+      "lb_year": 1938
+    },
+    "omdb": {
+      "Title": "Little Miss Broadway",
+      "Year": "1938",
+      "Rated": "PG",
+      "Released": "29 Jul 1938",
+      "Runtime": "72 min",
+      "Genre": "Drama, Family, Musical",
+      "Director": "Irving Cummings",
+      "Writer": "Harry Tugend, Jack Yellen",
+      "Actors": "Shirley Temple, George Murphy, Jimmy Durante",
+      "Plot": "An orphan is provisionally adopted by the manager of a hotel populated by show-business people. The hotel's owner doesn't like the entertainers and wants the girl returned to the orphanage.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3Zjc1NTAtNjg2OS00ZjZiLWJmMDMtODhiMmZkNzcxYmQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "990",
+      "imdbID": "tt0030371",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Woman Of Paris|1923": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/2/3/1/33231-a-woman-of-paris-0-500-0-750-crop.jpg?v=9e9f2f4d1c",
+      "description": "When Marie St. Clair believes she has been jilted by her artist fiance Jean, she decides to leave for Paris on her own. After spending a year in the city as a mistress of the wealthy Pierre Revel, she is reunited with Jean by chance. This leaves her with the choice between a glamorous life in Paris, and the true love she left behind.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Charlie Chaplin",
+      "lb_director_slug": "charlie-chaplin",
+      "lb_year": 1923
+    },
+    "omdb": null
+  },
+  "Oklahoma!|1955": {
+    "lbxd": {
+      "rating": 3.29,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/4/7/3/43473-oklahoma-0-500-0-750-crop.jpg?v=32a8c8e8cb",
+      "description": "In the Oklahoma territory at the turn of the twentieth century, two young cowboys vie with a violent ranch hand and a traveling peddler for the hearts of the women they love.",
+      "genres": [
+        "Western",
+        "Romance",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Fred Zinnemann",
+      "lb_director_slug": "fred-zinnemann",
+      "lb_year": 1955
+    },
+    "omdb": {
+      "Title": "Oklahoma!",
+      "Year": "1955",
+      "Rated": "G",
+      "Released": "23 Nov 1956",
+      "Runtime": "145 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Fred Zinnemann",
+      "Writer": "Oscar Hammerstein II, Sonya Levien, William Ludwig",
+      "Actors": "Gordon MacRae, Gloria Grahame, Gene Nelson",
+      "Plot": "In Oklahoma, several farmers, cowboys and a traveling salesman compete for the romantic favors of various local ladies.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 5 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ2NmE1YmItNjM0MS00OTA1LWE5NWItNWUwZThmOGMxMzA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "7.0",
+      "imdbVotes": "15,563",
+      "imdbID": "tt0048445",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
