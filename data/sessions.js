@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-19T12:09:39.920957+00:00",
+  "generated": "2026-06-20T10:36:41.462020+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -33,7 +33,7 @@ window.CINEMA_DATA = {
       "title": "DIÁRIO ANTECIPADO + SOMOS DOIS ABISMOS",
       "director": null,
       "duration": 86,
-      "festival": null,
+      "festival": "TRISTE PARA SEMPRE",
       "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CNAC_Diario-Antecipado.webp",
       "genres": [],
       "link": "https://cinemasaojorge.pt/evento/diario-antecipado-somos-dois-abismos-sessao-de-abertura/",
@@ -53,7 +53,7 @@ window.CINEMA_DATA = {
       "title": "Summertime Sadness",
       "director": "Bishal Dutta",
       "duration": 83,
-      "festival": null,
+      "festival": "TRISTE PARA SEMPRE",
       "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CINT_Bright-Summer-Days.webp",
       "genres": [
         "Short",
@@ -70,6 +70,23 @@ window.CINEMA_DATA = {
       "plot": "While battling their inner demons two young lovers try to cling onto a deep summertime love.",
       "country": "USA",
       "year": 2015
+    },
+    {
+      "id": "sao_jorge_11055",
+      "title": "Tristinho para sempre",
+      "director": null,
+      "duration": 49,
+      "festival": "TRISTE PARA SEMPRE",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CNAC_Astray.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/tristinho-para-sempre/",
+      "sessions": [
+        {
+          "date": "2026-07-12",
+          "time": "11:30",
+          "cinema": "sao_jorge"
+        }
+      ]
     },
     {
       "id": "sao_jorge_10962",
@@ -358,64 +375,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "cinemateca_20004",
-      "title": "Quiet Morning",
-      "director": "Kay Mander",
-      "year": 1955,
-      "duration": 11,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20004",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20020",
-      "title": "Varieté",
-      "director": "Ewald A. Dupont",
-      "year": 1925,
-      "duration": 94,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20020",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_19956",
-      "title": "The Love Parade",
-      "director": "Ernst Lubitsch",
-      "year": 1929,
-      "duration": 70,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/4/14074-the-love-parade-0-500-0-750-crop.jpg?v=fb7150c62f",
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19956",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.44,
-      "plot": "The queen of mythical Sylvania marries a courtier, who finds his new life unsatisfying.",
-      "country": "USA",
-      "director_lbxd_slug": "ernst-lubitsch"
     },
     {
       "id": "cinemateca_19981",
@@ -859,72 +818,6 @@ window.CINEMA_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "cinemateca_20006_0",
-      "title": "Charley’s Black Magic",
-      "director": "John Halas, Joy Batchelor",
-      "year": 1949,
-      "duration": 9,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/2/1/5/0/562150-charley-s-black-magic-0-500-0-750-crop.jpg?v=a35c71d26f",
-      "genres": [
-        "Animation"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20006",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "This cartoon propaganda short by Halas & Batchelor sweetens the pill of post-war coal prices by promising jam tomorrow.",
-      "country": "UK",
-      "director_lbxd_slug": "joy-batchelor"
-    },
-    {
-      "id": "cinemateca_20006_1",
-      "title": "Deep Dig",
-      "director": "Kitty Marshall",
-      "year": 1957,
-      "duration": 20,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/6/6/1/0/1136610-deep-dig-0-500-0-750-crop.jpg?v=05753ca4d0",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20006",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Pit sinkers prepare the coal mines of tomorrow. An account of shaft sinking techniques.",
-      "country": "UK",
-      "director_lbxd_slug": "kitty-marshall"
-    },
-    {
-      "id": "cinemateca_20006_2",
-      "title": "Blue Scar",
-      "director": "Jill Craigie",
-      "year": 1949,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/8/8/8/7/228887-blue-scar-0-500-0-750-crop.jpg?v=c5cf2a1418",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20006",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "1940s British realist film about the life and struggles of a family in a Welsh mining town.",
-      "country": "UK",
-      "director_lbxd_slug": "jill-craigie"
     },
     {
       "id": "cinemateca_19943_0",
@@ -1450,11 +1343,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/cinco-segundos-2024",
       "sessions": [
         {
-          "date": "2026-06-19",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-06-20",
           "time": "15:30",
           "cinema": "campo_alegre"
@@ -1515,21 +1403,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/magalhaes-2025",
       "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-19",
-          "time": "18:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-19",
-          "time": "21:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-20",
           "time": "14:10",
@@ -1679,11 +1552,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/o-homem-que-eu-matei-1932",
       "sessions": [
         {
-          "date": "2026-06-19",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-30",
           "time": "15:00",
           "cinema": "nimas"
@@ -1706,14 +1574,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/ser-ou-nao-ser-1942",
       "sessions": [
         {
-          "date": "2026-06-19",
-          "time": "21:30",
-          "cinema": "nimas",
-          "labels": [
-            "Apresentação por Leonor Pinhão"
-          ]
-        },
-        {
           "date": "2026-06-27",
           "time": "19:30",
           "cinema": "nimas"
@@ -1724,29 +1584,6 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
-    },
-    {
-      "id": "nimas_bravo-bene-2025",
-      "title": "Bravo Bene!",
-      "director": "Franco Maresco",
-      "year": 2025,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/9/6/9/9/1159699-bravo-bene-0-500-0-750-crop.jpg?v=e097cf41e1",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/bravo-bene-2025",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.46,
-      "plot": "Filming on Franco Maresco's film about Carmelo Bene is abruptly halted after yet another on-set accident. Producer Andrea Occhipinti pulls the plug, exasperated by the endless takes and repeated delays. Angered, the director simply disappears. Maresco's friend, Umberto Cantone, attempts to mend the rift by calling witnesses from all those involved in the project, in an investigation that offers an opportunity to retrace the personality and ideas of the most corrosive and apocalyptic auteur in Italian cinema.",
-      "country": "Italy",
-      "director_lbxd_slug": "franco-maresco-1"
     },
     {
       "id": "nimas_o-dia-da-revelacao-2026",
@@ -1783,31 +1620,6 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
-    },
-    {
-      "id": "nimas_macunaima-1969",
-      "title": "Macunaíma",
-      "director": "Joaquim Pedro de Andrade",
-      "year": 1969,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/0/3/8/53038-macunaima-0-500-0-750-crop.jpg?v=8b8f852f37",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "link": "https://medeiafilmes.com/filmes/macunaima-1969",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.55,
-      "plot": "Born a fully grown black man in a village in the Brazilian jungle, Macunaíma later magically transforms into a white man before making an adventure-filled trip to the city of São Paulo. Once there, he becomes something of a dandy, falling in love with Ci, a revolutionary who dies in an accidental bombing. After robbing a ruthless industrialist, Macunaima returns to his village where he finds his newly acquired knowledge and possessions of little use.",
-      "country": "Brazil",
-      "director_lbxd_slug": "joaquim-pedro-de-andrade"
     },
     {
       "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
@@ -2073,11 +1885,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/deus-e-o-diabo-na-terra-do-sol-1964",
       "sessions": [
         {
-          "date": "2026-06-19",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-21",
           "time": "10:30",
           "cinema": "nimas"
@@ -2161,11 +1968,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/sao-bernardo-1972",
       "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-22",
           "time": "13:30",
@@ -2481,16 +2283,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/dois-procuradores-2025",
       "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-19",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-20",
           "time": "21:00",
@@ -3425,6 +3217,101 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "fernando_acreditamos_em_ti",
+      "title": "Acreditamos em Ti",
+      "director": "Charlotte Devillers & Arnaud Dufeys",
+      "year": 2025,
+      "duration": 78,
+      "poster": "https://freight.cargo.site/t/original/i/431e66d2278fdbdc28c2526212774f484d7ca2cd68ed716346f916010f85dee6/ACREDITAMOS_EM_TI.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ACREDITAMOS-EM-TI",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "14:15",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_um_poeta",
+      "title": "Um Poeta",
+      "director": "Simón Mesa Soto",
+      "year": 2025,
+      "duration": 123,
+      "poster": "https://freight.cargo.site/t/original/i/b233c148a93cacc326bde27db4d68f21f6ba1f254669fd45b60a4314eac1ee68/O-POETA_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/UM-POETA",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "16:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-21",
+          "time": "11:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-21",
+          "time": "14:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-22",
+          "time": "14:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-22",
+          "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-23",
+          "time": "17:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-24",
+          "time": "19:15",
+          "cinema": "ideal"
+        }
+      ]
+    },
+    {
+      "id": "fernando_as_provadoras_de_hitler",
+      "title": "As Provadoras de Hitler",
+      "director": "Silvio Soldini",
+      "year": 2025,
+      "duration": 123,
+      "poster": "https://freight.cargo.site/t/original/i/482a3fc664d64605cbfaf86f414a3995f4243c57b42b3fb5be39c0cf0f4ff003/AS-PROVADORAS-DE-HITLER_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/AS-PROVADORAS-DE-HITLER",
+      "sessions": [
+        {
+          "date": "2026-06-20",
+          "time": "18:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-21",
+          "time": "14:00",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
       "id": "fernando_duas_vezes_joa_o_liberada",
       "title": "Duas Vezes João Liberada",
       "director": "Paula Tomás Marques",
@@ -3437,11 +3324,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/DUAS-VEZES-JOAO-LIBERADA",
       "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-20",
           "time": "17:00",
@@ -3508,140 +3390,6 @@ window.CINEMA_DATA = {
       "plot": "João, an actress from Lisbon, as she stars in a biopic about Liberada, a gender-nonconforming figure persecuted by the Portuguese Inquisition in the 18th century. The film's production becomes a battleground as João clashes with the director over how Liberada’s legacy should be portrayed. These tensions deepen as João's dreams are increasingly haunted by Liberada's ghost, blurring the lines between past and present. When the director succumbs to a mysterious paralysis, leaving the film unfinished, João is left to navigate the unfolding chaos. She faces unanswerable questions, not only about the film's future but also about her own connection to Liberada’s spirit and story.",
       "country": "Portugal",
       "director_lbxd_slug": "paula-tomas-marques"
-    },
-    {
-      "id": "fernando_a_provide_ncia_e_a_guitarra",
-      "title": "A Providência e a Guitarra",
-      "director": "João Nicolau",
-      "year": 2026,
-      "duration": 125,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/7/5/1/9/1317519-providence-and-the-guitar-0-500-0-750-crop.jpg?v=44c35a121e",
-      "genres": [
-        "Music",
-        "Drama",
-        "Comedy"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/A-PROVIDENCIA-E-A-GUITARRA",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "21:00",
-          "cinema": "fernando",
-          "labels": [
-            "Sessão especial"
-          ]
-        }
-      ],
-      "rating": 2.95,
-      "plot": "In a distant past, Léon and Elvira Berthelini, itinerant artists, make their living hopping from town to town. In Covarronca, harassed by the Police Commissioner, they are forced to spend the night out in the open. That’s when they meet Stubbs, a young Cambridge student, with whom they find shelter in the home of a painter at odds with his wife. In return for the hospitality, they remind their hosts that the love of art resolves the art of love. Meanwhile, an unusual curse sends them on absurd journeys into the 21st century, where the future of social security and of a rock band are at stake.",
-      "country": "Portugal",
-      "director_lbxd_slug": "joao-nicolau"
-    },
-    {
-      "id": "fernando_acreditamos_em_ti",
-      "title": "Acreditamos em Ti",
-      "director": "Charlotte Devillers & Arnaud Dufeys",
-      "year": 2025,
-      "duration": 78,
-      "poster": "https://freight.cargo.site/t/original/i/431e66d2278fdbdc28c2526212774f484d7ca2cd68ed716346f916010f85dee6/ACREDITAMOS_EM_TI.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/ACREDITAMOS-EM-TI",
-      "sessions": [
-        {
-          "date": "2026-06-20",
-          "time": "14:15",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_um_poeta",
-      "title": "Um Poeta",
-      "director": "Simón Mesa Soto",
-      "year": 2025,
-      "duration": 123,
-      "poster": "https://freight.cargo.site/t/original/i/b233c148a93cacc326bde27db4d68f21f6ba1f254669fd45b60a4314eac1ee68/O-POETA_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/UM-POETA",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-19",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-20",
-          "time": "16:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-21",
-          "time": "11:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-21",
-          "time": "14:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-22",
-          "time": "14:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-22",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-23",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-24",
-          "time": "19:15",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
-      "id": "fernando_as_provadoras_de_hitler",
-      "title": "As Provadoras de Hitler",
-      "director": "Silvio Soldini",
-      "year": 2025,
-      "duration": 123,
-      "poster": "https://freight.cargo.site/t/original/i/482a3fc664d64605cbfaf86f414a3995f4243c57b42b3fb5be39c0cf0f4ff003/AS-PROVADORAS-DE-HITLER_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/AS-PROVADORAS-DE-HITLER",
-      "sessions": [
-        {
-          "date": "2026-06-20",
-          "time": "18:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-21",
-          "time": "14:00",
-          "cinema": "fernando"
-        }
-      ]
     },
     {
       "id": "fernando_pai_nosso_os_u_ltimos_dias_de_salazar",
@@ -3718,29 +3466,6 @@ window.CINEMA_DATA = {
           ]
         }
       ]
-    },
-    {
-      "id": "batalha_sADCwMMiaE1rWtfx",
-      "title": "The Seven Year Itch",
-      "director": "Billy Wilder",
-      "year": 1955,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/1/46021-the-seven-year-itch-0-500-0-750-crop.jpg?v=d0861c1bf5",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/the-seven-year-itch",
-      "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "23:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.31,
-      "plot": "When his family goes away for summer vacation, a hitherto faithful publishing executive with an overactive imagination is tempted by an attractive new neighbor.",
-      "country": "USA"
     },
     {
       "id": "batalha_stEkQ9CSa7pvoPru",
@@ -4525,11 +4250,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
       "sessions": [
         {
-          "date": "2026-06-19",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-21",
           "time": "17:00",
           "cinema": "trindade"
@@ -4564,11 +4284,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
       "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "14:20",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-20",
           "time": "17:00",
@@ -4633,11 +4348,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/fogo-do-vento",
       "sessions": [
-        {
-          "date": "2026-06-19",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-21",
           "time": "19:30",
@@ -4808,7 +4518,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_uma_m_e_e_o_seu_filho",
       "title": "UMA MÃE E O SEU FILHO",
-      "director": "Saeed Roustaee",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-2-7.jpg",
@@ -4872,21 +4582,6 @@ window.CINEMA_DATA = {
     },
     "Agnieszka Holland Elenco Idan Weiss Jenovéfa Boková Peter Kurth Ivan Trojan": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Kay Mander": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Ewald A. Dupont": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Ernst Lubitsch": {
-      "lbxd_slug": "ernst-lubitsch",
       "photo": null,
       "bio": null
     },
@@ -4960,18 +4655,8 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Billy_Wilder.jpg",
       "bio": "Billy Wilder ( WYLE-dər, German: [ˈvɪldɐ] ; born Samuel Wilder; June 22, 1906 – March 27, 2002) was a Polish-American filmmaker and screenwriter. Born in Sucha Beskidzka, at the time in Austria-Hungary (now Poland), Wilder's career in Hollywood spanned five decades, and he is regarded as one of the most versatile filmmakers of classical Hollywood cinema. He received seven Academy Awards (among 21 nominations), a BAFTA Award, the Cannes Film Festival's Palme d'Or and two Golden Globe Awards."
     },
-    "John Halas, Joy Batchelor": {
-      "lbxd_slug": "joy-batchelor",
-      "photo": null,
-      "bio": null
-    },
-    "Kitty Marshall": {
-      "lbxd_slug": "kitty-marshall",
-      "photo": null,
-      "bio": null
-    },
-    "Jill Craigie": {
-      "lbxd_slug": "jill-craigie",
+    "Kay Mander": {
+      "lbxd_slug": "kay-mander",
       "photo": null,
       "bio": null
     },
@@ -5070,8 +4755,8 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Franco Maresco": {
-      "lbxd_slug": "franco-maresco-1",
+    "Ernst Lubitsch": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -5079,11 +4764,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Joaquim Pedro de Andrade": {
-      "lbxd_slug": "joaquim-pedro-de-andrade",
-      "photo": null,
-      "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
     },
     "Edgar Reitz": {
       "lbxd_slug": "edgar-reitz",
@@ -5185,16 +4865,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Paula Tomás Marques": {
-      "lbxd_slug": "paula-tomas-marques",
-      "photo": null,
-      "bio": null
-    },
-    "João Nicolau": {
-      "lbxd_slug": "joao-nicolau",
-      "photo": null,
-      "bio": null
-    },
     "Charlotte Devillers & Arnaud Dufeys": {
       "lbxd_slug": null,
       "photo": null,
@@ -5207,6 +4877,11 @@ window.CINEMA_DATA = {
     },
     "Silvio Soldini": {
       "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Paula Tomás Marques": {
+      "lbxd_slug": "paula-tomas-marques",
       "photo": null,
       "bio": null
     },
@@ -5400,6 +5075,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
       "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
+    "Joaquim Pedro de Andrade": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Joaquim Pedro de Andrade (May 25, 1932 – September 10, 1988) was a Brazilian film director and screenwriter. He was a member of the Cinema Novo movement in Brazil. Andrade is best known for his 1969 film Macunaíma, based loosely on the novel of the same title by Mário de Andrade."
+    },
     "Marta Mateus": {
       "lbxd_slug": null,
       "photo": null,
@@ -5434,12 +5114,16 @@ window.CINEMA_DATA = {
       "lbxd_slug": "karim-ainouz-1",
       "photo": null,
       "bio": null
-    },
-    "Saeed Roustaee": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

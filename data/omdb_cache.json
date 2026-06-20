@@ -27411,5 +27411,96 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Tristinho para sempre|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "One Is One|1951": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/2/2/6/359226-one-is-one-0-500-0-750-crop.jpg?v=a322098e9d",
+      "description": "\"Carlo and Rafaella are going to Rome for the first time. They have specially planned a journey they must make so that they can have a whole day together alone\".. . so starts this film following the (mis)fortunes of these two young lovers. [Presumably made when Margaret Tait was a student at the Centro Sperimentale di Cinematographia, Rome]",
+      "genres": null,
+      "country": null,
+      "lb_director": "Margaret Tait",
+      "lb_director_slug": "margaret-tait",
+      "lb_year": 1951
+    },
+    "omdb": {
+      "Title": "One Is One",
+      "Year": "1951",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "33 min",
+      "Genre": "Short, Romance",
+      "Director": "Margaret Tait",
+      "Writer": "Margaret Tait",
+      "Actors": "Carmen Papio Birri, Sergio Rusconi",
+      "Plot": "Carlo and Rafaella are going to Rome for the first time. They have specially planned a journey they must make so that they can have a whole day together alone\".. . so starts this film following the (mis)fortunes of these two young...",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt10431266",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "On The Twelfth Day|1955": {
+    "lbxd": {
+      "rating": 3.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/1/9/2/170192-on-the-twelfth-day--0-500-0-750-crop.jpg?v=6b47953823",
+      "description": "A proper Edwardian lady patiently endures the ever-increasing disruption to her quiet household when her Truelove gives her all the items from the song \"The Twelve Days of Christmas.\"",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Wendy Toye",
+      "lb_director_slug": "wendy-toye",
+      "lb_year": 1955
+    },
+    "omdb": {
+      "Title": "On the Twelfth Day...",
+      "Year": "1955",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "23 min",
+      "Genre": "Short, Comedy, Music",
+      "Director": "Wendy Toye",
+      "Writer": "David Deutsch, James Matthews, Wendy Toye",
+      "Actors": "David O'Brien, Wendy Toye, Franklyn Bennett",
+      "Plot": "A proper Edwardian lady patiently endures the ever-increasing disruption to her quiet household when her Truelove gives her all the items from the song \"The Twelve Days of Christmas.\"",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZhYzJkOWUtMjVkMC00MzY3LWI0YjItZTY5YTY5YjkyMDlmXkEyXkFqcGdeQXVyNTgwNTk5MDU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "116",
+      "imdbID": "tt0048447",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
