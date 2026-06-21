@@ -27502,5 +27502,158 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Além da Montanha|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Corações Partidos|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Corpo Estranho|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Terra Devastada|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Os Abandonados|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Para Onde Foi a Mãe?|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Caminhar sobre as Raízes|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Pintura e Representação|1955": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Mistérios do Quotidiano|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Parelhas - Casais|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Mulheres Trabalhadoras|1968": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Direito à habitação II|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Horror Hospitalar|1944": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Desesperos Existencialistas|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Riso e a Faca|2025": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "O Riso e a Faca",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "09 Jul 2025",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Pedro Pinho",
+      "Writer": "Pedro Pinho",
+      "Actors": "Sérgio Coragem, Cleo Diára, Jonathan Guilherme",
+      "Plot": "An environmental engineer accepts a position in West Africa, where he develops complex relationships with two locals while uncovering details about his predecessor's unexplained disappearance.",
+      "Language": "Portuguese",
+      "Country": "France, Portugal, Brazil, Romania",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36642485",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Eraserhead — No Céu tudo é Perfeito|1977": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cw/7x/ig/m6/l8oAmU5swopsyWzTHpZtAK15Mrc-0-500-0-750-crop.jpg?v=c9fb159d8f",
+      "description": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "David Lynch",
+      "lb_director_slug": "david-lynch",
+      "lb_year": 1977
+    },
+    "omdb": {
+      "Title": "Eraserhead",
+      "Year": "1977",
+      "Rated": "Not Rated",
+      "Released": "03 Feb 1978",
+      "Runtime": "89 min",
+      "Genre": "Fantasy, Horror",
+      "Director": "David Lynch",
+      "Writer": "David Lynch",
+      "Actors": "Jack Nance, Charlotte Stewart, Allen Joseph",
+      "Plot": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newborn mutant child.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.2",
+      "imdbVotes": "142,551",
+      "imdbID": "tt0074486",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "​Twin Peaks: Os Últimos Sete Dias de Laura Palmer|1992": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Uma História Simples|1999": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Homem Elefante|1980": {
+    "lbxd": null,
+    "omdb": null
   }
 }
