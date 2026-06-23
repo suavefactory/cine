@@ -27655,5 +27655,35 @@
   "O Homem Elefante|1980": {
     "lbxd": null,
     "omdb": null
+  },
+  "UM POETA|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "A Saga da Alma de um Poeta",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "04 Mar 2015",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Guga Coelho",
+      "Writer": "Guga Coelho",
+      "Actors": "Dudu Azevedo, Zezeh Barbosa, Rael Barja",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2IwNzFlMDQtNDU3MC00OThmLWExYWUtYTM0ZGE0NzRhNjk3XkEyXkFqcGdeQXVyMTA4NDQ3MDIz._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11432384",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }

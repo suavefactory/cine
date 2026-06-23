@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-22T13:37:57.905945+00:00",
+  "generated": "2026-06-23T11:17:44.936630+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -479,82 +479,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_20007",
-      "title": "Pintura e Representação",
-      "director": "Richard Quine",
-      "year": 1955,
-      "duration": 96,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20007",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_19989",
-      "title": "B0Ris Godunov",
-      "director": "Vera Stroyeva",
-      "year": 1954,
-      "duration": 109,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19989",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20005",
-      "title": "Mistérios do Quotidiano",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20005",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20036",
-      "title": "Poder À Moda Antiga",
-      "director": "Marco Laureano",
-      "year": 2025,
-      "duration": 102,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20036",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "COM A PRESENÇA DE MARCO LAUREANO"
-          ]
-        }
-      ]
-    },
-    {
       "id": "cinemateca_19983",
       "title": "Funny Girl",
       "director": "William Wyler",
@@ -931,6 +855,23 @@ window.CINEMA_DATA = {
       "country": "United States"
     },
     {
+      "id": "cinemateca_20008",
+      "title": "Pintura e Representação",
+      "director": "Richard Quine",
+      "year": 1955,
+      "duration": 96,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20008",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
       "id": "cinemateca_19988",
       "title": "The Emperor Waltz",
       "director": "Billy Wilder",
@@ -1117,11 +1058,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/cinco-segundos-2024",
       "sessions": [
         {
-          "date": "2026-06-22",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-06-23",
           "time": "17:30",
           "cinema": "nimas"
@@ -1152,16 +1088,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/magalhaes-2025",
       "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-06-22",
-          "time": "21:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-23",
           "time": "21:30",
@@ -1285,11 +1211,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/o-dia-da-revelacao-2026",
       "sessions": [
         {
-          "date": "2026-06-22",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-26",
           "time": "19:00",
           "cinema": "nimas"
@@ -1315,11 +1236,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/ninotchka-1939",
       "sessions": [
         {
-          "date": "2026-06-22",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-26",
           "time": "17:00",
           "cinema": "nimas"
@@ -1336,29 +1252,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ernst-lubitsch"
     },
     {
-      "id": "nimas_sao-bernardo-1972",
-      "title": "São Bernardo",
-      "director": "Leon Hirszman",
-      "year": 1972,
-      "duration": 113,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/2/2/3/177223-saint-bernard-1972-0-500-0-750-crop.jpg?v=b8fbc873ed",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sao-bernardo-1972",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.04,
-      "plot": "The story of Paulo Honório, a poor ploughman who becomes a rich farmer. Obsessed by his desire to get even richer, he doesn't pay much attention to his wife, Madalena, a teacher who reacts against his tyrannical ways.",
-      "country": "Brazil",
-      "director_lbxd_slug": "leon-hirszman"
-    },
-    {
       "id": "nimas_o-veredicto-1982",
       "title": "O Veredicto",
       "director": "Sidney Lumet",
@@ -1368,11 +1261,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-veredicto-1982",
       "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-06-28",
           "time": "17:30",
@@ -1872,16 +1760,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/dois-procuradores-2025",
       "sessions": [
         {
-          "date": "2026-06-22",
-          "time": "17:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-22",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-23",
           "time": "14:30",
           "cinema": "fernando"
@@ -1902,9 +1780,34 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
+          "date": "2026-06-25",
+          "time": "18:45",
+          "cinema": "ideal"
+        },
+        {
           "date": "2026-06-26",
           "time": "12:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "16:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "13:50",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "18:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-01",
+          "time": "18:45",
+          "cinema": "ideal"
         }
       ]
     },
@@ -2822,41 +2725,6 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
-      "id": "fernando_um_poeta",
-      "title": "Um Poeta",
-      "director": "Simón Mesa Soto",
-      "year": 2025,
-      "duration": 123,
-      "poster": "https://freight.cargo.site/t/original/i/b233c148a93cacc326bde27db4d68f21f6ba1f254669fd45b60a4314eac1ee68/O-POETA_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/UM-POETA",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "14:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-22",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-23",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-24",
-          "time": "19:15",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
       "id": "fernando_tre_s_vezes_adeus",
       "title": "Três Vezes Adeus",
       "director": "Isabel Coixet",
@@ -2869,11 +2737,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
       "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-06-23",
           "time": "16:45",
@@ -2901,6 +2764,11 @@ window.CINEMA_DATA = {
           "labels": [
             "Legendas em inglês"
           ]
+        },
+        {
+          "date": "2026-06-28",
+          "time": "18:00",
+          "cinema": "ideal"
         }
       ]
     },
@@ -2917,16 +2785,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/DUAS-VEZES-JOAO-LIBERADA",
       "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-22",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-23",
           "time": "15:30",
@@ -2945,6 +2803,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-06-24",
           "time": "15:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "15:00",
           "cinema": "ideal"
         }
       ],
@@ -2974,6 +2837,41 @@ window.CINEMA_DATA = {
           "labels": [
             "Sessão especial"
           ]
+        },
+        {
+          "date": "2026-06-25",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-01",
+          "time": "21:30",
+          "cinema": "fernando"
         }
       ]
     },
@@ -3632,69 +3530,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "nimas_bye-bye-brasil-1980",
-      "title": "Bye Bye Brasil",
-      "director": "Carlos Diegues",
-      "year": 1980,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/8/9/9/22899-bye-bye-brazil-0-500-0-750-crop.jpg?v=4144b2a1d4",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/bye-bye-brasil-1980",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "The Caravana Rolidei rolls into town with the Gypsy Lord at the mike: he does magic tricks, the erotic Salomé dances, and the mute Swallow performs feats of strength. A young accordion player is completely enamored of Salomé, and he begs to come along. The Gypsy Lord shrugs, and the accordionist and his pregnant wife, Dasdô, join the troupe.",
-      "country": "Argentina",
-      "director_lbxd_slug": "carlos-diegues"
-    },
-    {
-      "id": "nimas_sao-paulo-sociedade-anonima-1965",
-      "title": "São Paulo Sociedade Anônima",
-      "director": "Luiz Sérgio Person",
-      "year": 1965,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/4/61954-sao-paulo-incorporated-0-500-0-750-crop.jpg?v=41a5506b2f",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sao-paulo-sociedade-anonima-1965",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "16:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.05,
-      "plot": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
-      "country": "Brazil",
-      "director_lbxd_slug": "luiz-sergio-person"
-    },
-    {
-      "id": "trindade_8565",
-      "title": "18 Buracos para o Paraíso",
-      "director": "João Nuno Pinto",
-      "year": 2027,
-      "duration": 108,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/18-buracos-para-o-paraiso",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "14:10",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_6574",
       "title": "One to One: John & Yoko",
       "director": "Kevin Macdonald, Sam Rice-Edwards",
@@ -3707,11 +3542,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
       "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-06-24",
           "time": "19:00",
@@ -3734,56 +3564,11 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/pai-mae-irma-irmao",
       "sessions": [
         {
-          "date": "2026-06-22",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-06-24",
           "time": "17:00",
           "cinema": "trindade"
         }
       ]
-    },
-    {
-      "id": "trindade_1653",
-      "title": "Linguagem Universal",
-      "director": "Matthew Rankin",
-      "year": 2024,
-      "duration": 89,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/linguagem-universal",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "18:00",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_3532",
-      "title": "Aftersun",
-      "director": "Charlotte Wells",
-      "year": 2022,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-500-0-750-crop.jpg?v=5ce2118fca",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/aftersun",
-      "sessions": [
-        {
-          "date": "2026-06-22",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.21,
-      "plot": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
-      "country": "UK",
-      "director_lbxd_slug": "charlotte-wells"
     },
     {
       "id": "trindade_7084",
@@ -3833,6 +3618,76 @@ window.CINEMA_DATA = {
           "date": "2026-06-24",
           "time": "21:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-25",
+          "time": "16:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-25",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "16:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "18:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "16:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "18:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "16:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-01",
+          "time": "16:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-01",
+          "time": "21:00",
+          "cinema": "ideal"
         }
       ],
       "country": "United Kingdom"
@@ -3881,6 +3736,42 @@ window.CINEMA_DATA = {
       "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
       "country": "Germany",
       "director_lbxd_slug": "karim-ainouz-1"
+    },
+    {
+      "id": "ideal_um_poeta",
+      "title": "UM POETA",
+      "director": "Guga Coelho",
+      "year": 2015,
+      "duration": 90,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/7866e6ce-742d-fc22-bdc2-55ddfe63be0c.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63833",
+      "sessions": [
+        {
+          "date": "2026-06-23",
+          "time": "17:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-24",
+          "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "14:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "16:30",
+          "cinema": "ideal"
+        }
+      ],
+      "country": "Brazil"
     },
     {
       "id": "campo_alegre_entroncamento-2025",
@@ -4173,21 +4064,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Richard Quine": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Vera Stroyeva": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Marco Laureano": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "William Wyler": {
       "lbxd_slug": "william-wyler",
       "photo": null,
@@ -4225,6 +4101,11 @@ window.CINEMA_DATA = {
     },
     "Fred Zinnemann": {
       "lbxd_slug": "fred-zinnemann",
+      "photo": null,
+      "bio": null
+    },
+    "Richard Quine": {
+      "lbxd_slug": "richard-quine",
       "photo": null,
       "bio": null
     },
@@ -4288,12 +4169,12 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Leon Hirszman": {
-      "lbxd_slug": "leon-hirszman",
+    "Sidney Lumet": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Sidney Lumet": {
+    "Leon Hirszman": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4369,11 +4250,6 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Olivia Wilde": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Simón Mesa Soto": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4548,28 +4424,8 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
       "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
     },
-    "Carlos Diegues": {
-      "lbxd_slug": "carlos-diegues",
-      "photo": null,
-      "bio": null
-    },
-    "Luiz Sérgio Person": {
-      "lbxd_slug": "luiz-sergio-person",
-      "photo": null,
-      "bio": null
-    },
     "Kevin Macdonald, Sam Rice-Edwards": {
       "lbxd_slug": "kevin-macdonald-1",
-      "photo": null,
-      "bio": null
-    },
-    "Matthew Rankin": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Charlotte Wells": {
-      "lbxd_slug": "charlotte-wells",
       "photo": null,
       "bio": null
     },
@@ -4585,6 +4441,11 @@ window.CINEMA_DATA = {
     },
     "Karim Aïnouz": {
       "lbxd_slug": "karim-ainouz-1",
+      "photo": null,
+      "bio": null
+    },
+    "Guga Coelho": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -4609,5 +4470,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
