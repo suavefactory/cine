@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-23T11:17:44.936630+00:00",
+  "generated": "2026-06-24T10:53:48.279287+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -479,100 +479,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_19983",
-      "title": "Funny Girl",
-      "director": "William Wyler",
-      "year": 1968,
-      "duration": 151,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/4/4/41844-funny-girl-0-500-0-750-crop.jpg?v=8cdff1ef59",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19983",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.98,
-      "plot": "The life of famed 1930s comedienne Fanny Brice, from her early days in the Jewish slums of New York, to the height of her career with the Ziegfeld Follies, as well as her marriage to the rakish gambler Nick Arnstein.",
-      "country": "USA",
-      "director_lbxd_slug": "william-wyler"
-    },
-    {
-      "id": "cinemateca_20009",
-      "title": "Parelhas - Casais",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20009",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_19986",
-      "title": "Cover Girl",
-      "director": "Charles Vidor",
-      "year": 1944,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/2/8/5/38285-cover-girl-0-500-0-750-crop.jpg?v=e2ed85bea5",
-      "genres": [
-        "Romance",
-        "Music",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19986",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.41,
-      "plot": "A nightclub dancer makes it big in modeling, leaving her dancer boyfriend behind.",
-      "country": "USA",
-      "director_lbxd_slug": "charles-vidor"
-    },
-    {
-      "id": "cinemateca_20011",
-      "title": "Mulheres Trabalhadoras",
-      "director": "William Wyler",
-      "year": 1968,
-      "duration": 151,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20011",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-06-26",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
       "id": "cinemateca_19961",
       "title": "Bathing Beauty",
       "director": "George Sidney",
@@ -761,6 +667,28 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "charlie-chaplin"
     },
     {
+      "id": "cinemateca_20012",
+      "title": "Mulheres Trabalhadoras",
+      "director": null,
+      "year": 1988,
+      "duration": 17,
+      "poster": null,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20012",
+      "sessions": [
+        {
+          "date": "2026-06-26",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Documentary made for Pernambuco Rural Workers Federation, showing the first meeting of women who are also rural workers in the State of Pernambuco, Brazil. They gather to discuss their ...",
+      "country": "Brazil"
+    },
+    {
       "id": "cinemateca_19993",
       "title": "Oklahoma!",
       "director": "Fred Zinnemann",
@@ -853,6 +781,23 @@ window.CINEMA_DATA = {
       ],
       "plot": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
       "country": "United States"
+    },
+    {
+      "id": "cinemateca_20010",
+      "title": "Parelhas - Casais",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20010",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ]
     },
     {
       "id": "cinemateca_20008",
@@ -1046,6 +991,34 @@ window.CINEMA_DATA = {
       "country": "United Kingdom"
     },
     {
+      "id": "nimas_18-buracos-para-o-paraiso-2025",
+      "title": "18 Buracos para o Paraíso",
+      "director": "João Nuno Pinto",
+      "year": 2025,
+      "duration": 108,
+      "poster": "https://medeiafilmes.com/uploads/library/poster_cinema_18_buracosparaiso_10jun.png",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/18-buracos-para-o-paraiso-2025",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "21:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com o realizador e elenco"
+          ]
+        },
+        {
+          "date": "2026-07-01",
+          "time": "19:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com o realizador e elenco"
+          ]
+        }
+      ]
+    },
+    {
       "id": "nimas_cinco-segundos-2024",
       "title": "Cinco Segundos",
       "director": "Paolo Virzì",
@@ -1057,11 +1030,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/cinco-segundos-2024",
       "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-06-24",
           "time": "21:30",
@@ -1089,11 +1057,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/magalhaes-2025",
       "sessions": [
         {
-          "date": "2026-06-23",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-24",
           "time": "18:30",
           "cinema": "trindade"
@@ -1103,7 +1066,7 @@ window.CINEMA_DATA = {
           "time": "20:45",
           "cinema": "nimas",
           "labels": [
-            "Com conversa"
+            "Conversa com os actores Ângela Azevedo e Rafael Morais"
           ]
         },
         {
@@ -1114,34 +1077,6 @@ window.CINEMA_DATA = {
       ],
       "plot": "A portrayal of Ferdinand Magellan and Beatriz Barbosa's 1517 marriage in Seville, focusing on their brief time together before his departure on the Spanish crown's expedition.",
       "country": "Philippines"
-    },
-    {
-      "id": "nimas_18-buracos-para-o-paraiso-2025",
-      "title": "18 Buracos para o Paraíso",
-      "director": "João Nuno Pinto",
-      "year": 2025,
-      "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/poster_cinema_18_buracosparaiso_10jun.png",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/18-buracos-para-o-paraiso-2025",
-      "sessions": [
-        {
-          "date": "2026-06-24",
-          "time": "21:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com o realizador e elenco"
-          ]
-        },
-        {
-          "date": "2026-07-01",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com o realizador e elenco"
-          ]
-        }
-      ]
     },
     {
       "id": "nimas_estrada-perdida-1997",
@@ -1195,203 +1130,6 @@ window.CINEMA_DATA = {
       "plot": "After a difficult break-up, Hockney is left unable to paint, much to the concern of his friends.",
       "country": "UK",
       "director_lbxd_slug": "jack-hazan"
-    },
-    {
-      "id": "nimas_o-dia-da-revelacao-2026",
-      "title": "O Dia da Revelação",
-      "director": "Steven Spielberg",
-      "year": 2026,
-      "duration": 145,
-      "poster": "https://medeiafilmes.com/uploads/library/mainposter_odiadarevelacao_70x100cm_72dpi.jpg",
-      "genres": [
-        "Ficção Científica",
-        "Mistério",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-dia-da-revelacao-2026",
-      "sessions": [
-        {
-          "date": "2026-06-26",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-30",
-          "time": "21:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_ninotchka-1939",
-      "title": "Ninotchka",
-      "director": "Ernst Lubitsch",
-      "year": 1939,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/4/1/50741-ninotchka-0-500-0-750-crop.jpg?v=23313e051c",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ninotchka-1939",
-      "sessions": [
-        {
-          "date": "2026-06-26",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-08",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.97,
-      "plot": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
-      "country": "USA",
-      "director_lbxd_slug": "ernst-lubitsch"
-    },
-    {
-      "id": "nimas_o-veredicto-1982",
-      "title": "O Veredicto",
-      "director": "Sidney Lumet",
-      "year": 1982,
-      "duration": 129,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgnhmzrhntgtowuwmy00mgnmlthmzjetzwmxndm0n2zlnzm2xkeyxkfqcgc_v1_fmjpg_uy2265.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-veredicto-1982",
-      "sessions": [
-        {
-          "date": "2026-06-28",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-04",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-ceu-pode-esperar-1943",
-      "title": "O Céu Pode Esperar",
-      "director": "Ernst Lubitsch",
-      "year": 1943,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzhkymy5zdctndm4ys00ndaxlwiyodgtnjblntixztblmmq1xkeyxkfqcgc_v1_fmjpg_uy1890.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-ceu-pode-esperar-1943",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "15:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-02",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_ladrao-de-alcova-1932",
-      "title": "Ladrão de Alcova",
-      "director": "Ernst Lubitsch",
-      "year": 1932,
-      "duration": 83,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzji5m2m5ywetytu3yi00zgrllwe3owytmzjizte5n2u1ztkwxkeyxkfqcgc_v1_fmjpg_uy2094.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/ladrao-de-alcova-1932",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-29",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-06",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_eles-nao-usam-black-tie-1981",
-      "title": "Eles Não Usam Black-Tie",
-      "director": "Leon Hirszman",
-      "year": 1981,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/4f13de2ed395e4ad16deb260532b071d6cce63318627e8766b1e19125efc5768.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/eles-nao-usam-black-tie-1981",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-oitava-mulher-do-barba-azul-1938",
-      "title": "A Oitava Mulher do Barba Azul",
-      "director": "Ernst Lubitsch",
-      "year": 1938,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodbmyjyxytatzty3mc00mjvklthimzytogq1zjy1nme1mznlxkeyxkfqcgc_v1_fmjpg_uy2300.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-oitava-mulher-do-barba-azul-1938",
-      "sessions": [
-        {
-          "date": "2026-06-24",
-          "time": "12:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-28",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-05",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_eu-te-amo-1981",
-      "title": "Eu Te Amo",
-      "director": "Arnaldo Jabor",
-      "year": 1981,
-      "duration": 110,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2rhndy4zdytmgjjos00ywi5lwixmgytzdliyjmymja2yzayxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/eu-te-amo-1981",
-      "sessions": [
-        {
-          "date": "2026-06-24",
-          "time": "14:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-24",
-          "time": "16:30",
-          "cinema": "trindade"
-        }
-      ]
     },
     {
       "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
@@ -1456,6 +1194,33 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "edgar-reitz"
     },
     {
+      "id": "nimas_a-oitava-mulher-do-barba-azul-1938",
+      "title": "A Oitava Mulher do Barba Azul",
+      "director": "Ernst Lubitsch",
+      "year": 1938,
+      "duration": 85,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bodbmyjyxytatzty3mc00mjvklthimzytogq1zjy1nme1mznlxkeyxkfqcgc_v1_fmjpg_uy2300.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-oitava-mulher-do-barba-azul-1938",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "12:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-05",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_um-dia-de-cao-1975",
       "title": "Um Dia de Cão",
       "director": "Sidney Lumet",
@@ -1479,6 +1244,54 @@ window.CINEMA_DATA = {
           "date": "2026-07-10",
           "time": "16:30",
           "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-dia-da-revelacao-2026",
+      "title": "O Dia da Revelação",
+      "director": "Steven Spielberg",
+      "year": 2026,
+      "duration": 145,
+      "poster": "https://medeiafilmes.com/uploads/library/mainposter_odiadarevelacao_70x100cm_72dpi.jpg",
+      "genres": [
+        "Ficção Científica",
+        "Mistério",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-dia-da-revelacao-2026",
+      "sessions": [
+        {
+          "date": "2026-06-26",
+          "time": "19:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_eu-te-amo-1981",
+      "title": "Eu Te Amo",
+      "director": "Arnaldo Jabor",
+      "year": 1981,
+      "duration": 110,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2rhndy4zdytmgjjos00ywi5lwixmgytzdliyjmymja2yzayxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/eu-te-amo-1981",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "14:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-24",
+          "time": "16:30",
+          "cinema": "trindade"
         }
       ]
     },
@@ -1522,70 +1335,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-06-25",
           "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-amor-que-perdura-2025",
-      "title": "O Amor que Perdura",
-      "director": "Hlynur Pálmason",
-      "year": 2025,
-      "duration": 109,
-      "poster": "https://medeiafilmes.com/uploads/library/the_love_that_remains_cartaz_alta.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-amor-que-perdura-2025",
-      "sessions": [
-        {
-          "date": "2026-06-25",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-28",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-29",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-30",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-08",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_iracema-uma-transa-amazonica-1981",
-      "title": "Iracema: Uma Transa Amazônica",
-      "director": "Jorge Bodanzky, Orlando Senna",
-      "year": 1981,
-      "duration": 110,
-      "poster": "https://medeiafilmes.com/uploads/library/cbs_iracema_uma_transa_amazonica-scaled.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/iracema-uma-transa-amazonica-1981",
-      "sessions": [
-        {
-          "date": "2026-06-25",
-          "time": "18:00",
           "cinema": "nimas"
         }
       ]
@@ -1640,6 +1389,87 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_iracema-uma-transa-amazonica-1981",
+      "title": "Iracema: Uma Transa Amazônica",
+      "director": "Jorge Bodanzky, Orlando Senna",
+      "year": 1981,
+      "duration": 110,
+      "poster": "https://medeiafilmes.com/uploads/library/cbs_iracema_uma_transa_amazonica-scaled.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/iracema-uma-transa-amazonica-1981",
+      "sessions": [
+        {
+          "date": "2026-06-25",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-amor-que-perdura-2025",
+      "title": "O Amor que Perdura",
+      "director": "Hlynur Pálmason",
+      "year": 2025,
+      "duration": 109,
+      "poster": "https://medeiafilmes.com/uploads/library/the_love_that_remains_cartaz_alta.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-amor-que-perdura-2025",
+      "sessions": [
+        {
+          "date": "2026-06-25",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-26",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "17:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "14:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_o-dossier-anderson-1971",
       "title": "O Dossier Anderson",
       "director": "Sidney Lumet",
@@ -1663,28 +1493,6 @@ window.CINEMA_DATA = {
           "date": "2026-07-09",
           "time": "14:00",
           "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_terror-na-auto-estrada-1986",
-      "title": "Terror na Auto-Estrada",
-      "director": "Robert Harmon",
-      "year": 1986,
-      "duration": 97,
-      "poster": "https://medeiafilmes.com/uploads/library/the_hitcher_us.jpg",
-      "genres": [
-        "Terror"
-      ],
-      "link": "https://medeiafilmes.com/filmes/terror-na-auto-estrada-1986",
-      "sessions": [
-        {
-          "date": "2026-06-26",
-          "time": "00:00",
-          "cinema": "nimas",
-          "labels": [
-            "MOTELX e FilmTwist Apresentam: Nimas Fora de Horas"
-          ]
         }
       ]
     },
@@ -1724,30 +1532,6 @@ window.CINEMA_DATA = {
       "country": "Portugal"
     },
     {
-      "id": "nimas_cabra-marcado-para-morrer-1984",
-      "title": "Cabra marcado para morrer",
-      "director": "Eduardo Coutinho",
-      "year": 1984,
-      "duration": 119,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/9/6/4/72964-twenty-years-later-0-500-0-750-crop.jpg?v=38fd99c423",
-      "genres": [
-        "History",
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/cabra-marcado-para-morrer-1984",
-      "sessions": [
-        {
-          "date": "2026-06-26",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.35,
-      "plot": "Eduardo Coutinho was filming a movie with the same name in the Northeast of Brazil, in 1964, when there came the military coup. He had to interrupt the project, and came back to it in 1981, looking for the same places and people, showing what had ocurred since then, and trying to gather a family whose patriarch, a political leader fighting for rights of country people, had been murdered.",
-      "country": "Brazil",
-      "director_lbxd_slug": "eduardo-coutinho"
-    },
-    {
       "id": "nimas_dois-procuradores-2025",
       "title": "Dois Procuradores",
       "director": "Sergei Loznitsa",
@@ -1759,16 +1543,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/dois-procuradores-2025",
       "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "14:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-23",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-24",
           "time": "14:30",
@@ -1800,6 +1574,11 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
+          "date": "2026-06-28",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
           "date": "2026-06-30",
           "time": "18:45",
           "cinema": "ideal"
@@ -1808,6 +1587,116 @@ window.CINEMA_DATA = {
           "date": "2026-07-01",
           "time": "18:45",
           "cinema": "ideal"
+        }
+      ]
+    },
+    {
+      "id": "nimas_terror-na-auto-estrada-1986",
+      "title": "Terror na Auto-Estrada",
+      "director": "Robert Harmon",
+      "year": 1986,
+      "duration": 97,
+      "poster": "https://medeiafilmes.com/uploads/library/the_hitcher_us.jpg",
+      "genres": [
+        "Terror"
+      ],
+      "link": "https://medeiafilmes.com/filmes/terror-na-auto-estrada-1986",
+      "sessions": [
+        {
+          "date": "2026-06-26",
+          "time": "00:00",
+          "cinema": "nimas",
+          "labels": [
+            "MOTELX e FilmTwist Apresentam: Nimas Fora de Horas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nimas_ninotchka-1939",
+      "title": "Ninotchka",
+      "director": "Ernst Lubitsch",
+      "year": 1939,
+      "duration": 110,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/4/1/50741-ninotchka-0-500-0-750-crop.jpg?v=23313e051c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ninotchka-1939",
+      "sessions": [
+        {
+          "date": "2026-06-26",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.97,
+      "plot": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+      "country": "USA",
+      "director_lbxd_slug": "ernst-lubitsch"
+    },
+    {
+      "id": "nimas_cabra-marcado-para-morrer-1984",
+      "title": "Cabra marcado para morrer",
+      "director": "Eduardo Coutinho",
+      "year": 1984,
+      "duration": 119,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/9/6/4/72964-twenty-years-later-0-500-0-750-crop.jpg?v=38fd99c423",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/cabra-marcado-para-morrer-1984",
+      "sessions": [
+        {
+          "date": "2026-06-26",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.35,
+      "plot": "Eduardo Coutinho was filming a movie with the same name in the Northeast of Brazil, in 1964, when there came the military coup. He had to interrupt the project, and came back to it in 1981, looking for the same places and people, showing what had ocurred since then, and trying to gather a family whose patriarch, a political leader fighting for rights of country people, had been murdered.",
+      "country": "Brazil",
+      "director_lbxd_slug": "eduardo-coutinho"
+    },
+    {
+      "id": "nimas_pai-nosso-os-ultimos-dias-de-salazar-2025",
+      "title": "Pai Nosso – Os Últimos dias de Salazar",
+      "director": "José FIlipe Costa",
+      "year": 2025,
+      "duration": 108,
+      "poster": "https://medeiafilmes.com/uploads/library/painosso_poster_pt_digital.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/pai-nosso-os-ultimos-dias-de-salazar-2025",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "15:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-06-28",
+          "time": "18:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "21:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com o realizador"
+          ]
         }
       ]
     },
@@ -1851,32 +1740,24 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_pai-nosso-os-ultimos-dias-de-salazar-2025",
-      "title": "Pai Nosso – Os Últimos dias de Salazar",
-      "director": "José FIlipe Costa",
-      "year": 2025,
-      "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/painosso_poster_pt_digital.jpg",
+      "id": "nimas_o-ceu-pode-esperar-1943",
+      "title": "O Céu Pode Esperar",
+      "director": "Ernst Lubitsch",
+      "year": 1943,
+      "duration": 112,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzhkymy5zdctndm4ys00ndaxlwiyodgtnjblntixztblmmq1xkeyxkfqcgc_v1_fmjpg_uy1890.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/pai-nosso-os-ultimos-dias-de-salazar-2025",
+      "link": "https://medeiafilmes.com/filmes/o-ceu-pode-esperar-1943",
       "sessions": [
         {
           "date": "2026-06-27",
           "time": "15:30",
-          "cinema": "campo_alegre"
+          "cinema": "nimas"
         },
         {
-          "date": "2026-06-30",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-07-13",
-          "time": "21:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com o realizador"
-          ]
+          "date": "2026-07-02",
+          "time": "17:30",
+          "cinema": "nimas"
         }
       ]
     },
@@ -1926,6 +1807,50 @@ window.CINEMA_DATA = {
       "plot": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
+    },
+    {
+      "id": "nimas_o-veredicto-1982",
+      "title": "O Veredicto",
+      "director": "Sidney Lumet",
+      "year": 1982,
+      "duration": 129,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgnhmzrhntgtowuwmy00mgnmlthmzjetzwmxndm0n2zlnzm2xkeyxkfqcgc_v1_fmjpg_uy2265.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-veredicto-1982",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "17:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-04",
+          "time": "12:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_ladrao-de-alcova-1932",
+      "title": "Ladrão de Alcova",
+      "director": "Ernst Lubitsch",
+      "year": 1932,
+      "duration": 83,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzji5m2m5ywetytu3yi00zgrllwe3owytmzjizte5n2u1ztkwxkeyxkfqcgc_v1_fmjpg_uy2094.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/ladrao-de-alcova-1932",
+      "sessions": [
+        {
+          "date": "2026-06-29",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-06",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_doze-homens-em-furia-1957",
@@ -1996,6 +1921,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_uma-hora-contigo-1932",
+      "title": "Uma Hora Contigo",
+      "director": "Ernst Lubitsch",
+      "year": 1932,
+      "duration": 80,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5byzbhyweymzktmwjjyi00y2jklwe2mtktotljmzlkotnioteyxkeyxkfqcgc_v1_fmjpg_ux499.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/uma-hora-contigo-1932",
+      "sessions": [
+        {
+          "date": "2026-07-01",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_days-of-being-wild-dias-selvagens-1990",
       "title": "Days of Being Wild – Dias Selvagens",
       "director": "Wong Kar Wai",
@@ -2019,23 +1961,6 @@ window.CINEMA_DATA = {
       "plot": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_uma-hora-contigo-1932",
-      "title": "Uma Hora Contigo",
-      "director": "Ernst Lubitsch",
-      "year": 1932,
-      "duration": 80,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5byzbhyweymzktmwjjyi00y2jklwe2mtktotljmzlkotnioteyxkeyxkfqcgc_v1_fmjpg_ux499.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/uma-hora-contigo-1932",
-      "sessions": [
-        {
-          "date": "2026-07-01",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_os-insolentes-1957",
@@ -2173,31 +2098,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sophie-letourneur"
     },
     {
-      "id": "nimas_as-tears-go-by-ao-sabor-da-ambicao-1988",
-      "title": "As Tears Go By - Ao Sabor da Ambição",
-      "director": "Wong Kar Wai",
-      "year": 1988,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/7/5/36975-as-tears-go-by-0-500-0-750-crop.jpg?v=69fb90b74c",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/as-tears-go-by-ao-sabor-da-ambicao-1988",
-      "sessions": [
-        {
-          "date": "2026-07-02",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
-      "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
       "id": "nimas_os-quatrocentos-golpes-1959",
       "title": "Os Quatrocentos Golpes",
       "director": "François Truffaut",
@@ -2223,6 +2123,31 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_as-tears-go-by-ao-sabor-da-ambicao-1988",
+      "title": "As Tears Go By - Ao Sabor da Ambição",
+      "director": "Wong Kar Wai",
+      "year": 1988,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/7/5/36975-as-tears-go-by-0-500-0-750-crop.jpg?v=69fb90b74c",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/as-tears-go-by-ao-sabor-da-ambicao-1988",
+      "sessions": [
+        {
+          "date": "2026-07-02",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.6,
+      "plot": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
+      "country": "Hong Kong",
+      "director_lbxd_slug": "wong-kar-wai"
     },
     {
       "id": "nimas_o-ultimo-metro-1980",
@@ -2264,28 +2189,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-quarto-verde-1978",
-      "title": "O Quarto Verde",
-      "director": "François Truffaut",
-      "year": 1978,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmtc5ntu4njixnv5bml5banbnxkftztcwnjywmzc3na_v1_fmjpg_ux742.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-quarto-verde-1978",
-      "sessions": [
-        {
-          "date": "2026-07-03",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-08",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_a-noiva-estava-de-luto-1967",
       "title": "A Noiva Estava de Luto",
       "director": "François Truffaut",
@@ -2308,27 +2211,26 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_carmen-1918",
-      "title": "Carmen",
-      "director": "Ernst Lubitsch",
-      "year": 1918,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/0/3/128103-carmen-1918-0-500-0-750-crop.jpg?v=cbac386859",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/carmen-1918",
+      "id": "nimas_o-quarto-verde-1978",
+      "title": "O Quarto Verde",
+      "director": "François Truffaut",
+      "year": 1978,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmtc5ntu4njixnv5bml5banbnxkftztcwnjywmzc3na_v1_fmjpg_ux742.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-quarto-verde-1978",
       "sessions": [
         {
-          "date": "2026-07-04",
-          "time": "11:00",
+          "date": "2026-07-03",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-08",
+          "time": "22:00",
           "cinema": "nimas"
         }
-      ],
-      "rating": 3.25,
-      "plot": "The tragic story of Don Jose, a Spanish cavalryman, who falls under the spell of a gypsy girl, Carmen, who treats him with both love and contempt and leads him into temptation and thus damnation.",
-      "country": "Germany",
-      "director_lbxd_slug": "ernst-lubitsch"
+      ]
     },
     {
       "id": "nimas_angustia-1963",
@@ -2373,6 +2275,29 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_carmen-1918",
+      "title": "Carmen",
+      "director": "Ernst Lubitsch",
+      "year": 1918,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/1/0/3/128103-carmen-1918-0-500-0-750-crop.jpg?v=cbac386859",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/carmen-1918",
+      "sessions": [
+        {
+          "date": "2026-07-04",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.25,
+      "plot": "The tragic story of Don Jose, a Spanish cavalryman, who falls under the spell of a gypsy girl, Carmen, who treats him with both love and contempt and leads him into temptation and thus damnation.",
+      "country": "Germany",
+      "director_lbxd_slug": "ernst-lubitsch"
     },
     {
       "id": "nimas_a-historia-de-adele-h-1975",
@@ -2422,28 +2347,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-menino-selvagem-1970",
-      "title": "O Menino Selvagem",
-      "director": "François Truffaut",
-      "year": 1970,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2u5zmu5ytmtzjziyy00ndg3ltgyzgmtownhntm5mjfmyjvlxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-menino-selvagem-1970",
-      "sessions": [
-        {
-          "date": "2026-07-06",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-15",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_beijos-roubados-1968",
       "title": "Beijos Roubados",
       "director": "François Truffaut",
@@ -2483,6 +2386,28 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-14",
           "time": "20:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-menino-selvagem-1970",
+      "title": "O Menino Selvagem",
+      "director": "François Truffaut",
+      "year": 1970,
+      "duration": 85,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2u5zmu5ytmtzjziyy00ndg3ltgyzgmtownhntm5mjfmyjvlxkeyxkfqcgc_v1.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-menino-selvagem-1970",
+      "sessions": [
+        {
+          "date": "2026-07-06",
+          "time": "15:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-15",
+          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -2566,6 +2491,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_o-homem-que-gostava-das-mulheres-1976",
+      "title": "O Homem Que Gostava das Mulheres",
+      "director": "François Truffaut",
+      "year": 1976,
+      "duration": 118,
+      "poster": "https://medeiafilmes.com/uploads/library/l-homme-qui-aimait-les-femmes.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-homem-que-gostava-das-mulheres-1976",
+      "sessions": [
+        {
+          "date": "2026-07-10",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_a-sereia-do-mississipi-1969",
       "title": "A Sereia do Mississipi",
       "director": "François Truffaut",
@@ -2581,23 +2523,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-10",
           "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-homem-que-gostava-das-mulheres-1976",
-      "title": "O Homem Que Gostava das Mulheres",
-      "director": "François Truffaut",
-      "year": 1976,
-      "duration": 118,
-      "poster": "https://medeiafilmes.com/uploads/library/l-homme-qui-aimait-les-femmes.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-homem-que-gostava-das-mulheres-1976",
-      "sessions": [
-        {
-          "date": "2026-07-10",
-          "time": "19:00",
           "cinema": "nimas"
         }
       ]
@@ -2626,23 +2551,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "nimas_amor-em-fuga-1979",
-      "title": "Amor em Fuga",
-      "director": "François Truffaut",
-      "year": 1979,
-      "duration": 94,
-      "poster": "https://medeiafilmes.com/uploads/library/l-amour-en-fuite_affiche.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/amor-em-fuga-1979",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "20:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_madame-dubarry-1919",
       "title": "Madame Dubarry",
       "director": "Ernst Lubitsch",
@@ -2667,6 +2575,23 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ernst-lubitsch"
     },
     {
+      "id": "nimas_amor-em-fuga-1979",
+      "title": "Amor em Fuga",
+      "director": "François Truffaut",
+      "year": 1979,
+      "duration": 94,
+      "poster": "https://medeiafilmes.com/uploads/library/l-amour-en-fuite_affiche.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/amor-em-fuga-1979",
+      "sessions": [
+        {
+          "date": "2026-07-11",
+          "time": "20:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_na-idade-da-inocencia-1976",
       "title": "Na Idade da Inocência",
       "director": "François Truffaut",
@@ -2679,23 +2604,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-11",
           "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-princesa-das-ostras-1919",
-      "title": "A Princesa das Ostras",
-      "director": "Ernst Lubitsch",
-      "year": 1919,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bogm3ztvmzdytmgvmmi00mtniltkyntytmme3mddmmwzmogywxkeyxkfqcgc_v1_fmjpg_ux478.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-princesa-das-ostras-1919",
-      "sessions": [
-        {
-          "date": "2026-07-14",
-          "time": "14:30",
           "cinema": "nimas"
         }
       ]
@@ -2725,6 +2633,23 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
+      "id": "nimas_a-princesa-das-ostras-1919",
+      "title": "A Princesa das Ostras",
+      "director": "Ernst Lubitsch",
+      "year": 1919,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bogm3ztvmzdytmgvmmi00mtniltkyntytmme3mddmmwzmogywxkeyxkfqcgc_v1_fmjpg_ux478.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-princesa-das-ostras-1919",
+      "sessions": [
+        {
+          "date": "2026-07-14",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "fernando_tre_s_vezes_adeus",
       "title": "Três Vezes Adeus",
       "director": "Isabel Coixet",
@@ -2738,37 +2663,19 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
       "sessions": [
         {
-          "date": "2026-06-23",
-          "time": "16:45",
+          "date": "2026-06-27",
+          "time": "11:30",
           "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_pai_nosso_os_u_ltimos_dias_de_salazar",
-      "title": "Pai Nosso - Os Últimos Dias de Salazar",
-      "director": "José Filipe Costa",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://freight.cargo.site/t/original/i/5d87a3fbeca54128e393751218c1870c5d5f6c433225672339232af34f12d1af/POSTER_PAI_NOSSO_SATIRA_SALAZAR.jpg",
-      "genres": [
-        "Drama/ 108 MIN."
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/PAI-NOSSO",
-      "sessions": [
-        {
-          "date": "2026-06-23",
-          "time": "19:15",
-          "cinema": "fernando",
-          "labels": [
-            "Legendas em inglês"
-          ]
         },
         {
           "date": "2026-06-28",
-          "time": "18:00",
-          "cinema": "ideal"
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "17:00",
+          "cinema": "fernando"
         }
       ]
     },
@@ -2786,21 +2693,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/DUAS-VEZES-JOAO-LIBERADA",
       "sessions": [
         {
-          "date": "2026-06-23",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-23",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-23",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-24",
           "time": "15:30",
           "cinema": "ideal"
@@ -2809,6 +2701,24 @@ window.CINEMA_DATA = {
           "date": "2026-06-26",
           "time": "15:00",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "18:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-30",
+          "time": "18:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-01",
+          "time": "19:30",
+          "cinema": "fernando",
+          "labels": [
+            "Legendas em inglês"
+          ]
         }
       ],
       "rating": 3.46,
@@ -2850,6 +2760,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-06-27",
+          "time": "13:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-27",
           "time": "19:30",
           "cinema": "fernando"
         },
@@ -2861,7 +2776,10 @@ window.CINEMA_DATA = {
         {
           "date": "2026-06-29",
           "time": "19:30",
-          "cinema": "fernando"
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
         },
         {
           "date": "2026-06-30",
@@ -2874,6 +2792,94 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ]
+    },
+    {
+      "id": "fernando_um_poeta",
+      "title": "Um Poeta",
+      "director": "Simón Mesa Soto",
+      "year": 2025,
+      "duration": 123,
+      "poster": "https://freight.cargo.site/t/original/i/b233c148a93cacc326bde27db4d68f21f6ba1f254669fd45b60a4314eac1ee68/O-POETA_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/UM-POETA",
+      "sessions": [
+        {
+          "date": "2026-06-24",
+          "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "14:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-06-27",
+          "time": "15:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "16:30",
+          "cinema": "ideal"
+        }
+      ]
+    },
+    {
+      "id": "fernando_sessa_o_especial",
+      "title": "sessão especial",
+      "director": null,
+      "year": 2018,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/5/8/2/476582-cinema-is-coming-to-town-0-500-0-750-crop.jpg?v=cb85e04453",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/Sessoes-Especiais",
+      "sessions": [
+        {
+          "date": "2026-06-27",
+          "time": "21:30",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        }
+      ],
+      "plot": "A itinerant cinema comes to Rita’s small town and she has the opportunity to go to the movies for the first time in a long time.",
+      "country": "Brazil",
+      "director_lbxd_slug": "gabriela-queiroz"
+    },
+    {
+      "id": "fernando_a_provide_ncia_e_a_guitarra",
+      "title": "A Providência e a Guitarra",
+      "director": "João Nicolau",
+      "year": 2026,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/7/5/1/9/1317519-providence-and-the-guitar-0-500-0-750-crop.jpg?v=44c35a121e",
+      "genres": [
+        "Music",
+        "Drama",
+        "Comedy"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/A-PROVIDENCIA-E-A-GUITARRA",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "11:30",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 2.95,
+      "plot": "In a distant past, Léon and Elvira Berthelini, itinerant artists, make their living hopping from town to town. In Covarronca, harassed by the Police Commissioner, they are forced to spend the night out in the open. That’s when they meet Stubbs, a young Cambridge student, with whom they find shelter in the home of a painter at odds with his wife. In return for the hospitality, they remind their hosts that the love of art resolves the art of love. Meanwhile, an unusual curse sends them on absurd journeys into the 21st century, where the future of social security and of a rock band are at stake.",
+      "country": "Portugal",
+      "director_lbxd_slug": "joao-nicolau"
     },
     {
       "id": "fernando_onda_nova",
@@ -2896,6 +2902,24 @@ window.CINEMA_DATA = {
           "labels": [
             "Sessão especial"
           ]
+        }
+      ]
+    },
+    {
+      "id": "fernando_masterclass_com_adria_n_orr_e_joa_o",
+      "title": "Masterclass com Adrián Orr e João",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": "https://freight.cargo.site/t/original/i/5467095642d6ca7c1ae07b8c8351080f02e9eaeeb3e162cded4ce466c0c021fc/MASTERCLASS_AOS_NOSSOS_AMIGOS_SITE.jpg",
+      "genres": [],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/MASTERCLASS-AOS-NOSSOS-AMIGOS",
+      "sessions": [
+        {
+          "date": "2026-06-29",
+          "time": "21:30",
+          "cinema": "fernando"
         }
       ]
     },
@@ -3738,40 +3762,23 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "karim-ainouz-1"
     },
     {
-      "id": "ideal_um_poeta",
-      "title": "UM POETA",
-      "director": "Guga Coelho",
-      "year": 2015,
-      "duration": 90,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/7866e6ce-742d-fc22-bdc2-55ddfe63be0c.jpg",
-      "genres": [
-        "Drama"
-      ],
+      "id": "ideal_fogo_do_vento",
+      "title": "FOGO DO VENTO",
+      "director": "Marta Mateus",
+      "year": 2024,
+      "duration": 74,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-3-4.jpg",
+      "genres": [],
       "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63833",
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63018",
       "sessions": [
         {
-          "date": "2026-06-23",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-24",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "14:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-29",
-          "time": "16:30",
+          "date": "2026-06-28",
+          "time": "12:00",
           "cinema": "ideal"
         }
       ],
-      "country": "Brazil"
+      "country": "Portugal"
     },
     {
       "id": "campo_alegre_entroncamento-2025",
@@ -3926,6 +3933,25 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "david-lynch"
     },
     {
+      "id": "campo_alegre_twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
+      "title": "​Twin Peaks: Os Últimos Sete Dias de Laura Palmer",
+      "director": "David Lynch",
+      "year": 1992,
+      "duration": 134,
+      "poster": "https://medeiafilmes.com/uploads/library/162981d4-twin-peaks-os-ultimos-sete-dias-de-laura-palmer-cartaz-web-717x1024.png",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
+      "sessions": [
+        {
+          "date": "2026-07-11",
+          "time": "15:30",
+          "cinema": "campo_alegre"
+        }
+      ]
+    },
+    {
       "id": "campo_alegre_mulholland-drive-2001",
       "title": "Mulholland Drive",
       "director": "David Lynch",
@@ -3954,25 +3980,6 @@ window.CINEMA_DATA = {
       "plot": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
       "country": "France",
       "director_lbxd_slug": "david-lynch"
-    },
-    {
-      "id": "campo_alegre_twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
-      "title": "​Twin Peaks: Os Últimos Sete Dias de Laura Palmer",
-      "director": "David Lynch",
-      "year": 1992,
-      "duration": 134,
-      "poster": "https://medeiafilmes.com/uploads/library/162981d4-twin-peaks-os-ultimos-sete-dias-de-laura-palmer-cartaz-web-717x1024.png",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        }
-      ]
     },
     {
       "id": "campo_alegre_uma-historia-simples-1999",
@@ -4064,16 +4071,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "William Wyler": {
-      "lbxd_slug": "william-wyler",
-      "photo": null,
-      "bio": null
-    },
-    "Charles Vidor": {
-      "lbxd_slug": "charles-vidor",
-      "photo": null,
-      "bio": null
-    },
     "George Sidney": {
       "lbxd_slug": "george-sidney-1",
       "photo": null,
@@ -4134,17 +4131,17 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "João Nuno Pinto": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Paolo Virzì": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
     "Lav Diaz": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "João Nuno Pinto": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4159,13 +4156,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Steven Spielberg": {
-      "lbxd_slug": null,
+    "Edgar Reitz": {
+      "lbxd_slug": "edgar-reitz",
       "photo": null,
       "bio": null
     },
     "Ernst Lubitsch": {
-      "lbxd_slug": "ernst-lubitsch",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -4174,7 +4171,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Leon Hirszman": {
+    "Steven Spielberg": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4184,17 +4181,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Edgar Reitz": {
-      "lbxd_slug": "edgar-reitz",
-      "photo": null,
-      "bio": null
-    },
     "Suzana Amaral": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Hlynur Pálmason": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4204,7 +4191,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Robert Harmon": {
+    "Hlynur Pálmason": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4214,22 +4201,27 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Ivo Ferreira (born September 1975) is a Portuguese film director, screenwriter and actor. His 2016 film Letters from War was shown at the 66th Berlin International Film Festival."
     },
-    "Eduardo Coutinho": {
-      "lbxd_slug": "eduardo-coutinho",
-      "photo": null,
-      "bio": null
-    },
     "Sergei Loznitsa": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Hector Babenco": {
+    "Robert Harmon": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
+    "Eduardo Coutinho": {
+      "lbxd_slug": "eduardo-coutinho",
+      "photo": null,
+      "bio": null
+    },
     "José FIlipe Costa": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Hector Babenco": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4259,11 +4251,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "José Filipe Costa": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Paula Tomás Marques": {
       "lbxd_slug": "paula-tomas-marques",
       "photo": null,
@@ -4271,6 +4258,16 @@ window.CINEMA_DATA = {
     },
     "Adrián Orr": {
       "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Simón Mesa Soto": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "João Nicolau": {
+      "lbxd_slug": "joao-nicolau",
       "photo": null,
       "bio": null
     },
@@ -4444,7 +4441,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Guga Coelho": {
+    "Marta Mateus": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4470,14 +4467,5 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": [
-    {
-      "cinema": "Medeia Nimas",
-      "error": "Não foi possível extrair global.data para Nimas"
-    },
-    {
-      "cinema": "Campo Alegre",
-      "error": "Não foi possível extrair global.data para Campo Alegre"
-    }
-  ]
+  "errors": []
 };

@@ -27685,5 +27685,69 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Mulheres Trabalhadoras|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Encontro de Mulheres Trabalhadoras Rurais",
+      "Year": "1988",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "17 min",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Documentary made for Pernambuco Rural Workers Federation, showing the first meeting of women who are also rural workers in the State of Pernambuco, Brazil. They gather to discuss their ...",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0386432",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Masterclass com Adrián Orr e João|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "FOGO DO VENTO|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Fogo do Vento",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "74 min",
+      "Genre": "N/A",
+      "Director": "Marta Mateus",
+      "Writer": "Marta Mateus",
+      "Actors": "Maria Catarina Sapata, Maria Clara Madeira, Safir Eizner",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal, France, Switzerland",
+      "Awards": "1 nomination",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32881169",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
