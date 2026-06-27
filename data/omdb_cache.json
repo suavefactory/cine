@@ -27753,5 +27753,779 @@
   "O Horror Hospitalar|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "The Mark Of The Renegade|1951": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/5/1/8/0/195180-the-mark-of-the-renegade-0-500-0-750-crop.jpg?v=ad90654336",
+      "description": "An agent of Mexico poses as a pirate to foil a would-be emperor in 1820s California.",
+      "genres": [
+        "Adventure",
+        "Western",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1951
+    },
+    "omdb": {
+      "Title": "The Mark of the Renegade",
+      "Year": "1951",
+      "Rated": "Approved",
+      "Released": "15 Feb 1952",
+      "Runtime": "81 min",
+      "Genre": "Adventure, Romance, Western",
+      "Director": "Hugo Fregonese",
+      "Writer": "Johnston McCulley, Robert Hardy Andrews, Louis Solomon",
+      "Actors": "Ricardo Montalban, Cyd Charisse, J. Carrol Naish",
+      "Plot": "Set in 19th century California Marcos Zappa goes undercover as a pirate to expose the crooked Don Pedro Garcia.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDAwMGQ4NDYtMmM5Ni00NmMwLWE0M2YtMDk3YWZmMTc0MjI4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "242",
+      "imdbID": "tt0043787",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "American Dream|1990": {
+    "lbxd": {
+      "rating": 4.01,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/6/9/5/23695-american-dream-0-500-0-750-crop.jpg?v=1e9de6b63d",
+      "description": "When workers at the Hormel meatpacking plant in Austin, Minnesota are asked to take a substantial pay cut in a highly profitable year, the local labor union decides to go on strike and fight for a wage they believe is fair. But as the work stoppage drags on and the strikers face losing everything, friends become enemies, families are divided and the very future of this typical mid American town is threatened.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Barbara Kopple",
+      "lb_director_slug": "barbara-kopple",
+      "lb_year": 1990
+    },
+    "omdb": {
+      "Title": "American Dream",
+      "Year": "1990",
+      "Rated": "PG-13",
+      "Released": "06 Oct 1990",
+      "Runtime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Barbara Kopple, Cathy Caplan, Thomas Haneke",
+      "Writer": "N/A",
+      "Actors": "Lewie Anderson, R.J. Bergstrom, Ron Bergstrom",
+      "Plot": "Recounts the 1985-86 strike against the Hormel Foods Corporation in Minnesota after its employees' wages and benefits were cut.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "Won 1 Oscar. 12 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDA0OTliZGEtZGUxMy00ZWVhLWJmZDYtOTg0OTRlYTNlMjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "1,068",
+      "imdbID": "tt0099028",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$269,823",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Man In The Attic|1953": {
+    "lbxd": {
+      "rating": 3.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/9/7/8/23978-man-in-the-attic-0-500-0-750-crop.jpg?v=70cde19770",
+      "description": "London, 1888: on the night of the third Jack the Ripper killing, soft-spoken Mr. Slade, a research pathologist, takes lodgings with the Harleys, including a gloomy attic room for \"experiments.\" Mrs. Harley finds Slade odd and increasingly suspects the worst; her niece Lily (star of a decidedly Parisian stage revue) finds him interesting and increasingly attractive. Is Lily in danger, or are her mother's suspicions merely a red herring?",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1953
+    },
+    "omdb": {
+      "Title": "Man in the Attic",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "31 May 1954",
+      "Runtime": "82 min",
+      "Genre": "Mystery, Thriller",
+      "Director": "Hugo Fregonese",
+      "Writer": "Robert Presnell Jr., Barré Lyndon, Marie Belloc Lowndes",
+      "Actors": "Jack Palance, Constance Smith, Byron Palmer",
+      "Plot": "After an enigmatic, self-described pathologist rents the attic room of a Victorian house, his landlady begins to suspect her lodger is Jack the Ripper.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGMyMmJlYzgtMTZiMC00ZTUyLWI1MTUtYzA5MTExZjU1NDNlXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "2,000",
+      "imdbID": "tt0047209",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Saddle Tramp|1959": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/2/3/5/2/102352-saddle-tramp-0-500-0-750-crop.jpg?v=c4205bf65e",
+      "description": "Carefree Chuck Connor is on his way west and stops off to see an old friend and his four lads. When his host is killed in a riding accident Chuck realises he must take care of the family. They hit the road and he takes a job on a ranch, but he has to keep the children hidden as his boss hates kids. There's also tension with the neighbouring ranch, and when a girl on the run from her nasty uncle joins the family unannounced Chuck wonders what he has done to deserve all this.",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1950
+    },
+    "omdb": null
+  },
+  "One Way Street|1950": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/4/6/27846-one-way-street-0-500-0-750-crop.jpg?v=f27dad2e05",
+      "description": "After stealing a gangster's money and his girlfriend, a doctor heads for a small village in Mexico to hide out.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1950
+    },
+    "omdb": {
+      "Title": "One Way Street",
+      "Year": "1950",
+      "Rated": "Approved",
+      "Released": "01 Apr 1950",
+      "Runtime": "79 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Hugo Fregonese",
+      "Writer": "Lawrence Kimble",
+      "Actors": "James Mason, Märta Torén, Dan Duryea",
+      "Plot": "After stealing a gangster's money and his girlfriend, a doctor heads for a small village in Mexico.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM1NmJmYzEtZThhNi00OThiLWEyYWEtZGQ0ZDRmZTRmMTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "953",
+      "imdbID": "tt0042809",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Light Of Day|1987": {
+    "lbxd": {
+      "rating": 2.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/5/1/2/50512-light-of-day-0-500-0-750-crop.jpg?v=08df66fd6b",
+      "description": "Cleveland siblings rise with a rock band while coping with personal problems.",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Paul Schrader",
+      "lb_director_slug": "paul-schrader",
+      "lb_year": 1987
+    },
+    "omdb": {
+      "Title": "Light of Day",
+      "Year": "1987",
+      "Rated": "PG-13",
+      "Released": "06 Feb 1987",
+      "Runtime": "107 min",
+      "Genre": "Drama, Music",
+      "Director": "Paul Schrader",
+      "Writer": "Paul Schrader",
+      "Actors": "Michael J. Fox, Gena Rowlands, Joan Jett",
+      "Plot": "A pair of siblings must choose whether to pursue their dream of touring with their rock band or support their family and stay in Cleveland, Ohio.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZThiY2RhNTAtNTk5ZC00MWNjLTkyYTctODk2NWIwY2JhNDZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "53%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "55/100"
+        }
+      ],
+      "Metascore": "55",
+      "imdbRating": "5.6",
+      "imdbVotes": "3,342",
+      "imdbID": "tt0093415",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$10,489,617",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Blowing Wild|1953": {
+    "lbxd": {
+      "rating": 3.32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/6/1/2/62612-blowing-wild-0-500-0-750-crop.jpg?v=e4a53f2f3a",
+      "description": "Wildcatter Jeff Dawson does his best to bring in a gusher in Mexico despite continual bandit raids. He asks for help from his ex-employer Ward Conway, but Conway, now married to Dawson's ex-lover Marina refuses, fearing that his wife will want to renew her romance with the other man.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1953
+    },
+    "omdb": {
+      "Title": "Blowing Wild",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "21 Dec 1953",
+      "Runtime": "90 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Hugo Fregonese",
+      "Writer": "Philip Yordan",
+      "Actors": "Gary Cooper, Barbara Stanwyck, Ruth Roman",
+      "Plot": "In South America, after Jeff Dawson and Dutch Peterson's oil rigs are dynamited by local bandits, the two partners resort to risky transportation of nitroglycerin to raise money.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFlZjgyOWYtMjUxNC00MmU0LThlMTgtOTM2ZjkzYTM0ZWRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "1,291",
+      "imdbID": "tt0045563",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "In Einem Jahr Mit 13 Monden|1978": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Badlands|1973": {
+    "lbxd": {
+      "rating": 3.99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/4/4/49844-badlands-0-500-0-750-crop.jpg?v=d57e83e76f",
+      "description": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+      "genres": [
+        "Crime",
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Terrence Malick",
+      "lb_director_slug": "terrence-malick",
+      "lb_year": 1973
+    },
+    "omdb": {
+      "Title": "Badlands",
+      "Year": "1973",
+      "Rated": "PG",
+      "Released": "05 Jan 1974",
+      "Runtime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Terrence Malick",
+      "Writer": "Terrence Malick",
+      "Actors": "Martin Sheen, Sissy Spacek, Warren Oates",
+      "Plot": "An impressionable teenage girl from a dead-end town, and her older greaser boyfriend, embark on a killing spree in the South Dakota Badlands.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Nominated for 1 BAFTA Award4 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.7",
+      "imdbVotes": "83,647",
+      "imdbID": "tt0069762",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "La Mala Vida|1973": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/1/2/0/4/541204-the-bad-life-0-500-0-750-crop.jpg?v=f71b0ed2b3",
+      "description": "Buenos Aires, 1920. The Franco-Argentine and Polish-Argentine mafia begin a war for the control of the traffic of women and prostitution, based on real events about the 1920s Buenos Aires Mafias war.",
+      "genres": [
+        "Crime"
+      ],
+      "country": "Argentina",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1973
+    },
+    "omdb": {
+      "Title": "La mala vida",
+      "Year": "1973",
+      "Rated": "18",
+      "Released": "28 Jun 1973",
+      "Runtime": "115 min",
+      "Genre": "Drama, Crime",
+      "Director": "Hugo Fregonese",
+      "Writer": "José P. Dominiani, Hugo Fregonese",
+      "Actors": "Hugo del Carril, Soledad Silveyra, Víctor Laplace",
+      "Plot": "A look at the Buenos Aires underworld and its protagonists: the pimps, the prostitutes, the madams, and the politicians.",
+      "Language": "Spanish",
+      "Country": "Argentina",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMwODI2YjUtZTE2Ny00ODMxLWI2MmUtMGZmM2YyYzM4ODVhXkEyXkFqcGdeQXVyMTYzNTE3NDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "28",
+      "imdbID": "tt0188874",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "High Fidelity|2000": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/fh/qn/as/cp/sEZKCUFU6Ozf7hZ3UuaKWUqHLTZ-0-500-0-750-crop.jpg?v=73f6b8a843",
+      "description": "After his long-time girlfriend dumps him, a thirty-year-old record store owner seeks to understand why he is unlucky in love while recounting his \"top five breakups of all time\".",
+      "genres": [
+        "Drama",
+        "Music",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Stephen Frears",
+      "lb_director_slug": "stephen-frears",
+      "lb_year": 2000
+    },
+    "omdb": {
+      "Title": "High Fidelity",
+      "Year": "2000",
+      "Rated": "R",
+      "Released": "31 Mar 2000",
+      "Runtime": "113 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Stephen Frears",
+      "Writer": "Nick Hornby, D.V. DeVincentis, Steve Pink",
+      "Actors": "John Cusack, Iben Hjejle, Todd Louiso",
+      "Plot": "Rob, a record store owner and compulsive list maker, recounts his top five breakups, including the one in progress.",
+      "Language": "English, Danish",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 1 BAFTA Award3 wins & 22 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMTI1ODYyOV5BMl5BanBnXkFtZTYwNjQyOTI3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.4",
+      "imdbVotes": "197,317",
+      "imdbID": "tt0146882",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$27,287,137",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Philadelphia|1993": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ch/he/bz/5d/4Y4cwVV6qd6fwhlVfRHUXELEbpr-0-500-0-750-crop.jpg?v=5ca1f0de92",
+      "description": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops, their courage overcomes the prejudice and corruption of their powerful adversaries.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Jonathan Demme",
+      "lb_director_slug": "jonathan-demme",
+      "lb_year": 1993
+    },
+    "omdb": {
+      "Title": "Philadelphia",
+      "Year": "1993",
+      "Rated": "PG-13",
+      "Released": "14 Jan 1994",
+      "Runtime": "125 min",
+      "Genre": "Drama",
+      "Director": "Jonathan Demme",
+      "Writer": "Ron Nyswaner",
+      "Actors": "Tom Hanks, Denzel Washington, Roberta Maxwell",
+      "Plot": "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small-time lawyer as the only willing advocate for a wrongful dismissal suit.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 21 wins & 23 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "7.7",
+      "imdbVotes": "272,691",
+      "imdbID": "tt0107818",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$77,446,440",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Untamed Frontier|1952": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/0/9/125009-untamed-frontier-0-500-0-750-crop.jpg?v=e1c7aea15f",
+      "description": "The Denbow family denies access across their land to homesteaders. To evade a murder charge, Glenn Denbow marries Jane, the only witness who's in love with him. But the woman favors the settlers...",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1952
+    },
+    "omdb": {
+      "Title": "Untamed Frontier",
+      "Year": "1952",
+      "Rated": "Approved",
+      "Released": "16 Jan 1953",
+      "Runtime": "78 min",
+      "Genre": "Western",
+      "Director": "Hugo Fregonese",
+      "Writer": "Gerald Drayson Adams, John Bagni, Gwen Bagni",
+      "Actors": "Joseph Cotten, Shelley Winters, Scott Brady",
+      "Plot": "Squeezed between Mexico and the Denbow family lands lies the U.S. government free grazing land but the incoming settlers cannot reach it without trespassing on the Denbow property which is defended by an army of Denbow cowhands.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFjYTZhYWEtNzgyNC00NDlmLWExYzEtMmNhMDhjNzZmN2U0XkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "17%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "414",
+      "imdbID": "tt0045281",
+      "Type": "movie",
+      "DVD": "05 Nov 2019",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Black Tuesday|1954": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/9/4/2/29942-black-tuesday-0-500-0-750-crop.jpg?v=2ed70c8a71",
+      "description": "Vicious gangster Vincent Canelli pulls off a daring prison escape just moments before going to the electric chair, taking with him Peter Manning – a bank robber and cop killer who was to die right after him. Taking several hostages along, they try to get their hands on the loot from Manning’s robbery to finance their escape from the country.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1954
+    },
+    "omdb": {
+      "Title": "Black Tuesday",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "06 May 1955",
+      "Runtime": "80 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Hugo Fregonese",
+      "Writer": "Sydney Boehm",
+      "Actors": "Edward G. Robinson, Jean Parker, Peter Graves",
+      "Plot": "Gangster Vincent Canelli and bank robber Peter Manning escape from Death Row minutes before their execution by electric chair.",
+      "Language": "English, Latin",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVjNWRhOWQtZTk4Ny00Mjg5LWE0YTctYjNjNGRkMzQzNzQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "1,024",
+      "imdbID": "tt0046790",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Pampa Bárbara|1945": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/5/4/99354-savage-pampas-0-500-0-750-crop.jpg?v=874b479ec9",
+      "description": "In a fort in the middle of the Pampa, their commander Hilario Castro decides to bring women from Buenos Aires to prevent deserting soldiers.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "country": "Argentina",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1945
+    },
+    "omdb": {
+      "Title": "Pampa bárbara",
+      "Year": "1945",
+      "Rated": "N/A",
+      "Released": "09 Oct 1945",
+      "Runtime": "98 min",
+      "Genre": "Drama, History, Western",
+      "Director": "Lucas Demare, Hugo Fregonese",
+      "Writer": "Ulises Petit de Murat, Homero Manzi",
+      "Actors": "Francisco Petrone, Luisa Vehil, Domingo Sapelli",
+      "Plot": "In a pillbox in the middle of the Pampa, its commander Hilario Castro decides to bring women from Buenos Aires, for not deserting soldiers.",
+      "Language": "Spanish",
+      "Country": "Argentina",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMzc0ZjctYmFiYS00NDg1LWEwOTItZDE3OWIzNzYzNTk2XkEyXkFqcGdeQXVyMTk0NDExMTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "118",
+      "imdbID": "tt0037969",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Die Todesstrahlen Des Dr. Mabuse|1964": {
+    "lbxd": {
+      "rating": 2.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/8/3/7/39837-the-death-ray-of-dr-mabuse-0-500-0-750-crop.jpg?v=47586d3661",
+      "description": "The evil Dr. Mabuse develops a death ray with which he threatens the world.",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "country": "France",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1964
+    },
+    "omdb": null
+  },
+  "The Finishing Touch|1928": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "The Finishing Touch",
+      "Year": "1928",
+      "Rated": "N/A",
+      "Released": "25 Feb 1928",
+      "Runtime": "19 min",
+      "Genre": "Comedy, Short",
+      "Director": "Clyde Bruckman, Leo McCarey",
+      "Writer": "H.M. Walker, Stan Laurel",
+      "Actors": "Stan Laurel, Oliver Hardy, Dorothy Coburn",
+      "Plot": "The boys are contracted to build a house in a day but they have many mishaps and run into trouble with the nearby hospital staff, due to their excessive noise.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZhMDM5ODQtNzExNy00MmRkLTgyYTgtMzM3MGYxYzQ0OGIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "1,374",
+      "imdbID": "tt0018890",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Two Tars|1928": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/2/3/14823-two-tars-0-500-0-750-crop.jpg?v=1facbc76f6",
+      "description": "Two sailors on shore leave rent a car and go on a drive with their dates, but soon get involved in a huge traffic jam with dozens of ill-tempered motorists. A minor collision sets off an escalating series of retaliations.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "James Parrott",
+      "lb_director_slug": "james-parrott",
+      "lb_year": 1928
+    },
+    "omdb": {
+      "Title": "Two Tars",
+      "Year": "1928",
+      "Rated": "Passed",
+      "Released": "03 Nov 1928",
+      "Runtime": "21 min",
+      "Genre": "Short, Comedy, Family",
+      "Director": "James Parrott",
+      "Writer": "Charlie Hall, Oliver Hardy, Stan Laurel",
+      "Actors": "Stan Laurel, Oliver Hardy, Edgar Kennedy",
+      "Plot": "At a rail crossing, a small fender-bender incident turns into a major tit-for-tat retaliatory war among various motorists.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdkZWM2OWYtZmJhMC00NDc4LWIyYTYtY2I0MDcxMTcwNTdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "1,666",
+      "imdbID": "tt0019504",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Dois Procuradores|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
