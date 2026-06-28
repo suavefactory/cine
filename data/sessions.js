@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-06-27T10:11:13.562681+00:00",
+  "generated": "2026-06-28T10:28:43.920807+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -479,104 +479,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_19944",
-      "title": "CÂMARA ESCURA: Ver o Mundo de Pernas para o ar",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19944",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "11:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_19977",
-      "title": "So This Is Paris",
-      "director": "Richard Quine",
-      "year": 1954,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/5/2/1/276521-so-this-is-paris-0-500-0-750-crop.jpg?v=58f0a90145",
-      "genres": [
-        "Comedy",
-        "Music",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19977",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "16:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Three sailors on leave head for Paris with one thing on their minds.",
-      "country": "USA",
-      "director_lbxd_slug": "richard-quine"
-    },
-    {
-      "id": "cinemateca_19973",
-      "title": "On The Town",
-      "director": "Stanley Donen, Gene Kelly",
-      "year": 1949,
-      "duration": 98,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTgzZTRmNDUtOTk3Ni00MDU1LWExMWQtMDc5ZTRkN2Y1YTNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "genres": [
-        "Comedy",
-        "Musical",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19973",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "18:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Three sailors wreak havoc as they search for love during a whirlwind 24-hour leave in New York City.",
-      "country": "United States"
-    },
-    {
-      "id": "cinemateca_20010",
-      "title": "Parelhas - Casais",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20010",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20008",
-      "title": "Pintura e Representação",
-      "director": "Richard Quine",
-      "year": 1955,
-      "duration": 96,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20008",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
       "id": "cinemateca_20017",
       "title": "O Horror Hospitalar",
       "director": null,
@@ -1038,6 +940,11 @@ window.CINEMA_DATA = {
           "date": "2026-07-06",
           "time": "21:45",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "16:00",
+          "cinema": "cinemateca"
         }
       ],
       "plot": "The Denbow family denies access across their land to homesteaders. To evade a murder charge, Glenn Denbow marries Jane, the only witness who's in love with him. But the woman favors the settlers...",
@@ -1118,51 +1025,96 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "hugo-fregonese"
     },
     {
-      "id": "cinemateca_19945_0",
-      "title": "On The Twelfth Day",
-      "director": "Wendy Toye",
-      "year": 1955,
-      "duration": 20,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/1/9/2/170192-on-the-twelfth-day--0-500-0-750-crop.jpg?v=6b47953823",
+      "id": "cinemateca_20039",
+      "title": "The Sound Of Music",
+      "director": "Robert Wise",
+      "year": 1965,
+      "duration": 174,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/5/8/0/42580-the-sound-of-music-0-500-0-750-crop.jpg?v=743d70b886",
       "genres": [
+        "Drama",
         "Music",
-        "Comedy",
-        "Drama"
+        "Romance",
+        "Family"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19945",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20039",
       "sessions": [
         {
-          "date": "2026-06-27",
+          "date": "2026-07-11",
           "time": "15:00",
           "cinema": "cinemateca"
         }
       ],
-      "rating": 3.5,
-      "plot": "A proper Edwardian lady patiently endures the ever-increasing disruption to her quiet household when her Truelove gives her all the items from the song \"The Twelve Days of Christmas.\"",
-      "country": "UK",
-      "director_lbxd_slug": "wendy-toye"
+      "rating": 4.25,
+      "plot": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children and brings a new love of life and music into the home.",
+      "country": "USA",
+      "director_lbxd_slug": "robert-wise"
     },
     {
-      "id": "cinemateca_19945_1",
-      "title": "Animal Farm",
-      "director": "Joy Batchelor, John Halas",
-      "year": 1954,
-      "duration": 72,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjdlMTcxODktNDBhNS00MjRiLThkNTMtZGJjOTU0Zjc5NjUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "id": "cinemateca_20054",
+      "title": "Cop Land",
+      "director": "James Mangold",
+      "year": 1997,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yl/5v/z0/oq/A75PJ1tXNGhLscMozZTDvdHe8VX-0-500-0-750-crop.jpg?v=c8fce5f1cc",
       "genres": [
-        "Animation",
+        "Crime",
+        "Thriller",
         "Drama"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=19945",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20054",
       "sessions": [
         {
-          "date": "2026-06-27",
-          "time": "15:00",
+          "date": "2026-07-11",
+          "time": "19:00",
           "cinema": "cinemateca"
         }
       ],
-      "plot": "A successful farmyard revolution by the resident animals vs. the farmer goes horribly wrong when the victors create a new tyranny among themselves.",
-      "country": "United Kingdom"
+      "rating": 3.58,
+      "plot": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
+      "country": "USA",
+      "director_lbxd_slug": "james-mangold"
+    },
+    {
+      "id": "cinemateca_20105",
+      "title": "Apenas Un Delincuente",
+      "director": "Hugo Fregonese",
+      "year": 1949,
+      "duration": 85,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20105",
+      "sessions": [
+        {
+          "date": "2026-07-11",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20055",
+      "title": "Palombella Rossa",
+      "director": "Nanni Moretti",
+      "year": 1989,
+      "duration": 87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20055",
+      "sessions": [
+        {
+          "date": "2026-07-11",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "Michele is an MP for the Italian Communist Party who loses his memory in a car crash, though hardly anyone around him seems to notice. During a crucial water polo match on the eve of election day, he gradually begins to remember his past life, revealing a man whose personal and political identity crisis mirrors that of Italian communism itself.",
+      "country": "France",
+      "director_lbxd_slug": "nanni-moretti"
     },
     {
       "id": "cinemateca_20014_0",
@@ -1267,11 +1219,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/o-amor-que-perdura-2025",
       "sessions": [
         {
-          "date": "2026-06-27",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-06-28",
           "time": "22:00",
           "cinema": "nimas"
@@ -1372,30 +1319,8 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/o-ceu-pode-esperar-1943",
       "sessions": [
         {
-          "date": "2026-06-27",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-07-02",
           "time": "17:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_pixote-a-lei-do-mais-fraco-1980",
-      "title": "Pixote: A Lei do Mais Fraco",
-      "director": "Hector Babenco",
-      "year": 1980,
-      "duration": 128,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bztvkyjywzjetmtuyni00yzdkltgxymmtnte4odnlmjg1ztjkxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/pixote-a-lei-do-mais-fraco-1980",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "21:30",
           "cinema": "nimas"
         }
       ]
@@ -1413,16 +1338,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/leibniz-cronica-de-uma-pintura-perdida-2025",
       "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "11:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-06-28",
           "time": "17:15",
@@ -1488,11 +1403,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/pai-nosso-os-ultimos-dias-de-salazar-2025",
       "sessions": [
         {
-          "date": "2026-06-27",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-06-28",
           "time": "18:00",
           "cinema": "ideal"
@@ -1526,11 +1436,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/ser-ou-nao-ser-1942",
       "sessions": [
         {
-          "date": "2026-06-27",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-07-04",
           "time": "17:30",
           "cinema": "nimas"
@@ -1547,11 +1452,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/um-dia-de-cao-1975",
       "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-10",
           "time": "16:30",
@@ -2678,6 +2578,31 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
+      "id": "fernando_tre_s_vezes_adeus",
+      "title": "Três Vezes Adeus",
+      "director": "Isabel Coixet",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://freight.cargo.site/t/original/i/fb2cc60d375d3ecca28d1fd9fbc3adfdad896f65b3a010aae374f8ac502ef8df/TRES-VEZES-ADEUS_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
+      "sessions": [
+        {
+          "date": "2026-06-28",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-06-29",
+          "time": "17:00",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
       "id": "fernando_aos_nossos_amigos",
       "title": "Aos Nossos Amigos",
       "director": "Adrián Orr",
@@ -2691,16 +2616,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
       "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "13:45",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "19:30",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-06-28",
           "time": "16:30",
@@ -2727,66 +2642,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "fernando_tre_s_vezes_adeus",
-      "title": "Três Vezes Adeus",
-      "director": "Isabel Coixet",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://freight.cargo.site/t/original/i/fb2cc60d375d3ecca28d1fd9fbc3adfdad896f65b3a010aae374f8ac502ef8df/TRES-VEZES-ADEUS_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "11:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-28",
-          "time": "14:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-29",
-          "time": "17:00",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_um_poeta",
-      "title": "Um Poeta",
-      "director": "Simón Mesa Soto",
-      "year": 2025,
-      "duration": 123,
-      "poster": "https://freight.cargo.site/t/original/i/b233c148a93cacc326bde27db4d68f21f6ba1f254669fd45b60a4314eac1ee68/O-POETA_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/UM-POETA",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "14:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "15:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-06-29",
-          "time": "16:30",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
       "id": "fernando_duas_vezes_joa_o_liberada",
       "title": "Duas Vezes João Liberada",
       "director": "Paula Tomás Marques",
@@ -2799,11 +2654,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/DUAS-VEZES-JOAO-LIBERADA",
       "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "18:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-06-30",
           "time": "18:00",
@@ -2822,33 +2672,6 @@ window.CINEMA_DATA = {
       "plot": "João, an actress from Lisbon, as she stars in a biopic about Liberada, a gender-nonconforming figure persecuted by the Portuguese Inquisition in the 18th century. The film's production becomes a battleground as João clashes with the director over how Liberada’s legacy should be portrayed. These tensions deepen as João's dreams are increasingly haunted by Liberada's ghost, blurring the lines between past and present. When the director succumbs to a mysterious paralysis, leaving the film unfinished, João is left to navigate the unfolding chaos. She faces unanswerable questions, not only about the film's future but also about her own connection to Liberada’s spirit and story.",
       "country": "Portugal",
       "director_lbxd_slug": "paula-tomas-marques"
-    },
-    {
-      "id": "fernando_sessa_o_especial",
-      "title": "sessão especial",
-      "director": null,
-      "year": 2018,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/5/8/2/476582-cinema-is-coming-to-town-0-500-0-750-crop.jpg?v=cb85e04453",
-      "genres": [
-        "Family",
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/Sessoes-Especiais",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "21:30",
-          "cinema": "fernando",
-          "labels": [
-            "Sessão especial"
-          ]
-        }
-      ],
-      "plot": "A itinerant cinema comes to Rita’s small town and she has the opportunity to go to the movies for the first time in a long time.",
-      "country": "Brazil",
-      "director_lbxd_slug": "gabriela-queiroz"
     },
     {
       "id": "fernando_a_provide_ncia_e_a_guitarra",
@@ -2914,11 +2737,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/DOIS-PROCURADORES",
       "sessions": [
         {
-          "date": "2026-06-27",
-          "time": "16:30",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-06-28",
           "time": "13:50",
           "cinema": "ideal"
@@ -2957,177 +2775,6 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ]
-    },
-    {
-      "id": "batalha_sQFNOz6wK8HRly05",
-      "title": "The Handmaid's Tale",
-      "director": "Volker Schlöndorff",
-      "year": 1990,
-      "duration": 109,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/7/7/5/38775-the-handmaid-s-tale-0-500-0-750-crop.jpg?v=f46ed29563",
-      "genres": [
-        "Drama",
-        "Science Fiction"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/the-handmaidand39s-tale",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "13:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.18,
-      "plot": "In a dystopian, polluted right-wing religious tyranny, a young woman is put in sexual slavery on account of her now rare fertility.",
-      "country": "Germany"
-    },
-    {
-      "id": "batalha_sQuuSMh5xBWuL5r8",
-      "title": "Lion",
-      "director": "Julia Ocker",
-      "year": 2017,
-      "duration": 4,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/3/2/2/2/263222-lion-0-500-0-750-crop.jpg?v=1311804f8d",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/01-lion",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.93,
-      "plot": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
-      "country": "Australia"
-    },
-    {
-      "id": "batalha_sMdzLmjfXImzd9d2",
-      "title": "In the Dance",
-      "director": "Katya Mikheeva",
-      "year": 2024,
-      "duration": 5,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/4/8/6/1041486-in-the-dance-0-500-0-750-crop.jpg?v=943050a937",
-      "genres": [
-        "Animation"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/02-dans-la-dance",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot": "Dance, friendship, group, beatbox, movement, hiphop, freestyle, cypher.",
-      "country": "France"
-    },
-    {
-      "id": "batalha_sfjysMcxjD7cUos3",
-      "title": "The Goose",
-      "director": "Jan Míka",
-      "year": 2022,
-      "duration": 13,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/5/5/5/9/805559-the-goose-0-500-0-750-crop.jpg?v=cd886bbad4",
-      "genres": [
-        "Animation"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/03-the-goose",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot": "Masha and Sveta are preparing a birthday present and decide to teach Old Karga a lesson. The dramatic issue of the loan trap, which you can easily end up in due to the simplest everyday needs of an average family, looms in the background.",
-      "country": "Ukraine"
-    },
-    {
-      "id": "batalha_sgxd5Bopv5uXxjdd",
-      "title": "The Cycling Wind",
-      "director": "Nazanin Sobhan Sarbandi",
-      "year": 2014,
-      "duration": 6,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/04-o-vento-ciclico",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
-      "id": "batalha_s46Ww4AR5Yfn6ab2",
-      "title": "The Goofylympics",
-      "director": "Salomé Hamman",
-      "year": 2019,
-      "duration": 4,
-      "poster": null,
-      "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/05-les-zozolympiades",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ]
-    },
-    {
-      "id": "batalha_su66NTyq43dCejzX",
-      "title": "Grand Bassin",
-      "director": "Héloïse Courtois, Chloé Plat, Victori Jalabert e Adèle Raigneau",
-      "year": 2018,
-      "duration": 6,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/7/6/2/6/577626-grand-bassin-0-500-0-750-crop.jpg?v=d39374e56c",
-      "genres": [
-        "Animation"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/06-grand-bassin",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot": "An afternoon at the pool.",
-      "country": "France"
-    },
-    {
-      "id": "batalha_sIuAs3DlxpVJDIHu",
-      "title": "The Misfits",
-      "director": "John Huston",
-      "year": 1961,
-      "duration": 125,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/1/2/45212-the-misfits-0-500-0-750-crop.jpg?v=db194cec22",
-      "genres": [
-        "Western",
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/the-misfits",
-      "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "23:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-07-05",
-          "time": "19:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.7,
-      "plot": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
-      "country": "USA"
     },
     {
       "id": "batalha_sUoro7bAYjyXjbOz",
@@ -3241,6 +2888,30 @@ window.CINEMA_DATA = {
       "rating": 3.38,
       "plot": "Binti is a 12-year-old girl of Congolese origin who dreams of becoming a famous vlogger like her idol Tatyana. But when the police raid her home and try to deport her and her father Jovial, they are forced to flee. Binti meets Elias and befriends her. While Binti helps Elias to vlog about his 'save-the-okapi-club', she hatches the perfect plan: her dad has to marry Elias’s mom, so they can stay in Belgium.",
       "country": "Belgium"
+    },
+    {
+      "id": "batalha_sIuAs3DlxpVJDIHu",
+      "title": "The Misfits",
+      "director": "John Huston",
+      "year": 1961,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/1/2/45212-the-misfits-0-500-0-750-crop.jpg?v=db194cec22",
+      "genres": [
+        "Western",
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/the-misfits",
+      "sessions": [
+        {
+          "date": "2026-07-05",
+          "time": "19:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.7,
+      "plot": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
+      "country": "USA"
     },
     {
       "id": "batalha_sdytaIUOb3yhRvt2",
@@ -3575,7 +3246,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
-      "director": "Jane Pollard, Iain Forsyth",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/brokenenglish-1.jpg",
@@ -3583,16 +3254,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64076",
       "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "18:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-06-27",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-06-28",
           "time": "16:00",
@@ -3636,6 +3297,27 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "ideal_um_poeta",
+      "title": "UM POETA",
+      "director": "Guga Coelho",
+      "year": 2015,
+      "duration": 90,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/7866e6ce-742d-fc22-bdc2-55ddfe63be0c.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63833",
+      "sessions": [
+        {
+          "date": "2026-06-29",
+          "time": "16:30",
+          "cinema": "ideal"
+        }
+      ],
+      "country": "Brazil"
+    },
+    {
       "id": "ideal_fogo_do_vento",
       "title": "FOGO DO VENTO",
       "director": "Marta Mateus",
@@ -3667,11 +3349,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/entroncamento-2025",
       "sessions": [
-        {
-          "date": "2026-06-27",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-07-01",
           "time": "21:30",
@@ -3926,16 +3603,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Richard Quine": {
-      "lbxd_slug": "richard-quine",
-      "photo": null,
-      "bio": null
-    },
-    "Stanley Donen, Gene Kelly": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Billy Wilder": {
       "lbxd_slug": "billy-wilder",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Billy_Wilder.jpg",
@@ -3996,18 +3663,28 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Wendy Toye": {
-      "lbxd_slug": "wendy-toye",
+    "Robert Wise": {
+      "lbxd_slug": "robert-wise",
       "photo": null,
       "bio": null
     },
-    "Joy Batchelor, John Halas": {
-      "lbxd_slug": null,
+    "James Mangold": {
+      "lbxd_slug": "james-mangold",
       "photo": null,
       "bio": null
+    },
+    "Nanni Moretti": {
+      "lbxd_slug": "nanni-moretti",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nanni_Moretti_Cannes_2011.jpg",
+      "bio": "Giovanni \"Nanni\" Moretti (Italian pronunciation: [ˈnanni moˈretti]; born 19 August 1953) is an Italian film director, producer, screenwriter, and actor. He is most known for his Palme d'Or winner film The Son's Room (2001) and his Special Jury Prize winner film Sweet Dreams (1981). He is also the recipient of three David di Donatello Award for Best Film, for: Caro diario in 1994, The Son's Room in 2001, and The Caiman in 2006."
     },
     "Ruby Grierson": {
       "lbxd_slug": "ruby-grierson",
+      "photo": null,
+      "bio": null
+    },
+    "Wendy Toye": {
+      "lbxd_slug": "wendy-toye",
       "photo": null,
       "bio": null
     },
@@ -4037,11 +3714,6 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Ernst Lubitsch": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Hector Babenco": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4106,17 +3778,12 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Adrián Orr": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Isabel Coixet": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Simón Mesa Soto": {
+    "Adrián Orr": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4140,46 +3807,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Volker Schlöndorff": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Volker_Schloendorff_Lodz_Poland_November29_2009_Fot_Mariusz_Kubik_05.jpg",
-      "bio": "Volker Schlöndorff (German pronunciation: [ˈfɔlkɐ  ˈʃløːndɔʁf] ; born 31 March 1939) is a German film director, screenwriter and producer who has worked in Germany, France and the United States. He was a prominent member of the New German Cinema of the late 1960s and early 1970s. He received an Oscar as well as the Palme d'Or at the 1979 Cannes Film Festival for The Tin Drum (1979), the film version of the novel by Nobel Prize-winning author Günter Grass."
-    },
-    "Julia Ocker": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Grimmepreis_2019_034.jpg/500px-Grimmepreis_2019_034.jpg",
-      "bio": "German animation film director, designer and author"
-    },
-    "Katya Mikheeva": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Jan Míka": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": "Czech scriptwriter and writer"
-    },
-    "Nazanin Sobhan Sarbandi": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Salomé Hamman": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Héloïse Courtois, Chloé Plat, Victori Jalabert e Adèle Raigneau": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "John Huston": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Huston_1979.jpg/500px-John_Huston_1979.jpg",
-      "bio": "John Marcellus Huston (  HEW-stən; August 5, 1906 – August 28, 1987) was an American film director, screenwriter, and actor. He wrote the screenplays for many of the 37 feature films he directed, many of which are today considered classics. He received numerous accolades including two Academy Awards and three Golden Globe Awards."
     },
     "Kasia Adamik e Agnieszka Holland": {
       "lbxd_slug": null,
@@ -4205,6 +3832,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": "Frederike Migom (born 1985), is a Belgian actress, screenwriter and director. She is best known for the award-winning films Binti, Nkosi coiffure and Malakim."
+    },
+    "John Huston": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Huston_1979.jpg/500px-John_Huston_1979.jpg",
+      "bio": "John Marcellus Huston (  HEW-stən; August 5, 1906 – August 28, 1987) was an American film director, screenwriter, and actor. He wrote the screenplays for many of the 37 feature films he directed, many of which are today considered classics. He received numerous accolades including two Academy Awards and three Golden Globe Awards."
     },
     "Hugh Hudson": {
       "lbxd_slug": null,
@@ -4281,7 +3913,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Jane Pollard, Iain Forsyth": {
+    "Guga Coelho": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -4307,5 +3939,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

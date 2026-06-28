@@ -28527,5 +28527,138 @@
   "Dois Procuradores|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "The Sound Of Music|1965": {
+    "lbxd": {
+      "rating": 4.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/5/8/0/42580-the-sound-of-music-0-500-0-750-crop.jpg?v=743d70b886",
+      "description": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children and brings a new love of life and music into the home.",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Family"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Wise",
+      "lb_director_slug": "robert-wise",
+      "lb_year": 1965
+    },
+    "omdb": {
+      "Title": "The Sound of Music",
+      "Year": "1965",
+      "Rated": "G",
+      "Released": "01 Apr 1965",
+      "Runtime": "174 min",
+      "Genre": "Biography, Drama, Family",
+      "Director": "Robert Wise",
+      "Writer": "Georg Hurdalek, Howard Lindsay, Russel Crouse",
+      "Actors": "Julie Andrews, Christopher Plummer, Eleanor Parker",
+      "Plot": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+      "Language": "English, German",
+      "Country": "United States",
+      "Awards": "Won 5 Oscars. 19 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "8.1",
+      "imdbVotes": "289,128",
+      "imdbID": "tt0059742",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$160,888,776",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cop Land|1997": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yl/5v/z0/oq/A75PJ1tXNGhLscMozZTDvdHe8VX-0-500-0-750-crop.jpg?v=c8fce5f1cc",
+      "description": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "James Mangold",
+      "lb_director_slug": "james-mangold",
+      "lb_year": 1997
+    },
+    "omdb": {
+      "Title": "Cop Land",
+      "Year": "1997",
+      "Rated": "R",
+      "Released": "15 Aug 1997",
+      "Runtime": "105 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "James Mangold",
+      "Writer": "James Mangold",
+      "Actors": "Sylvester Stallone, Harvey Keitel, Ray Liotta",
+      "Plot": "The Sheriff of a suburban New Jersey community, populated by New York City police officers, slowly discovers the town is a front for mob connections and corruption.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWVjN2IzYjctMDRlNy00YzlhLTlmZmMtNWYxNzVjN2E2NDg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.0",
+      "imdbVotes": "114,772",
+      "imdbID": "tt0118887",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$44,862,187",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Apenas Un Delincuente|1949": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Palombella Rossa|1989": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
+      "description": "Michele is an MP for the Italian Communist Party who loses his memory in a car crash, though hardly anyone around him seems to notice. During a crucial water polo match on the eve of election day, he gradually begins to remember his past life, revealing a man whose personal and political identity crisis mirrors that of Italian communism itself.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Nanni Moretti",
+      "lb_director_slug": "nanni-moretti",
+      "lb_year": 1989
+    },
+    "omdb": null
   }
 }
