@@ -28660,5 +28660,254 @@
       "lb_year": 1989
     },
     "omdb": null
+  },
+  "Blue Hawaii|1961": {
+    "lbxd": {
+      "rating": 2.95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/8/7/40487-blue-hawaii-0-500-0-750-crop.jpg?v=de13d94054",
+      "description": "Chad Gates has just been discharged from the Army, and is happy to be back in Hawaii with his surf-board, his beach buddies and his girlfriend.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Norman Taurog",
+      "lb_director_slug": "norman-taurog",
+      "lb_year": 1961
+    },
+    "omdb": {
+      "Title": "Blue Hawaii",
+      "Year": "1961",
+      "Rated": "PG",
+      "Released": "13 Dec 1961",
+      "Runtime": "102 min",
+      "Genre": "Comedy, Musical",
+      "Director": "Norman Taurog",
+      "Writer": "Allan Weiss, Hal Kanter",
+      "Actors": "Elvis Presley, Joan Blackman, Angela Lansbury",
+      "Plot": "After arriving back in Hawaii from the Army, Chad Gates defies his parents' wishes for him to work at the family business and instead goes to work as a tour guide at his girlfriend's agency.",
+      "Language": "English, Hawaiian, French",
+      "Country": "United States",
+      "Awards": "1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUwMTg1YmYtZDM2MC00MzJhLWEyZGItYWJhMzVjZjI1MWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "30%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "6.1",
+      "imdbVotes": "7,879",
+      "imdbID": "tt0054692",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cry-Baby|1990": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "La La Land|2016": {
+    "lbxd": {
+      "rating": 4.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-500-0-750-crop.jpg?v=053670ff84",
+      "description": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Damien Chazelle",
+      "lb_director_slug": "damien-chazelle",
+      "lb_year": 2016
+    },
+    "omdb": {
+      "Title": "La La Land",
+      "Year": "2016",
+      "Rated": "PG-13",
+      "Released": "25 Dec 2016",
+      "Runtime": "128 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Damien Chazelle",
+      "Writer": "Damien Chazelle",
+      "Actors": "Ryan Gosling, Emma Stone, Rosemarie DeWitt",
+      "Plot": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+      "Language": "English, Cantonese",
+      "Country": "United States, Hong Kong",
+      "Awards": "Won 6 Oscars. 246 wins & 313 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.0",
+      "imdbVotes": "759,966",
+      "imdbID": "tt3783958",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$151,101,803",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "All That Heaven Allows|1955": {
+    "lbxd": {
+      "rating": 4.07,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/3/2/21832-all-that-heaven-allows-0-500-0-750-crop.jpg?v=c9f47eb1f2",
+      "description": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Douglas Sirk",
+      "lb_director_slug": "douglas-sirk",
+      "lb_year": 1955
+    },
+    "omdb": {
+      "Title": "All That Heaven Allows",
+      "Year": "1955",
+      "Rated": "Approved",
+      "Released": "25 Dec 1955",
+      "Runtime": "89 min",
+      "Genre": "Drama, Romance",
+      "Director": "Douglas Sirk",
+      "Writer": "Peggy Thompson, Edna L. Lee, Harry Lee",
+      "Actors": "Jane Wyman, Rock Hudson, Agnes Moorehead",
+      "Plot": "An upper-class widow falls in love with a much younger, down-to-earth nurseryman, much to the disapproval of her children and criticism of her country club peers.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzVjMWE5OTQtZDk5ZC00MTQ5LWJmMzAtY2UxYjE1MjE2ZjM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "17,084",
+      "imdbID": "tt0047811",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Victor / Victoria|1982": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Some Came Running|1958": {
+    "lbxd": {
+      "rating": 3.8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/9/0/25890-some-came-running-0-500-0-750-crop.jpg?v=0b36636182",
+      "description": "A former novelist returns to his small Midwest town after serving in the Army during WWII, to the chagrin of his social-climbing brother, and becomes close with an easy-going professional gambler and torn between two very different women.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Vincente Minnelli",
+      "lb_director_slug": "vincente-minnelli",
+      "lb_year": 1958
+    },
+    "omdb": {
+      "Title": "Some Came Running",
+      "Year": "1958",
+      "Rated": "Approved",
+      "Released": "25 Dec 1958",
+      "Runtime": "137 min",
+      "Genre": "Drama, Romance",
+      "Director": "Vincente Minnelli",
+      "Writer": "James Jones, John Patrick, Arthur Sheekman",
+      "Actors": "Frank Sinatra, Dean Martin, Shirley MacLaine",
+      "Plot": "A veteran returns home to deal with family secrets and small-town scandals.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 5 Oscars. 3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2NWE2MTktMGEyMS00NjI3LWE5ODQtMzNkN2YzZWE3ZjIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.2",
+      "imdbVotes": "7,557",
+      "imdbID": "tt0052218",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Zemlya|1930": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Eldorado Xxi|2026": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/7/2/7/2/317272-eldorado-xxi-0-500-0-750-crop.jpg?v=d555356ce3",
+      "description": "The panoramic shots are breathtaking: a majestic mountain landscape in winter, flat-roofed tin shacks cowering next to one other, women perched on steep slopes using primitive tools to break through pieces of rock. La Rinconada is situated over 5,000 meters high in the Peruvian Andes, on the edge of a gold mine. This 21st century El Dorado is an inhospitable place, where untold numbers of people live and work in the most precarious of conditions, hoping both for gold and a better life. Salomé Lamas has constructed a cinematic diptych to convey the extremity of this situation and the dimensions of its misery without having to resort to graphic images.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Salomé Lamas",
+      "lb_director_slug": "salome-lamas",
+      "lb_year": 2016
+    },
+    "omdb": null
+  },
+  "Les Demoiselles De Rochefort|1966": {
+    "lbxd": null,
+    "omdb": null
   }
 }
