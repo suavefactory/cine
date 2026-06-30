@@ -28909,5 +28909,109 @@
   "Les Demoiselles De Rochefort|1966": {
     "lbxd": null,
     "omdb": null
+  },
+  "The Searchers|1956": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/5/8/49858-the-searchers-0-500-0-750-crop.jpg?v=51443f7735",
+      "description": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "John Ford",
+      "lb_director_slug": "john-ford-2",
+      "lb_year": 1956
+    },
+    "omdb": {
+      "Title": "The Searchers",
+      "Year": "1956",
+      "Rated": "Approved",
+      "Released": "26 May 1956",
+      "Runtime": "119 min",
+      "Genre": "Adventure, Western",
+      "Director": "John Ford",
+      "Writer": "Frank S. Nugent, Alan Le May",
+      "Actors": "John Wayne, Jeffrey Hunter, Vera Miles",
+      "Plot": "An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid on their Texas farm.",
+      "Language": "English, Navajo, Spanish",
+      "Country": "United States",
+      "Awards": "4 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4YWI0MTItMTE4YS00ZTNjLWE3ZTQtN2E2MTlhYWQxNDNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.8",
+      "imdbVotes": "101,104",
+      "imdbID": "tt0049730",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Saccharine|2026": {
+    "lbxd": {
+      "rating": 3.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/6/3/5/1250635-saccharine-2026-0-500-0-750-crop.jpg?v=b8d4297893",
+      "description": "After succumbing to an obscure weight-loss craze involving the eating of human ashes, lovelorn medical student Hana finds herself haunted by the ghost of the person she's eating.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "Australia",
+      "lb_director": "Natalie Erika James",
+      "lb_director_slug": "natalie-erika-james",
+      "lb_year": 2026
+    },
+    "omdb": {
+      "Title": "Saccharine",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "22 May 2026",
+      "Runtime": "112 min",
+      "Genre": "Drama, Horror, Sci-Fi",
+      "Director": "Natalie Erika James",
+      "Writer": "Natalie Erika James",
+      "Actors": "Midori Francis, Madeleine Madden, Danielle Macdonald",
+      "Plot": "Hana, a lovelorn medical student, becomes terrorized by a sinister force after taking part in an obscure weight loss craze: eating human ashes.",
+      "Language": "English",
+      "Country": "Australia",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWNhNjFjZjYtNmViNi00MDRmLTk3ZTMtYmRiMDBhMTlkMjY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "6.5",
+      "imdbVotes": "186",
+      "imdbID": "tt35050712",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
