@@ -29013,5 +29013,121 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Pampa Salvaje|1967": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Smokey And The Bandit|1977": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/gp/yo/ga/3g/5uTIEUSBVzmEZ8TnFEZbCCOVHPj-0-500-0-750-crop.jpg?v=c05514f24e",
+      "description": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Hal Needham",
+      "lb_director_slug": "hal-needham",
+      "lb_year": 1977
+    },
+    "omdb": {
+      "Title": "Smokey and the Bandit",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "27 May 1977",
+      "Runtime": "96 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Hal Needham",
+      "Writer": "Hal Needham, Robert L. Levy, James Lee Barrett",
+      "Actors": "Burt Reynolds, Sally Field, Jerry Reed",
+      "Plot": "The Bandit is hired on to run a tractor-trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2YzUyMGQtZDc5ZC00OTE5LWJmZjUtYTQ4ZDQ4N2E0MjIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "Metascore": "50",
+      "imdbRating": "7.0",
+      "imdbVotes": "61,670",
+      "imdbID": "tt0076729",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$126,737,428",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Lost In Translation|2003": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/th/b5/6c/gl/5T8VvuFTdaawKLJk34i69Utaw7o-0-500-0-750-crop.jpg?v=ce6ae8e1b4",
+      "description": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Sofia Coppola",
+      "lb_director_slug": "sofia-coppola",
+      "lb_year": 2003
+    },
+    "omdb": {
+      "Title": "Lost in Translation",
+      "Year": "2003",
+      "Rated": "R",
+      "Released": "03 Oct 2003",
+      "Runtime": "102 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sofia Coppola",
+      "Writer": "Sofia Coppola",
+      "Actors": "Bill Murray, Scarlett Johansson, Giovanni Ribisi",
+      "Plot": "A fading movie star falls for a lonely young woman in Tokyo.",
+      "Language": "English, Japanese, German, French",
+      "Country": "United States, Japan",
+      "Awards": "Won 1 Oscar. 98 wins & 133 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "Metascore": "91",
+      "imdbRating": "7.7",
+      "imdbVotes": "525,233",
+      "imdbID": "tt0335266",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$44,585,453",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
