@@ -29129,5 +29129,173 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "A Face In The Crowd|1957": {
+    "lbxd": {
+      "rating": 4.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/9/5/0/55950-a-face-in-the-crowd-0-500-0-750-crop.jpg?v=47239deecd",
+      "description": "The rise of a raucous hayseed named Lonesome Rhodes from itinerant Ozark guitar picker to local media rabble-rouser to TV superstar and political king-maker. Marcia Jeffries is the innocent Sarah Lawrence girl who discovers the great man in a back-country jail and is the first to fall under his spell.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Elia Kazan",
+      "lb_director_slug": "elia-kazan",
+      "lb_year": 1957
+    },
+    "omdb": {
+      "Title": "A Face in the Crowd",
+      "Year": "1957",
+      "Rated": "Approved",
+      "Released": "01 Jun 1957",
+      "Runtime": "126 min",
+      "Genre": "Drama, Music",
+      "Director": "Elia Kazan",
+      "Writer": "Budd Schulberg",
+      "Actors": "Andy Griffith, Patricia Neal, Anthony Franciosa",
+      "Plot": "Female radio reporter Marcia Jeffries turns folk-singing drifter Larry \"Lonesome\" Rhodes into a powerful media star who becomes utterly detestable during his meteoric rise.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFjNzllOTEtNTE0Mi00NDI4LWE3NzItMjhlM2Y5MWEzZTQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "8.2",
+      "imdbVotes": "18,121",
+      "imdbID": "tt0050371",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "An Affair To Remember|1957": {
+    "lbxd": {
+      "rating": 3.8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/8/0/47780-an-affair-to-remember-0-500-0-750-crop.jpg?v=09ab287738",
+      "description": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Leo McCarey",
+      "lb_director_slug": "leo-mccarey",
+      "lb_year": 1957
+    },
+    "omdb": {
+      "Title": "An Affair to Remember",
+      "Year": "1957",
+      "Rated": "Approved",
+      "Released": "19 Jul 1957",
+      "Runtime": "115 min",
+      "Genre": "Drama, Romance",
+      "Director": "Leo McCarey",
+      "Writer": "Delmer Daves, Leo McCarey, Mildred Cram",
+      "Actors": "Cary Grant, Deborah Kerr, Richard Denning",
+      "Plot": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?",
+      "Language": "English, French, Italian",
+      "Country": "United States",
+      "Awards": "Nominated for 4 Oscars. 4 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVjNGJkNmQtODJlYy00MThiLWFkNGYtMDQ3NDNhNTY3MWVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "65%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.4",
+      "imdbVotes": "35,580",
+      "imdbID": "tt0050105",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,850,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Ópera Do Malandro|1986": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "One From The Heart – Reprise|1982": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/t8/fx/8l/va/87FmvWdw1sWLUz7b9S5SrEGSTag-0-500-0-750-crop.jpg?v=afa41e67b5",
+      "description": "In a dazzling, dreamlike Las Vegas, longtime couple Hank and Frannie break up on their fifth anniversary and each pursue the fantasy of new love over one neon-soaked night—he with a free-spirited acrobat, she with a seductive musician. But as illusion and reality blur, both must decide whether passion or devotion truly defines the heart.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Francis Ford Coppola",
+      "lb_director_slug": "francis-ford-coppola",
+      "lb_year": 1982
+    },
+    "omdb": {
+      "Title": "One from the Heart",
+      "Year": "1981",
+      "Rated": "R",
+      "Released": "11 Feb 1982",
+      "Runtime": "107 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Armyan Bernstein, Francis Ford Coppola, Luana Anders",
+      "Actors": "Frederic Forrest, Teri Garr, Raul Julia",
+      "Plot": "A couple has a fight after living together 5 years in Las Vegas. They go out and celebrate 4th of July, each with a new partner. Breakup?",
+      "Language": "English, German",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTliZGU4Y2YtZjI2NS00YzdhLTljNTItZjk5ODUzODUzODU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "51%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "6.5",
+      "imdbVotes": "7,869",
+      "imdbID": "tt0084445",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$697,872",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
