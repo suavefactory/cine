@@ -29297,5 +29297,197 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Jerry Maguire|1996": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/0/6/47206-jerry-maguire-0-500-0-750-crop.jpg?v=0f7ed523ed",
+      "description": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Cameron Crowe",
+      "lb_director_slug": "cameron-crowe",
+      "lb_year": 1996
+    },
+    "omdb": {
+      "Title": "Jerry Maguire",
+      "Year": "1996",
+      "Rated": "R",
+      "Released": "13 Dec 1996",
+      "Runtime": "139 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Cameron Crowe",
+      "Writer": "Cameron Crowe",
+      "Actors": "Tom Cruise, Cuba Gooding Jr., Renée Zellweger",
+      "Plot": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+      "Language": "English, American Sign ",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 26 wins & 41 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E1ZjU1MjctZjU2Yi00MGE1LWI1MDEtYzBlMWJlNDc1NTQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "7.3",
+      "imdbVotes": "308,588",
+      "imdbID": "tt0116695",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$153,952,592",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Nha Fala|2001": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Nha Fala",
+      "Year": "2002",
+      "Rated": "N/A",
+      "Released": "25 May 2003",
+      "Runtime": "110 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Flora Gomes",
+      "Writer": "Flora Gomes, Franck Moisnard",
+      "Actors": "Fatou N'Diaye, Jean-Christophe Dollé, Ângelo Torres",
+      "Plot": "It has always been a firm conviction of the family that any woman who sings, will die. Now, while a girl is in France she becomes an international star. She realises that sooner rather than later her mother in Africa will learn th...",
+      "Language": "Kabuverdianu",
+      "Country": "Portugal, France, Luxembourg, Cape Verde",
+      "Awards": "6 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5NjU2MDIzMF5BMl5BanBnXkFtZTcwMjM4MjE5Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "216",
+      "imdbID": "tt0296099",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Rolling Thunder|1977": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/11/hs/u7/he/oAAw21VnSBbat7YbO17UTOWI3mL-0-500-0-750-crop.jpg?v=a56d5a402f",
+      "description": "A Vietnam veteran, Charles Rane, returns home after years in a POW camp and is treated as a hero. He has a hard time adjusting, and things go badly. A movie about the walking dead, before that meant just flesh-eating zombies.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "John Flynn",
+      "lb_director_slug": "john-flynn",
+      "lb_year": 1977
+    },
+    "omdb": {
+      "Title": "Rolling Thunder",
+      "Year": "1977",
+      "Rated": "R",
+      "Released": "06 Feb 1978",
+      "Runtime": "100 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "John Flynn",
+      "Writer": "Paul Schrader, Heywood Gould",
+      "Actors": "William Devane, Tommy Lee Jones, Linda Haynes",
+      "Plot": "A recently-returned Vietnam POW loses his family and his right hand during a violent home invasion, and seeks retribution against those responsible.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk2MDFlOTktNjk3OC00N2RlLTgxOGUtNDI3NDcwYTA1ZjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "6.9",
+      "imdbVotes": "12,907",
+      "imdbID": "tt0076637",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Seven Thunders|1957": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/4/0/105540-seven-thunders-0-500-0-750-crop.jpg?v=bbfd922e12",
+      "description": "Escaping British prisoners of war hide out in German occupied France.",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1957
+    },
+    "omdb": null
+  },
+  "FOGO DO VENTO|2024": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Fogo do Vento",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "74 min",
+      "Genre": "N/A",
+      "Director": "Marta Mateus",
+      "Writer": "Marta Mateus",
+      "Actors": "Maria Catarina Sapata, Maria Clara Madeira, Safir Eizner",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal, France, Switzerland",
+      "Awards": "1 nomination",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32881169",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
