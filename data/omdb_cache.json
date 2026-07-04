@@ -29489,5 +29489,98 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Das Kabinett Des Dr. Caligari|1919": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Bona|1980": {
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/0/9/2/62092-bona-0-500-0-750-crop.jpg?v=3f8460d067",
+      "description": "Bona, a middle-class student, becomes infatuated with a struggling actor, Gardo, and drops out of school to live with him. She becomes his unpaid maid, performing chores and enduring his relationships with other women, in the hopes of reciprocation.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1980
+    },
+    "omdb": {
+      "Title": "Bona",
+      "Year": "1980",
+      "Rated": "N/A",
+      "Released": "25 Dec 1980",
+      "Runtime": "85 min",
+      "Genre": "Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Cenen Ramones",
+      "Actors": "Nora Aunor, Phillip Salvador, Marissa Delgado",
+      "Plot": "A female movie fan idolizes a movie bit-player who becomes her obsession. Her unrequited love for him leads to a nightmarish end.",
+      "Language": "Filipino, Tagalog",
+      "Country": "Philippines",
+      "Awards": "1 win & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFlOTVmMzQtOTQ2Mi00ZjgwLThmMGYtMjIyMDA3NmE4NmU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "152",
+      "imdbID": "tt0082093",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "PERSEPOLIS|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Persepolis",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "22 Feb 2008",
+      "Runtime": "96 min",
+      "Genre": "Animation, Biography, Drama",
+      "Director": "Vincent Paronnaud, Marjane Satrapi",
+      "Writer": "Marjane Satrapi, Vincent Paronnaud",
+      "Actors": "Chiara Mastroianni, Catherine Deneuve, Gena Rowlands",
+      "Plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+      "Language": "French, English, Persian, German",
+      "Country": "France, United States",
+      "Awards": "Nominated for 1 Oscar. 30 wins & 58 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.0",
+      "imdbVotes": "102,920",
+      "imdbID": "tt0808417",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,445,756",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
