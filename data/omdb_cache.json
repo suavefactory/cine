@@ -29582,5 +29582,171 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Toy Story 3|2010": {
+    "lbxd": {
+      "rating": 4.04,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/5/8/46458-toy-story-3-0-500-0-750-crop.jpg?v=d46903002c",
+      "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Animation"
+      ],
+      "country": "USA",
+      "lb_director": "Lee Unkrich",
+      "lb_director_slug": "lee-unkrich",
+      "lb_year": 2010
+    },
+    "omdb": {
+      "Title": "Toy Story 3",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "18 Jun 2010",
+      "Runtime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Lee Unkrich",
+      "Writer": "Michael Arndt, John Lasseter, Andrew Stanton",
+      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
+      "Plot": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 63 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.3",
+      "imdbVotes": "961,588",
+      "imdbID": "tt0435761",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,004,880",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "West Side Story|2021": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yd/j5/tz/up/xW3t04p24jH7aQyq1J63ApAP9gG-0-500-0-750-crop.jpg?v=a25d5f6f88",
+      "description": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Steven Spielberg",
+      "lb_director_slug": "steven-spielberg",
+      "lb_year": 2021
+    },
+    "omdb": {
+      "Title": "West Side Story",
+      "Year": "2021",
+      "Rated": "PG-13",
+      "Released": "10 Dec 2021",
+      "Runtime": "156 min",
+      "Genre": "Crime, Drama, Musical",
+      "Director": "Steven Spielberg",
+      "Writer": "Tony Kushner, Arthur Laurents",
+      "Actors": "Ansel Elgort, Rachel Zegler, Ariana DeBose",
+      "Plot": "When young Tony and Maria fall in love in 1957 New York City, their romance helps to fuel the fire between the warring Jets and Sharks, two rival gangs vying for control of the streets.",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada, United Kingdom",
+      "Awards": "Won 1 Oscar. 72 wins & 298 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWZkYzY2OGUtOGU4Ni00NmI0LTg2ZjAtZDA5OWE0YTNiZWRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.1",
+      "imdbVotes": "121,710",
+      "imdbID": "tt3581652",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$38,530,322",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Indian Runner|1991": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/3/9/35939-the-indian-runner-0-500-0-750-crop.jpg?v=ee71a4798a",
+      "description": "Two brothers cannot overcome their opposite perceptions of life. One brother sees and feels bad in everyone and everything, subsequently he is violent, antisocial and unable to appreciate or enjoy the good things which his brother desperately tries to point out to him.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Sean Penn",
+      "lb_director_slug": "sean-penn",
+      "lb_year": 1991
+    },
+    "omdb": {
+      "Title": "The Indian Runner",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "20 Sep 1991",
+      "Runtime": "127 min",
+      "Genre": "Drama",
+      "Director": "Sean Penn",
+      "Writer": "Sean Penn",
+      "Actors": "David Morse, Viggo Mortensen, Valeria Golino",
+      "Plot": "Late-1960s tragedy of a policeman and his Vietnam veteran brother.",
+      "Language": "English",
+      "Country": "Japan, United States",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTZhNDFlZTgtYjhlZS00NmIyLWJmYTktNzdkNWJlOGZmZTA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "56/100"
+        }
+      ],
+      "Metascore": "56",
+      "imdbRating": "6.9",
+      "imdbVotes": "10,115",
+      "imdbID": "tt0102116",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$191,125",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
