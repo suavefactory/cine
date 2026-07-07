@@ -29748,5 +29748,85 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Filmes Domésticos / Imagens Coloniais|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Thunder Road|1958": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/6/7/5/39675-thunder-road-0-500-0-750-crop.jpg?v=dc30c96df0",
+      "description": "Unrepentant Tennessee moonshine runner Luke Doolin makes dangerous high-speed deliveries for his liquor-producing father, Vernon, but won't let his younger brother Robin join the family business. Under pressure from both out-of-town gangster Kogan, who wants a piece of the local action, and Treasury agent Barrett, who wants to destroy the moonshine business, Luke fights for his fast-fading way of life.",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Arthur Ripley",
+      "lb_director_slug": "arthur-ripley-1",
+      "lb_year": 1958
+    },
+    "omdb": {
+      "Title": "Thunder Road",
+      "Year": "1958",
+      "Rated": "Approved",
+      "Released": "10 May 1958",
+      "Runtime": "92 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Arthur Ripley",
+      "Writer": "James Atlee Phillips, Walter Wise, Robert Mitchum",
+      "Actors": "Robert Mitchum, Gene Barry, Jacques Aubuchon",
+      "Plot": "A veteran comes home from the Korean War to the mountains and takes over the family moonshining business. He has to battle big-city gangsters who are trying to take over the business and the police who are trying to put him in pri...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMyMjJiZDEtY2Y0Ny00ZDkzLWFiNzMtY2UwZGFmMGFlMDBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "6.6",
+      "imdbVotes": "4,758",
+      "imdbID": "tt0052293",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Pelo Adam|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Franz|2025": {
+    "lbxd": {
+      "rating": 3.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/3/4/5/6/1043456-franz-2025-0-500-0-750-crop.jpg?v=5198b4c40f",
+      "description": "Conceived as a kaleidoscopic mosaic, the film follows the imprint Franz Kafka left on the world from his birth in 19th-century Prague to his death in post-WW1 Vienna.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Czechia",
+      "lb_director": "Agnieszka Holland",
+      "lb_director_slug": "agnieszka-holland",
+      "lb_year": 2025
+    },
+    "omdb": null
   }
 }
