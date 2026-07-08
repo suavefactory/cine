@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-07T10:57:23.495959+00:00",
+  "generated": "2026-07-08T10:22:52.213877+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -242,40 +242,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_11016",
-      "title": "SESSÃO 4 | LES NUITS EN OR 2026",
-      "director": null,
-      "duration": 122,
-      "festival": "Les Nuits en Or 2026",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/Sujip_StillsVisuals-by-Justinas-Dadonas-1-min-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/sessao-4-les-nuits-en-or-2026/",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11014",
-      "title": "SESSÃO 3 | LES NUITS EN OR 2026",
-      "director": null,
-      "duration": 116,
-      "festival": "Les Nuits en Or 2026",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/STILL-1_LEES_WAXUL©Nafi-Films-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/sessao-3-les-nuits-en-or-2026/",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
       "id": "cinemateca_20099",
       "title": "Black Tuesday",
       "director": "Hugo Fregonese",
@@ -289,11 +255,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemateca.pt/programacao.aspx?id=20099",
       "sessions": [
         {
-          "date": "2026-07-07",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
           "date": "2026-07-14",
           "time": "21:45",
           "cinema": "cinemateca"
@@ -301,79 +262,6 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.51,
       "plot": "Vicious gangster Vincent Canelli pulls off a daring prison escape just moments before going to the electric chair, taking with him Peter Manning – a bank robber and cop killer who was to die right after him. Taking several hostages along, they try to get their hands on the loot from Manning’s robbery to finance their escape from the country.",
-      "country": "USA",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20139",
-      "title": "Some Came Running",
-      "director": "Vincente Minnelli",
-      "year": 1958,
-      "duration": 136,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/9/0/25890-some-came-running-0-500-0-750-crop.jpg?v=0b36636182",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20139",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.8,
-      "plot": "A former novelist returns to his small Midwest town after serving in the Army during WWII, to the chagrin of his social-climbing brother, and becomes close with an easy-going professional gambler and torn between two very different women.",
-      "country": "USA",
-      "director_lbxd_slug": "vincente-minnelli"
-    },
-    {
-      "id": "cinemateca_20051",
-      "title": "High Fidelity",
-      "director": "Stephen Frears",
-      "year": 2000,
-      "duration": 113,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/fh/qn/as/cp/sEZKCUFU6Ozf7hZ3UuaKWUqHLTZ-0-500-0-750-crop.jpg?v=73f6b8a843",
-      "genres": [
-        "Drama",
-        "Music",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20051",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "After his long-time girlfriend dumps him, a thirty-year-old record store owner seeks to understand why he is unlucky in love while recounting his \"top five breakups of all time\".",
-      "country": "UK",
-      "director_lbxd_slug": "stephen-frears"
-    },
-    {
-      "id": "cinemateca_20089",
-      "title": "Saddle Tramp",
-      "director": "Hugo Fregonese",
-      "year": 1950,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/2/3/5/2/102352-saddle-tramp-0-500-0-750-crop.jpg?v=c4205bf65e",
-      "genres": [
-        "Western"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20089",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "22:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.35,
-      "plot": "Carefree Chuck Connor is on his way west and stops off to see an old friend and his four lads. When his host is killed in a riding accident Chuck realises he must take care of the family. They hit the road and he takes a job on a ranch, but he has to keep the children hidden as his boss hates kids. There's also tension with the neighbouring ranch, and when a girl on the run from her nasty uncle joins the family unannounced Chuck wonders what he has done to deserve all this.",
       "country": "USA",
       "director_lbxd_slug": "hugo-fregonese"
     },
@@ -1283,16 +1171,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/l-aventura-2025",
       "sessions": [
         {
-          "date": "2026-07-07",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-07",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-07-08",
           "time": "20:00",
           "cinema": "nimas"
@@ -1374,72 +1252,67 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "natalie-erika-james"
     },
     {
-      "id": "nimas_a-dama-de-arminho-1948",
-      "title": "A Dama de Arminho",
-      "director": "Ernst Lubitsch",
-      "year": 1948,
-      "duration": 89,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmjfiytgzymytzwe0ms00mgzllwflyzetngu4mwe3zgjiotbhxkeyxkfqcgc_v1_fmjpg_ux960.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-dama-de-arminho-1948",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-anjo-1937",
-      "title": "O Anjo",
-      "director": "Ernst Lubitsch",
-      "year": 1937,
-      "duration": 91,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytg3mjdhogmtndm2zi00mdy2ltlinjytytnkotqwntliyzk3xkeyxkfqcgdeqxvymjuxode0mdy_v1_fmjpg_ux671.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-anjo-1937",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_uma-bela-rapariga-1972",
-      "title": "Uma Bela Rapariga",
+      "id": "nimas_beijos-roubados-1968",
+      "title": "Beijos Roubados",
       "director": "François Truffaut",
-      "year": 1972,
-      "duration": 101,
-      "poster": "https://medeiafilmes.com/uploads/library/une-belle-fille-comme-moi-francois-truffaut-bernadette-lafont-1972-repro-affiche-de-cinema-vintage-hq.jpg",
+      "year": 1968,
+      "duration": 92,
+      "poster": "https://medeiafilmes.com/uploads/library/baisers_voles.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/uma-bela-rapariga-1972",
+      "link": "https://medeiafilmes.com/filmes/beijos-roubados-1968",
       "sessions": [
         {
-          "date": "2026-07-07",
+          "date": "2026-07-08",
+          "time": "18:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-14",
           "time": "16:00",
           "cinema": "nimas"
         }
       ]
     },
     {
-      "id": "nimas_finalmente-domingo-1982",
-      "title": "Finalmente Domingo!",
+      "id": "nimas_o-quarto-verde-1978",
+      "title": "O Quarto Verde",
       "director": "François Truffaut",
-      "year": 1982,
-      "duration": 111,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5byziwmdazowetzdfhmy00ndljlwjkmjgtn2uxmwnlzdvlntczxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "year": 1978,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmtc5ntu4njixnv5bml5banbnxkftztcwnjywmzc3na_v1_fmjpg_ux742.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/finalmente-domingo-1982",
+      "link": "https://medeiafilmes.com/filmes/o-quarto-verde-1978",
       "sessions": [
         {
-          "date": "2026-07-07",
-          "time": "20:00",
+          "date": "2026-07-08",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_ninotchka-1939",
+      "title": "Ninotchka",
+      "director": "Ernst Lubitsch",
+      "year": 1939,
+      "duration": 110,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/4/1/50741-ninotchka-0-500-0-750-crop.jpg?v=23313e051c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ninotchka-1939",
+      "sessions": [
+        {
+          "date": "2026-07-08",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.97,
+      "plot": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+      "country": "USA",
+      "director_lbxd_slug": "ernst-lubitsch"
     },
     {
       "id": "nimas_o-amor-que-perdura-2025",
@@ -1481,67 +1354,21 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-quarto-verde-1978",
-      "title": "O Quarto Verde",
-      "director": "François Truffaut",
-      "year": 1978,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmtc5ntu4njixnv5bml5banbnxkftztcwnjywmzc3na_v1_fmjpg_ux742.jpg",
+      "id": "nimas_o-dossier-anderson-1971",
+      "title": "O Dossier Anderson",
+      "director": "Sidney Lumet",
+      "year": 1971,
+      "duration": 99,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bodyynzdhyjgtmjixns00yziwltg1zjytmjmxnzu1yjnkmdk2xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-quarto-verde-1978",
+      "link": "https://medeiafilmes.com/filmes/o-dossier-anderson-1971",
       "sessions": [
         {
-          "date": "2026-07-08",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_beijos-roubados-1968",
-      "title": "Beijos Roubados",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 92,
-      "poster": "https://medeiafilmes.com/uploads/library/baisers_voles.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/beijos-roubados-1968",
-      "sessions": [
-        {
-          "date": "2026-07-08",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_ninotchka-1939",
-      "title": "Ninotchka",
-      "director": "Ernst Lubitsch",
-      "year": 1939,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/4/1/50741-ninotchka-0-500-0-750-crop.jpg?v=23313e051c",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ninotchka-1939",
-      "sessions": [
-        {
-          "date": "2026-07-08",
+          "date": "2026-07-09",
           "time": "14:00",
           "cinema": "nimas"
         }
-      ],
-      "rating": 3.97,
-      "plot": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
-      "country": "USA",
-      "director_lbxd_slug": "ernst-lubitsch"
+      ]
     },
     {
       "id": "nimas_o-convite-2026",
@@ -1588,23 +1415,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_a-loja-da-esquina-1940",
-      "title": "A Loja da Esquina",
-      "director": "Ernst Lubitsch",
-      "year": 1940,
-      "duration": 99,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmgu3y2rmmtaty2eznc00mjuzlwiymdutzwjmyte2mtu5zdy5xkeyxkfqcgc_v1_fmjpg_uy2937.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-loja-da-esquina-1940",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_jules-e-jim-1962",
       "title": "Jules & Jim",
       "director": "François Truffaut",
@@ -1625,21 +1435,45 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-dossier-anderson-1971",
-      "title": "O Dossier Anderson",
-      "director": "Sidney Lumet",
-      "year": 1971,
+      "id": "nimas_a-loja-da-esquina-1940",
+      "title": "A Loja da Esquina",
+      "director": "Ernst Lubitsch",
+      "year": 1940,
       "duration": 99,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodyynzdhyjgtmjixns00yziwltg1zjytmjmxnzu1yjnkmdk2xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmgu3y2rmmtaty2eznc00mjuzlwiymdutzwjmyte2mtu5zdy5xkeyxkfqcgc_v1_fmjpg_uy2937.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-dossier-anderson-1971",
+      "link": "https://medeiafilmes.com/filmes/a-loja-da-esquina-1940",
       "sessions": [
         {
           "date": "2026-07-09",
-          "time": "14:00",
+          "time": "16:00",
           "cinema": "nimas"
         }
       ]
+    },
+    {
+      "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
+      "title": "Leibniz – Crónica de uma Pintura Perdida",
+      "director": "Edgar Reitz",
+      "year": 2025,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/leibniz-cronica-de-uma-pintura-perdida-2025",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.39,
+      "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
+      "country": "Germany",
+      "director_lbxd_slug": "edgar-reitz"
     },
     {
       "id": "nimas_a-sereia-do-mississipi-1969",
@@ -1657,6 +1491,23 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-10",
           "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_um-dia-de-cao-1975",
+      "title": "Um Dia de Cão",
+      "director": "Sidney Lumet",
+      "year": 1975,
+      "duration": 125,
+      "poster": "https://medeiafilmes.com/uploads/library/yb5axuohizezcghdplqmxocm5e7.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/um-dia-de-cao-1975",
+      "sessions": [
+        {
+          "date": "2026-07-10",
+          "time": "16:30",
           "cinema": "nimas"
         }
       ]
@@ -1702,81 +1553,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
-      "title": "Leibniz – Crónica de uma Pintura Perdida",
-      "director": "Edgar Reitz",
-      "year": 2025,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/leibniz-cronica-de-uma-pintura-perdida-2025",
-      "sessions": [
-        {
-          "date": "2026-07-15",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.39,
-      "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
-      "country": "Germany",
-      "director_lbxd_slug": "edgar-reitz"
-    },
-    {
-      "id": "nimas_um-dia-de-cao-1975",
-      "title": "Um Dia de Cão",
-      "director": "Sidney Lumet",
-      "year": 1975,
-      "duration": 125,
-      "poster": "https://medeiafilmes.com/uploads/library/yb5axuohizezcghdplqmxocm5e7.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/um-dia-de-cao-1975",
-      "sessions": [
-        {
-          "date": "2026-07-10",
-          "time": "16:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_amor-em-fuga-1979",
-      "title": "Amor em Fuga",
-      "director": "François Truffaut",
-      "year": 1979,
-      "duration": 94,
-      "poster": "https://medeiafilmes.com/uploads/library/l-amour-en-fuite_affiche.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/amor-em-fuga-1979",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "20:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_na-idade-da-inocencia-1976",
-      "title": "Na Idade da Inocência",
-      "director": "François Truffaut",
-      "year": 1976,
-      "duration": 106,
-      "poster": "https://medeiafilmes.com/uploads/library/l_argent_de_poche-fr-1720648360.jpeg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/na-idade-da-inocencia-1976",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_madame-dubarry-1919",
       "title": "Madame Dubarry",
       "director": "Ernst Lubitsch",
@@ -1818,18 +1594,35 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-insolentes-1957",
-      "title": "Os Insolentes",
+      "id": "nimas_na-idade-da-inocencia-1976",
+      "title": "Na Idade da Inocência",
       "director": "François Truffaut",
-      "year": 1957,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmgqxzjuxntctmzmxmi00mtiylwjiztetn2m4zgfjmwnindazxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "year": 1976,
+      "duration": 106,
+      "poster": "https://medeiafilmes.com/uploads/library/l_argent_de_poche-fr-1720648360.jpeg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-insolentes-1957",
+      "link": "https://medeiafilmes.com/filmes/na-idade-da-inocencia-1976",
       "sessions": [
         {
-          "date": "2026-07-12",
-          "time": "10:30",
+          "date": "2026-07-11",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_amor-em-fuga-1979",
+      "title": "Amor em Fuga",
+      "director": "François Truffaut",
+      "year": 1979,
+      "duration": 94,
+      "poster": "https://medeiafilmes.com/uploads/library/l-amour-en-fuite_affiche.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/amor-em-fuga-1979",
+      "sessions": [
+        {
+          "date": "2026-07-11",
+          "time": "20:00",
           "cinema": "nimas"
         }
       ]
@@ -1852,6 +1645,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_os-insolentes-1957",
+      "title": "Os Insolentes",
+      "director": "François Truffaut",
+      "year": 1957,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmgqxzjuxntctmzmxmi00mtiylwjiztetn2m4zgfjmwnindazxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/os-insolentes-1957",
+      "sessions": [
+        {
+          "date": "2026-07-12",
+          "time": "10:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_a-noiva-estava-de-luto-1967",
       "title": "A Noiva Estava de Luto",
       "director": "François Truffaut",
@@ -1864,6 +1674,23 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-12",
           "time": "21:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_uma-mulher-para-dois-1933",
+      "title": "Uma Mulher para Dois",
+      "director": "Ernst Lubitsch",
+      "year": 1933,
+      "duration": 91,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgi0otrlodgtmme0mc00yjrjltgwmdytn2rlmjk4yjm2n2zlxkeyxkfqcgdeqxvynjmwmjk0mtq_v1_fmjpg_ux554.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/uma-mulher-para-dois-1933",
+      "sessions": [
+        {
+          "date": "2026-07-12",
+          "time": "17:00",
           "cinema": "nimas"
         }
       ]
@@ -1886,18 +1713,18 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_uma-mulher-para-dois-1933",
-      "title": "Uma Mulher para Dois",
-      "director": "Ernst Lubitsch",
-      "year": 1933,
-      "duration": 91,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgi0otrlodgtmme0mc00yjrjltgwmdytn2rlmjk4yjm2n2zlxkeyxkfqcgdeqxvynjmwmjk0mtq_v1_fmjpg_ux554.jpg",
+      "id": "nimas_as-duas-inglesas-e-o-continente-1971",
+      "title": "As Duas Inglesas e o Continente",
+      "director": "François Truffaut",
+      "year": 1971,
+      "duration": 130,
+      "poster": "https://medeiafilmes.com/uploads/library/les-deux-anglaises-et-le-continent-40x60-cm-pliee.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/uma-mulher-para-dois-1933",
+      "link": "https://medeiafilmes.com/filmes/as-duas-inglesas-e-o-continente-1971",
       "sessions": [
         {
-          "date": "2026-07-12",
-          "time": "17:00",
+          "date": "2026-07-13",
+          "time": "18:30",
           "cinema": "nimas"
         }
       ]
@@ -1951,57 +1778,6 @@ window.CINEMA_DATA = {
       "country": "Philippines"
     },
     {
-      "id": "nimas_as-duas-inglesas-e-o-continente-1971",
-      "title": "As Duas Inglesas e o Continente",
-      "director": "François Truffaut",
-      "year": 1971,
-      "duration": 130,
-      "poster": "https://medeiafilmes.com/uploads/library/les-deux-anglaises-et-le-continent-40x60-cm-pliee.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/as-duas-inglesas-e-o-continente-1971",
-      "sessions": [
-        {
-          "date": "2026-07-13",
-          "time": "18:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-mulher-do-lado-1981",
-      "title": "A Mulher do Lado",
-      "director": "François Truffaut",
-      "year": 1981,
-      "duration": 106,
-      "poster": "https://medeiafilmes.com/uploads/library/xokdfuwxnawh0xk0uwgcfj1fpbw-187.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-mulher-do-lado-1981",
-      "sessions": [
-        {
-          "date": "2026-07-14",
-          "time": "20:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-princesa-das-ostras-1919",
-      "title": "A Princesa das Ostras",
-      "director": "Ernst Lubitsch",
-      "year": 1919,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bogm3ztvmzdytmgvmmi00mtniltkyntytmme3mddmmwzmogywxkeyxkfqcgc_v1_fmjpg_ux478.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-princesa-das-ostras-1919",
-      "sessions": [
-        {
-          "date": "2026-07-14",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_2046-2004",
       "title": "2046",
       "director": "Wong Kar Wai",
@@ -2026,6 +1802,40 @@ window.CINEMA_DATA = {
       "country": "Germany"
     },
     {
+      "id": "nimas_a-princesa-das-ostras-1919",
+      "title": "A Princesa das Ostras",
+      "director": "Ernst Lubitsch",
+      "year": 1919,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bogm3ztvmzdytmgvmmi00mtniltkyntytmme3mddmmwzmogywxkeyxkfqcgc_v1_fmjpg_ux478.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-princesa-das-ostras-1919",
+      "sessions": [
+        {
+          "date": "2026-07-14",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_a-mulher-do-lado-1981",
+      "title": "A Mulher do Lado",
+      "director": "François Truffaut",
+      "year": 1981,
+      "duration": 106,
+      "poster": "https://medeiafilmes.com/uploads/library/xokdfuwxnawh0xk0uwgcfj1fpbw-187.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-mulher-do-lado-1981",
+      "sessions": [
+        {
+          "date": "2026-07-14",
+          "time": "20:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_angustia-1963",
       "title": "Angústia",
       "director": "François Truffaut",
@@ -2038,23 +1848,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-15",
           "time": "13:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-menino-selvagem-1970",
-      "title": "O Menino Selvagem",
-      "director": "François Truffaut",
-      "year": 1970,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2u5zmu5ytmtzjziyy00ndg3ltgyzgmtownhntm5mjfmyjvlxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-menino-selvagem-1970",
-      "sessions": [
-        {
-          "date": "2026-07-15",
-          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -2077,6 +1870,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_o-menino-selvagem-1970",
+      "title": "O Menino Selvagem",
+      "director": "François Truffaut",
+      "year": 1970,
+      "duration": 85,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2u5zmu5ytmtzjziyy00ndg3ltgyzgmtownhntm5mjfmyjvlxkeyxkfqcgc_v1.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-menino-selvagem-1970",
+      "sessions": [
+        {
+          "date": "2026-07-15",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "fernando_aos_nossos_amigos",
       "title": "Aos Nossos Amigos",
       "director": "Adrián Orr",
@@ -2090,11 +1900,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
       "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-07-08",
           "time": "21:00",
@@ -2185,11 +1990,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
       "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-07-12",
           "time": "14:30",
@@ -2671,16 +2471,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64076",
       "sessions": [
         {
-          "date": "2026-07-07",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-07",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-07-08",
           "time": "16:45",
           "cinema": "ideal"
@@ -2741,25 +2531,6 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ]
-    },
-    {
-      "id": "ideal_fogo_do_vento",
-      "title": "FOGO DO VENTO",
-      "director": "Marta Mateus",
-      "year": 2024,
-      "duration": 74,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-3-4.jpg",
-      "genres": [],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63018",
-      "sessions": [
-        {
-          "date": "2026-07-07",
-          "time": "18:45",
-          "cinema": "ideal"
-        }
-      ],
-      "country": "Portugal"
     },
     {
       "id": "ideal_persepolis",
@@ -2908,36 +2679,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "david-lynch"
     },
     {
-      "id": "campo_alegre_mulholland-drive-2001",
-      "title": "Mulholland Drive",
-      "director": "David Lynch",
-      "year": 2001,
-      "duration": 147,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-500-0-750-crop.jpg?v=3d69c00608",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/mulholland-drive-2001",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "21:15",
-          "cinema": "campo_alegre"
-        }
-      ],
-      "rating": 4.26,
-      "plot": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
-      "country": "France",
-      "director_lbxd_slug": "david-lynch"
-    },
-    {
       "id": "campo_alegre_twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
       "title": "​Twin Peaks: Os Últimos Sete Dias de Laura Palmer",
       "director": "David Lynch",
@@ -2981,6 +2722,36 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "campo_alegre_mulholland-drive-2001",
+      "title": "Mulholland Drive",
+      "director": "David Lynch",
+      "year": 2001,
+      "duration": 147,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-500-0-750-crop.jpg?v=3d69c00608",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/mulholland-drive-2001",
+      "sessions": [
+        {
+          "date": "2026-07-11",
+          "time": "18:00",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "21:15",
+          "cinema": "campo_alegre"
+        }
+      ],
+      "rating": 4.26,
+      "plot": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+      "country": "France",
+      "director_lbxd_slug": "david-lynch"
+    },
+    {
       "id": "campo_alegre_uma-historia-simples-1999",
       "title": "Uma História Simples",
       "director": "David Lynch",
@@ -3017,6 +2788,40 @@ window.CINEMA_DATA = {
           "cinema": "campo_alegre"
         }
       ]
+    },
+    {
+      "id": "culturgest_ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
+      "title": "Ouvir, Pensar, Escrever",
+      "director": "Listen, Think, Write",
+      "year": null,
+      "duration": null,
+      "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/52/5a/525a8495-24d0-4a98-a8ad-07be8eff62cd/maria_filomena_cor_som_mistura_final00_00_03_16still005.jpeg__768x768_q85_crop_subject_location-914%2C439_subsampling-2_upscale.jpg",
+      "genres": [],
+      "link": "https://www.culturgest.pt/en/whats-on/ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
+      "sessions": [
+        {
+          "date": "2026-09-29",
+          "time": "19:00",
+          "cinema": "culturgest"
+        }
+      ]
+    },
+    {
+      "id": "culturgest_rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
+      "title": "Mali Futur Live",
+      "director": "Rimini Protokoll / Théâtre Vidy-Lausanne / Les Praticables",
+      "year": null,
+      "duration": null,
+      "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/84/1f/841fb292-70a2-4164-b2e3-a9d532cac8d7/t-vidy_mali_futur_liveclaudia_ndebele-2.jpg__768x768_q85_crop_subsampling-2_upscale.jpg",
+      "genres": [],
+      "link": "https://www.culturgest.pt/en/whats-on/rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "17:00",
+          "cinema": "culturgest"
+        }
+      ]
     }
   ],
   "directors": {
@@ -3035,16 +2840,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fregonese.png/500px-Fregonese.png",
       "bio": "Hugo Geronimo Fregonese (8 April 1908 – 11 January 1987) was an Argentine film director and screenwriter who worked both in Hollywood and his home country during the classical era of Argentine cinema. He made his directorial debut in 1943. In 1949, he directed Apenas un delincuente."
     },
-    "Vincente Minnelli": {
-      "lbxd_slug": "vincente-minnelli",
-      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Vincent_Minelli_-_1950s.jpg/500px-Vincent_Minelli_-_1950s.jpg",
-      "bio": "Vincente Minnelli ( ; born Lester Anthony Minnelli; February 28, 1903 – July 25, 1986) was an American stage director and film director. From a career spanning over half a century, he is best known for his sophisticated innovation and artistry in musical films. As of 2026, six of his films have been selected for preservation in the United States National Film Registry."
-    },
-    "Stephen Frears": {
-      "lbxd_slug": "stephen-frears",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Stephen_Frears_OIFF_2014-07-12_113913_%28cropped%29.jpg/500px-Stephen_Frears_OIFF_2014-07-12_113913_%28cropped%29.jpg",
-      "bio": "Sir Stephen Arthur Frears (born 20 June 1941) is a British director and producer of film and television, often depicting real-life stories as well as projects that explore social class through sharply-drawn characters. He has received numerous accolades including three BAFTA Awards, and a Primetime Emmy Award as well as nominations for two Academy Awards. In 2008, The Daily Telegraph named Frears among the 100 most influential people in British culture."
-    },
     "Manoel de Oliveira": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg",
@@ -3053,7 +2848,7 @@ window.CINEMA_DATA = {
     "Norman Taurog": {
       "lbxd_slug": "norman-taurog",
       "photo": null,
-      "bio": null
+      "bio": "Norman Rae Taurog (February 23, 1899 – April 7, 1981) was an American film director and screenwriter. From 1920 to 1968, Taurog directed 180 films. At the age of 32, he received the Academy Award for Best Director for Skippy (1931), becoming the youngest person to win the award for eight and a half decades."
     },
     "Aleksandr Dovjenko": {
       "lbxd_slug": null,
@@ -3220,22 +3015,17 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Ernst Lubitsch": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "François Truffaut": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Hlynur Pálmason": {
-      "lbxd_slug": null,
+    "Ernst Lubitsch": {
+      "lbxd_slug": "ernst-lubitsch",
       "photo": null,
       "bio": null
     },
-    "Olivia Wilde": {
+    "Hlynur Pálmason": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -3245,13 +3035,18 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Wong Kar Wai": {
-      "lbxd_slug": "wong-kar-wai",
+    "Olivia Wilde": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
     "Edgar Reitz": {
       "lbxd_slug": "edgar-reitz",
+      "photo": null,
+      "bio": null
+    },
+    "Wong Kar Wai": {
+      "lbxd_slug": "wong-kar-wai",
       "photo": null,
       "bio": null
     },
@@ -3370,11 +3165,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Marta Mateus": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Marjane Satrapi, Vincent Paronnaud": {
       "lbxd_slug": null,
       "photo": null,
@@ -3387,6 +3177,16 @@ window.CINEMA_DATA = {
     },
     "David Lynch": {
       "lbxd_slug": "david-lynch",
+      "photo": null,
+      "bio": null
+    },
+    "Listen, Think, Write": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Rimini Protokoll / Théâtre Vidy-Lausanne / Les Praticables": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     }

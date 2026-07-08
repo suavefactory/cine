@@ -29828,5 +29828,59 @@
       "lb_year": 2025
     },
     "omdb": null
+  },
+  "Eldorado Xxi|2016": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/7/2/7/2/317272-eldorado-xxi-0-500-0-750-crop.jpg?v=d555356ce3",
+      "description": "The panoramic shots are breathtaking: a majestic mountain landscape in winter, flat-roofed tin shacks cowering next to one other, women perched on steep slopes using primitive tools to break through pieces of rock. La Rinconada is situated over 5,000 meters high in the Peruvian Andes, on the edge of a gold mine. This 21st century El Dorado is an inhospitable place, where untold numbers of people live and work in the most precarious of conditions, hoping both for gold and a better life. Salomé Lamas has constructed a cinematic diptych to convey the extremity of this situation and the dimensions of its misery without having to resort to graphic images.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Salomé Lamas",
+      "lb_director_slug": "salome-lamas",
+      "lb_year": 2016
+    },
+    "omdb": {
+      "Title": "Eldorado XXI",
+      "Year": "2016",
+      "Rated": "Not Rated",
+      "Released": "09 Feb 2017",
+      "Runtime": "125 min",
+      "Genre": "Documentary",
+      "Director": "Salomé Lamas",
+      "Writer": "Salomé Lamas",
+      "Actors": "N/A",
+      "Plot": "This 21st century El Dorado is an inhospitable place, where untold numbers of people live and work in the most precarious of conditions, hoping both for gold and a better life.",
+      "Language": "Spanish, Quechua, Aymara",
+      "Country": "Portugal, France",
+      "Awards": "2 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDU1ZjRiM2EtNDE3NS00ZGIyLWIzNzctZTZlNDM5YjQ2OGM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "162",
+      "imdbID": "tt5592444",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Ouvir, Pensar, Escrever|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Mali Futur Live|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
