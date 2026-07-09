@@ -29882,5 +29882,340 @@
   "Mali Futur Live|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "Old Shatterhand|1964": {
+    "lbxd": {
+      "rating": 3.32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/5/3/47053-old-shatterhand-0-500-0-750-crop.jpg?v=6033513df3",
+      "description": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
+      "genres": [
+        "Western",
+        "Adventure"
+      ],
+      "country": "France",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1964
+    },
+    "omdb": {
+      "Title": "Old Shatterhand",
+      "Year": "1964",
+      "Rated": "N/A",
+      "Released": "05 Jun 1968",
+      "Runtime": "89 min",
+      "Genre": "Adventure, Drama, Western",
+      "Director": "Hugo Fregonese",
+      "Writer": "Karl May, Ladislas Fodor, Robert A. Stemmle",
+      "Actors": "Lex Barker, Pierre Brice, Daliah Lavi",
+      "Plot": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
+      "Language": "German, English",
+      "Country": "West Germany, France, Italy, Yugoslavia",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjU5MWQxMjItMDYzOS00NDcyLTljOWItYjNkMmM1N2E0MDUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "1,863",
+      "imdbID": "tt0057380",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Rocky Horror Picture Show|1975": {
+    "lbxd": {
+      "rating": 4.05,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/9/8/27698-the-rocky-horror-picture-show-0-500-0-750-crop.jpg?v=737e51d6bc",
+      "description": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "country": "UK",
+      "lb_director": "Jim Sharman",
+      "lb_director_slug": "jim-sharman",
+      "lb_year": 1975
+    },
+    "omdb": {
+      "Title": "The Rocky Horror Picture Show",
+      "Year": "1975",
+      "Rated": "R",
+      "Released": "29 Sep 1975",
+      "Runtime": "100 min",
+      "Genre": "Comedy, Horror, Musical",
+      "Director": "Jim Sharman",
+      "Writer": "Richard O'Brien, Jim Sharman",
+      "Actors": "Tim Curry, Susan Sarandon, Barry Bostwick",
+      "Plot": "A rain-soaked couple take refuge in the castle of a transvestite mad scientist from outer space who is about to unveil his greatest creation.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "4 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg2YzY5ZGYtNDk1My00N2Q2LWFhN2YtZWU5YTkzODIyZGRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "7.4",
+      "imdbVotes": "182,388",
+      "imdbID": "tt0073629",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$115,670,886",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "25th HOUR|2002": {
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/u7/my/x3/r6/tQb3wOKzo3XxFSY6ApO7OfLHGUM-0-500-0-750-crop.jpg?v=038db726da",
+      "description": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Spike Lee",
+      "lb_director_slug": "spike-lee",
+      "lb_year": 2002
+    },
+    "omdb": {
+      "Title": "25th Hour",
+      "Year": "2002",
+      "Rated": "R",
+      "Released": "10 Jan 2003",
+      "Runtime": "135 min",
+      "Genre": "Drama",
+      "Director": "Spike Lee",
+      "Writer": "David Benioff",
+      "Actors": "Edward Norton, Barry Pepper, Philip Seymour Hoffman",
+      "Plot": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 wins & 17 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0OWI0ZjktZTM0My00NmI3LTkzNDEtYzJiODE1ODM0MDk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "7.6",
+      "imdbVotes": "187,630",
+      "imdbID": "tt0307901",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$13,084,595",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Raid|1954": {
+    "lbxd": {
+      "rating": 3.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/4/0/9/61409-the-raid-0-500-0-750-crop.jpg?v=76156732f8",
+      "description": "A group of confederate prisoners escape to Canada and plan to rob the banks and set fire to the small town of Saint Albans in Vermont. To get the lie of the land, their leader spends a few days in the town and finds he is getting drawn into its life and especially into that of an attractive widow and her son.",
+      "genres": [
+        "War",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1954
+    },
+    "omdb": {
+      "Title": "The Raid",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "04 Aug 1954",
+      "Runtime": "83 min",
+      "Genre": "War, Western",
+      "Director": "Hugo Fregonese",
+      "Writer": "Sydney Boehm, Francis M. Cockrell, Herbert Ravenel Sass",
+      "Actors": "Van Heflin, Anne Bancroft, Richard Boone",
+      "Plot": "A group of Confederate prisoners escape to Canada and plan to rob the banks and set fire to the small town of Saint Albans, Vermont. To get the lay of the land, their leader spends a few days in the town and finds he is getting dr...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRmZjMzZGMtOWJiOC00OTg2LWExZTQtN2RkZmYxNDczYjJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,094",
+      "imdbID": "tt0047388",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Barkleys Of Broadway|1949": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/4/6/3/32463-the-barkleys-of-broadway-0-500-0-750-crop.jpg?v=665027d9bc",
+      "description": "Josh and Dinah Barkley are a successful musical-comedy team, known for their stormy but passionate relationship. Dinah feels overshadowed by Josh and limited by the lighthearted musical roles he directs her in. So she decides to stretch her skills by taking a role in a serious drama, directed by another man.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Charles Walters",
+      "lb_director_slug": "charles-walters",
+      "lb_year": 1949
+    },
+    "omdb": {
+      "Title": "The Barkleys of Broadway",
+      "Year": "1949",
+      "Rated": "Approved",
+      "Released": "01 Sep 1949",
+      "Runtime": "109 min",
+      "Genre": "Comedy, Musical",
+      "Director": "Charles Walters",
+      "Writer": "Betty Comden, Adolph Green, Sidney Sheldon",
+      "Actors": "Fred Astaire, Ginger Rogers, Oscar Levant",
+      "Plot": "A married musical team splits up so the wife can become a serious actress.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNlY2EzMDQtYTdkYy00MmI4LTk3MmMtY2E5MjY0NTljYzUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "55%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "3,560",
+      "imdbID": "tt0041158",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Hard Day’s Night|1964": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/2/2/51422-a-hard-day-s-night-0-500-0-750-crop.jpg?v=22ce36cf37",
+      "description": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "country": "UK",
+      "lb_director": "Richard Lester",
+      "lb_director_slug": "richard-lester",
+      "lb_year": 1964
+    },
+    "omdb": {
+      "Title": "A Hard Day's Night",
+      "Year": "1964",
+      "Rated": "G",
+      "Released": "07 Jul 1964",
+      "Runtime": "87 min",
+      "Genre": "Comedy, Musical",
+      "Director": "Richard Lester",
+      "Writer": "Alun Owen",
+      "Actors": "John Lennon, Paul McCartney, George Harrison",
+      "Plot": "Over two \"typical\" days in the life of The Beatles, the boys struggle to keep themselves and Paul McCartney's mischievous grandfather in check while preparing for a live TV performance.",
+      "Language": "English, German, French",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 2 Oscars. 2 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY3OGNkM2QtYWZjMi00NTVhLTkzZWQtZTcyMGNhNjczNWVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "7.5",
+      "imdbVotes": "50,043",
+      "imdbID": "tt0058182",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,480,356",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Homem Que Gostava Das Mulheres|1977": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Finalmente Domingo!|1983": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Jules e Jim|1962": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Disparem sobre o Pianista|1960": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Angústia|1964": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Noiva Estava de Luto|1968": {
+    "lbxd": null,
+    "omdb": null
   }
 }
