@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-09T10:56:35.796698+00:00",
+  "generated": "2026-07-10T10:53:56.474134+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -206,95 +206,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "cinemateca_20117",
-      "title": "Blue Hawaii",
-      "director": "Norman Taurog",
-      "year": 1961,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/8/7/40487-blue-hawaii-0-500-0-750-crop.jpg?v=de13d94054",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Music"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20117",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 2.95,
-      "plot": "Chad Gates has just been discharged from the Army, and is happy to be back in Hawaii with his surf-board, his beach buddies and his girlfriend.",
-      "country": "USA",
-      "director_lbxd_slug": "norman-taurog"
-    },
-    {
-      "id": "cinemateca_20143",
-      "title": "Zemlya",
-      "director": "Aleksandr Dovjenko",
-      "year": 1930,
-      "duration": 87,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20143",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20047",
-      "title": "In Einem Jahr Mit 13 Monden",
-      "director": "Rainer Werner Fassbinder",
-      "year": 1978,
-      "duration": 124,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20047",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20103",
-      "title": "Die Todesstrahlen Des Dr. Mabuse",
-      "director": "Victor De Santis, Hugo Fregonese",
-      "year": 1964,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/8/3/7/39837-the-death-ray-of-dr-mabuse-0-500-0-750-crop.jpg?v=47586d3661",
-      "genres": [
-        "Thriller",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20103",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-18",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 2.92,
-      "plot": "The evil Dr. Mabuse develops a death ray with which he threatens the world.",
-      "country": "France",
-      "director_lbxd_slug": "hugo-fregonese"
     },
     {
       "id": "cinemateca_20053",
@@ -520,11 +431,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinemateca.pt/programacao.aspx?id=20125",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "23:30",
-          "cinema": "batalha"
-        },
         {
           "date": "2026-07-13",
           "time": "15:30",
@@ -1011,6 +917,31 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "steven-spielberg"
     },
     {
+      "id": "cinemateca_20104",
+      "title": "Die Todesstrahlen Des Dr. Mabuse",
+      "director": "Victor De Santis, Hugo Fregonese",
+      "year": 1964,
+      "duration": 90,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/8/3/7/39837-the-death-ray-of-dr-mabuse-0-500-0-750-crop.jpg?v=47586d3661",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20104",
+      "sessions": [
+        {
+          "date": "2026-07-18",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 2.92,
+      "plot": "The evil Dr. Mabuse develops a death ray with which he threatens the world.",
+      "country": "France",
+      "director_lbxd_slug": "hugo-fregonese"
+    },
+    {
       "id": "cinemateca_20067",
       "title": "The Indian Runner",
       "director": "Sean Penn",
@@ -1221,6 +1152,103 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "richard-lester"
     },
     {
+      "id": "cinemateca_20152",
+      "title": "The Postman Always Rings Twice",
+      "director": "Tay Garnett",
+      "year": 1946,
+      "duration": 113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/3/6/35836-the-postman-always-rings-twice-0-500-0-750-crop.jpg?v=e4d0eae6b1",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20152",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.61,
+      "plot": "A married woman and a drifter fall in love, then plot to murder her husband.",
+      "country": "USA",
+      "director_lbxd_slug": "tay-garnett"
+    },
+    {
+      "id": "cinemateca_20073",
+      "title": "Mask",
+      "director": "Peter Bogdanovich",
+      "year": 1985,
+      "duration": 127,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/5/3/1/45531-mask-0-500-0-750-crop.jpg?v=990385513a",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20073",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.59,
+      "plot": "A significantly deformed but highly intelligent teenage boy and his biker gang mother attempt to live as normal a life as possible under the circumstances.",
+      "country": "USA",
+      "director_lbxd_slug": "peter-bogdanovich"
+    },
+    {
+      "id": "cinemateca_20084",
+      "title": "The Mark Of The Renegade",
+      "director": "Hugo Fregonese",
+      "year": 1951,
+      "duration": 81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/5/1/8/0/195180-the-mark-of-the-renegade-0-500-0-750-crop.jpg?v=ad90654336",
+      "genres": [
+        "Adventure",
+        "Western",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20084",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "An agent of Mexico poses as a pirate to foil a would-be emperor in 1820s California.",
+      "country": "USA",
+      "director_lbxd_slug": "hugo-fregonese"
+    },
+    {
+      "id": "cinemateca_20074",
+      "title": "The Wrestler",
+      "director": "Darren Aronofsky",
+      "year": 2008,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ud/52/sl/57/huooRmB7yksJyVVSkqOgitxlCec-0-500-0-750-crop.jpg?v=c955e64453",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20074",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.08,
+      "plot": "Aging wrestler Randy \"The Ram\" Robinson is long past his prime but still ready and rarin' to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can't resist the lure of the ring and readies himself for a comeback.",
+      "country": "USA",
+      "director_lbxd_slug": "darren-aronofsky"
+    },
+    {
       "id": "nimas_o-convite-2026",
       "title": "O Convite",
       "director": "Olivia Wilde",
@@ -1230,26 +1258,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-convite-2026",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-09",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-09",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-09",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-10",
           "time": "16:30",
@@ -1403,23 +1411,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "natalie-erika-james"
     },
     {
-      "id": "nimas_a-loja-da-esquina-1940",
-      "title": "A Loja da Esquina",
-      "director": "Ernst Lubitsch",
-      "year": 1940,
-      "duration": 99,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmgu3y2rmmtaty2eznc00mjuzlwiymdutzwjmyte2mtu5zdy5xkeyxkfqcgc_v1_fmjpg_uy2937.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-loja-da-esquina-1940",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_domicilio-conjugal-1970",
       "title": "Domicílio Conjugal",
       "director": "François Truffaut",
@@ -1430,51 +1421,9 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/domicilio-conjugal-1970",
       "sessions": [
         {
-          "date": "2026-07-09",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-07-15",
           "time": "14:30",
           "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-dossier-anderson-1971",
-      "title": "O Dossier Anderson",
-      "director": "Sidney Lumet",
-      "year": 1971,
-      "duration": 99,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodyynzdhyjgtmjixns00yziwltg1zjytmjmxnzu1yjnkmdk2xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-dossier-anderson-1971",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_jules-e-jim-1962",
-      "title": "Jules & Jim",
-      "director": "François Truffaut",
-      "year": 1962,
-      "duration": 106,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2y0nmflmmutotgwoc00mjvlltk3ngetzwnmywzlmmi3odblxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/jules-e-jim-1962",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "22:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Clara Rowland e José Bértolo"
-          ]
         }
       ]
     },
@@ -1744,11 +1693,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-ultimo-metro-1980",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "21:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-12",
           "time": "19:00",
@@ -2097,11 +2041,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
       "sessions": [
         {
-          "date": "2026-07-09",
-          "time": "17:00",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-11",
           "time": "18:30",
           "cinema": "fernando"
@@ -2131,21 +2070,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/PELO-ADAM",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-09",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-09",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-10",
           "time": "19:15",
@@ -2217,11 +2141,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/FRANZ",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-07-10",
           "time": "21:15",
@@ -2330,11 +2249,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/DOIS-PROCURADORES",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-10",
           "time": "17:00",
@@ -2611,115 +2525,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "trindade_8670",
-      "title": "O Homem Que Gostava Das Mulheres",
-      "director": "François Truffaut",
-      "year": 1977,
-      "duration": 118,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-homem-que-gostava-das-mulheres",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8690",
-      "title": "Finalmente Domingo!",
-      "director": "François Truffaut",
-      "year": 1983,
-      "duration": 111,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/finalmente-domingo",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "17:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8593",
-      "title": "Broken English",
-      "director": "Jane Pollard, Iain Forsyth",
-      "year": 2025,
-      "duration": 100,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/brokenenglish-1.jpg",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/broken-english",
-      "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-09",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-10",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-10",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-11",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-12",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-12",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-13",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-15",
-          "time": "19:15",
-          "cinema": "ideal"
-        }
-      ],
-      "country": "United Kingdom"
-    },
-    {
       "id": "trindade_8658",
       "title": "Uma Bela Rapariga",
       "director": "François Truffaut",
@@ -2880,6 +2685,71 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "trindade_8593",
+      "title": "Broken English",
+      "director": "Jane Pollard, Iain Forsyth",
+      "year": 2025,
+      "duration": 100,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/brokenenglish-1.jpg",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/broken-english",
+      "sessions": [
+        {
+          "date": "2026-07-10",
+          "time": "15:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-10",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-11",
+          "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "15:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-12",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-13",
+          "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "15:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-14",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-15",
+          "time": "19:15",
+          "cinema": "ideal"
+        }
+      ],
+      "country": "United Kingdom"
+    },
+    {
       "id": "trindade_7604",
       "title": "A Noiva Estava de Luto",
       "director": "François Truffaut",
@@ -2945,7 +2815,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_persepolis",
       "title": "PERSEPOLIS",
-      "director": "Marjane Satrapi, Vincent Paronnaud",
+      "director": "Vincent Paronnaud, Marjane Satrapi",
       "year": 2007,
       "duration": 96,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-1-11.jpg",
@@ -2994,7 +2864,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_um_poeta",
       "title": "UM POETA",
-      "director": "Simón Mesa Soto",
+      "director": "Guga Coelho",
       "year": 2015,
       "duration": 90,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/7866e6ce-742d-fc22-bdc2-55ddfe63be0c.jpg",
@@ -3004,11 +2874,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63833",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-11",
           "time": "17:00",
@@ -3040,11 +2905,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/eraserhead-no-ceu-tudo-e-perfeito-1977",
       "sessions": [
-        {
-          "date": "2026-07-09",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-07-12",
           "time": "21:45",
@@ -3245,35 +3105,15 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "screenwriter"
     },
-    "Norman Taurog": {
-      "lbxd_slug": "norman-taurog",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Norman_Taurog_%281899%E2%80%931981%29.png",
-      "bio": "Norman Rae Taurog (February 23, 1899 – April 7, 1981) was an American film director and screenwriter. From 1920 to 1968, Taurog directed 180 films. At the age of 32, he received the Academy Award for Best Director for Skippy (1931), becoming the youngest person to win the award for eight and a half decades."
-    },
-    "Aleksandr Dovjenko": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Rainer Werner Fassbinder": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Victor De Santis, Hugo Fregonese": {
-      "lbxd_slug": "hugo-fregonese",
-      "photo": null,
-      "bio": null
-    },
     "Jonathan Demme": {
       "lbxd_slug": "jonathan-demme",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jonathan_Demme_%28May_2015_small%29.JPG/500px-Jonathan_Demme_%28May_2015_small%29.JPG",
+      "bio": "Robert Jonathan Demme ( DEM-ee; February 22, 1944 – April 26, 2017) was an American filmmaker. His career of directing, producing, and screenwriting spanned more than 30 years and 70 feature films, documentaries, and television productions. In addition to being an Academy Award and a Directors Guild of America Award winner, he received nominations for a BAFTA Award, a Golden Globe Award, and three Independent Spirit Awards."
     },
     "Terrence Malick": {
       "lbxd_slug": "terrence-malick",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terrence_Malick%2C_1993.jpg/500px-Terrence_Malick%2C_1993.jpg",
+      "bio": "Terrence Frederick Malick (; born November 30, 1943) is an American filmmaker. Malick began his career as part of the New Hollywood generation of filmmakers and received numerous accolades, including the Palme d'Or and the Golden Bear, in addition to nominations for three Academy Awards, a Golden Globe Award, a DGA Award, and a WGA Award. Malick made his feature film debut with the crime drama Badlands (1973), followed by the romantic period drama Days of Heaven (1978), which earned him a nomination for the Golden Globe Award for Best Director."
     },
     "Salomé Lamas": {
       "lbxd_slug": "salome-lamas",
@@ -3395,6 +3235,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Victor De Santis, Hugo Fregonese": {
+      "lbxd_slug": "hugo-fregonese",
+      "photo": null,
+      "bio": null
+    },
     "Sean Penn": {
       "lbxd_slug": "sean-penn",
       "photo": null,
@@ -3425,6 +3270,21 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Tay Garnett": {
+      "lbxd_slug": "tay-garnett",
+      "photo": null,
+      "bio": null
+    },
+    "Peter Bogdanovich": {
+      "lbxd_slug": "peter-bogdanovich",
+      "photo": null,
+      "bio": null
+    },
+    "Darren Aronofsky": {
+      "lbxd_slug": "darren-aronofsky",
+      "photo": null,
+      "bio": null
+    },
     "Olivia Wilde": {
       "lbxd_slug": null,
       "photo": null,
@@ -3437,11 +3297,6 @@ window.CINEMA_DATA = {
     },
     "Natalie Erika James": {
       "lbxd_slug": "natalie-erika-james",
-      "photo": null,
-      "bio": null
-    },
-    "Ernst Lubitsch": {
-      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -3467,6 +3322,11 @@ window.CINEMA_DATA = {
     },
     "Sophie Letourneur": {
       "lbxd_slug": "sophie-letourneur",
+      "photo": null,
+      "bio": null
+    },
+    "Ernst Lubitsch": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -3575,11 +3435,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
       "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
     },
-    "Jane Pollard, Iain Forsyth": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "François Ozon": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
@@ -3595,17 +3450,22 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
       "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
     },
+    "Jane Pollard, Iain Forsyth": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Karim Aïnouz": {
       "lbxd_slug": "karim-ainouz-1",
       "photo": null,
       "bio": null
     },
-    "Marjane Satrapi, Vincent Paronnaud": {
+    "Vincent Paronnaud, Marjane Satrapi": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Simón Mesa Soto": {
+    "Guga Coelho": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -3626,5 +3486,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

@@ -30217,5 +30217,171 @@
   "A Noiva Estava de Luto|1968": {
     "lbxd": null,
     "omdb": null
+  },
+  "The Postman Always Rings Twice|1946": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/3/6/35836-the-postman-always-rings-twice-0-500-0-750-crop.jpg?v=e4d0eae6b1",
+      "description": "A married woman and a drifter fall in love, then plot to murder her husband.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Tay Garnett",
+      "lb_director_slug": "tay-garnett",
+      "lb_year": 1946
+    },
+    "omdb": {
+      "Title": "The Postman Always Rings Twice",
+      "Year": "1946",
+      "Rated": "Approved",
+      "Released": "06 Sep 1946",
+      "Runtime": "113 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Tay Garnett",
+      "Writer": "Harry Ruskin, Niven Busch, James M. Cain",
+      "Actors": "Lana Turner, John Garfield, Cecil Kellaway",
+      "Plot": "A married woman and a drifter fall in love and plot to murder her husband.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJmNjVlMTQtYWIyYy00NDc0LWI0NjAtNTJjYTAxMDE2ZWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "7.4",
+      "imdbVotes": "24,250",
+      "imdbID": "tt0038854",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Mask|1985": {
+    "lbxd": {
+      "rating": 3.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/5/3/1/45531-mask-0-500-0-750-crop.jpg?v=990385513a",
+      "description": "A significantly deformed but highly intelligent teenage boy and his biker gang mother attempt to live as normal a life as possible under the circumstances.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Peter Bogdanovich",
+      "lb_director_slug": "peter-bogdanovich",
+      "lb_year": 1985
+    },
+    "omdb": {
+      "Title": "Mask",
+      "Year": "1985",
+      "Rated": "PG-13",
+      "Released": "22 Mar 1985",
+      "Runtime": "120 min",
+      "Genre": "Biography, Drama",
+      "Director": "Peter Bogdanovich",
+      "Writer": "Anna Hamilton Phelan",
+      "Actors": "Cher, Eric Stoltz, Sam Elliott",
+      "Plot": "A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 3 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU1ZDFkYjAtZGMzNC00MjJjLWI5ZjQtZTE4Y2QzOWVhNjcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.2",
+      "imdbVotes": "34,446",
+      "imdbID": "tt0089560",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$48,230,162",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Wrestler|2008": {
+    "lbxd": {
+      "rating": 4.08,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ud/52/sl/57/huooRmB7yksJyVVSkqOgitxlCec-0-500-0-750-crop.jpg?v=c955e64453",
+      "description": "Aging wrestler Randy \"The Ram\" Robinson is long past his prime but still ready and rarin' to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can't resist the lure of the ring and readies himself for a comeback.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Darren Aronofsky",
+      "lb_director_slug": "darren-aronofsky",
+      "lb_year": 2008
+    },
+    "omdb": {
+      "Title": "The Wrestler",
+      "Year": "2008",
+      "Rated": "R",
+      "Released": "30 Jan 2009",
+      "Runtime": "109 min",
+      "Genre": "Drama, Sport",
+      "Director": "Darren Aronofsky",
+      "Writer": "Robert Siegel",
+      "Actors": "Mickey Rourke, Marisa Tomei, Evan Rachel Wood",
+      "Plot": "A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",
+      "Language": "English",
+      "Country": "United States, France",
+      "Awards": "Nominated for 2 Oscars. 58 wins & 93 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.9",
+      "imdbVotes": "330,212",
+      "imdbID": "tt1125849",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$26,238,243",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
