@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-11T09:36:02.893370+00:00",
+  "generated": "2026-07-12T09:51:48.142015+00:00",
   "movies": [
     {
       "id": "sao_jorge_11077",
@@ -80,74 +80,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_11067",
-      "title": "A Terra Devastada",
-      "director": null,
-      "duration": 82,
-      "festival": "TRISTE PARA SEMPRE",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CNAC_Carro-Ultra-Passado.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/a-terra-devastada/",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "22:10",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11065",
-      "title": "Os Abandonados",
-      "director": null,
-      "duration": 96,
-      "festival": "TRISTE PARA SEMPRE",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CNAC_Cao-Sozinho.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/os-abandonados/",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "19:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11063",
-      "title": "Para Onde Foi a Mãe?",
-      "director": null,
-      "duration": 96,
-      "festival": "TRISTE PARA SEMPRE",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CNAC_A-Medida-Que-Fomos-Recuperando-a-Mae.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/para-onde-foi-a-mae/",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "17:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11061",
-      "title": "Caminhar sobre as Raízes",
-      "director": null,
-      "duration": 106,
-      "festival": "TRISTE PARA SEMPRE",
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/06/CB-still.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/caminhar-sobre-as-raizes/",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "14:15",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
       "id": "sao_jorge_11055",
       "title": "Tristinho para sempre",
       "director": null,
@@ -163,125 +95,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "cinemateca_20039",
-      "title": "The Sound Of Music",
-      "director": "Robert Wise",
-      "year": 1965,
-      "duration": 174,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/5/8/0/42580-the-sound-of-music-0-500-0-750-crop.jpg?v=743d70b886",
-      "genres": [
-        "Drama",
-        "Music",
-        "Romance",
-        "Family"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20039",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "15:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.25,
-      "plot": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children and brings a new love of life and music into the home.",
-      "country": "USA",
-      "director_lbxd_slug": "robert-wise"
-    },
-    {
-      "id": "cinemateca_20098",
-      "title": "Untamed Frontier",
-      "director": "Hugo Fregonese",
-      "year": 1952,
-      "duration": 78,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/0/9/125009-untamed-frontier-0-500-0-750-crop.jpg?v=e1c7aea15f",
-      "genres": [
-        "Western"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20098",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "16:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "The Denbow family denies access across their land to homesteaders. To evade a murder charge, Glenn Denbow marries Jane, the only witness who's in love with him. But the woman favors the settlers...",
-      "country": "USA",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20054",
-      "title": "Cop Land",
-      "director": "James Mangold",
-      "year": 1997,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/yl/5v/z0/oq/A75PJ1tXNGhLscMozZTDvdHe8VX-0-500-0-750-crop.jpg?v=c8fce5f1cc",
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20054",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.58,
-      "plot": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
-      "country": "USA",
-      "director_lbxd_slug": "james-mangold"
-    },
-    {
-      "id": "cinemateca_20105",
-      "title": "Apenas Un Delincuente",
-      "director": "Hugo Fregonese",
-      "year": 1949,
-      "duration": 85,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20105",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-17",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20055",
-      "title": "Palombella Rossa",
-      "director": "Nanni Moretti",
-      "year": 1989,
-      "duration": 87,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20055",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "Michele is an MP for the Italian Communist Party who loses his memory in a car crash, though hardly anyone around him seems to notice. During a crucial water polo match on the eve of election day, he gradually begins to remember his past life, revealing a man whose personal and political identity crisis mirrors that of Italian communism itself.",
-      "country": "France",
-      "director_lbxd_slug": "nanni-moretti"
     },
     {
       "id": "cinemateca_20125",
@@ -386,6 +199,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-14",
           "time": "15:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:00",
           "cinema": "cinemateca"
         }
       ],
@@ -668,6 +486,23 @@ window.CINEMA_DATA = {
       "plot": "Escaping British prisoners of war hide out in German occupied France.",
       "country": "UK",
       "director_lbxd_slug": "hugo-fregonese"
+    },
+    {
+      "id": "cinemateca_20106",
+      "title": "Apenas Un Delincuente",
+      "director": "Hugo Fregonese",
+      "year": 1949,
+      "duration": 85,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20106",
+      "sessions": [
+        {
+          "date": "2026-07-17",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ]
     },
     {
       "id": "cinemateca_20144",
@@ -1189,6 +1024,107 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ludovic-boukherma"
     },
     {
+      "id": "cinemateca_20041",
+      "title": "Oficina: Fotografia 3D – Como Fazer Imagens Estereoscópicas Com Uma Máquina De Trazer Por Casa",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20041",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "11:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20042",
+      "title": "Le Voyage En Ballon",
+      "director": "Albert Lamorisse",
+      "year": 1960,
+      "duration": 85,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20042",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "15:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20150",
+      "title": "Residência",
+      "director": "Amarante Abramovici e Lucas Tavares",
+      "year": 2025,
+      "duration": 63,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20150",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20077",
+      "title": "Streets Of Fire",
+      "director": "Walter Hill",
+      "year": 1984,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/8/4/9/42849-streets-of-fire-0-500-0-750-crop.jpg?v=5f13c33d07",
+      "genres": [
+        "Action"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20077",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.55,
+      "plot": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+      "country": "USA",
+      "director_lbxd_slug": "walter-hill"
+    },
+    {
+      "id": "cinemateca_20079",
+      "title": "Springsteen: Deliver Me From Nowhere",
+      "director": "Scott Cooper",
+      "year": 2025,
+      "duration": 119,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/3/8/6/8/1113868-springsteen-deliver-me-from-nowhere-0-500-0-750-crop.jpg?v=4b8ef229f9",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20079",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "21:45",
+          "cinema": "cinemateca",
+          "labels": [
+            "COM A PRESENÇA DE AMARANTE ABRAMOVICI E LUCAS TAVARES"
+          ]
+        }
+      ],
+      "rating": 3.18,
+      "plot": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
+      "country": "USA",
+      "director_lbxd_slug": "scott-cooper"
+    },
+    {
       "id": "nimas_o-convite-2026",
       "title": "O Convite",
       "director": "Olivia Wilde",
@@ -1198,26 +1134,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-convite-2026",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-11",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-11",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-11",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-12",
           "time": "15:00",
@@ -1350,11 +1266,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/mulholland-drive-2001",
       "sessions": [
         {
-          "date": "2026-07-11",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-07-14",
           "time": "21:15",
           "cinema": "campo_alegre"
@@ -1371,23 +1282,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "david-lynch"
     },
     {
-      "id": "nimas_o-pecado-de-cluny-brown-1946",
-      "title": "O Pecado de Cluny Brown",
-      "director": "Ernst Lubitsch",
-      "year": 1946,
-      "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmmm4yjvlntitnzy3nc00mdi1lthhnjatztvknmjinzi4mzzhxkeyxkfqcgc_v1_fmjpg_ux960.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-pecado-de-cluny-brown-1946",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_amor-em-fuga-1979",
       "title": "Amor em Fuga",
       "director": "François Truffaut",
@@ -1397,11 +1291,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/amor-em-fuga-1979",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-13",
           "time": "21:15",
@@ -1421,11 +1310,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/l-aventura-2025",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-13",
           "time": "16:30",
@@ -1478,30 +1362,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sophie-letourneur"
     },
     {
-      "id": "nimas_madame-dubarry-1919",
-      "title": "Madame Dubarry",
-      "director": "Ernst Lubitsch",
-      "year": 1919,
-      "duration": 114,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/0/0/17300-madame-dubarry-0-500-0-750-crop.jpg?v=498172549d",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/madame-dubarry-1919",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "11:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.37,
-      "plot": "The story of Madame DuBarry, the mistress of Louis XV of France, and her loves in the time of the French revolution.",
-      "country": "Germany",
-      "director_lbxd_slug": "ernst-lubitsch"
-    },
-    {
       "id": "nimas_na-idade-da-inocencia-1976",
       "title": "Na Idade da Inocência",
       "director": "François Truffaut",
@@ -1511,11 +1371,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/na-idade-da-inocencia-1976",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "14:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-12",
           "time": "14:30",
@@ -1644,11 +1499,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/pai-nosso-os-ultimos-dias-de-salazar-2025",
       "sessions": [
         {
-          "date": "2026-07-11",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-07-13",
           "time": "21:00",
           "cinema": "nimas",
@@ -1701,11 +1551,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/as-duas-inglesas-e-o-continente-1971",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-13",
           "time": "18:30",
@@ -1831,11 +1676,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/o-amor-que-perdura-2025",
       "sessions": [
         {
-          "date": "2026-07-11",
-          "time": "14:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-12",
           "time": "11:00",
           "cinema": "fernando"
@@ -1935,11 +1775,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-menino-selvagem-1970",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-15",
           "time": "16:00",
@@ -2402,11 +2237,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/a-sereia-do-mississipi-1969",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "21:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-21",
           "time": "15:00",
@@ -4187,11 +4017,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
       "sessions": [
         {
-          "date": "2026-07-11",
-          "time": "18:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-14",
           "time": "19:30",
           "cinema": "fernando"
@@ -4216,11 +4041,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/PELO-ADAM",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-12",
           "time": "17:00",
@@ -4294,34 +4114,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnieszka-holland"
     },
     {
-      "id": "fernando_o_velho_e_a_espada",
-      "title": "O Velho e a Espada",
-      "director": "Fábio Powers",
-      "year": 2024,
-      "duration": 63,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/2/0/1/4/1142014-o-velho-e-a-espada-0-500-0-750-crop.jpg?v=cd8bf6dea0",
-      "genres": [
-        "Fantasy",
-        "Comedy"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/O-VELHO-E-A-ESPADA",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "21:00",
-          "cinema": "fernando",
-          "labels": [
-            "Sessão especial"
-          ]
-        }
-      ],
-      "rating": 3.35,
-      "plot": "In the remote village of Pé da Serra in the mountains of Portugal, a monk arrives wielding a demonic sword. Before long, the mystical weapon ends up in the hands of the town drunk António da Luz (who plays himself). Together, the drunkard and the sword will have to learn together to fight the encroaching evil.",
-      "country": "Portugal",
-      "director_lbxd_slug": "fabio-powers"
-    },
-    {
       "id": "fernando_tre_s_vezes_adeus",
       "title": "Três Vezes Adeus",
       "director": "Isabel Coixet",
@@ -4385,29 +4177,6 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ]
-    },
-    {
-      "id": "batalha_sUiYA5uCGefsgpZh",
-      "title": "The Lovers on the Bridge",
-      "director": "Leos Carax",
-      "year": 1991,
-      "duration": 125,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/0/4/50104-the-lovers-on-the-bridge-0-500-0-750-crop.jpg?v=5e8b06ab05",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/les-amants-du-pont-neuf",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "23:30",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
-      "country": "France"
     },
     {
       "id": "batalha_sx20x0Mxrs4yts5F",
@@ -4601,59 +4370,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "trindade_7881",
-      "title": "O Estrangeiro",
-      "director": "François Ozon",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-14",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.34,
-      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "country": "France"
-    },
-    {
-      "id": "trindade_6574",
-      "title": "One to One: John & Yoko",
-      "director": "Kevin Macdonald",
-      "year": 2024,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/0/8/7/4/1200874-one-to-one-john-yoko-0-500-0-750-crop.jpg?v=9b9613f3af",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/one-to-one-john-yoko",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "19:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.71,
-      "plot": "An exploration of the seminal and transformative 18 months that one of music’s most famous couples — John Lennon and Yoko Ono — spent living in Greenwich Village, New York City, in the early 1970s.",
-      "country": "UK",
-      "director_lbxd_slug": "kevin-macdonald-1"
-    },
-    {
       "id": "trindade_7459",
       "title": "Jules e Jim",
       "director": "François Truffaut",
@@ -4693,6 +4409,30 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "trindade_7881",
+      "title": "O Estrangeiro",
+      "director": "François Ozon",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
+      "sessions": [
+        {
+          "date": "2026-07-14",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.34,
+      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "country": "France"
+    },
+    {
       "id": "trindade_8642",
       "title": "Angústia",
       "director": "François Truffaut",
@@ -4721,11 +4461,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/broken-english",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-12",
           "time": "15:00",
@@ -4817,7 +4552,7 @@ window.CINEMA_DATA = {
           "time": "21:30",
           "cinema": "trindade",
           "labels": [
-            "com a presença do realizador + conversa com o público"
+            "Sessão Esgotada | com a presença do realizador + conversa com o público"
           ]
         },
         {
@@ -4847,7 +4582,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_persepolis",
       "title": "PERSEPOLIS",
-      "director": "Marjane Satrapi, Vincent Paronnaud",
+      "director": "Vincent Paronnaud, Marjane Satrapi",
       "year": 2007,
       "duration": 96,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-1-11.jpg",
@@ -4896,7 +4631,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_um_poeta",
       "title": "UM POETA",
-      "director": "Simón Mesa Soto",
+      "director": "Guga Coelho",
       "year": 2015,
       "duration": 90,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/7866e6ce-742d-fc22-bdc2-55ddfe63be0c.jpg",
@@ -4906,11 +4641,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=63833",
       "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-13",
           "time": "17:00",
@@ -4937,32 +4667,8 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/estrada-perdida-1997",
       "sessions": [
         {
-          "date": "2026-07-11",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-07-15",
           "time": "21:30",
-          "cinema": "campo_alegre"
-        }
-      ]
-    },
-    {
-      "id": "campo_alegre_twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
-      "title": "​Twin Peaks: Os Últimos Sete Dias de Laura Palmer",
-      "director": "David Lynch",
-      "year": 1992,
-      "duration": 134,
-      "poster": "https://medeiafilmes.com/uploads/library/162981d4-twin-peaks-os-ultimos-sete-dias-de-laura-palmer-cartaz-web-717x1024.png",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/twin-peaks-os-ultimos-sete-dias-de-laura-palmer-1992",
-      "sessions": [
-        {
-          "date": "2026-07-11",
-          "time": "15:30",
           "cinema": "campo_alegre"
         }
       ]
@@ -5097,26 +4803,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Luis Campos may refer to:"
     },
-    "Robert Wise": {
-      "lbxd_slug": "robert-wise",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Robert_wise_1990.jpg",
-      "bio": "Robert Earl Wise (September 10, 1914 – September 14, 2005) was an American filmmaker. He won the Academy Awards for Best Director and Best Picture for his musical films West Side Story (1961) and The Sound of Music (1965). He was also nominated for Best Film Editing for Citizen Kane (1941) and directed and produced The Sand Pebbles (1966), which was nominated for Best Picture."
-    },
-    "Hugo Fregonese": {
-      "lbxd_slug": "hugo-fregonese",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fregonese.png/500px-Fregonese.png",
-      "bio": "Hugo Geronimo Fregonese (8 April 1908 – 11 January 1987) was an Argentine film director and screenwriter who worked both in Hollywood and his home country during the classical era of Argentine cinema. He made his directorial debut in 1943. In 1949, he directed Apenas un delincuente."
-    },
-    "James Mangold": {
-      "lbxd_slug": "james-mangold",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Mangold_Press_Conference_Logan_Berlinale_2017_03.jpg/500px-James_Mangold_Press_Conference_Logan_Berlinale_2017_03.jpg",
-      "bio": "James Allen Mangold (born December 16, 1963) is an American filmmaker. Noted for his versatility in tackling a range of genres, Mangold made his debut as a film director with Heavy (1995), and gained recognition for the films Cop Land (1997), Girl, Interrupted (1999), Identity (2003), Walk the Line (2005), 3:10 to Yuma (2007), Knight and Day (2010), and two films in the X-Men franchise with The Wolverine (2013) and Logan (2017), the latter of which earned him a nomination for the Academy Award for Best Adapted Screenplay. He then directed the sports drama film Ford v Ferrari (2019), which earned him a nomination for the Academy Award for Best Picture, and directed and co-wrote Indiana Jones and the Dial of Destiny (2023), the fifth and final installment in the Indiana Jones series."
-    },
-    "Nanni Moretti": {
-      "lbxd_slug": "nanni-moretti",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nanni_Moretti_Cannes_2011.jpg",
-      "bio": "Giovanni \"Nanni\" Moretti (Italian pronunciation: [ˈnanni moˈretti]; born 19 August 1953) is an Italian film director, producer, screenwriter, and actor. He is most known for his Palme d'Or winner film The Son's Room (2001) and his Special Jury Prize winner film Sweet Dreams (1981). He is also the recipient of three David di Donatello Award for Best Film, for: Caro diario in 1994, The Son's Room in 2001, and The Caiman in 2006."
-    },
     "Bob Fosse": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bob_Fosse_1963_%28cropped%29.jpg",
@@ -5144,13 +4830,18 @@ window.CINEMA_DATA = {
     },
     "Sofia Coppola": {
       "lbxd_slug": "sofia-coppola",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sofia_Coppola_at_82nd_Venice_International_Film_Festival-8_%28cropped%29.jpg/500px-Sofia_Coppola_at_82nd_Venice_International_Film_Festival-8_%28cropped%29.jpg",
+      "bio": "Sofia Carmina Coppola ( KOH-pə-lə; born May 14, 1971) is an American filmmaker and former actress. She has received various accolades, including an Academy Award, two Golden Globe Awards, a Golden Lion, and a Cannes Film Festival Award as well as nominations for three BAFTA Awards and a Primetime Emmy Award. Her parents are filmmakers Eleanor and Francis Ford Coppola, and she made her acting debut as an infant in her father's acclaimed crime drama The Godfather (1972)."
     },
     "Barbara Kopple": {
       "lbxd_slug": "barbara-kopple",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Barbara_Kopple_2015.jpg/500px-Barbara_Kopple_2015.jpg",
+      "bio": "Barbara Kopple (born July 30, 1946) is an American film director known primarily for her documentary work. She is credited with pioneering a renaissance of cinema vérité, and bringing the historic French style to a modern American audience. Known for her \"fly-on-the-wall\" filmmaking style, Kopple captured raw, real-life events without interrupting the action."
+    },
+    "Hugo Fregonese": {
+      "lbxd_slug": "hugo-fregonese",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fregonese.png/500px-Fregonese.png",
+      "bio": "Hugo Geronimo Fregonese (8 April 1908 – 11 January 1987) was an Argentine film director and screenwriter who worked both in Hollywood and his home country during the classical era of Argentine cinema. He made his directorial debut in 1943. In 1949, he directed Apenas un delincuente."
     },
     "Elia Kazan": {
       "lbxd_slug": "elia-kazan",
@@ -5264,6 +4955,26 @@ window.CINEMA_DATA = {
     },
     "Ludovic Boukherma, Zoran Boukherma": {
       "lbxd_slug": "ludovic-boukherma",
+      "photo": null,
+      "bio": null
+    },
+    "Albert Lamorisse": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Amarante Abramovici e Lucas Tavares": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Walter Hill": {
+      "lbxd_slug": "walter-hill",
+      "photo": null,
+      "bio": null
+    },
+    "Scott Cooper": {
+      "lbxd_slug": "scott-cooper",
       "photo": null,
       "bio": null
     },
@@ -5509,28 +5220,18 @@ window.CINEMA_DATA = {
     },
     "Agnieszka Holland": {
       "lbxd_slug": "agnieszka-holland",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MJK32641_Agnieszka_Holland_%28Pokot%2C_Berlinale_2017%29_crop.jpg/500px-MJK32641_Agnieszka_Holland_%28Pokot%2C_Berlinale_2017%29_crop.jpg",
-      "bio": "Agnieszka Holland (Polish: [aɡˈɲɛʂka ˈxɔlant]; born 28 November 1948) is a Polish film and television director and screenwriter, best known for her cultural and political contributions to Polish cinema. She began her career as an assistant to directors Krzysztof Zanussi and Andrzej Wajda, and immigrated to France shortly before the 1981 imposition of the martial law in Poland. Holland is best known for her films Europa Europa (1990), for which she received a Golden Globe Award as well as an Academy Award for Best Adapted Screenplay nomination, The Secret Garden (1993), Angry Harvest and the Holocaust drama In Darkness, the last two of which were nominated for the Academy Award for Best Foreign Language Film."
-    },
-    "Fábio Powers": {
-      "lbxd_slug": "fabio-powers",
       "photo": null,
       "bio": null
     },
     "Isabel Coixet": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Goyas_2024_-_Isabel_Coixet_%28cropped%29.jpg/500px-Goyas_2024_-_Isabel_Coixet_%28cropped%29.jpg",
-      "bio": "Isabel Coixet Castillo (Catalan: [izəˈβɛl kuˈʃɛt]; born 9 April 1960) is a Spanish film director. She is one of the most prolific film directors of contemporary Spain, having directed twelve feature-length films since the beginning of her film career in 1988, in addition to documentary films, shorts, and commercials. Her films depart from the traditional national cinema of Spain, and help to “untangle films from their national context ..."
+      "photo": null,
+      "bio": null
     },
     "Sergei Loznitsa": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sergei_Loznitsa.jpg/500px-Sergei_Loznitsa.jpg",
-      "bio": "Sergei Vladimirovich Loznitsa (born 5 September 1964) or Serhii Volodymyrovych Loznytsia, is a Ukrainian filmmaker of Belarusian origin. He is most known for his archival footage documentaries about Soviet Union history, and for his slow cinema dramatic films. His feature films My Joy (2010), In the Fog (2012), A Gentle Creature (2017), and Two Prosecutors (2026), were nominated for the Palme d'Or at the Cannes Film Festival."
-    },
-    "Leos Carax": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Leos_Carax_Cannes_2012.jpg/500px-Leos_Carax_Cannes_2012.jpg",
-      "bio": "Alex Christophe Dupont (born 22 November 1960), best known as Leos Carax (French: [leɔs kaʁaks]), is a French film director, critic, and writer. Carax is noted for his poetic style and his tortured depictions of love. His first major work was Boy Meets Girl (1984), and his notable works include Les Amants du Pont-Neuf (1991), Pola X (1999), Holy Motors (2012) and Annette (2021)."
+      "photo": null,
+      "bio": null
     },
     "Baz Luhrmann": {
       "lbxd_slug": null,
@@ -5577,32 +5278,27 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
       "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
     },
-    "François Ozon": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
-      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
-    },
-    "Kevin Macdonald": {
-      "lbxd_slug": "kevin-macdonald-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kevin_Macdonald_%28cropped%29.jpg/500px-Kevin_Macdonald_%28cropped%29.jpg",
-      "bio": "Kevin McDonald (born 1961) is a Canadian comedian and actor."
-    },
     "Jim Jarmusch": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jim_Jarmusch-9078.jpg/500px-Jim_Jarmusch-9078.jpg",
       "bio": "James Robert Jarmusch ( JAR-məsh; born January 22, 1953) is an American filmmaker and musician. He has been a major proponent of independent cinema since the 1980s, directing films such as Stranger Than Paradise (1984), Down by Law (1986), Mystery Train (1989), Night on Earth (1991), Dead Man (1995), Ghost Dog: The Way of the Samurai (1999), Coffee and Cigarettes (2003), Broken Flowers (2005), Only Lovers Left Alive (2013), Paterson (2016) and Father Mother Sister Brother (2025). Stranger Than Paradise was added to the National Film Registry in December 2002."
+    },
+    "François Ozon": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
     "Jane Pollard, Iain Forsyth": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Marjane Satrapi, Vincent Paronnaud": {
+    "Vincent Paronnaud, Marjane Satrapi": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Simón Mesa Soto": {
+    "Guga Coelho": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -5618,5 +5314,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
