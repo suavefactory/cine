@@ -31857,5 +31857,141 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Decameron Nights|1953": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/8/1/1/106811-decameron-nights-0-500-0-750-crop.jpg?v=74df376ce5",
+      "description": "Italian poet Boccaccio (Louis Jourdan) hides in the court of Fiammetta (Joan Fontaine) and tells three tales of love and lust.",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "Spain",
+      "lb_director": "Hugo Fregonese",
+      "lb_director_slug": "hugo-fregonese",
+      "lb_year": 1953
+    },
+    "omdb": {
+      "Title": "Decameron Nights",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "16 Nov 1953",
+      "Runtime": "93 min",
+      "Genre": "Drama, Adventure, Romance",
+      "Director": "Hugo Fregonese",
+      "Writer": "Giovanni Boccaccio, George Oppenheimer, Geza Herczeg",
+      "Actors": "Joan Fontaine, Louis Jourdan, Godfrey Tearle",
+      "Plot": "The main story combines bits of Giovanni Boccaccio's own life (maybe and maybe not) with three of his most fabulous stories of love. It has Boccaccio following Fiametta to a country villa where she and five other women---The Conte...",
+      "Language": "English",
+      "Country": "United Kingdom, Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMzYwMjc1MV5BMl5BanBnXkFtZTgwOTYxOTgwMzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "285",
+      "imdbID": "tt0045675",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Rio Bravo|1959": {
+    "lbxd": {
+      "rating": 4.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/8/51758-rio-bravo-0-500-0-750-crop.jpg?v=ee2a54d80b",
+      "description": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Howard Hawks",
+      "lb_director_slug": "howard-hawks",
+      "lb_year": 1959
+    },
+    "omdb": {
+      "Title": "Rio Bravo",
+      "Year": "1959",
+      "Rated": "Approved",
+      "Released": "04 Apr 1959",
+      "Runtime": "141 min",
+      "Genre": "Western",
+      "Director": "Howard Hawks",
+      "Writer": "Jules Furthman, Leigh Brackett, B.H. McCampbell",
+      "Actors": "John Wayne, Dean Martin, Ricky Nelson",
+      "Plot": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "4 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "Metascore": "93",
+      "imdbRating": "8.0",
+      "imdbVotes": "71,739",
+      "imdbID": "tt0053221",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$12,535,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Viagem em Itália|1954": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Fim-de-Semana no Ascensor|1958": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Dois Homens em Manhattan|1959": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Ydessa, os Ursos e etc.|2004": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "T7,  Coz, WC… À VENDA|1984": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Get a Life|2001": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/0/7/179707-get-a-life-2001-0-500-0-750-crop.jpg?v=35659f7a3d",
+      "description": "During one winter night, a Portuguese teenager, Alvaro, loses his life in a fight between a youth gang and the cops in a suburb of Paris. Cidalia, a 36 year old cleaning woman, his mother, decides to defy the code of silence of the Portuguese community and tries to find the truth. She losses her friends, her job and her family but gains a life.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "João Canijo",
+      "lb_director_slug": "joao-canijo",
+      "lb_year": 2001
+    },
+    "omdb": null
   }
 }
