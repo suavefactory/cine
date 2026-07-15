@@ -31993,5 +31993,138 @@
       "lb_year": 2001
     },
     "omdb": null
+  },
+  "On Connaît La Chanson|1997": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Jane B. por Agnès V.|1987": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Paris Nous Appartient|1961": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Elisa|2025": {
+    "lbxd": {
+      "rating": 2.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/6/5/9/7/1316597-elisa-2025-0-500-0-750-crop.jpg?v=a3e044a936",
+      "description": "Elisa, the daughter of an ordinary family, has been in prison for ten years for brutally murdering her sister. She believes she doesn’t remember what happened, but her fragmented memories begin to come into focus during meetings with the criminologist Alaoui, who is conducting a study on family homicides. The truth that emerges for Elisa is devastating—a pain that may mark the beginning of redemption.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Leonardo Di Costanzo",
+      "lb_director_slug": "leonardo-di-costanzo",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Elisa",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "05 Sep 2025",
+      "Runtime": "105 min",
+      "Genre": "Drama",
+      "Director": "Leonardo Di Costanzo",
+      "Writer": "N/A",
+      "Actors": "Valeria Golino, Roschdy Zem, Barbara Ronchi",
+      "Plot": "After a decade in prison for her sister's murder, Elisa barely remembers the crime. A criminologist helps her uncover buried memories, leading her toward potential redemption.",
+      "Language": "Italian, French",
+      "Country": "Italy, Switzerland",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTJiMTdmMmEtYTQ5Zi00YmEyLWE4ODktMGYyNTM5YTM4MGYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "124",
+      "imdbID": "tt37660578",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "O Desprezo|1963": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Amiga Silenciosa|2025": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "As Férias do Sr. Hulot|1953": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Cartas Amarelas|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "O Mundo a Seus Pés|1941": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Pedro, o Louco|1965": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "A Odisseia|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Persépolis|2007": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Persepolis",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "22 Feb 2008",
+      "Runtime": "96 min",
+      "Genre": "Animation, Biography, Drama",
+      "Director": "Vincent Paronnaud, Marjane Satrapi",
+      "Writer": "Marjane Satrapi, Vincent Paronnaud",
+      "Actors": "Chiara Mastroianni, Catherine Deneuve, Gena Rowlands",
+      "Plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+      "Language": "French, English, Persian, German",
+      "Country": "France, United States",
+      "Awards": "Nominated for 1 Oscar. 30 wins & 58 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.0",
+      "imdbVotes": "102,920",
+      "imdbID": "tt0808417",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,445,756",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "BEM-VINDOS CONQUISTADORES INTERPLANETÁRIOS E DO ESPAÇO SIDERAL|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "PREGUIÇAS & COMPANHIA|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
