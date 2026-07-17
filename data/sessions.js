@@ -1,116 +1,6 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-16T10:12:26.259528+00:00",
+  "generated": "2026-07-17T09:57:24.847518+00:00",
   "movies": [
-    {
-      "id": "cinemateca_20063",
-      "title": "Jerry Maguire",
-      "director": "Cameron Crowe",
-      "year": 1996,
-      "duration": 139,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/0/6/47206-jerry-maguire-0-500-0-750-crop.jpg?v=0f7ed523ed",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20063",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
-      "country": "USA",
-      "director_lbxd_slug": "cameron-crowe"
-    },
-    {
-      "id": "cinemateca_20127",
-      "title": "Nha Fala",
-      "director": "Flora Gomes",
-      "year": 2001,
-      "duration": 89,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NjU2MDIzMF5BMl5BanBnXkFtZTcwMjM4MjE5Mw@@._V1_SX300.jpg",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Musical"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20127",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "It has always been a firm conviction of the family that any woman who sings, will die. Now, while a girl is in France she becomes an international star. She realises that sooner rather than later her mother in Africa will learn th...",
-      "country": "Portugal"
-    },
-    {
-      "id": "cinemateca_20065",
-      "title": "Rolling Thunder",
-      "director": "John Flynn",
-      "year": 1977,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/11/hs/u7/he/oAAw21VnSBbat7YbO17UTOWI3mL-0-500-0-750-crop.jpg?v=a56d5a402f",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20065",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "A Vietnam veteran, Charles Rane, returns home after years in a POW camp and is treated as a hero. He has a hard time adjusting, and things go badly. A movie about the walking dead, before that meant just flesh-eating zombies.",
-      "country": "USA",
-      "director_lbxd_slug": "john-flynn"
-    },
-    {
-      "id": "cinemateca_20107",
-      "title": "Seven Thunders",
-      "director": "Hugo Fregonese",
-      "year": 1957,
-      "duration": 70,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/4/0/105540-seven-thunders-0-500-0-750-crop.jpg?v=bbfd922e12",
-      "genres": [
-        "War",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20107",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-20",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Escaping British prisoners of war hide out in German occupied France.",
-      "country": "UK",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
     {
       "id": "cinemateca_20106",
       "title": "Apenas Un Delincuente",
@@ -300,6 +190,29 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sean-penn"
     },
     {
+      "id": "cinemateca_20108",
+      "title": "Seven Thunders",
+      "director": "Hugo Fregonese",
+      "year": 1957,
+      "duration": 70,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/4/0/105540-seven-thunders-0-500-0-750-crop.jpg?v=bbfd922e12",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20108",
+      "sessions": [
+        {
+          "date": "2026-07-20",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Escaping British prisoners of war hide out in German occupied France.",
+      "country": "UK",
+      "director_lbxd_slug": "hugo-fregonese"
+    },
+    {
       "id": "cinemateca_20130",
       "title": "Ópera Do Malandro",
       "director": "Ruy Guerra",
@@ -402,6 +315,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-21",
           "time": "19:00",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "19:30",
           "cinema": "cinemateca"
         }
       ],
@@ -728,6 +646,31 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ernst-lubitsch"
     },
     {
+      "id": "cinemateca_20064",
+      "title": "Jerry Maguire",
+      "director": "Cameron Crowe",
+      "year": 1996,
+      "duration": 139,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/0/6/47206-jerry-maguire-0-500-0-750-crop.jpg?v=0f7ed523ed",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20064",
+      "sessions": [
+        {
+          "date": "2026-07-24",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.6,
+      "plot": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+      "country": "USA",
+      "director_lbxd_slug": "cameron-crowe"
+    },
+    {
       "id": "cinemateca_20076",
       "title": "Leurs Enfants Apres Eux",
       "director": "Ludovic Boukherma, Zoran Boukherma",
@@ -909,11 +852,40 @@ window.CINEMA_DATA = {
           "date": "2026-07-27",
           "time": "21:45",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "15:30",
+          "cinema": "cinemateca"
         }
       ],
       "plot": "Italian poet Boccaccio (Louis Jourdan) hides in the court of Fiammetta (Joan Fontaine) and tells three tales of love and lust.",
       "country": "Spain",
       "director_lbxd_slug": "hugo-fregonese"
+    },
+    {
+      "id": "cinemateca_20066",
+      "title": "Rolling Thunder",
+      "director": "John Flynn",
+      "year": 1977,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/11/hs/u7/he/oAAw21VnSBbat7YbO17UTOWI3mL-0-500-0-750-crop.jpg?v=a56d5a402f",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20066",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "A Vietnam veteran, Charles Rane, returns home after years in a POW camp and is treated as a hero. He has a hard time adjusting, and things go badly. A movie about the walking dead, before that meant just flesh-eating zombies.",
+      "country": "USA",
+      "director_lbxd_slug": "john-flynn"
     },
     {
       "id": "cinemateca_20137",
@@ -933,6 +905,55 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "cinemateca_20056",
+      "title": "Palombella Rossa",
+      "director": "Nanni Moretti",
+      "year": 1989,
+      "duration": 87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20056",
+      "sessions": [
+        {
+          "date": "2026-07-30",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "Michele is an MP for the Italian Communist Party who loses his memory in a car crash, though hardly anyone around him seems to notice. During a crucial water polo match on the eve of election day, he gradually begins to remember his past life, revealing a man whose personal and political identity crisis mirrors that of Italian communism itself.",
+      "country": "France",
+      "director_lbxd_slug": "nanni-moretti"
+    },
+    {
+      "id": "cinemateca_20121",
+      "title": "La La Land",
+      "director": "Damien Chazelle",
+      "year": 2016,
+      "duration": 128,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-500-0-750-crop.jpg?v=053670ff84",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20121",
+      "sessions": [
+        {
+          "date": "2026-07-30",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.12,
+      "plot": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "country": "USA",
+      "director_lbxd_slug": "damien-chazelle"
+    },
+    {
       "id": "nimas_o-canto-das-arvores-esquecidas-2025",
       "title": "O Canto das Árvores Esquecidas",
       "director": "Anuparna Roy",
@@ -944,11 +965,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/o-canto-das-arvores-esquecidas-2025",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-17",
           "time": "16:30",
@@ -1015,32 +1031,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/rosebush-pruning-2026",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "13:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "21:30",
-          "cinema": "trindade",
-          "labels": [
-            "Sessão Esgotada | com a presença do realizador + conversa com o público"
-          ]
-        },
-        {
-          "date": "2026-07-16",
-          "time": "21:45",
-          "cinema": "trindade",
-          "labels": [
-            "com apresentação do realizador"
-          ]
-        },
         {
           "date": "2026-07-17",
           "time": "19:00",
@@ -1225,21 +1215,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/l-aventura-2025",
       "sessions": [
         {
-          "date": "2026-07-16",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-07-17",
           "time": "21:30",
           "cinema": "campo_alegre"
@@ -1291,23 +1266,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sophie-letourneur"
     },
     {
-      "id": "nimas_o-ultimo-metro-1980",
-      "title": "O Último Metro",
-      "director": "François Truffaut",
-      "year": 1980,
-      "duration": 132,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmjm2mzmznjy0nf5bml5banbnxkftztgwntk1otk3mte_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-ultimo-metro-1980",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_in-the-mood-for-love-disponivel-para-amar-2000",
       "title": "In the Mood For Love — Disponível Para Amar",
       "director": "Wong Kar Wai",
@@ -1329,23 +1287,6 @@ window.CINEMA_DATA = {
       "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_finalmente-domingo-1982",
-      "title": "Finalmente Domingo!",
-      "director": "François Truffaut",
-      "year": 1982,
-      "duration": 111,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5byziwmdazowetzdfhmy00ndljlwjkmjgtn2uxmwnlzdvlntczxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/finalmente-domingo-1982",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_disparem-sobre-o-pianista-1960",
@@ -1955,11 +1896,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/a-historia-de-adele-h-1975",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-23",
           "time": "13:00",
@@ -4840,32 +4776,26 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "fernando_aos_nossos_amigos",
-      "title": "Aos Nossos Amigos",
-      "director": "Adrián Orr",
-      "year": 2024,
-      "duration": 90,
-      "poster": "https://freight.cargo.site/t/original/i/b2650324ec59c3a6c9b95c42fc2635c96b8c7f5fbd8f74f2bf22789c6df4f1e5/aos-nossos-amigos_cartaz_digital.jpg",
+      "id": "fernando_tre_s_vezes_adeus",
+      "title": "Três Vezes Adeus",
+      "director": "Isabel Coixet",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://freight.cargo.site/t/original/i/fb2cc60d375d3ecca28d1fd9fbc3adfdad896f65b3a010aae374f8ac502ef8df/TRES-VEZES-ADEUS_site.jpg",
       "genres": [
-        "A NUESTROS AMIGOS",
-        "Doc-Ficção"
+        "Drama"
       ],
       "festival": null,
-      "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
+      "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
       "sessions": [
         {
           "date": "2026-07-18",
-          "time": "14:00",
+          "time": "16:00",
           "cinema": "fernando"
         },
         {
-          "date": "2026-07-19",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "16:30",
+          "date": "2026-07-22",
+          "time": "14:30",
           "cinema": "fernando"
         }
       ]
@@ -4884,11 +4814,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/O-AMOR-QUE-PERDURA",
       "sessions": [
         {
-          "date": "2026-07-16",
-          "time": "16:45",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-19",
           "time": "11:00",
           "cinema": "fernando"
@@ -4896,36 +4821,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-20",
           "time": "14:15",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_tre_s_vezes_adeus",
-      "title": "Três Vezes Adeus",
-      "director": "Isabel Coixet",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://freight.cargo.site/t/original/i/fb2cc60d375d3ecca28d1fd9fbc3adfdad896f65b3a010aae374f8ac502ef8df/TRES-VEZES-ADEUS_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "14:15",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-18",
-          "time": "16:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "14:30",
           "cinema": "fernando"
         }
       ]
@@ -4943,11 +4838,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/ODISSEIA",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-07-17",
           "time": "21:00",
@@ -5061,28 +4951,35 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnieszka-holland"
     },
     {
-      "id": "batalha_spXMedHo0JV7u8lu",
-      "title": "Atlantics",
-      "director": "Mati Diop",
-      "year": 2019,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/7/3/2/1/427321-atlantics-0-500-0-750-crop.jpg?v=9b99da9ca0",
+      "id": "fernando_aos_nossos_amigos",
+      "title": "Aos Nossos Amigos",
+      "director": "Adrián Orr",
+      "year": 2024,
+      "duration": 90,
+      "poster": "https://freight.cargo.site/t/original/i/b2650324ec59c3a6c9b95c42fc2635c96b8c7f5fbd8f74f2bf22789c6df4f1e5/aos-nossos-amigos_cartaz_digital.jpg",
       "genres": [
-        "Fantasy",
-        "Romance",
-        "Drama"
+        "A NUESTROS AMIGOS",
+        "Doc-Ficção"
       ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/atlantique-1774438128298",
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
       "sessions": [
         {
-          "date": "2026-07-16",
-          "time": "23:30",
-          "cinema": "batalha"
+          "date": "2026-07-18",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-19",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-21",
+          "time": "16:30",
+          "cinema": "fernando"
         }
-      ],
-      "rating": 3.69,
-      "plot": "Arranged to marry a rich man, young Ada is crushed when her true love goes missing at sea during a migration attempt — until a miracle reunites them.",
-      "country": "France"
+      ]
     },
     {
       "id": "batalha_sh4vYmf6QF5UoE0o",
@@ -5108,23 +5005,6 @@ window.CINEMA_DATA = {
       "country": "USA"
     },
     {
-      "id": "trindade_8678",
-      "title": "Amor em Fuga",
-      "director": "François Truffaut",
-      "year": 1979,
-      "duration": 94,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/amor-em-fuga",
-      "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_8757",
       "title": "O Convite",
       "director": "Olivia Wilde",
@@ -5134,21 +5014,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-17",
           "time": "14:30",
@@ -5299,21 +5164,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/persepolis",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "17:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-16",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-17",
           "time": "15:30",
@@ -5499,7 +5349,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
-      "director": "Jane Pollard, Iain Forsyth",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/brokenenglish-1.jpg",
@@ -5507,11 +5357,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64076",
       "sessions": [
-        {
-          "date": "2026-07-16",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-18",
           "time": "21:15",
@@ -5537,7 +5382,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_dois_procuradores",
       "title": "DOIS PROCURADORES",
-      "director": "Sergei Loznitsa",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/47d02d8a-20cb-8e62-94bc-75a402a40969.jpg",
@@ -5560,7 +5405,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_bem_vindos_conquistadores_interplanet_ri",
       "title": "BEM-VINDOS CONQUISTADORES INTERPLANETÁRIOS E DO ESPAÇO SIDERAL",
-      "director": "Andrés Jurado",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/POSTER-EN-PORTUGUES-BCIYDESweb.jpg",
@@ -5611,23 +5456,8 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "Cameron Crowe": {
-      "lbxd_slug": "cameron-crowe",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CameronCrowe.jpg/500px-CameronCrowe.jpg",
-      "bio": "Cameron Bruce Crowe (born July 13, 1957) is an American filmmaker and journalist. He has received many accolades, including an Academy Award, BAFTA Award, Grammy Award, and a Tony Award nomination. Crowe started his career in 1973 as a contributing editor and writer at Rolling Stone magazine, where he covered many rock bands on tour."
-    },
-    "Flora Gomes": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flora_Gomes_in_the_African_Film_Festival_Of_Cordoba.jpg",
-      "bio": "Flora Gomes is a Bissau-Guinean film director. He was born in Cadique, Guinea-Bissau on 31 December 1949 and after high school in Cuba, he decided to study film at the Instituto Cubano del Arte y la Industria Cinematográficos in Havana. Shot fourteen years after independence, Gomes's Mortu Nega (Death Denied) (1988) was the first fiction film and the second feature film ever made in Guinea-Bissau."
-    },
-    "John Flynn": {
-      "lbxd_slug": "john-flynn",
-      "photo": null,
-      "bio": "John or Johnny Flynn may refer to:"
-    },
     "Hugo Fregonese": {
-      "lbxd_slug": "hugo-fregonese",
+      "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fregonese.png/500px-Fregonese.png",
       "bio": "Hugo Geronimo Fregonese (8 April 1908 – 11 January 1987) was an Argentine film director and screenwriter who worked both in Hollywood and his home country during the classical era of Argentine cinema. He made his directorial debut in 1943. In 1949, he directed Apenas un delincuente."
     },
@@ -5658,18 +5488,18 @@ window.CINEMA_DATA = {
     },
     "Sean Penn": {
       "lbxd_slug": "sean-penn",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Superpower_%282023%29-60769.jpg/500px-Superpower_%282023%29-60769.jpg",
+      "bio": "Sean Justin Penn (born August 17, 1960) is an American actor and filmmaker. He is known for his intense leading man roles in film. His accolades include three Academy Awards, a Golden Globe Award, a British Academy Film Award, and nominations for an Emmy Award and a Grammy Award."
     },
     "Ruy Guerra": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ruy_Guerra_-_Presen%C3%A7a_do_5x_Favela_no_Back2Black_Festival.jpg/500px-Ruy_Guerra_-_Presen%C3%A7a_do_5x_Favela_no_Back2Black_Festival.jpg",
+      "bio": "Ruy Alexandre Guerra Coelho Pereira (born August 22, 1931) is a Portuguese-Brazilian film director and screenwriter. Guerra was born a Portuguese citizen in Lourenço Marques (today Maputo) in Mozambique, when it was still a Portuguese colony."
     },
     "Arthur Ripley": {
       "lbxd_slug": "arthur-ripley-1",
       "photo": null,
-      "bio": null
+      "bio": "Arthur DeWitt Ripley (January 12, 1897 – February 13, 1961) was an American film screenwriter, editor, producer, and director."
     },
     "John Ford": {
       "lbxd_slug": "john-ford-2",
@@ -5721,6 +5551,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Cameron Crowe": {
+      "lbxd_slug": "cameron-crowe",
+      "photo": null,
+      "bio": null
+    },
     "Ludovic Boukherma, Zoran Boukherma": {
       "lbxd_slug": "ludovic-boukherma",
       "photo": null,
@@ -5756,10 +5591,25 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "John Flynn": {
+      "lbxd_slug": "john-flynn",
+      "photo": null,
+      "bio": null
+    },
     "Alain Resnais": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Identite-AlainResnais-1959-Sacem.png/500px-Identite-AlainResnais-1959-Sacem.png",
       "bio": "Alain Resnais (French: [alɛ̃ ʁɛnɛ]; 3 June 1922 – 1 March 2014) was a French film director and screenwriter whose career extended over more than six decades. His films frequently explore the relationship between consciousness, memory, and the imagination, and he was noted for devising innovative formal structures for his narratives. After training as a film editor in the mid-1940s, Resnais went on to direct short films including Night and Fog (1956), an influential documentary about the Nazi concentration camps."
+    },
+    "Nanni Moretti": {
+      "lbxd_slug": "nanni-moretti",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nanni_Moretti_Cannes_2011.jpg",
+      "bio": "Giovanni \"Nanni\" Moretti (Italian pronunciation: [ˈnanni moˈretti]; born 19 August 1953) is an Italian film director, producer, screenwriter, and actor. He is most known for his Palme d'Or winner film The Son's Room (2001) and his Special Jury Prize winner film Sweet Dreams (1981). He is also the recipient of three David di Donatello Award for Best Film, for: Caro diario in 1994, The Son's Room in 2001, and The Caiman in 2006."
+    },
+    "Damien Chazelle": {
+      "lbxd_slug": "damien-chazelle",
+      "photo": null,
+      "bio": null
     },
     "Anuparna Roy": {
       "lbxd_slug": null,
@@ -5786,13 +5636,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "François Truffaut": {
-      "lbxd_slug": null,
+    "Wong Kar Wai": {
+      "lbxd_slug": "wong-kar-wai",
       "photo": null,
       "bio": null
     },
-    "Wong Kar Wai": {
-      "lbxd_slug": "wong-kar-wai",
+    "François Truffaut": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -6021,17 +5871,12 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Adrián Orr": {
+    "Isabel Coixet": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
     "Hlynur Pálmason": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Isabel Coixet": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -6051,10 +5896,10 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Mati Diop": {
+    "Adrián Orr": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mati_Diop_with_Golden_Bear_of_Berlinale_2024-2.jpg/500px-Mati_Diop_with_Golden_Bear_of_Berlinale_2024-2.jpg",
-      "bio": "Mati Diop (born 22 June 1982) is a French film director and actress. She won the Grand Prix at the 2019 Cannes Film Festival for her feature film debut, the supernatural romantic drama Atlantics, and the Golden Bear at the 2024 Berlin International Film Festival for her second feature film, the documentary Dahomey. As an actress, she is known for the drama film 35 Shots of Rum (2008)."
+      "photo": null,
+      "bio": null
     },
     "George Lucas": {
       "lbxd_slug": null,
@@ -6081,21 +5926,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
       "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
-    "Jane Pollard, Iain Forsyth": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Sergei Loznitsa": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Andrés Jurado": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Listen, Think, Write": {
       "lbxd_slug": null,
       "photo": null,
@@ -6107,5 +5937,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
