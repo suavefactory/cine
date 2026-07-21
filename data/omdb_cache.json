@@ -35411,5 +35411,193 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Honeymoon|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/6/6/4/67664-honeymoon-0-500-0-750-crop.jpg?v=f6a4edf64e",
+      "description": "A graduate of medical school, wanting to stay in Leningrad , Leningrad married - an engineer who designs bridges - Alexis. It was a marriage of convenience. However, Lyudmila, a capable student, the committee on the distribution of reserves in Leningrad, and in that time, Alex agrees to the construction of a bridge in Siberia, and demands that his wife was riding with him ...",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USSR",
+      "lb_director": "Nadezhda Kosheverova",
+      "lb_director_slug": "nadezhda-kosheverova",
+      "lb_year": 1956
+    },
+    "omdb": {
+      "Title": "Honeymoon",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "12 Sep 2014",
+      "Runtime": "87 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Leigh Janiak",
+      "Writer": "Phil Graziadei, Leigh Janiak",
+      "Actors": "Rose Leslie, Harry Treadaway, Ben Huber",
+      "Plot": "A newlywed couple finds their lake-country honeymoon descend into chaos after Paul finds Bea wandering and disoriented in the middle of the night.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzA0NTk2NF5BMl5BanBnXkFtZTgwMzk2Njc0MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "5.7",
+      "imdbVotes": "27,810",
+      "imdbID": "tt3177316",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$9,318",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Cuba & Alaska|None": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/0/9/8/3/1050983-cuba-alaska-0-500-0-750-crop.jpg?v=55e5c29aba",
+      "description": "Two young paramedic women, Cuba and Alaska, live on the edge in the war-torn Kharkiv region. Their mission is to save lives while sharing good humor, and belief in victory.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Ukraine",
+      "lb_director": "Egor Troyanovsky",
+      "lb_director_slug": "egor-troyanovsky",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Cuba & Alaska",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "19 Jun 2025",
+      "Runtime": "93 min",
+      "Genre": "Documentary",
+      "Director": "Yegor Troyanovsky",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Two medics at the frontline of Ukraine's war try to hold on to fragments of the normal life they had before, hoping they can go back when the war is done.",
+      "Language": "Ukrainian, French, Russian, Catalan",
+      "Country": "Belgium, Ukraine, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRmYmRhODctNjZkNS00OTE5LTliOTEtYTdjMWQ4NzMwNGJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt35571275",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Silent Flood|None": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/5/6/3/8/855638-silent-flood-0-500-0-750-crop.jpg?v=a3be1a33d6",
+      "description": "Set by a beautiful river canyon in Western Ukraine, a pacifist community with unique religious beliefs, sees their peaceful way of life gradually distressed by regular floods and eventually an unexpected war.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Ukraine",
+      "lb_director": "Dmytro Sukholytkyi-Sobchuk",
+      "lb_director_slug": "dmytro-sukholytkyi-sobchuk",
+      "lb_year": 2025
+    },
+    "omdb": {
+      "Title": "Silent Flood",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "16 Nov 2025",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Drama",
+      "Director": "Dmytro Sukholytkyy-Sobchuk",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Set by a beautiful river canyon in Western Ukraine, a pacifist community with unique religious beliefs, sees their peaceful way of life gradually distressed by regular floods and eventually an unexpected war.",
+      "Language": "N/A",
+      "Country": "Ukraine, Germany",
+      "Awards": "1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxZDEyOTUtYjBlYS00NGRkLTlkMDgtYmY1YjU5NWQ4NmRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "15",
+      "imdbID": "tt38732117",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "We will not fade away|None": {
+    "lbxd": {
+      "rating": 3.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/7/7/5/3/767753-we-will-not-fade-away-0-500-0-750-crop.jpg?v=4987bcb0bc",
+      "description": "For five teenagers living in the conflict-ridden Donbas region of Ukraine, a Himalayan expedition provides a brief escape from reality. A portrait of a generation that, in spite of everything, is able to recognise and celebrate the fragile beauty of life.",
+      "genres": [
+        "War",
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Alisa Kovalenko",
+      "lb_director_slug": "alisa-kovalenko",
+      "lb_year": 2023
+    },
+    "omdb": {
+      "Title": "We Will Not Fade Away",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "03 Nov 2023",
+      "Runtime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Alisa Kovalenko",
+      "Writer": "Alisa Kovalenko",
+      "Actors": "Alisa Kovalenko",
+      "Plot": "For five teenagers living in the conflict-ridden Donbas region of Ukraine, a Himalayan expedition provides a brief escape from reality. A portrait of a generation that, in spite of everything, is able to recognize and celebrate th...",
+      "Language": "English, Ukrainian, Russian",
+      "Country": "Ukraine, Poland, France",
+      "Awards": "7 wins & 10 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc2NGVkYmItMGE5ZC00NjM0LWFiNTYtNjhmZTVlMjE2OGU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "123",
+      "imdbID": "tt11389212",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Memories of Prison|2026": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "SOPHIA SETEMBRO DE 1963|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
