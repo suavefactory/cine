@@ -1,6 +1,63 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-21T10:29:50.945584+00:00",
+  "generated": "2026-07-22T10:28:49.923037+00:00",
   "movies": [
+    {
+      "id": "sao_jorge_11187",
+      "title": "Curta: Declaration of intent and doubt",
+      "director": null,
+      "duration": null,
+      "festival": "PROMIN' Midsummer Edition",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-11.41.52-scaled.webp",
+      "genres": [
+        "Video Arte"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/curta-declaration-of-intent-and-doubt/",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "13:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11189",
+      "title": "Curta: Explosions near the Museum",
+      "director": null,
+      "duration": 14,
+      "festival": "PROMIN' Midsummer Edition",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/07/still_2023-03-30-04h24m48s585.webp",
+      "genres": [
+        "Video Arte"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/curta-explosions-near-the-museum/",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "16:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11192",
+      "title": "Curtas: DELAYED PREMIERE – UKRAINIAN FILMS ABOUT ART FROM THE 1990’s",
+      "director": null,
+      "duration": 75,
+      "festival": "PROMIN' Midsummer Edition",
+      "poster": null,
+      "genres": [
+        "Video Arte"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/curtas-delayed-premiere-ukrainian-films-about-art-from-the-1990s/",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "17:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
     {
       "id": "sao_jorge_11184",
       "title": "Honeymoon",
@@ -55,7 +112,7 @@ window.CINEMA_DATA = {
       "title": "Silent Flood",
       "director": "Dmytro Sukholytkyy-Sobchuk",
       "duration": 94,
-      "festival": null,
+      "festival": "PROMIN' Midsummer Edition",
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/5/6/3/8/855638-silent-flood-0-500-0-750-crop.jpg?v=a3be1a33d6",
       "genres": [
         "Documentary"
@@ -98,117 +155,6 @@ window.CINEMA_DATA = {
       "plot": "For five teenagers living in the conflict-ridden Donbas region of Ukraine, a Himalayan expedition provides a brief escape from reality. A portrait of a generation that, in spite of everything, is able to recognise and celebrate the fragile beauty of life.",
       "country": "France",
       "director_lbxd_slug": "alisa-kovalenko"
-    },
-    {
-      "id": "cinemateca_20058",
-      "title": "The Searchers",
-      "director": "John Ford",
-      "year": 1956,
-      "duration": 120,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/5/8/49858-the-searchers-0-500-0-750-crop.jpg?v=51443f7735",
-      "genres": [
-        "Western"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20058",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.94,
-      "plot": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
-      "country": "USA",
-      "director_lbxd_slug": "john-ford-2"
-    },
-    {
-      "id": "cinemateca_20109",
-      "title": "Old Shatterhand",
-      "director": "Hugo Fregonese",
-      "year": 1964,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/5/3/47053-old-shatterhand-0-500-0-750-crop.jpg?v=6033513df3",
-      "genres": [
-        "Western",
-        "Adventure"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20109",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-30",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.32,
-      "plot": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
-      "country": "France",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20131",
-      "title": "The Rocky Horror Picture Show",
-      "director": "Jim Sharman",
-      "year": 1975,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/9/8/27698-the-rocky-horror-picture-show-0-500-0-750-crop.jpg?v=737e51d6bc",
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Science Fiction"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20131",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-29",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.05,
-      "plot": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
-      "country": "UK",
-      "director_lbxd_slug": "jim-sharman"
-    },
-    {
-      "id": "cinemateca_20071",
-      "title": "25th HOUR",
-      "director": "Spike Lee",
-      "year": 2002,
-      "duration": 135,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/u7/my/x3/r6/tQb3wOKzo3XxFSY6ApO7OfLHGUM-0-500-0-750-crop.jpg?v=038db726da",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20071",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.86,
-      "plot": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11.",
-      "country": "USA",
-      "director_lbxd_slug": "spike-lee"
     },
     {
       "id": "cinemateca_20111",
@@ -658,6 +604,30 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "scott-cooper"
     },
     {
+      "id": "cinemateca_20072",
+      "title": "25th HOUR",
+      "director": "Spike Lee",
+      "year": 2002,
+      "duration": 135,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/u7/my/x3/r6/tQb3wOKzo3XxFSY6ApO7OfLHGUM-0-500-0-750-crop.jpg?v=038db726da",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20072",
+      "sessions": [
+        {
+          "date": "2026-07-27",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.86,
+      "plot": "On the eve of a seven-year prison sentence, a New York drug dealer spends his final day of freedom confronting his past, his relationships, and the choices that led to his downfall in a city still reeling from 9/11.",
+      "country": "USA",
+      "director_lbxd_slug": "spike-lee"
+    },
+    {
       "id": "cinemateca_20119",
       "title": "Cry-Baby",
       "director": "John Waters",
@@ -791,6 +761,31 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "arthur-ripley-1"
     },
     {
+      "id": "cinemateca_20132",
+      "title": "The Rocky Horror Picture Show",
+      "director": "Jim Sharman",
+      "year": 1975,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/6/9/8/27698-the-rocky-horror-picture-show-0-500-0-750-crop.jpg?v=737e51d6bc",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20132",
+      "sessions": [
+        {
+          "date": "2026-07-29",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+      "country": "UK",
+      "director_lbxd_slug": "jim-sharman"
+    },
+    {
       "id": "cinemateca_20056",
       "title": "Palombella Rossa",
       "director": "Nanni Moretti",
@@ -813,6 +808,30 @@ window.CINEMA_DATA = {
       "plot": "Michele is an MP for the Italian Communist Party who loses his memory in a car crash, though hardly anyone around him seems to notice. During a crucial water polo match on the eve of election day, he gradually begins to remember his past life, revealing a man whose personal and political identity crisis mirrors that of Italian communism itself.",
       "country": "France",
       "director_lbxd_slug": "nanni-moretti"
+    },
+    {
+      "id": "cinemateca_20110",
+      "title": "Old Shatterhand",
+      "director": "Hugo Fregonese",
+      "year": 1964,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/5/3/47053-old-shatterhand-0-500-0-750-crop.jpg?v=6033513df3",
+      "genres": [
+        "Western",
+        "Adventure"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20110",
+      "sessions": [
+        {
+          "date": "2026-07-30",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.32,
+      "plot": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
+      "country": "France",
+      "director_lbxd_slug": "hugo-fregonese"
     },
     {
       "id": "cinemateca_20121",
@@ -876,16 +895,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/o-canto-das-arvores-esquecidas-2025",
       "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-07-22",
           "time": "21:30",
@@ -959,132 +968,28 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "howard-hawks"
     },
     {
-      "id": "nimas_mulholland-drive-2001",
-      "title": "Mulholland Drive",
-      "director": "David Lynch",
-      "year": 2001,
-      "duration": 147,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/kv/7n/p8/tv/fMC8JBWx2VjsJ53JopAcFjqmlYv-0-500-0-750-crop.jpg?v=3d69c00608",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/mulholland-drive-2001",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.26,
-      "plot": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
-      "country": "France",
-      "director_lbxd_slug": "david-lynch"
-    },
-    {
-      "id": "nimas_o-homem-na-pele-da-serpente-1960",
-      "title": "O Homem na Pele da Serpente",
-      "director": "Sidney Lumet",
-      "year": 1960,
-      "duration": 119,
-      "poster": "https://medeiafilmes.com/uploads/library/9fc68750048badaadebe15a63d6fdb27601ee7aeeace3e7cbdcc00ed766a6dde.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-na-pele-da-serpente-1960",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-04",
-          "time": "13:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-historia-de-adele-h-1975",
-      "title": "A História de Adèle H",
-      "director": "François Truffaut",
-      "year": 1975,
-      "duration": 98,
-      "poster": "https://medeiafilmes.com/uploads/library/l-histoire-d-adele-h.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-historia-de-adele-h-1975",
-      "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-sereia-do-mississipi-1969",
-      "title": "A Sereia do Mississipi",
-      "director": "François Truffaut",
-      "year": 1969,
+      "id": "nimas_raquel-raquel-1968",
+      "title": "Raquel, Raquel",
+      "director": "Paul Newman",
+      "year": 1968,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/la-sirene-du-mississipi_c23b6d8f.jpg",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-sereia-do-mississipi-1969",
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdbhymjinjatzmzlyi00n2nilwe5odgtywu4ngq2y2yzmdq5xkeyxkfqcgdeqxvymtuzmduznti3_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/raquel-raquel-1968",
       "sessions": [
         {
-          "date": "2026-07-21",
-          "time": "15:15",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-intruso-1976",
-      "title": "O Intruso",
-      "director": "Luchino Visconti",
-      "year": 1976,
-      "duration": 129,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzjhjzjvmmmitztg5ns00ndi5lwe3ytgtmwnknjq5zdq3ytjkxkeyxkfqcgdeqxvymzizndu1nty_v1.jpg",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-24",
+          "date": "2026-07-22",
           "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "21:45",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-08-16",
-          "time": "15:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-26",
-          "time": "22:00",
+          "date": "2026-08-02",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "17:00",
           "cinema": "nimas"
         }
       ]
@@ -1136,33 +1041,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-estrangeiro-1967-1967",
-      "title": "O Estrangeiro (1967)",
-      "director": "Luchino Visconti",
-      "year": 1967,
-      "duration": 104,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bywe3mdqzmtgtmgyyns00ztc0lwjkotatnjizmjkzyzqyytk3xkeyxkfqcgc_v1_fmjpg_ux658.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1967-1967",
-      "sessions": [
-        {
-          "date": "2026-07-22",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-17",
-          "time": "13:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-20",
-          "time": "20:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_l-aventura-2025",
       "title": "L’Aventura",
       "director": "Sophie Letourneur",
@@ -1206,65 +1084,58 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sophie-letourneur"
     },
     {
-      "id": "nimas_raquel-raquel-1968",
-      "title": "Raquel, Raquel",
-      "director": "Paul Newman",
-      "year": 1968,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdbhymjinjatzmzlyi00n2nilwe5odgtywu4ngq2y2yzmdq5xkeyxkfqcgdeqxvymtuzmduznti3_v1_fmjpg_ux1000.jpg",
+      "id": "nimas_o-estrangeiro-1967-1967",
+      "title": "O Estrangeiro (1967)",
+      "director": "Luchino Visconti",
+      "year": 1967,
+      "duration": 104,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bywe3mdqzmtgtmgyyns00ztc0lwjkotatnjizmjkzyzqyytk3xkeyxkfqcgc_v1_fmjpg_ux658.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/raquel-raquel-1968",
+      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1967-1967",
       "sessions": [
         {
           "date": "2026-07-22",
-          "time": "21:30",
+          "time": "17:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-02",
+          "date": "2026-08-17",
+          "time": "13:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-20",
           "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-08",
-          "time": "17:00",
           "cinema": "nimas"
         }
       ]
     },
     {
-      "id": "nimas_sandra-1965",
-      "title": "Sandra",
-      "director": "Luchino Visconti",
-      "year": 1965,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/1/4/8/77148-sandra-0-500-0-750-crop.jpg?v=dad08eafc5",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sandra-1965",
+      "id": "nimas_os-indomaveis-1971",
+      "title": "Os Indomáveis",
+      "director": "Paul Newman",
+      "year": 1971,
+      "duration": 114,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bndm0ytzhzwitzmnjzs00mduwlthimtqtztgyzwq5ndi1njk4xkeyxkfqcgc_v1.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/os-indomaveis-1971",
       "sessions": [
         {
           "date": "2026-07-23",
-          "time": "22:00",
+          "time": "15:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-17",
-          "time": "17:30",
+          "date": "2026-08-11",
+          "time": "15:15",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-25",
-          "time": "17:30",
+          "date": "2026-09-01",
+          "time": "16:30",
           "cinema": "nimas"
         }
-      ],
-      "rating": 3.69,
-      "plot": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
-      "country": "Italy",
-      "director_lbxd_slug": "luchino-visconti"
+      ]
     },
     {
       "id": "nimas_obsessao-1943",
@@ -1304,6 +1175,62 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_a-historia-de-adele-h-1975",
+      "title": "A História de Adèle H",
+      "director": "François Truffaut",
+      "year": 1975,
+      "duration": 98,
+      "poster": "https://medeiafilmes.com/uploads/library/l-histoire-d-adele-h.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/a-historia-de-adele-h-1975",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "nimas_sandra-1965",
+      "title": "Sandra",
+      "director": "Luchino Visconti",
+      "year": 1965,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/1/4/8/77148-sandra-0-500-0-750-crop.jpg?v=dad08eafc5",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "link": "https://medeiafilmes.com/filmes/sandra-1965",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "17:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
+      "country": "Italy",
+      "director_lbxd_slug": "luchino-visconti"
+    },
+    {
       "id": "nimas_ange-2025",
       "title": "Ange",
       "director": "Tony Gatlif",
@@ -1338,28 +1265,63 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "tony-gatlif-1"
     },
     {
-      "id": "nimas_os-indomaveis-1971",
-      "title": "Os Indomáveis",
-      "director": "Paul Newman",
-      "year": 1971,
-      "duration": 114,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bndm0ytzhzwitzmnjzs00mduwlthimtqtztgyzwq5ndi1njk4xkeyxkfqcgc_v1.jpg",
+      "id": "nimas_cruel-vitoria-1957",
+      "title": "Cruel Vitória",
+      "director": "Nicholas Ray",
+      "year": 1957,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzezztg1mzktyzzizi00nzbllwe4ntctnzm1mdjlnjqyzjjjxkeyxkfqcgdeqxvynjc1ntyymjg_v1.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-indomaveis-1971",
+      "link": "https://medeiafilmes.com/filmes/cruel-vitoria-1957",
       "sessions": [
         {
-          "date": "2026-07-23",
+          "date": "2026-07-24",
           "time": "15:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-11",
-          "time": "15:15",
+          "date": "2026-08-24",
+          "time": "18:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-09-01",
-          "time": "16:30",
+          "date": "2026-08-31",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-intruso-1976",
+      "title": "O Intruso",
+      "director": "Luchino Visconti",
+      "year": 1976,
+      "duration": 129,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzjhjzjvmmmitztg5ns00ndi5lwe3ytgtmwnknjq5zdq3ytjkxkeyxkfqcgdeqxvymzizndu1nty_v1.jpg",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
+      "sessions": [
+        {
+          "date": "2026-07-24",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "21:45",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ]
@@ -1469,28 +1431,28 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_cruel-vitoria-1957",
-      "title": "Cruel Vitória",
-      "director": "Nicholas Ray",
-      "year": 1957,
+      "id": "nimas_anatomia-de-um-crime-1959",
+      "title": "Anatomia de um Crime",
+      "director": "Otto Preminger",
+      "year": 1959,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzezztg1mzktyzzizi00nzbllwe4ntctnzm1mdjlnjqyzjjjxkeyxkfqcgdeqxvynjc1ntyymjg_v1.jpg",
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzm0mze2ztatztbjzs00mtk5ltg5otetnjnmymq5nzu2otuyxkeyxkfqcgdeqxvyndy2mtk1odk_v1.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/cruel-vitoria-1957",
+      "link": "https://medeiafilmes.com/filmes/anatomia-de-um-crime-1959",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "15:00",
+          "date": "2026-07-25",
+          "time": "11:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-24",
-          "time": "18:00",
+          "date": "2026-07-31",
+          "time": "19:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-31",
-          "time": "15:00",
+          "date": "2026-08-25",
+          "time": "21:30",
           "cinema": "nimas"
         }
       ]
@@ -1559,36 +1521,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_2001-odisseia-no-espaco-1968",
-      "title": "2001 – Odisseia no Espaço",
-      "director": "Stanley Kubrick",
-      "year": 1968,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/bd37d22003b45820ca37089ec1192e01.jpg",
-      "genres": [
-        "Drama",
-        "Sci-Fi"
-      ],
-      "link": "https://medeiafilmes.com/filmes/2001-odisseia-no-espaco-1968",
-      "sessions": [
-        {
-          "date": "2026-07-25",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-16",
-          "time": "17:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_a-doce-vida-1960",
       "title": "A Doce Vida",
       "director": "Federico Fellini",
@@ -1626,61 +1558,40 @@ window.CINEMA_DATA = {
           "date": "2026-07-25",
           "time": "14:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "17:15",
+          "cinema": "trindade"
         }
       ]
     },
     {
-      "id": "nimas_anatomia-de-um-crime-1959",
-      "title": "Anatomia de um Crime",
-      "director": "Otto Preminger",
-      "year": 1959,
+      "id": "nimas_2001-odisseia-no-espaco-1968",
+      "title": "2001 – Odisseia no Espaço",
+      "director": "Stanley Kubrick",
+      "year": 1968,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmzm0mze2ztatztbjzs00mtk5ltg5otetnjnmymq5nzu2otuyxkeyxkfqcgdeqxvyndy2mtk1odk_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/anatomia-de-um-crime-1959",
+      "poster": "https://medeiafilmes.com/uploads/library/bd37d22003b45820ca37089ec1192e01.jpg",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "link": "https://medeiafilmes.com/filmes/2001-odisseia-no-espaco-1968",
       "sessions": [
         {
           "date": "2026-07-25",
-          "time": "11:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-31",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-25",
           "time": "21:30",
           "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_lawrence-da-arabia-1962",
-      "title": "Lawrence da Arábia",
-      "director": "David Lean",
-      "year": 1962,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/lawrence_of_arabia_ver3_xxlg.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/lawrence-da-arabia-1962",
-      "sessions": [
+        },
         {
-          "date": "2026-07-26",
-          "time": "20:00",
+          "date": "2026-08-16",
+          "time": "17:15",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-23",
-          "time": "10:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-04",
-          "time": "20:00",
+          "date": "2026-08-30",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ]
@@ -1701,61 +1612,6 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
-    },
-    {
-      "id": "nimas_belissima-1951",
-      "title": "Belíssima",
-      "director": "Luchino Visconti",
-      "year": 1951,
-      "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytgwogezodetntnlny00zweylthjztutmzixmmvjody0nzyxxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/belissima-1951",
-      "sessions": [
-        {
-          "date": "2026-07-26",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-15",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-sete-samurais-1954",
-      "title": "Os Sete Samurais",
-      "director": "Akira Kurosawa",
-      "year": 1954,
-      "duration": 207,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-500-0-750-crop.jpg?v=973d70bb0c",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-sete-samurais-1954",
-      "sessions": [
-        {
-          "date": "2026-07-26",
-          "time": "10:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-07",
-          "time": "20:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.6,
-      "plot": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
-      "country": "Japan"
     },
     {
       "id": "nimas_rocco-e-os-seus-irmaos-1960",
@@ -1792,27 +1648,88 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_in-the-mood-for-love-disponivel-para-amar-2000",
-      "title": "In the Mood For Love — Disponível Para Amar",
-      "director": "Wong Kar Wai",
-      "year": 2001,
-      "duration": 98,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/5/6/8/579568-in-the-mood-for-love-0-500-0-750-crop.jpg?v=3fe332446b",
+      "id": "nimas_os-sete-samurais-1954",
+      "title": "Os Sete Samurais",
+      "director": "Akira Kurosawa",
+      "year": 1954,
+      "duration": 207,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-500-0-750-crop.jpg?v=973d70bb0c",
       "genres": [
-        "Documentary"
+        "Action",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/in-the-mood-for-love-disponivel-para-amar-2000",
+      "link": "https://medeiafilmes.com/filmes/os-sete-samurais-1954",
       "sessions": [
         {
-          "date": "2026-08-16",
-          "time": "22:00",
+          "date": "2026-07-26",
+          "time": "10:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "20:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.92,
-      "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
-      "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "rating": 4.6,
+      "plot": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+      "country": "Japan"
+    },
+    {
+      "id": "nimas_lawrence-da-arabia-1962",
+      "title": "Lawrence da Arábia",
+      "director": "David Lean",
+      "year": 1962,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/lawrence_of_arabia_ver3_xxlg.jpeg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/lawrence-da-arabia-1962",
+      "sessions": [
+        {
+          "date": "2026-07-26",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "10:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "20:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_belissima-1951",
+      "title": "Belíssima",
+      "director": "Luchino Visconti",
+      "year": 1951,
+      "duration": 108,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bytgwogezodetntnlny00zweylthjztutmzixmmvjody0nzyxxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/belissima-1951",
+      "sessions": [
+        {
+          "date": "2026-07-26",
+          "time": "18:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-15",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "15:30",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_noites-brancas-1957",
@@ -1852,31 +1769,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_alphaville-1965",
-      "title": "Alphaville",
-      "director": "Jean-Luc Godard",
-      "year": 1965,
-      "duration": 99,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/9/3/47893-alphaville-0-500-0-750-crop.jpg?v=e0e00f677f",
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/alphaville-1965",
-      "sessions": [
-        {
-          "date": "2026-07-27",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Lemmy Caution is on a mission to eliminate Professor Von Braun, the creator of a malevolent computer that rules the city of Alphaville. Befriended by the scientist’s daughter Natasha, Lemmy must unravel the mysteries of the strictly logical Alpha 60 and teach Natasha the meaning of the word “love.”",
-      "country": "France",
-      "director_lbxd_slug": "jean-luc-godard-1"
-    },
-    {
       "id": "nimas_stalker-1979",
       "title": "Stalker",
       "director": "Andrei Tarkovsky",
@@ -1905,6 +1797,54 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
+      "id": "nimas_alphaville-1965",
+      "title": "Alphaville",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "duration": 99,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/8/9/3/47893-alphaville-0-500-0-750-crop.jpg?v=e0e00f677f",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/alphaville-1965",
+      "sessions": [
+        {
+          "date": "2026-07-27",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Lemmy Caution is on a mission to eliminate Professor Von Braun, the creator of a malevolent computer that rules the city of Alphaville. Befriended by the scientist’s daughter Natasha, Lemmy must unravel the mysteries of the strictly logical Alpha 60 and teach Natasha the meaning of the word “love.”",
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
+    },
+    {
+      "id": "nimas_in-the-mood-for-love-disponivel-para-amar-2000",
+      "title": "In the Mood For Love — Disponível Para Amar",
+      "director": "Wong Kar Wai",
+      "year": 2001,
+      "duration": 98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/5/6/8/579568-in-the-mood-for-love-0-500-0-750-crop.jpg?v=3fe332446b",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/in-the-mood-for-love-disponivel-para-amar-2000",
+      "sessions": [
+        {
+          "date": "2026-08-16",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
+      "country": "Hong Kong",
+      "director_lbxd_slug": "wong-kar-wai"
+    },
+    {
       "id": "nimas_o-detective-1968",
       "title": "O Detective",
       "director": "Gordon Douglas",
@@ -1927,58 +1867,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-31",
           "time": "19:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_made-in-usa-1966",
-      "title": "Made in USA",
-      "director": "Jean-Luc Godard",
-      "year": 1966,
-      "duration": 2,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/9/1/9/32919-made-in-u-s-a--0-500-0-750-crop.jpg?v=94a9534b41",
-      "genres": [
-        "Mystery",
-        "Comedy",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/made-in-usa-1966",
-      "sessions": [
-        {
-          "date": "2026-07-28",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.3,
-      "plot": "Paula Nelson goes to Atlantic City to meet her lover, Richard Politzer, but finds him dead and decides to investigate his death. In her hotel room, she meets Typhus, whom she ends up knocking out. His corpse is later found in the apartment of David Goodis, a writer. Paula is arrested and interrogated. From then on, she encounters many gangsters.",
-      "country": "France",
-      "director_lbxd_slug": "jean-luc-godard-1"
-    },
-    {
-      "id": "nimas_os-malditos-1969",
-      "title": "Os Malditos",
-      "director": "Luchino Visconti",
-      "year": 1969,
-      "duration": 157,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnjq3mzywn2qtnju1nc00mjq4ltgznzutmjviodaynjewymrjxkeyxkfqcgc_v1_fmjpg_uy3000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
-      "sessions": [
-        {
-          "date": "2026-07-28",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-18",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "21:00",
           "cinema": "nimas"
         }
       ]
@@ -2011,6 +1899,58 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_os-malditos-1969",
+      "title": "Os Malditos",
+      "director": "Luchino Visconti",
+      "year": 1969,
+      "duration": 157,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bnjq3mzywn2qtnju1nc00mjq4ltgznzutmjviodaynjewymrjxkeyxkfqcgc_v1_fmjpg_uy3000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_made-in-usa-1966",
+      "title": "Made in USA",
+      "director": "Jean-Luc Godard",
+      "year": 1966,
+      "duration": 2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/9/1/9/32919-made-in-u-s-a--0-500-0-750-crop.jpg?v=94a9534b41",
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/made-in-usa-1966",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "15:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.3,
+      "plot": "Paula Nelson goes to Atlantic City to meet her lover, Richard Politzer, but finds him dead and decides to investigate his death. In her hotel room, she meets Typhus, whom she ends up knocking out. His corpse is later found in the apartment of David Goodis, a writer. Paula is arrested and interrogated. From then on, she encounters many gangsters.",
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
+    },
+    {
       "id": "nimas_ludwig-luis-da-baviera-1973",
       "title": "Ludwig – Luís da Baviera",
       "director": "Luchino Visconti",
@@ -2033,6 +1973,26 @@ window.CINEMA_DATA = {
       "plot": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
       "country": "Germany",
       "director_lbxd_slug": "luchino-visconti"
+    },
+    {
+      "id": "nimas_alemanha-ano-zero-1948",
+      "title": "Alemanha, Ano Zero",
+      "director": "Roberto Rossellini",
+      "year": 1948,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/alemanha-ano-zero1.jpg",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "link": "https://medeiafilmes.com/filmes/alemanha-ano-zero-1948",
+      "sessions": [
+        {
+          "date": "2026-07-29",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
@@ -2062,26 +2022,6 @@ window.CINEMA_DATA = {
       "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
       "country": "Germany",
       "director_lbxd_slug": "edgar-reitz"
-    },
-    {
-      "id": "nimas_alemanha-ano-zero-1948",
-      "title": "Alemanha, Ano Zero",
-      "director": "Roberto Rossellini",
-      "year": 1948,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/alemanha-ano-zero1.jpg",
-      "genres": [
-        "Drama",
-        "Guerra"
-      ],
-      "link": "https://medeiafilmes.com/filmes/alemanha-ano-zero-1948",
-      "sessions": [
-        {
-          "date": "2026-07-29",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_paixoes-que-escaldam-1958",
@@ -2148,6 +2088,11 @@ window.CINEMA_DATA = {
           "labels": [
             "Conversa com Inês N. Lourenço"
           ]
+        },
+        {
+          "date": "2026-08-01",
+          "time": "16:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-10",
@@ -2326,6 +2271,40 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_os-respigadores-e-a-respigadora-2000",
+      "title": "Os Respigadores e a Respigadora",
+      "director": "Agnès Varda",
+      "year": 2000,
+      "duration": 82,
+      "poster": "https://medeiafilmes.com/uploads/library/86208.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-2000",
+      "sessions": [
+        {
+          "date": "2026-08-01",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_a-felicidade-1964",
       "title": "A Felicidade",
       "director": "Agnès Varda",
@@ -2393,40 +2372,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "nicholas-ray"
     },
     {
-      "id": "nimas_os-respigadores-e-a-respigadora-2000",
-      "title": "Os Respigadores e a Respigadora",
-      "director": "Agnès Varda",
-      "year": 2000,
-      "duration": 82,
-      "poster": "https://medeiafilmes.com/uploads/library/86208.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-2000",
-      "sessions": [
-        {
-          "date": "2026-08-01",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-13",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_o-acossado-1960",
       "title": "O Acossado",
       "director": "Jean-Luc Godard",
@@ -2450,40 +2395,20 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "nimas_a-comedia-e-a-vida-1952",
-      "title": "A Comédia e a Vida",
-      "director": "Jean Renoir",
-      "year": 1952,
-      "duration": 105,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2fmmwy2mzutnjk3nc00m2jllwjjymytnda1ngrinzm2ywuzxkeyxkfqcgdeqxvymdi3otizoa_v1_fmjpg_uy1768.jpg",
+      "id": "nimas_os-chapeus-de-chuva-de-cherburgo-1964",
+      "title": "Os Chapéus de Chuva de Cherburgo",
+      "director": "Jacques Demy",
+      "year": 1964,
+      "duration": 87,
+      "poster": "https://medeiafilmes.com/uploads/library/os_chapeus_de_chuva_de_cherburgo.jpg",
       "genres": [
-        "Comédia",
-        "Drama"
+        "Musical"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-comedia-e-a-vida-1952",
+      "link": "https://medeiafilmes.com/filmes/os-chapeus-de-chuva-de-cherburgo-1964",
       "sessions": [
         {
           "date": "2026-08-02",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_roma-cidade-aberta-1945",
-      "title": "Roma, Cidade Aberta",
-      "director": "Roberto Rossellini",
-      "year": 1945,
-      "duration": 98,
-      "poster": "https://medeiafilmes.com/uploads/library/roma-cidade-aberta.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/roma-cidade-aberta-1945",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "14:00",
+          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -2526,6 +2451,45 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_roma-cidade-aberta-1945",
+      "title": "Roma, Cidade Aberta",
+      "director": "Roberto Rossellini",
+      "year": 1945,
+      "duration": 98,
+      "poster": "https://medeiafilmes.com/uploads/library/roma-cidade-aberta.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/roma-cidade-aberta-1945",
+      "sessions": [
+        {
+          "date": "2026-08-02",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_a-comedia-e-a-vida-1952",
+      "title": "A Comédia e a Vida",
+      "director": "Jean Renoir",
+      "year": 1952,
+      "duration": 105,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2fmmwy2mzutnjk3nc00m2jllwjjymytnda1ngrinzm2ywuzxkeyxkfqcgdeqxvymdi3otizoa_v1_fmjpg_uy1768.jpg",
+      "genres": [
+        "Comédia",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-comedia-e-a-vida-1952",
+      "sessions": [
+        {
+          "date": "2026-08-02",
+          "time": "10:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_pedido-de-divorcio-1959",
       "title": "Pedido de Divórcio",
       "director": "Claude Chabrol",
@@ -2553,20 +2517,20 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-chapeus-de-chuva-de-cherburgo-1964",
-      "title": "Os Chapéus de Chuva de Cherburgo",
-      "director": "Jacques Demy",
-      "year": 1964,
-      "duration": 87,
-      "poster": "https://medeiafilmes.com/uploads/library/os_chapeus_de_chuva_de_cherburgo.jpg",
+      "id": "nimas_o-crime-do-sr-lange-1936",
+      "title": "O Crime do Sr. Lange",
+      "director": "Jean Renoir",
+      "year": 1936,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/le_crime_de_monsieur_lange.jpg",
       "genres": [
-        "Musical"
+        "Cópia Digital Restaurada"
       ],
-      "link": "https://medeiafilmes.com/filmes/os-chapeus-de-chuva-de-cherburgo-1964",
+      "link": "https://medeiafilmes.com/filmes/o-crime-do-sr-lange-1936",
       "sessions": [
         {
-          "date": "2026-08-02",
-          "time": "16:00",
+          "date": "2026-08-03",
+          "time": "14:30",
           "cinema": "nimas"
         }
       ]
@@ -2626,20 +2590,60 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-crime-do-sr-lange-1936",
-      "title": "O Crime do Sr. Lange",
-      "director": "Jean Renoir",
-      "year": 1936,
+      "id": "nimas_uma-canta-a-outra-nao-1976",
+      "title": "Uma Canta, a Outra Não",
+      "director": "Agnès Varda",
+      "year": 1976,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/le_crime_de_monsieur_lange.jpg",
+      "poster": "https://medeiafilmes.com/uploads/library/0568868.jpg",
       "genres": [
-        "Cópia Digital Restaurada"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-crime-do-sr-lange-1936",
+      "link": "https://medeiafilmes.com/filmes/uma-canta-a-outra-nao-1976",
       "sessions": [
         {
           "date": "2026-08-03",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "17:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-28",
           "time": "14:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-leao-volatil-2003",
+      "title": "O Leão Volátil",
+      "director": "Agnès Varda",
+      "year": 2003,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/f2eab62eb21c6bf4976d684ceeb7cd443bff16d100985852f19164a438f354eb.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-leao-volatil-2003",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "13:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 1"
+          ]
+        },
+        {
+          "date": "2026-08-21",
+          "time": "14:00",
           "cinema": "nimas"
         }
       ]
@@ -2665,35 +2669,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-21",
           "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
-      "title": "Os Respigadores e a Respigadora… Dois Anos Depois",
-      "director": "Agnès Varda",
-      "year": 2002,
-      "duration": 64,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzteymti2ytctnzc5zi00zwjklthhotgtntk2zjeymwq3otizxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-dois-anos-depois-2002",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-16",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "13:00",
           "cinema": "nimas"
         }
       ]
@@ -2751,6 +2726,64 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
+      "title": "Os Respigadores e a Respigadora… Dois Anos Depois",
+      "director": "Agnès Varda",
+      "year": 2002,
+      "duration": 64,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzteymti2ytctnzc5zi00zwjklthhotgtntk2zjeymwq3otizxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-dois-anos-depois-2002",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_fahrenheit-451-grau-de-destruicao-1966",
+      "title": "Fahrenheit 451 – Grau de Destruição",
+      "director": "François Truffaut",
+      "year": 1966,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/fahrenheit-451-grau-de-destruicao-1966",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "18:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.51,
+      "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
+      "country": "UK",
+      "director_lbxd_slug": "francois-truffaut"
+    },
+    {
       "id": "nimas_as-supostas-cariatides-1984",
       "title": "As Supostas Cariátides",
       "director": "Agnès Varda",
@@ -2776,130 +2809,6 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ]
-    },
-    {
-      "id": "nimas_o-leao-volatil-2003",
-      "title": "O Leão Volátil",
-      "director": "Agnès Varda",
-      "year": 2003,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/f2eab62eb21c6bf4976d684ceeb7cd443bff16d100985852f19164a438f354eb.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-leao-volatil-2003",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "13:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 1"
-          ]
-        },
-        {
-          "date": "2026-08-21",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_uma-canta-a-outra-nao-1976",
-      "title": "Uma Canta, a Outra Não",
-      "director": "Agnès Varda",
-      "year": 1976,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/0568868.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/uma-canta-a-outra-nao-1976",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "17:45",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-19",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_grau-de-destruicao-1966",
-      "title": "Grau de Destruição",
-      "director": "François Truffaut",
-      "year": 1966,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmda3zjixy2utmzvmms00ntkwltljmzktnzk2zwmxyzzknge3xkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/grau-de-destruicao-1966",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-universo-de-jacques-demy-1995",
-      "title": "O Universo de Jacques Demy",
-      "director": "Agnès Varda",
-      "year": 1995,
-      "duration": 90,
-      "poster": "https://medeiafilmes.com/uploads/library/17037.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-universo-de-jacques-demy-1995",
-      "sessions": [
-        {
-          "date": "2026-08-04",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_lola-1961",
-      "title": "Lola",
-      "director": "Jacques Demy",
-      "year": 1961,
-      "duration": 83,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/2/5/24325-lola-0-500-0-750-crop.jpg?v=ffe4c0ba4f",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/lola-1961",
-      "sessions": [
-        {
-          "date": "2026-08-04",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.89,
-      "plot": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
-      "country": "France",
-      "director_lbxd_slug": "jacques-demy"
     },
     {
       "id": "nimas_amor-de-leao-1969",
@@ -2936,6 +2845,97 @@ window.CINEMA_DATA = {
         {
           "date": "2026-09-09",
           "time": "15:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-universo-de-jacques-demy-1995",
+      "title": "O Universo de Jacques Demy",
+      "director": "Agnès Varda",
+      "year": 1995,
+      "duration": 90,
+      "poster": "https://medeiafilmes.com/uploads/library/17037.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-universo-de-jacques-demy-1995",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_o-homem-na-pele-da-serpente-1960",
+      "title": "O Homem na Pele da Serpente",
+      "director": "Sidney Lumet",
+      "year": 1960,
+      "duration": 119,
+      "poster": "https://medeiafilmes.com/uploads/library/9fc68750048badaadebe15a63d6fdb27601ee7aeeace3e7cbdcc00ed766a6dde.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-homem-na-pele-da-serpente-1960",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "13:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_lola-1961",
+      "title": "Lola",
+      "director": "Jacques Demy",
+      "year": 1961,
+      "duration": 83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/2/5/24325-lola-0-500-0-750-crop.jpg?v=ffe4c0ba4f",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/lola-1961",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.89,
+      "plot": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+      "country": "France",
+      "director_lbxd_slug": "jacques-demy"
+    },
+    {
+      "id": "nimas_algemas-de-cristal-1985",
+      "title": "Algemas de Cristal",
+      "director": "Paul Newman",
+      "year": 1985,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmju1zdvhzdqtyta5my00yzy2lwfkmjctodq5ytq1owu5ote3xkeyxkfqcgdeqxvynjmwmjk0mtq_v1_fmjpg_ux780.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/algemas-de-cristal-1985",
+      "sessions": [
+        {
+          "date": "2026-08-05",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "19:00",
           "cinema": "nimas"
         }
       ]
@@ -2998,30 +2998,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_algemas-de-cristal-1985",
-      "title": "Algemas de Cristal",
-      "director": "Paul Newman",
-      "year": 1985,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmju1zdvhzdqtyta5my00yzy2lwfkmjctodq5ytq1owu5ote3xkeyxkfqcgdeqxvynjmwmjk0mtq_v1_fmjpg_ux780.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/algemas-de-cristal-1985",
-      "sessions": [
-        {
-          "date": "2026-08-05",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-09",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_adeus-philippine-1962",
       "title": "Adeus Philippine",
       "director": "Jacques Rozier",
@@ -3042,28 +3018,67 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_as-boas-mulheres-1960",
-      "title": "As Boas Mulheres",
-      "director": "Claude Chabrol",
-      "year": 1960,
-      "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/claude-chabrol-les-bonnes-femmes-scaled.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/as-boas-mulheres-1960",
+      "id": "nimas_documenteur-1980",
+      "title": "Documenteur",
+      "director": "Agnès Varda",
+      "year": 1981,
+      "duration": 63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/6/8/117468-documenteur-0-500-0-750-crop.jpg?v=cae607d9d3",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/documenteur-1980",
       "sessions": [
         {
           "date": "2026-08-06",
-          "time": "20:00",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.79,
+      "plot": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_errando-pelo-caminho-1965",
+      "title": "Errando pelo Caminho",
+      "director": "Robert Mulligan",
+      "year": 1965,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgewzte5otytotk1ns00mwewlwe1mzatzwi5zjc0ymu0ywu5xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/errando-pelo-caminho-1965",
+      "sessions": [
+        {
+          "date": "2026-08-06",
+          "time": "16:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-19",
-          "time": "15:00",
+          "date": "2026-08-27",
+          "time": "17:30",
           "cinema": "nimas"
-        },
+        }
+      ]
+    },
+    {
+      "id": "nimas_tio-yanco-1967",
+      "title": "Tio Yanco",
+      "director": "Agnès Varda",
+      "year": 1967,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/4dacf845af526e7e5ecab8cae1ea69909517bb7f03d83ec80fe7f5b491ee4a93.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/tio-yanco-1967",
+      "sessions": [
         {
-          "date": "2026-09-03",
-          "time": "12:00",
+          "date": "2026-08-06",
+          "time": "14:00",
           "cinema": "nimas"
         }
       ]
@@ -3166,70 +3181,31 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_tio-yanco-1967",
-      "title": "Tio Yanco",
-      "director": "Agnès Varda",
-      "year": 1967,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/4dacf845af526e7e5ecab8cae1ea69909517bb7f03d83ec80fe7f5b491ee4a93.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/tio-yanco-1967",
+      "id": "nimas_as-boas-mulheres-1960",
+      "title": "As Boas Mulheres",
+      "director": "Claude Chabrol",
+      "year": 1960,
+      "duration": 100,
+      "poster": "https://medeiafilmes.com/uploads/library/claude-chabrol-les-bonnes-femmes-scaled.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/as-boas-mulheres-1960",
       "sessions": [
         {
           "date": "2026-08-06",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_errando-pelo-caminho-1965",
-      "title": "Errando pelo Caminho",
-      "director": "Robert Mulligan",
-      "year": 1965,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgewzte5otytotk1ns00mwewlwe1mzatzwi5zjc0ymu0ywu5xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/errando-pelo-caminho-1965",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "16:00",
+          "time": "20:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-27",
-          "time": "17:30",
+          "date": "2026-08-19",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "12:00",
           "cinema": "nimas"
         }
       ]
-    },
-    {
-      "id": "nimas_documenteur-1980",
-      "title": "Documenteur",
-      "director": "Agnès Varda",
-      "year": 1981,
-      "duration": 63,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/6/8/117468-documenteur-0-500-0-750-crop.jpg?v=cae607d9d3",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/documenteur-1980",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.79,
-      "plot": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_i-want-your-sex-2026",
@@ -3259,6 +3235,23 @@ window.CINEMA_DATA = {
       "plot": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
       "country": "USA",
       "director_lbxd_slug": "gregg-araki"
+    },
+    {
+      "id": "nimas_diario-de-um-paroco-de-aldeia-1951",
+      "title": "Diário de um Pároco de Aldeia",
+      "director": "Robert Bresson",
+      "year": 1951,
+      "duration": 95,
+      "poster": "https://medeiafilmes.com/uploads/library/1089159.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/diario-de-um-paroco-de-aldeia-1951",
+      "sessions": [
+        {
+          "date": "2026-08-07",
+          "time": "17:45",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_as-praias-de-agnes-2008",
@@ -3317,18 +3310,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_diario-de-um-paroco-de-aldeia-1951",
-      "title": "Diário de um Pároco de Aldeia",
-      "director": "Robert Bresson",
-      "year": 1951,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/1089159.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/diario-de-um-paroco-de-aldeia-1951",
+      "id": "nimas_morte-em-veneza-1971",
+      "title": "Morte em Veneza",
+      "director": "Luchino Visconti",
+      "year": 1971,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/ylcpjepslyy2bv5dypicfaov0ic.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/morte-em-veneza-1971",
       "sessions": [
         {
-          "date": "2026-08-07",
-          "time": "17:45",
+          "date": "2026-08-08",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "16:45",
           "cinema": "nimas"
         }
       ]
@@ -3344,6 +3344,30 @@ window.CINEMA_DATA = {
         "Documentário"
       ],
       "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
+      "sessions": [
+        {
+          "date": "2026-08-08",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "10:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_ao-longo-da-costa-1958",
+      "title": "Ao Longo da Costa",
+      "director": "Agnès Varda",
+      "year": 1958,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5botvimgq0mjctmjc2ny00m2e0lwiwzdytztbkzjqymtfinmmyxkeyxkfqcgc_v1_fmjpg_ux1017.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ao-longo-da-costa-1958",
       "sessions": [
         {
           "date": "2026-08-08",
@@ -3384,54 +3408,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_ao-longo-da-costa-1958",
-      "title": "Ao Longo da Costa",
-      "director": "Agnès Varda",
-      "year": 1958,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5botvimgq0mjctmjc2ny00m2e0lwiwzdytztbkzjqymtfinmmyxkeyxkfqcgc_v1_fmjpg_ux1017.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ao-longo-da-costa-1958",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "10:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_morte-em-veneza-1971",
-      "title": "Morte em Veneza",
-      "director": "Luchino Visconti",
-      "year": 1971,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/ylcpjepslyy2bv5dypicfaov0ic.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/morte-em-veneza-1971",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "16:45",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_o-meu-tio-1958",
       "title": "O Meu Tio",
       "director": "Jacques Tati",
@@ -3446,33 +3422,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-08",
           "time": "11:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_saudacao-aos-cubanos-1963",
-      "title": "Saudação aos Cubanos",
-      "director": "Agnès Varda",
-      "year": 1963,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdq3zjfjyjatyjmync00othmlwe3zgutndbhymjhyjhlnwi3xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/saudacao-aos-cubanos-1963",
-      "sessions": [
-        {
-          "date": "2026-08-09",
-          "time": "11:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 2"
-          ]
-        },
-        {
-          "date": "2026-08-24",
-          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -3561,20 +3510,28 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_a-opera-mouffe-1958",
-      "title": "A Ópera-Mouffe",
+      "id": "nimas_saudacao-aos-cubanos-1963",
+      "title": "Saudação aos Cubanos",
       "director": "Agnès Varda",
-      "year": 1958,
+      "year": 1963,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmjy4oduzmjmtnde3yy00njm0lwi4nzutmjaznjm1nwezntiwxkeyxkfqcgc_v1_fmjpg_ux487.jpg",
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdq3zjfjyjatyjmync00othmlwe3zgutndbhymjhyjhlnwi3xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
       "genres": [
         "Documentário"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-opera-mouffe-1958",
+      "link": "https://medeiafilmes.com/filmes/saudacao-aos-cubanos-1963",
       "sessions": [
         {
-          "date": "2026-08-10",
-          "time": "14:00",
+          "date": "2026-08-09",
+          "time": "11:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 2"
+          ]
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -3620,18 +3577,20 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-filhos-da-noite-1949",
-      "title": "Os Filhos da Noite",
-      "director": "Nicholas Ray",
-      "year": 1949,
-      "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/they_live_by_night_1948_poster.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-filhos-da-noite-1949",
+      "id": "nimas_a-opera-mouffe-1958",
+      "title": "A Ópera-Mouffe",
+      "director": "Agnès Varda",
+      "year": 1958,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmjy4oduzmjmtnde3yy00njm0lwi4nzutmjaznjm1nwezntiwxkeyxkfqcgc_v1_fmjpg_ux487.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-opera-mouffe-1958",
       "sessions": [
         {
-          "date": "2026-08-12",
-          "time": "22:15",
+          "date": "2026-08-10",
+          "time": "14:00",
           "cinema": "nimas"
         }
       ]
@@ -3654,20 +3613,18 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_viagem-em-italia-1954",
-      "title": "Viagem em Itália",
-      "director": "Roberto Rossellini",
-      "year": 1954,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/viagem-em-italia.jpeg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/viagem-em-italia-1954",
+      "id": "nimas_os-filhos-da-noite-1949",
+      "title": "Os Filhos da Noite",
+      "director": "Nicholas Ray",
+      "year": 1949,
+      "duration": 95,
+      "poster": "https://medeiafilmes.com/uploads/library/they_live_by_night_1948_poster.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/os-filhos-da-noite-1949",
       "sessions": [
         {
-          "date": "2026-08-13",
-          "time": "14:00",
+          "date": "2026-08-12",
+          "time": "22:15",
           "cinema": "nimas"
         }
       ]
@@ -3690,24 +3647,19 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_ydessa-os-ursos-e-etc-2004",
-      "title": "Ydessa, os Ursos e etc.",
-      "director": "Agnès Varda",
-      "year": 2004,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/28ef6d83981fe5c58b1841d0a4de0e7e9e58a08e8ab17b267d4964fb99adff64.jpg",
+      "id": "nimas_viagem-em-italia-1954",
+      "title": "Viagem em Itália",
+      "director": "Roberto Rossellini",
+      "year": 1954,
+      "duration": 85,
+      "poster": "https://medeiafilmes.com/uploads/library/viagem-em-italia.jpeg",
       "genres": [
-        "Documentário"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/ydessa-os-ursos-e-etc-2004",
+      "link": "https://medeiafilmes.com/filmes/viagem-em-italia-1954",
       "sessions": [
         {
-          "date": "2026-08-14",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
+          "date": "2026-08-13",
           "time": "14:00",
           "cinema": "nimas"
         }
@@ -3777,27 +3729,28 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_paris-texas-1984",
-      "title": "Paris, Texas",
-      "director": "Wim Wenders",
-      "year": 1984,
-      "duration": 145,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/9/51469-paris-texas-0-500-0-750-crop.jpg?v=c8f2743612",
+      "id": "nimas_ydessa-os-ursos-e-etc-2004",
+      "title": "Ydessa, os Ursos e etc.",
+      "director": "Agnès Varda",
+      "year": 2004,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/28ef6d83981fe5c58b1841d0a4de0e7e9e58a08e8ab17b267d4964fb99adff64.jpg",
       "genres": [
-        "Drama"
+        "Documentário"
       ],
-      "link": "https://medeiafilmes.com/filmes/paris-texas-1984",
+      "link": "https://medeiafilmes.com/filmes/ydessa-os-ursos-e-etc-2004",
       "sessions": [
         {
-          "date": "2026-08-15",
+          "date": "2026-08-14",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-27",
           "time": "14:00",
           "cinema": "nimas"
         }
-      ],
-      "rating": 4.36,
-      "plot": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
-      "country": "UK",
-      "director_lbxd_slug": "wim-wenders"
+      ]
     },
     {
       "id": "nimas_viagem-a-toquio-1953",
@@ -3825,6 +3778,29 @@ window.CINEMA_DATA = {
       "rating": 4.43,
       "plot": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
       "country": "Japan"
+    },
+    {
+      "id": "nimas_paris-texas-1984",
+      "title": "Paris, Texas",
+      "director": "Wim Wenders",
+      "year": 1984,
+      "duration": 145,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/9/51469-paris-texas-0-500-0-750-crop.jpg?v=c8f2743612",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/paris-texas-1984",
+      "sessions": [
+        {
+          "date": "2026-08-15",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.36,
+      "plot": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+      "country": "UK",
+      "director_lbxd_slug": "wim-wenders"
     },
     {
       "id": "nimas_jane-b-por-agnes-v-1987",
@@ -4116,30 +4092,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "nimas_solaris-1972",
-      "title": "Solaris",
-      "director": "Andrei Tarkovsky",
-      "year": 1972,
-      "duration": 167,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-500-0-750-crop.jpg?v=18b2bcf9ce",
-      "genres": [
-        "Mystery",
-        "Science Fiction",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/solaris-1972",
-      "sessions": [
-        {
-          "date": "2026-09-03",
-          "time": "18:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
-      "country": "USSR"
-    },
-    {
       "id": "nimas_cartas-amarelas-2026",
       "title": "Cartas Amarelas",
       "director": "Ilker Çatak",
@@ -4187,23 +4139,28 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_pedro-o-louco-1965",
-      "title": "Pedro, o Louco",
-      "director": "Jean-Luc Godard",
-      "year": 1965,
-      "duration": 112,
-      "poster": "https://medeiafilmes.com/uploads/library/pedro-o-louco.jpg",
+      "id": "nimas_solaris-1972",
+      "title": "Solaris",
+      "director": "Andrei Tarkovsky",
+      "year": 1972,
+      "duration": 167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-500-0-750-crop.jpg?v=18b2bcf9ce",
       "genres": [
+        "Mystery",
+        "Science Fiction",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/pedro-o-louco-1965",
+      "link": "https://medeiafilmes.com/filmes/solaris-1972",
       "sessions": [
         {
-          "date": "2026-09-05",
-          "time": "11:00",
+          "date": "2026-09-03",
+          "time": "18:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.23,
+      "plot": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+      "country": "USSR"
     },
     {
       "id": "nimas_o-mundo-a-seus-pes-1941",
@@ -4237,6 +4194,25 @@ window.CINEMA_DATA = {
         {
           "date": "2026-09-05",
           "time": "22:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_pedro-o-louco-1965",
+      "title": "Pedro, o Louco",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "duration": 112,
+      "poster": "https://medeiafilmes.com/uploads/library/pedro-o-louco.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/pedro-o-louco-1965",
+      "sessions": [
+        {
+          "date": "2026-09-05",
+          "time": "11:00",
           "cinema": "nimas"
         }
       ]
@@ -4325,128 +4301,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "fernando_franz",
-      "title": "Franz",
-      "director": "Agnieszka Holland",
-      "year": 2025,
-      "duration": 127,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/3/4/5/6/1043456-franz-2025-0-500-0-750-crop.jpg?v=5198b4c40f",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/FRANZ",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "14:00",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 3.09,
-      "plot": "Conceived as a kaleidoscopic mosaic, the film follows the imprint Franz Kafka left on the world from his birth in 19th-century Prague to his death in post-WW1 Vienna.",
-      "country": "Czechia",
-      "director_lbxd_slug": "agnieszka-holland"
-    },
-    {
-      "id": "fernando_rosebush_pruning",
-      "title": "Rosebush Pruning",
-      "director": "Karim Aïnouz",
-      "year": 2026,
-      "duration": 97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/ROSEBUSH-PRUNING",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "21:45",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 2.74,
-      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-      "country": "Germany",
-      "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "fernando_a_odisseia",
-      "title": "A Odisseia",
-      "director": "Christopher Nolan",
-      "year": 2026,
-      "duration": 172,
-      "poster": "https://freight.cargo.site/t/original/i/f801ee5e593c54139152988bfcc6e1ed5aa529f186613e149f4031bbb2cb7bff/A-ODISSEIA_site.jpg",
-      "genres": [
-        "Acção, aventura, épico, fantástico"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/ODISSEIA",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "18:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "21:00",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_aos_nossos_amigos",
-      "title": "Aos Nossos Amigos",
-      "director": "Adrián Orr",
-      "year": 2024,
-      "duration": 90,
-      "poster": "https://freight.cargo.site/t/original/i/b2650324ec59c3a6c9b95c42fc2635c96b8c7f5fbd8f74f2bf22789c6df4f1e5/aos-nossos-amigos_cartaz_digital.jpg",
-      "genres": [
-        "A NUESTROS AMIGOS",
-        "Doc-Ficção"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "16:30",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
       "id": "fernando_tre_s_vezes_adeus",
       "title": "Três Vezes Adeus",
       "director": "Isabel Coixet",
@@ -4462,6 +4316,26 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-22",
           "time": "14:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "18:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "19:00",
           "cinema": "fernando"
         }
       ]
@@ -4485,6 +4359,387 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ]
+    },
+    {
+      "id": "fernando_rosebush_pruning",
+      "title": "Rosebush Pruning",
+      "director": "Karim Aïnouz",
+      "year": 2026,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ROSEBUSH-PRUNING",
+      "sessions": [
+        {
+          "date": "2026-07-22",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "22:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "19:15",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 2.74,
+      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+      "country": "Germany",
+      "director_lbxd_slug": "karim-ainouz-1"
+    },
+    {
+      "id": "fernando_a_odisseia",
+      "title": "A Odisseia",
+      "director": "Christopher Nolan",
+      "year": 2026,
+      "duration": 172,
+      "poster": "https://freight.cargo.site/t/original/i/f801ee5e593c54139152988bfcc6e1ed5aa529f186613e149f4031bbb2cb7bff/A-ODISSEIA_site.jpg",
+      "genres": [
+        "Acção, aventura, épico, fantástico"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ODISSEIA",
+      "sessions": [
+        {
+          "date": "2026-07-22",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "14:15",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_franz",
+      "title": "Franz",
+      "director": "Agnieszka Holland",
+      "year": 2025,
+      "duration": 127,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/3/4/5/6/1043456-franz-2025-0-500-0-750-crop.jpg?v=5198b4c40f",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "festival": "Franz",
+      "link": "https://cinemafernandolopes.pt/FRANZ",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "19:00",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        },
+        {
+          "date": "2026-07-30",
+          "time": "14:15",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 3.09,
+      "plot": "Conceived as a kaleidoscopic mosaic, the film follows the imprint Franz Kafka left on the world from his birth in 19th-century Prague to his death in post-WW1 Vienna.",
+      "country": "Czechia",
+      "director_lbxd_slug": "agnieszka-holland"
+    },
+    {
+      "id": "fernando_a_prodigiosa_transformac_a_o_da_classe_opera_ria_em_estrangeiros",
+      "title": "A Prodigiosa Transformação da Classe Operária em Estrangeiros",
+      "director": "Samir",
+      "year": 2024,
+      "duration": 103,
+      "poster": "https://freight.cargo.site/t/original/i/119e1ccdda4a5b0ee868f1cc628f203fca75e5cbd9f136948ca6a108bf8dd47f/A-PRODIGIOSA-TRANSFORMACAO-DA-CLASSE-OPERARIA_site.jpg",
+      "genres": [
+        "Aguarda classificação",
+        "Documentário"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/A-PRODIGIOSA-TRANSFORMACAO",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:00",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        },
+        {
+          "date": "2026-07-26",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "21:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "21:15",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_aos_nossos_amigos",
+      "title": "Aos Nossos Amigos",
+      "director": "Adrián Orr",
+      "year": 2024,
+      "duration": 90,
+      "poster": "https://freight.cargo.site/t/original/i/b2650324ec59c3a6c9b95c42fc2635c96b8c7f5fbd8f74f2bf22789c6df4f1e5/aos-nossos-amigos_cartaz_digital.jpg",
+      "genres": [
+        "A NUESTROS AMIGOS",
+        "Doc-Ficção"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
+      "sessions": [
+        {
+          "date": "2026-07-24",
+          "time": "14:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "19:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "17:30",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_o_amor_que_perdura",
+      "title": "O Amor que Perdura",
+      "director": "Hlynur Pálmason",
+      "year": 2025,
+      "duration": 109,
+      "poster": "https://freight.cargo.site/t/original/i/153787142a971513a944d81400ae80099b39401ff0c667430a5b42cb2c663b54/O-AMOR-QUE-PERDURA_site.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/O-AMOR-QUE-PERDURA",
+      "sessions": [
+        {
+          "date": "2026-07-24",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "11:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "14:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "16:45",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_sessa_o_especial",
+      "title": "sessão especial",
+      "director": null,
+      "year": 2018,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/5/8/2/476582-cinema-is-coming-to-town-0-500-0-750-crop.jpg?v=cb85e04453",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/Sessoes-Especiais",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "21:00",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        }
+      ],
+      "plot": "A itinerant cinema comes to Rita’s small town and she has the opportunity to go to the movies for the first time in a long time.",
+      "country": "Brazil",
+      "director_lbxd_slug": "gabriela-queiroz"
     },
     {
       "id": "batalha_sMcslj6qAT3F1vO1",
@@ -4646,7 +4901,7 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-09-10",
-          "time": "19:15",
+          "time": "21:15",
           "cinema": "batalha"
         }
       ]
@@ -4663,7 +4918,7 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-09-10",
-          "time": "19:15",
+          "time": "21:15",
           "cinema": "batalha"
         }
       ]
@@ -4680,7 +4935,7 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-09-10",
-          "time": "19:15",
+          "time": "21:15",
           "cinema": "batalha"
         }
       ]
@@ -4697,7 +4952,7 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-09-10",
-          "time": "19:15",
+          "time": "21:15",
           "cinema": "batalha"
         }
       ]
@@ -6557,106 +6812,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "trindade_7881",
-      "title": "O Estrangeiro",
-      "director": "François Ozon",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.34,
-      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "country": "France"
-    },
-    {
-      "id": "trindade_8634",
-      "title": "Disparem sobre o Pianista",
-      "director": "François Truffaut",
-      "year": 1960,
-      "duration": 92,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/disparem-sobre-o-pianista",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_8757",
-      "title": "O Convite",
-      "director": "Olivia Wilde",
-      "year": 2026,
-      "duration": 107,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-convite",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_7604",
-      "title": "A Noiva Estava de Luto",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 107,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
-      "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "17:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_8553",
       "title": "Magalhães",
       "director": "Lav Diaz",
@@ -6674,10 +6829,172 @@ window.CINEMA_DATA = {
           "date": "2026-07-22",
           "time": "14:15",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "14:15",
+          "cinema": "trindade"
         }
       ],
       "plot": "A portrayal of Ferdinand Magellan and Beatriz Barbosa's 1517 marriage in Seville, focusing on their brief time together before his departure on the Spanish crown's expedition.",
       "country": "Philippines"
+    },
+    {
+      "id": "trindade_8757",
+      "title": "O Convite",
+      "director": "Olivia Wilde",
+      "year": 2026,
+      "duration": 107,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-convite",
+      "sessions": [
+        {
+          "date": "2026-07-22",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "21:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ]
     },
     {
       "id": "trindade_8670",
@@ -6692,6 +7009,308 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-22",
           "time": "17:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8646",
+      "title": "Beijos Roubados",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 92,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8678",
+      "title": "Amor em Fuga",
+      "director": "François Truffaut",
+      "year": 1979,
+      "duration": 94,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/amor-em-fuga",
+      "sessions": [
+        {
+          "date": "2026-07-23",
+          "time": "17:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_7604",
+      "title": "A Noiva Estava de Luto",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 107,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
+      "sessions": [
+        {
+          "date": "2026-07-24",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8654",
+      "title": "As Duas Inglesas e o Continente",
+      "director": "François Truffaut",
+      "year": 1971,
+      "duration": 130,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/as-duas-inglesas-e-o-continente",
+      "sessions": [
+        {
+          "date": "2026-07-24",
+          "time": "17:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8666",
+      "title": "Na Idade da Inocência",
+      "director": "François Truffaut",
+      "year": 1976,
+      "duration": 106,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/na-idade-da-inocencia",
+      "sessions": [
+        {
+          "date": "2026-07-25",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8876",
+      "title": "Persépolis",
+      "director": "Marjane Satrapi, Vincent Paronnaud",
+      "year": 2007,
+      "duration": 95,
+      "poster": "https://api.cinematrindade.pt/wp-content/uploads/Poster_Persepolis-6eceb-1066x1536.jpg",
+      "genres": [
+        "Animation",
+        "Biography",
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/persepolis",
+      "sessions": [
+        {
+          "date": "2026-07-22",
+          "time": "15:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "21:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-23",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "15:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-25",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "15:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "16:45",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-27",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-28",
+          "time": "21:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "19:00",
+          "cinema": "ideal"
+        }
+      ],
+      "plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+      "country": "France"
+    },
+    {
+      "id": "trindade_8682",
+      "title": "O Último Metro",
+      "director": "François Truffaut",
+      "year": 1980,
+      "duration": 132,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-ultimo-metro",
+      "sessions": [
+        {
+          "date": "2026-07-26",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8658",
+      "title": "Uma Bela Rapariga",
+      "director": "François Truffaut",
+      "year": 1972,
+      "duration": 98,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/uma-bela-rapariga",
+      "sessions": [
+        {
+          "date": "2026-07-27",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8650",
+      "title": "A Sereia do Mississipi",
+      "director": "François Truffaut",
+      "year": 1969,
+      "duration": 124,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/a-sereia-do-mississipi",
+      "sessions": [
+        {
+          "date": "2026-07-27",
+          "time": "17:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_7881",
+      "title": "O Estrangeiro",
+      "director": "François Ozon",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.34,
+      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "country": "France"
+    },
+    {
+      "id": "trindade_8642",
+      "title": "Angústia",
+      "director": "François Truffaut",
+      "year": 1964,
+      "duration": 113,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/angustia",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "17:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_7459",
+      "title": "Jules e Jim",
+      "director": "François Truffaut",
+      "year": 1962,
+      "duration": 105,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/jules-e-jim",
+      "sessions": [
+        {
+          "date": "2026-07-29",
+          "time": "14:30",
           "cinema": "trindade"
         }
       ]
@@ -6721,118 +7340,53 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "noah-baumbach"
     },
     {
-      "id": "ideal_persepolis",
-      "title": "PERSEPOLIS",
-      "director": "Marjane Satrapi, Vincent Paronnaud",
-      "year": 2007,
-      "duration": 96,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-1-11.jpg",
+      "id": "trindade_8748",
+      "title": "Nova ‘78",
+      "director": "Rodrigo Areias, Aaron Brookner",
+      "year": 2025,
+      "duration": 80,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGE0MjZiYzEtMDVkMC00NTEzLTg3ZWUtNGIwZjcwZjAwNzUxXkEyXkFqcGc@._V1_SX300.jpg",
       "genres": [
-        "Animation",
-        "Biography",
-        "Drama"
+        "Documentary"
       ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64533",
+      "link": "https://cinematrindade.pt/pt/filmes/nova-78",
       "sessions": [
         {
-          "date": "2026-07-21",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "17:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-21",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-22",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-25",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-26",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-29",
-          "time": "19:00",
-          "cinema": "ideal"
+          "date": "2026-07-30",
+          "time": "21:30",
+          "cinema": "trindade",
+          "labels": [
+            "com a presença do realizador Rodrigo Areias e Adolfo Luxúria Canibal + conversa com público"
+          ]
         }
       ],
-      "plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
-      "country": "France"
+      "plot": "Resurrected through UK-led archival restoration NOVA 78' shows never-before-seen footage of the legendary Nova Convention where William Burroughs, Patti Smith, Zappa, Ginsberg and more collided in an explosion of ideas, art and re...",
+      "country": "United States"
+    },
+    {
+      "id": "trindade_8947",
+      "title": "Sophia Setembro de 1963",
+      "director": "Hugo Pereira, Vanessa Duarte",
+      "year": 2026,
+      "duration": 84,
+      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/Cartaz-final-digital-1.png",
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/sophia-setembro-de-1963",
+      "sessions": [
+        {
+          "date": "2026-07-29",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "21:15",
+          "cinema": "trindade",
+          "labels": [
+            "com a presença dos cineastas + conversa com o público"
+          ]
+        }
+      ]
     },
     {
       "id": "ideal_broken_english",
@@ -6845,11 +7399,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64076",
       "sessions": [
-        {
-          "date": "2026-07-21",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-22",
           "time": "17:15",
@@ -6916,24 +7465,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "ideal_sophia_setembro_de_1963",
-      "title": "SOPHIA SETEMBRO DE 1963",
-      "director": "Hugo Pereira e Vanessa Duarte",
-      "year": null,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/Cartaz-final-digital-1.png",
-      "genres": [],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=65269",
-      "sessions": [
-        {
-          "date": "2026-07-29",
-          "time": "21:30",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
       "id": "culturgest_ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
       "title": "Ouvir, Pensar, Escrever",
       "director": "Listen, Think, Write",
@@ -6986,26 +7517,11 @@ window.CINEMA_DATA = {
     },
     "Alisa Kovalenko": {
       "lbxd_slug": "alisa-kovalenko",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alisa_Kovalenko.jpg/500px-Alisa_Kovalenko.jpg",
-      "bio": "Alisa Kovalenko (born September 24, 1987) is a Ukrainian documentary filmmaker and ex-soldier in the Ukrainian Voluntary Army. Her films have focused on Russia's invasion of Ukraine both during the 2014 annexation of Crimea and the full-scale Russian invasion of Ukraine in 2022. She is known for films such as We Will Not Fade Away (2023) and Alisa in Warland (2015)."
-    },
-    "John Ford": {
-      "lbxd_slug": "john-ford-2",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg",
-      "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952)."
+      "photo": null,
+      "bio": null
     },
     "Hugo Fregonese": {
       "lbxd_slug": "hugo-fregonese",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fregonese.png/500px-Fregonese.png",
-      "bio": "Hugo Geronimo Fregonese (8 April 1908 – 11 January 1987) was an Argentine film director and screenwriter who worked both in Hollywood and his home country during the classical era of Argentine cinema. He made his directorial debut in 1943. In 1949, he directed Apenas un delincuente."
-    },
-    "Jim Sharman": {
-      "lbxd_slug": "jim-sharman",
-      "photo": null,
-      "bio": "James David Sharman  (born 12 March 1945) is an Australian director and writer for film and stage with more than 70 productions to his credit. He is renowned in Australia for his work as a theatre director since the 1960s, and is best known internationally as the director of the 1973 theatrical hit The Rocky Horror Show, its film adaptation The Rocky Horror Picture Show (1975) and the film's follow-up, Shock Treatment (1981)."
-    },
-    "Spike Lee": {
-      "lbxd_slug": "spike-lee",
       "photo": null,
       "bio": null
     },
@@ -7079,6 +7595,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Spike Lee": {
+      "lbxd_slug": "spike-lee",
+      "photo": null,
+      "bio": null
+    },
     "John Waters": {
       "lbxd_slug": null,
       "photo": null,
@@ -7101,6 +7622,11 @@ window.CINEMA_DATA = {
     },
     "Arthur Ripley": {
       "lbxd_slug": "arthur-ripley-1",
+      "photo": null,
+      "bio": null
+    },
+    "Jim Sharman": {
+      "lbxd_slug": "jim-sharman",
       "photo": null,
       "bio": null
     },
@@ -7134,12 +7660,7 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Howard_Hawks_head_shot.jpg/500px-Howard_Hawks_head_shot.jpg",
       "bio": "Howard Winchester Hawks (May 30, 1896 – December 26, 1977) was an American film director, producer, and screenwriter of the classic Hollywood era. The critic Leonard Maltin called him \"the greatest American director who is not a household name.\" Roger Ebert called Hawks \"one of the greatest American directors of pure movies, and a hero of auteur critics because he found his own laconic values in so many different kinds of genre material.\" He was nominated for the Academy Award for Best Director for Sergeant York (1941) and earned the Honorary Academy Award in 1974. A versatile director, Hawks explored many genres such as comedies, dramas, gangster films, science fiction, film noir, war films and Westerns."
     },
-    "David Lynch": {
-      "lbxd_slug": "david-lynch",
-      "photo": null,
-      "bio": null
-    },
-    "Sidney Lumet": {
+    "Paul Newman": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -7149,28 +7670,18 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Luchino Visconti": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
-      "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
-    },
     "Sophie Letourneur": {
       "lbxd_slug": "sophie-letourneur",
       "photo": null,
       "bio": null
     },
-    "Paul Newman": {
+    "Luchino Visconti": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
+      "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
     },
     "Tony Gatlif": {
       "lbxd_slug": "tony-gatlif-1",
-      "photo": null,
-      "bio": null
-    },
-    "Alfred Hitchcock": {
-      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -7179,22 +7690,22 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Stanley Kubrick": {
+    "Alfred Hitchcock": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Federico Fellini": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Federico_Fellini_010.jpg/500px-Federico_Fellini_010.jpg",
-      "bio": "Federico Fellini (Italian: [fedeˈriːko felˈliːni]; 20 January 1920 – 31 October 1993) was an Italian film director and screenwriter. He is known for his distinctive style, which blends fantasy and baroque images with earthiness. He is recognized as one of the greatest and most influential filmmakers of all time."
     },
     "Otto Preminger": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
       "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
     },
-    "David Lean": {
+    "Federico Fellini": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Federico_Fellini_010.jpg/500px-Federico_Fellini_010.jpg",
+      "bio": "Federico Fellini (Italian: [fedeˈriːko felˈliːni]; 20 January 1920 – 31 October 1993) was an Italian film director and screenwriter. He is known for his distinctive style, which blends fantasy and baroque images with earthiness. He is recognized as one of the greatest and most influential filmmakers of all time."
+    },
+    "Stanley Kubrick": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -7204,20 +7715,25 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
       "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor."
     },
-    "Wong Kar Wai": {
-      "lbxd_slug": "wong-kar-wai",
+    "David Lean": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
+    },
+    "Andrei Tarkovsky": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
+      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
     },
     "Jean-Luc Godard": {
       "lbxd_slug": "jean-luc-godard-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
       "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
     },
-    "Andrei Tarkovsky": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
-      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
+    "Wong Kar Wai": {
+      "lbxd_slug": "wong-kar-wai",
+      "photo": null,
+      "bio": null
     },
     "Gordon Douglas": {
       "lbxd_slug": null,
@@ -7229,13 +7745,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Edgar Reitz": {
-      "lbxd_slug": "edgar-reitz",
+    "Roberto Rossellini": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Roberto Rossellini": {
-      "lbxd_slug": null,
+    "Edgar Reitz": {
+      "lbxd_slug": "edgar-reitz",
       "photo": null,
       "bio": null
     },
@@ -7269,6 +7785,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Jacques Demy": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Jean Renoir": {
       "lbxd_slug": null,
       "photo": null,
@@ -7279,7 +7800,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Jacques Demy": {
+    "Sidney Lumet": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -7289,13 +7810,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Maryam Touzani": {
-      "lbxd_slug": "maryam-touzani",
+    "Robert Mulligan": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Robert Mulligan": {
-      "lbxd_slug": null,
+    "Maryam Touzani": {
+      "lbxd_slug": "maryam-touzani",
       "photo": null,
       "bio": null
     },
@@ -7334,15 +7855,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
       "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
     },
-    "Wim Wenders": {
-      "lbxd_slug": "wim-wenders",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wim_Wenders_at_Berlinale_2026.jpg/500px-Wim_Wenders_at_Berlinale_2026.jpg",
-      "bio": "Wim Wenders (German: [ˈvɪm ˈvɛndɐs]; born Wilhelm Ernst Wenders; 14 August 1945) is a German filmmaker and photographer. Regarded as a major figure of New German Cinema and widely considered an auteur director, he has received various accolades, including a BAFTA Award, a Palme d'Or, a Golden Lion, and an Honorary Golden Bear, in addition to nominations for four Academy Awards and a Grammy Award. Wenders made his feature film debut with Summer in the City (1970)."
-    },
     "Yasujiro Ozu": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg",
       "bio": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker. He began his career during the era of silent films, and his last films were made in colour in the early 1960s. Ozu first made a number of short comedies, before turning to more serious themes in the 1930s."
+    },
+    "Wim Wenders": {
+      "lbxd_slug": "wim-wenders",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wim_Wenders_at_Berlinale_2026.jpg/500px-Wim_Wenders_at_Berlinale_2026.jpg",
+      "bio": "Wim Wenders (German: [ˈvɪm ˈvɛndɐs]; born Wilhelm Ernst Wenders; 14 August 1945) is a German filmmaker and photographer. Regarded as a major figure of New German Cinema and widely considered an auteur director, he has received various accolades, including a BAFTA Award, a Palme d'Or, a Golden Lion, and an Honorary Golden Bear, in addition to nominations for four Academy Awards and a Grammy Award. Wenders made his feature film debut with Summer in the City (1970)."
     },
     "Jacques Rivette": {
       "lbxd_slug": null,
@@ -7369,8 +7890,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Agnieszka Holland": {
-      "lbxd_slug": "agnieszka-holland",
+    "Isabel Coixet": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Laura Wandel": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -7384,17 +7910,22 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Agnieszka Holland": {
+      "lbxd_slug": "agnieszka-holland",
+      "photo": null,
+      "bio": null
+    },
+    "Samir": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Adrián Orr": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Isabel Coixet": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Laura Wandel": {
+    "Hlynur Pálmason": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -7724,23 +8255,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "François Ozon": {
-      "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
-      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
-    },
-    "Olivia Wilde": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Lav Diaz": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Noah Baumbach": {
-      "lbxd_slug": "noah-baumbach",
+    "Olivia Wilde": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -7749,12 +8270,27 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Jane Pollard, Iain Forsyth": {
+    "François Ozon": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
+    },
+    "Noah Baumbach": {
+      "lbxd_slug": "noah-baumbach",
+      "photo": null,
+      "bio": null
+    },
+    "Rodrigo Areias, Aaron Brookner": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Hugo Pereira e Vanessa Duarte": {
+    "Hugo Pereira, Vanessa Duarte": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Jane Pollard, Iain Forsyth": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null

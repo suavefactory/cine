@@ -35599,5 +35599,106 @@
   "SOPHIA SETEMBRO DE 1963|None": {
     "lbxd": null,
     "omdb": null
+  },
+  "Curta: Declaration of intent and doubt|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Curta: Explosions near the Museum|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Curtas: DELAYED PREMIERE – UKRAINIAN FILMS ABOUT ART FROM THE 1990’s|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Fahrenheit 451 – Grau de Destruição|1966": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
+      "description": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1966
+    },
+    "omdb": {
+      "Title": "Fahrenheit 451",
+      "Year": "1966",
+      "Rated": "Not Rated",
+      "Released": "14 Nov 1966",
+      "Runtime": "112 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "François Truffaut",
+      "Writer": "François Truffaut, Jean-Louis Richard, Ray Bradbury",
+      "Actors": "Oskar Werner, Julie Christie, Cyril Cusack",
+      "Plot": "In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.",
+      "Language": "English, Russian, Japanese, French",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 BAFTA Award1 win & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "47,320",
+      "imdbID": "tt0060390",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$509",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Prodigiosa Transformação da Classe Operária em Estrangeiros|2024": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Nova ‘78|2025": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Nova 78'",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "08 Aug 2025",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Rodrigo Areias, Aaron Brookner",
+      "Writer": "Aaron Brookner",
+      "Actors": "William S. Burroughs, Frank Zappa, Philip Glass",
+      "Plot": "Resurrected through UK-led archival restoration NOVA 78' shows never-before-seen footage of the legendary Nova Convention where William Burroughs, Patti Smith, Zappa, Ginsberg and more collided in an explosion of ideas, art and re...",
+      "Language": "N/A",
+      "Country": "United States, United Kingdom, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE0MjZiYzEtMDVkMC00NTEzLTg3ZWUtNGIwZjcwZjAwNzUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37379020",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Sophia Setembro de 1963|2026": {
+    "lbxd": null,
+    "omdb": null
   }
 }
