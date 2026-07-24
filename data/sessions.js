@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-23T10:27:03.600067+00:00",
+  "generated": "2026-07-24T10:16:45.763847+00:00",
   "movies": [
     {
       "id": "sao_jorge_11187",
@@ -155,113 +155,6 @@ window.CINEMA_DATA = {
       "plot": "For five teenagers living in the conflict-ridden Donbas region of Ukraine, a Himalayan expedition provides a brief escape from reality. A portrait of a generation that, in spite of everything, is able to recognise and celebrate the fragile beauty of life.",
       "country": "France",
       "director_lbxd_slug": "alisa-kovalenko"
-    },
-    {
-      "id": "cinemateca_20152",
-      "title": "The Postman Always Rings Twice",
-      "director": "Tay Garnett",
-      "year": 1946,
-      "duration": 113,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/3/6/35836-the-postman-always-rings-twice-0-500-0-750-crop.jpg?v=e4d0eae6b1",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20152",
-      "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-27",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.61,
-      "plot": "A married woman and a drifter fall in love, then plot to murder her husband.",
-      "country": "USA",
-      "director_lbxd_slug": "tay-garnett"
-    },
-    {
-      "id": "cinemateca_20073",
-      "title": "Mask",
-      "director": "Peter Bogdanovich",
-      "year": 1985,
-      "duration": 127,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/5/3/1/45531-mask-0-500-0-750-crop.jpg?v=990385513a",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20073",
-      "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.59,
-      "plot": "A significantly deformed but highly intelligent teenage boy and his biker gang mother attempt to live as normal a life as possible under the circumstances.",
-      "country": "USA",
-      "director_lbxd_slug": "peter-bogdanovich"
-    },
-    {
-      "id": "cinemateca_20084",
-      "title": "The Mark Of The Renegade",
-      "director": "Hugo Fregonese",
-      "year": 1951,
-      "duration": 81,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/5/1/8/0/195180-the-mark-of-the-renegade-0-500-0-750-crop.jpg?v=ad90654336",
-      "genres": [
-        "Adventure",
-        "Western",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20084",
-      "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "An agent of Mexico poses as a pirate to foil a would-be emperor in 1820s California.",
-      "country": "USA",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20074",
-      "title": "The Wrestler",
-      "director": "Darren Aronofsky",
-      "year": 2008,
-      "duration": 109,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ud/52/sl/57/huooRmB7yksJyVVSkqOgitxlCec-0-500-0-750-crop.jpg?v=c955e64453",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20074",
-      "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-29",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.08,
-      "plot": "Aging wrestler Randy \"The Ram\" Robinson is long past his prime but still ready and rarin' to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can't resist the lure of the ring and readies himself for a comeback.",
-      "country": "USA",
-      "director_lbxd_slug": "darren-aronofsky"
     },
     {
       "id": "cinemateca_20112",
@@ -523,6 +416,32 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "spike-lee"
     },
     {
+      "id": "cinemateca_20081",
+      "title": "The Postman Always Rings Twice",
+      "director": "Tay Garnett",
+      "year": 1946,
+      "duration": 113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/3/6/35836-the-postman-always-rings-twice-0-500-0-750-crop.jpg?v=e4d0eae6b1",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20081",
+      "sessions": [
+        {
+          "date": "2026-07-27",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.61,
+      "plot": "A married woman and a drifter fall in love, then plot to murder her husband.",
+      "country": "USA",
+      "director_lbxd_slug": "tay-garnett"
+    },
+    {
       "id": "cinemateca_20119",
       "title": "Cry-Baby",
       "director": "John Waters",
@@ -653,6 +572,30 @@ window.CINEMA_DATA = {
       "plot": "Josh and Dinah Barkley are a successful musical-comedy team, known for their stormy but passionate relationship. Dinah feels overshadowed by Josh and limited by the lighthearted musical roles he directs her in. So she decides to stretch her skills by taking a role in a serious drama, directed by another man.",
       "country": "USA",
       "director_lbxd_slug": "charles-walters"
+    },
+    {
+      "id": "cinemateca_20075",
+      "title": "The Wrestler",
+      "director": "Darren Aronofsky",
+      "year": 2008,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ud/52/sl/57/huooRmB7yksJyVVSkqOgitxlCec-0-500-0-750-crop.jpg?v=c955e64453",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20075",
+      "sessions": [
+        {
+          "date": "2026-07-29",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.08,
+      "plot": "Aging wrestler Randy \"The Ram\" Robinson is long past his prime but still ready and rarin' to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can't resist the lure of the ring and readies himself for a comeback.",
+      "country": "USA",
+      "director_lbxd_slug": "darren-aronofsky"
     },
     {
       "id": "cinemateca_20070",
@@ -840,11 +783,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/ange-2025",
       "sessions": [
         {
-          "date": "2026-07-23",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-07-25",
           "time": "19:30",
           "cinema": "nimas"
@@ -950,16 +888,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/obsessao-1943",
       "sessions": [
         {
-          "date": "2026-07-23",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-07-25",
           "time": "15:30",
           "cinema": "campo_alegre"
@@ -987,11 +915,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-historia-de-adele-h-1975",
       "sessions": [
         {
-          "date": "2026-07-23",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-07-28",
           "time": "14:30",
           "cinema": "trindade"
@@ -1008,11 +931,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/os-indomaveis-1971",
       "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-11",
           "time": "15:15",
@@ -1038,11 +956,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/sandra-1965",
       "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-17",
           "time": "17:30",
@@ -2012,6 +1925,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         },
         {
+          "date": "2026-08-03",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-08-08",
           "time": "19:30",
           "cinema": "nimas"
@@ -2116,6 +2034,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         },
         {
+          "date": "2026-08-02",
+          "time": "16:30",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-08-13",
           "time": "16:00",
           "cinema": "nimas"
@@ -2148,6 +2071,11 @@ window.CINEMA_DATA = {
           "date": "2026-08-01",
           "time": "20:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "21:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-09",
@@ -3149,6 +3077,11 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/as-praias-de-agnes-2008",
       "sessions": [
+        {
+          "date": "2026-08-05",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
         {
           "date": "2026-08-07",
           "time": "19:45",
@@ -4247,21 +4180,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/ROSEBUSH-PRUNING",
       "sessions": [
         {
-          "date": "2026-07-23",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "19:45",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-07-24",
           "time": "19:30",
           "cinema": "trindade"
@@ -4402,16 +4320,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/FRANZ",
       "sessions": [
         {
-          "date": "2026-07-23",
-          "time": "14:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "16:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-29",
           "time": "19:00",
           "cinema": "fernando",
@@ -4443,11 +4351,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/A-PRODIGIOSA-TRANSFORMACAO",
       "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-07-24",
           "time": "21:30",
@@ -4810,7 +4713,7 @@ window.CINEMA_DATA = {
     {
       "id": "batalha_sZTi0ejTUDZGIExx",
       "title": "Kuroneko",
-      "director": "Kaneto Shindo",
+      "director": "Kaneto Shindō",
       "year": 1968,
       "duration": 99,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/s2/hd/bv/ij/4kHPCcBI8d8nb5YP4D39mo2z3Zp-0-500-0-750-crop.jpg?v=bdbfed09b6",
@@ -6704,17 +6607,17 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "frank-capra"
     },
     {
-      "id": "trindade_8646",
-      "title": "Beijos Roubados",
+      "id": "trindade_7604",
+      "title": "A Noiva Estava de Luto",
       "director": "François Truffaut",
       "year": 1968,
-      "duration": 92,
+      "duration": 107,
       "poster": null,
       "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
+      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
       "sessions": [
         {
-          "date": "2026-07-23",
+          "date": "2026-07-24",
           "time": "14:30",
           "cinema": "trindade"
         }
@@ -6730,26 +6633,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-24",
           "time": "14:30",
@@ -6858,40 +6741,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "trindade_8678",
-      "title": "Amor em Fuga",
-      "director": "François Truffaut",
-      "year": 1979,
-      "duration": 94,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/amor-em-fuga",
-      "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "17:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_7604",
-      "title": "A Noiva Estava de Luto",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 107,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_8654",
       "title": "As Duas Inglesas e o Continente",
       "director": "François Truffaut",
@@ -6939,16 +6788,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/persepolis",
       "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-23",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-24",
           "time": "16:45",
@@ -7231,7 +7070,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_dois_procuradores",
       "title": "DOIS PROCURADORES",
-      "director": "Sergei Loznitsa",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/47d02d8a-20cb-8e62-94bc-75a402a40969.jpg",
@@ -7239,11 +7078,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=61912",
       "sessions": [
-        {
-          "date": "2026-07-23",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-25",
           "time": "16:45",
@@ -7259,7 +7093,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
-      "director": "Jane Pollard, Iain Forsyth",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/brokenenglish-1.jpg",
@@ -7373,23 +7207,8 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Tay Garnett": {
-      "lbxd_slug": "tay-garnett",
-      "photo": null,
-      "bio": null
-    },
-    "Peter Bogdanovich": {
-      "lbxd_slug": "peter-bogdanovich",
-      "photo": null,
-      "bio": null
-    },
     "Hugo Fregonese": {
       "lbxd_slug": "hugo-fregonese",
-      "photo": null,
-      "bio": null
-    },
-    "Darren Aronofsky": {
-      "lbxd_slug": "darren-aronofsky",
       "photo": null,
       "bio": null
     },
@@ -7438,6 +7257,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Tay Garnett": {
+      "lbxd_slug": "tay-garnett",
+      "photo": null,
+      "bio": null
+    },
     "John Waters": {
       "lbxd_slug": null,
       "photo": null,
@@ -7460,6 +7284,11 @@ window.CINEMA_DATA = {
     },
     "Charles Walters": {
       "lbxd_slug": "charles-walters",
+      "photo": null,
+      "bio": null
+    },
+    "Darren Aronofsky": {
+      "lbxd_slug": "darren-aronofsky",
       "photo": null,
       "bio": null
     },
@@ -7818,7 +7647,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Kaneto Shindo": {
+    "Kaneto Shindō": {
       "lbxd_slug": "kaneto-shindo-1",
       "photo": null,
       "bio": null
@@ -8135,8 +7964,8 @@ window.CINEMA_DATA = {
     },
     "Noah Baumbach": {
       "lbxd_slug": "noah-baumbach",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Noah_Baumbach_Jay_Kelly-49.jpg/500px-Noah_Baumbach_Jay_Kelly-49.jpg",
-      "bio": "Noah Baumbach (born September 3, 1969) is an American filmmaker. He is known for making films set in New York City and his works are inspired by filmmakers such as Woody Allen and Whit Stillman. His frequent collaborators include Wes Anderson, Adam Driver, and his wife, Greta Gerwig."
+      "photo": null,
+      "bio": null
     },
     "Rodrigo Areias, Aaron Brookner": {
       "lbxd_slug": null,
@@ -8144,16 +7973,6 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Hugo Pereira, Vanessa Duarte": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Sergei Loznitsa": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Jane Pollard, Iain Forsyth": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -8169,5 +7988,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
