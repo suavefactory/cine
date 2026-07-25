@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-24T10:16:45.763847+00:00",
+  "generated": "2026-07-25T09:47:43.575907+00:00",
   "movies": [
     {
       "id": "sao_jorge_11187",
@@ -155,105 +155,6 @@ window.CINEMA_DATA = {
       "plot": "For five teenagers living in the conflict-ridden Donbas region of Ukraine, a Himalayan expedition provides a brief escape from reality. A portrait of a generation that, in spite of everything, is able to recognise and celebrate the fragile beauty of life.",
       "country": "France",
       "director_lbxd_slug": "alisa-kovalenko"
-    },
-    {
-      "id": "cinemateca_20112",
-      "title": "My Six Convicts",
-      "director": "Hugo Fregonese",
-      "year": 1952,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/5/7/7/20577-my-six-convicts-0-500-0-750-crop.jpg?v=6c8f40aa51",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20112",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-07-28",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "A psychologist takes on the daunting task of getting into the mind of prisoners. He must gain the trust and cooperation from a group of men who have no reason to help him and who might enjoy killing him.",
-      "country": "USA",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20145",
-      "title": "The Marriage Circle",
-      "director": "Ernst Lubitsch",
-      "year": 1924,
-      "duration": 98,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/7/9/3/79793-the-marriage-circle-0-500-0-750-crop.jpg?v=fbe3a24a19",
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20145",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.52,
-      "plot": "An unhappily married couple moves to Vienna, where the wife’s married best friend lives, and soon, sparks fly between the wife and the best friend’s husband.",
-      "country": "USA",
-      "director_lbxd_slug": "ernst-lubitsch"
-    },
-    {
-      "id": "cinemateca_20064",
-      "title": "Jerry Maguire",
-      "director": "Cameron Crowe",
-      "year": 1996,
-      "duration": 139,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/0/6/47206-jerry-maguire-0-500-0-750-crop.jpg?v=0f7ed523ed",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20064",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
-      "country": "USA",
-      "director_lbxd_slug": "cameron-crowe"
-    },
-    {
-      "id": "cinemateca_20076",
-      "title": "Leurs Enfants Apres Eux",
-      "director": "Ludovic Boukherma, Zoran Boukherma",
-      "year": 2024,
-      "duration": 146,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/5/2/9/0/995290-and-their-children-after-them-0-500-0-750-crop.jpg?v=b5c8aec622",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20076",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.04,
-      "plot": "In eastern France, two teenage cousins have the summer of their lives when they paddle a purloined canoe to the far shore of a lake.",
-      "country": "France",
-      "director_lbxd_slug": "ludovic-boukherma"
     },
     {
       "id": "cinemateca_20041",
@@ -548,6 +449,28 @@ window.CINEMA_DATA = {
       "plot": "Two brothers cannot overcome their opposite perceptions of life. One brother sees and feels bad in everyone and everything, subsequently he is violent, antisocial and unable to appreciate or enjoy the good things which his brother desperately tries to point out to him.",
       "country": "Japan",
       "director_lbxd_slug": "sean-penn"
+    },
+    {
+      "id": "cinemateca_20113",
+      "title": "My Six Convicts",
+      "director": "Hugo Fregonese",
+      "year": 1952,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/5/7/7/20577-my-six-convicts-0-500-0-750-crop.jpg?v=6c8f40aa51",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20113",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A psychologist takes on the daunting task of getting into the mind of prisoners. He must gain the trust and cooperation from a group of men who have no reason to help him and who might enjoy killing him.",
+      "country": "USA",
+      "director_lbxd_slug": "hugo-fregonese"
     },
     {
       "id": "cinemateca_20134",
@@ -905,23 +828,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_a-historia-de-adele-h-1975",
-      "title": "A História de Adèle H",
-      "director": "François Truffaut",
-      "year": 1975,
-      "duration": 98,
-      "poster": "https://medeiafilmes.com/uploads/library/l-histoire-d-adele-h.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/a-historia-de-adele-h-1975",
-      "sessions": [
-        {
-          "date": "2026-07-28",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "nimas_os-indomaveis-1971",
       "title": "Os Indomáveis",
       "director": "Paul Newman",
@@ -983,11 +889,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-10",
           "time": "20:00",
           "cinema": "nimas"
@@ -1012,11 +913,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/violencia-e-paixao-1974",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-26",
           "time": "15:30",
@@ -1053,11 +949,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/cruel-vitoria-1957",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-24",
           "time": "18:00",
           "cinema": "nimas"
@@ -1081,11 +972,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/l-aventura-2025",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-07-27",
           "time": "22:00",
@@ -1122,11 +1008,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-mulher-que-viveu-duas-vezes-1958",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-11",
           "time": "19:30",
           "cinema": "nimas"
@@ -1154,11 +1035,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-07-26",
           "time": "21:45",
@@ -4143,11 +4019,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "19:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-26",
           "time": "14:00",
           "cinema": "fernando"
@@ -4179,16 +4050,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/ROSEBUSH-PRUNING",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-25",
           "time": "19:00",
@@ -4352,11 +4213,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/A-PRODIGIOSA-TRANSFORMACAO",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-25",
           "time": "16:00",
           "cinema": "fernando",
@@ -4411,11 +4267,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/AOS-NOSSOS-AMIGOS",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "14:30",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-07-25",
           "time": "14:00",
           "cinema": "fernando"
@@ -4445,11 +4296,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://cinemafernandolopes.pt/O-AMOR-QUE-PERDURA",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "16:30",
-          "cinema": "fernando"
-        },
         {
           "date": "2026-07-26",
           "time": "11:00",
@@ -5403,8 +5249,8 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         },
         {
-          "date": "2026-11-11",
-          "time": "16:15",
+          "date": "2026-12-19",
+          "time": "22:15",
           "cinema": "batalha"
         }
       ],
@@ -5431,8 +5277,8 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         },
         {
-          "date": "2026-11-11",
-          "time": "16:15",
+          "date": "2026-12-19",
+          "time": "22:15",
           "cinema": "batalha"
         }
       ],
@@ -5534,6 +5380,11 @@ window.CINEMA_DATA = {
           "date": "2026-10-18",
           "time": "19:15",
           "cinema": "batalha"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "16:15",
+          "cinema": "batalha"
         }
       ],
       "rating": 3.46,
@@ -5557,6 +5408,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-10-18",
           "time": "19:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "16:15",
           "cinema": "batalha"
         }
       ],
@@ -5635,7 +5491,7 @@ window.CINEMA_DATA = {
     {
       "id": "batalha_s4eGiPqfrzdCCuSn",
       "title": "Memories",
-      "director": "Kôji Morimoto, Tensai Okamura e Katsuhiro Ôtomo",
+      "director": "Kōji Morimoto, Tensai Okamura e Katsuhiro Ōtomo",
       "year": 1995,
       "duration": 113,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/1/2/8/22128-memories-0-500-0-750-crop.jpg?v=7443e066ca",
@@ -6582,48 +6438,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "batalha_sLMyw8PSXq20Y1MZ",
-      "title": "It’s a Wonderful Life",
-      "director": "Frank Capra",
-      "year": 1946,
-      "duration": 130,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/4/9/50949-it-s-a-wonderful-life-0-500-0-750-crop.jpg?v=64b72dd083",
-      "genres": [
-        "Family",
-        "Fantasy",
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/its-a-wonderful-life",
-      "sessions": [
-        {
-          "date": "2026-12-20",
-          "time": "12:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 4.44,
-      "plot": "A holiday favourite for generations... George Bailey has spent his entire life giving to the people of Bedford Falls. All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company. But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
-      "country": "USA",
-      "director_lbxd_slug": "frank-capra"
-    },
-    {
-      "id": "trindade_7604",
-      "title": "A Noiva Estava de Luto",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 107,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_8757",
       "title": "O Convite",
       "director": "Olivia Wilde",
@@ -6633,26 +6447,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-07-25",
           "time": "14:30",
@@ -6741,23 +6535,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "trindade_8654",
-      "title": "As Duas Inglesas e o Continente",
-      "director": "François Truffaut",
-      "year": 1971,
-      "duration": 130,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/as-duas-inglesas-e-o-continente",
-      "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "17:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_8666",
       "title": "Na Idade da Inocência",
       "director": "François Truffaut",
@@ -6788,16 +6565,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/persepolis",
       "sessions": [
-        {
-          "date": "2026-07-24",
-          "time": "16:45",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-24",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-25",
           "time": "15:00",
@@ -6961,6 +6728,23 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
+      "id": "trindade_8662",
+      "title": "A História de Adèle H.",
+      "director": "François Truffaut",
+      "year": 1975,
+      "duration": 98,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/a-historia-de-adele-h",
+      "sessions": [
+        {
+          "date": "2026-07-28",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
       "id": "trindade_8642",
       "title": "Angústia",
       "director": "François Truffaut",
@@ -7102,11 +6886,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64076",
       "sessions": [
         {
-          "date": "2026-07-24",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-07-25",
           "time": "21:00",
           "cinema": "ideal"
@@ -7207,26 +6986,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Hugo Fregonese": {
-      "lbxd_slug": "hugo-fregonese",
-      "photo": null,
-      "bio": null
-    },
-    "Ernst Lubitsch": {
-      "lbxd_slug": "ernst-lubitsch",
-      "photo": null,
-      "bio": null
-    },
-    "Cameron Crowe": {
-      "lbxd_slug": "cameron-crowe",
-      "photo": null,
-      "bio": null
-    },
-    "Ludovic Boukherma, Zoran Boukherma": {
-      "lbxd_slug": "ludovic-boukherma",
-      "photo": null,
-      "bio": null
-    },
     "Albert Lamorisse": {
       "lbxd_slug": null,
       "photo": null,
@@ -7264,6 +7023,11 @@ window.CINEMA_DATA = {
     },
     "John Waters": {
       "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Hugo Fregonese": {
+      "lbxd_slug": "hugo-fregonese",
       "photo": null,
       "bio": null
     },
@@ -7347,11 +7111,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
       "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
     },
-    "François Truffaut": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Paul Newman": {
       "lbxd_slug": null,
       "photo": null,
@@ -7368,6 +7127,11 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Alfred Hitchcock": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "François Truffaut": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -7777,7 +7541,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Kôji Morimoto, Tensai Okamura e Katsuhiro Ôtomo": {
+    "Kōji Morimoto, Tensai Okamura e Katsuhiro Ōtomo": {
       "lbxd_slug": "katsuhiro-otomo-1",
       "photo": null,
       "bio": null
@@ -7934,11 +7698,6 @@ window.CINEMA_DATA = {
     },
     "Julien Chheng e Jean-Christophe Roger": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Frank Capra": {
-      "lbxd_slug": "frank-capra",
       "photo": null,
       "bio": null
     },
