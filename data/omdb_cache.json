@@ -35712,5 +35712,331 @@
   "A História de Adèle H.|1975": {
     "lbxd": null,
     "omdb": null
+  },
+  "The Outsiders|1983": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/9/51829-the-outsiders-0-500-0-750-crop.jpg?v=6596aa5148",
+      "description": "In 1960s Tulsa, class divisions ignite a violent rivalry between the working-class Greasers and the privileged Socs. When a deadly encounter forces two Greasers, Ponyboy and Johnny, to flee, their struggle for survival and redemption exposes the fragile innocence and enduring bonds of youth on the wrong side of town.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Francis Ford Coppola",
+      "lb_director_slug": "francis-ford-coppola",
+      "lb_year": 1983
+    },
+    "omdb": {
+      "Title": "The Outsiders",
+      "Year": "1983",
+      "Rated": "PG",
+      "Released": "25 Mar 1983",
+      "Runtime": "91 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Kathleen Rowell, S.E. Hinton",
+      "Actors": "C. Thomas Howell, Matt Dillon, Ralph Macchio",
+      "Plot": "In Tulsa, Oklahoma in 1964, the rivalry between two gangs, the poor Greasers and the rich Socs, heats up when one gang member accidentally kills a member of the other.",
+      "Language": "English",
+      "Country": "France, United States",
+      "Awards": "1 win & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "45/100"
+        }
+      ],
+      "Metascore": "45",
+      "imdbRating": "7.0",
+      "imdbVotes": "107,862",
+      "imdbID": "tt0086066",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$25,837,195",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Rebel Without A Cause|1955": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/3/5/51835-rebel-without-a-cause-0-500-0-750-crop.jpg?v=a260a5a896",
+      "description": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Nicholas Ray",
+      "lb_director_slug": "nicholas-ray",
+      "lb_year": 1955
+    },
+    "omdb": {
+      "Title": "Rebel Without a Cause",
+      "Year": "1955",
+      "Rated": "PG-13",
+      "Released": "27 Oct 1955",
+      "Runtime": "111 min",
+      "Genre": "Drama",
+      "Director": "Nicholas Ray",
+      "Writer": "Stewart Stern, Irving Shulman, Nicholas Ray",
+      "Actors": "James Dean, Natalie Wood, Sal Mineo",
+      "Plot": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 4 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2QzZWUzODQtODUyZi00NDBlLTgzMGEtY2UzNmZhYzI0MTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "7.6",
+      "imdbVotes": "100,836",
+      "imdbID": "tt0048545",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$212,780",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Splendor In The Grass|1961": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/5/6/33556-splendor-in-the-grass-0-500-0-750-crop.jpg?v=0987fdd4ed",
+      "description": "A fragile Kansas girl's unrequited and forbidden love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Elia Kazan",
+      "lb_director_slug": "elia-kazan",
+      "lb_year": 1961
+    },
+    "omdb": {
+      "Title": "Splendor in the Grass",
+      "Year": "1961",
+      "Rated": "Approved",
+      "Released": "20 Oct 1961",
+      "Runtime": "124 min",
+      "Genre": "Drama, Romance",
+      "Director": "Elia Kazan",
+      "Writer": "William Inge",
+      "Actors": "Natalie Wood, Warren Beatty, Pat Hingle",
+      "Plot": "The love of high school sweethearts Deanie and Bud is weighed down by the oppressive expectations of their parents and society in smalltown Kansas in 1928, threatening the future of their relationship.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 3 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2RkM2EzNDMtM2I4Mi00M2YzLWI5YWMtYmRjMmZmMmE4ZTMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "7.7",
+      "imdbVotes": "23,855",
+      "imdbID": "tt0055471",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,720,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Wild One|1954": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/4/4/7/33447-the-wild-one-0-500-0-750-crop.jpg?v=7c5b1fdeae",
+      "description": "The Black Rebels Motorcycle Club ride into the small California town of Wrightsville, eager to raise hell. Brooding gang leader Johnny Strabler takes a liking to Kathie, the daughter of the local lawman, as another club rolls into town.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "László Benedek",
+      "lb_director_slug": "laszlo-benedek-1",
+      "lb_year": 1953
+    },
+    "omdb": {
+      "Title": "The Wild One",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "01 Feb 1954",
+      "Runtime": "79 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Laslo Benedek",
+      "Writer": "John Paxton, Frank Rooney, Ben Maddow",
+      "Actors": "Marlon Brando, Mary Murphy, Robert Keith",
+      "Plot": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "6.7",
+      "imdbVotes": "18,996",
+      "imdbID": "tt0047677",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Love With The Proper Stranger|1963": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/1/9/4/25194-love-with-the-proper-stranger-0-500-0-750-crop.jpg?v=29e922efe8",
+      "description": "Angie Rossini, an innocent New York City sales clerk from a repressive Italian-American family, engages in a short-lived affair with a handsome jazz musician named Rocky Papasano. When Angie becomes pregnant, she tracks down Rocky hoping he'll pay for her abortion.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Mulligan",
+      "lb_director_slug": "robert-mulligan",
+      "lb_year": 1963
+    },
+    "omdb": {
+      "Title": "Love with the Proper Stranger",
+      "Year": "1963",
+      "Rated": "Approved",
+      "Released": "25 Dec 1963",
+      "Runtime": "102 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Robert Mulligan",
+      "Writer": "Arnold Schulman",
+      "Actors": "Natalie Wood, Steve McQueen, Edie Adams",
+      "Plot": "A salesclerk at Macy's department store finds herself pregnant after a one-night stand with a musician who does not even remember her.",
+      "Language": "English, Italian",
+      "Country": "United States",
+      "Awards": "Nominated for 5 Oscars. 1 win & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM0YmU1NzMtNTk4MC00ZDlhLWIxZmUtZmY2ODgxZTdkYmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "5,855",
+      "imdbID": "tt0057263",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Blackboard Jungle|1955": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "The Trouble With Angels|1966": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/9/9/9/25999-the-trouble-with-angels-0-500-0-750-crop.jpg?v=245d28ff97",
+      "description": "Mary and her friend, Rachel, are new students at St. Francis Academy, a boarding school run by the iron fist of Mother Superior. The immature teens grow bored and begin playing pranks on both the unsuspecting nuns and their unpleasant classmates, becoming a constant thorn in Mother Superior's side. However, as the years pass, Mary and Rachel slowly mature and begin to see the nuns in a different light.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Ida Lupino",
+      "lb_director_slug": "ida-lupino",
+      "lb_year": 1966
+    },
+    "omdb": {
+      "Title": "The Trouble with Angels",
+      "Year": "1966",
+      "Rated": "PG",
+      "Released": "30 Mar 1966",
+      "Runtime": "112 min",
+      "Genre": "Comedy, Family",
+      "Director": "Ida Lupino",
+      "Writer": "Blanche Hanalis, Jane Trahey",
+      "Actors": "Rosalind Russell, Hayley Mills, Binnie Barnes",
+      "Plot": "Two high-spirited young students at St. Francis Academy keep things hopping for the challenged Mother Superior and her staff of bewildered Sisters.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA0MDYzNTUtZDQ3ZC00ZmI3LWFkOTAtOWE0MTVjMTA3YmNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "5,952",
+      "imdbID": "tt0061122",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
