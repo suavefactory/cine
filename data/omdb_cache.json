@@ -36038,5 +36038,284 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "King Creole|1958": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/1/9/4/40194-king-creole-0-500-0-750-crop.jpg?v=29c8b1daff",
+      "description": "Delinquent Danny Fisher flunks out of high school, quits his job as a nightclub busboy, and one night gets the chance to perform. Success is imminent and local crime boss Maxie Fields wants to hire him to perform at The Blue Shade. Danny declines, but Fields won't take no for an answer.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Michael Curtiz",
+      "lb_director_slug": "michael-curtiz",
+      "lb_year": 1958
+    },
+    "omdb": {
+      "Title": "King Creole",
+      "Year": "1958",
+      "Rated": "PG",
+      "Released": "02 Jul 1958",
+      "Runtime": "116 min",
+      "Genre": "Crime, Drama, Musical",
+      "Director": "Michael Curtiz",
+      "Writer": "Herbert Baker, Michael V. Gazzo, Harold Robbins",
+      "Actors": "Elvis Presley, Carolyn Jones, Walter Matthau",
+      "Plot": "A troubled youth's singing sets New Orleans rockin'. With a sweet girl to love him and nightclubbers cheering, it seems he will shake off his past and head for the top. But will a mobster and his man-trap moll snare him in a life ...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1YjE2MzgtNmNhYi00OGY1LWEwNDUtY2NmNDVmZThmN2EyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "7,013",
+      "imdbID": "tt0051818",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Graduate|1967": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/64/us/cm/83/AuFvrbtWSPiBPIv9ewH2DV4nhCD-0-500-0-750-crop.jpg?v=4fee371b0d",
+      "description": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Mike Nichols",
+      "lb_director_slug": "mike-nichols",
+      "lb_year": 1967
+    },
+    "omdb": {
+      "Title": "The Graduate",
+      "Year": "1967",
+      "Rated": "PG",
+      "Released": "21 Dec 1967",
+      "Runtime": "106 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Mike Nichols",
+      "Writer": "Calder Willingham, Buck Henry, Charles Webb",
+      "Actors": "Dustin Hoffman, Anne Bancroft, Katharine Ross",
+      "Plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 22 wins & 17 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "8.0",
+      "imdbVotes": "301,414",
+      "imdbID": "tt0061722",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$104,945,305",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Bonjour Tristesse|1958": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/1/50671-bonjour-tristesse-0-500-0-750-crop.jpg?v=3e7accc8ee",
+      "description": "A spoiled teenager spends the summer at the French Riviera with her rich, widower, playboy father, but when his old flame resurfaces, she resolves to keep her frivolous lifestyle at all costs.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Otto Preminger",
+      "lb_director_slug": "otto-preminger",
+      "lb_year": 1958
+    },
+    "omdb": {
+      "Title": "Bonjour Tristesse",
+      "Year": "1958",
+      "Rated": "Not Rated",
+      "Released": "01 Feb 1958",
+      "Runtime": "94 min",
+      "Genre": "Drama, Romance",
+      "Director": "Otto Preminger",
+      "Writer": "Arthur Laurents, Françoise Sagan",
+      "Actors": "Jean Seberg, David Niven, Deborah Kerr",
+      "Plot": "Spoiled Cecile, 17, spends her summer at the French Riviera with her rich, widower, playboy dad and Elsa. Anne, her late mom's friend, visits and brings changes to all.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 1 BAFTA Award2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzOTY5NTU2NDJeQTJeQWpwZ15BbWU4MDAyNzMyMTAx._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "5,828",
+      "imdbID": "tt0051429",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Lilith|1964": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/6/0/6160-lilith-0-500-0-750-crop.jpg?v=c7e0daec47",
+      "description": "Vincent Bruce, a war veteran, begins working as an occupational therapist at Poplar Lodge, a private psychiatric facility for wealthy people where he meets Lilith Arthur, a charming young woman suffering from schizophrenia, whose fragile beauty captivates all who meet her.",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Rossen",
+      "lb_director_slug": "robert-rossen",
+      "lb_year": 1964
+    },
+    "omdb": {
+      "Title": "Lilith",
+      "Year": "1964",
+      "Rated": "Approved",
+      "Released": "01 Oct 1964",
+      "Runtime": "114 min",
+      "Genre": "Drama",
+      "Director": "Robert Rossen",
+      "Writer": "Robert Alan Aurthur, Robert Rossen, J.R. Salamanca",
+      "Actors": "Warren Beatty, Jean Seberg, Peter Fonda",
+      "Plot": "A war veteran gets work at a mental institution, where he meets the beautiful and eccentric Lilith.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NmU3MmUtZDAyNS00NDg4LTg2MjUtOTY3NTQ4NzBmOTZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "3,427",
+      "imdbID": "tt0058294",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "West Side Story|1961": {
+    "lbxd": {
+      "rating": 3.85,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/em/vs/66/tb/zRQhCSREdR9h4OzEVvwhdlZNZ6m-0-500-0-750-crop.jpg?v=60c3df64d6",
+      "description": "In Manhattan’s Upper West Side, rival gangs of Polish-Americans and newly arrived Puerto Ricans clash for control of the neighborhood, even as two young members from opposite sides fall dangerously in love.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Jerome Robbins",
+      "lb_director_slug": "jerome-robbins",
+      "lb_year": 1961
+    },
+    "omdb": {
+      "Title": "West Side Story",
+      "Year": "1961",
+      "Rated": "Approved",
+      "Released": "23 Dec 1961",
+      "Runtime": "153 min",
+      "Genre": "Crime, Drama, Musical",
+      "Director": "Jerome Robbins, Robert Wise",
+      "Writer": "Ernest Lehman, Arthur Laurents, Jerome Robbins",
+      "Actors": "Natalie Wood, George Chakiris, Richard Beymer",
+      "Plot": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Won 10 Oscars. 31 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.6",
+      "imdbVotes": "125,470",
+      "imdbID": "tt0055614",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$44,055,492",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "A Ópera Mouffe|1958": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "UM TOQUE FAMILIAR|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "COPELAND|None": {
+    "lbxd": null,
+    "omdb": null
   }
 }
