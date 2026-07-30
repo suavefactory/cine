@@ -36369,5 +36369,57 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Inside Daisy Clover|1965": {
+    "lbxd": {
+      "rating": 3.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/3/8/15938-inside-daisy-clover-0-500-0-750-crop.jpg?v=bf2430cbf6",
+      "description": "A girl on the road to stardom fights the dehumanizing effects of Hollywood life.",
+      "genres": [
+        "Romance",
+        "Music",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Mulligan",
+      "lb_director_slug": "robert-mulligan",
+      "lb_year": 1965
+    },
+    "omdb": {
+      "Title": "Inside Daisy Clover",
+      "Year": "1965",
+      "Rated": "Approved",
+      "Released": "27 Apr 1966",
+      "Runtime": "128 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Robert Mulligan",
+      "Writer": "Gavin Lambert",
+      "Actors": "Natalie Wood, Christopher Plummer, Robert Redford",
+      "Plot": "A tomboy turned movie star deals with the cruelty of Hollywood.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 2 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWIwZjZkMDEtMzAyMC00NGI1LTk4ZGMtNTc2MWU5ZjcyMzA1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "31%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "4,329",
+      "imdbID": "tt0059314",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
