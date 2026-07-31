@@ -1,101 +1,6 @@
 window.CINEMA_DATA = {
-  "generated": "2026-07-30T10:28:17.683243+00:00",
+  "generated": "2026-07-31T10:39:45.919379+00:00",
   "movies": [
-    {
-      "id": "cinemateca_20115",
-      "title": "Decameron Nights",
-      "director": "Hugo Fregonese",
-      "year": 1953,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/8/1/1/106811-decameron-nights-0-500-0-750-crop.jpg?v=74df376ce5",
-      "genres": [
-        "Adventure"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20115",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "Italian poet Boccaccio (Louis Jourdan) hides in the court of Fiammetta (Joan Fontaine) and tells three tales of love and lust.",
-      "country": "Spain",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20056",
-      "title": "Palombella Rossa",
-      "director": "Nanni Moretti",
-      "year": 1989,
-      "duration": 87,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/6/9/9569-palombella-rossa-0-500-0-750-crop.jpg?v=898ca8fa26",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20056",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "Michele is an MP for the Italian Communist Party who loses his memory in a car crash, though hardly anyone around him seems to notice. During a crucial water polo match on the eve of election day, he gradually begins to remember his past life, revealing a man whose personal and political identity crisis mirrors that of Italian communism itself.",
-      "country": "France",
-      "director_lbxd_slug": "nanni-moretti"
-    },
-    {
-      "id": "cinemateca_20110",
-      "title": "Old Shatterhand",
-      "director": "Hugo Fregonese",
-      "year": 1964,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/5/3/47053-old-shatterhand-0-500-0-750-crop.jpg?v=6033513df3",
-      "genres": [
-        "Western",
-        "Adventure"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20110",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.32,
-      "plot": "Renegades trying to get the army to abandon their fort get the Indians addicted to whiskey, then convince them to attack and drive out the soldiers.",
-      "country": "France",
-      "director_lbxd_slug": "hugo-fregonese"
-    },
-    {
-      "id": "cinemateca_20121",
-      "title": "La La Land",
-      "director": "Damien Chazelle",
-      "year": 2016,
-      "duration": 128,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/0/3/4/4/240344-la-la-land-0-500-0-750-crop.jpg?v=053670ff84",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20121",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.12,
-      "plot": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
-      "country": "USA",
-      "director_lbxd_slug": "damien-chazelle"
-    },
     {
       "id": "cinemateca_20129",
       "title": "West Side Story",
@@ -366,6 +271,11 @@ window.CINEMA_DATA = {
           "date": "2026-08-05",
           "time": "19:00",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-08-13",
+          "time": "21:30",
+          "cinema": "cinemateca"
         }
       ],
       "rating": 3.66,
@@ -538,6 +448,41 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "robert-mulligan"
     },
     {
+      "id": "cinemateca_20180",
+      "title": "Hair",
+      "director": "Milos Forman",
+      "year": 1979,
+      "duration": 121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/0/46020-hair-0-500-0-750-crop.jpg?v=1316a198cb",
+      "genres": [
+        "Drama",
+        "Music",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20180",
+      "sessions": [
+        {
+          "date": "2026-08-13",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "22:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "20:15",
+          "cinema": "batalha"
+        }
+      ],
+      "rating": 3.72,
+      "plot": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
+      "country": "Germany",
+      "director_lbxd_slug": "milos-forman"
+    },
+    {
       "id": "nimas_her-private-hell-viagem-ao-inferno-2026",
       "title": "Her Private Hell – Viagem ao Inferno",
       "director": "Nicolas Winding Refn",
@@ -551,11 +496,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/her-private-hell-viagem-ao-inferno-2026",
       "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-02",
           "time": "22:00",
@@ -578,14 +518,14 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/o-misterioso-olhar-do-flamingo-2025",
       "sessions": [
         {
-          "date": "2026-07-30",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-07-31",
           "time": "15:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "19:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-07-31",
@@ -596,6 +536,11 @@ window.CINEMA_DATA = {
           "date": "2026-08-01",
           "time": "14:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "19:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-02",
@@ -618,9 +563,19 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         },
         {
+          "date": "2026-08-04",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-08-05",
           "time": "19:00",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "19:15",
+          "cinema": "trindade"
         }
       ]
     },
@@ -692,11 +647,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/daguerreotipos-1975",
       "sessions": [
         {
-          "date": "2026-07-30",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-19",
           "time": "13:30",
           "cinema": "nimas"
@@ -713,11 +663,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/paixoes-que-escaldam-1958",
       "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-22",
           "time": "11:00",
@@ -758,11 +703,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/violencia-e-paixao-1974",
       "sessions": [
         {
-          "date": "2026-07-30",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-08-13",
           "time": "22:00",
           "cinema": "nimas"
@@ -788,11 +728,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/obsessao-1943",
       "sessions": [
         {
-          "date": "2026-07-30",
-          "time": "14:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-17",
           "time": "21:30",
           "cinema": "nimas"
@@ -811,14 +746,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/duas-horas-na-vida-de-uma-mulher-1961",
       "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "21:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Inês N. Lourenço"
-          ]
-        },
         {
           "date": "2026-08-01",
           "time": "16:30",
@@ -3573,122 +3500,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "fernando_o_amor_que_perdura",
-      "title": "O Amor que Perdura",
-      "director": "Hlynur Pálmason",
-      "year": 2025,
-      "duration": 109,
-      "poster": "https://freight.cargo.site/t/original/i/153787142a971513a944d81400ae80099b39401ff0c667430a5b42cb2c663b54/O-AMOR-QUE-PERDURA_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/O-AMOR-QUE-PERDURA",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "16:45",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_a_prodigiosa_transformac_a_o_da_classe_opera_ria_em_estrangeiros",
-      "title": "A Prodigiosa Transformação da Classe Operária em Estrangeiros",
-      "director": "Samir",
-      "year": 2024,
-      "duration": 103,
-      "poster": "https://freight.cargo.site/t/original/i/119e1ccdda4a5b0ee868f1cc628f203fca75e5cbd9f136948ca6a108bf8dd47f/A-PRODIGIOSA-TRANSFORMACAO-DA-CLASSE-OPERARIA_site.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/A-PRODIGIOSA-TRANSFORMACAO",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "21:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-07-31",
-          "time": "21:15",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_franz",
-      "title": "Franz",
-      "director": "Agnieszka Holland",
-      "year": 2025,
-      "duration": 127,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/3/4/5/6/1043456-franz-2025-0-500-0-750-crop.jpg?v=5198b4c40f",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/FRANZ",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "14:15",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 3.09,
-      "plot": "Conceived as a kaleidoscopic mosaic, the film follows the imprint Franz Kafka left on the world from his birth in 19th-century Prague to his death in post-WW1 Vienna.",
-      "country": "Czechia",
-      "director_lbxd_slug": "agnieszka-holland"
-    },
-    {
-      "id": "fernando_rosebush_pruning",
-      "title": "Rosebush Pruning",
-      "director": "Karim Aïnouz",
-      "year": 2026,
-      "duration": 97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/ROSEBUSH-PRUNING",
-      "sessions": [
-        {
-          "date": "2026-07-31",
-          "time": "19:15",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 2.74,
-      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-      "country": "Germany",
-      "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "fernando_tre_s_vezes_adeus",
-      "title": "Três Vezes Adeus",
-      "director": "Isabel Coixet",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://freight.cargo.site/t/original/i/fb2cc60d375d3ecca28d1fd9fbc3adfdad896f65b3a010aae374f8ac502ef8df/TRES-VEZES-ADEUS_site.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/TRES-VEZES-ADEUS",
-      "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "19:00",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
       "id": "fernando_a_odisseia",
       "title": "A Odisseia",
       "director": "Christopher Nolan",
@@ -3725,6 +3536,92 @@ window.CINEMA_DATA = {
         {
           "date": "2026-07-31",
           "time": "17:30",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
+      "id": "fernando_rosebush_pruning",
+      "title": "Rosebush Pruning",
+      "director": "Karim Aïnouz",
+      "year": 2026,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ROSEBUSH-PRUNING",
+      "sessions": [
+        {
+          "date": "2026-07-31",
+          "time": "19:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 2.74,
+      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+      "country": "Germany",
+      "director_lbxd_slug": "karim-ainouz-1"
+    },
+    {
+      "id": "fernando_a_prodigiosa_transformac_a_o_da_classe_opera_ria_em_estrangeiros",
+      "title": "A Prodigiosa Transformação da Classe Operária em Estrangeiros",
+      "director": "Samir",
+      "year": 2024,
+      "duration": 103,
+      "poster": "https://freight.cargo.site/t/original/i/119e1ccdda4a5b0ee868f1cc628f203fca75e5cbd9f136948ca6a108bf8dd47f/A-PRODIGIOSA-TRANSFORMACAO-DA-CLASSE-OPERARIA_site.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/A-PRODIGIOSA-TRANSFORMACAO",
+      "sessions": [
+        {
+          "date": "2026-07-31",
+          "time": "21:15",
           "cinema": "fernando"
         }
       ]
@@ -4964,36 +4861,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "barry-sonnenfeld"
     },
     {
-      "id": "batalha_sw7YUBn5fdBbtdAM",
-      "title": "Hair",
-      "director": "Miloš Forman",
-      "year": 1979,
-      "duration": 121,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/0/46020-hair-0-500-0-750-crop.jpg?v=1316a198cb",
-      "genres": [
-        "Drama",
-        "Music",
-        "Comedy"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/hair",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "22:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-12-13",
-          "time": "20:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.72,
-      "plot": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
-      "country": "Germany",
-      "director_lbxd_slug": "milos-forman"
-    },
-    {
       "id": "batalha_sUvvt1rCIsPYwvKT",
       "title": "Last Movies",
       "director": "Stanley Schtinter",
@@ -5817,6 +5684,127 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "trindade_7613",
+      "title": "O Menino Selvagem",
+      "director": "François Truffaut",
+      "year": 1970,
+      "duration": 83,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-menino-selvagem",
+      "sessions": [
+        {
+          "date": "2026-07-31",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8757",
+      "title": "O Convite",
+      "director": "Olivia Wilde",
+      "year": 2026,
+      "duration": 107,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-convite",
+      "sessions": [
+        {
+          "date": "2026-07-31",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "15:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "15:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8658",
+      "title": "Uma Bela Rapariga",
+      "director": "François Truffaut",
+      "year": 1972,
+      "duration": 98,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/uma-bela-rapariga",
+      "sessions": [
+        {
+          "date": "2026-07-31",
+          "time": "16:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
       "id": "trindade_8748",
       "title": "Nova ‘78",
       "director": "Rodrigo Areias, Aaron Brookner",
@@ -5829,16 +5817,72 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/nova-78",
       "sessions": [
         {
-          "date": "2026-07-30",
-          "time": "21:30",
-          "cinema": "trindade",
-          "labels": [
-            "com a presença do realizador Rodrigo Areias e Adolfo Luxúria Canibal + conversa com público"
-          ]
+          "date": "2026-07-31",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-01",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-02",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "18:00",
+          "cinema": "trindade"
         }
       ],
       "plot": "Resurrected through UK-led archival restoration NOVA 78' shows never-before-seen footage of the legendary Nova Convention where William Burroughs, Patti Smith, Zappa, Ginsberg and more collided in an explosion of ideas, art and re...",
       "country": "United States"
+    },
+    {
+      "id": "trindade_8674",
+      "title": "O Quarto Verde",
+      "director": "François Truffaut",
+      "year": 1978,
+      "duration": 94,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-quarto-verde",
+      "sessions": [
+        {
+          "date": "2026-08-01",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8670",
+      "title": "O Homem Que Gostava Das Mulheres",
+      "director": "François Truffaut",
+      "year": 1977,
+      "duration": 118,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/o-homem-que-gostava-das-mulheres",
+      "sessions": [
+        {
+          "date": "2026-08-02",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ]
     },
     {
       "id": "trindade_8947",
@@ -5853,56 +5897,86 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-02",
           "time": "21:15",
-          "cinema": "trindade",
-          "labels": [
-            "com a presença dos cineastas + conversa com o público"
-          ]
+          "cinema": "trindade"
         }
       ]
     },
     {
-      "id": "ideal_hitpig_o_her_i_da_bicharada",
-      "title": "HITPIG O HERÓI DA BICHARADA",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/822221.jpg",
-      "genres": [],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=65440",
+      "id": "trindade_8553",
+      "title": "Magalhães",
+      "director": "Lav Diaz",
+      "year": 2025,
+      "duration": 160,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDZhMGVhZWQtY2ZkZC00YzZhLWIxZTQtNDQ0ZjllN2I4ODdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/magalhaes",
       "sessions": [
         {
-          "date": "2026-07-30",
-          "time": "11:00",
-          "cinema": "ideal"
+          "date": "2026-08-03",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ],
+      "plot": "A portrayal of Ferdinand Magellan and Beatriz Barbosa's 1517 marriage in Seville, focusing on their brief time together before his departure on the Spanish crown's expedition.",
+      "country": "Philippines"
+    },
+    {
+      "id": "trindade_8646",
+      "title": "Beijos Roubados",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 92,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "14:15",
+          "cinema": "trindade"
         }
       ]
     },
     {
-      "id": "ideal_persepolis",
-      "title": "PERSEPOLIS",
+      "id": "trindade_7459",
+      "title": "Jules e Jim",
+      "director": "François Truffaut",
+      "year": 1962,
+      "duration": 105,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/jules-e-jim",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "16:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8876",
+      "title": "Persépolis",
       "director": "Marjane Satrapi, Vincent Paronnaud",
       "year": 2007,
-      "duration": 96,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/unnamed-1-11.jpg",
+      "duration": 95,
+      "poster": "https://cms.cinematrindade.pt/wp-content/uploads/Poster_Persepolis-6eceb-1066x1536.jpg",
       "genres": [
         "Animation",
         "Biography",
         "Drama"
       ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64533",
+      "link": "https://cinematrindade.pt/pt/filmes/persepolis",
       "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-07-30",
-          "time": "21:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-31",
           "time": "15:00",
@@ -5927,6 +6001,11 @@ window.CINEMA_DATA = {
           "date": "2026-08-03",
           "time": "17:00",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-08-03",
+          "time": "19:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-03",
@@ -5958,9 +6037,101 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
+      "id": "trindade_7620",
+      "title": "Domicílio Conjugal",
+      "director": "François Truffaut",
+      "year": 1970,
+      "duration": 100,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/domicilio-conjugal",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_7881",
+      "title": "O Estrangeiro",
+      "director": "François Ozon",
+      "year": 2025,
+      "duration": 122,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-estrangeiro",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "14:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.34,
+      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
+      "country": "France"
+    },
+    {
+      "id": "trindade_7604",
+      "title": "A Noiva Estava de Luto",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 107,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "16:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8678",
+      "title": "Amor em Fuga",
+      "director": "François Truffaut",
+      "year": 1979,
+      "duration": 94,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/amor-em-fuga",
+      "sessions": [
+        {
+          "date": "2026-08-05",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
+      "id": "trindade_8642",
+      "title": "Angústia",
+      "director": "François Truffaut",
+      "year": 1964,
+      "duration": 113,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/angustia",
+      "sessions": [
+        {
+          "date": "2026-08-05",
+          "time": "16:00",
+          "cinema": "trindade"
+        }
+      ]
+    },
+    {
       "id": "ideal_um_toque_familiar",
       "title": "UM TOQUE FAMILIAR",
-      "director": "Sarah Friedland",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/FAMILIAR-TOUCH_CARTAZ_alta.jpg",
@@ -5968,11 +6139,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=65710",
       "sessions": [
-        {
-          "date": "2026-07-30",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-07-31",
           "time": "17:00",
@@ -6008,7 +6174,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
-      "director": "Jane Pollard, Iain Forsyth",
+      "director": null,
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/brokenenglish-1.jpg",
@@ -6064,7 +6230,7 @@ window.CINEMA_DATA = {
       "director": "Rimini Protokoll / Théâtre Vidy-Lausanne / Les Praticables",
       "year": null,
       "duration": null,
-      "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/84/1f/841fb292-70a2-4164-b2e3-a9d532cac8d7/t-vidy_mali_futur_liveclaudia_ndebele-2.jpg__768x768_q85_crop_subject_location-951%2C768_subsampling-2_upscale.jpg",
+      "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/0a/e1/0ae1f4cb-b5cd-4481-8750-7fb43bb7135a/t-vidy_mali_futur_liveclaudia_ndebele-4.jpg__768x768_q85_crop_subject_location-969%2C713_subsampling-2_upscale.jpg",
       "genres": [],
       "link": "https://www.culturgest.pt/en/whats-on/rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
       "sessions": [
@@ -6077,21 +6243,6 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "Hugo Fregonese": {
-      "lbxd_slug": "hugo-fregonese",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fregonese.png/500px-Fregonese.png",
-      "bio": "Hugo Geronimo Fregonese (8 April 1908 – 11 January 1987) was an Argentine film director and screenwriter who worked both in Hollywood and his home country during the classical era of Argentine cinema. He made his directorial debut in 1943. In 1949, he directed Apenas un delincuente."
-    },
-    "Nanni Moretti": {
-      "lbxd_slug": "nanni-moretti",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nanni_Moretti_Cannes_2011.jpg",
-      "bio": "Giovanni \"Nanni\" Moretti (Italian pronunciation: [ˈnanni moˈretti]; born 19 August 1953) is an Italian film director, producer, screenwriter, and actor. He is most known for his Palme d'Or winner film The Son's Room (2001) and his Special Jury Prize winner film Sweet Dreams (1981). He is also the recipient of three David di Donatello Award for Best Film, for: Caro diario in 1994, The Son's Room in 2001, and The Caiman in 2006."
-    },
-    "Damien Chazelle": {
-      "lbxd_slug": "damien-chazelle",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Damien_Chazelle_%28cropped%29.jpg/500px-Damien_Chazelle_%28cropped%29.jpg",
-      "bio": "Damien Sayre Chazelle (; born January 19, 1985) is an American and French filmmaker. He directed the psychological drama Whiplash (2014), the musical romance La La Land (2016), the biographical drama First Man (2018), and the epic tragedy Babylon (2022). For Whiplash, he was nominated for the Academy Award for Best Adapted Screenplay."
-    },
     "Steven Spielberg": {
       "lbxd_slug": "steven-spielberg",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MKr25402_Steven_Spielberg_%28Berlinale_2023%29_%283x4_cropped%29.jpg/500px-MKr25402_Steven_Spielberg_%28Berlinale_2023%29_%283x4_cropped%29.jpg",
@@ -6124,13 +6275,13 @@ window.CINEMA_DATA = {
     },
     "Elia Kazan": {
       "lbxd_slug": "elia-kazan",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG",
+      "bio": "Elias Kazantzoglou (Greek: Ηλίας Καζαντζόγλου, IPA: [iˈli.as kazanˈdzoɣlu]; September 7, 1909 – September 28, 2003), known as Elia Kazan ( EE-lee-ə kə-ZAN), was a Greek-American film and theatre director, producer, screenwriter and actor, described by The New York Times as \"one of the most honored and influential directors in Broadway and Hollywood history\". Born in Constantinople (now Istanbul) to Cappadocian Greek parents, his family came to the United States in 1913. After attending Williams College and then the Yale School of Drama, he acted professionally for eight years, later joining the Group Theatre in 1932, and co-founded the Actors Studio in 1947."
     },
     "Laszlo Benedek": {
       "lbxd_slug": "laszlo-benedek-1",
       "photo": null,
-      "bio": null
+      "bio": "László Benedek (Hungarian pronunciation: [ˈlaːsloː ˈbɛnɛdɛk]; March 5, 1905 – March 11, 1992; sometimes Laslo Benedek) was a Hungarian-born film director and cinematographer, most notable for directing The Wild One (1953). He gained recognition for his direction of the film version of Death of a Salesman (1951), for which he won the Golden Globe Award for Best Director and a Best Director nomination from the Directors Guild of America. However, it was for his directorial efforts on his next project that Benedek is best remembered."
     },
     "Robert Mulligan": {
       "lbxd_slug": "robert-mulligan",
@@ -6169,6 +6320,11 @@ window.CINEMA_DATA = {
     },
     "Robert Wise, Jerome Robbins": {
       "lbxd_slug": "jerome-robbins",
+      "photo": null,
+      "bio": null
+    },
+    "Milos Forman": {
+      "lbxd_slug": "milos-forman",
       "photo": null,
       "bio": null
     },
@@ -6387,18 +6543,13 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
       "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor."
     },
-    "Hlynur Pálmason": {
+    "Christopher Nolan": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Samir": {
+    "Adrián Orr": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Agnieszka Holland": {
-      "lbxd_slug": "agnieszka-holland",
       "photo": null,
       "bio": null
     },
@@ -6407,17 +6558,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Isabel Coixet": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Christopher Nolan": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Adrián Orr": {
+    "Samir": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -6474,28 +6615,28 @@ window.CINEMA_DATA = {
     },
     "Don Bluth": {
       "lbxd_slug": "don-bluth",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Don_Bluth_by_Gage_Skidmore.jpg/500px-Don_Bluth_by_Gage_Skidmore.jpg",
-      "bio": "Donald Virgil Bluth ( BLOOTH; born September 13, 1937) is an American filmmaker, animator, video game designer and author. He came to prominence working for Walt Disney Productions before creating his own film studio in the early 1980s. Bluth is best known for directing the animated films The Secret of NIMH, An American Tail, The Land Before Time, All Dogs Go to Heaven, Anastasia, and Titan A.E., and for his involvement in the well-known Laserdisc game Dragon's Lair."
+      "photo": null,
+      "bio": null
     },
     "Miloš Forman": {
       "lbxd_slug": "milos-forman",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Milo%C5%A1_Forman_1999.jpg/500px-Milo%C5%A1_Forman_1999.jpg",
-      "bio": "Jan Tomáš \"Miloš\" Forman (; Czech: [ˈmɪloʃ ˈforman]; 18 February 1932 – 13 April 2018) was a Czech and American film director, screenwriter, actor, and professor. He rose to fame in his native Czechoslovakia before emigrating to the United States in 1968. Over a career spanning six decades, Forman won two Academy Awards, a BAFTA Award, three Golden Globe Awards, a Golden Bear, a César Award, and the Czech Lion."
+      "photo": null,
+      "bio": null
     },
     "Shirin Neshat": {
       "lbxd_slug": null,
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Viennale_talk_%282%29%2C_Shirin_Neshat.jpg/500px-Viennale_talk_%282%29%2C_Shirin_Neshat.jpg",
-      "bio": "Shirin Neshat (Persian: شیرین نشاط; born March 26, 1957) is an Iranian photographer and visual artist who lives in New York City, known primarily for her work in film, video and photography. Her artwork centers on the contrasts between Islam and the West, femininity and masculinity, public life and private life, antiquity and modernity, and bridging the spaces between these subjects. Since the Islamic Revolution, she has said that she has \"gravitated toward making art that is concerned with tyranny, dictatorship, oppression and political injustice."
+      "photo": null,
+      "bio": null
     },
     "Satoshi Kon": {
       "lbxd_slug": "satoshi-kon",
       "photo": null,
-      "bio": "Satoshi Kon (今 敏, Kon Satoshi; October 12, 1963 – August 24, 2010) was a Japanese film director, animator, screenwriter and manga artist from Sapporo, Hokkaido, and a member of the Japanese Animation Creators Association (JAniCA). He was a graduate of the Graphic Design department of the Musashino Art University. He is best known for his acclaimed anime films Perfect Blue (1997), Millennium Actress (2001), Tokyo Godfathers (2003), and Paprika (2006), and the TV series Paranoia Agent (2004)."
+      "bio": null
     },
     "Jerry Zucker": {
       "lbxd_slug": "jerry-zucker",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jerry_Zucker_%28cropped%29.jpg/500px-Jerry_Zucker_%28cropped%29.jpg",
-      "bio": "Jerry Gordon Zucker (born March 11, 1950) is an American film director, producer, and screenwriter. With his brother David and Jim Abrahams, he is part the filmmaking trio Zucker, Abrahams and Zucker. He is best known for his role in writing and directing comedy spoof films like Airplane!"
+      "photo": null,
+      "bio": null
     },
     "Sérgio Graciano": {
       "lbxd_slug": null,
@@ -6752,6 +6893,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Olivia Wilde": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Rodrigo Areias, Aaron Brookner": {
       "lbxd_slug": null,
       "photo": null,
@@ -6762,20 +6908,20 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Lav Diaz": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Marjane Satrapi, Vincent Paronnaud": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Sarah Friedland": {
+    "François Ozon": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Jane Pollard, Iain Forsyth": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Fran%C3%A7ois_Ozon_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg",
+      "bio": "François Ozon (French: [fʁɑ̃swa ozɔ̃]; born 15 November 1967) is a French film director and screenwriter. Ozon is considered one of the most important modern French filmmakers. His films are characterized by aesthetic beauty, sharp satirical humor and a free-wheeling view of human sexuality."
     },
     "Listen, Think, Write": {
       "lbxd_slug": null,
@@ -6788,5 +6934,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
