@@ -36421,5 +36421,26 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Oficina do Conto Cinematográfico|None": {
+    "lbxd": null,
+    "omdb": null
+  },
+  "Antoine et Colette|1962": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/0/0/51800-antoine-and-colette-0-500-0-750-crop.jpg?v=801971aecb",
+      "description": "Now aged 17, Antoine Doinel works in a factory which makes records. At a music concert, he meets a girl his own age, Colette, and falls in love with her. Later, Antoine goes to extraordinary lengths to please his new girlfriend and her parents, but Colette still only regards him as a casual friend. First segment of “Love at Twenty” (1962).",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1962
+    },
+    "omdb": null
   }
 }
