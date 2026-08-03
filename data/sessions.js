@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-08-02T10:00:46.306380+00:00",
+  "generated": "2026-08-03T11:24:37.120488+00:00",
   "movies": [
     {
       "id": "sao_jorge_11239",
@@ -372,31 +372,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "milos-forman"
     },
     {
-      "id": "nimas_her-private-hell-viagem-ao-inferno-2026",
-      "title": "Her Private Hell – Viagem ao Inferno",
-      "director": "Nicolas Winding Refn",
-      "year": 2026,
-      "duration": 109,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/0/5/7/1346057-her-private-hell-2026-0-500-0-750-crop.jpg?v=b28d97d826",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/her-private-hell-viagem-ao-inferno-2026",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 2.32,
-      "plot": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
-      "country": "USA",
-      "director_lbxd_slug": "nicolas-winding-refn"
-    },
-    {
       "id": "nimas_o-misterioso-olhar-do-flamingo-2025",
       "title": "O Misterioso Olhar do Flamingo",
       "director": "Diego Céspedes",
@@ -406,11 +381,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/o-misterioso-olhar-do-flamingo-2025",
       "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-03",
           "time": "15:00",
@@ -473,189 +443,26 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "howard-hawks"
     },
     {
-      "id": "nimas_roma-cidade-aberta-1945",
-      "title": "Roma, Cidade Aberta",
-      "director": "Roberto Rossellini",
-      "year": 1945,
-      "duration": 98,
-      "poster": "https://medeiafilmes.com/uploads/library/roma-cidade-aberta.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/roma-cidade-aberta-1945",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_raquel-raquel-1968",
-      "title": "Raquel, Raquel",
-      "director": "Paul Newman",
-      "year": 1968,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdbhymjinjatzmzlyi00n2nilwe5odgtywu4ngq2y2yzmdq5xkeyxkfqcgdeqxvymtuzmduznti3_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/raquel-raquel-1968",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-08",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_pedido-de-divorcio-1959",
-      "title": "Pedido de Divórcio",
-      "director": "Claude Chabrol",
-      "year": 1959,
-      "duration": 110,
-      "poster": "https://medeiafilmes.com/uploads/library/img_21472_2000x.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/pedido-de-divorcio-1959",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "12:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-09",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-20",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-chapeus-de-chuva-de-cherburgo-1964",
-      "title": "Os Chapéus de Chuva de Cherburgo",
-      "director": "Jacques Demy",
-      "year": 1964,
-      "duration": 87,
-      "poster": "https://medeiafilmes.com/uploads/library/os_chapeus_de_chuva_de_cherburgo.jpg",
-      "genres": [
-        "Musical"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-chapeus-de-chuva-de-cherburgo-1964",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-intruso-1976",
-      "title": "O Intruso",
-      "director": "Luchino Visconti",
-      "year": 1976,
-      "duration": 129,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzjhjzjvmmmitztg5ns00ndi5lwe3ytgtmwnknjq5zdq3ytjkxkeyxkfqcgdeqxvymzizndu1nty_v1.jpg",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
-      "sessions": [
-        {
-          "date": "2026-08-16",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-26",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_rocco-e-os-seus-irmaos-1960",
-      "title": "Rocco e os seus Irmãos",
-      "director": "Luchino Visconti",
-      "year": 1960,
-      "duration": 179,
-      "poster": "https://medeiafilmes.com/uploads/library/crac_rocco_28x40_web.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/rocco-e-os-seus-irmaos-1960",
-      "sessions": [
-        {
-          "date": "2026-08-22",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_as-criaturas-1966",
-      "title": "As Criaturas",
+      "id": "nimas_os-noivos-da-ponte-mac-donald-1961",
+      "title": "Os Noivos da Ponte Mac Donald",
       "director": "Agnès Varda",
-      "year": 1966,
-      "duration": 92,
-      "poster": "https://medeiafilmes.com/uploads/library/affiche-les-creatures-60x80-fr-768x10241.png",
+      "year": 1961,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/les_fiances_du_pont_mac_donald.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/as-criaturas-1966",
+      "link": "https://medeiafilmes.com/filmes/os-noivos-da-ponte-mac-donald-1961",
       "sessions": [
         {
-          "date": "2026-08-02",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-11",
-          "time": "17:30",
-          "cinema": "nimas"
+          "date": "2026-08-03",
+          "time": "13:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 1"
+          ]
         },
         {
           "date": "2026-08-21",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-02",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-07",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_a-comedia-e-a-vida-1952",
-      "title": "A Comédia e a Vida",
-      "director": "Jean Renoir",
-      "year": 1952,
-      "duration": 105,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bm2fmmwy2mzutnjk3nc00m2jllwjjymytnda1ngrinzm2ywuzxkeyxkfqcgdeqxvymdi3otizoa_v1_fmjpg_uy1768.jpg",
-      "genres": [
-        "Comédia",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-comedia-e-a-vida-1952",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "10:00",
+          "time": "14:00",
           "cinema": "nimas"
         }
       ]
@@ -678,56 +485,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-09-04",
           "time": "13:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_o-leao-volatil-2003",
-      "title": "O Leão Volátil",
-      "director": "Agnès Varda",
-      "year": 2003,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/f2eab62eb21c6bf4976d684ceeb7cd443bff16d100985852f19164a438f354eb.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-leao-volatil-2003",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "13:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 1"
-          ]
-        },
-        {
-          "date": "2026-08-21",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-noivos-da-ponte-mac-donald-1961",
-      "title": "Os Noivos da Ponte Mac Donald",
-      "director": "Agnès Varda",
-      "year": 1961,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/les_fiances_du_pont_mac_donald.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-noivos-da-ponte-mac-donald-1961",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "13:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 1"
-          ]
-        },
-        {
-          "date": "2026-08-21",
-          "time": "14:00",
           "cinema": "nimas"
         }
       ]
@@ -785,64 +542,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
-      "title": "Os Respigadores e a Respigadora… Dois Anos Depois",
-      "director": "Agnès Varda",
-      "year": 2002,
-      "duration": 64,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzteymti2ytctnzc5zi00zwjklthhotgtntk2zjeymwq3otizxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-dois-anos-depois-2002",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-16",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_fahrenheit-451-grau-de-destruicao-1966",
-      "title": "Fahrenheit 451 – Grau de Destruição",
-      "director": "François Truffaut",
-      "year": 1966,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
-      "genres": [
-        "Science Fiction",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fahrenheit-451-grau-de-destruicao-1966",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.51,
-      "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
-      "country": "UK",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
       "id": "nimas_as-supostas-cariatides-1984",
       "title": "As Supostas Cariátides",
       "director": "Agnès Varda",
@@ -889,31 +588,33 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_tens-uma-bela-escadaria-sabias-1986",
-      "title": "Tens Uma Bela Escadaria, Sabias",
-      "director": "Agnès Varda",
-      "year": 1986,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/images-original.jpeg",
+      "id": "nimas_fahrenheit-451-grau-de-destruicao-1966",
+      "title": "Fahrenheit 451 – Grau de Destruição",
+      "director": "François Truffaut",
+      "year": 1966,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
       "genres": [
-        "Documentário"
+        "Science Fiction",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/tens-uma-bela-escadaria-sabias-1986",
+      "link": "https://medeiafilmes.com/filmes/fahrenheit-451-grau-de-destruicao-1966",
       "sessions": [
         {
           "date": "2026-08-03",
-          "time": "13:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 1"
-          ]
+          "time": "18:00",
+          "cinema": "nimas"
         },
         {
-          "date": "2026-08-21",
-          "time": "14:00",
+          "date": "2026-08-25",
+          "time": "13:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.51,
+      "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
+      "country": "UK",
+      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "nimas_uma-canta-a-outra-nao-1976",
@@ -950,6 +651,62 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_tens-uma-bela-escadaria-sabias-1986",
+      "title": "Tens Uma Bela Escadaria, Sabias",
+      "director": "Agnès Varda",
+      "year": 1986,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/images-original.jpeg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/tens-uma-bela-escadaria-sabias-1986",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "13:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 1"
+          ]
+        },
+        {
+          "date": "2026-08-21",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
+      "title": "Os Respigadores e a Respigadora… Dois Anos Depois",
+      "director": "Agnès Varda",
+      "year": 2002,
+      "duration": 64,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzteymti2ytctnzc5zi00zwjklthhotgtntk2zjeymwq3otizxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-dois-anos-depois-2002",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-16",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_respostas-de-mulheres-1975",
       "title": "Respostas de Mulheres",
       "director": "Agnès Varda",
@@ -977,52 +734,29 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-homem-na-pele-da-serpente-1960",
-      "title": "O Homem na Pele da Serpente",
-      "director": "Sidney Lumet",
-      "year": 1960,
-      "duration": 119,
-      "poster": "https://medeiafilmes.com/uploads/library/9fc68750048badaadebe15a63d6fdb27601ee7aeeace3e7cbdcc00ed766a6dde.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-homem-na-pele-da-serpente-1960",
+      "id": "nimas_o-leao-volatil-2003",
+      "title": "O Leão Volátil",
+      "director": "Agnès Varda",
+      "year": 2003,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/f2eab62eb21c6bf4976d684ceeb7cd443bff16d100985852f19164a438f354eb.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-leao-volatil-2003",
       "sessions": [
         {
-          "date": "2026-08-04",
-          "time": "13:30",
-          "cinema": "nimas"
+          "date": "2026-08-03",
+          "time": "13:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 1"
+          ]
         },
         {
-          "date": "2026-08-28",
-          "time": "22:00",
+          "date": "2026-08-21",
+          "time": "14:00",
           "cinema": "nimas"
         }
       ]
-    },
-    {
-      "id": "nimas_lola-1961",
-      "title": "Lola",
-      "director": "Jacques Demy",
-      "year": 1961,
-      "duration": 83,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/2/5/24325-lola-0-500-0-750-crop.jpg?v=ffe4c0ba4f",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/lola-1961",
-      "sessions": [
-        {
-          "date": "2026-08-04",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.89,
-      "plot": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
-      "country": "France",
-      "director_lbxd_slug": "jacques-demy"
     },
     {
       "id": "nimas_o-universo-de-jacques-demy-1995",
@@ -1083,28 +817,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-detective-1968",
-      "title": "O Detective",
-      "director": "Gordon Douglas",
-      "year": 1968,
-      "duration": 114,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdnlowjlodctnjyyzi00mwewltljyjytmge2odg0odvmnmqzxkeyxkfqcgc_v1.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/o-detective-1968",
-      "sessions": [
-        {
-          "date": "2026-08-04",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_violencia-e-paixao-1974",
       "title": "Violência e Paixão",
       "director": "Luchino Visconti",
@@ -1133,54 +845,95 @@ window.CINEMA_DATA = {
       "country": "France"
     },
     {
-      "id": "nimas_sentimento-1954",
-      "title": "Sentimento",
-      "director": "Luchino Visconti",
-      "year": 1954,
-      "duration": 123,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzmnmowixzdutodjmni00y2zjlwjjytutnwyzmzvhn2u3mtzhxkeyxkfqcgc_v1_fmjpg_ux800.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sentimento-1954",
+      "id": "nimas_o-detective-1968",
+      "title": "O Detective",
+      "director": "Gordon Douglas",
+      "year": 1968,
+      "duration": 114,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdnlowjlodctnjyyzi00mwewltljyjytmge2odg0odvmnmqzxkeyxkfqcgc_v1.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/o-detective-1968",
       "sessions": [
         {
-          "date": "2026-08-21",
-          "time": "15:30",
+          "date": "2026-08-04",
+          "time": "22:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-09-01",
-          "time": "14:00",
+          "date": "2026-08-31",
+          "time": "19:00",
           "cinema": "nimas"
         }
       ]
     },
     {
-      "id": "nimas_kung-fu-master-1987",
-      "title": "Kung-Fu Master",
-      "director": "Agnès Varda",
-      "year": 1987,
-      "duration": 80,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnzczodqymzy3mv5bml5banbnxkftztgwnja5njexnze_v1.jpg",
+      "id": "nimas_lola-1961",
+      "title": "Lola",
+      "director": "Jacques Demy",
+      "year": 1961,
+      "duration": 83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/2/5/24325-lola-0-500-0-750-crop.jpg?v=ffe4c0ba4f",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/lola-1961",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.89,
+      "plot": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+      "country": "France",
+      "director_lbxd_slug": "jacques-demy"
+    },
+    {
+      "id": "nimas_o-homem-na-pele-da-serpente-1960",
+      "title": "O Homem na Pele da Serpente",
+      "director": "Sidney Lumet",
+      "year": 1960,
+      "duration": 119,
+      "poster": "https://medeiafilmes.com/uploads/library/9fc68750048badaadebe15a63d6fdb27601ee7aeeace3e7cbdcc00ed766a6dde.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/kung-fu-master-1987",
+      "link": "https://medeiafilmes.com/filmes/o-homem-na-pele-da-serpente-1960",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "13:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_quando-o-rio-se-enfurece-1960",
+      "title": "Quando o Rio Se Enfurece",
+      "director": "Elia Kazan",
+      "year": 1960,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/kpgbtk9.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/quando-o-rio-se-enfurece-1960",
       "sessions": [
         {
           "date": "2026-08-05",
-          "time": "20:00",
+          "time": "18:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-16",
+          "date": "2026-08-23",
           "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-24",
-          "time": "22:00",
           "cinema": "nimas"
         }
       ]
@@ -1258,173 +1011,54 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_quando-o-rio-se-enfurece-1960",
-      "title": "Quando o Rio Se Enfurece",
-      "director": "Elia Kazan",
-      "year": 1960,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/kpgbtk9.jpg",
+      "id": "nimas_kung-fu-master-1987",
+      "title": "Kung-Fu Master",
+      "director": "Agnès Varda",
+      "year": 1987,
+      "duration": 80,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bnzczodqymzy3mv5bml5banbnxkftztgwnja5njexnze_v1.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/quando-o-rio-se-enfurece-1960",
+      "link": "https://medeiafilmes.com/filmes/kung-fu-master-1987",
       "sessions": [
         {
           "date": "2026-08-05",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-23",
           "time": "20:00",
           "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-respigadores-e-a-respigadora-2000",
-      "title": "Os Respigadores e a Respigadora",
-      "director": "Agnès Varda",
-      "year": 2000,
-      "duration": 82,
-      "poster": "https://medeiafilmes.com/uploads/library/86208.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-2000",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "16:30",
-          "cinema": "trindade"
         },
         {
-          "date": "2026-08-13",
-          "time": "16:00",
+          "date": "2026-08-16",
+          "time": "20:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-25",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-08",
-          "time": "13:00",
+          "date": "2026-08-24",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ]
     },
     {
-      "id": "nimas_calle-malaga-2025",
-      "title": "Calle Málaga",
-      "director": "Maryam Touzani",
-      "year": 2025,
-      "duration": 116,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/1/2/1/1283121-calle-malaga-0-500-0-750-crop.jpg?v=56f895b229",
+      "id": "nimas_sentimento-1954",
+      "title": "Sentimento",
+      "director": "Luchino Visconti",
+      "year": 1954,
+      "duration": 123,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzmnmowixzdutodjmni00y2zjlwjjytutnwyzmzvhn2u3mtzhxkeyxkfqcgc_v1_fmjpg_ux800.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/calle-malaga-2025",
+      "link": "https://medeiafilmes.com/filmes/sentimento-1954",
       "sessions": [
         {
-          "date": "2026-08-06",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-07",
+          "date": "2026-08-21",
           "time": "15:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-08",
-          "time": "17:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-09",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-10",
-          "time": "17:45",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-11",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-19",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-23",
+          "date": "2026-09-01",
           "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.68,
-      "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-      "country": "Morocco",
-      "director_lbxd_slug": "maryam-touzani"
-    },
-    {
-      "id": "nimas_as-boas-mulheres-1960",
-      "title": "As Boas Mulheres",
-      "director": "Claude Chabrol",
-      "year": 1960,
-      "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/claude-chabrol-les-bonnes-femmes-scaled.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/as-boas-mulheres-1960",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-19",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-03",
-          "time": "12:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_errando-pelo-caminho-1965",
-      "title": "Errando pelo Caminho",
-      "director": "Robert Mulligan",
-      "year": 1965,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgewzte5otytotk1ns00mwewlwe1mzatzwi5zjc0ymu0ywu5xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/errando-pelo-caminho-1965",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "17:30",
           "cinema": "nimas"
         }
       ]
@@ -1464,20 +1098,57 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_tio-yanco-1967",
-      "title": "Tio Yanco",
-      "director": "Agnès Varda",
-      "year": 1967,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/4dacf845af526e7e5ecab8cae1ea69909517bb7f03d83ec80fe7f5b491ee4a93.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/tio-yanco-1967",
+      "id": "nimas_as-boas-mulheres-1960",
+      "title": "As Boas Mulheres",
+      "director": "Claude Chabrol",
+      "year": 1960,
+      "duration": 100,
+      "poster": "https://medeiafilmes.com/uploads/library/claude-chabrol-les-bonnes-femmes-scaled.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/as-boas-mulheres-1960",
       "sessions": [
         {
           "date": "2026-08-06",
-          "time": "14:00",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "12:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_os-respigadores-e-a-respigadora-2000",
+      "title": "Os Respigadores e a Respigadora",
+      "director": "Agnès Varda",
+      "year": 2000,
+      "duration": 82,
+      "poster": "https://medeiafilmes.com/uploads/library/86208.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-2000",
+      "sessions": [
+        {
+          "date": "2026-08-13",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-25",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ]
@@ -1548,6 +1219,112 @@ window.CINEMA_DATA = {
       "plot": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_tio-yanco-1967",
+      "title": "Tio Yanco",
+      "director": "Agnès Varda",
+      "year": 1967,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/4dacf845af526e7e5ecab8cae1ea69909517bb7f03d83ec80fe7f5b491ee4a93.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/tio-yanco-1967",
+      "sessions": [
+        {
+          "date": "2026-08-06",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_errando-pelo-caminho-1965",
+      "title": "Errando pelo Caminho",
+      "director": "Robert Mulligan",
+      "year": 1965,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzgewzte5otytotk1ns00mwewlwe1mzatzwi5zjc0ymu0ywu5xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/errando-pelo-caminho-1965",
+      "sessions": [
+        {
+          "date": "2026-08-06",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_calle-malaga-2025",
+      "title": "Calle Málaga",
+      "director": "Maryam Touzani",
+      "year": 2025,
+      "duration": 116,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/1/2/1/1283121-calle-malaga-0-500-0-750-crop.jpg?v=56f895b229",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/calle-malaga-2025",
+      "sessions": [
+        {
+          "date": "2026-08-06",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "15:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "17:15",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-10",
+          "time": "17:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-11",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.68,
+      "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
+      "country": "Morocco",
+      "director_lbxd_slug": "maryam-touzani"
     },
     {
       "id": "nimas_i-want-your-sex-2026",
@@ -1657,30 +1434,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_as-donzelas-fizeram-25-anos-1992",
-      "title": "As Donzelas Fizeram 25 Anos",
-      "director": "Les Demoiselles ont eu 25 ans",
-      "year": 1992,
-      "duration": 63,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodfjotaznzqtnde1ni00mjgylwi3mzktytazy2rkndc5ywiwxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "10:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_o-meu-tio-1958",
       "title": "O Meu Tio",
       "director": "Jacques Tati",
@@ -1726,25 +1479,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_morte-em-veneza-1971",
-      "title": "Morte em Veneza",
-      "director": "Luchino Visconti",
-      "year": 1971,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/ylcpjepslyy2bv5dypicfaov0ic.jpg",
+      "id": "nimas_as-donzelas-fizeram-25-anos-1992",
+      "title": "As Donzelas Fizeram 25 Anos",
+      "director": "Les Demoiselles ont eu 25 ans",
+      "year": 1992,
+      "duration": 63,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bodfjotaznzqtnde1ni00mjgylwi3mzktytazy2rkndc5ywiwxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
       "genres": [
-        "Drama"
+        "Documentário"
       ],
-      "link": "https://medeiafilmes.com/filmes/morte-em-veneza-1971",
+      "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
       "sessions": [
         {
           "date": "2026-08-08",
-          "time": "21:30",
+          "time": "13:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-28",
-          "time": "16:45",
+          "date": "2026-08-29",
+          "time": "10:30",
           "cinema": "nimas"
         }
       ]
@@ -1774,35 +1527,47 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_a-felicidade-1964",
-      "title": "A Felicidade",
-      "director": "Agnès Varda",
-      "year": 1964,
-      "duration": 85,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bntcymgeyyzktnge4mc00ytcxlweyywqtnwm1ogq0zmjkzdjkxkeyxkfqcgc_v1_fmjpg_ux996.jpg",
+      "id": "nimas_morte-em-veneza-1971",
+      "title": "Morte em Veneza",
+      "director": "Luchino Visconti",
+      "year": 1971,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/ylcpjepslyy2bv5dypicfaov0ic.jpg",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-felicidade-1964",
+      "link": "https://medeiafilmes.com/filmes/morte-em-veneza-1971",
       "sessions": [
         {
-          "date": "2026-08-04",
+          "date": "2026-08-08",
           "time": "21:30",
-          "cinema": "trindade"
+          "cinema": "nimas"
         },
+        {
+          "date": "2026-08-28",
+          "time": "16:45",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_pedido-de-divorcio-1959",
+      "title": "Pedido de Divórcio",
+      "director": "Claude Chabrol",
+      "year": 1959,
+      "duration": 110,
+      "poster": "https://medeiafilmes.com/uploads/library/img_21472_2000x.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/pedido-de-divorcio-1959",
+      "sessions": [
         {
           "date": "2026-08-09",
-          "time": "14:30",
+          "time": "20:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-23",
-          "time": "18:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-03",
-          "time": "16:30",
+          "date": "2026-08-20",
+          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -1894,6 +1659,33 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_ulisses-1982",
+      "title": "Ulisses",
+      "director": "Agnès Varda",
+      "year": 1982,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bndmzotzjmjgtmgnjms00mty2ltg3mzitodg1n2nindi2otq1xkeyxkfqcgc_v1.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ulisses-1982",
+      "sessions": [
+        {
+          "date": "2026-08-09",
+          "time": "11:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 2"
+          ]
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_o-leopardo-1963",
       "title": "O Leopardo",
       "director": "Luchino Visconti",
@@ -1919,28 +1711,107 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_ulisses-1982",
-      "title": "Ulisses",
+      "id": "nimas_a-felicidade-1964",
+      "title": "A Felicidade",
       "director": "Agnès Varda",
-      "year": 1982,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bndmzotzjmjgtmgnjms00mty2ltg3mzitodg1n2nindi2otq1xkeyxkfqcgc_v1.jpg",
+      "year": 1964,
+      "duration": 85,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bntcymgeyyzktnge4mc00ytcxlweyywqtnwm1ogq0zmjkzdjkxkeyxkfqcgc_v1_fmjpg_ux996.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-felicidade-1964",
+      "sessions": [
+        {
+          "date": "2026-08-04",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "14:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-23",
+          "time": "18:15",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "16:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_algumas-viuvas-de-noirmoutier-2006",
+      "title": "Algumas Viúvas de Noirmoutier",
+      "director": "Agnès Varda",
+      "year": 2006,
+      "duration": 69,
+      "poster": "https://medeiafilmes.com/uploads/library/mpv-shot0918.jpg",
       "genres": [
         "Documentário"
       ],
-      "link": "https://medeiafilmes.com/filmes/ulisses-1982",
+      "link": "https://medeiafilmes.com/filmes/algumas-viuvas-de-noirmoutier-2006",
       "sessions": [
         {
-          "date": "2026-08-09",
-          "time": "11:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 2"
-          ]
+          "date": "2026-08-10",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_a-opera-mouffe-1958",
+      "title": "A Ópera Mouffe",
+      "director": "Agnès Varda",
+      "year": 1958,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmjy4oduzmjmtnde3yy00njm0lwi4nzutmjaznjm1nwezntiwxkeyxkfqcgc_v1_fmjpg_ux487.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-opera-mouffe-1958",
+      "sessions": [
+        {
+          "date": "2026-08-10",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_duas-horas-na-vida-de-uma-mulher-1961",
+      "title": "Duas Horas na Vida de uma Mulher",
+      "director": "Agnès Varda",
+      "year": 1961,
+      "duration": 86,
+      "poster": "https://medeiafilmes.com/uploads/library/1438116019babdfe21e8181b87f3dc854f54f9a0c1.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/duas-horas-na-vida-de-uma-mulher-1961",
+      "sessions": [
+        {
+          "date": "2026-08-10",
+          "time": "22:00",
+          "cinema": "nimas"
         },
         {
-          "date": "2026-08-24",
-          "time": "16:00",
+          "date": "2026-08-20",
+          "time": "18:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "18:00",
           "cinema": "nimas"
         }
       ]
@@ -1989,73 +1860,33 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_a-opera-mouffe-1958",
-      "title": "A Ópera Mouffe",
+      "id": "nimas_as-criaturas-1966",
+      "title": "As Criaturas",
       "director": "Agnès Varda",
-      "year": 1958,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bmjy4oduzmjmtnde3yy00njm0lwi4nzutmjaznjm1nwezntiwxkeyxkfqcgc_v1_fmjpg_ux487.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-opera-mouffe-1958",
+      "year": 1966,
+      "duration": 92,
+      "poster": "https://medeiafilmes.com/uploads/library/affiche-les-creatures-60x80-fr-768x10241.png",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/as-criaturas-1966",
       "sessions": [
         {
-          "date": "2026-08-10",
-          "time": "14:00",
+          "date": "2026-08-11",
+          "time": "17:30",
           "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_algumas-viuvas-de-noirmoutier-2006",
-      "title": "Algumas Viúvas de Noirmoutier",
-      "director": "Agnès Varda",
-      "year": 2006,
-      "duration": 69,
-      "poster": "https://medeiafilmes.com/uploads/library/mpv-shot0918.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/algumas-viuvas-de-noirmoutier-2006",
-      "sessions": [
+        },
         {
-          "date": "2026-08-10",
-          "time": "14:00",
+          "date": "2026-08-21",
+          "time": "20:00",
           "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_duas-horas-na-vida-de-uma-mulher-1961",
-      "title": "Duas Horas na Vida de uma Mulher",
-      "director": "Agnès Varda",
-      "year": 1961,
-      "duration": 86,
-      "poster": "https://medeiafilmes.com/uploads/library/1438116019babdfe21e8181b87f3dc854f54f9a0c1.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/duas-horas-na-vida-de-uma-mulher-1961",
-      "sessions": [
+        },
         {
-          "date": "2026-08-10",
+          "date": "2026-09-02",
           "time": "22:00",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-20",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "18:00",
+          "date": "2026-09-07",
+          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -2129,6 +1960,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_uma-mulher-e-uma-mulher-1961",
+      "title": "Uma Mulher é Uma Mulher",
+      "director": "Jean-Luc Godard",
+      "year": 1961,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/uma-mulher-e-uma-mulher.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/uma-mulher-e-uma-mulher-1961",
+      "sessions": [
+        {
+          "date": "2026-08-12",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_a-terra-treme-1948",
       "title": "A Terra Treme",
       "director": "Luchino Visconti",
@@ -2143,23 +1991,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-12",
           "time": "13:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_uma-mulher-e-uma-mulher-1961",
-      "title": "Uma Mulher é Uma Mulher",
-      "director": "Jean-Luc Godard",
-      "year": 1961,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/uma-mulher-e-uma-mulher.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/uma-mulher-e-uma-mulher-1961",
-      "sessions": [
-        {
-          "date": "2026-08-12",
-          "time": "16:00",
           "cinema": "nimas"
         }
       ]
@@ -2201,6 +2032,23 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_dois-homens-em-manhattan-1959",
+      "title": "Dois Homens em Manhattan",
+      "director": "Jean-Pierre Melville",
+      "year": 1959,
+      "duration": 84,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bytyzy2i1zgqtnjk4ms00mzmwltk4mzytndbjnza2odi4otdhxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/dois-homens-em-manhattan-1959",
+      "sessions": [
+        {
+          "date": "2026-08-14",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_a-morena-ardente-1958",
       "title": "A Morena Ardente",
       "director": "Leo McCarey",
@@ -2223,14 +2071,16 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_t7-coz-wc-a-venda-1984",
-      "title": "T7,  Coz, WC… À VENDA",
+      "id": "nimas_ydessa-os-ursos-e-etc-2004",
+      "title": "Ydessa, os Ursos e etc.",
       "director": "Agnès Varda",
-      "year": 1984,
+      "year": 2004,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/7_p_cuis_s_de_b_a_saisir.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/t7-coz-wc-a-venda-1984",
+      "poster": "https://medeiafilmes.com/uploads/library/28ef6d83981fe5c58b1841d0a4de0e7e9e58a08e8ab17b267d4964fb99adff64.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ydessa-os-ursos-e-etc-2004",
       "sessions": [
         {
           "date": "2026-08-14",
@@ -2240,23 +2090,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-27",
           "time": "14:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_dois-homens-em-manhattan-1959",
-      "title": "Dois Homens em Manhattan",
-      "director": "Jean-Pierre Melville",
-      "year": 1959,
-      "duration": 84,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytyzy2i1zgqtnjk4ms00mzmwltk4mzytndbjnza2odi4otdhxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/dois-homens-em-manhattan-1959",
-      "sessions": [
-        {
-          "date": "2026-08-14",
-          "time": "14:30",
           "cinema": "nimas"
         }
       ]
@@ -2286,16 +2119,14 @@ window.CINEMA_DATA = {
       "country": "Sweden"
     },
     {
-      "id": "nimas_ydessa-os-ursos-e-etc-2004",
-      "title": "Ydessa, os Ursos e etc.",
+      "id": "nimas_t7-coz-wc-a-venda-1984",
+      "title": "T7,  Coz, WC… À VENDA",
       "director": "Agnès Varda",
-      "year": 2004,
+      "year": 1984,
       "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/28ef6d83981fe5c58b1841d0a4de0e7e9e58a08e8ab17b267d4964fb99adff64.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ydessa-os-ursos-e-etc-2004",
+      "poster": "https://medeiafilmes.com/uploads/library/7_p_cuis_s_de_b_a_saisir.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/t7-coz-wc-a-venda-1984",
       "sessions": [
         {
           "date": "2026-08-14",
@@ -2305,6 +2136,28 @@ window.CINEMA_DATA = {
         {
           "date": "2026-08-27",
           "time": "14:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
+      "id": "nimas_belissima-1951",
+      "title": "Belíssima",
+      "director": "Luchino Visconti",
+      "year": 1951,
+      "duration": 108,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bytgwogezodetntnlny00zweylthjztutmzixmmvjody0nzyxxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/belissima-1951",
+      "sessions": [
+        {
+          "date": "2026-08-15",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "15:30",
           "cinema": "nimas"
         }
       ]
@@ -2331,28 +2184,6 @@ window.CINEMA_DATA = {
       "plot": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "country": "UK",
       "director_lbxd_slug": "wim-wenders"
-    },
-    {
-      "id": "nimas_belissima-1951",
-      "title": "Belíssima",
-      "director": "Luchino Visconti",
-      "year": 1951,
-      "duration": 108,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytgwogezodetntnlny00zweylthjztutmzixmmvjody0nzyxxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/belissima-1951",
-      "sessions": [
-        {
-          "date": "2026-08-15",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "15:30",
-          "cinema": "nimas"
-        }
-      ]
     },
     {
       "id": "nimas_viagem-a-toquio-1953",
@@ -2405,6 +2236,31 @@ window.CINEMA_DATA = {
       "country": "USSR"
     },
     {
+      "id": "nimas_o-intruso-1976",
+      "title": "O Intruso",
+      "director": "Luchino Visconti",
+      "year": 1976,
+      "duration": 129,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bzjhjzjvmmmitztg5ns00ndi5lwe3ytgtmwnknjq5zdq3ytjkxkeyxkfqcgdeqxvymzizndu1nty_v1.jpg",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
+      "sessions": [
+        {
+          "date": "2026-08-16",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_2001-odisseia-no-espaco-1968",
       "title": "2001 – Odisseia no Espaço",
       "director": "Stanley Kubrick",
@@ -2453,6 +2309,23 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
+      "id": "nimas_obsessao-1943",
+      "title": "Obsessão",
+      "director": "Luchino Visconti",
+      "year": 1943,
+      "duration": 140,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bytzimju3nguty2i4zc00oguylthkodytyjezytqxnzjimja1xkeyxkfqcgc_v1_fmjpg_uy2868.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/obsessao-1943",
+      "sessions": [
+        {
+          "date": "2026-08-17",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_sandra-1965",
       "title": "Sandra",
       "director": "Luchino Visconti",
@@ -2482,30 +2355,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luchino-visconti"
     },
     {
-      "id": "nimas_jane-b-por-agnes-v-1987",
-      "title": "Jane B. por Agnès V.",
-      "director": "Agnès Varda",
-      "year": 1987,
-      "duration": 105,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnze2mdmwotm4mf5bml5banbnxkftztgwnta5njexnze_v1.jpg",
-      "genres": [
-        "Documentário"
-      ],
-      "link": "https://medeiafilmes.com/filmes/jane-b-por-agnes-v-1987",
-      "sessions": [
-        {
-          "date": "2026-08-17",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-02",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_o-estrangeiro-1967-1967",
       "title": "O Estrangeiro (1967)",
       "director": "Luchino Visconti",
@@ -2528,40 +2377,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_obsessao-1943",
-      "title": "Obsessão",
-      "director": "Luchino Visconti",
-      "year": 1943,
-      "duration": 140,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bytzimju3nguty2i4zc00oguylthkodytyjezytqxnzjimja1xkeyxkfqcgc_v1_fmjpg_uy2868.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/obsessao-1943",
+      "id": "nimas_jane-b-por-agnes-v-1987",
+      "title": "Jane B. por Agnès V.",
+      "director": "Agnès Varda",
+      "year": 1987,
+      "duration": 105,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bnze2mdmwotm4mf5bml5banbnxkftztgwnta5njexnze_v1.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/jane-b-por-agnes-v-1987",
       "sessions": [
         {
           "date": "2026-08-17",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
-      "id": "nimas_os-malditos-1969",
-      "title": "Os Malditos",
-      "director": "Luchino Visconti",
-      "year": 1969,
-      "duration": 157,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnjq3mzywn2qtnju1nc00mjq4ltgznzutmjviodaynjewymrjxkeyxkfqcgc_v1_fmjpg_uy3000.jpg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
-      "sessions": [
-        {
-          "date": "2026-08-18",
-          "time": "21:30",
+          "time": "15:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-08-30",
-          "time": "21:00",
+          "date": "2026-09-02",
+          "time": "15:00",
           "cinema": "nimas"
         }
       ]
@@ -2595,18 +2429,23 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_paris-nous-appartient-1961",
-      "title": "Paris Nous Appartient",
-      "director": "Jacques Rivette",
-      "year": 1961,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/8414624850x.jpg",
+      "id": "nimas_os-malditos-1969",
+      "title": "Os Malditos",
+      "director": "Luchino Visconti",
+      "year": 1969,
+      "duration": 157,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bnjq3mzywn2qtnju1nc00mjq4ltgznzutmjviodaynjewymrjxkeyxkfqcgc_v1_fmjpg_uy3000.jpg",
       "genres": [],
-      "link": "https://medeiafilmes.com/filmes/paris-nous-appartient-1961",
+      "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
       "sessions": [
         {
           "date": "2026-08-18",
-          "time": "19:00",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "21:00",
           "cinema": "nimas"
         }
       ]
@@ -2634,6 +2473,23 @@ window.CINEMA_DATA = {
       "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
       "country": "Germany",
       "director_lbxd_slug": "edgar-reitz"
+    },
+    {
+      "id": "nimas_paris-nous-appartient-1961",
+      "title": "Paris Nous Appartient",
+      "director": "Jacques Rivette",
+      "year": 1961,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/8414624850x.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/paris-nous-appartient-1961",
+      "sessions": [
+        {
+          "date": "2026-08-18",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_daguerreotipos-1975",
@@ -2732,6 +2588,25 @@ window.CINEMA_DATA = {
       "plot": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
+    },
+    {
+      "id": "nimas_rocco-e-os-seus-irmaos-1960",
+      "title": "Rocco e os seus Irmãos",
+      "director": "Luchino Visconti",
+      "year": 1960,
+      "duration": 179,
+      "poster": "https://medeiafilmes.com/uploads/library/crac_rocco_28x40_web.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/rocco-e-os-seus-irmaos-1960",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_johnny-guitar-1954",
@@ -3082,6 +2957,25 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "nimas_o-mundo-a-seus-pes-1941",
+      "title": "O Mundo a Seus Pés",
+      "director": "Orson Welles",
+      "year": 1941,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/citizen-kane-md-web.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-mundo-a-seus-pes-1941",
+      "sessions": [
+        {
+          "date": "2026-09-05",
+          "time": "13:15",
+          "cinema": "nimas"
+        }
+      ]
+    },
+    {
       "id": "nimas_pedro-o-louco-1965",
       "title": "Pedro, o Louco",
       "director": "Jean-Luc Godard",
@@ -3118,25 +3012,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "nimas_o-mundo-a-seus-pes-1941",
-      "title": "O Mundo a Seus Pés",
-      "director": "Orson Welles",
-      "year": 1941,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/citizen-kane-md-web.jpg",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-mundo-a-seus-pes-1941",
-      "sessions": [
-        {
-          "date": "2026-09-05",
-          "time": "13:15",
-          "cinema": "nimas"
-        }
-      ]
-    },
-    {
       "id": "nimas_os-insolentes-1957",
       "title": "Os Insolentes",
       "director": "François Truffaut",
@@ -3163,14 +3038,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://medeiafilmes.com/filmes/os-quatrocentos-golpes-1959",
       "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "21:30",
-          "cinema": "trindade",
-          "labels": [
-            "mediante apresentação na bilheteira física, este bilhete inclui entrada na sessão de Antoine e Colette no mesmo dia, às 21:00"
-          ]
-        },
         {
           "date": "2026-09-06",
           "time": "19:00",
@@ -3224,6 +3091,23 @@ window.CINEMA_DATA = {
       "rating": 4.05,
       "plot": "Women enter and exit a science fiction author's life over the course of a few years after the author loses the woman he considers his one true love.",
       "country": "Germany"
+    },
+    {
+      "id": "nimas_raquel-raquel-1968",
+      "title": "Raquel, Raquel",
+      "director": "Paul Newman",
+      "year": 1968,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/mv5bmdbhymjinjatzmzlyi00n2nilwe5odgtywu4ngq2y2yzmdq5xkeyxkfqcgdeqxvymtuzmduznti3_v1_fmjpg_ux1000.jpg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/raquel-raquel-1968",
+      "sessions": [
+        {
+          "date": "2026-09-08",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ]
     },
     {
       "id": "nimas_days-of-being-wild-dias-selvagens-1990",
@@ -5291,35 +5175,63 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "emeric-pressburger"
     },
     {
-      "id": "batalha_sxn4XgfvHh5DXRZF",
-      "title": "Ernest and Celestine — Winter Tales",
-      "director": "Julien Chheng e Jean-Christophe Roger",
-      "year": 2017,
-      "duration": 48,
+      "id": "trindade_8646",
+      "title": "Beijos Roubados",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 92,
       "poster": null,
       "genres": [],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/ernest-e-celestine-contos-de-inverno",
+      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
       "sessions": [
         {
-          "date": "2026-12-19",
-          "time": "16:15",
-          "cinema": "batalha"
+          "date": "2026-08-03",
+          "time": "14:15",
+          "cinema": "trindade"
         }
       ]
     },
     {
-      "id": "trindade_8670",
-      "title": "O Homem Que Gostava Das Mulheres",
-      "director": "François Truffaut",
-      "year": 1977,
-      "duration": 118,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/o-homem-que-gostava-das-mulheres",
+      "id": "trindade_8553",
+      "title": "Magalhães",
+      "director": "Lav Diaz",
+      "year": 2025,
+      "duration": 160,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDZhMGVhZWQtY2ZkZC00YzZhLWIxZTQtNDQ0ZjllN2I4ODdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/magalhaes",
       "sessions": [
         {
-          "date": "2026-08-02",
+          "date": "2026-08-03",
           "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ],
+      "plot": "A portrayal of Ferdinand Magellan and Beatriz Barbosa's 1517 marriage in Seville, focusing on their brief time together before his departure on the Spanish crown's expedition.",
+      "country": "Philippines"
+    },
+    {
+      "id": "trindade_7459",
+      "title": "Jules e Jim",
+      "director": "François Truffaut",
+      "year": 1962,
+      "duration": 105,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/jules-e-jim",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "16:00",
           "cinema": "trindade"
         }
       ]
@@ -5334,21 +5246,6 @@ window.CINEMA_DATA = {
       "genres": [],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "15:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-02",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-02",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-03",
           "time": "17:15",
@@ -5394,11 +5291,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/nova-78",
       "sessions": [
         {
-          "date": "2026-08-02",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-08-03",
           "time": "18:00",
           "cinema": "trindade"
@@ -5418,153 +5310,6 @@ window.CINEMA_DATA = {
       "country": "United States"
     },
     {
-      "id": "trindade_8617",
-      "title": "Rosebush Pruning",
-      "director": "Karim Aïnouz",
-      "year": 2026,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/rosebush-pruning",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-03",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-04",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 2.74,
-      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-      "country": "Germany",
-      "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "trindade_8699",
-      "title": "Antoine et Colette",
-      "director": "François Truffaut",
-      "year": 1962,
-      "duration": 30,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/0/0/51800-antoine-and-colette-0-500-0-750-crop.jpg?v=801971aecb",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/antoine-et-colette",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "21:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.75,
-      "plot": "Now aged 17, Antoine Doinel works in a factory which makes records. At a music concert, he meets a girl his own age, Colette, and falls in love with her. Later, Antoine goes to extraordinary lengths to please his new girlfriend and her parents, but Colette still only regards him as a casual friend. First segment of “Love at Twenty” (1962).",
-      "country": "France",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
-      "id": "trindade_8947",
-      "title": "Sophia Setembro de 1963",
-      "director": "Hugo Pereira, Vanessa Duarte",
-      "year": 2026,
-      "duration": 84,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/sophia-setembro-de-1963",
-      "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "21:15",
-          "cinema": "trindade",
-          "labels": [
-            "com a presença dos cineastas e Luís Mestre + conversa com o público"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "trindade_8553",
-      "title": "Magalhães",
-      "director": "Lav Diaz",
-      "year": 2025,
-      "duration": 160,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDZhMGVhZWQtY2ZkZC00YzZhLWIxZTQtNDQ0ZjllN2I4ODdhXkEyXkFqcGc@._V1_SX300.jpg",
-      "genres": [
-        "Biography",
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/magalhaes",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-05",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "plot": "A portrayal of Ferdinand Magellan and Beatriz Barbosa's 1517 marriage in Seville, focusing on their brief time together before his departure on the Spanish crown's expedition.",
-      "country": "Philippines"
-    },
-    {
-      "id": "trindade_8646",
-      "title": "Beijos Roubados",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 92,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
-      "id": "trindade_7459",
-      "title": "Jules e Jim",
-      "director": "François Truffaut",
-      "year": 1962,
-      "duration": 105,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/jules-e-jim",
-      "sessions": [
-        {
-          "date": "2026-08-03",
-          "time": "16:00",
-          "cinema": "trindade"
-        }
-      ]
-    },
-    {
       "id": "trindade_8876",
       "title": "Persépolis",
       "director": "Marjane Satrapi, Vincent Paronnaud",
@@ -5578,11 +5323,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/persepolis",
       "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "19:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-03",
           "time": "17:00",
@@ -5621,6 +5361,41 @@ window.CINEMA_DATA = {
       ],
       "plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
       "country": "France"
+    },
+    {
+      "id": "trindade_8617",
+      "title": "Rosebush Pruning",
+      "director": "Karim Aïnouz",
+      "year": 2026,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/rosebush-pruning",
+      "sessions": [
+        {
+          "date": "2026-08-03",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-04",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-05",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 2.74,
+      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
+      "country": "Germany",
+      "director_lbxd_slug": "karim-ainouz-1"
     },
     {
       "id": "trindade_7620",
@@ -5725,11 +5500,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=65710",
       "sessions": [
-        {
-          "date": "2026-08-02",
-          "time": "17:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-03",
           "time": "19:00",
@@ -5838,11 +5608,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Nicolas Winding Refn": {
-      "lbxd_slug": "nicolas-winding-refn",
-      "photo": null,
-      "bio": null
-    },
     "Diego Céspedes": {
       "lbxd_slug": null,
       "photo": null,
@@ -5853,22 +5618,7 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Howard_Hawks_head_shot.jpg/500px-Howard_Hawks_head_shot.jpg",
       "bio": "Howard Winchester Hawks (May 30, 1896 – December 26, 1977) was an American film director, producer, and screenwriter of the classic Hollywood era. The critic Leonard Maltin called him \"the greatest American director who is not a household name.\" Roger Ebert called Hawks \"one of the greatest American directors of pure movies, and a hero of auteur critics because he found his own laconic values in so many different kinds of genre material.\" He was nominated for the Academy Award for Best Director for Sergeant York (1941) and earned the Honorary Academy Award in 1974. A versatile director, Hawks explored many genres such as comedies, dramas, gangster films, science fiction, film noir, war films and Westerns."
     },
-    "Roberto Rossellini": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Paul Newman": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Claude Chabrol": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Jacques Demy": {
+    "Agnès Varda": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -5877,11 +5627,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
       "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
-    },
-    "Agnès Varda": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
     },
     "Jean Renoir": {
       "lbxd_slug": null,
@@ -5893,17 +5638,32 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Sidney Lumet": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Gordon Douglas": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
+    "Jacques Demy": {
+      "lbxd_slug": "jacques-demy",
+      "photo": null,
+      "bio": null
+    },
+    "Sidney Lumet": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Jacques Rozier": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Paul Newman": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Claude Chabrol": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -5923,11 +5683,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Les Demoiselles ont eu 25 ans": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Jacques Tati": {
       "lbxd_slug": null,
       "photo": null,
@@ -5937,6 +5692,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eric_Rohmer_cinematheque_2004-04.jpg/500px-Eric_Rohmer_cinematheque_2004-04.jpg",
       "bio": "Jean Marie Maurice Schérer or Maurice Henri Joseph Schérer, known as Éric Rohmer (French: [eʁik ʁomɛʁ]; 21 March 1920 – 11 January 2010), was a French film director, film critic, journalist, novelist, screenwriter, and teacher. Rohmer was the last of the post-World War II French New Wave directors to become established. He edited the influential film journal Cahiers du cinéma from 1957 to 1963, while most of his colleagues—among them Jean-Luc Godard and François Truffaut—were making the transition from critics to filmmakers and gaining international attention."
+    },
+    "Les Demoiselles ont eu 25 ans": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Sophie Letourneur": {
       "lbxd_slug": "sophie-letourneur",
@@ -5958,17 +5718,22 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
       "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
     },
+    "Roberto Rossellini": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Louis Malle": {
       "lbxd_slug": null,
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Identite-LouisMalle-1958-Sacem.png/500px-Identite-LouisMalle-1958-Sacem.png",
       "bio": "Louis Marie Malle (French: [lwi maʁi mal]; 30 October 1932 – 23 November 1995) was a French filmmaker who worked in France and Hollywood. Described as \"eclectic\" and \"difficult to pin down\", his works often depict provocative or controversial subject matter. Malle's most famous works include the crime thriller Elevator to the Gallows (1958), the romantic drama The Lovers (1958), the World War II drama Lacombe, Lucien (1974), the period drama Pretty Baby (1978), the romantic crime film Atlantic City (1980), the dramedy My Dinner with Andre (1981), and the autobiographical Au revoir les enfants (1987)."
     },
-    "Leo McCarey": {
+    "Jean-Pierre Melville": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
-    "Jean-Pierre Melville": {
+    "Leo McCarey": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -6003,13 +5768,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Jacques Rivette": {
-      "lbxd_slug": null,
+    "Edgar Reitz": {
+      "lbxd_slug": "edgar-reitz",
       "photo": null,
       "bio": null
     },
-    "Edgar Reitz": {
-      "lbxd_slug": "edgar-reitz",
+    "Jacques Rivette": {
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -6383,7 +6148,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Julien Chheng e Jean-Christophe Roger": {
+    "Lav Diaz": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null
@@ -6398,23 +6163,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Karim Aïnouz": {
-      "lbxd_slug": "karim-ainouz-1",
-      "photo": null,
-      "bio": null
-    },
-    "Hugo Pereira, Vanessa Duarte": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
-    "Lav Diaz": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Marjane Satrapi, Vincent Paronnaud": {
       "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Karim Aïnouz": {
+      "lbxd_slug": "karim-ainouz-1",
       "photo": null,
       "bio": null
     },
