@@ -367,15 +367,20 @@
     /* ── EMPTY ── */
     .empty { padding: 120px 0; text-align: center; color: var(--ink3); font-size: 14px; }
 
-    /* ── COMING SOON (Porto) ── */
-    .coming-soon {
-      min-height: 55vh; display: flex; flex-direction: column;
-      align-items: center; justify-content: center; text-align: center;
-      padding: 80px 24px; gap: 18px;
+    /* ── CURSOR TOAST (Porto ainda não disponível) ── */
+    .cursor-toast {
+      position: fixed; z-index: 2000; top: 0; left: 0;
+      max-width: 220px;
+      background: var(--header-bg); color: #f5f5f2;
+      font-family: 'Public Sans', sans-serif; font-size: 12.5px; font-weight: 600; line-height: 1.4;
+      padding: 9px 13px; border-radius: 8px;
+      border: 1px solid rgba(245,245,242,0.15);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+      pointer-events: none;
+      opacity: 0; transform: translate(14px, 14px) scale(0.95);
+      transition: opacity 0.35s ease, transform 0.35s ease;
     }
-    .coming-soon img { height: 30px; opacity: 0.85; }
-    .coming-soon h2 { font-size: 26px; font-weight: 800; letter-spacing: -0.4px; }
-    .coming-soon p { max-width: 380px; color: var(--ink2); font-size: 15px; line-height: 1.55; }
+    .cursor-toast.show { opacity: 1; transform: translate(14px, 14px) scale(1); }
 
     /* ── MOBILE ── */
     @media (max-width: 720px) {
@@ -459,7 +464,7 @@
     </div>
     <div class="depth-toggle depth-toggle--city" id="cityToggle">
       <button class="dt-opt active" data-val="lisboa" onclick="setCity('lisboa')"><span class="dt-label"></span></button>
-      <button class="dt-opt" data-val="porto" onclick="setCity('porto')"><span class="dt-label"></span><i class="soon-dot"></i></button>
+      <button class="dt-opt" data-val="porto" onclick="denyPorto(event)"><span class="dt-label"></span><i class="soon-dot"></i></button>
     </div>
   </div>
   <nav id="nav">
@@ -778,8 +783,7 @@ const T = {
     followedByDebate: 'Seguida de debate',
     specialSession: 'Sessão especial',
     comingSoonBadge: 'Em breve',
-    comingSoonTitle: 'Porto está a chegar',
-    comingSoonBody: 'Estamos a construir a agenda dos cinemas do Porto. Volta em breve.',
+    portoToast: 'Estamos a trabalhar para adicionar mais cidades no futuro.',
     days:   ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'],
     months: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
   },
@@ -800,8 +804,7 @@ const T = {
     followedByDebate: 'Followed by debate',
     specialSession: 'Special screening',
     comingSoonBadge: 'Coming soon',
-    comingSoonTitle: 'Porto is on its way',
-    comingSoonBody: "We're building the Porto cinema listings. Check back soon.",
+    portoToast: "We're working on adding more cities in the future.",
     days:   ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],
     months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
   },
@@ -1098,15 +1101,6 @@ function renderFilmes() {
     </div>`;
 }
 
-function renderComingSoon() {
-  document.getElementById('main').innerHTML = `
-    <div class="coming-soon">
-      <img src="assets/brand/sesh-mark.png" alt="">
-      <h2>${t('comingSoonTitle')}</h2>
-      <p>${t('comingSoonBody')}</p>
-    </div>`;
-}
-
 // ── MODAL ─────────────────────────────────────────────────────────────────────
 
 function normTitle(str) {
@@ -1239,14 +1233,10 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 // ── DISPATCH ──────────────────────────────────────────────────────────────────
 
 function render() {
-  // Porto ainda está em construção — mostra "brevemente" em vez da
-  // agenda/filmes (que teriam poucos ou nenhuns dados reais de qualquer forma).
-  const portoOnHold = activeCity === 'porto';
-
   // o display tem de ser acertado antes de renderDateBar() medir a barra —
   // um elemento display:none devolve um getBoundingClientRect() todo a
   // zero, o que parte o cálculo do clip-path da faixa do gradiente.
-  document.getElementById('dateBar').style.display = (activeView === 'agenda' && !portoOnHold) ? 'flex' : 'none';
+  document.getElementById('dateBar').style.display = activeView === 'agenda' ? 'flex' : 'none';
 
   renderHeaderControls();
   // altura do header calculada, não fixa — no mobile o header pode
@@ -1257,17 +1247,13 @@ function render() {
 
   document.getElementById('main').style.padding = '';
 
-  if (portoOnHold) {
-    renderComingSoon();
-  } else {
-    if (activeView === 'agenda')  renderAgenda();
-    if (activeView === 'filmes')  renderFilmes();
-  }
+  if (activeView === 'agenda')  renderAgenda();
+  if (activeView === 'filmes')  renderFilmes();
 
   // renderDateBar() já correu (mede a faixa), mas renderAgenda() só criou os
   // .agenda-day agora — sem isto a faixa ficava presa na posição estática
   // (dia atual já 100% cheio) até ao primeiro scroll do utilizador.
-  if (activeView === 'agenda' && !portoOnHold) syncIndicatorToScroll();
+  if (activeView === 'agenda') syncIndicatorToScroll();
 
   document.querySelectorAll('nav button').forEach((btn, i) => {
     btn.classList.toggle('active', ['agenda','filmes'][i] === activeView);
@@ -1335,6 +1321,47 @@ function setCity(city) {
   activeCinemas = new Set();
   render();
 }
+
+// Porto ainda não está disponível: a troca começa a animar (dá a
+// sensação de resposta ao clique) mas nunca chega a completar-se —
+// volta para Lisboa a meio, e mostra um aviso a seguir o cursor.
+let portoToastTimer = null;
+function denyPorto(evt) {
+  const lisboaBtn = document.querySelector('#cityToggle .dt-opt[data-val="lisboa"]');
+  const portoBtn  = document.querySelector('#cityToggle .dt-opt[data-val="porto"]');
+  portoBtn.classList.add('active');
+  lisboaBtn.classList.remove('active');
+  setTimeout(() => {
+    portoBtn.classList.remove('active');
+    lisboaBtn.classList.add('active');
+  }, 220);
+
+  let toast = document.getElementById('portoToast');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'portoToast';
+    toast.className = 'cursor-toast';
+    document.body.appendChild(toast);
+  }
+  toast.textContent = t('portoToast');
+  positionToast(toast, evt.clientX, evt.clientY);
+  requestAnimationFrame(() => toast.classList.add('show'));
+
+  document.addEventListener('mousemove', followToastCursor);
+  clearTimeout(portoToastTimer);
+  portoToastTimer = setTimeout(() => {
+    toast.classList.remove('show');
+    document.removeEventListener('mousemove', followToastCursor);
+  }, 3000);
+}
+function positionToast(toast, x, y) {
+  toast.style.left = x + 'px';
+  toast.style.top = y + 'px';
+}
+function followToastCursor(evt) {
+  const toast = document.getElementById('portoToast');
+  if (toast) positionToast(toast, evt.clientX, evt.clientY);
+}
 function setLang(l) {
   if (l === lang) return;
   lang = l;
@@ -1348,6 +1375,7 @@ window.handleOverlayClick = handleOverlayClick;
 window.setView           = setView;
 window.setDate           = setDate;
 window.setCity           = setCity;
+window.denyPorto         = denyPorto;
 window.setLang           = setLang;
 window.setSort           = setSort;
 window.addToCalendar     = addToCalendar;
