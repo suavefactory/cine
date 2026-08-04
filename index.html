@@ -3,22 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
+  <title>sesh — sessões de cinema em Lisboa e Porto</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
     :root {
       --bg:     #f5f5f2;
       --surf:   #ffffff;
       --surf2:  #e8e8e5;
-      --acc:    #7dd11a;
+      --acc:    #c4ff41;
       --ink:    #111111;
       --ink2:   #666666;
       --ink3:   #aaaaaa;
       --line:   #dedede;
+      --header-bg: #17151d;
+      --gradient: linear-gradient(90deg,
+        #bbb599 0%, #c9ab8a 5%, #e3955f 15%, #fb750a 25%, #ee663a 35%,
+        #a564a1 50%, #6732e7 65%, #4f17d0 75%, #36297b 85%, #25253a 95%, #181819 100%);
     }
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -33,25 +35,26 @@
     /* ── HEADER ── */
     header {
       position: sticky; top: 0; z-index: 100;
-      background: var(--acc);
+      background: var(--gradient);
       padding: 0 48px; height: 66px;
       display: flex; align-items: center; justify-content: space-between;
     }
     .logo { flex: 1; }
+    .logo img { height: 22px; display: block; }
     nav { display: flex; gap: 8px; }
     nav button {
       font-family: inherit; font-size: 12px; font-weight: 700;
       text-transform: uppercase; letter-spacing: 0.6px;
       padding: 9px 22px; border-radius: 0;
-      border: 2px solid var(--ink); background: none; color: var(--ink);
-      cursor: pointer; transition: background 0.15s, color 0.15s;
+      border: 2px solid rgba(245,245,242,0.7); background: none; color: #f5f5f2;
+      cursor: pointer; transition: background 0.15s, color 0.15s, border-color 0.15s;
     }
-    nav button:hover  { background: rgba(0,0,0,0.07); }
-    nav button.active { background: var(--ink); color: var(--acc); }
+    nav button:hover  { background: rgba(245,245,242,0.1); }
+    nav button.active { background: var(--acc); color: var(--header-bg); border-color: var(--acc); }
 
     /* ── DATE BAR ── */
     .date-bar {
-      background: var(--surf); border-bottom: 1px solid var(--line);
+      background: var(--gradient); border-bottom: 1px solid var(--line);
       width: 100%;
       display: flex;
       position: sticky;
@@ -60,7 +63,7 @@
     }
     .date-chip {
       flex: 1;
-      font-family: inherit; background: none; border: none;
+      font-family: inherit; background: var(--surf); border: none;
       border-right: 1px solid var(--line);
       padding: 22px 0; text-align: center;
       cursor: pointer; transition: background 0.15s;
@@ -68,7 +71,7 @@
     }
     .date-chip:last-child { border-right: none; }
     .date-chip:hover  { background: var(--surf2); color: var(--ink); }
-    .date-chip.active { background: var(--acc);   color: var(--ink); }
+    .date-chip.active { background: transparent; color: var(--bg); text-shadow: 0 1px 3px rgba(0,0,0,0.35); }
     .date-chip .dn { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 8px; }
     .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
     .date-chip .dm { display: none; }
@@ -314,26 +317,6 @@
     }
     .modal-cal-btn:hover { border-color: var(--acc); color: var(--acc); }
 
-    /* ── CINEMAS ── */
-    #cinema-map {
-      width: 100%; height: 420px; border-radius: 0; overflow: hidden;
-      margin-bottom: 48px; border: 1px solid var(--line);
-    }
-    .leaflet-popup-content-wrapper {
-      border-radius: 0 !important;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.12) !important;
-      border: 1px solid var(--line) !important;
-      font-family: 'Public Sans', sans-serif !important;
-    }
-    .leaflet-popup-tip-container { display: none; }
-    .cinema-section { margin-bottom: 56px; }
-    .cinema-header {
-      display: flex; align-items: center; gap: 12px;
-      padding: 28px 0 18px; border-bottom: 2px solid var(--ink);
-    }
-    .cinema-header .chball  { width: 10px; height: 10px; border-radius: 0; flex-shrink: 0; }
-    .cinema-header .chname  { font-size: 22px; font-weight: 800; }
-    .cinema-header .chzone  { font-size: 12px; color: var(--ink3); margin-left: auto; }
 
     /* ── EMPTY ── */
     .empty { padding: 120px 0; text-align: center; color: var(--ink3); font-size: 14px; }
@@ -341,6 +324,7 @@
     /* ── MOBILE ── */
     @media (max-width: 720px) {
       header { padding: 0 20px; height: 56px; }
+      .logo img { height: 17px; }
       nav button { padding: 7px 14px; font-size: 11px; }
       .date-bar { top: 56px; }
       .filter-bar { padding: 0; }
@@ -379,11 +363,15 @@
 <body>
 
 <header>
-  <div class="logo"></div>
+  <div class="logo">
+    <picture>
+      <source media="(max-width: 720px)" srcset="assets/brand/sesh-mark.png">
+      <img src="assets/brand/sesh-logo.png" alt="sesh">
+    </picture>
+  </div>
   <nav id="nav">
     <button onclick="setView('agenda')">Agenda</button>
     <button onclick="setView('filmes')">Filmes</button>
-    <button onclick="setView('cinemas')">Cinemas</button>
   </nav>
 </header>
 
@@ -671,7 +659,6 @@ let activeDate    = TODAY;
 let activeCity    = 'lisboa';
 let activeCinemas = new Set();
 let filmesSort    = 'data'; // 'data' | 'rating'
-let leafletMap    = null;
 
 // ── HELPERS ───────────────────────────────────────────────────────────────────
 
@@ -866,122 +853,6 @@ function renderFilmes() {
     </div>`;
 }
 
-// ── RENDER CINEMAS ────────────────────────────────────────────────────────────
-
-function initCinemaMap() {
-  if (leafletMap) { leafletMap.remove(); leafletMap = null; }
-  const el = document.getElementById('cinema-map');
-  if (!el || typeof L === 'undefined') return;
-
-  leafletMap = L.map('cinema-map', {
-    center: [38.727, -9.148],
-    zoom: 13,
-    zoomControl: true,
-    scrollWheelZoom: false,
-  });
-
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/">CARTO</a>',
-    subdomains: 'abcd',
-    maxZoom: 19,
-  }).addTo(leafletMap);
-
-  // Count total sessions per cinema
-  const sessionCounts = {};
-  for (const m of MOVIES) {
-    for (const s of m.sessions) {
-      sessionCounts[s.cinema] = (sessionCounts[s.cinema] || 0) + 1;
-    }
-  }
-
-  for (const c of CINEMAS) {
-    if (!c.lat) continue;
-    const count = sessionCounts[c.id] ?? 0;
-
-    const icon = L.divIcon({
-      className: '',
-      html: `<div style="width:16px;height:16px;border-radius:50%;background:${c.color};border:2.5px solid #fff;box-shadow:0 2px 8px rgba(0,0,0,0.25);cursor:pointer"></div>`,
-      iconSize: [16, 16],
-      iconAnchor: [8, 8],
-      popupAnchor: [0, -12],
-    });
-
-    const linkBtn = c.url
-      ? `<a href="${c.url}" target="_blank" rel="noopener"
-            style="display:inline-block;margin-top:8px;padding:5px 12px;border-radius:5px;background:${c.color};color:#fff;font-size:11px;font-weight:700;text-decoration:none;letter-spacing:0.3px">
-           Abrir site ↗
-         </a>`
-      : '';
-
-    const popupHtml = `
-      <div style="font-family:'Space Grotesk',sans-serif;padding:6px 2px;min-width:190px">
-        <div style="display:flex;align-items:center;gap:7px;margin-bottom:6px">
-          <span style="width:10px;height:10px;border-radius:50%;background:${c.color};flex-shrink:0;display:inline-block"></span>
-          <span style="font-size:14px;font-weight:700;color:#0a0a0a;line-height:1.2">${c.name}</span>
-        </div>
-        <div style="font-size:12px;color:#666;margin-bottom:4px;line-height:1.4">${c.address}</div>
-        <div style="font-size:11px;color:#999">${count > 0 ? `${count} sessões programadas` : 'Sem sessões'}</div>
-        ${linkBtn}
-      </div>`;
-
-    L.marker([c.lat, c.lng], { icon })
-      .addTo(leafletMap)
-      .bindPopup(popupHtml, { maxWidth: 260, closeButton: false });
-  }
-
-  leafletMap.invalidateSize();
-}
-
-function renderCinemas() {
-  let html = '<div id="cinema-map"></div>';
-
-  for (const c of CINEMAS) {
-    if (!cinemaOk(c.id)) continue;
-
-    let sessions = [];
-    for (const m of MOVIES) {
-      for (const s of m.sessions) {
-        if (s.cinema === c.id) sessions.push({ ...s, movie: m });
-      }
-    }
-    if (sessions.length === 0) continue;
-    sessions.sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
-
-    html += `
-      <div class="cinema-section">
-        <div class="cinema-header">
-          <span class="chball" style="background:${c.color}"></span>
-          <span class="chname">${c.name}</span>
-          <span class="chzone">${c.zone}</span>
-        </div>
-        <div class="sessions-list">
-          ${sessions.map(s => {
-            const dateObj = new Date(s.date);
-            const label = `${PT_DAYS[dateObj.getDay()]} ${dateObj.getDate()} ${PT_MONTHS[dateObj.getMonth()]}`;
-            const thumb = s.movie.poster
-              ? `<img class="sthumb" src="${s.movie.poster}" alt="" loading="lazy">`
-              : `<div class="sthumb" style="background:${s.movie.bg}"></div>`;
-            return `
-              <div class="session-row" onclick="openModal('${s.movie.id}')">
-                <span class="stime">${s.time}</span>
-                ${thumb}
-                <div class="smovie">
-                  <span class="stitle">${s.movie.title}</span>
-                  <span class="smeta">${s.movie.director ?? ''}${s.movie.year ? ' · ' + s.movie.year : ''}</span>
-                </div>
-                <div class="scinema" style="color:var(--ink3)">
-                  ${label}
-                </div>
-              </div>`;
-          }).join('')}
-        </div>
-      </div>`;
-  }
-
-  document.getElementById('main').innerHTML = html;
-  setTimeout(initCinemaMap, 0);
-}
-
 // ── MODAL ─────────────────────────────────────────────────────────────────────
 
 function normTitle(t) {
@@ -1125,10 +996,9 @@ function render() {
 
   if (activeView === 'agenda')  renderAgenda();
   if (activeView === 'filmes')  renderFilmes();
-  if (activeView === 'cinemas') renderCinemas();
 
   document.querySelectorAll('nav button').forEach((btn, i) => {
-    btn.classList.toggle('active', ['agenda','filmes','cinemas'][i] === activeView);
+    btn.classList.toggle('active', ['agenda','filmes'][i] === activeView);
   });
 }
 
@@ -1144,7 +1014,6 @@ function simplifyLabel(l) {
   return 'Sessão especial';
 }
 function setView(v) {
-  if (v !== 'cinemas' && leafletMap) { leafletMap.remove(); leafletMap = null; }
   activeView = v;
   render();
 }
