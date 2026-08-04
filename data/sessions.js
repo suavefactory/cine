@@ -1625,7 +1625,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.22,
       "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-      "country": "USA"
+      "country": "USA",
+      "title_en": "Vertigo"
     },
     {
       "id": "nimas_uma-mulher-e-uma-mulher-1961",
@@ -1808,7 +1809,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.42,
       "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
-      "country": "Sweden"
+      "country": "Sweden",
+      "title_en": "Fanny and Alexander"
     },
     {
       "id": "nimas_a-morena-ardente-1958",
@@ -2020,7 +2022,8 @@ window.CINEMA_DATA = {
       "rating": 3.92,
       "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "In the Mood for Love"
     },
     {
       "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
@@ -2227,7 +2230,8 @@ window.CINEMA_DATA = {
       "rating": 3.39,
       "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
       "country": "Germany",
-      "director_lbxd_slug": "edgar-reitz"
+      "director_lbxd_slug": "edgar-reitz",
+      "title_en": "Leibniz"
     },
     {
       "id": "nimas_noites-brancas-1957",
@@ -2642,7 +2646,8 @@ window.CINEMA_DATA = {
       "rating": 3.51,
       "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
       "country": "UK",
-      "director_lbxd_slug": "francois-truffaut"
+      "director_lbxd_slug": "francois-truffaut",
+      "title_en": "Fahrenheit 451"
     },
     {
       "id": "nimas_fallen-angels-anjos-caidos-1995",
@@ -2667,7 +2672,8 @@ window.CINEMA_DATA = {
       "rating": 4.16,
       "plot": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "Fallen Angels"
     },
     {
       "id": "nimas_a-amiga-silenciosa-2025",
@@ -2750,7 +2756,8 @@ window.CINEMA_DATA = {
       "rating": 4.21,
       "plot": "A couple travels from Hong Kong to Argentina to revive their relationship but experience turbulence when both men's lives drift in separate directions.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "Happy Together"
     },
     {
       "id": "nimas_as-ferias-do-sr-hulot-1953",
@@ -2794,7 +2801,8 @@ window.CINEMA_DATA = {
       "rating": 3.6,
       "plot": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "As Tears Go By"
     },
     {
       "id": "nimas_solaris-1972",
@@ -3043,7 +3051,8 @@ window.CINEMA_DATA = {
       "rating": 3.82,
       "plot": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "Days of Being Wild"
     },
     {
       "id": "batalha_sMcslj6qAT3F1vO1",
@@ -3142,7 +3151,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "plot": "Four friends from Calcutta who have very different personalities make a holiday excursion into the country, to a tiny village in the state of Bihar where they set themselves up in a bungalow. A series of minor events, all connected to their respective reactions to their new environment, reveals their characters more deeply.",
       "country": "India",
       "director_lbxd_slug": "satyajit-ray"
@@ -4693,7 +4702,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.0,
+      "rating": 3,
       "plot": "Bianca and her mother meet again in Porto after many years. Together, they will hit the road with their stripping show, running after lost time, impossible love and strange fantasies.",
       "country": "France",
       "director_lbxd_slug": "yann-gonzalez"

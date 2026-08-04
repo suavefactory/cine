@@ -524,12 +524,14 @@ def lbxd_fetch(slug):
     director       = director_slug_m.group(2).strip() if director_slug_m else None
     director_slug  = director_slug_m.group(1)         if director_slug_m else None
 
-    # Ano: extrai do <title> "Film Name (2025) directed by..."
-    lb_year = None
-    title_m = re.search(r'<title>[^(]*\((\d{4})\)', html)
+    # Título (inglês/internacional) + ano: extrai do <title> "Film Name (2025) directed by..."
+    lb_year  = None
+    lb_title = None
+    title_m = re.search(r'<title>([^(]*)\((\d{4})\)', html)
     if title_m:
+        lb_title = title_m.group(1).strip() or None
         try:
-            lb_year = int(title_m.group(1))
+            lb_year = int(title_m.group(2))
         except ValueError:
             pass
 
@@ -542,6 +544,7 @@ def lbxd_fetch(slug):
         "lb_director":    director,
         "lb_director_slug": director_slug,
         "lb_year":        lb_year,
+        "lb_title":       lb_title,
     }
 
 def lbxd_lookup(title, year=None, director=None):
@@ -777,6 +780,24 @@ def enrich(movies):
             movie["plot"] = lb["description"]
         elif not movie.get("plot") and omdb and omdb.get("Plot") not in (None, "N/A"):
             movie["plot"] = omdb["Plot"]
+
+        # Título inglês (para a versão EN do site): Letterboxd primeiro (mais
+        # fiável para cinema de autor/festival), fallback OMDB. Só grava se
+        # for de facto diferente do título original — evita duplicar quando
+        # o filme já está listado em inglês, ou "diferenças" que são só
+        # pontuação (aspas curvas, ano acrescentado pelo OMDB, etc.).
+        title_en = None
+        if lb and lb.get("lb_title"):
+            title_en = lb["lb_title"]
+        elif omdb and omdb.get("Title") not in (None, "N/A"):
+            title_en = omdb["Title"]
+        if title_en:
+            title_en = re.sub(r'\s*\(?\b(19|20)\d{2}\)?$', '', title_en).strip()
+            same = to_slug(title_en) == to_slug(movie.get("title", ""))
+            if title_en and not same:
+                movie["title_en"] = title_en
+            elif movie.get("title_en"):
+                del movie["title_en"]
 
         # País: Letterboxd sempre, fallback OMDB
         if lb and lb.get("country"):

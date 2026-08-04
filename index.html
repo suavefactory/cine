@@ -38,7 +38,7 @@
       position: sticky; top: 0; z-index: 100;
       background: var(--gradient);
       padding: 0 48px; height: 66px;
-      display: flex; align-items: center; justify-content: space-between;
+      display: flex; align-items: center; gap: 20px;
     }
     .logo { flex: 1; }
     .logo img { height: 22px; display: block; }
@@ -120,36 +120,35 @@
     .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
     .date-chip .dm { display: none; }
 
-    /* ── CITY BAR ── */
-    .city-bar {
-      display: flex; gap: 10px; width: 100%;
-      background: var(--bg); border-bottom: 1px solid var(--line);
-      padding: 14px 16px;
-    }
-    .city-chip {
+    /* ── HEADER CONTROLS (idioma + cidade, agora dentro do banner) ── */
+    .header-controls { display: flex; align-items: center; gap: 10px; }
+    .micro-toggle {
       position: relative; overflow: hidden;
-      flex: 1; font-family: inherit;
-      font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;
-      padding: 14px 0; text-align: center;
-      border: 1px solid var(--line); border-radius: 999px;
-      background: rgba(255,255,255,0.55);
-      -webkit-backdrop-filter: blur(10px);
-      backdrop-filter: blur(10px);
-      backdrop-filter: url(#glass-distortion) blur(4px);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.8), 0 2px 8px rgba(0,0,0,0.05);
-      color: var(--ink3); cursor: pointer;
-      transition: background 0.18s, color 0.18s, border-color 0.18s, box-shadow 0.18s;
+      display: flex; flex-direction: column;
+      border-radius: 10px;
+      border: 1px solid rgba(245,245,242,0.35);
+      background: rgba(245,245,242,0.12);
+      -webkit-backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.3), 0 4px 14px rgba(0,0,0,0.15);
     }
-    .city-chip::before {
+    .micro-toggle::before {
       content: ''; position: absolute; inset: 0;
       background-image: var(--noise); background-size: 100px 100px;
-      opacity: 0.035; mix-blend-mode: overlay; pointer-events: none;
+      opacity: 0.05; mix-blend-mode: overlay; pointer-events: none;
     }
-    .city-chip:hover:not(.active) { background: rgba(255,255,255,0.85); color: var(--ink2); }
-    .city-chip.active {
-      background: var(--acc); color: var(--ink); border-color: var(--acc);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.5), 0 4px 14px rgba(196,255,65,0.3);
+    .mt-opt {
+      position: relative; z-index: 1;
+      font-family: inherit; font-size: 10px; font-weight: 800;
+      letter-spacing: 0.8px; text-transform: uppercase;
+      padding: 4px 14px; border: none; background: none;
+      color: rgba(245,245,242,0.5);
+      cursor: pointer; line-height: 1.6;
+      transition: color 0.15s;
     }
+    .mt-opt.active { color: var(--acc); }
+    .mt-opt:hover:not(.active) { color: rgba(245,245,242,0.85); }
 
     /* ── MAIN ── */
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
@@ -367,12 +366,16 @@
 
     /* ── MOBILE ── */
     @media (max-width: 720px) {
-      header { padding: 0 20px; height: 56px; }
+      /* o header quebra para 2 linhas — logo+nav em cima, idioma/cidade
+         por baixo, sempre dentro do banner fixo (a altura é medida por JS,
+         não fixa, por isso adapta-se sozinha a este wrap) */
+      header { padding: 10px 16px; height: auto; flex-wrap: wrap; row-gap: 10px; }
+      .logo { order: 1; }
       .logo img { height: 17px; }
+      nav { order: 2; }
       nav button { padding: 7px 14px; font-size: 11px; }
-      .date-bar { top: 56px; }
-      .city-bar { padding: 10px 12px; gap: 8px; }
-      .city-chip { padding: 11px 0; font-size: 11px; letter-spacing: 1px; }
+      .header-controls { order: 3; flex-basis: 100%; justify-content: center; }
+      .mt-opt { font-size: 9px; padding: 3px 11px; }
       main { padding: 0 20px 80px; }
 
       .date-chip { padding: 12px 0; }
@@ -434,9 +437,13 @@
       <img src="assets/brand/sesh-logo.png" alt="sesh">
     </picture>
   </div>
+  <div class="header-controls">
+    <div class="micro-toggle" id="langToggle"></div>
+    <div class="micro-toggle" id="cityToggle"></div>
+  </div>
   <nav id="nav">
-    <button onclick="setView('agenda')">Agenda</button>
-    <button onclick="setView('filmes')">Filmes</button>
+    <button onclick="setView('agenda')" data-t="navAgenda">Agenda</button>
+    <button onclick="setView('filmes')" data-t="navFilmes">Filmes</button>
   </nav>
 </header>
 
@@ -457,7 +464,6 @@
 </script>
 
 <div class="date-bar" id="dateBar"></div>
-<div class="city-bar" id="cityBar"></div>
 
 <main id="main"></main>
 
@@ -476,7 +482,7 @@
       </div>
     </div>
     <div class="modal-sessions">
-      <div class="modal-sessions-title">Sessões</div>
+      <div class="modal-sessions-title" id="modalSessionsTitle">Sessões</div>
       <div id="modalSessionsList"></div>
     </div>
   </div>
@@ -723,6 +729,7 @@ let activeDate    = TODAY;
 let activeCity    = 'lisboa';
 let activeCinemas = new Set();
 let filmesSort    = 'data'; // 'data' | 'rating'
+let lang          = 'pt';  // 'pt' | 'en'
 
 // Linha (por baixo do header + date-bar fixos) que define qual o dia
 // "atual" para o scroll-spy. O clique num dia tem de aterrar bem dentro
@@ -730,10 +737,54 @@ let filmesSort    = 'data'; // 'data' | 'rating'
 // o dia anterior assim que a supressão termina.
 const STICKY_LINE_PAD = 10;
 
-// ── HELPERS ───────────────────────────────────────────────────────────────────
+// ── TRADUÇÕES ────────────────────────────────────────────────────────────────
 
-const PT_DAYS   = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
-const PT_MONTHS = ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'];
+const T = {
+  pt: {
+    pageTitle: 'sesh — sessões de cinema em Lisboa e Porto',
+    navAgenda: 'Agenda', navFilmes: 'Filmes',
+    cityLisboa: 'Lisboa', cityPorto: 'Porto',
+    today: 'Hoje',
+    noSessions: 'Sem sessões disponíveis.',
+    nowShowing: 'Em exibição',
+    sortNext: 'Próxima sessão',
+    sortRating: '★ Rating',
+    calendar: '+ Calendário',
+    sessionsTitle: 'Sessões',
+    sessionOne: 'sessão', sessionMany: 'sessões',
+    min: 'min',
+    withCompanion: 'Com acompanhamento',
+    followedByDebate: 'Seguida de debate',
+    specialSession: 'Sessão especial',
+    days:   ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'],
+    months: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
+  },
+  en: {
+    pageTitle: 'sesh — cinema showtimes in Lisbon and Porto',
+    navAgenda: 'Schedule', navFilmes: 'Movies',
+    cityLisboa: 'Lisbon', cityPorto: 'Porto',
+    today: 'Today',
+    noSessions: 'No showtimes available.',
+    nowShowing: 'Now showing',
+    sortNext: 'Next showtime',
+    sortRating: '★ Rating',
+    calendar: '+ Calendar',
+    sessionsTitle: 'Showtimes',
+    sessionOne: 'showtime', sessionMany: 'showtimes',
+    min: 'min',
+    withCompanion: 'With accompaniment',
+    followedByDebate: 'Followed by debate',
+    specialSession: 'Special screening',
+    days:   ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],
+    months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+  },
+};
+function t(key) { return T[lang][key]; }
+// Título do filme: usa a versão inglesa (title_en, vinda do OMDB em cache)
+// quando existe e estamos em EN; cai sempre para o título original.
+function movieTitle(m) { return (lang === 'en' && m.title_en) ? m.title_en : m.title; }
+
+// ── HELPERS ───────────────────────────────────────────────────────────────────
 
 function getDates() {
   const start = new Date(TODAY + 'T00:00:00');
@@ -742,9 +793,9 @@ function getDates() {
     d.setDate(start.getDate() + i);
     return {
       value:  `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`,
-      name:   PT_DAYS[d.getDay()],
+      name:   t('days')[d.getDay()],
       num:    d.getDate(),
-      month:  PT_MONTHS[d.getMonth()],
+      month:  t('months')[d.getMonth()],
       today:  i === 0
     };
   });
@@ -756,7 +807,7 @@ function movieMeta(m) {
   const parts = [];
   if (m.director) parts.push(m.director);
   if (m.year)     parts.push(m.year);
-  if (m.duration) parts.push(m.duration + 'min');
+  if (m.duration) parts.push(m.duration + t('min'));
   return parts.join(' · ') || '—';
 }
 
@@ -883,16 +934,27 @@ function onAgendaScroll() {
 }
 window.addEventListener('scroll', onAgendaScroll, { passive: true });
 
-// ── RENDER CITY BAR ───────────────────────────────────────────────────────────
+// ── RENDER HEADER CONTROLS (idioma + cidade) ────────────────────────────────
 
-function renderCityBar() {
+function renderHeaderControls() {
+  document.getElementById('langToggle').innerHTML = `
+    <button class="mt-opt ${lang === 'pt' ? 'active' : ''}" onclick="setLang('pt')">PT</button>
+    <button class="mt-opt ${lang === 'en' ? 'active' : ''}" onclick="setLang('en')">EN</button>`;
+
   const cities = [
-    { id:'lisboa', name:'Lisboa' },
-    { id:'porto',  name:'Porto'  },
+    { id: 'lisboa', name: t('cityLisboa') },
+    { id: 'porto',  name: t('cityPorto')  },
   ];
-  document.getElementById('cityBar').innerHTML =
-    cities.map(c => `<button class="city-chip ${activeCity === c.id ? 'active' : ''}"
-        onclick="setCity('${c.id}')">${c.name}</button>`).join('');
+  document.getElementById('cityToggle').innerHTML = cities.map(c => `
+    <button class="mt-opt ${activeCity === c.id ? 'active' : ''}" onclick="setCity('${c.id}')">${c.name}</button>`).join('');
+
+  document.querySelectorAll('#nav [data-t]').forEach(btn => {
+    btn.textContent = t(btn.dataset.t);
+  });
+  const sessionsTitleEl = document.getElementById('modalSessionsTitle');
+  if (sessionsTitleEl) sessionsTitleEl.textContent = t('sessionsTitle');
+  document.title = t('pageTitle');
+  document.documentElement.lang = lang;
 }
 
 
@@ -915,9 +977,9 @@ function renderAgenda() {
     html += `
       <div class="agenda-day" data-date="${d.value}">
         <div class="day-header">
-          <span class="dname">${d.today ? 'Hoje' : d.name}</span>
+          <span class="dname">${d.today ? t('today') : d.name}</span>
           <span class="ddate">${d.num} ${d.month}</span>
-          <span class="dcount">${sessions.length} ${sessions.length === 1 ? 'sessão' : 'sessões'}</span>
+          <span class="dcount">${sessions.length} ${sessions.length === 1 ? t('sessionOne') : t('sessionMany')}</span>
         </div>
         <div class="sessions-list">
           ${sessions.map(s => {
@@ -930,8 +992,8 @@ function renderAgenda() {
                 <span class="stime">${s.time}</span>
                 ${thumb}
                 <div class="smovie">
-                  <span class="stitle">${s.movie.title}</span>
-                  <span class="smeta">${s.movie.director ?? ''}${s.movie.year ? ' · ' + s.movie.year : ''}${s.movie.duration ? ' · ' + s.movie.duration + 'min' : ''}</span>
+                  <span class="stitle">${movieTitle(s.movie)}</span>
+                  <span class="smeta">${s.movie.director ?? ''}${s.movie.year ? ' · ' + s.movie.year : ''}${s.movie.duration ? ' · ' + s.movie.duration + t('min') : ''}</span>
                   ${(() => {
                     const tags = [];
                     if (s.movie.festival) tags.push(`<span class="special-tag">${s.movie.festival}</span>`);
@@ -946,7 +1008,7 @@ function renderAgenda() {
       </div>`;
   }
 
-  document.getElementById('main').innerHTML = html || '<div class="empty">Sem sessões disponíveis.</div>';
+  document.getElementById('main').innerHTML = html || `<div class="empty">${t('noSessions')}</div>`;
 }
 
 // ── RENDER FILMES ─────────────────────────────────────────────────────────────
@@ -979,10 +1041,10 @@ function renderFilmes() {
   document.getElementById('main').style.padding = '';
   document.getElementById('main').innerHTML = `
     <div class="films-header">
-      <span class="films-header-title">Em exibição</span>
+      <span class="films-header-title">${t('nowShowing')}</span>
       <div class="films-sort">
-        <button class="sort-btn ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">Próxima sessão</button>
-        <button class="sort-btn ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">★ Rating</button>
+        <button class="sort-btn ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">${t('sortNext')}</button>
+        <button class="sort-btn ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">${t('sortRating')}</button>
       </div>
     </div>
     <div class="movies-grid">
@@ -992,12 +1054,12 @@ function renderFilmes() {
             <div class="poster-bg" style="${m.poster
               ? `background:url('${m.poster}') center/cover no-repeat`
               : `background:${m.bg}`}">
-              ${m.poster ? '' : `<div class="poster-overlay"></div><span class="poster-title">${m.title}</span>`}
+              ${m.poster ? '' : `<div class="poster-overlay"></div><span class="poster-title">${movieTitle(m)}</span>`}
             </div>
             ${m.rating ? `<span class="poster-rating">★ ${m.rating.toFixed(1)}</span>` : ''}
           </div>
           <div class="movie-foot">
-            <div class="film-foot-title">${m.title}</div>
+            <div class="film-foot-title">${movieTitle(m)}</div>
             ${m.director ? `<div class="film-foot-dir">${m.director}</div>` : ''}
             <div class="genres">
               ${m.festival ? `<span class="special-tag">${m.festival}</span>` : ''}
@@ -1010,8 +1072,8 @@ function renderFilmes() {
 
 // ── MODAL ─────────────────────────────────────────────────────────────────────
 
-function normTitle(t) {
-  return (t || '').toLowerCase()
+function normTitle(str) {
+  return (str || '').toLowerCase()
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim();
 }
@@ -1023,13 +1085,13 @@ function openModal(id) {
   // Poster
   const posterEl = document.getElementById('modalPoster');
   if (m.poster) {
-    posterEl.innerHTML = `<img src="${m.poster}" alt="${m.title}">`;
+    posterEl.innerHTML = `<img src="${m.poster}" alt="${movieTitle(m)}">`;
   } else {
     posterEl.innerHTML = `<div class="modal-poster-fallback" style="background:${m.bg}"></div>`;
   }
 
   // Título e meta
-  document.getElementById('modalTitle').textContent = m.title;
+  document.getElementById('modalTitle').textContent = movieTitle(m);
   document.getElementById('modalMeta').textContent = movieMeta(m);
 
   // País + Géneros + Rating + Festival (badges em linha)
@@ -1064,11 +1126,11 @@ function openModal(id) {
   document.getElementById('modalSessionsList').innerHTML = sessions.map(s => {
     const d = new Date(s.date + 'T00:00:00');
     const label = s.date === TODAY
-      ? `Hoje`
-      : `${PT_DAYS[d.getDay()]} ${d.getDate()} ${PT_MONTHS[d.getMonth()]}`;
+      ? t('today')
+      : `${t('days')[d.getDay()]} ${d.getDate()} ${t('months')[d.getMonth()]}`;
     const c = cinema(s.cinema);
     const esc = v => JSON.stringify(String(v ?? '')).replace(/"/g, '&quot;');
-    const calArgs = [esc(m.title), esc(s.date), esc(s.time), m.duration||120, esc(c.name??s.cinema), esc(c.address??'')].join(',');
+    const calArgs = [esc(movieTitle(m)), esc(s.date), esc(s.time), m.duration||120, esc(c.name??s.cinema), esc(c.address??'')].join(',');
     const slabels = (s.labels ?? []).map(l => `<span class="modal-slabel">${l}</span>`).join('');
     return `
       <div class="modal-session-row">
@@ -1078,7 +1140,7 @@ function openModal(id) {
           <span class="modal-scinema" style="color:${c.color ?? '#888'}">${c.name ?? s.cinema}</span>
           ${slabels}
         </div>
-        <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">+ Calendário</button>
+        <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">${t('calendar')}</button>
       </div>`;
   }).join('');
 
@@ -1145,8 +1207,12 @@ function render() {
   // zero, o que parte o cálculo do clip-path da faixa do gradiente.
   document.getElementById('dateBar').style.display = activeView === 'agenda' ? 'flex' : 'none';
 
+  renderHeaderControls();
+  // altura do header calculada, não fixa — no mobile o header pode
+  // quebrar para 2 linhas (idioma/cidade), o que muda a sua altura real.
+  document.getElementById('dateBar').style.top = document.querySelector('header').offsetHeight + 'px';
+
   renderDateBar();
-  renderCityBar();
 
   document.getElementById('main').style.padding = '';
 
@@ -1165,14 +1231,16 @@ function render() {
 
 function simplifyLabel(l) {
   if (l.length <= 38) return l;
-  if (/^com acompanhamento/i.test(l))        return 'Com acompanhamento';
-  if (/^sessão com acompanhamento/i.test(l)) return 'Com acompanhamento';
+  if (/^com acompanhamento/i.test(l))        return t('withCompanion');
+  if (/^sessão com acompanhamento/i.test(l)) return t('withCompanion');
+  // "com a presença de X" vem do texto original scraped (em PT) — o nome
+  // próprio não é traduzível, por isso mantém-se tal como está mesmo em EN.
   const m = l.match(/^(com a presen[çc]a d[eo]\s+\S+)/i);
   if (m) return m[1];
-  if (/^seguida de debate/i.test(l))   return 'Seguida de debate';
+  if (/^seguida de debate/i.test(l))   return t('followedByDebate');
   if (/^conversa com\b/i.test(l))      return l.slice(0, 35).trimEnd() + '…';
   if (/^sess[ãa]o com\b/i.test(l))     return l.slice(0, 35).trimEnd() + '…';
-  return 'Sessão especial';
+  return t('specialSession');
 }
 function setView(v) {
   activeView = v;
@@ -1222,6 +1290,11 @@ function setCity(city) {
   activeCinemas = new Set();
   render();
 }
+function setLang(l) {
+  if (l === lang) return;
+  lang = l;
+  render();
+}
 
 // Expõe funções chamadas por onclick no HTML estático e nos templates gerados
 window.openModal         = openModal;
@@ -1230,6 +1303,7 @@ window.handleOverlayClick = handleOverlayClick;
 window.setView           = setView;
 window.setDate           = setDate;
 window.setCity           = setCity;
+window.setLang           = setLang;
 window.setSort           = setSort;
 window.addToCalendar     = addToCalendar;
 
