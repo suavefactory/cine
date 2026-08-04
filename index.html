@@ -728,100 +728,80 @@ function renderDateBar() {
         <span class="dm">${d.month}</span>
       </button>
     `).join('');
-  updateDateIndicator();
+  syncIndicatorToScroll();
 }
 
-// Posiciona a faixa do gradiente sobre a data ativa com um efeito de "wipe":
-// a margem no sentido da viagem estica primeiro até ao destino (a faixa
-// alarga, passando visualmente por todos os dias entre o antigo e o novo),
-// depois a outra margem apanha-a e a faixa encolhe até à largura do dia
-// final. Tudo controlado por JS (não por transition do CSS) porque o
-// innerHTML da date-bar é recriado a cada render — um <div> novo não tem
-// "posição anterior" nenhuma de onde o CSS possa animar sozinho.
-let indicatorPos = null;
-let indicatorRAF = null;
-function updateDateIndicator() {
+function chipRect(bar, barRect, date) {
+  const chip = bar.querySelector(`.date-chip[data-date="${date}"]`);
+  if (!chip) return null;
+  const r = chip.getBoundingClientRect();
+  return { left: r.left - barRect.left, right: barRect.right - r.right };
+}
+
+// Sem posição de scroll para se apoiar (fora da agenda, ou agenda sem
+// sessões) — mostra a faixa direto sobre o chip ativo, sem interpolar.
+function positionIndicatorStatic() {
   const bar = document.getElementById('dateBar');
   const indicator = document.getElementById('dateIndicator');
-  const chip = bar && bar.querySelector('.date-chip.active');
-  if (!bar || !indicator || !chip) return;
-
-  const barRect  = bar.getBoundingClientRect();
-  const chipRect = chip.getBoundingClientRect();
-  const left  = Math.round(chipRect.left  - barRect.left);
-  const right = Math.round(barRect.right  - chipRect.right);
-
-  if (indicatorRAF) cancelAnimationFrame(indicatorRAF);
-
-  if (!indicatorPos) {
-    // primeira posição: aparece direto, sem wipe (não há de onde vir)
-    indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
-    indicatorPos = { left, right };
-    return;
-  }
-
-  const from = indicatorPos;
-  const movingRight = left > from.left;
-  const duration = 600;
-  const easeOut = t => 1 - Math.pow(1 - t, 3);
-  const easeIn  = t => t * t;
-  const startTime = performance.now();
-
-  function step(now) {
-    const t = Math.min(1, (now - startTime) / duration);
-    // fase de avanço (0 → 0.55): a margem "da frente" estica até ao destino
-    // fase de alcance (0.45 → 1): a margem "de trás" apanha-a
-    const leadT  = Math.min(1, t / 0.55);
-    const trailT = Math.max(0, (t - 0.45) / 0.55);
-    let l, r;
-    if (movingRight) {
-      r = from.right + (right - from.right) * easeOut(leadT);
-      l = from.left  + (left  - from.left)  * easeIn(trailT);
-    } else {
-      l = from.left  + (left  - from.left)  * easeOut(leadT);
-      r = from.right + (right - from.right) * easeIn(trailT);
-    }
-    indicator.style.clipPath = `inset(0 ${r}px 0 ${l}px)`;
-    if (t < 1) {
-      indicatorRAF = requestAnimationFrame(step);
-    } else {
-      indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
-      indicatorRAF = null;
-    }
-  }
-  indicatorRAF = requestAnimationFrame(step);
-  indicatorPos = { left, right };
+  if (!bar || !indicator) return;
+  const r = chipRect(bar, bar.getBoundingClientRect(), activeDate);
+  if (r) indicator.style.clipPath = `inset(0 ${r.right}px 0 ${r.left}px)`;
 }
 
-// Atualização leve (sem re-render completo) usada pelo scroll-spy da agenda.
-function setActiveDateLight(dateValue) {
-  if (dateValue === activeDate) return;
-  activeDate = dateValue;
-  document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
-    chip.classList.toggle('active', chip.dataset.date === dateValue);
-  });
-  updateDateIndicator();
-}
+// A faixa do gradiente é uma função direta da posição de scroll — sem
+// duração fixa, sem easing próprio — tal como o traço do Skiper19 segue o
+// scrollYProgress. Entre o dia A (mais próximo, acima) e o dia B (a seguir,
+// abaixo), interpola a janela do clip-path linearmente conforme avanças
+// entre os dois. Serve tanto o scroll manual como o scroll animado ao
+// clicar numa data — os dois passam pelo mesmo evento 'scroll'.
+let scrollSyncTicking = false;
+function syncIndicatorToScroll() {
+  if (activeView !== 'agenda') { positionIndicatorStatic(); return; }
 
-let suppressScrollSpy = false;
-let scrollSpyTicking = false;
+  const bar = document.getElementById('dateBar');
+  const days = document.querySelectorAll('.agenda-day');
+  if (!bar || !days.length) { positionIndicatorStatic(); return; }
+
+  const hdr  = document.querySelector('header');
+  const line = (hdr ? hdr.offsetHeight : 0) + bar.offsetHeight + STICKY_LINE_PAD;
+  const scrollY = window.scrollY;
+
+  const triggers = Array.from(days, d => d.getBoundingClientRect().top + scrollY - line);
+  let i = 0;
+  while (i < days.length - 1 && scrollY >= triggers[i + 1]) i++;
+
+  const barRect = bar.getBoundingClientRect();
+  const curRect = chipRect(bar, barRect, days[i].dataset.date);
+  if (!curRect) return;
+  let left = curRect.left, right = curRect.right;
+  let nearestDate = days[i].dataset.date;
+
+  if (i < days.length - 1) {
+    const span = triggers[i + 1] - triggers[i];
+    const t = span > 0 ? Math.min(1, Math.max(0, (scrollY - triggers[i]) / span)) : 0;
+    const nextRect = chipRect(bar, barRect, days[i + 1].dataset.date);
+    if (nextRect) {
+      left  = curRect.left  + (nextRect.left  - curRect.left)  * t;
+      right = curRect.right + (nextRect.right - curRect.right) * t;
+      if (t > 0.5) nearestDate = days[i + 1].dataset.date;
+    }
+  }
+
+  document.getElementById('dateIndicator').style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
+
+  if (nearestDate !== activeDate) {
+    activeDate = nearestDate;
+    document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
+      chip.classList.toggle('active', chip.dataset.date === nearestDate);
+    });
+  }
+}
 function onAgendaScroll() {
-  if (activeView !== 'agenda' || suppressScrollSpy) return;
-  if (scrollSpyTicking) return;
-  scrollSpyTicking = true;
+  if (scrollSyncTicking) return;
+  scrollSyncTicking = true;
   requestAnimationFrame(() => {
-    scrollSpyTicking = false;
-    const days = document.querySelectorAll('.agenda-day');
-    if (!days.length) return;
-    const hdr  = document.querySelector('header');
-    const dbar = document.getElementById('dateBar');
-    const line = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0) + STICKY_LINE_PAD;
-    let current = days[0];
-    for (const day of days) {
-      if (day.getBoundingClientRect().top - line <= 0) current = day;
-      else break;
-    }
-    setActiveDateLight(current.dataset.date);
+    scrollSyncTicking = false;
+    syncIndicatorToScroll();
   });
 }
 window.addEventListener('scroll', onAgendaScroll, { passive: true });
@@ -1097,14 +1077,16 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal()
 // ── DISPATCH ──────────────────────────────────────────────────────────────────
 
 function render() {
+  // o display tem de ser acertado antes de renderDateBar() medir a barra —
+  // um elemento display:none devolve um getBoundingClientRect() todo a
+  // zero, o que parte o cálculo do clip-path da faixa do gradiente.
+  document.getElementById('dateBar').style.display = activeView === 'agenda' ? 'flex' : 'none';
+
   renderDateBar();
   renderCityBar();
   renderFilterBar();
 
   document.getElementById('main').style.padding = '';
-
-  const datebar = document.getElementById('dateBar');
-  datebar.style.display = activeView === 'agenda' ? 'flex' : 'none';
 
   if (activeView === 'agenda')  renderAgenda();
   if (activeView === 'filmes')  renderFilmes();
@@ -1132,34 +1114,41 @@ function setView(v) {
 // Duração fixa independente da distância — um salto do dia 4 para o dia 15
 // não pode demorar mais do que ir para o dia 5 (o scroll nativo "smooth" do
 // browser escala com a distância, o que fica lento demais em listas longas).
+// A faixa do gradiente não precisa de ser avisada disto: syncIndicatorToScroll
+// corre a cada frame deste scroll (é só mais um 'scroll' event) e vai
+// interpolando sozinha por todos os dias pelo meio, até ao dia final.
 function animateScrollTo(targetY, duration = 550) {
   const startY = window.scrollY;
   const delta = targetY - startY;
-  if (Math.abs(delta) < 2) { suppressScrollSpy = false; return; }
+  if (Math.abs(delta) < 2) return;
   const startTime = performance.now();
   const ease = t => 1 - Math.pow(1 - t, 3); // easeOutCubic
   function step(now) {
     const t = Math.min(1, (now - startTime) / duration);
     window.scrollTo({ top: startY + delta * ease(t), left: 0, behavior: 'instant' });
     if (t < 1) requestAnimationFrame(step);
-    else suppressScrollSpy = false;
   }
   requestAnimationFrame(step);
 }
 
 function setDate(d) {
-  activeDate = d;
   activeView = 'agenda';
   render();
   requestAnimationFrame(() => {
     const el = document.querySelector(`.agenda-day[data-date="${d}"]`);
-    if (!el) return;
+    if (!el) {
+      // sem sessões nesse dia — não há para onde fazer scroll, mostra já selecionado
+      activeDate = d;
+      document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
+        chip.classList.toggle('active', chip.dataset.date === d);
+      });
+      positionIndicatorStatic();
+      return;
+    }
     const hdr = document.querySelector('header');
     const dbar = document.querySelector('.date-bar');
     const stickyH = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0);
-    suppressScrollSpy = true;
-    // aterra bem dentro da zona "ativa" do scroll-spy (STICKY_LINE_PAD), não
-    // só perto dela — caso contrário o scroll-spy corrige de volta ao soltar
+    // aterra bem dentro da zona "ativa" (STICKY_LINE_PAD), não só perto dela
     animateScrollTo(el.offsetTop - stickyH - (STICKY_LINE_PAD - 4));
   });
 }
