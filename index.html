@@ -60,6 +60,7 @@
       position: sticky;
       top: 66px;
       z-index: 99;
+      isolation: isolate; /* contém o mix-blend-mode dos números dentro da barra */
     }
     .date-indicator {
       position: absolute; inset: 0;
@@ -79,7 +80,11 @@
     }
     .date-chip:last-child { border-right: none; }
     .date-chip:hover  { background: var(--surf2); color: var(--ink); }
-    .date-chip.active { background: transparent; color: var(--bg); text-shadow: 0 1px 3px rgba(0,0,0,0.35); }
+    /* .active aqui = "já coberto pelo preenchimento" (pode ser vários chips
+       ao mesmo tempo, não só um). mix-blend-mode em vez de uma cor fixa
+       porque o preenchimento passa por tons claros (creme) e escuros
+       (quase-preto) do mesmo gradiente — uma única cor não lia bem nos dois. */
+    .date-chip.active { background: transparent; color: #fff; mix-blend-mode: difference; }
     .date-chip .dn { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 8px; }
     .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
     .date-chip .dm { display: none; }
@@ -738,22 +743,34 @@ function chipRect(bar, barRect, date) {
   return { left: r.left - barRect.left, right: barRect.right - r.right };
 }
 
+// Marca .active em todos os chips até (inclusive) à data dada — o
+// preenchimento é contínuo desde o início da barra, por isso o destaque
+// tem de cobrir tudo o que já foi "passado", não só um chip isolado.
+function markFilledUpTo(date) {
+  document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
+    chip.classList.toggle('active', chip.dataset.date <= date);
+  });
+}
+
 // Sem posição de scroll para se apoiar (fora da agenda, ou agenda sem
-// sessões) — mostra a faixa direto sobre o chip ativo, sem interpolar.
+// sessões) — preenche direto até ao chip ativo, sem interpolar.
 function positionIndicatorStatic() {
   const bar = document.getElementById('dateBar');
   const indicator = document.getElementById('dateIndicator');
   if (!bar || !indicator) return;
   const r = chipRect(bar, bar.getBoundingClientRect(), activeDate);
-  if (r) indicator.style.clipPath = `inset(0 ${r.right}px 0 ${r.left}px)`;
+  if (r) indicator.style.clipPath = `inset(0 ${r.right}px 0 0px)`;
+  markFilledUpTo(activeDate);
 }
 
 // A faixa do gradiente é uma função direta da posição de scroll — sem
 // duração fixa, sem easing próprio — tal como o traço do Skiper19 segue o
-// scrollYProgress. Entre o dia A (mais próximo, acima) e o dia B (a seguir,
-// abaixo), interpola a janela do clip-path linearmente conforme avanças
-// entre os dois. Serve tanto o scroll manual como o scroll animado ao
-// clicar numa data — os dois passam pelo mesmo evento 'scroll'.
+// scrollYProgress. É uma barra de progresso contínua ancorada no início
+// (esquerda sempre a 0): só a margem direita avança, do dia A (mais
+// próximo, acima) até ao dia B (a seguir, abaixo), conforme scrollas entre
+// os dois — nunca "salta" para uma janela nova. Serve tanto o scroll
+// manual como o scroll animado ao clicar numa data — os dois passam pelo
+// mesmo evento 'scroll'.
 let scrollSyncTicking = false;
 function syncIndicatorToScroll() {
   if (activeView !== 'agenda') { positionIndicatorStatic(); return; }
@@ -773,7 +790,7 @@ function syncIndicatorToScroll() {
   const barRect = bar.getBoundingClientRect();
   const curRect = chipRect(bar, barRect, days[i].dataset.date);
   if (!curRect) return;
-  let left = curRect.left, right = curRect.right;
+  let right = curRect.right;
   let nearestDate = days[i].dataset.date;
 
   if (i < days.length - 1) {
@@ -781,20 +798,15 @@ function syncIndicatorToScroll() {
     const t = span > 0 ? Math.min(1, Math.max(0, (scrollY - triggers[i]) / span)) : 0;
     const nextRect = chipRect(bar, barRect, days[i + 1].dataset.date);
     if (nextRect) {
-      left  = curRect.left  + (nextRect.left  - curRect.left)  * t;
       right = curRect.right + (nextRect.right - curRect.right) * t;
       if (t > 0.5) nearestDate = days[i + 1].dataset.date;
     }
   }
 
-  document.getElementById('dateIndicator').style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
+  document.getElementById('dateIndicator').style.clipPath = `inset(0 ${right}px 0 0px)`;
 
-  if (nearestDate !== activeDate) {
-    activeDate = nearestDate;
-    document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
-      chip.classList.toggle('active', chip.dataset.date === nearestDate);
-    });
-  }
+  activeDate = nearestDate;
+  markFilledUpTo(nearestDate);
 }
 function onAgendaScroll() {
   if (scrollSyncTicking) return;
@@ -1139,9 +1151,6 @@ function setDate(d) {
     if (!el) {
       // sem sessões nesse dia — não há para onde fazer scroll, mostra já selecionado
       activeDate = d;
-      document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
-        chip.classList.toggle('active', chip.dataset.date === d);
-      });
       positionIndicatorStatic();
       return;
     }
