@@ -102,33 +102,18 @@
     /* ── CITY BAR ── */
     .city-bar {
       display: flex; width: 100%;
-      background: var(--bg); border-bottom: 2px solid var(--line);
+      background: var(--surf); border-bottom: 1px solid var(--line);
     }
     .city-chip {
       flex: 1; font-family: inherit;
-      font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;
-      padding: 16px 0; text-align: center;
-      background: none; border: none; border-right: 1px solid var(--line);
-      color: var(--ink2); cursor: pointer; transition: background 0.12s, color 0.12s;
+      font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;
+      padding: 20px 0; text-align: center;
+      background: none; border: none; border-radius: 0;
+      color: var(--ink3); cursor: pointer;
+      transition: background 0.18s, color 0.18s;
     }
-    .city-chip:last-child { border-right: none; }
-    .city-chip.active { background: var(--ink); color: var(--acc); }
-
-    /* ── FILTER BAR ── */
-    .filter-bar {
-      display: flex; width: 100%;
-      background: var(--surf); border-bottom: 1px solid var(--line);
-    }
-    .cinema-chip {
-      flex: 1; font-family: inherit;
-      font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.7px;
-      padding: 18px 0; text-align: center;
-      background: none; border: none; border-right: 1px solid var(--line);
-      color: var(--ink2); cursor: pointer; transition: background 0.12s, color 0.12s;
-    }
-    .cinema-chip:last-child { border-right: none; }
-    .cinema-chip:hover { color: var(--ink); }
-    .cinema-chip.active { color: #000; border-right-color: transparent; }
+    .city-chip:hover:not(.active) { background: var(--surf2); color: var(--ink2); }
+    .city-chip.active { background: var(--acc); color: var(--ink); }
 
     /* ── MAIN ── */
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
@@ -350,7 +335,6 @@
       .logo img { height: 17px; }
       nav button { padding: 7px 14px; font-size: 11px; }
       .date-bar { top: 56px; }
-      .filter-bar { padding: 0; }
       main { padding: 0 20px 80px; }
 
       .date-chip { padding: 12px 0; }
@@ -416,7 +400,6 @@
 
 <div class="date-bar" id="dateBar"></div>
 <div class="city-bar" id="cityBar"></div>
-<div class="filter-bar" id="filterBar"></div>
 
 <main id="main"></main>
 
@@ -854,20 +837,6 @@ function renderCityBar() {
         onclick="setCity('${c.id}')">${c.name}</button>`).join('');
 }
 
-// ── RENDER FILTER BAR ─────────────────────────────────────────────────────────
-
-function renderFilterBar() {
-  const activeCinemaIds = new Set(MOVIES.flatMap(m => m.sessions.map(s => s.cinema)));
-  const visibleCinemas  = CINEMAS.filter(c => activeCinemaIds.has(c.id) && c.city === activeCity);
-
-  document.getElementById('filterBar').innerHTML =
-    visibleCinemas.map(c => {
-      const on = activeCinemas.has(c.id);
-      return `<button class="cinema-chip ${on ? 'active' : ''}"
-                style="${on ? `background:${c.color}` : ''}"
-                onclick="toggleCinema('${c.id}')">${c.short}</button>`;
-    }).join('');
-}
 
 // ── RENDER AGENDA ─────────────────────────────────────────────────────────────
 
@@ -1120,7 +1089,6 @@ function render() {
 
   renderDateBar();
   renderCityBar();
-  renderFilterBar();
 
   document.getElementById('main').style.padding = '';
 
@@ -1196,10 +1164,6 @@ function setCity(city) {
   activeCinemas = new Set();
   render();
 }
-function toggleCinema(id) {
-  activeCinemas.has(id) ? activeCinemas.delete(id) : activeCinemas.add(id);
-  render();
-}
 
 // Expõe funções chamadas por onclick no HTML estático e nos templates gerados
 window.openModal         = openModal;
@@ -1208,7 +1172,6 @@ window.handleOverlayClick = handleOverlayClick;
 window.setView           = setView;
 window.setDate           = setDate;
 window.setCity           = setCity;
-window.toggleCinema      = toggleCinema;
 window.setSort           = setSort;
 window.addToCalendar     = addToCalendar;
 
