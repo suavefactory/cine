@@ -729,7 +729,7 @@ def enrich(movies):
             lb   = cache[key].get("lbxd")
             omdb = cache[key].get("omdb")
             # Re-fetch from LB if cached entry is missing new fields
-            if lb is not None and ("description" not in lb or "country" not in lb):
+            if lb is not None and ("description" not in lb or "country" not in lb or "lb_title" not in lb):
                 print(f"  [LB+] {title}...", end=" ", flush=True)
                 lb_new = lbxd_lookup(title, year)
                 if lb_new:
