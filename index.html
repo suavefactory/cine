@@ -47,7 +47,9 @@
       position: relative; overflow: hidden;
       font-family: inherit; font-size: 12px; font-weight: 700;
       text-transform: uppercase; letter-spacing: 0.6px;
-      padding: 10px 24px; border-radius: 999px;
+      /* largura fixa (cabe "schedule", a tradução mais longa) para o botão
+         não mudar de tamanho e empurrar os outros ao trocar de idioma */
+      padding: 10px 12px; min-width: 122px; text-align: center; border-radius: 999px;
       border: 1px solid rgba(245,245,242,0.35);
       background: rgba(245,245,242,0.12);
       /* fallback simples primeiro (Safari não segue bem filtros SVG aqui);
@@ -381,7 +383,7 @@
       .logo { order: 1; }
       .logo img { height: 17px; }
       nav { order: 2; }
-      nav button { padding: 7px 14px; font-size: 11px; }
+      nav button { padding: 7px 10px; font-size: 11px; min-width: 92px; }
       .header-controls { order: 3; flex-basis: 100%; justify-content: center; gap: 20px; }
       .depth-toggle--lang { width: 22px; }
       .depth-toggle--city { width: 62px; }
