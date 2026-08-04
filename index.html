@@ -69,22 +69,28 @@
       pointer-events: none;
       z-index: 0;
     }
+    /* O fundo é sempre transparente — é a faixa (.date-indicator) por baixo
+       que pinta, contínua, sem interrupções por chip. O texto usa
+       mix-blend-mode em vez de uma cor fixa porque por baixo tanto pode
+       estar o creme claro do início do gradiente, o quase-preto do fim, ou
+       o branco da barra (dias ainda por encher) — uma cor só não lia bem
+       nos três. Antes disto, cada chip só ficava transparente depois de
+       "passado" (>50%), o que fazia o preenchimento parecer aos saltos em
+       vez de contínuo — por isso ficou sempre transparente.
+    */
     .date-chip {
       position: relative; z-index: 1;
       flex: 1;
-      font-family: inherit; background: var(--surf); border: none;
+      font-family: inherit; background: transparent; border: none;
       border-right: 1px solid var(--line);
       padding: 22px 0; text-align: center;
       cursor: pointer; transition: background 0.15s;
-      color: var(--ink2);
+      color: #fff;
+      mix-blend-mode: difference;
     }
     .date-chip:last-child { border-right: none; }
-    .date-chip:hover  { background: var(--surf2); color: var(--ink); }
-    /* .active aqui = "já coberto pelo preenchimento" (pode ser vários chips
-       ao mesmo tempo, não só um). mix-blend-mode em vez de uma cor fixa
-       porque o preenchimento passa por tons claros (creme) e escuros
-       (quase-preto) do mesmo gradiente — uma única cor não lia bem nos dois. */
-    .date-chip.active { background: transparent; color: #fff; mix-blend-mode: difference; }
+    /* hover não pode ser opaco — tapava a faixa do gradiente por baixo */
+    .date-chip:hover { background: rgba(0,0,0,0.08); }
     .date-chip .dn { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 8px; }
     .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
     .date-chip .dm { display: none; }
@@ -725,7 +731,7 @@ function renderDateBar() {
   document.getElementById('dateBar').innerHTML =
     '<div class="date-indicator" id="dateIndicator"></div>' +
     getDates().map(d => `
-      <button class="date-chip ${d.value === activeDate ? 'active' : ''}"
+      <button class="date-chip"
               data-date="${d.value}"
               onclick="setDate('${d.value}')">
         <span class="dn">${d.name}</span>
@@ -743,15 +749,6 @@ function chipRect(bar, barRect, date) {
   return { left: r.left - barRect.left, right: barRect.right - r.right };
 }
 
-// Marca .active em todos os chips até (inclusive) à data dada — o
-// preenchimento é contínuo desde o início da barra, por isso o destaque
-// tem de cobrir tudo o que já foi "passado", não só um chip isolado.
-function markFilledUpTo(date) {
-  document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
-    chip.classList.toggle('active', chip.dataset.date <= date);
-  });
-}
-
 // Sem posição de scroll para se apoiar (fora da agenda, ou agenda sem
 // sessões) — preenche direto até ao chip ativo, sem interpolar.
 function positionIndicatorStatic() {
@@ -760,7 +757,6 @@ function positionIndicatorStatic() {
   if (!bar || !indicator) return;
   const r = chipRect(bar, bar.getBoundingClientRect(), activeDate);
   if (r) indicator.style.clipPath = `inset(0 ${r.right}px 0 0px)`;
-  markFilledUpTo(activeDate);
 }
 
 // A faixa do gradiente é uma função direta da posição de scroll — sem
@@ -804,9 +800,7 @@ function syncIndicatorToScroll() {
   }
 
   document.getElementById('dateIndicator').style.clipPath = `inset(0 ${right}px 0 0px)`;
-
   activeDate = nearestDate;
-  markFilledUpTo(nearestDate);
 }
 function onAgendaScroll() {
   if (scrollSyncTicking) return;
