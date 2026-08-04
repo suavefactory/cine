@@ -54,14 +54,23 @@
 
     /* ── DATE BAR ── */
     .date-bar {
-      background: var(--gradient); border-bottom: 1px solid var(--line);
+      background: var(--surf); border-bottom: 1px solid var(--line);
       width: 100%;
       display: flex;
       position: sticky;
       top: 66px;
       z-index: 99;
     }
+    .date-indicator {
+      position: absolute; inset: 0;
+      background: var(--gradient);
+      clip-path: inset(0 100% 0 0);
+      transition: clip-path 0.45s cubic-bezier(.65,0,.35,1);
+      pointer-events: none;
+      z-index: 0;
+    }
     .date-chip {
+      position: relative; z-index: 1;
       flex: 1;
       font-family: inherit; background: var(--surf); border: none;
       border-right: 1px solid var(--line);
@@ -704,15 +713,84 @@ function sessionCount(movie) {
 
 function renderDateBar() {
   document.getElementById('dateBar').innerHTML =
+    '<div class="date-indicator" id="dateIndicator"></div>' +
     getDates().map(d => `
       <button class="date-chip ${d.value === activeDate ? 'active' : ''}"
+              data-date="${d.value}"
               onclick="setDate('${d.value}')">
         <span class="dn">${d.name}</span>
         <span class="dd">${d.num}</span>
         <span class="dm">${d.month}</span>
       </button>
     `).join('');
+  updateDateIndicator(true);
 }
+
+// Posiciona a faixa do gradiente sobre a data ativa.
+// justRebuilt=true só depois de renderDateBar() recriar o innerHTML — nesse
+// caso o elemento é novo e precisa de "saltar" para a posição anterior antes
+// de animar (FLIP), senão o browser não tem posição nenhuma de onde partir.
+// Nas atualizações do scroll-spy o elemento já existe, por isso basta mudar
+// o alvo e deixar a transição do CSS tratar do resto — repetir o salto aqui
+// interrompia a animação a cada tick de scroll.
+let indicatorPos = null;
+function updateDateIndicator(justRebuilt) {
+  const bar = document.getElementById('dateBar');
+  const indicator = document.getElementById('dateIndicator');
+  const chip = bar && bar.querySelector('.date-chip.active');
+  if (!bar || !indicator || !chip) return;
+
+  const barRect  = bar.getBoundingClientRect();
+  const chipRect = chip.getBoundingClientRect();
+  const left  = Math.round(chipRect.left  - barRect.left);
+  const right = Math.round(barRect.right  - chipRect.right);
+
+  if (justRebuilt && indicatorPos) {
+    indicator.style.transition = 'none';
+    indicator.style.clipPath = `inset(0 ${indicatorPos.right}px 0 ${indicatorPos.left}px)`;
+    void indicator.offsetWidth; // força reflow antes de reativar a transição
+    indicator.style.transition = '';
+    requestAnimationFrame(() => {
+      indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
+    });
+  } else {
+    indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
+  }
+  indicatorPos = { left, right };
+}
+
+// Atualização leve (sem re-render completo) usada pelo scroll-spy da agenda.
+function setActiveDateLight(dateValue) {
+  if (dateValue === activeDate) return;
+  activeDate = dateValue;
+  document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
+    chip.classList.toggle('active', chip.dataset.date === dateValue);
+  });
+  updateDateIndicator(false);
+}
+
+let suppressScrollSpy = false;
+let scrollSpyTicking = false;
+function onAgendaScroll() {
+  if (activeView !== 'agenda' || suppressScrollSpy) return;
+  if (scrollSpyTicking) return;
+  scrollSpyTicking = true;
+  requestAnimationFrame(() => {
+    scrollSpyTicking = false;
+    const days = document.querySelectorAll('.agenda-day');
+    if (!days.length) return;
+    const hdr  = document.querySelector('header');
+    const dbar = document.getElementById('dateBar');
+    const line = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0) + 4;
+    let current = days[0];
+    for (const day of days) {
+      if (day.getBoundingClientRect().top - line <= 0) current = day;
+      else break;
+    }
+    setActiveDateLight(current.dataset.date);
+  });
+}
+window.addEventListener('scroll', onAgendaScroll, { passive: true });
 
 // ── RENDER CITY BAR ───────────────────────────────────────────────────────────
 
@@ -1017,6 +1095,24 @@ function setView(v) {
   activeView = v;
   render();
 }
+// Duração fixa independente da distância — um salto do dia 4 para o dia 15
+// não pode demorar mais do que ir para o dia 5 (o scroll nativo "smooth" do
+// browser escala com a distância, o que fica lento demais em listas longas).
+function animateScrollTo(targetY, duration = 550) {
+  const startY = window.scrollY;
+  const delta = targetY - startY;
+  if (Math.abs(delta) < 2) { suppressScrollSpy = false; return; }
+  const startTime = performance.now();
+  const ease = t => 1 - Math.pow(1 - t, 3); // easeOutCubic
+  function step(now) {
+    const t = Math.min(1, (now - startTime) / duration);
+    window.scrollTo({ top: startY + delta * ease(t), left: 0, behavior: 'instant' });
+    if (t < 1) requestAnimationFrame(step);
+    else suppressScrollSpy = false;
+  }
+  requestAnimationFrame(step);
+}
+
 function setDate(d) {
   activeDate = d;
   activeView = 'agenda';
@@ -1027,7 +1123,8 @@ function setDate(d) {
     const hdr = document.querySelector('header');
     const dbar = document.querySelector('.date-bar');
     const stickyH = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0);
-    window.scrollTo(0, el.offsetTop - stickyH - 8);
+    suppressScrollSpy = true;
+    animateScrollTo(el.offsetTop - stickyH - 8);
   });
 }
 function setSort(s)  { filmesSort = s; renderFilmes(); }
