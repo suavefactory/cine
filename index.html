@@ -60,7 +60,6 @@
       position: sticky;
       top: 66px;
       z-index: 99;
-      isolation: isolate; /* contém o mix-blend-mode dos números dentro da barra */
     }
     .date-indicator {
       position: absolute; inset: 0;
@@ -69,26 +68,31 @@
       pointer-events: none;
       z-index: 0;
     }
+    /* Traços entre dias — só existem para separar no branco por preencher;
+       ficam por baixo do preenchimento (clip inverso ao da faixa), por isso
+       desaparecem naturalmente à medida que o gradiente os cobre. */
+    .date-dividers {
+      position: absolute; inset: 0;
+      background-image: repeating-linear-gradient(to right,
+        var(--line), var(--line) 1px, transparent 1px, transparent calc(100% / 12));
+      clip-path: inset(0 0 0 0);
+      pointer-events: none;
+      z-index: 0;
+    }
     /* O fundo é sempre transparente — é a faixa (.date-indicator) por baixo
-       que pinta, contínua, sem interrupções por chip. O texto usa
-       mix-blend-mode em vez de uma cor fixa porque por baixo tanto pode
-       estar o creme claro do início do gradiente, o quase-preto do fim, ou
-       o branco da barra (dias ainda por encher) — uma cor só não lia bem
-       nos três. Antes disto, cada chip só ficava transparente depois de
-       "passado" (>50%), o que fazia o preenchimento parecer aos saltos em
-       vez de contínuo — por isso ficou sempre transparente.
-    */
+       que pinta, contínua, sem interrupções por chip. */
     .date-chip {
       position: relative; z-index: 1;
       flex: 1;
       font-family: inherit; background: transparent; border: none;
-      border-right: 1px solid var(--line);
       padding: 22px 0; text-align: center;
       cursor: pointer; transition: background 0.15s;
-      color: #fff;
-      mix-blend-mode: difference;
+      color: var(--ink2);
     }
-    .date-chip:last-child { border-right: none; }
+    /* .filled = já coberto pelo preenchimento; .current = o dia selecionado,
+       mesmo que o preenchimento ainda não lá tenha chegado (senão não havia
+       nenhum sinal de qual é o dia atual logo a seguir a um clique/salto). */
+    .date-chip.filled, .date-chip.current { color: var(--acc); text-shadow: 0 1px 2px rgba(0,0,0,0.35); }
     /* hover não pode ser opaco — tapava a faixa do gradiente por baixo */
     .date-chip:hover { background: rgba(0,0,0,0.08); }
     .date-chip .dn { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 8px; }
@@ -730,6 +734,7 @@ function sessionCount(movie) {
 function renderDateBar() {
   document.getElementById('dateBar').innerHTML =
     '<div class="date-indicator" id="dateIndicator"></div>' +
+    '<div class="date-dividers" id="dateDividers"></div>' +
     getDates().map(d => `
       <button class="date-chip"
               data-date="${d.value}"
@@ -749,14 +754,36 @@ function chipRect(bar, barRect, date) {
   return { left: r.left - barRect.left, right: barRect.right - r.right };
 }
 
+// Aplica a margem direita da faixa a tudo o que depende dela: a própria
+// faixa, os traços entre dias (clip inverso — só aparecem onde a faixa
+// ainda não chegou) e a cor de cada número (verde se já coberto pela faixa,
+// ou se for o dia selecionado — mesmo que a faixa ainda não lá tenha
+// chegado, para nunca ficar sem nenhum sinal de qual é o dia atual).
+function applyFill(right) {
+  const bar = document.getElementById('dateBar');
+  if (!bar) return;
+  const barRect = bar.getBoundingClientRect();
+  const fillEdge = barRect.width - right;
+
+  document.getElementById('dateIndicator').style.clipPath = `inset(0 ${right}px 0 0px)`;
+  const dividers = document.getElementById('dateDividers');
+  if (dividers) dividers.style.clipPath = `inset(0 0 0 ${fillEdge}px)`;
+
+  bar.querySelectorAll('.date-chip').forEach(chip => {
+    const r = chip.getBoundingClientRect();
+    const center = r.left - barRect.left + r.width / 2;
+    chip.classList.toggle('filled', center <= fillEdge);
+    chip.classList.toggle('current', chip.dataset.date === activeDate);
+  });
+}
+
 // Sem posição de scroll para se apoiar (fora da agenda, ou agenda sem
 // sessões) — preenche direto até ao chip ativo, sem interpolar.
 function positionIndicatorStatic() {
   const bar = document.getElementById('dateBar');
-  const indicator = document.getElementById('dateIndicator');
-  if (!bar || !indicator) return;
+  if (!bar) return;
   const r = chipRect(bar, bar.getBoundingClientRect(), activeDate);
-  if (r) indicator.style.clipPath = `inset(0 ${r.right}px 0 0px)`;
+  if (r) applyFill(r.right);
 }
 
 // A faixa do gradiente é uma função direta da posição de scroll — sem
@@ -800,8 +827,8 @@ function syncIndicatorToScroll() {
     right = prevRight + (curRect.right - prevRight) * t;
   }
 
-  document.getElementById('dateIndicator').style.clipPath = `inset(0 ${right}px 0 0px)`;
   activeDate = days[i].dataset.date;
+  applyFill(right);
 }
 function onAgendaScroll() {
   if (scrollSyncTicking) return;
