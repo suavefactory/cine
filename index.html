@@ -120,36 +120,33 @@
     .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
     .date-chip .dm { display: none; }
 
-    /* ── HEADER CONTROLS (idioma + cidade, agora dentro do banner) ── */
-    .header-controls { display: flex; align-items: center; gap: 10px; }
-    .micro-toggle {
-      position: relative; overflow: hidden;
-      display: flex; flex-direction: column;
-      border-radius: 10px;
-      border: 1px solid rgba(245,245,242,0.35);
-      background: rgba(245,245,242,0.12);
-      -webkit-backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.3), 0 4px 14px rgba(0,0,0,0.15);
+    /* ── HEADER CONTROLS (idioma + cidade, agora dentro do banner) ──
+       Toggle "de profundidade": a opção ativa fica à frente (grande, nítida);
+       a inativa fica atrás dela, mais pequena e a espreitar por baixo. Clicar
+       troca qual das duas está à frente — sempre os MESMOS dois elementos no
+       DOM (nunca recriados), só a mudar de classe, por isso a transição do
+       CSS anima sozinha, sem saltos, tal como a faixa de datas. */
+    .header-controls { display: flex; align-items: center; gap: 26px; }
+    .depth-toggle { position: relative; cursor: pointer; height: 20px; }
+    .depth-toggle--lang { width: 28px; }
+    .depth-toggle--city { width: 80px; }
+    .dt-opt {
+      position: absolute; left: 0; top: 0; width: 100%; height: 100%;
+      display: flex; align-items: center; gap: 4px;
+      font-family: inherit; font-weight: 800; letter-spacing: 0.4px;
+      text-transform: uppercase; font-size: 15px;
+      background: none; border: none; padding: 0; margin: 0;
+      cursor: pointer; white-space: nowrap;
+      transform-origin: left center;
+      transition: transform 0.45s cubic-bezier(.22,.9,.32,1), opacity 0.4s ease, color 0.3s ease;
     }
-    .micro-toggle::before {
-      content: ''; position: absolute; inset: 0;
-      background-image: var(--noise); background-size: 100px 100px;
-      opacity: 0.05; mix-blend-mode: overlay; pointer-events: none;
-    }
-    .mt-opt {
-      position: relative; z-index: 1;
-      font-family: inherit; font-size: 10px; font-weight: 800;
-      letter-spacing: 0.8px; text-transform: uppercase;
-      padding: 4px 14px; border: none; background: none;
-      color: rgba(245,245,242,0.5);
-      cursor: pointer; line-height: 1.6;
-      transition: color 0.15s;
-    }
-    .mt-opt.active { color: var(--acc); }
-    .mt-opt:hover:not(.active) { color: rgba(245,245,242,0.85); }
-    .soon-dot { display: inline-block; width: 4px; height: 4px; margin-left: 4px; margin-bottom: 4px; border-radius: 50%; background: var(--acc); }
+    /* pointer-events:none na ativa — ocupa a caixa toda (100%x100%) antes do
+       transform, senão tapava sempre a inativa e o toggle ficava impossível
+       de clicar de volta */
+    .dt-opt.active { z-index: 2; color: var(--acc); transform: scale(1) translateY(0); opacity: 1; pointer-events: none; }
+    .dt-opt:not(.active) { z-index: 1; color: rgba(245,245,242,0.55); transform: scale(0.6) translateY(9px); opacity: 0.6; pointer-events: auto; }
+    .dt-opt:not(.active):hover { color: rgba(245,245,242,0.85); }
+    .soon-dot { display: inline-block; width: 4px; height: 4px; border-radius: 50%; background: var(--acc); flex-shrink: 0; }
 
     /* ── MAIN ── */
     main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
@@ -385,8 +382,10 @@
       .logo img { height: 17px; }
       nav { order: 2; }
       nav button { padding: 7px 14px; font-size: 11px; }
-      .header-controls { order: 3; flex-basis: 100%; justify-content: center; }
-      .mt-opt { font-size: 9px; padding: 3px 11px; }
+      .header-controls { order: 3; flex-basis: 100%; justify-content: center; gap: 20px; }
+      .depth-toggle--lang { width: 22px; }
+      .depth-toggle--city { width: 62px; }
+      .dt-opt { font-size: 12px; }
       main { padding: 0 20px 80px; }
 
       .date-chip { padding: 12px 0; }
@@ -449,8 +448,14 @@
     </picture>
   </div>
   <div class="header-controls">
-    <div class="micro-toggle" id="langToggle"></div>
-    <div class="micro-toggle" id="cityToggle"></div>
+    <div class="depth-toggle depth-toggle--lang" id="langToggle">
+      <button class="dt-opt active" data-val="pt" onclick="setLang('pt')">PT</button>
+      <button class="dt-opt" data-val="en" onclick="setLang('en')">EN</button>
+    </div>
+    <div class="depth-toggle depth-toggle--city" id="cityToggle">
+      <button class="dt-opt active" data-val="lisboa" onclick="setCity('lisboa')"><span class="dt-label"></span></button>
+      <button class="dt-opt" data-val="porto" onclick="setCity('porto')"><span class="dt-label"></span><i class="soon-dot"></i></button>
+    </div>
   </div>
   <nav id="nav">
     <button onclick="setView('agenda')" data-t="navAgenda">Agenda</button>
@@ -954,18 +959,17 @@ window.addEventListener('scroll', onAgendaScroll, { passive: true });
 // ── RENDER HEADER CONTROLS (idioma + cidade) ────────────────────────────────
 
 function renderHeaderControls() {
-  document.getElementById('langToggle').innerHTML = `
-    <button class="mt-opt ${lang === 'pt' ? 'active' : ''}" onclick="setLang('pt')">PT</button>
-    <button class="mt-opt ${lang === 'en' ? 'active' : ''}" onclick="setLang('en')">EN</button>`;
-
-  const cities = [
-    { id: 'lisboa', name: t('cityLisboa') },
-    { id: 'porto',  name: t('cityPorto'), soon: true },
-  ];
-  document.getElementById('cityToggle').innerHTML = cities.map(c => `
-    <button class="mt-opt ${activeCity === c.id ? 'active' : ''}" onclick="setCity('${c.id}')" title="${c.soon ? t('comingSoonBadge') : ''}">
-      ${c.name}${c.soon ? '<i class="soon-dot"></i>' : ''}
-    </button>`).join('');
+  // Os botões já existem no HTML estático (para a animação de profundidade
+  // ser uma transição CSS entre dois elementos fixos, não um "recriar do
+  // zero" a cada render — senão não há de onde o browser animar).
+  document.querySelectorAll('#langToggle .dt-opt').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.val === lang);
+  });
+  document.querySelectorAll('#cityToggle .dt-opt').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.val === activeCity);
+    btn.querySelector('.dt-label').textContent = btn.dataset.val === 'lisboa' ? t('cityLisboa') : t('cityPorto');
+    if (btn.dataset.val === 'porto') btn.title = t('comingSoonBadge');
+  });
 
   document.querySelectorAll('#nav [data-t]').forEach(btn => {
     btn.textContent = t(btn.dataset.t);
