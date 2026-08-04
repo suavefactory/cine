@@ -36442,5 +36442,20 @@
       "lb_year": 1962
     },
     "omdb": null
+  },
+  "The Trip (Director’s Cut)|1967": {
+    "lbxd": {
+      "rating": 3.33,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/4/7/37747-the-trip-0-500-0-750-crop.jpg?v=8a4cc26c24",
+      "description": "After his wife leaves him, a disillusioned director dives into the drug scene, trying anything his friend suggests.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Roger Corman",
+      "lb_director_slug": "roger-corman",
+      "lb_year": 1967
+    },
+    "omdb": null
   }
 }
