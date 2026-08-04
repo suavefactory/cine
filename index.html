@@ -1147,6 +1147,7 @@ function openModal(id) {
   const seen = new Set();
   const sessions = allSessions
     .filter(s => {
+      if (!cinemaOk(s.cinema)) return false; // respeita a cidade ativa (Porto em pausa)
       const k = s.date + s.time + s.cinema;
       if (seen.has(k)) return false;
       seen.add(k);
