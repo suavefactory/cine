@@ -2,8 +2,10 @@ name: Atualizar sessões
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # todos os dias às 08:00 UTC = 09:00 Lisboa (verão)
-  workflow_dispatch:        # permite correr manualmente no GitHub
+    - cron: '0 8 * * *'    # 08:00 UTC = 09:00 Lisboa (verão) — corrida principal, scraper completo
+    - cron: '10 8 * * *'   # 08:10 UTC — só reprocessa o enriquecimento (filmes ainda sem rating)
+    - cron: '20 8 * * *'   # 08:20 UTC — 2ª tentativa igual, para apanhar falhas transitórias
+  workflow_dispatch:        # permite correr manualmente no GitHub (corre sempre o scraper completo)
 
 jobs:
   scrape:
@@ -22,13 +24,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Correr scraper
+      - name: Correr scraper completo (sessões + enriquecimento)
+        if: github.event.schedule != '10 8 * * *' && github.event.schedule != '20 8 * * *'
         run: python3 scrapers/run.py
+
+      - name: Tentar de novo só o enriquecimento (filmes ainda sem rating)
+        if: github.event.schedule == '10 8 * * *' || github.event.schedule == '20 8 * * *'
+        run: python3 scrapers/enricher.py
 
       - name: Commit e push se houver alterações
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/sessions.js data/omdb_cache.json
-          git diff --cached --quiet || git commit -m "chore: atualizar sessões $(date -u '+%Y-%m-%d')"
+          git add data/sessions.js data/omdb_cache.json data/wiki_director_cache.json
+          git diff --cached --quiet || git commit -m "chore: atualizar sessões $(date -u '+%Y-%m-%d %H:%M')"
           git push
