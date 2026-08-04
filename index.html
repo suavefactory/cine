@@ -65,7 +65,6 @@
       position: absolute; inset: 0;
       background: var(--gradient);
       clip-path: inset(0 100% 0 0);
-      transition: clip-path 0.45s cubic-bezier(.65,0,.35,1);
       pointer-events: none;
       z-index: 0;
     }
@@ -669,6 +668,12 @@ let activeCity    = 'lisboa';
 let activeCinemas = new Set();
 let filmesSort    = 'data'; // 'data' | 'rating'
 
+// Linha (por baixo do header + date-bar fixos) que define qual o dia
+// "atual" para o scroll-spy. O clique num dia tem de aterrar bem dentro
+// desta zona — não só "perto" — senão o scroll-spy corrige de volta para
+// o dia anterior assim que a supressão termina.
+const STICKY_LINE_PAD = 10;
+
 // ── HELPERS ───────────────────────────────────────────────────────────────────
 
 const PT_DAYS   = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
@@ -723,18 +728,19 @@ function renderDateBar() {
         <span class="dm">${d.month}</span>
       </button>
     `).join('');
-  updateDateIndicator(true);
+  updateDateIndicator();
 }
 
-// Posiciona a faixa do gradiente sobre a data ativa.
-// justRebuilt=true só depois de renderDateBar() recriar o innerHTML — nesse
-// caso o elemento é novo e precisa de "saltar" para a posição anterior antes
-// de animar (FLIP), senão o browser não tem posição nenhuma de onde partir.
-// Nas atualizações do scroll-spy o elemento já existe, por isso basta mudar
-// o alvo e deixar a transição do CSS tratar do resto — repetir o salto aqui
-// interrompia a animação a cada tick de scroll.
+// Posiciona a faixa do gradiente sobre a data ativa com um efeito de "wipe":
+// a margem no sentido da viagem estica primeiro até ao destino (a faixa
+// alarga, passando visualmente por todos os dias entre o antigo e o novo),
+// depois a outra margem apanha-a e a faixa encolhe até à largura do dia
+// final. Tudo controlado por JS (não por transition do CSS) porque o
+// innerHTML da date-bar é recriado a cada render — um <div> novo não tem
+// "posição anterior" nenhuma de onde o CSS possa animar sozinho.
 let indicatorPos = null;
-function updateDateIndicator(justRebuilt) {
+let indicatorRAF = null;
+function updateDateIndicator() {
   const bar = document.getElementById('dateBar');
   const indicator = document.getElementById('dateIndicator');
   const chip = bar && bar.querySelector('.date-chip.active');
@@ -745,17 +751,45 @@ function updateDateIndicator(justRebuilt) {
   const left  = Math.round(chipRect.left  - barRect.left);
   const right = Math.round(barRect.right  - chipRect.right);
 
-  if (justRebuilt && indicatorPos) {
-    indicator.style.transition = 'none';
-    indicator.style.clipPath = `inset(0 ${indicatorPos.right}px 0 ${indicatorPos.left}px)`;
-    void indicator.offsetWidth; // força reflow antes de reativar a transição
-    indicator.style.transition = '';
-    requestAnimationFrame(() => {
-      indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
-    });
-  } else {
+  if (indicatorRAF) cancelAnimationFrame(indicatorRAF);
+
+  if (!indicatorPos) {
+    // primeira posição: aparece direto, sem wipe (não há de onde vir)
     indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
+    indicatorPos = { left, right };
+    return;
   }
+
+  const from = indicatorPos;
+  const movingRight = left > from.left;
+  const duration = 600;
+  const easeOut = t => 1 - Math.pow(1 - t, 3);
+  const easeIn  = t => t * t;
+  const startTime = performance.now();
+
+  function step(now) {
+    const t = Math.min(1, (now - startTime) / duration);
+    // fase de avanço (0 → 0.55): a margem "da frente" estica até ao destino
+    // fase de alcance (0.45 → 1): a margem "de trás" apanha-a
+    const leadT  = Math.min(1, t / 0.55);
+    const trailT = Math.max(0, (t - 0.45) / 0.55);
+    let l, r;
+    if (movingRight) {
+      r = from.right + (right - from.right) * easeOut(leadT);
+      l = from.left  + (left  - from.left)  * easeIn(trailT);
+    } else {
+      l = from.left  + (left  - from.left)  * easeOut(leadT);
+      r = from.right + (right - from.right) * easeIn(trailT);
+    }
+    indicator.style.clipPath = `inset(0 ${r}px 0 ${l}px)`;
+    if (t < 1) {
+      indicatorRAF = requestAnimationFrame(step);
+    } else {
+      indicator.style.clipPath = `inset(0 ${right}px 0 ${left}px)`;
+      indicatorRAF = null;
+    }
+  }
+  indicatorRAF = requestAnimationFrame(step);
   indicatorPos = { left, right };
 }
 
@@ -766,7 +800,7 @@ function setActiveDateLight(dateValue) {
   document.querySelectorAll('#dateBar .date-chip').forEach(chip => {
     chip.classList.toggle('active', chip.dataset.date === dateValue);
   });
-  updateDateIndicator(false);
+  updateDateIndicator();
 }
 
 let suppressScrollSpy = false;
@@ -781,7 +815,7 @@ function onAgendaScroll() {
     if (!days.length) return;
     const hdr  = document.querySelector('header');
     const dbar = document.getElementById('dateBar');
-    const line = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0) + 4;
+    const line = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0) + STICKY_LINE_PAD;
     let current = days[0];
     for (const day of days) {
       if (day.getBoundingClientRect().top - line <= 0) current = day;
@@ -1124,7 +1158,9 @@ function setDate(d) {
     const dbar = document.querySelector('.date-bar');
     const stickyH = (hdr ? hdr.offsetHeight : 0) + (dbar ? dbar.offsetHeight : 0);
     suppressScrollSpy = true;
-    animateScrollTo(el.offsetTop - stickyH - 8);
+    // aterra bem dentro da zona "ativa" do scroll-spy (STICKY_LINE_PAD), não
+    // só perto dela — caso contrário o scroll-spy corrige de volta ao soltar
+    animateScrollTo(el.offsetTop - stickyH - (STICKY_LINE_PAD - 4));
   });
 }
 function setSort(s)  { filmesSort = s; renderFilmes(); }
