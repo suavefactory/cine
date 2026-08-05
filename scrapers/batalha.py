@@ -45,6 +45,22 @@ def get_str(obj, key):
     return unescape(re.sub(r"<[^>]+>", "", str(val or ""))).strip()
 
 
+def get_text(obj, key, lang):
+    """Como get_str mas para campos de texto longo numa língua específica.
+
+    A BndLyr guarda a versão portuguesa em "all" e a inglesa em "en", e o
+    conteúdo vem em HTML — ao contrário de get_str, aqui as tags de bloco
+    passam a quebras de linha em vez de desaparecerem e colarem palavras.
+    """
+    val = obj.get(key, "") if isinstance(obj, dict) else ""
+    if isinstance(val, dict):
+        val = val.get(lang) or (val.get("all") if lang == "pt" else "") or ""
+    s = re.sub(r"(?i)<br\s*/?>|</p>|</div>", "\n", str(val or ""))
+    s = unescape(re.sub(r"<[^>]+>", "", s))
+    s = re.sub(r"[ \t]+", " ", s)
+    return re.sub(r"\n{2,}", "\n", s).strip()
+
+
 def fetch_sessions():
     """Chama o BndLyr repeater API e devolve items + related."""
     payload = {
@@ -158,6 +174,17 @@ def scrape():
         slug   = get_str(film, "_slug") or fid.replace("_", "-")
         link   = f"{BASE_URL}/filmes/{slug}"
 
+        # A API já traz o título original e a sinopse em português e inglês —
+        # o título original é o que o Letterboxd e o IMDb indexam (o Batalha
+        # lista muito filme com o título traduzido), e a sinopse do cinema é
+        # a da programação oficial, melhor do que qualquer aproximação.
+        original_title = get_str(film, "text_original_title") or None
+        if original_title and original_title.lower() == title.lower():
+            original_title = None
+        plot_pt = get_text(film, "text_sinopse", "pt") or None
+        plot_en = get_text(film, "text_sinopse", "en") or None
+        country = get_str(film, "text_productioncountry1") or None
+
         # Deduplica sessões
         seen, unique = set(), []
         for s in entry["sessions"]:
@@ -168,7 +195,7 @@ def scrape():
         unique.sort(key=lambda s: (s["date"], s["time"]))
 
         print(f"  → {title} ({director}, {year}, {duration}min) — {len(unique)} sessão(ões)")
-        movies.append({
+        movie = {
             "id":       f"batalha_{fid}",
             "title":    title,
             "director": director,
@@ -178,7 +205,12 @@ def scrape():
             "genres":   [],
             "link":     link,
             "sessions": unique,
-        })
+        }
+        if original_title: movie["original_title"] = original_title
+        if plot_pt:        movie["plot_pt"]        = plot_pt
+        if plot_en:        movie["plot"]           = plot_en
+        if country:        movie["country"]        = country
+        movies.append(movie)
 
     print(f"[Batalha] {len(movies)} filmes encontrados.")
     return movies

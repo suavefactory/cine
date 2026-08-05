@@ -770,5 +770,477 @@
   "John Wilson": {
     "photo": null,
     "bio": "John Wilson may refer to:"
+  },
+  "Michael Curtiz": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Curtiz_1928_portrait.jpg/500px-Curtiz_1928_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Michael Curtiz (; born Manó Kaminer; from 1905 Mihály Kertész; Hungarian: Kertész Mihály; December 25, 1886 –  April 10, 1962) was a Hungarian and American film director, recognized as one of the most prolific directors in history. He directed classic films from the silent era and numerous others during\nHollywood's Golden Age, when the studio system was prevalent. Curtiz was already a well-known director in Europe when Warner Bros."
+  },
+  "Mike Nichols": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/500px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Mike Nichols (born Igor Mikhail Peschkowsky; November 6, 1931 – November 19, 2014) was an American film and theatre director and comedian. He worked across a range of genres and had an aptitude for getting the best out of actors regardless of their experience. He is one of 28 people to have won all four of the major American entertainment awards: Emmy, Grammy, Oscar, and Tony (EGOT)."
+  },
+  "Laszlo Benedek": {
+    "photo": null,
+    "bio": "László Benedek (Hungarian pronunciation: [ˈlaːsloː ˈbɛnɛdɛk]; March 5, 1905 – March 11, 1992; sometimes Laslo Benedek) was a Hungarian-born film director and cinematographer, most notable for directing The Wild One (1953). He gained recognition for his direction of the film version of Death of a Salesman (1951), for which he won the Golden Globe Award for Best Director and a Best Director nomination from the Directors Guild of America. However, it was for his directorial efforts on his next project that Benedek is best remembered."
+  },
+  "Elia Kazan": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Elias Kazantzoglou (Greek: Ηλίας Καζαντζόγλου, IPA: [iˈli.as kazanˈdzoɣlu]; September 7, 1909 – September 28, 2003), known as Elia Kazan ( EE-lee-ə kə-ZAN), was a Greek-American film and theatre director, producer, screenwriter and actor, described by The New York Times as \"one of the most honored and influential directors in Broadway and Hollywood history\". Born in Constantinople (now Istanbul) to Cappadocian Greek parents, his family came to the United States in 1913. After attending Williams College and then the Yale School of Drama, he acted professionally for eight years, later joining the Group Theatre in 1932, and co-founded the Actors Studio in 1947."
+  },
+  "Robert Rossen": {
+    "photo": null,
+    "bio": "Robert Rossen (March 16, 1908 – February 18, 1966) was an American screenwriter, film director, and producer whose film career spanned almost three decades. His 1949 film All the King's Men won Oscars for Best Picture, Best Actor and Best Supporting Actress, while Rossen was nominated for the Academy Award for Best Director. He won the Golden Globe for Best Director and the film won the Golden Globe Award for Best Picture."
+  },
+  "Robert Wise, Jerome Robbins": {
+    "photo": null,
+    "bio": null
+  },
+  "Richard Brooks": {
+    "photo": null,
+    "bio": null
+  },
+  "Robert Mulligan": {
+    "photo": null,
+    "bio": null
+  },
+  "Milos Forman": {
+    "photo": null,
+    "bio": null
+  },
+  "Roger Corman": {
+    "photo": null,
+    "bio": null
+  },
+  "Peter Bogdanovich": {
+    "photo": null,
+    "bio": null
+  },
+  "Agnès Varda": {
+    "photo": null,
+    "bio": null
+  },
+  "Paul Newman": {
+    "photo": null,
+    "bio": null
+  },
+  "Jacques Rozier": {
+    "photo": null,
+    "bio": null
+  },
+  "Claude Chabrol": {
+    "photo": null,
+    "bio": null
+  },
+  "Maryam Touzani": {
+    "photo": null,
+    "bio": null
+  },
+  "Gregg Araki": {
+    "photo": null,
+    "bio": null
+  },
+  "Robert Bresson": {
+    "photo": null,
+    "bio": null
+  },
+  "Les Demoiselles ont eu 25 ans": {
+    "photo": null,
+    "bio": null
+  },
+  "Jacques Tati": {
+    "photo": null,
+    "bio": null
+  },
+  "Sophie Letourneur": {
+    "photo": null,
+    "bio": null
+  },
+  "Alfred Hitchcock": {
+    "photo": null,
+    "bio": null
+  },
+  "Nicholas Ray": {
+    "photo": null,
+    "bio": null
+  },
+  "Roberto Rossellini": {
+    "photo": null,
+    "bio": null
+  },
+  "Jean-Pierre Melville": {
+    "photo": null,
+    "bio": null
+  },
+  "Leo McCarey": {
+    "photo": null,
+    "bio": null
+  },
+  "Stanley Kubrick": {
+    "photo": null,
+    "bio": null
+  },
+  "Wong Kar Wai": {
+    "photo": null,
+    "bio": null
+  },
+  "Edgar Reitz": {
+    "photo": null,
+    "bio": null
+  },
+  "Jacques Rivette": {
+    "photo": null,
+    "bio": null
+  },
+  "Agnés Varda": {
+    "photo": null,
+    "bio": null
+  },
+  "Leonardo Di Costanzo": {
+    "photo": null,
+    "bio": null
+  },
+  "Martin Ritt": {
+    "photo": null,
+    "bio": null
+  },
+  "David Lean": {
+    "photo": null,
+    "bio": null
+  },
+  "François Truffaut": {
+    "photo": null,
+    "bio": null
+  },
+  "Ildikó Enyedi": {
+    "photo": null,
+    "bio": null
+  },
+  "Sidney Lumet": {
+    "photo": null,
+    "bio": null
+  },
+  "Gordon Douglas": {
+    "photo": null,
+    "bio": null
+  },
+  "Ilker Çatak": {
+    "photo": null,
+    "bio": null
+  },
+  "Orson Welles": {
+    "photo": null,
+    "bio": null
+  },
+  "Guy Maddin": {
+    "photo": null,
+    "bio": null
+  },
+  "Dorothy Arzner": {
+    "photo": null,
+    "bio": null
+  },
+  "Satyajit Ray": {
+    "photo": null,
+    "bio": null
+  },
+  "Juanita Onzaga": {
+    "photo": null,
+    "bio": null
+  },
+  "José Magro": {
+    "photo": null,
+    "bio": null
+  },
+  "Matilde Camacho": {
+    "photo": null,
+    "bio": null
+  },
+  "João Niza Ribeiro": {
+    "photo": null,
+    "bio": null
+  },
+  "Maria Novo": {
+    "photo": null,
+    "bio": null
+  },
+  "Kaneto Shindō": {
+    "photo": null,
+    "bio": null
+  },
+  "Participantes da Oficina de Animação": {
+    "photo": null,
+    "bio": null
+  },
+  "Don Bluth": {
+    "photo": null,
+    "bio": null
+  },
+  "Miloš Forman": {
+    "photo": null,
+    "bio": null
+  },
+  "Shirin Neshat": {
+    "photo": null,
+    "bio": null
+  },
+  "Satoshi Kon": {
+    "photo": null,
+    "bio": null
+  },
+  "Jerry Zucker": {
+    "photo": null,
+    "bio": null
+  },
+  "Sérgio Graciano": {
+    "photo": null,
+    "bio": null
+  },
+  "Todd Solondz": {
+    "photo": null,
+    "bio": null
+  },
+  "Luís Galvão Teles": {
+    "photo": null,
+    "bio": null
+  },
+  "José María Martín Sarmiento": {
+    "photo": null,
+    "bio": null
+  },
+  "Adam Khalil, Bayley Sweitzer": {
+    "photo": null,
+    "bio": null
+  },
+  "Jacques Tourneur": {
+    "photo": null,
+    "bio": null
+  },
+  "Sky Hopinka": {
+    "photo": null,
+    "bio": null
+  },
+  "Courtney Stephens": {
+    "photo": null,
+    "bio": null
+  },
+  "Francisco Moura Relvas e Rita Senra": {
+    "photo": null,
+    "bio": null
+  },
+  "Hayao Miyazaki": {
+    "photo": null,
+    "bio": null
+  },
+  "James Bidgood": {
+    "photo": null,
+    "bio": null
+  },
+  "Helena Girón e Samuel Delgado": {
+    "photo": null,
+    "bio": null
+  },
+  "Francisca Manuel": {
+    "photo": null,
+    "bio": null
+  },
+  "Macu Machín": {
+    "photo": null,
+    "bio": null
+  },
+  "Andrea Arnold": {
+    "photo": null,
+    "bio": null
+  },
+  "Jean Anouilh": {
+    "photo": null,
+    "bio": null
+  },
+  "David Pantaleón": {
+    "photo": null,
+    "bio": null
+  },
+  "Jaione Camborda": {
+    "photo": null,
+    "bio": null
+  },
+  "Eloy Enciso": {
+    "photo": null,
+    "bio": null
+  },
+  "Kōji Morimoto, Tensai Okamura e Katsuhiro Ōtomo": {
+    "photo": null,
+    "bio": null
+  },
+  "Matías Piñeiro": {
+    "photo": null,
+    "bio": null
+  },
+  "Barry Sonnenfeld": {
+    "photo": null,
+    "bio": null
+  },
+  "Stanley Schtinter": {
+    "photo": null,
+    "bio": null
+  },
+  "Adriana Assunção": {
+    "photo": null,
+    "bio": null
+  },
+  "Manuel Costa e Silva": {
+    "photo": null,
+    "bio": null
+  },
+  "Mariana Caló e Francisco Queimadela": {
+    "photo": null,
+    "bio": null
+  },
+  "Manoel de Oliveira": {
+    "photo": null,
+    "bio": null
+  },
+  "Karrabing Film Collective": {
+    "photo": null,
+    "bio": null
+  },
+  "Bo Wang": {
+    "photo": null,
+    "bio": null
+  },
+  "Alice dos Reis": {
+    "photo": null,
+    "bio": null
+  },
+  "Gus Van Sant": {
+    "photo": null,
+    "bio": null
+  },
+  "Anca Damian": {
+    "photo": null,
+    "bio": null
+  },
+  "Lina Wertmüller": {
+    "photo": null,
+    "bio": null
+  },
+  "Jean Cocteau": {
+    "photo": null,
+    "bio": null
+  },
+  "Hirokazu Koreeda": {
+    "photo": null,
+    "bio": null
+  },
+  "Tiago Guedes": {
+    "photo": null,
+    "bio": null
+  },
+  "Marta Mateus": {
+    "photo": null,
+    "bio": null
+  },
+  "Fernando Ruiz Vergara": {
+    "photo": null,
+    "bio": null
+  },
+  "Yann Gonzalez": {
+    "photo": null,
+    "bio": null
+  },
+  "Miguel Gonçalves Mendes": {
+    "photo": null,
+    "bio": null
+  },
+  "Luís Costa e André Guiomar": {
+    "photo": null,
+    "bio": null
+  },
+  "Nuno Carinhas": {
+    "photo": null,
+    "bio": null
+  },
+  "Eloy Calvo": {
+    "photo": null,
+    "bio": null
+  },
+  "Eva Szasz": {
+    "photo": null,
+    "bio": null
+  },
+  "Luis García Berlanga": {
+    "photo": null,
+    "bio": null
+  },
+  "João Canijo": {
+    "photo": null,
+    "bio": null
+  },
+  "Gaspar Noé": {
+    "photo": null,
+    "bio": null
+  },
+  "Liliane de Kermadec": {
+    "photo": null,
+    "bio": null
+  },
+  "Paulo Rocha": {
+    "photo": null,
+    "bio": null
+  },
+  "Michael Powell e Emeric Pressburger": {
+    "photo": null,
+    "bio": null
+  },
+  "Lav Diaz": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Lav_Diaz-7798.jpg/500px-Lav_Diaz-7798.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Lavrente Indico Diaz (born December 30, 1958) is a Filipino filmmaker, actor, and former film critic. He is known as one of the key names of the slow cinema genre, directing a diverse range of long narrative films that explore social and political issues in Philippines, with minimalist storytelling and long takes. Diaz made his directorial debut with Serafin Geronimo: Ang Kriminal ng Baryo Concepcion, released in 1999."
+  },
+  "Olivia Wilde": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg/500px-Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Olivia Jane Cockburn (born March 10, 1984), known professionally as Olivia Wilde, is an American actress and filmmaker. She played Remy \"Thirteen\" Hadley on the medical-drama television series House (2007–2012), and appeared in the action films Tron: Legacy (2010) and Cowboys & Aliens (2011), the romantic drama film Her (2013), the comedy film The Incredible Burt Wonderstone (2013), and the horror film The Lazarus Effect (2015). She made her Broadway debut playing Julia in 1984 (2017)."
+  },
+  "Rodrigo Areias, Aaron Brookner": {
+    "photo": null,
+    "bio": null
+  },
+  "Diego Céspedes": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Premios_Goya_2026_-_Diego_C%C3%A9spedes_%28cropped%29.jpg/500px-Premios_Goya_2026_-_Diego_C%C3%A9spedes_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Diego Céspedes may refer to:"
+  },
+  "Karim Aïnouz": {
+    "photo": null,
+    "bio": null
+  },
+  "Marjane Satrapi, Vincent Paronnaud": {
+    "photo": null,
+    "bio": null
+  },
+  "Sarah Friedland": {
+    "photo": null,
+    "bio": null
+  },
+  "Zoe R. Cassavetes": {
+    "photo": null,
+    "bio": null
+  },
+  "Josef von Sternberg": {
+    "photo": null,
+    "bio": null
+  },
+  "Mikhail Kalatozov": {
+    "photo": null,
+    "bio": null
+  },
+  "Jacques Deray": {
+    "photo": null,
+    "bio": null
+  },
+  "Listen, Think, Write": {
+    "photo": null,
+    "bio": null
+  },
+  "Rimini Protokoll / Théâtre Vidy-Lausanne / Les Praticables": {
+    "photo": null,
+    "bio": null
   }
 }

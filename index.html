@@ -339,6 +339,9 @@
     .modal-plot {
       font-size: 14px; line-height: 1.7; color: #888;
       border-left: 2px solid #2a2a2a; padding: 8px 16px;
+      /* As sinopses da programação dos cinemas vêm em vários parágrafos —
+         sem isto o texto colava tudo numa única mancha. */
+      white-space: pre-line;
     }
 
     .modal-sessions { border-top: 1px solid #1e1e1e; padding: 20px 32px 32px; }
@@ -813,8 +816,9 @@ function t(key) { return T[lang][key]; }
 // Título do filme: usa a versão inglesa (title_en, vinda do OMDB em cache)
 // quando existe e estamos em EN; cai sempre para o título original.
 function movieTitle(m) { return (lang === 'en' && m.title_en) ? m.title_en : m.title; }
-// Descrição no idioma ativo: PT usa plot_pt (Wikipédia) com fallback ao
-// inglês; EN usa plot (Letterboxd/OMDB) com fallback ao português.
+// Descrição no idioma ativo: PT usa plot_pt (sinopse da programação do
+// cinema, com a Wikipédia em recurso) e EN usa plot (Letterboxd/OMDB).
+// Cada um cai para o outro idioma em vez de deixar o filme sem descrição.
 function moviePlot(m) {
   return lang === 'pt' ? (m.plot_pt || m.plot) : (m.plot || m.plot_pt);
 }
