@@ -529,7 +529,9 @@ def lbxd_fetch(slug):
     lb_title = None
     title_m = re.search(r'<title>([^(]*)\((\d{4})\)', html)
     if title_m:
-        lb_title = title_m.group(1).strip() or None
+        # Letterboxd põe sempre uma marca U+200E (LTR mark, &lrm;) no início
+        # do <title> — sem unescape+strip ficava a aparecer literalmente.
+        lb_title = _unescape(title_m.group(1)).strip().lstrip('‎‏').strip() or None
         try:
             lb_year = int(title_m.group(2))
         except ValueError:
@@ -611,6 +613,14 @@ def omdb_fetch(title, year=None):
     params = {"t": title, "apikey": OMDB_KEY}
     if year:
         params["y"] = str(year)
+    url = "https://www.omdbapi.com/?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    with urllib.request.urlopen(req, timeout=8) as r:
+        return json.loads(r.read().decode())
+
+def omdb_fetch_by_id(imdb_id):
+    """Lookup exato por IMDb ID — não depende de o título bater certo."""
+    params = {"i": imdb_id, "apikey": OMDB_KEY}
     url = "https://www.omdbapi.com/?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
     with urllib.request.urlopen(req, timeout=8) as r:
@@ -708,16 +718,64 @@ def enrich(movies):
     cache   = load_cache()
     changed = False
 
-    for movie in movies:
+    for idx, movie in enumerate(movies):
         title = movie.get("title", "")
         year  = movie.get("year")
         key   = f"{title}|{year}"
+        director = movie.get("director")
 
-        if key not in cache:
+        # Guarda progresso a cada 20 filmes — um processamento grande (ex:
+        # backfill de filmes sem rating) pode demorar dezenas de minutos por
+        # causa do Wikidata/Letterboxd, e sem isto uma falha a meio perdia
+        # tudo (só se gravava no fim).
+        if changed and idx % 20 == 0:
+            save_cache(cache)
+
+        cached = cache.get(key)
+        # Tenta de novo sempre que ainda não há rating — antes disto, uma
+        # falha (transitória ou por título só em PT sem match) ficava em
+        # cache para sempre e nunca mais era retentada, mesmo depois de
+        # melhorar a lógica de resolução de título. Também reprocessa
+        # entradas cujo campo "lbxd" ainda não tem os campos mais recentes.
+        needs_fields = cached and cached.get("lbxd") is not None and (
+            "description" not in cached["lbxd"] or "country" not in cached["lbxd"]
+            or "lb_title" not in cached["lbxd"]
+        )
+        needs_rating = cached is None or not (cached.get("lbxd") and cached["lbxd"].get("rating"))
+
+        if cached is None or needs_rating or needs_fields:
             print(f"  [LB] {title}...", end=" ", flush=True)
-            director = movie.get("director")
-            lb   = lbxd_lookup(title, year, director=director)
-            omdb = omdb_lookup(title, year, director=director)
+            lb   = cached.get("lbxd") if cached else None
+            omdb = cached.get("omdb") if cached else None
+            if cached is None or needs_rating:
+                lb   = lbxd_lookup(title, year, director=director)
+                omdb = omdb_lookup(title, year, director=director)
+            elif needs_fields:
+                lb_new = lbxd_lookup(title, year, director=director)
+                if lb_new:
+                    lb = lb_new
+
+            # Título só em português (retrospetivas, cinema de autor) — nem
+            # o Letterboxd nem o OMDB indexam por título traduzido, por isso
+            # sem isto ficavam sempre sem rating/descrição/título inglês.
+            if not (lb and lb.get("rating")):
+                wd = resolve_english_title(title, year, director=director)
+                if wd and wd.get("title_en"):
+                    lb_wd = lbxd_lookup(wd["title_en"], year, director=director)
+                    if lb_wd and lb_wd.get("rating"):
+                        lb = lb_wd
+                    if not lb:
+                        lb = {"lb_title": wd["title_en"]}
+                    elif not lb.get("lb_title"):
+                        lb["lb_title"] = wd["title_en"]
+                if wd and wd.get("imdb_id") and not (omdb and omdb.get("Response") == "True"):
+                    try:
+                        omdb_wd = omdb_fetch_by_id(wd["imdb_id"])
+                        if omdb_wd and omdb_wd.get("Response") == "True":
+                            omdb = omdb_wd
+                    except Exception:
+                        pass
+
             cache[key] = {"lbxd": lb, "omdb": omdb}
             changed = True
             if lb and lb.get("rating"):
@@ -726,17 +784,8 @@ def enrich(movies):
                 print("sem rating", end="")
             print()
         else:
-            lb   = cache[key].get("lbxd")
-            omdb = cache[key].get("omdb")
-            # Re-fetch from LB if cached entry is missing new fields
-            if lb is not None and ("description" not in lb or "country" not in lb or "lb_title" not in lb):
-                print(f"  [LB+] {title}...", end=" ", flush=True)
-                lb_new = lbxd_lookup(title, year)
-                if lb_new:
-                    cache[key]["lbxd"] = lb_new
-                    lb = lb_new
-                    changed = True
-                print()
+            lb   = cached.get("lbxd")
+            omdb = cached.get("omdb")
 
         # ── Aplicar dados ───────────────────────────────────────────
         # Remove posters que não são de filme (landscape, prints, stills, etc.)
@@ -792,8 +841,19 @@ def enrich(movies):
         elif omdb and omdb.get("Title") not in (None, "N/A"):
             title_en = omdb["Title"]
         if title_en:
-            title_en = re.sub(r'\s*\(?\b(19|20)\d{2}\)?$', '', title_en).strip()
-            same = to_slug(title_en) == to_slug(movie.get("title", ""))
+            # Remove desambiguadores à Wikipédia tipo "(1969 film)", "(TV
+            # series)" ou só "(1969)" — nunca fazem parte do título real,
+            # são só a convenção de nomeação de artigos da Wikipédia.
+            title_en = re.sub(r'\s*\((?:19|20)\d{2}(?:\s+\w+)*\)$', '', title_en)
+            title_en = re.sub(r'\s*\(film\)$', '', title_en, flags=re.I).strip()
+            title_slug = to_slug(title_en)
+            orig_slug  = to_slug(movie.get("title", ""))
+            # Não só rejeita quando é exatamente igual — rejeita também quando
+            # o título resolvido já está contido no original (ex: título
+            # scraped "In the Mood For Love — Disponível Para Amar" já mostra
+            # o nome inglês; sobrepor com uma variante tipo "in the mood for
+            # love" sem maiúsculas só piorava a apresentação).
+            same = bool(title_slug) and (title_slug == orig_slug or title_slug in orig_slug)
             if title_en and not same:
                 movie["title_en"] = title_en
             elif movie.get("title_en"):
@@ -878,6 +938,137 @@ def wiki_director(name):
             bio = wd_bio
 
     return photo, bio
+
+
+def _wiki_api(lang, params):
+    url = f"https://{lang}.wikipedia.org/w/api.php?{urllib.parse.urlencode(params)}"
+    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    with urllib.request.urlopen(req, timeout=10) as r:
+        return json.loads(r.read())
+
+def _extract_matches_film(extract, year, director):
+    """Confirma que o artigo encontrado é mesmo sobre este filme — a pesquisa
+    de texto livre da Wikipédia é tolerante o suficiente para às vezes trazer
+    coisas completamente erradas (uma canção, um filme homónimo mais recente,
+    um cantor...). Exige menção a "filme"/"film" e, quando sabemos o
+    realizador, o apelido dele no excerto — sem isto aceitávamos matches
+    errados com demasiada frequência.
+    """
+    e = (extract or "").lower()
+    if "filme" not in e and "film" not in e:
+        return False
+    if director:
+        dparts = strip_accents(director.lower()).split()
+        last = dparts[-1] if dparts else ""
+        return bool(last) and last in strip_accents(e)
+    if year:
+        return any(str(y) in e for y in (year, year - 1, year + 1))
+    # Sem realizador nem ano para validar — não há como confirmar que é o
+    # filme certo. Aceitar às cegas foi o que produziu o match "Tony Stark
+    # (Marvel Cinematic Universe)" para uma oficina sem realizador atribuído.
+    return False
+
+def _wikidata_claims(wikidata_id):
+    """Devolve {"imdb_id":..., "pub_year":...} do item Wikidata — o ano de
+    publicação (P577) é um sinal estruturado muito mais fiável do que
+    esperar que o excerto do artigo mencione o ano, e é o que apanha casos
+    tipo "François Ozon" ter dois filmes em anos consecutivos (o texto
+    livre + janela de ±1 ano deixava passar o filme errado)."""
+    try:
+        entity = _wiki_api_wikidata({
+            "action": "wbgetentities", "ids": wikidata_id,
+            "props": "claims", "format": "json",
+        })
+        claims = entity["entities"][wikidata_id].get("claims", {})
+        imdb_id = None
+        if "P345" in claims:
+            imdb_id = claims["P345"][0]["mainsnak"]["datavalue"]["value"]
+        pub_year = None
+        if "P577" in claims:
+            try:
+                pub_year = int(claims["P577"][0]["mainsnak"]["datavalue"]["value"]["time"][1:5])
+            except (KeyError, ValueError, TypeError):
+                pass
+        return {"imdb_id": imdb_id, "pub_year": pub_year}
+    except Exception:
+        return {"imdb_id": None, "pub_year": None}
+
+def _wiki_api_wikidata(params):
+    url = f"https://www.wikidata.org/w/api.php?{urllib.parse.urlencode(params)}"
+    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    with urllib.request.urlopen(req, timeout=10) as r:
+        return json.loads(r.read())
+
+def resolve_english_title(title, year=None, director=None):
+    """Resolve um título só disponível em português (retrospetivas, cinema
+    de autor) para o título internacional — o Letterboxd e o OMDB só
+    indexam títulos originais/ingleses, por isso falham sempre que o
+    scraper só tem o título traduzido e não há alias manual para ele.
+
+    Usa a pesquisa de texto livre da Wikipédia em português (mais tolerante
+    a títulos de distribuição do que a pesquisa por label exata do
+    Wikidata, que falha para a maioria destes títulos) e confirma o match
+    pelo excerto do artigo antes de aceitar o "langlink" inglês.
+    Devolve {"title_en":..., "imdb_id":...} ou None se não conseguir validar.
+    """
+    try:
+        search = _wiki_api("pt", {
+            "action": "query", "list": "search", "srsearch": title,
+            "format": "json", "srlimit": 3,
+        })
+        hits = search.get("query", {}).get("search", [])
+    except Exception:
+        return None
+    finally:
+        time.sleep(0.3)
+
+    for hit in hits:
+        try:
+            detail = _wiki_api("pt", {
+                "action": "query", "titles": hit["title"], "format": "json",
+                "prop": "langlinks|pageprops|extracts",
+                "lllang": "en", "exintro": 1, "explaintext": 1, "exchars": 400,
+                "redirects": 1,
+            })
+        except Exception:
+            continue
+        finally:
+            time.sleep(0.3)
+
+        page = next(iter(detail.get("query", {}).get("pages", {}).values()), {})
+        if not _extract_matches_film(page.get("extract"), year, director):
+            continue
+        # Rejeita a página do próprio realizador (biografia) — acontece com
+        # títulos tipo "Jane B. por Agnès V." em que o texto livre acerta
+        # mais fácil na bio da Varda do que no artigo do filme.
+        if director and to_slug(page.get("title", "")) == to_slug(director):
+            continue
+
+        title_en = next((ll["*"] for ll in page.get("langlinks", []) if ll["lang"] == "en"), None)
+        if not title_en:
+            continue
+        # Alguns langlinks vêm com marcas de artigo/desambiguação à frente
+        # (ex: "@ in the mood for love") — nunca fazem parte do título real.
+        title_en = re.sub(r'^[@:•·\-\s]+', '', title_en).strip()
+        if not title_en:
+            continue
+
+        imdb_id = None
+        wikidata_id = page.get("pageprops", {}).get("wikibase_item")
+        if wikidata_id:
+            wd = _wikidata_claims(wikidata_id)
+            time.sleep(0.2)
+            # Data de publicação estruturada discorda do ano que já
+            # sabíamos — rejeita mesmo que o realizador bata certo (caso
+            # real: "O Estrangeiro" (Ozon, 2025) resolveu para "When Fall
+            # Is Coming", outro filme do Ozon, mas de 2024).
+            if year and wd["pub_year"] and wd["pub_year"] != year:
+                continue
+            imdb_id = wd["imdb_id"]
+
+        return {"title_en": title_en, "imdb_id": imdb_id}
+
+    return None
 
 
 def wikidata_director(name):
@@ -985,8 +1176,14 @@ def build_directors(movies):
 
 
 if __name__ == "__main__":
+    # Reprocessa data/sessions.js sozinho, sem correr os scrapers dos
+    # cinemas — usado para reenriquecer filmes já existentes (ex: backfill
+    # de rating/descrição/título inglês) sem tocar nas sessões em si.
     data_path = os.path.join(os.path.dirname(__file__), "..", "data", "sessions.js")
     with open(data_path, encoding="utf-8") as f:
         js = f.read()
     payload = json.loads(js.replace("window.CINEMA_DATA = ", "").rstrip(";"))
-    enrich(payload["movies"])
+    payload["movies"] = enrich(payload["movies"])
+    with open(data_path, "w", encoding="utf-8") as f:
+        f.write("window.CINEMA_DATA = " + json.dumps(payload, ensure_ascii=False, indent=2) + ";")
+    print(f"\n✓ sessions.js atualizado ({len(payload['movies'])} filmes)")

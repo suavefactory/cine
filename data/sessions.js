@@ -59,8 +59,11 @@ window.CINEMA_DATA = {
       "director": "Richard Brooks",
       "year": 1955,
       "duration": 100,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/2/6/1/35261-blackboard-jungle-0-500-0-750-crop.jpg?v=030e5cf145",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
       "link": "https://cinemateca.pt/programacao.aspx?id=20164",
       "sessions": [
         {
@@ -73,7 +76,12 @@ window.CINEMA_DATA = {
           "time": "19:00",
           "cinema": "cinemateca"
         }
-      ]
+      ],
+      "rating": 3.52,
+      "plot": "Richard Dadier is a teacher at North Manual High School, an inner-city school where many of the pupils frequently engage in anti-social behavior. Dadier makes various attempts to engage the students' interest in education, challenging both the school staff and the pupils. He is subjected to violence as well as duplicitous schemes.",
+      "title_en": "Blackboard Jungle",
+      "country": "USA",
+      "director_lbxd_slug": "richard-brooks"
     },
     {
       "id": "cinemateca_20166",
@@ -266,7 +274,7 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "rating": 3.46,
+      "rating": 3.45,
       "plot": "Vincent Bruce, a war veteran, begins working as an occupational therapist at Poplar Lodge, a private psychiatric facility for wealthy people where he meets Lilith Arthur, a charming young woman suffering from schizophrenia, whose fragile beauty captivates all who meet her.",
       "country": "USA",
       "director_lbxd_slug": "robert-rossen"
@@ -356,7 +364,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.72,
+      "rating": 3.71,
       "plot": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
       "country": "Germany",
       "director_lbxd_slug": "milos-forman"
@@ -417,7 +425,8 @@ window.CINEMA_DATA = {
       "rating": 3.33,
       "plot": "After his wife leaves him, a disillusioned director dives into the drug scene, trying anything his friend suggests.",
       "country": "USA",
-      "director_lbxd_slug": "roger-corman"
+      "director_lbxd_slug": "roger-corman",
+      "title_en": "The Trip"
     },
     {
       "id": "nimas_rio-bravo-1959",
@@ -443,7 +452,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.18,
+      "rating": 4.17,
       "plot": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
       "country": "USA",
       "director_lbxd_slug": "howard-hawks"
@@ -576,9 +585,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.79,
+      "rating": 3.78,
       "plot": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
-      "country": "France"
+      "country": "France",
+      "title_en": "Conversation Piece",
+      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_lola-1961",
@@ -599,7 +610,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.89,
+      "rating": 3.88,
       "plot": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
       "country": "France",
       "director_lbxd_slug": "jacques-demy"
@@ -608,11 +619,12 @@ window.CINEMA_DATA = {
       "id": "nimas_kung-fu-master-1987",
       "title": "Kung-Fu Master",
       "director": "Agnès Varda",
-      "year": 1987,
+      "year": 1988,
       "duration": 80,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnzczodqymzy3mv5bml5banbnxkftztgwnja5njexnze_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/2/17972-kung-fu-master--0-500-0-750-crop.jpg?v=a823e7ec3c",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
       "link": "https://medeiafilmes.com/filmes/kung-fu-master-1987",
       "sessions": [
@@ -631,7 +643,11 @@ window.CINEMA_DATA = {
           "time": "22:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.61,
+      "plot": "A lonely 40-year old woman finds herself shattering taboos by falling in love with the 14-year old Julien – but is it romance, or a desperate attempt to turn back time in the face of middle age?",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_quando-o-rio-se-enfurece-1960",
@@ -700,7 +716,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.17,
+      "rating": 4.16,
       "plot": "Jacquot Demy, the son of a garage owner and a hairdresser, is fascinated by cinema and decides to pursue his dream of becoming a filmmaker by any means necessary.",
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -822,9 +838,9 @@ window.CINEMA_DATA = {
       "director": "Agnès Varda",
       "year": 2000,
       "duration": 82,
-      "poster": "https://medeiafilmes.com/uploads/library/86208.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-500-0-750-crop.jpg?v=2b4c871ed4",
       "genres": [
-        "Documentário"
+        "Documentary"
       ],
       "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-2000",
       "sessions": [
@@ -843,7 +859,12 @@ window.CINEMA_DATA = {
           "time": "13:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.26,
+      "plot": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
+      "title_en": "The Gleaners and I",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_as-boas-mulheres-1960",
@@ -890,7 +911,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.79,
+      "rating": 3.78,
       "plot": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -924,7 +945,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.71,
+      "rating": 3.7,
       "plot": "A penetrating study of a marriage on the rocks, set against the backdrop of a small Mediterranean fishing village. Both a stylized depiction of the complicated relationship between a married couple and a documentary-like look at the daily struggles of the inhabitants of Sète in the South of France.",
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -1017,8 +1038,10 @@ window.CINEMA_DATA = {
       "director": "Robert Bresson",
       "year": 1951,
       "duration": 95,
-      "poster": "https://medeiafilmes.com/uploads/library/1089159.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/7/2/21772-diary-of-a-country-priest-0-500-0-750-crop.jpg?v=01d38c3bcd",
+      "genres": [
+        "Drama"
+      ],
       "link": "https://medeiafilmes.com/filmes/diario-de-um-paroco-de-aldeia-1951",
       "sessions": [
         {
@@ -1026,7 +1049,12 @@ window.CINEMA_DATA = {
           "time": "17:45",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.09,
+      "plot": "An inexperienced, sickly priest shows up in the rural French community of Ambricourt, where he joins the community's clergy. But the locals don't take kindly to the priest, and his ascetic ways and unsociable demeanor make him an outcast. During Bible studies at the nearby girls school, he is continually mocked by his students. Then his attempt to intervene in a family feud backfires into a scandal. His failures, compounded with his declining health, begin to erode his faith.",
+      "title_en": "Diary of a Country Priest",
+      "country": "France",
+      "director_lbxd_slug": "robert-bresson"
     },
     {
       "id": "nimas_i-want-your-sex-2026",
@@ -1036,7 +1064,6 @@ window.CINEMA_DATA = {
       "duration": 90,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/9/5/4/1170954-i-want-your-sex-0-500-0-750-crop.jpg?v=c13a0c57b7",
       "genres": [
-        "Drama",
         "Comedy"
       ],
       "link": "https://medeiafilmes.com/filmes/i-want-your-sex-2026",
@@ -1052,7 +1079,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.55,
+      "rating": 3.36,
       "plot": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
       "country": "USA",
       "director_lbxd_slug": "gregg-araki"
@@ -1063,9 +1090,9 @@ window.CINEMA_DATA = {
       "director": "Agnès Varda",
       "year": 2008,
       "duration": 110,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodu2mdhhmzutogmymi00mzlilthjmjqtytk1zjnmzdvhngrixkeyxkfqcgc_v1.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/7/4/3/25743-the-beaches-of-agnes-0-500-0-750-crop.jpg?v=037e5131de",
       "genres": [
-        "Documentário"
+        "Documentary"
       ],
       "link": "https://medeiafilmes.com/filmes/as-praias-de-agnes-2008",
       "sessions": [
@@ -1089,16 +1116,24 @@ window.CINEMA_DATA = {
           "time": "13:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.32,
+      "plot": "Filmmaking icon Agnès Varda, the award-winning director regarded by many as the grandmother of the French new wave, turns the camera on herself with this unique autobiographical documentary. Composed of film excerpts and elaborate dramatic re-creations, Varda's self-portrait recounts the highs and lows of her professional career, the many friendships that affected her life and her longtime marriage to cinematic giant Jacques Demy.",
+      "title_en": "The Beaches of Agnès",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_as-cento-e-uma-noites-de-simon-cinema-1994",
       "title": "As Cento e uma Noites de Simon Cinéma",
       "director": "Agnès Varda",
-      "year": 1994,
+      "year": 1995,
       "duration": 135,
-      "poster": "https://medeiafilmes.com/uploads/library/aff_101nuits_fr_01-1518x2048.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/6/0/8/78608-one-hundred-and-one-nights-0-500-0-750-crop.jpg?v=a00f304be7",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
       "link": "https://medeiafilmes.com/filmes/as-cento-e-uma-noites-de-simon-cinema-1994",
       "sessions": [
         {
@@ -1116,7 +1151,12 @@ window.CINEMA_DATA = {
           "time": "17:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.75,
+      "plot": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
+      "title_en": "One Hundred and One Nights",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_morte-em-veneza-1971",
@@ -1344,7 +1384,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.14,
+      "rating": 4.13,
       "plot": "A film shot during the summer of 1968 in Oakland, California around the meetings organised by the Black Panthers Party to free Huey Newton, one of their leaders, and to turn his trial into a political debate. They tried and succeeded in catching America’s attention.",
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -1372,7 +1412,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.51,
+      "rating": 3.5,
       "plot": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
       "country": "France",
       "director_lbxd_slug": "sophie-letourneur"
@@ -1626,7 +1666,8 @@ window.CINEMA_DATA = {
       "rating": 4.22,
       "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
       "country": "USA",
-      "title_en": "Vertigo"
+      "title_en": "Vertigo",
+      "director_lbxd_slug": "alfred-hitchcock"
     },
     {
       "id": "nimas_uma-mulher-e-uma-mulher-1961",
@@ -1807,10 +1848,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.42,
+      "rating": 4.4,
       "plot": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "country": "Sweden",
-      "title_en": "Fanny and Alexander"
+      "title_en": "Fanny and Alexander",
+      "director_lbxd_slug": "ingmar-bergman"
     },
     {
       "id": "nimas_a-morena-ardente-1958",
@@ -1818,8 +1860,11 @@ window.CINEMA_DATA = {
       "director": "Leo McCarey",
       "year": 1958,
       "duration": 106,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnzg0ogzkogqtmjm5zs00ztfklwflmtmtyzc1n2ixmgjimje5xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/3/2/4/89324-rally-round-the-flag-boys--0-500-0-750-crop.jpg?v=baee382376",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
       "link": "https://medeiafilmes.com/filmes/a-morena-ardente-1958",
       "sessions": [
         {
@@ -1832,7 +1877,12 @@ window.CINEMA_DATA = {
           "time": "12:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.14,
+      "plot": "Harry Bannerman, a Connecticut suburbanite, becomes involved in various shenanigans when his wife Grace leads a protest movement against a secret army plan to set up a missile base in their community.",
+      "title_en": "Rally 'Round the Flag, Boys!",
+      "country": "USA",
+      "director_lbxd_slug": "leo-mccarey"
     },
     {
       "id": "nimas_t7-coz-wc-a-venda-1984",
@@ -1896,7 +1946,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.36,
+      "rating": 4.37,
       "plot": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "country": "UK",
       "director_lbxd_slug": "wim-wenders"
@@ -1926,7 +1976,9 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.43,
       "plot": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
-      "country": "Japan"
+      "country": "Japan",
+      "title_en": "Tokyo Story",
+      "director_lbxd_slug": "yasujiro-ozu"
     },
     {
       "id": "nimas_stalker-1979",
@@ -1947,9 +1999,10 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.4,
+      "rating": 4.39,
       "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "country": "USSR"
+      "country": "USSR",
+      "director_lbxd_slug": "andrei-tarkovsky"
     },
     {
       "id": "nimas_o-intruso-1976",
@@ -2019,11 +2072,10 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.92,
+      "rating": 3.91,
       "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai",
-      "title_en": "In the Mood for Love"
+      "director_lbxd_slug": "wong-kar-wai"
     },
     {
       "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
@@ -2147,8 +2199,11 @@ window.CINEMA_DATA = {
       "director": "Luchino Visconti",
       "year": 1969,
       "duration": 157,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnjq3mzywn2qtnju1nc00mjq4ltgznzutmjviodaynjewymrjxkeyxkfqcgc_v1_fmjpg_uy3000.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/1/8/1/23181-the-damned-0-500-0-750-crop.jpg?v=cb02261b6f",
+      "genres": [
+        "Drama",
+        "History"
+      ],
       "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
       "sessions": [
         {
@@ -2161,7 +2216,12 @@ window.CINEMA_DATA = {
           "time": "21:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.81,
+      "plot": "In the early days of Nazi Germany, a powerful noble family must adjust to life under the new dictatorship regime.",
+      "title_en": "The Damned",
+      "country": "Germany",
+      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_mur-murs-1980",
@@ -2186,7 +2246,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.99,
+      "rating": 3.98,
       "plot": "Venturing from Venice Beach to Watts, Varda looks at the murals of LA as backdrop to and mirror of the city’s many cultures. She casts a curious eye on graffiti and photorealism, roller disco & gang violence, evangelical Christians, Hare Krishnas, artists, angels and ordinary Angelenos.",
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -2227,11 +2287,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.39,
+      "rating": 3.42,
       "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
       "country": "Germany",
       "director_lbxd_slug": "edgar-reitz",
-      "title_en": "Leibniz"
+      "title_en": "Leibniz – Chronicle of a Lost Painting"
     },
     {
       "id": "nimas_noites-brancas-1957",
@@ -2239,8 +2299,11 @@ window.CINEMA_DATA = {
       "director": "Luchino Visconti",
       "year": 1957,
       "duration": 97,
-      "poster": "https://medeiafilmes.com/uploads/library/xlarge_white_nights_tbllyy_e416ef9326.jpeg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/9/1/5/21915-le-notti-bianche-0-500-0-750-crop.jpg?v=edfb7397ac",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
       "link": "https://medeiafilmes.com/filmes/noites-brancas-1957",
       "sessions": [
         {
@@ -2253,7 +2316,12 @@ window.CINEMA_DATA = {
           "time": "13:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4,
+      "plot": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
+      "title_en": "Le Notti Bianche",
+      "country": "France",
+      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_daguerreotipos-1975",
@@ -2261,9 +2329,9 @@ window.CINEMA_DATA = {
       "director": "Agnés Varda",
       "year": 1975,
       "duration": 80,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bnzq5zgm5mwqtogq1my00m2i5lwezzgutn2nimmu3mmq0zti2xkeyxkfqcgc_v1_fmjpg_uy1678.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/7/1/15971-daguerreotypes-0-500-0-750-crop.jpg?v=9fc053203c",
       "genres": [
-        "Documentário"
+        "Documentary"
       ],
       "link": "https://medeiafilmes.com/filmes/daguerreotipos-1975",
       "sessions": [
@@ -2272,7 +2340,12 @@ window.CINEMA_DATA = {
           "time": "13:30",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.01,
+      "plot": "An intimate portrait of the small shops and shopkeepers of the Rue Daguerre in Paris, a picturesque street that has been the filmmaker’s home for more than 50 years.",
+      "title_en": "Daguerréotypes",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_elisa-2025",
@@ -2323,7 +2396,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 2.83,
+      "rating": 2.87,
       "plot": "Elisa, the daughter of an ordinary family, has been in prison for ten years for brutally murdering her sister. She believes she doesn’t remember what happened, but her fragmented memories begin to come into focus during meetings with the criminologist Alaoui, who is conducting a study on family homicides. The truth that emerges for Elisa is devastating—a pain that may mark the beginning of redemption.",
       "country": "Italy",
       "director_lbxd_slug": "leonardo-di-costanzo"
@@ -2348,7 +2421,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.28,
+      "rating": 4.27,
       "plot": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
@@ -2520,7 +2593,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.1,
+      "rating": 4.08,
       "plot": "On the outskirts of town, the hard-nosed Vienna owns a saloon frequented by the undesirables of the region, including Dancin' Kid and his gang. Another patron of Vienna's establishment is Johnny Guitar, a former gunslinger and her lover. When a heist is pulled in town that results in a man's death, Emma Small, Vienna's rival, rallies the townsfolk to take revenge on Vienna's saloon – even without proof of her wrongdoing.",
       "country": "USA",
       "director_lbxd_slug": "nicholas-ray"
@@ -2531,8 +2604,10 @@ window.CINEMA_DATA = {
       "director": "Luchino Visconti",
       "year": 1960,
       "duration": 179,
-      "poster": "https://medeiafilmes.com/uploads/library/crac_rocco_28x40_web.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-500-0-750-crop.jpg?v=50b0fb7b37",
       "genres": [
+        "Romance",
+        "Crime",
         "Drama"
       ],
       "link": "https://medeiafilmes.com/filmes/rocco-e-os-seus-irmaos-1960",
@@ -2542,17 +2617,24 @@ window.CINEMA_DATA = {
           "time": "18:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.31,
+      "plot": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
+      "title_en": "Rocco and His Brothers",
+      "country": "Italy",
+      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_lawrence-da-arabia-1962",
       "title": "Lawrence da Arábia",
       "director": "David Lean",
       "year": 1962,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/lawrence_of_arabia_ver3_xxlg.jpeg",
+      "duration": 227,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/9/9/60299-lawrence-of-arabia-0-500-0-750-crop.jpg?v=a3c56f9487",
       "genres": [
-        "Drama"
+        "Adventure",
+        "War",
+        "History"
       ],
       "link": "https://medeiafilmes.com/filmes/lawrence-da-arabia-1962",
       "sessions": [
@@ -2566,16 +2648,24 @@ window.CINEMA_DATA = {
           "time": "20:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.42,
+      "plot": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+      "title_en": "Lawrence of Arabia",
+      "country": "UK",
+      "director_lbxd_slug": "david-lean"
     },
     {
       "id": "nimas_o-desprezo-1963",
       "title": "O Desprezo",
       "director": "Jean-Luc Godard",
       "year": 1963,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/o-desprezo.jpg",
-      "genres": [],
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/by/s9/xe/e8AFmkWiY6MS7Em4GmLuqjEDc1v-0-500-0-750-crop.jpg?v=9745581dd9",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
       "link": "https://medeiafilmes.com/filmes/o-desprezo-1963",
       "sessions": [
         {
@@ -2583,7 +2673,12 @@ window.CINEMA_DATA = {
           "time": "16:15",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 3.8,
+      "plot": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+      "title_en": "Contempt",
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
     },
     {
       "id": "nimas_cruel-vitoria-1957",
@@ -2776,7 +2871,10 @@ window.CINEMA_DATA = {
           "time": "11:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "plot": "Monsieur Hulot comes to a beachside hotel for a vacation and accidentally, but good-naturedly, causes havoc.",
+      "title_en": "Les Vacances de Monsieur Hulot",
+      "country": "France"
     },
     {
       "id": "nimas_as-tears-go-by-ao-sabor-da-ambicao-1988",
@@ -2798,7 +2896,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.6,
+      "rating": 3.61,
       "plot": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai",
@@ -2824,9 +2922,10 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.23,
+      "rating": 4.22,
       "plot": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
-      "country": "USSR"
+      "country": "USSR",
+      "director_lbxd_slug": "andrei-tarkovsky"
     },
     {
       "id": "nimas_cartas-amarelas-2026",
@@ -2953,8 +3052,10 @@ window.CINEMA_DATA = {
       "director": "François Truffaut",
       "year": 1959,
       "duration": 100,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5botu3ytm0yzqtmmflos00otixlwfmzjctmdjkogqxntvhodm3xkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-500-0-750-crop.jpg?v=25ae7ceb86",
+      "genres": [
+        "Drama"
+      ],
       "link": "https://medeiafilmes.com/filmes/os-quatrocentos-golpes-1959",
       "sessions": [
         {
@@ -2962,7 +3063,12 @@ window.CINEMA_DATA = {
           "time": "19:00",
           "cinema": "nimas"
         }
-      ]
+      ],
+      "rating": 4.29,
+      "plot": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+      "title_en": "The 400 Blows",
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "nimas_os-sete-samurais-1954",
@@ -2983,9 +3089,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 4.6,
+      "rating": 4.61,
       "plot": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
-      "country": "Japan"
+      "country": "Japan",
+      "title_en": "Seven Samurai",
+      "director_lbxd_slug": "akira-kurosawa"
     },
     {
       "id": "nimas_2046-2004",
@@ -3009,7 +3117,8 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.05,
       "plot": "Women enter and exit a science fiction author's life over the course of a few years after the author loses the woman he considers his one true love.",
-      "country": "Germany"
+      "country": "Germany",
+      "director_lbxd_slug": "wong-kar-wai"
     },
     {
       "id": "nimas_raquel-raquel-1968",
@@ -3077,7 +3186,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.37,
+      "rating": 3.38,
       "plot": "Widow Paramo has lost her husband in the plague. Their daughter Dolores is considering suicide with El Muerto preparing himself to welcome her into the darkness. Paramo must triumph over Death in the boxing ring if she wishes to save both her husband and daughter.",
       "country": "Canada",
       "director_lbxd_slug": "guy-maddin"
@@ -3122,7 +3231,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.47,
+      "rating": 3.48,
       "plot": "Harriet, Walter Craig's wife, is an upper-class woman obsessed with control, material possessions and social status whose behavior makes difficult her relationship with domestic service and family members.",
       "country": "USA",
       "director_lbxd_slug": "dorothy-arzner"
@@ -3259,7 +3368,7 @@ window.CINEMA_DATA = {
       "director": "Maria Novo",
       "year": 2026,
       "duration": 21,
-      "poster": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/3/1/8/4/1603184-massa-mae-0-500-0-750-crop.jpg?v=eb30fc6bef",
       "genres": [],
       "link": "https://www.batalhacentrodecinema.pt/filmes/04-massa-mae",
       "sessions": [
@@ -3268,7 +3377,9 @@ window.CINEMA_DATA = {
           "time": "21:15",
           "cinema": "batalha"
         }
-      ]
+      ],
+      "plot": "Maria and Matías feel life is slipping through their fingers, and turn to birds, real and imagined, in a search for meaning and connection.",
+      "director_lbxd_slug": "maria-novo"
     },
     {
       "id": "batalha_sZTi0ejTUDZGIExx",
@@ -3339,7 +3450,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.6,
+      "rating": 3.61,
       "plot": "When a casino-owning dog named Charlie is murdered by his rival Carface, he finds himself in Heaven. Wanting to get back at his killer, he cons his way back to the living with the warning that doing so damns him to Hell. Once back, he teams with his old partner, Itchy, to prep his retaliation. He stumbles upon an orphan girl who can talk to the animals, thus allowing him to get the inside info on the races to ensure his wins to finance his plans. However, all the while, he is still haunted by nightmares of what's waiting for him on the other side unless he can prove that he is worthy of Heaven again.",
       "country": "Ireland",
       "director_lbxd_slug": "don-bluth"
@@ -3369,7 +3480,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 4.36,
+      "rating": 4.37,
       "plot": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
       "country": "USA",
       "director_lbxd_slug": "milos-forman"
@@ -3484,7 +3595,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.61,
+      "rating": 3.62,
       "plot": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
       "country": "USA",
       "director_lbxd_slug": "jerry-zucker"
@@ -3643,7 +3754,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 4.23,
+      "rating": 4.24,
       "plot": "Documentary filmmaker Genya Tachibana has tracked down the legendary actress Chiyoko Fujiwara, who mysteriously vanished at the height of her career. When he presents her with a key she had lost and thought was gone forever, the filmmaker could not have imagined that it would not only unlock the long-held secrets of Chiyoko’s life... but also his own.",
       "country": "Japan",
       "director_lbxd_slug": "satoshi-kon"
@@ -3702,7 +3813,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.69,
+      "rating": 3.68,
       "plot": "A nurse in the Caribbean turns to voodoo in hopes of curing her patient, a mindless woman whose husband she's fallen in love with.",
       "country": "USA",
       "director_lbxd_slug": "jacques-tourneur"
@@ -3727,7 +3838,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.79,
+      "rating": 3.78,
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "director_lbxd_slug": "milos-forman"
@@ -3940,7 +4051,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.29,
+      "rating": 3.31,
       "plot": "Three sisters on the Canary Islands, their everyday lives infused with a magical, meditative lyricism. Three life strategies without a breadwinner, narrated via the body, a mix of staging, observation and memory. Before the volcano, serenity arrives.",
       "country": "Spain",
       "director_lbxd_slug": "macu-machin"
@@ -3963,7 +4074,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.91,
+      "rating": 3.9,
       "plot": "Zoë is a single mother who lives with her four children in Dartford. She is poor and can't afford to buy food. One day her old flame drives by and asks her to go on a date with him. Scared that he doesn't want to go out with her, she lies and tells him that she is just babysitting the kids. This will be her first date in years.",
       "country": "UK",
       "director_lbxd_slug": "andrea-arnold"
@@ -3986,7 +4097,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.83,
+      "rating": 3.82,
       "plot": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother’s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
       "country": "Netherlands",
       "director_lbxd_slug": "andrea-arnold"
@@ -4061,7 +4172,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.46,
+      "rating": 3.47,
       "plot": "Andrea Arnold’s directorial debut consists of a woman named Hetty that has a unique way of dealing with the unexpected death of her child.",
       "country": "UK",
       "director_lbxd_slug": "andrea-arnold"
@@ -4157,7 +4268,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.44,
+      "rating": 3.43,
       "plot": "The inhabitants of a small village lost in the woodland between Galicia and Portugal play their own life mixed with dialogues from O bosque, a play by Galician writer Marinhas del Valle. Arraianos portrays a rural community in its obstinate resistance against disappearance.",
       "country": "Spain",
       "director_lbxd_slug": "eloy-enciso"
@@ -4205,10 +4316,11 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.41,
+      "rating": 3.4,
       "plot": "A group of girls and boys in their twenties settle in a country house that seems completely isolated from civilization, invited by Helena, who plans something humiliating for one of the guests.",
       "country": "Argentina",
-      "director_lbxd_slug": "matias-pineiro"
+      "director_lbxd_slug": "matias-pineiro",
+      "title_en": "Everyone Lies"
     },
     {
       "id": "batalha_sSp7GqudG1KgsJpc",
@@ -4440,7 +4552,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.56,
+      "rating": 3.55,
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "director_lbxd_slug": "wang-bo"
@@ -4488,7 +4600,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.45,
+      "rating": 3.44,
       "plot": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
       "country": "USA",
       "director_lbxd_slug": "gus-van-sant"
@@ -4634,7 +4746,8 @@ window.CINEMA_DATA = {
       "rating": 3.22,
       "plot": "After the Carnation Revolution the peasants in the Alentejo region occupied the huge proprieties where they were once submitted to the power of their masters. The protagonists of this film, resistants of this struggle, tell their story to the youngsters of today, in their own words.",
       "country": "Portugal",
-      "director_lbxd_slug": "marta-mateus"
+      "director_lbxd_slug": "marta-mateus",
+      "title_en": "Barbs, Wastelands"
     },
     {
       "id": "batalha_sh32q7u41CloIohN",
@@ -4654,7 +4767,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.66,
+      "rating": 3.65,
       "plot": "The film shows the genesis of the El Rocío pilgrimage and unveils the economic, socio-political and religious reasons and interests that nurture the phenomenon.",
       "country": "Spain",
       "director_lbxd_slug": "fernando-ruiz-vergara"
@@ -4678,7 +4791,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.58,
+      "rating": 3.57,
       "plot": "A few days in the life of a Czechoslovak teenager when he starts work.",
       "country": "Czechoslovakia",
       "director_lbxd_slug": "milos-forman"
@@ -4803,10 +4916,11 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.17,
+      "rating": 3.18,
       "plot": "Living in a van on the outskirts of Barcelona, Bear (Pol López) does everything he can to give his six-year-old daughter a life filled with joy, even when there's little to hold onto. Between unsteady routines and fragile hopes, their bond becomes a quiet act of resistance. A heartfelt story about love, dignity, and the small miracles that can bloom in the hardest places.",
       "country": "Spain",
-      "director_lbxd_slug": "eloy-calvo"
+      "director_lbxd_slug": "eloy-calvo",
+      "title_en": "The Van"
     },
     {
       "id": "batalha_sdRCaEHL8fKMfXxH",
@@ -4871,7 +4985,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 3.79,
+      "rating": 3.78,
       "plot": "In a small Spanish town, during the Christmas holidays, a group of rich old ladies organize a peculiar event that consists of inviting a homeless person to sit down to dinner at their wealthy table. Plácido, a humble worker, is hired by the organizers to participate in a parade with his three-wheeled vehicle, a seemingly simple mission that will not be easy for him to accomplish.",
       "country": "Spain",
       "director_lbxd_slug": "luis-garcia-berlanga"
@@ -5059,7 +5173,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "rating": 4.27,
+      "rating": 4.26,
       "plot": "A British wartime aviator who cheats death must argue for his life before a celestial court, hoping to prolong his fledgling romance with an American girl.",
       "country": "UK",
       "director_lbxd_slug": "emeric-pressburger"
@@ -5070,8 +5184,12 @@ window.CINEMA_DATA = {
       "director": "François Truffaut",
       "year": 1970,
       "duration": 100,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/9/8/51798-bed-and-board-0-500-0-750-crop.jpg?v=1ce4224d19",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
       "link": "https://cinematrindade.pt/pt/filmes/domicilio-conjugal",
       "sessions": [
         {
@@ -5079,13 +5197,18 @@ window.CINEMA_DATA = {
           "time": "14:15",
           "cinema": "trindade"
         }
-      ]
+      ],
+      "rating": 3.79,
+      "plot": "Parisian everyman Antoine Doinel has married his sweetheart Christine Darbon, and the newlyweds have set up a cozy domestic life of selling flowers and giving violin lessons while Antoine fitfully works on his long-gestating novel. As Christine becomes pregnant with the couple's first child, Antoine finds himself enraptured with a young Japanese beauty. The complications change the course of their relationship forever.",
+      "title_en": "Bed and Board",
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "trindade_7881",
       "title": "O Estrangeiro",
       "director": "François Ozon",
-      "year": 2025,
+      "year": 2024,
       "duration": 122,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
       "genres": [
@@ -5101,9 +5224,11 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         }
       ],
-      "rating": 3.34,
+      "rating": 3.39,
       "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "country": "France"
+      "country": "France",
+      "title_en": "When Fall Is Coming",
+      "director_lbxd_slug": "francois-ozon"
     },
     {
       "id": "trindade_7604",
@@ -5218,7 +5343,7 @@ window.CINEMA_DATA = {
       "director": "Karim Aïnouz",
       "year": 2026,
       "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=42d3e09345",
       "genres": [
         "Comedy",
         "Drama",
@@ -5237,7 +5362,7 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         }
       ],
-      "rating": 2.74,
+      "rating": 2.65,
       "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
       "country": "Germany",
       "director_lbxd_slug": "karim-ainouz-1"
@@ -5248,8 +5373,12 @@ window.CINEMA_DATA = {
       "director": "François Truffaut",
       "year": 1979,
       "duration": 94,
-      "poster": null,
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/9/7/51797-love-on-the-run-0-500-0-750-crop.jpg?v=2fc3143bb6",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
       "link": "https://cinematrindade.pt/pt/filmes/amor-em-fuga",
       "sessions": [
         {
@@ -5257,7 +5386,12 @@ window.CINEMA_DATA = {
           "time": "14:15",
           "cinema": "trindade"
         }
-      ]
+      ],
+      "rating": 3.62,
+      "plot": "Now in his thirties, Antoine Doinel is a divorced proofreader in love with a record seller. Colette Tazzi, now a lawyer, buys his first published autobiography, leading them to a chance meeting.",
+      "title_en": "Love on the Run",
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "trindade_8553",

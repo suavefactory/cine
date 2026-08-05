@@ -494,7 +494,11 @@
         "Drama",
         "Romance"
       ],
-      "country": "Germany"
+      "country": "Germany",
+      "lb_director": "Wong Kar-Wai",
+      "lb_director_slug": "wong-kar-wai",
+      "lb_year": 2004,
+      "lb_title": "2046"
     },
     "omdb": {
       "Title": "2046",
@@ -920,14 +924,18 @@
   },
   "Stalker|1979": {
     "lbxd": {
-      "rating": 4.4,
+      "rating": 4.39,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
       "description": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "genres": [
         "Drama",
         "Science Fiction"
       ],
-      "country": "USSR"
+      "country": "USSR",
+      "lb_director": "Andrei Tarkovsky",
+      "lb_director_slug": "andrei-tarkovsky",
+      "lb_year": 1979,
+      "lb_title": "Stalker"
     },
     "omdb": {
       "Title": "Stalker",
@@ -1025,7 +1033,7 @@
   },
   "Solaris|1972": {
     "lbxd": {
-      "rating": 4.23,
+      "rating": 4.22,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-500-0-750-crop.jpg?v=18b2bcf9ce",
       "description": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
       "genres": [
@@ -1033,7 +1041,11 @@
         "Science Fiction",
         "Drama"
       ],
-      "country": "USSR"
+      "country": "USSR",
+      "lb_director": "Andrei Tarkovsky",
+      "lb_director_slug": "andrei-tarkovsky",
+      "lb_year": 1972,
+      "lb_title": "Solaris"
     },
     "omdb": {
       "Title": "Solaris",
@@ -1659,7 +1671,7 @@
   },
   "Fanny e Alexandre|1982": {
     "lbxd": {
-      "rating": 4.42,
+      "rating": 4.4,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-500-0-750-crop.jpg?v=7a54d11e04",
       "description": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "genres": [
@@ -1667,7 +1679,11 @@
         "Fantasy",
         "Drama"
       ],
-      "country": "Sweden"
+      "country": "Sweden",
+      "lb_director": "Ingmar Bergman",
+      "lb_director_slug": "ingmar-bergman",
+      "lb_year": 1982,
+      "lb_title": "Fanny and Alexander"
     },
     "omdb": {
       "Title": "Fanny and Alexander",
@@ -2395,7 +2411,11 @@
         "Romance",
         "Mystery"
       ],
-      "country": "USA"
+      "country": "USA",
+      "lb_director": "Alfred Hitchcock",
+      "lb_director_slug": "alfred-hitchcock",
+      "lb_year": 1958,
+      "lb_title": "Vertigo"
     },
     "omdb": {
       "Title": "Vertigo",
@@ -3532,17 +3552,7 @@
     "omdb": null
   },
   "O Estrangeiro|2025": {
-    "lbxd": {
-      "rating": 3.34,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "description": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
-      ],
-      "country": "France"
-    },
+    "lbxd": null,
     "omdb": null
   },
   "Romaria|2025": {
@@ -11385,7 +11395,9 @@
       ],
       "country": "Japan",
       "lb_director": "Yasujirō Ozu",
-      "lb_year": 1953
+      "lb_director_slug": "yasujiro-ozu",
+      "lb_year": 1953,
+      "lb_title": "Tokyo Story"
     },
     "omdb": null
   },
@@ -13515,7 +13527,7 @@
   },
   "Os Sete Samurais|1954": {
     "lbxd": {
-      "rating": 4.6,
+      "rating": 4.61,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-500-0-750-crop.jpg?v=973d70bb0c",
       "description": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
       "genres": [
@@ -13524,7 +13536,9 @@
       ],
       "country": "Japan",
       "lb_director": "Akira Kurosawa",
-      "lb_year": 1954
+      "lb_director_slug": "akira-kurosawa",
+      "lb_year": 1954,
+      "lb_title": "Seven Samurai"
     },
     "omdb": null
   },
@@ -13802,7 +13816,7 @@
   },
   "Violência e Paixão|1974": {
     "lbxd": {
-      "rating": 3.79,
+      "rating": 3.78,
       "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/3/9933-conversation-piece-0-500-0-750-crop.jpg?v=040897dd01",
       "description": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
       "genres": [
@@ -13811,7 +13825,9 @@
       ],
       "country": "France",
       "lb_director": "Luchino Visconti",
-      "lb_year": 1974
+      "lb_director_slug": "luchino-visconti",
+      "lb_year": 1974,
+      "lb_title": "Conversation Piece"
     },
     "omdb": null
   },
@@ -19951,7 +19967,8 @@
       "country": "Hong Kong",
       "lb_director": "Wong Kar-Wai",
       "lb_director_slug": "wong-kar-wai",
-      "lb_year": 1997
+      "lb_year": 1997,
+      "lb_title": "Happy Together"
     },
     "omdb": {
       "Title": "Happy Together",
@@ -20116,7 +20133,8 @@
       "country": "Hong Kong",
       "lb_director": "Wong Kar-Wai",
       "lb_director_slug": "wong-kar-wai",
-      "lb_year": 1995
+      "lb_year": 1995,
+      "lb_title": "Fallen Angels"
     },
     "omdb": {
       "Title": "Fallen Angels",
@@ -20217,7 +20235,7 @@
   },
   "Chungking Express|1994": {
     "lbxd": {
-      "rating": 4.28,
+      "rating": 4.27,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/0/2/45602-chungking-express-0-500-0-750-crop.jpg?v=9475abb05b",
       "description": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
       "genres": [
@@ -20228,7 +20246,8 @@
       "country": "Hong Kong",
       "lb_director": "Wong Kar-Wai",
       "lb_director_slug": "wong-kar-wai",
-      "lb_year": 1994
+      "lb_year": 1994,
+      "lb_title": "Chungking Express"
     },
     "omdb": {
       "Title": "Chungking Express",
@@ -20386,7 +20405,19 @@
     }
   },
   "Diário de um Pároco de Aldeia|1951": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": 4.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/7/2/21772-diary-of-a-country-priest-0-500-0-750-crop.jpg?v=01d38c3bcd",
+      "description": "An inexperienced, sickly priest shows up in the rural French community of Ambricourt, where he joins the community's clergy. But the locals don't take kindly to the priest, and his ascetic ways and unsociable demeanor make him an outcast. During Bible studies at the nearby girls school, he is continually mocked by his students. Then his attempt to intervene in a family feud backfires into a scandal. His failures, compounded with his declining health, begin to erode his faith.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Robert Bresson",
+      "lb_director_slug": "robert-bresson",
+      "lb_year": 1951,
+      "lb_title": "Diary of a Country Priest"
+    },
     "omdb": null
   },
   "Breve História de uma Família|2024": {
@@ -20445,7 +20476,7 @@
   },
   "As Tears Go By - Ao Sabor da Ambição|1988": {
     "lbxd": {
-      "rating": 3.6,
+      "rating": 3.61,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/7/5/36975-as-tears-go-by-0-500-0-750-crop.jpg?v=69fb90b74c",
       "description": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
       "genres": [
@@ -20456,7 +20487,8 @@
       "country": "Hong Kong",
       "lb_director": "Wong Kar-Wai",
       "lb_director_slug": "wong-kar-wai",
-      "lb_year": 1988
+      "lb_year": 1988,
+      "lb_title": "As Tears Go By"
     },
     "omdb": {
       "Title": "As Tears Go By",
@@ -20782,7 +20814,8 @@
       "country": "Hong Kong",
       "lb_director": "Wong Kar-Wai",
       "lb_director_slug": "wong-kar-wai",
-      "lb_year": 1990
+      "lb_year": 1990,
+      "lb_title": "Days of Being Wild"
     },
     "omdb": {
       "Title": "Days of Being Wild",
@@ -22259,7 +22292,7 @@
   },
   "In the Mood For Love — Disponível Para Amar|2001": {
     "lbxd": {
-      "rating": 3.92,
+      "rating": 3.91,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/5/6/8/579568-in-the-mood-for-love-0-500-0-750-crop.jpg?v=3fe332446b",
       "description": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
       "genres": [
@@ -22268,7 +22301,8 @@
       "country": "Hong Kong",
       "lb_director": "Wong Kar-Wai",
       "lb_director_slug": "wong-kar-wai",
-      "lb_year": 2001
+      "lb_year": 2001,
+      "lb_title": "@ in the mood for love"
     },
     "omdb": {
       "Title": "In the Mood for Love 2001",
@@ -22603,7 +22637,7 @@
   },
   "Leibniz – Crónica de uma Pintura Perdida|2025": {
     "lbxd": {
-      "rating": 3.39,
+      "rating": 3.42,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
       "description": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
       "genres": [
@@ -22613,7 +22647,8 @@
       "country": "Germany",
       "lb_director": "Edgar Reitz",
       "lb_director_slug": "edgar-reitz",
-      "lb_year": 2025
+      "lb_year": 2025,
+      "lb_title": "Leibniz – Chronicle of a Lost Painting"
     },
     "omdb": {
       "Title": "Leibniz",
@@ -26365,8 +26400,55 @@
     "omdb": null
   },
   "Os Quatrocentos Golpes|1959": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.29,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-500-0-750-crop.jpg?v=25ae7ceb86",
+      "description": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1959,
+      "lb_title": "The 400 Blows"
+    },
+    "omdb": {
+      "Title": "The 400 Blows",
+      "Year": "1959",
+      "Rated": "Not Rated",
+      "Released": "16 Nov 1959",
+      "Runtime": "99 min",
+      "Genre": "Crime, Drama",
+      "Director": "François Truffaut",
+      "Writer": "François Truffaut, Marcel Moussy",
+      "Actors": "Jean-Pierre Léaud, Albert Rémy, Claire Maurier",
+      "Plot": "A young boy, left without attention, delves into a life of petty crime.",
+      "Language": "French, English",
+      "Country": "France",
+      "Awards": "Nominated for 1 Oscar. 8 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU3YTM0YzQtMmFlOS00OTIxLWFmZjctMDJkOGQxNTVhODM3XkEyXkFqcGc@._V1_QL75_UY562_CR22,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "134,367",
+      "imdbID": "tt0053198",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$509",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "L’aventura|2025": {
     "lbxd": {
@@ -26482,7 +26564,21 @@
     "omdb": null
   },
   "Domicílio Conjugal|1970": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": 3.79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/9/8/51798-bed-and-board-0-500-0-750-crop.jpg?v=1ce4224d19",
+      "description": "Parisian everyman Antoine Doinel has married his sweetheart Christine Darbon, and the newlyweds have set up a cozy domestic life of selling flowers and giving violin lessons while Antoine fitfully works on his long-gestating novel. As Christine becomes pregnant with the couple's first child, Antoine finds himself enraptured with a young Japanese beauty. The complications change the course of their relationship forever.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1970,
+      "lb_title": "Bed and Board"
+    },
     "omdb": null
   },
   "A Sereia do Mississipi|1969": {
@@ -26494,8 +26590,57 @@
     "omdb": null
   },
   "Amor em Fuga|1979": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/9/7/51797-love-on-the-run-0-500-0-750-crop.jpg?v=2fc3143bb6",
+      "description": "Now in his thirties, Antoine Doinel is a divorced proofreader in love with a record seller. Colette Tazzi, now a lawyer, buys his first published autobiography, leading them to a chance meeting.",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1979,
+      "lb_title": "Love on the Run"
+    },
+    "omdb": {
+      "Title": "Love on the Run",
+      "Year": "1979",
+      "Rated": "PG",
+      "Released": "06 Apr 1979",
+      "Runtime": "94 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "François Truffaut",
+      "Writer": "François Truffaut, Marie-France Pisier, Jean Aurel",
+      "Actors": "Jean-Pierre Léaud, Claude Jade, Marie-France Pisier",
+      "Plot": "Antoine Doinel is now more than thirty. He divorces from Christine. He is a proofreader, and is in love with Sabine, a record seller. Colette, his teenager love, is now a lawyer. She buys Antoine's first published autobiographical...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhZWJiMDUtYTMzOS00MTRmLThmNmEtYzEzODYzNTVkM2M2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "7,657",
+      "imdbID": "tt0078771",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$509",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Madame Dubarry|1919": {
     "lbxd": {
@@ -27347,7 +27492,7 @@
   },
   "L’Aventura|2025": {
     "lbxd": {
-      "rating": 3.51,
+      "rating": 3.5,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/3/2/3/1198323-laventura-0-500-0-750-crop.jpg?v=3afec38f31",
       "description": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
       "genres": [
@@ -27356,7 +27501,8 @@
       "country": "France",
       "lb_director": "Sophie Letourneur",
       "lb_director_slug": "sophie-letourneur",
-      "lb_year": 2025
+      "lb_year": 2025,
+      "lb_title": "L'Aventura"
     },
     "omdb": null
   },
@@ -27366,8 +27512,8 @@
   },
   "Rosebush Pruning|2026": {
     "lbxd": {
-      "rating": 2.74,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=f9fc569c99",
+      "rating": 2.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=42d3e09345",
       "description": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
       "genres": [
         "Comedy",
@@ -27377,7 +27523,8 @@
       "country": "Germany",
       "lb_director": "Karim Aïnouz",
       "lb_director_slug": "karim-ainouz-1",
-      "lb_year": 2026
+      "lb_year": 2026,
+      "lb_title": "Rosebush Pruning"
     },
     "omdb": {
       "Title": "Rosebush Pruning",
@@ -30501,12 +30648,65 @@
     "omdb": null
   },
   "Rocco e os seus Irmãos|1960": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/3/8/47738-rocco-and-his-brothers-0-500-0-750-crop.jpg?v=50b0fb7b37",
+      "description": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Luchino Visconti",
+      "lb_director_slug": "luchino-visconti",
+      "lb_year": 1960,
+      "lb_title": "Rocco and His Brothers"
+    },
+    "omdb": {
+      "Title": "Rocco and His Brothers",
+      "Year": "1960",
+      "Rated": "Not Rated",
+      "Released": "10 Mar 1961",
+      "Runtime": "179 min",
+      "Genre": "Crime, Drama, Sport",
+      "Director": "Luchino Visconti",
+      "Writer": "Luchino Visconti, Suso Cecchi D'Amico, Vasco Pratolini",
+      "Actors": "Alain Delon, Renato Salvatori, Annie Girardot",
+      "Plot": "Having recently been uprooted to Milan, Rocco and his four brothers each look for a new way in life when a prostitute comes between Rocco and his brother Simone.",
+      "Language": "Italian",
+      "Country": "Italy, France",
+      "Awards": "Nominated for 2 BAFTA 10 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "91%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "8.2",
+      "imdbVotes": "23,038",
+      "imdbID": "tt0054248",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Paris, Texas|1984": {
     "lbxd": {
-      "rating": 4.36,
+      "rating": 4.37,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/9/51469-paris-texas-0-500-0-750-crop.jpg?v=c8f2743612",
       "description": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "genres": [
@@ -30515,7 +30715,8 @@
       "country": "UK",
       "lb_director": "Wim Wenders",
       "lb_director_slug": "wim-wenders",
-      "lb_year": 1984
+      "lb_year": 1984,
+      "lb_title": "Paris, Texas"
     },
     "omdb": {
       "Title": "Paris, Texas",
@@ -30673,7 +30874,8 @@
       "country": "Italy",
       "lb_director": "Luchino Visconti",
       "lb_director_slug": "luchino-visconti",
-      "lb_year": 1965
+      "lb_year": 1965,
+      "lb_title": "Sandra"
     },
     "omdb": {
       "Title": "Sandra",
@@ -30783,8 +30985,61 @@
     "omdb": null
   },
   "Lawrence da Arábia|1962": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/9/9/60299-lawrence-of-arabia-0-500-0-750-crop.jpg?v=a3c56f9487",
+      "description": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+      "genres": [
+        "Adventure",
+        "War",
+        "History"
+      ],
+      "country": "UK",
+      "lb_director": "David Lean",
+      "lb_director_slug": "david-lean",
+      "lb_year": 1962,
+      "lb_title": "Lawrence of Arabia"
+    },
+    "omdb": {
+      "Title": "Lawrence of Arabia",
+      "Year": "1962",
+      "Rated": "PG",
+      "Released": "02 Apr 2013",
+      "Runtime": "227 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "David Lean",
+      "Writer": "Robert Bolt, Michael Wilson",
+      "Actors": "Peter O'Toole, Alec Guinness, Anthony Quinn",
+      "Plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "Language": "English, Arabic, Turkish",
+      "Country": "United Kingdom, United States",
+      "Awards": "Won 7 Oscars. 31 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "8.3",
+      "imdbVotes": "334,419",
+      "imdbID": "tt0056172",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$45,306,425",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "O Detective|1968": {
     "lbxd": null,
@@ -30847,7 +31102,20 @@
     }
   },
   "Noites Brancas|1957": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/9/1/5/21915-le-notti-bianche-0-500-0-750-crop.jpg?v=edfb7397ac",
+      "description": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Luchino Visconti",
+      "lb_director_slug": "luchino-visconti",
+      "lb_year": 1957,
+      "lb_title": "Le Notti Bianche"
+    },
     "omdb": null
   },
   "Made in USA|1966": {
@@ -30899,12 +31167,108 @@
     }
   },
   "Os Malditos|1969": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/1/8/1/23181-the-damned-0-500-0-750-crop.jpg?v=cb02261b6f",
+      "description": "In the early days of Nazi Germany, a powerful noble family must adjust to life under the new dictatorship regime.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Germany",
+      "lb_director": "Luchino Visconti",
+      "lb_director_slug": "luchino-visconti",
+      "lb_year": 1969,
+      "lb_title": "The Damned"
+    },
+    "omdb": {
+      "Title": "The Damned",
+      "Year": "1969",
+      "Rated": "R",
+      "Released": "18 Dec 1969",
+      "Runtime": "157 min",
+      "Genre": "Drama, War",
+      "Director": "Luchino Visconti",
+      "Writer": "Nicola Badalucco, Enrico Medioli, Luchino Visconti",
+      "Actors": "Dirk Bogarde, Ingrid Thulin, Helmut Griem",
+      "Plot": "The dramatic collapse of a wealthy, industrialist/Junker family during the reign of the Third Reich.",
+      "Language": "Italian, German",
+      "Country": "Italy, West Germany, Switzerland",
+      "Awards": "Nominated for 1 Oscar. 5 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVhZDhmZjAtYTg5MC00ODhlLWIyNjktOWJjOWY5ZDE0N2JiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "10,548",
+      "imdbID": "tt0064118",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$625,315",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "A Morena Ardente|1958": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/3/2/4/89324-rally-round-the-flag-boys--0-500-0-750-crop.jpg?v=baee382376",
+      "description": "Harry Bannerman, a Connecticut suburbanite, becomes involved in various shenanigans when his wife Grace leads a protest movement against a secret army plan to set up a missile base in their community.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Leo McCarey",
+      "lb_director_slug": "leo-mccarey",
+      "lb_year": 1958,
+      "lb_title": "Rally 'Round the Flag, Boys!"
+    },
+    "omdb": {
+      "Title": "Rally 'Round the Flag, Boys!",
+      "Year": "1958",
+      "Rated": "Approved",
+      "Released": "01 Feb 1959",
+      "Runtime": "106 min",
+      "Genre": "Comedy",
+      "Director": "Leo McCarey",
+      "Writer": "Claude Binyon, Leo McCarey, Max Shulman",
+      "Actors": "Paul Newman, Joanne Woodward, Joan Collins",
+      "Plot": "All about the citizens of Putnam's Landing and their reactions to an Army missile base in their backyard.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg0OGZkOGQtMjM5ZS00ZTFkLWFlMTMtYzc1N2IxMGJiMjE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "30%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "1,391",
+      "imdbID": "tt0052117",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Sentimento|1954": {
     "lbxd": null,
@@ -30966,8 +31330,55 @@
     }
   },
   "Daguerreótipos|1975": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.01,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/7/1/15971-daguerreotypes-0-500-0-750-crop.jpg?v=9fc053203c",
+      "description": "An intimate portrait of the small shops and shopkeepers of the Rue Daguerre in Paris, a picturesque street that has been the filmmaker’s home for more than 50 years.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1975,
+      "lb_title": "Daguerréotypes"
+    },
+    "omdb": {
+      "Title": "Daguerreotypes",
+      "Year": "1975",
+      "Rated": "Not Rated",
+      "Released": "21 Dec 2019",
+      "Runtime": "79 min",
+      "Genre": "Documentary",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Lucien Bossy, Leance Debrossian, Marcelle Debrossian",
+      "Plot": "Portraits of the people that occupy the small shops of the Rue Daguerre, Paris, where the filmmaker lived.",
+      "Language": "French",
+      "Country": "France, West Germany",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc1MGQxMDYtOTdhNi00OGVjLTljMzctNDAxZTQyNjU0ODJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "2,166",
+      "imdbID": "tt0071384",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Her Private Hell|2026": {
     "lbxd": {
@@ -31082,7 +31493,7 @@
   },
   "Johnny Guitar|1954": {
     "lbxd": {
-      "rating": 4.1,
+      "rating": 4.08,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/9/7/35197-johnny-guitar-0-500-0-750-crop.jpg?v=438ec5041e",
       "description": "On the outskirts of town, the hard-nosed Vienna owns a saloon frequented by the undesirables of the region, including Dancin' Kid and his gang. Another patron of Vienna's establishment is Johnny Guitar, a former gunslinger and her lover. When a heist is pulled in town that results in a man's death, Emma Small, Vienna's rival, rallies the townsfolk to take revenge on Vienna's saloon – even without proof of her wrongdoing.",
       "genres": [
@@ -31091,7 +31502,8 @@
       "country": "USA",
       "lb_director": "Nicholas Ray",
       "lb_director_slug": "nicholas-ray",
-      "lb_year": 1954
+      "lb_year": 1954,
+      "lb_title": "Johnny Guitar"
     },
     "omdb": {
       "Title": "Johnny Guitar",
@@ -31139,8 +31551,59 @@
     "omdb": null
   },
   "Os Respigadores e a Respigadora|2000": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-500-0-750-crop.jpg?v=2b4c871ed4",
+      "description": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 2000,
+      "lb_title": "The Gleaners and I"
+    },
+    "omdb": {
+      "Title": "The Gleaners & I",
+      "Year": "2000",
+      "Rated": "Not Rated",
+      "Released": "07 Jul 2000",
+      "Runtime": "82 min",
+      "Genre": "Documentary",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "François Wertheimer, Agnès Varda, Jean La Planche",
+      "Plot": "Varda films and interviews gleaners in France in all forms, from those picking fields after the harvest to those scouring the dumpsters of Paris.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "16 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FlZmQ3N2ItNGRmYi00MTk2LWFjMTQtMWI1ZDVmMzgzMjhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.7",
+      "imdbVotes": "9,944",
+      "imdbID": "tt0247380",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$155,320",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Roma, Cidade Aberta|1945": {
     "lbxd": null,
@@ -31204,7 +31667,7 @@
   },
   "Lola|1961": {
     "lbxd": {
-      "rating": 3.89,
+      "rating": 3.88,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/3/2/5/24325-lola-0-500-0-750-crop.jpg?v=ffe4c0ba4f",
       "description": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
       "genres": [
@@ -31214,7 +31677,8 @@
       "country": "France",
       "lb_director": "Jacques Demy",
       "lb_director_slug": "jacques-demy",
-      "lb_year": 1961
+      "lb_year": 1961,
+      "lb_title": "Lola"
     },
     "omdb": {
       "Title": "Lola",
@@ -31274,8 +31738,52 @@
     "omdb": null
   },
   "Kung-Fu Master|1987": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/2/17972-kung-fu-master--0-500-0-750-crop.jpg?v=a823e7ec3c",
+      "description": "A lonely 40-year old woman finds herself shattering taboos by falling in love with the 14-year old Julien – but is it romance, or a desperate attempt to turn back time in the face of middle age?",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1988,
+      "lb_title": "Kung-Fu Master!"
+    },
+    "omdb": {
+      "Title": "Kung-Fu Master!",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "01 Nov 1989",
+      "Runtime": "80 min",
+      "Genre": "Drama, Romance",
+      "Director": "Agnès Varda",
+      "Writer": "Jane Birkin, Agnès Varda",
+      "Actors": "Jane Birkin, Mathieu Demy, Charlotte Gainsbourg",
+      "Plot": "Mary-Jane, a lonely mother in her forties, gets absorbed in a sentimental affair with a 14-year-old boy.",
+      "Language": "French, English, German",
+      "Country": "France",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE3MzhmZTktZDkyNy00YzA0LWI0M2UtZDk2YjUwM2E3Nzc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "2,295",
+      "imdbID": "tt0093371",
+      "Type": "movie",
+      "DVD": "01 Jan 2002",
+      "BoxOffice": "N/A",
+      "Production": "Tai Seng",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Jacquot de Nantes|1990": {
     "lbxd": {
@@ -31404,7 +31912,8 @@
       "country": "Morocco",
       "lb_director": "Maryam Touzani",
       "lb_director_slug": "maryam-touzani",
-      "lb_year": 2025
+      "lb_year": 2025,
+      "lb_title": "Calle Malaga"
     },
     "omdb": {
       "Title": "Calle Málaga",
@@ -31435,26 +31944,121 @@
     }
   },
   "As Cento e uma Noites de Simon Cinéma|1994": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/6/0/8/78608-one-hundred-and-one-nights-0-500-0-750-crop.jpg?v=a00f304be7",
+      "description": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1995,
+      "lb_title": "One Hundred and One Nights"
+    },
+    "omdb": {
+      "Title": "One Hundred and One Nights",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "25 Jan 1995",
+      "Runtime": "104 min",
+      "Genre": "Comedy, History, Romance",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Michel Piccoli, Marcello Mastroianni, Henri Garcin",
+      "Plot": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
+      "Language": "French",
+      "Country": "France, United Kingdom",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ4M2E3ZGItYTY4My00YjhiLWI2MDUtYmM4ZTZiYzU5MGEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "1,988",
+      "imdbID": "tt0112654",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "As Praias de Agnès|2008": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/7/4/3/25743-the-beaches-of-agnes-0-500-0-750-crop.jpg?v=037e5131de",
+      "description": "Filmmaking icon Agnès Varda, the award-winning director regarded by many as the grandmother of the French new wave, turns the camera on herself with this unique autobiographical documentary. Composed of film excerpts and elaborate dramatic re-creations, Varda's self-portrait recounts the highs and lows of her professional career, the many friendships that affected her life and her longtime marriage to cinematic giant Jacques Demy.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 2008,
+      "lb_title": "The Beaches of Agnès"
+    },
+    "omdb": {
+      "Title": "The Beaches of Agnès",
+      "Year": "2008",
+      "Rated": "Not Rated",
+      "Released": "17 Dec 2008",
+      "Runtime": "112 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda, Didier Rouget",
+      "Actors": "Agnès Varda, André Lubrano, Blaise Fournier",
+      "Plot": "Agnès Varda explores her memories, mostly chronologically, with photographs, film clips, interviews, reenactments, and droll, playful contemporary scenes of her narrating her story.",
+      "Language": "French, English",
+      "Country": "France",
+      "Awards": "12 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwOTMwNjM1MF5BMl5BanBnXkFtZTcwNDQ0OTk2Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "8.0",
+      "imdbVotes": "5,227",
+      "imdbID": "tt1129435",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$239,711",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "I Want Your Sex|2026": {
     "lbxd": {
-      "rating": 3.55,
+      "rating": 3.36,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/9/5/4/1170954-i-want-your-sex-0-500-0-750-crop.jpg?v=c13a0c57b7",
       "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
       "genres": [
-        "Drama",
         "Comedy"
       ],
       "country": "USA",
       "lb_director": "Gregg Araki",
       "lb_director_slug": "gregg-araki",
-      "lb_year": 2026
+      "lb_year": 2026,
+      "lb_title": "I Want Your Sex"
     },
     "omdb": {
       "Title": "I Want Your Sex",
@@ -31515,7 +32119,7 @@
   },
   "Black Panthers|1968": {
     "lbxd": {
-      "rating": 4.14,
+      "rating": 4.13,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/7/9/1/109791-black-panthers-0-500-0-750-crop.jpg?v=d430b2c305",
       "description": "A film shot during the summer of 1968 in Oakland, California around the meetings organised by the Black Panthers Party to free Huey Newton, one of their leaders, and to turn his trial into a political debate. They tried and succeeded in catching America’s attention.",
       "genres": [
@@ -31524,7 +32128,8 @@
       "country": "France",
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
-      "lb_year": 1968
+      "lb_year": 1968,
+      "lb_title": "Black Panthers"
     },
     "omdb": {
       "Title": "Black Panthers",
@@ -31706,7 +32311,7 @@
   },
   "Mur Murs|1981": {
     "lbxd": {
-      "rating": 3.99,
+      "rating": 3.98,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/6/0/7/161607-mur-murs-0-500-0-750-crop.jpg?v=a95b78d576",
       "description": "Venturing from Venice Beach to Watts, Varda looks at the murals of LA as backdrop to and mirror of the city’s many cultures. She casts a curious eye on graffiti and photorealism, roller disco & gang violence, evangelical Christians, Hare Krishnas, artists, angels and ordinary Angelenos.",
       "genres": [
@@ -31715,7 +32320,8 @@
       "country": "France",
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
-      "lb_year": 1981
+      "lb_year": 1981,
+      "lb_title": "Mur Murs"
     },
     "omdb": {
       "Title": "Mur murs",
@@ -31752,7 +32358,7 @@
   },
   "Jacquot de Nantes|1991": {
     "lbxd": {
-      "rating": 4.17,
+      "rating": 4.16,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/2/6/6/23266-jacquot-de-nantes-0-500-0-750-crop.jpg?v=50b7d1a8c7",
       "description": "Jacquot Demy, the son of a garage owner and a hairdresser, is fascinated by cinema and decides to pursue his dream of becoming a filmmaker by any means necessary.",
       "genres": [
@@ -31761,13 +32367,14 @@
       "country": "France",
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
-      "lb_year": 1991
+      "lb_year": 1991,
+      "lb_title": "Jacquot de Nantes"
     },
     "omdb": null
   },
   "Documenteur|1981": {
     "lbxd": {
-      "rating": 3.79,
+      "rating": 3.78,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/6/8/117468-documenteur-0-500-0-750-crop.jpg?v=cae607d9d3",
       "description": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
       "genres": [
@@ -31776,7 +32383,8 @@
       "country": "France",
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
-      "lb_year": 1981
+      "lb_year": 1981,
+      "lb_title": "Documenteur"
     },
     "omdb": {
       "Title": "Documenteur",
@@ -31813,7 +32421,7 @@
   },
   "La Pointe Courte|1955": {
     "lbxd": {
-      "rating": 3.71,
+      "rating": 3.7,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/4/11644-la-pointe-courte-0-500-0-750-crop.jpg?v=b6f78245c5",
       "description": "A penetrating study of a marriage on the rocks, set against the backdrop of a small Mediterranean fishing village. Both a stylized depiction of the complicated relationship between a married couple and a documentary-like look at the daily struggles of the inhabitants of Sète in the South of France.",
       "genres": [
@@ -31823,7 +32431,8 @@
       "country": "France",
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
-      "lb_year": 1955
+      "lb_year": 1955,
+      "lb_title": "La Pointe Courte"
     },
     "omdb": {
       "Title": "La Pointe Courte",
@@ -31906,7 +32515,7 @@
   },
   "Rio Bravo|1959": {
     "lbxd": {
-      "rating": 4.18,
+      "rating": 4.17,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/8/51758-rio-bravo-0-500-0-750-crop.jpg?v=ee2a54d80b",
       "description": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
       "genres": [
@@ -31916,7 +32525,8 @@
       "country": "USA",
       "lb_director": "Howard Hawks",
       "lb_director_slug": "howard-hawks",
-      "lb_year": 1959
+      "lb_year": 1959,
+      "lb_title": "Rio Bravo"
     },
     "omdb": {
       "Title": "Rio Bravo",
@@ -31990,7 +32600,8 @@
       "country": "France",
       "lb_director": "João Canijo",
       "lb_director_slug": "joao-canijo",
-      "lb_year": 2001
+      "lb_year": 2001,
+      "lb_title": "Get a Life"
     },
     "omdb": null
   },
@@ -32008,7 +32619,7 @@
   },
   "Elisa|2025": {
     "lbxd": {
-      "rating": 2.83,
+      "rating": 2.87,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/6/5/9/7/1316597-elisa-2025-0-500-0-750-crop.jpg?v=a3e044a936",
       "description": "Elisa, the daughter of an ordinary family, has been in prison for ten years for brutally murdering her sister. She believes she doesn’t remember what happened, but her fragmented memories begin to come into focus during meetings with the criminologist Alaoui, who is conducting a study on family homicides. The truth that emerges for Elisa is devastating—a pain that may mark the beginning of redemption.",
       "genres": [
@@ -32018,7 +32629,8 @@
       "country": "Italy",
       "lb_director": "Leonardo Di Costanzo",
       "lb_director_slug": "leonardo-di-costanzo",
-      "lb_year": 2025
+      "lb_year": 2025,
+      "lb_title": "Elisa"
     },
     "omdb": {
       "Title": "Elisa",
@@ -32049,16 +32661,105 @@
     }
   },
   "O Desprezo|1963": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.8,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/by/s9/xe/e8AFmkWiY6MS7Em4GmLuqjEDc1v-0-500-0-750-crop.jpg?v=9745581dd9",
+      "description": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Luc Godard",
+      "lb_director_slug": "jean-luc-godard-1",
+      "lb_year": 1963,
+      "lb_title": "Contempt"
+    },
+    "omdb": {
+      "Title": "Contempt",
+      "Year": "1963",
+      "Rated": "Not Rated",
+      "Released": "18 Dec 1964",
+      "Runtime": "102 min",
+      "Genre": "Drama, Romance",
+      "Director": "Jean-Luc Godard",
+      "Writer": "Alberto Moravia, Jean-Luc Godard",
+      "Actors": "Brigitte Bardot, Jack Palance, Michel Piccoli",
+      "Plot": "A French writer's marriage deteriorates while working on Fritz Lang's version of \"The Odyssey\", as his wife accuses him of using her to court favor with the film's brash American producer.",
+      "Language": "French, English, German, Italian",
+      "Country": "France, Italy",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjJlMzdmNGQtMTMxZi00ZTE0LWIxNWYtYmE3NTZlYWQwNmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "37,823",
+      "imdbID": "tt0057345",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,151,804",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "A Amiga Silenciosa|2025": {
     "lbxd": null,
     "omdb": null
   },
   "As Férias do Sr. Hulot|1953": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "lb_title": "Les Vacances de Monsieur Hulot"
+    },
+    "omdb": {
+      "Title": "Monsieur Hulot's Holiday",
+      "Year": "1953",
+      "Rated": "Not Rated",
+      "Released": "16 Jun 1954",
+      "Runtime": "83 min",
+      "Genre": "Comedy",
+      "Director": "Jacques Tati",
+      "Writer": "Jacques Tati, Henri Marquet, Pierre Aubert",
+      "Actors": "Jacques Tati, Nathalie Pascaud, Micheline Rolla",
+      "Plot": "Monsieur Hulot comes to a beachside hotel for a vacation and accidentally, but good-naturedly, causes havoc.",
+      "Language": "French, English, German",
+      "Country": "France",
+      "Awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YzMmY5ZTMtMjJiNC00NjI0LWI2YzMtNjBiZmJhYzk0NjU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.3",
+      "imdbVotes": "21,232",
+      "imdbID": "tt0046487",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "Cartas Amarelas|2026": {
     "lbxd": null,
@@ -32202,7 +32903,8 @@
       "country": "Japan",
       "lb_director": "Kaneto Shindō",
       "lb_director_slug": "kaneto-shindo-1",
-      "lb_year": 1968
+      "lb_year": 1968,
+      "lb_title": "Kuroneko"
     },
     "omdb": null
   },
@@ -32251,7 +32953,7 @@
   },
   "Ghost|1990": {
     "lbxd": {
-      "rating": 3.61,
+      "rating": 3.62,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/8n/7z/dy/d9/rtxy3cplRFPUvruZajpcoxOQ7bi-0-500-0-750-crop.jpg?v=5eb6ee5f42",
       "description": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
       "genres": [
@@ -32262,7 +32964,8 @@
       "country": "USA",
       "lb_director": "Jerry Zucker",
       "lb_director_slug": "jerry-zucker",
-      "lb_year": 1990
+      "lb_year": 1990,
+      "lb_title": "Ghost"
     },
     "omdb": {
       "Title": "Ghost",
@@ -32317,7 +33020,8 @@
       "country": "USA",
       "lb_director": "Bayley Sweitzer",
       "lb_director_slug": "bayley-sweitzer",
-      "lb_year": 2021
+      "lb_year": 2021,
+      "lb_title": "Nosferasta: First Bite"
     },
     "omdb": {
       "Title": "Nosferasta: First Bite",
@@ -32408,7 +33112,7 @@
   },
   "Sorrowful Shadow|2004": {
     "lbxd": {
-      "rating": 3.37,
+      "rating": 3.38,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/3/5/4/109354-sorrowful-shadow-0-500-0-750-crop.jpg?v=d015b97bcf",
       "description": "Widow Paramo has lost her husband in the plague. Their daughter Dolores is considering suicide with El Muerto preparing himself to welcome her into the darkness. Paramo must triumph over Death in the boxing ring if she wishes to save both her husband and daughter.",
       "genres": [
@@ -32417,7 +33121,8 @@
       "country": "Canada",
       "lb_director": "Guy Maddin",
       "lb_director_slug": "guy-maddin",
-      "lb_year": 2004
+      "lb_year": 2004,
+      "lb_title": "Sorrowful Shadow"
     },
     "omdb": null
   },
@@ -32427,7 +33132,7 @@
   },
   "Craig’s Wife|1936": {
     "lbxd": {
-      "rating": 3.47,
+      "rating": 3.48,
       "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/9/9/6/94996-craig-s-wife-0-500-0-750-crop.jpg?v=1d85c7aaa5",
       "description": "Harriet, Walter Craig's wife, is an upper-class woman obsessed with control, material possessions and social status whose behavior makes difficult her relationship with domestic service and family members.",
       "genres": [
@@ -32436,7 +33141,8 @@
       "country": "USA",
       "lb_director": "Dorothy Arzner",
       "lb_director_slug": "dorothy-arzner",
-      "lb_year": 1936
+      "lb_year": 1936,
+      "lb_title": "Craig's Wife"
     },
     "omdb": {
       "Title": "Craig's Wife",
@@ -32487,7 +33193,8 @@
       "country": "India",
       "lb_director": "Satyajit Ray",
       "lb_director_slug": "satyajit-ray",
-      "lb_year": 1970
+      "lb_year": 1970,
+      "lb_title": "Days and Nights in the Forest"
     },
     "omdb": null
   },
@@ -32502,7 +33209,8 @@
       "country": "Belgium",
       "lb_director": "Juanita Onzaga",
       "lb_director_slug": "juanita-onzaga",
-      "lb_year": 2018
+      "lb_year": 2018,
+      "lb_title": "Our Song to War"
     },
     "omdb": {
       "Title": "Our Song to War",
@@ -32549,7 +33257,8 @@
       "country": "Thailand",
       "lb_director": "Apichatpong Weerasethakul",
       "lb_director_slug": "apichatpong-weerasethakul",
-      "lb_year": 2010
+      "lb_year": 2010,
+      "lb_title": "Uncle Boonmee Who Can Recall His Past Lives"
     },
     "omdb": {
       "Title": "Uncle Boonmee Who Can Recall His Past Lives",
@@ -32605,12 +33314,22 @@
     "omdb": null
   },
   "Massa Mãe|2026": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/3/1/8/4/1603184-massa-mae-0-500-0-750-crop.jpg?v=eb30fc6bef",
+      "description": "Maria and Matías feel life is slipping through their fingers, and turn to birds, real and imagined, in a search for meaning and connection.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Maria Novo",
+      "lb_director_slug": "maria-novo",
+      "lb_year": 2026,
+      "lb_title": "Massa Mãe"
+    },
     "omdb": null
   },
   "All Dogs Go To Heaven|1989": {
     "lbxd": {
-      "rating": 3.6,
+      "rating": 3.61,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/5/0/45250-all-dogs-go-to-heaven-0-500-0-750-crop.jpg?v=0a33939636",
       "description": "When a casino-owning dog named Charlie is murdered by his rival Carface, he finds himself in Heaven. Wanting to get back at his killer, he cons his way back to the living with the warning that doing so damns him to Hell. Once back, he teams with his old partner, Itchy, to prep his retaliation. He stumbles upon an orphan girl who can talk to the animals, thus allowing him to get the inside info on the races to ensure his wins to finance his plans. However, all the while, he is still haunted by nightmares of what's waiting for him on the other side unless he can prove that he is worthy of Heaven again.",
       "genres": [
@@ -32623,7 +33342,8 @@
       "country": "Ireland",
       "lb_director": "Don Bluth",
       "lb_director_slug": "don-bluth",
-      "lb_year": 1989
+      "lb_year": 1989,
+      "lb_title": "All Dogs Go to Heaven"
     },
     "omdb": {
       "Title": "All Dogs Go to Heaven",
@@ -32668,7 +33388,7 @@
   },
   "Amadeus|1984": {
     "lbxd": {
-      "rating": 4.36,
+      "rating": 4.37,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
       "description": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
       "genres": [
@@ -32679,7 +33399,8 @@
       "country": "USA",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 1984
+      "lb_year": 1984,
+      "lb_title": "Amadeus"
     },
     "omdb": {
       "Title": "Amadeus",
@@ -32737,7 +33458,8 @@
       "country": "Czechia",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 2009
+      "lb_year": 2009,
+      "lb_title": "A Walk Worthwhile"
     },
     "omdb": {
       "Title": "A Walk Worthwhile",
@@ -32785,7 +33507,8 @@
       "country": "Japan",
       "lb_director": "Satoshi Kon",
       "lb_director_slug": "satoshi-kon",
-      "lb_year": 1997
+      "lb_year": 1997,
+      "lb_title": "Perfect Blue"
     },
     "omdb": {
       "Title": "Perfect Blue",
@@ -32840,7 +33563,8 @@
       "country": "USA",
       "lb_director": "Elia Kazan",
       "lb_director_slug": "elia-kazan",
-      "lb_year": 1951
+      "lb_year": 1951,
+      "lb_title": "A Streetcar Named Desire"
     },
     "omdb": {
       "Title": "A Streetcar Named Desire",
@@ -32895,7 +33619,8 @@
       "country": "USA",
       "lb_director": "Todd Solondz",
       "lb_director_slug": "todd-solondz",
-      "lb_year": 1998
+      "lb_year": 1998,
+      "lb_title": "Happiness"
     },
     "omdb": {
       "Title": "Happiness",
@@ -33001,7 +33726,8 @@
       "country": "USA",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 1999
+      "lb_year": 1999,
+      "lb_title": "Man on the Moon"
     },
     "omdb": {
       "Title": "Man on the Moon",
@@ -33046,7 +33772,7 @@
   },
   "Millennium Actress|2001": {
     "lbxd": {
-      "rating": 4.23,
+      "rating": 4.24,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/8/8/4/29884-millennium-actress-0-500-0-750-crop.jpg?v=7c3df2e20f",
       "description": "Documentary filmmaker Genya Tachibana has tracked down the legendary actress Chiyoko Fujiwara, who mysteriously vanished at the height of her career. When he presents her with a key she had lost and thought was gone forever, the filmmaker could not have imagined that it would not only unlock the long-held secrets of Chiyoko’s life... but also his own.",
       "genres": [
@@ -33057,7 +33783,8 @@
       "country": "Japan",
       "lb_director": "Satoshi Kon",
       "lb_director_slug": "satoshi-kon",
-      "lb_year": 2001
+      "lb_year": 2001,
+      "lb_title": "Millennium Actress"
     },
     "omdb": {
       "Title": "Millennium Actress",
@@ -33102,7 +33829,7 @@
   },
   "I Walked with a Zombie|1943": {
     "lbxd": {
-      "rating": 3.69,
+      "rating": 3.68,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/7/7/8/34778-i-walked-with-a-zombie-0-500-0-750-crop.jpg?v=10c561ee93",
       "description": "A nurse in the Caribbean turns to voodoo in hopes of curing her patient, a mindless woman whose husband she's fallen in love with.",
       "genres": [
@@ -33114,7 +33841,8 @@
       "country": "USA",
       "lb_director": "Jacques Tourneur",
       "lb_director_slug": "jacques-tourneur",
-      "lb_year": 1943
+      "lb_year": 1943,
+      "lb_title": "I Walked with a Zombie"
     },
     "omdb": {
       "Title": "I Walked with a Zombie",
@@ -33220,7 +33948,8 @@
       "country": "USA",
       "lb_director": "Courtney Stephens",
       "lb_director_slug": "courtney-stephens",
-      "lb_year": 2024
+      "lb_year": 2024,
+      "lb_title": "Invention"
     },
     "omdb": {
       "Title": "Invention",
@@ -33280,7 +34009,8 @@
       "country": "Japan",
       "lb_director": "Hayao Miyazaki",
       "lb_director_slug": "hayao-miyazaki",
-      "lb_year": 1988
+      "lb_year": 1988,
+      "lb_title": "My Neighbor Totoro"
     },
     "omdb": {
       "Title": "My Neighbor Totoro",
@@ -33335,7 +34065,8 @@
       "country": "USA",
       "lb_director": "James Bidgood",
       "lb_director_slug": "james-bidgood",
-      "lb_year": 1971
+      "lb_year": 1971,
+      "lb_title": "Pink Narcissus"
     },
     "omdb": {
       "Title": "Pink Narcissus",
@@ -33437,7 +34168,8 @@
       "country": "Japan",
       "lb_director": "Satoshi Kon",
       "lb_director_slug": "satoshi-kon",
-      "lb_year": 2003
+      "lb_year": 2003,
+      "lb_title": "Tokyo Godfathers"
     },
     "omdb": {
       "Title": "Tokyo Godfathers",
@@ -33489,7 +34221,8 @@
       "country": null,
       "lb_director": "Samuel M. Delgado",
       "lb_director_slug": "samuel-m-delgado",
-      "lb_year": 2016
+      "lb_year": 2016,
+      "lb_title": "Burning Mountains That Spew Flame"
     },
     "omdb": null
   },
@@ -33499,7 +34232,7 @@
   },
   "The Undergrowth|2024": {
     "lbxd": {
-      "rating": 3.29,
+      "rating": 3.31,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/1/3/6/2/1101362-the-undergrowth-0-500-0-750-crop.jpg?v=b994d9c7bd",
       "description": "Three sisters on the Canary Islands, their everyday lives infused with a magical, meditative lyricism. Three life strategies without a breadwinner, narrated via the body, a mix of staging, observation and memory. Before the volcano, serenity arrives.",
       "genres": [
@@ -33508,7 +34241,8 @@
       "country": "Spain",
       "lb_director": "Macu Machín",
       "lb_director_slug": "macu-machin",
-      "lb_year": 2024
+      "lb_year": 2024,
+      "lb_title": "The Undergrowth"
     },
     "omdb": {
       "Title": "The Undergrowth",
@@ -33540,7 +34274,7 @@
   },
   "Wasp|2003": {
     "lbxd": {
-      "rating": 3.91,
+      "rating": 3.9,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/0/7/20707-wasp-0-500-0-750-crop.jpg?v=63cb373c9d",
       "description": "Zoë is a single mother who lives with her four children in Dartford. She is poor and can't afford to buy food. One day her old flame drives by and asks her to go on a date with him. Scared that he doesn't want to go out with her, she lies and tells him that she is just babysitting the kids. This will be her first date in years.",
       "genres": [
@@ -33549,7 +34283,8 @@
       "country": "UK",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 2003
+      "lb_year": 2003,
+      "lb_title": "Wasp"
     },
     "omdb": {
       "Title": "Wasp",
@@ -33586,7 +34321,7 @@
   },
   "Fish Tank|2009": {
     "lbxd": {
-      "rating": 3.83,
+      "rating": 3.82,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/qi/51/2f/90/fish-tank-0-500-0-750-crop.jpg?v=d3f97e3b7b",
       "description": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother’s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
       "genres": [
@@ -33595,7 +34330,8 @@
       "country": "Netherlands",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 2009
+      "lb_year": 2009,
+      "lb_title": "Fish Tank"
     },
     "omdb": {
       "Title": "Fish Tank",
@@ -33651,7 +34387,8 @@
       "country": "Japan",
       "lb_director": "Satoshi Kon",
       "lb_director_slug": "satoshi-kon",
-      "lb_year": 2006
+      "lb_year": 2006,
+      "lb_title": "Paprika"
     },
     "omdb": {
       "Title": "Paprika",
@@ -33707,7 +34444,8 @@
       "country": "USA",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 1971
+      "lb_year": 1971,
+      "lb_title": "Taking Off"
     },
     "omdb": {
       "Title": "Taking Off",
@@ -33757,13 +34495,14 @@
       "country": "France",
       "lb_director": "Jean Anouilh",
       "lb_director_slug": "jean-anouilh",
-      "lb_year": 1944
+      "lb_year": 1944,
+      "lb_title": "The Traveler Without Luggage"
     },
     "omdb": null
   },
   "Milk|1998": {
     "lbxd": {
-      "rating": 3.46,
+      "rating": 3.47,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/3/7/4/124374-milk-0-500-0-750-crop.jpg?v=0c0e5f933b",
       "description": "Andrea Arnold’s directorial debut consists of a woman named Hetty that has a unique way of dealing with the unexpected death of her child.",
       "genres": [
@@ -33772,7 +34511,8 @@
       "country": "UK",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 1998
+      "lb_year": 1998,
+      "lb_title": "Milk"
     },
     "omdb": {
       "Title": "Milk",
@@ -33819,7 +34559,8 @@
       "country": "Denmark",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 2006
+      "lb_year": 2006,
+      "lb_title": "Red Road"
     },
     "omdb": {
       "Title": "Red Road",
@@ -33908,13 +34649,14 @@
       "country": "Spain",
       "lb_director": "Jaione Camborda",
       "lb_director_slug": "jaione-camborda",
-      "lb_year": 2017
+      "lb_year": 2017,
+      "lb_title": "Wild Mane Crop"
     },
     "omdb": null
   },
   "Arraianos|2012": {
     "lbxd": {
-      "rating": 3.44,
+      "rating": 3.43,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/2/5/1/115251-arraianos-0-500-0-750-crop.jpg?v=2c20fe5e9f",
       "description": "The inhabitants of a small village lost in the woodland between Galicia and Portugal play their own life mixed with dialogues from O bosque, a play by Galician writer Marinhas del Valle. Arraianos portrays a rural community in its obstinate resistance against disappearance.",
       "genres": [
@@ -33923,7 +34665,8 @@
       "country": "Spain",
       "lb_director": "Eloy Enciso",
       "lb_director_slug": "eloy-enciso",
-      "lb_year": 2012
+      "lb_year": 2012,
+      "lb_title": "Arraianos"
     },
     "omdb": {
       "Title": "Arraianos",
@@ -33971,7 +34714,8 @@
       "country": "Japan",
       "lb_director": "Katsuhiro Otomo",
       "lb_director_slug": "katsuhiro-otomo-1",
-      "lb_year": 1995
+      "lb_year": 1995,
+      "lb_title": "Memories"
     },
     "omdb": {
       "Title": "Memories",
@@ -34008,7 +34752,7 @@
   },
   "They All Lie|2009": {
     "lbxd": {
-      "rating": 3.41,
+      "rating": 3.4,
       "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/8/4/9/99849-they-all-lie-0-500-0-750-crop.jpg?v=1e5ebb8b2a",
       "description": "A group of girls and boys in their twenties settle in a country house that seems completely isolated from civilization, invited by Helena, who plans something humiliating for one of the guests.",
       "genres": [
@@ -34017,7 +34761,8 @@
       "country": "Argentina",
       "lb_director": "Matías Piñeiro",
       "lb_director_slug": "matias-pineiro",
-      "lb_year": 2009
+      "lb_year": 2009,
+      "lb_title": "Everyone Lies"
     },
     "omdb": null
   },
@@ -34033,7 +34778,8 @@
       "country": "Argentina",
       "lb_director": "Matías Piñeiro",
       "lb_director_slug": "matias-pineiro",
-      "lb_year": 2024
+      "lb_year": 2024,
+      "lb_title": "You Burn Me"
     },
     "omdb": {
       "Title": "You Burn Me",
@@ -34075,7 +34821,8 @@
       "country": "USA",
       "lb_director": "Barry Sonnenfeld",
       "lb_director_slug": "barry-sonnenfeld",
-      "lb_year": 1991
+      "lb_year": 1991,
+      "lb_title": "The Addams Family"
     },
     "omdb": {
       "Title": "The Addams Family",
@@ -34120,7 +34867,7 @@
   },
   "Hair|1979": {
     "lbxd": {
-      "rating": 3.72,
+      "rating": 3.71,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/0/2/0/46020-hair-0-500-0-750-crop.jpg?v=1316a198cb",
       "description": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
       "genres": [
@@ -34131,7 +34878,8 @@
       "country": "Germany",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 1979
+      "lb_year": 1979,
+      "lb_title": "Hair"
     },
     "omdb": {
       "Title": "Hair",
@@ -34185,7 +34933,8 @@
       "country": "UK",
       "lb_director": "Stanley Schtinter",
       "lb_director_slug": "stanley-schtinter",
-      "lb_year": 2026
+      "lb_year": 2026,
+      "lb_title": "Last Movies"
     },
     "omdb": {
       "Title": "Last Movies",
@@ -34226,7 +34975,8 @@
       "country": "UK",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 2001
+      "lb_year": 2001,
+      "lb_title": "Dog"
     },
     "omdb": {
       "Title": "Dog",
@@ -34273,7 +35023,8 @@
       "country": "UK",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 2011
+      "lb_year": 2011,
+      "lb_title": "Wuthering Heights"
     },
     "omdb": {
       "Title": "Wuthering Heights",
@@ -34445,7 +35196,7 @@
   },
   "Elephant|2003": {
     "lbxd": {
-      "rating": 3.45,
+      "rating": 3.44,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/83/vy/ou/e2/AgSWtbb8zMtTyjHFP12QeRbQGD5-0-500-0-750-crop.jpg?v=27813a0514",
       "description": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
       "genres": [
@@ -34455,7 +35206,8 @@
       "country": "USA",
       "lb_director": "Gus Van Sant",
       "lb_director_slug": "gus-van-sant",
-      "lb_year": 2003
+      "lb_year": 2003,
+      "lb_title": "Elephant"
     },
     "omdb": {
       "Title": "Elephant",
@@ -34511,7 +35263,8 @@
       "country": "Belgium",
       "lb_director": "Anca Damian",
       "lb_director_slug": "anca-damian",
-      "lb_year": 2019
+      "lb_year": 2019,
+      "lb_title": "Marona's Fantastic Tale"
     },
     "omdb": {
       "Title": "Marona's Fantastic Tale",
@@ -34565,7 +35318,8 @@
       "country": "Italy",
       "lb_director": "Lina Wertmüller",
       "lb_director_slug": "lina-wertmuller",
-      "lb_year": 1972
+      "lb_year": 1972,
+      "lb_title": "The Seduction of Mimi"
     },
     "omdb": {
       "Title": "The Seduction of Mimi",
@@ -34615,7 +35369,8 @@
       "country": "France",
       "lb_director": "Jean Cocteau",
       "lb_director_slug": "jean-cocteau",
-      "lb_year": 1948
+      "lb_year": 1948,
+      "lb_title": "The Storm Within"
     },
     "omdb": null
   },
@@ -34673,7 +35428,8 @@
       "country": "France",
       "lb_director": "Tiago Guedes",
       "lb_director_slug": "tiago-guedes",
-      "lb_year": 2026
+      "lb_year": 2026,
+      "lb_title": "Aquí"
     },
     "omdb": {
       "Title": "Aquí",
@@ -34719,7 +35475,8 @@
       "country": "Portugal",
       "lb_director": "Marta Mateus",
       "lb_director_slug": "marta-mateus",
-      "lb_year": 2017
+      "lb_year": 2017,
+      "lb_title": "Barbs, Wastelands"
     },
     "omdb": {
       "Title": "Farpões, baldios",
@@ -34756,7 +35513,7 @@
   },
   "Rocío|1980": {
     "lbxd": {
-      "rating": 3.66,
+      "rating": 3.65,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/4/6/3/8/214638-rocio-0-500-0-750-crop.jpg?v=cd635c52b5",
       "description": "The film shows the genesis of the El Rocío pilgrimage and unveils the economic, socio-political and religious reasons and interests that nurture the phenomenon.",
       "genres": [
@@ -34765,7 +35522,8 @@
       "country": "Spain",
       "lb_director": "Fernando Ruiz Vergara",
       "lb_director_slug": "fernando-ruiz-vergara",
-      "lb_year": 1980
+      "lb_year": 1980,
+      "lb_title": "Rocío"
     },
     "omdb": {
       "Title": "Rocío",
@@ -34802,7 +35560,7 @@
   },
   "Black Peter|1964": {
     "lbxd": {
-      "rating": 3.58,
+      "rating": 3.57,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/3/8/8/18388-black-peter-0-500-0-750-crop.jpg?v=19f8c902a6",
       "description": "A few days in the life of a Czechoslovak teenager when he starts work.",
       "genres": [
@@ -34812,7 +35570,8 @@
       "country": "Czechoslovakia",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 1964
+      "lb_year": 1964,
+      "lb_title": "Black Peter"
     },
     "omdb": {
       "Title": "Black Peter",
@@ -34859,7 +35618,8 @@
       "country": "France",
       "lb_director": "Yann Gonzalez",
       "lb_director_slug": "yann-gonzalez",
-      "lb_year": 2012
+      "lb_year": 2012,
+      "lb_title": "Land of My Dreams"
     },
     "omdb": {
       "Title": "Land of My Dreams",
@@ -34907,7 +35667,8 @@
       "country": "Portugal",
       "lb_director": "André Guiomar",
       "lb_director_slug": "andre-guiomar",
-      "lb_year": 2022
+      "lb_year": 2022,
+      "lb_title": "Saturn"
     },
     "omdb": null
   },
@@ -34921,7 +35682,7 @@
   },
   "La furgo|2025": {
     "lbxd": {
-      "rating": 3.17,
+      "rating": 3.18,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/1/1/4/2/1261142-the-van-2025-0-500-0-750-crop.jpg?v=981e612895",
       "description": "Living in a van on the outskirts of Barcelona, Bear (Pol López) does everything he can to give his six-year-old daughter a life filled with joy, even when there's little to hold onto. Between unsteady routines and fragile hopes, their bond becomes a quiet act of resistance. A heartfelt story about love, dignity, and the small miracles that can bloom in the hardest places.",
       "genres": [
@@ -34932,7 +35693,8 @@
       "country": "Spain",
       "lb_director": "Eloy Calvo",
       "lb_director_slug": "eloy-calvo",
-      "lb_year": 2025
+      "lb_year": 2025,
+      "lb_title": "The Van"
     },
     "omdb": {
       "Title": "La furgo",
@@ -34973,7 +35735,8 @@
       "country": "UK",
       "lb_director": "Andrea Arnold",
       "lb_director_slug": "andrea-arnold",
-      "lb_year": 2016
+      "lb_year": 2016,
+      "lb_title": "American Honey"
     },
     "omdb": {
       "Title": "American Honey",
@@ -35027,7 +35790,8 @@
       "country": "Canada",
       "lb_director": "Eva Szasz",
       "lb_director_slug": "eva-szasz",
-      "lb_year": 1995
+      "lb_year": 1995,
+      "lb_title": "Hoodoo McFiggin's Christmas"
     },
     "omdb": {
       "Title": "Hoodoo McFiggin's Christmas",
@@ -35059,7 +35823,7 @@
   },
   "Plácido|1961": {
     "lbxd": {
-      "rating": 3.79,
+      "rating": 3.78,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/4/8/2/14482-placido-0-500-0-750-crop.jpg?v=7ed381227a",
       "description": "In a small Spanish town, during the Christmas holidays, a group of rich old ladies organize a peculiar event that consists of inviting a homeless person to sit down to dinner at their wealthy table. Plácido, a humble worker, is hired by the organizers to participate in a parade with his three-wheeled vehicle, a seemingly simple mission that will not be easy for him to accomplish.",
       "genres": [
@@ -35068,7 +35832,8 @@
       "country": "Spain",
       "lb_director": "Luis García Berlanga",
       "lb_director_slug": "luis-garcia-berlanga",
-      "lb_year": 1961
+      "lb_year": 1961,
+      "lb_title": "Placido"
     },
     "omdb": {
       "Title": "Placido",
@@ -35119,7 +35884,8 @@
       "country": "France",
       "lb_director": "Gaspar Noé",
       "lb_director_slug": "gaspar-noe",
-      "lb_year": 2009
+      "lb_year": 2009,
+      "lb_title": "Enter the Void"
     },
     "omdb": {
       "Title": "Enter the Void",
@@ -35174,7 +35940,8 @@
       "country": "France",
       "lb_director": "Liliane de Kermadec",
       "lb_director_slug": "liliane-de-kermadec",
-      "lb_year": 1975
+      "lb_year": 1975,
+      "lb_title": "Aloïse"
     },
     "omdb": {
       "Title": "Aloïse",
@@ -35220,7 +35987,8 @@
       "country": "USA",
       "lb_director": "Miloš Forman",
       "lb_director_slug": "milos-forman",
-      "lb_year": 1975
+      "lb_year": 1975,
+      "lb_title": "One Flew Over the Cuckoo's Nest"
     },
     "omdb": {
       "Title": "One Flew Over the Cuckoo's Nest",
@@ -35295,13 +36063,14 @@
       "country": "Portugal",
       "lb_director": "Paulo Rocha",
       "lb_director_slug": "paulo-rocha-1",
-      "lb_year": 1963
+      "lb_year": 1963,
+      "lb_title": "The Green Years"
     },
     "omdb": null
   },
   "A Matter of Life and Death|1946": {
     "lbxd": {
-      "rating": 4.27,
+      "rating": 4.26,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/6/9/33869-a-matter-of-life-and-death-0-500-0-750-crop.jpg?v=7da2d41a7b",
       "description": "A British wartime aviator who cheats death must argue for his life before a celestial court, hoping to prolong his fledgling romance with an American girl.",
       "genres": [
@@ -35313,7 +36082,8 @@
       "country": "UK",
       "lb_director": "Emeric Pressburger",
       "lb_director_slug": "emeric-pressburger",
-      "lb_year": 1946
+      "lb_year": 1946,
+      "lb_title": "A Matter of Life and Death"
     },
     "omdb": {
       "Title": "A Matter of Life and Death",
@@ -35624,7 +36394,8 @@
       "country": "UK",
       "lb_director": "François Truffaut",
       "lb_director_slug": "francois-truffaut",
-      "lb_year": 1966
+      "lb_year": 1966,
+      "lb_title": "Fahrenheit 451"
     },
     "omdb": {
       "Title": "Fahrenheit 451",
@@ -35834,7 +36605,8 @@
       "country": "USA",
       "lb_director": "Elia Kazan",
       "lb_director_slug": "elia-kazan",
-      "lb_year": 1961
+      "lb_year": 1961,
+      "lb_title": "Splendor in the Grass"
     },
     "omdb": {
       "Title": "Splendor in the Grass",
@@ -35946,7 +36718,8 @@
       "country": "USA",
       "lb_director": "Robert Mulligan",
       "lb_director_slug": "robert-mulligan",
-      "lb_year": 1963
+      "lb_year": 1963,
+      "lb_title": "Love with the Proper Stranger"
     },
     "omdb": {
       "Title": "Love with the Proper Stranger",
@@ -35986,8 +36759,60 @@
     }
   },
   "The Blackboard Jungle|1955": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/2/6/1/35261-blackboard-jungle-0-500-0-750-crop.jpg?v=030e5cf145",
+      "description": "Richard Dadier is a teacher at North Manual High School, an inner-city school where many of the pupils frequently engage in anti-social behavior. Dadier makes various attempts to engage the students' interest in education, challenging both the school staff and the pupils. He is subjected to violence as well as duplicitous schemes.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Richard Brooks",
+      "lb_director_slug": "richard-brooks",
+      "lb_year": 1955,
+      "lb_title": "Blackboard Jungle"
+    },
+    "omdb": {
+      "Title": "Blackboard Jungle",
+      "Year": "1955",
+      "Rated": "Approved",
+      "Released": "25 Mar 1955",
+      "Runtime": "101 min",
+      "Genre": "Crime, Drama",
+      "Director": "Richard Brooks",
+      "Writer": "Richard Brooks, Evan Hunter",
+      "Actors": "Glenn Ford, Anne Francis, Louis Calhern",
+      "Plot": "A new English teacher at a violent, unruly inner-city school is determined to do his job, despite resistance from both students and faculty.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 4 Oscars. 1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWM2ZDQ5YWItZWJlNC00M2RkLWEwNjktNjFhMzM4MWNjMzIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "7.4",
+      "imdbVotes": "10,287",
+      "imdbID": "tt0047885",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "The Trouble With Angels|1966": {
     "lbxd": {
@@ -36000,7 +36825,8 @@
       "country": "USA",
       "lb_director": "Ida Lupino",
       "lb_director_slug": "ida-lupino",
-      "lb_year": 1966
+      "lb_year": 1966,
+      "lb_title": "The Trouble with Angels"
     },
     "omdb": {
       "Title": "The Trouble with Angels",
@@ -36052,7 +36878,8 @@
       "country": "USA",
       "lb_director": "Michael Curtiz",
       "lb_director_slug": "michael-curtiz",
-      "lb_year": 1958
+      "lb_year": 1958,
+      "lb_title": "King Creole"
     },
     "omdb": {
       "Title": "King Creole",
@@ -36104,7 +36931,8 @@
       "country": "USA",
       "lb_director": "Mike Nichols",
       "lb_director_slug": "mike-nichols",
-      "lb_year": 1967
+      "lb_year": 1967,
+      "lb_title": "The Graduate"
     },
     "omdb": {
       "Title": "The Graduate",
@@ -36159,7 +36987,8 @@
       "country": "UK",
       "lb_director": "Otto Preminger",
       "lb_director_slug": "otto-preminger",
-      "lb_year": 1958
+      "lb_year": 1958,
+      "lb_title": "Bonjour Tristesse"
     },
     "omdb": {
       "Title": "Bonjour Tristesse",
@@ -36200,7 +37029,7 @@
   },
   "Lilith|1964": {
     "lbxd": {
-      "rating": 3.46,
+      "rating": 3.45,
       "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/6/0/6160-lilith-0-500-0-750-crop.jpg?v=c7e0daec47",
       "description": "Vincent Bruce, a war veteran, begins working as an occupational therapist at Poplar Lodge, a private psychiatric facility for wealthy people where he meets Lilith Arthur, a charming young woman suffering from schizophrenia, whose fragile beauty captivates all who meet her.",
       "genres": [
@@ -36211,7 +37040,8 @@
       "country": "USA",
       "lb_director": "Robert Rossen",
       "lb_director_slug": "robert-rossen",
-      "lb_year": 1964
+      "lb_year": 1964,
+      "lb_title": "Lilith"
     },
     "omdb": {
       "Title": "Lilith",
@@ -36263,7 +37093,8 @@
       "country": "USA",
       "lb_director": "Jerome Robbins",
       "lb_director_slug": "jerome-robbins",
-      "lb_year": 1961
+      "lb_year": 1961,
+      "lb_title": "West Side Story"
     },
     "omdb": {
       "Title": "West Side Story",
@@ -36383,7 +37214,8 @@
       "country": "USA",
       "lb_director": "Robert Mulligan",
       "lb_director_slug": "robert-mulligan",
-      "lb_year": 1965
+      "lb_year": 1965,
+      "lb_title": "Inside Daisy Clover"
     },
     "omdb": {
       "Title": "Inside Daisy Clover",
@@ -36454,8 +37286,397 @@
       "country": "USA",
       "lb_director": "Roger Corman",
       "lb_director_slug": "roger-corman",
-      "lb_year": 1967
+      "lb_year": 1967,
+      "lb_title": "The Trip"
     },
     "omdb": null
+  },
+  "The Wild One|1953": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/4/4/7/33447-the-wild-one-0-500-0-750-crop.jpg?v=7c5b1fdeae",
+      "description": "The Black Rebels Motorcycle Club ride into the small California town of Wrightsville, eager to raise hell. Brooding gang leader Johnny Strabler takes a liking to Kathie, the daughter of the local lawman, as another club rolls into town.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "László Benedek",
+      "lb_director_slug": "laszlo-benedek-1",
+      "lb_year": 1953,
+      "lb_title": "The Wild One"
+    },
+    "omdb": {
+      "Title": "The Wild One",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "01 Feb 1954",
+      "Runtime": "79 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Laslo Benedek",
+      "Writer": "John Paxton, Frank Rooney, Ben Maddow",
+      "Actors": "Marlon Brando, Mary Murphy, Robert Keith",
+      "Plot": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "6.7",
+      "imdbVotes": "18,996",
+      "imdbID": "tt0047677",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Los montes|1982": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/4/5/2/5/384525-los-montes-0-500-0-750-crop.jpg?v=e6090a1b91",
+      "description": "Los Montes de la Ermita, region of Bierzo Alto, in the province of León, Spain. Six women assist Joaquín —the only and last inhabitant of the remote village, located on the slopes of the mythical and mysterious Catoute Peak—, who is in danger of death due to an unfortunate accident.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "José María Martín Sarmiento",
+      "lb_director_slug": "jose-maria-martin-sarmiento",
+      "lb_year": 1982,
+      "lb_title": "Los Montes"
+    },
+    "omdb": {
+      "Title": "Los montes",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "35 min",
+      "Genre": "Documentary, Short",
+      "Director": "José María Martín Sarmiento",
+      "Writer": "José María Martín Sarmiento",
+      "Actors": "Carolina Sarmiento, Catalina Calvete, Elisa Alonso",
+      "Plot": "Filmed in Bierzo Alto and its surroundings, a remote and almost deserted village located in the Spanish province of León, this medium-length film was the Graduation project of its director and predates the Documentary style of the...",
+      "Language": "Spanish",
+      "Country": "Canada",
+      "Awards": "1 nomination",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "20",
+      "imdbID": "tt0329391",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Loves of a Blonde|1965": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/2/9/4/25294-loves-of-a-blonde-0-500-0-750-crop.jpg?v=cf566519a9",
+      "description": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "Czechoslovakia",
+      "lb_director": "Miloš Forman",
+      "lb_director_slug": "milos-forman",
+      "lb_year": 1965,
+      "lb_title": "Loves of a Blonde"
+    },
+    "omdb": {
+      "Title": "Loves of a Blonde",
+      "Year": "1965",
+      "Rated": "Not Rated",
+      "Released": "26 Oct 1966",
+      "Runtime": "88 min",
+      "Genre": "Comedy, Romance, Drama",
+      "Director": "Milos Forman",
+      "Writer": "Jaroslav Papousek, Milos Forman, Ivan Passer",
+      "Actors": "Hana Brejchová, Vladimír Pucholt, Vladimír Mensík",
+      "Plot": "Factory manager gets army reserves to boost female workers' morale. Local beauty spurns them for jazz pianist who seduces her. She leaves for Prague to find him but his parents are displeased when she arrives.",
+      "Language": "Czech",
+      "Country": "Czechoslovakia",
+      "Awards": "Nominated for 1 Oscar. 2 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTkxY2ItY2FmZC00YjYzLThjNTktNzU2NWFmZTAyNWM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "10,017",
+      "imdbID": "tt0059415",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Othello|1951": {
+    "lbxd": {
+      "rating": 3.84,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/1/7/17717-othello-0-500-0-750-crop.jpg?v=cc174065cb",
+      "description": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Orson Welles",
+      "lb_director_slug": "orson-welles-1",
+      "lb_year": 1951,
+      "lb_title": "Othello"
+    },
+    "omdb": {
+      "Title": "Othello",
+      "Year": "1951",
+      "Rated": "Approved",
+      "Released": "12 Sep 1955",
+      "Runtime": "90 min",
+      "Genre": "Drama, Romance",
+      "Director": "Orson Welles",
+      "Writer": "William Shakespeare, Orson Welles, Jean Sacha",
+      "Actors": "Orson Welles, Micheál MacLiammóir, Robert Coote",
+      "Plot": "The Moorish General Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his Lieutenant Michael Cassio when in reality, it is all part of the scheme of a bitter Ensign named Iago.",
+      "Language": "English, Latin",
+      "Country": "Italy, United States",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWM4MjQ3MGEtMGNmYS00NjJhLWFhMTUtOTg4N2Y3N2FjZjE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "9,676",
+      "imdbID": "tt0045251",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$28,980",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Festa, Trabalho e Pão em Grijó de Parada|1974": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/7/9/5/6/537956-festa-trabalho-e-pao-em-grijo-de-parada-0-500-0-750-crop.jpg?v=f7adf7e20e",
+      "description": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Manuel Costa e Silva",
+      "lb_director_slug": "manuel-costa-e-silva",
+      "lb_year": 1974,
+      "lb_title": "Festa, Trabalho e Pão em Grijó de Parada"
+    },
+    "omdb": {
+      "Title": "Festa, Trabalho e Pão em Grijó de Parada",
+      "Year": "1974",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "35 min",
+      "Genre": "Documentary, Short",
+      "Director": "Manuel Costa e Silva",
+      "Writer": "Vítor Silva Tavares, António Reis",
+      "Actors": "Manuel Costa e Silva",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0121330",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "The Family and the Zombie|2022": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/7/7/2/9/867729-the-family-and-the-zombie-0-500-0-750-crop.jpg?v=b9be931587",
+      "description": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "Australia",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2022,
+      "lb_title": "The Family and the Zombie"
+    },
+    "omdb": null
+  },
+  "An Asian Ghost Story|2022": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/5/6/5/4/995654-an-asian-ghost-story-0-500-0-750-crop.jpg?v=fe2f5e8b2a",
+      "description": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Wang Bo",
+      "lb_director_slug": "wang-bo",
+      "lb_year": 2022,
+      "lb_title": "An Asian Ghost Story"
+    },
+    "omdb": {
+      "Title": "An Asian Ghost Story",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "22 Mar 2023",
+      "Runtime": "37 min",
+      "Genre": "Short, Horror, Mystery",
+      "Director": "Bo Wang",
+      "Writer": "Bo Wang",
+      "Actors": "Michael de Roos, Sydney Vereycken, Sai Wang Lau",
+      "Plot": "This film is about haunting memories of Asia's late 20th-century modernization. The story departs from a 1965 United States embargo on the hair trade, known as the \"Communist Hair Ban\". Yet, in every wig resides a ghost from the i...",
+      "Language": "English, Chinese",
+      "Country": "Netherlands, China",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzllNjViM2YtYWE2NC00NTM2LWFmN2QtNzY5MmEzYTM5N2U4XkEyXkFqcGdeQXVyNDU4OTczMTY@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "14",
+      "imdbID": "tt19387240",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  },
+  "Oh Be a Fine Girl Kiss Me|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/0/6/3/7/1380637-oh-be-a-fine-girl-kiss-me-0-500-0-750-crop.jpg?v=886018e3e7",
+      "description": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
+      "genres": [
+        "Science Fiction",
+        "Documentary",
+        "History"
+      ],
+      "country": "Portugal",
+      "lb_director": "Alice Dos Reis",
+      "lb_director_slug": "alice-dos-reis",
+      "lb_year": 2025,
+      "lb_title": "Oh Be a Fine Girl Kiss Me"
+    },
+    "omdb": null
+  },
+  "Three Less Me|1988": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/5/5/6/369556-three-less-me-0-500-0-750-crop.jpg?v=d5d001f86f",
+      "description": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "João Canijo",
+      "lb_director_slug": "joao-canijo",
+      "lb_year": 1988,
+      "lb_title": "Three Less Me"
+    },
+    "omdb": null
+  },
+  "PERSEPOLIS|2007": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Persepolis",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "22 Feb 2008",
+      "Runtime": "96 min",
+      "Genre": "Animation, Biography, Drama",
+      "Director": "Vincent Paronnaud, Marjane Satrapi",
+      "Writer": "Marjane Satrapi, Vincent Paronnaud",
+      "Actors": "Chiara Mastroianni, Catherine Deneuve, Gena Rowlands",
+      "Plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+      "Language": "French, English, Persian, German",
+      "Country": "France, United States",
+      "Awards": "Nominated for 1 Oscar. 30 wins & 58 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.0",
+      "imdbVotes": "102,920",
+      "imdbID": "tt0808417",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,445,756",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   }
 }
