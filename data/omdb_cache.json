@@ -43363,7 +43363,7 @@
       "year": 1987,
       "director": "Agnès Varda"
     },
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "As Cento e uma Noites de Simon Cinéma|1995": {
     "lbxd": {
@@ -43964,7 +43964,7 @@
       "year": 1982,
       "director": "Agnès Varda"
     },
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Duas Horas na Vida de uma Mulher|1962": {
     "lbxd": {
@@ -44196,7 +44196,7 @@
       "year": 1987,
       "director": "Agnès Varda"
     },
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Os Noivos da Ponte Mac Donald|1962": {
     "lbxd": {
@@ -44222,7 +44222,7 @@
       "year": 1961,
       "director": "Agnès Varda"
     },
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Elsa, a Rosa|1966": {
     "lbxd": {
@@ -44279,7 +44279,7 @@
       "year": 1965,
       "director": "Agnès Varda"
     },
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Audition|1964": {
     "lbxd": {
@@ -44330,7 +44330,7 @@
     },
     "wiki": null,
     "cinema": {},
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Bread|1959": {
     "lbxd": {
@@ -44349,7 +44349,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "UM TOQUE FAMILIAR|2024": {
     "lbxd": {
@@ -44407,7 +44407,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "BROKEN ENGLISH|2007": {
     "lbxd": {
@@ -44467,7 +44467,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A SAGA DE ANATAHAN|1953": {
     "lbxd": {
@@ -44522,7 +44522,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "SOY CUBA|1964": {
     "lbxd": {
@@ -44580,7 +44580,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A PISCINA|1969": {
     "lbxd": {
@@ -44704,6 +44704,6 @@
       "year": 1992,
       "director": "Les Demoiselles ont eu 25 ans"
     },
-    "wiki_tries": 1
+    "wiki_tries": 2
   }
 }
