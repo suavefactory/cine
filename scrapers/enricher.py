@@ -15,6 +15,13 @@ import cinema_meta
 OMDB_KEY   = "trilogy"
 CACHE_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "omdb_cache.json")
 
+# A Wikimedia exige um User-Agent que identifique a aplicação e dê forma de
+# contacto; agentes genéricos apanham throttling agressivo. Com "cinelisboa/1.0"
+# cada pedido demorava 15s (429 + espera) e uma corrida completa era impossível.
+WIKI_HEADERS = {
+    "User-Agent": "sesh.pt/1.0 (https://sesh.pt; ruipedrosimoes14@gmail.com)",
+}
+
 HEADERS_BROWSER = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -630,7 +637,7 @@ def omdb_fetch(title, year=None):
     if year:
         params["y"] = str(year)
     url = "https://www.omdbapi.com/?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    req = urllib.request.Request(url, headers=WIKI_HEADERS)
     with urllib.request.urlopen(req, timeout=8) as r:
         return json.loads(r.read().decode())
 
@@ -638,7 +645,7 @@ def omdb_fetch_by_id(imdb_id):
     """Lookup exato por IMDb ID — não depende de o título bater certo."""
     params = {"i": imdb_id, "apikey": OMDB_KEY}
     url = "https://www.omdbapi.com/?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    req = urllib.request.Request(url, headers=WIKI_HEADERS)
     with urllib.request.urlopen(req, timeout=8) as r:
         return json.loads(r.read().decode())
 
@@ -809,7 +816,7 @@ def _wikidata_qid(name):
 
 
 def _wiki_api_wikidata_raw(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "sesh.pt/1.0 (https://sesh.pt)"})
+    req = urllib.request.Request(url, headers=WIKI_HEADERS)
     with urllib.request.urlopen(req, timeout=20) as r:
         return json.loads(r.read())
 
@@ -836,7 +843,7 @@ def wikidata_filmography(director, cache):
 }}"""
     url = "https://query.wikidata.org/sparql?format=json&query=" + urllib.parse.quote(query)
     req = urllib.request.Request(url, headers={
-        "User-Agent": "sesh.pt/1.0 (https://sesh.pt)",
+        **WIKI_HEADERS,
         "Accept": "application/sparql-results+json",
     })
     try:
@@ -1117,6 +1124,17 @@ def enrich(movies):
                     except Exception:
                         pass
 
+            # Descrição em português para os filmes que o cinema não descreve.
+            # O bloco acima só consulta a Wikipédia quando falta rating, por
+            # isso um filme que resolvia logo no Letterboxd nunca chegava a
+            # ser procurado e ficava para sempre só com a descrição inglesa —
+            # era o caso de toda a programação do Cinema Ideal.
+            if wiki is None and not cinema_plot_pt:
+                wiki = resolve_english_title(
+                    title, year, director=director,
+                    extra_titles=(orig_title, (lb or {}).get("lb_title"),
+                                  (omdb or {}).get("Title")))
+
             cache[key] = {"lbxd": lb, "omdb": omdb, "wiki": wiki, "cinema": meta}
             changed = True
             if lb and lb.get("rating"):
@@ -1193,10 +1211,14 @@ def enrich(movies):
         # é escrita para este filme, em português de Portugal, e é a que o
         # espectador vê no site do cinema. A intro do artigo da Wikipédia PT
         # (já validada) só entra quando o cinema não publica sinopse.
-        if cinema_plot_pt:
+        # Às vezes o campo da sinopse traz só uma citação de crítica ("O cinema
+        # é Nicholas Ray" — Godard, no Johnny Guitar): curto de mais para
+        # servir de descrição, e nesse caso a Wikipédia diz mais ao espectador.
+        wiki_pt = (wiki or {}).get("extract_pt")
+        if cinema_plot_pt and (len(cinema_plot_pt) >= 100 or not wiki_pt):
             movie["plot_pt"] = cinema_plot_pt
-        elif wiki and wiki.get("extract_pt"):
-            movie["plot_pt"] = wiki["extract_pt"]
+        elif wiki_pt:
+            movie["plot_pt"] = wiki_pt
 
         # Título inglês (para a versão EN do site): Letterboxd primeiro (mais
         # fiável para cinema de autor/festival), fallback OMDB. Só grava se
@@ -1223,6 +1245,17 @@ def enrich(movies):
             # scraped "In the Mood For Love — Disponível Para Amar" já mostra
             # o nome inglês; sobrepor com uma variante tipo "in the mood for
             # love" sem maiúsculas só piorava a apresentação).
+            # Vários cinemas listam o filme como "título internacional —
+            # subtítulo português" ("In the Mood For Love — Disponível Para
+            # Amar"). Nesse caso a versão inglesa é só a parte de lá, com a
+            # capitalização tal como o cinema a escreve.
+            if title_slug and title_slug in orig_slug and title_slug != orig_slug:
+                for part in re.split(r'\s+[—–\-:]\s+', movie.get("title", "")):
+                    if to_slug(part) == title_slug:
+                        title_en = part.strip()
+                        orig_slug = ""      # deixa de ser redundante
+                        break
+
             same = bool(title_slug) and (title_slug == orig_slug or title_slug in orig_slug)
             if title_en and not same:
                 movie["title_en"] = title_en
@@ -1287,7 +1320,7 @@ def wiki_director(name):
         "redirects":  1,
     })
     url = f"https://en.wikipedia.org/w/api.php?{params}"
-    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    req = urllib.request.Request(url, headers=WIKI_HEADERS)
     # Uma corrida completa pede dezenas de realizadores seguidos e a Wikipédia
     # responde 429 a meio — sem esperar e tentar de novo, perdia-se a foto e a
     # bio de metade dos realizadores por uma razão puramente transitória.
@@ -1324,7 +1357,7 @@ def wiki_director(name):
 
 def _wiki_api(lang, params):
     url = f"https://{lang}.wikipedia.org/w/api.php?{urllib.parse.urlencode(params)}"
-    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    req = urllib.request.Request(url, headers=WIKI_HEADERS)
     try:
         with urllib.request.urlopen(req, timeout=10) as r:
             return json.loads(r.read())
@@ -1386,7 +1419,7 @@ def _wikidata_claims(wikidata_id):
 
 def _wiki_api_wikidata(params):
     url = f"https://www.wikidata.org/w/api.php?{urllib.parse.urlencode(params)}"
-    req = urllib.request.Request(url, headers={"User-Agent": "cinelisboa/1.0"})
+    req = urllib.request.Request(url, headers=WIKI_HEADERS)
     with urllib.request.urlopen(req, timeout=10) as r:
         return json.loads(r.read())
 
@@ -1409,7 +1442,15 @@ def resolve_english_title(title, year=None, director=None, extra_titles=()):
     arquiva o artigo pelo título de distribuição — "SOY CUBA" não é
     encontrado, "I Am Cuba" é —, por isso vale a pena tentar todas.
     """
-    for q in (title,) + tuple(t for t in extra_titles if t and t != title):
+    queries = [title] + [t for t in extra_titles if t and t != title]
+    # Último recurso: título + realizador. A pesquisa por título sozinho falha
+    # quando a Wikipédia portuguesa arquiva o filme pelo título original
+    # ("A PISCINA" e "The Swimming Pool" não encontram nada, "A Piscina
+    # Jacques Deray" traz "La piscine"), e o nome do realizador é o termo que
+    # liga os dois.
+    if director:
+        queries.append(f"{title} {director}")
+    for q in queries:
         found = _wiki_lookup_film(q, year, director)
         if found:
             return found
@@ -1491,7 +1532,7 @@ def wikidata_director(name):
         })
         req = urllib.request.Request(
             f"https://www.wikidata.org/w/api.php?{search_params}",
-            headers={"User-Agent": "cinelisboa/1.0"},
+            headers=WIKI_HEADERS,
         )
         with urllib.request.urlopen(req, timeout=10) as r:
             results = json.loads(r.read()).get("search", [])
@@ -1514,7 +1555,7 @@ def wikidata_director(name):
         })
         req = urllib.request.Request(
             f"https://www.wikidata.org/w/api.php?{entity_params}",
-            headers={"User-Agent": "cinelisboa/1.0"},
+            headers=WIKI_HEADERS,
         )
         with urllib.request.urlopen(req, timeout=10) as r:
             entity_data = json.loads(r.read())
@@ -1534,7 +1575,7 @@ def wikidata_director(name):
         })
         req = urllib.request.Request(
             f"https://commons.wikimedia.org/w/api.php?{img_params}",
-            headers={"User-Agent": "cinelisboa/1.0"},
+            headers=WIKI_HEADERS,
         )
         with urllib.request.urlopen(req, timeout=10) as r:
             img_data = json.loads(r.read())
@@ -1599,6 +1640,12 @@ if __name__ == "__main__":
         js = f.read()
     payload = json.loads(js.replace("window.CINEMA_DATA = ", "").rstrip(";"))
     payload["movies"] = enrich(payload["movies"])
+    # Também reprocessa os realizadores: as fotos e biografias falham em bloco
+    # quando a Wikipédia devolve 429 a meio de uma corrida grande, e sem isto
+    # as corridas extra da manhã nunca as recuperavam.
+    payload["directors"] = build_directors(payload["movies"])
     with open(data_path, "w", encoding="utf-8") as f:
         f.write("window.CINEMA_DATA = " + json.dumps(payload, ensure_ascii=False, indent=2) + ";")
-    print(f"\n✓ sessions.js atualizado ({len(payload['movies'])} filmes)")
+    n_dir = sum(1 for d in payload["directors"].values() if d.get("photo"))
+    print(f"\n✓ sessions.js atualizado ({len(payload['movies'])} filmes, "
+          f"{n_dir}/{len(payload['directors'])} realizadores com foto)")

@@ -11477,8 +11477,12 @@
       "year": 1953,
       "director": "Yasujiro Ozu"
     },
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Tokyo Story",
+      "imdb_id": "tt0046438",
+      "extract_pt": "Tōkyō Monogatari (東京物語, Tōkyō Monogatari) (Era Uma Vez em Tóquio no Brasil; A Viagem a Tóquio em Portugal) é um filme japonês de 1953 dirigido por Yasujiro Ozu. Conta a história de um casal de idosos que viaja para Tóquio para visitar seus filhos adultos. No filme, o comportamento dos filhos deles, ocupados demais para prestar atenção nos pais, é contrastado com o da nora viúva deles, que os trata com carinho. É considerado a obra-prima de Ozu, tendo aparecido diversas vezes nas listas de melhores filmes de todos os tempos do British Film Institute."
+    },
+    "wiki_tries": 2
   },
   "Dersu Uzala|1975": {
     "lbxd": {
@@ -21049,8 +21053,12 @@
       "year": 1990,
       "director": "Wong Kar Wai"
     },
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Days of Being Wild",
+      "imdb_id": "tt0101258",
+      "extract_pt": "Ah fei zing zyun (阿飛正傳, Āfēi zhèngzhuàn em mandarim; br: Dias Selvagens) é um filme honconguês, dirigido e escrito por Wong Kar-Wai e lançado em 1990.\nEstrelado por alguns dos mais conhecidos atores e atrizes de Hong Kong, includindo Leslie Cheung, Andy Lau, Maggie Cheung, Carina Lau, Jacky Cheung e Tony Leung Chiu-Wai, o filme marcou também a primeira colaboração entre o realizador Wong Kar-Wai e o diretor de fotografia Christopher Doyle.\nSegundo longa-metragem de Kar-Wai, é também visto de certa forma como a primeira parte de uma trilogia informal que ainda inclui Amor à Flor da Pele e 2046 e inspirado livremente no romance Boquinhas Pintadas, do escritor Manuel Puig.\nFoi premiado no Festival de Cinema de Hong Kong de 1991 nas categorias Melhor Filme, Melhor Direção, Melhor Ator (Leslie Cheung), Melhor Fotografia e Melhor Direção de Arte."
+    },
+    "wiki_tries": 2
   },
   "Bravo Bene!|2025": {
     "lbxd": {
@@ -22524,7 +22532,21 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "cinema": {
+      "original_title": "Fa yeung nin wah",
+      "plot_pt": "Um retrato delicado de uma história de amor pouco convencional. Enquadrado pela sublime paleta de cores e pelos íntimos slow-motions de Wong Kar Wai, o filme viaja através dos olhares enigmáticos de dois indivíduos que, depois de se mudarem para o mesmo prédio com os seus parceiros ausentes, começam a acreditar que os seus respectivos esposos estão a ter um caso. Na sua solidão e aborrecimento, Chow e Su tornam-se mais próximos à medida que fazem as pazes com os seus fracassos românticos. Uma exploração profunda do acaso, do vazio, da solidão, acompanhada pela melancólica banda sonora de Shigeru Umebayashi, Disponível para Amar é o trabalho mais emblemático e impressionante de Wong Kar Wai.",
+      "country": "Hong Kong, China",
+      "genre": "Drama, Romance",
+      "year": 2000,
+      "director": "Wong Kar Wai"
+    },
+    "wiki": {
+      "title_en": "In the Mood for Love",
+      "imdb_id": "tt0118694",
+      "extract_pt": "Faa yeung nin wa (bra: Amor à Flor da Pele; prt: Disponível para Amar) é um filme de drama romântico de 2000 escrito, dirigido e produzido por Wong Kar-wai. de 2000, do gênero drama romântico, dirigido e escrito por Wong Kar-Wai. Uma coprodução entre Hong Kong e França, o filme acompanha um homem (Tony Leung) e uma mulher (Maggie Cheung) em 1962 que descobrem que seus cônjuges estão tendo um caso. Enquanto passam tempo juntos, eles gradualmente desenvolvem sentimentos um pelo outro."
+    },
+    "wiki_tries": 1
   },
   "Gloria|1980": {
     "lbxd": {
@@ -22880,7 +22902,7 @@
       "director": "Edgar Reitz"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Crianças à Procura de Mãe|1956": {
     "lbxd": null,
@@ -26442,12 +26464,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Magellan (film)",
+      "imdb_id": "tt36456563",
+      "extract_pt": "Magalhães (em espanhol: Magallanes, em inglês e francês: Magellan) é um filme de drama histórico épico de 2025, escrito, dirigido e coeditado pelo cineasta filipino Lav Diaz. O filme é estrelado por Gael García Bernal como o explorador português Fernão de Magalhães e retrata seu papel nas campanhas coloniais portuguesas e espanholas no Sudeste Asiático no início do século XVI.\nO filme teve sua estreia mundial na seção Cannes Premiere do Festival de Cinema de Cannes de 2025 em 18 de maio de 2025. Foi escolhido como o representante das Filipinas para a categoria Melhor Filme Internacional no 98.º Oscar."
+    },
     "cinema": {
       "year": 2025,
       "country": "Portugal, Espanha, França, Taiwan e Filipinas",
       "plot_pt": "A viagem revela-se mais dura do que o esperado, com a fome e os motins a levarem a tripulação aos seus limites. Ao chegar às ilhas do Arquipélago Malaio, a mente de Magalhães muda. Torna-se obcecado pela conquista e conversão, o que desencadeia revoltas violentas que escapam ao seu controlo."
-    }
+    },
+    "wiki_tries": 3
   },
   "O Homem que Eu Matei|1932": {
     "lbxd": null,
@@ -26630,14 +26657,19 @@
       "lb_title": "The Mischief Makers"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Les Mistons",
+      "imdb_id": "tt0050714",
+      "extract_pt": "Les mistons (Brasil: Os pivetes / Portugal: Os insolentes) é um filme de curta-metragem francês de 1957, realizado por François Truffaut dois anos antes do aclamado Os 400 Golpes.\nO filme é baseado no romance homónimo de Maurice Pons. Os mistons são cinco rapazes que espiam dois amantes, Gerard e Bernardette, seguindo-os para todo o lado."
+    },
     "cinema": {
       "original_title": "Les mistons",
       "plot_pt": "Um grupo de rapazes está apaixonado por Bernadette, a irmã adolescente de um amigo, enquanto ela desfruta graciosamente dos seus dias de verão, encontrando-se com o namorado.",
       "country": "França",
       "year": 1957,
       "director": "François Truffaut"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Último Metro|1980": {
     "lbxd": null,
@@ -26776,12 +26808,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Green Room (film)",
+      "imdb_id": "tt0077315",
+      "extract_pt": "La Chambre verte (no Brasil e em Portugal, O Quarto Verde) é um filme francês de 1978 dirigido por François Truffaut e baseado no livro The Altar of the Dead de Henry James, no qual um homem se torna obcecado por pessoas conhecidas que morreram ao longo de sua vida, e constrói um memorial para honrá-las."
+    },
     "cinema": {
       "year": 1978,
       "original_title": "La chambre verte",
       "plot_pt": "Pouco depois da Primeira Guerra Mundial, Julien Davenne regressa a casa para viver uma vida tranquila. No entanto, a sua existência esconde um segredo: as memórias apaixonadas de Julie, a mulher que perdeu pouco tempo após o casamento. Um dos quartos da casa, o “quarto verde”, é dedicado à sua devoção. A sua busca por recordações ligadas a Julie leva-o a uma sala de leilões, onde Cécilia, assistente do leiloeiro, o ajuda a encontrar um anel que lhe pertencera…"
-    }
+    },
+    "wiki_tries": 1
   },
   "Disparem Sobre o Pianista|1960": {
     "lbxd": null,
@@ -26803,12 +26840,17 @@
       "lb_title": "Two English Girls"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Two English Girls",
+      "imdb_id": "tt0066989",
+      "extract_pt": "Les Deux Anglaises et le Continent (bra: Duas Inglesas e o Amor ou As Duas Inglesas e o Amor; prt: As Duas Inglesas e o Continente) é um filme francês de 1971, do gênero comédia romântico-dramática, dirigido por François Truffaut, com roteiro de Jean Gruault e do próprio diretor baseado no romance homônimo de Henri-Pierre Roché."
+    },
     "cinema": {
       "year": 1971,
       "original_title": "Les deux Anglaises et le continent",
       "plot_pt": "Em Paris, no início do século XX, Claude, um jovem francês de classe média, é convidado por Anne para passar o verão na costa do País de Gales, com a mãe dela e a irmã Muriel. Anne espera que Claude possa vir a ser o marido da irmã, e os dois começam a apaixonar-se. Como teste, as mães decidem que eles devem viver separados durante um ano, sem qualquer contacto, antes de se casarem. De volta a Paris, Claude tem vários casos amorosos e escreve uma carta a Muriel para terminar o noivado… Baseado no romance “As Duas Inglesas e o Continent”, de Henri-Pierre Roché."
-    }
+    },
+    "wiki_tries": 1
   },
   "Carmen|1918": {
     "lbxd": {
@@ -26919,14 +26961,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Jules and Jim",
+      "imdb_id": "tt0055032",
+      "extract_pt": "Jules et Jim (bra: Jules e Jim - Uma Mulher para Dois; prt: Jules e Jim) é um filme francês de 1962, do gênero drama romântico, dirigido por François Truffaut, com roteiro dele e de Jean Gruault baseado em romance de Henri-Pierre Roché."
+    },
     "cinema": {
       "original_title": "Jules & Jim",
       "plot_pt": "A partir de um romance autobiográfico de Henri-Pierre Roché, Truffaut conta a história bela e terrível de um amor que a cada dia se reinventa, na euforia alegre e na tristeza melancólica, nas suas riquezas e contradições. Esta relação triangular entre dois homens e uma mulher (interpretados por Henri Serre, Oskar Werner e Jeanne Moreau, no seu auge como mulher fatal da Nouvelle Vague: \"fazer filmes já não é uma maneira de representar, é uma maneira de viver), numa construção em espiral que convoca o turbilhão da vida, é um dos títulos fundamentais da Nouvelle Vague e da obra de Truffaut.",
       "country": "França",
       "year": 1962,
       "director": "François Truffaut"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Menino Selvagem|1970": {
     "lbxd": null,
@@ -26983,12 +27030,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Woman Next Door (1981 film)",
+      "imdb_id": "tt0082370",
+      "extract_pt": "La femme d'à côté (no Brasil e em Portugal, A Mulher do Lado ) é um filme francês de 1981, um drama realizado por François Truffaut."
+    },
     "cinema": {
       "year": 1981,
       "original_title": "La Femme d'à côté",
       "plot_pt": "Bernard e Mathilde apaixonam-se perdidamente, antes de viverem uma separação conturbada. Sete anos depois, o destino volta a uni-los quando Mathilde — que se casou recentemente com Philippe — se muda para a casa ao lado daquela onde vivem Bernard, a sua mulher, Arlette, e o seu filho pequeno, Thomas. Madame Jouve, testemunha e confidente dos dois antigos amantes, vê-os selar um pacto de não agressão. Quem o quebrará primeiro?"
-    }
+    },
+    "wiki_tries": 1
   },
   "Finalmente Domingo!|1982": {
     "lbxd": null,
@@ -27010,12 +27062,17 @@
       "lb_title": "A Gorgeous Girl Like Me"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "A Gorgeous Girl Like Me",
+      "imdb_id": "tt0069442",
+      "extract_pt": "Une belle fille comme moi (Brasil: Uma Jovem Tão Bela Como Eu / Portugal: Uma Bela Rapariga) é um filme francês de 1972, dirigido por François Truffaut, baseado em livro homônimo escrito por Henry Farrell. O filme é estrelado por Bernadette Lafont."
+    },
     "cinema": {
       "year": 1972,
       "original_title": "Une belle fille comme moi",
       "plot_pt": "Stanislas é um sociólogo que está a escrever uma tese sobre mulheres criminosas. O seu tema é Camille, uma jovem que cumpre pena de prisão por ter assassinado um dos seus muitos amantes. Camille é também suspeita de ter assassinado o pai e a sogra e de ter tentado matar o marido e o advogado. Através de uma série de entrevistas, Camille conta a história da sua vida e explica como uma rapariga tão bela como ela conseguiu acabar na prisão."
-    }
+    },
+    "wiki_tries": 1
   },
   "Beijos Roubados|1968": {
     "lbxd": {
@@ -27069,12 +27126,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Stolen Kisses",
+      "imdb_id": "tt0062695",
+      "extract_pt": "Baisers volés (bra: Beijos Proibidos; prt: Beijos Roubados) é um filme francês de 1968, do gênero comédia dramático-romântica, realizado por François Truffaut, coautor do roteiro, ao lado de Claude de Givray e Bernard Revon.\nÉ o terceiro dos filmes em que Jean-Pierre Léaud interpreta Antoine Doinel, alter-ego do diretor."
+    },
     "cinema": {
       "year": 1968,
       "original_title": "Baisers volés",
       "plot_pt": "Em 1968, Antoine Doinel é dispensado do exército por má conduct e procura emprego em Paris. Torna-se guarda noturno, técnico de televisão, expedidor e também detetive particular numa empresa, encarregado de vigiar discretamente os funcionários e as atividades da mesma. Ao mesmo tempo, Antoine está apaixonado e incapaz de escolher entre uma jovem violinista e uma mulher casada."
-    }
+    },
+    "wiki_tries": 1
   },
   "O Convite|2026": {
     "lbxd": {
@@ -27134,7 +27196,8 @@
       "original_title": "The Invite",
       "country": "tados Unidos",
       "plot_pt": "Aquilo que devia ser uma noite tranquila descarrila quando os vizinhos, de sinibidos e seguros de si, fazem uma proposta que ninguém estava à espera, deixando as duas relações expostas, postas à prova e em rota de colisão."
-    }
+    },
+    "wiki_tries": 3
   },
   "Domicílio Conjugal|1970": {
     "lbxd": {
@@ -27207,13 +27270,18 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Mississippi Mermaid",
+      "imdb_id": "tt0064990",
+      "extract_pt": "La Sirène du Mississipi é um filme franco-italiano de 1969, do gênero drama, dirigido por François Truffaut.\nO roteiro foi baseado no romance Waltz into Darkness, do escritor norte-americano Cornell Woolrich (1903-1968), também autor de Janela Indiscreta (1954) de Alfred Hitchcock.\nA história teve uma nova versão em 2001, Pecado Original, com Antonio Banderas e Angelina Jolie."
+    },
     "cinema": {
       "year": 1969,
       "original_title": "La Sirène du Mississipi",
       "country": "França e Itália",
       "plot_pt": "Na ilha da Reunião, Louis tem mantido correspondência com uma jovem, Marion, na sequência de um anúncio de encontros. Ele convida-a a embarcar no navio Mississipi. Casam-se imediatamente, mas, passado algum tempo, Louis percebe que não era Marion quem escrevia as cartas. Quando está prestes a confrontá-la, Marion desaparece. Louis contrata um detetive particular para tentar encontrá-la."
-    }
+    },
+    "wiki_tries": 1
   },
   "O Homem Que Gostava das Mulheres|1976": {
     "lbxd": null,
@@ -27905,7 +27973,6 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
     "cinema": {}
   },
   "SESSÃO 6 | LES NUITS EN OR 2026|None": {
@@ -28064,11 +28131,16 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Aniki-Bóbó",
+      "imdb_id": "tt0034461",
+      "extract_pt": "Aniki Bóbó  (1942) é um filme  português de Manoel de Oliveira, a sua primeira longa metragem de ficção, obra retocada com certos traços realistas. O argumento baseia-se no conto Os Meninos Milionários, da autoria de João Rodrigues de Freitas (1908-1976), escritor e advogado.\nO filme estreia em Lisboa no cinema Eden  a 18 de Dezembro de 1942 . Foi muitas vezes reexibido pela RTP, principalmente no período de Natal e do Ano Novo."
+    },
     "cinema": {
       "year": 1942,
       "plot_pt": "Carlitos, o sonhador tímido, e Eduardinho, o líder destemido, cortejam Teresinha, a única rapariga do grupo. Para demonstrar o seu afeto, Carlitos rouba uma boneca e, uma noite, corre pelos telhados para a entregar. A tensão aumenta entre os rapazes e o grupo começa a virar-se contra Carlitos."
-    }
+    },
+    "wiki_tries": 1
   },
   "Broken English|2025": {
     "lbxd": null,
@@ -28216,7 +28288,7 @@
       "director": "Sophie Letourneur"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Onda Nova|1983": {
     "lbxd": null,
@@ -28276,7 +28348,7 @@
       "plot_pt": "Numa vila opulenta sob o sol da Catalunha, os irmãos Jack, Ed, Anna e Robert vivem isolados, sustentados por uma fortuna herdada e afastados das exigências do pai cego. Procuram amor e validação entre si, e nas roupas de designer. Quando Jack, o irmão mais velho e pilar da família, anuncia que vai viver com a namorada, Martha, os laços de sangue começam a desfazer-se e Ed começa a desenterrar a verdade sobre a morte da mãe. À medida que as mentiras de família vêm à tona, o frágil equilíbrio que os une ameaça ruir por completo."
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Tristinho para sempre|None": {
     "lbxd": null,
@@ -31103,12 +31175,17 @@
       "lb_title": "Jules and Jim"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Jules and Jim",
+      "imdb_id": "tt0055032",
+      "extract_pt": "Jules et Jim (bra: Jules e Jim - Uma Mulher para Dois; prt: Jules e Jim) é um filme francês de 1962, do gênero drama romântico, dirigido por François Truffaut, com roteiro dele e de Jean Gruault baseado em romance de Henri-Pierre Roché."
+    },
     "cinema": {
       "year": 1962,
       "original_title": "Jules et Jim",
       "plot_pt": "Com início em Paris, em 1912, e ao longo de mais de vinte e cinco anos, acompanha-se a relação entre dois artistas e amigos, Jules e Jim, e Catherine, a mulher determinada que se torna o centro da obsessão de ambos."
-    }
+    },
+    "wiki_tries": 1
   },
   "Disparem sobre o Pianista|1960": {
     "lbxd": null,
@@ -31169,12 +31246,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Soft Skin",
+      "imdb_id": "tt0058458",
+      "extract_pt": "La peau douce (Brasil: Um Só Pecado / Portugal: Angústia) é um filme de drama da França de 1964, realizado por François Truffaut."
+    },
     "cinema": {
       "year": 1964,
       "original_title": "La peau douce",
       "plot_pt": "Pierre, ilustre académico de literatura e, apparently, num casamento feliz, inicia um caso com uma deslumbrante hospedeira de bordo, cativada pelo seu charme e reputação. Incapaz de enfrentar a situação, Pierre deixa a mulher e passa a viver sozinho, visitando, alternadamente, a mulher e a amante."
-    }
+    },
+    "wiki_tries": 1
   },
   "A Noiva Estava de Luto|1968": {
     "lbxd": {
@@ -31228,12 +31310,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Bride Wore Black",
+      "imdb_id": "tt0061955",
+      "extract_pt": "La mariée était en noir (Brasil: A Noiva Estava de Preto / Portugal: A Noiva Estava de Luto) é um filme franco-italiano (La sposa in nero) de 1967, do gênero drama, dirigido por François Truffaut.\nO roteiro é baseado no livro de William Irish (pseudônimo de Cornell Woolrich), com adaptação de Jean-Louis Richard e Truffaut. A trilha sonora é de Bernard Herrmann."
+    },
     "cinema": {
       "year": 1968,
       "original_title": "La mariée était en noir",
       "plot_pt": "A Noiva Estava de Luto é a história Julie Kohler (Jeanne Moreau), uma noiva que fica viúva à saída do altar. Uma vez que a tentativa de suicídio sai frustrada, Julie decide jurar vingança aos cinco indivíduos envolvidos no assassinato do seu marido."
-    }
+    },
+    "wiki_tries": 1
   },
   "The Postman Always Rings Twice|1946": {
     "lbxd": {
@@ -31715,8 +31802,12 @@
       "year": 1971,
       "director": "Luchino Visconti"
     },
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Death in Venice (film)",
+      "imdb_id": "tt0067445",
+      "extract_pt": "Morte a Venezia (em francês:  Mort à Venise; bra/prt: Morte em Veneza) é um filme ítalo-francês de 1971, do gênero drama, dirigido por Luchino Visconti, com roteiro de Nicola Badalucco e do próprio Visconti baseado no romance Der Tod in Venedig, de Thomas Mann."
+    },
+    "wiki_tries": 2
   },
   "O Leopardo|1963": {
     "lbxd": {
@@ -31772,7 +31863,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Leopard (TV series)",
+      "imdb_id": "tt15198870",
+      "extract_pt": "O Leopardo (Il gattopardo) é uma série de televisão italiana produzida pelo serviço de vídeo sob demanda Netflix, lançada em 2025. Trata-se de uma nova adaptação do clássico romance homônimo de Giuseppe Tomasi di Lampedusa, publicado em 1958. Dirigido por Tom Shankland com a colaboração de Laura Luchetti e Giuseppe Capotondi, é a segunda adaptação após o filme de Luchino Visconti de 1963, com  Burt Lancaster, Claudia Cardinale, Alain Delon e Mario Girotti (Terence Hill) entre outros."
+    },
     "cinema": {
       "original_title": "Il gattopardo",
       "plot_pt": "Recriação nostálgica, dramática e opulente dos anos tumultuosos da Unificação italiana, quando a aristocracia perdeu o seu poder e as classes médias se uniram para criar uma Itália democrática. Burt Lancaster interpreta um príncipe envelhecido que observa a decadência da sua cultura e fortuna perante a ascensão de uma nova geração, representada pelo seu sobrinho arrivista (Alain Delon) e a sua bela noiva (Claudia Cardinale). Adaptação do romance homónimo de Giuseppe Tomasi di Lampedusa, O Leopardo é um verdadeiro épico e uma obra-prima do cinema.",
@@ -31780,7 +31875,8 @@
       "genre": "Drama, História",
       "year": 1963,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 1
   },
   "Obsession – A Felicidade é Relativa|2025": {
     "lbxd": {
@@ -31896,7 +31992,8 @@
       "genre": "Drama",
       "year": 1965,
       "director": "Robert Mulligan"
-    }
+    },
+    "wiki_tries": 3
   },
   "Grau de Destruição|1966": {
     "lbxd": null,
@@ -31952,14 +32049,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Long, Hot Summer",
+      "imdb_id": "tt0051878",
+      "extract_pt": "The Long, Hot Summer (br: O Mercador de Almas) é um filme estadunidense de 1958, do gênero drama, dirigido por Martin Ritt. O roteiro é baseado na novela The Hamlet, de William Faulkner. Com locações na Louisiana."
+    },
     "cinema": {
       "original_title": "The Long, Hot Summer",
       "plot_pt": "Ben Quick, acusado de incendiar celeiros e de ser vigarista, chega a uma pequena cidade do Mississippi e rapidamente cai nas boas graças da família mais rica da região, os Varner.",
       "country": "EUA",
       "year": 1958,
       "director": "Martin Ritt"
-    }
+    },
+    "wiki_tries": 1
   },
   "A Terra Treme|1948": {
     "lbxd": {
@@ -32011,7 +32113,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "La Terra Trema",
+      "imdb_id": "tt0040866",
+      "extract_pt": "La terra trema (br/pt: A Terra Treme) é um filme italiano dirigido por Luchino Visconti, que estreou em 1948."
+    },
     "cinema": {
       "original_title": "La Terra Trema",
       "plot_pt": "Filmado na aldeia de Aci Trezza, na costa leste da Sicília, com não-actores, A Terra Treme conta a história da família Valastro. Pescadores há gerações, dependem agora dos pagamentos miseráveis de comerciantes grossistas. Liderada por Ntoni, o filho mais velho, a família tenta escapar à sua condição marcada pela pobreza e exploração ao comprar um barco. Adaptação livre do romance I Malavoglia, de Giovanni Verga, A Terra Treme é uma das obras maiores de Luchino Visconti e do neo-realismo italiano, o encontro entre um olhar majestoso e a realidade inexorável.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n“Se eu queria apoderar-me do tema meridional, só podia tomar por ponto de partida o mais alto nível artístico atingido na expressão do mesmo assunto: quer dizer, [o romance de Giovanni] Verga. […] O fermento, o sangue que corre na história, está carregado de paixão cívica, de problemática social.” – Luchino Visconti",
@@ -32019,7 +32125,8 @@
       "genre": "Drama",
       "year": 1948,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Intruso|1976": {
     "lbxd": {
@@ -32072,7 +32179,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Innocent (1976 film)",
+      "imdb_id": "tt0074686",
+      "extract_pt": "L'innocente é um filme italiano de Luchino Visconti, estreou em 1976. Baseado no romance homónimo de Gabriele d'Annunzio."
+    },
     "cinema": {
       "original_title": "L’Innocente",
       "plot_pt": "No contexto aristocrático da Itália do século XIX, Tulio pouco se importa se é visto com a sua amante em público. Porém, quando a mulher que negligenciara se envolve com um jovem romancista (personagem que se diz ser inspirada em Gabriele d’Annunzio, autor do romance homónimo que o filme adapta), o caso muda de figura. Último filme de Visconti, O Intruso retoma a linguagem característica do cineasta para uma combinação singular de opulência e depravação, num melodrama trágico em que a fragilidade dos arquétipos de masculinidade é, uma vez mais, desvelada.",
@@ -32080,7 +32191,8 @@
       "genre": "Drama, Romance",
       "year": 1976,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Homem na Pele da Serpente|1960": {
     "lbxd": {
@@ -32133,7 +32245,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Fugitive Kind",
+      "imdb_id": "tt0052832",
+      "extract_pt": "The Fugitive Kind (bra: Vidas em Fuga) é um filme estadunidense de 1959 do gênero drama, dirigido por Sidney Lumet. O roteiro de Meade Roberts e Tennessee Williams foi baseado na peça teatral de 1957, Orpheus Descending, a primeira revisão do texto de autoria de Williams, Battle of Angels de 1939, que fracassou em Boston e não chegou à Broadway.\nApesar da história se passar no sul dos Estados Unidos, o estúdio United Artists usou para as filmagens a cidade de Milton (Estado de Nova Iorque). Em 1960 o filme participou do Festival Internacional de Cinema de San Sebastián com Sidney Lumet e Joanne Woodward tendo sido premiados."
+    },
     "cinema": {
       "original_title": "The Fugitive Kind",
       "plot_pt": "Com argumento do próprio Tennessee Williams, que queria ver Marlon Brando e Anna Magnani a representar estes papéis, o filme marca o “embate” de “monstros sagrados” que aqui regressam ao universo williamsiano.",
@@ -32141,7 +32257,8 @@
       "genre": "Drama",
       "year": 1960,
       "director": "Sidney Lumet"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Estrangeiro (1967)|1967": {
     "lbxd": {
@@ -32158,14 +32275,19 @@
       "lb_title": "The Stranger"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Stranger (1967 film)",
+      "imdb_id": "tt0062310",
+      "extract_pt": "O Estrangeiro (Lo straniero) é um filme franco-italiano de 1967, do gênero drama, dirigido por Luchino Visconti e baseado em livro homônimo de Albert Camus."
+    },
     "cinema": {
       "original_title": "Lo straniero",
       "plot_pt": "Em meados da década de 1930, Arthur Meursault (Marcello Mastroianni), um francês a viver na Argélia, conhece a encantadora Marie (Anna Karina), depois do funeral da mãe, com quem inicia uma relação ambígua. Por força de uma série de circunstâncias pouco claras, Arthur, sem razão aparente, mata um jovem argelino numa praia.",
       "country": "Itália, França, Argélia",
       "year": 1967,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 1
   },
   "Raquel, Raquel|1968": {
     "lbxd": {
@@ -32222,14 +32344,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Rachel, Rachel",
+      "imdb_id": "tt0063483",
+      "extract_pt": "Rachel, Rachel (intitulado em Portugal de Raquel, Raquel) é um filme de drama estadunidense de 1968 dirigido por Paul Newman. O filme foi escrito por Stewart Stern que se baseou em peça de teatro de 1966 chamada A Jest God de Margaret Laurence."
+    },
     "cinema": {
       "original_title": "Rachel, Rachel",
       "plot_pt": "Rachel é uma professora solitária que mora com a mãe. Quando um homem da cidade a convida para sair, ela começa a pensar para onde quer que a sua vida vá.",
       "country": "EUA",
       "year": 1968,
       "director": "Paul Newman"
-    }
+    },
+    "wiki_tries": 3
   },
   "Quando o Rio Se Enfurece|1960": {
     "lbxd": {
@@ -32313,14 +32440,19 @@
       "lb_title": "Obsession"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Ossessione",
+      "imdb_id": "tt0035160",
+      "extract_pt": "Ossessione (Brasil: Obsessão ) é um filme italiano de 1943, dirigido por Luchino Visconti, baseado no romance The Postman Always Rings Twice, de James M. Cain. Primeiro longa-metragem de Visconti, é considerado por muitos como o primeiro filme neorrealista italiano."
+    },
     "cinema": {
       "original_title": "Ossessione",
       "plot_pt": "Gino, um vagabundo encantador, chega a uma estalagem rural à procura de trabalho. O dono da estalagem, um homem rude e grosseiro, dá-lhe algo para fazer, mas é a jovem esposa do proprietário, Giovanna, que faz com que queira ficar. Tomados por uma forte atracção, Gino e Giovanna tornam-se amantes.",
       "country": "Itália",
       "year": 1943,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 1
   },
   "Sandra|1965": {
     "lbxd": {
@@ -32382,7 +32514,7 @@
       "director": "Luchino Visconti"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Os Indomáveis|1971": {
     "lbxd": {
@@ -32436,14 +32568,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Sometimes a Great Notion (film)",
+      "imdb_id": "tt0067774",
+      "extract_pt": "Sometimes A Great Notion (Br.: Uma lição para não se esquecer / pt.: Os Indomáveis), também conhecido em inglês como  Never Give A Inch [sic], é um filme de drama estadunidense de 1970 dirigido e protagonizado por Paul Newman. O roteiro de John Gay baseia-se em romance homônimo de 1964 de autoria de Ken Kesey. Foi o primeiro dos livros desse autor adaptado para o cinema. Filmado no verão de 1970 e lançado na véspera do Ano Novo."
+    },
     "cinema": {
       "original_title": "Sometimes A Great Notion",
       "plot_pt": "Uma família de lenhadores do Oregon, ferozmente independente, luta para manter vivo o negócio familiar perante a mudança dos tempos.",
       "country": "EUA",
       "year": 1971,
       "director": "Paul Newman"
-    }
+    },
+    "wiki_tries": 1
   },
   "Ange|2025": {
     "lbxd": {
@@ -32538,14 +32675,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Bitter Victory",
+      "imdb_id": "tt0050126",
+      "extract_pt": "Bitter Victory (bra: Amargo Triunfo; prt: Cruel Vitória) é um filme de drama e guerra franco-americano de 1957, filmado em CinemaScope com a direção de Nicholas Ray. Ambientado na Segunda Guerra Mundial sendo estrelado por Richard Burton e Curd Jürgens como dois oficiais do Exército Britânico enviados em uma incursão de comandos no Norte da África. Ruth Roman interpreta a ex-amante de um deles e esposa do outro. Amère victoire é baseado no romance homônimo de René Hardy."
+    },
     "cinema": {
       "original_title": "Bitter Victory",
       "plot_pt": "Lembro-me de uma época em que, num dos quatro cafés do Trocadéro, alguém (um qualquer rato de cinemateca) poderia afirmar que o maior cineasta do mundo era X ou Y, mas que Nicholas Ray tinha feito o mais belo filme do mundo. Algumas noites era o Cruel Victória, outras, o Atrás do Espelho. – S.D.",
       "country": "França, EUA",
       "year": 1957,
       "director": "Nicholas Ray"
-    }
+    },
+    "wiki_tries": 1
   },
   "A Influência dos Raios Gama no Comportamento das Margaridas|1972": {
     "lbxd": {
@@ -32671,7 +32813,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "2001: A Space Odyssey",
+      "imdb_id": "tt0062622",
+      "extract_pt": "2001: A Space Odyssey (bra: 2001: Uma Odisseia no Espaço ou 2001 - Uma Odisseia no Espaço; prt: 2001: Odisseia no Espaço ou 2001 - Odisseia no Espaço) é um filme de ficção científica de 1968 produzido e dirigido por Stanley Kubrick, co-escrito por Kubrick e Arthur C. Clarke baseado parcialmente no conto \"The Sentinel\" do próprio Clarke. Um romance de mesmo nome, escrito concomitantemente com o roteiro, foi publicado logo após o lançamento do filme.\nEntre os temas presentes no filme estão a evolução humana, o existencialismo, a tecnologia, a inteligência artificial e a vida extraterrestre. Esteticamente, o filme é lembrado pelo seu realismo científico, pioneirismo em efeitos especiais, imagens ambíguas, próximas ao surrealismo."
+    },
     "cinema": {
       "original_title": "2001 – A Space Odyssey",
       "plot_pt": "O filme segue uma viagem a Júpiter após a descoberta de um monólito alienígena que afecta a evolução humana. Baseado em contos do co-argumentista Arthur C. Clark, o filme faz uso da temática da viagem ao espaço para tratar questões existenciais acerca da evolução humana, do desenvolvimento tecnológico e da possibilidade de criar inteligência artificial. Tecnicamente inovador e cientificamente rigoroso, Odisseia no Espaço é aclamado como um dos maiores e mais influentes filmes da história do cinema.",
@@ -32679,7 +32825,8 @@
       "genre": "Drama, Sci-Fi",
       "year": 1968,
       "director": "Stanley Kubrick"
-    }
+    },
+    "wiki_tries": 1
   },
   "Anatomia de um Crime|1959": {
     "lbxd": {
@@ -32737,14 +32884,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Anatomy of a Murder",
+      "imdb_id": "tt0052561",
+      "extract_pt": "Anatomy of a Murder (prt/bra: Anatomia de um Crime) é um filme estadunidense de 1959, dos gêneros drama e suspense, dirigido por Otto Preminger, com roteiro baseado no romance Anatomy of a Murder, de John D. Voelker."
+    },
     "cinema": {
       "original_title": "Anatomy of a Murder",
       "plot_pt": "“É o filme mais complexo e mais exemplar da obra de Preminger […] onde a mise en scéne se torna, como nos últimos filmes de Lang, numa reflexão do criador sobre a sua arte […].” S. D.",
       "country": "EUA",
       "year": 1959,
       "director": "Otto Preminger"
-    }
+    },
+    "wiki_tries": 1
   },
   "Belíssima|1951": {
     "lbxd": {
@@ -32796,14 +32948,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Bellissima (film)",
+      "imdb_id": "tt0043332",
+      "extract_pt": "Belíssima é um filme italiano de Luchino Visconti, estreou em 1951."
+    },
     "cinema": {
       "original_title": "Bellissima",
       "plot_pt": "Maddalena (uma extraordinária Anna Magnani), uma mulher de classe baixa, leva a sua filha para a Cinecittà, com a esperança de que seja seleccionada para participar num filme e se torne numa estrela, estando disposta a sacrificar tudo para que tal aconteça.",
       "country": "Itália",
       "year": 1951,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 3
   },
   "Lawrence da Arábia|1962": {
     "lbxd": {
@@ -32935,7 +33092,8 @@
       "country": "EUA",
       "year": 1968,
       "director": "Gordon Douglas"
-    }
+    },
+    "wiki_tries": 3
   },
   "Alphaville|1965": {
     "lbxd": {
@@ -33261,7 +33419,8 @@
       "genre": "Drama",
       "year": 1954,
       "director": "Luchino Visconti"
-    }
+    },
+    "wiki_tries": 3
   },
   "Alemanha, Ano Zero|1948": {
     "lbxd": null,
@@ -33552,7 +33711,8 @@
       "original_title": "La misteriosa mirada del flamenco",
       "country": "França, Chile, Alemanha, Espanha e Bélgica",
       "plot_pt": "No início dos anos 80, no deserto chileno, Lidia, de 11 anos, cresce em uma família queer amorosa - liderada por Boa, uma figura materna forte; e Flamingo, que cuida da menina - na periferia de uma cidade mineira empoeirada e hostil. Quando uma doença misteriosa começa a espalhar-se, supostamente transmitida através de um único olhar entre dois homens que se apaixonam, todos começam a acusar a família. Os homens locais decidem então controlar os corpos das mulheres trans e a situação chega a um ponto absurdo."
-    }
+    },
+    "wiki_tries": 3
   },
   "Sem Eira Nem Beira|1985": {
     "lbxd": {
@@ -33604,7 +33764,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Vagabond (1985 film)",
+      "imdb_id": "tt0089960",
+      "extract_pt": "Sans toit ni loi (Brasil: Os Renegados , em inglês:  Vagabond) é um filme de drama francês de 1985 dirigido por Agnès Varda, com Sandrine Bonnaire. Conta a história de uma jovem vagabunda que perambula pela região vinícola de Languedoc-Roussillon em um inverno. O filme estreou no 42º Festival Internacional de Cinema de Veneza, onde conquistou o Leão de Ouro. Sans toit ni loi foi indicado a quatro prêmios César, com Bonnaire ganhando o de Melhor Atriz."
+    },
     "cinema": {
       "original_title": "Sans toit ni loi",
       "plot_pt": "Numa manhã de Inverno, num campo no sul de França, uma mulher, Mona, é encontrada morta de frio numa valeta. O filme segue a história desta jovem à deriva através de flashbacks, contados por aqueles que a encontraram na sua errância. O olhar de Agnès Varda, com as suas imagens poéticas e austeras (inspiradas pelo movimento literário “Nouveau roman”), constrói um complexo e fragmentado retrato desta jovem e da vida à margem que ela escolheu.",
@@ -33612,7 +33776,8 @@
       "genre": "Drama",
       "year": 1985,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Mur Murs|1980": {
     "lbxd": {
@@ -33901,7 +34066,8 @@
       "country": "França",
       "year": 1959,
       "director": "Claude Chabrol"
-    }
+    },
+    "wiki_tries": 3
   },
   "A Comédia e a Vida|1952": {
     "lbxd": null,
@@ -33955,14 +34121,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Les Créatures",
+      "imdb_id": "tt0060263",
+      "extract_pt": "Les Créatures (Brasil: As Criaturas , em sueco:  Varelserna) é um filme de fantasia e drama de 1966 escrito e dirigido por Agnès Varda que conta a história de um casal que acaba de se mudar para uma nova cidade e sofre um acidente de carro. A esposa, Mylène Piccoli (Catherine Deneuve), perde a voz no acidente e se comunica por meio da escrita. O marido, Edgar Piccoli (Michel Piccoli), é um escritor de ficção científica trabalhando para produzir seu próximo livro.\nLes Créatures foi uma seleção oficial do 27º Festival Internacional de Cinema de Veneza, embora tenha recebido críticas mistas."
+    },
     "cinema": {
       "original_title": "Les Créatures",
       "plot_pt": "“Todo o arsenal do romance de aventura é utilizado: lutas na floresta, perseguições misteriosas, arcas arrombadas, fugas, lutas de punho, etc. E há também o registo completo de notas de um romance sentimental: amor conjugal, ligações secretas, vingança de uma antiga amante, etc.” – Agnès Varda",
       "country": "França, Suécia",
       "year": 1966,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Os Respigadores e a Respigadora… Dois Anos Depois|2002": {
     "lbxd": {
@@ -34018,7 +34189,8 @@
       "genre": "Documentário",
       "year": 2002,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Elsa, a Rosa|1965": {
     "lbxd": {
@@ -34130,7 +34302,8 @@
       "country": "França",
       "year": 1976,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Tens Uma Bela Escadaria, Sabias|1986": {
     "lbxd": {
@@ -34186,7 +34359,8 @@
       "genre": "Documentário",
       "year": 1986,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Uma Canta, a Outra Não|1976": {
     "lbxd": {
@@ -34276,7 +34450,8 @@
       "country": "França",
       "year": 2003,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Respostas de Mulheres|1975": {
     "lbxd": {
@@ -34332,7 +34507,8 @@
       "genre": "Documentário",
       "year": 1975,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "As Supostas Cariátides|1984": {
     "lbxd": {
@@ -34389,7 +34565,8 @@
       "genre": "Documentário",
       "year": 1984,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Os Noivos da Ponte Mac Donald|1961": {
     "lbxd": {
@@ -34528,7 +34705,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "French New Wave",
+      "imdb_id": null,
+      "extract_pt": "A Nouvelle Vague (Nova Onda) foi um movimento cinematográfico francês dos anos 1960 que marcou uma ruptura com os padrões tradicionais do cinema industrial e introduziu inovações narrativas, estéticas e conceituais.> Surgiu como reação ao cinema francês considerado previsível e rígido, em especial após a decadência do realismo poético, que privilegiava roteiristas em detrimento dos diretores. O termo foi criado por Françoise Giroud em 1958 para designar jovens cineastas que buscavam explorar novas formas de narrativa e expandir os limites da linguagem cinematográfica.\nEntre os filmes que consolidaram a Nouvelle Vague estão Le Beau Serge (Claude Chabrol), considerado o primeiro marco do movimento; Les Quatre Cents Coups (François Truffaut), que consolidou o movimento; À Bout de Souffle (Jean-Luc Godard), que introduziu rupturas narrativas e popularizou o jump cut; Hiroshima mon amour (Alain Resnais), que explorou memória e temporalidade; e Cléo de 5 à 7 (Agnès Varda), centrado na experiência subjetiva de sua protagonista. Outros filmes relevantes incluem Jules et Jim, Pierrot le Fou e L'année dernière à Marienbad."
+    },
     "cinema": {
       "original_title": "Lions Love (... and Lies)",
       "plot_pt": "Numa casa alugada, na solarenga Hollywood Hills, uma mulher — Viva, a célebre Warhol superstar — e dois homens — James Rado e Gerome Ragni, os criadores e protagonistas do musical rock Hair — perdem-se nos corpos uns dos outros enquanto reflectem sobre o amor, o estrelato e a política. A cineasta underground Shirley Clarke junta-se ao grupo. O Amor dos Leões é uma investigação meta-cinemática sobre as correntes de caprichos e tragédia que caracterizavam a América do final dos anos 60.",
@@ -34536,7 +34717,8 @@
       "genre": "Drama",
       "year": 1969,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Adeus Philippine|1962": {
     "lbxd": {
@@ -34851,7 +35033,8 @@
       "genre": "Documentário",
       "year": 1967,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "La Pointe Courte|1954": {
     "lbxd": {
@@ -34932,7 +35115,8 @@
       "country": "França, Itália",
       "year": 1960,
       "director": "Claude Chabrol"
-    }
+    },
+    "wiki_tries": 3
   },
   "Calle Málaga|2025": {
     "lbxd": {
@@ -34984,7 +35168,7 @@
       "year": 2025,
       "director": "Maryam Touzani"
     },
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "As Cento e uma Noites de Simon Cinéma|1994": {
     "lbxd": {
@@ -35173,7 +35357,7 @@
       "year": 2026,
       "director": "Gregg Araki"
     },
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Ao Longo da Costa|1958": {
     "lbxd": {
@@ -35190,7 +35374,11 @@
       "lb_title": "Along the Coast"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Georgia Oakley",
+      "imdb_id": "nm2852004",
+      "extract_pt": "Georgia Alice Nancy Oakley (31 de julho de 1988) é uma realizadora e guionista inglesa. A sua primeira longa-metragem, Blue Jean (2022), rendeu-lhe diversos prémios, incluindo uma nomeação ao BAFTA e um prémio do British Independent Film Awards.\nOakley é a realizadora da nova adaptação de Sense and Sensibility de Jane Austen, escrita por Diana Reid e com Daisy Edgar-Jones, a ser lançado em 2026\nOakley é influenciada principalmente pelo cinema francês e hispânico, citando La ciénaga (2001), de Lucrecia Martel, e Naissance des Pieuvres (2007) e Tomboy (2011), de Céline Sciamma, como exemplos. Outras influências incluem Le bonheur (1965), de Agnès Varda, We Need to Talk About Kevin (2011), de Lynne Ramsay, The Souvenir (2019), de Joanna Hogg, bem como Chantal Akerman e Kelly Reichardt."
+    },
     "cinema": {
       "original_title": "Du Côté de la côte",
       "plot_pt": "Ao Longo da Costa é uma visita turística e documental ao longo da Riviera. O exotismo, as cores do turismo, as do Carnaval e do Éden. Uma ilha. Chapéus-de-sol que se fecham, no final, ao som de uma bonita canção de Delerue. O filme é dedicado a André Bazin.\n\r\n\r\n\r\n\r\n\r\n\r\n“Ao Longo da Costa é um filme admirável (...). Diário de uma mulher espirituosa, enquanto vagueia entre Nice e Saint-Tropez, de onde nos envia um postal a cada plano para responder ao seu amigo Chris Marker. (...) Nunca esquecerei a maravilhosa panorâmica de ida e volta que segue um ramo de árvore retorcido sobre a areia até chegar às alpercatas vermelhas e azuis de Adão e Eva.”",
@@ -35198,7 +35386,8 @@
       "genre": "Documentário",
       "year": 1958,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "A Minha Noite em Casa de Maud|1969": {
     "lbxd": {
@@ -35252,7 +35441,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "My Night at Maud's",
+      "imdb_id": "tt0064612",
+      "extract_pt": "Ma nuit chez Maud (Brasil: Minha noite com ela / Portugal: A minha noite em casa de Maud) é um filme francês de 1969, do gênero comédia romântica, realizado por Eric Rohmer. É o terceiro filme (quarto em ordem de lançamento) de sua série de seis contos morais.\nO filme mostra encontros casuais e conversas entre quatro pessoas solteiras durante as férias de Natal, cada uma das quatro pessoas conhece uma das outras três. Um homem e uma mulher são católicos, já a outra mulher e o outro homem são ateus."
+    },
     "cinema": {
       "original_title": "Ma nuit chez Maud",
       "plot_pt": "Neste conto erótico-filosófico sob influência, entre a graça e o livre-arbítrio de Pascal, o sentimento católico de Jean-Louis (Trintignant) é o grão de areia no encontro com a mulher mais livre da nouvelle vague, Françoise Fabian no papel de Maud, como escreveu Philippe Azoury. Foi o filme do sucesso americano de Rohmer.",
@@ -35260,11 +35453,59 @@
       "genre": "Comédia, drama, romance",
       "year": 1969,
       "director": "Éric Rohmer"
-    }
+    },
+    "wiki_tries": 1
   },
   "As Donzelas Fizeram 25 Anos|1992": {
-    "lbxd": null,
-    "omdb": null,
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/6/6/0/143660-the-young-girls-turn-25-0-500-0-750-crop.jpg?v=369266c3a0",
+      "description": "Agnes Varda's documentary of the celebrations arising from the 25th anniversary of her husband Jacques Demy's film The Young Girls of Rochefort.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1993,
+      "lb_title": "The Young Girls Turn 25"
+    },
+    "omdb": {
+      "Title": "The Young Girls Turn 25",
+      "Year": "1993",
+      "Rated": "N/A",
+      "Released": "01 Oct 1993",
+      "Runtime": "64 min",
+      "Genre": "Documentary, Music",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Catherine Deneuve, Agnès Varda, Michel Legrand",
+      "Plot": "A recital becomes part of the French culture; 25 years later the performers return to the village where it was first launched.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFjOTAzNzQtNDE1Ni00MjgyLWI3MzktYTAzY2RkNDc5YWIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.0",
+      "imdbVotes": "592",
+      "imdbID": "tt0106696",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {
       "original_title": "As Donzelas Fizeram 25 Anos",
@@ -35298,8 +35539,12 @@
       "year": 1958,
       "director": "Jacques Tati"
     },
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Mon Oncle",
+      "imdb_id": "tt0050706",
+      "extract_pt": "Mon Oncle: (O Meu Tio (título em Portugal) ou Meu Tio (título no Brasil); My Uncle nos EUA) é um filme ítalo-francês de 1958, do gênero comédia, dirigido pelo cineasta francês Jacques Tati."
+    },
+    "wiki_tries": 2
   },
   "Saudação aos Cubanos|1963": {
     "lbxd": {
@@ -35355,7 +35600,8 @@
       "genre": "Documentário",
       "year": 1963,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Black Panthers|1968": {
     "lbxd": {
@@ -35412,7 +35658,7 @@
       "director": "Agnès Varda"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Ulisses|1982": {
     "lbxd": {
@@ -35497,7 +35743,8 @@
       "genre": "Documentário",
       "year": 2006,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "A Coleccionadora|1967": {
     "lbxd": {
@@ -35515,7 +35762,11 @@
       "lb_title": "La Collectionneuse"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "La Collectionneuse",
+      "imdb_id": "tt0061495",
+      "extract_pt": "La collectionneuse (br: A Colecionadora) é um filme francês do gênero drama e romance dirigido por Eric Rohmer e lançado no ano de 1967. Recebeu o Silver Bear Extraordinary Jury Prize no 17º Festival Internacional Cinema de Berlim (1967).\nPrimeiro longa-metragem colorido do diretor Eric Rohmer e quarto filme de seu conjunto de histórias Seis contos morais, embora tenha sido realizado dois anos antes do terceiro filme previsto, Ma nuit chez Maud (1969)."
+    },
     "cinema": {
       "original_title": "La collectionneuse",
       "plot_pt": "Em Saint-Tropez, dois amigos, um parasita elegante e um artista, encontram Haydée, uma rapariga bela e livre, que coleciona amantes de passagem.",
@@ -35523,7 +35774,8 @@
       "genre": "Comédia, drama, romance",
       "year": 1967,
       "director": "Éric Rohmer"
-    }
+    },
+    "wiki_tries": 1
   },
   "Uma Mulher é Uma Mulher|1961": {
     "lbxd": {
@@ -35573,14 +35825,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "A Woman Is a Woman",
+      "imdb_id": "tt0055572",
+      "extract_pt": "Uma Mulher é uma Mulher  (Une femme est une femme) é um filme de Jean-Luc Godard do gênero comédia, romance e musical com Anna Karina, Jean-Claude Brialy e Jean-Paul Belmondo, três ícones da Nouvelle vague.\nUm dos primeiros filmes do diretor, o filme contém algumas das características marcantes do diretor como cortes abruptos, narração em off e personagens falando com a audiência."
+    },
     "cinema": {
       "original_title": "Une Femme est une femme",
       "plot_pt": "Uma mulher jovem, que vive uma relação apaixonada e tem um trabalho nocturno como dançarina num bar de strip, sente-se angustiada com o tempo que passa: quer ter um filho, o mais depressa possível. O namorado não partilha a mesma vontade, e por isso decide que terá um filho com quem primeiro aparecer. No meio de uma discussão, um amigo comum é chamado ao apartamento com esse propósito, precipitando a situação para um ponto irreversível. Numa história de mal-entendidos e discussões sem retorno, Godard explora as relações íntimas e a resistência do amor a acontecimentos inesperados.",
       "country": "França, Itália",
       "year": 1961,
       "director": "Jean-Luc Godard"
-    }
+    },
+    "wiki_tries": 1
   },
   "Os Filhos da Noite|1949": {
     "lbxd": {
@@ -35813,7 +36070,17 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "cinema": {
+      "original_title": "Mur Murs",
+      "plot_pt": "Durante uma longa estadia em Los Angeles, Agnès Varda explora os murais – as “paredes vivas, que respiram, fervilham, falam, choram e murmuram” – espalhados pela cidade e conversa com os seus criadores. Em Mur Murs, Varda queria explorar “como esta cidade, que é a capital mundial do cinema, se revela através das suas paredes sussurrantes”.",
+      "country": "França, EUA, RFA",
+      "genre": "Documentário",
+      "year": 1980,
+      "director": "Agnès Varda"
+    },
+    "wiki": null,
+    "wiki_tries": 3
   },
   "Jacquot de Nantes|1991": {
     "lbxd": {
@@ -35834,6 +36101,14 @@
       "title_en": "Jacquot de Nantes",
       "imdb_id": "tt0102141",
       "extract_pt": "Jacquot de Nantes é um filme francês dirigido por Agnès Varda, lançado em 1991. O filme foi realizado durante a doença que levaria à morte do diretor Jacques Demy, e consta com uma dramatização de suas memórias, com cortes para suas produções cinematográficas e pequenas cenas documentais retratando-o. Foi apresentado fora de competição no Festival de Cinema de Cannes em 1991.\nVarda queria que Demy estivesse presente durante as filmagens do filme."
+    },
+    "cinema": {
+      "original_title": "Jacquot de Nantes",
+      "plot_pt": "A terna evocação que Agnès Varda faz da infância do seu marido, Jacques Demy — um projecto de sonho que concretizou quando Demy ficou demasiado doente para o realizar — é um retrato maravilhoso do cineasta enquanto jovem e uma encantadora ode à magia do cinema. Filmado na cidade natal de Demy, Nantes, incluindo a casa onde cresceu, este imaginativo cruzamento entre ficção e documentário acompanha o seu crescimento à medida que encontra refúgio do tumulto da guerra nos espectáculos de marionetas, nos contos de fadas, na ópera e, sobretudo, no cinema. Intercalando imagens íntimas de Demy, mais velho, a reflectir sobre o seu percurso de vida, Jacquot de Nantes é uma comovente carta de amor de uma artista visionária a outro.",
+      "country": "França",
+      "genre": "Documentário",
+      "year": 1990,
+      "director": "Agnès Varda"
     }
   },
   "Documenteur|1981": {
@@ -35882,7 +36157,16 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null
+    "wiki": null,
+    "cinema": {
+      "original_title": "Documenteur",
+      "plot_pt": "Em Los Angeles, a francesa Émilie, separada do homem que ama, está à procura de uma casa para si e para o seu filho de oito anos, Martin. Depois de encontrar um apartamento, a sua angústia e sensação de exílio tornam-se insuportáveis. Entre a ficção e o documentário (a tradução literal de “Documenteur” seria “documentiroso”), Documenteur é um dos filmes mais pessoais de Agnès Varda (que o realizou após separar-se de Jacques Demy), e um retrato contemplativo do isolamento urbano, atravessado por um subtil poesia visual.",
+      "country": "França, EUA",
+      "genre": "Documentário",
+      "year": 1980,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 3
   },
   "La Pointe Courte|1955": {
     "lbxd": {
@@ -35931,7 +36215,20 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null
+    "wiki": {
+      "title_en": "2019 Cannes Film Festival",
+      "imdb_id": "ev0000147/2019",
+      "extract_pt": "A 72.ª edição do Festival anual de Cannes foi realizada entre os dias 14 a 25 de maio de 2019. O cineasta mexicano Alejandro González Iñárritu foi eleito o presidente do júri do festival.\nO filme The Dead Don't Die, dirigido por Jim Jarmusch, abriu o festival. A cerimônia honrou a cineasta belga Agnès Varda, cujo momento de filmagem do filme Le Pointe Courte (1955) está representado no pôster oficial do evento."
+    },
+    "cinema": {
+      "original_title": "La Pointe Courte",
+      "plot_pt": "Uma mulher chega ao bairro piscatório de La Pointe Courte, em Sète (sul de França), para informar o seu marido, natural do bairro, de que deseja o divórcio. Ao mesmo tempo que o casal conversa sobre o seu amor e a sua relação, a comunidade local enfrenta a pobreza quando a pesca é proibida pelas autoridades sanitárias. Entre a ficção e o documentário (conjugação que viria a ser recorrente na obra da cineasta), Agnès Varda concebeu assim um profundo estudo das tribulações de um casamento, e um olhar neo-realista sobre a vida da comunidade de La Pointe Courte, onde viveu durante a adolescência. La Pointe Courte é o primeiro filme de Agnès Varda e por muitos (como Georges Sadoul, um dos mais reputados historiadores de cinema) considerado como o verdadeiro primeiro filme da Nouvelle Vague, com uma modernidade inegável.",
+      "country": "França",
+      "genre": "Drama",
+      "year": 1954,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 3
   },
   "Decameron Nights|1953": {
     "lbxd": {
@@ -36034,7 +36331,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Rio Bravo (film)",
+      "imdb_id": "tt0053221",
+      "extract_pt": "Rio Bravo (bra: Onde Começa o Inferno; prt: Rio Bravo) é um filme estadunidense de 1959, do gênero western, dirigido por Howard Hawks.\nO filme conta a história de um xerife que enfrenta quase sozinho um poderoso rancheiro que domina a região. Geralmente é considerado como uma resposta do diretor Howard Hawks e do ator John Wayne ao clássico High Noon, de 1952."
+    },
     "cinema": {
       "original_title": "Rio Bravo",
       "plot_pt": "“Hawks não deforma o real; é lá que escolhe os gestos, os instantes e os lugares que serão mais reveladores; um gesto de Dean Martin (Dude) passando a mão pelo rosto diz-nos mais sobre a personagem que todas as cenas de embriaguez que pudessem ser filmadas. Permite-nos imaginar a vida na cidade para além do que nos é mostrado […]”\n\r\n\r\nSerge Daney",
@@ -36042,7 +36343,7 @@
       "year": 1959,
       "director": "Howard Hawks"
     },
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Viagem em Itália|1954": {
     "lbxd": {
@@ -36099,7 +36400,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Lyla Rocco",
+      "imdb_id": "nm0733689",
+      "extract_pt": "Lyla Rocco (nascida em 18 de janeiro de 1933) é uma atriz de cinema italiana. Depois de fazer sua estreia no cinema em 1951, Rocco apareceu em mais de trinta produções antes de se aposentar em 1964.[carece de fontes?] Em 1954, ela desempenhou um papel de apoio no filme Viaggio in Italia, de Roberto Rossellini. Em 1960, em um de seus papéis finais, apareceu no filme de terror L'ultima preda del vampiro."
+    },
     "cinema": {
       "original_title": "Viaggio in Italia",
       "plot_pt": "Os Joyce são um casal inglês interpretado por Ingrid Bergman e George Sanders que viaja para Itália com o objectivo de ver uma propriedade perto de Nápoles, recentemente herdada. Rossellini transforma a história de um casal aborrecido a viajar por Itália numa história sobre crueldade e cinismo, à medida que o casamento destas duas personagens se desintegra.",
@@ -36107,7 +36412,8 @@
       "genre": "Drama",
       "year": 1954,
       "director": "Roberto Rossellini"
-    }
+    },
+    "wiki_tries": 1
   },
   "Fim-de-Semana no Ascensor|1958": {
     "lbxd": {
@@ -36165,14 +36471,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Elevator to the Gallows",
+      "imdb_id": "tt0051378",
+      "extract_pt": "Ascenseur pour l'échafaud é um filme francês de 1958, do gênero suspense, dirigido por Louis Malle. Este é o primeiro longa-metragem de ficção de Malle, que já tinha anteriormente conquistado em 1956 um Óscar com o documentário Le Monde du Silence sobre Jacques-Yves Cousteau. Louis Malle viria a ser um dos autores mais representativos da nouvelle vague francesa com a sua obra Zazie dans le métro,1960.\nO filme foi decisivo para a carreira da atriz francesa Jeanne Moreau, transformando-a em estrela internacional."
+    },
     "cinema": {
       "original_title": "Ascenseur Pour L'échafaud",
       "plot_pt": "Fim-de-Semana no Ascensor foi a estreia de Louis Malle na longa-metragem de ficção, depois de ter trabalhado com Jacques Cousteau. E não podia correr melhor, já que o filme receberia o Prémio Louis Delluc, para o melhor filme francês. Uma intriga policial em ambientes “à americana” (com música de Miles Davis e uma inquietante Jeanne Moreau), Fim-de-Semana era o prenúncio de que um “novo cinema” estava aí a chegar.",
       "country": "França",
       "year": 1958,
       "director": "Louis Malle"
-    }
+    },
+    "wiki_tries": 1
   },
   "Dois Homens em Manhattan|1959": {
     "lbxd": {
@@ -36222,14 +36533,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Two Men in Manhattan",
+      "imdb_id": "tt0052733",
+      "extract_pt": "Deux hommes dans Manhattan (pt: Dois homens em Manhattan) é um filme francês do gênero noir dirigido por Jean-Pierre Melville lançado em 1959. O filme é estrelado por Melville (que também escreveu o roteiro) e Pierre Grasset como dois jornalistas franceses em Nova Iorque em busca de um diplomata das Organização das Nações Unidas desaparecido.\nEmbora Melville ocasionalmente tenha participado de filmes de outros diretores (como o personagem \"Parvulesco\" em À bout de souffle, de Jean-Luc Godard), Two Men in Manhattan foi seu único papel principal e a única vez em que atuou em um de seus próprios filmes."
+    },
     "cinema": {
       "original_title": "Deux Hommes dans Manhattan",
       "plot_pt": "Um delegado francês das Nações Unidas desaparece abruptamente. O repórter Moreau e o fotógrafo Delmas são enviados à sua procura. A única pista que existe é uma fotografia de três mulheres.",
       "country": "França",
       "year": 1959,
       "director": "Jean-Pierre Melville"
-    }
+    },
+    "wiki_tries": 1
   },
   "Ydessa, os Ursos e etc.|2004": {
     "lbxd": {
@@ -36254,7 +36570,8 @@
       "genre": "Documentário",
       "year": 2004,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "T7,  Coz, WC… À VENDA|1984": {
     "lbxd": {
@@ -36309,7 +36626,8 @@
       "country": "França",
       "year": 1984,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "Get a Life|2001": {
     "lbxd": {
@@ -36357,7 +36675,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Get a Life (film)",
+      "imdb_id": "tt0284141",
+      "extract_pt": "Ganhar a Vida (2001) é um filme português de João Canijo.\nTrês anos depois do êxito de \"Sapatos Pretos\", João Canijo regressa com um novo filme, \"Ganhar a Vida\", onde volta a trabalhar com Rita Blanco, que com ele iniciou a sua carreira de actriz há quinze anos, e que aqui tem indiscutivelmente o grande papel da sua carreira, dando corpo a uma mulher a quem um dia a tragédia vem mudar completamente a vida. A seu lado, dois grandes actores que têm sido presença regular no cinema de João Canijo, Adriano Luz e Teresa Madruga, e duas revelações, Alda Gomes e Olivier Leite."
+    },
     "cinema": {}
   },
   "On Connaît La Chanson|1997": {
@@ -36449,7 +36771,8 @@
       "country": "França",
       "year": 1961,
       "director": "Jacques Rivette"
-    }
+    },
+    "wiki_tries": 3
   },
   "Elisa|2025": {
     "lbxd": {
@@ -36502,7 +36825,7 @@
       "director": "Leonardo Di Costanzo"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "O Desprezo|1963": {
     "lbxd": {
@@ -36562,8 +36885,12 @@
       "year": 1963,
       "director": "Jean-Luc Godard"
     },
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Contempt (film)",
+      "imdb_id": "tt0057345",
+      "extract_pt": "O Desprezo é um filme franco-italiano de 1963, do gênero drama, dirigido por Jean-Luc Godard, com roteiro inspirado na novela Il Disprezzo, do escritor Alberto Moravia e estrelado por Brigitte Bardot.\nAclamado pela crítica e considerado um dos melhores filmes de Godard e da nouvelle vague, o filme foi produzido por Carlo Ponti. O cineasta alemão Fritz Lang tem uma participação especial como ele mesmo.\nNo Brasil, voltou a ser exibido nos cinemas em novembro de 2023 após entrar na programação do Festival Varilux."
+    },
+    "wiki_tries": 2
   },
   "A Amiga Silenciosa|2025": {
     "lbxd": {
@@ -36619,7 +36946,8 @@
       "genre": "Drama",
       "year": 2025,
       "director": "Ildikó Enyedi"
-    }
+    },
+    "wiki_tries": 3
   },
   "As Férias do Sr. Hulot|1953": {
     "lbxd": {
@@ -36675,7 +37003,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Les Vacances de Monsieur Hulot",
+      "imdb_id": "tt0046487",
+      "extract_pt": "Les Vacances de monsieur Hulot é um filme francês de comédia dirigido, escrito e protagonizado por Jacques Tati. Introduziu o personagem fumador de cachimbo, bem-intencionado, mas desajeitado, do Senhor (ou Monsieur)  Hulot, que aparece nos filmes subsequentes de Tati, incluindo Mon Oncle (1958), Playtime (1967) e Trafic (1971). O filme ganhou uma reputação internacional de seu criador quando lançado em 1953. \nO filme foi um grande sucesso de bilheteira com um público de 5.071.920 pessoas e tornou Tati conhecido internacionalmente."
+    },
     "cinema": {
       "original_title": "Les Vacances de Monsieur Hulot",
       "plot_pt": "Hôtel de la Plage, costa atlântica, Verão: as pessoas pousam as malas calmamente. Ao longe, o som incomodativo de um carro ruidoso. Ao volante, um veraneante pouco comum. É o senhor Hulot, que empurra a porta do hotel e provoca logo uma enorme corrente de ar. É a desordem total durante a estação balnear: ténis coreográfico, um barco de pesca partido. O Sr. Hulot, para gáudio das crianças, semeia involuntariamente o terror nesta pequena sociedade de veraneantes demasiado sérios.",
@@ -36683,7 +37015,8 @@
       "genre": "Comédia",
       "year": 1953,
       "director": "Jacques Tati"
-    }
+    },
+    "wiki_tries": 1
   },
   "Cartas Amarelas|2026": {
     "lbxd": {
@@ -36707,7 +37040,8 @@
       "country": "Turquia, França, Alemanha",
       "year": 2026,
       "director": "Ilker Çatak"
-    }
+    },
+    "wiki_tries": 3
   },
   "O Mundo a Seus Pés|1941": {
     "lbxd": {
@@ -36764,7 +37098,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Citizen Kane",
+      "imdb_id": "tt0033467",
+      "extract_pt": "Citizen Kane (prt: O Mundo a Seus Pés, ou Citizen Kane - O Mundo a Seus Pés; bra: Cidadão Kane) é um filme norte-americano de 1941, dirigido, escrito, produzido e estrelado por Orson Welles. O filme é considerado uma das obras-primas da história do cinema, sendo apontado por muitos críticos como o maior filme já produzido, e particularmente elogiado por sua inovação na música, fotografia e estrutura narrativa. Foi lançado pela RKO Pictures.\nCitizen Kane, que foi o primeiro filme de Welles, ganhou um Oscar de melhor roteiro original para Herman J. Mankiewicz e o próprio Welles."
+    },
     "cinema": {
       "original_title": "Citizen Kane",
       "plot_pt": "“O Mundo a seus Pés é uma demonstração da vontade de potência e simultaneamente uma troça dessa vontade, um hino à juventude e uma meditação sobre a velhice, um ensaio sobre a vanidade de toda a ambição humana e ao mesmo tempo um poema sobre a decrepitude. E, por trás de tudo isto, uma reflexão sobre a solidão dos seres excepcionais, génios ou monstros, monstruosos génios.” François Truffaut",
@@ -36772,7 +37110,8 @@
       "genre": "Drama",
       "year": 1941,
       "director": "Orson Welles"
-    }
+    },
+    "wiki_tries": 1
   },
   "Pedro, o Louco|1965": {
     "lbxd": {
@@ -36826,7 +37165,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Pierrot le Fou",
+      "imdb_id": "tt0059592",
+      "extract_pt": "Pierrot le fou (bra: O Demônio das Onze Horas; prt: Pedro, o Louco) é um filme franco-italiano dirigido por Jean-Luc Godard e lançado em 1965. Baseada no livro Obsession, de Lionel White, a obra cinematográfica teve um orçamento de US$ 300 mil e é tido como um dos grandes marcos do movimento francês \"Nouvelle Vague\"."
+    },
     "cinema": {
       "original_title": "Pierrot le fou",
       "plot_pt": "“O filme foi interdito aos menores de 18 anos [em França]. Motivo? Anarquismo intelectual e moral (sic).” – Jean-Luc Godard",
@@ -36834,7 +37177,8 @@
       "genre": "Drama",
       "year": 1965,
       "director": "Jean-Luc Godard"
-    }
+    },
+    "wiki_tries": 1
   },
   "A Odisseia|2026": {
     "lbxd": null,
@@ -36971,8 +37315,12 @@
     },
     "omdb": null,
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Kuroneko",
+      "imdb_id": "tt0122136",
+      "extract_pt": "Yabu no Naka no Kuroneko (藪の中の黒猫) (bra: O Gato Preto; prt: O Gato Preto do Túmulo) é um filme japonês do género terror, realizado e escrito por Kaneto Shindo, com base na adaptação de um folclore sobrenatural, e protagonizado por Kichiemon Nakamura, Nobuko Otowa e Kiwako Taichi. O filme foi rodado em preto e branco e no formato TohoScope. \nEstreou-se no Japão a 24 de fevereiro de 1968, sob a distribuição da Toho. O filme entrou na competição do Festival de Cannes de 1968, porém a edição foi cancelada devido aos eventos de Maio de 1968, na França."
+    },
+    "wiki_tries": 2
   },
   "Women Without Men|2009": {
     "lbxd": {
@@ -37029,7 +37377,8 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 3
   },
   "Ghost|1990": {
     "lbxd": {
@@ -37089,7 +37438,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Nosferasta: First Bite|2021": {
     "lbxd": {
@@ -37212,7 +37561,7 @@
     "omdb": null,
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Orpheus|1950": {
     "lbxd": null,
@@ -37272,7 +37621,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Days and Nights in the Forest|1970": {
     "lbxd": {
@@ -37292,7 +37641,7 @@
     "omdb": null,
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Our Song to War|2018": {
     "lbxd": {
@@ -37827,8 +38176,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "A Streetcar Named Desire (1951 film)",
+      "imdb_id": "tt0044081",
+      "extract_pt": "A Streetcar Named Desire (bra: Uma Rua Chamada Pecado; prt: Um Eléctrico Chamado Desejo) é um filme norte-americano de 1951, do gênero drama, dirigido por Elia Kazan, e com roteiro baseado na peça A Streetcar Named Desire, de Tennessee Williams."
+    },
+    "wiki_tries": 2
   },
   "Happiness|1998": {
     "lbxd": {
@@ -38031,8 +38384,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Man on the Moon (film)",
+      "imdb_id": "tt0125664",
+      "extract_pt": "Man on the Moon (prt: Homem na Lua; bra: O Mundo de Andy) é um filme nipo-britano-teuto-estadunidensede 1999, do gênero comédia biográfico-dramática, dirigido por Milos Forman. Foi lançado a 22 de dezembro de 1999 nos Estados Unidos e a 5 de maio de 2000 no Reino Unido pela Universal Pictures e pela Warner Bros."
+    },
+    "wiki_tries": 2
   },
   "Millennium Actress|2001": {
     "lbxd": {
@@ -38276,7 +38633,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "When I Leave This Land|2025": {
     "lbxd": {
@@ -38379,8 +38736,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "My Neighbor Totoro",
+      "imdb_id": "tt0096283",
+      "extract_pt": "Tonari no Totoro (bra: Meu Amigo Totoro; prt: O Meu Vizinho Totoro / Totoro) é um filme de animação japonês de 1988, dos gêneros fantasia, drama e aventura, dirigido e roteirizado por Hayao Miyazaki para a Studio Ghibli.\nO filme conta a história das duas jovens filhas (Satsuki e Mei) de um professor e suas aventuras com espíritos da floresta amigáveis no Japão rural pós-segunda guerra mundial."
+    },
+    "wiki_tries": 2
   },
   "Pink Narcissus|1971": {
     "lbxd": {
@@ -38623,7 +38984,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Wasp|2003": {
     "lbxd": {
@@ -38673,7 +39034,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Fish Tank|2009": {
     "lbxd": {
@@ -38730,8 +39091,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Fish Tank (film)",
+      "imdb_id": "tt1232776",
+      "extract_pt": "Fish Tank (no Brasil, Aquário) é um filme de drama britânico de 2009 dirigido e escrito por Andrea Arnold. Estrelado por Katie Jarvis e Kierston Wareing, venceu o Prêmio do Júri do Festival de Cannes."
+    },
+    "wiki_tries": 2
   },
   "Paprika|2006": {
     "lbxd": {
@@ -38853,7 +39218,7 @@
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
     },
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "The Traveler Without Luggage|1944": {
     "lbxd": {
@@ -38952,7 +39317,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Red Road|2006": {
     "lbxd": {
@@ -39156,7 +39521,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Memories|1995": {
     "lbxd": {
@@ -39207,8 +39572,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Memories (1995 film)",
+      "imdb_id": "tt0113799",
+      "extract_pt": "Memories é um filme anime de 1995 que tem Katsuhiro Ôtomo como produtor executivo, o filme é baseado em três mangás curtos do próprio Otomo. O filme é composto por três curtas-metragens: Magnetic Rose (彼女の想いで, Kanojo no Omoide), dirigido pelo co-fundador do Studio 4°C, Kōji Morimoto, e escrito por Satoshi Kon; Stink Bomb (最臭兵器, Saishū-heiki), dirigido por Tensai Okamura of Darker, conhecido por Black fame esceito por Otomo, e Cannon Fodder (大砲の街, Taihō no Machi), escrito e dirigido pelo próprio Otomo."
+    },
+    "wiki_tries": 2
   },
   "They All Lie|2009": {
     "lbxd": {
@@ -39227,7 +39596,7 @@
     "omdb": null,
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "You Burn Me|2024": {
     "lbxd": {
@@ -39273,7 +39642,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "The Addams Family|1991": {
     "lbxd": {
@@ -39495,7 +39864,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Wuthering Heights|2011": {
     "lbxd": {
@@ -39554,7 +39923,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Pano Cru|2026": {
     "lbxd": null,
@@ -39834,7 +40203,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "The Seduction of Mimi|1972": {
     "lbxd": {
@@ -39887,8 +40256,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Giancarlo Giannini",
+      "imdb_id": "nm0316284",
+      "extract_pt": "Giancarlo Giannini (La Spezia, 1 de agosto de 1942) é um ator, dublador, roteirista, produtor e diretor italiano.\nComeçou a sua carreira no cinema em 1965 no filme Fango sulla metropoli. Depois trabalhou com a diretora italiana Lina Wertmüller a qual dirigiu-o em muitos filmes  (Mimì metallurgico ferito nell'onore, 1972; Travolti da un insolito destino nell'azzurro mare d'agosto, (1974) e Pasqualino Settebellezze (1975), pelo qual foi indicado ao Oscar de Melhor Ator.\nFora da Itália, atuou em Casino Royale (2006), de Martin Campbell, e na continuação, Quantum of Solace, New York Stories, de Francis Ford Coppola, além de Hannibal, de Ridley Scott."
+    },
+    "wiki_tries": 2
   },
   "The Storm Within|1948": {
     "lbxd": {
@@ -39906,8 +40279,12 @@
     },
     "omdb": null,
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Les Parents terribles (1948 film)",
+      "imdb_id": "tt0040682",
+      "extract_pt": "Les Parents terribles é um filme francês de 1948 escrito e dirigido por Jean Cocteau, que adaptou para o cinema peça teatral própria homônima. Cocteau usou o mesmo elenco que conseguira êxito nos palcos de Paris em 1946 quando do relançamento do espetáculo. Em inglês ficou conhecido também com o título The Storm Within. A peça teve outra adaptação, feita para a TV francesa em 1980, dessa vez com Jean Marais no papel de Georges."
+    },
+    "wiki_tries": 2
   },
   "After Life|1998": {
     "lbxd": {
@@ -39965,7 +40342,8 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 3
   },
   "Aquí|2026": {
     "lbxd": {
@@ -40064,7 +40442,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Rocío|1980": {
     "lbxd": {
@@ -40114,7 +40492,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Black Peter|1964": {
     "lbxd": {
@@ -40165,7 +40543,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Land of my dreams|2012": {
     "lbxd": {
@@ -40216,7 +40594,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Fátima Lda [Episódio da série 4 Caminhos para Fátima]|2018": {
     "lbxd": null,
@@ -40317,7 +40695,8 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 3
   },
   "La furgo|2025": {
     "lbxd": {
@@ -40364,7 +40743,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "American Honey|2016": {
     "lbxd": {
@@ -40421,8 +40800,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "American Honey (film)",
+      "imdb_id": "tt3721936",
+      "extract_pt": "American Honey (bra: Docinho da América; prt: American Honey) é um filme de estrada de 2016, escrito e dirigido por Andrea Arnold. O filme é estrelado por Sasha Lane, Shia LaBeouf e Riley Keough. O filme segue Star (Lane), uma adolescente de uma casa problemática, que foge com uma equipe de jovens que viaja pelo Meio-Oeste estadunidense vendendo assinaturas de revistas de porta em porta. A filmagem preliminar começou em maio de 2015 com filmagens ocorrendo em vários partes dos Estados Unidos; É o primeiro filme de Arnold a ser definido e filmado fora do Reino Unido."
+    },
+    "wiki_tries": 2
   },
   "Hoodoo McFiggin’s Christmas|1995": {
     "lbxd": {
@@ -40520,7 +40903,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "Enter the Void|2009": {
     "lbxd": {
@@ -40634,7 +41017,7 @@
     },
     "cinema": {},
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "One Flew Over the Cuckoo's Nest|1975": {
     "lbxd": {
@@ -40815,8 +41198,12 @@
     },
     "omdb": null,
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "Os Verdes Anos",
+      "imdb_id": "tt0057642",
+      "extract_pt": "Os Verdes Anos é um filme dramático português de 1963, a primeira longa-metragem realizada por Paulo Rocha e escrita em parceria com Nuno Bragança. É protagonizado por Rui Gomes, no papel de Júlio um jovem que se muda para Lisboa, tentar a sorte como sapateiro, e onde desenvolve um amor ciumento por Ilda (interpretada por Isabel Ruth), uma empregada doméstica. Os Verdes Anos foi produzido por António da Cunha Telles com banda sonora de Carlos Paredes.\nÉ considerado um dos filmes fundadores do movimento português chamado Novo Cinema, juntamente com os filmes Dom Roberto (1962) de José Ernesto de Sousa e Belarmino (1964) de Fernando Lopes."
+    },
+    "wiki_tries": 2
   },
   "A Matter of Life and Death|1946": {
     "lbxd": {
@@ -40872,8 +41259,12 @@
       "Response": "True"
     },
     "cinema": {},
-    "wiki": null,
-    "wiki_tries": 1
+    "wiki": {
+      "title_en": "A Matter of Life and Death (1946 film)",
+      "imdb_id": "tt0038733",
+      "extract_pt": "A Matter of Life and Death (bra: Neste Mundo e no Outro; prt: Caso de Vida ou de Morte), também conhecido como Stairway to Heaven, é um filme britânico de fantasia e romance de 1946 que se passa na Inglaterra durante a Segunda Guerra Mundial. Escrito, produzido e dirigido por Michael Powell e Emeric Pressburger, o filme é estrelado por David Niven, Roger Livesey, Raymond Massey, Kim Hunter e Marius Goring."
+    },
+    "wiki_tries": 2
   },
   "Ernest and Celestine — Winter Tales|2017": {
     "lbxd": null,
@@ -41234,7 +41625,7 @@
       "director": "François Truffaut"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "A Prodigiosa Transformação da Classe Operária em Estrangeiros|2024": {
     "lbxd": null,
@@ -41287,7 +41678,8 @@
       "year": 2025,
       "country": "Estados Unidos, Reino Unido e Portugal",
       "plot_pt": "Recriado graças a um projeto de restauração de arquivos liderado pelo Reino Unido, «NOVA 78'» apresenta imagens inéditas da lendária Nova Convention, onde William Burroughs, Patti Smith, Zappa, Ginsberg e outros se cruzaram numa explosão de ideias, arte e rebeldia."
-    }
+    },
+    "wiki_tries": 3
   },
   "Sophia Setembro de 1963|2026": {
     "lbxd": null,
@@ -41354,12 +41746,17 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Story of Adèle H.",
+      "imdb_id": "tt0073114",
+      "extract_pt": "L'histoire d'Adèle H. (bra/prt A História de Adèle H.)  é um filme francês de 1975, um drama biográfico dirigido por François Truffaut.\nO roteiro, escrito por Jean Gruault, François Truffaut, Jan Dawson e Suzanne Schiffman, é baseado em livro de Frances Vernon Guille e no diário de Adèle Hugo."
+    },
     "cinema": {
       "year": 1975,
       "original_title": "L'histoire d'Adèle H.",
       "plot_pt": "Adèle Hugo, a segunda filha do célebre escritor francês Victor Hugo, chega à Nova Escócia em 1863. Vivendo sob um nome falso, ela localiza o seu antigo amante, um jovem e atraente oficial do exército, o Tenente Pinson. Embora Pinson insista que o seu romance acabou e rejeite as suas investidas, Adèle continua agarrada ao seu amor. A sua paixão transforma-se numa intensa obsessão autodestrutiva."
-    }
+    },
+    "wiki_tries": 1
   },
   "The Outsiders|1983": {
     "lbxd": {
@@ -41775,7 +42172,7 @@
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
     },
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "King Creole|1958": {
     "lbxd": {
@@ -42019,7 +42416,7 @@
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
     },
-    "wiki_tries": 1
+    "wiki_tries": 3
   },
   "West Side Story|1961": {
     "lbxd": {
@@ -42140,7 +42537,8 @@
       "genre": "Documentário",
       "year": 1958,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 3
   },
   "UM TOQUE FAMILIAR|None": {
     "lbxd": {
@@ -42196,7 +42594,6 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
     "cinema": {}
   },
   "COPELAND|None": {
@@ -42355,11 +42752,15 @@
       "lb_title": "The Trip"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Trip (1967 film)",
+      "imdb_id": "tt0062395",
+      "extract_pt": "The Trip é um filme psicodélico estadunidense de 1967, lançado pela American International Pictures, dirigido por Roger Corman e escrito por Jack Nicholson. Foi filmado em locações em Los Angeles e arredores, incluindo o topo de Kirkwood em Laurel Canyon, Hollywood Hills e perto de Big Sur, na Califórnia, ao longo de três semanas em março e abril de 1967. Peter Fonda estrela como um jovem que experimenta sua primeira viagem de LSD.\nLançado durante o Verão do Amor, The Trip foi muito popular, particularmente entre os membros da contracultura da época. Tornou-se um dos lançamentos de maior sucesso da AIP e foi importante no desenvolvimento posterior de um marco cultural ainda maior, Easy Rider, que envolveu muitos dos mesmos profissionais e atraiu o mesmo público jovem."
+    },
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
     },
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Wild One|1953": {
     "lbxd": {
@@ -42417,7 +42818,15 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null
+    "wiki": {
+      "title_en": "The Wild One",
+      "imdb_id": "tt0047677",
+      "extract_pt": "The Wild One (bra/prt: O Selvagem) é um filme estadunidense de 1953, do gênero drama, dirigido por László Benedek, com roteiro de John Paxton e Ben Maddow baseado no conto \"The Ciclists' Raid\", de Frank Rooney, publicado na revista Harper's em janeiro de 1951."
+    },
+    "cinema": {
+      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
+    },
+    "wiki_tries": 1
   },
   "Los montes|1982": {
     "lbxd": {
@@ -42464,7 +42873,9 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {}
   },
   "Loves of a Blonde|1965": {
     "lbxd": {
@@ -42517,7 +42928,14 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "cinema": {},
+    "wiki": {
+      "title_en": "Loves of a Blonde",
+      "imdb_id": "tt0059415",
+      "extract_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times."
+    },
+    "wiki_tries": 1
   },
   "Othello|1951": {
     "lbxd": {
@@ -42568,7 +42986,10 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 3
   },
   "Festa, Trabalho e Pão em Grijó de Parada|1974": {
     "lbxd": {
@@ -42610,7 +43031,13 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0121330",
+      "extract_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974."
+    },
+    "cinema": {}
   },
   "The Family and the Zombie|2022": {
     "lbxd": {
@@ -42626,7 +43053,9 @@
       "lb_year": 2022,
       "lb_title": "The Family and the Zombie"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": null,
+    "cinema": {}
   },
   "An Asian Ghost Story|2022": {
     "lbxd": {
@@ -42669,7 +43098,10 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 3
   },
   "Oh Be a Fine Girl Kiss Me|2025": {
     "lbxd": {
@@ -42687,7 +43119,9 @@
       "lb_year": 2025,
       "lb_title": "Oh Be a Fine Girl Kiss Me"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": null,
+    "cinema": {}
   },
   "Three Less Me|1988": {
     "lbxd": {
@@ -42705,10 +43139,56 @@
       "lb_year": 1988,
       "lb_title": "Three Less Me"
     },
-    "omdb": null
+    "omdb": {
+      "Title": "Três Menos Eu",
+      "Year": "1988",
+      "Rated": "N/A",
+      "Released": "02 Jun 1988",
+      "Runtime": "90 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "João Canijo",
+      "Writer": "João Canijo, Paulo Tunhas",
+      "Actors": "Rita Blanco, Anne Gautier, Pedro Hestnes",
+      "Plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can...",
+      "Language": "French, Portuguese",
+      "Country": "Portugal, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFhNThjOTItODc4YS00MDZiLTk5MWQtZTlmNjE5NTJkYjBhXkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "14",
+      "imdbID": "tt0096315",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {}
   },
   "PERSEPOLIS|2007": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": 4.23,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/28/um/1t/jq/dYvyF1RlNokAd1N7Nek0vDpYsV6-0-500-0-750-crop.jpg?v=fc5d71c744",
+      "description": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Marjane Satrapi",
+      "lb_director_slug": "marjane-satrapi",
+      "lb_year": 2007,
+      "lb_title": "Persepolis"
+    },
     "omdb": {
       "Title": "Persepolis",
       "Year": "2007",
@@ -42748,12 +43228,72 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": {
+      "title_en": "Persepolis (film)",
+      "imdb_id": "tt0808417",
+      "extract_pt": "Persepolis (bra/prt: Persépolis) é um filme francês de animação de 2007, baseado no romance gráfico autobiográfico homônimo de Marjane Satrapi. O filme foi escrito e dirigido por Satrapi e Vincent Paronnaud. Sua trama começa pouco antes da Revolução Iraniana, quando Marjane atinge a adolescência, e acaba quando ela é uma expatriada de 22 anos. O título é uma referência à cidade histórica de Persépolis."
+    },
+    "cinema": {},
+    "wiki_tries": 1
   },
   "Kung-Fu Master|1988": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/2/17972-kung-fu-master--0-500-0-750-crop.jpg?v=a823e7ec3c",
+      "description": "A lonely 40-year old woman finds herself shattering taboos by falling in love with the 14-year old Julien – but is it romance, or a desperate attempt to turn back time in the face of middle age?",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1988,
+      "lb_title": "Kung-Fu Master!"
+    },
+    "omdb": {
+      "Title": "Kung-Fu Master!",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "01 Nov 1989",
+      "Runtime": "80 min",
+      "Genre": "Drama, Romance",
+      "Director": "Agnès Varda",
+      "Writer": "Jane Birkin, Agnès Varda",
+      "Actors": "Jane Birkin, Mathieu Demy, Charlotte Gainsbourg",
+      "Plot": "Mary-Jane, a lonely mother in her forties, gets absorbed in a sentimental affair with a 14-year-old boy.",
+      "Language": "French, English, German",
+      "Country": "France",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjE3MzhmZTktZDkyNy00YzA0LWI0M2UtZDk2YjUwM2E3Nzc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "2,295",
+      "imdbID": "tt0093371",
+      "Type": "movie",
+      "DVD": "01 Jan 2002",
+      "BoxOffice": "N/A",
+      "Production": "Tai Seng",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Kung-Fu Master",
+      "plot_pt": "Numa Primavera chuvosa, Mary-Jane, uma mulher de 40 anos, divorciada, apaixona-se por Julien, um rapaz de 14 anos, colega da sua filha Lucy, e obcecado com o videojogo “Kung-Fu Master!”, através do qual os dois se aproximam. Com uma enorme delicadeza e contenção, Agnès Varda transforma esta premissa complexa num retrato terno e sincero de uma mulher, Jane Birkin à procura da sua juventude perdida.",
+      "country": "França",
+      "genre": "Drama",
+      "year": 1987,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 2
   },
   "As Cento e uma Noites de Simon Cinéma|1995": {
     "lbxd": {
@@ -42802,7 +43342,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null
+    "wiki": {
+      "title_en": "One Hundred and One Nights",
+      "imdb_id": "tt0112654",
+      "extract_pt": "Les cent et une nuits de Simon Cinéma (br: As Cento e Uma Noites) é um filme francês e britânico de 1995, do gênero comédia, realizado por Agnès Varda.\nO filme foi indicado ao Leão de Ouro do Festival de Berlim em 1996."
+    },
+    "cinema": {
+      "original_title": "Les Cent et une nuits de Simon Cinéma",
+      "plot_pt": "Realizado a propósito do centenário da primeira sessão de cinema, Agnès Varda presta uma extraordinária homenagem ao cinema num filme pleno de humor e de imaginação. Um filme com um elenco do outro mundo, que vai de Anouk Aimée a Gina Lollobrigida, de Jean-Paul Belmondo a Robert De Niro, de Catherine Deneuve a Jean-Pierre Léaud (entre muitas, muitas outras estrelas).",
+      "country": "França, Reino Unido",
+      "year": 1994,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 1
   },
   "The Last Picture Show|1971": {
     "lbxd": {
@@ -42859,10 +43411,15 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Last Picture Show",
+      "imdb_id": "tt0067328",
+      "extract_pt": "The Last Picture Show (br: A Última Sessão de Cinema / pt: A Última Sessão) é um filme estadunidense de 1971, do gênero drama, realizado por Peter Bogdanovich."
+    },
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
-    }
+    },
+    "wiki_tries": 1
   },
   "Calle Málaga|2026": {
     "lbxd": {
@@ -42967,7 +43524,8 @@
     "cinema": {
       "year": 1988,
       "plot_pt": "Descobre-se Jane Birkin sob várias facetas, em todos seus estados e em diferentes estações, como ela mesma ou como outras Jane: d'Arc, Calamity Jane, a Jane do Tarzan e a Jane do Gainsbourg."
-    }
+    },
+    "wiki_tries": 3
   },
   "A SAGA DE ANATAHAN|None": {
     "lbxd": {
@@ -43020,7 +43578,6 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
     "cinema": {}
   },
   "SOY CUBA|None": {
@@ -43077,7 +43634,6 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
     "cinema": {}
   },
   "A PISCINA|None": {
@@ -43135,7 +43691,934 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
     "cinema": {}
+  },
+  "Algemas de Cristal|1987": {
+    "lbxd": {
+      "rating": 3.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/2/9/13129-the-glass-menagerie-1987-0-500-0-750-crop.jpg?v=38e758b7ba",
+      "description": "An aging Southern Belle complicates life for her ambitious son and crippled daughter because of her own warped views of what life should be.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Paul Newman",
+      "lb_director_slug": "paul-newman",
+      "lb_year": 1987,
+      "lb_title": "The Glass Menagerie"
+    },
+    "omdb": {
+      "Title": "The Glass Menagerie",
+      "Year": "1987",
+      "Rated": "PG",
+      "Released": "27 May 1987",
+      "Runtime": "134 min",
+      "Genre": "Drama",
+      "Director": "Paul Newman",
+      "Writer": "Tennessee Williams",
+      "Actors": "Joanne Woodward, John Malkovich, Karen Allen",
+      "Plot": "A son longs to escape from his stifling home, where his genteel mother worries about the future prospects of his lame, shy sister.",
+      "Language": "English",
+      "Country": "United States, Canada",
+      "Awards": "1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDNhZTQ5MTAtMzBiYy00ZDM1LWJiMWYtMzJkZmFhMWYyMGU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "2,359",
+      "imdbID": "tt0093093",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$895,904",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Glass Menagerie (1987 film)",
+      "imdb_id": "tt0093093",
+      "extract_pt": "The Glass Menagerie (Brasil: À Margem da Vida / Portugal: Algemas de Cristal) é um filme de comédia dramática dos Estados Unidos de 1987 dirigido por Paul Newman, com roteiro baseado na peça The Glass Menagerie, de Tennessee Williams, também autor do roteiro."
+    },
+    "cinema": {
+      "original_title": "The Glass Menagerie",
+      "plot_pt": "“Que se lixe o enredo. Esperamos que os espectadores não se preocupem com o que vai acontecer, mas que fiquem fascinados com o como vai acontecer. É por isso que Algemas de Cristal funciona, porque a emoção funciona, não a história, nem a lógica, nem as pessoas que vão de um ponto a outro.” – Paul Newman",
+      "country": "EUA",
+      "genre": "Drama",
+      "year": 1985,
+      "director": "Paul Newman"
+    },
+    "wiki_tries": 1
+  },
+  "A Felicidade|1965": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-500-0-750-crop.jpg?v=a14d5e2ec3",
+      "description": "Though married to the good-natured, beautiful Thérèse, young husband and father François finds himself falling unquestioningly into an affair with an attractive postal worker. One of Agnès Varda's most provocative films, 'Le bonheur' examines, with a deceptively cheery palette and the spirited strains of Mozart, the ideas of fidelity and happiness in a modern, self-centered world.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1965,
+      "lb_title": "Le Bonheur"
+    },
+    "omdb": {
+      "Title": "Happiness",
+      "Year": "1965",
+      "Rated": "Not Rated",
+      "Released": "16 May 1997",
+      "Runtime": "80 min",
+      "Genre": "Drama, Romance",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Jean-Claude Drouot, Claire Drouot, Olivier Drouot",
+      "Plot": "François, a young carpenter, lives a happy, uncomplicated life with his wife Thérèse and their two small children. One day he meets Emilie, a clerk in the local post office.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "3 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0MTc0NjQtMjM3ZS00OGYwLThmNDEtMzA2YzJkZDMzOTg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "10,898",
+      "imdbID": "tt0058985",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Le Bonheur (1965 film)",
+      "imdb_id": "tt0058985",
+      "extract_pt": "Le bonheur (Brasil: As Duas Faces da Felicidade ) é um filme de drama francês de 1965 dirigido por Agnès Varda. O filme está associado ao movimento de cinema Nouvelle Vague, e ganhou dois prêmios no 15º Festival Internacional de Cinema de Berlim, incluindo o Grande Prêmio do Júri."
+    },
+    "cinema": {
+      "original_title": "Le Bonheur",
+      "plot_pt": "François, um jovem carpinteiro, casado com Thérèse e pai de dois filhos, é um homem feliz. Um dia, numa ida aos correios, conhece Émilie, por quem se apaixona. Ainda apaixonado pela sua esposa, François decide aumentar a sua felicidade e tem um caso com Émilie. Num dos seus filmes mais provocadores, Agnès Varda examina, com uma paleta de cores alegres, tons impressionistas sensuais e as notas vibrantes de Mozart, as ideias de fidelidade e felicidade num mundo moderno, focado no indivíduo.",
+      "country": "França",
+      "genre": "Drama",
+      "year": 1964,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 1
+  },
+  "Ulisses|1983": {
+    "lbxd": {
+      "rating": 3.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/2/7/3/181273-ulysse-0-500-0-750-crop.jpg?v=0475a8eaf3",
+      "description": "At the sea shore, a goat, a child, and a naked man. This is a photograph taken in 1954 by Agnès Varda. The goat was dead, the child was named Ulysses, and the man was naked. Starting from this frozen image, the film explores the real and the imaginary.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1983,
+      "lb_title": "Ulysse"
+    },
+    "omdb": {
+      "Title": "Ulysse",
+      "Year": "1983",
+      "Rated": "Not Rated",
+      "Released": "29 Jan 1986",
+      "Runtime": "22 min",
+      "Genre": "Documentary, Short",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Fouli Elia, Ulysse Llorca, Charles de Gaulle",
+      "Plot": "Agnès Varda interviews two subjects from a photograph she took 30 years earlier.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDNiMDgzNGItYmIzMy00OTkxLTg5ZTItZDIyNTQxYTEyMDIwXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "913",
+      "imdbID": "tt0161034",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Ulysse",
+      "plot_pt": "À beira-mar, uma cabra, uma criança e um homem. É uma fotografia tirada por Agnès Varda em 1954: a cabra estava morta, a criança chamava-se Ulysse e o homem estava nu. A partir desta imagem fixa, tirada trinta anos antes, Agnès Varda explora o imaginário e o real.",
+      "country": "França",
+      "genre": "Documentário",
+      "year": 1982,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 2
+  },
+  "Duas Horas na Vida de uma Mulher|1962": {
+    "lbxd": {
+      "rating": 4.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-500-0-750-crop.jpg?v=57e2214b3d",
+      "description": "Agnès Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman’s life, Cléo from 5 to 7 is a spirited mix of vivid vérité and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1962,
+      "lb_title": "Cléo from 5 to 7"
+    },
+    "omdb": {
+      "Title": "Cléo from 5 to 7",
+      "Year": "1962",
+      "Rated": "Not Rated",
+      "Released": "11 Apr 1962",
+      "Runtime": "90 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Corinne Marchand, Antoine Bourseiller, Dominique Davray",
+      "Plot": "Cleo, a singer and hypochondriac, becomes increasingly worried that she might have cancer while awaiting test results from her doctor.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVhMzAyY2YtMmNmMS00YzQ0LTllM2EtNWJjNDhiODNmNjBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.8",
+      "imdbVotes": "30,401",
+      "imdbID": "tt0055852",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Cléo from 5 to 7",
+      "imdb_id": "tt0055852",
+      "extract_pt": "Cléo de 5 à 7 (br: Cléo das 5 às 7 / pt: Duas horas da vida de uma mulher)  é um filme franco-italiano de 1962, do gênero drama, escrito e dirigido pela cineasta Agnès Varda.\nO filme acompanha a história de Florence 'Cléo' Victoire, uma cantora em ascensão que reside na França e aguarda ansiosa pelo resultado de um exame para descobrir se está com câncer, no dia 21 de junho de 1961. Em tempo real, das 17h às 18h30, a seguimos enquanto conversa com amigos, colegas de trabalho e conhece desconhecidos.\nEm 2022, passou a fazer parte em 14º posição na lista dos 250 Melhores Filmes de Todos os Tempos segundo a revista britânica Sight & Sound\nÉ um dos vários filmes da Nouvelle Vague e um dos mais importantes deste movimento, tendo sido indicado ao Palma de Ouro no Festival de Cannes de 1962."
+    },
+    "cinema": {
+      "original_title": "Cléo de 5 à 7",
+      "plot_pt": "Enquanto espera ansiosamente pelos resultados de um exame médico, Cléo, uma cantora, deambula pelas ruas de Paris. No caminho, encontra-se com o seu amante, o seu compositor, a sua amiga Dorotheé e com um soldado prestes a ser destacado. Nesta crónica dos minutos da vida de uma mulher, Varda captura a Paris dos anos 60 de forma eloquente, entre a vérité vívida e o melodrama. Um dos filmes mais emblemáticos da Nouvelle Vague, permanece até hoje tão vibrante como em 1962.",
+      "country": "França",
+      "genre": "Drama",
+      "year": 1961,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 1
+  },
+  "Os Filhos da Noite|1948": {
+    "lbxd": {
+      "rating": 3.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/9/8/0/20980-they-live-by-night-0-500-0-750-crop.jpg?v=e6f3e3e6ae",
+      "description": "An escaped convict, injured during a robbery, falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Nicholas Ray",
+      "lb_director_slug": "nicholas-ray",
+      "lb_year": 1948,
+      "lb_title": "They Live by Night"
+    },
+    "omdb": {
+      "Title": "They Live by Night",
+      "Year": "1948",
+      "Rated": "Passed",
+      "Released": "05 Nov 1949",
+      "Runtime": "95 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Nicholas Ray",
+      "Writer": "Charles Schnee, Nicholas Ray, Edward Anderson",
+      "Actors": "Cathy O'Donnell, Farley Granger, Howard Da Silva",
+      "Plot": "An escaped convict injured during a robbery falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JmZjQzNmUtMDc2Ni00YjEzLWFiYWMtMTNjNjdhMTQ5ZmY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.4",
+      "imdbVotes": "10,025",
+      "imdbID": "tt0040872",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "They Live by Night",
+      "imdb_id": "tt0040872",
+      "extract_pt": "They Live by Night (bra: Amarga Esperança) é um longa-metragem estadunidense de 1948 do gênero policial, dirigido por Nicholas Ray (em seu primeiro filme como diretor) e estrelado por Cathy O'Donnell e Farley Granger."
+    },
+    "cinema": {
+      "original_title": "They Live by Night",
+      "plot_pt": "Um condenado fugido, ferido durante um assalto, apaixona-se pela mulher que cuida dele.",
+      "country": "EUA",
+      "year": 1949,
+      "director": "Nicholas Ray"
+    },
+    "wiki_tries": 1
+  },
+  "Uma Canta, a Outra Não|1977": {
+    "lbxd": {
+      "rating": 4.13,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/2/3512-one-sings-the-other-doesn-t-0-500-0-750-crop.jpg?v=60319c6f13",
+      "description": "The intertwined lives of two women in 1970s France, set against the progress of the women's movement in which Agnes Varda was involved. Pomme and Suzanne meet when Pomme helps Suzanne obtain an abortion after a third pregnancy which she cannot afford. They lose contact but meet again ten years later. Pomme has become an unconventional singer, Suzanne a serious community worker - despite the contrast they remain friends and share in the various dramas of each others' lives, in the process affirming their different female identities.",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1977,
+      "lb_title": "One Sings, the Other Doesn't"
+    },
+    "omdb": {
+      "Title": "One Sings, the Other Doesn't",
+      "Year": "1977",
+      "Rated": "Not Rated",
+      "Released": "09 Mar 1977",
+      "Runtime": "120 min",
+      "Genre": "Drama, History",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Thérèse Liotard, Valérie Mairesse, Robert Dadiès",
+      "Plot": "The lives of Pomme, an aspiring singer, and Suzanne, a struggling mother, as they search for their own identity in 1970s France.",
+      "Language": "French, English, Dutch, Persian",
+      "Country": "France, Soviet Union, Belgium, Venezuela",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQzYTNiNTAtNjQ4NS00OTNmLTkxYTUtNGE0MzYxYjFkYTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "65%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "2,700",
+      "imdbID": "tt0076855",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$19,919",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "One Sings, the Other Doesn't",
+      "imdb_id": "tt0076855",
+      "extract_pt": "L'une chante, l'autre pas (prt/bra: Uma Canta, a Outra Não) é um filme do gênero drama francês realizado por Agnès Varda."
+    },
+    "cinema": {
+      "original_title": "L’Une chante, n’autre pas",
+      "plot_pt": "No início dos anos 60, em Paris, duas mulheres tornam-se amigas: Pauline é uma estudante de 17 anos que sonha tornar-se cantora; Suzanne é uma mãe de 22 anos que se ocupa dos seus dois filhos e de um pai com tendências suicidas. Pauline empresta dinheiro a Suzanne para fazer um aborto. Até ao seu reencontro, dez anos mais tarde, o filme segue, de forma alternada, as suas vidas paralelas no contexto das lutas do movimento feminista dos anos 60 e 70. Com Uma Canta, a Outra Não, Agnès Varda mostra-nos duas formas de ser mulher e dois modos da luta feminista.",
+      "country": "França, Bélgica, Antilhas Neerlandesas",
+      "genre": "Drama",
+      "year": 1976,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 1
+  },
+  "Jane B. por Agnès V.|1988": {
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/3/12893-jane-b-by-agnes-v--0-500-0-750-crop.jpg?v=83a24ec796",
+      "description": "The interests, obsessions, and fantasies of two singular artists converge in this inspired collaboration between Agnès Varda and her longtime friend the actor Jane Birkin. Made over the course of a year and motivated by Birkin’s fortieth birthday—a milestone she admits to some anxiety over—Jane B. by Agnès V. contrasts the private, reflective Birkin with Birkin the icon.",
+      "genres": [
+        "Fantasy",
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1988,
+      "lb_title": "Jane B. by Agnès V."
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Jane B. par Agnès V.",
+      "plot_pt": "Um retrato cinematográfico no qual descobrimos Jane Birkin em todas as suas formas, em todos os seus estados de espírito, inteira na sua diversidade. É um retrato semeado com mini-ficções, e uma ficção semeada com mini-confidências de Jane B., no seu melhor, num diálogo livre e fluido com a sua cineasta, Agnès Varda.\n\r\n\r\n\r\n\r\n\r\n\r\n“Estávamos a passear no jardim quando, de repente, ela [Jane Birkin] disse: ‘É horrível. Vou fazer 40 anos!’ Eu respondi-lhe: ‘Não sejas tola. É uma idade maravilhosa. A altura perfeia para fazer o teu retrato’. Foi assim que começou.” – Agnès Varda",
+      "country": "França",
+      "genre": "Documentário",
+      "year": 1987,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 2
+  },
+  "Os Noivos da Ponte Mac Donald|1962": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/2/0/11620-the-fiances-of-the-bridge-mac-donald-0-500-0-750-crop.jpg?v=be42ec5425",
+      "description": "A subtitle warns, \"beware of dark sunglasses.\" Anna and her lover, whose looks in bowler and bow tie are reminiscent of a young Buster Keaton, kiss chastely on a bridge overlooking the Seine. He dons sunglasses and waves as she runs down a stairway to the river's edge, then watches in horror as she's knocked flat and loaded into the back of a hearse. In vain, he gives chase. Disconsolate, he buys a large funeral wreath and a handkerchief from sympathetic vendors. He removes the glasses to wipe his eyes and realizes they are the cause of all his woe. He replays the farewell without the glasses.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1962,
+      "lb_title": "Fiancés on the Bridge"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Les fiancés du pont Mac Donald",
+      "plot_pt": "Um jovem vê a vida às escuras quando usa óculos de sol. Basta-lhe tirá-los para que as coisas melhorem. Uma curta-metragem burlesca, muda, incluída em Duas Horas na Vida de uma Mulher, protagonizada por dois amantes míticos da Nouvelle Vague e dos anos 60: Anna Karina e Jean-Luc Godard, que aqui vemos sem óculos e com um chapéu canotier…\n\r\n\r\n\r\n\r\n\r\n\r\n“Um dia, tínhamos todos decidido pintar, e fomos a Nice buscar material.. E Jean-Luc tinha tirado os óculos e limpado as lentes. Vi então, fugazmente, os seus grandes olhos, e fiquei a querer mais. Daí o meu estratagema de o pôr a representar este sketch em que tiraria os óculos. Agora que usa lentes fumadas apenas muito ligeiramente, a minha história parece exagerada.” – Agnès Varda",
+      "country": "França",
+      "year": 1961,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 2
+  },
+  "Elsa, a Rosa|1966": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/5/4/134654-elsa-the-rose-0-500-0-750-crop.jpg?v=2fefb0fa57",
+      "description": "Images and poems of the celebrated couple Louis Aragon and Elsa Triolet. Elsa’s youth as recalled by Aragon, with commentary by Elsa.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1966,
+      "lb_title": "Elsa the Rose"
+    },
+    "omdb": {
+      "Title": "Elsa la rose",
+      "Year": "1966",
+      "Rated": "Not Rated",
+      "Released": "23 Oct 1966",
+      "Runtime": "20 min",
+      "Genre": "Documentary, Short",
+      "Director": "Agnès Varda",
+      "Writer": "Louis Aragon, Agnès Varda",
+      "Actors": "Louis Aragon, Michel Piccoli, Elsa Triolet",
+      "Plot": "The story of a poet's (Louis Aragon) love for his wife, the writer Elsa Triolet.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI5ZjUwZWYtY2E3MC00ZjE4LWFhOGMtOWY2MTQxMTQ4ZmY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "588",
+      "imdbID": "tt0781365",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Elsa la rose",
+      "plot_pt": "Em Elsa, a Rosa, Agnès Varda filma Elsa Triolet e Louis Aragon, um dos mais influentes casais da literatura europeia do século XX. A infância de Elsa é contada por Louis, que também nos conta a história do amor que os une. Recorrendo a imagens, poemas e diálogos do casal, Varda constrói um retrato delicado de Elsa como mulher e escritora, para lá da sombra de Louis.\n\r\n\r\n\r\n\r\n\r\n\r\n“Tive a alegria de ser admitida na confiança de Aragon, enquanto ele falava de Elsa para um pequeno filme que eu realizava. Vi-os juntos a olhar para velhas fotografias «de antes» do seu encontro…” Agnès Varda",
+      "country": "França",
+      "genre": "Documentário",
+      "year": 1965,
+      "director": "Agnès Varda"
+    },
+    "wiki_tries": 2
+  },
+  "Audition|1964": {
+    "lbxd": {
+      "rating": 3.34,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/9/4/6/16946-audition-0-500-0-750-crop.jpg?v=ff1ac71150",
+      "description": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "Czechoslovakia",
+      "lb_director": "Miloš Forman",
+      "lb_director_slug": "milos-forman",
+      "lb_year": 1964,
+      "lb_title": "Audition"
+    },
+    "omdb": {
+      "Title": "Audition",
+      "Year": "1964",
+      "Rated": "N/A",
+      "Released": "01 Jan 1968",
+      "Runtime": "47 min",
+      "Genre": "Documentary, Music",
+      "Director": "Milos Forman",
+      "Writer": "Milos Forman, Ivan Passer",
+      "Actors": "Jan Vostrcil, Vladimír Pucholt, Frantisek Zeman",
+      "Plot": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
+      "Language": "Czech",
+      "Country": "Czechoslovakia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNjYWIxOTgtNjg3Ny00M2RlLWJmYzItZTJmM2FmMzA5ZmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "821",
+      "imdbID": "tt0057230",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Brandon Films Inc.",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "wiki_tries": 2
+  },
+  "Bread|1959": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/7/0/135070-o-pao-0-500-0-750-crop.jpg?v=0dc2545e32",
+      "description": "Each day, Man must work around the clock to produce and acquire bread: throwing the seeds into earth, helping the breeding of the corn, the corn's recolt, transport to the mills – traditional or industrial ones – manipulation of the flour into actual bread, transport to a variety of locations and consumers. And then, after the consumption, the cycle restarts.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Manoel de Oliveira",
+      "lb_director_slug": "manoel-de-oliveira",
+      "lb_year": 1959,
+      "lb_title": "Bread"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "wiki_tries": 2
+  },
+  "UM TOQUE FAMILIAR|2024": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/9/8/3/0/1149830-familiar-touch-0-500-0-750-crop.jpg?v=4a03439b71",
+      "description": "An octogenarian woman transitions to life in assisted living as she contends with her conflicting relationship to herself and her caregivers amidst her shifting memory, age identity, and desires.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Sarah Friedland",
+      "lb_director_slug": "sarah-friedland-1",
+      "lb_year": 2024,
+      "lb_title": "Familiar Touch"
+    },
+    "omdb": {
+      "Title": "Familiar Touch",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "13 Aug 2025",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Sarah Friedland",
+      "Writer": "Sarah Friedland",
+      "Actors": "H. Jon Benjamin, Kathleen Chalfant, London Garcia",
+      "Plot": "An octogenarian woman transitions to life in assisted living as she contends with her conflicting relationship to herself and her caregivers amidst her shifting memory, age identity, and desires.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "11 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWM2ZGI4YWUtOTIxYS00ZDAzLWFjYmUtZDVkM2Y0Mzc5MWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.2",
+      "imdbVotes": "610",
+      "imdbID": "tt32928666",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$158,441",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
+  },
+  "BROKEN ENGLISH|2007": {
+    "lbxd": {
+      "rating": 3.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/7/4/43974-broken-english-0-500-0-750-crop.jpg?v=5d270acabb",
+      "description": "Nora Wilder is freaking out. Everyone around her is either in a relationship, married, or has children, while she's in her thirties, alone with job she's outgrown and a mother who constantly reminds her of it all. Not to mention her best friend Audrey's \"perfect marriage\". But after a series of disastrous dates, Nora unexpectedly meets Julien, a quirky Frenchman who opens her eyes to a lot more than love.",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Zoe Cassavetes",
+      "lb_director_slug": "zoe-cassavetes-1",
+      "lb_year": 2007,
+      "lb_title": "Broken English"
+    },
+    "omdb": {
+      "Title": "Broken English",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "16 Jul 2008",
+      "Runtime": "93 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Zoe R. Cassavetes",
+      "Writer": "Zoe R. Cassavetes",
+      "Actors": "Parker Posey, Drea de Matteo, Tim Guinee",
+      "Plot": "Since college, Nora hasn't had much luck with men. Now in her 30s, she works in a NYC hotel going nowhere. That is, until she meets Julien.",
+      "Language": "English, French",
+      "Country": "France, Japan, United States",
+      "Awards": "1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NzMwNjIwMDJeQTJeQWpwZ15BbWU3MDMyNDgzNTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "65%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ],
+      "Metascore": "61",
+      "imdbRating": "6.3",
+      "imdbVotes": "7,430",
+      "imdbID": "tt0772157",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$956,919",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
+  },
+  "A SAGA DE ANATAHAN|1953": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/7/9/6/84796-anatahan-0-500-0-750-crop.jpg?v=eb8774806f",
+      "description": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "Japan",
+      "lb_director": "Josef von Sternberg",
+      "lb_director_slug": "josef-von-sternberg",
+      "lb_year": 1953,
+      "lb_title": "Anatahan"
+    },
+    "omdb": {
+      "Title": "Anatahan",
+      "Year": "1953",
+      "Rated": "PG",
+      "Released": "28 Jun 1953",
+      "Runtime": "91 min",
+      "Genre": "Drama, History, War",
+      "Director": "Josef von Sternberg",
+      "Writer": "Michiro Maruyama, Tatsuo Asano, Josef von Sternberg",
+      "Actors": "Akemi Negishi, Tadashi Suganuma, Kisaburo Sawamura",
+      "Plot": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "Language": "Japanese, English",
+      "Country": "Japan",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVkZmMyOTItY2YzNy00NGFiLWJmOWQtOWY2MTgwMjJkMjg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "1,395",
+      "imdbID": "tt0046712",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,171",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
+  },
+  "SOY CUBA|1964": {
+    "lbxd": {
+      "rating": 4.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/2/0/30720-i-am-cuba-0-500-0-750-crop.jpg?v=6361cea4d6",
+      "description": "Four vignettes on the lives of pre-revolutionary era Cuban people; in Havana, Maria is ashamed when a man she loves discovers how she makes a living. Pedro, an old farmer, discovers that the land he cultivates is being sold to an American company. A student sees his friends attacked by the police while they distribute leaflets supporting Fidel Castro. Finally, a peasant family is threatened by Batista's army.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Cuba",
+      "lb_director": "Mikhail Kalatozov",
+      "lb_director_slug": "mikhail-kalatozov",
+      "lb_year": 1964,
+      "lb_title": "I Am Cuba"
+    },
+    "omdb": {
+      "Title": "I Am Cuba",
+      "Year": "1964",
+      "Rated": "Not Rated",
+      "Released": "01 Dec 1995",
+      "Runtime": "141 min",
+      "Genre": "Drama",
+      "Director": "Mikhail Kalatozov",
+      "Writer": "Enrique Pineda Barnet, Yevgeniy Yevtushenko",
+      "Actors": "Sergio Corrieri, Salvador Wood, José Gallardo",
+      "Plot": "Four vignettes about the lives of the Cuban people set during the pre-revolutionary era.",
+      "Language": "Spanish, English",
+      "Country": "Cuba, Soviet Union",
+      "Awards": "2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0OTgwNjItNDViZC00ODI5LWI5MDMtZjNmNGFhN2ZlNDU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "Metascore": "91",
+      "imdbRating": "8.2",
+      "imdbVotes": "11,828",
+      "imdbID": "tt0058604",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$168,100",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
+  },
+  "A PISCINA|1969": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/5/2/49052-the-swimming-pool-0-500-0-750-crop.jpg?v=34fafbb92c",
+      "description": "Set in a magnificent villa near a sun-drenched St. Tropez, lovers Jean-Paul and Marianne are spending a happy, lazy summer holiday. Their only concern is to gratify their mutual passion - until the day when Marianne invites her former lover and his beautiful teenage daughter to spend a few days with them. From the first moment, a certain uneasiness and tension begin to develop between the four, which soon escalates in a dangerous love-game.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Deray",
+      "lb_director_slug": "jacques-deray",
+      "lb_year": 1969,
+      "lb_title": "The Swimming Pool"
+    },
+    "omdb": {
+      "Title": "The Swimming Pool",
+      "Year": "1969",
+      "Rated": "16+",
+      "Released": "01 Aug 1970",
+      "Runtime": "122 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Jacques Deray",
+      "Writer": "Alain Page, Jean-Claude Carrière, Jacques Deray",
+      "Actors": "Alain Delon, Romy Schneider, Maurice Ronet",
+      "Plot": "Jean-Paul and Marianne spend lazy holidays at their villa in idyllic Southern France. However when Harry and his attractive young daughter Penelope show up, the dreamy summer days are suddenly filled with unspoken tension and jeal...",
+      "Language": "French, English",
+      "Country": "France, Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDliNGUyYTMtZWM5OS00ZmQ1LTg5NGItM2I4YTg0N2E0YWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.1",
+      "imdbVotes": "16,362",
+      "imdbID": "tt0064816",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$211,467",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "cinema": {},
+    "wiki": {
+      "title_en": "La Piscine (film)",
+      "imdb_id": "tt0064816",
+      "extract_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand."
+    },
+    "wiki_tries": 1
+  },
+  "As Donzelas Fizeram 25 Anos|1993": {
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/6/6/0/143660-the-young-girls-turn-25-0-500-0-750-crop.jpg?v=369266c3a0",
+      "description": "Agnes Varda's documentary of the celebrations arising from the 25th anniversary of her husband Jacques Demy's film The Young Girls of Rochefort.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1993,
+      "lb_title": "The Young Girls Turn 25"
+    },
+    "omdb": {
+      "Title": "The Young Girls Turn 25",
+      "Year": "1993",
+      "Rated": "N/A",
+      "Released": "01 Oct 1993",
+      "Runtime": "64 min",
+      "Genre": "Documentary, Music",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Catherine Deneuve, Agnès Varda, Michel Legrand",
+      "Plot": "A recital becomes part of the French culture; 25 years later the performers return to the village where it was first launched.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFjOTAzNzQtNDE1Ni00MjgyLWI3MzktYTAzY2RkNDc5YWIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.0",
+      "imdbVotes": "592",
+      "imdbID": "tt0106696",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "As Donzelas Fizeram 25 Anos",
+      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin.",
+      "country": "França",
+      "genre": "Documentário",
+      "year": 1992,
+      "director": "Les Demoiselles ont eu 25 ans"
+    },
+    "wiki_tries": 1
   }
 }

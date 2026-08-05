@@ -1155,11 +1155,11 @@ window.CINEMA_DATA = {
       "id": "nimas_as-donzelas-fizeram-25-anos-1992",
       "title": "As Donzelas Fizeram 25 Anos",
       "director": "Les Demoiselles ont eu 25 ans",
-      "year": 1992,
+      "year": 1993,
       "duration": 63,
-      "poster": "https://medeiafilmes.com/uploads/library/mv5bodfjotaznzqtnde1ni00mjgylwi3mzktytazy2rkndc5ywiwxkeyxkfqcgc_v1_fmjpg_ux1000.jpg",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/6/6/0/143660-the-young-girls-turn-25-0-500-0-750-crop.jpg?v=369266c3a0",
       "genres": [
-        "Documentário"
+        "Documentary"
       ],
       "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
       "sessions": [
@@ -1174,7 +1174,12 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin."
+      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin.",
+      "rating": 3.81,
+      "plot": "Agnes Varda's documentary of the celebrations arising from the 25th anniversary of her husband Jacques Demy's film The Young Girls of Rochefort.",
+      "title_en": "The Young Girls Turn 25",
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_morte-em-veneza-1971",
@@ -1797,7 +1802,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.9,
       "plot": "An escaped convict, injured during a robbery, falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.",
-      "plot_pt": "Um condenado fugido, ferido durante um assalto, apaixona-se pela mulher que cuida dele.",
+      "plot_pt": "They Live by Night (bra: Amarga Esperança) é um longa-metragem estadunidense de 1948 do gênero policial, dirigido por Nicholas Ray (em seu primeiro filme como diretor) e estrelado por Cathy O'Donnell e Farley Granger.",
       "title_en": "They Live by Night",
       "country": "USA",
       "director_lbxd_slug": "nicholas-ray"
@@ -2388,7 +2393,8 @@ window.CINEMA_DATA = {
       "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
       "plot_pt": "Um retrato delicado de uma história de amor pouco convencional. Enquadrado pela sublime paleta de cores e pelos íntimos slow-motions de Wong Kar Wai, o filme viaja através dos olhares enigmáticos de dois indivíduos que, depois de se mudarem para o mesmo prédio com os seus parceiros ausentes, começam a acreditar que os seus respectivos esposos estão a ter um caso. Na sua solidão e aborrecimento, Chow e Su tornam-se mais próximos à medida que fazem as pazes com os seus fracassos românticos. Uma exploração profunda do acaso, do vazio, da solidão, acompanhada pela melancólica banda sonora de Shigeru Umebayashi, Disponível para Amar é o trabalho mais emblemático e impressionante de Wong Kar Wai.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "In the Mood For Love"
     },
     {
       "id": "nimas_obsessao-1943",
@@ -2967,7 +2973,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.08,
       "plot": "On the outskirts of town, the hard-nosed Vienna owns a saloon frequented by the undesirables of the region, including Dancin' Kid and his gang. Another patron of Vienna's establishment is Johnny Guitar, a former gunslinger and her lover. When a heist is pulled in town that results in a man's death, Emma Small, Vienna's rival, rallies the townsfolk to take revenge on Vienna's saloon – even without proof of her wrongdoing.",
-      "plot_pt": "“O cinema é Nicholas Ray” – Jean-Luc Godard",
+      "plot_pt": "Johnny Guitar (bra/prt: Johnny Guitar) é um filme estadunidense de 1954, do gênero faroeste, dirigido por Nicholas Ray, estrelado por Joan Crawford, e coestrelado por Sterling Hayden, Scott Brady e Mercedes McCambridge. O roteiro de Philip Yordan e Ben Maddow foi baseado no romance homônimo de 1953, de Roy Chanslor.\nA produção é famosa por trazer Crawford em um papel usualmente estrelado por homens: uma dona de salão que é levada a um duelo mortal com sua rival.\nEm 2008, \"Johnny Guitar\" foi selecionado para preservação no National Film Registry, seleção filmográfica da Biblioteca do Congresso dos Estados Unidos, como sendo \"culturalmente, historicamente ou esteticamente significativo\".",
       "country": "USA",
       "director_lbxd_slug": "nicholas-ray"
     },
@@ -3018,7 +3024,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.31,
       "plot": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
-      "plot_pt": "\"Nunca se viu tanto de Milão num só filme.” – Luchino Visconti",
+      "plot_pt": "Rocco e Seus Irmãos (em italiano:  Rocco e i suoi fratelli) é um filme de 1960, do gênero drama, dirigido por Luchino Visconti. Possui trilha sonora de Nino Rota. O roteiro é baseado em episódio do romance Il ponte della Ghisolfa.\nO filme pertence à chamada estética neorrealista, que o próprio Visconti usou em filmes como Belíssima (filme) (1951), La terra trema (1950) e Ossessione (1943).",
       "title_en": "Rocco and His Brothers",
       "country": "Italy",
       "director_lbxd_slug": "luchino-visconti"
@@ -3135,7 +3141,8 @@ window.CINEMA_DATA = {
       "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
       "plot_pt": "O primeiro filme a cores de Truffaut une o humor negro do realizador francês e a moralidade do livro de Ray Bradbury, já várias vezes adaptado ao cinema, especificamente pela forma como a distopia da narrativa é retratada. É um mundo onde a literatura é banida por ser a fagulha que pode acender a chama da revolução, algo que é literalmente apagado por bombeiros dedicados à causa.",
       "country": "UK",
-      "director_lbxd_slug": "francois-truffaut"
+      "director_lbxd_slug": "francois-truffaut",
+      "title_en": "Fahrenheit 451"
     },
     {
       "id": "nimas_anatomia-de-um-crime-1959",
@@ -3188,7 +3195,8 @@ window.CINEMA_DATA = {
       "plot": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
       "plot_pt": "Num cenário urbano nocturno, Wong Chi Ming é um assassino a soldo que tenta deixar a sua ocupação. Entre uma relação ambígua com a sua parceira profissional e um encontro com uma prostituta, a sua vida cruza-se com histórias de outras personagens que deambulam as ruas de Hong Kong. Ao longo de episódios excêntricos e de referências à cultura pop, Anjos Caídos é um retrato vibrante da condição de alienação de indivíduos inseridos no ritmo acelerado da vida distorcida da cidade.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "Fallen Angels"
     },
     {
       "id": "nimas_a-amiga-silenciosa-2025",
@@ -3304,7 +3312,8 @@ window.CINEMA_DATA = {
       "plot": "A couple travels from Hong Kong to Argentina to revive their relationship but experience turbulence when both men's lives drift in separate directions.",
       "plot_pt": "Lai Yiu Fai e Ho Po Wing viajam para a Argentina em busca de aventuras. Pouco depois de chegar, o casal incompatibiliza-se e Ho abandona o seu parceiro. Na sua ausência, Lai arranja um emprego num bar de tango em Buenos Aires, até que Ho regressa à sua vida após ser vítima de um espancamento. Mas à medida que a vida de Lai toma uma nova direcção quando este conhece um rapaz Taiwanês, Ho continua o seu caminho de declínio para um lugar de destruição muito diferente daquele que conhecia. Considerada uma das obras mais emblemáticas do New Queer Cinema, Felizes Juntos é um romance turbulento que valeu a Wong Kar Wai o Prémio de Melhor Realizador em Cannes.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "Happy Together"
     },
     {
       "id": "nimas_as-ferias-do-sr-hulot-1953",
@@ -3382,7 +3391,8 @@ window.CINEMA_DATA = {
       "plot": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
       "plot_pt": "Estreia na realização de Wong Kar Wai, Ao Sabor da Ambição é um filme de gangsters à la Scorsese que tem lugar nas ruas de Mongkok, em Hong Kong. Andy Lau interpreta um baixo funcionário da máfia, dividido entre um romance florescente com a sua prima (Maggie Cheung, na primeira de muitas colaborações com o cineasta) e a sua lealdade para com o seu impulsivo parceiro de crime (Jacky Cheung), cujas tentativas imprudentes de ganhar reconhecimento resultam num ciclo de violência que parece não ter fim. Introdução do autor àquele que se tornaria o seu inconfundível estilo visual, o filme fez furor em Cannes pela singularidade dos seus cenários impressionistas e romantismo profano. Como escreveu Nathan Leen no New York Times, Ao Sabor da Ambição é “um filme de Wong Kar Wai do primeiro ao último frame, […] uma obra que encontra o seu propósito num tom (o fatalismo onírico), numa textura (o grunge impressionista), e numa pose (tão, tão cool)”.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "As Tears Go By"
     },
     {
       "id": "nimas_solaris-1972",
@@ -3696,7 +3706,8 @@ window.CINEMA_DATA = {
       "plot": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
       "plot_pt": "1960. Yuddy (Leslie Cheung) é um jovem que descobriu recentemente que a mulher que o criou, uma prostituta, não é sua mãe biológica. Ela recusa-se a dizer-lhe quem é a sua verdadeira mãe, até que a revelação desencadeia uma série de perturbações mentais em Yuddy. Paralelamente duas mulheres apaixonam-se por ele, mas o jovem mostra-se incapaz de decidir com quem deseja ficar.",
       "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
+      "director_lbxd_slug": "wong-kar-wai",
+      "title_en": "Days of Being Wild"
     },
     {
       "id": "batalha_sMcslj6qAT3F1vO1",
@@ -5134,7 +5145,8 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
-      "director_lbxd_slug": "manuel-costa-e-silva"
+      "director_lbxd_slug": "manuel-costa-e-silva",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974."
     },
     {
       "id": "batalha_skWhUkowcA3rK522",
@@ -6683,7 +6695,8 @@ window.CINEMA_DATA = {
       "rating": 4.23,
       "plot": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
       "country": "France",
-      "director_lbxd_slug": "marjane-satrapi"
+      "director_lbxd_slug": "marjane-satrapi",
+      "plot_pt": "Persepolis (bra/prt: Persépolis) é um filme francês de animação de 2007, baseado no romance gráfico autobiográfico homônimo de Marjane Satrapi. O filme foi escrito e dirigido por Satrapi e Vincent Paronnaud. Sua trama começa pouco antes da Revolução Iraniana, quando Marjane atinge a adolescência, e acaba quando ela é uma expatriada de 22 anos. O título é uma referência à cidade histórica de Persépolis."
     },
     {
       "id": "ideal_um_toque_familiar",
@@ -6905,7 +6918,8 @@ window.CINEMA_DATA = {
       "plot": "Set in a magnificent villa near a sun-drenched St. Tropez, lovers Jean-Paul and Marianne are spending a happy, lazy summer holiday. Their only concern is to gratify their mutual passion - until the day when Marianne invites her former lover and his beautiful teenage daughter to spend a few days with them. From the first moment, a certain uneasiness and tension begin to develop between the four, which soon escalates in a dangerous love-game.",
       "title_en": "The Swimming Pool",
       "country": "France",
-      "director_lbxd_slug": "jacques-deray"
+      "director_lbxd_slug": "jacques-deray",
+      "plot_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand."
     },
     {
       "id": "culturgest_ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
@@ -6985,28 +6999,28 @@ window.CINEMA_DATA = {
     },
     "Richard Brooks": {
       "lbxd_slug": "richard-brooks",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RichardBrooks45.JPG/500px-RichardBrooks45.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Richard Brooks (born Reuben Sax; May 18, 1912 – March 11, 1992) was an American film director, screenwriter, journalist and novelist. He directed 24 feature films between 1950 and 1985, and was known for his portrayals of hard-hitting subject matter, psychologically complex characters, and his independently minded auteurist approach to filmmaking. His notable works included Blackboard Jungle (1955), Something of Value (1957), The Brothers Karamazov (1958), Cat on a Hot Tin Roof (also 1958), Elmer Gantry (1960), Sweet Bird of Youth (1962), The Professionals (1966), In Cold Blood (1967) and Looking for Mr."
     },
     "Robert Mulligan": {
       "lbxd_slug": "robert-mulligan",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Robert-mulligan-1-sized.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Robert Patrick Mulligan (August 23, 1925 – December 20, 2008) was an American director and producer. His dramas include To Kill a Mockingbird (1962), Summer of '42 (1971), The Other (1972), Same Time, Next Year (1978), and The Man in the Moon (1991). He collaborated with producer Alan J."
     },
     "Milos Forman": {
       "lbxd_slug": "milos-forman",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Milo%C5%A1_Forman_1999.jpg/500px-Milo%C5%A1_Forman_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jan Tomáš \"Miloš\" Forman (; Czech: [ˈmɪloʃ ˈforman]; 18 February 1932 – 13 April 2018) was a Czech and American film director, screenwriter, actor, and professor. He rose to fame in his native Czechoslovakia before emigrating to the United States in 1968. Over a career spanning six decades, Forman won two Academy Awards, a BAFTA Award, three Golden Globe Awards, a Golden Bear, a César Award, and the Czech Lion."
     },
     "Roger Corman": {
       "lbxd_slug": "roger-corman",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg/500px-Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Roger William Corman (April 5, 1926 – May 9, 2024) was an American film director and producer. Known under various monikers such as \"The Pope of Pop Cinema\", “King of the Beatnik Movies”, \"The Spiritual Godfather of the New Hollywood\", and \"The King of Cult\", he was known as a trailblazer in the world of independent film. Many of the more than 500 features directed or produced by Corman were low-budget films that later attracted a cult following, such as A Bucket of Blood (1959), The Little Shop of Horrors (1960), The Intruder (1962), X: The Man with the X-ray Eyes (1963), and the counterculture films The Wild Angels (1966) and The Trip (1967)."
     },
     "Peter Bogdanovich": {
       "lbxd_slug": "peter-bogdanovich",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Peter_Bogdanovich_%281973%29_-_cropped.jpg/500px-Peter_Bogdanovich_%281973%29_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Peter Bogdanovich (July 30, 1939 – January 6, 2022) was an American director, writer, actor, producer, critic, and film historian. He started out his career as a young actor studying under Stella Adler before working as a film critic for Film Culture and Esquire and finally becoming a prominent filmmaker of the New Hollywood movement. He received accolades including a BAFTA Award and Grammy Award, as well as nominations for two Academy Awards and two Golden Globe Awards."
     },
     "Howard Hawks": {
       "lbxd_slug": "howard-hawks",
@@ -7020,48 +7034,48 @@ window.CINEMA_DATA = {
     },
     "Agnès Varda": {
       "lbxd_slug": "agnes-varda",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
     },
     "Paul Newman": {
       "lbxd_slug": "paul-newman",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paul_Newman_-_1958.jpg/500px-Paul_Newman_-_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Paul Leonard Newman (January 26, 1925 – September 26, 2008) was an American actor, filmmaker, racecar driver, philanthropist, and entrepreneur. He has been described as \"one of the last of the great 20th-century movie stars\". He was the recipient of numerous awards, including an Academy Award, a BAFTA Award, seven Golden Globe Awards, an Actor Award, a Primetime Emmy Award, a Silver Bear for Best Actor, a Cannes Film Festival Award for Best Actor, and nominations for two Grammy Awards and a Tony Award."
     },
     "Jacques Rozier": {
       "lbxd_slug": "jacques-rozier-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jacques_Rozier_2.jpg/500px-Jacques_Rozier_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jacques Rozier (French: [ʒak ʁozje]; 10 November 1926 – 31 May 2023) was a French film director and screenwriter. He was one of the lesser-known members of the French New Wave movement and has collaborated with Jean-Luc Godard. Three of his films have been screened at the Cannes Film Festival."
     },
     "Claude Chabrol": {
       "lbxd_slug": "claude-chabrol",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chabrol-italie-1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Claude Henri Jean Chabrol (French: [klod ʃabʁɔl]; 24 June 1930 – 12 September 2010) was a French film director and a member of the French New Wave (nouvelle vague) group of filmmakers who first came to prominence at the end of the 1950s. Like his colleagues and contemporaries Jean-Luc Godard, François Truffaut, Éric Rohmer and Jacques Rivette, Chabrol was a critic for the influential film magazine Cahiers du Cinéma before beginning his career as a filmmaker. His feature debut, Le Beau Serge (1958), was inspired by Hitchcock's Shadow of a Doubt (1943)."
     },
     "Maryam Touzani": {
       "lbxd_slug": "maryam-touzani",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maryam_Touzani_at_82nd_Venice_International_Film_Festival-1.jpg/500px-Maryam_Touzani_at_82nd_Venice_International_Film_Festival-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Maryam Touzani (born 17 September 1980) is a Moroccan filmmaker and actress. She is best known as the director of the critically acclaimed film Adam (2019), Morocco's entry for the 92nd Academy Awards for Best International Feature Film, and The Blue Caftan (2022), the country's submission for the same award for the 95th Academy Awards."
     },
     "Gregg Araki": {
       "lbxd_slug": "gregg-araki",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gregg_Araki_-_Mysterious_Skin.jpg/500px-Gregg_Araki_-_Mysterious_Skin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Gregg Araki (born December 17, 1959) is an American filmmaker. He is noted for his involvement with the New Queer Cinema movement. His Teenage Apocalypse film trilogy, consisting of Totally F***ed Up (1993), The Doom Generation (1995) and Nowhere (1997), has been heralded as a cult classic."
     },
     "Robert Bresson": {
       "lbxd_slug": "robert-bresson",
       "photo": null,
-      "bio": null
+      "bio": "Robert Bresson (French: [ʁɔbɛʁ bʁɛsɔ̃]; 25 September 1901 – 18 December 1999) was a French filmmaker. Known for his ascetic approach, Bresson made a notable contribution to the art of cinema; his non-professional actors, ellipses, and sparse use of scoring have led his works to be regarded as preeminent examples of minimalist film. Much of his work is known for being tragic in story and nature."
     },
     "Les Demoiselles ont eu 25 ans": {
-      "lbxd_slug": null,
+      "lbxd_slug": "agnes-varda",
       "photo": null,
-      "bio": null
+      "bio": "1993 film by Agnès Varda"
     },
     "Jacques Tati": {
       "lbxd_slug": "jacques-tati",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09.07.1961._La_Belle_Gaillarde_%C3%A0_No%C3%A9_%281961%29_-_53Fi2337.jpg/500px-09.07.1961._La_Belle_Gaillarde_%C3%A0_No%C3%A9_%281961%29_-_53Fi2337.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jacques Tati (French: [tati]; born Jacques Tatischeff, pronounced [tatiʃɛf]; 9 October 1907 – 5 November 1982) was a French mime, filmmaker, actor and screenwriter. In an Entertainment Weekly poll of the Greatest Movie Directors he was voted 46th (a list of the top 50 was published), though he had directed only six feature-length films. Tati is perhaps best known for his portrayal of the character Monsieur Hulot, featured in Les Vacances de Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967) and Trafic (1971)."
     },
     "Éric Rohmer": {
       "lbxd_slug": "eric-rohmer",
@@ -7070,18 +7084,18 @@ window.CINEMA_DATA = {
     },
     "Sophie Letourneur": {
       "lbxd_slug": "sophie-letourneur",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sophie_Letourneur_-_IFFR_2020.jpg/500px-Sophie_Letourneur_-_IFFR_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "French actress, film director and screenwriter"
     },
     "Alfred Hitchcock": {
       "lbxd_slug": "alfred-hitchcock",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/500px-Hitchcock%2C_Alfred_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Sir Alfred Joseph Hitchcock (13 August 1899 – 29 April 1980) was an English filmmaker. He is widely regarded as one of the greatest and most influential figures in the history of cinema. In a career spanning six decades, he directed over 50 feature films, many of which are still widely watched and studied today."
     },
     "Nicholas Ray": {
       "lbxd_slug": "nicholas-ray",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nicholas_Ray_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Nicholas Ray (born Raymond Nicholas Kienzle Jr., August 7, 1911 – June 16, 1979) was an American film director, screenwriter, and actor. Described by the Harvard Film Archive as \"Hollywood's last romantic\" and \"one of postwar American cinema's supremely gifted and ultimately tragic filmmakers,\" Ray was considered an iconoclastic auteur director who often clashed with the Hollywood studio system of the time, but would prove highly influential to future generations of filmmakers. His best-known work is the 1955 film Rebel Without a Cause, starring James Dean."
     },
     "Jean-Luc Godard": {
       "lbxd_slug": "jean-luc-godard-1",
@@ -7095,13 +7109,13 @@ window.CINEMA_DATA = {
     },
     "Roberto Rossellini": {
       "lbxd_slug": "roberto-rossellini",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Roberto_Rossellini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Roberto Gastone Zeffiro Rossellini (8 May 1906 – 3 June 1977) was an Italian film director, screenwriter and producer. He was one of the most prominent directors of the Italian neorealist cinema, contributing to the movement with films such as Rome, Open City (1945), Paisan (1946), and Germany, Year Zero (1948). He is also known for his films starring his then wife Ingrid Bergman, Stromboli (1950), Europe '51 (1952), Journey to Italy (1954), Fear (1954) and Joan of Arc at the Stake (1954)."
     },
     "Jean-Pierre Melville": {
       "lbxd_slug": "jean-pierre-melville",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Pierre_Melville_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Jean-Pierre Grumbach (20 October 1917–2 August 1973), known professionally as Jean-Pierre Melville (French: [ʒɑ̃ pjɛʁ mɛlvil]), was a French filmmaker. Considered a spiritual godfather of the French New Wave, he was one of the first fully-independent French filmmakers to achieve commercial and critical success. His works include the crime dramas Bob le flambeur (1956), Le Doulos (1962), Le Samouraï (1967), and Le Cercle Rouge (1970), and the war films Le Silence de la mer (1949) and Army of Shadows (1969)."
     },
     "Ingmar Bergman": {
       "lbxd_slug": "ingmar-bergman",
@@ -7110,8 +7124,8 @@ window.CINEMA_DATA = {
     },
     "Leo McCarey": {
       "lbxd_slug": "leo-mccarey",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg/500px-Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Thomas Leo McCarey (October 3, 1898 – July 5, 1969) was an American film director, screenwriter, and producer. He was involved in nearly 200 films, including the critically acclaimed Duck Soup, Make Way for Tomorrow, The Awful Truth, Going My Way, The Bells of St. Mary's, My Son John, and An Affair to Remember."
     },
     "Wim Wenders": {
       "lbxd_slug": "wim-wenders",
@@ -7130,73 +7144,73 @@ window.CINEMA_DATA = {
     },
     "Stanley Kubrick": {
       "lbxd_slug": "stanley-kubrick",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg/500px-Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Stanley Kubrick (July 26, 1928 – March 7, 1999) was an American filmmaker and photographer. A prominent figure of the New Hollywood era, Kubrick is regarded as one of the greatest and most influential filmmakers. His films spanned a number of genres and gained recognition for their attention to detail, innovative cinematography, extensive set design, and dark humor."
     },
     "Wong Kar Wai": {
       "lbxd_slug": "wong-kar-wai",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wong_Kar-wai_Berlin_cropped.jpg/500px-Wong_Kar-wai_Berlin_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Wong Kar-wai  (born 17 July 1958) is a Hong Kong filmmaker. His films are characterised by nonlinear narratives, atmospheric music, and vivid cinematography with bold, saturated colours. An auteur of Hong Kong cinema, Wong frequently appears at international film festivals."
     },
     "Edgar Reitz": {
       "lbxd_slug": "edgar-reitz",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Edgar_Reitz_at_the_2025_Berlin_International_Film_Festival-68043.jpg/500px-Edgar_Reitz_at_the_2025_Berlin_International_Film_Festival-68043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Edgar Reitz (born 1 November 1932) is a German filmmaker and Professor of Film at the Staatliche Hochschule für Gestaltung (State University of Design) in Karlsruhe. He is best-known for his internationally acclaimed Heimat film series (1984–2013)."
     },
     "Jacques Rivette": {
       "lbxd_slug": "jacques-rivette-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jacques_Rivette_5_%28cropped%29.jpg/500px-Jacques_Rivette_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jacques Rivette (French: [ʒak ʁivɛt]; 1 March 1928 – 29 January 2016) was a French film director and film critic most commonly associated with the French New Wave and the film magazine Cahiers du Cinéma. He made twenty-nine films, including L'Amour fou (1969), Out 1 (1971), Céline and Julie Go Boating (1974), and La Belle Noiseuse (1991). His work is noted for its improvisation, loose narratives, and lengthy running times."
     },
     "Agnés Varda": {
       "lbxd_slug": "agnes-varda",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
     },
     "Leonardo Di Costanzo": {
       "lbxd_slug": "leonardo-di-costanzo",
       "photo": null,
-      "bio": null
+      "bio": "Leonardo Di Costanzo (born in 1958) is an Italian director and screenwriter."
     },
     "Martin Ritt": {
       "lbxd_slug": "martin-ritt",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Martin_Ritt_%28cropped%29.jpg/500px-Martin_Ritt_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Martin Ritt (March 2, 1914 – December 8, 1990) was an American director, producer, and actor, active in film, theatre, and television. He was known mainly as an auteur of socially-conscious dramas and literary adaptations, described by Stanley Kauffmann as \"one of the most underrated American directors, superbly competent and quietly imaginative.\"\nRitt was an actor-turned-director with the Federal Theater Project and Group Theatre, becoming assistant to Elia Kazan at the Actors Studio. After a promising television directing career was cut short by the Second Red Scare, Ritt made his first film, Edge of the City (1957)."
     },
     "David Lean": {
       "lbxd_slug": "david-lean",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aankomst_filmster_Ann_Todd_en_haar_echtgenoot_filmregisseur_David_Lean_op_Schiph%2C_Bestanddeelnr_905-4605_%282%29.jpg/500px-Aankomst_filmster_Ann_Todd_en_haar_echtgenoot_filmregisseur_David_Lean_op_Schiph%2C_Bestanddeelnr_905-4605_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Sir David Lean (25 March 1908 – 16 April 1991) was an English filmmaker and editor, widely considered one of the most important figures of British cinema. He directed the large-scale epics The Bridge on the River Kwai (1957), Lawrence of Arabia (1962), Doctor Zhivago (1965), Ryan's Daughter (1970), and A Passage to India (1984). He also directed the film adaptations of Charles Dickens novels Great Expectations (1946) and Oliver Twist (1948), as well as the romantic drama Brief Encounter (1945)."
     },
     "François Truffaut": {
       "lbxd_slug": "francois-truffaut",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg/500px-Fran%C3%A7ois_Truffaut_%281965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "François Roland Truffaut (UK:  TROO-foh, TRUU-, US:  troo-FOH; French: [fʁɑ̃swa ʁɔlɑ̃ tʁyfo]; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic. He is widely regarded as one of the founders of the French New Wave. Truffaut came under the tutelage of film critic Andre Bazin as a young man and was hired to write for Bazin's Cahiers du Cinéma, where he became a proponent of the auteur theory, which posits that a film's director is its true author."
     },
     "Ildikó Enyedi": {
       "lbxd_slug": "ildiko-enyedi",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
     },
     "Sidney Lumet": {
       "lbxd_slug": "sidney-lumet",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sidney_Lumet_1970.jpg/500px-Sidney_Lumet_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Sidney Arthur Lumet ( loo-MET; June 25, 1924 – April 9, 2011) was an American film director. Lumet started his career in theatre before moving to directing television in 1950, and then directing films from 1957, where he gained a reputation for making realistic and gritty New York dramas that focused on the working class, tackled social injustices, and often questioned authority. He received various accolades including an Academy Honorary Award and a Golden Globe Award as well as nominations for nine British Academy Film Awards and a Primetime Emmy Award."
     },
     "Gordon Douglas": {
       "lbxd_slug": "gordon-douglas",
       "photo": null,
-      "bio": null
+      "bio": "Gordon Douglas may refer to:"
     },
     "Ilker Çatak": {
       "lbxd_slug": "ilker-catak",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ilker_%C3%87atak_Max-Oph%C3%BCls-Preis_2015.jpg/500px-Ilker_%C3%87atak_Max-Oph%C3%BCls-Preis_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "German film director, screenwriter and film producer"
     },
     "Orson Welles": {
       "lbxd_slug": "orson-welles-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Orson_Welles_1937_cr3-4.jpg/500px-Orson_Welles_1937_cr3-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "George Orson Welles (May 6, 1915 – October 10, 1985) was an American actor and filmmaker. Remembered for his innovative work in film, radio, and theatre, he is considered among the greatest and most influential filmmakers of all time. Aged 21, Welles directed high-profile stage productions for the Federal Theatre Project in New York City—starting with a celebrated 1936 adaptation of Macbeth with an African-American cast, and ending with the political musical The Cradle Will Rock in 1937."
     },
     "Akira Kurosawa": {
       "lbxd_slug": "akira-kurosawa",
@@ -7205,18 +7219,18 @@ window.CINEMA_DATA = {
     },
     "Guy Maddin": {
       "lbxd_slug": "guy-maddin",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Guy_Maddin_%28by_Eli_Christman%29_%28cropped-J1%29.jpg/500px-Guy_Maddin_%28by_Eli_Christman%29_%28cropped-J1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Guy Maddin  (born February 28, 1956) is a Canadian screenwriter, director, author, cinematographer, film editor, and installation artist. He is known for his incorporation of Silent-era film aesthetic into his work. Maddin was appointed to the Order of Canada in 2012."
     },
     "Dorothy Arzner": {
       "lbxd_slug": "dorothy-arzner",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dorothy_Arzner.jpg/500px-Dorothy_Arzner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Dorothy Emma Arzner (January 3, 1897 – October 1, 1979) was an American film director whose career in Hollywood spanned from the silent era of the 1920s into the early 1940s. With the exception of long-time silent film director Lois Weber, Arzner was the only female director working in Hollywood from 1927 until her retirement from feature directing in 1943. She was one of a very few women able to establish a successful and long career in Hollywood as a film director until the 1970s."
     },
     "Satyajit Ray": {
       "lbxd_slug": "satyajit-ray",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satyajit_Ray_in_New_York_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Satyajit Ray (Bengali: [ˈʃotːodʒit ˈrae̯] ; 2 May 1921 – 23 April 1992) was an Indian film director, screenwriter, author, lyricist, magazine editor, illustrator, calligrapher, and composer. He is widely considered to be one of the greatest and most influential film directors in the history of cinema. He is celebrated for works including The Apu Trilogy (1955–1959), The Music Room (1958), The Big City (1963), Charulata (1964), and the Goopy–Bagha trilogy (1969–1992).[a]\nRay was born in Calcutta to author Sukumar Ray and Suprabha Ray."
     },
     "Juanita Onzaga": {
       "lbxd_slug": "juanita-onzaga",
@@ -7231,7 +7245,7 @@ window.CINEMA_DATA = {
     "José Magro": {
       "lbxd_slug": "jose-magro",
       "photo": null,
-      "bio": null
+      "bio": "Portuguese politician"
     },
     "Matilde Camacho": {
       "lbxd_slug": null,
@@ -7241,17 +7255,17 @@ window.CINEMA_DATA = {
     "João Niza Ribeiro": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": null
+      "bio": "short film director and producer"
     },
     "Maria Novo": {
       "lbxd_slug": "maria-novo",
       "photo": null,
-      "bio": null
+      "bio": "researcher"
     },
     "Kaneto Shindō": {
       "lbxd_slug": "kaneto-shindo-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Shindo_Kaneto.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Kaneto Shindō (新藤 兼人, Shindō Kaneto; 22 April 1912 – 29 May 2012) was a Japanese film director, screenwriter, film producer, and writer, who directed 48 films and wrote scripts for 238. His best known films as a director include Children of Hiroshima, The Naked Island, Onibaba, Kuroneko and A Last Note. His screenplays were filmed by directors such as Kenji Mizoguchi, Kōzaburō Yoshimura, Kon Ichikawa, Keisuke Kinoshita, Seijun Suzuki, and Tadashi Imai."
     },
     "Participantes da Oficina de Animação": {
       "lbxd_slug": null,
@@ -7260,43 +7274,43 @@ window.CINEMA_DATA = {
     },
     "Don Bluth": {
       "lbxd_slug": "don-bluth",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Don_Bluth_by_Gage_Skidmore.jpg/500px-Don_Bluth_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Donald Virgil Bluth ( BLOOTH; born September 13, 1937) is an American filmmaker, animator, video game designer and author. He came to prominence working for Walt Disney Productions before creating his own film studio in the early 1980s. Bluth is best known for directing the animated films The Secret of NIMH, An American Tail, The Land Before Time, All Dogs Go to Heaven, Anastasia, and Titan A.E., and for his involvement in the well-known Laserdisc game Dragon's Lair."
     },
     "Miloš Forman": {
       "lbxd_slug": "milos-forman",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Milo%C5%A1_Forman_1999.jpg/500px-Milo%C5%A1_Forman_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jan Tomáš \"Miloš\" Forman (; Czech: [ˈmɪloʃ ˈforman]; 18 February 1932 – 13 April 2018) was a Czech and American film director, screenwriter, actor, and professor. He rose to fame in his native Czechoslovakia before emigrating to the United States in 1968. Over a career spanning six decades, Forman won two Academy Awards, a BAFTA Award, three Golden Globe Awards, a Golden Bear, a César Award, and the Czech Lion."
     },
     "Shirin Neshat": {
       "lbxd_slug": "shoja-azari",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Viennale_talk_%282%29%2C_Shirin_Neshat.jpg/500px-Viennale_talk_%282%29%2C_Shirin_Neshat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Shirin Neshat (Persian: شیرین نشاط; born March 26, 1957) is an Iranian photographer and visual artist who lives in New York City, known primarily for her work in film, video and photography. Her artwork centers on the contrasts between Islam and the West, femininity and masculinity, public life and private life, antiquity and modernity, and bridging the spaces between these subjects. Since the Islamic Revolution, she has said that she has \"gravitated toward making art that is concerned with tyranny, dictatorship, oppression and political injustice."
     },
     "Satoshi Kon": {
       "lbxd_slug": "satoshi-kon",
       "photo": null,
-      "bio": null
+      "bio": "Satoshi Kon (今 敏, Kon Satoshi; October 12, 1963 – August 24, 2010) was a Japanese film director, animator, screenwriter and manga artist from Sapporo, Hokkaido, and a member of the Japanese Animation Creators Association (JAniCA). He was a graduate of the Graphic Design department of the Musashino Art University. He is best known for his acclaimed anime films Perfect Blue (1997), Millennium Actress (2001), Tokyo Godfathers (2003), and Paprika (2006), and the TV series Paranoia Agent (2004)."
     },
     "Jerry Zucker": {
       "lbxd_slug": "jerry-zucker",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jerry_Zucker_%28cropped%29.jpg/500px-Jerry_Zucker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jerry Gordon Zucker (born March 11, 1950) is an American film director, producer, and screenwriter. With his brother David and Jim Abrahams, he is part the filmmaking trio Zucker, Abrahams and Zucker. He is best known for his role in writing and directing comedy spoof films like Airplane!"
     },
     "Sérgio Graciano": {
       "lbxd_slug": "sergio-graciano",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Portuguese film director"
     },
     "Todd Solondz": {
       "lbxd_slug": "todd-solondz",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Toddsolondz.jpg/500px-Toddsolondz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Todd Solondz (; born October 15, 1959) is an American filmmaker and playwright known for his style of dark, socially conscious satire. Solondz's work has received critical acclaim for its commentary on the \"dark underbelly of middle class American suburbia\", a reflection of his own background in New Jersey. His work includes Welcome to the Dollhouse (1995), Happiness (1998), Storytelling (2001),  Palindromes (2004), Life During Wartime (2009), Dark Horse (2011), and Wiener-Dog (2016)."
     },
     "Luís Galvão Teles": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Director_of_the_film_%E2%80%98Dot.Com%E2%80%99_from_Portugal_Luis_Monteiro_Galvao_Teles_at_the_presentation_on_November_30%2C_2007_at_IFFI%2C_Panaji%2C_Goa.jpg/500px-Director_of_the_film_%E2%80%98Dot.Com%E2%80%99_from_Portugal_Luis_Monteiro_Galvao_Teles_at_the_presentation_on_November_30%2C_2007_at_IFFI%2C_Panaji%2C_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Portuguese film director, screenwriter and film editor"
     },
     "José María Martín Sarmiento": {
       "lbxd_slug": "jose-maria-martin-sarmiento",
@@ -7311,17 +7325,17 @@ window.CINEMA_DATA = {
     "Jacques Tourneur": {
       "lbxd_slug": "jacques-tourneur",
       "photo": null,
-      "bio": null
+      "bio": "Jacques Tourneur (; French: [tuʁnœʁ]; November 12, 1904 – December 19, 1977) was a French-American filmmaker, active during the Golden Age of Hollywood. He was known as an auteur of stylish and atmospheric genre films, many of them for RKO Pictures, including the supernatural horror films Cat People (1942), I Walked with a Zombie (1943) and The Leopard Man (1943), the war film Days of Glory (1944), which marked Gregory Peck's debut film role, and the film noir Out of the Past (1947). He is also known for directing the British horror film Night of the Demon (1957), which was released by Columbia Pictures as Curse of the Demon."
     },
     "Sky Hopinka": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sky_Hopinka_TIFF_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Sky Hopinka (born 1984) is a Native American visual artist and filmmaker who is a member of the Ho-Chunk Nation and a descendant of the Pechanga Band of Indians. Hopinka was awarded a MacArthur Fellowship in 2022."
     },
     "Courtney Stephens": {
       "lbxd_slug": "courtney-stephens",
       "photo": null,
-      "bio": null
+      "bio": "American filmmaker"
     },
     "Francisco Moura Relvas e Rita Senra": {
       "lbxd_slug": "francisco-moura-relvas",
@@ -7330,13 +7344,13 @@ window.CINEMA_DATA = {
     },
     "Hayao Miyazaki": {
       "lbxd_slug": "hayao-miyazaki",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HayaoMiyazakiCCJuly09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Hayao Miyazaki (宮崎 駿 or 宮﨑 駿, Miyazaki Hayao; [mijaꜜzaki hajao]; born January 5, 1941) is a Japanese animator, filmmaker, and manga artist. He co-founded Studio Ghibli and serves as its honorary chairman. Throughout his career, Miyazaki has attained international acclaim as a masterful storyteller and creator of Japanese animated feature films, and is widely regarded as one of the greatest and most accomplished filmmakers in the history of animation."
     },
     "James Bidgood": {
       "lbxd_slug": "james-bidgood",
       "photo": null,
-      "bio": null
+      "bio": "James Bidgood may refer to:"
     },
     "Helena Girón e Samuel Delgado": {
       "lbxd_slug": "samuel-m-delgado",
@@ -7346,7 +7360,7 @@ window.CINEMA_DATA = {
     "Francisca Manuel": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": null
+      "bio": "Portuguese actress"
     },
     "Macu Machín": {
       "lbxd_slug": "macu-machin",
@@ -7355,13 +7369,13 @@ window.CINEMA_DATA = {
     },
     "Andrea Arnold": {
       "lbxd_slug": "andrea-arnold",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Andrea_Arnold_receiving_2024_Carrosse_d%27Or_Award_at_2024_Cannes_Film_Festival_group_%28cropped%29.jpg/500px-Andrea_Arnold_receiving_2024_Carrosse_d%27Or_Award_at_2024_Cannes_Film_Festival_group_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Andrea Patricia Arnold OBE (born 5 April 1961) is an English filmmaker and former actress. She won an Academy Award for her short film Wasp in 2005. Her feature films include Red Road (2006), Fish Tank (2009) and American Honey (2016), all of which have won the Jury Prize at the Cannes Film Festival, while her first documentary feature Cow premiered at the 2021 Cannes Film Festival."
     },
     "Jean Anouilh": {
       "lbxd_slug": "jean-anouilh",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Anouilh_1940_2b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Jean Marie Lucien Pierre Anouilh (; French: [ʒɑ̃ anuj]; 23 June 1910 – 3 October 1987)  was a French dramatist and screenwriter whose career spanned five decades. Though his work ranged from high drama to absurdist farce, Anouilh is best known for his 1944 production of Sophocles' Antigone, which, though performed without objection by censors, was nevertheless seen as an attack on Marshal Pétain's Vichy government. His plays are less experimental than those of his contemporaries, having clearly organized plot and eloquent dialogue."
     },
     "David Pantaleón": {
       "lbxd_slug": "david-pantaleon",
@@ -7370,13 +7384,13 @@ window.CINEMA_DATA = {
     },
     "Jaione Camborda": {
       "lbxd_slug": "jaione-camborda",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jaione_Camborda_%282023%29.jpg/500px-Jaione_Camborda_%282023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jaione Camborda Coll (born 1 March 1983) is a Spanish film director and screenwriter. Camborda's second feature, The Rye Horn (2023), won the Golden Shell at the San Sebastián Film Festival."
     },
     "Eloy Enciso": {
       "lbxd_slug": "eloy-enciso",
       "photo": null,
-      "bio": null
+      "bio": "Spanish film director"
     },
     "Kōji Morimoto, Tensai Okamura e Katsuhiro Ōtomo": {
       "lbxd_slug": "katsuhiro-otomo-1",
@@ -7385,13 +7399,13 @@ window.CINEMA_DATA = {
     },
     "Matías Piñeiro": {
       "lbxd_slug": "matias-pineiro",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mat%C3%ADas_Pi%C3%B1eiro_2024.png/500px-Mat%C3%ADas_Pi%C3%B1eiro_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "filmmaker (born 1982)"
     },
     "Barry Sonnenfeld": {
       "lbxd_slug": "barry-sonnenfeld",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Barry_Sonnenfeld_2012.jpg/500px-Barry_Sonnenfeld_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Barry Sonnenfeld  (born April 1, 1953) is an American filmmaker and television director. He originally worked as a cinematographer for the Coen brothers before directing comedy films like The Addams Family (1991), Get Shorty (1995), the Men in Black trilogy (1997–2012), Wild Wild West (1999), and RV (2006)."
     },
     "Stanley Schtinter": {
       "lbxd_slug": "stanley-schtinter",
@@ -7406,7 +7420,7 @@ window.CINEMA_DATA = {
     "Manuel Costa e Silva": {
       "lbxd_slug": "manuel-costa-e-silva",
       "photo": null,
-      "bio": null
+      "bio": "Portuguese cinematographer"
     },
     "Mariana Caló e Francisco Queimadela": {
       "lbxd_slug": null,
@@ -7415,18 +7429,18 @@ window.CINEMA_DATA = {
     },
     "Manoel de Oliveira": {
       "lbxd_slug": "manoel-de-oliveira",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
     },
     "Karrabing Film Collective": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": null
+      "bio": "Australian Aboriginal film collective based in the Northern Territory"
     },
     "Bo Wang": {
       "lbxd_slug": "wang-bo",
       "photo": null,
-      "bio": null
+      "bio": "Bo Wang, also known by his nom de guerre Yusuf al-Sini (Arabic: يوسف الصيني, romanized: Yūsuf al-Ṣīnī, lit. 'Yusuf of China'), is a Chinese jihadist who participated in the First Libyan Civil War and the Syrian Civil War."
     },
     "Alice dos Reis": {
       "lbxd_slug": "alice-dos-reis",
@@ -7435,53 +7449,53 @@ window.CINEMA_DATA = {
     },
     "Gus Van Sant": {
       "lbxd_slug": "gus-van-sant",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gus_Van_Sant_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Gus_Van_Sant_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Gus Green Van Sant Jr. (born July 24, 1952) is an American filmmaker, photographer, painter, and musician. He has earned acclaim as an independent filmmaker, and is considered to be one of the most prominent auteurs of the new queer cinema movement."
     },
     "Anca Damian": {
       "lbxd_slug": "anca-damian",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anca_Damian.jpg/500px-Anca_Damian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Anca Damian is a Romanian film director, writer, and producer."
     },
     "Lina Wertmüller": {
       "lbxd_slug": "lina-wertmuller",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lina_Wertmuller_2000.jpg/500px-Lina_Wertmuller_2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Arcangela Felice Assunta \"Lina\" Wertmüller  (Italian: [ˈliːna vertˈmyller] ; 14 August 1928 – 9 December 2021) was an Italian film director and screenwriter. She is best known for her 1970s art house films Seven Beauties, The Seduction of Mimi, Love and Anarchy, and Swept Away. Wertmüller was the first female director to be nominated for the Academy Award for Best Director."
     },
     "Jean Cocteau": {
       "lbxd_slug": "jean-cocteau",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Cocteau_b_Meurisse_1923.jpg/500px-Jean_Cocteau_b_Meurisse_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jean Maurice Eugène Clément Cocteau (UK:  KOK-toh, US:  kok-TOH; French: [ʒɑ̃ mɔʁis øʒɛn klemɑ̃ kɔkto]; 5 July 1889 –  11 October 1963) was a French poet, playwright, novelist, designer, film director, visual artist and critic. He was one of the foremost avant-garde artists of the 20th century and highly influential on the Surrealist and Dadaist movements, among others. The National Observer suggested that \"of the artistic generation whose daring gave birth to Twentieth Century Art, Cocteau came closest to being a Renaissance man\"."
     },
     "Hirokazu Koreeda": {
       "lbxd_slug": "hirokazu-kore-eda",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hirokazu_Kore-eda_-_The_Egyptian_Theatre.jpg/500px-Hirokazu_Kore-eda_-_The_Egyptian_Theatre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Hirokazu Kore-eda (是枝 裕和, Koreeda Hirokazu; born 6 June 1962) is a Japanese filmmaker. He rose to prominence with his drama films Nobody Knows (2004), Still Walking (2008) and Like Father, Like Son (2013), for the latter he won the Jury Prize at the 66th Cannes Film Festival. His drama film Shoplifters (2018) won the Palme d'Or at the 71st Cannes Film Festival, and was also nominated for the Academy Award for Best Foreign Language Film representing Japan."
     },
     "Tiago Guedes": {
       "lbxd_slug": "tiago-guedes",
       "photo": null,
-      "bio": null
+      "bio": "Tiago Guedes (born 20 June 1971) is a Portuguese filmmaker. Most known for his films The Domain (2019) and Aquí (2026), and the television series Glória (2021)."
     },
     "Marta Mateus": {
       "lbxd_slug": "marta-mateus",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Marta_Mateus%2C_2016.tiff/lossless-page1-500px-Marta_Mateus%2C_2016.tiff.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Marta Mateus (born 1984) is a Portuguese film director. She is known for her first film Fogo do Vento (Fire of Wind). Her work has been compared to that of Straub-Huillet."
     },
     "Fernando Ruiz Vergara": {
       "lbxd_slug": "fernando-ruiz-vergara",
       "photo": null,
-      "bio": null
+      "bio": "painter (1942-2011)"
     },
     "Yann Gonzalez": {
       "lbxd_slug": "yann-gonzalez",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Yann_Gonzales.jpg/500px-Yann_Gonzales.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Yann Gonzalez (born 1977, Nice, France) is a French film director, most noted as a recipient of the Prix Jean Vigo in 2018 for his film Knife+Heart."
     },
     "Miguel Gonçalves Mendes": {
       "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mgm_moma.jpg/500px-Mgm_moma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Miguel Gonçalves Mendes (born September 2, 1978 in Covilhã) is a Portuguese film director, screenwriter and producer. He is the author of José and Pilar (2010), a documentary about writer and Nobel Prize winner José Saramago, co-produced by Pedro Almodóvar (Talk to Her, The Skin I Live In) and his brother Agustín, and Fernando Meirelles (City of God and The Constant Gardener). In 2011, after a successful international festival circuit, the movie spurred an unprecedented popular movement in Portugal resulting on a petition signed by 1400 people (0.00014% of Portugal's population), which in turn sparked a debate over Portuguese cinema and a campaign for the Oscar nominations in Los Angeles and New York."
     },
     "Luís Costa e André Guiomar": {
       "lbxd_slug": "andre-guiomar",
@@ -7491,12 +7505,12 @@ window.CINEMA_DATA = {
     "Nuno Carinhas": {
       "lbxd_slug": null,
       "photo": null,
-      "bio": null
+      "bio": "researcher"
     },
     "Eloy Calvo": {
       "lbxd_slug": "eloy-calvo",
       "photo": null,
-      "bio": null
+      "bio": "Spanish businessman and sporting administrator"
     },
     "Eva Szasz": {
       "lbxd_slug": "eva-szasz",
@@ -7505,28 +7519,28 @@ window.CINEMA_DATA = {
     },
     "Luis García Berlanga": {
       "lbxd_slug": "luis-garcia-berlanga",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sos_del_Rey_Cat%C3%B3lico_25.JPG/500px-Sos_del_Rey_Cat%C3%B3lico_25.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Luis García-Berlanga Martí (12 June 1921 – 13 November 2010) was a Spanish film director and screenwriter. Acclaimed as a pioneer of modern Spanish cinema, his films are marked by social satire and acerbic critiques of Spanish culture under the Francoist dictatorship. These include Welcome Mr."
     },
     "João Canijo": {
       "lbxd_slug": "joao-canijo",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MKr25870_Jo%C3%A3o_Canijo_%28Mal_Viver%2C_Berlinale_2023%29.jpg/500px-MKr25870_Jo%C3%A3o_Canijo_%28Mal_Viver%2C_Berlinale_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "João Canijo (10 December 1957 – 29 January 2026) was a Portuguese film director. His film Get a Life was screened in the Un Certain Regard section at the 2001 Cannes Film Festival. His 2011 film Blood of My Blood was selected as the Portuguese entry for the Best Foreign Language Oscar at the 85th Academy Awards, but it did not make the final shortlist."
     },
     "Gaspar Noé": {
       "lbxd_slug": "gaspar-noe",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gaspar_No%C3%A9_%282021%29.jpg/500px-Gaspar_No%C3%A9_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Gaspar Julio Noé Murphy (born 27 December 1963), known professionally as Gaspar Noé, is an Argentine filmmaker and screenwriter, who lives and works primarily in France. He is one of the primary exponents of New French Extremity, associated its graphic nature of unsimulated sex, drugs, epilepsy, and violence. His feature films including I Stand Alone (1998), Irréversible (2002), Enter the Void (2009), Love (2015), Climax (2018), Lux Æterna (2019), and Vortex (2021)."
     },
     "Liliane de Kermadec": {
       "lbxd_slug": "liliane-de-kermadec",
       "photo": null,
-      "bio": null
+      "bio": "Liliane de Kermadec (6 October 1928 – 13 February 2020) was a Polish-French film director and screenwriter. She directed more than twenty films and documentaries between 1965 and 2016."
     },
     "Paulo Rocha": {
       "lbxd_slug": "paulo-rocha-1",
       "photo": null,
-      "bio": null
+      "bio": "Paulo Rocha may refer to:"
     },
     "Michael Powell e Emeric Pressburger": {
       "lbxd_slug": "emeric-pressburger",
@@ -7555,8 +7569,8 @@ window.CINEMA_DATA = {
     },
     "Karim Aïnouz": {
       "lbxd_slug": "karim-ainouz-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg/500px-Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Karim Aïnouz (; Portuguese: [kɐˈɾĩ ajˈnus]; born 17 January 1966) is a Brazilian film director and visual artist. He is best known for his film The Invisible Life of Eurídice Gusmão."
     },
     "Marjane Satrapi, Vincent Paronnaud": {
       "lbxd_slug": "marjane-satrapi",
@@ -7565,28 +7579,28 @@ window.CINEMA_DATA = {
     },
     "Sarah Friedland": {
       "lbxd_slug": "sarah-friedland-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sarah_Friedland_at_81st_Venice_Film_Festival_%28cropped%29.jpg/500px-Sarah_Friedland_at_81st_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Sarah Friedland (born 1992) is an American director and choreographer. Her 2024 debut feature film, Familiar Touch, premiered at the 81st Venice International Film Festival, where she won the Orizzonti section's Best Director award and the film won the Luigi de Laurentis Lion of the Future Award for best debut feature."
     },
     "Zoe R. Cassavetes": {
       "lbxd_slug": "zoe-cassavetes-1",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Zoe-Cassavetes-Broken-English.JPG/500px-Zoe-Cassavetes-Broken-English.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Zoe Rowlands Cassavetes (born June 29, 1970) is an American film director, screenwriter, and actress. The daughter of filmmaker John Cassavetes and actress Gena Rowlands, she is best known for her 2007 film Broken English. She is the sister of actor and director Nick Cassavetes."
     },
     "Josef von Sternberg": {
       "lbxd_slug": "josef-von-sternberg",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dishonored_%28film%29_1931_On_set%2C_BW_photo%2C_L_to_R_Josef_von_Sternberg%2C_Marlene_Dietrich_%28cropped-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Josef von Sternberg (Austrian German: [ˈjoːzɛf fɔn ˈʃtɛrnbɛrg]; born Jonas Sternberg; May 29, 1894 – December 22, 1969) was an Austrian-American filmmaker whose career successfully spanned the transition from the silent to the sound era, during which he worked with most of the major Hollywood studios. He is best known for his film collaboration with actress Marlene Dietrich in the 1930s, including the highly regarded Paramount/UFA production The Blue Angel (1930). He was twice nominated for the Academy Award for Best Director, for Morocco (1930) and Shanghai Express (1932)."
     },
     "Mikhail Kalatozov": {
       "lbxd_slug": "mikhail-kalatozov",
-      "photo": null,
-      "bio": null
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg/500px-Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Mikhail Konstantinovich Kalatozov (Georgian: მიხეილ კალატოზიშვილი, Russian: Михаил Константинович Калатозов; 28 December 1903 – 26 March 1973), born Mikheil Kalatozishvili, was a Soviet film director of Georgian origin who contributed to both Georgian and Russian cinema. He is known for his films The Cranes Are Flying and I Am Cuba, winning the Palme d'Or for the former at the 1958 Cannes Film Festival."
     },
     "Jacques Deray": {
       "lbxd_slug": "jacques-deray",
       "photo": null,
-      "bio": null
+      "bio": "Jacques Deray (born Jacques Desrayaud, 19 February 1929 – 9 August 2003) was a French film director and screenwriter. Deray is prominently known for directing many crime and thriller films."
     },
     "Listen, Think, Write": {
       "lbxd_slug": null,
