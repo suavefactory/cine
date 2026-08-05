@@ -823,12 +823,18 @@ def enrich(movies):
             omdb = cached.get("omdb")
             wiki = cached.get("wiki")
             # Filme já com rating mas nunca pesquisado na Wikipédia — uma
-            # tentativa única para obter a descrição em português (extract_pt);
-            # fica em cache (mesmo que falhe) para não repetir diariamente.
-            if "wiki" not in cached:
+            # obtém a descrição em português (extract_pt) e o título inglês.
+            # Um sucesso fica em cache para sempre. Uma falha é retentada nos
+            # dias seguintes até 3 vezes — uma falha transitória (HTTP 429 da
+            # Wikipédia) não pode condenar o filme a nunca mais ter descrição,
+            # mas também não vale a pena repetir todos os dias para sempre um
+            # filme que genuinamente não tem página na Wikipédia.
+            tries = cached.get("wiki_tries", 0)
+            if wiki is None and tries < 3:
                 print(f"  [WIKI] {title}...", flush=True)
                 wiki = resolve_english_title(title, year, director=director)
                 cached["wiki"] = wiki
+                cached["wiki_tries"] = tries + 1
                 changed = True
 
         # ── Aplicar dados ───────────────────────────────────────────

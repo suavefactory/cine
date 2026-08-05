@@ -7,9 +7,17 @@ on:
     - cron: '20 8 * * *'   # 08:20 UTC — 2ª tentativa igual, para apanhar falhas transitórias
   workflow_dispatch:        # permite correr manualmente no GitHub (corre sempre o scraper completo)
 
+# As três corridas da manhã estão a 10 minutos umas das outras, mas um backfill
+# grande demora bem mais do que isso. Sem isto, a 2ª e a 3ª arrancavam com a 1ª
+# ainda a meio, refaziam o mesmo trabalho e colidiam no push.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     permissions:
       contents: write
 
@@ -37,5 +45,16 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/sessions.js data/omdb_cache.json data/wiki_director_cache.json
-          git diff --cached --quiet || git commit -m "chore: atualizar sessões $(date -u '+%Y-%m-%d %H:%M')"
-          git push
+          git diff --cached --quiet && { echo "Nada para publicar."; exit 0; }
+          git commit -m "chore: atualizar sessões $(date -u '+%Y-%m-%d %H:%M')"
+          # O push pode ser rejeitado se algo tiver entrado no main entretanto
+          # (um commit manual, outra corrida). Os ficheiros de dados são
+          # regenerados por inteiro a cada corrida, por isso em conflito fica
+          # sempre a versão desta corrida, que é a mais recente.
+          for i in 1 2 3; do
+            git push && exit 0
+            echo "Push rejeitado — a integrar o remoto (tentativa $i)."
+            git pull --rebase --strategy-option=theirs origin main || { git rebase --abort || true; exit 1; }
+          done
+          echo "Não foi possível publicar após 3 tentativas."
+          exit 1

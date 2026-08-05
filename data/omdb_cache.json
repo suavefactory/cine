@@ -13829,7 +13829,12 @@
       "lb_year": 1974,
       "lb_title": "Conversation Piece"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": {
+      "title_en": "Conversation Piece (film)",
+      "imdb_id": "tt0071585",
+      "extract_pt": "Gruppo di famiglia in un interno (bra/prt: Violência e Paixão) é um filme franco italiano de 1974, do gênero drama, dirigido por Luchino Visconti.\nÉ o penúltimo filme dirigido por Visconti."
+    }
   },
   "Rio Sem Regresso|1954": {
     "lbxd": {
@@ -20418,7 +20423,12 @@
       "lb_year": 1951,
       "lb_title": "Diary of a Country Priest"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": {
+      "title_en": "Diary of a Country Priest",
+      "imdb_id": "tt0042619",
+      "extract_pt": "Journal d'un curé de campagne é um filme francês de 1951 dirigido por Robert Bresson, baseado no livro homônimo de Georges Bernanos."
+    }
   },
   "Breve História de uma Família|2024": {
     "lbxd": null,
@@ -30760,8 +30770,55 @@
     }
   },
   "Morte em Veneza|1971": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.67,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/2/3/2/48232-death-in-venice-0-500-0-750-crop.jpg?v=4f8937a19e",
+      "description": "Composer Gustav von Aschenbach travels to Venice for health reasons. There, he becomes obsessed with the stunning beauty of an adolescent Polish boy named Tadzio who is staying with his family at the same Grand Hôtel des Bains on the Lido as Aschenbach.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Luchino Visconti",
+      "lb_director_slug": "luchino-visconti",
+      "lb_year": 1971,
+      "lb_title": "Death in Venice"
+    },
+    "omdb": {
+      "Title": "Death in Venice",
+      "Year": "1971",
+      "Rated": "GP",
+      "Released": "01 Jun 1971",
+      "Runtime": "130 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luchino Visconti",
+      "Writer": "Thomas Mann, Luchino Visconti, Nicola Badalucco",
+      "Actors": "Dirk Bogarde, Romolo Valli, Mark Burns",
+      "Plot": "While recovering in Venice, sickly composer Gustav von Aschenbach becomes dangerously fixated with teenager Tadzio.",
+      "Language": "English, Italian, Polish, French, Russian, German",
+      "Country": "Italy, France",
+      "Awards": "Nominated for 1 Oscar. 18 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ3ODc3ODctZjc0Ni00MWVkLWIzZjAtNDA1OGU2N2VkNzAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "24,550",
+      "imdbID": "tt0067445",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "O Leopardo|1963": {
     "lbxd": null,
@@ -30824,7 +30881,8 @@
   },
   "Errando pelo Caminho|1965": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Grau de Destruição|1966": {
     "lbxd": null,
@@ -30844,7 +30902,8 @@
   },
   "O Homem na Pele da Serpente|1960": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "O Estrangeiro (1967)|1967": {
     "lbxd": null,
@@ -30855,8 +30914,61 @@
     "omdb": null
   },
   "Quando o Rio Se Enfurece|1960": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/7/6/1/68761-wild-river-0-500-0-750-crop.jpg?v=d5441a0ec6",
+      "description": "A young bureaucrat for the Tennessee Valley Authority goes to rural Tennessee to oversee the building of a dam. He encounters opposition from the local people, in particular a farmer who objects to his employment (with pay) of local black laborers. Much of the plot revolves around the eviction of a stubborn octogenarian from her home on an island in the river, and the young man's love affair with that woman's widowed granddaughter. Preserved by the Academy Film Archive in partnership with The Film Foundation.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Elia Kazan",
+      "lb_director_slug": "elia-kazan",
+      "lb_year": 1960,
+      "lb_title": "Wild River"
+    },
+    "omdb": {
+      "Title": "Wild River",
+      "Year": "1960",
+      "Rated": "Approved",
+      "Released": "25 May 1960",
+      "Runtime": "110 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "Elia Kazan",
+      "Writer": "Paul Osborn, William Bradford Huie, Borden Deal",
+      "Actors": "Montgomery Clift, Lee Remick, Jo Van Fleet",
+      "Plot": "A TVA bureaucrat comes to the river to do what none of his predecessors have been able to do - evict a stubborn octogenarian from her island before the rising waters engulf her.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MzllMWUtZTFjMi00ZTI2LTg5ODItNTE4OWU0MjVkZTIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "6,382",
+      "imdbID": "tt0054476",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Wild River (film)",
+      "imdb_id": "tt0054476",
+      "extract_pt": "Wild River (bra: Rio Violento; prt: Quando o Rio Se Enfurece) é um filme estadunidense de 1960, do gênero drama, dirigido por Elia Kazan, com locações no Tennessee Valley.\nEm 2002, o filme foi selecionado para preservação no Registro Nacional de Filmes da Biblioteca do Congresso dos Estados Unidos por seu \"significado cultural histórico ou estético\"."
+    }
   },
   "Obsessão|1943": {
     "lbxd": null,
@@ -30965,8 +31077,55 @@
     "omdb": null
   },
   "A Influência dos Raios Gama no Comportamento das Margaridas|1972": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/7/5/2/74752-the-effect-of-gamma-rays-on-man-in-the-moon-marigolds-0-500-0-750-crop.jpg?v=289bd1d2d3",
+      "description": "Middle-aged widow Beatrice Hunsdorfer and her daughters Ruth and Matilda are struggling to survive in a society they barely understand. Beatrice dreams of opening an elegant tea room but does not have the wherewithal to achieve her lofty goal. Epileptic Ruth is a rebellious adolescent, while shy but highly intelligent and idealistic Matilda seeks solace in her pets and school projects, including one designed to show how small amounts of radium affect marigolds.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Paul Newman",
+      "lb_director_slug": "paul-newman",
+      "lb_year": 1972,
+      "lb_title": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds"
+    },
+    "omdb": {
+      "Title": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+      "Year": "1972",
+      "Rated": "PG",
+      "Released": "30 May 1973",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Paul Newman",
+      "Writer": "Paul Zindel, Alvin Sargent",
+      "Actors": "Joanne Woodward, Nell Potts, Roberta Wallach",
+      "Plot": "Middle-aged misfit Beatrice Hunsdorfer struggles to raise her two daughters, popular epileptic Ruth and promising science student Matilda, in this film version of Paul Zindel's stage play.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmIwN2RiNDAtYjJhMy00YWRkLTgxY2MtNGI2YjRlZDRhYTM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "2,714",
+      "imdbID": "tt0068528",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   "A Doce Vida|1960": {
     "lbxd": null,
@@ -31043,7 +31202,8 @@
   },
   "O Detective|1968": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Alphaville|1965": {
     "lbxd": {
@@ -31272,7 +31432,8 @@
   },
   "Sentimento|1954": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Alemanha, Ano Zero|1948": {
     "lbxd": null,
@@ -31443,7 +31604,8 @@
   },
   "Sem Eira Nem Beira|1985": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Mur Murs|1980": {
     "lbxd": {
@@ -31603,7 +31765,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "Roma, Cidade Aberta|1945": {
     "lbxd": null,
@@ -31719,23 +31882,75 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "O Universo de Jacques Demy|1995": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Amor de Leão|1969": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Adeus Philippine|1962": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/4/2244-adieu-philippine-0-500-0-750-crop.jpg?v=66bb207bc7",
+      "description": "Michel is a young technician in the fledgling TV industry and is due for military service in two months at the time of the Algerian War. Juliette and Liliane are inseparable best friends, and aspiring actresses, who hang around outside the TV studio. Michel invites them in to watch, flirts with them both, and dates them separately and together. When Michel goes on a holiday to Corsica, just before he is drafted, the girls follow.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Rozier",
+      "lb_director_slug": "jacques-rozier-1",
+      "lb_year": 1962,
+      "lb_title": "Adieu Philippine"
+    },
+    "omdb": {
+      "Title": "Adieu Philippine",
+      "Year": "1962",
+      "Rated": "N/A",
+      "Released": "25 Sep 1963",
+      "Runtime": "106 min",
+      "Genre": "Drama, Romance",
+      "Director": "Jacques Rozier",
+      "Writer": "Michèle O'Glor, Jacques Rozier",
+      "Actors": "Jean-Claude Aimini, Daniel Descamps, Stefania Sabatini",
+      "Plot": "Paris, summer 1960. Michel is about to leave for Algeria for military service. He meets Liliane and Juliette, two inseparable friends. Michel goes on vacation to Corsica, where the two girls decide to join him",
+      "Language": "French, Italian, Corsican",
+      "Country": "France, Italy",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFmYzk2YmItYTU5MS00MDQ5LTkyMGEtMDFiOGQ3N2QyMTFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "1,369",
+      "imdbID": "tt0143088",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Adieu Philippine",
+      "imdb_id": "tt0143088",
+      "extract_pt": "Adieu Philippine (no Brasil: Adeus Philippine) é um filme francês de comédia e drama lançado em 1963, dirigido por Jacques Rozier, roteirizado por Michèle O'Glor e Jacques Rozier.\nEmbora o filme tenha enfrentado dificuldades em termos de produção e distribuição  e tenha sido um fracasso comercial em seu lançamento, ele foi elogiado como um dos filmes-chave da Nouvelle Vague francês. Estreou em 8 de janeiro de 1962 em Paris e foi posteriormente exibido no Festival de Cannes de 1962, mas não recebeu um lançamento real nos cinemas da França até setembro de 1963."
+    }
   },
   "Algemas de Cristal|1985": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Kung-Fu Master|1987": {
     "lbxd": {
@@ -31848,7 +32063,8 @@
   },
   "Tio Yanco|1967": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "La Pointe Courte|1954": {
     "lbxd": {
@@ -31899,7 +32115,8 @@
   },
   "As Boas Mulheres|1960": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Calle Málaga|2025": {
     "lbxd": {
@@ -31941,7 +32158,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "As Cento e uma Noites de Simon Cinéma|1994": {
     "lbxd": {
@@ -32044,6 +32262,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Beaches of Agnès",
+      "imdb_id": null,
+      "extract_pt": "Les plages d'Agnès (Brasil: As Praias de Agnès ) é um documentário francês de 2008 dirigido por Agnès Varda. O filme é um ensaio autobiográfico onde Varda revisita lugares de seu passado, relembra a vida e comemora seus 80 anos diante das câmeras. Varda disse que provavelmente seria seu último filme, mas lançou o documentário indicado ao Oscar Visages, villages uma década depois."
     }
   },
   "I Want Your Sex|2026": {
@@ -32095,7 +32318,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "Ao Longo da Costa|1958": {
     "lbxd": null,
@@ -32110,7 +32334,19 @@
     "omdb": null
   },
   "O Meu Tio|1958": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": 4.04,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/8/51668-mon-oncle-0-500-0-750-crop.jpg?v=1096d531f3",
+      "description": "Genial, bumbling Monsieur Hulot loves his top-floor apartment in a grimy corner of the city, and cannot fathom why his sister's family has moved to the suburbs. Their house is an ultra-modern nightmare, which Hulot only visits for the sake of stealing away his rambunctious young nephew. Hulot's sister, however, wants to win him over to her new way of life, and conspires to set him up with a wife and job.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Tati",
+      "lb_director_slug": "jacques-tati",
+      "lb_year": 1958,
+      "lb_title": "Mon Oncle"
+    },
     "omdb": null
   },
   "Saudação aos Cubanos|1963": {
@@ -32370,7 +32606,12 @@
       "lb_year": 1991,
       "lb_title": "Jacquot de Nantes"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": {
+      "title_en": "Jacquot de Nantes",
+      "imdb_id": "tt0102141",
+      "extract_pt": "Jacquot de Nantes é um filme francês dirigido por Agnès Varda, lançado em 1991. O filme foi realizado durante a doença que levaria à morte do diretor Jacques Demy, e consta com uma dramatização de suas memórias, com cortes para suas produções cinematográficas e pequenas cenas documentais retratando-o. Foi apresentado fora de competição no Festival de Cinema de Cannes em 1991.\nVarda queria que Demy estivesse presente durante as filmagens do filme."
+    }
   },
   "Documenteur|1981": {
     "lbxd": {
@@ -32417,7 +32658,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "La Pointe Courte|1955": {
     "lbxd": {
@@ -32465,7 +32707,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "Decameron Nights|1953": {
     "lbxd": {
@@ -32567,7 +32810,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "Viagem em Itália|1954": {
     "lbxd": null,
@@ -34482,7 +34726,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "The Traveler Without Luggage|1944": {
     "lbxd": {
@@ -34920,6 +35165,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Hair (film)",
+      "imdb_id": "tt0079261",
+      "extract_pt": "Hair é um filme norte-americano de 1979 adaptado do musical do mesmo nome encenado no Broadway e criado por James Rado, Gerome Ragni e Galt MacDermot. Dirigido por Milos Forman, com John Savage, Treat Williams e Beverly D'Angelo no elenco, o filme conta a história de um jovem do interior dos Estados Unidos convocado para a Guerra do Vietnã, que chega a Nova York para apresentar-se ao exército e encontra e se torna amigo de uma grupo de hippies cabeludos da cidade, adeptos do pacifismo e contrários à guerra.\nAs cenas de dança foram coreografadas por Twyla Tharp e realizadas pelos dançarinos da Twyla Tharp Dance Foundation. O filme estreou mundialmente no Festival de Cannes daquele ano e foi indicado para o Globo de Ouro de Melhor Filme."
     }
   },
   "Last Movies|2026": {
@@ -36647,7 +36897,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "The Wild One|1954": {
     "lbxd": {
@@ -36756,6 +37007,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Love with the Proper Stranger",
+      "imdb_id": "tt0057263",
+      "extract_pt": "Love with the Proper Stranger (Brasil: O Preço de um Prazer / Portugal: Amar um Desconhecido) é um filme estadunidense de 1963, do gênero comédia romântica, dirigido por Robert Mulligan."
     }
   },
   "The Blackboard Jungle|1955": {
@@ -36812,6 +37068,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Blackboard Jungle",
+      "imdb_id": "tt0047885",
+      "extract_pt": "Blackboard Jungle (bra/prt: Sementes de Violência) é um filme estadunidense de 1955, do gênero drama, dirigido e roteirizado por Richard Brooks."
     }
   },
   "The Trouble With Angels|1966": {
@@ -36863,7 +37124,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "King Creole|1958": {
     "lbxd": {
@@ -36916,6 +37178,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "King Creole",
+      "imdb_id": "tt0051818",
+      "extract_pt": "King Creole (prt: King Creole; bra: Balada Sangrenta) é um filme estadunidense de 1958, do gênero drama musical, dirigido por Michael Curtiz e estrelado por Elvis Presley. O roteiro é baseado no romance A Stone for Danny Fisher, de Harold Robbins.\nPrimeiramente o roteiro seria oferecido a James Dean, mas com sua morte prematura em 1955 o projeto foi adiado, sendo poucos anos depois oferecido a Elvis. Foram feitas algumas alterações na história, entre elas, a mudança de Danny Fischer que passou de boxeador para cantor.."
     }
   },
   "The Graduate|1967": {
@@ -36973,6 +37240,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Graduate",
+      "imdb_id": "tt0061722",
+      "extract_pt": "The Graduate (br: A Primeira Noite de um Homem; pt: A Primeira Noite) é um filme de 1967 dos EUA. A comédia romântica foi dirigida por Mike Nichols e estrelada por Dustin Hoffman, Anne Bancroft e Katharine Ross.\nO roteiro, escrito por Calder Willingham e Buck Henry, é baseado no livro homônimo de Charles Webb.\nO filme é lembrado pela trilha sonora de Simon & Garfunkel, que popularizou músicas como The Sound of Silence e Mrs. Robinson."
     }
   },
   "Bonjour Tristesse|1958": {
@@ -37025,6 +37297,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Bonjour Tristesse (1958 film)",
+      "imdb_id": null,
+      "extract_pt": "Bonjour Tristesse (bra: Bom Dia, Tristeza) é um filme britânico-estadunidense dirigido e produzido por Otto Preminger a partir de um roteiro de Arthur Laurents baseado no romance de mesmo nome de Françoise Sagan. O filme é estrelado por Deborah Kerr, David Niven, Jean Seberg, Mylène Demongeot e Geoffrey Horne, e apresenta Juliette Gréco, Walter Chiari, Martita Hunt e Roland Culver. Foi lançado em 15 de janeiro de 1958 pela Columbia Pictures."
     }
   },
   "Lilith|1964": {
@@ -37078,7 +37355,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "West Side Story|1961": {
     "lbxd": {
@@ -37135,6 +37413,11 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
+    },
+    "wiki": {
+      "title_en": "West Side Story (1961 film)",
+      "imdb_id": "tt0055614",
+      "extract_pt": "West Side Story (br: Amor, Sublime Amor — pt: West Side Story - Amor Sem Barreiras) é um filme estadunidense de 1961, dos gêneros musical e drama, dirigido por Robert Wise. O filme foi adaptado por Ernest Lehman de um bem-sucedido musical da Broadway, lançado em 1957, com libreto de Arthur Laurents e encenado por Jerome Robbins, que foi também o autor da ideia. Tanto o musical teatral e o filme, são uma adaptação livre, ambientada na década de 1950, de Romeu e Julieta do William Shakespeare.\nO filme foi considerado \"culturalmente, historicamente ou esteticamente significativo\" pela Biblioteca do Congresso e foi selecionado para preservação no Registro Nacional de Filmes dos Estados Unidos em 1997."
     }
   },
   "A Ópera Mouffe|1958": {
@@ -37252,11 +37535,13 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "Oficina do Conto Cinematográfico|None": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "Antoine et Colette|1962": {
     "lbxd": {
@@ -37289,7 +37574,8 @@
       "lb_year": 1967,
       "lb_title": "The Trip"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": null
   },
   "The Wild One|1953": {
     "lbxd": {
@@ -37346,7 +37632,8 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null
   },
   "Los montes|1982": {
     "lbxd": {
@@ -37678,5 +37965,59 @@
       "Website": "N/A",
       "Response": "True"
     }
+  },
+  "Kung-Fu Master|1988": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null
+  },
+  "As Cento e uma Noites de Simon Cinéma|1995": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/6/0/8/78608-one-hundred-and-one-nights-0-500-0-750-crop.jpg?v=a00f304be7",
+      "description": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1995,
+      "lb_title": "One Hundred and One Nights"
+    },
+    "omdb": {
+      "Title": "One Hundred and One Nights",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "25 Jan 1995",
+      "Runtime": "104 min",
+      "Genre": "Comedy, History, Romance",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Michel Piccoli, Marcello Mastroianni, Henri Garcin",
+      "Plot": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
+      "Language": "French",
+      "Country": "France, United Kingdom",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ4M2E3ZGItYTY4My00YjhiLWI2MDUtYmM4ZTZiYzU5MGEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "1,988",
+      "imdbID": "tt0112654",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null
   }
 }
