@@ -20244,7 +20244,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "In the Mood for Love",
+      "imdb_id": "tt0118694",
+      "extract_pt": "Faa yeung nin wa (bra: Amor à Flor da Pele; prt: Disponível para Amar) é um filme de drama romântico de 2000 escrito, dirigido e produzido por Wong Kar-wai. de 2000, do gênero drama romântico, dirigido e escrito por Wong Kar-Wai. Uma coprodução entre Hong Kong e França, o filme acompanha um homem (Tony Leung) e uma mulher (Maggie Cheung) em 1962 que descobrem que seus cônjuges estão tendo um caso. Enquanto passam tempo juntos, eles gradualmente desenvolvem sentimentos um pelo outro."
+    },
     "cinema": {
       "original_title": "Fa yeung nin wah",
       "plot_pt": "Um retrato delicado de uma história de amor pouco convencional. Enquadrado pela sublime paleta de cores e pelos íntimos slow-motions de Wong Kar Wai, o filme viaja através dos olhares enigmáticos de dois indivíduos que, depois de se mudarem para o mesmo prédio com os seus parceiros ausentes, começam a acreditar que os seus respectivos esposos estão a ter um caso. Na sua solidão e aborrecimento, Chow e Su tornam-se mais próximos à medida que fazem as pazes com os seus fracassos românticos. Uma exploração profunda do acaso, do vazio, da solidão, acompanhada pela melancólica banda sonora de Shigeru Umebayashi, Disponível para Amar é o trabalho mais emblemático e impressionante de Wong Kar Wai.",
@@ -20252,7 +20256,8 @@
       "genre": "Drama, Romance",
       "year": 2000,
       "director": "Wong Kar Wai"
-    }
+    },
+    "wiki_tries": 1
   },
   "Fallen Angels — Anjos Caídos|1995": {
     "lbxd": {
@@ -27973,7 +27978,9 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "cinema": {}
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
   },
   "SESSÃO 6 | LES NUITS EN OR 2026|None": {
     "lbxd": null,
@@ -30533,8 +30540,13 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
-    "cinema": {}
+    "wiki": {
+      "title_en": "Persepolis (film)",
+      "imdb_id": "tt0808417",
+      "extract_pt": "Persepolis (bra/prt: Persépolis) é um filme francês de animação de 2007, baseado no romance gráfico autobiográfico homônimo de Marjane Satrapi. O filme foi escrito e dirigido por Satrapi e Vincent Paronnaud. Sua trama começa pouco antes da Revolução Iraniana, quando Marjane atinge a adolescência, e acaba quando ela é uma expatriada de 22 anos. O título é uma referência à cidade histórica de Persépolis."
+    },
+    "cinema": {},
+    "wiki_tries": 1
   },
   "Toy Story 3|2010": {
     "lbxd": {
@@ -33649,7 +33661,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Cléo from 5 to 7",
+      "imdb_id": "tt0055852",
+      "extract_pt": "Cléo de 5 à 7 (br: Cléo das 5 às 7 / pt: Duas horas da vida de uma mulher)  é um filme franco-italiano de 1962, do gênero drama, escrito e dirigido pela cineasta Agnès Varda.\nO filme acompanha a história de Florence 'Cléo' Victoire, uma cantora em ascensão que reside na França e aguarda ansiosa pelo resultado de um exame para descobrir se está com câncer, no dia 21 de junho de 1961. Em tempo real, das 17h às 18h30, a seguimos enquanto conversa com amigos, colegas de trabalho e conhece desconhecidos.\nEm 2022, passou a fazer parte em 14º posição na lista dos 250 Melhores Filmes de Todos os Tempos segundo a revista britânica Sight & Sound\nÉ um dos vários filmes da Nouvelle Vague e um dos mais importantes deste movimento, tendo sido indicado ao Palma de Ouro no Festival de Cannes de 1962."
+    },
     "cinema": {
       "original_title": "Cléo de 5 à 7",
       "plot_pt": "Enquanto espera ansiosamente pelos resultados de um exame médico, Cléo, uma cantora, deambula pelas ruas de Paris. No caminho, encontra-se com o seu amante, o seu compositor, a sua amiga Dorotheé e com um soldado prestes a ser destacado. Nesta crónica dos minutos da vida de uma mulher, Varda captura a Paris dos anos 60 de forma eloquente, entre a vérité vívida e o melodrama. Um dos filmes mais emblemáticos da Nouvelle Vague, permanece até hoje tão vibrante como em 1962.",
@@ -33657,7 +33673,8 @@
       "genre": "Drama",
       "year": 1961,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Misterioso Olhar do Flamingo|2025": {
     "lbxd": {
@@ -33833,7 +33850,8 @@
       "genre": "Documentário",
       "year": 1980,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Johnny Guitar|1954": {
     "lbxd": {
@@ -33955,7 +33973,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Le Bonheur (1965 film)",
+      "imdb_id": "tt0058985",
+      "extract_pt": "Le bonheur (Brasil: As Duas Faces da Felicidade ) é um filme de drama francês de 1965 dirigido por Agnès Varda. O filme está associado ao movimento de cinema Nouvelle Vague, e ganhou dois prêmios no 15º Festival Internacional de Cinema de Berlim, incluindo o Grande Prêmio do Júri."
+    },
     "cinema": {
       "original_title": "Le Bonheur",
       "plot_pt": "François, um jovem carpinteiro, casado com Thérèse e pai de dois filhos, é um homem feliz. Um dia, numa ida aos correios, conhece Émilie, por quem se apaixona. Ainda apaixonado pela sua esposa, François decide aumentar a sua felicidade e tem um caso com Émilie. Num dos seus filmes mais provocadores, Agnès Varda examina, com uma paleta de cores alegres, tons impressionistas sensuais e as notas vibrantes de Mozart, as ideias de fidelidade e felicidade num mundo moderno, focado no indivíduo.",
@@ -33963,7 +33985,8 @@
       "genre": "Drama",
       "year": 1964,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Os Respigadores e a Respigadora|2000": {
     "lbxd": {
@@ -34246,7 +34269,8 @@
       "genre": "Documentário",
       "year": 1965,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Prazer de Amor no Irão|1976": {
     "lbxd": {
@@ -34413,7 +34437,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "One Sings, the Other Doesn't",
+      "imdb_id": "tt0076855",
+      "extract_pt": "L'une chante, l'autre pas (prt/bra: Uma Canta, a Outra Não) é um filme do gênero drama francês realizado por Agnès Varda."
+    },
     "cinema": {
       "original_title": "L’Une chante, n’autre pas",
       "plot_pt": "No início dos anos 60, em Paris, duas mulheres tornam-se amigas: Pauline é uma estudante de 17 anos que sonha tornar-se cantora; Suzanne é uma mãe de 22 anos que se ocupa dos seus dois filhos e de um pai com tendências suicidas. Pauline empresta dinheiro a Suzanne para fazer um aborto. Até ao seu reencontro, dez anos mais tarde, o filme segue, de forma alternada, as suas vidas paralelas no contexto das lutas do movimento feminista dos anos 60 e 70. Com Uma Canta, a Outra Não, Agnès Varda mostra-nos duas formas de ser mulher e dois modos da luta feminista.",
@@ -34421,7 +34449,8 @@
       "genre": "Drama",
       "year": 1976,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Crime do Sr. Lange|1936": {
     "lbxd": null,
@@ -34591,7 +34620,8 @@
       "country": "França",
       "year": 1961,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Lola|1961": {
     "lbxd": {
@@ -34838,7 +34868,8 @@
       "genre": "Drama",
       "year": 1985,
       "director": "Paul Newman"
-    }
+    },
+    "wiki_tries": 1
   },
   "Kung-Fu Master|1987": {
     "lbxd": {
@@ -34896,7 +34927,7 @@
       "director": "Agnès Varda"
     },
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Jacquot de Nantes|1990": {
     "lbxd": {
@@ -34913,7 +34944,11 @@
       "lb_title": "Jacquot de Nantes"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Jacquot de Nantes",
+      "imdb_id": "tt0102141",
+      "extract_pt": "Jacquot de Nantes é um filme francês dirigido por Agnès Varda, lançado em 1991. O filme foi realizado durante a doença que levaria à morte do diretor Jacques Demy, e consta com uma dramatização de suas memórias, com cortes para suas produções cinematográficas e pequenas cenas documentais retratando-o. Foi apresentado fora de competição no Festival de Cinema de Cannes em 1991.\nVarda queria que Demy estivesse presente durante as filmagens do filme."
+    },
     "cinema": {
       "original_title": "Jacquot de Nantes",
       "plot_pt": "A terna evocação que Agnès Varda faz da infância do seu marido, Jacques Demy — um projecto de sonho que concretizou quando Demy ficou demasiado doente para o realizar — é um retrato maravilhoso do cineasta enquanto jovem e uma encantadora ode à magia do cinema. Filmado na cidade natal de Demy, Nantes, incluindo a casa onde cresceu, este imaginativo cruzamento entre ficção e documentário acompanha o seu crescimento à medida que encontra refúgio do tumulto da guerra nos espectáculos de marionetas, nos contos de fadas, na ópera e, sobretudo, no cinema. Intercalando imagens íntimas de Demy, mais velho, a reflectir sobre o seu percurso de vida, Jacquot de Nantes é uma comovente carta de amor de uma artista visionária a outro.",
@@ -34921,7 +34956,8 @@
       "genre": "Documentário",
       "year": 1990,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Documenteur|1980": {
     "lbxd": {
@@ -34977,7 +35013,8 @@
       "genre": "Documentário",
       "year": 1980,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Tio Yanco|1967": {
     "lbxd": {
@@ -35083,7 +35120,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "2019 Cannes Film Festival",
+      "imdb_id": "ev0000147/2019",
+      "extract_pt": "A 72.ª edição do Festival anual de Cannes foi realizada entre os dias 14 a 25 de maio de 2019. O cineasta mexicano Alejandro González Iñárritu foi eleito o presidente do júri do festival.\nO filme The Dead Don't Die, dirigido por Jim Jarmusch, abriu o festival. A cerimônia honrou a cineasta belga Agnès Varda, cujo momento de filmagem do filme Le Pointe Courte (1955) está representado no pôster oficial do evento."
+    },
     "cinema": {
       "original_title": "La Pointe Courte",
       "plot_pt": "Uma mulher chega ao bairro piscatório de La Pointe Courte, em Sète (sul de França), para informar o seu marido, natural do bairro, de que deseja o divórcio. Ao mesmo tempo que o casal conversa sobre o seu amor e a sua relação, a comunidade local enfrenta a pobreza quando a pesca é proibida pelas autoridades sanitárias. Entre a ficção e o documentário (conjugação que viria a ser recorrente na obra da cineasta), Agnès Varda concebeu assim um profundo estudo das tribulações de um casamento, e um olhar neo-realista sobre a vida da comunidade de La Pointe Courte, onde viveu durante a adolescência. La Pointe Courte é o primeiro filme de Agnès Varda e por muitos (como Georges Sadoul, um dos mais reputados historiadores de cinema) considerado como o verdadeiro primeiro filme da Nouvelle Vague, com uma modernidade inegável.",
@@ -35091,7 +35132,8 @@
       "genre": "Drama",
       "year": 1954,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "As Boas Mulheres|1960": {
     "lbxd": {
@@ -35514,7 +35556,8 @@
       "genre": "Documentário",
       "year": 1992,
       "director": "Les Demoiselles ont eu 25 ans"
-    }
+    },
+    "wiki_tries": 1
   },
   "O Meu Tio|1958": {
     "lbxd": {
@@ -35714,7 +35757,8 @@
       "genre": "Documentário",
       "year": 1982,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "A Ópera-Mouffe|1958": {
     "lbxd": null,
@@ -35895,14 +35939,19 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "They Live by Night",
+      "imdb_id": "tt0040872",
+      "extract_pt": "They Live by Night (bra: Amarga Esperança) é um longa-metragem estadunidense de 1948 do gênero policial, dirigido por Nicholas Ray (em seu primeiro filme como diretor) e estrelado por Cathy O'Donnell e Farley Granger."
+    },
     "cinema": {
       "original_title": "They Live by Night",
       "plot_pt": "Um condenado fugido, ferido durante um assalto, apaixona-se pela mulher que cuida dele.",
       "country": "EUA",
       "year": 1949,
       "director": "Nicholas Ray"
-    }
+    },
+    "wiki_tries": 1
   },
   "Oficina: Fotografia 3D – Como Fazer Imagens Estereoscópicas Com Uma Máquina De Trazer Por Casa|None": {
     "lbxd": null,
@@ -36710,7 +36759,8 @@
       "genre": "Documentário",
       "year": 1987,
       "director": "Agnès Varda"
-    }
+    },
+    "wiki_tries": 1
   },
   "Paris Nous Appartient|1961": {
     "lbxd": {
@@ -38005,7 +38055,8 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 1
   },
   "A Walk Worthwhile|2009": {
     "lbxd": {
@@ -38568,8 +38619,13 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
-    "cinema": {}
+    "wiki": {
+      "title_en": "Loves of a Blonde",
+      "imdb_id": "tt0059415",
+      "extract_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times."
+    },
+    "cinema": {},
+    "wiki_tries": 1
   },
   "Flesh and Ghost|2025": {
     "lbxd": null,
@@ -38853,7 +38909,8 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 1
   },
   "Tokyo Godfathers|2003": {
     "lbxd": {
@@ -39972,7 +40029,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0121330",
+      "extract_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974."
+    },
     "cinema": {}
   },
   "Domesticar Há Milénios|2018": {
@@ -39997,7 +40058,8 @@
     },
     "omdb": null,
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 1
   },
   "The Family and the Zombie|2021": {
     "lbxd": {
@@ -40060,7 +40122,8 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {}
+    "cinema": {},
+    "wiki_tries": 1
   },
   "Oh Be a Fine Girl Kiss Me|2026": {
     "lbxd": {
@@ -41988,10 +42051,15 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Wild One",
+      "imdb_id": "tt0047677",
+      "extract_pt": "The Wild One (bra/prt: O Selvagem) é um filme estadunidense de 1953, do gênero drama, dirigido por László Benedek, com roteiro de John Paxton e Ben Maddow baseado no conto \"The Ciclists' Raid\", de Frank Rooney, publicado na revista Harper's em janeiro de 1951."
+    },
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
-    }
+    },
+    "wiki_tries": 1
   },
   "Love With The Proper Stranger|1963": {
     "lbxd": {
@@ -42594,7 +42662,9 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "cinema": {}
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
   },
   "COPELAND|None": {
     "lbxd": null,
@@ -43467,7 +43537,8 @@
       "year": 2026,
       "country": "Espanha e França",
       "plot_pt": "Em Tânger, uma idosa espanhola luta contra a venda de sua casa pela filha. Enquanto tenta manter seu lar e resgatar seus pertences, acaba a redescobrir o amor e o desejo."
-    }
+    },
+    "wiki_tries": 1
   },
   "Jane B. Por Agnès V.|1988": {
     "lbxd": {
@@ -43578,7 +43649,13 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "cinema": {}
+    "cinema": {},
+    "wiki": {
+      "title_en": "The Shanghai Gesture",
+      "imdb_id": "tt0034175",
+      "extract_pt": "The Xangai Gesture (Brasil: Tensão em Xangai / Portugal: Aconteceu em Xangai) é um filme norte-americano de 1941, do gênero policial, dirigido por Josef von Sternberg e estrelado por Gene Tierney e Walter Huston."
+    },
+    "wiki_tries": 1
   },
   "SOY CUBA|None": {
     "lbxd": {
@@ -43634,7 +43711,9 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "cinema": {}
+    "cinema": {},
+    "wiki": null,
+    "wiki_tries": 1
   },
   "A PISCINA|None": {
     "lbxd": {
@@ -43691,7 +43770,13 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "cinema": {}
+    "cinema": {},
+    "wiki": {
+      "title_en": "La Piscine (film)",
+      "imdb_id": "tt0064816",
+      "extract_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand."
+    },
+    "wiki_tries": 1
   },
   "Algemas de Cristal|1987": {
     "lbxd": {
