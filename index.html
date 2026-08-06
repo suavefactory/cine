@@ -3,7 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sesh — sessões de cinema em Lisboa e Porto</title>
+  <title>sesh — sessões de cinema em Lisboa</title>
+  <meta name="description" content="Todas as sessões de cinema em Lisboa num só sítio. Cinemateca, Nimas, Ideal, São Jorge e Culturgest — com rating do Letterboxd, sinopse e horários actualizados todos os dias.">
+
+  <!-- Nome curto do site: sem isto o Google escolhia um texto qualquer da
+       página (aparecia "Hoje", que é o cabeçalho do dia) como título. -->
+  <meta property="og:site_name" content="sesh">
+  <meta property="og:title" content="sesh — sessões de cinema em Lisboa">
+  <meta property="og:description" content="Todas as sessões de cinema em Lisboa num só sítio, com rating do Letterboxd e sinopse. Actualizado todos os dias.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sesh.pt/">
+  <meta property="og:image" content="https://sesh.pt/assets/brand/icon-512.png">
+  <meta property="og:locale" content="pt_PT">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="sesh — sessões de cinema em Lisboa">
+  <meta name="twitter:description" content="Todas as sessões de cinema em Lisboa num só sítio, com rating do Letterboxd e sinopse.">
+  <meta name="twitter:image" content="https://sesh.pt/assets/brand/icon-512.png">
+  <link rel="canonical" href="https://sesh.pt/">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/brand/icon-32.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="assets/brand/icon-512.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/brand/icon-180.png">
+
+  <!-- Diz ao Google que o site se chama "sesh", para não inventar o título a
+       partir do conteúdo da página. -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "sesh",
+    "alternateName": "sesh.pt",
+    "url": "https://sesh.pt/",
+    "description": "Todas as sessões de cinema em Lisboa num só sítio, com rating do Letterboxd e sinopse."
+  }
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -60,7 +94,7 @@
       opacity: 0.22; mix-blend-mode: overlay; pointer-events: none;
     }
     header > * { position: relative; z-index: 1; }
-    .logo { flex: 1; }
+    .logo { flex: 1; margin: 0; font-size: 0; line-height: 0; }
     .logo img { height: 22px; display: block; }
     nav { display: flex; gap: 8px; }
     nav button {
@@ -688,12 +722,15 @@
 </svg>
 
 <header>
-  <div class="logo">
+  <!-- O logotipo é o h1 da página: sem um cabeçalho de topo, o Google
+       escolhia o texto mais destacado do conteúdo (o "Hoje" da agenda) para
+       título do resultado de pesquisa. -->
+  <h1 class="logo">
     <picture>
       <source media="(max-width: 720px)" srcset="assets/brand/sesh-mark.png">
-      <img src="assets/brand/sesh-logo.png" alt="sesh">
+      <img src="assets/brand/sesh-logo.png" alt="sesh — sessões de cinema em Lisboa">
     </picture>
-  </div>
+  </h1>
   <div class="header-controls">
     <div class="depth-toggle depth-toggle--lang" id="langToggle">
       <button class="dt-opt active" data-val="pt" onclick="setLang('pt')">PT</button>
