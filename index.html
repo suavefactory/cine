@@ -91,7 +91,7 @@
     header::after {
       content: ''; position: absolute; inset: 0; z-index: 0;
       background-image: var(--noise); background-size: 90px 90px;
-      opacity: 0.22; mix-blend-mode: overlay; pointer-events: none;
+      opacity: 0.10; mix-blend-mode: overlay; pointer-events: none;
     }
     header > * { position: relative; z-index: 1; }
     .logo { flex: 1; margin: 0; font-size: 0; line-height: 0; }
@@ -153,7 +153,7 @@
     .date-indicator::after {
       content: ''; position: absolute; inset: 0;
       background-image: var(--noise); background-size: 90px 90px;
-      opacity: 0.22; mix-blend-mode: overlay; pointer-events: none;
+      opacity: 0.10; mix-blend-mode: overlay; pointer-events: none;
     }
     /* Traços entre dias — só existem para separar no branco por preencher;
        ficam por baixo do preenchimento (clip inverso ao da faixa), por isso
@@ -232,7 +232,11 @@
 
     .day-header {
       display: flex; align-items: baseline; gap: 14px;
-      padding: 28px 0 18px;
+      /* O traço corre de ponta a ponta como o realce das sessões: recuo
+         negativo do tamanho da margem da página, com o mesmo valor de volta
+         no padding para o texto não sair do sítio. */
+      padding: 28px var(--gutter) 18px;
+      margin: 0 calc(var(--gutter) * -1);
       border-bottom: 2px solid var(--ink);
     }
     .day-header .dname { font-size: 22px; font-weight: 800; letter-spacing: -0.3px; }
@@ -644,18 +648,20 @@
     /* ── MOBILE ── */
     @media (max-width: 720px) {
       :root { --gutter: 20px; }
-      /* o header quebra para 2 linhas — logo+nav em cima, idioma/cidade
-         por baixo, sempre dentro do banner fixo (a altura é medida por JS,
-         não fixa, por isso adapta-se sozinha a este wrap) */
-      header { padding: 10px 16px; height: auto; flex-wrap: wrap; row-gap: 10px; }
-      .logo { order: 1; }
-      .logo img { height: 17px; }
-      nav { order: 2; }
-      nav button { height: 23px; padding: 0 10px; font-size: 10px; min-width: 88px; }
-      .header-controls { order: 3; flex-basis: 100%; justify-content: center; gap: 20px; }
-      .depth-toggle--lang { width: 22px; }
-      .depth-toggle--city { width: 62px; }
-      .dt-opt { font-size: 12px; }
+      /* Tudo numa linha só: logotipo à esquerda, e à direita idioma, cidade
+         e navegação. Cabe porque cada peça encolhe — antes quebrava para uma
+         segunda linha e o idioma e a cidade ficavam soltos a meio do banner. */
+      header { padding: 10px 14px; height: 52px; flex-wrap: nowrap; gap: 10px; }
+      .logo { flex: 1; min-width: 0; }
+      .logo img { height: 15px; }
+      nav { gap: 5px; flex-shrink: 0; }
+      nav button { height: 22px; padding: 0 8px; font-size: 9px; min-width: 62px; letter-spacing: 0.3px; }
+      .header-controls { gap: 12px; flex-shrink: 0; }
+      .depth-toggle { height: 17px; }
+      .depth-toggle--lang { width: 20px; }
+      .depth-toggle--city { width: 52px; }
+      .dt-opt { font-size: 11px; }
+      .dt-opt.back { font-size: 8px; }
       main { padding: 0 var(--gutter) 80px; }
 
       .date-chip { padding: 12px 0; }
@@ -1695,20 +1701,35 @@ function setSort(s) {
   const reduzido = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if (reduzido || !antes.size) return;
 
-  const cartoes = [...document.querySelectorAll('.movie-card')];
-  cartoes.forEach(el => {
+  // Só se anima o que está à vista, mais um ecrã de folga. Em desktop a
+  // grelha tem seis colunas e mais de cem cartões: animá-los todos punha o
+  // browser a trabalhar em coisas que ninguém vê, e o resultado tremia.
+  const alturaVista = window.innerHeight;
+  const margem = alturaVista;
+
+  document.querySelectorAll('.movie-card').forEach(el => {
+    const para = el.getBoundingClientRect();
+    if (para.bottom < -margem || para.top > alturaVista + margem) return;
+
     const de = antes.get(el.dataset.id);
     if (!de) {                       // filme que não estava na lista anterior
       el.animate([{ opacity: 0, transform: 'scale(.94)' }, { opacity: 1, transform: 'none' }],
                  { duration: 260, easing: 'cubic-bezier(.22,1,.36,1)' });
       return;
     }
-    const para = el.getBoundingClientRect();
     const dx = de.left - para.left, dy = de.top - para.top;
-    if (!dx && !dy) return;          // não se mexeu: não vale a pena animar
+    const dist = Math.hypot(dx, dy);
+    if (dist < 2) return;            // praticamente não se mexeu
+
+    // Duração conforme a distância: um cartão que atravessa o ecrã não pode
+    // levar o mesmo tempo que um que anda meia coluna, senão um arrasta-se e
+    // o outro salta. Cresce com a raiz da distância, que é como o olho espera
+    // que um objecto pesado se mova, e fica travada entre 260ms e 620ms.
+    const dur = Math.max(260, Math.min(620, 150 + Math.sqrt(dist) * 22));
+
     el.animate(
       [{ transform: `translate(${dx}px, ${dy}px)` }, { transform: 'none' }],
-      { duration: 420, easing: 'cubic-bezier(.2,.8,.2,1)' }
+      { duration: dur, easing: 'cubic-bezier(.22,1,.36,1)', fill: 'both' }
     );
   });
 }
