@@ -445,6 +445,9 @@
         display: flex; gap: 2px; padding: 0 20px 18px;
         overflow-x: auto; scroll-snap-type: x mandatory;
         -webkit-overflow-scrolling: touch;
+        /* Como no poster: sem isto o flex estica os filhos à altura da linha,
+           que aqui é zero, e o aspect-ratio nunca chega a valer. */
+        align-items: flex-start;
       }
       .modal-stills::-webkit-scrollbar { display: none; }
       .modal-still { flex: 0 0 78%; scroll-snap-align: start; }
