@@ -30960,6 +30960,11 @@
       "Website": "N/A",
       "Response": "True"
     },
+    "wiki": {
+      "title_en": "Persepolis (film)",
+      "imdb_id": "tt0808417",
+      "extract_pt": "Persepolis (bra/prt: Persépolis) é um filme francês de animação de 2007, baseado no romance gráfico autobiográfico homônimo de Marjane Satrapi. O filme foi escrito e dirigido por Satrapi e Vincent Paronnaud. Sua trama começa pouco antes da Revolução Iraniana, quando Marjane atinge a adolescência, e acaba quando ela é uma expatriada de 22 anos. O título é uma referência à cidade histórica de Persépolis."
+    },
     "cinema": {},
     "stills": [
       "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
@@ -34723,7 +34728,8 @@
       50.6,
       39.7,
       29.6
-    ]
+    ],
+    "wiki_tries": 1
   },
   "Johnny Guitar|1954": {
     "lbxd": {
@@ -35225,6 +35231,7 @@
       "https://image.tmdb.org/t/p/w1280/3ZrnnFAwpynccUEdGBdlEaJr2Y2.jpg"
     ],
     "tmdb_id": "186361",
+    "wiki_tries": 1,
     "stills_focus": [
       63.6,
       41.7
@@ -35438,7 +35445,13 @@
       44.8,
       43.6,
       24.9
-    ]
+    ],
+    "wiki": {
+      "title_en": "One Sings, the Other Doesn't",
+      "imdb_id": "tt0076855",
+      "extract_pt": "L'une chante, l'autre pas (prt/bra: Uma Canta, a Outra Não) é um filme do gênero drama francês realizado por Agnès Varda."
+    },
+    "wiki_tries": 1
   },
   "O Crime do Sr. Lange|1936": {
     "lbxd": null,
@@ -35650,7 +35663,8 @@
       37.4,
       19.9,
       26.1
-    ]
+    ],
+    "wiki_tries": 1
   },
   "Lola|1961": {
     "lbxd": {
@@ -36110,6 +36124,7 @@
       "https://image.tmdb.org/t/p/w1280/8yrymDMaJm5jCuQpypyyfAqdDJ1.jpg"
     ],
     "tmdb_id": "157160",
+    "wiki_tries": 1,
     "stills_focus": [
       42.6
     ]
@@ -37044,7 +37059,8 @@
       42.8,
       41.6,
       47.5
-    ]
+    ],
+    "wiki_tries": 1
   },
   "A Ópera-Mouffe|1958": {
     "lbxd": null,
@@ -37125,7 +37141,7 @@
       38.9
     ],
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Uma Mulher é Uma Mulher|1961": {
     "lbxd": {
@@ -38242,7 +38258,8 @@
       42.2,
       25.8,
       55.7
-    ]
+    ],
+    "wiki_tries": 1
   },
   "Paris Nous Appartient|1961": {
     "lbxd": {
@@ -38611,7 +38628,7 @@
       null
     ],
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Cartas Amarelas|2026": {
     "lbxd": {
@@ -40880,7 +40897,8 @@
       45.8,
       45.0,
       35.9
-    ]
+    ],
+    "wiki_tries": 1
   },
   "Tokyo Godfathers|2003": {
     "lbxd": {
@@ -41962,7 +41980,7 @@
       35.4
     ],
     "wiki": null,
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Hair|1979": {
     "lbxd": {
@@ -42326,6 +42344,7 @@
       "https://image.tmdb.org/t/p/w1280/zu0SKoINX6bdNMDWOe26FsG8Ahw.jpg"
     ],
     "tmdb_id": "186950",
+    "wiki_tries": 1,
     "stills_focus": [
       12.0
     ]
@@ -42408,6 +42427,7 @@
       "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
     ],
     "tmdb_id": "1104067",
+    "wiki_tries": 1,
     "stills_focus": [
       39.6
     ]
@@ -45486,7 +45506,8 @@
       39.6,
       49.7,
       43.5
-    ]
+    ],
+    "wiki_tries": 1
   },
   "COPELAND|None": {
     "lbxd": null,
@@ -46520,7 +46541,8 @@
       26.5,
       42.6,
       42.1
-    ]
+    ],
+    "wiki_tries": 1
   },
   "Jane B. Por Agnès V.|1988": {
     "lbxd": {
@@ -46659,7 +46681,13 @@
       35.3,
       33.3,
       23.9
-    ]
+    ],
+    "wiki": {
+      "title_en": "The Shanghai Gesture",
+      "imdb_id": "tt0034175",
+      "extract_pt": "The Xangai Gesture (Brasil: Tensão em Xangai / Portugal: Aconteceu em Xangai) é um filme norte-americano de 1941, do gênero policial, dirigido por Josef von Sternberg e estrelado por Gene Tierney e Walter Huston."
+    },
+    "wiki_tries": 1
   },
   "SOY CUBA|None": {
     "lbxd": {
@@ -46730,7 +46758,8 @@
       36.2,
       49.2,
       23.6
-    ]
+    ],
+    "wiki_tries": 1
   },
   "A PISCINA|None": {
     "lbxd": {
@@ -46801,7 +46830,13 @@
       18.7,
       44.0,
       28.0
-    ]
+    ],
+    "wiki": {
+      "title_en": "La Piscine (film)",
+      "imdb_id": "tt0064816",
+      "extract_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand."
+    },
+    "wiki_tries": 1
   },
   "Algemas de Cristal|1987": {
     "lbxd": {
