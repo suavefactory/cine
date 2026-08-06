@@ -12,6 +12,7 @@ import json, re, os, sys, unicodedata, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import cinema_meta
 import stills as stills_mod
+import focal
 
 OMDB_KEY   = "trilogy"
 CACHE_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "omdb_cache.json")
@@ -991,7 +992,13 @@ def resolve_imdb_id(title, year=None, director=None, original_title=None, filmo_
 
 # ── Enrich ─────────────────────────────────────────────────────────────────────
 
-def enrich(movies):
+def enrich(movies, from_scrapers=False):
+    """`from_scrapers` diz que os filmes vêm de correr os scrapers agora, e
+    não de reler o sessions.js. Só nesse caso o campo plot_pt do filme é de
+    facto a sinopse publicada pelo cinema (a API do Batalha traz-na); noutra
+    altura é o texto que o próprio enricher escreveu na corrida anterior, e
+    tomá-lo por sinopse do cinema fazia com que uma descrição errada se
+    realimentasse e nunca mais pudesse ser corrigida."""
     cache   = load_cache()
     filmo   = load_filmo_cache()
     changed = False
@@ -1045,7 +1052,14 @@ def enrich(movies):
         orig_title = movie.get("original_title") or meta.get("original_title")
         if orig_title and to_slug(orig_title) == to_slug(title):
             orig_title = None
-        cinema_plot_pt = movie.get("plot_pt") or meta.get("plot_pt")
+        # Sinopse do cinema vinda do scraper: guarda-se com o resto da ficha
+        # na primeira passagem, para nas seguintes vir sempre do cache.
+        if from_scrapers and movie.get("plot_pt") and not meta.get("plot_pt"):
+            meta["plot_pt"] = movie["plot_pt"]
+            if cached is not None:
+                cached.setdefault("cinema", {})["plot_pt"] = movie["plot_pt"]
+                changed = True
+        cinema_plot_pt = meta.get("plot_pt")
 
         # Tenta de novo sempre que ainda não há rating — antes disto, uma
         # falha (transitória ou por título só em PT sem match) ficava em
@@ -1067,9 +1081,19 @@ def enrich(movies):
                 lb   = lbxd_lookup(title, year, director=director)
                 omdb = omdb_lookup(title, year, director=director)
             elif needs_fields:
-                lb_new = lbxd_lookup(title, year, director=director)
-                if lb_new:
-                    lb = lb_new
+                # A pesquisa parte do título português, que para o cinema de
+                # repertório não encontra nada — foi o IMDb ID que resolveu
+                # estes filmes da primeira vez. Mas o título do Letterboxd
+                # ficou guardado, e por esse a página encontra-se à primeira:
+                # é assim que entradas antigas ganham os campos novos sem ser
+                # preciso refazer a resolução toda.
+                for q in (title, orig_title, (lb or {}).get("lb_title")):
+                    if not q:
+                        continue
+                    lb_new = lbxd_lookup(q, year, director=director)
+                    if lb_new:
+                        lb = lb_new
+                        break
 
             # Título original da programação do cinema — o Letterboxd indexa
             # por ele, por isso quando existe é a via mais directa e a que
@@ -1249,6 +1273,11 @@ def enrich(movies):
             movie["plot_pt"] = cinema_plot_pt
         elif wiki_pt:
             movie["plot_pt"] = wiki_pt
+        else:
+            # Sem fonte, o campo é limpo em vez de ficar com o que lá estava:
+            # de outro modo uma descrição rejeitada por errada continuava no
+            # site à mesma, só porque já tinha sido escrita uma vez.
+            movie.pop("plot_pt", None)
 
         # Título inglês (para a versão EN do site): Letterboxd primeiro (mais
         # fiável para cinema de autor/festival), fallback OMDB. Só grava se
@@ -1346,13 +1375,29 @@ def enrich(movies):
                 cached_stills = got
             if key in cache:
                 cache[key]["stills"] = cached_stills
+                cache[key].pop("stills_focus", None)   # focos deixam de bater
                 if tmdb_id:
                     cache[key]["tmdb_id"] = tmdb_id
                 changed = True
+        # Onde recortar cada fotograma para não decapitar ninguém. É o passo
+        # mais caro (descarrega e analisa a imagem), por isso fica em cache e
+        # só se refaz quando os próprios fotogramas mudam.
+        focus = entry.get("stills_focus")
+        if cached_stills and focus is None:
+            focus = focal.focus_for(cached_stills)
+            if key in cache:
+                cache[key]["stills_focus"] = focus
+                changed = True
+
         if cached_stills:
             movie["stills"] = cached_stills
+            if focus and any(f is not None for f in focus):
+                movie["stills_focus"] = focus
+            elif movie.get("stills_focus"):
+                del movie["stills_focus"]
         elif movie.get("stills"):
             del movie["stills"]
+            movie.pop("stills_focus", None)
 
         # País: Letterboxd sempre, fallback OMDB
         if lb and lb.get("country"):
@@ -1476,7 +1521,23 @@ def _extract_matches_film(extract, year, director):
     if director:
         dparts = strip_accents(director.lower()).split()
         last = dparts[-1] if dparts else ""
-        return bool(last) and last in strip_accents(e)
+        if not (last and last in strip_accents(e)):
+            return False
+        # O realizador sozinho não chega: quem tem obra extensa aparece em
+        # muitos artigos, e a pesquisa acerta no filme errado do mesmo autor
+        # ("A Saga de Anatahan", 1953, trazia "The Shanghai Gesture", 1941,
+        # também de von Sternberg). Se o excerto data o filme e nenhuma das
+        # datas bate com a que temos, é outro filme.
+        if year:
+            # Só interessa o ano colado à palavra "filme" — esse é o ano da
+            # obra. Os outros que aparecem no texto são quase sempre quando a
+            # história se passa ("Paris, 1960", num filme de 1962) e rejeitar
+            # por causa deles deitava fora descrições correctas.
+            m = (re.search(r"(?:filme|film)[^.]{0,60}?\b((?:19|20)\d{2})\b", e)
+                 or re.search(r"\b((?:19|20)\d{2})\b[^.]{0,30}?(?:filme|film)", e))
+            if m and abs(int(m.group(1)) - year) > 1:
+                return False
+        return True
     if year:
         return any(str(y) in e for y in (year, year - 1, year + 1))
     # Sem realizador nem ano para validar — não há como confirmar que é o

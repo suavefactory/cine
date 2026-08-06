@@ -32,6 +32,13 @@ jobs:
         with:
           python-version: '3.11'
 
+      # Só para o ponto focal dos fotogramas (detecção de caras). Se falhar,
+      # o enriquecimento corre na mesma: focal.py devolve None sem opencv e o
+      # site cai no enquadramento por omissão.
+      - name: Instalar dependências da detecção de caras
+        continue-on-error: true
+        run: pip install --quiet opencv-python-headless numpy
+
       - name: Correr scraper completo (sessões + enriquecimento)
         if: github.event.schedule != '10 8 * * *' && github.event.schedule != '20 8 * * *'
         env:

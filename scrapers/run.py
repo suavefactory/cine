@@ -203,7 +203,7 @@ def run():
     all_movies = fuzzy_merge(all_movies)
 
     print("\n[Enricher] A buscar posters e ratings...")
-    all_movies = enrich(all_movies)
+    all_movies = enrich(all_movies, from_scrapers=True)
 
     print("\n[Directors] A buscar fotos e bios de realizadores...")
     directors = build_directors(all_movies)

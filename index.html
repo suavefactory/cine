@@ -247,7 +247,7 @@
     .sthumb-track { display: flex; height: 100%; will-change: transform; }
     .sthumb-track img {
       flex: 0 0 100%; width: 100%; height: 100%;
-      object-fit: cover; display: block;
+      object-fit: cover; object-position: 50% var(--fy, 50%); display: block;
     }
     .session-row:hover .sthumb-track.loop {
       animation: sthumb-slide 7.5s linear infinite;
@@ -475,7 +475,9 @@
       /* Ancorada ao topo: o que sobra é cortado em baixo, onde o
          esbatimento já está a dissolver a imagem no vidro. Assim nunca se
          perde o cimo do enquadramento. */
-      object-fit: cover; object-position: top center;
+      /* --fy é a altura do ponto focal, calculada no scraper por detecção de
+         caras. Sem ela, 0% (topo) — nunca corta o cimo do enquadramento. */
+      object-fit: cover; object-position: 50% var(--fy, 0%);
       opacity: 0; transition: opacity .35s ease;
       /* Desvanece por máscara em vez de levar uma cor por cima: o que fica
          é o próprio vidro do painel, por isso não há degrau nenhum entre o
@@ -1206,7 +1208,10 @@ function renderAgenda() {
             const frames = shots.length > 1 ? [...shots, ...shots] : shots;
             const thumb = frames.length
               ? `<div class="sthumb"><div class="sthumb-track${shots.length > 1 ? ' loop' : ''}">${
-                  frames.map(u => `<img src="${u}" alt="" loading="lazy">`).join('')
+                  frames.map((u, i) => {
+                    const f = s.movie.stills_focus?.[i % shots.length];
+                    return `<img src="${u}"${f != null ? ` style="--fy:${f}%"` : ''} alt="" loading="lazy">`;
+                  }).join('')
                 }</div></div>`
               : `<div class="sthumb" style="background:${s.movie.bg}"></div>`;
             return `
@@ -1338,8 +1343,12 @@ function openModal(id) {
   const stillsEl = document.getElementById('modalStills');
   const dotsEl   = document.getElementById('modalHeroDots');
   const stills = m.stills ?? [];
+  const focus = m.stills_focus ?? [];
   stillsEl.innerHTML = stills
-    .map(u => `<div class="modal-still"><img src="${u}" alt="" loading="lazy"></div>`)
+    .map((u, i) => {
+      const fy = focus[i] != null ? ` style="--fy:${focus[i]}%"` : '';
+      return `<div class="modal-still"><img src="${u}"${fy} alt="" loading="lazy"></div>`;
+    })
     .join('');
   heroEl.style.display = stills.length ? '' : 'none';
   // Um único fotograma não é um carrossel — nesse caso os pontos só poluíam

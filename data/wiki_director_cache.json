@@ -1352,5 +1352,35 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Walter Hill": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Walter_Hill_1137_%28cropped%29.jpg/500px-Walter_Hill_1137_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Walter Hill (born January 10, 1942) is an American filmmaker, known for his action films and revival of the Western genre. He has directed such films as The Driver, The Warriors, Southern Comfort, 48 Hrs. and its sequel Another 48 Hrs., Streets of Fire and Red Heat, and wrote the screenplay for the crime drama The Getaway.",
+    "tries": 1
+  },
+  "Carla Andrade": {
+    "photo": null,
+    "bio": "photographer and artist",
+    "tries": 1
+  },
+  "Adriana Romero e Joana Patrão": {
+    "photo": null,
+    "bio": null,
+    "tries": 2
+  },
+  "Joana Patrão": {
+    "photo": null,
+    "bio": null,
+    "tries": 2
+  },
+  "Inês Nunes": {
+    "photo": null,
+    "bio": "researcher",
+    "tries": 1
+  },
+  "Jane Pollard, Iain Forsyth": {
+    "photo": null,
+    "bio": null,
+    "tries": 2
   }
 }
