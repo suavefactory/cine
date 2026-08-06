@@ -236,6 +236,26 @@
       width: 168px; aspect-ratio: 16/9; border-radius: 0;
       object-fit: cover; display: block; flex-shrink: 0;
       background: var(--surf2);
+      overflow: hidden;
+    }
+    /* Os fotogramas em fila; ao passar o cursor a fila desliza para a
+       esquerda em ciclo. A segunda metade é uma cópia da primeira, e a
+       animação pára exactamente a meio — é isso que faz o ciclo fechar sem
+       salto visível. */
+    .sthumb-track { display: flex; height: 100%; will-change: transform; }
+    .sthumb-track img {
+      flex: 0 0 100%; width: 100%; height: 100%;
+      object-fit: cover; display: block;
+    }
+    .session-row:hover .sthumb-track.loop {
+      animation: sthumb-slide 7.5s linear infinite;
+    }
+    @keyframes sthumb-slide {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-50%); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .session-row:hover .sthumb-track.loop { animation: none; }
     }
     .smovie { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
     .stitle  { font-size: 22px; font-weight: 700; line-height: 1.2; }
@@ -1169,11 +1189,16 @@ function renderAgenda() {
         <div class="sessions-list">
           ${sessions.map(s => {
             const c = cinema(s.cinema);
-            // Fotograma primeiro; o poster só entra quando não há stills, e
+            // Fotogramas primeiro; o poster só entra quando não há stills, e
             // aí é cortado para a mesma proporção para a coluna não saltar.
-            const shot = s.movie.stills?.[0] ?? s.movie.poster;
-            const thumb = shot
-              ? `<img class="sthumb" src="${shot}" alt="" loading="lazy">`
+            const shots = s.movie.stills?.length ? s.movie.stills : (s.movie.poster ? [s.movie.poster] : []);
+            // Com mais do que um, a fila é duplicada para o ciclo do hover
+            // fechar sem salto; os URLs repetidos saem da cache do browser.
+            const frames = shots.length > 1 ? [...shots, ...shots] : shots;
+            const thumb = frames.length
+              ? `<div class="sthumb"><div class="sthumb-track${shots.length > 1 ? ' loop' : ''}">${
+                  frames.map(u => `<img src="${u}" alt="" loading="lazy">`).join('')
+                }</div></div>`
               : `<div class="sthumb" style="background:${s.movie.bg}"></div>`;
             return `
               <div class="session-row" style="--c:${c.color}" onclick="openModal('${s.movie.id}')">
