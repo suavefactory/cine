@@ -443,7 +443,9 @@
     }
     .modal-stills::-webkit-scrollbar { display: none; }
     .modal-still {
-      flex: 0 0 100%; aspect-ratio: 16/9;
+      /* Altura travada em vez de 16/9 puro: à largura do painel isso dava
+         quase 600px e empurrava o título para fora da vista. */
+      flex: 0 0 100%; height: clamp(190px, 32vh, 340px);
       scroll-snap-align: center; overflow: hidden;
       background: rgba(255,255,255,0.06);
     }
