@@ -450,7 +450,10 @@
         align-items: flex-start;
       }
       .modal-stills::-webkit-scrollbar { display: none; }
-      .modal-still { flex: 0 0 78%; scroll-snap-align: start; }
+      /* Altura fixa e largura pela proporção, e não o contrário: um
+         flex-basis em percentagem com aspect-ratio não conta para a altura
+         do contentor, que colapsava e cortava as imagens. */
+      .modal-still { flex: 0 0 auto; height: 165px; scroll-snap-align: start; }
       .modal-title { font-size: 22px; }
       .modal-sessions { padding: 16px 20px 36px; }
       .modal-session-row { flex-wrap: wrap; row-gap: 5px; align-items: center; }
