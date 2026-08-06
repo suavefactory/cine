@@ -486,16 +486,21 @@
     .modal-meta { font-size: 13px; color: #777; }
 
     .modal-genres { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
+    /* Todas as etiquetas com a mesma altura: o rating tem a letra um ponto
+       maior que as outras e, com o mesmo padding, ficava mais alto. A altura
+       fixa com centragem resolve isso independentemente do tamanho da letra. */
+    .modal-genres > * {
+      height: 26px; padding: 0 12px;
+      display: inline-flex; align-items: center; justify-content: center;
+    }
     .modal-country-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.6px; font-weight: 700;
-      padding: 5px 12px;
     }
-    .modal-genres .genre-tag { padding: 5px 12px; }
     /* O rating mantém o lima da marca, mas como vidro tingido em vez de
        chapa opaca — a nota continua a ser o elemento mais forte da linha. */
     /* O rating mantém o lima da marca, como vidro tingido */
     .rating-tag {
-      font-size: 10px; font-weight: 800; padding: 5px 12px;
+      font-size: 10px; font-weight: 800;
       background: color-mix(in srgb, var(--acc) 68%, transparent);
       border-color: color-mix(in srgb, var(--acc) 88%, white);
       color: #14200a;
