@@ -352,6 +352,10 @@
     .modal-stills {
       display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px;
       padding: 0 32px 24px;
+      /* O modal é um flex em coluna e esta faixa declara overflow, o que põe
+         o seu min-height a zero — sem isto o modal comprimia-a até sumir em
+         vez de deixar a página fazer scroll. */
+      flex-shrink: 0;
     }
     .modal-still {
       aspect-ratio: 16/9; overflow: hidden; background: #1e1e1e;
