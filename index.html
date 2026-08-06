@@ -1450,20 +1450,35 @@ function stopStillsAutoplay() {
 function startStillsAutoplay(track, total) {
   stopStillsAutoplay();
   if (!track) return;
+  track.style.transition = '';
   track.style.transform = 'translateX(0)';
   if (total < 2) return;
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
 
-  const PRIMEIRA = 1000, PAUSA = 1400;   // igual ao ritmo do hover
+  // No modal a pessoa está a ler a ficha, não de passagem: cada fotograma
+  // fica o dobro do tempo do que fica no hover da agenda.
+  const PAUSA = 2800, DESLIZE = 620;
   let i = 0;
 
   const proximo = () => {
     if (!document.getElementById('modalOverlay').classList.contains('open')) return;
-    i = (i + 1) % total;
+    i++;
     track.style.transform = `translateX(-${i * 100}%)`;
+
+    if (i === total) {
+      // Está agora na cópia do primeiro. Assim que o deslize acabar, volta ao
+      // início sem transição — como a imagem é a mesma, não se vê nada.
+      setTimeout(() => {
+        track.style.transition = 'none';
+        track.style.transform = 'translateX(0)';
+        void track.offsetWidth;          // obriga o browser a assentar antes de repor
+        track.style.transition = '';
+        i = 0;
+      }, DESLIZE + 20);
+    }
     stillsTimer = setTimeout(proximo, PAUSA);
   };
-  stillsTimer = setTimeout(proximo, PRIMEIRA);
+  stillsTimer = setTimeout(proximo, PAUSA);
 }
 
 
@@ -1505,9 +1520,14 @@ function openModal(id) {
   const stillsEl = document.getElementById('modalStills');
   const stills = m.stills ?? [];
   const focus = m.stills_focus ?? [];
-  stillsEl.innerHTML = stills
+  // O primeiro fotograma é repetido no fim: ao chegar lá, a imagem é a mesma
+  // que a do início, e o salto de volta passa despercebido. É isso que deixa
+  // o ciclo andar sempre em frente em vez de recuar até ao princípio.
+  const seq = stills.length > 1 ? [...stills, stills[0]] : stills;
+  stillsEl.innerHTML = seq
     .map((u, i) => {
-      const fy = focus[i] != null ? ` style="--fy:${focus[i]}%"` : '';
+      const f = focus[i % stills.length];
+      const fy = f != null ? ` style="--fy:${f}%"` : '';
       return `<div class="modal-still"><img src="${u}"${fy} alt="" loading="lazy"></div>`;
     })
     .join('');
