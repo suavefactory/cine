@@ -62,6 +62,12 @@ def _medeia(url):
     f = obj.get("film") or {}
     if not f:
         return None
+    # A galeria do filme, quando existe: fotogramas 16:9 escolhidos pelo cinema
+    stills = []
+    for e in sorted(f.get("media") or [], key=lambda x: int(x.get("position") or 0)):
+        name = (e.get("image_name") or "").strip()
+        if name and int(e.get("image_width") or 0) > int(e.get("image_height") or 1):
+            stills.append("https://medeiafilmes.com/uploads/library/" + urllib.parse.quote(name))
     return {
         "original_title": (f.get("title_original") or "").strip() or None,
         "plot_pt":  _text(f.get("text")),
@@ -69,6 +75,7 @@ def _medeia(url):
         "genre":    (f.get("genre") or "").strip() or None,
         "year":     _year(f.get("production_year")),
         "director": (f.get("director_name") or "").strip() or None,
+        "stills":   stills or None,
     }
 
 

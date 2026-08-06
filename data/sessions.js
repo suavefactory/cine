@@ -488,7 +488,11 @@ window.CINEMA_DATA = {
       "plot": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
       "plot_pt": "“Hawks não deforma o real; é lá que escolhe os gestos, os instantes e os lugares que serão mais reveladores; um gesto de Dean Martin (Dude) passando a mão pelo rosto diz-nos mais sobre a personagem que todas as cenas de embriaguez que pudessem ser filmadas. Permite-nos imaginar a vida na cidade para além do que nos é mostrado […]”\n\r\n\r\nSerge Daney",
       "country": "USA",
-      "director_lbxd_slug": "howard-hawks"
+      "director_lbxd_slug": "howard-hawks",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/mv5bmtu4mtk4mty0ov5bml5banbnxkftztcwmzizntuynw_v1.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bmji2odk4ntiynf5bml5banbnxkftztcwmjizntuynw_v1.jpg"
+      ]
     },
     {
       "id": "nimas_sentimento-1954",
@@ -890,7 +894,12 @@ window.CINEMA_DATA = {
       "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
       "plot_pt": "María Ángeles, uma mulher espanhola de 79 anos, vive sozinha em Tânger, Marrocos, e desfruta da sua rotina diária, até que a chegada da filha, vinda de Madrid com intenção de vender o apartamento onde María sempre viveu, vira a sua vida do avesso. Determinada a ficar, faz tudo o que pode para recuperar a sua casa e os seus bens. Inesperadamente, redescobre também o amor e a sensualidade.",
       "country": "Morocco",
-      "director_lbxd_slug": "maryam-touzani"
+      "director_lbxd_slug": "maryam-touzani",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/mv5bnzuzogy3zjytyji3os00mdbmlwi3ngmtzjg1y2fhzjczztjlxkeyxkfqcgc_v1_fmjpg_ux1920.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bnzg2yjy2zditymnhys00mtezltg3nzatyzlky2uzoty2zdkzxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5by2rjnwjmywetmdqxyy00yziylwizmgetymi1odm2ymmzmdvjxkeyxkfqcgc_v1_fmjpg_ux2160.jpg"
+      ]
     },
     {
       "id": "nimas_tio-yanco-1967",
@@ -915,7 +924,12 @@ window.CINEMA_DATA = {
       "plot_pt": "Agnès Varda visita São Francisco para a promoção de um dos seus filmes, e conhece um familiar de quem nunca tinha ouvido falar. Este tio desconhecido vive num barco, é pintor, adoptou um modo de vida hippie e ama a vida. \n\r\n\r\n\r\n\r\n“Na periferia marítima de São Francisco, vive um grego num pequeno barco. Pinta cidades celestes e bizantinas. Navega num barco de vela latina. Recebe hippies e manifestantes no seu barco-casa. Descobri que ele era o meu tio da América e que homem maravilhoso ele era.” – Agnès Varda",
       "title_en": "Uncle Yanco",
       "country": "France",
-      "director_lbxd_slug": "agnes-varda"
+      "director_lbxd_slug": "agnes-varda",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/28626id_002_w1600.jpg",
+        "https://medeiafilmes.com/uploads/library/28626id_014_w1600.jpg",
+        "https://medeiafilmes.com/uploads/library/28626id_020_primary_w1600.jpg"
+      ]
     },
     {
       "id": "nimas_la-pointe-courte-1954",
@@ -1043,7 +1057,11 @@ window.CINEMA_DATA = {
       "plot": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
       "plot_pt": "Depois de 12 longos anos, Gregg Araki, um dos nomes maiores do cinema independente americano, regressa com um novo filme, fiel ao seu estilo sempre irreverente. Nesta moderna comédia sexual, Elliot (Cooper Hoffman), um jovem entediado e sexualmente frustrado, consegue o seu primeiro emprego como assistente de uma provocante artista, Erika Tracy (Olivia Wilde). As suas fantasias tornam-se realidade quando Erika o escolhe para ser a sua musa sexual.",
       "country": "USA",
-      "director_lbxd_slug": "gregg-araki"
+      "director_lbxd_slug": "gregg-araki",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/mv5bmtm3yzm0zjetmjzhmy00mjuxltg3ogqtogvhyjaxyjg3ztfkxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bzdmwndeyndutntdkzi00m2e2lwe1owetmmm5odnkmzgzzgjjxkeyxkfqcgc_v1_fmjpg_ux2160.jpg"
+      ]
     },
     {
       "id": "nimas_as-praias-de-agnes-2008",
@@ -1088,7 +1106,12 @@ window.CINEMA_DATA = {
       "plot_pt": "“Se abrissem pessoas, encontrariam paisagens. Se me abrissem, encontrariam praias”. Originalmente pensado como o adeus de Agnès Varda ao cinema, este auto-retrato encantador, realizado no seu octogésimo ano, é uma viagem livre pela sua vida e obra. Revisitando os lugares que a moldaram, das praias do Mar do Norte, na Bélgica, onde passou a infância, à aldeia mediterrânica de Pointe Courte onde fez o seu primeiro filme, passando pelos passeios marítimos de Los Angeles, onde viveu com o marido, Jacques Demy, Varda reflecte sobre uma vida inteira de criação e inspiração, sucessos e dificuldades, alegrias e desgostos. Repleto de imagens de espanto e fantasia, As Praias de Agnès é um registo lúdico e comovente de uma vida vivida plena e apaixonadamente em nome do cinema.\n\r\n\r\n\r\n\r\n\r\n\r\n“É uma ideia estranha encenar e filmar um auto-retrato quando se tem quase 80 anos. Esta ideia germinou na minha cabeça um dia, na praia de Noirmoutier, quando percebi que outras praias tinham marcado a minha vida. As praias tornaram-se o pretexto e os capítulos naturais do filme. Quis partilhar com os meus próximos e outros alguns acontecimentos e trabalhos do meu percurso de vida. E, mais ainda, virar os espelhos para os outros, aqueles que me moldaram, aqueles que encontrei, aqueles que amei.” – Agnès Varda",
       "title_en": "The Beaches of Agnès",
       "country": "France",
-      "director_lbxd_slug": "agnes-varda"
+      "director_lbxd_slug": "agnes-varda",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/9-lesplagesdagnesunfilmdevarda-cine-tamaris2008.jpg",
+        "https://medeiafilmes.com/uploads/library/522646015_18277308928287037_8793501804608882382_n.jpg",
+        "https://medeiafilmes.com/uploads/library/10---lesplagesd_agnesunfilmdevarda_c_cine-tamaris2008.jpg"
+      ]
     },
     {
       "id": "nimas_diario-de-um-paroco-de-aldeia-1951",
@@ -1179,7 +1202,12 @@ window.CINEMA_DATA = {
       "plot_pt": "A partir da escrita de Thomas Mann, esta é uma das mais belas obras filmadas nesta cidade que fascinou os grandes escritores, pintores e cineastas, e uma “obra-prima absoluta” segundo Freddy Buache.",
       "title_en": "Death in Venice",
       "country": "France",
-      "director_lbxd_slug": "luchino-visconti"
+      "director_lbxd_slug": "luchino-visconti",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/00409502.jpg",
+        "https://medeiafilmes.com/uploads/library/00409456.jpg",
+        "https://medeiafilmes.com/uploads/library/00409494.jpg"
+      ]
     },
     {
       "id": "nimas_o-meu-tio-1958",
@@ -1204,7 +1232,12 @@ window.CINEMA_DATA = {
       "plot_pt": "O senhor e a senhora Arpel têm uma casa moderna num quarteirão asséptico. Eles têm tudo, conseguiram tudo, na casa deles é tudo novo: o jardim é novo, a casa é nova, os livros são novos. Neste universo tão confortável, tão clean, tão high-tech, tão bem programado, o humor, os jogos e a sorte não têm lugar. E o filho Gérard aborrece-se de morte. É então que irrompe o irmão da senhora, o tio, o Sr. Hulot. Personagem inadaptada, habituada ao seu mundo caloroso, vai, para delírio do sobrinho, virar tudo de pernas para o ar.",
       "title_en": "Mon Oncle",
       "country": "France",
-      "director_lbxd_slug": "jacques-tati"
+      "director_lbxd_slug": "jacques-tati",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/o-meu-tio_1.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-meu-tio_2.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-meu-tio_3.jpeg"
+      ]
     },
     {
       "id": "nimas_a-minha-noite-em-casa-de-maud-1969",
@@ -1236,7 +1269,12 @@ window.CINEMA_DATA = {
       "plot_pt": "Neste conto erótico-filosófico sob influência, entre a graça e o livre-arbítrio de Pascal, o sentimento católico de Jean-Louis (Trintignant) é o grão de areia no encontro com a mulher mais livre da nouvelle vague, Françoise Fabian no papel de Maud, como escreveu Philippe Azoury. Foi o filme do sucesso americano de Rohmer.",
       "title_en": "My Night at Maud's",
       "country": "France",
-      "director_lbxd_slug": "eric-rohmer"
+      "director_lbxd_slug": "eric-rohmer",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/modelos-compete2020-feder13.jpg",
+        "https://medeiafilmes.com/uploads/library/photo-6-ma-nuit-chez-maud.jpg",
+        "https://medeiafilmes.com/uploads/library/photo-1-ma-nuit-chez-maud.jpg"
+      ]
     },
     {
       "id": "nimas_ao-longo-da-costa-1958",

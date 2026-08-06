@@ -347,6 +347,22 @@
       white-space: pre-line;
     }
 
+    /* Fotogramas do filme: três em linha, à largura toda do modal. Fica
+       vazio (display:none via JS) quando não há imagens para mostrar. */
+    .modal-stills {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px;
+      padding: 0 32px 24px;
+    }
+    .modal-still {
+      aspect-ratio: 16/9; overflow: hidden; background: #1e1e1e;
+      position: relative;
+    }
+    .modal-still img {
+      width: 100%; height: 100%; object-fit: cover; display: block;
+      opacity: 0; transition: opacity .35s ease;
+    }
+    .modal-still img.loaded { opacity: 1; }
+
     .modal-sessions { border-top: 1px solid #1e1e1e; padding: 20px 32px 32px; }
     .modal-sessions-title {
       font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;
@@ -423,6 +439,15 @@
       .modal-overlay.open .modal { transform: translateY(0); }
       .modal-top { flex-direction: column; align-items: center; gap: 20px; padding: 24px 20px 16px; }
       .modal-poster { width: 140px; }
+      /* Em ecrã pequeno três colunas dariam selos ilegíveis: passa a tira
+         horizontal, com o primeiro still já a sugerir que há mais ao lado. */
+      .modal-stills {
+        display: flex; gap: 2px; padding: 0 20px 18px;
+        overflow-x: auto; scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+      }
+      .modal-stills::-webkit-scrollbar { display: none; }
+      .modal-still { flex: 0 0 78%; scroll-snap-align: start; }
       .modal-title { font-size: 22px; }
       .modal-sessions { padding: 16px 20px 36px; }
       .modal-session-row { flex-wrap: wrap; row-gap: 5px; align-items: center; }
@@ -513,6 +538,7 @@
         <p class="modal-plot" id="modalPlot"></p>
       </div>
     </div>
+    <div class="modal-stills" id="modalStills"></div>
     <div class="modal-sessions">
       <div class="modal-sessions-title" id="modalSessionsTitle">Sessões</div>
       <div id="modalSessionsList"></div>
@@ -1151,6 +1177,20 @@ function openModal(id) {
   const plotTxt = moviePlot(m);
   plotEl.textContent = plotTxt ?? '';
   plotEl.style.display = plotTxt ? '' : 'none';
+
+  // Fotogramas do filme. Cada imagem só aparece depois de carregar, para não
+  // piscar meio-desenhada, e desaparece sozinha se o URL estiver morto —
+  // vale mais mostrar duas boas do que três com um buraco no meio.
+  const stillsEl = document.getElementById('modalStills');
+  const stills = m.stills ?? [];
+  stillsEl.innerHTML = stills
+    .map(u => `<div class="modal-still"><img src="${u}" alt="" loading="lazy"></div>`)
+    .join('');
+  stillsEl.style.display = stills.length ? '' : 'none';
+  stillsEl.querySelectorAll('img').forEach(img => {
+    img.addEventListener('load',  () => img.classList.add('loaded'));
+    img.addEventListener('error', () => img.parentElement.remove());
+  });
 
   // Sessões — agrega todas as entradas com o mesmo título normalizado
   const mNorm = normTitle(m.title);

@@ -11,6 +11,7 @@ import json, re, os, sys, unicodedata, time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import cinema_meta
+import stills as stills_mod
 
 OMDB_KEY   = "trilogy"
 CACHE_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "omdb_cache.json")
@@ -534,6 +535,10 @@ def _parse_lbxd_html(html):
     if desc_m:
         description = _unescape(desc_m.group(1)).strip()
 
+    # Backdrop 16:9 — serve de still quando não há melhor fonte
+    backdrop_m = re.search(r'data-backdrop2x="([^"]+)"', html)
+    backdrop = backdrop_m.group(1) if backdrop_m else None
+
     # Géneros: links /films/genre/X/ — preserva ordem, sem duplicados
     genre_slugs = list(dict.fromkeys(re.findall(r'href="/films/genre/([^/"]+)/"', html)))
     genres = [g.replace("-", " ").title() for g in genre_slugs] if genre_slugs else None
@@ -570,6 +575,7 @@ def _parse_lbxd_html(html):
         "lb_director_slug": director_slug,
         "lb_year":        lb_year,
         "lb_title":       lb_title,
+        "backdrop":       backdrop,
     }
 
 def lbxd_lookup(title, year=None, director=None):
@@ -1025,7 +1031,7 @@ def enrich(movies):
         # entradas cujo campo "lbxd" ainda não tem os campos mais recentes.
         needs_fields = cached and cached.get("lbxd") is not None and (
             "description" not in cached["lbxd"] or "country" not in cached["lbxd"]
-            or "lb_title" not in cached["lbxd"]
+            or "lb_title" not in cached["lbxd"] or "backdrop" not in cached["lbxd"]
         )
         needs_rating = cached is None or not (cached.get("lbxd") and cached["lbxd"].get("rating"))
 
@@ -1261,6 +1267,24 @@ def enrich(movies):
                 movie["title_en"] = title_en
             elif movie.get("title_en"):
                 del movie["title_en"]
+
+        # Stills: três fotogramas por filme. Ficam em cache com o resto porque
+        # a resolução é cara (duas chamadas ao TMDb) e as imagens não mudam.
+        cached_stills = (cached or {}).get("stills")
+        if cached_stills is None:
+            imdb_id = (omdb or {}).get("imdbID")
+            cached_stills = stills_mod.collect(
+                imdb_id=imdb_id if (imdb_id or "").startswith("tt") else None,
+                cinema_stills=meta.get("stills") or (),
+                letterboxd_backdrop=(lb or {}).get("backdrop"),
+            )
+            if key in cache:
+                cache[key]["stills"] = cached_stills
+                changed = True
+        if cached_stills:
+            movie["stills"] = cached_stills
+        elif movie.get("stills"):
+            del movie["stills"]
 
         # País: Letterboxd sempre, fallback OMDB
         if lb and lb.get("country"):
