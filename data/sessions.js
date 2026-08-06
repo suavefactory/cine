@@ -1885,9 +1885,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/jBORbmLMg8MdBEmG7W5uyd1wiiC.jpg"
       ],
       "stills_focus": [
-        43.3,
-        36.8,
-        50.5
+        43.4,
+        36.9,
+        50.4
       ],
       "country": "USA",
       "director_lbxd_slug": "paul-newman"
@@ -2653,7 +2653,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
       ],
       "stills_focus": [
-        47.0
+        47.2
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -2927,7 +2927,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         38.1,
-        43.6,
+        44.6,
         42.4
       ],
       "country": "France",
@@ -3122,7 +3122,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         30.1,
-        32.9
+        32.6
       ],
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
@@ -3236,7 +3236,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
       ],
       "stills_focus": [
-        30.1
+        30.2
       ],
       "country": "Algeria",
       "director_lbxd_slug": "luchino-visconti"
@@ -3880,7 +3880,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/4JmsnHsd92bjecfYiTLbljVOKjl.jpg"
       ],
       "stills_focus": [
-        49.4
+        49.5
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -8899,7 +8899,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mPiQYQipsNnXS1jcFvH2qBczmZh.jpg"
       ],
       "stills_focus": [
-        28.5,
+        28.7,
         34.2,
         44.7
       ],
