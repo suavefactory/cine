@@ -100,6 +100,23 @@ def _contrast_center_y(img):
     return float((rows * energy).sum() / energy.sum() / len(energy) * 100)
 
 
+def focus_from_image(img):
+    """Como focus_y, mas para uma imagem já carregada — evita descarregar duas
+    vezes quando quem chama já tem os pixels na mão."""
+    if img is None or img.size == 0:
+        return None
+    y = _faces_center_y(img)
+    if y is None:
+        try:
+            y = _contrast_center_y(img)
+        except Exception:
+            y = None
+    if y is None:
+        return None
+    y = float(y) * 0.88
+    return round(max(0.0, min(70.0, y)), 1)
+
+
 def focus_y(url):
     """Percentagem vertical para `object-position`, ou None se não der."""
     try:

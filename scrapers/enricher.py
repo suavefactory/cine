@@ -13,6 +13,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import cinema_meta
 import stills as stills_mod
 import focal
+import imgpick
 
 OMDB_KEY   = "trilogy"
 CACHE_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "omdb_cache.json")
@@ -1366,22 +1367,32 @@ def enrich(movies, from_scrapers=False):
                         break
                 if not tmdb_id and candidates:
                     tmdb_id = stills_mod.tmdb_ids_for(candidates[:1]).get(candidates[0])
-            got = stills_mod.collect(
+            # Pede-se folga (12 candidatos) porque a escolha a seguir deita
+            # fora arte promocional e imagens repetidas; sem folga, um filme
+            # com dois cartazes no topo da lista ficava com uma imagem só.
+            candidatos = stills_mod.collect(
                 tmdb_id=tmdb_id,
                 cinema_stills=meta.get("stills") or (),
                 letterboxd_backdrop=(lb or {}).get("backdrop"),
+                n=12,
             )
+            # Escolhe os fotogramas verdadeiros e distintos, e mede de caminho
+            # onde recortar cada um — as imagens já estão carregadas, não vale
+            # a pena descarregá-las outra vez só para o ponto focal.
+            picked = imgpick.pick(candidatos, poster_url=movie.get("poster"),
+                                  n=stills_mod.N_STILLS)
+            got   = [u for u, _ in picked]
+            focos = [f for _, f in picked]
             if got and len(got) >= len(cached_stills or []):
                 cached_stills = got
+                if key in cache:
+                    cache[key]["stills_focus"] = focos
             if key in cache:
                 cache[key]["stills"] = cached_stills
-                cache[key].pop("stills_focus", None)   # focos deixam de bater
                 if tmdb_id:
                     cache[key]["tmdb_id"] = tmdb_id
                 changed = True
-        # Onde recortar cada fotograma para não decapitar ninguém. É o passo
-        # mais caro (descarrega e analisa a imagem), por isso fica em cache e
-        # só se refaz quando os próprios fotogramas mudam.
+        # Filmes já em cache de antes desta escolha ainda não têm ponto focal.
         focus = entry.get("stills_focus")
         if cached_stills and focus is None:
             focus = focal.focus_for(cached_stills)

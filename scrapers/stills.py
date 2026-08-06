@@ -133,7 +133,12 @@ def from_tmdb(tmdb_id, n=N_STILLS):
 # ── Junta tudo ────────────────────────────────────────────────────────────────
 
 def collect(tmdb_id=None, cinema_stills=(), letterboxd_backdrop=None, n=N_STILLS):
-    """Até n imagens, da melhor fonte para a pior, sem repetidos."""
+    """Até n imagens, da melhor fonte para a pior, sem repetidos.
+
+    Pede-se mais do que o necessário porque a escolha final descarta arte
+    promocional e repetidos (ver imgpick) — sem folga, um filme com dois
+    cartazes no topo da lista acabava com uma imagem só.
+    """
     out = []
     candidates = list(from_tmdb(tmdb_id, n)) + list(cinema_stills or ())
     if letterboxd_backdrop:
