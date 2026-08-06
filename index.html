@@ -467,20 +467,26 @@
     .modal-still {
       /* Altura travada em vez de 16/9 puro: à largura do painel isso dava
          quase 600px e empurrava o título para fora da vista. */
-      flex: 0 0 100%; height: clamp(190px, 32vh, 340px);
+      flex: 0 0 100%; height: clamp(230px, 42vh, 440px);
       scroll-snap-align: center; overflow: hidden;
       background: rgba(255,255,255,0.06);
     }
     .modal-still img {
-      width: 100%; height: 100%; object-fit: cover; display: block;
+      width: 100%; height: 100%; display: block;
+      /* Ancorada ao topo: o que sobra é cortado em baixo, onde o
+         esbatimento já está a dissolver a imagem no vidro. Assim nunca se
+         perde o cimo do enquadramento. */
+      object-fit: cover; object-position: top center;
       opacity: 0; transition: opacity .35s ease;
     }
     .modal-still img.loaded { opacity: 1; }
     /* Esbatimento na base para a imagem entrar no vidro em vez de cortar a
        direito — é o que dá a sensação de o painel continuar a fotografia. */
     .modal-hero::after {
-      content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 45%;
-      background: linear-gradient(to bottom, transparent, rgba(16,16,18,0.92));
+      content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 62%;
+      background: linear-gradient(to bottom,
+        rgba(16,16,18,0) 0%, rgba(16,16,18,0.35) 45%,
+        rgba(16,16,18,0.8) 78%, rgba(16,16,18,0.97) 100%);
       pointer-events: none;
     }
     /* Pontos: sem eles não se percebe que há mais fotogramas ao lado */
