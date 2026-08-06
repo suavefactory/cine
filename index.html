@@ -565,17 +565,6 @@
         rgba(0,0,0,0) 100%);
     }
     .modal-still img.loaded { opacity: 1; }
-    /* Pontos: sem eles não se percebe que há mais fotogramas ao lado */
-    .modal-hero-dots {
-      position: absolute; bottom: 12px; left: 0; right: 0; z-index: 2;
-      display: flex; justify-content: center; gap: 6px; pointer-events: none;
-    }
-    .modal-hero-dots i {
-      width: 6px; height: 6px; border-radius: 999px;
-      background: rgba(255,255,255,0.4);
-      transition: background .2s, width .2s;
-    }
-    .modal-hero-dots i.on { background: var(--acc); width: 18px; }
 
     .modal-sessions { border-top: 1px solid rgba(245,245,242,0.12); padding: 20px 32px 32px; }
     .modal-sessions-title {
@@ -745,7 +734,6 @@
   <div class="modal" id="modal">
     <div class="modal-hero" id="modalHero">
       <div class="modal-stills" id="modalStills"></div>
-      <div class="modal-hero-dots" id="modalHeroDots"></div>
     </div>
     <div class="modal-top">
       <div class="modal-poster" id="modalPoster"></div>
@@ -1459,7 +1447,6 @@ function openModal(id) {
   // vale mais mostrar duas boas do que três com um buraco no meio.
   const heroEl   = document.getElementById('modalHero');
   const stillsEl = document.getElementById('modalStills');
-  const dotsEl   = document.getElementById('modalHeroDots');
   const stills = m.stills ?? [];
   const focus = m.stills_focus ?? [];
   stillsEl.innerHTML = stills
@@ -1469,17 +1456,11 @@ function openModal(id) {
     })
     .join('');
   heroEl.style.display = stills.length ? '' : 'none';
-  // Um único fotograma não é um carrossel — nesse caso os pontos só poluíam
-  dotsEl.innerHTML = stills.length > 1 ? stills.map((_, i) => `<i class="${i ? '' : 'on'}"></i>`).join('') : '';
   stillsEl.scrollLeft = 0;
   stillsEl.querySelectorAll('img').forEach(img => {
     img.addEventListener('load',  () => img.classList.add('loaded'));
     img.addEventListener('error', () => img.parentElement.remove());
   });
-  stillsEl.onscroll = () => {
-    const i = Math.round(stillsEl.scrollLeft / Math.max(stillsEl.clientWidth, 1));
-    dotsEl.querySelectorAll('i').forEach((d, k) => d.classList.toggle('on', k === i));
-  };
   startStillsAutoplay(stillsEl, stills.length);
 
   // Sessões — agrega todas as entradas com o mesmo título normalizado
