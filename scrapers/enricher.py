@@ -539,6 +539,12 @@ def _parse_lbxd_html(html):
     backdrop_m = re.search(r'data-backdrop2x="([^"]+)"', html)
     backdrop = backdrop_m.group(1) if backdrop_m else None
 
+    # O Letterboxd põe na página os links para o IMDb e para o TMDb do mesmo
+    # filme. São a ligação mais fiável que existe: já é a ficha certa, não há
+    # nada a adivinhar. O TMDb ID é o que vai buscar os stills.
+    imdb_m = re.search(r'imdb\.com/title/(tt\d+)', html)
+    tmdb_m = re.search(r'themoviedb\.org/(?:movie|tv)/(\d+)', html)
+
     # Géneros: links /films/genre/X/ — preserva ordem, sem duplicados
     genre_slugs = list(dict.fromkeys(re.findall(r'href="/films/genre/([^/"]+)/"', html)))
     genres = [g.replace("-", " ").title() for g in genre_slugs] if genre_slugs else None
@@ -576,6 +582,8 @@ def _parse_lbxd_html(html):
         "lb_year":        lb_year,
         "lb_title":       lb_title,
         "backdrop":       backdrop,
+        "imdb_id":        imdb_m.group(1) if imdb_m else None,
+        "tmdb_id":        tmdb_m.group(1) if tmdb_m else None,
     }
 
 def lbxd_lookup(title, year=None, director=None):
@@ -988,6 +996,21 @@ def enrich(movies):
     filmo   = load_filmo_cache()
     changed = False
 
+    # IMDb ID -> TMDb ID para todo o catálogo de uma vez. É daqui que vêm os
+    # stills, e uma consulta ao Wikidata resolve centenas de filmes — pedir um
+    # a um seria lento e desnecessário.
+    known_imdb = []
+    for m in movies:
+        c = cache.get(f"{m.get('title')}|{m.get('year')}") or {}
+        iid = ((c.get("omdb") or {}).get("imdbID") or "")
+        if iid.startswith("tt") and not c.get("tmdb_id"):
+            known_imdb.append(iid)
+    tmdb_map = {}
+    if known_imdb:
+        print(f"  [TMDb] a resolver {len(known_imdb)} IDs...", flush=True)
+        tmdb_map = stills_mod.tmdb_ids_for(known_imdb)
+        print(f"  [TMDb] {len(tmdb_map)} encontrados", flush=True)
+
     for idx, movie in enumerate(movies):
         title = movie.get("title", "")
         year  = movie.get("year")
@@ -1032,6 +1055,7 @@ def enrich(movies):
         needs_fields = cached and cached.get("lbxd") is not None and (
             "description" not in cached["lbxd"] or "country" not in cached["lbxd"]
             or "lb_title" not in cached["lbxd"] or "backdrop" not in cached["lbxd"]
+            or "tmdb_id" not in cached["lbxd"]
         )
         needs_rating = cached is None or not (cached.get("lbxd") and cached["lbxd"].get("rating"))
 
@@ -1270,16 +1294,60 @@ def enrich(movies):
 
         # Stills: três fotogramas por filme. Ficam em cache com o resto porque
         # a resolução é cara (duas chamadas ao TMDb) e as imagens não mudam.
-        cached_stills = (cached or {}).get("stills")
-        if cached_stills is None:
-            imdb_id = (omdb or {}).get("imdbID")
-            cached_stills = stills_mod.collect(
-                imdb_id=imdb_id if (imdb_id or "").startswith("tt") else None,
+        entry = cache.get(key) or {}
+        cached_stills = entry.get("stills")
+        # Retenta enquanto não houver as três imagens: um filme pode ganhar
+        # stills no TMDb depois de estreado, e uma falha de rede não pode
+        # deixá-lo para sempre com uma imagem só.
+        if cached_stills is None or len(cached_stills) < stills_mod.N_STILLS:
+            # O TMDb ID que vem da página do Letterboxd é o mais seguro: já é
+            # a ficha do filme certo. Depois o IMDb ID validado da Wikipédia,
+            # e só em último o do OMDB — a pesquisa por título do OMDB às
+            # vezes traz outro filme (dava tt5235748 para "Uma Mulher é Uma
+            # Mulher", que é do Godard e tem o ID tt0055572).
+            tmdb_id = (lb or {}).get("tmdb_id") or entry.get("tmdb_id")
+            # Os IDs que temos guardados nem sempre são do filme certo: o do
+            # OMDB vem de pesquisa por título, e o da Wikipédia é do artigo
+            # que a pesquisa acertou. Por isso cada candidato é confirmado
+            # contra a página do Letterboxd que já sabemos ser a correcta —
+            # se abrir o mesmo filme, o TMDb ID dessa página é de confiança.
+            if not tmdb_id:
+                candidates = [c for c in ((lb or {}).get("imdb_id"),
+                                          (wiki or {}).get("imdb_id"),
+                                          (omdb or {}).get("imdbID"))
+                              if c and str(c).startswith("tt")]
+                want_title = (lb or {}).get("lb_title")
+                want_year  = (lb or {}).get("lb_year") or year
+                for cand in dict.fromkeys(candidates):
+                    try:
+                        lb_i = lbxd_fetch_by_imdb(cand)
+                    except Exception:
+                        continue
+                    time.sleep(0.25)
+                    if not lb_i:
+                        continue
+                    # O título sozinho não distingue: "O Leopardo" tem o filme
+                    # do Visconti (1963) e a série de 2025, ambos "The
+                    # Leopard" no Letterboxd. O ano é que separa os dois.
+                    same_title = not want_title or lb_i.get("lb_title") == want_title
+                    same_year  = (not want_year or not lb_i.get("lb_year")
+                                  or abs(lb_i["lb_year"] - want_year) <= 1)
+                    if same_title and same_year and lb_i.get("tmdb_id"):
+                        tmdb_id = lb_i["tmdb_id"]
+                        break
+                if not tmdb_id and candidates:
+                    tmdb_id = stills_mod.tmdb_ids_for(candidates[:1]).get(candidates[0])
+            got = stills_mod.collect(
+                tmdb_id=tmdb_id,
                 cinema_stills=meta.get("stills") or (),
                 letterboxd_backdrop=(lb or {}).get("backdrop"),
             )
+            if got and len(got) >= len(cached_stills or []):
+                cached_stills = got
             if key in cache:
                 cache[key]["stills"] = cached_stills
+                if tmdb_id:
+                    cache[key]["tmdb_id"] = tmdb_id
                 changed = True
         if cached_stills:
             movie["stills"] = cached_stills
@@ -1430,7 +1498,12 @@ def _wikidata_claims(wikidata_id):
         claims = entity["entities"][wikidata_id].get("claims", {})
         imdb_id = None
         if "P345" in claims:
-            imdb_id = claims["P345"][0]["mainsnak"]["datavalue"]["value"]
+            val = claims["P345"][0]["mainsnak"]["datavalue"]["value"]
+            # P345 também existe em pessoas, e aí vem "nm..." em vez de "tt...".
+            # Quando o artigo encontrado é o do realizador em vez do do filme,
+            # era esse ID que saía daqui (caso real: "Viagem em Itália" ->
+            # nm0733689, que é o Rossellini).
+            imdb_id = val if str(val).startswith("tt") else None
         pub_year = None
         if "P577" in claims:
             try:

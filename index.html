@@ -9,6 +9,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
+      /* Margem lateral da página. As linhas da agenda usam-na em negativo
+         para o realce chegar às bordas do ecrã sem desalinhar o texto. */
+      --gutter: 48px;
       --bg:     #f5f5f2;
       --surf:   #ffffff;
       --surf2:  #e8e8e5;
@@ -25,9 +28,18 @@
     }
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
+    /* O gradiente fica no <html> para pintar a área de elástico do scroll:
+       ao puxar o site para lá do topo aparecia o branco do fundo por cima do
+       banner. Com o fundo do <html> definido, é ele que pinta essa zona. */
+    html {
+      scroll-behavior: smooth;
+      /* Gradiente só na metade de cima: o elástico do topo mostra o banner,
+         o de baixo continua a mostrar o fundo normal do site. */
+      background: var(--gradient) no-repeat top center / 100% 50vh, var(--bg);
+    }
     body {
       background: var(--bg);
+      min-height: 100vh;      /* cobre a viewport para o gradiente só se ver no elástico */
       color: var(--ink);
       font-family: 'Public Sans', sans-serif;
       -webkit-font-smoothing: antialiased;
@@ -40,6 +52,14 @@
       padding: 0 48px; height: 66px;
       display: flex; align-items: center; gap: 20px;
     }
+    /* Grão por cima do gradiente — o gradiente da marca nunca foi liso, tem
+       textura. Fica por baixo do conteúdo para não sujar o logo nem o texto. */
+    header::after {
+      content: ''; position: absolute; inset: 0; z-index: 0;
+      background-image: var(--noise); background-size: 90px 90px;
+      opacity: 0.22; mix-blend-mode: overlay; pointer-events: none;
+    }
+    header > * { position: relative; z-index: 1; }
     .logo { flex: 1; }
     .logo img { height: 22px; display: block; }
     nav { display: flex; gap: 8px; }
@@ -94,6 +114,13 @@
       pointer-events: none;
       z-index: 0;
     }
+    /* O mesmo grão do cabeçalho: é o mesmo gradiente, tem de ter a mesma
+       textura à medida que vai enchendo com o scroll. */
+    .date-indicator::after {
+      content: ''; position: absolute; inset: 0;
+      background-image: var(--noise); background-size: 90px 90px;
+      opacity: 0.22; mix-blend-mode: overlay; pointer-events: none;
+    }
     /* Traços entre dias — só existem para separar no branco por preencher;
        ficam por baixo do preenchimento (clip inverso ao da faixa), por isso
        desaparecem naturalmente à medida que o gradiente os cobre. */
@@ -112,17 +139,22 @@
       flex: 1;
       font-family: inherit; background: transparent; border: none;
       padding: 22px 0; text-align: center;
-      cursor: pointer; transition: background 0.15s;
+      cursor: pointer; transition: color 0.15s;
       color: var(--ink2);
     }
     /* .filled = já coberto pelo preenchimento; .current = o dia selecionado,
        mesmo que o preenchimento ainda não lá tenha chegado (senão não havia
        nenhum sinal de qual é o dia atual logo a seguir a um clique/salto). */
     .date-chip.filled, .date-chip.current { color: var(--acc); text-shadow: 0 1px 2px rgba(0,0,0,0.35); }
-    /* hover não pode ser opaco — tapava a faixa do gradiente por baixo */
-    .date-chip:hover { background: rgba(0,0,0,0.08); }
+    /* Sem realce de fundo: um rectângulo opaco tapava a faixa do gradiente.
+       O dia reage no próprio número — escurece e ganha sombra. */
+    .date-chip:not(.filled):not(.current):hover { color: var(--ink); }
+    .date-chip:hover .dd { text-shadow: 0 2px 6px rgba(0,0,0,0.35); }
+    /* Já preenchido pelo gradiente: a sombra escurece em vez de aclarar, para
+       o número continuar a destacar-se sobre a cor. */
+    .date-chip.filled:hover .dd, .date-chip.current:hover .dd { text-shadow: 0 2px 7px rgba(0,0,0,0.6); }
     .date-chip .dn { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 8px; }
-    .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; }
+    .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; transition: text-shadow 0.15s; }
     .date-chip .dm { display: none; }
 
     /* ── HEADER CONTROLS (idioma + cidade, agora dentro do banner) ──
@@ -154,7 +186,9 @@
     .soon-dot { display: inline-block; width: 4px; height: 4px; border-radius: 50%; background: var(--acc); flex-shrink: 0; }
 
     /* ── MAIN ── */
-    main { padding: 0 48px 100px; max-width: 1200px; margin: 0 auto; }
+    /* Largura toda do ecrã: sem limite de 1200px nem margens laterais, o
+       realce de cada sessão corre de ponta a ponta. */
+    main { padding: 0 var(--gutter) 100px; max-width: none; margin: 0; }
 
     /* ── AGENDA ── */
     .agenda-day { scroll-margin-top: 170px; }
@@ -176,10 +210,10 @@
       grid-template-columns: 90px 168px 1fr auto;
       align-items: center;
       gap: 40px;
-      /* Recuo negativo para o realce do hover respirar para fora da coluna
-         de texto, sem desalinhar a grelha. */
-      padding: 18px 20px;
-      margin: 0 -20px;
+      /* Recuo negativo do tamanho da margem da página: o realce chega às
+         bordas do ecrã sem desalinhar a grelha do texto. */
+      padding: 18px var(--gutter);
+      margin: 0 calc(var(--gutter) * -1);
       border-bottom: 1px solid var(--line);
       cursor: pointer;
       transition: background-color 0.18s ease, color 0.18s ease;
@@ -302,7 +336,7 @@
       background: rgba(16,16,18,0.68);
       color: #f0f0f0;
       border: 1px solid rgba(245,245,242,0.14);
-      border-radius: 0; width: 100%; max-width: 1060px; max-height: 94vh;
+      border-radius: 22px; width: 100%; max-width: 1060px; max-height: 94vh;
       overflow-y: auto; display: flex; flex-direction: column;
       -webkit-backdrop-filter: blur(30px) saturate(150%);
       backdrop-filter: blur(30px) saturate(150%);
@@ -315,6 +349,7 @@
     /* O mesmo grão dos botões, para o vidro não ficar liso de mais */
     .modal::before {
       content: ''; position: absolute; inset: 0; z-index: 0;
+      border-radius: inherit;   /* senão o grão escapa pelos cantos redondos */
       background-image: var(--noise); background-size: 100px 100px;
       opacity: 0.045; mix-blend-mode: overlay; pointer-events: none;
     }
@@ -324,7 +359,7 @@
     .modal-top { display: flex; gap: 32px; padding: 32px 32px 24px; }
     .modal-poster {
       flex-shrink: 0; width: 175px; aspect-ratio: 2/3;
-      border-radius: 0; overflow: hidden; background: rgba(255,255,255,0.06);
+      border-radius: 12px; overflow: hidden; background: rgba(255,255,255,0.06);
       /* Sem isto o flex estica o poster até à altura do texto ao lado e o
          aspect-ratio deixa de valer — sinopses longas esticavam a imagem. */
       align-self: flex-start;
@@ -337,7 +372,7 @@
     .modal-title  { font-size: 28px; font-weight: 800; line-height: 1.15; color: #fff; letter-spacing: -0.5px; }
     .modal-close  {
       flex-shrink: 0; width: 32px; height: 32px;
-      border: 1.5px solid rgba(245,245,242,0.22); border-radius: 0; background: rgba(255,255,255,0.05); cursor: pointer;
+      border: 1.5px solid rgba(245,245,242,0.22); border-radius: 999px; background: rgba(255,255,255,0.05); cursor: pointer;
       font-size: 16px; color: #555;
       display: flex; align-items: center; justify-content: center; transition: border-color 0.15s, color 0.15s;
     }
@@ -348,16 +383,36 @@
     .modal-genres { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
     .modal-country-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.6px; font-weight: 700;
-      padding: 4px 10px; border-radius: 0; background: rgba(255,255,255,0.08); color: #bdbdb8;
+      padding: 5px 12px; border-radius: 999px; color: #d8d8d2;
+      background: rgba(245,245,242,0.12);
+      border: 1px solid rgba(245,245,242,0.3);
+      -webkit-backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.28);
     }
-    .genre-tag {
+    .modal-genres .genre-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700;
-      padding: 4px 10px; border-radius: 0; border: 1px solid rgba(245,245,242,0.2); color: #a8a8a2;
+      padding: 5px 12px; border-radius: 999px; color: #c4c4be;
+      background: rgba(245,245,242,0.06);
+      border: 1px solid rgba(245,245,242,0.3);
+      -webkit-backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.22);
     }
+    /* O rating mantém o lima da marca, mas como vidro tingido em vez de
+       chapa opaca — a nota continua a ser o elemento mais forte da linha. */
     .rating-tag {
       font-size: 10px; font-weight: 800;
-      padding: 4px 10px; border-radius: 0;
-      background: var(--acc); color: #000;
+      padding: 5px 12px; border-radius: 999px;
+      background: color-mix(in srgb, var(--acc) 72%, transparent);
+      border: 1px solid color-mix(in srgb, var(--acc) 85%, white);
+      color: #0d1500;
+      -webkit-backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: blur(10px) saturate(160%);
+      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.45);
     }
     .modal-special-tag {
       font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
@@ -371,31 +426,50 @@
     }
     .modal-plot {
       font-size: 14px; line-height: 1.7; color: #888;
-      border-left: 2px solid rgba(245,245,242,0.22); padding: 8px 16px;
+      padding: 8px 0;
       /* As sinopses da programação dos cinemas vêm em vários parágrafos —
          sem isto o texto colava tudo numa única mancha. */
       white-space: pre-line;
     }
 
-    /* Fotogramas do filme: três em linha, à largura toda do modal. Fica
-       vazio (display:none via JS) quando não há imagens para mostrar. */
+    /* Fotogramas do filme como topo do modal: um de cada vez, à largura toda,
+       deslizando na horizontal. Substitui a tira pequena que estava no fim. */
+    .modal-hero { position: relative; flex-shrink: 0; }
     .modal-stills {
-      display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px;
-      padding: 0 32px 24px;
-      /* O modal é um flex em coluna e esta faixa declara overflow, o que põe
-         o seu min-height a zero — sem isto o modal comprimia-a até sumir em
-         vez de deixar a página fazer scroll. */
-      flex-shrink: 0;
+      display: flex; overflow-x: auto;
+      scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+      border-radius: 22px 22px 0 0;
+      align-items: flex-start;
     }
+    .modal-stills::-webkit-scrollbar { display: none; }
     .modal-still {
-      aspect-ratio: 16/9; overflow: hidden; background: rgba(255,255,255,0.06);
-      position: relative;
+      flex: 0 0 100%; aspect-ratio: 16/9;
+      scroll-snap-align: center; overflow: hidden;
+      background: rgba(255,255,255,0.06);
     }
     .modal-still img {
       width: 100%; height: 100%; object-fit: cover; display: block;
       opacity: 0; transition: opacity .35s ease;
     }
     .modal-still img.loaded { opacity: 1; }
+    /* Esbatimento na base para a imagem entrar no vidro em vez de cortar a
+       direito — é o que dá a sensação de o painel continuar a fotografia. */
+    .modal-hero::after {
+      content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 45%;
+      background: linear-gradient(to bottom, transparent, rgba(16,16,18,0.92));
+      pointer-events: none;
+    }
+    /* Pontos: sem eles não se percebe que há mais fotogramas ao lado */
+    .modal-hero-dots {
+      position: absolute; bottom: 12px; left: 0; right: 0; z-index: 2;
+      display: flex; justify-content: center; gap: 6px; pointer-events: none;
+    }
+    .modal-hero-dots i {
+      width: 6px; height: 6px; border-radius: 999px;
+      background: rgba(255,255,255,0.4);
+      transition: background .2s, width .2s;
+    }
+    .modal-hero-dots i.on { background: var(--acc); width: 18px; }
 
     .modal-sessions { border-top: 1px solid rgba(245,245,242,0.12); padding: 20px 32px 32px; }
     .modal-sessions-title {
@@ -440,6 +514,7 @@
 
     /* ── MOBILE ── */
     @media (max-width: 720px) {
+      :root { --gutter: 20px; }
       /* o header quebra para 2 linhas — logo+nav em cima, idioma/cidade
          por baixo, sempre dentro do banner fixo (a altura é medida por JS,
          não fixa, por isso adapta-se sozinha a este wrap) */
@@ -452,12 +527,12 @@
       .depth-toggle--lang { width: 22px; }
       .depth-toggle--city { width: 62px; }
       .dt-opt { font-size: 12px; }
-      main { padding: 0 20px 80px; }
+      main { padding: 0 var(--gutter) 80px; }
 
       .date-chip { padding: 12px 0; }
       .date-chip .dd { font-size: 20px; }
       .date-chip .dn { font-size: 9px; margin-bottom: 5px; }
-      .session-row { grid-template-columns: 58px 104px 1fr; gap: 16px; padding: 16px 12px; margin: 0 -12px; }
+      .session-row { grid-template-columns: 58px 104px 1fr; gap: 16px; padding: 16px var(--gutter); margin: 0 calc(var(--gutter) * -1); }
       .scinema { display: none; }
       .stime { font-size: 24px; letter-spacing: -1px; }
       .sthumb { width: 104px; height: auto; }
@@ -472,27 +547,18 @@
       /* Em telemóvel sobe de baixo e encosta às margens: a borda lateral do
          vidro só faria uma linha solta contra o rebordo do ecrã. */
       .modal {
-        border-radius: 0; max-height: 94vh; transform: translateY(100%);
+        border-radius: 22px 22px 0 0; max-height: 94vh; transform: translateY(100%);
         border-left: none; border-right: none; border-bottom: none;
       }
       .modal-overlay.open .modal { transform: translateY(0); }
       .modal-top { flex-direction: column; align-items: center; gap: 20px; padding: 24px 20px 16px; }
-      .modal-poster { width: 140px; }
-      /* Em ecrã pequeno três colunas dariam selos ilegíveis: passa a tira
-         horizontal, com o primeiro still já a sugerir que há mais ao lado. */
-      .modal-stills {
-        display: flex; gap: 2px; padding: 0 20px 18px;
-        overflow-x: auto; scroll-snap-type: x mandatory;
-        -webkit-overflow-scrolling: touch;
-        /* Como no poster: sem isto o flex estica os filhos à altura da linha,
-           que aqui é zero, e o aspect-ratio nunca chega a valer. */
-        align-items: flex-start;
-      }
-      .modal-stills::-webkit-scrollbar { display: none; }
-      /* Altura fixa e largura pela proporção, e não o contrário: um
-         flex-basis em percentagem com aspect-ratio não conta para a altura
-         do contentor, que colapsava e cortava as imagens. */
-      .modal-still { flex: 0 0 auto; height: 165px; scroll-snap-align: start; }
+      /* align-self: center repõe a centragem — o flex-start que impede o
+         poster de esticar em desktop encostava-o à esquerda no layout em
+         coluna do telemóvel. */
+      .modal-poster { width: 140px; align-self: center; }
+      /* O carrossel já ocupa a largura toda; em telemóvel só perde os cantos
+         redondos porque o painel encosta às margens. */
+      .modal-stills { border-radius: 0; }
       .modal-title { font-size: 22px; }
       .modal-sessions { padding: 16px 20px 36px; }
       .modal-session-row { flex-wrap: wrap; row-gap: 5px; align-items: center; }
@@ -571,6 +637,10 @@
 
 <div class="modal-overlay" id="modalOverlay" onclick="handleOverlayClick(event)">
   <div class="modal" id="modal">
+    <div class="modal-hero" id="modalHero">
+      <div class="modal-stills" id="modalStills"></div>
+      <div class="modal-hero-dots" id="modalHeroDots"></div>
+    </div>
     <div class="modal-top">
       <div class="modal-poster" id="modalPoster"></div>
       <div class="modal-info">
@@ -583,7 +653,6 @@
         <p class="modal-plot" id="modalPlot"></p>
       </div>
     </div>
-    <div class="modal-stills" id="modalStills"></div>
     <div class="modal-sessions">
       <div class="modal-sessions-title" id="modalSessionsTitle">Sessões</div>
       <div id="modalSessionsList"></div>
@@ -1229,16 +1298,25 @@ function openModal(id) {
   // Fotogramas do filme. Cada imagem só aparece depois de carregar, para não
   // piscar meio-desenhada, e desaparece sozinha se o URL estiver morto —
   // vale mais mostrar duas boas do que três com um buraco no meio.
+  const heroEl   = document.getElementById('modalHero');
   const stillsEl = document.getElementById('modalStills');
+  const dotsEl   = document.getElementById('modalHeroDots');
   const stills = m.stills ?? [];
   stillsEl.innerHTML = stills
     .map(u => `<div class="modal-still"><img src="${u}" alt="" loading="lazy"></div>`)
     .join('');
-  stillsEl.style.display = stills.length ? '' : 'none';
+  heroEl.style.display = stills.length ? '' : 'none';
+  // Um único fotograma não é um carrossel — nesse caso os pontos só poluíam
+  dotsEl.innerHTML = stills.length > 1 ? stills.map((_, i) => `<i class="${i ? '' : 'on'}"></i>`).join('') : '';
+  stillsEl.scrollLeft = 0;
   stillsEl.querySelectorAll('img').forEach(img => {
     img.addEventListener('load',  () => img.classList.add('loaded'));
     img.addEventListener('error', () => img.parentElement.remove());
   });
+  stillsEl.onscroll = () => {
+    const i = Math.round(stillsEl.scrollLeft / Math.max(stillsEl.clientWidth, 1));
+    dotsEl.querySelectorAll('i').forEach((d, k) => d.classList.toggle('on', k === i));
+  };
 
   // Sessões — agrega todas as entradas com o mesmo título normalizado
   const mNorm = normTitle(m.title);
