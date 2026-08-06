@@ -78,6 +78,23 @@ def _distance(a, b):
     return bin(a ^ b).count("1")
 
 
+
+def _face_count(img):
+    """Quantas caras a imagem tem. Um fotograma de cena quase sempre tem
+    alguma; a arte gráfica (a espiral do "Vertigo", por exemplo) não tem
+    nenhuma. Não serve para acusar — uma fotografia de mãos também dá zero —
+    mas serve para escolher primeiro o que é seguramente uma cena."""
+    try:
+        import focal
+        det = focal._get_detector((img.shape[1], img.shape[0]))
+        if det is None:
+            return -1
+        _, faces = det.detect(img)
+        return 0 if faces is None else len(faces)
+    except Exception:
+        return -1
+
+
 def pick(candidates, poster_url=None, n=3, focus=True, examine=8):
     """[(url, ponto_focal), ...] — até n fotogramas distintos e sem arte.
 
@@ -90,13 +107,26 @@ def pick(candidates, poster_url=None, n=3, focus=True, examine=8):
     except ImportError:
         return [(u, None) for u in candidates[:n]]
 
-    imgs = []
-    for url in candidates[:examine]:
-        img = _load(url)
-        if img is not None:
-            imgs.append((url, img))
+    # Descargas em paralelo: são oito imagens por filme e, uma de cada vez,
+    # o catálogo inteiro levava horas — o tempo é quase todo à espera da rede.
+    alvo = candidates[:examine]
+    try:
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(max_workers=6) as pool:
+            carregadas = list(pool.map(_load, alvo))
+    except Exception:
+        carregadas = [_load(u) for u in alvo]
+    imgs = [(u, im) for u, im in zip(alvo, carregadas) if im is not None]
     if not imgs:
         return []
+
+    # Fotogramas de cena primeiro. Sem isto, a arte que abre a lista do TMDb
+    # entrava só por vir em primeiro lugar — era o caso do "Vertigo", cuja
+    # primeira imagem é o cartaz sem o título e as seguintes são cenas.
+    com_cara = [(i, _face_count(im)) for i, (_, im) in enumerate(imgs)]
+    if any(c > 0 for _, c in com_cara):
+        ordem = sorted(range(len(imgs)), key=lambda i: (0 if com_cara[i][1] > 0 else 1, i))
+        imgs = [imgs[i] for i in ordem]
 
     # Quanto cada candidata se parece com o poster. O que interessa não é o
     # valor absoluto mas o destaque: a arte salta à vista no meio das outras.

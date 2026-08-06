@@ -205,6 +205,16 @@ def run():
     print("\n[Enricher] A buscar posters e ratings...")
     all_movies = enrich(all_movies, from_scrapers=True)
 
+    # Deduplicar outra vez. O enriquecimento corrige o ano a partir do
+    # Letterboxd, e dois registos do mesmo filme que antes diferiam no ano —
+    # e por isso escaparam à primeira passagem — ficam iguais depois dela.
+    # Era assim que o mesmo filme aparecia duas vezes na mesma sessão.
+    antes = len(all_movies)
+    all_movies = deduplicate(all_movies)
+    all_movies = fuzzy_merge(all_movies)
+    if len(all_movies) != antes:
+        print(f"[dedup pós-enriquecimento] {antes} → {len(all_movies)} filmes")
+
     print("\n[Directors] A buscar fotos e bios de realizadores...")
     directors = build_directors(all_movies)
     print(f"[Directors] {len(directors)} realizadores.")

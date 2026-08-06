@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-08-06T10:51:04.738301+00:00",
+  "generated": "2026-08-06T15:12:05.326120+00:00",
   "movies": [
     {
       "id": "sao_jorge_11239",
@@ -54,12 +54,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
         "https://image.tmdb.org/t/p/w1280/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
-        "https://image.tmdb.org/t/p/w1280/9paYrZw6mkwpO1U5mWRwOLWarXd.jpg"
+        "https://image.tmdb.org/t/p/w1280/5Y7zkgMtTWmESwROWgMWblNn3tD.jpg"
       ],
       "stills_focus": [
-        32.4,
+        32.3,
         48.8,
-        41.9
+        42.8
       ],
       "country": "USA",
       "director_lbxd_slug": "mike-nichols"
@@ -93,13 +93,13 @@ window.CINEMA_DATA = {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/ks9uOTNHUy9Kw51ucWulsvqEef5.jpg",
-        "https://image.tmdb.org/t/p/w1280/hOdRKaoRVOk7ePDDCo2xEbcL5yG.jpg",
-        "https://image.tmdb.org/t/p/w1280/hTC96Aq54QOuLcKkiAT0XE5Fmv3.jpg"
+        "https://image.tmdb.org/t/p/w1280/hTC96Aq54QOuLcKkiAT0XE5Fmv3.jpg",
+        "https://image.tmdb.org/t/p/w1280/1UXTWkXX3ExkTFTLJmtlJ4p7s1F.jpg"
       ],
       "stills_focus": [
         27.2,
-        41.6,
-        30.3
+        30.3,
+        23.5
       ],
       "country": "UK",
       "director_lbxd_slug": "otto-preminger"
@@ -241,13 +241,13 @@ window.CINEMA_DATA = {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
-        "https://image.tmdb.org/t/p/w1280/k16HBtd67XVwxp2G2B6ERcCyzGR.jpg",
-        "https://image.tmdb.org/t/p/w1280/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg"
+        "https://image.tmdb.org/t/p/w1280/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg",
+        "https://image.tmdb.org/t/p/w1280/qhRbhkw9aQMM3uqCt1F06vz5xXu.jpg"
       ],
       "stills_focus": [
-        23.1,
-        54.3,
-        23.7
+        23.0,
+        23.7,
+        24.9
       ],
       "country": "USA",
       "director_lbxd_slug": "jerome-robbins"
@@ -316,9 +316,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/jF2mPNoCqWruDmGHvtthuGT0B67.jpg"
       ],
       "stills_focus": [
-        45.4,
-        42.7,
-        32.7
+        45.9,
+        42.9,
+        32.5
       ],
       "country": "USA",
       "director_lbxd_slug": "robert-mulligan"
@@ -352,8 +352,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/epH5DFkXmyTtr7T1LEcxfDdSyPW.jpg"
       ],
       "stills_focus": [
-        30.2,
-        42.9,
+        30.1,
+        42.8,
         42.2
       ],
       "country": "USA",
@@ -390,12 +390,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/4wXArxer1R0gKbDw9Uly7HeK4hX.jpg",
         "https://image.tmdb.org/t/p/w1280/8WNTsc7l8JctV6nTPvMfW0eoFEw.jpg",
-        "https://image.tmdb.org/t/p/w1280/ezuwrGletXsU7XxIYbg7DjTBALC.jpg"
+        "https://image.tmdb.org/t/p/w1280/1tbI1qSsgVD8PO3FymdBNotLwEl.jpg"
       ],
       "stills_focus": [
         33.1,
         46.7,
-        42.7
+        10.4
       ],
       "country": "USA",
       "director_lbxd_slug": "robert-mulligan"
@@ -553,14 +553,14 @@ window.CINEMA_DATA = {
       "plot": "After his wife leaves him, a disillusioned director dives into the drug scene, trying anything his friend suggests.",
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/n59XVeuh9G8VHk0HhPg0eiQr3k8.jpg",
         "https://image.tmdb.org/t/p/w1280/iCMleCB6nzB9lea3XUydn9BYwhw.jpg",
-        "https://image.tmdb.org/t/p/w1280/4O62lFLA7Xdpa6y5lSFCM7HCMze.jpg"
+        "https://image.tmdb.org/t/p/w1280/4O62lFLA7Xdpa6y5lSFCM7HCMze.jpg",
+        "https://image.tmdb.org/t/p/w1280/nS7dE9K3tVEvmlGWVIZWmxOGev6.jpg"
       ],
       "stills_focus": [
-        38.4,
         22.7,
-        43.0
+        43.0,
+        29.1
       ],
       "country": "USA",
       "director_lbxd_slug": "roger-corman"
@@ -682,8 +682,18 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-08-06",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-06",
           "time": "22:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-07",
+          "time": "14:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-07",
@@ -692,13 +702,38 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-08-08",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-08",
           "time": "17:15",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-09",
+          "time": "17:00",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-09",
           "time": "22:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-10",
+          "time": "14:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-10",
@@ -709,6 +744,16 @@ window.CINEMA_DATA = {
           "date": "2026-08-11",
           "time": "13:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-11",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-12",
+          "time": "14:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-08-12",
@@ -731,13 +776,13 @@ window.CINEMA_DATA = {
       "plot_pt": "María Ángeles, uma mulher espanhola de 79 anos, vive sozinha em Tânger, Marrocos, e desfruta da sua rotina diária, até que a chegada da filha, vinda de Madrid com intenção de vender o apartamento onde María sempre viveu, vira a sua vida do avesso. Determinada a ficar, faz tudo o que pode para recuperar a sua casa e os seus bens. Inesperadamente, redescobre também o amor e a sensualidade.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-        "https://image.tmdb.org/t/p/w1280/7ftWLrXsdOPMQGOFlMplaBJbsqA.jpg",
-        "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg"
+        "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg",
+        "https://image.tmdb.org/t/p/w1280/bS2Mau9AN9cfof5lOO1sgc6jBN.jpg"
       ],
       "stills_focus": [
         26.5,
-        42.6,
-        25.5
+        25.5,
+        37.6
       ],
       "country": "Morocco",
       "director_lbxd_slug": "maryam-touzani"
@@ -855,6 +900,111 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "howard-hawks"
+    },
+    {
+      "id": "nimas_la-pointe-courte-1954",
+      "title": "La Pointe Courte",
+      "director": "Agnès Varda",
+      "year": 1955,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/4/11644-la-pointe-courte-0-500-0-750-crop.jpg?v=b6f78245c5",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/la-pointe-courte-1954",
+      "sessions": [
+        {
+          "date": "2026-08-06",
+          "time": "18:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-08",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-14",
+          "time": "16:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.7,
+      "plot": "A penetrating study of a marriage on the rocks, set against the backdrop of a small Mediterranean fishing village. Both a stylized depiction of the complicated relationship between a married couple and a documentary-like look at the daily struggles of the inhabitants of Sète in the South of France.",
+      "plot_pt": "Uma mulher chega ao bairro piscatório de La Pointe Courte, em Sète (sul de França), para informar o seu marido, natural do bairro, de que deseja o divórcio. Ao mesmo tempo que o casal conversa sobre o seu amor e a sua relação, a comunidade local enfrenta a pobreza quando a pesca é proibida pelas autoridades sanitárias. Entre a ficção e o documentário (conjugação que viria a ser recorrente na obra da cineasta), Agnès Varda concebeu assim um profundo estudo das tribulações de um casamento, e um olhar neo-realista sobre a vida da comunidade de La Pointe Courte, onde viveu durante a adolescência. La Pointe Courte é o primeiro filme de Agnès Varda e por muitos (como Georges Sadoul, um dos mais reputados historiadores de cinema) considerado como o verdadeiro primeiro filme da Nouvelle Vague, com uma modernidade inegável.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/qCm7JsnryHF0SCXTIvBB7k7oh5m.jpg",
+        "https://image.tmdb.org/t/p/w1280/iCXSQm3Yaao5Zrxbv0qJukYWzav.jpg",
+        "https://image.tmdb.org/t/p/w1280/bR2jifR8EQLUcM3RqJxTxg2YSSd.jpg"
+      ],
+      "stills_focus": [
+        29.4,
+        43.1,
+        33.4
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_sem-eira-nem-beira-1985",
+      "title": "Sem Eira Nem Beira",
+      "director": "Agnès Varda",
+      "year": 1985,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-500-0-750-crop.jpg?v=58e8e676c8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/sem-eira-nem-beira-1985",
+      "sessions": [
+        {
+          "date": "2026-08-08",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-18",
+          "time": "17:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.11,
+      "plot": "Mona Bergeron is dead, her frozen body found in a ditch in the French countryside. From this, the film flashes back to the weeks leading up to her death. Through these flashbacks, Mona gradually declines as she travels from place to place, taking odd jobs and staying with whomever will offer her a place to sleep. Mona is fiercely independent, craving freedom over comfort, but it is this desire to be free that will eventually lead to her demise.",
+      "plot_pt": "Numa manhã de Inverno, num campo no sul de França, uma mulher, Mona, é encontrada morta de frio numa valeta. O filme segue a história desta jovem à deriva através de flashbacks, contados por aqueles que a encontraram na sua errância. O olhar de Agnès Varda, com as suas imagens poéticas e austeras (inspiradas pelo movimento literário “Nouveau roman”), constrói um complexo e fragmentado retrato desta jovem e da vida à margem que ela escolheu.",
+      "title_en": "Vagabond",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tKsFh8qpYyi2AMg5O8QTVdChm4k.jpg",
+        "https://image.tmdb.org/t/p/w1280/tjFilF6lySyS4tKXuBYLFUeWKOC.jpg",
+        "https://image.tmdb.org/t/p/w1280/dsdw2dGnqv59onfnqd9CJw1mLK.jpg"
+      ],
+      "stills_focus": [
+        29.1,
+        20.9,
+        37.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_as-boas-mulheres-1960",
@@ -982,12 +1132,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
         "https://image.tmdb.org/t/p/w1280/8gBa8jMjvAFTudDbUU5rfKkYoFq.jpg",
-        "https://image.tmdb.org/t/p/w1280/4P1atiWoqPjj3Mpt5tZbGlsdTPT.jpg"
+        "https://image.tmdb.org/t/p/w1280/g6x8B3U8ZPUixEQsGloPBlFKac9.jpg"
       ],
       "stills_focus": [
         56.3,
         34.9,
-        44.7
+        29.6
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -1023,111 +1173,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_la-pointe-courte-1954",
-      "title": "La Pointe Courte",
-      "director": "Agnès Varda",
-      "year": 1955,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/4/11644-la-pointe-courte-0-500-0-750-crop.jpg?v=b6f78245c5",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/la-pointe-courte-1954",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "16:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-26",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.7,
-      "plot": "A penetrating study of a marriage on the rocks, set against the backdrop of a small Mediterranean fishing village. Both a stylized depiction of the complicated relationship between a married couple and a documentary-like look at the daily struggles of the inhabitants of Sète in the South of France.",
-      "plot_pt": "Uma mulher chega ao bairro piscatório de La Pointe Courte, em Sète (sul de França), para informar o seu marido, natural do bairro, de que deseja o divórcio. Ao mesmo tempo que o casal conversa sobre o seu amor e a sua relação, a comunidade local enfrenta a pobreza quando a pesca é proibida pelas autoridades sanitárias. Entre a ficção e o documentário (conjugação que viria a ser recorrente na obra da cineasta), Agnès Varda concebeu assim um profundo estudo das tribulações de um casamento, e um olhar neo-realista sobre a vida da comunidade de La Pointe Courte, onde viveu durante a adolescência. La Pointe Courte é o primeiro filme de Agnès Varda e por muitos (como Georges Sadoul, um dos mais reputados historiadores de cinema) considerado como o verdadeiro primeiro filme da Nouvelle Vague, com uma modernidade inegável.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qCm7JsnryHF0SCXTIvBB7k7oh5m.jpg",
-        "https://image.tmdb.org/t/p/w1280/iCXSQm3Yaao5Zrxbv0qJukYWzav.jpg",
-        "https://image.tmdb.org/t/p/w1280/bR2jifR8EQLUcM3RqJxTxg2YSSd.jpg"
-      ],
-      "stills_focus": [
-        29.4,
-        43.1,
-        33.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_sem-eira-nem-beira-1985",
-      "title": "Sem Eira Nem Beira",
-      "director": "Agnès Varda",
-      "year": 1985,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-500-0-750-crop.jpg?v=58e8e676c8",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sem-eira-nem-beira-1985",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-18",
-          "time": "17:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-26",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-06",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.11,
-      "plot": "Mona Bergeron is dead, her frozen body found in a ditch in the French countryside. From this, the film flashes back to the weeks leading up to her death. Through these flashbacks, Mona gradually declines as she travels from place to place, taking odd jobs and staying with whomever will offer her a place to sleep. Mona is fiercely independent, craving freedom over comfort, but it is this desire to be free that will eventually lead to her demise.",
-      "plot_pt": "Numa manhã de Inverno, num campo no sul de França, uma mulher, Mona, é encontrada morta de frio numa valeta. O filme segue a história desta jovem à deriva através de flashbacks, contados por aqueles que a encontraram na sua errância. O olhar de Agnès Varda, com as suas imagens poéticas e austeras (inspiradas pelo movimento literário “Nouveau roman”), constrói um complexo e fragmentado retrato desta jovem e da vida à margem que ela escolheu.",
-      "title_en": "Vagabond",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/tKsFh8qpYyi2AMg5O8QTVdChm4k.jpg",
-        "https://image.tmdb.org/t/p/w1280/tjFilF6lySyS4tKXuBYLFUeWKOC.jpg",
-        "https://image.tmdb.org/t/p/w1280/dsdw2dGnqv59onfnqd9CJw1mLK.jpg"
-      ],
-      "stills_focus": [
-        29.1,
-        20.9,
-        37.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
       "id": "nimas_tio-yanco-1967",
       "title": "Tio Yanco",
       "director": "Agnès Varda",
@@ -1151,57 +1196,13 @@ window.CINEMA_DATA = {
       "title_en": "Uncle Yanco",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/sera0zxXBfTtKuwacI6Rx7rbSWB.jpg",
-        "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg",
-        "https://image.tmdb.org/t/p/w1280/5uDGj2ap6hnDNsmVJNHPSB1TOsy.jpg"
+        "https://image.tmdb.org/t/p/w1280/kY8fJ4PtZhJQrgcCxu5mG7vK7PJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg"
       ],
       "stills_focus": [
         36.1,
-        32.6,
-        43.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_as-cento-e-uma-noites-de-simon-cinema-1994",
-      "title": "As Cento e uma Noites de Simon Cinéma",
-      "director": "Agnès Varda",
-      "year": 1995,
-      "duration": 135,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/6/0/8/78608-one-hundred-and-one-nights-0-500-0-750-crop.jpg?v=a00f304be7",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/as-cento-e-uma-noites-de-simon-cinema-1994",
-      "sessions": [
-        {
-          "date": "2026-08-07",
-          "time": "13:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-17",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.75,
-      "plot": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
-      "plot_pt": "Realizado a propósito do centenário da primeira sessão de cinema, Agnès Varda presta uma extraordinária homenagem ao cinema num filme pleno de humor e de imaginação. Um filme com um elenco do outro mundo, que vai de Anouk Aimée a Gina Lollobrigida, de Jean-Paul Belmondo a Robert De Niro, de Catherine Deneuve a Jean-Pierre Léaud (entre muitas, muitas outras estrelas).",
-      "title_en": "One Hundred and One Nights",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/oP6Eik48JT6YeGeEmVgyumP6ZVd.jpg",
-        "https://image.tmdb.org/t/p/w1280/dWBg9hUo946IXA2UWCEJz8DHinD.jpg"
-      ],
-      "stills_focus": [
-        34.8,
-        36.1
+        45.1,
+        32.6
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -1292,6 +1293,90 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_as-cento-e-uma-noites-de-simon-cinema-1994",
+      "title": "As Cento e uma Noites de Simon Cinéma",
+      "director": "Agnès Varda",
+      "year": 1995,
+      "duration": 135,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/6/0/8/78608-one-hundred-and-one-nights-0-500-0-750-crop.jpg?v=a00f304be7",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/as-cento-e-uma-noites-de-simon-cinema-1994",
+      "sessions": [
+        {
+          "date": "2026-08-07",
+          "time": "13:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.75,
+      "plot": "Monsieur Cinema, a hundred years old, lives alone in a large villa. His memories fade away, so he engages a young woman to tell him stories about all the movies ever made.",
+      "plot_pt": "Realizado a propósito do centenário da primeira sessão de cinema, Agnès Varda presta uma extraordinária homenagem ao cinema num filme pleno de humor e de imaginação. Um filme com um elenco do outro mundo, que vai de Anouk Aimée a Gina Lollobrigida, de Jean-Paul Belmondo a Robert De Niro, de Catherine Deneuve a Jean-Pierre Léaud (entre muitas, muitas outras estrelas).",
+      "title_en": "One Hundred and One Nights",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/oP6Eik48JT6YeGeEmVgyumP6ZVd.jpg",
+        "https://image.tmdb.org/t/p/w1280/dWBg9hUo946IXA2UWCEJz8DHinD.jpg"
+      ],
+      "stills_focus": [
+        34.8,
+        36.1
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_as-donzelas-fizeram-25-anos-1992",
+      "title": "As Donzelas Fizeram 25 Anos",
+      "director": "Les Demoiselles ont eu 25 ans",
+      "year": 1993,
+      "duration": 63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/6/6/0/143660-the-young-girls-turn-25-0-500-0-750-crop.jpg?v=369266c3a0",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
+      "sessions": [
+        {
+          "date": "2026-08-08",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "10:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.81,
+      "plot": "Agnes Varda's documentary of the celebrations arising from the 25th anniversary of her husband Jacques Demy's film The Young Girls of Rochefort.",
+      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin.",
+      "title_en": "The Young Girls Turn 25",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/hUOq759wTgNEfoK0XOW9hX6KWYq.jpg",
+        "https://image.tmdb.org/t/p/w1280/9vzwFhZf1thTyG1fFP2n9nqh5nS.jpg",
+        "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
+      ],
+      "stills_focus": [
+        38.3,
+        26.3,
+        28.2
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
       "id": "nimas_o-meu-tio-1958",
       "title": "O Meu Tio",
       "director": "Jacques Tati",
@@ -1369,6 +1454,46 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "eric-rohmer"
     },
     {
+      "id": "nimas_ao-longo-da-costa-1958",
+      "title": "Ao Longo da Costa",
+      "director": "Agnès Varda",
+      "year": 1958,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/6/5/5/167655-along-the-coast-0-500-0-750-crop.jpg?v=ad000755eb",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ao-longo-da-costa-1958",
+      "sessions": [
+        {
+          "date": "2026-08-08",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "10:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.96,
+      "plot": "Tongue-in-cheek look at the French Riviera, especially in summer when it overflows with tourists. Reviews its history and famous visitors; displays its faux-exotic buildings, its crowded beaches, its trees and monuments; and, pokes fun at the colors women wear and the vagaries of fashion. The film celebrates the use of \"Eden\" as a place name, suggesting that paradise comes to the coast after all are gone, perhaps only on a remote island beach.",
+      "plot_pt": "Ao Longo da Costa é uma visita turística e documental ao longo da Riviera. O exotismo, as cores do turismo, as do Carnaval e do Éden. Uma ilha. Chapéus-de-sol que se fecham, no final, ao som de uma bonita canção de Delerue. O filme é dedicado a André Bazin.\n\r\n\r\n\r\n\r\n\r\n\r\n“Ao Longo da Costa é um filme admirável (...). Diário de uma mulher espirituosa, enquanto vagueia entre Nice e Saint-Tropez, de onde nos envia um postal a cada plano para responder ao seu amigo Chris Marker. (...) Nunca esquecerei a maravilhosa panorâmica de ida e volta que segue um ramo de árvore retorcido sobre a areia até chegar às alpercatas vermelhas e azuis de Adão e Eva.”",
+      "title_en": "Along the Coast",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/bguxdTPPly2TWkaGE09sWvvdv5I.jpg",
+        "https://image.tmdb.org/t/p/w1280/aQUSJXY4Ay6UY8GO14qeMlOSQqb.jpg",
+        "https://image.tmdb.org/t/p/w1280/cdv70FwRUnfNmdWobCQf9ATYuRm.jpg"
+      ],
+      "stills_focus": [
+        26.8,
+        30.5,
+        44.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
       "id": "nimas_morte-em-veneza-1971",
       "title": "Morte em Veneza",
       "director": "Luchino Visconti",
@@ -1409,123 +1534,50 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luchino-visconti"
     },
     {
-      "id": "nimas_as-donzelas-fizeram-25-anos-1992",
-      "title": "As Donzelas Fizeram 25 Anos",
-      "director": "Les Demoiselles ont eu 25 ans",
-      "year": 1993,
-      "duration": 63,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/6/6/0/143660-the-young-girls-turn-25-0-500-0-750-crop.jpg?v=369266c3a0",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "10:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.81,
-      "plot": "Agnes Varda's documentary of the celebrations arising from the 25th anniversary of her husband Jacques Demy's film The Young Girls of Rochefort.",
-      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin.",
-      "title_en": "The Young Girls Turn 25",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/hUOq759wTgNEfoK0XOW9hX6KWYq.jpg",
-        "https://image.tmdb.org/t/p/w1280/9vzwFhZf1thTyG1fFP2n9nqh5nS.jpg",
-        "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
-      ],
-      "stills_focus": [
-        38.3,
-        26.3,
-        28.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_ao-longo-da-costa-1958",
-      "title": "Ao Longo da Costa",
+      "id": "nimas_a-felicidade-1964",
+      "title": "A Felicidade",
       "director": "Agnès Varda",
-      "year": 1958,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/6/5/5/167655-along-the-coast-0-500-0-750-crop.jpg?v=ad000755eb",
+      "year": 1965,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-500-0-750-crop.jpg?v=a14d5e2ec3",
       "genres": [
-        "Documentary"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/ao-longo-da-costa-1958",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "10:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.96,
-      "plot": "Tongue-in-cheek look at the French Riviera, especially in summer when it overflows with tourists. Reviews its history and famous visitors; displays its faux-exotic buildings, its crowded beaches, its trees and monuments; and, pokes fun at the colors women wear and the vagaries of fashion. The film celebrates the use of \"Eden\" as a place name, suggesting that paradise comes to the coast after all are gone, perhaps only on a remote island beach.",
-      "plot_pt": "Ao Longo da Costa é uma visita turística e documental ao longo da Riviera. O exotismo, as cores do turismo, as do Carnaval e do Éden. Uma ilha. Chapéus-de-sol que se fecham, no final, ao som de uma bonita canção de Delerue. O filme é dedicado a André Bazin.\n\r\n\r\n\r\n\r\n\r\n\r\n“Ao Longo da Costa é um filme admirável (...). Diário de uma mulher espirituosa, enquanto vagueia entre Nice e Saint-Tropez, de onde nos envia um postal a cada plano para responder ao seu amigo Chris Marker. (...) Nunca esquecerei a maravilhosa panorâmica de ida e volta que segue um ramo de árvore retorcido sobre a areia até chegar às alpercatas vermelhas e azuis de Adão e Eva.”",
-      "title_en": "Along the Coast",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/bguxdTPPly2TWkaGE09sWvvdv5I.jpg",
-        "https://image.tmdb.org/t/p/w1280/aQUSJXY4Ay6UY8GO14qeMlOSQqb.jpg",
-        "https://image.tmdb.org/t/p/w1280/cdv70FwRUnfNmdWobCQf9ATYuRm.jpg"
-      ],
-      "stills_focus": [
-        26.9,
-        30.5,
-        44.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_l-aventura-2025",
-      "title": "L’Aventura",
-      "director": "Sophie Letourneur",
-      "year": 2025,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/3/2/3/1198323-laventura-0-500-0-750-crop.jpg?v=3afec38f31",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/l-aventura-2025",
+      "link": "https://medeiafilmes.com/filmes/a-felicidade-1964",
       "sessions": [
         {
           "date": "2026-08-09",
-          "time": "12:30",
+          "time": "14:30",
           "cinema": "nimas"
         },
         {
-          "date": "2026-09-04",
-          "time": "15:30",
+          "date": "2026-08-23",
+          "time": "18:15",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-03",
+          "time": "16:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.5,
-      "plot": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
-      "plot_pt": "É o nosso filme de Verão, esta viagem à Sardenha de uma família francesa, que apaixonou a crítica e os espectadores. O cinema de Sophie Letourneur, entre a ficção e a realidade, e com um apurado sentido de mise-en-scène, revela-se em todo o seu esplendor neste filme divertido, terno, e por vezes melancólico, que capta a essência das férias estivais.",
+      "rating": 4.15,
+      "plot": "Though married to the good-natured, beautiful Thérèse, young husband and father François finds himself falling unquestioningly into an affair with an attractive postal worker. One of Agnès Varda's most provocative films, 'Le bonheur' examines, with a deceptively cheery palette and the spirited strains of Mozart, the ideas of fidelity and happiness in a modern, self-centered world.",
+      "plot_pt": "François, um jovem carpinteiro, casado com Thérèse e pai de dois filhos, é um homem feliz. Um dia, numa ida aos correios, conhece Émilie, por quem se apaixona. Ainda apaixonado pela sua esposa, François decide aumentar a sua felicidade e tem um caso com Émilie. Num dos seus filmes mais provocadores, Agnès Varda examina, com uma paleta de cores alegres, tons impressionistas sensuais e as notas vibrantes de Mozart, as ideias de fidelidade e felicidade num mundo moderno, focado no indivíduo.",
+      "title_en": "Le Bonheur",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/mKP4wapXPgIDVXrFZNzRQhPaExS.jpg",
-        "https://image.tmdb.org/t/p/w1280/oW0Hh4INOUFWIYxZXGm6HVZ9vdj.jpg",
-        "https://image.tmdb.org/t/p/w1280/fCmgziZVtyFT209eeswvEVGwOFh.jpg"
+        "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
+        "https://image.tmdb.org/t/p/w1280/3NN2lvLuoroRrSZMjiaLVPkoj03.jpg",
+        "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
       ],
       "stills_focus": [
-        45.9,
-        41.4,
-        43.6
+        35.2,
+        28.0,
+        23.7
       ],
       "country": "France",
-      "director_lbxd_slug": "sophie-letourneur"
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_o-leopardo-1963",
@@ -1562,7 +1614,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         28.7,
         22.9,
-        43.3
+        43.2
       ],
       "country": "France",
       "director_lbxd_slug": "luchino-visconti"
@@ -1653,6 +1705,88 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_ulisses-1982",
+      "title": "Ulisses",
+      "director": "Agnès Varda",
+      "year": 1983,
+      "duration": 22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/2/7/3/181273-ulysse-0-500-0-750-crop.jpg?v=0475a8eaf3",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ulisses-1982",
+      "sessions": [
+        {
+          "date": "2026-08-09",
+          "time": "11:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 2"
+          ]
+        },
+        {
+          "date": "2026-08-24",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "At the sea shore, a goat, a child, and a naked man. This is a photograph taken in 1954 by Agnès Varda. The goat was dead, the child was named Ulysses, and the man was naked. Starting from this frozen image, the film explores the real and the imaginary.",
+      "plot_pt": "À beira-mar, uma cabra, uma criança e um homem. É uma fotografia tirada por Agnès Varda em 1954: a cabra estava morta, a criança chamava-se Ulysse e o homem estava nu. A partir desta imagem fixa, tirada trinta anos antes, Agnès Varda explora o imaginário e o real.",
+      "title_en": "Ulysse",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
+        "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
+        "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
+      ],
+      "stills_focus": [
+        47.5,
+        41.6,
+        42.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_l-aventura-2025",
+      "title": "L’Aventura",
+      "director": "Sophie Letourneur",
+      "year": 2025,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/3/2/3/1198323-laventura-0-500-0-750-crop.jpg?v=3afec38f31",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/l-aventura-2025",
+      "sessions": [
+        {
+          "date": "2026-08-09",
+          "time": "12:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "15:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.5,
+      "plot": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
+      "plot_pt": "É o nosso filme de Verão, esta viagem à Sardenha de uma família francesa, que apaixonou a crítica e os espectadores. O cinema de Sophie Letourneur, entre a ficção e a realidade, e com um apurado sentido de mise-en-scène, revela-se em todo o seu esplendor neste filme divertido, terno, e por vezes melancólico, que capta a essência das férias estivais.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/mKP4wapXPgIDVXrFZNzRQhPaExS.jpg",
+        "https://image.tmdb.org/t/p/w1280/oW0Hh4INOUFWIYxZXGm6HVZ9vdj.jpg",
+        "https://image.tmdb.org/t/p/w1280/fCmgziZVtyFT209eeswvEVGwOFh.jpg"
+      ],
+      "stills_focus": [
+        45.8,
+        41.5,
+        43.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "sophie-letourneur"
+    },
+    {
       "id": "nimas_pedido-de-divorcio-1959",
       "title": "Pedido de Divórcio",
       "director": "Claude Chabrol",
@@ -1684,213 +1818,15 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/jrTSlvfg95kYZiQndKIFS4amCLo.jpg",
         "https://image.tmdb.org/t/p/w1280/5jVmJczVFI5WubbMJk27CUW3qjF.jpg",
-        "https://image.tmdb.org/t/p/w1280/zYVRk2Rwa6i0bJDrRcedbTqT2V0.jpg"
+        "https://image.tmdb.org/t/p/w1280/5jfsye346nrsjVQu9EavoLF0tKw.jpg"
       ],
       "stills_focus": [
         38.1,
         25.9,
-        39.3
+        36.0
       ],
       "country": "France",
       "director_lbxd_slug": "claude-chabrol"
-    },
-    {
-      "id": "nimas_ulisses-1982",
-      "title": "Ulisses",
-      "director": "Agnès Varda",
-      "year": 1983,
-      "duration": 22,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/2/7/3/181273-ulysse-0-500-0-750-crop.jpg?v=0475a8eaf3",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ulisses-1982",
-      "sessions": [
-        {
-          "date": "2026-08-09",
-          "time": "11:00",
-          "cinema": "nimas",
-          "labels": [
-            "Curtas — Programa 2"
-          ]
-        },
-        {
-          "date": "2026-08-24",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.92,
-      "plot": "At the sea shore, a goat, a child, and a naked man. This is a photograph taken in 1954 by Agnès Varda. The goat was dead, the child was named Ulysses, and the man was naked. Starting from this frozen image, the film explores the real and the imaginary.",
-      "plot_pt": "À beira-mar, uma cabra, uma criança e um homem. É uma fotografia tirada por Agnès Varda em 1954: a cabra estava morta, a criança chamava-se Ulysse e o homem estava nu. A partir desta imagem fixa, tirada trinta anos antes, Agnès Varda explora o imaginário e o real.",
-      "title_en": "Ulysse",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
-        "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
-        "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
-      ],
-      "stills_focus": [
-        41.6,
-        47.5,
-        42.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_a-felicidade-1964",
-      "title": "A Felicidade",
-      "director": "Agnès Varda",
-      "year": 1965,
-      "duration": 85,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-500-0-750-crop.jpg?v=a14d5e2ec3",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-felicidade-1964",
-      "sessions": [
-        {
-          "date": "2026-08-09",
-          "time": "14:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-23",
-          "time": "18:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-03",
-          "time": "16:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.15,
-      "plot": "Though married to the good-natured, beautiful Thérèse, young husband and father François finds himself falling unquestioningly into an affair with an attractive postal worker. One of Agnès Varda's most provocative films, 'Le bonheur' examines, with a deceptively cheery palette and the spirited strains of Mozart, the ideas of fidelity and happiness in a modern, self-centered world.",
-      "plot_pt": "François, um jovem carpinteiro, casado com Thérèse e pai de dois filhos, é um homem feliz. Um dia, numa ida aos correios, conhece Émilie, por quem se apaixona. Ainda apaixonado pela sua esposa, François decide aumentar a sua felicidade e tem um caso com Émilie. Num dos seus filmes mais provocadores, Agnès Varda examina, com uma paleta de cores alegres, tons impressionistas sensuais e as notas vibrantes de Mozart, as ideias de fidelidade e felicidade num mundo moderno, focado no indivíduo.",
-      "title_en": "Le Bonheur",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
-        "https://image.tmdb.org/t/p/w1280/3NN2lvLuoroRrSZMjiaLVPkoj03.jpg",
-        "https://image.tmdb.org/t/p/w1280/nISUQNqVHOU41svi3r30rlvHF9k.jpg"
-      ],
-      "stills_focus": [
-        35.2,
-        28.0,
-        46.6
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_a-opera-mouffe-1958",
-      "title": "A Ópera Mouffe",
-      "director": "Agnès Varda",
-      "year": 1958,
-      "duration": 16,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/9/8/6/78986-diary-of-a-pregnant-woman-0-500-0-750-crop.jpg?v=fcfbf5a549",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-opera-mouffe-1958",
-      "sessions": [
-        {
-          "date": "2026-08-10",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Impressions of the rue Mouffetard, Paris 5, through the eyes of a pregnant woman.",
-      "plot_pt": "Neste documentário estruturado como um diário, Agnès Varda filmou o bairro Mouffe, em Paris, a partir do ponto de vista de uma jovem grávida. Durante dois meses, a realizadora (também ela grávida) passeou pelo bairro e captou a sua fealdade e degradação de forma impressionista. Entre a observação documental e a imaginação poética, Varda dá-nos um documentário sensível e humano sobre os habitantes de Mouffe, e sobre os medos e sentimentos de uma mulher grávida.\n\r\n\r\n\r\n\r\n\r\n\r\n“Filmei A Ópera Mouffe em 1958, quando estava grávida. O filme não é o meu diário, mas o diário de uma mulher grávida no contexto de um documentário social. La Mouffe é o bairro em torno da Rua Mouffetard, um lugar antigo e sujo, ocupado por sem-abrigo, bêbados e pessoas esquecidas. Ali, mesmo ali, quando se está grávida, sente-se intensamente a contradição da gravidez: o absurdo incrível de desejar um bebé que poderá vir a tornar-se uma daquelas pessoas.” Agnès Varda",
-      "title_en": "Diary of a Pregnant Woman",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/gVsYUzSVwur2TRHvFI6WLAzMgMr.jpg",
-        "https://image.tmdb.org/t/p/w1280/gUNQLKZ0gvpY5IRqPjKqD6jKc97.jpg"
-      ],
-      "stills_focus": [
-        43.2,
-        32.5
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_a-coleccionadora-1967",
-      "title": "A Coleccionadora",
-      "director": "Éric Rohmer",
-      "year": 1967,
-      "duration": 83,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/1/1/3/49113-la-collectionneuse-0-500-0-750-crop.jpg?v=c7e5f2a7d1",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-coleccionadora-1967",
-      "sessions": [
-        {
-          "date": "2026-08-10",
-          "time": "16:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.79,
-      "plot": "A bombastic, womanizing art dealer and his painter friend go to a seventeenth-century villa on the Riviera for a relaxing summer getaway. But their idyll is disturbed by the presence of the bohemian Haydée, accused of being a “collector” of men.",
-      "plot_pt": "Em Saint-Tropez, dois amigos, um parasita elegante e um artista, encontram Haydée, uma rapariga bela e livre, que coleciona amantes de passagem.",
-      "title_en": "La Collectionneuse",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lEamKAOMyENqc97bEuwLFMvie8x.jpg",
-        "https://image.tmdb.org/t/p/w1280/geh2f8hCLap7kzH1VGiTlOwP9ap.jpg",
-        "https://image.tmdb.org/t/p/w1280/hUajmQsnSfL9zk93Ll3dyi0XExA.jpg"
-      ],
-      "stills_focus": [
-        43.6,
-        38.8,
-        38.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "eric-rohmer"
-    },
-    {
-      "id": "nimas_a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
-      "title": "A Influência dos Raios Gama no Comportamento das Margaridas",
-      "director": "Paul Newman",
-      "year": 1972,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/7/5/2/74752-the-effect-of-gamma-rays-on-man-in-the-moon-marigolds-0-500-0-750-crop.jpg?v=289bd1d2d3",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
-      "sessions": [
-        {
-          "date": "2026-08-10",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-05",
-          "time": "20:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.9,
-      "plot": "Middle-aged widow Beatrice Hunsdorfer and her daughters Ruth and Matilda are struggling to survive in a society they barely understand. Beatrice dreams of opening an elegant tea room but does not have the wherewithal to achieve her lofty goal. Epileptic Ruth is a rebellious adolescent, while shy but highly intelligent and idealistic Matilda seeks solace in her pets and school projects, including one designed to show how small amounts of radium affect marigolds.",
-      "plot_pt": "“Uma pequena frase resume bem uma emoção que o cinema americano, nas suas sagas e melodramas, nas séries de televisão e nos frescos familiares sempre soube destilar. E esta frase diz mais ou menos: ‘é a vida!...’ Há momentos assim, onde tudo se joga, onde a personagem compreende que jogou e foi jogada. […] Não resta senão [‘é a vida’] o último combate numa guerra perdida de um indivíduo face à imagem embaciada daquilo que acreditou ser o ‘seu’ destino e que é um capítulo na história dos outros. […] Há disso no filme do grande Paul Newman, A Influência dos Raios Gama…”\n\r\n\r\nSerge Daney",
-      "title_en": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
-        "https://image.tmdb.org/t/p/w1280/dvTBbq7Bw4opuJaOfDkUjNkncdT.jpg",
-        "https://image.tmdb.org/t/p/w1280/jBORbmLMg8MdBEmG7W5uyd1wiiC.jpg"
-      ],
-      "stills_focus": [
-        43.4,
-        36.9,
-        50.4
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "paul-newman"
     },
     {
       "id": "nimas_algumas-viuvas-de-noirmoutier-2006",
@@ -1979,6 +1915,115 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_a-opera-mouffe-1958",
+      "title": "A Ópera Mouffe",
+      "director": "Agnès Varda",
+      "year": 1958,
+      "duration": 16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/9/8/6/78986-diary-of-a-pregnant-woman-0-500-0-750-crop.jpg?v=fcfbf5a549",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-opera-mouffe-1958",
+      "sessions": [
+        {
+          "date": "2026-08-10",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Impressions of the rue Mouffetard, Paris 5, through the eyes of a pregnant woman.",
+      "plot_pt": "Neste documentário estruturado como um diário, Agnès Varda filmou o bairro Mouffe, em Paris, a partir do ponto de vista de uma jovem grávida. Durante dois meses, a realizadora (também ela grávida) passeou pelo bairro e captou a sua fealdade e degradação de forma impressionista. Entre a observação documental e a imaginação poética, Varda dá-nos um documentário sensível e humano sobre os habitantes de Mouffe, e sobre os medos e sentimentos de uma mulher grávida.\n\r\n\r\n\r\n\r\n\r\n\r\n“Filmei A Ópera Mouffe em 1958, quando estava grávida. O filme não é o meu diário, mas o diário de uma mulher grávida no contexto de um documentário social. La Mouffe é o bairro em torno da Rua Mouffetard, um lugar antigo e sujo, ocupado por sem-abrigo, bêbados e pessoas esquecidas. Ali, mesmo ali, quando se está grávida, sente-se intensamente a contradição da gravidez: o absurdo incrível de desejar um bebé que poderá vir a tornar-se uma daquelas pessoas.” Agnès Varda",
+      "title_en": "Diary of a Pregnant Woman",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/gUNQLKZ0gvpY5IRqPjKqD6jKc97.jpg",
+        "https://image.tmdb.org/t/p/w1280/gVsYUzSVwur2TRHvFI6WLAzMgMr.jpg"
+      ],
+      "stills_focus": [
+        32.5,
+        43.2
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_a-coleccionadora-1967",
+      "title": "A Coleccionadora",
+      "director": "Éric Rohmer",
+      "year": 1967,
+      "duration": 83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/1/1/3/49113-la-collectionneuse-0-500-0-750-crop.jpg?v=c7e5f2a7d1",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-coleccionadora-1967",
+      "sessions": [
+        {
+          "date": "2026-08-10",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.79,
+      "plot": "A bombastic, womanizing art dealer and his painter friend go to a seventeenth-century villa on the Riviera for a relaxing summer getaway. But their idyll is disturbed by the presence of the bohemian Haydée, accused of being a “collector” of men.",
+      "plot_pt": "Em Saint-Tropez, dois amigos, um parasita elegante e um artista, encontram Haydée, uma rapariga bela e livre, que coleciona amantes de passagem.",
+      "title_en": "La Collectionneuse",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/lEamKAOMyENqc97bEuwLFMvie8x.jpg",
+        "https://image.tmdb.org/t/p/w1280/geh2f8hCLap7kzH1VGiTlOwP9ap.jpg",
+        "https://image.tmdb.org/t/p/w1280/hUajmQsnSfL9zk93Ll3dyi0XExA.jpg"
+      ],
+      "stills_focus": [
+        43.6,
+        38.8,
+        38.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "eric-rohmer"
+    },
+    {
+      "id": "nimas_a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
+      "title": "A Influência dos Raios Gama no Comportamento das Margaridas",
+      "director": "Paul Newman",
+      "year": 1972,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/7/5/2/74752-the-effect-of-gamma-rays-on-man-in-the-moon-marigolds-0-500-0-750-crop.jpg?v=289bd1d2d3",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
+      "sessions": [
+        {
+          "date": "2026-08-10",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "20:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.9,
+      "plot": "Middle-aged widow Beatrice Hunsdorfer and her daughters Ruth and Matilda are struggling to survive in a society they barely understand. Beatrice dreams of opening an elegant tea room but does not have the wherewithal to achieve her lofty goal. Epileptic Ruth is a rebellious adolescent, while shy but highly intelligent and idealistic Matilda seeks solace in her pets and school projects, including one designed to show how small amounts of radium affect marigolds.",
+      "plot_pt": "“Uma pequena frase resume bem uma emoção que o cinema americano, nas suas sagas e melodramas, nas séries de televisão e nos frescos familiares sempre soube destilar. E esta frase diz mais ou menos: ‘é a vida!...’ Há momentos assim, onde tudo se joga, onde a personagem compreende que jogou e foi jogada. […] Não resta senão [‘é a vida’] o último combate numa guerra perdida de um indivíduo face à imagem embaciada daquilo que acreditou ser o ‘seu’ destino e que é um capítulo na história dos outros. […] Há disso no filme do grande Paul Newman, A Influência dos Raios Gama…”\n\r\n\r\nSerge Daney",
+      "title_en": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
+        "https://image.tmdb.org/t/p/w1280/dvTBbq7Bw4opuJaOfDkUjNkncdT.jpg",
+        "https://image.tmdb.org/t/p/w1280/jBORbmLMg8MdBEmG7W5uyd1wiiC.jpg"
+      ],
+      "stills_focus": [
+        43.4,
+        36.9,
+        50.4
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "paul-newman"
+    },
+    {
       "id": "nimas_os-indomaveis-1971",
       "title": "Os Indomáveis",
       "director": "Paul Newman",
@@ -2019,48 +2064,6 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "paul-newman"
-    },
-    {
-      "id": "nimas_a-mulher-que-viveu-duas-vezes-1958",
-      "title": "A Mulher Que Viveu Duas Vezes",
-      "director": "Alfred Hitchcock",
-      "year": 1958,
-      "duration": 128,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-500-0-750-crop.jpg?v=1403a5e003",
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-mulher-que-viveu-duas-vezes-1958",
-      "sessions": [
-        {
-          "date": "2026-08-11",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "16:45",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.22,
-      "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-      "plot_pt": "Um antigo detective da polícia de São Francisco tenta os seus demónios pessoais com a obsessão pela mulher de beleza perturbadora que foi contratado para seguir. E que poderá estar profundamente perturbada.",
-      "title_en": "Vertigo",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
-        "https://image.tmdb.org/t/p/w1280/7wt1DA7duYtUitwZs4ChV3VYGRx.jpg",
-        "https://image.tmdb.org/t/p/w1280/77aHwg1SCy89rfvQtiruPU58qEV.jpg"
-      ],
-      "stills_focus": [
-        40.6,
-        45.9,
-        52.4
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "alfred-hitchcock"
     },
     {
       "id": "nimas_as-criaturas-1966",
@@ -2112,6 +2115,94 @@ window.CINEMA_DATA = {
         28.0
       ],
       "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_a-mulher-que-viveu-duas-vezes-1958",
+      "title": "A Mulher Que Viveu Duas Vezes",
+      "director": "Alfred Hitchcock",
+      "year": 1958,
+      "duration": 128,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-500-0-750-crop.jpg?v=1403a5e003",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-mulher-que-viveu-duas-vezes-1958",
+      "sessions": [
+        {
+          "date": "2026-08-11",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-29",
+          "time": "16:45",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.22,
+      "plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "plot_pt": "Um antigo detective da polícia de São Francisco tenta os seus demónios pessoais com a obsessão pela mulher de beleza perturbadora que foi contratado para seguir. E que poderá estar profundamente perturbada.",
+      "title_en": "Vertigo",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/7wt1DA7duYtUitwZs4ChV3VYGRx.jpg",
+        "https://image.tmdb.org/t/p/w1280/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+        "https://image.tmdb.org/t/p/w1280/80ESwPTkj0QMLQiSf7jWCZ5mrTe.jpg"
+      ],
+      "stills_focus": [
+        45.9,
+        52.4,
+        11.1
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "alfred-hitchcock"
+    },
+    {
+      "id": "nimas_uma-canta-a-outra-nao-1976",
+      "title": "Uma Canta, a Outra Não",
+      "director": "Agnès Varda",
+      "year": 1977,
+      "duration": 120,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/2/3512-one-sings-the-other-doesn-t-0-500-0-750-crop.jpg?v=60319c6f13",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/uma-canta-a-outra-nao-1976",
+      "sessions": [
+        {
+          "date": "2026-08-12",
+          "time": "17:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-19",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.13,
+      "plot": "The intertwined lives of two women in 1970s France, set against the progress of the women's movement in which Agnes Varda was involved. Pomme and Suzanne meet when Pomme helps Suzanne obtain an abortion after a third pregnancy which she cannot afford. They lose contact but meet again ten years later. Pomme has become an unconventional singer, Suzanne a serious community worker - despite the contrast they remain friends and share in the various dramas of each others' lives, in the process affirming their different female identities.",
+      "plot_pt": "No início dos anos 60, em Paris, duas mulheres tornam-se amigas: Pauline é uma estudante de 17 anos que sonha tornar-se cantora; Suzanne é uma mãe de 22 anos que se ocupa dos seus dois filhos e de um pai com tendências suicidas. Pauline empresta dinheiro a Suzanne para fazer um aborto. Até ao seu reencontro, dez anos mais tarde, o filme segue, de forma alternada, as suas vidas paralelas no contexto das lutas do movimento feminista dos anos 60 e 70. Com Uma Canta, a Outra Não, Agnès Varda mostra-nos duas formas de ser mulher e dois modos da luta feminista.",
+      "title_en": "One Sings, the Other Doesn't",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tDOSQWVCRNrS9QfpHckzRtvSmPi.jpg",
+        "https://image.tmdb.org/t/p/w1280/1KxRCTeKX02oC9BlYb0hi8hfZOW.jpg",
+        "https://image.tmdb.org/t/p/w1280/4rsm4XzdcJNwMHbNUr9jqePYtD4.jpg"
+      ],
+      "stills_focus": [
+        44.8,
+        43.6,
+        24.9
+      ],
+      "country": "Belgium",
       "director_lbxd_slug": "agnes-varda"
     },
     {
@@ -2187,52 +2278,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "nicholas-ray"
     },
     {
-      "id": "nimas_uma-canta-a-outra-nao-1976",
-      "title": "Uma Canta, a Outra Não",
-      "director": "Agnès Varda",
-      "year": 1977,
-      "duration": 120,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/2/3512-one-sings-the-other-doesn-t-0-500-0-750-crop.jpg?v=60319c6f13",
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/uma-canta-a-outra-nao-1976",
-      "sessions": [
-        {
-          "date": "2026-08-12",
-          "time": "17:45",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-19",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.13,
-      "plot": "The intertwined lives of two women in 1970s France, set against the progress of the women's movement in which Agnes Varda was involved. Pomme and Suzanne meet when Pomme helps Suzanne obtain an abortion after a third pregnancy which she cannot afford. They lose contact but meet again ten years later. Pomme has become an unconventional singer, Suzanne a serious community worker - despite the contrast they remain friends and share in the various dramas of each others' lives, in the process affirming their different female identities.",
-      "plot_pt": "No início dos anos 60, em Paris, duas mulheres tornam-se amigas: Pauline é uma estudante de 17 anos que sonha tornar-se cantora; Suzanne é uma mãe de 22 anos que se ocupa dos seus dois filhos e de um pai com tendências suicidas. Pauline empresta dinheiro a Suzanne para fazer um aborto. Até ao seu reencontro, dez anos mais tarde, o filme segue, de forma alternada, as suas vidas paralelas no contexto das lutas do movimento feminista dos anos 60 e 70. Com Uma Canta, a Outra Não, Agnès Varda mostra-nos duas formas de ser mulher e dois modos da luta feminista.",
-      "title_en": "One Sings, the Other Doesn't",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/tDOSQWVCRNrS9QfpHckzRtvSmPi.jpg",
-        "https://image.tmdb.org/t/p/w1280/1KxRCTeKX02oC9BlYb0hi8hfZOW.jpg",
-        "https://image.tmdb.org/t/p/w1280/4rsm4XzdcJNwMHbNUr9jqePYtD4.jpg"
-      ],
-      "stills_focus": [
-        44.8,
-        43.6,
-        24.9
-      ],
-      "country": "Belgium",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
       "id": "nimas_uma-mulher-e-uma-mulher-1961",
       "title": "Uma Mulher é Uma Mulher",
       "director": "Jean-Luc Godard",
@@ -2306,6 +2351,43 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "roberto-rossellini"
     },
     {
+      "id": "nimas_fim-de-semana-no-ascensor-1958",
+      "title": "Fim-de-Semana no Ascensor",
+      "director": "Louis Malle",
+      "year": 1958,
+      "duration": 91,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/j3/vo/o5/mu/gHoiRDEEOyoWhlYDAIZ0xYxlhVV-0-500-0-750-crop.jpg?v=38770c3997",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/fim-de-semana-no-ascensor-1958",
+      "sessions": [
+        {
+          "date": "2026-08-13",
+          "time": "18:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.09,
+      "plot": "A self-assured businessman murders his employer, husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
+      "plot_pt": "Fim-de-Semana no Ascensor foi a estreia de Louis Malle na longa-metragem de ficção, depois de ter trabalhado com Jacques Cousteau. E não podia correr melhor, já que o filme receberia o Prémio Louis Delluc, para o melhor filme francês. Uma intriga policial em ambientes “à americana” (com música de Miles Davis e uma inquietante Jeanne Moreau), Fim-de-Semana era o prenúncio de que um “novo cinema” estava aí a chegar.",
+      "title_en": "Elevator to the Gallows",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/9rIlTFiQZMr5WOOGFqRZZ5lpyyw.jpg",
+        "https://image.tmdb.org/t/p/w1280/aTKvtg7KEXnbAPhQ2pF9KXO4oKM.jpg",
+        "https://image.tmdb.org/t/p/w1280/kfx1tleeZzEgSiV2vk8w9z91KJM.jpg"
+      ],
+      "stills_focus": [
+        27.7,
+        15.3,
+        23.1
+      ],
+      "country": "France",
+      "director_lbxd_slug": "louis-malle-2"
+    },
+    {
       "id": "nimas_amor-de-leao-1969",
       "title": "Amor de Leão",
       "director": "Agnès Varda",
@@ -2344,53 +2426,16 @@ window.CINEMA_DATA = {
       "title_en": "Lions Love",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/eilLY4PuoyEwFiKhKx79pVlFwTy.jpg",
-        "https://image.tmdb.org/t/p/w1280/cCQ18LSMtvX3xXjEJRUs0GxVpY2.jpg",
-        "https://image.tmdb.org/t/p/w1280/afBMH1C7xYXsRriwOb1N26Squ2V.jpg"
+        "https://image.tmdb.org/t/p/w1280/9aNkANEEBPlFCzCx8nAuQHILXot.jpg",
+        "https://image.tmdb.org/t/p/w1280/mZY8bWdGkBmFPu4UbOmCedYqH73.jpg"
       ],
       "stills_focus": [
         26.7,
-        46.9,
-        46.2
+        27.1,
+        50.9
       ],
       "country": "USA",
       "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_fim-de-semana-no-ascensor-1958",
-      "title": "Fim-de-Semana no Ascensor",
-      "director": "Louis Malle",
-      "year": 1958,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/j3/vo/o5/mu/gHoiRDEEOyoWhlYDAIZ0xYxlhVV-0-500-0-750-crop.jpg?v=38770c3997",
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fim-de-semana-no-ascensor-1958",
-      "sessions": [
-        {
-          "date": "2026-08-13",
-          "time": "18:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.09,
-      "plot": "A self-assured businessman murders his employer, husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
-      "plot_pt": "Fim-de-Semana no Ascensor foi a estreia de Louis Malle na longa-metragem de ficção, depois de ter trabalhado com Jacques Cousteau. E não podia correr melhor, já que o filme receberia o Prémio Louis Delluc, para o melhor filme francês. Uma intriga policial em ambientes “à americana” (com música de Miles Davis e uma inquietante Jeanne Moreau), Fim-de-Semana era o prenúncio de que um “novo cinema” estava aí a chegar.",
-      "title_en": "Elevator to the Gallows",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/r8fEOeDjlbtvaxYZ3QDh21gzpKh.jpg",
-        "https://image.tmdb.org/t/p/w1280/9rIlTFiQZMr5WOOGFqRZZ5lpyyw.jpg",
-        "https://image.tmdb.org/t/p/w1280/uYqqp2gPWkJdOZCzAogg9swBVRq.jpg"
-      ],
-      "stills_focus": [
-        49.6,
-        27.7,
-        54.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "louis-malle-2"
     },
     {
       "id": "nimas_violencia-e-paixao-1974",
@@ -2432,123 +2477,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "luchino-visconti"
-    },
-    {
-      "id": "nimas_ydessa-os-ursos-e-etc-2004",
-      "title": "Ydessa, os Ursos e etc.",
-      "director": "Agnès Varda",
-      "year": 2004,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/8/8/4/0/208840-ydessa-the-bears-and-etc--0-500-0-750-crop.jpg?v=f85730cf5a",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ydessa-os-ursos-e-etc-2004",
-      "sessions": [
-        {
-          "date": "2026-08-14",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.63,
-      "plot": "Ydessa Hendeles' exhibition entitled \"The living and the Artificial\" (consisting of works of art all comprising a photograph of living persons in the company of one or several teddy bears) had puzzled Agnès Varda so much that she decided to go to Toronto where the artist lives and interview her. In front of Agnes Varda's DV camera, Ydessa tells about the singularity of her artistic approach. She also expresses herself about the Holocaust, which both her parents survived.",
-      "plot_pt": "Em 2004, Agnès Varda descobriu a exposição «O Vivo e o Artificial», na Haus der Kunst, em Munique, comissariada pela artista e coleccionadora Ydessa Hendeles. Esta acumulação de milhares de fotografias anónimas, coladas nas paredes, tinha apenas um elemento em comum: a presença de um ursinho de peluche. A cineasta filmou a exposição e depois voou para Toronto para conhecer Ydessa e tentar compreender a sua obsessão.",
-      "title_en": "Ydessa, the Bears and etc.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
-      ],
-      "stills_focus": [
-        47.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_a-morena-ardente-1958",
-      "title": "A Morena Ardente",
-      "director": "Leo McCarey",
-      "year": 1958,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/3/2/4/89324-rally-round-the-flag-boys--0-500-0-750-crop.jpg?v=baee382376",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-morena-ardente-1958",
-      "sessions": [
-        {
-          "date": "2026-08-14",
-          "time": "18:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-29",
-          "time": "12:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.14,
-      "plot": "Harry Bannerman, a Connecticut suburbanite, becomes involved in various shenanigans when his wife Grace leads a protest movement against a secret army plan to set up a missile base in their community.",
-      "plot_pt": "A última e hilariante grande comédia de Leo McCarey, agora à volta da luta que trava uma mulher, à frente de uma comunidade contra a instalação na zona de uma base de mísseis, enquanto a \"pin up\" local vai seduzindo o seu marido.",
-      "title_en": "Rally 'Round the Flag, Boys!",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/zLsgIO2QmWhTgFGOURZBFkL17Vz.jpg",
-        "https://image.tmdb.org/t/p/w1280/jF1lbxE94FlaN6HOAkbnfgNsLfo.jpg",
-        "https://image.tmdb.org/t/p/w1280/oFevTS0Tqt2odpK649AbUBChfjz.jpg"
-      ],
-      "stills_focus": [
-        23.1,
-        21.9,
-        33.3
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "leo-mccarey"
-    },
-    {
-      "id": "nimas_t7-coz-wc-a-venda-1984",
-      "title": "T7,  Coz, WC… À VENDA",
-      "director": "Agnès Varda",
-      "year": 1984,
-      "duration": 28,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/8/5/175285-seven-rooms-kitchen-bathroom-for-sale-0-500-0-750-crop.jpg?v=b6725bf4a9",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/t7-coz-wc-a-venda-1984",
-      "sessions": [
-        {
-          "date": "2026-08-14",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.57,
-      "plot": "An unusual visit to a large, empty apartment. But is it empty or not? Maybe a family has lived there or is going to live there. Maybe a young girl is going to escape from there. Maybe some of the old-timers who lived there never left. The walls themselves tell the stories of the time passing by.",
-      "plot_pt": "A visita a um grande e vazio apartamento transforma-se numa deriva imaginária pelas vidas que o habitaram, e que talvez ainda o assombrem. Entre a comédia e o surrealismo, Agnès Varda filma as memórias e histórias suspensas deste espaço.",
-      "title_en": "Seven Rooms, Kitchen, Bathroom, for Sale",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
-        "https://image.tmdb.org/t/p/w1280/5eZoqvxtLy8sj1sRywUqsiCskEO.jpg",
-        "https://image.tmdb.org/t/p/w1280/5pRkyOm1LFmQVbHHlXJ6lUbt4fA.jpg"
-      ],
-      "stills_focus": [
-        36.8,
-        48.4,
-        25.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_fanny-e-alexandre-1982",
@@ -2700,6 +2628,46 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "leo-mccarey"
     },
     {
+      "id": "nimas_t7-coz-wc-a-venda-1984",
+      "title": "T7,  Coz, WC… À VENDA",
+      "director": "Agnès Varda",
+      "year": 1984,
+      "duration": 28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/8/5/175285-seven-rooms-kitchen-bathroom-for-sale-0-500-0-750-crop.jpg?v=b6725bf4a9",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/t7-coz-wc-a-venda-1984",
+      "sessions": [
+        {
+          "date": "2026-08-14",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.57,
+      "plot": "An unusual visit to a large, empty apartment. But is it empty or not? Maybe a family has lived there or is going to live there. Maybe a young girl is going to escape from there. Maybe some of the old-timers who lived there never left. The walls themselves tell the stories of the time passing by.",
+      "plot_pt": "A visita a um grande e vazio apartamento transforma-se numa deriva imaginária pelas vidas que o habitaram, e que talvez ainda o assombrem. Entre a comédia e o surrealismo, Agnès Varda filma as memórias e histórias suspensas deste espaço.",
+      "title_en": "Seven Rooms, Kitchen, Bathroom, for Sale",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
+        "https://image.tmdb.org/t/p/w1280/5eZoqvxtLy8sj1sRywUqsiCskEO.jpg",
+        "https://image.tmdb.org/t/p/w1280/5pRkyOm1LFmQVbHHlXJ6lUbt4fA.jpg"
+      ],
+      "stills_focus": [
+        36.8,
+        48.4,
+        25.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
       "id": "nimas_belissima-1951",
       "title": "Belíssima",
       "director": "Luchino Visconti",
@@ -2803,15 +2771,56 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/jLq0ol1f0ZKXni9R9GsPBcyPrNN.jpg",
         "https://image.tmdb.org/t/p/w1280/zbJcTaWAYJt6W1S5W3dUE8D9KTI.jpg",
-        "https://image.tmdb.org/t/p/w1280/y9pHdZ3j32cSJMCAgEUC3br5Hh3.jpg"
+        "https://image.tmdb.org/t/p/w1280/H8T7fNWS8Wadf6ERBMEHWYcFp7.jpg"
       ],
       "stills_focus": [
         25.4,
         19.5,
-        46.7
+        29.9
       ],
       "country": "Japan",
       "director_lbxd_slug": "yasujiro-ozu"
+    },
+    {
+      "id": "nimas_o-intruso-1976",
+      "title": "O Intruso",
+      "director": "Luchino Visconti",
+      "year": 1976,
+      "duration": 129,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/4/1/4/49414-the-innocent-0-500-0-750-crop.jpg?v=798ab16a9d",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
+      "sessions": [
+        {
+          "date": "2026-08-16",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-26",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.81,
+      "plot": "Tullio Hermil is a chauvinist aristocrat who flaunts his mistress to his wife, but when he believes she has been unfaithful he becomes enamored of her again.",
+      "plot_pt": "No contexto aristocrático da Itália do século XIX, Tulio pouco se importa se é visto com a sua amante em público. Porém, quando a mulher que negligenciara se envolve com um jovem romancista (personagem que se diz ser inspirada em Gabriele d’Annunzio, autor do romance homónimo que o filme adapta), o caso muda de figura. Último filme de Visconti, O Intruso retoma a linguagem característica do cineasta para uma combinação singular de opulência e depravação, num melodrama trágico em que a fragilidade dos arquétipos de masculinidade é, uma vez mais, desvelada.",
+      "title_en": "The Innocent",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/j1R4wGpgfgY219Z7cDDZQJOM6TI.jpg",
+        "https://image.tmdb.org/t/p/w1280/a6OW0pQdfqjGiSOWTWcBPA8YfrJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/jIoAQX5p73OyN08GW3m0C3IRNcz.jpg"
+      ],
+      "stills_focus": [
+        32.5,
+        31.0,
+        37.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_2001-odisseia-no-espaco-1968",
@@ -2843,14 +2852,14 @@ window.CINEMA_DATA = {
       "plot_pt": "O filme segue uma viagem a Júpiter após a descoberta de um monólito alienígena que afecta a evolução humana. Baseado em contos do co-argumentista Arthur C. Clark, o filme faz uso da temática da viagem ao espaço para tratar questões existenciais acerca da evolução humana, do desenvolvimento tecnológico e da possibilidade de criar inteligência artificial. Tecnicamente inovador e cientificamente rigoroso, Odisseia no Espaço é aclamado como um dos maiores e mais influentes filmes da história do cinema.",
       "title_en": "2001: A Space Odyssey",
       "stills": [
+        "https://image.tmdb.org/t/p/w1280/6gyZF4SeifiUUYDELkCS8nOqsu2.jpg",
         "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-        "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg",
-        "https://image.tmdb.org/t/p/w1280/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg"
+        "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg"
       ],
       "stills_focus": [
+        37.6,
         43.0,
-        39.9,
-        42.4
+        39.9
       ],
       "country": "UK",
       "director_lbxd_slug": "stanley-kubrick"
@@ -2934,124 +2943,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_stalker-1979",
-      "title": "Stalker",
-      "director": "Andrei Tarkovsky",
-      "year": 1979,
-      "duration": 162,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
-      "genres": [
-        "Drama",
-        "Science Fiction"
-      ],
-      "link": "https://medeiafilmes.com/filmes/stalker-1979",
-      "sessions": [
-        {
-          "date": "2026-08-16",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.39,
-      "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "plot_pt": "Na chamada \"Zona Proibida\" há rumores de que existe um quarto onde os mais íntimos desejos são realizados. Um badalado escritor e um professor autoritário partem em busca deste quarto, cada um com as suas razões, que preferem não revelar. São guiados por Stalker – o guia da Zona, que é tanto um santo tolo como o apóstolo de uma nova fé.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-        "https://image.tmdb.org/t/p/w1280/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
-        "https://image.tmdb.org/t/p/w1280/mCilWem3lYS16WcE5Idje5Q4lIM.jpg"
-      ],
-      "stills_focus": [
-        34.8,
-        38.6,
-        41.3
-      ],
-      "country": "USSR",
-      "director_lbxd_slug": "andrei-tarkovsky"
-    },
-    {
-      "id": "nimas_o-intruso-1976",
-      "title": "O Intruso",
-      "director": "Luchino Visconti",
-      "year": 1976,
-      "duration": 129,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/4/1/4/49414-the-innocent-0-500-0-750-crop.jpg?v=798ab16a9d",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
-      "sessions": [
-        {
-          "date": "2026-08-16",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-26",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.81,
-      "plot": "Tullio Hermil is a chauvinist aristocrat who flaunts his mistress to his wife, but when he believes she has been unfaithful he becomes enamored of her again.",
-      "plot_pt": "No contexto aristocrático da Itália do século XIX, Tulio pouco se importa se é visto com a sua amante em público. Porém, quando a mulher que negligenciara se envolve com um jovem romancista (personagem que se diz ser inspirada em Gabriele d’Annunzio, autor do romance homónimo que o filme adapta), o caso muda de figura. Último filme de Visconti, O Intruso retoma a linguagem característica do cineasta para uma combinação singular de opulência e depravação, num melodrama trágico em que a fragilidade dos arquétipos de masculinidade é, uma vez mais, desvelada.",
-      "title_en": "The Innocent",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/j1R4wGpgfgY219Z7cDDZQJOM6TI.jpg",
-        "https://image.tmdb.org/t/p/w1280/a6OW0pQdfqjGiSOWTWcBPA8YfrJ.jpg",
-        "https://image.tmdb.org/t/p/w1280/jIoAQX5p73OyN08GW3m0C3IRNcz.jpg"
-      ],
-      "stills_focus": [
-        32.5,
-        31.0,
-        37.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "luchino-visconti"
-    },
-    {
-      "id": "nimas_2001-odisseia-no-espaco-1968",
-      "title": "2001 – Odisseia no Espaço",
-      "director": "Stanley Kubrick",
-      "year": 1968,
-      "duration": 149,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-500-0-750-crop.jpg?v=a69c46a272",
-      "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/2001-odisseia-no-espaco-1968",
-      "sessions": [
-        {
-          "date": "2026-08-16",
-          "time": "17:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-      "plot_pt": "O filme segue uma viagem a Júpiter após a descoberta de um monólito alienígena que afecta a evolução humana. Baseado em contos do co-argumentista Arthur C. Clark, o filme faz uso da temática da viagem ao espaço para tratar questões existenciais acerca da evolução humana, do desenvolvimento tecnológico e da possibilidade de criar inteligência artificial. Tecnicamente inovador e cientificamente rigoroso, Odisseia no Espaço é aclamado como um dos maiores e mais influentes filmes da história do cinema.",
-      "title_en": "2001: A Space Odyssey",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-        "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg",
-        "https://image.tmdb.org/t/p/w1280/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg"
-      ],
-      "stills_focus": [
-        43.0,
-        39.9,
-        42.4
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "stanley-kubrick"
-    },
-    {
       "id": "nimas_os-respigadores-e-a-respigadora-dois-anos-depois-2002",
       "title": "Os Respigadores e a Respigadora… Dois Anos Depois",
       "director": "Agnès Varda",
@@ -3095,78 +2986,39 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_in-the-mood-for-love-disponivel-para-amar-2000",
-      "title": "In the Mood For Love — Disponível Para Amar",
-      "director": "Wong Kar Wai",
-      "year": 2001,
-      "duration": 98,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/9/5/6/8/579568-in-the-mood-for-love-0-500-0-750-crop.jpg?v=3fe332446b",
+      "id": "nimas_stalker-1979",
+      "title": "Stalker",
+      "director": "Andrei Tarkovsky",
+      "year": 1979,
+      "duration": 162,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-500-0-750-crop.jpg?v=1852068db9",
       "genres": [
-        "Documentary"
+        "Drama",
+        "Science Fiction"
       ],
-      "link": "https://medeiafilmes.com/filmes/in-the-mood-for-love-disponivel-para-amar-2000",
+      "link": "https://medeiafilmes.com/filmes/stalker-1979",
       "sessions": [
         {
           "date": "2026-08-16",
-          "time": "22:00",
+          "time": "10:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.91,
-      "plot": "A documentary following Wong Kar-wai and his cast and crew through the production of his 2000 film In the Mood for Love.",
-      "plot_pt": "Um retrato delicado de uma história de amor pouco convencional. Enquadrado pela sublime paleta de cores e pelos íntimos slow-motions de Wong Kar Wai, o filme viaja através dos olhares enigmáticos de dois indivíduos que, depois de se mudarem para o mesmo prédio com os seus parceiros ausentes, começam a acreditar que os seus respectivos esposos estão a ter um caso. Na sua solidão e aborrecimento, Chow e Su tornam-se mais próximos à medida que fazem as pazes com os seus fracassos românticos. Uma exploração profunda do acaso, do vazio, da solidão, acompanhada pela melancólica banda sonora de Shigeru Umebayashi, Disponível para Amar é o trabalho mais emblemático e impressionante de Wong Kar Wai.",
-      "title_en": "In the Mood For Love",
+      "rating": 4.39,
+      "plot": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+      "plot_pt": "Na chamada \"Zona Proibida\" há rumores de que existe um quarto onde os mais íntimos desejos são realizados. Um badalado escritor e um professor autoritário partem em busca deste quarto, cada um com as suas razões, que preferem não revelar. São guiados por Stalker – o guia da Zona, que é tanto um santo tolo como o apóstolo de uma nova fé.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/8w7Bzp8Czm8FpHZcVTKhxTyeRhk.jpg",
-        "https://image.tmdb.org/t/p/w1280/ebmZy4qKeTI3a8TTSDwFCNHVQIj.jpg"
+        "https://image.tmdb.org/t/p/w1280/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+        "https://image.tmdb.org/t/p/w1280/mCilWem3lYS16WcE5Idje5Q4lIM.jpg",
+        "https://image.tmdb.org/t/p/w1280/3djnplHuJZmmFTTCA7CiETSR9E.jpg"
       ],
       "stills_focus": [
-        30.1,
-        32.6
+        34.8,
+        41.3,
+        54.6
       ],
-      "country": "Hong Kong",
-      "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_jane-b-por-agnes-v-1987",
-      "title": "Jane B. por Agnès V.",
-      "director": "Agnès Varda",
-      "year": 1988,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/3/12893-jane-b-by-agnes-v--0-500-0-750-crop.jpg?v=83a24ec796",
-      "genres": [
-        "Fantasy",
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/jane-b-por-agnes-v-1987",
-      "sessions": [
-        {
-          "date": "2026-08-17",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-02",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.0,
-      "plot": "The interests, obsessions, and fantasies of two singular artists converge in this inspired collaboration between Agnès Varda and her longtime friend the actor Jane Birkin. Made over the course of a year and motivated by Birkin’s fortieth birthday—a milestone she admits to some anxiety over—Jane B. by Agnès V. contrasts the private, reflective Birkin with Birkin the icon.",
-      "plot_pt": "Um retrato cinematográfico no qual descobrimos Jane Birkin em todas as suas formas, em todos os seus estados de espírito, inteira na sua diversidade. É um retrato semeado com mini-ficções, e uma ficção semeada com mini-confidências de Jane B., no seu melhor, num diálogo livre e fluido com a sua cineasta, Agnès Varda.\n\r\n\r\n\r\n\r\n\r\n\r\n“Estávamos a passear no jardim quando, de repente, ela [Jane Birkin] disse: ‘É horrível. Vou fazer 40 anos!’ Eu respondi-lhe: ‘Não sejas tola. É uma idade maravilhosa. A altura perfeia para fazer o teu retrato’. Foi assim que começou.” – Agnès Varda",
-      "title_en": "Jane B. by Agnès V.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/wn4iwTix9AVcMMVbWNOG9ddstuI.jpg",
-        "https://image.tmdb.org/t/p/w1280/o7hj4TiztXxpHkbQJKhTA2vdf0p.jpg",
-        "https://image.tmdb.org/t/p/w1280/qSiQwegnFZv9Z3xMRxjtOqSp5uF.jpg"
-      ],
-      "stills_focus": [
-        42.2,
-        25.8,
-        55.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
+      "country": "USSR",
+      "director_lbxd_slug": "andrei-tarkovsky"
     },
     {
       "id": "nimas_obsessao-1943",
@@ -3204,6 +3056,52 @@ window.CINEMA_DATA = {
       ],
       "country": "Italy",
       "director_lbxd_slug": "luchino-visconti"
+    },
+    {
+      "id": "nimas_jane-b-por-agnes-v-1987",
+      "title": "Jane B. por Agnès V.",
+      "director": "Agnès Varda",
+      "year": 1988,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/3/12893-jane-b-by-agnes-v--0-500-0-750-crop.jpg?v=83a24ec796",
+      "genres": [
+        "Fantasy",
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/jane-b-por-agnes-v-1987",
+      "sessions": [
+        {
+          "date": "2026-08-12",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-17",
+          "time": "15:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-02",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.0,
+      "plot": "The interests, obsessions, and fantasies of two singular artists converge in this inspired collaboration between Agnès Varda and her longtime friend the actor Jane Birkin. Made over the course of a year and motivated by Birkin’s fortieth birthday—a milestone she admits to some anxiety over—Jane B. by Agnès V. contrasts the private, reflective Birkin with Birkin the icon.",
+      "plot_pt": "Um retrato cinematográfico no qual descobrimos Jane Birkin em todas as suas formas, em todos os seus estados de espírito, inteira na sua diversidade. É um retrato semeado com mini-ficções, e uma ficção semeada com mini-confidências de Jane B., no seu melhor, num diálogo livre e fluido com a sua cineasta, Agnès Varda.\n\r\n\r\n\r\n\r\n\r\n\r\n“Estávamos a passear no jardim quando, de repente, ela [Jane Birkin] disse: ‘É horrível. Vou fazer 40 anos!’ Eu respondi-lhe: ‘Não sejas tola. É uma idade maravilhosa. A altura perfeia para fazer o teu retrato’. Foi assim que começou.” – Agnès Varda",
+      "title_en": "Jane B. by Agnès V.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/wn4iwTix9AVcMMVbWNOG9ddstuI.jpg",
+        "https://image.tmdb.org/t/p/w1280/o7hj4TiztXxpHkbQJKhTA2vdf0p.jpg",
+        "https://image.tmdb.org/t/p/w1280/qSiQwegnFZv9Z3xMRxjtOqSp5uF.jpg"
+      ],
+      "stills_focus": [
+        42.2,
+        25.8,
+        55.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_o-estrangeiro-1967-1967",
@@ -3270,16 +3168,93 @@ window.CINEMA_DATA = {
       "plot_pt": "Ainda com Cardinale, a seguir a O Leopardo, um novo olhar sobre a decadência da aristocracia italiana no regresso de Sandra à sua Toscânia natal.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/ntHhAhIDkrELc9i6koBnmsvVF4E.jpg",
-        "https://image.tmdb.org/t/p/w1280/v0VAwIimkNUsND06g7TGafstYlK.jpg",
-        "https://image.tmdb.org/t/p/w1280/fnvTGGhH4t8zK7gSE8O0PwxTGjW.jpg"
+        "https://image.tmdb.org/t/p/w1280/fnvTGGhH4t8zK7gSE8O0PwxTGjW.jpg",
+        "https://image.tmdb.org/t/p/w1280/4nxZTdnJeGJk6SJlfiJbMD4MLwk.jpg"
       ],
       "stills_focus": [
         44.6,
-        37.2,
-        29.1
+        29.1,
+        38.1
       ],
       "country": "Italy",
       "director_lbxd_slug": "luchino-visconti"
+    },
+    {
+      "id": "nimas_os-malditos-1969",
+      "title": "Os Malditos",
+      "director": "Luchino Visconti",
+      "year": 1969,
+      "duration": 157,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/1/8/1/23181-the-damned-0-500-0-750-crop.jpg?v=cb02261b6f",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
+      "sessions": [
+        {
+          "date": "2026-08-18",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.81,
+      "plot": "In the early days of Nazi Germany, a powerful noble family must adjust to life under the new dictatorship regime.",
+      "plot_pt": "“Em Os Malditos há um ninho de víboras e as víboras devoram-se entre si. A noite das facas longas é um pouco o símbolo de todo o filme. Foi colocada no centro para dar a impressão completa do que é a destruição da família.” – Luchino Visconti",
+      "title_en": "The Damned",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/2pEegRXaVCdRYFp0b2CucFhILDn.jpg",
+        "https://image.tmdb.org/t/p/w1280/9KP9Xgi824gCIdx58HyC2M8pmcg.jpg",
+        "https://image.tmdb.org/t/p/w1280/cM5Uevzpju12Vu4Hx3fOQpfBRR7.jpg"
+      ],
+      "stills_focus": [
+        42.0,
+        17.0,
+        40.4
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "luchino-visconti"
+    },
+    {
+      "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
+      "title": "Leibniz – Crónica de uma Pintura Perdida",
+      "director": "Edgar Reitz",
+      "year": 2025,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://medeiafilmes.com/filmes/leibniz-cronica-de-uma-pintura-perdida-2025",
+      "sessions": [
+        {
+          "date": "2026-08-18",
+          "time": "15:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
+      "plot_pt": "A Rainha Carlota admira o filósofo iluminista Leibniz desde que foi sua aluna. Como Rainha da Prússia, anseia pelas suas sábias respostas às grandes questões da vida – tanto que decide encomendar um retrato dele. Edgar Reitz filma as sessões de pintura como uma série de debates apaixonados entre filósofo e artistas. No entanto, só a pintora holandesa Aaltje van der Meer o desafia com o seu amor inabalável pela arte. O retrato de Leibniz assinado por Aaltje, que veio a ser reconhecido como uma obra-prima da pintura barroca, está perdido até hoje.",
+      "title_en": "Leibniz – Chronicle of a Lost Painting",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/8ysHkYZfABQaJs1qGn8miyebnEY.jpg",
+        "https://image.tmdb.org/t/p/w1280/mXiO1cA5PKmgVOFnoQ0oyNahqga.jpg",
+        "https://image.tmdb.org/t/p/w1280/pzk0VTyNe9dtmWv8ovWLwGZY6qA.jpg"
+      ],
+      "stills_focus": [
+        37.1,
+        34.5,
+        41.0
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "edgar-reitz"
     },
     {
       "id": "nimas_mur-murs-1980",
@@ -3361,81 +3336,39 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jacques-rivette-1"
     },
     {
-      "id": "nimas_os-malditos-1969",
-      "title": "Os Malditos",
-      "director": "Luchino Visconti",
-      "year": 1969,
-      "duration": 157,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/1/8/1/23181-the-damned-0-500-0-750-crop.jpg?v=cb02261b6f",
+      "id": "nimas_daguerreotipos-1975",
+      "title": "Daguerreótipos",
+      "director": "Agnés Varda",
+      "year": 1975,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/7/1/15971-daguerreotypes-0-500-0-750-crop.jpg?v=9fc053203c",
       "genres": [
-        "Drama",
-        "History"
+        "Documentary"
       ],
-      "link": "https://medeiafilmes.com/filmes/os-malditos-1969",
+      "link": "https://medeiafilmes.com/filmes/daguerreotipos-1975",
       "sessions": [
         {
-          "date": "2026-08-18",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "21:00",
+          "date": "2026-08-19",
+          "time": "13:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.81,
-      "plot": "In the early days of Nazi Germany, a powerful noble family must adjust to life under the new dictatorship regime.",
-      "plot_pt": "“Em Os Malditos há um ninho de víboras e as víboras devoram-se entre si. A noite das facas longas é um pouco o símbolo de todo o filme. Foi colocada no centro para dar a impressão completa do que é a destruição da família.” – Luchino Visconti",
-      "title_en": "The Damned",
+      "rating": 4.01,
+      "plot": "An intimate portrait of the small shops and shopkeepers of the Rue Daguerre in Paris, a picturesque street that has been the filmmaker’s home for more than 50 years.",
+      "plot_pt": "Este documentário clássico de Agnès Varda é um retrato íntimo das pequenas lojas e comerciantes de um pequeno pedaço da Rue Daguerre em Paris, uma rua pitoresca onde Agnès Varda viveu e trabalhou (no número 88) durante várias décadas.\n\r\n\r\n“Daguerreótipos não é um filme sobre a Rua Daguerre, uma rua pitoresca do 14.º bairro; é um filme sobre um pequeno pedaço dessa rua, entre o número 70 e o número 90. É um documento modesto e local sobre alguns pequenos comerciantes, um olhar atento sobre a maioria silenciosa. É um álbum de bairro, são retratos estéreo-daguerreotipados, é um arquivo para os arque-sociólogos do ano 2975. Como na Rua Mouffetard, onde filmei o meu L’Opéra-Mouffe, Daguerreótipos é o meu L’Opéra-Daguerre.” – Agnès Varda",
+      "title_en": "Daguerréotypes",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/2pEegRXaVCdRYFp0b2CucFhILDn.jpg",
-        "https://image.tmdb.org/t/p/w1280/9KP9Xgi824gCIdx58HyC2M8pmcg.jpg",
-        "https://image.tmdb.org/t/p/w1280/cM5Uevzpju12Vu4Hx3fOQpfBRR7.jpg"
+        "https://image.tmdb.org/t/p/w1280/208aRGBlyf8wVACc3TjgzaDm91X.jpg",
+        "https://image.tmdb.org/t/p/w1280/tA7yoUINVMJMKQR9BJEAdmhEx0i.jpg",
+        "https://image.tmdb.org/t/p/w1280/Atj4cEGubb9IscNcGyEEYK8BQs8.jpg"
       ],
       "stills_focus": [
-        42.0,
-        17.0,
-        40.4
+        42.2,
+        21.6,
+        35.4
       ],
-      "country": "Germany",
-      "director_lbxd_slug": "luchino-visconti"
-    },
-    {
-      "id": "nimas_leibniz-cronica-de-uma-pintura-perdida-2025",
-      "title": "Leibniz – Crónica de uma Pintura Perdida",
-      "director": "Edgar Reitz",
-      "year": 2025,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/6/2/2/1094622-leibniz-chronicle-of-a-lost-painting-0-500-0-750-crop.jpg?v=963e5e1f93",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://medeiafilmes.com/filmes/leibniz-cronica-de-uma-pintura-perdida-2025",
-      "sessions": [
-        {
-          "date": "2026-08-18",
-          "time": "15:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.42,
-      "plot": "Out of her love for the great thinker Leibniz, Queen Charlotte commissions a portrait of him. During the portrait sessions, the philosopher and the young painter engage in a passionate struggle for truth in image and likeness, and ultimately for love and death.",
-      "plot_pt": "A Rainha Carlota admira o filósofo iluminista Leibniz desde que foi sua aluna. Como Rainha da Prússia, anseia pelas suas sábias respostas às grandes questões da vida – tanto que decide encomendar um retrato dele. Edgar Reitz filma as sessões de pintura como uma série de debates apaixonados entre filósofo e artistas. No entanto, só a pintora holandesa Aaltje van der Meer o desafia com o seu amor inabalável pela arte. O retrato de Leibniz assinado por Aaltje, que veio a ser reconhecido como uma obra-prima da pintura barroca, está perdido até hoje.",
-      "title_en": "Leibniz – Chronicle of a Lost Painting",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/8ysHkYZfABQaJs1qGn8miyebnEY.jpg",
-        "https://image.tmdb.org/t/p/w1280/mXiO1cA5PKmgVOFnoQ0oyNahqga.jpg",
-        "https://image.tmdb.org/t/p/w1280/pzk0VTyNe9dtmWv8ovWLwGZY6qA.jpg"
-      ],
-      "stills_focus": [
-        37.1,
-        34.5,
-        41.0
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "edgar-reitz"
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_noites-brancas-1957",
@@ -3477,41 +3410,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "luchino-visconti"
-    },
-    {
-      "id": "nimas_daguerreotipos-1975",
-      "title": "Daguerreótipos",
-      "director": "Agnés Varda",
-      "year": 1975,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/7/1/15971-daguerreotypes-0-500-0-750-crop.jpg?v=9fc053203c",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/daguerreotipos-1975",
-      "sessions": [
-        {
-          "date": "2026-08-19",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.01,
-      "plot": "An intimate portrait of the small shops and shopkeepers of the Rue Daguerre in Paris, a picturesque street that has been the filmmaker’s home for more than 50 years.",
-      "plot_pt": "Este documentário clássico de Agnès Varda é um retrato íntimo das pequenas lojas e comerciantes de um pequeno pedaço da Rue Daguerre em Paris, uma rua pitoresca onde Agnès Varda viveu e trabalhou (no número 88) durante várias décadas.\n\r\n\r\n“Daguerreótipos não é um filme sobre a Rua Daguerre, uma rua pitoresca do 14.º bairro; é um filme sobre um pequeno pedaço dessa rua, entre o número 70 e o número 90. É um documento modesto e local sobre alguns pequenos comerciantes, um olhar atento sobre a maioria silenciosa. É um álbum de bairro, são retratos estéreo-daguerreotipados, é um arquivo para os arque-sociólogos do ano 2975. Como na Rua Mouffetard, onde filmei o meu L’Opéra-Mouffe, Daguerreótipos é o meu L’Opéra-Daguerre.” – Agnès Varda",
-      "title_en": "Daguerréotypes",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/208aRGBlyf8wVACc3TjgzaDm91X.jpg",
-        "https://image.tmdb.org/t/p/w1280/tA7yoUINVMJMKQR9BJEAdmhEx0i.jpg",
-        "https://image.tmdb.org/t/p/w1280/Atj4cEGubb9IscNcGyEEYK8BQs8.jpg"
-      ],
-      "stills_focus": [
-        42.2,
-        21.6,
-        35.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_jacquot-de-nantes-1990",
@@ -3611,113 +3509,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Italy",
       "director_lbxd_slug": "leonardo-di-costanzo"
-    },
-    {
-      "id": "nimas_respostas-de-mulheres-1975",
-      "title": "Respostas de Mulheres",
-      "director": "Agnès Varda",
-      "year": 1975,
-      "duration": 8,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/5/3/134653-women-reply-0-500-0-750-crop.jpg?v=4c9179178c",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/respostas-de-mulheres-1975",
-      "sessions": [
-        {
-          "date": "2026-08-21",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.63,
-      "plot": "What does being a woman really mean? How do women live the status society reserves for them? A group of women, beautiful or not, young or not, gifted with motherly instinct or not, answer before Agnès Varda's camera.",
-      "plot_pt": "Em 1975, a propósito da celebração do “Ano da Mulher”, o canal de televisão Antenne 2 convidou sete realizadoras a responder, em sete minutos, à questão “O que é uma mulher?”. Este cine-ensaio, Respostas de Mulher, é a resposta de Agnès Varda, um momento de encontro e diálogo entre várias mulheres que discutem as questões do sexo, do desejo, da publicidade e da descendência (querer, ou não, ter filhos). Breve e frontal, o filme afirma-se como um gesto feminista.",
-      "title_en": "Women Reply",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/hq2SYjBwzIFFZqiR2iQPQtEqVsW.jpg"
-      ],
-      "stills_focus": [
-        21.5
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_o-leao-volatil-2003",
-      "title": "O Leão Volátil",
-      "director": "Agnès Varda",
-      "year": 2003,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/5/7/9/106579-the-vanishing-lion-0-500-0-750-crop.jpg?v=ebd02792fe",
-      "genres": [
-        "Romance",
-        "Fantasy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-leao-volatil-2003",
-      "sessions": [
-        {
-          "date": "2026-08-21",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.44,
-      "plot": "An adventure of three characters: Clarisse, a psychic’s apprentice, Lazare, who works at the Parisian catacombs, and the bronze statue of a lion at the Denfert-Rochereau (in the 14th arrondissement). Clarisse and Laraze meet daily, but one day Lazare disappears and the lion disappears as well!",
-      "plot_pt": "Encontram-se todos os dias na Praça Denfert-Rochereau, no 14.º bairro de Paris: Clarisse, uma vidente promissora, Lazare, um jovem que trabalha nas catacumbas de Paris, e o Leão de Belfort, uma enorme escultura de bronze que vela sobre a praça. Entre o documentário e a comédia romântica, Agnès Varda concebe aqui uma exploração filosófica de um lugar, a partir do coração da selva metropolitana.",
-      "title_en": "The Vanishing Lion",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/38xZRKQUkGidrDmJvV7hd0Czc4B.jpg",
-        "https://image.tmdb.org/t/p/w1280/xiYzQExqWQH0zWjBZwWdTSKrRU0.jpg"
-      ],
-      "stills_focus": [
-        41.8,
-        43.6
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_sentimento-1954",
-      "title": "Sentimento",
-      "director": "Luchino Visconti",
-      "year": 1954,
-      "duration": 123,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/9/5/0/21950-senso-0-500-0-750-crop.jpg?v=7266ca2afb",
-      "genres": [
-        "Romance",
-        "Drama",
-        "War"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sentimento-1954",
-      "sessions": [
-        {
-          "date": "2026-08-21",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-01",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.",
-      "plot_pt": "“As ruas de Veneza (quem nunca viu Senso nunca viu Veneza), os celeiros de Lonedo (quem nunca viu Senso nunca viu Palladio), as praças de Verona (quem nunca viu Senso nunca viu Sanmicheli) foram, em 1954, os palcos excessivos, exacerbados e exorbitados para a mais fantomática presença da mais fantomática das vozes.” – João Bénard da Costa",
-      "title_en": "Senso",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/q2ve97XH53hEUaWEUhD9AQcnn1A.jpg",
-        "https://image.tmdb.org/t/p/w1280/omPBXvgBm9jNLtBAKalzDaNbnaL.jpg",
-        "https://image.tmdb.org/t/p/w1280/O3uKDuZu1HrlUbiiKv5p1qy0i1.jpg"
-      ],
-      "stills_focus": [
-        14.9,
-        15.9,
-        47.8
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_os-noivos-da-ponte-mac-donald-1961",
@@ -3853,6 +3644,48 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_sentimento-1954",
+      "title": "Sentimento",
+      "director": "Luchino Visconti",
+      "year": 1954,
+      "duration": 123,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/9/5/0/21950-senso-0-500-0-750-crop.jpg?v=7266ca2afb",
+      "genres": [
+        "Romance",
+        "Drama",
+        "War"
+      ],
+      "link": "https://medeiafilmes.com/filmes/sentimento-1954",
+      "sessions": [
+        {
+          "date": "2026-08-21",
+          "time": "15:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.",
+      "plot_pt": "“As ruas de Veneza (quem nunca viu Senso nunca viu Veneza), os celeiros de Lonedo (quem nunca viu Senso nunca viu Palladio), as praças de Verona (quem nunca viu Senso nunca viu Sanmicheli) foram, em 1954, os palcos excessivos, exacerbados e exorbitados para a mais fantomática presença da mais fantomática das vozes.” – João Bénard da Costa",
+      "title_en": "Senso",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/q2ve97XH53hEUaWEUhD9AQcnn1A.jpg",
+        "https://image.tmdb.org/t/p/w1280/omPBXvgBm9jNLtBAKalzDaNbnaL.jpg",
+        "https://image.tmdb.org/t/p/w1280/O3uKDuZu1HrlUbiiKv5p1qy0i1.jpg"
+      ],
+      "stills_focus": [
+        14.9,
+        15.9,
+        47.8
+      ],
+      "country": "Italy",
+      "director_lbxd_slug": "luchino-visconti"
+    },
+    {
       "id": "nimas_tens-uma-bela-escadaria-sabias-1986",
       "title": "Tens Uma Bela Escadaria, Sabias",
       "director": "Agnès Varda",
@@ -3918,6 +3751,71 @@ window.CINEMA_DATA = {
       ],
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
+    },
+    {
+      "id": "nimas_respostas-de-mulheres-1975",
+      "title": "Respostas de Mulheres",
+      "director": "Agnès Varda",
+      "year": 1975,
+      "duration": 8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/5/3/134653-women-reply-0-500-0-750-crop.jpg?v=4c9179178c",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/respostas-de-mulheres-1975",
+      "sessions": [
+        {
+          "date": "2026-08-21",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.63,
+      "plot": "What does being a woman really mean? How do women live the status society reserves for them? A group of women, beautiful or not, young or not, gifted with motherly instinct or not, answer before Agnès Varda's camera.",
+      "plot_pt": "Em 1975, a propósito da celebração do “Ano da Mulher”, o canal de televisão Antenne 2 convidou sete realizadoras a responder, em sete minutos, à questão “O que é uma mulher?”. Este cine-ensaio, Respostas de Mulher, é a resposta de Agnès Varda, um momento de encontro e diálogo entre várias mulheres que discutem as questões do sexo, do desejo, da publicidade e da descendência (querer, ou não, ter filhos). Breve e frontal, o filme afirma-se como um gesto feminista.",
+      "title_en": "Women Reply",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/hq2SYjBwzIFFZqiR2iQPQtEqVsW.jpg"
+      ],
+      "stills_focus": [
+        21.5
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_o-leao-volatil-2003",
+      "title": "O Leão Volátil",
+      "director": "Agnès Varda",
+      "year": 2003,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/5/7/9/106579-the-vanishing-lion-0-500-0-750-crop.jpg?v=ebd02792fe",
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-leao-volatil-2003",
+      "sessions": [
+        {
+          "date": "2026-08-21",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.44,
+      "plot": "An adventure of three characters: Clarisse, a psychic’s apprentice, Lazare, who works at the Parisian catacombs, and the bronze statue of a lion at the Denfert-Rochereau (in the 14th arrondissement). Clarisse and Laraze meet daily, but one day Lazare disappears and the lion disappears as well!",
+      "plot_pt": "Encontram-se todos os dias na Praça Denfert-Rochereau, no 14.º bairro de Paris: Clarisse, uma vidente promissora, Lazare, um jovem que trabalha nas catacumbas de Paris, e o Leão de Belfort, uma enorme escultura de bronze que vela sobre a praça. Entre o documentário e a comédia romântica, Agnès Varda concebe aqui uma exploração filosófica de um lugar, a partir do coração da selva metropolitana.",
+      "title_en": "The Vanishing Lion",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/38xZRKQUkGidrDmJvV7hd0Czc4B.jpg",
+        "https://image.tmdb.org/t/p/w1280/xiYzQExqWQH0zWjBZwWdTSKrRU0.jpg"
+      ],
+      "stills_focus": [
+        41.8,
+        43.6
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_paixoes-que-escaldam-1958",
@@ -4031,42 +3929,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "nicholas-ray"
     },
     {
-      "id": "nimas_o-desprezo-1963",
-      "title": "O Desprezo",
-      "director": "Jean-Luc Godard",
-      "year": 1963,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/by/s9/xe/e8AFmkWiY6MS7Em4GmLuqjEDc1v-0-500-0-750-crop.jpg?v=9745581dd9",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-desprezo-1963",
-      "sessions": [
-        {
-          "date": "2026-08-23",
-          "time": "16:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.8,
-      "plot": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
-      "plot_pt": "“Não foram os deuses que criaram os homens, foram os homens que criaram os deuses” - assim declara Fritz Lang, realizador do filme dentro deste filme, enquanto desfilam imagens de estátuas gregas num pequeno ecrã. Arrebatador desde o início, o filme é conduzido através de um tema musical denso e belo que se vai repetindo à medida que o desprezo se instala em Camille (Brigitte Bardot), mulher do argumentista (Michel Piccoli) deste filme malfadado que tenta reconstruir a Odisseia de Homero no sul de Itália. Pleno de referências mitológicas e de cores deslumbrantes, O Desprezo é um mergulho psicológico numa sensação opressora que se estica ao longo dos minutos sem se saber verdadeiramente de onde vem, enquadrada em paisagens de verão com um céu azul eléctrico. Esta é uma verdadeira obra-prima de Godard, que levou Brigitte Bardot ao estrelato e revolucionou, mais uma vez, o cinema de até então.",
-      "title_en": "Contempt",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
-        "https://image.tmdb.org/t/p/w1280/65VvjEscRHZNCCg63GmRfGU66v9.jpg",
-        "https://image.tmdb.org/t/p/w1280/e7uHIsjDZREm7fINopx315KBGei.jpg"
-      ],
-      "stills_focus": [
-        22.9,
-        41.5,
-        23.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "jean-luc-godard-1"
-    },
-    {
       "id": "nimas_lawrence-da-arabia-1962",
       "title": "Lawrence da Arábia",
       "director": "David Lean",
@@ -4107,6 +3969,42 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "david-lean"
+    },
+    {
+      "id": "nimas_o-desprezo-1963",
+      "title": "O Desprezo",
+      "director": "Jean-Luc Godard",
+      "year": 1963,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/by/s9/xe/e8AFmkWiY6MS7Em4GmLuqjEDc1v-0-500-0-750-crop.jpg?v=9745581dd9",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-desprezo-1963",
+      "sessions": [
+        {
+          "date": "2026-08-23",
+          "time": "16:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.8,
+      "plot": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+      "plot_pt": "“Não foram os deuses que criaram os homens, foram os homens que criaram os deuses” - assim declara Fritz Lang, realizador do filme dentro deste filme, enquanto desfilam imagens de estátuas gregas num pequeno ecrã. Arrebatador desde o início, o filme é conduzido através de um tema musical denso e belo que se vai repetindo à medida que o desprezo se instala em Camille (Brigitte Bardot), mulher do argumentista (Michel Piccoli) deste filme malfadado que tenta reconstruir a Odisseia de Homero no sul de Itália. Pleno de referências mitológicas e de cores deslumbrantes, O Desprezo é um mergulho psicológico numa sensação opressora que se estica ao longo dos minutos sem se saber verdadeiramente de onde vem, enquadrada em paisagens de verão com um céu azul eléctrico. Esta é uma verdadeira obra-prima de Godard, que levou Brigitte Bardot ao estrelato e revolucionou, mais uma vez, o cinema de até então.",
+      "title_en": "Contempt",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
+        "https://image.tmdb.org/t/p/w1280/65VvjEscRHZNCCg63GmRfGU66v9.jpg",
+        "https://image.tmdb.org/t/p/w1280/e7uHIsjDZREm7fINopx315KBGei.jpg"
+      ],
+      "stills_focus": [
+        22.9,
+        41.5,
+        23.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
     },
     {
       "id": "nimas_quando-o-rio-se-enfurece-1960",
@@ -4186,6 +4084,42 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "nicholas-ray"
     },
     {
+      "id": "nimas_fahrenheit-451-grau-de-destruicao-1966",
+      "title": "Fahrenheit 451 – Grau de Destruição",
+      "director": "François Truffaut",
+      "year": 1966,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/fahrenheit-451-grau-de-destruicao-1966",
+      "sessions": [
+        {
+          "date": "2026-08-25",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.51,
+      "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
+      "plot_pt": "O primeiro filme a cores de Truffaut une o humor negro do realizador francês e a moralidade do livro de Ray Bradbury, já várias vezes adaptado ao cinema, especificamente pela forma como a distopia da narrativa é retratada. É um mundo onde a literatura é banida por ser a fagulha que pode acender a chama da revolução, algo que é literalmente apagado por bombeiros dedicados à causa.",
+      "title_en": "Fahrenheit 451",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
+        "https://image.tmdb.org/t/p/w1280/hyI6an1jnCHCZ8p9rq5DJCssX8C.jpg",
+        "https://image.tmdb.org/t/p/w1280/p2UUrDs7BoHQqiGCIQEVavUhwz3.jpg"
+      ],
+      "stills_focus": [
+        53.6,
+        31.3,
+        37.9
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "francois-truffaut"
+    },
+    {
       "id": "nimas_anatomia-de-um-crime-1959",
       "title": "Anatomia de um Crime",
       "director": "Otto Preminger",
@@ -4223,42 +4157,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "otto-preminger"
     },
     {
-      "id": "nimas_fahrenheit-451-grau-de-destruicao-1966",
-      "title": "Fahrenheit 451 – Grau de Destruição",
-      "director": "François Truffaut",
-      "year": 1966,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
-      "genres": [
-        "Science Fiction",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fahrenheit-451-grau-de-destruicao-1966",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.51,
-      "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
-      "plot_pt": "O primeiro filme a cores de Truffaut une o humor negro do realizador francês e a moralidade do livro de Ray Bradbury, já várias vezes adaptado ao cinema, especificamente pela forma como a distopia da narrativa é retratada. É um mundo onde a literatura é banida por ser a fagulha que pode acender a chama da revolução, algo que é literalmente apagado por bombeiros dedicados à causa.",
-      "title_en": "Fahrenheit 451",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/gyC9u8GOeNwyKzvXHAOhTsfps5u.jpg",
-        "https://image.tmdb.org/t/p/w1280/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
-        "https://image.tmdb.org/t/p/w1280/hyI6an1jnCHCZ8p9rq5DJCssX8C.jpg"
-      ],
-      "stills_focus": [
-        35.1,
-        53.6,
-        31.3
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
       "id": "nimas_fallen-angels-anjos-caidos-1995",
       "title": "Fallen Angels — Anjos Caídos",
       "director": "Wong Kar Wai",
@@ -4283,14 +4181,14 @@ window.CINEMA_DATA = {
       "plot_pt": "Num cenário urbano nocturno, Wong Chi Ming é um assassino a soldo que tenta deixar a sua ocupação. Entre uma relação ambígua com a sua parceira profissional e um encontro com uma prostituta, a sua vida cruza-se com histórias de outras personagens que deambulam as ruas de Hong Kong. Ao longo de episódios excêntricos e de referências à cultura pop, Anjos Caídos é um retrato vibrante da condição de alienação de indivíduos inseridos no ritmo acelerado da vida distorcida da cidade.",
       "title_en": "Fallen Angels",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/lInQVVbPjKFGX7GDcxNMXALy2Y4.jpg",
-        "https://image.tmdb.org/t/p/w1280/v4FepSc09TsRy2fQtUg6vvzrTq0.jpg",
-        "https://image.tmdb.org/t/p/w1280/i4bbJnECdbgb7o12NyHnJa5MUIu.jpg"
+        "https://image.tmdb.org/t/p/w1280/i4bbJnECdbgb7o12NyHnJa5MUIu.jpg",
+        "https://image.tmdb.org/t/p/w1280/vX784AqjFn9fM6MQ8rl8zT6926q.jpg",
+        "https://image.tmdb.org/t/p/w1280/uPc5yPNmEZmDg21WOWk4deYzK2L.jpg"
       ],
       "stills_focus": [
         45.3,
-        46.2,
-        45.3
+        29.5,
+        43.5
       ],
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
@@ -4432,12 +4330,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
         "https://image.tmdb.org/t/p/w1280/fTeaaAXt4hzmud7CLYPTwqWvqsb.jpg",
-        "https://image.tmdb.org/t/p/w1280/8wdCkGKLxIulbnBuE9cCLZ70DMA.jpg"
+        "https://image.tmdb.org/t/p/w1280/eksdcZ9tqjspmr6HGGzExVmCHwD.jpg"
       ],
       "stills_focus": [
         30.1,
         21.2,
-        35.4
+        30.1
       ],
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
@@ -4552,42 +4450,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "nimas_solaris-1972",
-      "title": "Solaris",
-      "director": "Andrei Tarkovsky",
-      "year": 1972,
-      "duration": 167,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-500-0-750-crop.jpg?v=18b2bcf9ce",
-      "genres": [
-        "Mystery",
-        "Science Fiction",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/solaris-1972",
-      "sessions": [
-        {
-          "date": "2026-09-03",
-          "time": "18:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.22,
-      "plot": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
-      "plot_pt": "Os três últimos residentes da estação espacial Solaris têm enviado misteriosas comunicações ao controlo terrestre. Quando o astronauta e psicólogo Kris Kelvin é enviado para investigar o fenómeno, começa a sentir os mesmos sintomas estranhos que afligem os tripulantes da estação, atirando-o para uma viagem até aos mais sombrios recantos do seu consciente.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qOGuM0QINhH7MfNAiOZtmlaDLgj.jpg",
-        "https://image.tmdb.org/t/p/w1280/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
-        "https://image.tmdb.org/t/p/w1280/mm3aNTjFvuo0jeitneRDc1ZUNjI.jpg"
-      ],
-      "stills_focus": [
-        44.1,
-        37.6,
-        22.6
-      ],
-      "country": "USSR",
-      "director_lbxd_slug": "andrei-tarkovsky"
-    },
-    {
       "id": "nimas_cartas-amarelas-2026",
       "title": "Cartas Amarelas",
       "director": "Ilker Çatak",
@@ -4653,6 +4515,79 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ilker-catak"
     },
     {
+      "id": "nimas_solaris-1972",
+      "title": "Solaris",
+      "director": "Andrei Tarkovsky",
+      "year": 1972,
+      "duration": 167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/8/51528-solaris-0-500-0-750-crop.jpg?v=18b2bcf9ce",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/solaris-1972",
+      "sessions": [
+        {
+          "date": "2026-09-03",
+          "time": "18:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.22,
+      "plot": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+      "plot_pt": "Os três últimos residentes da estação espacial Solaris têm enviado misteriosas comunicações ao controlo terrestre. Quando o astronauta e psicólogo Kris Kelvin é enviado para investigar o fenómeno, começa a sentir os mesmos sintomas estranhos que afligem os tripulantes da estação, atirando-o para uma viagem até aos mais sombrios recantos do seu consciente.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/qOGuM0QINhH7MfNAiOZtmlaDLgj.jpg",
+        "https://image.tmdb.org/t/p/w1280/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
+        "https://image.tmdb.org/t/p/w1280/mm3aNTjFvuo0jeitneRDc1ZUNjI.jpg"
+      ],
+      "stills_focus": [
+        44.1,
+        37.6,
+        22.6
+      ],
+      "country": "USSR",
+      "director_lbxd_slug": "andrei-tarkovsky"
+    },
+    {
+      "id": "nimas_pedro-o-louco-1965",
+      "title": "Pedro, o Louco",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/0/9/0/50090-pierrot-le-fou-0-500-0-750-crop.jpg?v=1c8a33c309",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/pedro-o-louco-1965",
+      "sessions": [
+        {
+          "date": "2026-09-05",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.02,
+      "plot": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+      "plot_pt": "“O filme foi interdito aos menores de 18 anos [em França]. Motivo? Anarquismo intelectual e moral (sic).” – Jean-Luc Godard",
+      "title_en": "Pierrot le Fou",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/4zJ9w3lZcZI3mBXcNiq6s8bqpDO.jpg",
+        "https://image.tmdb.org/t/p/w1280/oRNazp43DCGaWspAMl5k8etxHSh.jpg",
+        "https://image.tmdb.org/t/p/w1280/hdppB06hixrGsEM48D8Bair0TEq.jpg"
+      ],
+      "stills_focus": [
+        51.3,
+        42.7,
+        40.5
+      ],
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
+    },
+    {
       "id": "nimas_jules-e-jim-1962",
       "title": "Jules & Jim",
       "director": "François Truffaut",
@@ -4689,43 +4624,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "francois-truffaut"
     },
     {
-      "id": "nimas_pedro-o-louco-1965",
-      "title": "Pedro, o Louco",
-      "director": "Jean-Luc Godard",
-      "year": 1965,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/0/9/0/50090-pierrot-le-fou-0-500-0-750-crop.jpg?v=1c8a33c309",
-      "genres": [
-        "Romance",
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/pedro-o-louco-1965",
-      "sessions": [
-        {
-          "date": "2026-09-05",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.02,
-      "plot": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
-      "plot_pt": "“O filme foi interdito aos menores de 18 anos [em França]. Motivo? Anarquismo intelectual e moral (sic).” – Jean-Luc Godard",
-      "title_en": "Pierrot le Fou",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/4zJ9w3lZcZI3mBXcNiq6s8bqpDO.jpg",
-        "https://image.tmdb.org/t/p/w1280/zLbDuibfarVebd8XHqgGweq3n86.jpg",
-        "https://image.tmdb.org/t/p/w1280/oRNazp43DCGaWspAMl5k8etxHSh.jpg"
-      ],
-      "stills_focus": [
-        51.3,
-        54.9,
-        42.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "jean-luc-godard-1"
-    },
-    {
       "id": "nimas_o-mundo-a-seus-pes-1941",
       "title": "O Mundo a Seus Pés",
       "director": "Orson Welles",
@@ -4751,15 +4649,50 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
         "https://image.tmdb.org/t/p/w1280/9Y85oA1y6toL2OACXdaC6iTl7eQ.jpg",
-        "https://image.tmdb.org/t/p/w1280/kCxCmbQC7Qjs9Fsgj1t53nanhIA.jpg"
+        "https://image.tmdb.org/t/p/w1280/w3XMVPKSoJomM7G5tAq3kXxdhKX.jpg"
       ],
       "stills_focus": [
         51.6,
         12.3,
-        44.4
+        43.6
       ],
       "country": "USA",
       "director_lbxd_slug": "orson-welles-1"
+    },
+    {
+      "id": "nimas_os-quatrocentos-golpes-1959",
+      "title": "Os Quatrocentos Golpes",
+      "director": "François Truffaut",
+      "year": 1959,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-500-0-750-crop.jpg?v=25ae7ceb86",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-quatrocentos-golpes-1959",
+      "sessions": [
+        {
+          "date": "2026-09-06",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.29,
+      "plot": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+      "plot_pt": "A história de Antoine Doinel começa no dia em que lhe é aplicado um castigo severo para cumprir em casa nessa mesma noite. Incapaz de o realizar, não tem coragem de regressar à escola no dia seguinte. Assim, Antoine, juntamente com o seu melhor amigo, René, começa a descobrir os prazeres de faltar às aulas.",
+      "title_en": "The 400 Blows",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
+        "https://image.tmdb.org/t/p/w1280/taKqnJDOAzg5D8zuYD7IaPdgqKV.jpg",
+        "https://image.tmdb.org/t/p/w1280/wXB4Fn0L4n41ZzRsfFY8YsPeoCs.jpg"
+      ],
+      "stills_focus": [
+        24.3,
+        25.2,
+        37.1
+      ],
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "nimas_os-insolentes-1957",
@@ -4793,41 +4726,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "francois-truffaut"
     },
     {
-      "id": "nimas_os-quatrocentos-golpes-1959",
-      "title": "Os Quatrocentos Golpes",
-      "director": "François Truffaut",
-      "year": 1959,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-500-0-750-crop.jpg?v=25ae7ceb86",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-quatrocentos-golpes-1959",
-      "sessions": [
-        {
-          "date": "2026-09-06",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.29,
-      "plot": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
-      "plot_pt": "A história de Antoine Doinel começa no dia em que lhe é aplicado um castigo severo para cumprir em casa nessa mesma noite. Incapaz de o realizar, não tem coragem de regressar à escola no dia seguinte. Assim, Antoine, juntamente com o seu melhor amigo, René, começa a descobrir os prazeres de faltar às aulas.",
-      "title_en": "The 400 Blows",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
-        "https://image.tmdb.org/t/p/w1280/taKqnJDOAzg5D8zuYD7IaPdgqKV.jpg",
-        "https://image.tmdb.org/t/p/w1280/ebRB1IVvJEL6GsJAKNDITBTAgLC.jpg"
-      ],
-      "stills_focus": [
-        24.3,
-        25.2,
-        42.5
-      ],
-      "country": "France",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
       "id": "nimas_os-sete-samurais-1954",
       "title": "Os Sete Samurais",
       "director": "Akira Kurosawa",
@@ -4853,12 +4751,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
         "https://image.tmdb.org/t/p/w1280/mzI1JXm8sX5fia3ifPS2jGPUh2n.jpg",
-        "https://image.tmdb.org/t/p/w1280/m0GkHBGFsfhxwooex1j4qdotmUl.jpg"
+        "https://image.tmdb.org/t/p/w1280/2g2TOGrz83UURTkm5ix16qAiJZz.jpg"
       ],
       "stills_focus": [
         37.9,
         18.9,
-        59.4
+        23.8
       ],
       "country": "Japan",
       "director_lbxd_slug": "akira-kurosawa"
@@ -4888,13 +4786,13 @@ window.CINEMA_DATA = {
       "title_en": "Rachel, Rachel",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/agPJ2Snxm9PWEyR2uabc0ncN8T3.jpg",
-        "https://image.tmdb.org/t/p/w1280/jChjQ2SXjPELzZvsMu5emRGWNAx.jpg",
-        "https://image.tmdb.org/t/p/w1280/otJ843NzBqw8fkim5csLw4i9SeH.jpg"
+        "https://image.tmdb.org/t/p/w1280/92EB2w8nrt70xZsXkGZC5M3v9NJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/sBzeWFfApH8jrpSR2BpUpNQrfKM.jpg"
       ],
       "stills_focus": [
         22.8,
-        38.1,
-        44.0
+        25.0,
+        32.6
       ],
       "country": "USA",
       "director_lbxd_slug": "paul-newman"
@@ -4924,52 +4822,15 @@ window.CINEMA_DATA = {
       "plot_pt": "Chow Mo Wan está a escrever um livro de ficção científica sobre um comboio que viaja para um sítio chamado 2046, onde os passageiros poderão recuperar as suas memórias perdidas e de onde nunca ninguém regressou. Inspirado nas suas próprias aventuras com várias mulheres no Hotel Oriental em Hong Kong, a fronteira entre ficção e realidade em breve começa a esbater-se. Seguindo um rastro de ligações misteriosas, 2046 é considerado a sequela de Disponível para Amar (2000). Mestre da narrativa não-linear, Wong Kar Wai cria aqui uma rede de rostos que se interligam – alguns dos quais afogados em mágoa, outros entregues à paixão – e envolve-os na sua estética tão característica, rica em sombras frondosas e cores contrastantes.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/h3JAMIeywbzobkhu2rt3mQAwRR1.jpg",
-        "https://image.tmdb.org/t/p/w1280/tvvPg5H5AtWJ6FYcsA4qYnO3R9N.jpg",
-        "https://image.tmdb.org/t/p/w1280/bpveJQCyjNJtMFilQAxzTmJfrz6.jpg"
+        "https://image.tmdb.org/t/p/w1280/bpveJQCyjNJtMFilQAxzTmJfrz6.jpg",
+        "https://image.tmdb.org/t/p/w1280/yu81JgyhfrilG6Ax0ajnh8utuPc.jpg"
       ],
       "stills_focus": [
         21.1,
-        45.3,
-        44.9
+        44.9,
+        14.8
       ],
       "country": "Germany",
-      "director_lbxd_slug": "wong-kar-wai"
-    },
-    {
-      "id": "nimas_days-of-being-wild-dias-selvagens-1990",
-      "title": "Days of Being Wild – Dias Selvagens",
-      "director": "Wong Kar Wai",
-      "year": 1990,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/3/4/40434-days-of-being-wild-0-500-0-750-crop.jpg?v=6d9f15154f",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/days-of-being-wild-dias-selvagens-1990",
-      "sessions": [
-        {
-          "date": "2026-09-09",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.82,
-      "plot": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
-      "plot_pt": "1960. Yuddy (Leslie Cheung) é um jovem que descobriu recentemente que a mulher que o criou, uma prostituta, não é sua mãe biológica. Ela recusa-se a dizer-lhe quem é a sua verdadeira mãe, até que a revelação desencadeia uma série de perturbações mentais em Yuddy. Paralelamente duas mulheres apaixonam-se por ele, mas o jovem mostra-se incapaz de decidir com quem deseja ficar.",
-      "title_en": "Days of Being Wild",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/oBK7lTywbhvpY8AIdyS43yCVPbt.jpg",
-        "https://image.tmdb.org/t/p/w1280/7H5QU8VCzuJEpl9pC9JyeaSNDsH.jpg",
-        "https://image.tmdb.org/t/p/w1280/sk4ydlIibneEsUQI8SKHpfApVxO.jpg"
-      ],
-      "stills_focus": [
-        29.5,
-        43.3,
-        40.8
-      ],
-      "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
@@ -5006,6 +4867,43 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "paul-newman"
+    },
+    {
+      "id": "nimas_days-of-being-wild-dias-selvagens-1990",
+      "title": "Days of Being Wild – Dias Selvagens",
+      "director": "Wong Kar Wai",
+      "year": 1990,
+      "duration": 94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/4/3/4/40434-days-of-being-wild-0-500-0-750-crop.jpg?v=6d9f15154f",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/days-of-being-wild-dias-selvagens-1990",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.82,
+      "plot": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
+      "plot_pt": "1960. Yuddy (Leslie Cheung) é um jovem que descobriu recentemente que a mulher que o criou, uma prostituta, não é sua mãe biológica. Ela recusa-se a dizer-lhe quem é a sua verdadeira mãe, até que a revelação desencadeia uma série de perturbações mentais em Yuddy. Paralelamente duas mulheres apaixonam-se por ele, mas o jovem mostra-se incapaz de decidir com quem deseja ficar.",
+      "title_en": "Days of Being Wild",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/oBK7lTywbhvpY8AIdyS43yCVPbt.jpg",
+        "https://image.tmdb.org/t/p/w1280/bVEsJ2rX5m8BTKc97JoAYMsQnb5.jpg",
+        "https://image.tmdb.org/t/p/w1280/iatmWjHVdhSSMhX3OOISCluk7Zu.jpg"
+      ],
+      "stills_focus": [
+        29.5,
+        17.0,
+        40.5
+      ],
+      "country": "Hong Kong",
+      "director_lbxd_slug": "wong-kar-wai"
     },
     {
       "id": "batalha_sMcslj6qAT3F1vO1",
@@ -5134,13 +5032,13 @@ window.CINEMA_DATA = {
       "rating": 4.0,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/2TagGB8rcYEAbqWRxQAk19DlMaH.jpg",
-        "https://image.tmdb.org/t/p/w1280/y8Tipj1UFlYQYlkfoakbqE8mRV0.jpg",
-        "https://image.tmdb.org/t/p/w1280/x0aO30240fFD6L41T0mQJyOKJny.jpg"
+        "https://image.tmdb.org/t/p/w1280/x0aO30240fFD6L41T0mQJyOKJny.jpg",
+        "https://image.tmdb.org/t/p/w1280/cavNxI90moeijQRBwC8bCQUrgvb.jpg"
       ],
       "stills_focus": [
         35.3,
-        45.3,
-        20.3
+        20.3,
+        27.5
       ],
       "director_lbxd_slug": "satyajit-ray"
     },
@@ -5192,14 +5090,14 @@ window.CINEMA_DATA = {
       "country": "Thailand",
       "rating": 3.92,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/sraqqxwStjlhe82vb0mGx3VuHsD.jpg",
-        "https://image.tmdb.org/t/p/w1280/6KvTXWweemPG4wK3XCFsCPxKZp1.jpg",
-        "https://image.tmdb.org/t/p/w1280/kq622G2e95O6xxqoOmuqf9Y6Kic.jpg"
+        "https://image.tmdb.org/t/p/w1280/cqkP6KaWZix4FHE1XmjSK2rFAzN.jpg",
+        "https://image.tmdb.org/t/p/w1280/eOS4AbU5F9wH4Ufiu4GFRceGPSC.jpg",
+        "https://image.tmdb.org/t/p/w1280/sraqqxwStjlhe82vb0mGx3VuHsD.jpg"
       ],
       "stills_focus": [
-        43.4,
-        39.6,
-        47.4
+        36.6,
+        47.7,
+        43.4
       ],
       "director_lbxd_slug": "apichatpong-weerasethakul"
     },
@@ -5326,14 +5224,14 @@ window.CINEMA_DATA = {
       "country": "Japan",
       "rating": 4.07,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
         "https://image.tmdb.org/t/p/w1280/5qQAiDMkhOhBcIbSTP2BD5Qc36.jpg",
-        "https://image.tmdb.org/t/p/w1280/q5Tq1aIitmoSiNCYnpxYaEAfm0K.jpg"
+        "https://image.tmdb.org/t/p/w1280/kWWWnD58zHiQAg6wcLJjr0UD8CI.jpg",
+        "https://image.tmdb.org/t/p/w1280/oLui5hnc8HnkVDXruisqu3LZb6H.jpg"
       ],
       "stills_focus": [
-        34.0,
         29.6,
-        51.8
+        36.2,
+        34.0
       ],
       "director_lbxd_slug": "kaneto-shindo-1"
     },
@@ -5385,14 +5283,14 @@ window.CINEMA_DATA = {
       "country": "Ireland",
       "rating": 3.61,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/haJ6SsjxfhSRG61LMy4QJWxCNAb.jpg",
-        "https://image.tmdb.org/t/p/w1280/8z9wco9WC2XpfkQ8dPjUiLKJwGy.jpg",
-        "https://image.tmdb.org/t/p/w1280/6V5Jui7BiMHMr1ZIFmiFzefCzjd.jpg"
+        "https://image.tmdb.org/t/p/w1280/v2Gxnk93DLMGYlFS1M70lZui7SM.jpg",
+        "https://image.tmdb.org/t/p/w1280/sXyL2fGVxayVSDljPRGXucJy9Ov.jpg",
+        "https://image.tmdb.org/t/p/w1280/haJ6SsjxfhSRG61LMy4QJWxCNAb.jpg"
       ],
       "stills_focus": [
-        53.7,
-        53.1,
-        50.6
+        21.8,
+        18.9,
+        53.7
       ],
       "director_lbxd_slug": "don-bluth"
     },
@@ -5457,6 +5355,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Konkurs",
+      "plot_pt": "Considerado um dos primeiros filmes da Nova Vaga Checa, Audition marcou a estreia independente de Forman e antecipou temas centrais da sua obra: atores não profissionais, humor mordaz e atenção aos pequenos detalhes do quotidiano. Composto por duas curtas-metragens lançadas em conjunto, o filme acompanha dois músicos que trocam os ensaios por corridas de motas e um grupo de aspirantes ao estrelato que participa numa audição para o Teatro Semafor de Praga. A obra capta com ironia e frescura a rebeldia juvenil dos anos 60 face ao conformismo social e geracional.",
       "plot": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
       "country": "Czechoslovakia",
       "rating": 3.34,
@@ -5564,14 +5463,14 @@ window.CINEMA_DATA = {
       "country": "Japan",
       "rating": 4.38,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-        "https://image.tmdb.org/t/p/w1280/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
-        "https://image.tmdb.org/t/p/w1280/A1Larywbw79kZQqkvCEiPHJqdLN.jpg"
+        "https://image.tmdb.org/t/p/w1280/A1Larywbw79kZQqkvCEiPHJqdLN.jpg",
+        "https://image.tmdb.org/t/p/w1280/tSkeqUxitsSpjgjThGh7nimCa1K.jpg",
+        "https://image.tmdb.org/t/p/w1280/wqNks7mG1SR8FXQyFnoCW9WksP8.jpg"
       ],
       "stills_focus": [
-        42.4,
-        44.2,
-        32.7
+        32.7,
+        23.3,
+        11.5
       ],
       "director_lbxd_slug": "satoshi-kon"
     },
@@ -5747,6 +5646,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Filme de final de curso de José María Martín Sarmiento enquanto aluno do Instituto de Altos Estudos Cinematográficos (Paris), Los montes situa-se numa aldeia remota e quase abandonada do Bierzo Alto, nos confins da província de León. Oscilando entre a ficção satírica e a realidade, a obra acompanha o velório do último homem da aldeia e das restantes seis mulheres idosas que nela habitam. Entre o isolamento, a dureza das práticas agrícolas, e o regresso sazonal das romarias de verão, evocam-se os laços comunitários e a tradição oral como formas de resistência. O filme foi nomeado para o César de Melhor Curta-Metragem Documental.",
       "plot": "Los Montes de la Ermita, region of Bierzo Alto, in the province of León, Spain. Six women assist Joaquín —the only and last inhabitant of the remote village, located on the slopes of the mythical and mysterious Catoute Peak—, who is in danger of death due to an unfortunate accident.",
       "country": "France",
       "director_lbxd_slug": "jose-maria-martin-sarmiento"
@@ -5819,13 +5719,13 @@ window.CINEMA_DATA = {
       "rating": 4.24,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
-        "https://image.tmdb.org/t/p/w1280/ub2RdsyAt4NhdJcsXGHQaiAEafc.jpg",
-        "https://image.tmdb.org/t/p/w1280/eODPHCGwYXOcViMePY3bP5zCDPM.jpg"
+        "https://image.tmdb.org/t/p/w1280/eODPHCGwYXOcViMePY3bP5zCDPM.jpg",
+        "https://image.tmdb.org/t/p/w1280/kITtZwshhqNMyLEUykvAcw0NwNE.jpg"
       ],
       "stills_focus": [
         23.3,
-        48.9,
-        24.7
+        24.7,
+        46.5
       ],
       "director_lbxd_slug": "satoshi-kon"
     },
@@ -5890,13 +5790,13 @@ window.CINEMA_DATA = {
       "rating": 3.68,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/bCyK6eETwA6kzxLxDDuwJ3l7Wdw.jpg",
-        "https://image.tmdb.org/t/p/w1280/uMDy54ZjRLL6ZTjyyOzaglk6Z3N.jpg",
-        "https://image.tmdb.org/t/p/w1280/yBCZS8s7KU87rHZiMqKUT8jpmTw.jpg"
+        "https://image.tmdb.org/t/p/w1280/yBCZS8s7KU87rHZiMqKUT8jpmTw.jpg",
+        "https://image.tmdb.org/t/p/w1280/3gUb9G8W3pbA1RAYWfeU4wIdKrr.jpg"
       ],
       "stills_focus": [
         21.8,
-        50.6,
-        32.4
+        32.4,
+        23.1
       ],
       "director_lbxd_slug": "jacques-tourneur"
     },
@@ -5921,19 +5821,19 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Lásky jedné plavovlásky",
-      "plot_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times.",
+      "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro.",
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "rating": 3.78,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/jGwZRoK9wRJyufcx9qIQnsTxoyu.jpg",
-        "https://image.tmdb.org/t/p/w1280/6fZ7ehMdIPS98gVfIT7XCip3BL4.jpg",
-        "https://image.tmdb.org/t/p/w1280/8BixaOF8X144CaFR6qtAwIKKVL7.jpg"
+        "https://image.tmdb.org/t/p/w1280/8BixaOF8X144CaFR6qtAwIKKVL7.jpg",
+        "https://image.tmdb.org/t/p/w1280/hqe3UPV2h1bI2TXjt5Bx05VeOn6.jpg"
       ],
       "stills_focus": [
         39.8,
-        44.7,
-        51.6
+        51.6,
+        27.3
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -6042,13 +5942,13 @@ window.CINEMA_DATA = {
       "rating": 4.19,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
-        "https://image.tmdb.org/t/p/w1280/95ozIP0A2fKaAXxwDxUEVn74Iux.jpg",
-        "https://image.tmdb.org/t/p/w1280/fxYazFVeOCHpHwuqGuiqcCTw162.jpg"
+        "https://image.tmdb.org/t/p/w1280/nWpL5IeV5z0OCcyIgmLIsADODhE.jpg",
+        "https://image.tmdb.org/t/p/w1280/19SRdYFaxTbqG8rc9CpXmfLpPoM.jpg"
       ],
       "stills_focus": [
         48.2,
-        46.9,
-        52.3
+        53.1,
+        53.9
       ],
       "director_lbxd_slug": "hayao-miyazaki"
     },
@@ -6105,6 +6005,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico.",
       "plot": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
       "country": "Italy",
       "rating": 3.84,
@@ -6474,13 +6375,13 @@ window.CINEMA_DATA = {
       "rating": 4.1,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/6oXn0037WWw4fTCc3Qczof71lSp.jpg",
-        "https://image.tmdb.org/t/p/w1280/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
-        "https://image.tmdb.org/t/p/w1280/zfbuY4A9X5sTJ2bzTt84rtiDK9t.jpg"
+        "https://image.tmdb.org/t/p/w1280/zfbuY4A9X5sTJ2bzTt84rtiDK9t.jpg",
+        "https://image.tmdb.org/t/p/w1280/3iGoEy39fXKZnIZCk9x5AtN6Vtg.jpg"
       ],
       "stills_focus": [
         45.9,
-        53.5,
-        29.4
+        29.4,
+        19.8
       ],
       "director_lbxd_slug": "satoshi-kon"
     },
@@ -6701,14 +6602,14 @@ window.CINEMA_DATA = {
       "country": "Japan",
       "rating": 4.03,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/hNf6J498veQVdq5FhHmL08ardwf.jpg",
         "https://image.tmdb.org/t/p/w1280/exbO2IscjE2IX9C6upQIG1NtCsu.jpg",
-        "https://image.tmdb.org/t/p/w1280/aWZqRXoX7Ku4MkPwgMugi2F9fQx.jpg"
+        "https://image.tmdb.org/t/p/w1280/aWZqRXoX7Ku4MkPwgMugi2F9fQx.jpg",
+        "https://image.tmdb.org/t/p/w1280/tTjJoiULN0d2NaMIO3JFO7lgga8.jpg"
       ],
       "stills_focus": [
-        48.7,
         29.2,
-        51.5
+        51.5,
+        47.7
       ],
       "director_lbxd_slug": "katsuhiro-otomo-1"
     },
@@ -6773,14 +6674,14 @@ window.CINEMA_DATA = {
       "country": "Argentina",
       "rating": 3.36,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/y46l34DHFL0fjlGnisvaZbofaF8.jpg",
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
-        "https://image.tmdb.org/t/p/w1280/orgE2QHS1CGGfygilTG5oqi2hPO.jpg"
+        "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
+        "https://image.tmdb.org/t/p/w1280/1Q8Kby0AWy70kvjvWRQBUpBXal2.jpg"
       ],
       "stills_focus": [
-        41.1,
         32.3,
-        51.4
+        25.9,
+        28.9
       ],
       "director_lbxd_slug": "matias-pineiro"
     },
@@ -6949,6 +6850,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -7017,6 +6919,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -7039,6 +6942,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -7070,6 +6974,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -7100,12 +7005,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/n9irXcigQGlcub5JJ6RV1EdDW1J.jpg",
         "https://image.tmdb.org/t/p/w1280/t2DJFqKeoXwxkexpDyFtrNKcwlP.jpg",
-        "https://image.tmdb.org/t/p/w1280/dJkgn464101elpzulS4mPosIHMX.jpg"
+        "https://image.tmdb.org/t/p/w1280/yC2oJaQ5fzTECgQvRjsdh1jqUSh.jpg"
       ],
       "stills_focus": [
         28.2,
         17.4,
-        40.2
+        17.4
       ],
       "director_lbxd_slug": "gus-van-sant"
     },
@@ -7246,14 +7151,14 @@ window.CINEMA_DATA = {
       "country": "Japan",
       "rating": 4.16,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
         "https://image.tmdb.org/t/p/w1280/w2p9n6wE4kmAQqIUql6miQaRWvr.jpg",
-        "https://image.tmdb.org/t/p/w1280/cF95DK4uXriqM03ZsDFqnbufIfS.jpg"
+        "https://image.tmdb.org/t/p/w1280/hSfqwjI7klNtexZ48quPz8l95T1.jpg",
+        "https://image.tmdb.org/t/p/w1280/A7n7siS0KwXSKA6ZhRwsOx5YUb4.jpg"
       ],
       "stills_focus": [
-        37.2,
         61.0,
-        35.3
+        30.3,
+        48.7
       ],
       "director_lbxd_slug": "hirokazu-kore-eda"
     },
@@ -7585,12 +7490,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/fLvgZEMv012AHZk2PAxMyG8WROt.jpg",
         "https://image.tmdb.org/t/p/w1280/gssl4I0ozpcP4v7IEKvCPqlKGZP.jpg",
-        "https://image.tmdb.org/t/p/w1280/eXy2BiLb1B4IUnlqpMFDazrdZ1E.jpg"
+        "https://image.tmdb.org/t/p/w1280/zujeH7DpfJtYdhEzRloH92XFSpZ.jpg"
       ],
       "stills_focus": [
-        33.0,
+        32.7,
         39.2,
-        49.3
+        25.3
       ],
       "director_lbxd_slug": "andrea-arnold"
     },
@@ -7647,7 +7552,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         43.0,
         26.0,
-        19.3
+        19.4
       ],
       "director_lbxd_slug": "luis-garcia-berlanga"
     },
@@ -7759,7 +7664,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.3
+        46.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -7787,14 +7692,14 @@ window.CINEMA_DATA = {
       "country": "France",
       "rating": 3.76,
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/2Mlw0JRNZHXLYxbeJ0LmiCCTiok.jpg",
-        "https://image.tmdb.org/t/p/w1280/h0L4AI7qx0x5rJu9sbpSHYjw0Ln.jpg",
-        "https://image.tmdb.org/t/p/w1280/szfsfDdTBIC9tnThFKI8nZyZiwS.jpg"
+        "https://image.tmdb.org/t/p/w1280/szfsfDdTBIC9tnThFKI8nZyZiwS.jpg",
+        "https://image.tmdb.org/t/p/w1280/533yR1GeFx6diRmoULbFCjIWgcf.jpg",
+        "https://image.tmdb.org/t/p/w1280/2Mlw0JRNZHXLYxbeJ0LmiCCTiok.jpg"
       ],
       "stills_focus": [
-        40.5,
-        39.4,
-        34.5
+        34.5,
+        20.5,
+        40.5
       ],
       "director_lbxd_slug": "gaspar-noe"
     },
@@ -7854,12 +7759,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
         "https://image.tmdb.org/t/p/w1280/vMylmakO2K9cZexNUze8wa9muJp.jpg",
-        "https://image.tmdb.org/t/p/w1280/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg"
+        "https://image.tmdb.org/t/p/w1280/2j9oIcG4Pz38ESaUMTnmYhL6UM2.jpg"
       ],
       "stills_focus": [
         35.4,
         27.3,
-        47.3
+        46.0
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -7915,6 +7820,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "stills": [
@@ -7996,121 +7902,6 @@ window.CINEMA_DATA = {
         41.3
       ],
       "director_lbxd_slug": "emeric-pressburger"
-    },
-    {
-      "id": "trindade_8686",
-      "title": "A Mulher do Lado",
-      "director": "François Truffaut",
-      "year": 1981,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/6/0/44460-the-woman-next-door-0-500-0-750-crop.jpg?v=df8962fc4d",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/a-mulher-do-lado",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "14:05",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.59,
-      "plot": "Two ex-lovers wind up living next door to each other with their respective spouses. Forbidden passions ensue.",
-      "plot_pt": "Bernard e Mathilde apaixonam-se perdidamente, antes de viverem uma separação conturbada. Sete anos depois, o destino volta a uni-los quando Mathilde — que se casou recentemente com Philippe — se muda para a casa ao lado daquela onde vivem Bernard, a sua mulher, Arlette, e o seu filho pequeno, Thomas. Madame Jouve, testemunha e confidente dos dois antigos amantes, vê-os selar um pacto de não agressão. Quem o quebrará primeiro?",
-      "title_en": "The Woman Next Door",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/OUsYvkuqmGuE63IE5a2QQqW426.jpg",
-        "https://image.tmdb.org/t/p/w1280/tPVxib37w37iEYTJBCTsmsrD5Lx.jpg",
-        "https://image.tmdb.org/t/p/w1280/dsKF9o38nKndOkRb7tp2omW1p7j.jpg"
-      ],
-      "stills_focus": [
-        36.5,
-        29.7,
-        20.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
-      "id": "trindade_9078",
-      "title": "Calle Málaga",
-      "director": "Maryam Touzani",
-      "year": 2025,
-      "duration": 116,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/1/2/1/1283121-calle-malaga-0-500-0-750-crop.jpg?v=56f895b229",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/calle-malaga",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-07",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-09",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-09",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-10",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-11",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-12",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.68,
-      "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-      "plot_pt": "María Ángeles, uma mulher espanhola de 79 anos, vive sozinha em Tânger, Marrocos, e desfruta da sua rotina diária, até que a chegada da filha, vinda de Madrid com intenção de vender o apartamento onde María sempre viveu, vira a sua vida do avesso. Determinada a ficar, faz tudo o que pode para recuperar a sua casa e os seus bens. Inesperadamente, redescobre também o amor e a sensualidade.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-        "https://image.tmdb.org/t/p/w1280/7ftWLrXsdOPMQGOFlMplaBJbsqA.jpg",
-        "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg"
-      ],
-      "stills_focus": [
-        26.5,
-        42.6,
-        25.5
-      ],
-      "country": "Morocco",
-      "director_lbxd_slug": "maryam-touzani"
     },
     {
       "id": "trindade_8757",
@@ -8716,46 +8507,10 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
       ],
       "stills_focus": [
-        40.6
+        40.9
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
-    },
-    {
-      "id": "trindade_9099",
-      "title": "Jane B. Por Agnès V.",
-      "director": "Agnès Varda",
-      "year": 1988,
-      "duration": 97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/3/12893-jane-b-by-agnes-v--0-500-0-750-crop.jpg?v=83a24ec796",
-      "genres": [
-        "Fantasy",
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/jane-b-por-agnes-varda",
-      "sessions": [
-        {
-          "date": "2026-08-12",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.0,
-      "plot": "The interests, obsessions, and fantasies of two singular artists converge in this inspired collaboration between Agnès Varda and her longtime friend the actor Jane Birkin. Made over the course of a year and motivated by Birkin’s fortieth birthday—a milestone she admits to some anxiety over—Jane B. by Agnès V. contrasts the private, reflective Birkin with Birkin the icon.",
-      "plot_pt": "Descobre-se Jane Birkin sob várias facetas, em todos seus estados e em diferentes estações, como ela mesma ou como outras Jane: d'Arc, Calamity Jane, a Jane do Tarzan e a Jane do Gainsbourg.",
-      "title_en": "Jane B. by Agnès V.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/wn4iwTix9AVcMMVbWNOG9ddstuI.jpg",
-        "https://image.tmdb.org/t/p/w1280/o7hj4TiztXxpHkbQJKhTA2vdf0p.jpg",
-        "https://image.tmdb.org/t/p/w1280/qSiQwegnFZv9Z3xMRxjtOqSp5uF.jpg"
-      ],
-      "stills_focus": [
-        42.2,
-        25.8,
-        55.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "ideal_um_toque_familiar",
@@ -8791,13 +8546,13 @@ window.CINEMA_DATA = {
       "title_en": "Familiar Touch",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/sq2IW3AbdiH8J3JqHUIErAPRn86.jpg",
-        "https://image.tmdb.org/t/p/w1280/1QS3YkR9ykDxohWO4hPOyPvTxtY.jpg",
-        "https://image.tmdb.org/t/p/w1280/bjhpCT7p6xD3YQh3bIkdIxr2xMr.jpg"
+        "https://image.tmdb.org/t/p/w1280/bjhpCT7p6xD3YQh3bIkdIxr2xMr.jpg",
+        "https://image.tmdb.org/t/p/w1280/dCUEYnvgtkVGMb1dmqebzw9Wwn3.jpg"
       ],
       "stills_focus": [
         49.7,
-        43.5,
-        28.3
+        28.3,
+        29.9
       ],
       "country": "USA",
       "director_lbxd_slug": "sarah-friedland-1"
@@ -8858,7 +8613,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         24.9,
         25.6,
-        35.8
+        35.4
       ],
       "country": "France",
       "director_lbxd_slug": "marjane-satrapi"
@@ -8867,13 +8622,12 @@ window.CINEMA_DATA = {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
       "director": "Jane Pollard, Iain Forsyth",
-      "year": 2007,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/7/4/43974-broken-english-0-500-0-750-crop.jpg?v=5d270acabb",
+      "year": 2025,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/8/1393058-broken-english-2025-0-500-0-750-crop.jpg?v=c496ee8e4d",
       "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
+        "Music",
+        "Documentary"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64076",
@@ -8889,20 +8643,18 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ],
-      "rating": 3.2,
-      "plot": "Nora Wilder is freaking out. Everyone around her is either in a relationship, married, or has children, while she's in her thirties, alone with job she's outgrown and a mother who constantly reminds her of it all. Not to mention her best friend Audrey's \"perfect marriage\". But after a series of disastrous dates, Nora unexpectedly meets Julien, a quirky Frenchman who opens her eyes to a lot more than love.",
+      "rating": 3.48,
+      "plot": "A survivor, provocateur and true original, Marianne has spent more than six decades defying expectations — releasing over thirty-five albums while constantly reinventing herself. Made with her full involvement, Broken English is an intimate and unflinching exploration of a fractured yet unbreakable life shaped by fame, creativity and relentless public scrutiny.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/2UKq6hSZokwSxKrpkzzM80qVYQS.jpg",
-        "https://image.tmdb.org/t/p/w1280/p0jDTyauIMm9T0cS8Vh9JbOlpcZ.jpg",
-        "https://image.tmdb.org/t/p/w1280/mPiQYQipsNnXS1jcFvH2qBczmZh.jpg"
+        "https://image.tmdb.org/t/p/w1280/253S3mBfoE7Bd0Ioe9pXEvdhlh6.jpg",
+        "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
       ],
       "stills_focus": [
-        28.7,
-        34.2,
-        44.7
+        43.3,
+        31.7
       ],
-      "country": "Japan",
-      "director_lbxd_slug": "zoe-cassavetes-1"
+      "country": "UK",
+      "director_lbxd_slug": "jane-pollard"
     },
     {
       "id": "ideal_a_saga_de_anatahan",
@@ -8918,11 +8670,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66046",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "14:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-06",
           "time": "18:00",
@@ -9001,6 +8748,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.69,
       "plot": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "plot_pt": "The Xangai Gesture (Brasil: Tensão em Xangai / Portugal: Aconteceu em Xangai) é um filme norte-americano de 1941, do gênero policial, dirigido por Josef von Sternberg e estrelado por Gene Tierney e Walter Huston.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/eKLHQ9YOpeRwBcYXH2GGLOg7AdC.jpg",
         "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
@@ -9038,13 +8786,13 @@ window.CINEMA_DATA = {
       "title_en": "I Am Cuba",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
-        "https://image.tmdb.org/t/p/w1280/tdwqH8D9QE4CxQB33z9hMBWbSL.jpg",
-        "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg"
+        "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg",
+        "https://image.tmdb.org/t/p/w1280/wRKmrZic25ylw0RYEuVpU4lBuSM.jpg"
       ],
       "stills_focus": [
         36.2,
-        49.2,
-        23.6
+        23.6,
+        33.0
       ],
       "country": "Cuba",
       "director_lbxd_slug": "mikhail-kalatozov"
@@ -9207,20 +8955,25 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Howard_Hawks_head_shot.jpg/500px-Howard_Hawks_head_shot.jpg",
       "bio": "Howard Winchester Hawks (May 30, 1896 – December 26, 1977) was an American film director, producer, and screenwriter of the classic Hollywood era. The critic Leonard Maltin called him \"the greatest American director who is not a household name.\" Roger Ebert called Hawks \"one of the greatest American directors of pure movies, and a hero of auteur critics because he found his own laconic values in so many different kinds of genre material.\" He was nominated for the Academy Award for Best Director for Sergeant York (1941) and earned the Honorary Academy Award in 1974. A versatile director, Hawks explored many genres such as comedies, dramas, gangster films, science fiction, film noir, war films and Westerns."
     },
-    "Claude Chabrol": {
-      "lbxd_slug": "claude-chabrol",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chabrol-italie-1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Claude Henri Jean Chabrol (French: [klod ʃabʁɔl]; 24 June 1930 – 12 September 2010) was a French film director and a member of the French New Wave (nouvelle vague) group of filmmakers who first came to prominence at the end of the 1950s. Like his colleagues and contemporaries Jean-Luc Godard, François Truffaut, Éric Rohmer and Jacques Rivette, Chabrol was a critic for the influential film magazine Cahiers du Cinéma before beginning his career as a filmmaker. His feature debut, Le Beau Serge (1958), was inspired by Hitchcock's Shadow of a Doubt (1943)."
-    },
     "Agnès Varda": {
       "lbxd_slug": "agnes-varda",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
     },
+    "Claude Chabrol": {
+      "lbxd_slug": "claude-chabrol",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chabrol-italie-1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Claude Henri Jean Chabrol (French: [klod ʃabʁɔl]; 24 June 1930 – 12 September 2010) was a French film director and a member of the French New Wave (nouvelle vague) group of filmmakers who first came to prominence at the end of the 1950s. Like his colleagues and contemporaries Jean-Luc Godard, François Truffaut, Éric Rohmer and Jacques Rivette, Chabrol was a critic for the influential film magazine Cahiers du Cinéma before beginning his career as a filmmaker. His feature debut, Le Beau Serge (1958), was inspired by Hitchcock's Shadow of a Doubt (1943)."
+    },
     "Robert Bresson": {
       "lbxd_slug": "robert-bresson",
       "photo": null,
       "bio": "Robert Bresson (French: [ʁɔbɛʁ bʁɛsɔ̃]; 25 September 1901 – 18 December 1999) was a French filmmaker. Known for his ascetic approach, Bresson made a notable contribution to the art of cinema; his non-professional actors, ellipses, and sparse use of scoring have led his works to be regarded as preeminent examples of minimalist film. Much of his work is known for being tragic in story and nature."
+    },
+    "Les Demoiselles ont eu 25 ans": {
+      "lbxd_slug": "agnes-varda",
+      "photo": null,
+      "bio": "1993 film by Agnès Varda"
     },
     "Jacques Tati": {
       "lbxd_slug": "jacques-tati",
@@ -9236,11 +8989,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "luchino-visconti",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
       "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
-    },
-    "Les Demoiselles ont eu 25 ans": {
-      "lbxd_slug": "agnes-varda",
-      "photo": null,
-      "bio": "1993 film by Agnès Varda"
     },
     "Sophie Letourneur": {
       "lbxd_slug": "sophie-letourneur",
@@ -9277,11 +9025,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Identite-LouisMalle-1958-Sacem.png/500px-Identite-LouisMalle-1958-Sacem.png",
       "bio": "Louis Marie Malle (French: [lwi maʁi mal]; 30 October 1932 – 23 November 1995) was a French filmmaker who worked in France and Hollywood. Described as \"eclectic\" and \"difficult to pin down\", his works often depict provocative or controversial subject matter. Malle's most famous works include the crime thriller Elevator to the Gallows (1958), the romantic drama The Lovers (1958), the World War II drama Lacombe, Lucien (1974), the period drama Pretty Baby (1978), the romantic crime film Atlantic City (1980), the dramedy My Dinner with Andre (1981), and the autobiographical Au revoir les enfants (1987)."
     },
-    "Leo McCarey": {
-      "lbxd_slug": "leo-mccarey",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg/500px-Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Thomas Leo McCarey (October 3, 1898 – July 5, 1969) was an American film director, screenwriter, and producer. He was involved in nearly 200 films, including the critically acclaimed Duck Soup, Make Way for Tomorrow, The Awful Truth, Going My Way, The Bells of St. Mary's, My Son John, and An Affair to Remember."
-    },
     "Ingmar Bergman": {
       "lbxd_slug": "ingmar-bergman",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
@@ -9291,6 +9034,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "jean-pierre-melville",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Pierre_Melville_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Jean-Pierre Grumbach (20 October 1917–2 August 1973), known professionally as Jean-Pierre Melville (French: [ʒɑ̃ pjɛʁ mɛlvil]), was a French filmmaker. Considered a spiritual godfather of the French New Wave, he was one of the first fully-independent French filmmakers to achieve commercial and critical success. His works include the crime dramas Bob le flambeur (1956), Le Doulos (1962), Le Samouraï (1967), and Le Cercle Rouge (1970), and the war films Le Silence de la mer (1949) and Army of Shadows (1969)."
+    },
+    "Leo McCarey": {
+      "lbxd_slug": "leo-mccarey",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg/500px-Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Thomas Leo McCarey (October 3, 1898 – July 5, 1969) was an American film director, screenwriter, and producer. He was involved in nearly 200 films, including the critically acclaimed Duck Soup, Make Way for Tomorrow, The Awful Truth, Going My Way, The Bells of St. Mary's, My Son John, and An Affair to Remember."
     },
     "Wim Wenders": {
       "lbxd_slug": "wim-wenders",
@@ -9317,15 +9065,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
       "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
     },
-    "Jacques Rivette": {
-      "lbxd_slug": "jacques-rivette-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jacques_Rivette_5_%28cropped%29.jpg/500px-Jacques_Rivette_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Jacques Rivette (French: [ʒak ʁivɛt]; 1 March 1928 – 29 January 2016) was a French film director and film critic most commonly associated with the French New Wave and the film magazine Cahiers du Cinéma. He made twenty-nine films, including L'Amour fou (1969), Out 1 (1971), Céline and Julie Go Boating (1974), and La Belle Noiseuse (1991). His work is noted for its improvisation, loose narratives, and lengthy running times."
-    },
     "Edgar Reitz": {
       "lbxd_slug": "edgar-reitz",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Edgar_Reitz_at_the_2025_Berlin_International_Film_Festival-68043.jpg/500px-Edgar_Reitz_at_the_2025_Berlin_International_Film_Festival-68043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Edgar Reitz (born 1 November 1932) is a German filmmaker and Professor of Film at the Staatliche Hochschule für Gestaltung (State University of Design) in Karlsruhe. He is best-known for his internationally acclaimed Heimat film series (1984–2013)."
+    },
+    "Jacques Rivette": {
+      "lbxd_slug": "jacques-rivette-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jacques_Rivette_5_%28cropped%29.jpg/500px-Jacques_Rivette_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jacques Rivette (French: [ʒak ʁivɛt]; 1 March 1928 – 29 January 2016) was a French film director and film critic most commonly associated with the French New Wave and the film magazine Cahiers du Cinéma. He made twenty-nine films, including L'Amour fou (1969), Out 1 (1971), Céline and Julie Go Boating (1974), and La Belle Noiseuse (1991). His work is noted for its improvisation, loose narratives, and lengthy running times."
     },
     "Agnés Varda": {
       "lbxd_slug": "agnes-varda",
@@ -9763,7 +9511,7 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Jane Pollard, Iain Forsyth": {
-      "lbxd_slug": "zoe-cassavetes-1",
+      "lbxd_slug": "jane-pollard",
       "photo": null,
       "bio": null
     },

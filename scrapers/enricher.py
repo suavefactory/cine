@@ -1074,11 +1074,27 @@ def enrich(movies, from_scrapers=False):
         )
         needs_rating = cached is None or not (cached.get("lbxd") and cached["lbxd"].get("rating"))
 
-        if cached is None or needs_rating or needs_fields:
+        # O realizador do cinema pode só aparecer depois da primeira
+        # resolução — o Ideal publica-o no site e nem sempre o apanhamos à
+        # primeira. Sem ele, a resolução foi feita às cegas: o "Broken
+        # English" de Forsyth e Pollard ficou com o rating, a sinopse e o
+        # país do filme homónimo de 2007 da Zoe Cassavetes. Quando o que está
+        # guardado não bate com o que sabemos agora, refaz-se tudo. Fica
+        # marcado como verificado para não voltar a refazer em quem tem
+        # apenas o nome grafado de outra maneira (Koreeda / Kore-eda).
+        wrong_director = False
+        if director and cached and not cached.get("dir_checked"):
+            lb_dir = (cached.get("lbxd") or {}).get("lb_director")
+            if lb_dir and not director_matches(lb_dir, director):
+                wrong_director = True
+
+        if cached is None or needs_rating or needs_fields or wrong_director:
             print(f"  [LB] {title}...", end=" ", flush=True)
             lb   = cached.get("lbxd") if cached else None
             omdb = cached.get("omdb") if cached else None
-            if cached is None or needs_rating:
+            if wrong_director:
+                lb = omdb = None      # o que estava era de outro filme
+            if cached is None or needs_rating or wrong_director:
                 lb   = lbxd_lookup(title, year, director=director)
                 omdb = omdb_lookup(title, year, director=director)
             elif needs_fields:
@@ -1190,7 +1206,8 @@ def enrich(movies, from_scrapers=False):
                     extra_titles=(orig_title, (lb or {}).get("lb_title"),
                                   (omdb or {}).get("Title")))
 
-            cache[key] = {"lbxd": lb, "omdb": omdb, "wiki": wiki, "cinema": meta}
+            cache[key] = {"lbxd": lb, "omdb": omdb, "wiki": wiki, "cinema": meta,
+                          "dir_checked": True}
             changed = True
             if lb and lb.get("rating"):
                 print(f"★ {lb['rating']}/5", end="")

@@ -559,13 +559,13 @@
     "tmdb_id": "844",
     "stills_focus": [
       21.1,
-      45.3,
-      44.9
+      44.9,
+      14.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/h3JAMIeywbzobkhu2rt3mQAwRR1.jpg",
-      "https://image.tmdb.org/t/p/w1280/tvvPg5H5AtWJ6FYcsA4qYnO3R9N.jpg",
-      "https://image.tmdb.org/t/p/w1280/bpveJQCyjNJtMFilQAxzTmJfrz6.jpg"
+      "https://image.tmdb.org/t/p/w1280/bpveJQCyjNJtMFilQAxzTmJfrz6.jpg",
+      "https://image.tmdb.org/t/p/w1280/yu81JgyhfrilG6Ax0ajnh8utuPc.jpg"
     ]
   },
   "PO ZAKONU|1926": {
@@ -1023,13 +1023,13 @@
     "tmdb_id": "1398",
     "stills_focus": [
       34.8,
-      38.6,
-      41.3
+      41.3,
+      54.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "https://image.tmdb.org/t/p/w1280/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
-      "https://image.tmdb.org/t/p/w1280/mCilWem3lYS16WcE5Idje5Q4lIM.jpg"
+      "https://image.tmdb.org/t/p/w1280/mCilWem3lYS16WcE5Idje5Q4lIM.jpg",
+      "https://image.tmdb.org/t/p/w1280/3djnplHuJZmmFTTCA7CiETSR9E.jpg"
     ]
   },
   "Blue Moon|2025": {
@@ -2582,14 +2582,14 @@
     },
     "tmdb_id": "426",
     "stills_focus": [
-      40.6,
       45.9,
-      52.4
+      52.4,
+      11.1
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
       "https://image.tmdb.org/t/p/w1280/7wt1DA7duYtUitwZs4ChV3VYGRx.jpg",
-      "https://image.tmdb.org/t/p/w1280/77aHwg1SCy89rfvQtiruPU58qEV.jpg"
+      "https://image.tmdb.org/t/p/w1280/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+      "https://image.tmdb.org/t/p/w1280/80ESwPTkj0QMLQiSf7jWCZ5mrTe.jpg"
     ]
   },
   "Ladrão de Casaca|1955": {
@@ -11554,12 +11554,12 @@
     "stills_focus": [
       25.4,
       19.5,
-      46.7
+      29.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jLq0ol1f0ZKXni9R9GsPBcyPrNN.jpg",
       "https://image.tmdb.org/t/p/w1280/zbJcTaWAYJt6W1S5W3dUE8D9KTI.jpg",
-      "https://image.tmdb.org/t/p/w1280/y9pHdZ3j32cSJMCAgEUC3br5Hh3.jpg"
+      "https://image.tmdb.org/t/p/w1280/H8T7fNWS8Wadf6ERBMEHWYcFp7.jpg"
     ]
   },
   "Dersu Uzala|1975": {
@@ -13722,12 +13722,12 @@
     "stills_focus": [
       37.9,
       18.9,
-      59.4
+      23.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
       "https://image.tmdb.org/t/p/w1280/mzI1JXm8sX5fia3ifPS2jGPUh2n.jpg",
-      "https://image.tmdb.org/t/p/w1280/m0GkHBGFsfhxwooex1j4qdotmUl.jpg"
+      "https://image.tmdb.org/t/p/w1280/2g2TOGrz83UURTkm5ix16qAiJZz.jpg"
     ]
   },
   "Embriagado de Amor|2002": {
@@ -20245,12 +20245,12 @@
     "stills_focus": [
       30.1,
       21.2,
-      35.4
+      30.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
       "https://image.tmdb.org/t/p/w1280/fTeaaAXt4hzmud7CLYPTwqWvqsb.jpg",
-      "https://image.tmdb.org/t/p/w1280/8wdCkGKLxIulbnBuE9cCLZ70DMA.jpg"
+      "https://image.tmdb.org/t/p/w1280/eksdcZ9tqjspmr6HGGzExVmCHwD.jpg"
     ]
   },
   "Maridos|1970": {
@@ -20378,7 +20378,15 @@
       "year": 2000,
       "director": "Wong Kar Wai"
     },
-    "tmdb_id": "654086"
+    "tmdb_id": "654086",
+    "stills_focus": [
+      30.1,
+      32.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8w7Bzp8Czm8FpHZcVTKhxTyeRhk.jpg",
+      "https://image.tmdb.org/t/p/w1280/ebmZy4qKeTI3a8TTSDwFCNHVQIj.jpg"
+    ]
   },
   "Fallen Angels — Anjos Caídos|1995": {
     "lbxd": {
@@ -20455,13 +20463,13 @@
     "tmdb_id": "11220",
     "stills_focus": [
       45.3,
-      46.2,
-      45.3
+      29.5,
+      43.5
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/lInQVVbPjKFGX7GDcxNMXALy2Y4.jpg",
-      "https://image.tmdb.org/t/p/w1280/v4FepSc09TsRy2fQtUg6vvzrTq0.jpg",
-      "https://image.tmdb.org/t/p/w1280/i4bbJnECdbgb7o12NyHnJa5MUIu.jpg"
+      "https://image.tmdb.org/t/p/w1280/i4bbJnECdbgb7o12NyHnJa5MUIu.jpg",
+      "https://image.tmdb.org/t/p/w1280/vX784AqjFn9fM6MQ8rl8zT6926q.jpg",
+      "https://image.tmdb.org/t/p/w1280/uPc5yPNmEZmDg21WOWk4deYzK2L.jpg"
     ]
   },
   "Gloria|1979": {
@@ -21243,13 +21251,13 @@
     "tmdb_id": "18311",
     "stills_focus": [
       29.5,
-      43.3,
-      40.8
+      17.0,
+      40.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oBK7lTywbhvpY8AIdyS43yCVPbt.jpg",
-      "https://image.tmdb.org/t/p/w1280/7H5QU8VCzuJEpl9pC9JyeaSNDsH.jpg",
-      "https://image.tmdb.org/t/p/w1280/sk4ydlIibneEsUQI8SKHpfApVxO.jpg"
+      "https://image.tmdb.org/t/p/w1280/bVEsJ2rX5m8BTKc97JoAYMsQnb5.jpg",
+      "https://image.tmdb.org/t/p/w1280/iatmWjHVdhSSMhX3OOISCluk7Zu.jpg"
     ]
   },
   "Bravo Bene!|2025": {
@@ -26973,12 +26981,12 @@
     "stills_focus": [
       24.3,
       25.2,
-      42.5
+      37.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cy7ymUaMEWRoig7LWXpfzaaw2vv.jpg",
       "https://image.tmdb.org/t/p/w1280/taKqnJDOAzg5D8zuYD7IaPdgqKV.jpg",
-      "https://image.tmdb.org/t/p/w1280/ebRB1IVvJEL6GsJAKNDITBTAgLC.jpg"
+      "https://image.tmdb.org/t/p/w1280/wXB4Fn0L4n41ZzRsfFY8YsPeoCs.jpg"
     ]
   },
   "L’aventura|2025": {
@@ -27371,7 +27379,7 @@
     },
     "tmdb_id": "4683",
     "stills_focus": [
-      40.6
+      40.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
@@ -28265,63 +28273,66 @@
   },
   "BROKEN ENGLISH|None": {
     "lbxd": {
-      "rating": 3.2,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/9/7/4/43974-broken-english-0-500-0-750-crop.jpg?v=5d270acabb",
-      "description": "Nora Wilder is freaking out. Everyone around her is either in a relationship, married, or has children, while she's in her thirties, alone with job she's outgrown and a mother who constantly reminds her of it all. Not to mention her best friend Audrey's \"perfect marriage\". But after a series of disastrous dates, Nora unexpectedly meets Julien, a quirky Frenchman who opens her eyes to a lot more than love.",
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/8/1393058-broken-english-2025-0-500-0-750-crop.jpg?v=c496ee8e4d",
+      "description": "A survivor, provocateur and true original, Marianne has spent more than six decades defying expectations — releasing over thirty-five albums while constantly reinventing herself. Made with her full involvement, Broken English is an intimate and unflinching exploration of a fractured yet unbreakable life shaped by fame, creativity and relentless public scrutiny.",
       "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
+        "Music",
+        "Documentary"
       ],
-      "country": "Japan",
-      "lb_director": "Zoe Cassavetes",
-      "lb_director_slug": "zoe-cassavetes-1",
-      "lb_year": 2007,
-      "lb_title": "Broken English"
+      "country": "UK",
+      "lb_director": "Jane Pollard",
+      "lb_director_slug": "jane-pollard",
+      "lb_year": 2025,
+      "lb_title": "Broken English",
+      "backdrop": null,
+      "imdb_id": "tt37660889",
+      "tmdb_id": "1517161"
     },
     "omdb": {
       "Title": "Broken English",
-      "Year": "2007",
-      "Rated": "PG-13",
-      "Released": "16 Jul 2008",
-      "Runtime": "93 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "Zoe R. Cassavetes",
-      "Writer": "Zoe R. Cassavetes",
-      "Actors": "Parker Posey, Drea de Matteo, Tim Guinee",
-      "Plot": "Since college, Nora hasn't had much luck with men. Now in her 30s, she works in a NYC hotel going nowhere. That is, until she meets Julien.",
-      "Language": "English, French",
-      "Country": "France, Japan, United States",
-      "Awards": "1 win & 6 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NzMwNjIwMDJeQTJeQWpwZ15BbWU3MDMyNDgzNTE@._V1_SX300.jpg",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "30 Aug 2025",
+      "Runtime": "96 min",
+      "Genre": "Documentary",
+      "Director": "Iain Forsyth, Jane Pollard",
+      "Writer": "N/A",
+      "Actors": "Marianne Faithfull, Zawe Ashton, Nick Cave",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "N/A",
       "Ratings": [
         {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        },
-        {
           "Source": "Rotten Tomatoes",
-          "Value": "65%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "61/100"
+          "Value": "92%"
         }
       ],
-      "Metascore": "61",
-      "imdbRating": "6.3",
-      "imdbVotes": "7,430",
-      "imdbID": "tt0772157",
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37660889",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "$956,919",
+      "BoxOffice": "N/A",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
     },
     "wiki": null,
     "cinema": {},
-    "tmdb_id": "13337"
+    "dir_checked": true,
+    "stills_focus": [
+      43.3,
+      31.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/253S3mBfoE7Bd0Ioe9pXEvdhlh6.jpg",
+      "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
+    ],
+    "tmdb_id": "1517161"
   },
   "SESSÃO 6 | LES NUITS EN OR 2026|None": {
     "lbxd": null,
@@ -28655,9 +28666,9 @@
     "tmdb_id": "1317616",
     "wiki_tries": 3,
     "stills_focus": [
-      45.9,
-      41.4,
-      43.6
+      45.8,
+      41.5,
+      43.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mKP4wapXPgIDVXrFZNzRQhPaExS.jpg",
@@ -30880,7 +30891,10 @@
       "lb_director": "Marjane Satrapi",
       "lb_director_slug": "marjane-satrapi",
       "lb_year": 2007,
-      "lb_title": "Persepolis"
+      "lb_title": "Persepolis",
+      "backdrop": null,
+      "imdb_id": "tt0808417",
+      "tmdb_id": "2011"
     },
     "omdb": {
       "Title": "Persepolis",
@@ -30928,6 +30942,17 @@
       "extract_pt": "Persepolis (bra/prt: Persépolis) é um filme francês de animação de 2007, baseado no romance gráfico autobiográfico homônimo de Marjane Satrapi. O filme foi escrito e dirigido por Satrapi e Vincent Paronnaud. Sua trama começa pouco antes da Revolução Iraniana, quando Marjane atinge a adolescência, e acaba quando ela é uma expatriada de 22 anos. O título é uma referência à cidade histórica de Persépolis."
     },
     "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      24.9,
+      25.6,
+      35.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
+      "https://image.tmdb.org/t/p/w1280/efoD6dDoo2WwkGfHjgIuHy79S1k.jpg",
+      "https://image.tmdb.org/t/p/w1280/6kqybERm5qi2jGpu8I7DaQPxpSU.jpg"
+    ],
     "tmdb_id": "2011"
   },
   "Toy Story 3|2010": {
@@ -31227,6 +31252,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Mali Futur Live|None": {
@@ -31234,6 +31260,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Old Shatterhand|1964": {
@@ -32347,7 +32374,7 @@
     "stills_focus": [
       28.7,
       22.9,
-      43.3
+      43.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
@@ -32914,13 +32941,13 @@
     "tmdb_id": "42635",
     "stills_focus": [
       22.8,
-      38.1,
-      44.0
+      25.0,
+      32.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/agPJ2Snxm9PWEyR2uabc0ncN8T3.jpg",
-      "https://image.tmdb.org/t/p/w1280/jChjQ2SXjPELzZvsMu5emRGWNAx.jpg",
-      "https://image.tmdb.org/t/p/w1280/otJ843NzBqw8fkim5csLw4i9SeH.jpg"
+      "https://image.tmdb.org/t/p/w1280/92EB2w8nrt70xZsXkGZC5M3v9NJ.jpg",
+      "https://image.tmdb.org/t/p/w1280/sBzeWFfApH8jrpSR2BpUpNQrfKM.jpg"
     ]
   },
   "Quando o Rio Se Enfurece|1960": {
@@ -33117,13 +33144,13 @@
     "wiki_tries": 1,
     "stills_focus": [
       44.6,
-      37.2,
-      29.1
+      29.1,
+      38.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ntHhAhIDkrELc9i6koBnmsvVF4E.jpg",
-      "https://image.tmdb.org/t/p/w1280/v0VAwIimkNUsND06g7TGafstYlK.jpg",
-      "https://image.tmdb.org/t/p/w1280/fnvTGGhH4t8zK7gSE8O0PwxTGjW.jpg"
+      "https://image.tmdb.org/t/p/w1280/fnvTGGhH4t8zK7gSE8O0PwxTGjW.jpg",
+      "https://image.tmdb.org/t/p/w1280/4nxZTdnJeGJk6SJlfiJbMD4MLwk.jpg"
     ]
   },
   "Os Indomáveis|1971": {
@@ -33387,6 +33414,7 @@
       "year": 1972,
       "director": "Paul Newman"
     },
+    "dir_checked": true,
     "stills_focus": [
       43.4,
       36.9,
@@ -33477,14 +33505,14 @@
     },
     "tmdb_id": "62",
     "stills_focus": [
+      37.6,
       43.0,
-      39.9,
-      42.4
+      39.9
     ],
     "stills": [
+      "https://image.tmdb.org/t/p/w1280/6gyZF4SeifiUUYDELkCS8nOqsu2.jpg",
       "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-      "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg",
-      "https://image.tmdb.org/t/p/w1280/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg"
+      "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg"
     ]
   },
   "Anatomia de um Crime|1959": {
@@ -34443,7 +34471,17 @@
       "year": 1961,
       "director": "Agnès Varda"
     },
-    "tmdb_id": "499"
+    "tmdb_id": "499",
+    "stills_focus": [
+      47.0,
+      45.9,
+      36.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/oyatchDPpS4I9jpIIezFJGrmXcR.jpg",
+      "https://image.tmdb.org/t/p/w1280/f16KEgTwVuEu7lieRzWIWGGbg3M.jpg",
+      "https://image.tmdb.org/t/p/w1280/2pa31zLJKBBFT6PALQZDhJDWILt.jpg"
+    ]
   },
   "O Misterioso Olhar do Flamingo|2025": {
     "lbxd": {
@@ -34651,7 +34689,17 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "230048",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      50.6,
+      39.7,
+      29.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/i6THTq8VgAzReacsJN6cypoZgmR.jpg",
+      "https://image.tmdb.org/t/p/w1280/9cR29zzavBmJG8wAxxLsDTxqMOx.jpg",
+      "https://image.tmdb.org/t/p/w1280/pYoUbdajxrUW7gkG61MYZQJZfv0.jpg"
+    ]
   },
   "Johnny Guitar|1954": {
     "lbxd": {
@@ -34799,6 +34847,17 @@
       "year": 1964,
       "director": "Agnès Varda"
     },
+    "dir_checked": true,
+    "stills_focus": [
+      35.2,
+      28.0,
+      23.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
+      "https://image.tmdb.org/t/p/w1280/3NN2lvLuoroRrSZMjiaLVPkoj03.jpg",
+      "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
+    ],
     "tmdb_id": "53023"
   },
   "Os Respigadores e a Respigadora|2000": {
@@ -34875,12 +34934,12 @@
     "stills_focus": [
       56.3,
       34.9,
-      44.7
+      29.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
       "https://image.tmdb.org/t/p/w1280/8gBa8jMjvAFTudDbUU5rfKkYoFq.jpg",
-      "https://image.tmdb.org/t/p/w1280/4P1atiWoqPjj3Mpt5tZbGlsdTPT.jpg"
+      "https://image.tmdb.org/t/p/w1280/g6x8B3U8ZPUixEQsGloPBlFKac9.jpg"
     ]
   },
   "Roma, Cidade Aberta|1945": {
@@ -34924,12 +34983,12 @@
     "stills_focus": [
       38.1,
       25.9,
-      39.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jrTSlvfg95kYZiQndKIFS4amCLo.jpg",
       "https://image.tmdb.org/t/p/w1280/5jVmJczVFI5WubbMJk27CUW3qjF.jpg",
-      "https://image.tmdb.org/t/p/w1280/zYVRk2Rwa6i0bJDrRcedbTqT2V0.jpg"
+      "https://image.tmdb.org/t/p/w1280/5jfsye346nrsjVQu9EavoLF0tKw.jpg"
     ]
   },
   "A Comédia e a Vida|1952": {
@@ -35139,7 +35198,15 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "186361",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      63.6,
+      41.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/6LeW4F6n3Lb1EynMIOth8cN3TZz.jpg",
+      "https://image.tmdb.org/t/p/w1280/3ZrnnFAwpynccUEdGBdlEaJr2Y2.jpg"
+    ]
   },
   "Prazer de Amor no Irão|1976": {
     "lbxd": {
@@ -35343,7 +35410,17 @@
       "imdb_id": "tt0076855",
       "extract_pt": "L'une chante, l'autre pas (prt/bra: Uma Canta, a Outra Não) é um filme do gênero drama francês realizado por Agnès Varda."
     },
-    "wiki_tries": 1
+    "wiki_tries": 1,
+    "stills_focus": [
+      44.8,
+      43.6,
+      24.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tDOSQWVCRNrS9QfpHckzRtvSmPi.jpg",
+      "https://image.tmdb.org/t/p/w1280/1KxRCTeKX02oC9BlYb0hi8hfZOW.jpg",
+      "https://image.tmdb.org/t/p/w1280/4rsm4XzdcJNwMHbNUr9jqePYtD4.jpg"
+    ]
   },
   "O Crime do Sr. Lange|1936": {
     "lbxd": null,
@@ -35510,6 +35587,7 @@
       "year": 1984,
       "director": "Agnès Varda"
     },
+    "dir_checked": true,
     "stills_focus": [
       24.6
     ],
@@ -35546,7 +35624,17 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "54464",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      37.4,
+      19.9,
+      26.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/oDFrBLxqrnnvRrOtFNQ8AmNHjPv.jpg",
+      "https://image.tmdb.org/t/p/w1280/swrHmCG0j4725jIVtGv60ZSVWVD.jpg",
+      "https://image.tmdb.org/t/p/w1280/cyLZoqHbC6BWZKxDX9YSTdduEM4.jpg"
+    ]
   },
   "Lola|1961": {
     "lbxd": {
@@ -35679,13 +35767,13 @@
     "tmdb_id": "63320",
     "stills_focus": [
       26.7,
-      46.9,
-      46.2
+      27.1,
+      50.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/eilLY4PuoyEwFiKhKx79pVlFwTy.jpg",
-      "https://image.tmdb.org/t/p/w1280/cCQ18LSMtvX3xXjEJRUs0GxVpY2.jpg",
-      "https://image.tmdb.org/t/p/w1280/afBMH1C7xYXsRriwOb1N26Squ2V.jpg"
+      "https://image.tmdb.org/t/p/w1280/9aNkANEEBPlFCzCx8nAuQHILXot.jpg",
+      "https://image.tmdb.org/t/p/w1280/mZY8bWdGkBmFPu4UbOmCedYqH73.jpg"
     ]
   },
   "Adeus Philippine|1962": {
@@ -35811,6 +35899,17 @@
       "year": 1985,
       "director": "Paul Newman"
     },
+    "dir_checked": true,
+    "stills_focus": [
+      28.6,
+      21.8,
+      22.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/o955wc8tZaZHiQGw2FSV8mbsdqI.jpg",
+      "https://image.tmdb.org/t/p/w1280/otQtnE6prXOBiO5oD7PIiKHMZe4.jpg",
+      "https://image.tmdb.org/t/p/w1280/Tl3iqvODRepOHPkuAflXV4PRCk.jpg"
+    ],
     "tmdb_id": "52780"
   },
   "Kung-Fu Master|1987": {
@@ -35869,6 +35968,17 @@
       "year": 1987,
       "director": "Agnès Varda"
     },
+    "dir_checked": true,
+    "stills_focus": [
+      38.1,
+      44.6,
+      42.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/p5OSk41qSfhoh18ZkF7tzg4QjIN.jpg",
+      "https://image.tmdb.org/t/p/w1280/mffs2M53DXEWdX2CfuzqrxAzzzj.jpg",
+      "https://image.tmdb.org/t/p/w1280/gOzk9JRPioM8JzK3XGUUlKcNjV5.jpg"
+    ],
     "tmdb_id": "47429"
   },
   "Jacquot de Nantes|1990": {
@@ -35902,7 +36012,17 @@
       "year": 1990,
       "director": "Agnès Varda"
     },
-    "tmdb_id": "41789"
+    "tmdb_id": "41789",
+    "stills_focus": [
+      31.9,
+      26.7,
+      41.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/mmLJoiJOBqlxtZos6DRX9pl5Orm.jpg",
+      "https://image.tmdb.org/t/p/w1280/pLp0bqDv24myT8NCbOBBbGj9C8V.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/m4/28/ol/ym/jacquot-1920-1920-1080-1080-crop-000000.jpg?v=459d787600"
+    ]
   },
   "Documenteur|1980": {
     "lbxd": {
@@ -35963,7 +36083,13 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "157160",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      42.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8yrymDMaJm5jCuQpypyyfAqdDJ1.jpg"
+    ]
   },
   "Tio Yanco|1967": {
     "lbxd": {
@@ -36027,13 +36153,13 @@
     "wiki_tries": 3,
     "stills_focus": [
       36.1,
-      32.6,
-      43.7
+      45.1,
+      32.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/sera0zxXBfTtKuwacI6Rx7rbSWB.jpg",
-      "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg",
-      "https://image.tmdb.org/t/p/w1280/5uDGj2ap6hnDNsmVJNHPSB1TOsy.jpg"
+      "https://image.tmdb.org/t/p/w1280/kY8fJ4PtZhJQrgcCxu5mG7vK7PJ.jpg",
+      "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg"
     ]
   },
   "La Pointe Courte|1954": {
@@ -36099,7 +36225,17 @@
       "year": 1954,
       "director": "Agnès Varda"
     },
-    "tmdb_id": "54436"
+    "tmdb_id": "54436",
+    "stills_focus": [
+      29.4,
+      43.1,
+      33.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qCm7JsnryHF0SCXTIvBB7k7oh5m.jpg",
+      "https://image.tmdb.org/t/p/w1280/iCXSQm3Yaao5Zrxbv0qJukYWzav.jpg",
+      "https://image.tmdb.org/t/p/w1280/bR2jifR8EQLUcM3RqJxTxg2YSSd.jpg"
+    ]
   },
   "As Boas Mulheres|1960": {
     "lbxd": {
@@ -36197,13 +36333,13 @@
     "wiki_tries": 3,
     "stills_focus": [
       26.5,
-      42.6,
-      25.5
+      25.5,
+      37.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
-      "https://image.tmdb.org/t/p/w1280/7ftWLrXsdOPMQGOFlMplaBJbsqA.jpg",
-      "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg"
+      "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg",
+      "https://image.tmdb.org/t/p/w1280/bS2Mau9AN9cfof5lOO1sgc6jBN.jpg"
     ]
   },
   "As Cento e uma Noites de Simon Cinéma|1994": {
@@ -36268,7 +36404,15 @@
       "year": 1994,
       "director": "Agnès Varda"
     },
-    "tmdb_id": "94771"
+    "tmdb_id": "94771",
+    "stills_focus": [
+      34.8,
+      36.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/oP6Eik48JT6YeGeEmVgyumP6ZVd.jpg",
+      "https://image.tmdb.org/t/p/w1280/dWBg9hUo946IXA2UWCEJz8DHinD.jpg"
+    ]
   },
   "As Praias de Agnès|2008": {
     "lbxd": {
@@ -36459,7 +36603,7 @@
     },
     "tmdb_id": "238952",
     "stills_focus": [
-      26.9,
+      26.8,
       30.5,
       44.9
     ],
@@ -36561,7 +36705,10 @@
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
       "lb_year": 1993,
-      "lb_title": "The Young Girls Turn 25"
+      "lb_title": "The Young Girls Turn 25",
+      "backdrop": null,
+      "imdb_id": "tt0106696",
+      "tmdb_id": "200381"
     },
     "omdb": {
       "Title": "The Young Girls Turn 25",
@@ -36608,6 +36755,17 @@
       "year": 1992,
       "director": "Les Demoiselles ont eu 25 ans"
     },
+    "dir_checked": true,
+    "stills_focus": [
+      38.3,
+      26.3,
+      28.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hUOq759wTgNEfoK0XOW9hX6KWYq.jpg",
+      "https://image.tmdb.org/t/p/w1280/9vzwFhZf1thTyG1fFP2n9nqh5nS.jpg",
+      "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
+    ],
     "tmdb_id": "200381"
   },
   "O Meu Tio|1958": {
@@ -36858,7 +37016,17 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "257524",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      47.5,
+      41.6,
+      42.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
+      "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
+      "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
+    ]
   },
   "A Ópera-Mouffe|1958": {
     "lbxd": null,
@@ -37087,7 +37255,17 @@
       "year": 1949,
       "director": "Nicholas Ray"
     },
-    "tmdb_id": "44190"
+    "tmdb_id": "44190",
+    "stills_focus": [
+      37.1,
+      45.8,
+      23.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/d98FV28Tt3uuYLaPbGNRlW5Ec60.jpg",
+      "https://image.tmdb.org/t/p/w1280/v4oD2WL5XV2CgyCQFW9VfGaK6f9.jpg",
+      "https://image.tmdb.org/t/p/w1280/yPP1V1z9Qti5XnAjEucqMDtApUL.jpg"
+    ]
   },
   "Oficina: Fotografia 3D – Como Fazer Imagens Estereoscópicas Com Uma Máquina De Trazer Por Casa|None": {
     "lbxd": null,
@@ -37750,14 +37928,14 @@
     },
     "tmdb_id": "1093",
     "stills_focus": [
-      49.6,
       27.7,
-      54.2
+      15.3,
+      23.1
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/r8fEOeDjlbtvaxYZ3QDh21gzpKh.jpg",
       "https://image.tmdb.org/t/p/w1280/9rIlTFiQZMr5WOOGFqRZZ5lpyyw.jpg",
-      "https://image.tmdb.org/t/p/w1280/uYqqp2gPWkJdOZCzAogg9swBVRq.jpg"
+      "https://image.tmdb.org/t/p/w1280/aTKvtg7KEXnbAPhQ2pF9KXO4oKM.jpg",
+      "https://image.tmdb.org/t/p/w1280/kfx1tleeZzEgSiV2vk8w9z91KJM.jpg"
     ]
   },
   "Dois Homens em Manhattan|1959": {
@@ -37996,8 +38174,9 @@
     "cinema": {
       "plot_pt": "A começar esta retrospetiva, apresentamos um filme singular, no qual se começam a acentuar as características noturnas e claustrofóbicas das narrativas de João Canijo, aqui no território da emigração portuguesa em França. Cidália vive com a família nos arredores de Paris e dedica a sua vida ao trabalho para juntar dinheiro. Quando o filho mais velho é morto pela polícia, vê-se forçada a abandonar a discrição que sempre pautou a sua existência. Determinada a descobrir a verdade, confronta as explicações oficiais e desafia a passividade da comunidade portuguesa emigrante em França. Uma comunidade que continua a viver, de forma ainda mais intensa, segundo as tradições da cultura portuguesa."
     },
+    "dir_checked": true,
     "stills_focus": [
-      46.3
+      46.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -38037,7 +38216,17 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "53028",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      42.2,
+      25.8,
+      55.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wn4iwTix9AVcMMVbWNOG9ddstuI.jpg",
+      "https://image.tmdb.org/t/p/w1280/o7hj4TiztXxpHkbQJKhTA2vdf0p.jpg",
+      "https://image.tmdb.org/t/p/w1280/qSiQwegnFZv9Z3xMRxjtOqSp5uF.jpg"
+    ]
   },
   "Paris Nous Appartient|1961": {
     "lbxd": {
@@ -38522,12 +38711,12 @@
     "stills_focus": [
       51.6,
       12.3,
-      44.4
+      43.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
       "https://image.tmdb.org/t/p/w1280/9Y85oA1y6toL2OACXdaC6iTl7eQ.jpg",
-      "https://image.tmdb.org/t/p/w1280/kCxCmbQC7Qjs9Fsgj1t53nanhIA.jpg"
+      "https://image.tmdb.org/t/p/w1280/w3XMVPKSoJomM7G5tAq3kXxdhKX.jpg"
     ]
   },
   "Pedro, o Louco|1965": {
@@ -38601,13 +38790,13 @@
     "tmdb_id": "2786",
     "stills_focus": [
       51.3,
-      54.9,
-      42.7
+      42.7,
+      40.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/4zJ9w3lZcZI3mBXcNiq6s8bqpDO.jpg",
-      "https://image.tmdb.org/t/p/w1280/zLbDuibfarVebd8XHqgGweq3n86.jpg",
-      "https://image.tmdb.org/t/p/w1280/oRNazp43DCGaWspAMl5k8etxHSh.jpg"
+      "https://image.tmdb.org/t/p/w1280/oRNazp43DCGaWspAMl5k8etxHSh.jpg",
+      "https://image.tmdb.org/t/p/w1280/hdppB06hixrGsEM48D8Bair0TEq.jpg"
     ]
   },
   "A Odisseia|2026": {
@@ -38757,14 +38946,14 @@
     },
     "tmdb_id": "40149",
     "stills_focus": [
-      34.0,
       29.6,
-      51.8
+      36.2,
+      34.0
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
       "https://image.tmdb.org/t/p/w1280/5qQAiDMkhOhBcIbSTP2BD5Qc36.jpg",
-      "https://image.tmdb.org/t/p/w1280/q5Tq1aIitmoSiNCYnpxYaEAfm0K.jpg"
+      "https://image.tmdb.org/t/p/w1280/kWWWnD58zHiQAg6wcLJjr0UD8CI.jpg",
+      "https://image.tmdb.org/t/p/w1280/oLui5hnc8HnkVDXruisqu3LZb6H.jpg"
     ]
   },
   "Women Without Men|2009": {
@@ -38779,7 +38968,10 @@
       "lb_director": "Shoja Azari",
       "lb_director_slug": "shoja-azari",
       "lb_year": 2009,
-      "lb_title": "Women Without Men"
+      "lb_title": "Women Without Men",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/uk/g6/lx/3d/6MxzrUA0yRNaTCkE3GflQvzWkU1-1920-1920-1080-1080-crop-000000.jpg?v=c0efc6cf75",
+      "imdb_id": "tt1498887",
+      "tmdb_id": "44159"
     },
     "omdb": {
       "Title": "Women Without Men",
@@ -38825,6 +39017,7 @@
     "cinema": {
       "plot_pt": "Tendo como pano de fundo o golpe de Estado de 1953 no Irão, Women Without Men acompanha os destinos de quatro mulheres que procuram escapar às restrições de uma sociedade patriarcal em convulsão. Privadas de autonomia, vivem à sombra dos homens que condicionam as suas vidas. À medida que a instabilidade cresce em Teerão, encontram refúgio num jardim quase mágico, espaço de liberdade, solidariedade e renascimento. Na sua primeira longa-metragem, premiada em Veneza pela realização, Shirin Neshat combina realismo histórico e lirismo visual numa reflexão sobre resistência e emancipação feminina."
     },
+    "dir_checked": true,
     "stills_focus": [
       43.4,
       28.2,
@@ -38966,6 +39159,7 @@
     "cinema": {
       "plot_pt": "Coescrito e protagonizado pelo artista e músico rastafári Oba, cuja origem e trajetória de vida são reinventadas pelo filme, Nosferasta: First Bite junta vampiros e colonos numa narrativa envolta numa nuvem de fumo, que atravessa o passado e o presente. No final do século XV, Oba parte num navio de pessoas escravizadas da África Ocidental rumo às Caraíbas. Arrastado pela corrente até uma praia, é mordido pelo vampiro Cristóvão Colombo, passando a dedicar a sua lealdade ao “Novo Mundo” — até ao momento em que descobre o rastafarianismo. A curta-metragem foi covencedora da competição de curtas do Festival de Roterdão em 2022."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "881694"
   },
@@ -39070,6 +39264,7 @@
     "cinema": {
       "plot_pt": "Orphée é uma releitura poética, onírica e modernista da lenda de Orfeu, transportada para a Paris do pós-guerra. O filme — com fotografia de extraordinária elegância e efeitos especiais inventivos — acompanha o músico e poeta Orfeu (Jean Marais) numa viagem sobrenatural pelas dimensões dos vivos e dos mortos. É entre estas que encontra uma misteriosa princesa. Combinando romance, fantasia e tragédia, Jean Cocteau constrói uma meditação singular sobre amor, criação artística e mortalidade, transformando o cinema num portal poético entre mundos, tal como os espelhos que evoca."
     },
+    "dir_checked": true,
     "stills": null
   },
   "Craig’s Wife|1936": {
@@ -39165,13 +39360,13 @@
     "wiki_tries": 3,
     "stills_focus": [
       35.3,
-      45.3,
-      20.3
+      20.3,
+      27.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2TagGB8rcYEAbqWRxQAk19DlMaH.jpg",
-      "https://image.tmdb.org/t/p/w1280/y8Tipj1UFlYQYlkfoakbqE8mRV0.jpg",
-      "https://image.tmdb.org/t/p/w1280/x0aO30240fFD6L41T0mQJyOKJny.jpg"
+      "https://image.tmdb.org/t/p/w1280/x0aO30240fFD6L41T0mQJyOKJny.jpg",
+      "https://image.tmdb.org/t/p/w1280/cavNxI90moeijQRBwC8bCQUrgvb.jpg"
     ]
   },
   "Our Song to War|2018": {
@@ -39227,6 +39422,7 @@
     "cinema": {
       "plot_pt": "Em Our Song to War, Juanita Onzaga conduz-nos até Bojayá, uma vila colombiana marcada pelo massacre de 2002 perpetrado pelas Forças Armadas Revolucionárias da Colômbia (FARC). Num registo poético e de grande riqueza visual, o filme acompanha uma comunidade onde os planos dos vivos e dos mortos se cruzam através de crenças animistas e rituais ancestrais. Culminando no Novenário, um ritual fúnebre destinado a apaziguar os espíritos dos mortos e a impedir o seu regresso, esta obra constrói, entre memória, luto e esperança, um espaço de encontro entre humanos e espíritos enquanto persistem as feridas do conflito."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "519144"
   },
@@ -39298,14 +39494,14 @@
     },
     "tmdb_id": "38368",
     "stills_focus": [
-      43.4,
-      39.6,
-      47.4
+      36.6,
+      47.7,
+      43.4
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/sraqqxwStjlhe82vb0mGx3VuHsD.jpg",
-      "https://image.tmdb.org/t/p/w1280/6KvTXWweemPG4wK3XCFsCPxKZp1.jpg",
-      "https://image.tmdb.org/t/p/w1280/kq622G2e95O6xxqoOmuqf9Y6Kic.jpg"
+      "https://image.tmdb.org/t/p/w1280/cqkP6KaWZix4FHE1XmjSK2rFAzN.jpg",
+      "https://image.tmdb.org/t/p/w1280/eOS4AbU5F9wH4Ufiu4GFRceGPSC.jpg",
+      "https://image.tmdb.org/t/p/w1280/sraqqxwStjlhe82vb0mGx3VuHsD.jpg"
     ]
   },
   "Ultraviolet|2025": {
@@ -39356,6 +39552,7 @@
     "cinema": {
       "plot_pt": "Em 1954, um OVNI foi avistado sobre o estádio municipal de Florença durante um jogo da Fiorentina. Setenta anos depois, os extraterrestres regressam ao planeta Terra e encontram os estádios abandonados."
     },
+    "dir_checked": true,
     "stills_focus": [
       33.9
     ],
@@ -39371,6 +39568,7 @@
     "cinema": {
       "plot_pt": "Uma viagem sensorial pelo Porto nos anos 2000, construída a partir de memórias visuais. Através da recolha, manipulação e animação imagem a imagem de milhares de fotografias provenientes de múltiplas vidas, o filme compõe uma visão colectiva de uma cidade suspensa entre a memória e a imaginação — uma cidade que já não existe, ou que talvez nunca tenha existido."
     },
+    "dir_checked": true,
     "stills": null
   },
   "Asphalt Reds|2026": {
@@ -39380,6 +39578,7 @@
     "cinema": {
       "plot_pt": "No dia da violenta repressão de migrantes em Melilla, Omar, um jovem Beninês, trabalhador ilegal no Porto, galga as ruas na sua moto, entregando encomendas a mando do olho digital das plataformas."
     },
+    "dir_checked": true,
     "stills": null
   },
   "Massa Mãe|2026": {
@@ -39402,6 +39601,7 @@
     "cinema": {
       "plot_pt": "Maria permanece presa a um amor do passado que não consegue deixar para trás, e Matías está obcecado com a ideia de liberdade. Ambos sentem que a vida lhes escapa por entre os dedos e tentam controlar o incontrolável: o destino. Percorrem caminhos paralelos, procurando, cada um à sua maneira, dar forma ao que sentem e refletir sobre o tempo — um tempo de espera, de esperança e de fermentação."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1737045"
   },
@@ -39476,14 +39676,14 @@
     },
     "tmdb_id": "11497",
     "stills_focus": [
-      53.7,
-      53.1,
-      50.6
+      21.8,
+      18.9,
+      53.7
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/haJ6SsjxfhSRG61LMy4QJWxCNAb.jpg",
-      "https://image.tmdb.org/t/p/w1280/8z9wco9WC2XpfkQ8dPjUiLKJwGy.jpg",
-      "https://image.tmdb.org/t/p/w1280/6V5Jui7BiMHMr1ZIFmiFzefCzjd.jpg"
+      "https://image.tmdb.org/t/p/w1280/v2Gxnk93DLMGYlFS1M70lZui7SM.jpg",
+      "https://image.tmdb.org/t/p/w1280/sXyL2fGVxayVSDljPRGXucJy9Ov.jpg",
+      "https://image.tmdb.org/t/p/w1280/haJ6SsjxfhSRG61LMy4QJWxCNAb.jpg"
     ]
   },
   "Amadeus|1984": {
@@ -39616,6 +39816,13 @@
     "cinema": {
       "plot_pt": "Considerado um dos primeiros filmes da Nova Vaga Checa, Audition marcou a estreia independente de Forman e antecipou temas centrais da sua obra: atores não profissionais, humor mordaz e atenção aos pequenos detalhes do quotidiano. Composto por duas curtas-metragens lançadas em conjunto, o filme acompanha dois músicos que trocam os ensaios por corridas de motas e um grupo de aspirantes ao estrelato que participa numa audição para o Teatro Semafor de Praga. A obra capta com ironia e frescura a rebeldia juvenil dos anos 60 face ao conformismo social e geracional."
     },
+    "dir_checked": true,
+    "stills_focus": [
+      35.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
+    ],
     "tmdb_id": "48599"
   },
   "A Walk Worthwhile|2009": {
@@ -39671,6 +39878,7 @@
     "cinema": {
       "plot_pt": "Com esta versão cinematográfica da ópera de Jiří Suchý e Jiří Šlitr, Miloš Forman regressa a uma obra que já tinha adaptado ao pequeno ecrã nos anos 60, num dos seus primeiros trabalhos. Nela, Uli e Vanilka estão prestes a divorciar-se quando recebem um telegrama de uma tia rica em Liverpool, que pretende deixar um milhão de libras ao futuro filho de Vanilka. A partir desse momento, o casal, o advogado, a tia e o carteiro envolvem-se numa sucessão de intrigas amorosas e esquemas oportunistas para tentar garantir a fortuna. No seu último filme, Forman assina uma sátira feroz à ambição e ao capitalismo."
     },
+    "dir_checked": true,
     "stills_focus": [
       38.9
     ],
@@ -39748,14 +39956,14 @@
     },
     "tmdb_id": "10494",
     "stills_focus": [
-      42.4,
-      44.2,
-      32.7
+      32.7,
+      23.3,
+      11.5
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "https://image.tmdb.org/t/p/w1280/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
-      "https://image.tmdb.org/t/p/w1280/A1Larywbw79kZQqkvCEiPHJqdLN.jpg"
+      "https://image.tmdb.org/t/p/w1280/A1Larywbw79kZQqkvCEiPHJqdLN.jpg",
+      "https://image.tmdb.org/t/p/w1280/tSkeqUxitsSpjgjThGh7nimCa1K.jpg",
+      "https://image.tmdb.org/t/p/w1280/wqNks7mG1SR8FXQyFnoCW9WksP8.jpg"
     ]
   },
   "A Streetcar Named Desire|1951": {
@@ -39947,6 +40155,7 @@
     "cinema": {
       "plot_pt": "Na aldeia de Casegas, na Covilhã, a Páscoa é celebrada durante três dias. No sábado, as crianças percorrem as ruas com chocalhos. No domingo, o pároco visita as casas e o convívio é regado a vinho e água-pé. As cerimónias prosseguem na segunda-feira, culminando numa procissão onde o fervor religioso se mistura com um ambiente festivo. Produzida pela Cinequanon — e com argumento coescrito por Arnaldo Saraiva, natural de Casegas —, esta obra destaca-se pelo olhar etnográfico sobre as tradições populares portuguesas, que frequentemente fundem sagrado e profano.\nEstreia de cópia restaurada. Sessão seguida de conversa com Luís Galvão Teles e Arnaldo Saraiva (professor, ensaísta e poeta)."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1251642"
   },
@@ -40003,6 +40212,8 @@
     "cinema": {
       "plot_pt": "Filme de final de curso de José María Martín Sarmiento enquanto aluno do Instituto de Altos Estudos Cinematográficos (Paris), Los montes situa-se numa aldeia remota e quase abandonada do Bierzo Alto, nos confins da província de León. Oscilando entre a ficção satírica e a realidade, a obra acompanha o velório do último homem da aldeia e das restantes seis mulheres idosas que nela habitam. Entre o isolamento, a dureza das práticas agrícolas, e o regresso sazonal das romarias de verão, evocam-se os laços comunitários e a tradição oral como formas de resistência. O filme foi nomeado para o César de Melhor Curta-Metragem Documental."
     },
+    "dir_checked": true,
+    "stills": null,
     "tmdb_id": "452428"
   },
   "Man on the Moon|1999": {
@@ -40154,13 +40365,13 @@
     "tmdb_id": "33320",
     "stills_focus": [
       23.3,
-      48.9,
-      24.7
+      24.7,
+      46.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
-      "https://image.tmdb.org/t/p/w1280/ub2RdsyAt4NhdJcsXGHQaiAEafc.jpg",
-      "https://image.tmdb.org/t/p/w1280/eODPHCGwYXOcViMePY3bP5zCDPM.jpg"
+      "https://image.tmdb.org/t/p/w1280/eODPHCGwYXOcViMePY3bP5zCDPM.jpg",
+      "https://image.tmdb.org/t/p/w1280/kITtZwshhqNMyLEUykvAcw0NwNE.jpg"
     ]
   },
   "I Walked with a Zombie|1943": {
@@ -40230,13 +40441,13 @@
     "tmdb_id": "27130",
     "stills_focus": [
       21.8,
-      50.6,
-      32.4
+      32.4,
+      23.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/bCyK6eETwA6kzxLxDDuwJ3l7Wdw.jpg",
-      "https://image.tmdb.org/t/p/w1280/uMDy54ZjRLL6ZTjyyOzaglk6Z3N.jpg",
-      "https://image.tmdb.org/t/p/w1280/yBCZS8s7KU87rHZiMqKUT8jpmTw.jpg"
+      "https://image.tmdb.org/t/p/w1280/yBCZS8s7KU87rHZiMqKUT8jpmTw.jpg",
+      "https://image.tmdb.org/t/p/w1280/3gUb9G8W3pbA1RAYWfeU4wIdKrr.jpg"
     ]
   },
   "Loves of a Blonde|1964": {
@@ -40302,7 +40513,17 @@
     "cinema": {
       "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro."
     },
-    "tmdb_id": "39387"
+    "tmdb_id": "39387",
+    "stills_focus": [
+      39.8,
+      51.6,
+      27.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/jGwZRoK9wRJyufcx9qIQnsTxoyu.jpg",
+      "https://image.tmdb.org/t/p/w1280/8BixaOF8X144CaFR6qtAwIKKVL7.jpg",
+      "https://image.tmdb.org/t/p/w1280/hqe3UPV2h1bI2TXjt5Bx05VeOn6.jpg"
+    ]
   },
   "Flesh and Ghost|2025": {
     "lbxd": null,
@@ -40311,6 +40532,7 @@
     "cinema": {
       "plot_pt": "Partindo da narrativa mitológica do povo indígena Hočąk sobre os gémeos Flesh e Ghost, Hopinka combina memória cultural e pessoal num ensaio sobre perda, identidade e os ciclos da vida. A história dos irmãos separados à nascença ecoa através de um poema, cruzando-se com nuvens, ondas, sombras e imagens VHS de momentos significativos da juventude do artista. Estes fragmentos estabelecem um diálogo entre passado e presente, refletindo sobre o que persiste e continua a moldar quem recorda."
     },
+    "dir_checked": true,
     "stills": null
   },
   "Invention|2024": {
@@ -40435,6 +40657,7 @@
     "cinema": {
       "plot_pt": "Na aldeia de Dine, em Trás-os-Montes, Portugal, a solidão adensa-se quando, no escuro da noite, os cães ladram lá fora e confirmam: a gruta foi tomada de assalto.\nSessão apresentada por Francisco Moura Relvas e Rita Senra. Entrada gratuita, mediante levantamento de bilhete no próprio dia. Limitado a dois bilhetes por pessoa."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1522564"
   },
@@ -40508,13 +40731,13 @@
     "tmdb_id": "8392",
     "stills_focus": [
       48.2,
-      46.9,
-      52.3
+      53.1,
+      53.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
-      "https://image.tmdb.org/t/p/w1280/95ozIP0A2fKaAXxwDxUEVn74Iux.jpg",
-      "https://image.tmdb.org/t/p/w1280/fxYazFVeOCHpHwuqGuiqcCTw162.jpg"
+      "https://image.tmdb.org/t/p/w1280/nWpL5IeV5z0OCcyIgmLIsADODhE.jpg",
+      "https://image.tmdb.org/t/p/w1280/19SRdYFaxTbqG8rc9CpXmfLpPoM.jpg"
     ]
   },
   "Pink Narcissus|1971": {
@@ -40649,7 +40872,17 @@
       "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico."
     },
     "tmdb_id": "47697",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      45.8,
+      45.0,
+      35.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/kHbwWLE4mFVoC4wFCXsZ2HioRuf.jpg",
+      "https://image.tmdb.org/t/p/w1280/iqqrhLL8xdPiBo9OHb3lPxo7Yuu.jpg",
+      "https://image.tmdb.org/t/p/w1280/sglIheB6nqxNU97f6RsLy8cV0Zp.jpg"
+    ]
   },
   "Tokyo Godfathers|2003": {
     "lbxd": {
@@ -40748,6 +40981,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "415221"
   },
@@ -40758,6 +40992,7 @@
     "cinema": {
       "plot_pt": "Um grupo de mulheres contorna a Ilha do Pico numa longa caminhada. Durante esse percurso e num ambiente insular apocalíptico, a busca por uma figura perdida mistura-se com questionamentos sobre as suas existências individuais."
     },
+    "dir_checked": true,
     "stills": null
   },
   "The Undergrowth|2024": {
@@ -41036,13 +41271,13 @@
     "tmdb_id": "4977",
     "stills_focus": [
       45.9,
-      53.5,
-      29.4
+      29.4,
+      19.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/6oXn0037WWw4fTCc3Qczof71lSp.jpg",
-      "https://image.tmdb.org/t/p/w1280/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
-      "https://image.tmdb.org/t/p/w1280/zfbuY4A9X5sTJ2bzTt84rtiDK9t.jpg"
+      "https://image.tmdb.org/t/p/w1280/zfbuY4A9X5sTJ2bzTt84rtiDK9t.jpg",
+      "https://image.tmdb.org/t/p/w1280/3iGoEy39fXKZnIZCk9x5AtN6Vtg.jpg"
     ]
   },
   "Taking Off|1971": {
@@ -41170,6 +41405,7 @@
     "cinema": {
       "plot_pt": "Primeira realização cinematográfica do dramaturgo Jean Anouilh, Le voyageur sans bagage adapta ao cinema a sua peça homónima. A história acompanha Gaston, um homem encontrado amnésico no final da Primeira Guerra Mundial e acolhido durante dez anos num asilo. Quando várias famílias o reclamam como parente desaparecido, vê-se confrontado com um passado que não reconhece como seu. Entre elas está a família Renaud, cuja perspetiva sobre o jovem Gaston revela uma personalidade passada violenta e sem escrúpulos. À medida que recupera fragmentos da memória, percebe que talvez seja preferível abandonar a antiga identidade e reinventar-se."
     },
+    "dir_checked": true,
     "stills_focus": [
       12.1,
       26.7
@@ -41374,6 +41610,7 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "485772"
   },
@@ -41423,6 +41660,7 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "462633"
   },
@@ -41551,14 +41789,14 @@
     },
     "tmdb_id": "42994",
     "stills_focus": [
-      48.7,
       29.2,
-      51.5
+      51.5,
+      47.7
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/hNf6J498veQVdq5FhHmL08ardwf.jpg",
       "https://image.tmdb.org/t/p/w1280/exbO2IscjE2IX9C6upQIG1NtCsu.jpg",
-      "https://image.tmdb.org/t/p/w1280/aWZqRXoX7Ku4MkPwgMugi2F9fQx.jpg"
+      "https://image.tmdb.org/t/p/w1280/aWZqRXoX7Ku4MkPwgMugi2F9fQx.jpg",
+      "https://image.tmdb.org/t/p/w1280/tTjJoiULN0d2NaMIO3JFO7lgga8.jpg"
     ]
   },
   "They All Lie|2009": {
@@ -41648,14 +41886,14 @@
     "tmdb_id": "1200753",
     "wiki_tries": 3,
     "stills_focus": [
-      41.1,
       32.3,
-      51.4
+      25.9,
+      28.9
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/y46l34DHFL0fjlGnisvaZbofaF8.jpg",
       "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
-      "https://image.tmdb.org/t/p/w1280/orgE2QHS1CGGfygilTG5oqi2hPO.jpg"
+      "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
+      "https://image.tmdb.org/t/p/w1280/1Q8Kby0AWy70kvjvWRQBUpBXal2.jpg"
     ]
   },
   "The Addams Family|1991": {
@@ -41860,6 +42098,7 @@
     "cinema": {
       "plot_pt": "Este ensaio cinematográfico desenvolvido com o apoio do Batalha percorre os últimos filmes vistos por figuras célebres antes de morrerem, imaginando uma história do cinema construída a partir desses derradeiros visionamentos. De Franz Kafka a Kurt Cobain, coincidências insólitas revelam afinidades inesperadas através do tempo e do espaço. Narrado por Jeremy Irons, Last Movies é uma obra espirituosa, original e radicalmente imprevisível. Depois de duas maratonas de mais de 17 horas, o projeto regressa ao Batalha em formato de longa-metragem, apresentada na véspera do Dia de Finados como homenagem às pessoas mortas e às imagens que as acompanharam.\nSessão apresentada por Stanley Schtinter"
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1634094"
   },
@@ -42009,6 +42248,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Festa, Trabalho e Pão em Grijó de Parada|1973": {
@@ -42061,6 +42301,8 @@
       "extract_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974."
     },
     "cinema": {},
+    "dir_checked": true,
+    "stills": null,
     "tmdb_id": "610944"
   },
   "Domesticar Há Milénios|2018": {
@@ -42068,6 +42310,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Bread|1963": {
@@ -42091,7 +42334,13 @@
     "wiki": null,
     "cinema": {},
     "tmdb_id": "186950",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      12.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zu0SKoINX6bdNMDWOe26FsG8Ahw.jpg"
+    ]
   },
   "The Family and the Zombie|2021": {
     "lbxd": {
@@ -42115,6 +42364,8 @@
     "cinema": {
       "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme."
     },
+    "dir_checked": true,
+    "stills": null,
     "tmdb_id": "964181"
   },
   "An Asian Ghost Story|2023": {
@@ -42167,7 +42418,13 @@
       "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo."
     },
     "tmdb_id": "1104067",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      39.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
+    ]
   },
   "Oh Be a Fine Girl Kiss Me|2026": {
     "lbxd": {
@@ -42193,6 +42450,8 @@
     "cinema": {
       "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90."
     },
+    "dir_checked": true,
+    "stills": null,
     "tmdb_id": "1504269"
   },
   "Elephant|2003": {
@@ -42265,12 +42524,12 @@
     "stills_focus": [
       28.2,
       17.4,
-      40.2
+      17.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/n9irXcigQGlcub5JJ6RV1EdDW1J.jpg",
       "https://image.tmdb.org/t/p/w1280/t2DJFqKeoXwxkexpDyFtrNKcwlP.jpg",
-      "https://image.tmdb.org/t/p/w1280/dJkgn464101elpzulS4mPosIHMX.jpg"
+      "https://image.tmdb.org/t/p/w1280/yC2oJaQ5fzTECgQvRjsdh1jqUSh.jpg"
     ]
   },
   "Marona's Fantastic Tale|2019": {
@@ -42473,7 +42732,10 @@
       "lb_director": "Hirokazu Kore-eda",
       "lb_director_slug": "hirokazu-kore-eda",
       "lb_year": 1998,
-      "lb_title": "After Life"
+      "lb_title": "After Life",
+      "backdrop": null,
+      "imdb_id": "tt0165078",
+      "tmdb_id": "17962"
     },
     "omdb": {
       "Title": "After Life",
@@ -42519,15 +42781,16 @@
     "cinema": {
       "plot_pt": "Num modesto centro de acolhimento que serve de limbo, uma equipa de conselheiros recebe grupos de recém-falecidos e pede que escolham a sua memória mais feliz. Essa recordação será depois recriada cinematograficamente e acompanhará cada pessoa na eternidade, enquanto as restantes memórias se dissipam. Ao longo de uma semana, o grupo de pessoas de diferentes idades revisita amores, perdas, arrependimentos e pequenas alegrias. Uma meditação sensível sobre o que dá sentido à existência humana — e a capacidade do cinema de preservar e dar forma a essas experiências."
     },
+    "dir_checked": true,
     "stills_focus": [
-      37.2,
       61.0,
-      35.3
+      30.3,
+      48.7
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
       "https://image.tmdb.org/t/p/w1280/w2p9n6wE4kmAQqIUql6miQaRWvr.jpg",
-      "https://image.tmdb.org/t/p/w1280/cF95DK4uXriqM03ZsDFqnbufIfS.jpg"
+      "https://image.tmdb.org/t/p/w1280/hSfqwjI7klNtexZ48quPz8l95T1.jpg",
+      "https://image.tmdb.org/t/p/w1280/A7n7siS0KwXSKA6ZhRwsOx5YUb4.jpg"
     ],
     "tmdb_id": "17962"
   },
@@ -42584,6 +42847,7 @@
     "cinema": {
       "plot_pt": "Estreado este ano em Cannes, Aquí adapta a Trilogia de Jesus, do Prémio Nobel J. M. Coetzee. Num mundo distópico, Simón acolhe David, uma criança que conhece durante uma travessia marítima rumo a uma terra sem nome. À chegada, juntam-se a Inés e, entre os três, forma-se um núcleo afetivo invulgar, onde a ideia de família se reinventa a cada gesto. Mas, enquanto a sociedade impõe regras e desconfia da diferença, David não se deixa moldar e afirma-se como o seu oposto: imaginação e liberdade, tornando a parentalidade uma travessia incerta, uma busca sem respostas, onde amar é também aceitar não compreender."
     },
+    "dir_checked": true,
     "stills_focus": [
       30.9,
       29.3,
@@ -42857,6 +43121,7 @@
     "cinema": {
       "plot_pt": "Terceiro episódio da série de documentários 4 Caminhos para Fátima. Sob o olhar do realizador Miguel Gonçalves Mendes, Fátima Lda acompanha os preparativos da recepção ao Papa Francisco para as comemorações dos 100 anos das Aparições de Nossa Senhora de Fátima. No filme, o jornalista Paulo Moura reflete sobre o fenómeno que tornou o Santuário de Fátima num centro turístico, industrial e religioso sem paralelo na Europa e no mundo."
     },
+    "dir_checked": true,
     "stills": null
   },
   "Saturn|2022": {
@@ -42905,6 +43170,7 @@
     "cinema": {
       "plot_pt": "Saturno conta a história de Caveirinha, um humilde pescador que vive numa difícil habitação social. Logo após a morte do seu filho em alto mar, enfrenta a dificuldade de enterrá-lo com a devida dignidade."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "997874"
   },
@@ -42915,6 +43181,7 @@
     "cinema": {
       "plot_pt": "Quarto episódio da série ficcional Cassandra. Como retaliação, uma trabalhadora-estudante é posta numa secretária vazia virada para uma parede. Nessa parede há uma mancha que lhe serve de foco. Nessa mancha ela reconfigura, visualiza, uma peça de teatro que terá visto recentemente. Recria as cenas entre um casal que está a viver os últimos minutos num apartamento (um palco), que irá deixar. A trabalhadora-estudante põe por carta a sua realidade, que cruza com a ficção teatral, e endereça-a ao dramaturgo-encenador, autor do espetáculo que presenciou. O autor recebe a carta e compara-a com uma notícia saída num jornal sobre o assédio laboral de uma trabalhadora-estudante. Uma atriz e um ator são os protagonistas que se desdobram em seis personagens, numa narrativa construída em mise-en-abîme de espaços, tempos e personagens, que balança entre o teatro e a realidade."
     },
+    "dir_checked": true,
     "stills": null
   },
   "Paranoia Agent|2004": {
@@ -42930,7 +43197,10 @@
       "lb_director": "Takayuki Hirao",
       "lb_director_slug": "takayuki-hirao",
       "lb_year": 2004,
-      "lb_title": "Paranoia Agent"
+      "lb_title": "Paranoia Agent",
+      "backdrop": null,
+      "imdb_id": "tt0433722",
+      "tmdb_id": "9343"
     },
     "omdb": {
       "Title": "Paranoia Agent",
@@ -42965,6 +43235,7 @@
     "cinema": {
       "plot_pt": "Depois de realizar as suas primeiras três longas-metragens com a Madhouse, Satoshi Kon volta a colaborar com o estúdio, desta vez na sua primeira e única série televisiva. Ao longo de 13 episódios, a cidade de Musashino é aterrorizada por um misterioso rapaz de patins que agride os habitantes com um taco de basebol dourado. À medida que dois detetives investigam os ataques, as ligações entre as vítimas tornam-se evidentes: pessoas sob intensa pressão que procuram uma forma de escapar à realidade. Entre o mistério e o sobrenatural, Paranoia Agent traça um retrato incisivo da ansiedade e do medo na sociedade contemporânea."
     },
+    "dir_checked": true,
     "stills_focus": [
       38.2,
       32.4,
@@ -43105,14 +43376,14 @@
     },
     "tmdb_id": "340485",
     "stills_focus": [
-      33.0,
+      32.7,
       39.2,
-      49.3
+      25.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fLvgZEMv012AHZk2PAxMyG8WROt.jpg",
       "https://image.tmdb.org/t/p/w1280/gssl4I0ozpcP4v7IEKvCPqlKGZP.jpg",
-      "https://image.tmdb.org/t/p/w1280/eXy2BiLb1B4IUnlqpMFDazrdZ1E.jpg"
+      "https://image.tmdb.org/t/p/w1280/zujeH7DpfJtYdhEzRloH92XFSpZ.jpg"
     ]
   },
   "Hoodoo McFiggin’s Christmas|1995": {
@@ -43163,6 +43434,7 @@
     "cinema": {
       "plot_pt": "Baseado no conto de Stephen Leacock, este filme de animação satírica explora as expectativas natalícias e a perda da inocência. O jovem Hoodoo compra charutos para o pai e um broche para a mãe, orgulhoso dos seus presentes. Na manhã de Natal, abre as suas ofertas com crescente entusiasmo, imaginando encontrar patins, um cachorro, a Arca de Noé, um trenó ou um tambor. Porém, cada embrulho revela uma nova desilusão. À medida que os sonhos se desfazem, Hoodoo aprende uma lição agridoce e decide que, no próximo Natal, fará tudo de maneira diferente."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1060800"
   },
@@ -43232,7 +43504,7 @@
     "stills_focus": [
       43.0,
       26.0,
-      19.3
+      19.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/txL0KJhlfEd9n43yOxCFG0uxfxT.jpg",
@@ -43308,14 +43580,14 @@
     },
     "tmdb_id": "34647",
     "stills_focus": [
-      40.5,
-      39.4,
-      34.5
+      34.5,
+      20.5,
+      40.5
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/2Mlw0JRNZHXLYxbeJ0LmiCCTiok.jpg",
-      "https://image.tmdb.org/t/p/w1280/h0L4AI7qx0x5rJu9sbpSHYjw0Ln.jpg",
-      "https://image.tmdb.org/t/p/w1280/szfsfDdTBIC9tnThFKI8nZyZiwS.jpg"
+      "https://image.tmdb.org/t/p/w1280/szfsfDdTBIC9tnThFKI8nZyZiwS.jpg",
+      "https://image.tmdb.org/t/p/w1280/533yR1GeFx6diRmoULbFCjIWgcf.jpg",
+      "https://image.tmdb.org/t/p/w1280/2Mlw0JRNZHXLYxbeJ0LmiCCTiok.jpg"
     ]
   },
   "Aloïse|1975": {
@@ -43450,12 +43722,12 @@
     "stills_focus": [
       35.4,
       27.3,
-      47.3
+      46.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
       "https://image.tmdb.org/t/p/w1280/vMylmakO2K9cZexNUze8wa9muJp.jpg",
-      "https://image.tmdb.org/t/p/w1280/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg"
+      "https://image.tmdb.org/t/p/w1280/2j9oIcG4Pz38ESaUMTnmYhL6UM2.jpg"
     ]
   },
   "Coração, Coração|1990": {
@@ -43512,6 +43784,7 @@
     "cinema": {
       "plot_pt": "“Coração, Coração” é o single (música de Manuel João Vieira e letra de Paulo Tunhas) e metáfora central das complicadas histórias de amor e solidão que caracterizam Filha da Mãe, segunda longa-metragem de João Canijo. A partir do universo do filme, este vídeo musical, protagonizado por Diogo Dória e Rita Blanco, é um divertido exercício kitsch que imita a estética da música popular portuguesa."
     },
+    "dir_checked": true,
     "stills_focus": [
       30.2
     ],
@@ -43575,6 +43848,13 @@
     "cinema": {
       "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta."
     },
+    "dir_checked": true,
+    "stills_focus": [
+      33.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
+    ],
     "tmdb_id": "436665"
   },
   "The Green Years|1963": {
@@ -43979,6 +44259,7 @@
     "cinema": {
       "plot_pt": "Acusados de adultério, Ana Augusta Plácido (Maria João Bastos) e Camilo Castelo Branco (Albano Jerónimo) são presos durante mais de um ano na Cadeia da Relação do Porto, ela em junho de 1860, ele em outubro do mesmo ano, após uma aventurosa fuga à justiça por terras do Norte. Com um elenco que conta com nomes como Paulo Pires, João Pedro Vaz e Adriano Carvalho, o filme, apoiado pela Câmara Municipal do Porto, acompanha não só o amor, a angústia e a humilhação social vividos na prisão, mas também o processo de escrita de Amor de Perdição, uma das obras maiores de Camilo."
     },
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1461062"
   },
@@ -44063,14 +44344,14 @@
     "tmdb_id": "1714",
     "wiki_tries": 3,
     "stills_focus": [
-      35.1,
       53.6,
-      31.3
+      31.3,
+      37.9
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/gyC9u8GOeNwyKzvXHAOhTsfps5u.jpg",
       "https://image.tmdb.org/t/p/w1280/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
-      "https://image.tmdb.org/t/p/w1280/hyI6an1jnCHCZ8p9rq5DJCssX8C.jpg"
+      "https://image.tmdb.org/t/p/w1280/hyI6an1jnCHCZ8p9rq5DJCssX8C.jpg",
+      "https://image.tmdb.org/t/p/w1280/p2UUrDs7BoHQqiGCIQEVavUhwz3.jpg"
     ]
   },
   "A Prodigiosa Transformação da Classe Operária em Estrangeiros|2024": {
@@ -44090,7 +44371,10 @@
       "lb_director": "Rodrigo Areias",
       "lb_director_slug": "rodrigo-areias",
       "lb_year": 2025,
-      "lb_title": "Nova '78"
+      "lb_title": "Nova '78",
+      "backdrop": null,
+      "imdb_id": "tt37379020",
+      "tmdb_id": "1510390"
     },
     "omdb": {
       "Title": "Nova 78'",
@@ -44125,6 +44409,7 @@
       "country": "Estados Unidos, Reino Unido e Portugal",
       "plot_pt": "Recriado graças a um projeto de restauração de arquivos liderado pelo Reino Unido, «NOVA 78'» apresenta imagens inéditas da lendária Nova Convention, onde William Burroughs, Patti Smith, Zappa, Ginsberg e outros se cruzaram numa explosão de ideias, arte e rebeldia."
     },
+    "dir_checked": true,
     "stills_focus": [
       52.8
     ],
@@ -44144,6 +44429,7 @@
     "cinema": {
       "plot_pt": "Nesta sessão, apresentamos a curta-metragem resultante da Oficina de Animação, orientada por Carolina Bonzinho e Laura Gonçalves, do BAP — Animation Studios, com acompanhamento de Guilherme Gama e Joana Rodrigues na criação sonora. Através de diversas técnicas de animação, do recorte ao desenho e à pixilação, as crianças exploraram o tema das máscaras: refletiram sobre as suas próprias máscaras, imaginaram o que se esconde por trás delas e deram-lhes vida num filme coletivo."
     },
+    "dir_checked": true,
     "stills": null
   },
   "HITPIG O HERÓI DA BICHARADA|None": {
@@ -44480,7 +44766,17 @@
     "cinema": {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital."
     },
-    "tmdb_id": "28696"
+    "tmdb_id": "28696",
+    "stills_focus": [
+      33.2,
+      41.8,
+      18.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/atbJUEuf6Y8vcduHLfvaJqPyF6d.jpg",
+      "https://image.tmdb.org/t/p/w1280/1lUcNQpp0uZZdANEYnDhG9Bz3KI.jpg",
+      "https://image.tmdb.org/t/p/w1280/xII0S3FcWSxLGxMGl8S05Ccgmu1.jpg"
+    ]
   },
   "Love With The Proper Stranger|1963": {
     "lbxd": {
@@ -44547,9 +44843,9 @@
     },
     "tmdb_id": "39495",
     "stills_focus": [
-      45.4,
-      42.7,
-      32.7
+      45.9,
+      42.9,
+      32.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cKitWRm9XliRUrVEAlTGUGer441.jpg",
@@ -44774,8 +45070,8 @@
     },
     "tmdb_id": "18644",
     "stills_focus": [
-      30.2,
-      42.9,
+      30.1,
+      42.8,
       42.2
     ],
     "stills": [
@@ -44853,14 +45149,14 @@
     },
     "tmdb_id": "37247",
     "stills_focus": [
-      32.4,
+      32.3,
       48.8,
-      41.9
+      42.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
       "https://image.tmdb.org/t/p/w1280/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
-      "https://image.tmdb.org/t/p/w1280/9paYrZw6mkwpO1U5mWRwOLWarXd.jpg"
+      "https://image.tmdb.org/t/p/w1280/5Y7zkgMtTWmESwROWgMWblNn3tD.jpg"
     ]
   },
   "Bonjour Tristesse|1958": {
@@ -44928,13 +45224,13 @@
     "tmdb_id": "1937",
     "stills_focus": [
       27.2,
-      41.6,
-      30.3
+      30.3,
+      23.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ks9uOTNHUy9Kw51ucWulsvqEef5.jpg",
-      "https://image.tmdb.org/t/p/w1280/hOdRKaoRVOk7ePDDCo2xEbcL5yG.jpg",
-      "https://image.tmdb.org/t/p/w1280/hTC96Aq54QOuLcKkiAT0XE5Fmv3.jpg"
+      "https://image.tmdb.org/t/p/w1280/hTC96Aq54QOuLcKkiAT0XE5Fmv3.jpg",
+      "https://image.tmdb.org/t/p/w1280/1UXTWkXX3ExkTFTLJmtlJ4p7s1F.jpg"
     ]
   },
   "Lilith|1964": {
@@ -45078,14 +45374,14 @@
     },
     "tmdb_id": "1725",
     "stills_focus": [
-      23.1,
-      54.3,
-      23.7
+      23.0,
+      23.7,
+      24.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
-      "https://image.tmdb.org/t/p/w1280/k16HBtd67XVwxp2G2B6ERcCyzGR.jpg",
-      "https://image.tmdb.org/t/p/w1280/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg"
+      "https://image.tmdb.org/t/p/w1280/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg",
+      "https://image.tmdb.org/t/p/w1280/qhRbhkw9aQMM3uqCt1F06vz5xXu.jpg"
     ]
   },
   "A Ópera Mouffe|1958": {
@@ -45149,12 +45445,12 @@
     "tmdb_id": "95378",
     "wiki_tries": 3,
     "stills_focus": [
-      43.2,
-      32.5
+      32.5,
+      43.2
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/gVsYUzSVwur2TRHvFI6WLAzMgMr.jpg",
-      "https://image.tmdb.org/t/p/w1280/gUNQLKZ0gvpY5IRqPjKqD6jKc97.jpg"
+      "https://image.tmdb.org/t/p/w1280/gUNQLKZ0gvpY5IRqPjKqD6jKc97.jpg",
+      "https://image.tmdb.org/t/p/w1280/gVsYUzSVwur2TRHvFI6WLAzMgMr.jpg"
     ]
   },
   "UM TOQUE FAMILIAR|None": {
@@ -45217,7 +45513,17 @@
     "wiki": null,
     "cinema": {},
     "tmdb_id": "1265717",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      49.7,
+      28.3,
+      29.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/sq2IW3AbdiH8J3JqHUIErAPRn86.jpg",
+      "https://image.tmdb.org/t/p/w1280/bjhpCT7p6xD3YQh3bIkdIxr2xMr.jpg",
+      "https://image.tmdb.org/t/p/w1280/dCUEYnvgtkVGMb1dmqebzw9Wwn3.jpg"
+    ]
   },
   "COPELAND|None": {
     "lbxd": null,
@@ -45342,12 +45648,12 @@
     "stills_focus": [
       33.1,
       46.7,
-      42.7
+      10.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/4wXArxer1R0gKbDw9Uly7HeK4hX.jpg",
       "https://image.tmdb.org/t/p/w1280/8WNTsc7l8JctV6nTPvMfW0eoFEw.jpg",
-      "https://image.tmdb.org/t/p/w1280/ezuwrGletXsU7XxIYbg7DjTBALC.jpg"
+      "https://image.tmdb.org/t/p/w1280/1tbI1qSsgVD8PO3FymdBNotLwEl.jpg"
     ]
   },
   "Oficina do Conto Cinematográfico|None": {
@@ -45355,6 +45661,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Antoine et Colette|1962": {
@@ -45402,14 +45709,14 @@
     },
     "tmdb_id": "22694",
     "stills_focus": [
-      38.4,
       22.7,
-      43.0
+      43.0,
+      29.1
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/n59XVeuh9G8VHk0HhPg0eiQr3k8.jpg",
       "https://image.tmdb.org/t/p/w1280/iCMleCB6nzB9lea3XUydn9BYwhw.jpg",
-      "https://image.tmdb.org/t/p/w1280/4O62lFLA7Xdpa6y5lSFCM7HCMze.jpg"
+      "https://image.tmdb.org/t/p/w1280/4O62lFLA7Xdpa6y5lSFCM7HCMze.jpg",
+      "https://image.tmdb.org/t/p/w1280/nS7dE9K3tVEvmlGWVIZWmxOGev6.jpg"
     ]
   },
   "The Wild One|1953": {
@@ -45609,13 +45916,13 @@
     "tmdb_id": "39387",
     "stills_focus": [
       39.8,
-      44.7,
-      51.6
+      51.6,
+      27.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jGwZRoK9wRJyufcx9qIQnsTxoyu.jpg",
-      "https://image.tmdb.org/t/p/w1280/6fZ7ehMdIPS98gVfIT7XCip3BL4.jpg",
-      "https://image.tmdb.org/t/p/w1280/8BixaOF8X144CaFR6qtAwIKKVL7.jpg"
+      "https://image.tmdb.org/t/p/w1280/8BixaOF8X144CaFR6qtAwIKKVL7.jpg",
+      "https://image.tmdb.org/t/p/w1280/hqe3UPV2h1bI2TXjt5Bx05VeOn6.jpg"
     ]
   },
   "Othello|1951": {
@@ -45964,7 +46271,7 @@
     "stills_focus": [
       24.9,
       25.6,
-      35.8
+      35.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
@@ -46242,7 +46549,17 @@
       "plot_pt": "Em Tânger, uma idosa espanhola luta contra a venda de sua casa pela filha. Enquanto tenta manter seu lar e resgatar seus pertences, acaba a redescobrir o amor e o desejo."
     },
     "tmdb_id": "1399462",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      26.5,
+      25.5,
+      37.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
+      "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg",
+      "https://image.tmdb.org/t/p/w1280/bS2Mau9AN9cfof5lOO1sgc6jBN.jpg"
+    ]
   },
   "Jane B. Por Agnès V.|1988": {
     "lbxd": {
@@ -46377,7 +46694,17 @@
       "imdb_id": "tt0034175",
       "extract_pt": "The Xangai Gesture (Brasil: Tensão em Xangai / Portugal: Aconteceu em Xangai) é um filme norte-americano de 1941, do gênero policial, dirigido por Josef von Sternberg e estrelado por Gene Tierney e Walter Huston."
     },
-    "wiki_tries": 1
+    "wiki_tries": 1,
+    "stills_focus": [
+      35.3,
+      33.3,
+      23.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/eKLHQ9YOpeRwBcYXH2GGLOg7AdC.jpg",
+      "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
+      "https://image.tmdb.org/t/p/w1280/e4pEom4jYE9hagj8dgKarCSBx2e.jpg"
+    ]
   },
   "SOY CUBA|None": {
     "lbxd": {
@@ -46439,7 +46766,17 @@
     "wiki": null,
     "cinema": {},
     "tmdb_id": "32015",
-    "wiki_tries": 1
+    "wiki_tries": 2,
+    "stills_focus": [
+      36.2,
+      23.6,
+      33.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
+      "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg",
+      "https://image.tmdb.org/t/p/w1280/wRKmrZic25ylw0RYEuVpU4lBuSM.jpg"
+    ]
   },
   "A PISCINA|None": {
     "lbxd": {
@@ -46506,7 +46843,17 @@
       "imdb_id": "tt0064816",
       "extract_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand."
     },
-    "wiki_tries": 1
+    "wiki_tries": 1,
+    "stills_focus": [
+      18.7,
+      44.0,
+      28.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pQpGA6XsWlmlAyicVIxVXHIW02P.jpg",
+      "https://image.tmdb.org/t/p/w1280/gbgoA365wY0tLZxVCaOE6NpF2iF.jpg",
+      "https://image.tmdb.org/t/p/w1280/pZ0nNN5UoUkpyY9zWdyquztgX1v.jpg"
+    ]
   },
   "Algemas de Cristal|1987": {
     "lbxd": {
@@ -46653,12 +47000,12 @@
     "stills_focus": [
       35.2,
       28.0,
-      46.6
+      23.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
       "https://image.tmdb.org/t/p/w1280/3NN2lvLuoroRrSZMjiaLVPkoj03.jpg",
-      "https://image.tmdb.org/t/p/w1280/nISUQNqVHOU41svi3r30rlvHF9k.jpg"
+      "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
     ],
     "tmdb_id": "53023"
   },
@@ -46723,13 +47070,13 @@
     "tmdb_id": "257524",
     "wiki_tries": 3,
     "stills_focus": [
-      41.6,
       47.5,
+      41.6,
       42.8
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
       "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
+      "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
       "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
     ]
   },
@@ -47280,13 +47627,13 @@
     "wiki_tries": 3,
     "stills_focus": [
       49.7,
-      43.5,
-      28.3
+      28.3,
+      29.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/sq2IW3AbdiH8J3JqHUIErAPRn86.jpg",
-      "https://image.tmdb.org/t/p/w1280/1QS3YkR9ykDxohWO4hPOyPvTxtY.jpg",
-      "https://image.tmdb.org/t/p/w1280/bjhpCT7p6xD3YQh3bIkdIxr2xMr.jpg"
+      "https://image.tmdb.org/t/p/w1280/bjhpCT7p6xD3YQh3bIkdIxr2xMr.jpg",
+      "https://image.tmdb.org/t/p/w1280/dCUEYnvgtkVGMb1dmqebzw9Wwn3.jpg"
     ]
   },
   "BROKEN ENGLISH|2007": {
@@ -47495,13 +47842,13 @@
     "wiki_tries": 3,
     "stills_focus": [
       36.2,
-      49.2,
-      23.6
+      23.6,
+      33.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
-      "https://image.tmdb.org/t/p/w1280/tdwqH8D9QE4CxQB33z9hMBWbSL.jpg",
-      "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg"
+      "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg",
+      "https://image.tmdb.org/t/p/w1280/wRKmrZic25ylw0RYEuVpU4lBuSM.jpg"
     ]
   },
   "A PISCINA|1969": {
@@ -47821,6 +48168,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills_focus": [
       40.6
     ],
@@ -47851,6 +48199,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "644863"
   },
@@ -47898,6 +48247,8 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
+    "stills": null,
     "tmdb_id": "502761"
   },
   "The book of transfigurations|2020": {
@@ -47905,6 +48256,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Anima|2024": {
@@ -47912,6 +48264,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Cultivo|2020": {
@@ -47919,6 +48272,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Equinócio 1|2025": {
@@ -47926,6 +48280,7 @@
     "omdb": null,
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "The Loneliness of Lizards|2025": {
@@ -47974,6 +48329,7 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills_focus": [
       45.1,
       42.4
@@ -48015,6 +48371,7 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null
   },
   "Night Tale|2019": {
@@ -48048,6 +48405,7 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
     "stills": null,
     "tmdb_id": "1153232"
   },
