@@ -27371,7 +27371,7 @@
     },
     "tmdb_id": "4683",
     "stills_focus": [
-      40.9
+      40.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
@@ -45964,7 +45964,7 @@
     "stills_focus": [
       24.9,
       25.6,
-      35.4
+      35.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
@@ -48019,10 +48019,37 @@
   },
   "Night Tale|2019": {
     "lbxd": null,
-    "omdb": null,
+    "omdb": {
+      "Title": "História da Noite",
+      "Year": "2020",
+      "Rated": "N/A",
+      "Released": "04 May 2020",
+      "Runtime": "16 min",
+      "Genre": "Short, Drama",
+      "Director": "Inês Nunes",
+      "Writer": "Marta Almeida, Inês Nunes",
+      "Actors": "Manuel Almeida e Sousa, Ana Bustorff, Mariana Monteiro",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt13546582",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1153232"
   },
   "The Landscape Is Empty and Emptiness Is Landscape|2018": {
     "lbxd": {

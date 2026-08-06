@@ -129,13 +129,13 @@ window.CINEMA_DATA = {
       "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/atbJUEuf6Y8vcduHLfvaJqPyF6d.jpg",
-        "https://image.tmdb.org/t/p/w1280/yhPDeWWEUrQIF5UubJPOKVgqgs1.jpg",
-        "https://image.tmdb.org/t/p/w1280/1lUcNQpp0uZZdANEYnDhG9Bz3KI.jpg"
+        "https://image.tmdb.org/t/p/w1280/1lUcNQpp0uZZdANEYnDhG9Bz3KI.jpg",
+        "https://image.tmdb.org/t/p/w1280/xII0S3FcWSxLGxMGl8S05Ccgmu1.jpg"
       ],
       "stills_focus": [
         33.2,
-        33.5,
-        41.8
+        41.8,
+        18.7
       ],
       "country": "USA",
       "director_lbxd_slug": "laszlo-benedek-1"
@@ -245,8 +245,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg"
       ],
       "stills_focus": [
-        23.0,
-        54.1,
+        23.1,
+        54.3,
         23.7
       ],
       "country": "USA",
@@ -316,9 +316,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/jF2mPNoCqWruDmGHvtthuGT0B67.jpg"
       ],
       "stills_focus": [
-        45.9,
-        42.9,
-        32.5
+        45.4,
+        42.7,
+        32.7
       ],
       "country": "USA",
       "director_lbxd_slug": "robert-mulligan"
@@ -352,8 +352,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/epH5DFkXmyTtr7T1LEcxfDdSyPW.jpg"
       ],
       "stills_focus": [
-        30.1,
-        42.8,
+        30.2,
+        42.9,
         42.2
       ],
       "country": "USA",
@@ -625,12 +625,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/i4Fp0AJsqAzbeVQyCoG0adRRfdh.jpg",
         "https://image.tmdb.org/t/p/w1280/7GDAldgmycOxNfEcycEX9IvVvIk.jpg",
-        "https://image.tmdb.org/t/p/w1280/9YwDHcSORGyYazAW8XrlNmvSgOQ.jpg"
+        "https://image.tmdb.org/t/p/w1280/iRkSNuJHxRoSrI7uqhFjJ9gbcMk.jpg"
       ],
       "stills_focus": [
         33.5,
         36.5,
-        21.6
+        32.9
       ],
       "country": "USA",
       "director_lbxd_slug": "walter-hill"
@@ -732,12 +732,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "https://image.tmdb.org/t/p/w1280/7ftWLrXsdOPMQGOFlMplaBJbsqA.jpg",
-        "https://image.tmdb.org/t/p/w1280/yIn5dnwQXInfzvdcAUiLRKq0X3T.jpg"
+        "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg"
       ],
       "stills_focus": [
         26.5,
         42.6,
-        42.1
+        25.5
       ],
       "country": "Morocco",
       "director_lbxd_slug": "maryam-touzani"
@@ -805,13 +805,13 @@ window.CINEMA_DATA = {
       "plot_pt": "Depois de 12 longos anos, Gregg Araki, um dos nomes maiores do cinema independente americano, regressa com um novo filme, fiel ao seu estilo sempre irreverente. Nesta moderna comédia sexual, Elliot (Cooper Hoffman), um jovem entediado e sexualmente frustrado, consegue o seu primeiro emprego como assistente de uma provocante artista, Erika Tracy (Olivia Wilde). As suas fantasias tornam-se realidade quando Erika o escolhe para ser a sua musa sexual.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/rcBpmEIdSTMnt5Rn4BQeHF4SIL5.jpg",
-        "https://image.tmdb.org/t/p/w1280/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
-        "https://image.tmdb.org/t/p/w1280/hZs2eab6WhfEzWU5ue5xE1h5ru4.jpg"
+        "https://image.tmdb.org/t/p/w1280/hZs2eab6WhfEzWU5ue5xE1h5ru4.jpg",
+        "https://image.tmdb.org/t/p/w1280/iKNXGQuZhVr5sLUcwvN9R9G50QO.jpg"
       ],
       "stills_focus": [
         42.2,
-        18.9,
-        18.6
+        18.6,
+        34.5
       ],
       "country": "USA",
       "director_lbxd_slug": "gregg-araki"
@@ -1151,13 +1151,13 @@ window.CINEMA_DATA = {
       "title_en": "Uncle Yanco",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/sera0zxXBfTtKuwacI6Rx7rbSWB.jpg",
-        "https://image.tmdb.org/t/p/w1280/gR0dyU2o0MbRcNmytLBcppf85nC.jpg",
-        "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg"
+        "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg",
+        "https://image.tmdb.org/t/p/w1280/5uDGj2ap6hnDNsmVJNHPSB1TOsy.jpg"
       ],
       "stills_focus": [
         36.1,
-        60.8,
-        32.6
+        32.6,
+        43.7
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -1398,12 +1398,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/tyWnJeMatQGLsiLfLsxBV0pp9nk.jpg",
         "https://image.tmdb.org/t/p/w1280/qh2N9ZVWwrNKO4aaj1A0uab4a3h.jpg",
-        "https://image.tmdb.org/t/p/w1280/8AUfe4QJ0rrxOmAvI32O4eDUnXY.jpg"
+        "https://image.tmdb.org/t/p/w1280/9NPM7EcNZN7OMCK2ANWbyXOKc00.jpg"
       ],
       "stills_focus": [
         18.0,
         40.0,
-        16.8
+        42.0
       ],
       "country": "France",
       "director_lbxd_slug": "luchino-visconti"
@@ -1477,13 +1477,13 @@ window.CINEMA_DATA = {
       "title_en": "Along the Coast",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/bguxdTPPly2TWkaGE09sWvvdv5I.jpg",
-        "https://image.tmdb.org/t/p/w1280/oEt6b0otgEP8kAGh4DsDcZ5QhQd.jpg",
-        "https://image.tmdb.org/t/p/w1280/aQUSJXY4Ay6UY8GO14qeMlOSQqb.jpg"
+        "https://image.tmdb.org/t/p/w1280/aQUSJXY4Ay6UY8GO14qeMlOSQqb.jpg",
+        "https://image.tmdb.org/t/p/w1280/cdv70FwRUnfNmdWobCQf9ATYuRm.jpg"
       ],
       "stills_focus": [
         26.9,
-        31.3,
-        30.5
+        30.5,
+        44.9
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -1725,14 +1725,14 @@ window.CINEMA_DATA = {
       "plot_pt": "À beira-mar, uma cabra, uma criança e um homem. É uma fotografia tirada por Agnès Varda em 1954: a cabra estava morta, a criança chamava-se Ulysse e o homem estava nu. A partir desta imagem fixa, tirada trinta anos antes, Agnès Varda explora o imaginário e o real.",
       "title_en": "Ulysse",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg",
         "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
-        "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg"
+        "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
+        "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
       ],
       "stills_focus": [
-        42.8,
         41.6,
-        47.5
+        47.5,
+        42.8
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -2464,7 +2464,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
       ],
       "stills_focus": [
-        47.0
+        47.2
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -2883,7 +2883,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         30.1,
-        32.9
+        32.6
       ],
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
@@ -3812,12 +3812,10 @@ window.CINEMA_DATA = {
       "plot_pt": "Um homem iraniano e uma mulher francesa deambulam pela cidade de Ispaão, e descobrem que o seu amor está reflectido na arquitectura e mosaicos das mesquitas da cidade. Nesta curta-metragem, Agnès Varda parte do erotismo da arquitectura, cruzando a contemplação com a poesia, para nos falar de amor.\n\r\n\r\n\r\n\r\n“Em Ispaão, no Irão, a arquitectura religiosa é sensual, sexual até: minaretes soberbamente erguidos, cúpulas redondas e suaves, arbustos cheios de sombras e odores, e pórticos com mosaicos coloridos. É um cenário ideal para dois amantes, Pomme, a ruiva, e Ali Darius, o oriental, personagens do meu filme Uma Canta, a Outra Não. Para contar os seus arroubos, para os evocar, fiz esta curtíssima-metragem: Prazer de Amor no Irão. Pode-se ver este pequeno filme antes ou depois do amor, pode-se ver isoladamente. Podemos inspirar-nos em Pomme e escrever um poema de amor numa folha de papel higiénico…” – Agnès Varda",
       "title_en": "The Pleasure of Love in Iran",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/9qEZulY7MHvX2xOIrr0izO4f8qa.jpg",
-        "https://a.ltrbxd.com/resized/sm/upload/uy/yc/kp/gd/pleasure%20of%20love-1920-1920-1080-1080-crop-000000.jpg?v=aab6ed33d9"
+        "https://image.tmdb.org/t/p/w1280/9qEZulY7MHvX2xOIrr0izO4f8qa.jpg"
       ],
       "stills_focus": [
-        63.2,
-        63.4
+        63.2
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -3983,12 +3981,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/26LKQHOk5v7XjUFxm4Pv05nYgln.jpg",
         "https://image.tmdb.org/t/p/w1280/adRj1NQEr3Qh7wSvf7qX1kCpvAg.jpg",
-        "https://image.tmdb.org/t/p/w1280/mMY5nWGD5qQZxfpYGELsIJGrZCT.jpg"
+        "https://image.tmdb.org/t/p/w1280/151ejBAAxIGa6PbGRno7TgEQUMy.jpg"
       ],
       "stills_focus": [
         44.8,
         41.6,
-        45.5
+        28.3
       ],
       "country": "Italy",
       "director_lbxd_slug": "luchino-visconti"
@@ -4467,14 +4465,14 @@ window.CINEMA_DATA = {
       "plot_pt": "Hôtel de la Plage, costa atlântica, Verão: as pessoas pousam as malas calmamente. Ao longe, o som incomodativo de um carro ruidoso. Ao volante, um veraneante pouco comum. É o senhor Hulot, que empurra a porta do hotel e provoca logo uma enorme corrente de ar. É a desordem total durante a estação balnear: ténis coreográfico, um barco de pesca partido. O Sr. Hulot, para gáudio das crianças, semeia involuntariamente o terror nesta pequena sociedade de veraneantes demasiado sérios.",
       "title_en": "Monsieur Hulot's Holiday",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/dK6s1EMpMcUwBHpiYVMBiTdgdvy.jpg",
         "https://image.tmdb.org/t/p/w1280/qi7PmFSlCXVAwqlvdiN2ZrlxJGj.jpg",
-        "https://image.tmdb.org/t/p/w1280/guQMykNk2dY5va90fCdIrUbdsAe.jpg"
+        "https://image.tmdb.org/t/p/w1280/tRSqRppPkWEoztjX97D8bjWQa8C.jpg",
+        "https://image.tmdb.org/t/p/w1280/c65cUSKMlwawUu3yUO2GY68P7jh.jpg"
       ],
       "stills_focus": [
-        52.5,
         11.9,
-        null
+        17.4,
+        32.1
       ],
       "country": "France",
       "director_lbxd_slug": "jacques-tati"
@@ -4679,13 +4677,13 @@ window.CINEMA_DATA = {
       "title_en": "Jules and Jim",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-        "https://image.tmdb.org/t/p/w1280/1dSopaBgvxYinmhaCOsLoZSeWD3.jpg",
-        "https://image.tmdb.org/t/p/w1280/7eVmxO8e003vfPKBrAaEfXhXwwm.jpg"
+        "https://image.tmdb.org/t/p/w1280/7eVmxO8e003vfPKBrAaEfXhXwwm.jpg",
+        "https://image.tmdb.org/t/p/w1280/ruLUjqkerRsSe7agMKgQNEaBAqi.jpg"
       ],
       "stills_focus": [
         13.7,
-        16.4,
-        28.8
+        28.8,
+        27.8
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
@@ -5231,7 +5229,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
       ],
       "stills_focus": [
-        34.0
+        33.9
       ],
       "director_lbxd_slug": "jose-magro"
     },
@@ -5429,13 +5427,13 @@ window.CINEMA_DATA = {
       "rating": 4.37,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
-        "https://image.tmdb.org/t/p/w1280/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
-        "https://image.tmdb.org/t/p/w1280/4XwiwzyzX9msbC1wg5NN0PbqQXu.jpg"
+        "https://image.tmdb.org/t/p/w1280/4XwiwzyzX9msbC1wg5NN0PbqQXu.jpg",
+        "https://image.tmdb.org/t/p/w1280/dx6CRpr6XzvGH4nw2vka8ojCUa4.jpg"
       ],
       "stills_focus": [
         25.9,
-        46.5,
-        40.8
+        40.8,
+        33.8
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -5466,7 +5464,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
       ],
       "stills_focus": [
-        35.2
+        35.1
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -5499,9 +5497,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/yV134dPYdt1Km6xBcvizB8oTkmw.jpg"
       ],
       "stills_focus": [
-        43.5,
+        43.4,
         28.2,
-        44.5
+        44.4
       ],
       "director_lbxd_slug": "shoja-azari"
     },
@@ -5826,8 +5824,8 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         23.3,
-        49.3,
-        24.9
+        48.9,
+        24.7
       ],
       "director_lbxd_slug": "satoshi-kon"
     },
@@ -5897,8 +5895,8 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         21.8,
-        12.2,
-        32.3
+        50.6,
+        32.4
       ],
       "director_lbxd_slug": "jacques-tourneur"
     },
@@ -5933,9 +5931,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8BixaOF8X144CaFR6qtAwIKKVL7.jpg"
       ],
       "stills_focus": [
-        40.2,
-        43.7,
-        51.1
+        39.8,
+        44.7,
+        51.6
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -5987,9 +5985,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/sHbH6u9EidqGtbIAcAaUgjJFn3S.jpg"
       ],
       "stills_focus": [
-        25.6,
+        25.5,
         37.0,
-        42.8
+        42.5
       ],
       "director_lbxd_slug": "courtney-stephens"
     },
@@ -6294,12 +6292,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
         "https://image.tmdb.org/t/p/w1280/kUa5p73cjzDXoqB6SKncfYKmMu2.jpg",
-        "https://image.tmdb.org/t/p/w1280/hrCTMOwQDtFzXob6z7aj3nkpeAk.jpg"
+        "https://image.tmdb.org/t/p/w1280/rxjDSSmwkFF5m65jqYSfB1gO1cO.jpg"
       ],
       "stills_focus": [
         17.0,
         28.6,
-        14.8
+        43.3
       ],
       "director_lbxd_slug": "andrea-arnold"
     },
@@ -6587,13 +6585,13 @@ window.CINEMA_DATA = {
       "rating": 3.64,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/x4x42AbArvItQusMifH3R97j7oN.jpg",
-        "https://image.tmdb.org/t/p/w1280/mFAj2l0mRHXlcbz7dKqxV8j24zF.jpg",
-        "https://image.tmdb.org/t/p/w1280/pyOjU3auEEL3RvZnQitcvPt6R0w.jpg"
+        "https://image.tmdb.org/t/p/w1280/pyOjU3auEEL3RvZnQitcvPt6R0w.jpg",
+        "https://image.tmdb.org/t/p/w1280/nzWprPMXu3l0RVjBCA5RY2dmeL9.jpg"
       ],
       "stills_focus": [
         53.1,
-        42.4,
-        41.9
+        41.9,
+        47.9
       ],
       "director_lbxd_slug": "andrea-arnold"
     },
@@ -6673,7 +6671,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         48.9,
         47.0,
-        49.4
+        49.3
       ],
       "director_lbxd_slug": "eloy-enciso"
     },
@@ -6708,9 +6706,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/aWZqRXoX7Ku4MkPwgMugi2F9fQx.jpg"
       ],
       "stills_focus": [
-        48.8,
+        48.7,
         29.2,
-        51.7
+        51.5
       ],
       "director_lbxd_slug": "katsuhiro-otomo-1"
     },
@@ -6745,7 +6743,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         40.1,
-        40.1,
+        41.4,
         24.0
       ],
       "director_lbxd_slug": "matias-pineiro"
@@ -6780,9 +6778,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/orgE2QHS1CGGfygilTG5oqi2hPO.jpg"
       ],
       "stills_focus": [
-        41.0,
+        41.1,
         32.3,
-        51.6
+        51.4
       ],
       "director_lbxd_slug": "matias-pineiro"
     },
@@ -6816,7 +6814,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         33.0,
-        30.0,
+        30.1,
         35.4
       ],
       "director_lbxd_slug": "barry-sonnenfeld"
@@ -6872,7 +6870,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/2VAx832MIs3PeWx4huMHRVvyAoG.jpg"
       ],
       "stills_focus": [
-        44.4,
+        44.7,
         27.5,
         26.1
       ],
@@ -6903,13 +6901,13 @@ window.CINEMA_DATA = {
       "rating": 3.2,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/9ObUDVAFRjF1J9fJ7aYD33hM85.jpg",
-        "https://image.tmdb.org/t/p/w1280/2VkGYmB9mlO7zlZgMb110qxtQit.jpg",
-        "https://image.tmdb.org/t/p/w1280/b4483tMYKbJRWEWcMsJzBbVEkJg.jpg"
+        "https://image.tmdb.org/t/p/w1280/b4483tMYKbJRWEWcMsJzBbVEkJg.jpg",
+        "https://image.tmdb.org/t/p/w1280/tjRpnrYohg4KpvxTO0PBPXxg0fQ.jpg"
       ],
       "stills_focus": [
         14.2,
-        62.5,
-        22.4
+        22.4,
+        18.1
       ],
       "director_lbxd_slug": "andrea-arnold"
     },
@@ -7101,13 +7099,13 @@ window.CINEMA_DATA = {
       "rating": 3.44,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/n9irXcigQGlcub5JJ6RV1EdDW1J.jpg",
-        "https://image.tmdb.org/t/p/w1280/4MXAOW1hfTaz34KO65PRgaVo35z.jpg",
-        "https://image.tmdb.org/t/p/w1280/t2DJFqKeoXwxkexpDyFtrNKcwlP.jpg"
+        "https://image.tmdb.org/t/p/w1280/t2DJFqKeoXwxkexpDyFtrNKcwlP.jpg",
+        "https://image.tmdb.org/t/p/w1280/dJkgn464101elpzulS4mPosIHMX.jpg"
       ],
       "stills_focus": [
         28.2,
-        70.0,
-        17.4
+        17.4,
+        40.2
       ],
       "director_lbxd_slug": "gus-van-sant"
     },
@@ -7253,7 +7251,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cF95DK4uXriqM03ZsDFqnbufIfS.jpg"
       ],
       "stills_focus": [
-        36.9,
+        37.2,
         61.0,
         35.3
       ],
@@ -7349,7 +7347,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
       ],
       "stills_focus": [
-        40.8
+        40.7
       ],
       "director_lbxd_slug": "fernando-ruiz-vergara"
     },
@@ -7647,7 +7645,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/oZNevLcjER0NVhaAxfzLpWijti6.jpg"
       ],
       "stills_focus": [
-        43.2,
+        43.0,
         26.0,
         19.3
       ],
@@ -7790,13 +7788,13 @@ window.CINEMA_DATA = {
       "rating": 3.76,
       "stills": [
         "https://image.tmdb.org/t/p/w1280/2Mlw0JRNZHXLYxbeJ0LmiCCTiok.jpg",
-        "https://image.tmdb.org/t/p/w1280/qoC006TTQ6zmhl44WLJcIyvv43i.jpg",
-        "https://image.tmdb.org/t/p/w1280/pIGfcjQx5uHJ629Jq8MRBULXs5S.jpg"
+        "https://image.tmdb.org/t/p/w1280/h0L4AI7qx0x5rJu9sbpSHYjw0Ln.jpg",
+        "https://image.tmdb.org/t/p/w1280/szfsfDdTBIC9tnThFKI8nZyZiwS.jpg"
       ],
       "stills_focus": [
         40.5,
-        39.5,
-        43.8
+        39.4,
+        34.5
       ],
       "director_lbxd_slug": "gaspar-noe"
     },
@@ -8104,12 +8102,12 @@ window.CINEMA_DATA = {
       "stills": [
         "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "https://image.tmdb.org/t/p/w1280/7ftWLrXsdOPMQGOFlMplaBJbsqA.jpg",
-        "https://image.tmdb.org/t/p/w1280/yIn5dnwQXInfzvdcAUiLRKq0X3T.jpg"
+        "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg"
       ],
       "stills_focus": [
         26.5,
         42.6,
-        42.1
+        25.5
       ],
       "country": "Morocco",
       "director_lbxd_slug": "maryam-touzani"
@@ -8641,13 +8639,13 @@ window.CINEMA_DATA = {
       "title_en": "Jules and Jim",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
-        "https://image.tmdb.org/t/p/w1280/1dSopaBgvxYinmhaCOsLoZSeWD3.jpg",
-        "https://image.tmdb.org/t/p/w1280/7eVmxO8e003vfPKBrAaEfXhXwwm.jpg"
+        "https://image.tmdb.org/t/p/w1280/7eVmxO8e003vfPKBrAaEfXhXwwm.jpg",
+        "https://image.tmdb.org/t/p/w1280/ruLUjqkerRsSe7agMKgQNEaBAqi.jpg"
       ],
       "stills_focus": [
         13.7,
-        16.4,
-        28.8
+        28.8,
+        27.8
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
@@ -8792,14 +8790,14 @@ window.CINEMA_DATA = {
       "plot": "An octogenarian woman transitions to life in assisted living as she contends with her conflicting relationship to herself and her caregivers amidst her shifting memory, age identity, and desires.",
       "title_en": "Familiar Touch",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/3q4IesHCet7ET8qlljBJXzWGS2Q.jpg",
         "https://image.tmdb.org/t/p/w1280/sq2IW3AbdiH8J3JqHUIErAPRn86.jpg",
-        "https://image.tmdb.org/t/p/w1280/1QS3YkR9ykDxohWO4hPOyPvTxtY.jpg"
+        "https://image.tmdb.org/t/p/w1280/1QS3YkR9ykDxohWO4hPOyPvTxtY.jpg",
+        "https://image.tmdb.org/t/p/w1280/bjhpCT7p6xD3YQh3bIkdIxr2xMr.jpg"
       ],
       "stills_focus": [
-        39.6,
         49.7,
-        43.5
+        43.5,
+        28.3
       ],
       "country": "USA",
       "director_lbxd_slug": "sarah-friedland-1"
@@ -8860,7 +8858,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         24.9,
         25.6,
-        35.6
+        35.8
       ],
       "country": "France",
       "director_lbxd_slug": "marjane-satrapi"
@@ -9279,6 +9277,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Identite-LouisMalle-1958-Sacem.png/500px-Identite-LouisMalle-1958-Sacem.png",
       "bio": "Louis Marie Malle (French: [lwi maʁi mal]; 30 October 1932 – 23 November 1995) was a French filmmaker who worked in France and Hollywood. Described as \"eclectic\" and \"difficult to pin down\", his works often depict provocative or controversial subject matter. Malle's most famous works include the crime thriller Elevator to the Gallows (1958), the romantic drama The Lovers (1958), the World War II drama Lacombe, Lucien (1974), the period drama Pretty Baby (1978), the romantic crime film Atlantic City (1980), the dramedy My Dinner with Andre (1981), and the autobiographical Au revoir les enfants (1987)."
     },
+    "Leo McCarey": {
+      "lbxd_slug": "leo-mccarey",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg/500px-Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Thomas Leo McCarey (October 3, 1898 – July 5, 1969) was an American film director, screenwriter, and producer. He was involved in nearly 200 films, including the critically acclaimed Duck Soup, Make Way for Tomorrow, The Awful Truth, Going My Way, The Bells of St. Mary's, My Son John, and An Affair to Remember."
+    },
     "Ingmar Bergman": {
       "lbxd_slug": "ingmar-bergman",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
@@ -9288,11 +9291,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "jean-pierre-melville",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Pierre_Melville_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Jean-Pierre Grumbach (20 October 1917–2 August 1973), known professionally as Jean-Pierre Melville (French: [ʒɑ̃ pjɛʁ mɛlvil]), was a French filmmaker. Considered a spiritual godfather of the French New Wave, he was one of the first fully-independent French filmmakers to achieve commercial and critical success. His works include the crime dramas Bob le flambeur (1956), Le Doulos (1962), Le Samouraï (1967), and Le Cercle Rouge (1970), and the war films Le Silence de la mer (1949) and Army of Shadows (1969)."
-    },
-    "Leo McCarey": {
-      "lbxd_slug": "leo-mccarey",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg/500px-Leo_McCarey_1930s_portrait_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Thomas Leo McCarey (October 3, 1898 – July 5, 1969) was an American film director, screenwriter, and producer. He was involved in nearly 200 films, including the critically acclaimed Duck Soup, Make Way for Tomorrow, The Awful Truth, Going My Way, The Bells of St. Mary's, My Son John, and An Affair to Remember."
     },
     "Wim Wenders": {
       "lbxd_slug": "wim-wenders",
@@ -9304,11 +9302,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg",
       "bio": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker. He began his career during the era of silent films, and his last films were made in colour in the early 1960s. Ozu first made a number of short comedies, before turning to more serious themes in the 1930s."
     },
-    "Andrei Tarkovsky": {
-      "lbxd_slug": "andrei-tarkovsky",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
-      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
-    },
     "Stanley Kubrick": {
       "lbxd_slug": "stanley-kubrick",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg/500px-Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -9318,6 +9311,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "wong-kar-wai",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wong_Kar-wai_Berlin_cropped.jpg/500px-Wong_Kar-wai_Berlin_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Wong Kar-wai  (born 17 July 1958) is a Hong Kong filmmaker. His films are characterised by nonlinear narratives, atmospheric music, and vivid cinematography with bold, saturated colours. An auteur of Hong Kong cinema, Wong frequently appears at international film festivals."
+    },
+    "Andrei Tarkovsky": {
+      "lbxd_slug": "andrei-tarkovsky",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
+      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
     },
     "Jacques Rivette": {
       "lbxd_slug": "jacques-rivette-1",
