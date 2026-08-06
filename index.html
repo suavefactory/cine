@@ -173,23 +173,33 @@
 
     .session-row {
       display: grid;
-      grid-template-columns: 90px 96px 1fr auto;
+      grid-template-columns: 90px 168px 1fr auto;
       align-items: center;
       gap: 40px;
-      padding: 22px 0;
+      /* Recuo negativo para o realce do hover respirar para fora da coluna
+         de texto, sem desalinhar a grelha. */
+      padding: 18px 20px;
+      margin: 0 -20px;
       border-bottom: 1px solid var(--line);
       cursor: pointer;
-      transition: opacity 0.15s;
+      transition: background-color 0.18s ease, color 0.18s ease;
     }
-    .session-row:hover { opacity: 0.5; }
+    /* --c é a cor do cinema, posta inline em cada linha: ao passar o cursor a
+       sessão diz logo onde é, sem ser preciso ler a etiqueta. */
+    .session-row:hover { background-color: color-mix(in srgb, var(--c) 16%, transparent); }
+    .session-row:hover .stime,
+    .session-row:hover .stitle { color: var(--c); }
 
     .stime {
       font-size: 38px; font-weight: 800;
       font-variant-numeric: tabular-nums;
       letter-spacing: -2px; line-height: 1;
+      transition: color 0.18s ease;
     }
+    .stitle { transition: color 0.18s ease; }
+    /* Fotograma em vez do poster: um still diz mais do filme do que a capa */
     .sthumb {
-      width: 84px; height: 116px; border-radius: 0;
+      width: 168px; aspect-ratio: 16/9; border-radius: 0;
       object-fit: cover; display: block; flex-shrink: 0;
       background: var(--surf2);
     }
@@ -427,10 +437,10 @@
       .date-chip { padding: 12px 0; }
       .date-chip .dd { font-size: 20px; }
       .date-chip .dn { font-size: 9px; margin-bottom: 5px; }
-      .session-row { grid-template-columns: 58px 66px 1fr; gap: 24px; }
+      .session-row { grid-template-columns: 58px 104px 1fr; gap: 16px; padding: 16px 12px; margin: 0 -12px; }
       .scinema { display: none; }
       .stime { font-size: 24px; letter-spacing: -1px; }
-      .sthumb { width: 60px; height: 84px; }
+      .sthumb { width: 104px; height: auto; }
       .stitle { font-size: 16px; }
       .smeta  { font-size: 11px; }
       .day-header .dname, .day-header .ddate { font-size: 17px; }
@@ -1063,11 +1073,14 @@ function renderAgenda() {
         <div class="sessions-list">
           ${sessions.map(s => {
             const c = cinema(s.cinema);
-            const thumb = s.movie.poster
-              ? `<img class="sthumb" src="${s.movie.poster}" alt="" loading="lazy">`
+            // Fotograma primeiro; o poster só entra quando não há stills, e
+            // aí é cortado para a mesma proporção para a coluna não saltar.
+            const shot = s.movie.stills?.[0] ?? s.movie.poster;
+            const thumb = shot
+              ? `<img class="sthumb" src="${shot}" alt="" loading="lazy">`
               : `<div class="sthumb" style="background:${s.movie.bg}"></div>`;
             return `
-              <div class="session-row" onclick="openModal('${s.movie.id}')">
+              <div class="session-row" style="--c:${c.color}" onclick="openModal('${s.movie.id}')">
                 <span class="stime">${s.time}</span>
                 ${thumb}
                 <div class="smovie">
