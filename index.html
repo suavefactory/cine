@@ -249,15 +249,27 @@
       flex: 0 0 100%; width: 100%; height: 100%;
       object-fit: cover; object-position: 50% var(--fy, 50%); display: block;
     }
-    .session-row:hover .sthumb-track.loop {
-      animation: sthumb-slide 7.5s linear infinite;
+    /* Cada fotograma fica parado o tempo de se ver e depois desliza depressa
+       para o seguinte, com aceleração e travagem — em vez de arrastar sempre
+       à mesma velocidade, que faz o reinício do ciclo parecer um salto atrás.
+       A curva é a mesma nos dois sítios onde isto acontece (agenda e modal). */
+    .session-row:hover .sthumb-track.loop-3 { animation: sthumb-3 5.4s infinite; }
+    .session-row:hover .sthumb-track.loop-2 { animation: sthumb-2 3.6s infinite; }
+
+    @keyframes sthumb-3 {
+      0%,  26%  { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      33%, 59%  { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      66%, 92%  { transform: translateX(-200%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      100%      { transform: translateX(-300%); }
     }
-    @keyframes sthumb-slide {
-      from { transform: translateX(0); }
-      to   { transform: translateX(-50%); }
+    @keyframes sthumb-2 {
+      0%,  38%  { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      50%, 88%  { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      100%      { transform: translateX(-200%); }
     }
     @media (prefers-reduced-motion: reduce) {
-      .session-row:hover .sthumb-track.loop { animation: none; }
+      .session-row:hover .sthumb-track.loop-2,
+      .session-row:hover .sthumb-track.loop-3 { animation: none; }
     }
     .smovie { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
     .stitle  { font-size: 22px; font-weight: 700; line-height: 1.2; }
@@ -1263,7 +1275,7 @@ function renderAgenda() {
             // fechar sem salto; os URLs repetidos saem da cache do browser.
             const frames = shots.length > 1 ? [...shots, ...shots] : shots;
             const thumb = frames.length
-              ? `<div class="sthumb"><div class="sthumb-track${shots.length > 1 ? ' loop' : ''}">${
+              ? `<div class="sthumb"><div class="sthumb-track${shots.length > 1 ? ' loop-' + Math.min(shots.length, 3) : ''}">${
                   frames.map((u, i) => {
                     const f = s.movie.stills_focus?.[i % shots.length];
                     return `<img src="${u}"${f != null ? ` style="--fy:${f}%"` : ''} alt="" loading="lazy">`;
@@ -1360,6 +1372,52 @@ function normTitle(str) {
     .replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim();
 }
 
+
+// Os fotogramas do modal andam sozinhos, com o mesmo ritmo do que acontece ao
+// passar o cursor na agenda: cada um fica parado o tempo de se ver e depois
+// desliza depressa para o seguinte. A posição é animada à mão em vez de
+// scrollTo({behavior:'smooth'}) porque essa não deixa escolher a curva — e é
+// a curva que faz o movimento parecer suave em vez de mecânico.
+let stillsTimer = null, stillsRaf = null;
+
+function stopStillsAutoplay() {
+  clearTimeout(stillsTimer); stillsTimer = null;
+  cancelAnimationFrame(stillsRaf); stillsRaf = null;
+}
+
+function startStillsAutoplay(el, total) {
+  stopStillsAutoplay();
+  if (!el || total < 2) return;
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  const PAUSA = 1500, DESLIZE = 620;
+  let parado = false;
+  // Se o utilizador mexer, o automático sai da frente e não volta a insistir
+  ['pointerdown', 'wheel', 'touchstart'].forEach(ev =>
+    el.addEventListener(ev, () => { parado = true; stopStillsAutoplay(); }, { once: true, passive: true }));
+
+  const deslizarPara = (destino, aoAcabar) => {
+    const inicio = el.scrollLeft, delta = destino - inicio, t0 = performance.now();
+    // easeInOutCubic: arranca devagar, ganha velocidade, trava no fim
+    const curva = t => t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+    const passo = agora => {
+      const t = Math.min((agora - t0) / DESLIZE, 1);
+      el.scrollLeft = inicio + delta * curva(t);
+      if (t < 1) stillsRaf = requestAnimationFrame(passo);
+      else aoAcabar && aoAcabar();
+    };
+    stillsRaf = requestAnimationFrame(passo);
+  };
+
+  let i = 0;
+  const proximo = () => {
+    if (parado || !document.getElementById('modalOverlay').classList.contains('open')) return;
+    i = (i + 1) % total;
+    deslizarPara(i * el.clientWidth, () => { stillsTimer = setTimeout(proximo, PAUSA); });
+  };
+  stillsTimer = setTimeout(proximo, PAUSA);
+}
+
 function openModal(id) {
   const m = MOVIES.find(x => String(x.id) === String(id));
   if (!m) return;
@@ -1417,6 +1475,7 @@ function openModal(id) {
     const i = Math.round(stillsEl.scrollLeft / Math.max(stillsEl.clientWidth, 1));
     dotsEl.querySelectorAll('i').forEach((d, k) => d.classList.toggle('on', k === i));
   };
+  startStillsAutoplay(stillsEl, stills.length);
 
   // Sessões — agrega todas as entradas com o mesmo título normalizado
   const mNorm = normTitle(m.title);
@@ -1502,6 +1561,7 @@ function addToCalendar(title, date, time, durationMin, cinemaName, cinemaAddress
 function closeModal() {
   document.getElementById('modalOverlay').classList.remove('open');
   document.body.style.overflow = '';
+  stopStillsAutoplay();   // senão continua a correr com o modal fechado
 }
 
 function handleOverlayClick(e) {
