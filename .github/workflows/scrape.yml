@@ -34,10 +34,14 @@ jobs:
 
       - name: Correr scraper completo (sessões + enriquecimento)
         if: github.event.schedule != '10 8 * * *' && github.event.schedule != '20 8 * * *'
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 scrapers/run.py
 
       - name: Tentar de novo só o enriquecimento (filmes ainda sem rating)
         if: github.event.schedule == '10 8 * * *' || github.event.schedule == '20 8 * * *'
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python3 scrapers/enricher.py
 
       - name: Commit e push se houver alterações
