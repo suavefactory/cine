@@ -268,6 +268,57 @@
       white-space: nowrap;
     }
 
+
+    /* ── VIDRO ──────────────────────────────────────────────────────────
+       Material partilhado por todos os botões e etiquetas. Reproduz em CSS
+       o que o shader faz: desfoca o que está por trás, refracta-o com o
+       filtro SVG, e acende um halo na borda — sem esse halo o elemento lê-se
+       como um rectângulo translúcido em vez de vidro.
+       .glass       sobre fundo claro   ·   .glass-dark sobre fundo escuro */
+    .glass, .glass-dark {
+      position: relative;
+      border-radius: 999px;
+      -webkit-backdrop-filter: blur(12px) saturate(180%);
+      backdrop-filter: blur(12px) saturate(180%);
+      backdrop-filter: url(#glass-distortion) blur(8px) saturate(180%);
+      transition: background .18s, border-color .18s, box-shadow .18s, color .18s;
+    }
+    .glass {
+      background: rgba(255,255,255,0.42);
+      border: 1px solid rgba(255,255,255,0.85);
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,0.95),
+        inset 0 0 16px rgba(255,255,255,0.35),
+        0 2px 10px rgba(0,0,0,0.10);
+      color: var(--ink);
+    }
+    .glass:hover {
+      background: rgba(255,255,255,0.62);
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,1),
+        inset 0 0 22px rgba(255,255,255,0.5),
+        0 4px 16px rgba(0,0,0,0.14);
+    }
+    .glass-dark {
+      background: rgba(245,245,242,0.13);
+      border: 1px solid rgba(245,245,242,0.42);
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,0.45),
+        inset 0 0 16px rgba(255,255,255,0.10),
+        0 2px 10px rgba(0,0,0,0.30);
+      color: #e8e8e2;
+    }
+    .glass-dark:hover {
+      background: rgba(245,245,242,0.22);
+      border-color: rgba(245,245,242,0.6);
+    }
+    /* Grão por cima do vidro, como nos botões do cabeçalho */
+    .glass::after, .glass-dark::after {
+      content: ''; position: absolute; inset: 0; border-radius: inherit;
+      background-image: var(--noise); background-size: 100px 100px;
+      opacity: 0.06; mix-blend-mode: overlay; pointer-events: none;
+    }
+
     /* ── FILMES ── */
     .films-header {
       display: flex; align-items: center; justify-content: space-between;
@@ -278,12 +329,18 @@
     .sort-btn {
       font-family: inherit; font-size: 11px; font-weight: 700;
       text-transform: uppercase; letter-spacing: 0.5px;
-      padding: 8px 18px; border-radius: 0;
-      border: 1.5px solid var(--line); background: none; color: var(--ink2);
-      cursor: pointer; transition: all 0.15s;
+      padding: 8px 18px; cursor: pointer;
     }
-    .sort-btn:hover { color: var(--ink); border-color: var(--ink3); }
-    .sort-btn.active { background: var(--ink); border-color: var(--ink); color: var(--acc); }
+    /* Activo: o vidro toma a cor da marca em vez de virar chapa opaca */
+    .sort-btn.active {
+      background: color-mix(in srgb, var(--acc) 55%, transparent);
+      border-color: color-mix(in srgb, var(--acc) 80%, white);
+      color: #14200a;
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,0.9),
+        inset 0 0 18px rgba(255,255,255,0.4),
+        0 3px 12px rgba(0,0,0,0.12);
+    }
 
     .movies-grid {
       display: grid;
@@ -316,8 +373,9 @@
     .poster-rating {
       position: absolute; top: 10px; right: 10px; z-index: 2;
       font-size: 10px; font-weight: 800;
-      background: var(--acc); color: #000;
-      padding: 3px 8px; border-radius: 0;
+      background: color-mix(in srgb, var(--acc) 62%, transparent);
+      border: 1px solid color-mix(in srgb, var(--acc) 85%, white);
+      color: #14200a; padding: 4px 10px;
     }
     .movie-foot {
       padding: 12px 14px 14px;
@@ -328,8 +386,7 @@
     .genres { display: flex; gap: 4px; flex-wrap: wrap; }
     .genre-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700;
-      padding: 3px 8px; border-radius: 0;
-      border: 1px solid var(--line); color: var(--ink3);
+      padding: 4px 10px;
     }
     .special-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 800;
@@ -394,47 +451,32 @@
     .modal-title  { font-size: 28px; font-weight: 800; line-height: 1.15; color: #fff; letter-spacing: -0.5px; }
     .modal-close  {
       flex-shrink: 0; width: 32px; height: 32px;
-      border: 1.5px solid rgba(245,245,242,0.22); border-radius: 999px; background: rgba(255,255,255,0.05); cursor: pointer;
+      cursor: pointer;
       font-size: 16px; color: #555;
       display: flex; align-items: center; justify-content: center; transition: border-color 0.15s, color 0.15s;
     }
-    .modal-close:hover { border-color: rgba(245,245,242,0.5); background: rgba(255,255,255,0.12); color: #fff; }
+    .modal-close:hover { color: #fff; }
 
     .modal-meta { font-size: 13px; color: #777; }
 
     .modal-genres { display: flex; gap: 5px; flex-wrap: wrap; align-items: center; }
     .modal-country-tag {
       font-size: 9px; text-transform: uppercase; letter-spacing: 0.6px; font-weight: 700;
-      padding: 5px 12px; border-radius: 999px; color: #d8d8d2;
-      background: rgba(245,245,242,0.12);
-      border: 1px solid rgba(245,245,242,0.3);
-      -webkit-backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.28);
+      padding: 5px 12px;
     }
-    .modal-genres .genre-tag {
-      font-size: 9px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 700;
-      padding: 5px 12px; border-radius: 999px; color: #c4c4be;
-      background: rgba(245,245,242,0.06);
-      border: 1px solid rgba(245,245,242,0.3);
-      -webkit-backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.22);
-    }
+    .modal-genres .genre-tag { padding: 5px 12px; }
     /* O rating mantém o lima da marca, mas como vidro tingido em vez de
        chapa opaca — a nota continua a ser o elemento mais forte da linha. */
+    /* O rating mantém o lima da marca, como vidro tingido */
     .rating-tag {
-      font-size: 10px; font-weight: 800;
-      padding: 5px 12px; border-radius: 999px;
-      background: color-mix(in srgb, var(--acc) 72%, transparent);
-      border: 1px solid color-mix(in srgb, var(--acc) 85%, white);
-      color: #0d1500;
-      -webkit-backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: blur(10px) saturate(160%);
-      backdrop-filter: url(#glass-distortion) blur(6px) saturate(160%);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,0.45);
+      font-size: 10px; font-weight: 800; padding: 5px 12px;
+      background: color-mix(in srgb, var(--acc) 68%, transparent);
+      border-color: color-mix(in srgb, var(--acc) 88%, white);
+      color: #14200a;
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,0.75),
+        inset 0 0 16px rgba(255,255,255,0.3),
+        0 2px 10px rgba(0,0,0,0.25);
     }
     .modal-special-tag {
       font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
@@ -521,7 +563,7 @@
     .modal-cal-btn {
       margin-left: auto; flex-shrink: 0;
       font-family: inherit; font-size: 11px; font-weight: 700;
-      background: rgba(255,255,255,0.05); border: 1.5px solid rgba(245,245,242,0.22); border-radius: 0;
+      border-radius: 999px;
       padding: 5px 13px; color: #555; cursor: pointer; transition: all 0.15s;
     }
     .modal-cal-btn:hover { border-color: var(--acc); color: var(--acc); }
@@ -679,7 +721,7 @@
       <div class="modal-info">
         <div class="modal-header">
           <h2 class="modal-title" id="modalTitle"></h2>
-          <button class="modal-close" onclick="closeModal()">✕</button>
+          <button class="modal-close glass-dark" onclick="closeModal()">✕</button>
         </div>
         <div class="modal-meta" id="modalMeta"></div>
         <div class="modal-genres" id="modalGenres"></div>
@@ -1223,8 +1265,8 @@ function renderAgenda() {
                   <span class="smeta">${s.movie.director ?? ''}${s.movie.year ? ' · ' + s.movie.year : ''}${s.movie.duration ? ' · ' + s.movie.duration + t('min') : ''}</span>
                   ${(() => {
                     const tags = [];
-                    if (s.movie.festival) tags.push(`<span class="special-tag">${s.movie.festival}</span>`);
-                    (s.labels ?? []).forEach(l => tags.push(`<span class="special-tag">${simplifyLabel(l)}</span>`));
+                    if (s.movie.festival) tags.push(`<span class="special-tag glass">${s.movie.festival}</span>`);
+                    (s.labels ?? []).forEach(l => tags.push(`<span class="special-tag glass">${simplifyLabel(l)}</span>`));
                     return tags.length ? `<div class="session-labels">${tags.join('')}</div>` : '';
                   })()}
                 </div>
@@ -1270,8 +1312,8 @@ function renderFilmes() {
     <div class="films-header">
       <span class="films-header-title">${t('nowShowing')}</span>
       <div class="films-sort">
-        <button class="sort-btn ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">${t('sortNext')}</button>
-        <button class="sort-btn ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">${t('sortRating')}</button>
+        <button class="sort-btn glass ${filmesSort === 'data'   ? 'active' : ''}" onclick="setSort('data')">${t('sortNext')}</button>
+        <button class="sort-btn glass ${filmesSort === 'rating' ? 'active' : ''}" onclick="setSort('rating')">${t('sortRating')}</button>
       </div>
     </div>
     <div class="movies-grid">
@@ -1283,14 +1325,14 @@ function renderFilmes() {
               : `background:${m.bg}`}">
               ${m.poster ? '' : `<div class="poster-overlay"></div><span class="poster-title">${movieTitle(m)}</span>`}
             </div>
-            ${m.rating ? `<span class="poster-rating">★ ${m.rating.toFixed(1)}</span>` : ''}
+            ${m.rating ? `<span class="poster-rating glass">★ ${m.rating.toFixed(1)}</span>` : ''}
           </div>
           <div class="movie-foot">
             <div class="film-foot-title">${movieTitle(m)}</div>
             ${m.director ? `<div class="film-foot-dir">${m.director}</div>` : ''}
             <div class="genres">
-              ${m.festival ? `<span class="special-tag">${m.festival}</span>` : ''}
-              ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag">${g}</span>`).join('')}
+              ${m.festival ? `<span class="special-tag glass">${m.festival}</span>` : ''}
+              ${(m.genres ?? []).slice(0,2).map(g => `<span class="genre-tag glass">${g}</span>`).join('')}
             </div>
           </div>
         </div>`).join('')}
@@ -1325,10 +1367,10 @@ function openModal(id) {
   const country = m.country ? m.country.split(',')[0].trim() : null;
   const genres  = (m.genres ?? []).slice(0, 3);
   document.getElementById('modalGenres').innerHTML =
-    (m.festival ? `<span class="modal-special-tag">${m.festival}</span>` : '') +
-    (country ? `<span class="modal-country-tag">${country}</span>` : '') +
-    genres.map(g => `<span class="genre-tag">${g}</span>`).join('') +
-    (m.rating ? `<span class="rating-tag">★ ${m.rating.toFixed(1)}</span>` : '');
+    (m.festival ? `<span class="modal-special-tag glass-dark">${m.festival}</span>` : '') +
+    (country ? `<span class="modal-country-tag glass-dark">${country}</span>` : '') +
+    genres.map(g => `<span class="genre-tag glass">${g}</span>`).join('') +
+    (m.rating ? `<span class="rating-tag glass-dark">★ ${m.rating.toFixed(1)}</span>` : '');
 
   // Descrição no idioma ativo
   const plotEl = document.getElementById('modalPlot');
@@ -1396,7 +1438,7 @@ function openModal(id) {
           <span class="modal-scinema" style="color:${c.color ?? '#888'}">${c.name ?? s.cinema}</span>
           ${slabels}
         </div>
-        <button class="modal-cal-btn" onclick="addToCalendar(${calArgs})">${t('calendar')}</button>
+        <button class="modal-cal-btn glass-dark" onclick="addToCalendar(${calArgs})">${t('calendar')}</button>
       </div>`;
   }).join('');
 
