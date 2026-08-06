@@ -288,27 +288,44 @@
       object-fit: cover; object-position: 50% var(--fy, 50%); display: block;
     }
     /* Cada fotograma fica parado o tempo de se ver e depois desliza depressa
-       para o seguinte, com aceleração e travagem — em vez de arrastar sempre
-       à mesma velocidade, que faz o reinício do ciclo parecer um salto atrás.
-       A curva é a mesma nos dois sítios onde isto acontece (agenda e modal). */
-    .session-row:hover .sthumb-track.loop-3 { animation: sthumb-3 5.4s infinite; }
-    .session-row:hover .sthumb-track.loop-2 { animation: sthumb-2 3.6s infinite; }
+       para o seguinte, com aceleração e travagem.
 
-    /* A primeira troca acontece 1s depois de o cursor entrar — o suficiente
-       para se ver o fotograma de abertura sem parecer que está parado. Daí em
-       diante cada um fica ~1,4s, que é o ritmo que já estava.
-       Percentagens em 5,4s: 1s = 18%, transição 0,53s = 10%. */
-    @keyframes sthumb-3 {
-      0%,  18%  { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
-      28%, 54%  { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
-      64%, 90%  { transform: translateX(-200%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
-      100%      { transform: translateX(-300%); }
+       São duas animações encadeadas: a de entrada corre uma vez e deixa o
+       primeiro fotograma só 1s — para quem passa o cursor de raspão ver logo
+       que há mais imagens. Acabada essa, entra o ciclo, onde todos ficam o
+       mesmo tempo (1,4s), incluindo o primeiro; de outro modo, quem ficasse a
+       olhar via o primeiro fotograma sempre apressado a cada volta. */
+    .session-row:hover .sthumb-track.loop-3 {
+      animation: sthumb-3-entrada 5.36s 1 both, sthumb-3 5.76s 5.36s infinite;
     }
-    /* Em 3,6s: 1s = 28%, transição 0,6s = 16% */
+    .session-row:hover .sthumb-track.loop-2 {
+      animation: sthumb-2-entrada 3.6s 1 both, sthumb-2 4s 3.6s infinite;
+    }
+
+    /* Entrada: 1s no primeiro, 1,4s nos restantes, transições de 0,53s */
+    @keyframes sthumb-3-entrada {
+      0%,   18.7% { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      28.5%, 54.7% { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      64.6%, 90.7% { transform: translateX(-200%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      100%        { transform: translateX(-300%); }
+    }
+    /* Ciclo: 1,4s em todos */
+    @keyframes sthumb-3 {
+      0%,   24.3% { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      33.5%, 57.8% { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      67%,   91.3% { transform: translateX(-200%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      100%        { transform: translateX(-300%); }
+    }
+
+    @keyframes sthumb-2-entrada {
+      0%,   27.8% { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      44.4%, 83.3% { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      100%        { transform: translateX(-200%); }
+    }
     @keyframes sthumb-2 {
-      0%,  28%  { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
-      44%, 83%  { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
-      100%      { transform: translateX(-200%); }
+      0%,   35%   { transform: translateX(0);     animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      50%,   85%  { transform: translateX(-100%); animation-timing-function: cubic-bezier(.7,0,.2,1); }
+      100%        { transform: translateX(-200%); }
     }
     @media (prefers-reduced-motion: reduce) {
       .session-row:hover .sthumb-track.loop-2,
@@ -573,13 +590,18 @@
     /* Fotogramas do filme como topo do modal: um de cada vez, à largura toda,
        deslizando na horizontal. Substitui a tira pequena que estava no fim. */
     .modal-hero { position: relative; flex-shrink: 0; }
+    /* O movimento é feito por transform numa faixa interior, como no hover da
+       agenda. Antes animava-se o scroll do contentor, mas o scroll-snap
+       puxava logo para a posição final e o que se via era um salto. */
     .modal-stills {
-      display: flex; overflow-x: auto;
-      scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;
+      overflow: hidden;
       border-radius: 22px 22px 0 0;
-      align-items: flex-start;
     }
-    .modal-stills::-webkit-scrollbar { display: none; }
+    .modal-stills-track {
+      display: flex; align-items: flex-start;
+      will-change: transform;
+      transition: transform .62s cubic-bezier(.7,0,.2,1);
+    }
     .modal-still {
       /* Altura travada em vez de 16/9 puro: à largura do painel isso dava
          quase 600px e empurrava o título para fora da vista. */
@@ -781,7 +803,7 @@
 <div class="modal-overlay" id="modalOverlay" onclick="handleOverlayClick(event)">
   <div class="modal" id="modal">
     <div class="modal-hero" id="modalHero">
-      <div class="modal-stills" id="modalStills"></div>
+      <div class="modal-stills"><div class="modal-stills-track" id="modalStills"></div></div>
     </div>
     <div class="modal-top">
       <div class="modal-poster" id="modalPoster"></div>
@@ -1414,50 +1436,36 @@ function normTitle(str) {
 }
 
 
-// Os fotogramas do modal andam sozinhos, com o mesmo ritmo do que acontece ao
-// passar o cursor na agenda: cada um fica parado o tempo de se ver e depois
-// desliza depressa para o seguinte. A posição é animada à mão em vez de
-// scrollTo({behavior:'smooth'}) porque essa não deixa escolher a curva — e é
-// a curva que faz o movimento parecer suave em vez de mecânico.
-let stillsTimer = null, stillsRaf = null;
+// Os fotogramas do modal andam sozinhos, com o mesmo movimento do hover na
+// agenda: a faixa desliza por transform, e é o CSS que trata da curva. Animar
+// o scroll do contentor não servia — o scroll-snap puxava logo para a posição
+// final e o que se via era a imagem a trocar de repente, sem deslize nenhum.
+let stillsTimer = null;
 
 function stopStillsAutoplay() {
-  clearTimeout(stillsTimer); stillsTimer = null;
-  cancelAnimationFrame(stillsRaf); stillsRaf = null;
+  clearTimeout(stillsTimer);
+  stillsTimer = null;
 }
 
-function startStillsAutoplay(el, total) {
+function startStillsAutoplay(track, total) {
   stopStillsAutoplay();
-  if (!el || total < 2) return;
+  if (!track) return;
+  track.style.transform = 'translateX(0)';
+  if (total < 2) return;
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
 
-  const PAUSA = 1500, DESLIZE = 620;
-  let parado = false;
-  // Se o utilizador mexer, o automático sai da frente e não volta a insistir
-  ['pointerdown', 'wheel', 'touchstart'].forEach(ev =>
-    el.addEventListener(ev, () => { parado = true; stopStillsAutoplay(); }, { once: true, passive: true }));
-
-  const deslizarPara = (destino, aoAcabar) => {
-    const inicio = el.scrollLeft, delta = destino - inicio, t0 = performance.now();
-    // easeInOutCubic: arranca devagar, ganha velocidade, trava no fim
-    const curva = t => t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
-    const passo = agora => {
-      const t = Math.min((agora - t0) / DESLIZE, 1);
-      el.scrollLeft = inicio + delta * curva(t);
-      if (t < 1) stillsRaf = requestAnimationFrame(passo);
-      else aoAcabar && aoAcabar();
-    };
-    stillsRaf = requestAnimationFrame(passo);
-  };
-
+  const PRIMEIRA = 1000, PAUSA = 1400;   // igual ao ritmo do hover
   let i = 0;
+
   const proximo = () => {
-    if (parado || !document.getElementById('modalOverlay').classList.contains('open')) return;
+    if (!document.getElementById('modalOverlay').classList.contains('open')) return;
     i = (i + 1) % total;
-    deslizarPara(i * el.clientWidth, () => { stillsTimer = setTimeout(proximo, PAUSA); });
+    track.style.transform = `translateX(-${i * 100}%)`;
+    stillsTimer = setTimeout(proximo, PAUSA);
   };
-  stillsTimer = setTimeout(proximo, PAUSA);
+  stillsTimer = setTimeout(proximo, PRIMEIRA);
 }
+
 
 function openModal(id) {
   const m = MOVIES.find(x => String(x.id) === String(id));
@@ -1504,7 +1512,6 @@ function openModal(id) {
     })
     .join('');
   heroEl.style.display = stills.length ? '' : 'none';
-  stillsEl.scrollLeft = 0;
   stillsEl.querySelectorAll('img').forEach(img => {
     img.addEventListener('load',  () => img.classList.add('loaded'));
     img.addEventListener('error', () => img.parentElement.remove());
