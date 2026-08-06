@@ -147,14 +147,16 @@
        nenhum sinal de qual é o dia atual logo a seguir a um clique/salto). */
     .date-chip.filled, .date-chip.current { color: var(--acc); text-shadow: 0 1px 2px rgba(0,0,0,0.35); }
     /* Sem realce de fundo: um rectângulo opaco tapava a faixa do gradiente.
-       O dia reage no próprio número — escurece e ganha sombra. */
-    .date-chip:not(.filled):not(.current):hover { color: var(--ink); }
-    .date-chip:hover .dd { text-shadow: 0 2px 6px rgba(0,0,0,0.35); }
-    /* Já preenchido pelo gradiente: a sombra escurece em vez de aclarar, para
-       o número continuar a destacar-se sobre a cor. */
-    .date-chip.filled:hover .dd, .date-chip.current:hover .dd { text-shadow: 0 2px 7px rgba(0,0,0,0.6); }
+       O dia reage no próprio número.
+       Dia por preencher: o cinzento carrega um pouco, sem chegar ao preto. */
+    .date-chip:not(.filled):not(.current):hover { color: #3a3a3a; }
+    /* O número cresce ligeiramente — é o único sinal de hover, sem sombra. */
+    .date-chip:hover .dd { transform: scale(1.12); }
     .date-chip .dn { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.55; margin-bottom: 8px; }
-    .date-chip .dd { display: block; font-size: 32px; font-weight: 800; line-height: 1; transition: text-shadow 0.15s; }
+    .date-chip .dd {
+      display: block; font-size: 32px; font-weight: 800; line-height: 1;
+      transition: transform 0.18s cubic-bezier(.22,1,.36,1);
+    }
     .date-chip .dm { display: none; }
 
     /* ── HEADER CONTROLS (idioma + cidade, agora dentro do banner) ──
