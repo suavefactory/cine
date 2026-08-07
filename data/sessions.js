@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-08-06T15:12:05.326120+00:00",
+  "generated": "2026-08-07T09:09:23.375167+00:00",
   "movies": [
     {
       "id": "sao_jorge_11239",
@@ -22,87 +22,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "cinemateca_20170",
-      "title": "The Graduate",
-      "director": "Mike Nichols",
-      "year": 1967,
-      "duration": 106,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/64/us/cm/83/AuFvrbtWSPiBPIv9ewH2DV4nhCD-0-500-0-750-crop.jpg?v=4fee371b0d",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20170",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-08-14",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.1,
-      "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
-      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
-        "https://image.tmdb.org/t/p/w1280/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
-        "https://image.tmdb.org/t/p/w1280/5Y7zkgMtTWmESwROWgMWblNn3tD.jpg"
-      ],
-      "stills_focus": [
-        32.3,
-        48.8,
-        42.8
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "mike-nichols"
-    },
-    {
-      "id": "cinemateca_20172",
-      "title": "Bonjour Tristesse",
-      "director": "Otto Preminger",
-      "year": 1958,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/1/50671-bonjour-tristesse-0-500-0-750-crop.jpg?v=3e7accc8ee",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20172",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-08-11",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.64,
-      "plot": "A spoiled teenager spends the summer at the French Riviera with her rich, widower, playboy father, but when his old flame resurfaces, she resolves to keep her frivolous lifestyle at all costs.",
-      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ks9uOTNHUy9Kw51ucWulsvqEef5.jpg",
-        "https://image.tmdb.org/t/p/w1280/hTC96Aq54QOuLcKkiAT0XE5Fmv3.jpg",
-        "https://image.tmdb.org/t/p/w1280/1UXTWkXX3ExkTFTLJmtlJ4p7s1F.jpg"
-      ],
-      "stills_focus": [
-        27.2,
-        30.3,
-        23.5
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "otto-preminger"
     },
     {
       "id": "cinemateca_20161",
@@ -324,6 +243,41 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "robert-mulligan"
     },
     {
+      "id": "cinemateca_20173",
+      "title": "Bonjour Tristesse",
+      "director": "Otto Preminger",
+      "year": 1958,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/7/1/50671-bonjour-tristesse-0-500-0-750-crop.jpg?v=3e7accc8ee",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20173",
+      "sessions": [
+        {
+          "date": "2026-08-11",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.64,
+      "plot": "A spoiled teenager spends the summer at the French Riviera with her rich, widower, playboy father, but when his old flame resurfaces, she resolves to keep her frivolous lifestyle at all costs.",
+      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ks9uOTNHUy9Kw51ucWulsvqEef5.jpg",
+        "https://image.tmdb.org/t/p/w1280/hTC96Aq54QOuLcKkiAT0XE5Fmv3.jpg",
+        "https://image.tmdb.org/t/p/w1280/1UXTWkXX3ExkTFTLJmtlJ4p7s1F.jpg"
+      ],
+      "stills_focus": [
+        27.2,
+        30.3,
+        23.5
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "otto-preminger"
+    },
+    {
       "id": "cinemateca_20169",
       "title": "King Creole",
       "director": "Michael Curtiz",
@@ -484,6 +438,42 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "ida-lupino"
+    },
+    {
+      "id": "cinemateca_20171",
+      "title": "The Graduate",
+      "director": "Mike Nichols",
+      "year": 1967,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/64/us/cm/83/AuFvrbtWSPiBPIv9ewH2DV4nhCD-0-500-0-750-crop.jpg?v=4fee371b0d",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20171",
+      "sessions": [
+        {
+          "date": "2026-08-14",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.1,
+      "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+        "https://image.tmdb.org/t/p/w1280/rQEhJmR9SJ2yJUKjD8RDTagVBHy.jpg",
+        "https://image.tmdb.org/t/p/w1280/5Y7zkgMtTWmESwROWgMWblNn3tD.jpg"
+      ],
+      "stills_focus": [
+        32.3,
+        48.8,
+        42.8
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "mike-nichols"
     },
     {
       "id": "cinemateca_20182",
@@ -669,6 +659,76 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "otto-preminger"
     },
     {
+      "id": "cinemateca_20192",
+      "title": "Summer Of ‘42",
+      "director": "Robert Mulligan",
+      "year": 1971,
+      "duration": 103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/6/6/4/23664-summer-of-42-0-500-0-750-crop.jpg?v=d939e26d71",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20192",
+      "sessions": [
+        {
+          "date": "2026-08-20",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.51,
+      "plot": "Over the summer of 1942 on Nantucket Island, three friends -- Hermie, Oscy and Benjie -- are more concerned with getting laid than anything else. Hermie falls in love with the married Dorothy, whose husband is an army pilot recently sent to the battlefront of World War II.",
+      "plot_pt": "SPLENDOR IN THE GRASS adapta uma peça de William Inge que gira à volta dos recalcamentos sexuais (como acontecia em Picnic, peça do mesmo autor, também adaptada ao cinema). Neste caso, as personagens são dois adolescentes à descoberta do amor no fim da década de vinte. Elia Kazan constrói um dos mais dilacerantes e belos poemas de amor no cinema, dando a Warren Beatty e a Natalie Wood os papéis das suas vidas. A sequência em que se invoca o poema que dá o título ao filme é um dos momentos mais perfeitos da História do cinema. A exibir em cópia 35mm.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/t0IIuPfAGPnmTgtahEW1KdKNVWK.jpg",
+        "https://image.tmdb.org/t/p/w1280/leXf341C7aSphqetA82lM2Oad3A.jpg",
+        "https://image.tmdb.org/t/p/w1280/gXnmVWqKwoJiBRK6qKCyOEIxgy1.jpg"
+      ],
+      "stills_focus": [
+        33.5,
+        21.9,
+        34.4
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "robert-mulligan"
+    },
+    {
+      "id": "cinemateca_20194",
+      "title": "Flesh",
+      "director": "Paul Morrissey",
+      "year": 1968,
+      "duration": 105,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/3/4/49234-flesh-0-500-0-750-crop.jpg?v=303829e49a",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20194",
+      "sessions": [
+        {
+          "date": "2026-08-20",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.35,
+      "plot": "A heroin junkie works as a prostitute to support his habit and fund an abortion needed by the girlfriend of his lesbian wife. His seedy encounters with delusional and damaged clients, and dates with drag queens and hustlers are heavy on sex, drugs and decadence.",
+      "plot_pt": "SPLENDOR IN THE GRASS adapta uma peça de William Inge que gira à volta dos recalcamentos sexuais (como acontecia em Picnic, peça do mesmo autor, também adaptada ao cinema). Neste caso, as personagens são dois adolescentes à descoberta do amor no fim da década de vinte. Elia Kazan constrói um dos mais dilacerantes e belos poemas de amor no cinema, dando a Warren Beatty e a Natalie Wood os papéis das suas vidas. A sequência em que se invoca o poema que dá o título ao filme é um dos momentos mais perfeitos da História do cinema. A exibir em cópia 35mm.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/mwKPNi1YjShDcXegWIh9EPLkY9e.jpg",
+        "https://image.tmdb.org/t/p/w1280/aZhbdPABZYgkp63nZCNBw1e9VOY.jpg",
+        "https://image.tmdb.org/t/p/w1280/A4d9FPnLtrkwStZZQ8NzvWg8i5J.jpg"
+      ],
+      "stills_focus": [
+        26.6,
+        39.5,
+        37.1
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "paul-morrissey"
+    },
+    {
       "id": "nimas_calle-malaga-2025",
       "title": "Calle Málaga",
       "director": "Maryam Touzani",
@@ -680,16 +740,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/calle-malaga-2025",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-07",
           "time": "14:30",
@@ -799,11 +849,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/i-want-your-sex-2026",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-07",
           "time": "21:30",
@@ -915,11 +960,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/la-pointe-courte-1954",
       "sessions": [
         {
-          "date": "2026-08-06",
-          "time": "18:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-08",
           "time": "18:00",
           "cinema": "trindade"
@@ -1019,11 +1059,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/as-boas-mulheres-1960",
       "sessions": [
         {
-          "date": "2026-08-06",
-          "time": "20:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-19",
           "time": "15:00",
           "cinema": "nimas"
@@ -1064,11 +1099,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/errando-pelo-caminho-1965",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-27",
           "time": "17:30",
@@ -1138,71 +1168,6 @@ window.CINEMA_DATA = {
         56.3,
         34.9,
         29.6
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_documenteur-1980",
-      "title": "Documenteur",
-      "director": "Agnès Varda",
-      "year": 1981,
-      "duration": 63,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/4/6/8/117468-documenteur-0-500-0-750-crop.jpg?v=cae607d9d3",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/documenteur-1980",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.78,
-      "plot": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
-      "plot_pt": "Em Los Angeles, a francesa Émilie, separada do homem que ama, está à procura de uma casa para si e para o seu filho de oito anos, Martin. Depois de encontrar um apartamento, a sua angústia e sensação de exílio tornam-se insuportáveis. Entre a ficção e o documentário (a tradução literal de “Documenteur” seria “documentiroso”), Documenteur é um dos filmes mais pessoais de Agnès Varda (que o realizou após separar-se de Jacques Demy), e um retrato contemplativo do isolamento urbano, atravessado por um subtil poesia visual.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/8yrymDMaJm5jCuQpypyyfAqdDJ1.jpg"
-      ],
-      "stills_focus": [
-        42.6
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_tio-yanco-1967",
-      "title": "Tio Yanco",
-      "director": "Agnès Varda",
-      "year": 1967,
-      "duration": 18,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/1/7/7/9/201779-uncle-yanco-0-500-0-750-crop.jpg?v=0edbe81d31",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/tio-yanco-1967",
-      "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.06,
-      "plot": "While in San Francisco for the promotion of her last film in October 1967, Agnès Varda, tipped by her friend Tom Luddy, gets to know a relative she had never heard of before, Jean Varda, nicknamed \"Yanco\". This hitherto unknown uncle lives on a boat in Sausalito, is a painter, has adopted a hippie lifestyle and loves life. The meeting is a very happy one.",
-      "plot_pt": "Agnès Varda visita São Francisco para a promoção de um dos seus filmes, e conhece um familiar de quem nunca tinha ouvido falar. Este tio desconhecido vive num barco, é pintor, adoptou um modo de vida hippie e ama a vida. \n\r\n\r\n\r\n\r\n“Na periferia marítima de São Francisco, vive um grego num pequeno barco. Pinta cidades celestes e bizantinas. Navega num barco de vela latina. Recebe hippies e manifestantes no seu barco-casa. Descobri que ele era o meu tio da América e que homem maravilhoso ele era.” – Agnès Varda",
-      "title_en": "Uncle Yanco",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/sera0zxXBfTtKuwacI6Rx7rbSWB.jpg",
-        "https://image.tmdb.org/t/p/w1280/kY8fJ4PtZhJQrgcCxu5mG7vK7PJ.jpg",
-        "https://image.tmdb.org/t/p/w1280/spHY0UDgkMKmVkMiiyoNHu9SbG8.jpg"
-      ],
-      "stills_focus": [
-        36.1,
-        45.1,
-        32.6
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -7252,7 +7217,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
       ],
       "stills_focus": [
-        40.7
+        40.8
       ],
       "director_lbxd_slug": "fernando-ruiz-vergara"
     },
@@ -7664,7 +7629,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.4
+        46.3
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -7904,6 +7869,46 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "emeric-pressburger"
     },
     {
+      "id": "trindade_7604",
+      "title": "A Noiva Estava de Luto",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/65/sw/98/13/iDj7QFYq9YfmUVc1ALanQmYfTaj-0-500-0-750-crop.jpg?v=a462a64cfe",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
+      "sessions": [
+        {
+          "date": "2026-08-07",
+          "time": "14:05",
+          "cinema": "trindade",
+          "labels": [
+            "Ver Hitchcock em Truffaut"
+          ]
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Julie Kohler is prevented from suicide by her mother. She leaves home, with the intent track down, charm and kill five men who do not know her. What is her goal? What is her purpose?",
+      "plot_pt": "A Noiva Estava de Luto é a história Julie Kohler (Jeanne Moreau), uma noiva que fica viúva à saída do altar. Uma vez que a tentativa de suicídio sai frustrada, Julie decide jurar vingança aos cinco indivíduos envolvidos no assassinato do seu marido.",
+      "title_en": "The Bride Wore Black",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/zVkewY6kYYiNB6gG5aMyJjoF6yJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/iEpJt9cx3tBSxjHnRh0OyGn7VsC.jpg",
+        "https://image.tmdb.org/t/p/w1280/2z7Bh8oKRRHbs8zeMlYTOzp2CHK.jpg"
+      ],
+      "stills_focus": [
+        36.5,
+        14.7,
+        35.4
+      ],
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
+    },
+    {
       "id": "trindade_8757",
       "title": "O Convite",
       "director": "Olivia Wilde",
@@ -7917,21 +7922,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-07",
           "time": "16:00",
@@ -8016,6 +8006,47 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "olivia-wilde"
     },
     {
+      "id": "trindade_8650",
+      "title": "A Sereia do Mississipi",
+      "director": "François Truffaut",
+      "year": 1969,
+      "duration": 124,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/9/1/50891-mississippi-mermaid-0-500-0-750-crop.jpg?v=db7919bfb7",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller",
+        "Crime"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/a-sereia-do-mississipi",
+      "sessions": [
+        {
+          "date": "2026-08-07",
+          "time": "17:00",
+          "cinema": "trindade",
+          "labels": [
+            "Ver Hitchcock em Truffaut"
+          ]
+        }
+      ],
+      "rating": 3.53,
+      "plot": "A tobacco planter on Réunion island in the Indian Ocean becomes engaged through correspondence to a French woman he does not know. The woman that arrives does not look like the picture he received, but he marries her anyway.",
+      "plot_pt": "Na ilha da Reunião, Louis tem mantido correspondência com uma jovem, Marion, na sequência de um anúncio de encontros. Ele convida-a a embarcar no navio Mississipi. Casam-se imediatamente, mas, passado algum tempo, Louis percebe que não era Marion quem escrevia as cartas. Quando está prestes a confrontá-la, Marion desaparece. Louis contrata um detetive particular para tentar encontrá-la.",
+      "title_en": "Mississippi Mermaid",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/bEe4xvjFr9kObNeBCw8kce3o047.jpg",
+        "https://image.tmdb.org/t/p/w1280/ksBwllaWg4zjCEdMwgI6j5WC3gF.jpg",
+        "https://image.tmdb.org/t/p/w1280/3AZ8yGUf1xNSkCvGRhZIj4k7coS.jpg"
+      ],
+      "stills_focus": [
+        42.5,
+        46.9,
+        35.1
+      ],
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
+    },
+    {
       "id": "trindade_8748",
       "title": "Nova ‘78",
       "director": "Rodrigo Areias, Aaron Brookner",
@@ -8028,11 +8059,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/nova-78",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-07",
           "time": "18:00",
@@ -8075,11 +8101,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/rosebush-pruning",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-07",
           "time": "19:30",
@@ -8126,87 +8147,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Germany",
       "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "trindade_7604",
-      "title": "A Noiva Estava de Luto",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/65/sw/98/13/iDj7QFYq9YfmUVc1ALanQmYfTaj-0-500-0-750-crop.jpg?v=a462a64cfe",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/a-noiva-estava-de-luto",
-      "sessions": [
-        {
-          "date": "2026-08-07",
-          "time": "14:05",
-          "cinema": "trindade",
-          "labels": [
-            "Ver Hitchcock em Truffaut"
-          ]
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Julie Kohler is prevented from suicide by her mother. She leaves home, with the intent track down, charm and kill five men who do not know her. What is her goal? What is her purpose?",
-      "plot_pt": "A Noiva Estava de Luto é a história Julie Kohler (Jeanne Moreau), uma noiva que fica viúva à saída do altar. Uma vez que a tentativa de suicídio sai frustrada, Julie decide jurar vingança aos cinco indivíduos envolvidos no assassinato do seu marido.",
-      "title_en": "The Bride Wore Black",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/zVkewY6kYYiNB6gG5aMyJjoF6yJ.jpg",
-        "https://image.tmdb.org/t/p/w1280/iEpJt9cx3tBSxjHnRh0OyGn7VsC.jpg",
-        "https://image.tmdb.org/t/p/w1280/2z7Bh8oKRRHbs8zeMlYTOzp2CHK.jpg"
-      ],
-      "stills_focus": [
-        36.5,
-        14.7,
-        35.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
-      "id": "trindade_8650",
-      "title": "A Sereia do Mississipi",
-      "director": "François Truffaut",
-      "year": 1969,
-      "duration": 124,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/9/1/50891-mississippi-mermaid-0-500-0-750-crop.jpg?v=db7919bfb7",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Thriller",
-        "Crime"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/a-sereia-do-mississipi",
-      "sessions": [
-        {
-          "date": "2026-08-07",
-          "time": "17:00",
-          "cinema": "trindade",
-          "labels": [
-            "Ver Hitchcock em Truffaut"
-          ]
-        }
-      ],
-      "rating": 3.53,
-      "plot": "A tobacco planter on Réunion island in the Indian Ocean becomes engaged through correspondence to a French woman he does not know. The woman that arrives does not look like the picture he received, but he marries her anyway.",
-      "plot_pt": "Na ilha da Reunião, Louis tem mantido correspondência com uma jovem, Marion, na sequência de um anúncio de encontros. Ele convida-a a embarcar no navio Mississipi. Casam-se imediatamente, mas, passado algum tempo, Louis percebe que não era Marion quem escrevia as cartas. Quando está prestes a confrontá-la, Marion desaparece. Louis contrata um detetive particular para tentar encontrá-la.",
-      "title_en": "Mississippi Mermaid",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/bEe4xvjFr9kObNeBCw8kce3o047.jpg",
-        "https://image.tmdb.org/t/p/w1280/ksBwllaWg4zjCEdMwgI6j5WC3gF.jpg",
-        "https://image.tmdb.org/t/p/w1280/3AZ8yGUf1xNSkCvGRhZIj4k7coS.jpg"
-      ],
-      "stills_focus": [
-        42.5,
-        46.9,
-        35.1
-      ],
-      "country": "France",
-      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "trindade_7084",
@@ -8526,11 +8466,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=65710",
       "sessions": [
         {
-          "date": "2026-08-06",
-          "time": "16:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-08-07",
           "time": "19:45",
           "cinema": "ideal"
@@ -8560,7 +8495,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_persepolis",
       "title": "PERSEPOLIS",
-      "director": "Marjane Satrapi, Vincent Paronnaud",
+      "director": "Vincent Paronnaud, Marjane Satrapi",
       "year": 2007,
       "duration": 96,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/28/um/1t/jq/dYvyF1RlNokAd1N7Nek0vDpYsV6-0-500-0-750-crop.jpg?v=fc5d71c744",
@@ -8571,11 +8506,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=64533",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "19:45",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-07",
           "time": "16:15",
@@ -8621,7 +8551,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
-      "director": "Jane Pollard, Iain Forsyth",
+      "director": "Iain Forsyth, Jane Pollard",
       "year": 2025,
       "duration": 96,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/8/1393058-broken-english-2025-0-500-0-750-crop.jpg?v=c496ee8e4d",
@@ -8670,16 +8600,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66046",
       "sessions": [
-        {
-          "date": "2026-08-06",
-          "time": "18:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-06",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-07",
           "time": "14:15",
@@ -8870,16 +8790,6 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "Mike Nichols": {
-      "lbxd_slug": "mike-nichols",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/500px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Mike Nichols (born Igor Mikhail Peschkowsky; November 6, 1931 – November 19, 2014) was an American film and theatre director and comedian. He worked across a range of genres and had an aptitude for getting the best out of actors regardless of their experience. He is one of 28 people to have won all four of the major American entertainment awards: Emmy, Grammy, Oscar, and Tony (EGOT)."
-    },
-    "Otto Preminger": {
-      "lbxd_slug": "otto-preminger",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
-      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
-    },
     "Laszlo Benedek": {
       "lbxd_slug": "laszlo-benedek-1",
       "photo": null,
@@ -8910,6 +8820,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Robert-mulligan-1-sized.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Robert Patrick Mulligan (August 23, 1925 – December 20, 2008) was an American director and producer. His dramas include To Kill a Mockingbird (1962), Summer of '42 (1971), The Other (1972), Same Time, Next Year (1978), and The Man in the Moon (1991). He collaborated with producer Alan J."
     },
+    "Otto Preminger": {
+      "lbxd_slug": "otto-preminger",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
+      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
+    },
     "Michael Curtiz": {
       "lbxd_slug": "michael-curtiz",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Curtiz_1928_portrait.jpg/500px-Curtiz_1928_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8925,6 +8840,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ida_Lupino_Cavalcade_of_America.JPG/500px-Ida_Lupino_Cavalcade_of_America.JPG",
       "bio": "Ida Lupino (4 February 1918 – 3 August 1995) was a British-American actress, director, writer, and producer. Throughout her 48-year career, she appeared in 59 films and directed eight, working primarily in the United States, where she became a citizen in 1948. She is widely regarded as the most prominent female filmmaker working in the 1950s during the Hollywood studio system."
     },
+    "Mike Nichols": {
+      "lbxd_slug": "mike-nichols",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mike_Nichols.jpg/500px-Mike_Nichols.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Mike Nichols (born Igor Mikhail Peschkowsky; November 6, 1931 – November 19, 2014) was an American film and theatre director and comedian. He worked across a range of genres and had an aptitude for getting the best out of actors regardless of their experience. He is one of 28 people to have won all four of the major American entertainment awards: Emmy, Grammy, Oscar, and Tony (EGOT)."
+    },
     "Roger Corman": {
       "lbxd_slug": "roger-corman",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg/500px-Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8939,6 +8859,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "walter-hill",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Walter_Hill_1137_%28cropped%29.jpg/500px-Walter_Hill_1137_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Walter Hill (born January 10, 1942) is an American filmmaker, known for his action films and revival of the Western genre. He has directed such films as The Driver, The Warriors, Southern Comfort, 48 Hrs. and its sequel Another 48 Hrs., Streets of Fire and Red Heat, and wrote the screenplay for the crime drama The Getaway."
+    },
+    "Paul Morrissey": {
+      "lbxd_slug": "paul-morrissey",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paul_Morrissey_photobooth_self_portrait_1967.jpg/500px-Paul_Morrissey_photobooth_self_portrait_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Paul Joseph Morrissey (February 23, 1938 – October 28, 2024) was an American film director, screenwriter, and producer. He was best known for his long association with Andy Warhol and the Factory scene during the 1960s and early 1970s. A key figure in the development of underground and avant-garde cinema, Morrissey directed a series of influential films —including Flesh (1968), Trash (1970), and Heat (1972)— that blended improvisation, social realism, and dark humor, and helped launch the careers of Warhol superstars Joe Dallesandro and Holly Woodlawn."
     },
     "Maryam Touzani": {
       "lbxd_slug": "maryam-touzani",
@@ -9505,12 +9430,12 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sarah_Friedland_at_81st_Venice_Film_Festival_%28cropped%29.jpg/500px-Sarah_Friedland_at_81st_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Sarah Friedland (born 1992) is an American director and choreographer. Her 2024 debut feature film, Familiar Touch, premiered at the 81st Venice International Film Festival, where she won the Orizzonti section's Best Director award and the film won the Luigi de Laurentis Lion of the Future Award for best debut feature."
     },
-    "Marjane Satrapi, Vincent Paronnaud": {
+    "Vincent Paronnaud, Marjane Satrapi": {
       "lbxd_slug": "marjane-satrapi",
       "photo": null,
       "bio": null
     },
-    "Jane Pollard, Iain Forsyth": {
+    "Iain Forsyth, Jane Pollard": {
       "lbxd_slug": "jane-pollard",
       "photo": null,
       "bio": null
@@ -9541,5 +9466,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

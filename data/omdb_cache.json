@@ -28332,7 +28332,8 @@
       "https://image.tmdb.org/t/p/w1280/253S3mBfoE7Bd0Ioe9pXEvdhlh6.jpg",
       "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
     ],
-    "tmdb_id": "1517161"
+    "tmdb_id": "1517161",
+    "wiki_tries": 1
   },
   "SESSÃO 6 | LES NUITS EN OR 2026|None": {
     "lbxd": null,
@@ -34689,7 +34690,7 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "230048",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       50.6,
       39.7,
@@ -38176,7 +38177,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -39028,7 +39029,8 @@
       "https://image.tmdb.org/t/p/w1280/6MxzrUA0yRNaTCkE3GflQvzWkU1.jpg",
       "https://image.tmdb.org/t/p/w1280/yV134dPYdt1Km6xBcvizB8oTkmw.jpg"
     ],
-    "tmdb_id": "44159"
+    "tmdb_id": "44159",
+    "wiki_tries": 1
   },
   "Ghost|1990": {
     "lbxd": {
@@ -40872,7 +40874,7 @@
       "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico."
     },
     "tmdb_id": "47697",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       45.8,
       45.0,
@@ -42334,7 +42336,7 @@
     "wiki": null,
     "cinema": {},
     "tmdb_id": "186950",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       12.0
     ],
@@ -42418,7 +42420,7 @@
       "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo."
     },
     "tmdb_id": "1104067",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       39.6
     ],
@@ -42792,7 +42794,8 @@
       "https://image.tmdb.org/t/p/w1280/hSfqwjI7klNtexZ48quPz8l95T1.jpg",
       "https://image.tmdb.org/t/p/w1280/A7n7siS0KwXSKA6ZhRwsOx5YUb4.jpg"
     ],
-    "tmdb_id": "17962"
+    "tmdb_id": "17962",
+    "wiki_tries": 1
   },
   "Aquí|2026": {
     "lbxd": {
@@ -42978,7 +42981,7 @@
     "tmdb_id": "288893",
     "wiki_tries": 3,
     "stills_focus": [
-      40.7
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
@@ -43246,7 +43249,8 @@
       "https://image.tmdb.org/t/p/w1280/oeVCEZ3ppb6opOKVoUSaa3keGoD.jpg",
       "https://image.tmdb.org/t/p/w1280/5nrGTktImmtoiqpAo8cCPXIOzJf.jpg"
     ],
-    "tmdb_id": "9343"
+    "tmdb_id": "9343",
+    "wiki_tries": 1
   },
   "La furgo|2025": {
     "lbxd": {
@@ -43780,7 +43784,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0121283",
+      "extract_pt": "Filha da Mãe (1989) é um filme português de João Canijo.\nGrande parte das sequências deste filme foram rodadas em espaços de um edifício de habitação na Rua da Ilha do Príncipe nº 7, em Lisboa, projectado pelo arquitecto Jorge Ferreira Chaves. Esta obra foi escolhida para decor em vários outros filmes portugueses."
+    },
     "cinema": {
       "plot_pt": "“Coração, Coração” é o single (música de Manuel João Vieira e letra de Paulo Tunhas) e metáfora central das complicadas histórias de amor e solidão que caracterizam Filha da Mãe, segunda longa-metragem de João Canijo. A partir do universo do filme, este vídeo musical, protagonizado por Diogo Dória e Rita Blanco, é um divertido exercício kitsch que imita a estética da música popular portuguesa."
     },
@@ -44416,7 +44424,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/3oEM0dxZh2NfKMXnBAxjdxTEP0c.jpg"
     ],
-    "tmdb_id": "1510390"
+    "tmdb_id": "1510390",
+    "wiki_tries": 1
   },
   "Sophia Setembro de 1963|2026": {
     "lbxd": null,
@@ -45513,7 +45522,7 @@
     "wiki": null,
     "cinema": {},
     "tmdb_id": "1265717",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       49.7,
       28.3,
@@ -46336,6 +46345,7 @@
       "year": 1987,
       "director": "Agnès Varda"
     },
+    "dir_checked": true,
     "stills_focus": [
       38.1,
       44.6,
@@ -46549,7 +46559,7 @@
       "plot_pt": "Em Tânger, uma idosa espanhola luta contra a venda de sua casa pela filha. Enquanto tenta manter seu lar e resgatar seus pertences, acaba a redescobrir o amor e o desejo."
     },
     "tmdb_id": "1399462",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       26.5,
       25.5,
@@ -46766,7 +46776,7 @@
     "wiki": null,
     "cinema": {},
     "tmdb_id": "32015",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       36.2,
       23.6,
@@ -46997,6 +47007,7 @@
       "year": 1964,
       "director": "Agnès Varda"
     },
+    "dir_checked": true,
     "stills_focus": [
       35.2,
       28.0,
@@ -47939,7 +47950,10 @@
       "lb_director": "Agnès Varda",
       "lb_director_slug": "agnes-varda",
       "lb_year": 1993,
-      "lb_title": "The Young Girls Turn 25"
+      "lb_title": "The Young Girls Turn 25",
+      "backdrop": null,
+      "imdb_id": "tt0106696",
+      "tmdb_id": "200381"
     },
     "omdb": {
       "Title": "The Young Girls Turn 25",
@@ -47986,6 +48000,7 @@
       "year": 1992,
       "director": "Les Demoiselles ont eu 25 ans"
     },
+    "dir_checked": true,
     "stills_focus": [
       38.3,
       26.3,
@@ -48455,5 +48470,151 @@
     "cinema": {},
     "stills": null,
     "tmdb_id": "502761"
+  },
+  "Summer Of ‘42|1971": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/6/6/4/23664-summer-of-42-0-500-0-750-crop.jpg?v=d939e26d71",
+      "description": "Over the summer of 1942 on Nantucket Island, three friends -- Hermie, Oscy and Benjie -- are more concerned with getting laid than anything else. Hermie falls in love with the married Dorothy, whose husband is an army pilot recently sent to the battlefront of World War II.",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Mulligan",
+      "lb_director_slug": "robert-mulligan",
+      "lb_year": 1971,
+      "lb_title": "Summer of '42",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/p2/ph/9d/0i/summer-1920-1920-1080-1080-crop-000000.jpg?v=1e718c689d",
+      "imdb_id": "tt0067803",
+      "tmdb_id": "41357"
+    },
+    "omdb": {
+      "Title": "Summer of '42",
+      "Year": "1971",
+      "Rated": "PG",
+      "Released": "19 Apr 1971",
+      "Runtime": "104 min",
+      "Genre": "Drama, Romance",
+      "Director": "Robert Mulligan",
+      "Writer": "Herman Raucher",
+      "Actors": "Jennifer O'Neill, Gary Grimes, Jerry Houser",
+      "Plot": "A teenager spending his summer vacation on Nantucket Island develops an innocent love for a young war bride who's awaiting news about her husband's fate.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 5 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk2MDcxZTgtYTdmYi00MzlmLTk0ZjgtNmMxNGE4ZTdlM2ZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "7.2",
+      "imdbVotes": "9,593",
+      "imdbID": "tt0067803",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "SPLENDOR IN THE GRASS adapta uma peça de William Inge que gira à volta dos recalcamentos sexuais (como acontecia em Picnic, peça do mesmo autor, também adaptada ao cinema). Neste caso, as personagens são dois adolescentes à descoberta do amor no fim da década de vinte. Elia Kazan constrói um dos mais dilacerantes e belos poemas de amor no cinema, dando a Warren Beatty e a Natalie Wood os papéis das suas vidas. A sequência em que se invoca o poema que dá o título ao filme é um dos momentos mais perfeitos da História do cinema. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.5,
+      21.9,
+      34.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/t0IIuPfAGPnmTgtahEW1KdKNVWK.jpg",
+      "https://image.tmdb.org/t/p/w1280/leXf341C7aSphqetA82lM2Oad3A.jpg",
+      "https://image.tmdb.org/t/p/w1280/gXnmVWqKwoJiBRK6qKCyOEIxgy1.jpg"
+    ],
+    "tmdb_id": "41357"
+  },
+  "Flesh|1968": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/3/4/49234-flesh-0-500-0-750-crop.jpg?v=303829e49a",
+      "description": "A heroin junkie works as a prostitute to support his habit and fund an abortion needed by the girlfriend of his lesbian wife. His seedy encounters with delusional and damaged clients, and dates with drag queens and hustlers are heavy on sex, drugs and decadence.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Paul Morrissey",
+      "lb_director_slug": "paul-morrissey",
+      "lb_year": 1968,
+      "lb_title": "Flesh",
+      "backdrop": null,
+      "imdb_id": "tt0062979",
+      "tmdb_id": "4578"
+    },
+    "omdb": {
+      "Title": "Flesh",
+      "Year": "1968",
+      "Rated": "R",
+      "Released": "27 May 1970",
+      "Runtime": "89 min",
+      "Genre": "Drama",
+      "Director": "Paul Morrissey",
+      "Writer": "Paul Morrissey",
+      "Actors": "Joe Dallesandro, Geraldine Smith, Patti D'Arbanville",
+      "Plot": "A man desperate for money and no income, turns prostitute and interplays with a variety of clients and hustlers.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjFhNzU1ODYtMjgwZS00YzI0LWE3YzItMGZkZGYxMjgzNWJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.7",
+      "imdbVotes": "2,649",
+      "imdbID": "tt0062979",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "SPLENDOR IN THE GRASS adapta uma peça de William Inge que gira à volta dos recalcamentos sexuais (como acontecia em Picnic, peça do mesmo autor, também adaptada ao cinema). Neste caso, as personagens são dois adolescentes à descoberta do amor no fim da década de vinte. Elia Kazan constrói um dos mais dilacerantes e belos poemas de amor no cinema, dando a Warren Beatty e a Natalie Wood os papéis das suas vidas. A sequência em que se invoca o poema que dá o título ao filme é um dos momentos mais perfeitos da História do cinema. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      39.5,
+      37.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/mwKPNi1YjShDcXegWIh9EPLkY9e.jpg",
+      "https://image.tmdb.org/t/p/w1280/aZhbdPABZYgkp63nZCNBw1e9VOY.jpg",
+      "https://image.tmdb.org/t/p/w1280/A4d9FPnLtrkwStZZQ8NzvWg8i5J.jpg"
+    ],
+    "tmdb_id": "4578"
   }
 }

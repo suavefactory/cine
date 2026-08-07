@@ -1382,5 +1382,20 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Paul Morrissey": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paul_Morrissey_photobooth_self_portrait_1967.jpg/500px-Paul_Morrissey_photobooth_self_portrait_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Paul Joseph Morrissey (February 23, 1938 – October 28, 2024) was an American film director, screenwriter, and producer. He was best known for his long association with Andy Warhol and the Factory scene during the 1960s and early 1970s. A key figure in the development of underground and avant-garde cinema, Morrissey directed a series of influential films —including Flesh (1968), Trash (1970), and Heat (1972)— that blended improvisation, social realism, and dark humor, and helped launch the careers of Warhol superstars Joe Dallesandro and Holly Woodlawn.",
+    "tries": 1
+  },
+  "Vincent Paronnaud, Marjane Satrapi": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Iain Forsyth, Jane Pollard": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }
