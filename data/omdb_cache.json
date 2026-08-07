@@ -22752,7 +22752,7 @@
     "tmdb_id": "654086",
     "stills_focus": [
       30.1,
-      32.9
+      32.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8w7Bzp8Czm8FpHZcVTKhxTyeRhk.jpg",
@@ -32863,7 +32863,7 @@
     },
     "tmdb_id": "31332",
     "stills_focus": [
-      30.1
+      30.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
@@ -35337,7 +35337,7 @@
     "tmdb_id": "264290",
     "wiki_tries": 3,
     "stills_focus": [
-      49.4
+      49.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/4JmsnHsd92bjecfYiTLbljVOKjl.jpg"
@@ -39030,7 +39030,7 @@
       "https://image.tmdb.org/t/p/w1280/yV134dPYdt1Km6xBcvizB8oTkmw.jpg"
     ],
     "tmdb_id": "44159",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ghost|1990": {
     "lbxd": {
@@ -39556,7 +39556,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      34.0
+      33.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
@@ -42795,7 +42795,7 @@
       "https://image.tmdb.org/t/p/w1280/A7n7siS0KwXSKA6ZhRwsOx5YUb4.jpg"
     ],
     "tmdb_id": "17962",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Aquí|2026": {
     "lbxd": {
@@ -43250,7 +43250,7 @@
       "https://image.tmdb.org/t/p/w1280/5nrGTktImmtoiqpAo8cCPXIOzJf.jpg"
     ],
     "tmdb_id": "9343",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "La furgo|2025": {
     "lbxd": {
@@ -44425,7 +44425,7 @@
       "https://image.tmdb.org/t/p/w1280/3oEM0dxZh2NfKMXnBAxjdxTEP0c.jpg"
     ],
     "tmdb_id": "1510390",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Sophia Setembro de 1963|2026": {
     "lbxd": null,
@@ -46357,7 +46357,7 @@
     "dir_checked": true,
     "stills_focus": [
       38.1,
-      43.6,
+      44.6,
       42.4
     ],
     "stills": [
@@ -48021,7 +48021,7 @@
       "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
     ],
     "tmdb_id": "200381",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Warriors|1979": {
     "lbxd": {
@@ -48699,6 +48699,7 @@
       "https://image.tmdb.org/t/p/w1280/253S3mBfoE7Bd0Ioe9pXEvdhlh6.jpg",
       "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
     ],
-    "tmdb_id": "1517161"
+    "tmdb_id": "1517161",
+    "wiki_tries": 1
   }
 }

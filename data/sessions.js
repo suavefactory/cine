@@ -2857,7 +2857,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         30.1,
-        32.9
+        32.6
       ],
       "country": "Hong Kong",
       "director_lbxd_slug": "wong-kar-wai"
@@ -2901,7 +2901,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         38.1,
-        43.6,
+        44.6,
         42.4
       ],
       "country": "France",
@@ -3099,7 +3099,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
       ],
       "stills_focus": [
-        30.1
+        30.2
       ],
       "country": "Algeria",
       "director_lbxd_slug": "luchino-visconti"
@@ -3676,7 +3676,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/4JmsnHsd92bjecfYiTLbljVOKjl.jpg"
       ],
       "stills_focus": [
-        49.4
+        49.5
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -5092,7 +5092,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
       ],
       "stills_focus": [
-        34.0
+        33.9
       ],
       "director_lbxd_slug": "jose-magro"
     },
