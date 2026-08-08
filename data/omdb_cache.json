@@ -12910,7 +12910,12 @@
       ],
       "country": "USA",
       "lb_director": "George Lucas",
-      "lb_year": 1973
+      "lb_director_slug": "george-lucas",
+      "lb_year": 1973,
+      "lb_title": "American Graffiti",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/sm/e8/wi/gy/american-graffiti-1920-1920-1080-1080-crop-000000.jpg?v=aec24c0dd7",
+      "imdb_id": "tt0069704",
+      "tmdb_id": "838"
     },
     "omdb": {
       "Title": "American Graffiti",
@@ -12951,7 +12956,23 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Filme que ficou marcado, na carreira de Warren Beatty, pela tensão com o realizador Robert Rossen, e que lhe viria a sublinhar a necessidade de controlo sobre os seus projetos. A última realização de Robert Rossen é, no entanto, um tocante e comovente filme: uma adaptação de um romance de J.R. Salamanca que tem por cenário um hospício onde um jovem estagiário se apaixona por uma perturbante jovem ali internada (Jean Seberg) e onde, progressivamente, vai ele próprio deslizando para a loucura. Possivelmente o filme definitivo sobre a passagem dessa frágil fronteira entre a razão e a loucura, a que Rossen dá uma estranha atmosfera poética, valorizada pela singular fotografia de mestre Eugen Schüfftan. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.6,
+      45.1,
+      30.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/4ePrn94TAta0B54euB2Ai0RxCZo.jpg",
+      "https://image.tmdb.org/t/p/w1280/mUTVd9LfWDQcBezZLV3O4S7cfML.jpg",
+      "https://image.tmdb.org/t/p/w1280/v7CWQHiEZemqUIU5js9dB9KWmTr.jpg"
+    ],
+    "tmdb_id": "838"
   },
   "Fuori|2025": {
     "lbxd": {
@@ -28333,7 +28354,7 @@
       "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
     ],
     "tmdb_id": "1517161",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "SESSÃO 6 | LES NUITS EN OR 2026|None": {
     "lbxd": null,
@@ -36767,7 +36788,8 @@
       "https://image.tmdb.org/t/p/w1280/9vzwFhZf1thTyG1fFP2n9nqh5nS.jpg",
       "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
     ],
-    "tmdb_id": "200381"
+    "tmdb_id": "200381",
+    "wiki_tries": 1
   },
   "O Meu Tio|1958": {
     "lbxd": {
@@ -37017,7 +37039,7 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "257524",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       47.5,
       41.6,
@@ -38217,7 +38239,7 @@
       "director": "Agnès Varda"
     },
     "tmdb_id": "53028",
-    "wiki_tries": 2,
+    "wiki_tries": 3,
     "stills_focus": [
       42.2,
       25.8,
@@ -48701,5 +48723,80 @@
     ],
     "tmdb_id": "1517161",
     "wiki_tries": 1
+  },
+  "Easy Rider|1969": {
+    "lbxd": {
+      "rating": 3.77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/0/0/51500-easy-rider-0-500-0-750-crop.jpg?v=545a328b75",
+      "description": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Dennis Hopper",
+      "lb_director_slug": "dennis-hopper",
+      "lb_year": 1969,
+      "lb_title": "Easy Rider",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/44/6b/rk/qw/qvTmYyYsv71qTq5syAq24k1kGk-1920-1920-1080-1080-crop-000000.jpg?v=0511f55461",
+      "imdb_id": "tt0064276",
+      "tmdb_id": "624"
+    },
+    "omdb": {
+      "Title": "Easy Rider",
+      "Year": "1969",
+      "Rated": "R",
+      "Released": "26 Jun 1969",
+      "Runtime": "95 min",
+      "Genre": "Adventure, Drama",
+      "Director": "Dennis Hopper",
+      "Writer": "Peter Fonda, Dennis Hopper, Terry Southern",
+      "Actors": "Peter Fonda, Dennis Hopper, Jack Nicholson",
+      "Plot": "Two bikers head from L.A. to New Orleans through the open country and desert lands, and along the way they meet a man who bridges a counter-culture gap of which they had been unaware.",
+      "Language": "English, Spanish, Greek, Ancient (to 1453)",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 11 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.2",
+      "imdbVotes": "122,458",
+      "imdbID": "tt0064276",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$123,276",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Filme que ficou marcado, na carreira de Warren Beatty, pela tensão com o realizador Robert Rossen, e que lhe viria a sublinhar a necessidade de controlo sobre os seus projetos. A última realização de Robert Rossen é, no entanto, um tocante e comovente filme: uma adaptação de um romance de J.R. Salamanca que tem por cenário um hospício onde um jovem estagiário se apaixona por uma perturbante jovem ali internada (Jean Seberg) e onde, progressivamente, vai ele próprio deslizando para a loucura. Possivelmente o filme definitivo sobre a passagem dessa frágil fronteira entre a razão e a loucura, a que Rossen dá uma estranha atmosfera poética, valorizada pela singular fotografia de mestre Eugen Schüfftan. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      17.4,
+      10.8,
+      47.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+      "https://image.tmdb.org/t/p/w1280/rBEXqx9ctYnnjztIM3ZR2oqqQ8S.jpg",
+      "https://image.tmdb.org/t/p/w1280/uQj4iSiODWJ3zRgcBSoEw0pKmFa.jpg"
+    ],
+    "tmdb_id": "624"
   }
 }

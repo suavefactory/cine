@@ -1397,5 +1397,10 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Dennis Hopper": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dennis_Hopper_Cannes_2008_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Dennis Lee Hopper (May 17, 1936 – May 29, 2010) was an American actor, filmmaker, photographer and visual artist. He is considered one of the key figures of the New Hollywood era. He earned prizes from the Cannes Film Festival and Venice International Film Festival as well as nominations for two Academy Awards, a Primetime Emmy Award and two Golden Globe Awards.",
+    "tries": 1
   }
 }
