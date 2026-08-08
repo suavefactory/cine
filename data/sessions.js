@@ -8038,7 +8038,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
       ],
       "stills_focus": [
-        40.9
+        40.6
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
