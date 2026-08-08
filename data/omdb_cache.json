@@ -12957,7 +12957,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "American Graffiti",
+      "imdb_id": "tt0069704",
+      "extract_pt": "American Graffiti (br: Loucuras de Verão / pt: American Graffiti - Nova Geração) é um filme estadunidense de 1973, do gênero comédia dramática, dirigido por George Lucas.\nFaturou U$ 140 milhões."
+    },
     "cinema": {
       "plot_pt": "Filme que ficou marcado, na carreira de Warren Beatty, pela tensão com o realizador Robert Rossen, e que lhe viria a sublinhar a necessidade de controlo sobre os seus projetos. A última realização de Robert Rossen é, no entanto, um tocante e comovente filme: uma adaptação de um romance de J.R. Salamanca que tem por cenário um hospício onde um jovem estagiário se apaixona por uma perturbante jovem ali internada (Jean Seberg) e onde, progressivamente, vai ele próprio deslizando para a loucura. Possivelmente o filme definitivo sobre a passagem dessa frágil fronteira entre a razão e a loucura, a que Rossen dá uma estranha atmosfera poética, valorizada pela singular fotografia de mestre Eugen Schüfftan. A exibir em cópia 35mm."
     },
@@ -12972,7 +12976,8 @@
       "https://image.tmdb.org/t/p/w1280/mUTVd9LfWDQcBezZLV3O4S7cfML.jpg",
       "https://image.tmdb.org/t/p/w1280/v7CWQHiEZemqUIU5js9dB9KWmTr.jpg"
     ],
-    "tmdb_id": "838"
+    "tmdb_id": "838",
+    "wiki_tries": 1
   },
   "Fuori|2025": {
     "lbxd": {
@@ -43003,7 +43008,7 @@
     "tmdb_id": "288893",
     "wiki_tries": 3,
     "stills_focus": [
-      40.7
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
@@ -43327,8 +43332,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.2,
-      40.8
+      30.3,
+      40.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -48043,7 +48048,7 @@
       "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
     ],
     "tmdb_id": "200381",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Warriors|1979": {
     "lbxd": {
@@ -48722,7 +48727,7 @@
       "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
     ],
     "tmdb_id": "1517161",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Easy Rider|1969": {
     "lbxd": {
@@ -48782,7 +48787,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Easy Rider",
+      "imdb_id": "tt0064276",
+      "extract_pt": "Easy Rider (br: Sem Destino / pt: Easy Rider) é um road movie americano de 1969, escrito por Peter Fonda, Dennis Hopper e Terry Southern, produzido por Fonda e dirigido por Hopper.\nConta a história de dois motociclistas que viajam através do sul e sudoeste do Estados Unidos, com o objectivo de alcançar a liberdade pessoal. O sucesso de Easy Rider ajudou a avivar a fase New Hollywood do cinema norte-americano durante a década de 1960.\nUm marco na filmografia de contracultura, e a \"pedra-de-toque\" de uma geração\" que \"capturou a imaginação nacional\", Easy Rider explora as paisagens sociais, assuntos e tensões na América da década de 1960, tal como a ascensão e queda do movimento hippie, o uso de drogas e estilo de vida comunal."
+    },
     "cinema": {
       "plot_pt": "Filme que ficou marcado, na carreira de Warren Beatty, pela tensão com o realizador Robert Rossen, e que lhe viria a sublinhar a necessidade de controlo sobre os seus projetos. A última realização de Robert Rossen é, no entanto, um tocante e comovente filme: uma adaptação de um romance de J.R. Salamanca que tem por cenário um hospício onde um jovem estagiário se apaixona por uma perturbante jovem ali internada (Jean Seberg) e onde, progressivamente, vai ele próprio deslizando para a loucura. Possivelmente o filme definitivo sobre a passagem dessa frágil fronteira entre a razão e a loucura, a que Rossen dá uma estranha atmosfera poética, valorizada pela singular fotografia de mestre Eugen Schüfftan. A exibir em cópia 35mm."
     },
@@ -48797,6 +48806,7 @@
       "https://image.tmdb.org/t/p/w1280/rBEXqx9ctYnnjztIM3ZR2oqqQ8S.jpg",
       "https://image.tmdb.org/t/p/w1280/uQj4iSiODWJ3zRgcBSoEw0pKmFa.jpg"
     ],
-    "tmdb_id": "624"
+    "tmdb_id": "624",
+    "wiki_tries": 1
   }
 }
