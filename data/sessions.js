@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-08-08T08:52:53.341704+00:00",
+  "generated": "2026-08-09T08:51:52.422638+00:00",
   "movies": [
     {
       "id": "sao_jorge_11239",
@@ -22,83 +22,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "cinemateca_20174",
-      "title": "Lilith",
-      "director": "Robert Rossen",
-      "year": 1964,
-      "duration": 114,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/6/0/6160-lilith-0-500-0-750-crop.jpg?v=c7e0daec47",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20174",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "18:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-08-11",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.45,
-      "plot": "Vincent Bruce, a war veteran, begins working as an occupational therapist at Poplar Lodge, a private psychiatric facility for wealthy people where he meets Lilith Arthur, a charming young woman suffering from schizophrenia, whose fragile beauty captivates all who meet her.",
-      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lCYHPp0jDN87AG4Gy4ZXHxfmf2G.jpg",
-        "https://image.tmdb.org/t/p/w1280/cYheysmBbpj1gnXGdZGI7yDNR9U.jpg",
-        "https://image.tmdb.org/t/p/w1280/pGFo9Uf3ZYriQ682QPzviA5yL2p.jpg"
-      ],
-      "stills_focus": [
-        20.9,
-        34.0,
-        46.5
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "robert-rossen"
-    },
-    {
-      "id": "cinemateca_20176",
-      "title": "West Side Story",
-      "director": "Robert Wise, Jerome Robbins",
-      "year": 1961,
-      "duration": 151,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/em/vs/66/tb/zRQhCSREdR9h4OzEVvwhdlZNZ6m-0-500-0-750-crop.jpg?v=60c3df64d6",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Crime"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20176",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.85,
-      "plot": "In Manhattan’s Upper West Side, rival gangs of Polish-Americans and newly arrived Puerto Ricans clash for control of the neighborhood, even as two young members from opposite sides fall dangerously in love.",
-      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
-        "https://image.tmdb.org/t/p/w1280/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg",
-        "https://image.tmdb.org/t/p/w1280/qhRbhkw9aQMM3uqCt1F06vz5xXu.jpg"
-      ],
-      "stills_focus": [
-        23.0,
-        23.7,
-        24.9
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "jerome-robbins"
     },
     {
       "id": "cinemateca_20165",
@@ -205,6 +128,42 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "otto-preminger"
+    },
+    {
+      "id": "cinemateca_20175",
+      "title": "Lilith",
+      "director": "Robert Rossen",
+      "year": 1964,
+      "duration": 114,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/6/0/6160-lilith-0-500-0-750-crop.jpg?v=c7e0daec47",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20175",
+      "sessions": [
+        {
+          "date": "2026-08-11",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.45,
+      "plot": "Vincent Bruce, a war veteran, begins working as an occupational therapist at Poplar Lodge, a private psychiatric facility for wealthy people where he meets Lilith Arthur, a charming young woman suffering from schizophrenia, whose fragile beauty captivates all who meet her.",
+      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/lCYHPp0jDN87AG4Gy4ZXHxfmf2G.jpg",
+        "https://image.tmdb.org/t/p/w1280/cYheysmBbpj1gnXGdZGI7yDNR9U.jpg",
+        "https://image.tmdb.org/t/p/w1280/pGFo9Uf3ZYriQ682QPzviA5yL2p.jpg"
+      ],
+      "stills_focus": [
+        20.9,
+        34.0,
+        46.5
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "robert-rossen"
     },
     {
       "id": "cinemateca_20169",
@@ -571,6 +530,11 @@ window.CINEMA_DATA = {
           "date": "2026-08-19",
           "time": "21:30",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-08-22",
+          "time": "18:00",
+          "cinema": "cinemateca"
         }
       ],
       "rating": 2.83,
@@ -728,6 +692,41 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "dennis-hopper"
     },
     {
+      "id": "cinemateca_20200",
+      "title": "Alice’s Restaurant",
+      "director": "Arthur Penn",
+      "year": 1969,
+      "duration": 111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/5/6/48756-alice-s-restaurant-0-500-0-750-crop.jpg?v=fa863d8b84",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20200",
+      "sessions": [
+        {
+          "date": "2026-08-22",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.23,
+      "plot": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump but finds it closed for the holiday, so he dumps the trash in the bottom of a ravine. This act of littering gets him arrested and sends him on a bizarre journey.",
+      "plot_pt": "A Nova Hollywood, também chamada de Hollywood pós-clássica e, às vezes, American New Wave, refere-se a um movimento cinematográfico estadunidense que renovou significativamente a produção técnica e estética da indústria de cinema dos Estados Unidos na década de 1970, após vivenciar uma profunda crise econômica e de paradigmas na primeira metade dos anos 1960.\nDistinto das propostas estéticas e das condições de produção de estúdio estabelecidas nas gerações anteriores da chamada \"era de ouro de Hollywood\", embora também tivesse sido influenciado por esse, o cinema autoral da Nova Hollywood procurou se inspirar no cinema de vanguarda europeu da década de 1960 e dialogar direta ou indiretamente com contexto político de sua época, cujas temáticas principais eram a defesa da contracultura, da igualdade racial, da liberalização de costumes e do pacifismo, produzindo uma geração de cineastas libertos do controle dos grandes estúdios e com um olhar mais crítico e incisivo sobre a sociedade estadunidense.\nInfluenciados por John Cassavetes, Robert Mulligan, Arthur Penn, Robert Aldrich, Sam Peckinpah e Don Siegel, a nova geração formada por jovens cineastas como Martin Scorsese, Francis Ford Coppola, Peter Bogdanovich, Michael Cimino, Paul Schrader, George Lucas, Steven Spielberg e Brian De Palma ganhou notoriedade, ao assumir um protagonismo como diretores autorais e influenciar os tipos de filmes realizados, a sua produção e distribuição e seu relacionamento com os grandes estúdios.\nEmbora não haja consenso entre a crítica especializada sobre a periodização da Nova Hollywood\n, costuma-se atribuir o ano de 1967 como o início do movimento, quando foi lançado o aclamado Bonnie e Clyde, de Arthur Penn, e o seu ocaso em 1980, com o fracassado Heaven's Gate, de Michael Cimino, que provocou a falência da United Artists.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/gSxBpt9YVANM9NdLoVeAfZCIot6.jpg",
+        "https://image.tmdb.org/t/p/w1280/lgfufoqVHb1de5hVLvK67bi0dEz.jpg",
+        "https://image.tmdb.org/t/p/w1280/7TuP1K77CLnqWlmomz39GQREcfR.jpg"
+      ],
+      "stills_focus": [
+        43.0,
+        31.1,
+        17.4
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "arthur-penn"
+    },
+    {
       "id": "nimas_calle-malaga-2025",
       "title": "Calle Málaga",
       "director": "Maryam Touzani",
@@ -739,21 +738,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/calle-malaga-2025",
       "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "17:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-09",
           "time": "14:30",
@@ -838,11 +822,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/i-want-your-sex-2026",
       "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-09",
           "time": "21:15",
@@ -940,11 +919,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-minha-noite-em-casa-de-maud-1969",
       "sessions": [
         {
-          "date": "2026-08-08",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-09-03",
           "time": "14:00",
           "cinema": "nimas"
@@ -979,11 +953,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/as-donzelas-fizeram-25-anos-1992",
       "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-29",
           "time": "10:30",
@@ -1020,11 +989,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/morte-em-veneza-1971",
       "sessions": [
         {
-          "date": "2026-08-08",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-28",
           "time": "16:45",
           "cinema": "nimas"
@@ -1060,11 +1024,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/ao-longo-da-costa-1958",
       "sessions": [
         {
-          "date": "2026-08-08",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-08-29",
           "time": "10:30",
           "cinema": "nimas"
@@ -1088,41 +1047,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_o-meu-tio-1958",
-      "title": "O Meu Tio",
-      "director": "Jacques Tati",
-      "year": 1958,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/8/51668-mon-oncle-0-500-0-750-crop.jpg?v=1096d531f3",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-meu-tio-1958",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.04,
-      "plot": "Genial, bumbling Monsieur Hulot loves his top-floor apartment in a grimy corner of the city, and cannot fathom why his sister's family has moved to the suburbs. Their house is an ultra-modern nightmare, which Hulot only visits for the sake of stealing away his rambunctious young nephew. Hulot's sister, however, wants to win him over to her new way of life, and conspires to set him up with a wife and job.",
-      "plot_pt": "O senhor e a senhora Arpel têm uma casa moderna num quarteirão asséptico. Eles têm tudo, conseguiram tudo, na casa deles é tudo novo: o jardim é novo, a casa é nova, os livros são novos. Neste universo tão confortável, tão clean, tão high-tech, tão bem programado, o humor, os jogos e a sorte não têm lugar. E o filho Gérard aborrece-se de morte. É então que irrompe o irmão da senhora, o tio, o Sr. Hulot. Personagem inadaptada, habituada ao seu mundo caloroso, vai, para delírio do sobrinho, virar tudo de pernas para o ar.",
-      "title_en": "Mon Oncle",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3yYNJeR6JynSE3Y1AfVIJQ6g3UX.jpg",
-        "https://image.tmdb.org/t/p/w1280/tK6vEwyzK4MXCPkBDGhq4kq0qUN.jpg",
-        "https://image.tmdb.org/t/p/w1280/5JufmgrcTBPfdlX7TyGzXujver6.jpg"
-      ],
-      "stills_focus": [
-        19.3,
-        7.1,
-        9.1
-      ],
-      "country": "France",
-      "director_lbxd_slug": "jacques-tati"
-    },
-    {
       "id": "nimas_sem-eira-nem-beira-1985",
       "title": "Sem Eira Nem Beira",
       "director": "Agnès Varda",
@@ -1134,11 +1058,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/sem-eira-nem-beira-1985",
       "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-18",
           "time": "17:00",
@@ -2260,11 +2179,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/la-pointe-courte-1954",
       "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-14",
           "time": "16:30",
@@ -4797,7 +4711,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
       ],
       "stills_focus": [
-        33.9
+        34.0
       ],
       "director_lbxd_slug": "jose-magro"
     },
@@ -5025,6 +4939,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Konkurs",
+      "plot_pt": "Considerado um dos primeiros filmes da Nova Vaga Checa, Audition marcou a estreia independente de Forman e antecipou temas centrais da sua obra: atores não profissionais, humor mordaz e atenção aos pequenos detalhes do quotidiano. Composto por duas curtas-metragens lançadas em conjunto, o filme acompanha dois músicos que trocam os ensaios por corridas de motas e um grupo de aspirantes ao estrelato que participa numa audição para o Teatro Semafor de Praga. A obra capta com ironia e frescura a rebeldia juvenil dos anos 60 face ao conformismo social e geracional.",
       "plot": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
       "country": "Czechoslovakia",
       "rating": 3.34,
@@ -5032,7 +4947,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
       ],
       "stills_focus": [
-        35.1
+        35.2
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -5097,7 +5012,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
       ],
       "stills_focus": [
-        38.9
+        39.2
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -5315,6 +5230,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Filme de final de curso de José María Martín Sarmiento enquanto aluno do Instituto de Altos Estudos Cinematográficos (Paris), Los montes situa-se numa aldeia remota e quase abandonada do Bierzo Alto, nos confins da província de León. Oscilando entre a ficção satírica e a realidade, a obra acompanha o velório do último homem da aldeia e das restantes seis mulheres idosas que nela habitam. Entre o isolamento, a dureza das práticas agrícolas, e o regresso sazonal das romarias de verão, evocam-se os laços comunitários e a tradição oral como formas de resistência. O filme foi nomeado para o César de Melhor Curta-Metragem Documental.",
       "plot": "Los Montes de la Ermita, region of Bierzo Alto, in the province of León, Spain. Six women assist Joaquín —the only and last inhabitant of the remote village, located on the slopes of the mythical and mysterious Catoute Peak—, who is in danger of death due to an unfortunate accident.",
       "country": "France",
       "director_lbxd_slug": "jose-maria-martin-sarmiento"
@@ -5489,7 +5405,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Lásky jedné plavovlásky",
-      "plot_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times.",
+      "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro.",
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "rating": 3.78,
@@ -5673,6 +5589,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico.",
       "plot": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
       "country": "Italy",
       "rating": 3.84,
@@ -6517,6 +6434,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -6585,6 +6503,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -6607,6 +6526,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -6638,6 +6558,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -6915,7 +6836,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
       ],
       "stills_focus": [
-        40.8
+        40.7
       ],
       "director_lbxd_slug": "fernando-ruiz-vergara"
     },
@@ -7123,8 +7044,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.3,
-        40.6
+        30.2,
+        40.8
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
@@ -7483,6 +7404,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "stills": [
@@ -7566,73 +7488,38 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "emeric-pressburger"
     },
     {
-      "id": "trindade_7084",
-      "title": "Aniki Bóbó",
-      "director": "Manoel de Oliveira",
-      "year": 1942,
-      "duration": 71,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/7/6/6/8/67668-aniki-bobo-0-500-0-750-crop.jpg?v=619d315d04",
+      "id": "trindade_8646",
+      "title": "Beijos Roubados",
+      "director": "François Truffaut",
+      "year": 1968,
+      "duration": 92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/0/1/51801-stolen-kisses-0-500-0-750-crop.jpg?v=a6306ba0a8",
       "genres": [
-        "Family",
+        "Comedy",
+        "Romance",
         "Drama"
       ],
-      "link": "https://cinematrindade.pt/pt/filmes/aniki-bobo",
+      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
       "sessions": [
         {
-          "date": "2026-08-08",
-          "time": "14:30",
+          "date": "2026-08-09",
+          "time": "14:15",
           "cinema": "trindade"
         }
       ],
-      "rating": 3.82,
-      "plot": "Two schoolboys, Carlitos and Eduardo, fight for the affection of a girl, Teresinha.",
-      "plot_pt": "Carlitos, o sonhador tímido, e Eduardinho, o líder destemido, cortejam Teresinha, a única rapariga do grupo. Para demonstrar o seu afeto, Carlitos rouba uma boneca e, uma noite, corre pelos telhados para a entregar. A tensão aumenta entre os rapazes e o grupo começa a virar-se contra Carlitos.",
-      "title_en": "Aniki-Bóbó",
+      "rating": 3.91,
+      "plot": "The third in a series of films featuring François Truffaut's alter-ego, Antoine Doinel, the story resumes with Antoine being discharged from military service. His sweetheart Christine's father lands Antoine a job as a security guard, which he promptly loses. Stumbling into a position assisting a private detective, Antoine falls for his employers' seductive wife, Fabienne, and finds that he must choose between the older woman and Christine.",
+      "plot_pt": "Em 1968, Antoine Doinel é dispensado do exército por má conduct e procura emprego em Paris. Torna-se guarda noturno, técnico de televisão, expedidor e também detetive particular numa empresa, encarregado de vigiar discretamente os funcionários e as atividades da mesma. Ao mesmo tempo, Antoine está apaixonado e incapaz de escolher entre uma jovem violinista e uma mulher casada.",
+      "title_en": "Stolen Kisses",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/vAzsFnjLY0Y4DCnLTuOho6dfJru.jpg",
-        "https://image.tmdb.org/t/p/w1280/y3NsYTbdoc7rtmJsdxN1mHAn9fk.jpg",
-        "https://image.tmdb.org/t/p/w1280/349PIQhb6CN4rVFthdCW15JCwLK.jpg"
+        "https://image.tmdb.org/t/p/w1280/fPFuTcXcxYR6odkHA7PW786ZWjV.jpg",
+        "https://image.tmdb.org/t/p/w1280/udONzanIcEzKmrU8qobqYEYdpob.jpg",
+        "https://image.tmdb.org/t/p/w1280/sIPtQ8vgsdNMraYF2WlhSHpDRFl.jpg"
       ],
       "stills_focus": [
         31.9,
-        24.5,
-        24.2
-      ],
-      "country": "Portugal",
-      "director_lbxd_slug": "manoel-de-oliveira"
-    },
-    {
-      "id": "trindade_8662",
-      "title": "A História de Adèle H.",
-      "director": "François Truffaut",
-      "year": 1975,
-      "duration": 98,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/7/0/50770-the-story-of-adele-h--0-500-0-750-crop.jpg?v=eca74782d8",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/a-historia-de-adele-h",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "14:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.68,
-      "plot": "In the 19th century a mysterious woman named Adele H. crosses the ocean, from Europe to North America, to relentlessly pursue a handsome officer that denies her satisfaction.",
-      "plot_pt": "Adèle Hugo, a segunda filha do célebre escritor francês Victor Hugo, chega à Nova Escócia em 1863. Vivendo sob um nome falso, ela localiza o seu antigo amante, um jovem e atraente oficial do exército, o Tenente Pinson. Embora Pinson insista que o seu romance acabou e rejeite as suas investidas, Adèle continua agarrada ao seu amor. A sua paixão transforma-se numa intensa obsessão autodestrutiva.",
-      "title_en": "The Story of Adèle H.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/9fTuRksyQvCAzyuzktof4kDc5Xt.jpg",
-        "https://image.tmdb.org/t/p/w1280/oBaPt7yzrReftYLR2xbSCebn4go.jpg",
-        "https://image.tmdb.org/t/p/w1280/iUBNgaaTLYVvtw6b8xX701lLn8T.jpg"
-      ],
-      "stills_focus": [
-        36.8,
-        38.5,
-        24.5
+        31.2,
+        14.5
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
@@ -7651,16 +7538,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-09",
           "time": "16:00",
@@ -7734,11 +7611,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/rosebush-pruning",
       "sessions": [
         {
-          "date": "2026-08-08",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-08-09",
           "time": "19:30",
           "cinema": "trindade"
@@ -7774,43 +7646,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Germany",
       "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "trindade_8646",
-      "title": "Beijos Roubados",
-      "director": "François Truffaut",
-      "year": 1968,
-      "duration": 92,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/0/1/51801-stolen-kisses-0-500-0-750-crop.jpg?v=a6306ba0a8",
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/beijos-roubados",
-      "sessions": [
-        {
-          "date": "2026-08-09",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.91,
-      "plot": "The third in a series of films featuring François Truffaut's alter-ego, Antoine Doinel, the story resumes with Antoine being discharged from military service. His sweetheart Christine's father lands Antoine a job as a security guard, which he promptly loses. Stumbling into a position assisting a private detective, Antoine falls for his employers' seductive wife, Fabienne, and finds that he must choose between the older woman and Christine.",
-      "plot_pt": "Em 1968, Antoine Doinel é dispensado do exército por má conduct e procura emprego em Paris. Torna-se guarda noturno, técnico de televisão, expedidor e também detetive particular numa empresa, encarregado de vigiar discretamente os funcionários e as atividades da mesma. Ao mesmo tempo, Antoine está apaixonado e incapaz de escolher entre uma jovem violinista e uma mulher casada.",
-      "title_en": "Stolen Kisses",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/fPFuTcXcxYR6odkHA7PW786ZWjV.jpg",
-        "https://image.tmdb.org/t/p/w1280/udONzanIcEzKmrU8qobqYEYdpob.jpg",
-        "https://image.tmdb.org/t/p/w1280/sIPtQ8vgsdNMraYF2WlhSHpDRFl.jpg"
-      ],
-      "stills_focus": [
-        31.9,
-        31.2,
-        14.5
-      ],
-      "country": "France",
-      "director_lbxd_slug": "francois-truffaut"
     },
     {
       "id": "trindade_8674",
@@ -8081,7 +7916,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_persepolis",
       "title": "PERSEPOLIS",
-      "director": "Marjane Satrapi, Vincent Paronnaud",
+      "director": "Vincent Paronnaud, Marjane Satrapi",
       "year": 2007,
       "duration": 96,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/28/um/1t/jq/dYvyF1RlNokAd1N7Nek0vDpYsV6-0-500-0-750-crop.jpg?v=fc5d71c744",
@@ -8132,7 +7967,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_broken_english",
       "title": "BROKEN ENGLISH",
-      "director": "Jane Pollard, Iain Forsyth",
+      "director": "Iain Forsyth, Jane Pollard",
       "year": 2025,
       "duration": 96,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/8/1393058-broken-english-2025-0-500-0-750-crop.jpg?v=c496ee8e4d",
@@ -8182,16 +8017,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66046",
       "sessions": [
         {
-          "date": "2026-08-08",
-          "time": "15:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-08",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-08-09",
           "time": "14:15",
           "cinema": "ideal"
@@ -8234,6 +8059,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.69,
       "plot": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "plot_pt": "The Xangai Gesture (Brasil: Tensão em Xangai / Portugal: Aconteceu em Xangai) é um filme norte-americano de 1941, do gênero policial, dirigido por Josef von Sternberg e estrelado por Gene Tierney e Walter Huston.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/eKLHQ9YOpeRwBcYXH2GGLOg7AdC.jpg",
         "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
@@ -8246,78 +8072,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Japan",
       "director_lbxd_slug": "josef-von-sternberg"
-    },
-    {
-      "id": "ideal_soy_cuba",
-      "title": "SOY CUBA",
-      "director": "Mikhail Kalatozov",
-      "year": 1964,
-      "duration": 141,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/2/0/30720-i-am-cuba-0-500-0-750-crop.jpg?v=6361cea4d6",
-      "genres": [
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66054",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "21:00",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 4.46,
-      "plot": "Four vignettes on the lives of pre-revolutionary era Cuban people; in Havana, Maria is ashamed when a man she loves discovers how she makes a living. Pedro, an old farmer, discovers that the land he cultivates is being sold to an American company. A student sees his friends attacked by the police while they distribute leaflets supporting Fidel Castro. Finally, a peasant family is threatened by Batista's army.",
-      "title_en": "I Am Cuba",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
-        "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg",
-        "https://image.tmdb.org/t/p/w1280/wRKmrZic25ylw0RYEuVpU4lBuSM.jpg"
-      ],
-      "stills_focus": [
-        36.2,
-        23.6,
-        33.0
-      ],
-      "country": "Cuba",
-      "director_lbxd_slug": "mikhail-kalatozov"
-    },
-    {
-      "id": "ideal_a_piscina",
-      "title": "A PISCINA",
-      "director": "Jacques Deray",
-      "year": 1969,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/5/2/49052-the-swimming-pool-0-500-0-750-crop.jpg?v=34fafbb92c",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66062",
-      "sessions": [
-        {
-          "date": "2026-08-08",
-          "time": "17:00",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.75,
-      "plot": "Set in a magnificent villa near a sun-drenched St. Tropez, lovers Jean-Paul and Marianne are spending a happy, lazy summer holiday. Their only concern is to gratify their mutual passion - until the day when Marianne invites her former lover and his beautiful teenage daughter to spend a few days with them. From the first moment, a certain uneasiness and tension begin to develop between the four, which soon escalates in a dangerous love-game.",
-      "plot_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand.",
-      "title_en": "The Swimming Pool",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/pQpGA6XsWlmlAyicVIxVXHIW02P.jpg",
-        "https://image.tmdb.org/t/p/w1280/gbgoA365wY0tLZxVCaOE6NpF2iF.jpg",
-        "https://image.tmdb.org/t/p/w1280/pZ0nNN5UoUkpyY9zWdyquztgX1v.jpg"
-      ],
-      "stills_focus": [
-        18.7,
-        44.0,
-        28.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "jacques-deray"
     },
     {
       "id": "culturgest_ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
@@ -8355,16 +8109,6 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "Robert Rossen": {
-      "lbxd_slug": "robert-rossen",
-      "photo": null,
-      "bio": "Robert Rossen (March 16, 1908 – February 18, 1966) was an American screenwriter, film director, and producer whose film career spanned almost three decades. His 1949 film All the King's Men won Oscars for Best Picture, Best Actor and Best Supporting Actress, while Rossen was nominated for the Academy Award for Best Director. He won the Golden Globe for Best Director and the film won the Golden Globe Award for Best Picture."
-    },
-    "Robert Wise, Jerome Robbins": {
-      "lbxd_slug": "jerome-robbins",
-      "photo": null,
-      "bio": null
-    },
     "Richard Brooks": {
       "lbxd_slug": "richard-brooks",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RichardBrooks45.JPG/500px-RichardBrooks45.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8379,6 +8123,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "otto-preminger",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
       "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
+    },
+    "Robert Rossen": {
+      "lbxd_slug": "robert-rossen",
+      "photo": null,
+      "bio": "Robert Rossen (March 16, 1908 – February 18, 1966) was an American screenwriter, film director, and producer whose film career spanned almost three decades. His 1949 film All the King's Men won Oscars for Best Picture, Best Actor and Best Supporting Actress, while Rossen was nominated for the Academy Award for Best Director. He won the Golden Globe for Best Director and the film won the Golden Globe Award for Best Picture."
     },
     "Michael Curtiz": {
       "lbxd_slug": "michael-curtiz",
@@ -8430,6 +8179,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dennis_Hopper_Cannes_2008_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Dennis Lee Hopper (May 17, 1936 – May 29, 2010) was an American actor, filmmaker, photographer and visual artist. He is considered one of the key figures of the New Hollywood era. He earned prizes from the Cannes Film Festival and Venice International Film Festival as well as nominations for two Academy Awards, a Primetime Emmy Award and two Golden Globe Awards."
     },
+    "Arthur Penn": {
+      "lbxd_slug": "arthur-penn",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PBS_photo_of_Arthur_Penn_1972.jpg/500px-PBS_photo_of_Arthur_Penn_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Arthur Hiller Penn (September 27, 1922 – September 28, 2010) was an American filmmaker, theatre director, and producer. He was a three-time Academy Award nominee for Best Director, and a Tony Award winner. Among other accolades, he was also nominated for a BAFTA Award, a Golden Globe and two Primetime Emmy Awards."
+    },
     "Maryam Touzani": {
       "lbxd_slug": "maryam-touzani",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maryam_Touzani_at_82nd_Venice_International_Film_Festival-1.jpg/500px-Maryam_Touzani_at_82nd_Venice_International_Film_Festival-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8464,11 +8218,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "agnes-varda",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
-    },
-    "Jacques Tati": {
-      "lbxd_slug": "jacques-tati",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09.07.1961._La_Belle_Gaillarde_%C3%A0_No%C3%A9_%281961%29_-_53Fi2337.jpg/500px-09.07.1961._La_Belle_Gaillarde_%C3%A0_No%C3%A9_%281961%29_-_53Fi2337.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Jacques Tati (French: [tati]; born Jacques Tatischeff, pronounced [tatiʃɛf]; 9 October 1907 – 5 November 1982) was a French mime, filmmaker, actor and screenwriter. In an Entertainment Weekly poll of the Greatest Movie Directors he was voted 46th (a list of the top 50 was published), though he had directed only six feature-length films. Tati is perhaps best known for his portrayal of the character Monsieur Hulot, featured in Les Vacances de Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967) and Trafic (1971)."
     },
     "Sophie Letourneur": {
       "lbxd_slug": "sophie-letourneur",
@@ -8599,6 +8348,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "sidney-lumet",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sidney_Lumet_1970.jpg/500px-Sidney_Lumet_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Sidney Arthur Lumet ( loo-MET; June 25, 1924 – April 9, 2011) was an American film director. Lumet started his career in theatre before moving to directing television in 1950, and then directing films from 1957, where he gained a reputation for making realistic and gritty New York dramas that focused on the working class, tackled social injustices, and often questioned authority. He received various accolades including an Academy Honorary Award and a Golden Globe Award as well as nominations for nine British Academy Film Awards and a Primetime Emmy Award."
+    },
+    "Jacques Tati": {
+      "lbxd_slug": "jacques-tati",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09.07.1961._La_Belle_Gaillarde_%C3%A0_No%C3%A9_%281961%29_-_53Fi2337.jpg/500px-09.07.1961._La_Belle_Gaillarde_%C3%A0_No%C3%A9_%281961%29_-_53Fi2337.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jacques Tati (French: [tati]; born Jacques Tatischeff, pronounced [tatiʃɛf]; 9 October 1907 – 5 November 1982) was a French mime, filmmaker, actor and screenwriter. In an Entertainment Weekly poll of the Greatest Movie Directors he was voted 46th (a list of the top 50 was published), though he had directed only six feature-length films. Tati is perhaps best known for his portrayal of the character Monsieur Hulot, featured in Les Vacances de Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967) and Trafic (1971)."
     },
     "Gordon Douglas": {
       "lbxd_slug": "gordon-douglas",
@@ -8995,12 +8749,12 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sarah_Friedland_at_81st_Venice_Film_Festival_%28cropped%29.jpg/500px-Sarah_Friedland_at_81st_Venice_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Sarah Friedland (born 1992) is an American director and choreographer. Her 2024 debut feature film, Familiar Touch, premiered at the 81st Venice International Film Festival, where she won the Orizzonti section's Best Director award and the film won the Luigi de Laurentis Lion of the Future Award for best debut feature."
     },
-    "Marjane Satrapi, Vincent Paronnaud": {
+    "Vincent Paronnaud, Marjane Satrapi": {
       "lbxd_slug": "marjane-satrapi",
       "photo": null,
       "bio": null
     },
-    "Jane Pollard, Iain Forsyth": {
+    "Iain Forsyth, Jane Pollard": {
       "lbxd_slug": "jane-pollard",
       "photo": null,
       "bio": null
@@ -9009,16 +8763,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "josef-von-sternberg",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dishonored_%28film%29_1931_On_set%2C_BW_photo%2C_L_to_R_Josef_von_Sternberg%2C_Marlene_Dietrich_%28cropped-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Josef von Sternberg (Austrian German: [ˈjoːzɛf fɔn ˈʃtɛrnbɛrg]; born Jonas Sternberg; May 29, 1894 – December 22, 1969) was an Austrian-American filmmaker whose career successfully spanned the transition from the silent to the sound era, during which he worked with most of the major Hollywood studios. He is best known for his film collaboration with actress Marlene Dietrich in the 1930s, including the highly regarded Paramount/UFA production The Blue Angel (1930). He was twice nominated for the Academy Award for Best Director, for Morocco (1930) and Shanghai Express (1932)."
-    },
-    "Mikhail Kalatozov": {
-      "lbxd_slug": "mikhail-kalatozov",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg/500px-Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Mikhail Konstantinovich Kalatozov (Georgian: მიხეილ კალატოზიშვილი, Russian: Михаил Константинович Калатозов; 28 December 1903 – 26 March 1973), born Mikheil Kalatozishvili, was a Soviet film director of Georgian origin who contributed to both Georgian and Russian cinema. He is known for his films The Cranes Are Flying and I Am Cuba, winning the Palme d'Or for the former at the 1958 Cannes Film Festival."
-    },
-    "Jacques Deray": {
-      "lbxd_slug": "jacques-deray",
-      "photo": null,
-      "bio": "Jacques Deray (born Jacques Desrayaud, 19 February 1929 – 9 August 2003) was a French film director and screenwriter. Deray is prominently known for directing many crime and thriller films."
     },
     "Listen, Think, Write": {
       "lbxd_slug": null,
@@ -9031,5 +8775,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

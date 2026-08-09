@@ -28359,7 +28359,7 @@
       "https://image.tmdb.org/t/p/w1280/dqZ5ul44D3l94WbJHcWeIeY2SQj.jpg"
     ],
     "tmdb_id": "1517161",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "SESSÃO 6 | LES NUITS EN OR 2026|None": {
     "lbxd": null,
@@ -39583,7 +39583,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      33.9
+      34.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
@@ -39847,7 +39847,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.1
+      35.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
@@ -39909,7 +39909,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      38.9
+      39.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -43008,7 +43008,7 @@
     "tmdb_id": "288893",
     "wiki_tries": 3,
     "stills_focus": [
-      40.8
+      40.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
@@ -43332,8 +43332,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.3,
-      40.6
+      30.2,
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -48808,5 +48808,78 @@
     ],
     "tmdb_id": "624",
     "wiki_tries": 1
+  },
+  "Alice’s Restaurant|1969": {
+    "lbxd": {
+      "rating": 3.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/5/6/48756-alice-s-restaurant-0-500-0-750-crop.jpg?v=fa863d8b84",
+      "description": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump but finds it closed for the holiday, so he dumps the trash in the bottom of a ravine. This act of littering gets him arrested and sends him on a bizarre journey.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Arthur Penn",
+      "lb_director_slug": "arthur-penn",
+      "lb_year": 1969,
+      "lb_title": "Alice's Restaurant",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ve/a6/hb/ah/alices-restaurant-1920-1920-1080-1080-crop-000000.jpg?v=2a076144c5",
+      "imdb_id": "tt0064002",
+      "tmdb_id": "5638"
+    },
+    "omdb": {
+      "Title": "Alice's Restaurant",
+      "Year": "1969",
+      "Rated": "R",
+      "Released": "20 Aug 1969",
+      "Runtime": "111 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Arthur Penn",
+      "Writer": "Arlo Guthrie, Venable Herndon, Arthur Penn",
+      "Actors": "Arlo Guthrie, Patricia Quinn, James Broderick",
+      "Plot": "A cinematic adaption of Arlo Guthrie's classic story-song.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5NTE4MDQtYWEwNC00MmRlLWI1YWEtNWYzMzYxODhiZjY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "63%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "4,813",
+      "imdbID": "tt0064002",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$13,991,240",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "New Hollywood",
+      "imdb_id": null,
+      "extract_pt": "A Nova Hollywood, também chamada de Hollywood pós-clássica e, às vezes, American New Wave, refere-se a um movimento cinematográfico estadunidense que renovou significativamente a produção técnica e estética da indústria de cinema dos Estados Unidos na década de 1970, após vivenciar uma profunda crise econômica e de paradigmas na primeira metade dos anos 1960.\nDistinto das propostas estéticas e das condições de produção de estúdio estabelecidas nas gerações anteriores da chamada \"era de ouro de Hollywood\", embora também tivesse sido influenciado por esse, o cinema autoral da Nova Hollywood procurou se inspirar no cinema de vanguarda europeu da década de 1960 e dialogar direta ou indiretamente com contexto político de sua época, cujas temáticas principais eram a defesa da contracultura, da igualdade racial, da liberalização de costumes e do pacifismo, produzindo uma geração de cineastas libertos do controle dos grandes estúdios e com um olhar mais crítico e incisivo sobre a sociedade estadunidense.\nInfluenciados por John Cassavetes, Robert Mulligan, Arthur Penn, Robert Aldrich, Sam Peckinpah e Don Siegel, a nova geração formada por jovens cineastas como Martin Scorsese, Francis Ford Coppola, Peter Bogdanovich, Michael Cimino, Paul Schrader, George Lucas, Steven Spielberg e Brian De Palma ganhou notoriedade, ao assumir um protagonismo como diretores autorais e influenciar os tipos de filmes realizados, a sua produção e distribuição e seu relacionamento com os grandes estúdios.\nEmbora não haja consenso entre a crítica especializada sobre a periodização da Nova Hollywood\n, costuma-se atribuir o ano de 1967 como o início do movimento, quando foi lançado o aclamado Bonnie e Clyde, de Arthur Penn, e o seu ocaso em 1980, com o fracassado Heaven's Gate, de Michael Cimino, que provocou a falência da United Artists."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      43.0,
+      31.1,
+      17.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/gSxBpt9YVANM9NdLoVeAfZCIot6.jpg",
+      "https://image.tmdb.org/t/p/w1280/lgfufoqVHb1de5hVLvK67bi0dEz.jpg",
+      "https://image.tmdb.org/t/p/w1280/7TuP1K77CLnqWlmomz39GQREcfR.jpg"
+    ],
+    "tmdb_id": "5638"
   }
 }
