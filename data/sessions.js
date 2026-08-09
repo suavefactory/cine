@@ -7037,8 +7037,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.2,
-        40.8
+        30.3,
+        40.6
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
@@ -7865,7 +7865,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
       ],
       "stills_focus": [
-        40.6
+        40.9
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
