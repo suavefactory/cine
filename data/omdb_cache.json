@@ -36794,7 +36794,7 @@
       "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
     ],
     "tmdb_id": "200381",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Meu Tio|1958": {
     "lbxd": {
@@ -39847,7 +39847,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.2
+      35.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
@@ -43332,8 +43332,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.3,
-      40.6
+      30.2,
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -43678,7 +43678,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -48868,7 +48868,9 @@
       "imdb_id": null,
       "extract_pt": "A Nova Hollywood, também chamada de Hollywood pós-clássica e, às vezes, American New Wave, refere-se a um movimento cinematográfico estadunidense que renovou significativamente a produção técnica e estética da indústria de cinema dos Estados Unidos na década de 1970, após vivenciar uma profunda crise econômica e de paradigmas na primeira metade dos anos 1960.\nDistinto das propostas estéticas e das condições de produção de estúdio estabelecidas nas gerações anteriores da chamada \"era de ouro de Hollywood\", embora também tivesse sido influenciado por esse, o cinema autoral da Nova Hollywood procurou se inspirar no cinema de vanguarda europeu da década de 1960 e dialogar direta ou indiretamente com contexto político de sua época, cujas temáticas principais eram a defesa da contracultura, da igualdade racial, da liberalização de costumes e do pacifismo, produzindo uma geração de cineastas libertos do controle dos grandes estúdios e com um olhar mais crítico e incisivo sobre a sociedade estadunidense.\nInfluenciados por John Cassavetes, Robert Mulligan, Arthur Penn, Robert Aldrich, Sam Peckinpah e Don Siegel, a nova geração formada por jovens cineastas como Martin Scorsese, Francis Ford Coppola, Peter Bogdanovich, Michael Cimino, Paul Schrader, George Lucas, Steven Spielberg e Brian De Palma ganhou notoriedade, ao assumir um protagonismo como diretores autorais e influenciar os tipos de filmes realizados, a sua produção e distribuição e seu relacionamento com os grandes estúdios.\nEmbora não haja consenso entre a crítica especializada sobre a periodização da Nova Hollywood\n, costuma-se atribuir o ano de 1967 como o início do movimento, quando foi lançado o aclamado Bonnie e Clyde, de Arthur Penn, e o seu ocaso em 1980, com o fracassado Heaven's Gate, de Michael Cimino, que provocou a falência da United Artists."
     },
-    "cinema": {},
+    "cinema": {
+      "plot_pt": "Belíssima mescla de melodrama e comédia que facilmente se coloca entre os melhores trabalhos de Robert Mulligan. Natalie Wood é uma rapariga (católica) que se descobre grávida na sequência de um “one night stand” com um músico, Steve McQueen. Juntos, tentarão encontrar dinheiro para um aborto, e nesse processo vão-se conhecendo cada vez melhor. Mulligan trata um tema difícil com toda a delicadeza, e quer Wood quer McQueen estão em estado de graça. Um dos candidatos a ser a obra-prima de Mulligan. A exibir em cópia 35mm."
+    },
     "dir_checked": true,
     "stills_focus": [
       43.0,
