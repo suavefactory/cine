@@ -35791,7 +35791,8 @@
       "https://image.tmdb.org/t/p/w1280/vL0oTaPG11MiurxtyeaebWhX58r.jpg",
       "https://image.tmdb.org/t/p/w1280/nDj8biEOu4PoGCm4hSzEZe9AU6a.jpg"
     ],
-    "tmdb_id": "200011"
+    "tmdb_id": "200011",
+    "wiki_tries": 1
   },
   "Amor de Leão|1969": {
     "lbxd": {
@@ -48999,7 +49000,8 @@
       "https://image.tmdb.org/t/p/w1280/xYs0dSrI9mnPprNsYlCsfLOALSR.jpg",
       "https://image.tmdb.org/t/p/w1280/mXgu2KRy7zjobabojs34d2RJLqd.jpg"
     ],
-    "tmdb_id": "1265936"
+    "tmdb_id": "1265936",
+    "wiki_tries": 1
   },
   "A Ópera Mouffe + Algumas Viúvas de Noirmoutier|1958": {
     "lbxd": {
@@ -49137,7 +49139,8 @@
       "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg",
       "https://image.tmdb.org/t/p/w1280/wRKmrZic25ylw0RYEuVpU4lBuSM.jpg"
     ],
-    "tmdb_id": "32015"
+    "tmdb_id": "32015",
+    "wiki_tries": 1
   },
   "Ao Longo da Costa + As Donzelas Fizeram 25 Anos|1958": {
     "lbxd": null,
@@ -49224,7 +49227,8 @@
       "https://image.tmdb.org/t/p/w1280/46nWXENhpo8P24UOxGzptFND77h.jpg",
       "https://image.tmdb.org/t/p/w1280/pLKplJnD9OY0C4J7nDrZdslap9t.jpg"
     ],
-    "tmdb_id": "78129"
+    "tmdb_id": "78129",
+    "wiki_tries": 1
   },
   "O MISTERIOSO OLHAR DO FLAMINGO|None": {
     "lbxd": {
@@ -49282,6 +49286,133 @@
       35.3,
       26.2,
       36.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/kAwN3UWRUWauNK1l4oh7TfdOsJ7.jpg",
+      "https://image.tmdb.org/t/p/w1280/1r3DqFzev9T3rjaUXEaP8R4sRdz.jpg",
+      "https://image.tmdb.org/t/p/w1280/mbZLX2obG8o5NVeZuONO04KrJKz.jpg"
+    ],
+    "tmdb_id": "896096"
+  },
+  "A Ópera Mouffe + Algumas Viúvas de Noirmoutier|2006": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/1/0/7/5/251075-quelques-veuves-de-noirmoutier-0-500-0-750-crop.jpg?v=ed43178353",
+      "description": "A documentary film directed by French Agnès Varda as an extension of the exhibition 'L'île et elle'. The installation 'Les veuves de Noirmoutier' (or 'The Widows of Noirmoutier') had various women filmed by Varda, young and old, who spoke about their widowhood and their residence on the island of Noirmoutier. The film is a montage of these meetings, which are both simple and melancholic.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 2006,
+      "lb_title": "Some Widows of Noirmoutier",
+      "backdrop": null,
+      "imdb_id": "tt0876532",
+      "tmdb_id": "324088"
+    },
+    "omdb": {
+      "Title": "Some Widows of Noirmoutier",
+      "Year": "2006",
+      "Rated": "N/A",
+      "Released": "03 Oct 2006",
+      "Runtime": "69 min",
+      "Genre": "Documentary",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "N/A",
+      "Plot": "Documentary about the widows on the island Noirmoutier. Agnès Varda listens to them, films them, each one of them talks about her emotions, life, etc.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmViNjYwNTAtOGNiZC00ZDY4LThhODctYWE2ZDA1YmJhYzIyXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "108",
+      "imdbID": "tt0876532",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1958,
+      "plot_pt": "As conversas íntimas entre Agnès Varda e as viúvas de Noirmoutier (a pequena ilha que Varda e Demy escolheram como segunda casa) dão voz aos seus sentimentos e memórias passadas. Varda aborda as suas histórias com a empatia que a define, concebendo retratos complexos e sensíveis destas mulheres enquanto navegam pela alegria e pelo amor, pela angústia e pela dor. Ao mesmo tempo, Varda dá-nos a ver o seu próprio luto, num filme que capta a dimensão sensível da intimidade. Quelques Veuves de Noirmoutier foi realizado como um prolongamento da instalação-vídeo homónima, apresentada na Galeria Martine Aboucaya no início de 2005 e, no ano seguinte, na Fondation Cartier, no âmbito da exposição L''Île et Elle."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
+    ],
+    "tmdb_id": "324088"
+  },
+  "O MISTERIOSO OLHAR DO FLAMINGO|2025": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/6/8/8/3/806883-the-mysterious-gaze-of-the-flamingo-0-500-0-750-crop.jpg?v=80b8a9edc9",
+      "description": "As an unknown and deadly disease begins to spread, legend has it that it is transmitted between two men, through a simple glance, when they fall in love. While people are accusing her family, Lidia must find out whether this myth is real or not.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Chile",
+      "lb_director": "Diego Céspedes",
+      "lb_director_slug": "diego-cespedes",
+      "lb_year": 2025,
+      "lb_title": "The Mysterious Gaze of the Flamingo",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/6/8/8/3/tmdb/3mvfoVqhh5hUAtE0FWYQUzjANkP-1920-1920-1080-1080-crop-000000.jpg?v=19a329fbe2",
+      "imdb_id": "tt22237964",
+      "tmdb_id": "896096"
+    },
+    "omdb": {
+      "Title": "The Mysterious Gaze of the Flamingo",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Diego Céspedes",
+      "Writer": "Diego Céspedes",
+      "Actors": "Matías Catalán, Paula Dinamarca, Tamara Cortes",
+      "Plot": "1982. As an unknown disease begins to spread in a small mining town in the Chilean desert, gay men are accused of transmitting it through their eyes. Twelve-year-old Lidia, the only girl in the community, sets out in search of the...",
+      "Language": "Spanish",
+      "Country": "Chile",
+      "Awards": "2 nominations total",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt22237964",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      25.9,
+      26.2,
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/kAwN3UWRUWauNK1l4oh7TfdOsJ7.jpg",
