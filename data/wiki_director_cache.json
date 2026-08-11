@@ -1407,5 +1407,15 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PBS_photo_of_Arthur_Penn_1972.jpg/500px-PBS_photo_of_Arthur_Penn_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Arthur Hiller Penn (September 27, 1922 – September 28, 2010) was an American filmmaker, theatre director, and producer. He was a three-time Academy Award nominee for Best Director, and a Tony Award winner. Among other accolades, he was also nominated for a BAFTA Award, a Golden Globe and two Primetime Emmy Awards.",
     "tries": 1
+  },
+  "Lois Patiño": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Festival_de_M%C3%A1laga_2020_-_Lois_Pati%C3%B1o_2.jpg/500px-Festival_de_M%C3%A1laga_2020_-_Lois_Pati%C3%B1o_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Spanish film director",
+    "tries": 1
+  },
+  "Vicente Ferraz": {
+    "photo": null,
+    "bio": "film director (born 1965)",
+    "tries": 1
   }
 }

@@ -35721,9 +35721,77 @@
     "wiki": null
   },
   "O Universo de Jacques Demy|1995": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/4/7/2/143472-the-world-of-jacques-demy-0-500-0-750-crop.jpg?v=16cc4fe04d",
+      "description": "Agnès Varda's documentary portrait of her late husband, Jacques Demy. A companion piece to her Jacquot de Nantes.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1995,
+      "lb_title": "The World of Jacques Demy",
+      "backdrop": null,
+      "imdb_id": "tt0114794",
+      "tmdb_id": "200011"
+    },
+    "omdb": {
+      "Title": "The World of Jacques Demy",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "22 Sep 1995",
+      "Runtime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Anouk Aimée, Richard Berry, Nino Castelnuovo",
+      "Plot": "In tribute to her late husband, the wife of the respected French director honors his life and artistic works by highlighting his vision in clips and interviews.",
+      "Language": "French, English",
+      "Country": "France, Belgium, Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWIxOTlmYmEtOGZkNy00Y2UyLTk4MTgtZDYwZmI1YzNkZTFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.4",
+      "imdbVotes": "590",
+      "imdbID": "tt0114794",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1995,
+      "original_title": "L’Univers de Jacques Demy",
+      "country": "França, Bélgica e Espanha",
+      "plot_pt": "Depois de Jacquot de Nantes (1990), sobre a infância do seu marido e cineasta Jacques Demy, Agnès Varda realizou esta homenagem à sua vida e obra. Varda faz um retrato caleidoscópico de Demy, com recurs a vários dispositivos, incluindo entrevistas com o próprio e com vários dos artistas que com ele colaboraram ao longo dos anos, como Catherine Deneuve, Jacques Perrin e Nino Castelnuovo, e imagens inéditas das rodagens dos filmes. O Universo de Jacques Demy mostra-nos o cineasta como Varda o conheceu e amou, um homem de uma criatividade incansável que olhava para o mundo com encanto."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      16.9,
+      26.7,
+      57.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3NC6J6B5rU2TMqTuZaI1Hqzqukz.jpg",
+      "https://image.tmdb.org/t/p/w1280/vL0oTaPG11MiurxtyeaebWhX58r.jpg",
+      "https://image.tmdb.org/t/p/w1280/nDj8biEOu4PoGCm4hSzEZe9AU6a.jpg"
+    ],
+    "tmdb_id": "200011"
   },
   "Amor de Leão|1969": {
     "lbxd": {
@@ -36794,7 +36862,7 @@
       "https://image.tmdb.org/t/p/w1280/eZaJ693i2qoPaonEFX1xQND6VVn.jpg"
     ],
     "tmdb_id": "200381",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Meu Tio|1958": {
     "lbxd": {
@@ -48883,5 +48951,343 @@
       "https://image.tmdb.org/t/p/w1280/7TuP1K77CLnqWlmomz39GQREcfR.jpg"
     ],
     "tmdb_id": "5638"
+  },
+  "Tio Yanco + Documenteur|1980": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1980,
+      "plot_pt": "Em Los Angeles, a francesa Émilie, separada do homem que ama, está à procura de uma casa para si e para o seu filho de oito anos, Martin. Depois de encontrar um apartamento, a sua angústia e sensação de exílio tornam-se insuportáveis. Entre a ficção e o documentário (a tradução literal de “Documenteur” seria “documentiroso”), Documenteur é um dos filmes mais pessoais de Agnès Varda (que o realizou após separar-se de Jacques Demy), e um retrato contemplativo do isolamento urbano, atravessado por um subtil poesia visual."
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Ariel|2025": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/9/9/4/5/1149945-ariel-2025-0-500-0-750-crop.jpg?v=bc7b0c4fc7",
+      "description": "An actress goes to Azores to take part in the theatrical tour of The Tempest and on her arrival she finds no one from the company, there is not even a theatre. After meeting Ariel, the actress discovers that the play has already started, the whole island is a theatre and its inhabitants are characters.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Lois Patiño",
+      "lb_director_slug": "lois-patino",
+      "lb_year": 2025,
+      "lb_title": "Ariel",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/6t/e8/te/ke/9aQZ54mOXKE9Q1Ofpr3UQmQN1Os-1920-1920-1080-1080-crop-000000.jpg?v=4294d95eac",
+      "imdb_id": "tt27331087",
+      "tmdb_id": "1265936"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2025,
+      "country": "Portugal e Espanha",
+      "plot_pt": "Um barco onde que todos estão adormecidos. Uma actriz que chega aos Açores para se juntar a uma digressão teatral d’A Tempestade, mas que encontra antes algo inesperado e mágico. Toda a ilha é um palco e todas as peças de Shakespeare são interpretadas ao longo do dia. O mundo do filme confunde-se com o mundo da peça e com o mundo real e nós mergulhamos neste jogo poético e metatextual."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      37.3,
+      30.3,
+      45.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
+      "https://image.tmdb.org/t/p/w1280/xYs0dSrI9mnPprNsYlCsfLOALSR.jpg",
+      "https://image.tmdb.org/t/p/w1280/mXgu2KRy7zjobabojs34d2RJLqd.jpg"
+    ],
+    "tmdb_id": "1265936"
+  },
+  "A Ópera Mouffe + Algumas Viúvas de Noirmoutier|1958": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/1/0/7/5/251075-quelques-veuves-de-noirmoutier-0-500-0-750-crop.jpg?v=ed43178353",
+      "description": "A documentary film directed by French Agnès Varda as an extension of the exhibition 'L'île et elle'. The installation 'Les veuves de Noirmoutier' (or 'The Widows of Noirmoutier') had various women filmed by Varda, young and old, who spoke about their widowhood and their residence on the island of Noirmoutier. The film is a montage of these meetings, which are both simple and melancholic.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 2006,
+      "lb_title": "Some Widows of Noirmoutier",
+      "backdrop": null,
+      "imdb_id": "tt0876532",
+      "tmdb_id": "324088"
+    },
+    "omdb": {
+      "Title": "Some Widows of Noirmoutier",
+      "Year": "2006",
+      "Rated": "N/A",
+      "Released": "03 Oct 2006",
+      "Runtime": "69 min",
+      "Genre": "Documentary",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "N/A",
+      "Plot": "Documentary about the widows on the island Noirmoutier. Agnès Varda listens to them, films them, each one of them talks about her emotions, life, etc.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmViNjYwNTAtOGNiZC00ZDY4LThhODctYWE2ZDA1YmJhYzIyXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "108",
+      "imdbID": "tt0876532",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1958,
+      "plot_pt": "As conversas íntimas entre Agnès Varda e as viúvas de Noirmoutier (a pequena ilha que Varda e Demy escolheram como segunda casa) dão voz aos seus sentimentos e memórias passadas. Varda aborda as suas histórias com a empatia que a define, concebendo retratos complexos e sensíveis destas mulheres enquanto navegam pela alegria e pelo amor, pela angústia e pela dor. Ao mesmo tempo, Varda dá-nos a ver o seu próprio luto, num filme que capta a dimensão sensível da intimidade. Quelques Veuves de Noirmoutier foi realizado como um prolongamento da instalação-vídeo homónima, apresentada na Galeria Martine Aboucaya no início de 2005 e, no ano seguinte, na Fondation Cartier, no âmbito da exposição L''Île et Elle."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
+    ],
+    "tmdb_id": "324088"
+  },
+  "Soy Cuba|1964": {
+    "lbxd": {
+      "rating": 4.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/2/0/30720-i-am-cuba-0-500-0-750-crop.jpg?v=6361cea4d6",
+      "description": "Four vignettes on the lives of pre-revolutionary era Cuban people; in Havana, Maria is ashamed when a man she loves discovers how she makes a living. Pedro, an old farmer, discovers that the land he cultivates is being sold to an American company. A student sees his friends attacked by the police while they distribute leaflets supporting Fidel Castro. Finally, a peasant family is threatened by Batista's army.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Cuba",
+      "lb_director": "Mikhail Kalatozov",
+      "lb_director_slug": "mikhail-kalatozov",
+      "lb_year": 1964,
+      "lb_title": "I Am Cuba",
+      "backdrop": null,
+      "imdb_id": "tt0058604",
+      "tmdb_id": "32015"
+    },
+    "omdb": {
+      "Title": "I Am Cuba",
+      "Year": "1964",
+      "Rated": "Not Rated",
+      "Released": "01 Dec 1995",
+      "Runtime": "141 min",
+      "Genre": "Drama",
+      "Director": "Mikhail Kalatozov",
+      "Writer": "Enrique Pineda Barnet, Yevgeniy Yevtushenko",
+      "Actors": "Sergio Corrieri, Salvador Wood, José Gallardo",
+      "Plot": "Four vignettes about the lives of the Cuban people set during the pre-revolutionary era.",
+      "Language": "Spanish, English",
+      "Country": "Cuba, Soviet Union",
+      "Awards": "2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0OTgwNjItNDViZC00ODI5LWI5MDMtZjNmNGFhN2ZlNDU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "Metascore": "91",
+      "imdbRating": "8.2",
+      "imdbVotes": "11,828",
+      "imdbID": "tt0058604",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$168,100",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1964,
+      "plot_pt": "Fruto de uma colaboração extraordinariamente ambiciosa entre as indústrias cinematográficas soviética e cubana, Soy Cuba retrata Cuba nas vésperas de uma revolução, à medida que a opressiva exploração económica e desigualdade dão lugar ao levantamento da classe trabalhadora. Havana, 1958. Cuba é um vasto parque de diversões para americanos ricos e latifundiários sem escrúpulos. É um reino de corrupção, dinheiro e luxúria. Os camponeses e estudantes que apoiam Fidel Castro unem-se para organizar a luta."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      36.1,
+      23.6,
+      33.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
+      "https://image.tmdb.org/t/p/w1280/yxgOzivoYttWZOq0onFzXq6WOrs.jpg",
+      "https://image.tmdb.org/t/p/w1280/wRKmrZic25ylw0RYEuVpU4lBuSM.jpg"
+    ],
+    "tmdb_id": "32015"
+  },
+  "Ao Longo da Costa + As Donzelas Fizeram 25 Anos|1958": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1958,
+      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin."
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Soy Cuba, O Mamute Siberiano|2004": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/4/5/9/9/64599-i-am-cuba-the-siberian-mammoth-0-500-0-750-crop.jpg?v=0be75785e6",
+      "description": "Contemporary film critics regard the epic film I Am Cuba as a modern masterpiece. The 1964 Cuban/Soviet coproduction marked a watershed moment of cultural collaboration between two nations. Yet the film never found a mass audience, languishing for decades until its reintroduction as a \"classic\" in the 1990s. Vicente Ferraz explores the strange history of this cinematic tour de force, and the deeper meaning for those who participated in its creation.",
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "country": "Brazil",
+      "lb_director": "Vicente Ferraz",
+      "lb_director_slug": "vicente-ferraz",
+      "lb_year": 2004,
+      "lb_title": "I Am Cuba, the Siberian Mammoth",
+      "backdrop": null,
+      "imdb_id": "tt0436784",
+      "tmdb_id": "78129"
+    },
+    "omdb": {
+      "Title": "Soy Cuba, O Mamute Siberiano",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "07 Oct 2005",
+      "Runtime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Vicente Ferraz",
+      "Writer": "Vicente Ferraz",
+      "Actors": "Othon Bastos, Alexander Calzatti, Fidel Castro",
+      "Plot": "This film examines the creation and exhibition of the propaganda film I Am Cuba, a Soviet/Cuban collaboration unknown in the West until the 1990s.",
+      "Language": "Russian, Spanish, Portuguese",
+      "Country": "Brazil",
+      "Awards": "5 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0Mjk1NzQxNF5BMl5BanBnXkFtZTgwMDQ0MTQzMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.2",
+      "imdbVotes": "433",
+      "imdbID": "tt0436784",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2004,
+      "plot_pt": "Neste documentário de Vicente Ferraz traça-se a origem de “Soy Cuba”, o filme de propaganda cubana realizado pelo soviético Mikhail Kalatozov. E analisa-se a forma como foi mal recebido após a estreia, em 1964, e só foi repescado nos anos 1990, graças a um restauro e à admiração de figuras como Martin Scorsese, sendo agora lembrado como possuidor de um dos grandes planos-sequência da História do cinema."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.2,
+      17.4,
+      29.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/sDHHEB9KCqnMpSvFnVBp0SQT5PF.jpg",
+      "https://image.tmdb.org/t/p/w1280/46nWXENhpo8P24UOxGzptFND77h.jpg",
+      "https://image.tmdb.org/t/p/w1280/pLKplJnD9OY0C4J7nDrZdslap9t.jpg"
+    ],
+    "tmdb_id": "78129"
+  },
+  "O MISTERIOSO OLHAR DO FLAMINGO|None": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/6/8/8/3/806883-the-mysterious-gaze-of-the-flamingo-0-500-0-750-crop.jpg?v=80b8a9edc9",
+      "description": "As an unknown and deadly disease begins to spread, legend has it that it is transmitted between two men, through a simple glance, when they fall in love. While people are accusing her family, Lidia must find out whether this myth is real or not.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Chile",
+      "lb_director": "Diego Céspedes",
+      "lb_director_slug": "diego-cespedes",
+      "lb_year": 2025,
+      "lb_title": "The Mysterious Gaze of the Flamingo",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/6/8/8/3/tmdb/3mvfoVqhh5hUAtE0FWYQUzjANkP-1920-1920-1080-1080-crop-000000.jpg?v=19a329fbe2",
+      "imdb_id": "tt22237964",
+      "tmdb_id": "896096"
+    },
+    "omdb": {
+      "Title": "The Mysterious Gaze of the Flamingo",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Diego Céspedes",
+      "Writer": "Diego Céspedes",
+      "Actors": "Matías Catalán, Paula Dinamarca, Tamara Cortes",
+      "Plot": "1982. As an unknown disease begins to spread in a small mining town in the Chilean desert, gay men are accused of transmitting it through their eyes. Twelve-year-old Lidia, the only girl in the community, sets out in search of the...",
+      "Language": "Spanish",
+      "Country": "Chile",
+      "Awards": "2 nominations total",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt22237964",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.3,
+      26.2,
+      36.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/kAwN3UWRUWauNK1l4oh7TfdOsJ7.jpg",
+      "https://image.tmdb.org/t/p/w1280/1r3DqFzev9T3rjaUXEaP8R4sRdz.jpg",
+      "https://image.tmdb.org/t/p/w1280/mbZLX2obG8o5NVeZuONO04KrJKz.jpg"
+    ],
+    "tmdb_id": "896096"
   }
 }
