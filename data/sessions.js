@@ -4561,7 +4561,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
       ],
       "stills_focus": [
-        33.9
+        34.0
       ],
       "director_lbxd_slug": "jose-magro"
     },
@@ -4796,7 +4796,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
       ],
       "stills_focus": [
-        35.1
+        35.2
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -7688,7 +7688,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
       ],
       "stills_focus": [
-        40.6
+        40.9
       ],
       "country": "France",
       "director_lbxd_slug": "francois-truffaut"
