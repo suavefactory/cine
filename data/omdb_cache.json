@@ -27405,7 +27405,7 @@
     },
     "tmdb_id": "4683",
     "stills_focus": [
-      40.9
+      40.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.3
+      46.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -47645,7 +47645,7 @@
     "tmdb_id": "48599",
     "wiki_tries": 3,
     "stills_focus": [
-      35.2
+      35.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
@@ -49356,7 +49356,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
     ],
-    "tmdb_id": "324088"
+    "tmdb_id": "324088",
+    "wiki_tries": 1
   },
   "O MISTERIOSO OLHAR DO FLAMINGO|2025": {
     "lbxd": {
@@ -49420,80 +49421,7 @@
       "https://image.tmdb.org/t/p/w1280/1r3DqFzev9T3rjaUXEaP8R4sRdz.jpg",
       "https://image.tmdb.org/t/p/w1280/mbZLX2obG8o5NVeZuONO04KrJKz.jpg"
     ],
-    "tmdb_id": "896096"
-  },
-  "Saturday Night Fever|1977": {
-    "lbxd": {
-      "rating": 3.22,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/40/f2/pd/ql/12Ol9OqHzpXzIp5MKfw8dDkm8kf-0-500-0-750-crop.jpg?v=0452efd7af",
-      "description": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "UK",
-      "lb_director": "John Badham",
-      "lb_director_slug": "john-badham",
-      "lb_year": 1977,
-      "lb_title": "Saturday Night Fever",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/px/iu/jj/ng/gqTwlRkQ2FBCeeq6JxzCj4ctjHF-1920-1920-1080-1080-crop-000000.jpg?v=d2acdf1ef7",
-      "imdb_id": "tt0076666",
-      "tmdb_id": "11009"
-    },
-    "omdb": {
-      "Title": "Saturday Night Fever",
-      "Year": "1977",
-      "Rated": "R",
-      "Released": "16 Dec 1977",
-      "Runtime": "118 min",
-      "Genre": "Drama, Music",
-      "Director": "John Badham",
-      "Writer": "Nik Cohn, Norman Wexler",
-      "Actors": "John Travolta, Karen Lynn Gorney, Barry Miller",
-      "Plot": "Anxious about his future after high school, a 19-year-old Italian-American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco.",
-      "Language": "English, Italian",
-      "Country": "United States",
-      "Awards": "Nominated for 1 Oscar. 6 wins & 14 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2UxZGU5ZDItZmQ0NS00NzNlLTgwMGMtOGJkMzQ5N2QwZjNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "82%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "77/100"
-        }
-      ],
-      "Metascore": "77",
-      "imdbRating": "6.8",
-      "imdbVotes": "93,994",
-      "imdbID": "tt0076666",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$94,213,184",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Outro dos grandes filmes de Mulligan, rodado no mesmo ano de BABY THE RAIN MUST FALL. Um filme de época, que retrata a Hollywood e o “star system” dos anos 30 e 40 seguindo o percurso de Daisy Clover (Natalie Wood) entre a sua chegada à “cidade dos sonhos” e a sua transformação em estrela de primeira grandeza. Mulligan definiu o filme como “um pesadelo frio”, descrevendo a história de Daisy como uma espécie de desalmada manipulação da personalidade. Mal recebido à época, resistiu muito bem ao tempo e hoje é comum vê-lo escolhido para figurar no melhor da filmografia de Mulligan. A exibir em cópia 35mm."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      25.0,
-      36.7,
-      26.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
-      "https://image.tmdb.org/t/p/w1280/zG9cefBYXTVjaZ6P82oKE5vQ75.jpg",
-      "https://image.tmdb.org/t/p/w1280/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg"
-    ],
-    "tmdb_id": "11009"
+    "tmdb_id": "896096",
+    "wiki_tries": 1
   }
 }

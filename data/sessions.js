@@ -6957,7 +6957,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.3
+        46.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -7522,6 +7522,38 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "karim-ainouz-1"
     },
     {
+      "id": "trindade_8658",
+      "title": "Uma Bela Rapariga",
+      "director": "François Truffaut",
+      "year": 1972,
+      "duration": 98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/1/8/8/49188-a-gorgeous-girl-like-me-0-500-0-750-crop.jpg?v=20792c65a4",
+      "genres": [
+        "Crime",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/uma-bela-rapariga",
+      "sessions": [
+        {
+          "date": "2026-08-12",
+          "time": "14:10",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.33,
+      "plot": "Young sociologist Stanislas Previne is writing a thesis on criminal women, so he visits Camille Bliss in prison for an interview. Accused of murdering her husband and her lover, Camille recounts her life and love affairs.",
+      "plot_pt": "Stanislas é um sociólogo que está a escrever uma tese sobre mulheres criminosas. O seu tema é Camille, uma jovem que cumpre pena de prisão por ter assassinado um dos seus muitos amantes. Camille é também suspeita de ter assassinado o pai e a sogra e de ter tentado matar o marido e o advogado. Através de uma série de entrevistas, Camille conta a história da sua vida e explica como uma rapariga tão bela como ela conseguiu acabar na prisão.",
+      "title_en": "A Gorgeous Girl Like Me",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/8Smr9xgJjULayKV9V04mJkz9OEE.jpg"
+      ],
+      "stills_focus": [
+        40.6
+      ],
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
+    },
+    {
       "id": "trindade_9147",
       "title": "Tio Yanco + Documenteur",
       "director": "Agnès Varda",
@@ -7956,6 +7988,41 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "marjane-satrapi"
+    },
+    {
+      "id": "ideal_o_misterioso_olhar_do_flamingo",
+      "title": "O MISTERIOSO OLHAR DO FLAMINGO",
+      "director": "Diego Céspedes",
+      "year": 2025,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/6/8/8/3/806883-the-mysterious-gaze-of-the-flamingo-0-500-0-750-crop.jpg?v=80b8a9edc9",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=65699",
+      "sessions": [
+        {
+          "date": "2026-08-11",
+          "time": "16:00",
+          "cinema": "ideal"
+        }
+      ],
+      "rating": 3.89,
+      "plot": "As an unknown and deadly disease begins to spread, legend has it that it is transmitted between two men, through a simple glance, when they fall in love. While people are accusing her family, Lidia must find out whether this myth is real or not.",
+      "title_en": "The Mysterious Gaze of the Flamingo",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/kAwN3UWRUWauNK1l4oh7TfdOsJ7.jpg",
+        "https://image.tmdb.org/t/p/w1280/1r3DqFzev9T3rjaUXEaP8R4sRdz.jpg",
+        "https://image.tmdb.org/t/p/w1280/mbZLX2obG8o5NVeZuONO04KrJKz.jpg"
+      ],
+      "stills_focus": [
+        35.3,
+        26.2,
+        36.1
+      ],
+      "country": "Chile",
+      "director_lbxd_slug": "diego-cespedes"
     },
     {
       "id": "ideal_a_saga_de_anatahan",
