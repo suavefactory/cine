@@ -6072,7 +6072,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
       ],
       "stills_focus": [
-        39.6
+        39.4
       ],
       "director_lbxd_slug": "wang-bo"
     },
@@ -6312,7 +6312,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         30.9,
         29.3,
-        39.6
+        30.1
       ],
       "director_lbxd_slug": "tiago-guedes"
     },
@@ -6343,7 +6343,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
       ],
       "stills_focus": [
-        37.3
+        37.2
       ],
       "director_lbxd_slug": "marta-mateus"
     },
@@ -6440,7 +6440,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
       ],
       "stills_focus": [
-        50.9
+        51.4
       ],
       "director_lbxd_slug": "yann-gonzalez"
     },
@@ -6581,8 +6581,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.2,
-        40.8
+        30.3,
+        40.6
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
@@ -6785,7 +6785,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.3
+        46.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -6851,7 +6851,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
       ],
       "stills_focus": [
-        36.0
+        37.3
       ],
       "director_lbxd_slug": "liliane-de-kermadec"
     },
