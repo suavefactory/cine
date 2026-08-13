@@ -39978,7 +39978,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -42518,7 +42518,7 @@
     "tmdb_id": "1104067",
     "wiki_tries": 3,
     "stills_focus": [
-      39.4
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
@@ -43401,8 +43401,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.3,
-      40.6
+      30.2,
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -49065,7 +49065,7 @@
       "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
     ],
     "tmdb_id": "324088",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Soy Cuba|1964": {
     "lbxd": {
@@ -49481,7 +49481,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Saturday Night Fever",
+      "imdb_id": "tt0076666",
+      "extract_pt": "Saturday Night Fever (no Brasil, Os Embalos de Sábado à Noite; em Portugal, Febre de Sábado à Noite) é um filme americano de 1977, um drama musical produzido por Robert Stigwood, dirigido por John Badham e com roteiro de Norman Wexler baseado em um artigo do jornalista Nick Cohn para o jornal The New York Times."
+    },
     "cinema": {
       "plot_pt": "Outro dos grandes filmes de Mulligan, rodado no mesmo ano de BABY THE RAIN MUST FALL. Um filme de época, que retrata a Hollywood e o “star system” dos anos 30 e 40 seguindo o percurso de Daisy Clover (Natalie Wood) entre a sua chegada à “cidade dos sonhos” e a sua transformação em estrela de primeira grandeza. Mulligan definiu o filme como “um pesadelo frio”, descrevendo a história de Daisy como uma espécie de desalmada manipulação da personalidade. Mal recebido à época, resistiu muito bem ao tempo e hoje é comum vê-lo escolhido para figurar no melhor da filmografia de Mulligan. A exibir em cópia 35mm."
     },
@@ -49496,6 +49500,7 @@
       "https://image.tmdb.org/t/p/w1280/zG9cefBYXTVjaZ6P82oKE5vQ75.jpg",
       "https://image.tmdb.org/t/p/w1280/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg"
     ],
-    "tmdb_id": "11009"
+    "tmdb_id": "11009",
+    "wiki_tries": 1
   }
 }
