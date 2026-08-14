@@ -1422,5 +1422,10 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JohnBadhamQA.jpg/500px-JohnBadhamQA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "John Badham (born August 29, 1939) is an American film and television director, best known for directing the films Saturday Night Fever (1977), Dracula (1979), Blue Thunder (1983), WarGames (1983), Short Circuit (1986), Stakeout (1987), Bird on a Wire (1990), The Hard Way (1991), Point of No Return (1993), Drop Zone (1994), and Nick of Time (1995). He is a two-time Primetime Emmy Award nominee, a two-time Hugo Award nominee, and a Saturn Award winner. He is also a Professor at Chapman University.",
     "tries": 1
+  },
+  "Hugo Salvaterra": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }
