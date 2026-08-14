@@ -39978,7 +39978,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -43077,7 +43077,7 @@
     "tmdb_id": "288893",
     "wiki_tries": 3,
     "stills_focus": [
-      40.7
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fttclxll4YM5DDrqKaTzYoHJkyG.jpg"
@@ -49504,6 +49504,41 @@
     "wiki_tries": 1
   },
   "MEU SEMBA|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/4/7/6/3/1404763-my-semba-0-500-0-750-crop.jpg?v=c92f2a25ca",
+      "description": "X, a young man navigating the intensity of life in Luanda — a city that mirrors the energy and contradictions of many African megacities. Alongside his siblings, Lele and Maria, he takes refuge in art, wrestles with faith, and draws strength from the bond of brotherhood. Together, they find release in the underground — from poetry slams to clandestine clubs — where words become weapons of resilience.",
+      "genres": [
+        "Music",
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Angola",
+      "lb_director": "Hugo Salvaterra",
+      "lb_director_slug": "hugo-salvaterra",
+      "lb_year": 2026,
+      "lb_title": "My Semba",
+      "backdrop": null,
+      "imdb_id": "tt39075246",
+      "tmdb_id": "1529846"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      13.4,
+      43.3,
+      44.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/48p2es2PiqC9QUjzgQh2keuIflx.jpg",
+      "https://image.tmdb.org/t/p/w1280/99YYXWrA5TzXN8uWc6HxBX4j7gr.jpg",
+      "https://image.tmdb.org/t/p/w1280/89vGCy3V0Tc3a04lrHzOd69VXcN.jpg"
+    ],
+    "tmdb_id": "1529846"
+  },
+  "MEU SEMBA|2026": {
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/4/7/6/3/1404763-my-semba-0-500-0-750-crop.jpg?v=c92f2a25ca",
