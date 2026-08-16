@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -39978,7 +39978,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -41506,7 +41506,7 @@
     "dir_checked": true,
     "stills_focus": [
       12.1,
-      26.7
+      26.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/9raenDlb8r15wapTziwQhg6yVgh.jpg",
@@ -43401,8 +43401,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.3,
-      40.6
+      30.2,
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -44629,7 +44629,11 @@
       "country": "USA",
       "lb_director": "Francis Ford Coppola",
       "lb_director_slug": "francis-ford-coppola",
-      "lb_year": 1983
+      "lb_year": 1983,
+      "lb_title": "The Outsiders",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/nd/ck/d7/si/the-outsiders-1920-1920-1080-1080-crop-000000.jpg?v=3f0b3af524",
+      "imdb_id": "tt0086066",
+      "tmdb_id": "227"
     },
     "omdb": {
       "Title": "The Outsiders",
@@ -44670,7 +44674,25 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": {
+      "title_en": "The Outsiders (film)",
+      "imdb_id": "tt0086066",
+      "extract_pt": "The Outsiders (Brasil: Vidas Sem Rumo / Portugal: Os Marginais) é um filme dramático de 1983 sobre amadurecimento, dirigido por Francis Ford Coppola, uma adaptação do romance de 1967 de mesmo nome, de S. E. Hinton. O filme foi lançado em 25 de março de 1983. Jo Ellen Misakian, bibliotecária da Lone Star Elementary School em Fresno, Califórnia, e seus alunos foram responsáveis por inspirar Coppola a fazer o filme.\nO filme é conhecido por seu elenco de estrelas promissoras, incluindo C. Thomas Howell (que recebeu o Young Artist Award), Rob Lowe, Emilio Estévez, Matt Dillon, Tom Cruise, Patrick Swayze, Ralph Macchio e Diane Lane. ."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.0,
+      37.1,
+      50.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
+      "https://image.tmdb.org/t/p/w1280/zIix6zkLAYRPV3Kek6igLsx2rE6.jpg",
+      "https://image.tmdb.org/t/p/w1280/ttPLjJ8qRaQQsUZoUFYvYBuAUTj.jpg"
+    ],
+    "tmdb_id": "227"
   },
   "Rebel Without A Cause|1955": {
     "lbxd": {
