@@ -32889,7 +32889,7 @@
     },
     "tmdb_id": "31332",
     "stills_focus": [
-      30.1
+      30.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
@@ -33443,9 +33443,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      43.3,
-      36.8,
-      50.5
+      43.4,
+      36.9,
+      50.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
@@ -38138,7 +38138,7 @@
     "tmdb_id": "283514",
     "wiki_tries": 3,
     "stills_focus": [
-      47.0
+      47.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
@@ -39652,7 +39652,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      34.0
+      33.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
@@ -44707,7 +44707,11 @@
       "country": "USA",
       "lb_director": "Nicholas Ray",
       "lb_director_slug": "nicholas-ray",
-      "lb_year": 1955
+      "lb_year": 1955,
+      "lb_title": "Rebel Without a Cause",
+      "backdrop": null,
+      "imdb_id": "tt0048545",
+      "tmdb_id": "221"
     },
     "omdb": {
       "Title": "Rebel Without a Cause",
@@ -44748,7 +44752,23 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "THE LAST PICTURE SHOW forma com TEXASVILLE o díptico cinéfilo e texano de Peter Bogdanovich com Jeff Bridges, Cybill Shepherd e Timothy Bottoms. A ação do primeiro recua a 1951 para seguir a vida de um grupo de adolescentes numa pequena cidade do Texas. Retratam-se a passagem para a idade adulta, as primeiras desilusões e o fim de uma época, representados pelo encerramento da única sala de cinema da localidade e pelo embarque de alguns para a guerra na Coreia. Requiem pelo cinema clássico americano e alegoria dos dramas presentes em 1971, com a Coreia sugerindo o Vietname, num filme melancólico e magnífico. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      45.3,
+      49.2,
+      32.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/iRUBsjkPeK21nlHqH4szJCz2Ma1.jpg",
+      "https://image.tmdb.org/t/p/w1280/9EH3OSdW2ILqG665Y0vbiz4Sd2x.jpg",
+      "https://image.tmdb.org/t/p/w1280/oaRdRdqahtSvHK6VkOphVwGtPRN.jpg"
+    ],
+    "tmdb_id": "221"
   },
   "Splendor In The Grass|1961": {
     "lbxd": {
@@ -48287,7 +48307,7 @@
     "tmdb_id": "27470",
     "wiki_tries": 1,
     "stills_focus": [
-      14.6,
+      14.4,
       17.2
     ],
     "stills": [
