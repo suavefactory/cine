@@ -39978,7 +39978,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      38.9
+      39.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -44753,7 +44753,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Rebel Without a Cause",
+      "imdb_id": "tt0048545",
+      "extract_pt": "Rebel Without a Cause (bra: Juventude Transviada; prt: Fúria de Viver) é um filme norte-americano de 1955, do gênero drama, dirigido por Nicholas Ray."
+    },
     "cinema": {
       "plot_pt": "THE LAST PICTURE SHOW forma com TEXASVILLE o díptico cinéfilo e texano de Peter Bogdanovich com Jeff Bridges, Cybill Shepherd e Timothy Bottoms. A ação do primeiro recua a 1951 para seguir a vida de um grupo de adolescentes numa pequena cidade do Texas. Retratam-se a passagem para a idade adulta, as primeiras desilusões e o fim de uma época, representados pelo encerramento da única sala de cinema da localidade e pelo embarque de alguns para a guerra na Coreia. Requiem pelo cinema clássico americano e alegoria dos dramas presentes em 1971, com a Coreia sugerindo o Vietname, num filme melancólico e magnífico. A exibir em cópia 35mm."
     },
@@ -44768,7 +44772,8 @@
       "https://image.tmdb.org/t/p/w1280/9EH3OSdW2ILqG665Y0vbiz4Sd2x.jpg",
       "https://image.tmdb.org/t/p/w1280/oaRdRdqahtSvHK6VkOphVwGtPRN.jpg"
     ],
-    "tmdb_id": "221"
+    "tmdb_id": "221",
+    "wiki_tries": 1
   },
   "Splendor In The Grass|1961": {
     "lbxd": {
@@ -46497,7 +46502,7 @@
     "dir_checked": true,
     "stills_focus": [
       38.1,
-      43.6,
+      44.6,
       42.4
     ],
     "stills": [
@@ -46571,8 +46576,8 @@
     },
     "tmdb_id": "94771",
     "stills_focus": [
-      34.6,
-      36.0
+      34.8,
+      36.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oP6Eik48JT6YeGeEmVgyumP6ZVd.jpg",
@@ -47158,9 +47163,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.3,
-      27.9,
-      23.6
+      35.2,
+      28.0,
+      23.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
@@ -47689,7 +47694,7 @@
     "tmdb_id": "48599",
     "wiki_tries": 3,
     "stills_focus": [
-      35.1
+      35.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
@@ -48335,7 +48340,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      40.6
+      40.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
