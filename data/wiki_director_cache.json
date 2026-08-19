@@ -1427,5 +1427,10 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Sofia Exarchou": {
+    "photo": null,
+    "bio": "Greek film director",
+    "tries": 1
   }
 }

@@ -39978,7 +39978,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -48340,7 +48340,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      40.5
+      40.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
@@ -49114,7 +49114,7 @@
       "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
     ],
     "tmdb_id": "324088",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Soy Cuba|1964": {
     "lbxd": {
@@ -49621,5 +49621,80 @@
       "https://image.tmdb.org/t/p/w1280/89vGCy3V0Tc3a04lrHzOd69VXcN.jpg"
     ],
     "tmdb_id": "1529846"
+  },
+  "Animal|2023": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/0/6/4/5/800645-animal-0-500-0-750-crop.jpg?v=d4791392e7",
+      "description": "Under the hot Greek sun, animators at an all-inclusive island resort prepare for the busy tourist season. Kalia is the group leader. Paper decorations, glossy costumes and dance shows fill the stage. As summer intensifies and the work pressure builds up, their nights become violent and Kalia's struggle is revealed in the darkness. But when the spotlights turn on again, the show must go on.",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "country": "Austria",
+      "lb_director": "Sofia Exarchou",
+      "lb_director_slug": "sofia-exarchou",
+      "lb_year": 2023,
+      "lb_title": "Animal",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wx/dy/o1/o3/42Ww1gJyaULIVWnUnUDMOmXnqKu-1920-1920-1080-1080-crop-000000.jpg?v=51156fe64e",
+      "imdb_id": "tt26342791",
+      "tmdb_id": "889821"
+    },
+    "omdb": {
+      "Title": "Animal",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "08 Feb 2024",
+      "Runtime": "116 min",
+      "Genre": "Drama",
+      "Director": "Sofia Exarchou",
+      "Writer": "Sofia Exarchou",
+      "Actors": "Dimitra Vlagopoulou, Flomaria Papadaki, Ahilleas Hariskos",
+      "Plot": "A group of performers spend an increasingly wild summer working at the Hotel Mirage.",
+      "Language": "Greek, English, German",
+      "Country": "Greece, Austria, Bulgaria, Cyprus, Romania",
+      "Awards": "15 wins & 18 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NjRiMDktYTdhNy00MDI4LTg5ODQtMmY4OGI2MmI2MGUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "26%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "685",
+      "imdbID": "tt26342791",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2023,
+      "country": "Áustria, Bulgária, Chipre, Grécia e Romênia",
+      "plot_pt": "Sob o sol quente da Grécia, os animadores de uma estância balnear com tudo incluído preparam-se para a época turística. Kalia é a líder do grupo. Decorações de papel, fatos brilhantes e espectáculos de dança enchem o palco. À medida que o verão se intensifica e a pressão do trabalho aumenta, as suas noites tornam-se violentas e a luta de Kalia revela-se na escuridão. Mas quando os holofotes se acendem de novo, o espetáculo tem de continuar."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.2,
+      35.4,
+      24.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/42Ww1gJyaULIVWnUnUDMOmXnqKu.jpg",
+      "https://image.tmdb.org/t/p/w1280/wLpcKsACaTT20yXFG9jyG5hPyrt.jpg",
+      "https://image.tmdb.org/t/p/w1280/hjwKqlF62IjjOQZNnHUCxCJFFh0.jpg"
+    ],
+    "tmdb_id": "889821"
   }
 }
