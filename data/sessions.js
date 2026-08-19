@@ -6354,7 +6354,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.3
+        46.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -6420,7 +6420,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
       ],
       "stills_focus": [
-        36.0
+        37.3
       ],
       "director_lbxd_slug": "liliane-de-kermadec"
     },
@@ -6516,7 +6516,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
       ],
       "stills_focus": [
-        33.3
+        33.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -7314,8 +7314,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/89vGCy3V0Tc3a04lrHzOd69VXcN.jpg"
       ],
       "stills_focus": [
-        13.4,
-        43.3,
+        13.3,
+        43.4,
         44.5
       ],
       "country": "Angola",
