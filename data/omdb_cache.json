@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -39978,7 +39978,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -43747,7 +43747,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -49696,6 +49696,6 @@
       "https://image.tmdb.org/t/p/w1280/hjwKqlF62IjjOQZNnHUCxCJFFh0.jpg"
     ],
     "tmdb_id": "889821",
-    "wiki_tries": 1
+    "wiki_tries": 2
   }
 }
