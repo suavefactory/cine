@@ -46359,7 +46359,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.4
+      33.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
@@ -49611,8 +49611,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      13.3,
-      43.4,
+      13.4,
+      43.3,
       44.5
     ],
     "stills": [
@@ -49696,6 +49696,6 @@
       "https://image.tmdb.org/t/p/w1280/hjwKqlF62IjjOQZNnHUCxCJFFh0.jpg"
     ],
     "tmdb_id": "889821",
-    "wiki_tries": 2
+    "wiki_tries": 3
   }
 }
