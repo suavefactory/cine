@@ -3998,7 +3998,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
       ],
       "stills_focus": [
-        38.9
+        39.2
       ],
       "director_lbxd_slug": "milos-forman"
     },
@@ -5827,7 +5827,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
       ],
       "stills_focus": [
-        37.3
+        37.2
       ],
       "director_lbxd_slug": "marta-mateus"
     },
@@ -5924,7 +5924,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
       ],
       "stills_focus": [
-        50.9
+        51.4
       ],
       "director_lbxd_slug": "yann-gonzalez"
     },
@@ -6065,8 +6065,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.2,
-        40.8
+        30.3,
+        40.6
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
