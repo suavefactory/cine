@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -39425,7 +39425,8 @@
       "https://image.tmdb.org/t/p/w1280/c38ixH1IUuJiP9jqnPR3gjXlmSx.jpg",
       "https://image.tmdb.org/t/p/w1280/9lda8jZnRFy7jnGj066gdEPxhVS.jpg"
     ],
-    "tmdb_id": "4558"
+    "tmdb_id": "4558",
+    "wiki_tries": 1
   },
   "Craig’s Wife|1936": {
     "lbxd": {
