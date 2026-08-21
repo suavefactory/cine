@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.3
+      46.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -39356,14 +39356,76 @@
     ]
   },
   "Orpheus|1950": {
-    "lbxd": null,
-    "omdb": null,
+    "lbxd": {
+      "rating": 4.07,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/4/9/49249-orpheus-0-500-0-750-crop.jpg?v=931eb24ed6",
+      "description": "A famous poet in postwar Paris, scorned by the Left Bank youth, is in love with both his wife Eurydice and a mysterious princess. Seeking inspiration, the poet becomes obsessed and follows the princess from the world of the living to the land of the dead.",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Jean Cocteau",
+      "lb_director_slug": "jean-cocteau",
+      "lb_year": 1950,
+      "lb_title": "Orpheus",
+      "backdrop": null,
+      "imdb_id": "tt0041719",
+      "tmdb_id": "4558"
+    },
+    "omdb": {
+      "Title": "Orpheus",
+      "Year": "1950",
+      "Rated": "Not Rated",
+      "Released": "29 Nov 1950",
+      "Runtime": "112 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Jean Cocteau",
+      "Writer": "Jean Cocteau",
+      "Actors": "Jean Marais, François Périer, María Casares",
+      "Plot": "A poet in love with Death follows his unhappy wife into the underworld.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "Nominated for 1 BAFTA Award2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDljNWY2ZGUtZWQ1ZS00ZmEyLTk1NTAtZDhjNGY5YjNiNTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "14,165",
+      "imdbID": "tt0041719",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {
       "plot_pt": "Orphée é uma releitura poética, onírica e modernista da lenda de Orfeu, transportada para a Paris do pós-guerra. O filme — com fotografia de extraordinária elegância e efeitos especiais inventivos — acompanha o músico e poeta Orfeu (Jean Marais) numa viagem sobrenatural pelas dimensões dos vivos e dos mortos. É entre estas que encontra uma misteriosa princesa. Combinando romance, fantasia e tragédia, Jean Cocteau constrói uma meditação singular sobre amor, criação artística e mortalidade, transformando o cinema num portal poético entre mundos, tal como os espelhos que evoca."
     },
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      35.8,
+      36.1,
+      51.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/umPOtBQB2GT7c1UZNeQm2n9skKP.jpg",
+      "https://image.tmdb.org/t/p/w1280/c38ixH1IUuJiP9jqnPR3gjXlmSx.jpg",
+      "https://image.tmdb.org/t/p/w1280/9lda8jZnRFy7jnGj066gdEPxhVS.jpg"
+    ],
+    "tmdb_id": "4558"
   },
   "Craig’s Wife|1936": {
     "lbxd": {
@@ -39978,7 +40040,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -43015,7 +43077,7 @@
     "tmdb_id": "460646",
     "wiki_tries": 3,
     "stills_focus": [
-      37.2
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
@@ -43207,7 +43269,7 @@
     "tmdb_id": "295039",
     "wiki_tries": 3,
     "stills_focus": [
-      51.4
+      50.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
@@ -43401,8 +43463,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.3,
-      40.6
+      30.2,
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -49576,8 +49638,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      13.4,
-      43.3,
+      13.3,
+      43.4,
       44.5
     ],
     "stills": [
