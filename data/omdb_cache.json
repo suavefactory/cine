@@ -33443,9 +33443,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      43.4,
-      36.9,
-      50.4
+      43.3,
+      36.8,
+      50.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
@@ -34876,9 +34876,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.2,
-      28.0,
-      23.7
+      35.3,
+      27.9,
+      23.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
@@ -35997,7 +35997,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      28.6,
+      28.8,
       21.8,
       22.0
     ],
@@ -36067,7 +36067,7 @@
     "dir_checked": true,
     "stills_focus": [
       38.1,
-      44.6,
+      43.6,
       42.4
     ],
     "stills": [
@@ -36502,8 +36502,8 @@
     },
     "tmdb_id": "94771",
     "stills_focus": [
-      34.8,
-      36.1
+      34.6,
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oP6Eik48JT6YeGeEmVgyumP6ZVd.jpg",
@@ -38138,7 +38138,7 @@
     "tmdb_id": "283514",
     "wiki_tries": 3,
     "stills_focus": [
-      47.2
+      47.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
@@ -39426,7 +39426,7 @@
       "https://image.tmdb.org/t/p/w1280/9lda8jZnRFy7jnGj066gdEPxhVS.jpg"
     ],
     "tmdb_id": "4558",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Craig’s Wife|1936": {
     "lbxd": {
@@ -39715,7 +39715,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      33.9
+      34.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
@@ -41569,7 +41569,7 @@
     "dir_checked": true,
     "stills_focus": [
       12.1,
-      26.6
+      26.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/9raenDlb8r15wapTziwQhg6yVgh.jpg",
@@ -43013,7 +43013,7 @@
     "stills_focus": [
       30.9,
       29.3,
-      30.1
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yA2fl30o2FkaGItuggq6eRhRZFp.jpg",
@@ -43078,7 +43078,7 @@
     "tmdb_id": "460646",
     "wiki_tries": 3,
     "stills_focus": [
-      37.2
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
@@ -43270,7 +43270,7 @@
     "tmdb_id": "295039",
     "wiki_tries": 3,
     "stills_focus": [
-      51.4
+      50.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
@@ -48375,7 +48375,7 @@
     "tmdb_id": "27470",
     "wiki_tries": 1,
     "stills_focus": [
-      14.4,
+      14.6,
       17.2
     ],
     "stills": [
@@ -48403,7 +48403,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      40.6
+      40.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
@@ -48518,7 +48518,7 @@
   },
   "The Loneliness of Lizards|2025": {
     "lbxd": {
-      "rating": null,
+      "rating": 3.12,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/7/9/7/6/1347976-the-loneliness-of-lizards-2025-0-500-0-750-crop.jpg?v=72fba21170",
       "description": "In a spa surrounded by mountains of salt, guests relax while workers collect the glowing crystals in the sun. Children slip away, a woman drifts through. As night falls, the space transforms, shaped by the desires of its visitors.",
       "genres": [
@@ -48533,33 +48533,7 @@
       "imdb_id": "tt36693344",
       "tmdb_id": "1471316"
     },
-    "omdb": {
-      "Title": "A Solidão dos Lagartos",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "15 min",
-      "Genre": "Short, Drama",
-      "Director": "Inês Nunes",
-      "Writer": "Inês Nunes",
-      "Actors": "José Alexandre, Ana Paula Baioa, Leonor Barb",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "1 nomination total",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt36693344",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -49639,8 +49613,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      13.3,
-      43.4,
+      13.4,
+      43.3,
       44.5
     ],
     "stills": [
