@@ -33443,9 +33443,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      43.3,
-      36.8,
-      50.5
+      43.4,
+      36.9,
+      50.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
@@ -38138,7 +38138,7 @@
     "tmdb_id": "283514",
     "wiki_tries": 3,
     "stills_focus": [
-      47.0
+      47.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
@@ -39426,7 +39426,7 @@
       "https://image.tmdb.org/t/p/w1280/9lda8jZnRFy7jnGj066gdEPxhVS.jpg"
     ],
     "tmdb_id": "4558",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Craig’s Wife|1936": {
     "lbxd": {
@@ -40041,7 +40041,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      38.9
+      39.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -46335,7 +46335,7 @@
     "tmdb_id": "1104067",
     "wiki_tries": 3,
     "stills_focus": [
-      39.4
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
@@ -47757,7 +47757,7 @@
     "tmdb_id": "48599",
     "wiki_tries": 3,
     "stills_focus": [
-      35.1
+      35.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
@@ -48375,7 +48375,7 @@
     "tmdb_id": "27470",
     "wiki_tries": 1,
     "stills_focus": [
-      14.6,
+      14.4,
       17.2
     ],
     "stills": [
@@ -48403,7 +48403,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      40.5
+      40.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
@@ -48545,7 +48545,8 @@
       "https://image.tmdb.org/t/p/w1280/pYF2IBub6de5E6bjALciDIcl5Ee.jpg",
       "https://image.tmdb.org/t/p/w1280/bgh4XGllDiTzFh29RMxe09xk5rf.jpg"
     ],
-    "tmdb_id": "1471316"
+    "tmdb_id": "1471316",
+    "wiki_tries": 1
   },
   "One Summer's Dream|2020": {
     "lbxd": null,
