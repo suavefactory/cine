@@ -789,9 +789,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
       ],
       "stills_focus": [
-        35.2,
-        28.0,
-        23.7
+        35.3,
+        27.9,
+        23.6
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
