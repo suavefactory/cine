@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.3
+      46.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -43810,7 +43810,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      36.0
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -49798,7 +49798,8 @@
       "https://image.tmdb.org/t/p/w1280/o6XIF2oHxbVJqcm1r5XjZf36Rsx.jpg",
       "https://image.tmdb.org/t/p/w1280/cOxgzICjKtqrJbax8GaRFt49B9O.jpg"
     ],
-    "tmdb_id": "1480321"
+    "tmdb_id": "1480321",
+    "wiki_tries": 1
   },
   "Adolescência, Sexo e Morte No Campo Miasma|2026": {
     "lbxd": {
@@ -49873,7 +49874,8 @@
       "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
       "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
     ],
-    "tmdb_id": "1240889"
+    "tmdb_id": "1240889",
+    "wiki_tries": 1
   },
   "Natal Amargo|2026": {
     "lbxd": {
@@ -49938,9 +49940,39 @@
       "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
       "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
     ],
-    "tmdb_id": "1088548"
+    "tmdb_id": "1088548",
+    "wiki_tries": 1
   },
   "ÁGUA MÃE|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/8/0/1/0/1438010-agua-mae-0-500-0-750-crop.jpg?v=f9edfb256f",
+      "description": "Mértola, the Guadiana River, a place of ancient watermills, where flour for bread was milled. A place where birds live and people relax. Fishing boats pass by and the fish leap. The tide rises and falls, with the atmosphere changing every day. The color of the water and the landscape vary throughout the year. At the same time, Manuela Barros Ferreira left us a piece of writing entitled: “Soul”. Why do we gaze at the river?",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Hiroatsu Suzuki",
+      "lb_director_slug": "hiroatsu-suzuki",
+      "lb_year": 2025,
+      "lb_title": "Água Mãe",
+      "backdrop": null,
+      "imdb_id": "tt38865778",
+      "tmdb_id": "1565146"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/i2yn4PusvC2RN5JVNQmCIIkhxK0.jpg"
+    ],
+    "tmdb_id": "1565146"
+  },
+  "ÁGUA MÃE|2025": {
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/8/0/1/0/1438010-agua-mae-0-500-0-750-crop.jpg?v=f9edfb256f",
