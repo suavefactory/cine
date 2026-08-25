@@ -49735,5 +49735,238 @@
     ],
     "tmdb_id": "889821",
     "wiki_tries": 3
+  },
+  "Morte e Vida Madalena|2025": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/7/1/4/7/1357147-death-and-life-madalena-0-500-0-750-crop.jpg?v=f4c1abb968",
+      "description": "Madalena is a film producer having to deal with the recent death of her father, her 8-month pregnancy and the production of a B-sci-fi film where everything seems to go wrong.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Guto Parente",
+      "lb_director_slug": "guto-parente",
+      "lb_year": 2025,
+      "lb_title": "Death and Life Madalena",
+      "backdrop": null,
+      "imdb_id": "tt37186231",
+      "tmdb_id": "1480321"
+    },
+    "omdb": {
+      "Title": "Morte e Vida Madalena",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "10 Jul 2025",
+      "Runtime": "85 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Guto Parente",
+      "Writer": "Guto Parente",
+      "Actors": "Noá Bonoba, Nataly Rocha, Tavinho Teixeira",
+      "Plot": "Madalena is a film producer having to deal with the recent death of her father, her 8-months pregnancy and the production of a B-sci-fi film where everything seems to go wrong.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37186231",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2025,
+      "country": "Brasil e Portugal",
+      "plot_pt": "Madalena é uma produtora de cinema que tem que lidar com a recente morte de seu pai, sua gravidez de 8 meses e a produção de um filme de ficção científica B onde tudo parece dar errado."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.8,
+      29.8,
+      43.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1DlC1Enn7wGG3B99m3fB66r53r1.jpg",
+      "https://image.tmdb.org/t/p/w1280/o6XIF2oHxbVJqcm1r5XjZf36Rsx.jpg",
+      "https://image.tmdb.org/t/p/w1280/cOxgzICjKtqrJbax8GaRFt49B9O.jpg"
+    ],
+    "tmdb_id": "1480321"
+  },
+  "Adolescência, Sexo e Morte No Campo Miasma|2026": {
+    "lbxd": {
+      "rating": 3.84,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
+      "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Jane Schoenbrun",
+      "lb_director_slug": "jane-schoenbrun",
+      "lb_year": 2026,
+      "lb_title": "Teenage Sex and Death at Camp Miasma",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/7m/h0/iq/dx/5dbLRlAeIh4U3hyj4i4S4shv9AW-1920-1920-1080-1080-crop-000000.jpg?v=4f87c8fe02",
+      "imdb_id": "tt35298123",
+      "tmdb_id": "1240889"
+    },
+    "omdb": {
+      "Title": "Teenage Sex and Death at Camp Miasma",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "07 Aug 2026",
+      "Runtime": "112 min",
+      "Genre": "Drama, Horror, Romance",
+      "Director": "Jane Schoenbrun",
+      "Writer": "Jane Schoenbrun",
+      "Actors": "Gillian Anderson, Hannah Einbinder, Patrick Fischler",
+      "Plot": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+      "Language": "English",
+      "Country": "United States, Canada, United Kingdom",
+      "Awards": "2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "7.1",
+      "imdbVotes": "912",
+      "imdbID": "tt35298123",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "original_title": "Teenage Sex and Death at Camp Miasma",
+      "country": "Canadá, Reino Unido e Estados Unidos",
+      "plot_pt": "Um slasher queer protagonizado por Hannah Einbinder e Gillian Anderson, que tem conquistado crítica e público desde a sua estreia no festival de Cannes onde venceu a Queer Palm. Após anos de sequelas e fãs de terror em declínio, Camp Miasma é entregue a uma jovem realizadora entusiasmada por uma ressurreição. No entanto, quando visita a protagonista original do filme, uma actriz envolta em mistério, as duas mulheres mergulham num mundo sangrento de desejo, medo e delírio. E uma nova espécie de slasher emerge do fundo do lago."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      13.7,
+      12.8,
+      24.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
+      "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+      "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
+    ],
+    "tmdb_id": "1240889"
+  },
+  "Natal Amargo|2026": {
+    "lbxd": {
+      "rating": 3.16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-500-0-750-crop.jpg?v=e53e0d2801",
+      "description": "In 2025 Spain, a celebrated film director struggles to write the screenplay for an autofictional film set in 2004 Spain about an unsuccessful movie director turned director of commercials who suffers a panic attack that forces her to take a break by visiting the Canary Islands, where she begins work on a new film.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Spain",
+      "lb_director": "Pedro Almodóvar",
+      "lb_director_slug": "pedro-almodovar",
+      "lb_year": 2026,
+      "lb_title": "Bitter Christmas",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/1/4/3/7/tmdb/5BEVBLecjLWzZtfA920waEsHF6o-1920-1920-1080-1080-crop-000000.jpg?v=640a8c814d",
+      "imdb_id": "tt28088049",
+      "tmdb_id": "1088548"
+    },
+    "omdb": {
+      "Title": "Amarga Navidad",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Pedro Almodóvar",
+      "Writer": "Pedro Almodóvar",
+      "Actors": "Victoria Luengo, Patrick Criado",
+      "Plot": "A woman being abandoned by her partner during Christmas time.",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt28088049",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "original_title": "Amarga Navidad",
+      "country": "panha",
+      "plot_pt": "A história centra-se em Elsa, uma diretora de publicidade cuja mãe morre durante a época natalícia. Incapaz de enfrentar o luto, afunda-se no trabalho, tentando fugir à dor da perda. Quando um ataque de pânico a força a abrandar, Elsa decide fazer uma pausa e viajar para a ilha de Lanzarote, nas Ilhas Canárias, com a sua amiga Patrícia, enquanto o seu companheiro Bonifacio permanece em Madrid. Em paralelo, o filme acompanha Raúl Durán, um argumentista e realizador cinematográfico, e explora a interseção entre a vida e a ficção, misturando as experiências pessoais dos personagens com elementos narrativos reflexivos típicos do universo de Almodóvar."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.5,
+      40.0,
+      24.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+      "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
+      "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
+    ],
+    "tmdb_id": "1088548"
+  },
+  "ÁGUA MÃE|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/8/0/1/0/1438010-agua-mae-0-500-0-750-crop.jpg?v=f9edfb256f",
+      "description": "Mértola, the Guadiana River, a place of ancient watermills, where flour for bread was milled. A place where birds live and people relax. Fishing boats pass by and the fish leap. The tide rises and falls, with the atmosphere changing every day. The color of the water and the landscape vary throughout the year. At the same time, Manuela Barros Ferreira left us a piece of writing entitled: “Soul”. Why do we gaze at the river?",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Hiroatsu Suzuki",
+      "lb_director_slug": "hiroatsu-suzuki",
+      "lb_year": 2025,
+      "lb_title": "Água Mãe",
+      "backdrop": null,
+      "imdb_id": "tt38865778",
+      "tmdb_id": "1565146"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/i2yn4PusvC2RN5JVNQmCIIkhxK0.jpg"
+    ],
+    "tmdb_id": "1565146"
   }
 }
