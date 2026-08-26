@@ -49644,7 +49644,35 @@
       "imdb_id": "tt39075246",
       "tmdb_id": "1529846"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "The Wonderfully Weird World of Gumball",
+      "Year": "2025–",
+      "Rated": "TV-PG",
+      "Released": "28 Jul 2025",
+      "Runtime": "N/A",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "N/A",
+      "Writer": "Ben Bocquelet",
+      "Actors": "Alkaio Thiele, Hero Hunter, Teresa Gallagher",
+      "Plot": "In Elmore, reality bends and family life gets weird. Gumball pulls Darwin, Anais, and the whole town into adventures - from fighting evil fast food to dealing with an AI crushing on his mom. The show's so wild, it needed a new name.",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States, Germany",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwMThiODYtOTg5ZC00ZWQ3LWJlMmUtOWZjNjBhN2UxN2Q4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "4,038",
+      "imdbID": "tt36985473",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -49799,7 +49827,7 @@
       "https://image.tmdb.org/t/p/w1280/cOxgzICjKtqrJbax8GaRFt49B9O.jpg"
     ],
     "tmdb_id": "1480321",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Adolescência, Sexo e Morte No Campo Miasma|2026": {
     "lbxd": {
@@ -49875,7 +49903,7 @@
       "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
     ],
     "tmdb_id": "1240889",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Natal Amargo|2026": {
     "lbxd": {
@@ -49941,7 +49969,7 @@
       "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
     ],
     "tmdb_id": "1088548",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "ÁGUA MÃE|None": {
     "lbxd": {
@@ -50015,7 +50043,33 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Água Mãe",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "20 Oct 2025",
+      "Runtime": "72 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rossana Torres",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38865778",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -50128,7 +50182,8 @@
       "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
       "https://image.tmdb.org/t/p/w1280/e4pEom4jYE9hagj8dgKarCSBx2e.jpg"
     ],
-    "tmdb_id": "104776"
+    "tmdb_id": "104776",
+    "wiki_tries": 1
   },
   "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles|1975": {
     "lbxd": {
@@ -50187,7 +50242,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+      "imdb_id": "tt0073198",
+      "extract_pt": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles (bra: Jeanne Dielman) é um filme de drama franco-belga escrito e dirigido por Chantal Akerman, lançado em 1975. Foi filmado ao longo de cinco semanas em Bruxelas e financiado por uma bolsa concedida pelo governo belga. Caracterizado por um ritmo contido, tomadas longas e trabalho de câmera estática, o filme é uma representação da vida de uma dona de casa viúva (Delphine Seyrig) ao longo de três dias."
+    },
     "cinema": {
       "year": 1975,
       "country": "França e Bélgica",
@@ -50204,6 +50263,7 @@
       "https://image.tmdb.org/t/p/w1280/qKAsCqW3Z0fGMASemMWKf2PNb0w.jpg",
       "https://image.tmdb.org/t/p/w1280/sJ3JJUw8a5arzDZwGpymOmin9me.jpg"
     ],
-    "tmdb_id": "44012"
+    "tmdb_id": "44012",
+    "wiki_tries": 1
   }
 }
