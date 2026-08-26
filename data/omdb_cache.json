@@ -38273,7 +38273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -43810,7 +43810,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -49799,7 +49799,7 @@
       "https://image.tmdb.org/t/p/w1280/cOxgzICjKtqrJbax8GaRFt49B9O.jpg"
     ],
     "tmdb_id": "1480321",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Adolescência, Sexo e Morte No Campo Miasma|2026": {
     "lbxd": {
@@ -49875,7 +49875,7 @@
       "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
     ],
     "tmdb_id": "1240889",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Natal Amargo|2026": {
     "lbxd": {
@@ -49941,7 +49941,7 @@
       "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
     ],
     "tmdb_id": "1088548",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "ÁGUA MÃE|None": {
     "lbxd": {
@@ -49960,7 +49960,33 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Água Mãe",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "20 Oct 2025",
+      "Runtime": "72 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rossana Torres",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38865778",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -50000,5 +50026,184 @@
       "https://image.tmdb.org/t/p/w1280/i2yn4PusvC2RN5JVNQmCIIkhxK0.jpg"
     ],
     "tmdb_id": "1565146"
+  },
+  "O Jacaré|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/0/4/1595104-o-jacare-0-500-0-750-crop.jpg?v=6946c88ad3",
+      "description": "Reboleira, a suburb of Lisbon. After a robbery gone wrong, a car ends up crashed right in the middle of the neighborhood. The driver is arrested, but the €180,000 that were stolen have vanished. Within the area sealed off by the police, rumors spread and speculations run wild. Among the residents, a whole cast of colorful characters dream of getting their hands on the loot. Who will the first to get their hands on it?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Switzerland",
+      "lb_director": "Basil da Cunha",
+      "lb_director_slug": "basil-da-cunha",
+      "lb_year": 2026,
+      "lb_title": "O Jacaré",
+      "backdrop": null,
+      "imdb_id": "tt18376344",
+      "tmdb_id": "1728711"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.1,
+      28.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bfxmI0BcpsBsLG068qhLabBOX9i.jpg",
+      "https://image.tmdb.org/t/p/w1280/z6K25AJk9iRWezWgGQFNcAmddeQ.jpg"
+    ],
+    "tmdb_id": "1728711"
+  },
+  "A Saga de Anatahan|1953": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/7/9/6/84796-anatahan-0-500-0-750-crop.jpg?v=eb8774806f",
+      "description": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "Japan",
+      "lb_director": "Josef von Sternberg",
+      "lb_director_slug": "josef-von-sternberg",
+      "lb_year": 1953,
+      "lb_title": "Anatahan",
+      "backdrop": null,
+      "imdb_id": "tt0046712",
+      "tmdb_id": "104776"
+    },
+    "omdb": {
+      "Title": "Anatahan",
+      "Year": "1953",
+      "Rated": "PG",
+      "Released": "28 Jun 1953",
+      "Runtime": "91 min",
+      "Genre": "Drama, History, War",
+      "Director": "Josef von Sternberg",
+      "Writer": "Michiro Maruyama, Tatsuo Asano, Josef von Sternberg",
+      "Actors": "Akemi Negishi, Tadashi Suganuma, Kisaburo Sawamura",
+      "Plot": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "Language": "Japanese, English",
+      "Country": "Japan",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVkZmMyOTItY2YzNy00NGFiLWJmOWQtOWY2MTgwMjJkMjg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "1,395",
+      "imdbID": "tt0046712",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,171",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1953,
+      "plot_pt": "Durante a Segunda Guerra Mundial, quinze marinheiros sobrevivem ao bombardeamento do seu navio e ficam isolados na ilha remota de Anatahan. A guerra chega ao fim – facto que desconhecem – e continuam a sua própria guerra, pelo domínio da ilha e pela posse da única mulher entre eles, Keiko, a Abelha-Mestra de Anatahan."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.3,
+      33.3,
+      23.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/eKLHQ9YOpeRwBcYXH2GGLOg7AdC.jpg",
+      "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
+      "https://image.tmdb.org/t/p/w1280/e4pEom4jYE9hagj8dgKarCSBx2e.jpg"
+    ],
+    "tmdb_id": "104776"
+  },
+  "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles|1975": {
+    "lbxd": {
+      "rating": 4.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/9/21149-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0-500-0-750-crop.jpg?v=952ed786ed",
+      "description": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1975,
+      "lb_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/0q/ih/qs/bg/jeannedielman-1920-1920-1080-1080-crop-000000.jpg?v=fcd1013a5e",
+      "imdb_id": "tt0073198",
+      "tmdb_id": "44012"
+    },
+    "omdb": {
+      "Title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "Year": "1975",
+      "Rated": "Not Rated",
+      "Released": "21 Jan 1976",
+      "Runtime": "202 min",
+      "Genre": "Drama",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "Delphine Seyrig, Jan Decorte, Henri Storck",
+      "Plot": "A lonely widowed housewife does her daily chores, takes care of her apartment where she lives with her teenage son, and turns the occasional trick to make ends meet, but something happens that changes her safe routine.",
+      "Language": "French",
+      "Country": "Belgium, France",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDNlYWVhYjctNTIzNi00NGJhLWFmNzYtZTVmOWUxNmYwM2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.5",
+      "imdbVotes": "16,628",
+      "imdbID": "tt0073198",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$19,858",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1975,
+      "country": "França e Bélgica",
+      "plot_pt": "Três dias na vida de Jeanne Dielman, mulher e mãe — é a partir desta premissa que Chantal Akerman constrói o seu filme, inspirado nas vivências da sua mãe Natalia, exilada em Bruxelas depois da Segunda Guerra Mundial. Interpretado brilhantemente pela atriz, realizadora e ativista Delphine Seyrig, Jeanne Dielman revela as rotinas diárias, o silêncio, o trabalho e o confinamento necessários à sobrevivência da protagonista. Em 2022, foi considerado o melhor filme de todos os tempos, na votação que a revista Sight & Sound publica a cada década."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.7,
+      24.9,
+      22.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg",
+      "https://image.tmdb.org/t/p/w1280/qKAsCqW3Z0fGMASemMWKf2PNb0w.jpg",
+      "https://image.tmdb.org/t/p/w1280/sJ3JJUw8a5arzDZwGpymOmin9me.jpg"
+    ],
+    "tmdb_id": "44012"
   }
 }

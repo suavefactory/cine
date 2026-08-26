@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-08-25T08:51:27.506789+00:00",
+  "generated": "2026-08-26T08:52:20.700456+00:00",
   "movies": [
     {
       "id": "sao_jorge_11239",
@@ -22,91 +22,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "cinemateca_20202",
-      "title": "Saturday Night Fever",
-      "director": "John Badham",
-      "year": 1977,
-      "duration": 118,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/40/f2/pd/ql/12Ol9OqHzpXzIp5MKfw8dDkm8kf-0-500-0-750-crop.jpg?v=0452efd7af",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20202",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.22,
-      "plot": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
-      "plot_pt": "Outro dos grandes filmes de Mulligan, rodado no mesmo ano de BABY THE RAIN MUST FALL. Um filme de época, que retrata a Hollywood e o “star system” dos anos 30 e 40 seguindo o percurso de Daisy Clover (Natalie Wood) entre a sua chegada à “cidade dos sonhos” e a sua transformação em estrela de primeira grandeza. Mulligan definiu o filme como “um pesadelo frio”, descrevendo a história de Daisy como uma espécie de desalmada manipulação da personalidade. Mal recebido à época, resistiu muito bem ao tempo e hoje é comum vê-lo escolhido para figurar no melhor da filmografia de Mulligan. A exibir em cópia 35mm.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
-        "https://image.tmdb.org/t/p/w1280/zG9cefBYXTVjaZ6P82oKE5vQ75.jpg",
-        "https://image.tmdb.org/t/p/w1280/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg"
-      ],
-      "stills_focus": [
-        25.0,
-        36.7,
-        26.3
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "john-badham"
-    },
-    {
-      "id": "cinemateca_20183",
-      "title": "Taking Off",
-      "director": "Milos Forman",
-      "year": 1971,
-      "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/8/0/6680-taking-off-0-500-0-750-crop.jpg?v=059e92edb5",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Music"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20183",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "21:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "17:15",
-          "cinema": "batalha"
-        }
-      ],
-      "rating": 3.86,
-      "plot": "Unable to deal with her parents, Jeannie Tyne runs away from home. Larry and Lynn Tyne search for her, and in the process meet other people whose children ran away. With their children gone, the parents are now free to rediscover/enjoy life.",
-      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/5sOxgIflTDccpPwfn5tGfmaRTNL.jpg",
-        "https://image.tmdb.org/t/p/w1280/yS8oul6Sa9sJNFCZRjiy75tQWgv.jpg",
-        "https://image.tmdb.org/t/p/w1280/nonULiT13a3TSVZKPg9Mt6iVNol.jpg"
-      ],
-      "stills_focus": [
-        32.1,
-        24.3,
-        39.2
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "milos-forman"
     },
     {
       "id": "cinemateca_20185",
@@ -424,6 +339,40 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "nicholas-ray"
     },
     {
+      "id": "cinemateca_20203",
+      "title": "Saturday Night Fever",
+      "director": "John Badham",
+      "year": 1977,
+      "duration": 118,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/40/f2/pd/ql/12Ol9OqHzpXzIp5MKfw8dDkm8kf-0-500-0-750-crop.jpg?v=0452efd7af",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20203",
+      "sessions": [
+        {
+          "date": "2026-08-31",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.22,
+      "plot": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
+      "plot_pt": "Outro dos grandes filmes de Mulligan, rodado no mesmo ano de BABY THE RAIN MUST FALL. Um filme de época, que retrata a Hollywood e o “star system” dos anos 30 e 40 seguindo o percurso de Daisy Clover (Natalie Wood) entre a sua chegada à “cidade dos sonhos” e a sua transformação em estrela de primeira grandeza. Mulligan definiu o filme como “um pesadelo frio”, descrevendo a história de Daisy como uma espécie de desalmada manipulação da personalidade. Mal recebido à época, resistiu muito bem ao tempo e hoje é comum vê-lo escolhido para figurar no melhor da filmografia de Mulligan. A exibir em cópia 35mm.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
+        "https://image.tmdb.org/t/p/w1280/zG9cefBYXTVjaZ6P82oKE5vQ75.jpg",
+        "https://image.tmdb.org/t/p/w1280/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg"
+      ],
+      "stills_focus": [
+        25.0,
+        36.7,
+        26.3
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "john-badham"
+    },
+    {
       "id": "nimas_elisa-2025",
       "title": "Elisa",
       "director": "Leonardo Di Costanzo",
@@ -436,11 +385,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/elisa-2025",
       "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-08-26",
           "time": "18:00",
@@ -499,114 +443,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "howard-hawks"
     },
     {
-      "id": "nimas_anatomia-de-um-crime-1959",
-      "title": "Anatomia de um Crime",
-      "director": "Otto Preminger",
-      "year": 1959,
-      "duration": 161,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/v9/63/dv/fd/kDFnM2zlHZirR2ItTo56lyrxuAS-0-500-0-750-crop.jpg?v=42df92615a",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/anatomia-de-um-crime-1959",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.25,
-      "plot": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
-      "plot_pt": "“É o filme mais complexo e mais exemplar da obra de Preminger […] onde a mise en scéne se torna, como nos últimos filmes de Lang, numa reflexão do criador sobre a sua arte […].” S. D.",
-      "title_en": "Anatomy of a Murder",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
-        "https://image.tmdb.org/t/p/w1280/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg",
-        "https://image.tmdb.org/t/p/w1280/9QhZ0CEW9qk5l5XyLYR6LZznaAJ.jpg"
-      ],
-      "stills_focus": [
-        30.7,
-        23.4,
-        27.5
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "otto-preminger"
-    },
-    {
-      "id": "nimas_fahrenheit-451-grau-de-destruicao-1966",
-      "title": "Fahrenheit 451 – Grau de Destruição",
-      "director": "François Truffaut",
-      "year": 1966,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/7/50837-fahrenheit-451-0-500-0-750-crop.jpg?v=0fb4a1b93d",
-      "genres": [
-        "Science Fiction",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fahrenheit-451-grau-de-destruicao-1966",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.51,
-      "plot": "In the future, the government maintains control of public opinion by outlawing literature and maintaining a group of enforcers, known as “firemen,” to perform the necessary book burnings. Fireman Montag begins to question the morality of his vocation…",
-      "plot_pt": "O primeiro filme a cores de Truffaut une o humor negro do realizador francês e a moralidade do livro de Ray Bradbury, já várias vezes adaptado ao cinema, especificamente pela forma como a distopia da narrativa é retratada. É um mundo onde a literatura é banida por ser a fagulha que pode acender a chama da revolução, algo que é literalmente apagado por bombeiros dedicados à causa.",
-      "title_en": "Fahrenheit 451",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/nWhCbmAcAhRHrR60zqpAFNET7p5.jpg",
-        "https://image.tmdb.org/t/p/w1280/hyI6an1jnCHCZ8p9rq5DJCssX8C.jpg",
-        "https://image.tmdb.org/t/p/w1280/p2UUrDs7BoHQqiGCIQEVavUhwz3.jpg"
-      ],
-      "stills_focus": [
-        53.6,
-        31.3,
-        37.9
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "francois-truffaut"
-    },
-    {
-      "id": "nimas_sandra-1965",
-      "title": "Sandra",
-      "director": "Luchino Visconti",
-      "year": 1965,
-      "duration": 105,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/1/4/8/77148-sandra-0-500-0-750-crop.jpg?v=dad08eafc5",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/sandra-1965",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
-      "plot_pt": "Ainda com Cardinale, a seguir a O Leopardo, um novo olhar sobre a decadência da aristocracia italiana no regresso de Sandra à sua Toscânia natal.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ntHhAhIDkrELc9i6koBnmsvVF4E.jpg",
-        "https://image.tmdb.org/t/p/w1280/fnvTGGhH4t8zK7gSE8O0PwxTGjW.jpg",
-        "https://image.tmdb.org/t/p/w1280/4nxZTdnJeGJk6SJlfiJbMD4MLwk.jpg"
-      ],
-      "stills_focus": [
-        44.6,
-        29.1,
-        38.1
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "luchino-visconti"
-    },
-    {
       "id": "nimas_os-respigadores-e-a-respigadora-2000",
       "title": "Os Respigadores e a Respigadora",
       "director": "Agnès Varda",
@@ -618,11 +454,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-2000",
       "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-09-08",
           "time": "13:00",
@@ -1064,11 +895,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/uma-canta-a-outra-nao-1976",
       "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-28",
           "time": "14:30",
@@ -1537,11 +1363,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/os-respigadores-e-a-respigadora-dois-anos-depois-2002",
       "sessions": [
         {
-          "date": "2026-08-25",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-08-31",
           "time": "13:00",
           "cinema": "nimas"
@@ -1836,11 +1657,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/as-criaturas-1966",
       "sessions": [
         {
-          "date": "2026-08-25",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-09-02",
           "time": "22:00",
           "cinema": "nimas"
@@ -1951,8 +1767,18 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-09-03",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-09-03",
           "time": "21:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "16:45",
+          "cinema": "fernando"
         },
         {
           "date": "2026-09-04",
@@ -1960,9 +1786,24 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         },
         {
+          "date": "2026-09-04",
+          "time": "21:15",
+          "cinema": "fernando"
+        },
+        {
           "date": "2026-09-05",
           "time": "15:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "16:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "21:15",
+          "cinema": "fernando"
         },
         {
           "date": "2026-09-06",
@@ -1970,9 +1811,34 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         },
         {
+          "date": "2026-09-06",
+          "time": "16:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "16:45",
+          "cinema": "fernando"
+        },
+        {
           "date": "2026-09-07",
           "time": "18:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "21:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "14:30",
+          "cinema": "fernando"
         },
         {
           "date": "2026-09-08",
@@ -1980,9 +1846,24 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         },
         {
+          "date": "2026-09-08",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
           "date": "2026-09-09",
           "time": "13:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "16:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "21:15",
+          "cinema": "fernando"
         }
       ],
       "rating": 3.52,
@@ -2714,6 +2595,97 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "paul-newman"
     },
     {
+      "id": "fernando_o_jacare",
+      "title": "O Jacaré",
+      "director": "Basil da Cunha",
+      "year": 2026,
+      "duration": 92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/0/4/1595104-o-jacare-0-500-0-750-crop.jpg?v=6946c88ad3",
+      "genres": [
+        "Drama"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/O-JACARE",
+      "sessions": [
+        {
+          "date": "2026-09-03",
+          "time": "21:45",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "14:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-04",
+          "time": "19:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "14:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "19:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "14:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "14:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "19:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "17:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "21:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "14:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-09-09",
+          "time": "19:15",
+          "cinema": "fernando"
+        }
+      ],
+      "plot": "Reboleira, a suburb of Lisbon. After a robbery gone wrong, a car ends up crashed right in the middle of the neighborhood. The driver is arrested, but the €180,000 that were stolen have vanished. Within the area sealed off by the police, rumors spread and speculations run wild. Among the residents, a whole cast of colorful characters dream of getting their hands on the loot. Who will the first to get their hands on it?",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/bfxmI0BcpsBsLG068qhLabBOX9i.jpg",
+        "https://image.tmdb.org/t/p/w1280/z6K25AJk9iRWezWgGQFNcAmddeQ.jpg"
+      ],
+      "stills_focus": [
+        33.1,
+        28.2
+      ],
+      "country": "Switzerland",
+      "director_lbxd_slug": "basil-da-cunha"
+    },
+    {
       "id": "batalha_sMcslj6qAT3F1vO1",
       "title": "Sorrowful Shadow",
       "director": "Guy Maddin",
@@ -3179,6 +3151,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Konkurs",
+      "plot_pt": "Considerado um dos primeiros filmes da Nova Vaga Checa, Audition marcou a estreia independente de Forman e antecipou temas centrais da sua obra: atores não profissionais, humor mordaz e atenção aos pequenos detalhes do quotidiano. Composto por duas curtas-metragens lançadas em conjunto, o filme acompanha dois músicos que trocam os ensaios por corridas de motas e um grupo de aspirantes ao estrelato que participa numa audição para o Teatro Semafor de Praga. A obra capta com ironia e frescura a rebeldia juvenil dos anos 60 face ao conformismo social e geracional.",
       "plot": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
       "country": "Czechoslovakia",
       "rating": 3.34,
@@ -3469,6 +3442,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Filme de final de curso de José María Martín Sarmiento enquanto aluno do Instituto de Altos Estudos Cinematográficos (Paris), Los montes situa-se numa aldeia remota e quase abandonada do Bierzo Alto, nos confins da província de León. Oscilando entre a ficção satírica e a realidade, a obra acompanha o velório do último homem da aldeia e das restantes seis mulheres idosas que nela habitam. Entre o isolamento, a dureza das práticas agrícolas, e o regresso sazonal das romarias de verão, evocam-se os laços comunitários e a tradição oral como formas de resistência. O filme foi nomeado para o César de Melhor Curta-Metragem Documental.",
       "plot": "Los Montes de la Ermita, region of Bierzo Alto, in the province of León, Spain. Six women assist Joaquín —the only and last inhabitant of the remote village, located on the slopes of the mythical and mysterious Catoute Peak—, who is in danger of death due to an unfortunate accident.",
       "country": "France",
       "director_lbxd_slug": "jose-maria-martin-sarmiento"
@@ -3643,7 +3617,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Lásky jedné plavovlásky",
-      "plot_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times.",
+      "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro.",
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "rating": 3.78,
@@ -3827,6 +3801,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico.",
       "plot": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
       "country": "Italy",
       "rating": 3.84,
@@ -4205,6 +4180,47 @@ window.CINEMA_DATA = {
         19.8
       ],
       "director_lbxd_slug": "satoshi-kon"
+    },
+    {
+      "id": "batalha_sdv7sfu1UrKafgnu",
+      "title": "Taking Off",
+      "director": "Miloš Forman",
+      "year": 1971,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/8/0/6680-taking-off-0-500-0-750-crop.jpg?v=059e92edb5",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Music"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/taking-off",
+      "sessions": [
+        {
+          "date": "2026-10-11",
+          "time": "21:15",
+          "cinema": "batalha"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "17:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot_pt": "As aventuras e desventuras de um grupo de adolescentes num colégio interno de freiras, em que Rosalind Russell interpreta a Madre Superiora. Com um elenco quase exclusivamente feminino, THE TROUBLE WITH ANGELS é o último filme que Ida Lupino realizou para o grande ecrã, quando voltou ao cinema como realizadora após dez anos de interregno passados na televisão. A exibir em cópia digital.",
+      "plot": "Unable to deal with her parents, Jeannie Tyne runs away from home. Larry and Lynn Tyne search for her, and in the process meet other people whose children ran away. With their children gone, the parents are now free to rediscover/enjoy life.",
+      "country": "USA",
+      "rating": 3.86,
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/5sOxgIflTDccpPwfn5tGfmaRTNL.jpg",
+        "https://image.tmdb.org/t/p/w1280/yS8oul6Sa9sJNFCZRjiy75tQWgv.jpg",
+        "https://image.tmdb.org/t/p/w1280/nonULiT13a3TSVZKPg9Mt6iVNol.jpg"
+      ],
+      "stills_focus": [
+        32.1,
+        24.3,
+        39.2
+      ],
+      "director_lbxd_slug": "milos-forman"
     },
     {
       "id": "batalha_s9K7UONcEX6gzqzd",
@@ -4712,6 +4728,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4780,6 +4797,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -4802,6 +4820,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -4833,6 +4852,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -5523,7 +5543,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.4
+        46.3
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -5589,7 +5609,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
       ],
       "stills_focus": [
-        37.3
+        36.0
       ],
       "director_lbxd_slug": "liliane-de-kermadec"
     },
@@ -5679,6 +5699,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "stills": [
@@ -5762,6 +5783,41 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "emeric-pressburger"
     },
     {
+      "id": "trindade_8938",
+      "title": "O Universo de Jacques Demy",
+      "director": "Agnès Varda",
+      "year": 1995,
+      "duration": 90,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/4/7/2/143472-the-world-of-jacques-demy-0-500-0-750-crop.jpg?v=16cc4fe04d",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-universo-de-jacques-demy",
+      "sessions": [
+        {
+          "date": "2026-08-26",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "Agnès Varda's documentary portrait of her late husband, Jacques Demy. A companion piece to her Jacquot de Nantes.",
+      "plot_pt": "Depois de Jacquot de Nantes (1990), sobre a infância do seu marido e cineasta Jacques Demy, Agnès Varda realizou esta homenagem à sua vida e obra. Varda faz um retrato caleidoscópico de Demy, com recurs a vários dispositivos, incluindo entrevistas com o próprio e com vários dos artistas que com ele colaboraram ao longo dos anos, como Catherine Deneuve, Jacques Perrin e Nino Castelnuovo, e imagens inéditas das rodagens dos filmes. O Universo de Jacques Demy mostra-nos o cineasta como Varda o conheceu e amou, um homem de uma criatividade incansável que olhava para o mundo com encanto.",
+      "title_en": "The World of Jacques Demy",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/3NC6J6B5rU2TMqTuZaI1Hqzqukz.jpg",
+        "https://image.tmdb.org/t/p/w1280/vL0oTaPG11MiurxtyeaebWhX58r.jpg",
+        "https://image.tmdb.org/t/p/w1280/nDj8biEOu4PoGCm4hSzEZe9AU6a.jpg"
+      ],
+      "stills_focus": [
+        16.9,
+        26.7,
+        57.1
+      ],
+      "country": "Belgium",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
       "id": "trindade_9078",
       "title": "Calle Málaga",
       "director": "Maryam Touzani",
@@ -5773,16 +5829,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/calle-malaga",
       "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-26",
           "time": "14:30",
@@ -5796,7 +5842,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.68,
       "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-      "plot_pt": "María Ángeles, uma mulher espanhola de 79 anos, vive sozinha em Tânger, Marrocos, e desfruta da sua rotina diária, até que a chegada da filha, vinda de Madrid com intenção de vender o apartamento onde María sempre viveu, vira a sua vida do avesso. Determinada a ficar, faz tudo o que pode para recuperar a sua casa e os seus bens. Inesperadamente, redescobre também o amor e a sensualidade.",
+      "plot_pt": "Em Tânger, uma idosa espanhola luta contra a venda de sua casa pela filha. Enquanto tenta manter seu lar e resgatar seus pertences, acaba a redescobrir o amor e o desejo.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg",
@@ -5824,16 +5870,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-26",
           "time": "16:00",
@@ -5878,11 +5914,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/animal",
       "sessions": [
         {
-          "date": "2026-08-25",
-          "time": "17:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-08-26",
           "time": "17:15",
           "cinema": "trindade"
@@ -5903,77 +5934,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Austria",
       "director_lbxd_slug": "sofia-exarchou"
-    },
-    {
-      "id": "trindade_8617",
-      "title": "Rosebush Pruning",
-      "director": "Karim Aïnouz",
-      "year": 2026,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=42d3e09345",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/rosebush-pruning",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 2.66,
-      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-      "plot_pt": "Numa vila opulenta sob o sol da Catalunha, os irmãos Jack, Ed, Anna e Robert vivem isolados, sustentados por uma fortuna herdada e afastados das exigências do pai cego. Procuram amor e validação entre si, e nas roupas de designer. Quando Jack, o irmão mais velho e pilar da família, anuncia que vai viver com a namorada, Martha, os laços de sangue começam a desfazer-se e Ed começa a desenterrar a verdade sobre a morte da mãe. À medida que as mentiras de família vêm à tona, o frágil equilíbrio que os une ameaça ruir por completo.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
-        "https://image.tmdb.org/t/p/w1280/4Y7X3exMjMRlGsntrMJEeVw7dxe.jpg",
-        "https://image.tmdb.org/t/p/w1280/lKPQpQXiw9ogxmSBiCkt5GIALBC.jpg"
-      ],
-      "stills_focus": [
-        24.3,
-        21.4,
-        21.7
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "trindade_8938",
-      "title": "O Universo de Jacques Demy",
-      "director": "Agnès Varda",
-      "year": 1995,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/4/7/2/143472-the-world-of-jacques-demy-0-500-0-750-crop.jpg?v=16cc4fe04d",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-universo-de-jacques-demy",
-      "sessions": [
-        {
-          "date": "2026-08-26",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "Agnès Varda's documentary portrait of her late husband, Jacques Demy. A companion piece to her Jacquot de Nantes.",
-      "plot_pt": "Depois de Jacquot de Nantes (1990), sobre a infância do seu marido e cineasta Jacques Demy, Agnès Varda realizou esta homenagem à sua vida e obra. Varda faz um retrato caleidoscópico de Demy, com recurs a vários dispositivos, incluindo entrevistas com o próprio e com vários dos artistas que com ele colaboraram ao longo dos anos, como Catherine Deneuve, Jacques Perrin e Nino Castelnuovo, e imagens inéditas das rodagens dos filmes. O Universo de Jacques Demy mostra-nos o cineasta como Varda o conheceu e amou, um homem de uma criatividade incansável que olhava para o mundo com encanto.",
-      "title_en": "The World of Jacques Demy",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3NC6J6B5rU2TMqTuZaI1Hqzqukz.jpg",
-        "https://image.tmdb.org/t/p/w1280/vL0oTaPG11MiurxtyeaebWhX58r.jpg",
-        "https://image.tmdb.org/t/p/w1280/nDj8biEOu4PoGCm4hSzEZe9AU6a.jpg"
-      ],
-      "stills_focus": [
-        16.9,
-        26.7,
-        57.1
-      ],
-      "country": "Belgium",
-      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "trindade_8748",
@@ -6080,6 +6040,100 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "guto-parente"
     },
     {
+      "id": "trindade_9390",
+      "title": "A Saga de Anatahan",
+      "director": "Josef von Sternberg",
+      "year": 1953,
+      "duration": 92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/7/9/6/84796-anatahan-0-500-0-750-crop.jpg?v=eb8774806f",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/a-saga-de-anathan",
+      "sessions": [
+        {
+          "date": "2026-08-26",
+          "time": "16:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-08-27",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-08-28",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-08-30",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-09-01",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-09-02",
+          "time": "14:30",
+          "cinema": "ideal"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
+      "plot_pt": "Durante a Segunda Guerra Mundial, quinze marinheiros sobrevivem ao bombardeamento do seu navio e ficam isolados na ilha remota de Anatahan. A guerra chega ao fim – facto que desconhecem – e continuam a sua própria guerra, pelo domínio da ilha e pela posse da única mulher entre eles, Keiko, a Abelha-Mestra de Anatahan.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/eKLHQ9YOpeRwBcYXH2GGLOg7AdC.jpg",
+        "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
+        "https://image.tmdb.org/t/p/w1280/e4pEom4jYE9hagj8dgKarCSBx2e.jpg"
+      ],
+      "stills_focus": [
+        35.3,
+        33.3,
+        23.9
+      ],
+      "country": "Japan",
+      "director_lbxd_slug": "josef-von-sternberg"
+    },
+    {
+      "id": "trindade_9323",
+      "title": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles",
+      "director": "Chantal Akerman",
+      "year": 1975,
+      "duration": 202,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/9/21149-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0-500-0-750-crop.jpg?v=952ed786ed",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/jeanne-dielman",
+      "sessions": [
+        {
+          "date": "2026-09-10",
+          "time": "20:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.26,
+      "plot": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
+      "plot_pt": "Três dias na vida de Jeanne Dielman, mulher e mãe — é a partir desta premissa que Chantal Akerman constrói o seu filme, inspirado nas vivências da sua mãe Natalia, exilada em Bruxelas depois da Segunda Guerra Mundial. Interpretado brilhantemente pela atriz, realizadora e ativista Delphine Seyrig, Jeanne Dielman revela as rotinas diárias, o silêncio, o trabalho e o confinamento necessários à sobrevivência da protagonista. Em 2022, foi considerado o melhor filme de todos os tempos, na votação que a revista Sight & Sound publica a cada década.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg",
+        "https://image.tmdb.org/t/p/w1280/qKAsCqW3Z0fGMASemMWKf2PNb0w.jpg",
+        "https://image.tmdb.org/t/p/w1280/sJ3JJUw8a5arzDZwGpymOmin9me.jpg"
+      ],
+      "stills_focus": [
+        29.7,
+        24.9,
+        22.5
+      ],
+      "country": "Belgium",
+      "director_lbxd_slug": "chantal-akerman"
+    },
+    {
       "id": "trindade_9371",
       "title": "Adolescência, Sexo e Morte No Campo Miasma",
       "director": "Jane Schoenbrun",
@@ -6155,7 +6209,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_meu_semba",
       "title": "MEU SEMBA",
-      "director": "Hugo Salvaterra",
+      "director": null,
       "year": 2026,
       "duration": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/4/7/6/3/1404763-my-semba-0-500-0-750-crop.jpg?v=c92f2a25ca",
@@ -6202,11 +6256,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66062",
       "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-26",
           "time": "14:00",
@@ -6314,16 +6363,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66054",
       "sessions": [
         {
-          "date": "2026-08-25",
-          "time": "14:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-25",
-          "time": "18:45",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-08-26",
           "time": "18:45",
           "cinema": "ideal"
@@ -6381,71 +6420,11 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "mikhail-kalatozov"
     },
     {
-      "id": "ideal_a_saga_de_anatahan",
-      "title": "A SAGA DE ANATAHAN",
-      "director": "Josef von Sternberg",
-      "year": 1953,
-      "duration": 91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/7/9/6/84796-anatahan-0-500-0-750-crop.jpg?v=eb8774806f",
-      "genres": [
-        "Drama",
-        "War"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66046",
-      "sessions": [
-        {
-          "date": "2026-08-25",
-          "time": "16:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-26",
-          "time": "16:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-30",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-09-02",
-          "time": "14:30",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "From June 1944, twelve Japanese seamen are stranded for seven years on an abandoned and forgotten island called Anatahan.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/eKLHQ9YOpeRwBcYXH2GGLOg7AdC.jpg",
-        "https://image.tmdb.org/t/p/w1280/megw45r0zNq2yMuxKZauM81MlBq.jpg",
-        "https://image.tmdb.org/t/p/w1280/e4pEom4jYE9hagj8dgKarCSBx2e.jpg"
-      ],
-      "stills_focus": [
-        35.3,
-        33.3,
-        23.9
-      ],
-      "country": "Japan",
-      "director_lbxd_slug": "josef-von-sternberg"
-    },
-    {
       "id": "ideal__gua_m_e",
       "title": "ÁGUA MÃE",
-      "director": "Rossana Torres e Hiroatsu Suzuki",
+      "director": null,
       "year": 2025,
-      "duration": null,
+      "duration": 72,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/8/0/1/0/1438010-agua-mae-0-500-0-750-crop.jpg?v=f9edfb256f",
       "genres": [
         "Documentary"
@@ -6510,16 +6489,6 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "John Badham": {
-      "lbxd_slug": "john-badham",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JohnBadhamQA.jpg/500px-JohnBadhamQA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "John Badham (born August 29, 1939) is an American film and television director, best known for directing the films Saturday Night Fever (1977), Dracula (1979), Blue Thunder (1983), WarGames (1983), Short Circuit (1986), Stakeout (1987), Bird on a Wire (1990), The Hard Way (1991), Point of No Return (1993), Drop Zone (1994), and Nick of Time (1995). He is a two-time Primetime Emmy Award nominee, a two-time Hugo Award nominee, and a Saturn Award winner. He is also a Professor at Chapman University."
-    },
-    "Milos Forman": {
-      "lbxd_slug": "milos-forman",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Milo%C5%A1_Forman_1999.jpg/500px-Milo%C5%A1_Forman_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Jan Tomáš \"Miloš\" Forman (; Czech: [ˈmɪloʃ ˈforman]; 18 February 1932 – 13 April 2018) was a Czech and American film director, screenwriter, actor, and professor. He rose to fame in his native Czechoslovakia before emigrating to the United States in 1968. Over a career spanning six decades, Forman won two Academy Awards, a BAFTA Award, three Golden Globe Awards, a Golden Bear, a César Award, and the Czech Lion."
-    },
     "Roger Corman": {
       "lbxd_slug": "roger-corman",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg/500px-Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6565,6 +6534,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nicholas_Ray_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Nicholas Ray (born Raymond Nicholas Kienzle Jr., August 7, 1911 – June 16, 1979) was an American film director, screenwriter, and actor. Described by the Harvard Film Archive as \"Hollywood's last romantic\" and \"one of postwar American cinema's supremely gifted and ultimately tragic filmmakers,\" Ray was considered an iconoclastic auteur director who often clashed with the Hollywood studio system of the time, but would prove highly influential to future generations of filmmakers. His best-known work is the 1955 film Rebel Without a Cause, starring James Dean."
     },
+    "John Badham": {
+      "lbxd_slug": "john-badham",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/JohnBadhamQA.jpg/500px-JohnBadhamQA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "John Badham (born August 29, 1939) is an American film and television director, best known for directing the films Saturday Night Fever (1977), Dracula (1979), Blue Thunder (1983), WarGames (1983), Short Circuit (1986), Stakeout (1987), Bird on a Wire (1990), The Hard Way (1991), Point of No Return (1993), Drop Zone (1994), and Nick of Time (1995). He is a two-time Primetime Emmy Award nominee, a two-time Hugo Award nominee, and a Saturn Award winner. He is also a Professor at Chapman University."
+    },
     "Leonardo Di Costanzo": {
       "lbxd_slug": "leonardo-di-costanzo",
       "photo": null,
@@ -6575,21 +6549,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Howard_Hawks_head_shot.jpg/500px-Howard_Hawks_head_shot.jpg",
       "bio": "Howard Winchester Hawks (May 30, 1896 – December 26, 1977) was an American film director, producer, and screenwriter of the classic Hollywood era. The critic Leonard Maltin called him \"the greatest American director who is not a household name.\" Roger Ebert called Hawks \"one of the greatest American directors of pure movies, and a hero of auteur critics because he found his own laconic values in so many different kinds of genre material.\" He was nominated for the Academy Award for Best Director for Sergeant York (1941) and earned the Honorary Academy Award in 1974. A versatile director, Hawks explored many genres such as comedies, dramas, gangster films, science fiction, film noir, war films and Westerns."
     },
-    "Otto Preminger": {
-      "lbxd_slug": "otto-preminger",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
-      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
-    },
-    "François Truffaut": {
-      "lbxd_slug": "francois-truffaut",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg/500px-Fran%C3%A7ois_Truffaut_%281965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "François Roland Truffaut (UK:  TROO-foh, TRUU-, US:  troo-FOH; French: [fʁɑ̃swa ʁɔlɑ̃ tʁyfo]; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic. He is widely regarded as one of the founders of the French New Wave. Truffaut came under the tutelage of film critic Andre Bazin as a young man and was hired to write for Bazin's Cahiers du Cinéma, where he became a proponent of the auteur theory, which posits that a film's director is its true author."
-    },
-    "Luchino Visconti": {
-      "lbxd_slug": "luchino-visconti",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
-      "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
-    },
     "Agnès Varda": {
       "lbxd_slug": "agnes-varda",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6599,6 +6558,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "wong-kar-wai",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wong_Kar-wai_Berlin_cropped.jpg/500px-Wong_Kar-wai_Berlin_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Wong Kar-wai  (born 17 July 1958) is a Hong Kong filmmaker. His films are characterised by nonlinear narratives, atmospheric music, and vivid cinematography with bold, saturated colours. An auteur of Hong Kong cinema, Wong frequently appears at international film festivals."
+    },
+    "Luchino Visconti": {
+      "lbxd_slug": "luchino-visconti",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
+      "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
     },
     "Ildikó Enyedi": {
       "lbxd_slug": "ildiko-enyedi",
@@ -6685,6 +6649,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
       "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
     },
+    "François Truffaut": {
+      "lbxd_slug": "francois-truffaut",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg/500px-Fran%C3%A7ois_Truffaut_%281965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "François Roland Truffaut (UK:  TROO-foh, TRUU-, US:  troo-FOH; French: [fʁɑ̃swa ʁɔlɑ̃ tʁyfo]; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic. He is widely regarded as one of the founders of the French New Wave. Truffaut came under the tutelage of film critic Andre Bazin as a young man and was hired to write for Bazin's Cahiers du Cinéma, where he became a proponent of the auteur theory, which posits that a film's director is its true author."
+    },
     "Orson Welles": {
       "lbxd_slug": "orson-welles-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Orson_Welles_1937_cr3-4.jpg/500px-Orson_Welles_1937_cr3-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6694,6 +6663,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "akira-kurosawa",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
       "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor."
+    },
+    "Basil da Cunha": {
+      "lbxd_slug": "basil-da-cunha",
+      "photo": null,
+      "bio": null
     },
     "Guy Maddin": {
       "lbxd_slug": "guy-maddin",
@@ -7065,11 +7039,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Greek film director"
     },
-    "Karim Aïnouz": {
-      "lbxd_slug": "karim-ainouz-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg/500px-Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Karim Aïnouz (; Portuguese: [kɐˈɾĩ ajˈnus]; born 17 January 1966) is a Brazilian film director and visual artist. He is best known for his film The Invisible Life of Eurídice Gusmão."
-    },
     "Rodrigo Areias, Aaron Brookner": {
       "lbxd_slug": "rodrigo-areias",
       "photo": null,
@@ -7085,6 +7054,16 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Josef von Sternberg": {
+      "lbxd_slug": "josef-von-sternberg",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dishonored_%28film%29_1931_On_set%2C_BW_photo%2C_L_to_R_Josef_von_Sternberg%2C_Marlene_Dietrich_%28cropped-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Josef von Sternberg (Austrian German: [ˈjoːzɛf fɔn ˈʃtɛrnbɛrg]; born Jonas Sternberg; May 29, 1894 – December 22, 1969) was an Austrian-American filmmaker whose career successfully spanned the transition from the silent to the sound era, during which he worked with most of the major Hollywood studios. He is best known for his film collaboration with actress Marlene Dietrich in the 1930s, including the highly regarded Paramount/UFA production The Blue Angel (1930). He was twice nominated for the Academy Award for Best Director, for Morocco (1930) and Shanghai Express (1932)."
+    },
+    "Chantal Akerman": {
+      "lbxd_slug": "chantal-akerman",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chantal_Akerman_-_video_still_%28cropped%29.jpg/500px-Chantal_Akerman_-_video_still_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Chantal Anne Akerman (French: [ʃɑ̃tal akɛʁman]; 6 June 1950 – 5 October 2015) was a Belgian filmmaker, artist, and film professor at the City College of New York (2011–2015). Akerman is best known for her films Je Tu Il Elle (1974), Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975), and News from Home (1976). The second of these was ranked the greatest film of all time in Sight & Sound magazine's 2022 \"Greatest Films of All Time\" critics poll, making her the first woman to top the poll."
+    },
     "Jane Schoenbrun": {
       "lbxd_slug": "jane-schoenbrun",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg/500px-JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -7095,11 +7074,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg/500px-Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Pedro Almodóvar Caballero (Spanish: [ˈpeðɾo almoˈðoβaɾ kaβaˈʎeɾo]; born 25 September 1949) is a Spanish film director, screenwriter and author. His films are distinguished by melodrama, irreverent humour, bold colour, glossy décor, quotations from popular culture, and complex narratives. Desire, LGBTQ issues, passion, family, motherhood, and identity are among Almodóvar's most frequently explored subjects."
     },
-    "Hugo Salvaterra": {
-      "lbxd_slug": "hugo-salvaterra",
-      "photo": null,
-      "bio": null
-    },
     "Jacques Deray": {
       "lbxd_slug": "jacques-deray",
       "photo": null,
@@ -7109,16 +7083,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "mikhail-kalatozov",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg/500px-Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Mikhail Konstantinovich Kalatozov (Georgian: მიხეილ კალატოზიშვილი, Russian: Михаил Константинович Калатозов; 28 December 1903 – 26 March 1973), born Mikheil Kalatozishvili, was a Soviet film director of Georgian origin who contributed to both Georgian and Russian cinema. He is known for his films The Cranes Are Flying and I Am Cuba, winning the Palme d'Or for the former at the 1958 Cannes Film Festival."
-    },
-    "Josef von Sternberg": {
-      "lbxd_slug": "josef-von-sternberg",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dishonored_%28film%29_1931_On_set%2C_BW_photo%2C_L_to_R_Josef_von_Sternberg%2C_Marlene_Dietrich_%28cropped-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Josef von Sternberg (Austrian German: [ˈjoːzɛf fɔn ˈʃtɛrnbɛrg]; born Jonas Sternberg; May 29, 1894 – December 22, 1969) was an Austrian-American filmmaker whose career successfully spanned the transition from the silent to the sound era, during which he worked with most of the major Hollywood studios. He is best known for his film collaboration with actress Marlene Dietrich in the 1930s, including the highly regarded Paramount/UFA production The Blue Angel (1930). He was twice nominated for the Academy Award for Best Director, for Morocco (1930) and Shanghai Express (1932)."
-    },
-    "Rossana Torres e Hiroatsu Suzuki": {
-      "lbxd_slug": "hiroatsu-suzuki",
-      "photo": null,
-      "bio": null
     },
     "Listen, Think, Write": {
       "lbxd_slug": null,
@@ -7133,8 +7097,12 @@ window.CINEMA_DATA = {
   },
   "errors": [
     {
-      "cinema": "Fernando Lopes",
-      "error": "Nenhuma sessão encontrada em https://cinemafernandolopes.pt/Programacao"
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
     }
   ]
 };
