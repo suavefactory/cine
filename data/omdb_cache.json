@@ -9910,7 +9910,14 @@
       "genres": [
         "Documentary"
       ],
-      "country": "USA"
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1974,
+      "lb_title": "Italianamerican",
+      "backdrop": null,
+      "imdb_id": "tt0071680",
+      "tmdb_id": "91459"
     },
     "omdb": {
       "Title": "Italianamerican",
@@ -9943,7 +9950,21 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.7,
+      25.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9vYYgAxMk5dihLVJhnneUbTL2Wb.jpg",
+      "https://image.tmdb.org/t/p/w1280/g6whTC4GcRML8E5Y3oXisFSGxbe.jpg"
+    ],
+    "tmdb_id": "91459"
   },
   "Soft And Hard (A Soft Conversation Between Two Friends On A Hard Subject)|1986": {
     "lbxd": {
@@ -34248,7 +34269,7 @@
   },
   "Ludwig – Luís da Baviera|1973": {
     "lbxd": {
-      "rating": 3.94,
+      "rating": 3.93,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/7/2/4/49724-ludwig-0-500-0-750-crop.jpg?v=630f86d35f",
       "description": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
       "genres": [
@@ -34258,7 +34279,11 @@
       "country": "Germany",
       "lb_director": "Luchino Visconti",
       "lb_director_slug": "luchino-visconti",
-      "lb_year": 1973
+      "lb_year": 1973,
+      "lb_title": "Ludwig",
+      "backdrop": null,
+      "imdb_id": "tt0068883",
+      "tmdb_id": "3478"
     },
     "omdb": {
       "Title": "Ludwig",
@@ -34295,7 +34320,32 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Ludwig",
+      "plot_pt": "É uma obra maior entre as obras maiores de Visconti e vamos ter a oportunidade de a ver pela primeira vez na versão integral, num sublime restauro digital. O filme segue a história de Ludwig II (Helmut Berger, com uma semelhança perturbadora com o rei) desde que, aos 18 anos, acedeu ao trono, até à sua morte. O enamoramento pela sua prima Sissi da Áustria (Romy Schneider, maravilhosa), a paixão pela arte e pela beleza, a poesia, a música, os seus sonhos e as suas fraquezas. Quatro horas de puro prazer e volúpia, que Olivier Assayas descreveu assim: “O Ludwig de Visconti entra de imediato na categoria de filmes maiores que o cinema, mais audaciosos que a sua época e cuja existência é um desafio ao prosaísmo do quotidiano, e ao materialismo do século.”",
+      "country": "França, Itália, Alemanha",
+      "genre": "Versão Integral",
+      "year": 1973,
+      "director": "Luchino Visconti",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/merlin_139069755_ae920d87-9792-4fa1-b3b1-7d54237c594c-superjumbo.jpg",
+        "https://medeiafilmes.com/uploads/library/13visconti-notebook-ludwig-superjumbo.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.3,
+      35.9,
+      25.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wkBvfmvGiGGqgn1FTIOhJ9Mdpmb.jpg",
+      "https://image.tmdb.org/t/p/w1280/ckjdJWo77l9j3nSagUJLcYNCSw3.jpg",
+      "https://image.tmdb.org/t/p/w1280/2liRXUfoFDCBA9lUAQy6juakzAZ.jpg"
+    ],
+    "tmdb_id": "3478"
   },
   "Daguerreótipos|1975": {
     "lbxd": {
@@ -49988,33 +50038,7 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": {
-      "Title": "Água Mãe",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "20 Oct 2025",
-      "Runtime": "72 min",
-      "Genre": "Documentary",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Rossana Torres",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "1 win total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt38865778",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -50183,7 +50207,7 @@
       "https://image.tmdb.org/t/p/w1280/e4pEom4jYE9hagj8dgKarCSBx2e.jpg"
     ],
     "tmdb_id": "104776",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles|1975": {
     "lbxd": {
@@ -50265,5 +50289,3257 @@
     ],
     "tmdb_id": "44012",
     "wiki_tries": 1
+  },
+  "Dudley and the Invasion of the Space Slugs|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Pinocchio: Unstrung|None": {
+    "lbxd": {
+      "rating": 2.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/6/9/1115569-pinocchio-unstrung-0-500-0-750-crop.jpg?v=3165dff75f",
+      "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Fantasy"
+      ],
+      "country": "UK",
+      "lb_director": "Rhys Frake-Waterfield",
+      "lb_director_slug": "rhys-frake-waterfield",
+      "lb_year": 2026,
+      "lb_title": "Pinocchio: Unstrung",
+      "backdrop": null,
+      "imdb_id": "tt30887701",
+      "tmdb_id": "1232569"
+    },
+    "omdb": {
+      "Title": "Pinocchio: Unstrung",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "24 Jul 2026",
+      "Runtime": "80 min",
+      "Genre": "Fantasy, Horror, Thriller",
+      "Director": "Rhys Frake-Waterfield",
+      "Writer": "Rhys Frake-Waterfield",
+      "Actors": "Jude Evan Lloyd, Richard Brake, Robert Englund",
+      "Plot": "A dark coming-of-age reimagining of Pinocchio, this unsettling tale follows the iconic puppet's disturbing journey toward becoming real.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
+        }
+      ],
+      "Metascore": "50",
+      "imdbRating": "5.8",
+      "imdbVotes": "1,250",
+      "imdbID": "tt30887701",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$625,726",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.9,
+      49.8,
+      28.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/v3E8reNemamgMZlnztpXJQvOMnd.jpg",
+      "https://image.tmdb.org/t/p/w1280/zXuL6AKUsoA0vbIuxeu776vWmhT.jpg",
+      "https://image.tmdb.org/t/p/w1280/sq1WaNwQn52XiwN2hp1kwJbnSDx.jpg"
+    ],
+    "tmdb_id": "1232569"
+  },
+  "Nervous + Q&A|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Curtas: Internacionais #6 2026|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Vencedoras Méliès d’argent (Longa + Curta) 2026|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Azul, Azul|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Azul, Azul",
+      "Year": "1984",
+      "Rated": "N/A",
+      "Released": "20 Feb 1986",
+      "Runtime": "105 min",
+      "Genre": "N/A",
+      "Director": "José de Sá Caetano",
+      "Writer": "Augusto Sobral, José de Sá Caetano",
+      "Actors": "José Alegria, Françoise Ariel, Isabel Bezelga",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0085203",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Boorman and the Devil|None": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/7/0/1393070-boorman-and-the-devil-0-500-0-750-crop.jpg?v=a903dc91da",
+      "description": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "David Kittredge",
+      "lb_director_slug": "david-kittredge-1",
+      "lb_year": 2025,
+      "lb_title": "Boorman and the Devil",
+      "backdrop": null,
+      "imdb_id": "tt37654454",
+      "tmdb_id": "1517111"
+    },
+    "omdb": {
+      "Title": "Boorman and the Devil",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "01 Sep 2025",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "David Kittredge",
+      "Writer": "N/A",
+      "Actors": "Victor Hsu, Rospo Pallenberg, Garrett Brown",
+      "Plot": "After the success of POINT BLANK and DELIVERANCE, Warner Brothers offered John Boorman the opportunity of a lifetime...the chance to direct a sequel to their smash hit, THE EXORCIST. The result was one of the biggest disasters in ...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37654454",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/igS7kqXk6KJX7pe3xOHsWfKrgmp.jpg"
+    ],
+    "tmdb_id": "1517111"
+  },
+  "A Bucket of Blood|None": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/6/9/37769-a-bucket-of-blood-0-500-0-750-crop.jpg?v=5c679f9b49",
+      "description": "Nerdy Walter Paisley, a maladroit busboy at a beatnik café who doesn't fit in with the cool scene around him, attempts to woo his beautiful co-worker, Carla, by making a bust of her. When his klutziness results in the death of his landlady's cat, he panics and hides its body under a layer of plaster. But when Carla and her friends enthuse over the resulting artwork, Walter decides to create some bigger and more elaborate pieces using the same artistic process.",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Roger Corman",
+      "lb_director_slug": "roger-corman",
+      "lb_year": 1959,
+      "lb_title": "A Bucket of Blood",
+      "backdrop": null,
+      "imdb_id": "tt0052655",
+      "tmdb_id": "22642"
+    },
+    "omdb": {
+      "Title": "A Bucket of Blood",
+      "Year": "1959",
+      "Rated": "Approved",
+      "Released": "21 Oct 1959",
+      "Runtime": "66 min",
+      "Genre": "Comedy, Crime, Horror",
+      "Director": "Roger Corman",
+      "Writer": "Charles B. Griffith",
+      "Actors": "Dick Miller, Barboura Morris, Antony Carbone",
+      "Plot": "A dimwitted busboy at a beatnik cafe passes off a cat he accidentally killed and covered in plaster as a sculpture, prompting a demand for more art that compels him to commit murders.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA4NTI0ZDAtYTNiMS00MDE3LTk4ZDgtNGQyNGQ0Y2M4OWM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "8,366",
+      "imdbID": "tt0052655",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.8,
+      41.2,
+      38.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/oOUJjdZio15xFkpWui2hwQJr2Nb.jpg",
+      "https://image.tmdb.org/t/p/w1280/wD8HgdGTgvXGfhSzdxXnUQ5CD31.jpg",
+      "https://image.tmdb.org/t/p/w1280/6OF2UGreFILNnoVKldhnkQl22En.jpg"
+    ],
+    "tmdb_id": "22642"
+  },
+  "Curtas ao Almoço: Internacionais #5|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Silence + Our Effed Up World: Sessão Queer Horror|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Fall 2: Deadpoint|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/2/4/7/993247-fall-2-deadpoint-0-500-0-750-crop.jpg?v=d7c47f038b",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Michael Spierig",
+      "lb_director_slug": "michael-spierig",
+      "lb_year": 2026,
+      "lb_title": "Fall 2: Deadpoint",
+      "backdrop": null,
+      "imdb_id": "tt31192372",
+      "tmdb_id": "1101412"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      22.0,
+      34.9,
+      26.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hGkPXpM1R6jlK1GpMiq1uMQpM6K.jpg",
+      "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg",
+      "https://image.tmdb.org/t/p/w1280/iJZ1xl0UDEL8IW1jFZdyPhFYV7m.jpg"
+    ],
+    "tmdb_id": "1101412"
+  },
+  "Um S Marginal|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/5/4/5/8/575458-um-s-marginal-0-500-0-750-crop.jpg?v=55a9c09c54",
+      "description": "In the near future, along the Portuguese coast, a network of ocean and solar power transformers will be installed. With the ecological balance seriously threatened, domestic animals disappear from the cities and return to wildlife in upland areas. On hearing of his sister's death in a road disaster, Jorge tries to warn his father - who, meanwhile, leaves for a secretly kept house, as a refuge and resting place.",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "country": null,
+      "lb_director": "José de Sá Caetano",
+      "lb_director_slug": "jose-de-sa-caetano",
+      "lb_year": 1983,
+      "lb_title": "Um S Marginal",
+      "backdrop": null,
+      "imdb_id": "tt0083014",
+      "tmdb_id": "649830"
+    },
+    "omdb": {
+      "Title": "Um S Marginal",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "04 Aug 1983",
+      "Runtime": "93 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "José de Sá Caetano",
+      "Writer": "José de Sá Caetano",
+      "Actors": "Françoise Ariel, Eurico da Fonseca, Diogo Dória",
+      "Plot": "In the near future, along the Portuguese coast, a network of ocean and solar power transformers will be installed. With the ecological balance seriously threatened, domestic animals disappear from the cities and return to wildlife...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0083014",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "649830"
+  },
+  "The Devil Within|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/5/1/20751-the-devil-within-0-500-0-750-crop.jpg?v=f9b3addcf3",
+      "description": "A night of sex, drugs and partying in the Hollywood Hill's is the perfect setting for Serina's 18th birthday - until this high school pool party goes horribly wrong when an uninvited guest begins killing everyone",
+      "genres": [
+        "Thriller"
+      ],
+      "country": null,
+      "lb_director": "Tom Hardy",
+      "lb_director_slug": "tom-hardy-2",
+      "lb_year": 2010,
+      "lb_title": "The Devil Within",
+      "backdrop": null,
+      "imdb_id": "tt1263018",
+      "tmdb_id": "44426"
+    },
+    "omdb": {
+      "Title": "The Devil Within",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "21 May 2010",
+      "Runtime": "80 min",
+      "Genre": "Thriller",
+      "Director": "Tom Hardy",
+      "Writer": "Matt Dean",
+      "Actors": "Elizabeth Di Prinzio, Ryn Harrison, Bill Oberst Jr.",
+      "Plot": "A high school pool party rages in the Hollywood Hills.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDkxNTQ4MV5BMl5BanBnXkFtZTgwMDI5ODMzMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.1",
+      "imdbVotes": "345",
+      "imdbID": "tt1263018",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      19.1,
+      24.3,
+      27.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yJ8EErCqqmXgc7s1BnNj9tHsggU.jpg",
+      "https://image.tmdb.org/t/p/w1280/zxfDWuB1Icd6HM6j9wLPRFsWUle.jpg",
+      "https://image.tmdb.org/t/p/w1280/123ljdRcqgD6oXjC7o3MDAG96K2.jpg"
+    ],
+    "tmdb_id": "44426"
+  },
+  "The Glorious Dead|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/1/7/2/1529172-the-glorious-dead-0-500-0-750-crop.jpg?v=344db15ded",
+      "description": "\"[T]his is a story about Hell on Earth, taking The Word at its very word; told through one very, very bad day in the life of small-town Americana.”",
+      "genres": [
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Toby Poser",
+      "lb_director_slug": "toby-poser",
+      "lb_year": 2026,
+      "lb_title": "The Glorious Dead",
+      "backdrop": null,
+      "imdb_id": "tt42541654",
+      "tmdb_id": "1666010"
+    },
+    "omdb": {
+      "Title": "The Glorious Dead",
+      "Year": "1922",
+      "Rated": "N/A",
+      "Released": "15 Feb 1922",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "The ceremony of the burial of America's Unknown Soldier at Arlington Cemetery, Armistice Day, 1921.",
+      "Language": "N/A",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0965189",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1666010"
+  },
+  "The Fall Of The House Of Usher|None": {
+    "lbxd": {
+      "rating": 3.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/4/2/33842-the-fall-of-the-house-of-usher-0-500-0-750-crop.jpg?v=d3bb39085a",
+      "description": "Convinced that his family is tainted by generations of evil, Roderick Usher is hellbent on stopping his sister Madeline’s wedding to prevent the cursed Usher bloodline from expanding. When her fiancé Allan arrives at the crumbling estate to claim his bride, Roderick goes to ruthless—even deadly—lengths to keep them apart.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "France",
+      "lb_director": "Jean Epstein",
+      "lb_director_slug": "jean-epstein",
+      "lb_year": 1928,
+      "lb_title": "The Fall of the House of Usher",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/i2/fy/53/4i/fall%20of%20the%20house-1920-1920-1080-1080-crop-000000.jpg?v=1056dd9c78",
+      "imdb_id": "tt0018770",
+      "tmdb_id": "28189"
+    },
+    "omdb": {
+      "Title": "The Fall of the House of Usher",
+      "Year": "2023",
+      "Rated": "TV-MA",
+      "Released": "12 Oct 2023",
+      "Runtime": "N/A",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "N/A",
+      "Writer": "Mike Flanagan",
+      "Actors": "Carla Gugino, Bruce Greenwood, Mary McDonnell",
+      "Plot": "Siblings Roderick and Madeline Usher have built a pharmaceutical company into an empire of wealth, privilege and power; however, secrets come to light when the heirs to the Usher dynasty start dying.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 wins & 27 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiMjhkMzYtOWFmYS00YmRkLWIxYmYtN2FmZDEwODllYzA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "130,001",
+      "imdbID": "tt15567174",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.5,
+      18.4,
+      32.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/7jnqgnLUgazXvTwpZgnGgYAgEiN.jpg",
+      "https://image.tmdb.org/t/p/w1280/yBuWefnDE1ZC6sQZxUIhDP7bzaV.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/i2/fy/53/4i/fall%20of%20the%20house-1920-1920-1080-1080-crop-000000.jpg?v=1056dd9c78"
+    ],
+    "tmdb_id": "28189"
+  },
+  "Curtas ao Almoço: Competição PT #2|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Curtas: Méliès d’argent PT #02 + Q&A|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "As Ruínas no Interior (Corpos Celestes)|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/4/0/3/161403-corpos-celestes-0-500-0-750-crop.jpg?v=8b56d376b2",
+      "description": "An astronomer is forced to leave the city where he lives in order to save his relationship. He ends up returning to the place he never intended to come back: The small town where he was born, stage of a great childhood trauma. Once there, he will discover the truth that will change his life forever.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Marcos Jorge",
+      "lb_director_slug": "marcos-jorge-1",
+      "lb_year": 2011,
+      "lb_title": "Corpos Celestes",
+      "backdrop": null,
+      "imdb_id": "tt0814062",
+      "tmdb_id": "229664"
+    },
+    "omdb": {
+      "Title": "Corpos Celestes",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "01 Dec 2022",
+      "Runtime": "15 min",
+      "Genre": "Documentary, Short",
+      "Director": "Talita Prestes",
+      "Writer": "Talita Prestes",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGYzMzg2NTctMTcxNy00YzI1LWEwOGEtOGE4YjhhM2ZlNDAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt34619676",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "229664"
+  },
+  "Wicked Wicked|None": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/1/4/3/73143-wicked-wicked-0-500-0-750-crop.jpg?v=7fd5aa14d7",
+      "description": "Simmons, the manager of a seaside hotel in California, has a problem: Guests are turning up dead, and Sgt. Ramsey, the hotel's detective, has no information as to the identity of the murderer. The only thing anybody knows is that the killer wears a strange mask and has a fondness for blonde women. As Ramsey tracks down a list of suspects that includes the hotel handyman, Lisa, the hotel's lounge singer, finds herself in danger.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Richard L. Bare",
+      "lb_director_slug": "richard-l-bare",
+      "lb_year": 1973,
+      "lb_title": "Wicked, Wicked",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/z4/yv/3o/ux/yhOp1d1kRQ2r0bcssDlj9DsyzLR-1920-1920-1080-1080-crop-000000.jpg?v=fc0621a729",
+      "imdb_id": "tt0070916",
+      "tmdb_id": "86494"
+    },
+    "omdb": {
+      "Title": "Wicked, Wicked",
+      "Year": "1973",
+      "Rated": "PG",
+      "Released": "15 Jun 1973",
+      "Runtime": "95 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Richard L. Bare",
+      "Writer": "Richard L. Bare",
+      "Actors": "David Bailey, Tiffany Bolling, Randolph Roberts",
+      "Plot": "Someone murders and dismembers a series of blonde women; unique in that it is shot entirely in the early 1970's cinema gimmick DUO-VISION (split screen).",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzNlNjBhNmYtMDFiNC00OWRhLTgyZmItMTJkMGViMmU3MDk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.4",
+      "imdbVotes": "789",
+      "imdbID": "tt0070916",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      21.9,
+      44.0,
+      35.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yhOp1d1kRQ2r0bcssDlj9DsyzLR.jpg",
+      "https://image.tmdb.org/t/p/w1280/jhLcbo1mPU6U4CiKf1IbhVLSEiT.jpg",
+      "https://image.tmdb.org/t/p/w1280/7ApGxh5HIHr9fIjjA1zANmuHFw5.jpg"
+    ],
+    "tmdb_id": "86494"
+  },
+  "DreamQuil|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/4/5/3/7/1014537-dreamquil-0-500-0-750-crop.jpg?v=82efeb2783",
+      "description": "Set in the not so distant future when poor air quality leads to people living mostly virtual lives. Carol is a dissatisfied career mother, struggling to find connection within her marriage to Gary and her child. With the day to day familiarity of their home and lives feeling increasingly claustrophobic, and worried she could be heading towards divorce, Carol leaps at the chance to get her life back on track by signing up for \"DreamQuil\", an avant-garde digital wellness retreat. When Carol returns home however, she discovers her family has been living with \"Carol 2\", a robot the corporation sent designed to help in her absence, and things take a mysterious and sinister turn.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Alex Prager",
+      "lb_director_slug": "alex-prager",
+      "lb_year": 2026,
+      "lb_title": "DreamQuil",
+      "backdrop": null,
+      "imdb_id": "tt27733119",
+      "tmdb_id": "1125627"
+    },
+    "omdb": {
+      "Title": "DreamQuil",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 Mar 2026",
+      "Runtime": "89 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Alex Prager",
+      "Writer": "Alex Prager, Vanessa Prager",
+      "Actors": "Elizabeth Banks, Kathryn Newton, Juliette Lewis",
+      "Plot": "A woman embarks on a virtual wellness retreat in order to get her life back on track - but with nightmarish consequences.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzM2Y5ZGQtNDg0ZS00NjFjLTkzZDctYTkzODNmMjRiY2ZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt27733119",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.6,
+      42.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
+      "https://image.tmdb.org/t/p/w1280/aeuR3TkCbkOdlT7ecmj38zvVsxv.jpg"
+    ],
+    "tmdb_id": "1125627"
+  },
+  "Veins|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/0/7/2/1/680721-veins-0-500-0-750-crop.jpg?v=4ea57fbf34",
+      "description": "A young woman struggles with completing a ritual centered around a menacing fertility plant in order to ensure that her bloodline continues.",
+      "genres": [
+        "Horror"
+      ],
+      "country": null,
+      "lb_director": "Jordan Pfeifer",
+      "lb_director_slug": "jordan-pfeifer",
+      "lb_year": 2020,
+      "lb_title": "Veins",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "760271"
+    },
+    "omdb": {
+      "Title": "Veins",
+      "Year": "2020",
+      "Rated": "N/A",
+      "Released": "18 Sep 2020",
+      "Runtime": "N/A",
+      "Genre": "Short, Horror",
+      "Director": "Jordan Pfeifer",
+      "Writer": "Jackie Cherry, Danyela Gotcher",
+      "Actors": "Ann Nuñez, Caitlin Serros",
+      "Plot": "A young woman struggles with completing a ritual centered around a menacing fertility plant in order to ensure that her bloodline continues.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E3MjBhMDItN2MzMS00NzJlLTlkNjItMDc2YzgxOTNkMDNiXkEyXkFqcGdeQXVyMTA1NTc5ODM5._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt13044558",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "760271"
+  },
+  "Sunshine Express|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/6/7/4/1307674-sunshine-express-0-500-0-750-crop.jpg?v=2085edca02",
+      "description": "Participants assigned a specific character in a role-playing game undertake a fictional train journey to an island, in order to win a cash prize, only for the competition to become a microcosm of the limitations they experience in their real lives.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Iran",
+      "lb_director": "Amirali Navaee",
+      "lb_director_slug": "amirali-navaee",
+      "lb_year": 2025,
+      "lb_title": "Sunshine Express",
+      "backdrop": null,
+      "imdb_id": "tt35572092",
+      "tmdb_id": "1428886"
+    },
+    "omdb": {
+      "Title": "Sunshine Express",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "06 Feb 2025",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Amirali Navaee",
+      "Writer": "Amirali Navaee",
+      "Actors": "Sam Nakhai, Babak Karimi",
+      "Plot": "In \"Sunshine Express\" a diverse group of individuals sign a contract to take part in a reality show. They board a decorative train placed in a studio, bound for Hermia, the mythical land of dreams. Each passenger is assigned a uni...",
+      "Language": "Persian",
+      "Country": "Iran",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlZjhhYjktYWY0Ni00YmMyLWIyMDEtOWYwYTM1NmZjZGU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "19",
+      "imdbID": "tt35572092",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
+    ],
+    "tmdb_id": "1428886"
+  },
+  "Recluse|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/7/3/8/250738-recluse-0-500-0-750-crop.jpg?v=544750984f",
+      "description": "A reconstruction of the possible events that might have led up to the real-life tragic case of the Luxton family who lived at West Chapple Farm, Winkleigh, Devon. Brothers and sister Robert, Alan and Frances Luxton had lived in the farm for many years. On 23 September 1975 their bodies were found with shotgun wounds outside their farmhouse.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": null,
+      "lb_director": "Bob Bentley",
+      "lb_director_slug": "bob-bentley",
+      "lb_year": 1981,
+      "lb_title": "Recluse",
+      "backdrop": null,
+      "imdb_id": "tt0216147",
+      "tmdb_id": "323609"
+    },
+    "omdb": {
+      "Title": "Recluse",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "27 min",
+      "Genre": "Short, Drama",
+      "Director": "Bob Bentley",
+      "Writer": "Paddy Fletcher, Bob Bentley",
+      "Actors": "Maurice Denham, Derek Smith, Ann Tirard",
+      "Plot": "This film is a reconstruction of the possible events that might have led up to the real-life tragic case of the Luxton family who lived at West Chapple Farm, Winkleigh, Devon. Brothers and sister Robert, Alan and Frances Luxton ha...",
+      "Language": "English",
+      "Country": "United Kingdom, Canada",
+      "Awards": "Won 1 BAFTA Award1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWVjZTY0MWQtZjY2Yi00OWRiLWE5NGYtNGNkMWMyNDBhMDUzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "53",
+      "imdbID": "tt0216147",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      27.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/4fbAiQcmzqGpqXaOMVgmFPt20hf.jpg",
+      "https://image.tmdb.org/t/p/w1280/rgV7kRvAgxznO4Y3YTO3dUtAC.jpg"
+    ],
+    "tmdb_id": "323609"
+  },
+  "Curtas ao Almoço: Competição PT #1 2026|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "God Skin|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/2/7/3/1/1162731-god-skin-0-500-0-750-crop.jpg?v=9b16c62d18",
+      "description": "Win, takes a lethal gamble to fund his mother's medical treatment when Itt, an old friend, lures him into the Arena. In this brutal underground circuit, fighters are marked with \"God Skin\" tattoos to gain a ruthless edge.",
+      "genres": [
+        "Science Fiction",
+        "Fantasy",
+        "Action"
+      ],
+      "country": "Thailand",
+      "lb_director": "Paween Purijitpanya",
+      "lb_director_slug": "paween-purijitpanya-1",
+      "lb_year": 2026,
+      "lb_title": "God Skin",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/pu/dj/i7/qi/97N6gxiBB2Dk71g8v0XxSi8Hyeb-1920-1920-1080-1080-crop-000000.jpg?v=524f8cdb3a",
+      "imdb_id": "tt42834526",
+      "tmdb_id": "1278971"
+    },
+    "omdb": {
+      "Title": "God Skin",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "27 Aug 2026",
+      "Runtime": "N/A",
+      "Genre": "Fantasy, Action",
+      "Director": "Paween Purijitpanya",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Follows a delivery boy who discovers a clandestine martial arts scene with a high-tech twist.",
+      "Language": "N/A",
+      "Country": "Thailand",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGVlMzc4ODctZmJhMC00YjFjLTg3NmUtNGZhMDM0NGFlNWQ2XkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt42834526",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      26.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/97N6gxiBB2Dk71g8v0XxSi8Hyeb.jpg",
+      "https://image.tmdb.org/t/p/w1280/7pbILoLbonhPQ4nndfL8OmfTf5n.jpg"
+    ],
+    "tmdb_id": "1278971"
+  },
+  "Game + Q&A|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "The Hunger – Sessão Especial RTP ANTENA 3|None": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/9/45099-the-hunger-0-500-0-750-crop.jpg?v=00ecc49c58",
+      "description": "Five-thousand-year-old vampire Miriam promises her lovers the gift of eternal life. When John, her cellist companion for centuries, discovers that he has suddenly begun growing old, he attempts to seek out the help of Dr. Sarah Roberts, a researcher on the mechanisms of aging.",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "country": "UK",
+      "lb_director": "Tony Scott",
+      "lb_director_slug": "tony-scott",
+      "lb_year": 1983,
+      "lb_title": "The Hunger",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/u6/ll/1h/vc/the-hunger-1920-1920-1080-1080-crop-000000.jpg?v=96fb197b0d",
+      "imdb_id": "tt0085701",
+      "tmdb_id": "11654"
+    },
+    "omdb": {
+      "Title": "The Hunger",
+      "Year": "1983",
+      "Rated": "R",
+      "Released": "29 Apr 1983",
+      "Runtime": "97 min",
+      "Genre": "Drama, Horror",
+      "Director": "Tony Scott",
+      "Writer": "James Costigan, Michael Thomas, Whitley Strieber",
+      "Actors": "Catherine Deneuve, David Bowie, Susan Sarandon",
+      "Plot": "A love triangle develops between a vampire, her cellist companion, and a gerontologist.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAyNmQ3N2MtOWZlOS00Mjg1LWJhY2EtNmMzOTgyODg2NjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "Metascore": "52",
+      "imdbRating": "6.6",
+      "imdbVotes": "30,695",
+      "imdbID": "tt0085701",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,979,292",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.4,
+      13.4,
+      32.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qw9p7gBroQt99fjG0cwtLHohQR9.jpg",
+      "https://image.tmdb.org/t/p/w1280/iTcNyLdz5FrnUtd9hkAkdE0WOO1.jpg",
+      "https://image.tmdb.org/t/p/w1280/cPyiFUo1HwUVj8fKjpssS0UavBq.jpg"
+    ],
+    "tmdb_id": "11654"
+  },
+  "The Case of the Scorpion’s Tail + Q&A|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Ghost in the Cell|None": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/6/6/3/1277663-ghost-in-the-cell-0-500-0-750-crop.jpg?v=e438d28d3c",
+      "description": "A notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Comedy"
+      ],
+      "country": "Indonesia",
+      "lb_director": "Joko Anwar",
+      "lb_director_slug": "joko-anwar-1",
+      "lb_year": 2026,
+      "lb_title": "Ghost in the Cell",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/7/7/6/6/3/tmdb/izuzDBvLM4ja1rt2EuA4hHBMF52-1920-1920-1080-1080-crop-000000.jpg?v=537f8fd6c5",
+      "imdb_id": "tt9000310",
+      "tmdb_id": "1393326"
+    },
+    "omdb": {
+      "Title": "Ghost in the Cell",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 Apr 2026",
+      "Runtime": "106 min",
+      "Genre": "Comedy, Horror, Thriller",
+      "Director": "Joko Anwar",
+      "Writer": "N/A",
+      "Actors": "Abimana Aryasatya, Almanzo Konoralma, Aming Sugandhi",
+      "Plot": "A notorious prison, an invisible force starts killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "Language": "Indonesian",
+      "Country": "Indonesia, South Korea",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVmOTI2N2UtM2U1Ny00ZTJlLWE0ODktZDk3OWI2MjBhNmZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "35",
+      "imdbID": "tt9000310",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.5,
+      60.1,
+      40.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "https://image.tmdb.org/t/p/w1280/afk22GzX3YZoG6XRsD3T2QRn0lv.jpg",
+      "https://image.tmdb.org/t/p/w1280/unEj3lNA48RKVQDdzeaTxKHtE4C.jpg"
+    ],
+    "tmdb_id": "1393326"
+  },
+  "Os Primos|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/4/7/8/9/524789-os-primos-0-500-0-750-crop.jpg?v=e5bd22ab08",
+      "description": "A suit and tie dressed gang plays Ska.",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "country": null,
+      "lb_director": "Pedro Cláudio",
+      "lb_director_slug": "pedro-claudio",
+      "lb_year": 1996,
+      "lb_title": "Os Primos",
+      "backdrop": null,
+      "imdb_id": "tt0119946",
+      "tmdb_id": "597430"
+    },
+    "omdb": {
+      "Title": "Os Primos",
+      "Year": "1997",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Pedro Claudio",
+      "Writer": "N/A",
+      "Actors": "Ricardo Aires, João Cardoso, Luis Varatojo",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0119946",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "597430"
+  },
+  "Goodfellas|1990": {
+    "lbxd": {
+      "rating": 4.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/3/51383-goodfellas-0-500-0-750-crop.jpg?v=172dbb3464",
+      "description": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1990,
+      "lb_title": "GoodFellas",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ws/2f/hj/8v/goodfellas-1920-1920-1080-1080-crop-000000.jpg?v=5083689b66",
+      "imdb_id": "tt0099685",
+      "tmdb_id": "769"
+    },
+    "omdb": {
+      "Title": "GoodFellas",
+      "Year": "1990",
+      "Rated": "R",
+      "Released": "21 Sep 1990",
+      "Runtime": "145 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Nicholas Pileggi, Martin Scorsese",
+      "Actors": "Robert De Niro, Ray Liotta, Joe Pesci",
+      "Plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+      "Language": "English, Italian, Hebrew, Yiddish",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 44 wins & 38 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.7",
+      "imdbVotes": "1,388,009",
+      "imdbID": "tt0099685",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$46,909,721",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.3,
+      48.8,
+      34.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+      "https://image.tmdb.org/t/p/w1280/sw7mordbZxgITU877yTpZCud90M.jpg",
+      "https://image.tmdb.org/t/p/w1280/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg"
+    ],
+    "tmdb_id": "769"
+  },
+  "Mean Streets|1973": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-500-0-750-crop.jpg?v=316b4037b1",
+      "description": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1973,
+      "lb_title": "Mean Streets",
+      "backdrop": null,
+      "imdb_id": "tt0070379",
+      "tmdb_id": "203"
+    },
+    "omdb": {
+      "Title": "Mean Streets",
+      "Year": "1973",
+      "Rated": "R",
+      "Released": "14 Oct 1973",
+      "Runtime": "112 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Martin Scorsese",
+      "Writer": "Martin Scorsese, Mardik Martin",
+      "Actors": "Robert De Niro, Harvey Keitel, David Proval",
+      "Plot": "In New York City's Little Italy, a devoutly Catholic mobster must reconcile his desire for power, his feelings for his epileptic girlfriend, and his devotion to his troublesome friend.",
+      "Language": "English, Italian, German, Yiddish",
+      "Country": "United States",
+      "Awards": "5 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRlNDdiYWUtYjE1Zi00OWRhLWJiYTYtZWQ0NWFkYzc0NWMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "7.2",
+      "imdbVotes": "124,697",
+      "imdbID": "tt0070379",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$32,645",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.0,
+      38.8,
+      45.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+      "https://image.tmdb.org/t/p/w1280/iezr93fyrP7ZuJKWmHDXOzyvJIe.jpg",
+      "https://image.tmdb.org/t/p/w1280/iRoXulumL5AQHtjLZoUNHzY4IcV.jpg"
+    ],
+    "tmdb_id": "203"
+  },
+  "E La Nave Va|1983": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/6/8/48768-and-the-ship-sails-on-0-500-0-750-crop.jpg?v=e6449258b7",
+      "description": "In 1914, a cruise ship sets sail from Naples to spread the ashes of beloved opera singer Edmea Tetua near Erimo, the isle of her birth. During the voyage, the eclectic array of passengers discovers a group of Serbian refugees aboard the vessel. Peace and camaraderie abound until the ship is descended upon by an Austrian flagship. The Serbians are forced to board it, but naturally they resist, igniting a skirmish that ends in destruction.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Federico Fellini",
+      "lb_director_slug": "federico-fellini",
+      "lb_year": 1983,
+      "lb_title": "And the Ship Sails On",
+      "backdrop": null,
+      "imdb_id": "tt0087188",
+      "tmdb_id": "5622"
+    },
+    "omdb": {
+      "Title": "The Ship Sails On",
+      "Year": "1983",
+      "Rated": "PG",
+      "Released": "07 Oct 1983",
+      "Runtime": "128 min",
+      "Genre": "Drama, History, Music",
+      "Director": "Federico Fellini",
+      "Writer": "Federico Fellini, Tonino Guerra",
+      "Actors": "Freddie Jones, Barbara Jefford, Victor Poletti",
+      "Plot": "In 1914, a luxury ship leaves Italy in order to scatter the ashes of a famous opera singer. A lovable bumbling journalist chronicles the voyage and meets the singer's many eccentric friends and admirers.",
+      "Language": "Italian, German, Serbian, Russian",
+      "Country": "Italy, France",
+      "Awards": "11 wins & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGI3Yjc0ODAtOWZkNy00ZjBkLThiMWYtZDkzNDYyOTgzNWI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "6,914",
+      "imdbID": "tt0087188",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      43.0,
+      15.5,
+      36.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lg8qHPCrn3GUsxXHyMbZAprSDcq.jpg",
+      "https://image.tmdb.org/t/p/w1280/mM1U2AJ37gzgxSBcqZNC7s8mZGR.jpg",
+      "https://image.tmdb.org/t/p/w1280/claHLMbK3lVwGDH1T9iV1xxTmOl.jpg"
+    ],
+    "tmdb_id": "5622"
+  },
+  "Boxcar Bertha|1972": {
+    "lbxd": {
+      "rating": 2.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/0/3/37703-boxcar-bertha-0-500-0-750-crop.jpg?v=54e6bbabab",
+      "description": "\"Boxcar\" Bertha Thompson, a transient woman in Arkansas during the violence-filled Depression of the early '30s, meets up with rabble-rousing union man \"Big\" Bill Shelly and the two team up to fight the corrupt railroad establishment.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1972,
+      "lb_title": "Boxcar Bertha",
+      "backdrop": null,
+      "imdb_id": "tt0068309",
+      "tmdb_id": "22784"
+    },
+    "omdb": {
+      "Title": "Boxcar Bertha",
+      "Year": "1972",
+      "Rated": "R",
+      "Released": "14 Jun 1972",
+      "Runtime": "88 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Martin Scorsese",
+      "Writer": "Ben L. Reitman, Joyce Hooper Corrington, John William Corrington",
+      "Actors": "Barbara Hershey, David Carradine, Barry Primus",
+      "Plot": "During the Great Depression, a union leader and a young woman become criminals to exact revenge on the management of a railroad.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3NmViYzEtOTIwMS00YmRlLWI0YWQtZTFmZjVlNWI0M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "57%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "61/100"
+        }
+      ],
+      "Metascore": "61",
+      "imdbRating": "6.0",
+      "imdbVotes": "11,636",
+      "imdbID": "tt0068309",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.1,
+      41.0,
+      27.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qqzuj6uWDNCtuRZSeNLji9LqQwZ.jpg",
+      "https://image.tmdb.org/t/p/w1280/dtotMnYEGaerCEtgz8PEOug5SDM.jpg",
+      "https://image.tmdb.org/t/p/w1280/mqALAwBOfy985phO8qlvzItR7SA.jpg"
+    ],
+    "tmdb_id": "22784"
+  },
+  "Alice Doesn’t Live Here Anymore|1975": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/7/8/9/41789-alice-doesn-t-live-here-anymore-0-500-0-750-crop.jpg?v=0fb472b004",
+      "description": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1974,
+      "lb_title": "Alice Doesn't Live Here Anymore",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tl/mq/xv/58/alice-doesnt-live-here-anymore-1920-1920-1080-1080-crop-000000.jpg?v=0d8a3b0262",
+      "imdb_id": "tt0071115",
+      "tmdb_id": "16153"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.5,
+      48.8,
+      18.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+      "https://image.tmdb.org/t/p/w1280/wb2WNnJENGjZjro7cy1F8S9Lfxf.jpg",
+      "https://image.tmdb.org/t/p/w1280/kr6udcTVBlb0syv0IGbUn6PJqgW.jpg"
+    ],
+    "tmdb_id": "16153"
+  },
+  "Turandot|2015": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/5/1/6/7/365167-turandot-0-500-0-750-crop.jpg?v=ee7bfaef0e",
+      "description": "Mention Giacomo Puccini's name and opera-lovers all over the world will think of grand opera and passionate love stories. One of the world's most famous arias comes from the composer's final opera, Turandot: \"Nessun dorma\" none shall sleep because by morning the Chinese princess is determined to have discovered the name of the unknown prince. The work is remarkable for its Chinese local colour, its opulent crowd scenes, its powerful choruses and its characters overwhelmed by their emotions. Enthusiastically acclaimed by its audiences, the present production combines spectacular and touching scenes on the Bregenz Festival's vast lakeside stage.",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "country": "Austria",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2015,
+      "lb_title": "Turandot",
+      "backdrop": null,
+      "imdb_id": "tt4907226",
+      "tmdb_id": "432021"
+    },
+    "omdb": {
+      "Title": "Turandot",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "24 Jul 2015",
+      "Runtime": "150 min",
+      "Genre": "Drama, Music",
+      "Director": "Felix Breisach",
+      "Writer": "Giuseppe Adami, Renato Simoni",
+      "Actors": "Mlada Khudoley, Riccardo Massi, Yu Guanqun",
+      "Plot": "N/A",
+      "Language": "Italian",
+      "Country": "Austria, Germany, Switzerland",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgzNTJjYjAtYTJlMC00YmY1LTk4YTMtZGM5NWUxMDkwYzczXkEyXkFqcGdeQXVyNzIyMTM1NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "11",
+      "imdbID": "tt4907226",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "432021"
+  },
+  "New York, New York|1977": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/0/5/44405-new-york-new-york-0-500-0-750-crop.jpg?v=f406d57c0e",
+      "description": "An egotistical saxophone player and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long uphill climb.",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1977,
+      "lb_title": "New York, New York",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/u0/yi/f0/r7/new%20york%20new%20york-1920-1920-1080-1080-crop-000000.jpg?v=04d23a0907",
+      "imdb_id": "tt0076451",
+      "tmdb_id": "12637"
+    },
+    "omdb": {
+      "Title": "New York, New York",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "21 Jun 1977",
+      "Runtime": "155 min",
+      "Genre": "Drama, Music, Musical",
+      "Director": "Martin Scorsese",
+      "Writer": "Earl Mac Rauch, Mardik Martin",
+      "Actors": "Liza Minnelli, Robert De Niro, Lionel Stander",
+      "Plot": "An egotistical saxophonist and a young lounge singer meet on VJ Day and embark upon a strained and rocky romance, even as their careers begin a long, uphill climb.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 BAFTA 2 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NmU3ZDEtMzMxNy00ZmQwLWE3NzQtOTljMDM4OWRjYmIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "6.6",
+      "imdbVotes": "22,368",
+      "imdbID": "tt0076451",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$16,400,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      47.4,
+      20.6,
+      14.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9lOh8t4qPBfqIcKNW0HT0VdMgEi.jpg",
+      "https://image.tmdb.org/t/p/w1280/dy9vvNddvAdsKXKnulnvhP8FxGv.jpg",
+      "https://image.tmdb.org/t/p/w1280/lS4nKr1I1hYJldaMLY83412lHZs.jpg"
+    ],
+    "tmdb_id": "12637"
+  },
+  "Das Singende, Klingende Bäumchen|1957": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/5/4/0/44540-the-singing-ringing-tree-0-500-0-750-crop.jpg?v=2adb52061d",
+      "description": "A brave prince must seek the fabled singing, ringing tree in order to win the heart of a beautiful princess.",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Horror"
+      ],
+      "country": "East Germany",
+      "lb_director": "Francesco Stefani",
+      "lb_director_slug": "francesco-stefani",
+      "lb_year": 1957,
+      "lb_title": "The Singing Ringing Tree",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/81/jo/3k/mp/singing-1920-1920-1080-1080-crop-000000.jpg?v=088e5e82f8",
+      "imdb_id": "tt0052199",
+      "tmdb_id": "12495"
+    },
+    "omdb": {
+      "Title": "The Singing Ringing Tree",
+      "Year": "1957",
+      "Rated": "N/A",
+      "Released": "13 Dec 1957",
+      "Runtime": "74 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Francesco Stefani",
+      "Writer": "Anne Geelhaar, Jacob Grimm, Wilhelm Grimm",
+      "Actors": "Christel Bodenstein, Charles Hans Vogt, Eckart Dux",
+      "Plot": "A brave prince wants to win the heart of a stubborn princess by finding the singing, ringing tree for her.",
+      "Language": "German",
+      "Country": "East Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjcyMjUxODc2MV5BMl5BanBnXkFtZTcwNjk4NDgxMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "1,011",
+      "imdbID": "tt0052199",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      36.7,
+      34.5,
+      33.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/nbSncvmn231eCYUKwAxQxOQjjtb.jpg",
+      "https://image.tmdb.org/t/p/w1280/8OboudIWcpOx6n45MrXDDHjYUKh.jpg",
+      "https://image.tmdb.org/t/p/w1280/sO4gCTbshmIqDljKsoefGqwXrqq.jpg"
+    ],
+    "tmdb_id": "12495"
+  },
+  "Raging Bull|1980": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/6/50956-raging-bull-0-500-0-750-crop.jpg?v=b25f43f7b6",
+      "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1980,
+      "lb_title": "Raging Bull",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/r6/mv/od/ry/lhFdMGwVYPceZRLU6WRUJGTd6Xo-1920-1920-1080-1080-crop-000000.jpg?v=8537ba182e",
+      "imdb_id": "tt0081398",
+      "tmdb_id": "1578"
+    },
+    "omdb": {
+      "Title": "Raging Bull",
+      "Year": "1980",
+      "Rated": "R",
+      "Released": "19 Dec 1980",
+      "Runtime": "129 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Martin Scorsese",
+      "Writer": "Jake LaMotta, Joseph Carter, Peter Savage",
+      "Actors": "Robert De Niro, Cathy Moriarty, Joe Pesci",
+      "Plot": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 24 wins & 28 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.1",
+      "imdbVotes": "407,608",
+      "imdbID": "tt0081398",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$23,383,987",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.0,
+      34.3,
+      35.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "https://image.tmdb.org/t/p/w1280/6t4jqCok1yGBn7z7CKlCsWsjoNX.jpg",
+      "https://image.tmdb.org/t/p/w1280/yL89QDlifY50ypzjF5ak9WJrjxr.jpg"
+    ],
+    "tmdb_id": "1578"
+  },
+  "The Last Waltz|1978": {
+    "lbxd": {
+      "rating": 4.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/4/4/9/43449-the-last-waltz-0-500-0-750-crop.jpg?v=e137475542",
+      "description": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1978,
+      "lb_title": "The Last Waltz",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/7g/bg/1y/ra/last-waltz-1920-1920-1080-1080-crop-000000.jpg?v=a899694786",
+      "imdb_id": "tt0077838",
+      "tmdb_id": "13963"
+    },
+    "omdb": {
+      "Title": "The Last Waltz",
+      "Year": "1978",
+      "Rated": "PG",
+      "Released": "26 Apr 1978",
+      "Runtime": "117 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Martin Scorsese",
+      "Writer": "Mardik Martin",
+      "Actors": "Robbie Robertson, Muddy Waters, Neil Young",
+      "Plot": "A film account and presentation of the final concert of The Band.",
+      "Language": "English, Middle English",
+      "Country": "United States",
+      "Awards": "3 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3MjEzNjgtNzE2OC00ZTQwLWFhYjUtNDQ4ZWJhYTFmMzYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "8.1",
+      "imdbVotes": "21,446",
+      "imdbID": "tt0077838",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$322,313",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      21.8,
+      25.3,
+      39.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+      "https://image.tmdb.org/t/p/w1280/9K2MPICI1Jz3il86ISZLniQ6T2T.jpg",
+      "https://image.tmdb.org/t/p/w1280/8kX41oWjNt5R7337sgdMVvd07ZU.jpg"
+    ],
+    "tmdb_id": "13963"
+  },
+  "Libahunt|1968": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/4/3/0/2/324302-werewolf-1969-0-500-0-750-crop.jpg?v=44da73c91a",
+      "description": "There are three children growing at Tammaru farm - one boy, Margus; and two orphan girls, Mari and Tiina. Margus' parents want him to marry Mari instead of Tiina as she is more their kind. Hotblooded Tiina is completely different from them and her mother was once executed for being a witch. Thinking that Tiina has bewitched Margus, Mari starts to publicly accuse her stepsister of being a werewolf.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USSR",
+      "lb_director": "Leida Laius",
+      "lb_director_slug": "leida-laius",
+      "lb_year": 1969,
+      "lb_title": "Werewolf",
+      "backdrop": null,
+      "imdb_id": "tt0445527",
+      "tmdb_id": "389684"
+    },
+    "omdb": {
+      "Title": "Libahunt",
+      "Year": "1968",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "71 min",
+      "Genre": "Drama, Romance",
+      "Director": "Leida Laius",
+      "Writer": "August Kitzberg, Leida Laius, Lembit Remmelgas",
+      "Actors": "Ene Rämmeld, Doris Kareva, Malle Klaassen",
+      "Plot": "A young woman living in a 19th century farming village is accused of being a werewolf.",
+      "Language": "Estonian",
+      "Country": "Soviet Union, Estonia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVlNGRlN2MtOWFmMC00N2ZjLWJkN2ItNDgwZmI0ZGYzNDAwXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "65",
+      "imdbID": "tt0445527",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.4,
+      35.1,
+      32.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9tgmfUeIfh5Vg02ch3pxlPngK9z.jpg",
+      "https://image.tmdb.org/t/p/w1280/gWG2dVV4wcMCBIWJxmuqVe8YBkg.jpg",
+      "https://image.tmdb.org/t/p/w1280/dPhdQBEKTj36ptNmUVrD7xNqWXc.jpg"
+    ],
+    "tmdb_id": "389684"
+  },
+  "Babe|1995": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/0/3/47003-babe-0-500-0-750-crop.jpg?v=e131e96722",
+      "description": "Babe is a little pig who doesn't quite know his place in the world. With a bunch of odd friends, like Ferdinand the duck who thinks he is a rooster and Fly the dog he calls mum, Babe realises that he has the makings to become the greatest sheep pig of all time, and Farmer Hoggett knows it. With the help of the sheep dogs, Babe learns that a pig can be anything that he wants to be.",
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Comedy"
+      ],
+      "country": "Australia",
+      "lb_director": "Chris Noonan",
+      "lb_director_slug": "chris-noonan",
+      "lb_year": 1995,
+      "lb_title": "Babe",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/nu/xk/9e/g7/babe-1920-1920-1080-1080-crop-000000.jpg?v=3544944a5e",
+      "imdb_id": "tt0112431",
+      "tmdb_id": "9598"
+    },
+    "omdb": {
+      "Title": "Babe",
+      "Year": "1995",
+      "Rated": "G",
+      "Released": "04 Aug 1995",
+      "Runtime": "91 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Chris Noonan",
+      "Writer": "Dick King-Smith, George Miller, Chris Noonan",
+      "Actors": "James Cromwell, Magda Szubanski, Christine Cavanaugh",
+      "Plot": "Gentle farmer Arthur Hoggett wins a piglet Babe at a county fair. Narrowly escaping his fate as Christmas dinner, Babe bonds with motherly border collie Fly and discovers that he too can herd sheep. But will the other animals acce...",
+      "Language": "English",
+      "Country": "Australia, United States, United Kingdom",
+      "Awards": "Won 1 Oscar. 20 wins & 26 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYxZWZiMTgtMjJhOC00OTE1LTk0MmQtMGFiOGY3ZTAwZGRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "6.9",
+      "imdbVotes": "141,471",
+      "imdbID": "tt0112431",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$63,658,910",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.8,
+      22.9,
+      25.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/agkZziO4ZPAsVfKUrJD68lys08P.jpg",
+      "https://image.tmdb.org/t/p/w1280/3VbM5FaXHpv7kCxSBLTMKTxAIjZ.jpg",
+      "https://image.tmdb.org/t/p/w1280/fdSFKvvCWDjW7nytSvW85AxsXVL.jpg"
+    ],
+    "tmdb_id": "9598"
+  },
+  "The Phantom Of The Opera|1925": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/9/51199-the-phantom-of-the-opera-0-500-0-750-crop.jpg?v=7346ac0c1d",
+      "description": "The deformed Phantom who haunts the Paris Opera House causes murder and mayhem in an attempt to make the woman he loves a star.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Rupert Julian",
+      "lb_director_slug": "rupert-julian",
+      "lb_year": 1925,
+      "lb_title": "The Phantom of the Opera",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/yg/vh/e5/he/phantom-1920-1920-1080-1080-crop-000000.jpg?v=984fad3a66",
+      "imdb_id": "tt0016220",
+      "tmdb_id": "964"
+    },
+    "omdb": {
+      "Title": "The Phantom of the Opera",
+      "Year": "1925",
+      "Rated": "Passed",
+      "Released": "15 Nov 1925",
+      "Runtime": "93 min",
+      "Genre": "Horror, Music",
+      "Director": "Rupert Julian, Lon Chaney, Ernst Laemmle",
+      "Writer": "Gaston Leroux, Walter Anthony, Elliott J. Clawson",
+      "Actors": "Lon Chaney, Mary Philbin, Norman Kerry",
+      "Plot": "A mad, disfigured composer seeks love with a lovely young opera singer.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVjYWMwZDYtZTllNC00ZGY1LWEwYzktOWVmODNlMThhMzZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "21,277",
+      "imdbID": "tt0016220",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,751,476",
+      "Production": "Hammer Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.4,
+      27.9,
+      39.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/6FSs7jMimg1PBYdhZtPNQhtKtEc.jpg",
+      "https://image.tmdb.org/t/p/w1280/5bFqCnEXkIhmONW8pRoV1e2W0NU.jpg",
+      "https://image.tmdb.org/t/p/w1280/zWkiRZAUWn8OBVu7WMTa9AlfHpP.jpg"
+    ],
+    "tmdb_id": "964"
+  },
+  "The King Of Comedy|1982": {
+    "lbxd": {
+      "rating": 4.24,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-500-0-750-crop.jpg?v=8eb030b5f7",
+      "description": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1982,
+      "lb_title": "The King of Comedy",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/63/tq/rj/fi/king-of-comedy-1920-1920-1080-1080-crop-000000.jpg?v=d7392849d7",
+      "imdb_id": "tt0085794",
+      "tmdb_id": "262"
+    },
+    "omdb": {
+      "Title": "The King of Comedy",
+      "Year": "1982",
+      "Rated": "PG",
+      "Released": "18 Dec 1982",
+      "Runtime": "109 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Paul D. Zimmerman",
+      "Actors": "Robert De Niro, Jerry Lewis, Diahnne Abbott",
+      "Plot": "Rupert is an aspiring stand-up comedian, who is willing to go the extra mile in his attempt to appear in the late night show hosted by his idol.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 BAFTA Award3 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTQxNGUwNmUtMDJhYy00ZjM1LWFjZjQtYmI5ZGY4YTZmZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "7.8",
+      "imdbVotes": "131,528",
+      "imdbID": "tt0085794",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$2,536,242",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      17.5,
+      43.1,
+      40.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+      "https://image.tmdb.org/t/p/w1280/bVPDmDlAoXqWf38ZsVcQTFDYW1s.jpg",
+      "https://image.tmdb.org/t/p/w1280/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg"
+    ],
+    "tmdb_id": "262"
+  },
+  "After Hours|1985": {
+    "lbxd": {
+      "rating": 4.13,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/2z/7c/vx/lo/qpr5tRmvyx4rbv1gKMKbW1v5JUC-0-500-0-750-crop.jpg?v=3f65cdcb25",
+      "description": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1985,
+      "lb_title": "After Hours",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wa/pe/3a/2d/after%20hours-1920-1920-1080-1080-crop-000000.jpg?v=cce9e99eab",
+      "imdb_id": "tt0088680",
+      "tmdb_id": "10843"
+    },
+    "omdb": {
+      "Title": "After Hours",
+      "Year": "1985",
+      "Rated": "R",
+      "Released": "11 Oct 1985",
+      "Runtime": "97 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Joseph Minion",
+      "Actors": "Griffin Dunne, Rosanna Arquette, Verna Bloom",
+      "Plot": "Ordinary word processor Paul Hackett experiences the worst night of his life after he agrees to visit Marcy, a Soho resident that he met that evening at a coffee shop.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 BAFTA Award3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "7.6",
+      "imdbVotes": "96,034",
+      "imdbID": "tt0088680",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$10,609,321",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      49.9,
+      23.6,
+      24.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+      "https://image.tmdb.org/t/p/w1280/gTPH5zIvkl8HV9vLsqOiPBVTsSB.jpg",
+      "https://image.tmdb.org/t/p/w1280/7Pj9AZ4CpnxkDXYMxzae4WmJUsJ.jpg"
+    ],
+    "tmdb_id": "10843"
+  },
+  "Izbavitelj|1976": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/6/4/1/124641-the-rat-savior-0-500-0-750-crop.jpg?v=ce4760a570",
+      "description": "A poor writer discovers that a species of rats has banded together to impersonate humans and supplant them unnoticed, in a manner reminiscent of the transformations in Eugene Ionesco's Rhinoceros, or the covert conspiracy of pod-people in The Invasion of the Body Snatchers. This film's story is based on a book by the Soviet writer Alexander Grin.",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Horror"
+      ],
+      "country": "Yugoslavia",
+      "lb_director": "Krsto Papić",
+      "lb_director_slug": "krsto-papic",
+      "lb_year": 1976,
+      "lb_title": "The Rat Savior",
+      "backdrop": null,
+      "imdb_id": "tt0074701",
+      "tmdb_id": "169250"
+    },
+    "omdb": {
+      "Title": "The Rat Savior",
+      "Year": "1976",
+      "Rated": "N/A",
+      "Released": "26 Oct 1976",
+      "Runtime": "80 min",
+      "Genre": "Horror, Sci-Fi",
+      "Director": "Krsto Papic",
+      "Writer": "Ivo Bresan, Alexander Grin, Krsto Papic",
+      "Actors": "Ivica Vidovic, Mirjana Majurec, Relja Basic",
+      "Plot": "A poor writer discovers that a species of rats has banded together to impersonate humans and supplant them unnoticed, in a manner reminiscent of the transformations in Eugene Ionesco's Rhinoceros, or the covert conspiracy of pod-p...",
+      "Language": "Serbo-Croatian",
+      "Country": "Yugoslavia",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgzYmJjZGUtZjU5Yy00NWUxLWJmYzUtYWVhMTc4MGFlNTg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "938",
+      "imdbID": "tt0074701",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.0,
+      24.3,
+      36.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/69pfZU4GUzHYSaKITgke1l4B3CE.jpg",
+      "https://image.tmdb.org/t/p/w1280/eUEWFwK5wJCYLQlDKgQ5fa9glHb.jpg",
+      "https://image.tmdb.org/t/p/w1280/xOMghIHzJHd69RnING3M5Zh1Nmq.jpg"
+    ],
+    "tmdb_id": "169250"
+  },
+  "The Color Of Money|1986": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/3/0/44930-the-color-of-money-0-500-0-750-crop.jpg?v=e9d86f8587",
+      "description": "Former pool hustler \"Fast Eddie\" Felson decides he wants to return to the game by taking a pupil. He meets talented but green Vincent Lauria and proposes a partnership. As they tour pool halls, Eddie teaches Vincent the tricks of scamming, but he eventually grows frustrated with Vincent's showboat antics, leading to an argument and a falling-out. Eddie takes up playing again and soon crosses paths with Vincent as an opponent.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1986,
+      "lb_title": "The Color of Money",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/pf/w4/vd/9d/the-color-of-money-1920-1920-1080-1080-crop-000000.jpg?v=9334fbf084",
+      "imdb_id": "tt0090863",
+      "tmdb_id": "11873"
+    },
+    "omdb": {
+      "Title": "The Color of Money",
+      "Year": "1986",
+      "Rated": "R",
+      "Released": "17 Oct 1986",
+      "Runtime": "119 min",
+      "Genre": "Drama, Sport",
+      "Director": "Martin Scorsese",
+      "Writer": "Walter Tevis, Richard Price",
+      "Actors": "Paul Newman, Tom Cruise, Mary Elizabeth Mastrantonio",
+      "Plot": "Fast Eddie Felson teaches a cocky but immensely talented protégé the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU5NDMwOTctZTU2NS00ODc4LWJiYTAtYzMzM2JiYmY4OTg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "7.0",
+      "imdbVotes": "97,663",
+      "imdbID": "tt0090863",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$52,293,982",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.4,
+      32.9,
+      26.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg",
+      "https://image.tmdb.org/t/p/w1280/qcZuHhdD8tAUiC82ASXGlFFXVor.jpg",
+      "https://image.tmdb.org/t/p/w1280/naitiSr27IGylF5fSnZm7WbwqF4.jpg"
+    ],
+    "tmdb_id": "11873"
+  },
+  "Upír Z Feratu|1982": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/9/719-ferat-vampire-0-500-0-750-crop.jpg?v=d697b1f490",
+      "description": "A doctor is shocked when his beloved colleague Mima signs a contract with foreign car manufacturer Ferat, in order to work for them as a rally-driver. A scientist convinces him that human blood is being used as fuel for Mima's ever winning car, but does that really work?",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "country": "Czechoslovakia",
+      "lb_director": "Juraj Herz",
+      "lb_director_slug": "juraj-herz",
+      "lb_year": 1982,
+      "lb_title": "Ferat Vampire",
+      "backdrop": null,
+      "imdb_id": "tt0083264",
+      "tmdb_id": "66127"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.1,
+      66.7,
+      34.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/vAcW6UNSPTTIzMwvXKE83hT3Cnw.jpg",
+      "https://image.tmdb.org/t/p/w1280/pzQbsTPWd9rIvVZq8dIt2OJ9Q69.jpg",
+      "https://image.tmdb.org/t/p/w1280/6WGOxcM1wTiSMFqCdXc01oA4twd.jpg"
+    ],
+    "tmdb_id": "66127"
+  },
+  "The Last Temptation Of Christ|1988": {
+    "lbxd": {
+      "rating": 3.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/2/45652-the-last-temptation-of-christ-0-500-0-750-crop.jpg?v=bc15d11cd8",
+      "description": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1988,
+      "lb_title": "The Last Temptation of Christ",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wd/uq/3f/j4/the-last-temptation-of-christ-1920-1920-1080-1080-crop-000000.jpg?v=2d3a1a9ac0",
+      "imdb_id": "tt0095497",
+      "tmdb_id": "11051"
+    },
+    "omdb": {
+      "Title": "The Last Temptation of Christ",
+      "Year": "1988",
+      "Rated": "R",
+      "Released": "12 Aug 1988",
+      "Runtime": "164 min",
+      "Genre": "Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Nikos Kazantzakis, Paul Schrader",
+      "Actors": "Willem Dafoe, Harvey Keitel, Paul Greco",
+      "Plot": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
+      "Language": "English",
+      "Country": "Canada, United States",
+      "Awards": "Nominated for 1 Oscar. 2 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.5",
+      "imdbVotes": "66,884",
+      "imdbID": "tt0095497",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,373,585",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.3,
+      39.3,
+      19.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
+      "https://image.tmdb.org/t/p/w1280/r76RjsexxdOM5GAhTRo7FRxdm3c.jpg",
+      "https://image.tmdb.org/t/p/w1280/fwVp94HejgicglenLj336U5YEY2.jpg"
+    ],
+    "tmdb_id": "11051"
+  },
+  "New York Stories|1989": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/9/1/8/46918-new-york-stories-0-500-0-750-crop.jpg?v=92b1522cd3",
+      "description": "Three tales of love, ambition, and neurosis unfold in the city that never sleeps. In \"Life Lessons\" (Martin Scorsese), a tormented painter channels heartbreak into his art. In \"Life Without Zoë\" (Francis Ford Coppola), a precocious 12-year-old navigates privilege and loneliness in a Manhattan hotel. And in \"Oedipus Wrecks\" (Woody Allen), a man’s domineering mother literally becomes a looming presence over New York.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1989,
+      "lb_title": "New York Stories",
+      "backdrop": null,
+      "imdb_id": "tt0097965",
+      "tmdb_id": "9686"
+    },
+    "omdb": {
+      "Title": "New York Stories",
+      "Year": "1989",
+      "Rated": "PG",
+      "Released": "10 Mar 1989",
+      "Runtime": "124 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Woody Allen, Francis Ford Coppola, Martin Scorsese",
+      "Writer": "Richard Price, Woody Allen, Francis Ford Coppola",
+      "Actors": "Woody Allen, Nick Nolte, Rosanna Arquette",
+      "Plot": "A middle-aged artist obsessed with his pretty young assistant, a precocious 12-year-old living in a hotel, and a neurotic lawyer with a possessive mother make up three Gotham tales.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzZmZjQ5ZWMtZmM3ZS00NTk5LTlhOTgtZGViZDI3ZjgxOTdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "20,904",
+      "imdbID": "tt0097965",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$10,763,469",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.0,
+      23.8,
+      63.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/i1iF0WF9uNvCvtAmlQ9wF3vUBnZ.jpg",
+      "https://image.tmdb.org/t/p/w1280/nxgDUgLKtLdbynL0CbN97rSHN86.jpg",
+      "https://image.tmdb.org/t/p/w1280/2bHA0bkVJHTmHk9Eus7e6DytM92.jpg"
+    ],
+    "tmdb_id": "9686"
+  },
+  "What’s A Nice Girl Like You Doing In A Place Like This|1963": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/8/3/7/16837-what-s-a-nice-girl-like-you-doing-in-a-place-like-this--0-500-0-750-crop.jpg?v=a01e81b433",
+      "description": "A writer named Algernon becomes obsessed with a picture of a boat on his wall, an fixation that soon consumes his thoughts and daily life. He tries to recover through therapy and marriage, but his compulsions return—drawing him deeper into the image until he vanishes within it.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1963,
+      "lb_title": "What's a Nice Girl Like You Doing in a Place Like This?",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/gf/aa/r9/t4/d4ZlppSGdC7ivcM6wqTtu1mIU0N-1920-1920-1080-1080-crop-000000.jpg?v=4cef9fa266",
+      "imdb_id": "tt0057680",
+      "tmdb_id": "48717"
+    },
+    "omdb": {
+      "Title": "What's a Nice Girl Like You Doing in a Place Like This?",
+      "Year": "1963",
+      "Rated": "Not Rated",
+      "Released": "01 Nov 1992",
+      "Runtime": "10 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Martin Scorsese",
+      "Actors": "Zeph Michaelis, Mimi Stark, Sarah Braveman",
+      "Plot": "A writer named Algernon (but called Harry by his friends) buys a picture of a boat on a lake, and his obsession with it renders normal life impossible. He attempts to function again by consulting an analyst and becoming married, b...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUxOTU3YzgtM2I0Mi00NzI3LWE2MGItMGI1MDBlMWVhNDczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "2,753",
+      "imdbID": "tt0057680",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      37.2,
+      45.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/d4ZlppSGdC7ivcM6wqTtu1mIU0N.jpg",
+      "https://image.tmdb.org/t/p/w1280/uBPeO9YFwFJhbKDYwna1Ts120c5.jpg"
+    ],
+    "tmdb_id": "48717"
+  },
+  "It’s Not Just You, Murray!|1964": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/0/9/27509-it-s-not-just-you-murray--0-500-0-750-crop.jpg?v=9ee68f3fa4",
+      "description": "A middle-aged mobster reflects on his rise from bootlegger to success, crediting his longtime friend Joe for his good fortune—unaware that Joe has been betraying him all along, both in business and at home.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1964,
+      "lb_title": "It's Not Just You, Murray!",
+      "backdrop": null,
+      "imdb_id": "tt0058242",
+      "tmdb_id": "36893"
+    },
+    "omdb": {
+      "Title": "It's Not Just You, Murray!",
+      "Year": "1964",
+      "Rated": "Not Rated",
+      "Released": "01 Feb 1964",
+      "Runtime": "16 min",
+      "Genre": "Short, Comedy, Crime",
+      "Director": "Martin Scorsese",
+      "Writer": "Martin Scorsese, Mardik Martin",
+      "Actors": "Ira Rubin, Sam DeFazio, Andrea Martin",
+      "Plot": "Now middle-aged, mobster Murray looks back at his humble beginnings as a bootlegger, and his rise to becoming wealthy and highly influential. Through it all, he talks about how much of his success and happiness is due to the suppo...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyYzY1MGMtYTAyMS00MDk0LThlNWMtYzkxYjYwZjA1Y2QzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "2,403",
+      "imdbID": "tt0058242",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      21.7,
+      39.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xgkKoCXbgt7oJqbhL18229Vmwtk.jpg",
+      "https://image.tmdb.org/t/p/w1280/tvNpSxSmRZSTP04S3ARanSXTnQI.jpg"
+    ],
+    "tmdb_id": "36893"
+  },
+  "Who’s That Knocking At My Door|1967": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/3/9/6/22396-who-s-that-knocking-at-my-door-0-500-0-750-crop.jpg?v=bb8d84c738",
+      "description": "A Catholic New Yorker falls in love with a girl and wants to marry her, but he struggles to accept her past and what it means for their future.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1967,
+      "lb_title": "Who's That Knocking at My Door",
+      "backdrop": null,
+      "imdb_id": "tt0063803",
+      "tmdb_id": "42694"
+    },
+    "omdb": {
+      "Title": "Who's That Knocking at My Door",
+      "Year": "1967",
+      "Rated": "R",
+      "Released": "13 Sep 1968",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Martin Scorsese, Betzi Manoogian",
+      "Actors": "Harvey Keitel, Zina Bethune, Anne Collette",
+      "Plot": "A young man can't accept the girl he likes because of her bitter past.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM4ODNiMDctZTcyNC00NjcxLWI3YWQtMGQ2OGQ3ZjkwNjkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "6.5",
+      "imdbVotes": "10,338",
+      "imdbID": "tt0063803",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      30.4,
+      31.6,
+      43.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ppfzfClO61OCzDceKvxAVfiixJL.jpg",
+      "https://image.tmdb.org/t/p/w1280/xSLo0mROFDy5mTIHRT11AQgzQr5.jpg",
+      "https://image.tmdb.org/t/p/w1280/cZJ8ovVlHqPI3QILx6Q5STLkW7I.jpg"
+    ],
+    "tmdb_id": "42694"
+  },
+  "The Big Shave|1967": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/8/4/0/16840-the-big-shave-0-500-0-750-crop.jpg?v=fc13b9d07c",
+      "description": "A young man walks into a meticulously clean and sterile bathroom and proceeds to shave away hair, then skin, in an increasingly bloody and graphic bathroom scene.",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1967,
+      "lb_title": "The Big Shave",
+      "backdrop": null,
+      "imdb_id": "tt0061402",
+      "tmdb_id": "48714"
+    },
+    "omdb": {
+      "Title": "The Big Shave",
+      "Year": "1967",
+      "Rated": "Not Rated",
+      "Released": "01 Oct 1968",
+      "Runtime": "5 min",
+      "Genre": "Short, Drama, Horror",
+      "Director": "Martin Scorsese",
+      "Writer": "Martin Scorsese",
+      "Actors": "Peter Bernuth",
+      "Plot": "In the process of shaving, a young man cuts himself. A lot.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzRiYjJjODYtY2QzYi00ZjAzLTk3NDgtZmE4YWVmY2Y0MTYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "9,005",
+      "imdbID": "tt0061402",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.7,
+      40.8,
+      43.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wtlhixFsctfV4LHJiVq95Ho37B6.jpg",
+      "https://image.tmdb.org/t/p/w1280/9sktbh04ygLDz0MvnTmogngQ0bE.jpg",
+      "https://image.tmdb.org/t/p/w1280/ujeqdoTvjB540D6SKmBYBrHHS1u.jpg"
+    ],
+    "tmdb_id": "48714"
+  },
+  "Taxi Driver|1976": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-500-0-750-crop.jpg?v=3ae07cca2d",
+      "description": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1976,
+      "lb_title": "Taxi Driver",
+      "backdrop": null,
+      "imdb_id": "tt0075314",
+      "tmdb_id": "103"
+    },
+    "omdb": {
+      "Title": "Taxi Driver",
+      "Year": "1976",
+      "Rated": "R",
+      "Released": "09 Feb 1976",
+      "Runtime": "114 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Paul Schrader",
+      "Actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+      "Plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Nominated for 4 Oscars. 22 wins & 21 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,023,905",
+      "imdbID": "tt0075314",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$28,262,574",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.4,
+      32.3,
+      26.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+      "https://image.tmdb.org/t/p/w1280/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+      "https://image.tmdb.org/t/p/w1280/5MVSXJieOhbyZudCnV1H4YJpfPV.jpg"
+    ],
+    "tmdb_id": "103"
+  },
+  "American Boy: A Profile Of Steven Prince|1978": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/7/6/3/29763-american-boy-a-profile-of-steven-prince-0-500-0-750-crop.jpg?v=ed285873b2",
+      "description": "Martin Scorsese spends an evening with larger-than-life raconteur Steven Prince—a former drug addict, road manager for Neil Diamond, and actor—as he recounts stories from his colorful life.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1978,
+      "lb_title": "American Boy: A Profile of Steven Prince",
+      "backdrop": null,
+      "imdb_id": "tt0077157",
+      "tmdb_id": "33470"
+    },
+    "omdb": {
+      "Title": "American Boy: A Profile of Steven Prince",
+      "Year": "1978",
+      "Rated": "Not Rated",
+      "Released": "01 Oct 1978",
+      "Runtime": "55 min",
+      "Genre": "Documentary",
+      "Director": "Martin Scorsese",
+      "Writer": "Julia Cameron, Mardik Martin",
+      "Actors": "Steven Prince, Julia Cameron, Mardik Martin",
+      "Plot": "Director Martin Scorsese talks to actor Steven Prince about his past. As the night goes on, Prince reveals some very amusing and moving stories of his experiences with drugs and violence.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWMxNWY4NDQtYzY1Mi00Y2E5LTkyMjYtNjYxMDIwZjExMTk2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "1,960",
+      "imdbID": "tt0077157",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.2,
+      36.8,
+      16.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pQNtLZvyLPbg271pzWEgYItZj6S.jpg",
+      "https://image.tmdb.org/t/p/w1280/dWwQEaZJExov8ox2mZuJvJ4W7bL.jpg",
+      "https://image.tmdb.org/t/p/w1280/8gkFP2SUM57xTKf5oMLCwJH9EhT.jpg"
+    ],
+    "tmdb_id": "33470"
+  },
+  "Rapado|1992": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/2/4/8224-rapado-0-500-0-750-crop.jpg?v=715fbf6393",
+      "description": "After the theft of his motorcycle, Lucio bums aimlessly around Buenos Aires drifting from one arcade and record store to the next, indulging in short chats with friends and, more often, setting out onto the streets alone.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Argentina",
+      "lb_director": "Martín Rejtman",
+      "lb_director_slug": "martin-rejtman",
+      "lb_year": 1992,
+      "lb_title": "Rapado",
+      "backdrop": null,
+      "imdb_id": "tt0107922",
+      "tmdb_id": "57981"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1992,
+      "country": "Argentina e Países Baixos",
+      "plot_pt": "Lucio está a ter péssimo dia. Foi assaltado e os ladrões levaram a sua moto, dinheiro e sapatos. O jovem vagueia sem rumo pela noite de Buenos Aires, na intenção de roubar a moto de outra pessoa para atenuar seu prejuízo. Mas vários acasos e adversidades irão tornar essa tarefa quase impossível."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.6,
+      45.2,
+      40.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tsH5USbAYagDJ19cqFEH8ScnlnP.jpg",
+      "https://image.tmdb.org/t/p/w1280/sflp9eeoFhVyPJHa8mFOFFAffAs.jpg",
+      "https://image.tmdb.org/t/p/w1280/jxcSXIH3SIEwRoO27HiiFjMT7hX.jpg"
+    ],
+    "tmdb_id": "57981"
+  },
+  "A Prática|2024": {
+    "lbxd": {
+      "rating": 3.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/6/8/5/4/636854-the-practice-0-500-0-750-crop.jpg?v=b63aeed921",
+      "description": "Dealing with a series of increasingly absurd situations and relationships, recently separated yoga instructors Gustavo and Vanesa are finding it difficult to live apart. Their challenges include meddling mothers, amnesiac students, and burgeoning romances. Step by step, they find their way back to the practice.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Germany",
+      "lb_director": "Martín Rejtman",
+      "lb_director_slug": "martin-rejtman",
+      "lb_year": 2023,
+      "lb_title": "The Practice",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fx/n2/5m/o2/wbJF09o7jimtS2AOvzYgjoX18Bl-1920-1920-1080-1080-crop-000000.jpg?v=1838541e76",
+      "imdb_id": "tt10399660",
+      "tmdb_id": "713919"
+    },
+    "omdb": {
+      "Title": "The Practice",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt10399660",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2024,
+      "country": "Argentina, Chile, Portugal e Alemanha",
+      "plot_pt": "Gustavo e Vanesa separam-se e têm de rever os projetos em comum. Os dois são professores de yoga. Gustavo é argentino, Vanesa é chilena. Vanesa fica com o apartamento e deixa o estúdio que partilhavam; Gustavo fica sem casa. Devido ao stress acumulado, Gustavo lesiona o joelho e substitui o yoga por exercícios de quadríceps e ginásio. A sua vida transforma-se num mundo de alunos e ex-alunos. Até que, aos poucos, ele reencontra o caminho para a prática."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wbJF09o7jimtS2AOvzYgjoX18Bl.jpg"
+    ],
+    "tmdb_id": "713919"
+  },
+  "Silvia Prieto|1999": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/6/4/9/15649-silvia-prieto-0-500-0-750-crop.jpg?v=87ef141df4",
+      "description": "After her 27th birthday, Silvia Prieto decides to take charge of her life and make some changes. At the same time, she suddenly finds herself intertwined in the life of another woman who is also named Silvia Prieto.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Argentina",
+      "lb_director": "Martín Rejtman",
+      "lb_director_slug": "martin-rejtman",
+      "lb_year": 1999,
+      "lb_title": "Silvia Prieto",
+      "backdrop": null,
+      "imdb_id": "tt0194378",
+      "tmdb_id": "49984"
+    },
+    "omdb": {
+      "Title": "Silvia Prieto",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "27 May 1999",
+      "Runtime": "92 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Martín Rejtman",
+      "Writer": "Martín Rejtman",
+      "Actors": "Rosario Bléfari, Valeria Bertuccelli, Vicentico",
+      "Plot": "A woman in her late-twenties called Silvia Prieto wants to improve herself. Her discovery of a second person also called Silvia Prieto will change her life forever. Maybe not the changes she hoped for.",
+      "Language": "Spanish",
+      "Country": "Argentina",
+      "Awards": "3 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI3OWI5MDktZDY2Mi00M2ZmLThhZDgtOTAyODE1MDNjMTViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,702",
+      "imdbID": "tt0194378",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1999,
+      "plot_pt": "No dia em que faz 27 anos, Silvia Prieto (uma singular Rosario Blefári) decide mudar a sua vida. Não sabemos quase nada de como era antes e seguimo-la numa cadeia de ações e encontros com uma engenhosa galeria de personagens que, afinal, são familiares. Soltamos pontas atadas e percebemos que quase nada é o que parece. Rejtman, com este filme, um dos mais importantes da história do cinema argentino, leva-nos para dentro do seu universo. A multiplicação do “eu” até desaparecer, o canário que não canta, uns quarenta e oito cafés e vinte garotos, objetos, um casaco Armani e o frango cortado em doze partes iguais. Obsessão e detalhes porque “por favor, uma mulher é uma mulher”, reza Godard citado neste filme."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.3,
+      36.8,
+      42.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/4NoosADizDFdr3KLOQ6C5cgSaNr.jpg",
+      "https://image.tmdb.org/t/p/w1280/i4vT3BOrglIrqfwxhso3lowoibN.jpg",
+      "https://image.tmdb.org/t/p/w1280/g5VSg7PrR2v9ipO2P5C5ToLcW51.jpg"
+    ],
+    "tmdb_id": "49984"
+  },
+  "Truly Naked|2026": {
+    "lbxd": {
+      "rating": 3.19,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/6/0/0/1164600-truly-naked-0-500-0-750-crop.jpg?v=954cb7dcc4",
+      "description": "An introverted teen, who has only ever experienced sex through the lens while working for his father’s pornography business, must step out from behind the camera when a feisty classmate challenges him to embrace a real connection.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Netherlands",
+      "lb_director": "Muriel d&#039;Ansembourg",
+      "lb_director_slug": "muriel-dansembourg",
+      "lb_year": 2026,
+      "lb_title": "Truly Naked",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/an/pm/h0/xr/kb8EKLFgfL6LdjXPLrGfZYeOcoe-1920-1920-1080-1080-crop-000000.jpg?v=7ca56baf65",
+      "imdb_id": "tt8760666",
+      "tmdb_id": "1281195"
+    },
+    "omdb": {
+      "Title": "Truly Naked",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "15 Apr 2026",
+      "Runtime": "102 min",
+      "Genre": "Drama",
+      "Director": "Muriel d&apos;Ansembourg",
+      "Writer": "Muriel d&apos;Ansembourg",
+      "Actors": "Andrew Howard, Alessa Savage, Juliet Aubrey",
+      "Plot": "An introverted teenager, who has only ever experienced intimacy through the lens while working for his father's pornography business, must step out from behind the camera when a feisty classmate challenges him to embrace real conn...",
+      "Language": "English",
+      "Country": "Netherlands, Belgium, France, United Kingdom",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI5Y2Y0OGMtMGEyNC00ODBjLWJhZjItOGEyMTI0NGIxNjYxXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "937",
+      "imdbID": "tt8760666",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "country": "Países Baixos, Bélgica, França e Reino Unido",
+      "plot_pt": "Quando se mudam de Londres para uma pacata vila costeira, Alec sonha com um novo começo, tentando esconder a sua vida pouco convencional. Mas o encontro com Nina, uma colega curiosa e de espírito rebelde, desafia-o a descobrir um tipo de intimidade que nenhuma câmara consegue captar."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      19.6,
+      34.5,
+      39.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/mN5HuZwSIueiA62F0LS3wBCFj55.jpg",
+      "https://image.tmdb.org/t/p/w1280/tzskQHMwcRKraYzs1tlDWa2olre.jpg",
+      "https://image.tmdb.org/t/p/w1280/kb8EKLFgfL6LdjXPLrGfZYeOcoe.jpg"
+    ],
+    "tmdb_id": "1281195"
+  },
+  "GAUTHALI|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/8/3/6/7/798367-gauthali-0-500-0-750-crop.jpg?v=2487c4f85f",
+      "description": "Sing, dance, and cheerfully confess.",
+      "genres": [
+        "Music"
+      ],
+      "country": "Nepal",
+      "lb_director": "Prakash Bhatta",
+      "lb_director_slug": "prakash-bhatta",
+      "lb_year": 2020,
+      "lb_title": "Gauthali",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "887081"
+    },
+    "omdb": {
+      "Title": "Gauthali",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Jul 2026",
+      "Runtime": "138 min",
+      "Genre": "Drama",
+      "Director": "Kapil Rijal",
+      "Writer": "Giriraj Ghimire, Kapil Rijal",
+      "Actors": "Arun Chhetri, Simran Khadka, Madan Krishna Shrestha",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "Nepal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdkYWQyNTYtNWZkZi00YzYzLTgzYzAtMzkwNzVmMjkyMDIzXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt42975603",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/uMD1PkTSXXDujONuIiO48tJRnuk.jpg"
+    ],
+    "tmdb_id": "887081"
   }
 }

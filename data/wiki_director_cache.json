@@ -1451,16 +1451,146 @@
   "Rossana Torres e Hiroatsu Suzuki": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Basil da Cunha": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Chantal Akerman": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chantal_Akerman_-_video_still_%28cropped%29.jpg/500px-Chantal_Akerman_-_video_still_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Chantal Anne Akerman (French: [ʃɑ̃tal akɛʁman]; 6 June 1950 – 5 October 2015) was a Belgian filmmaker, artist, and film professor at the City College of New York (2011–2015). Akerman is best known for her films Je Tu Il Elle (1974), Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975), and News from Home (1976). The second of these was ranked the greatest film of all time in Sight & Sound magazine's 2022 \"Greatest Films of All Time\" critics poll, making her the first woman to top the poll.",
+    "tries": 1
+  },
+  "Rhys Frake-Waterfield": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rhys_Frake-Waterfield_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Rhys Frake-Waterfield (born 1991 or 1992) is an English filmmaker who became known for his 2023 independent horror film Winnie-the-Pooh: Blood and Honey and its 2024 sequel. It was the first theatrical film of his career, as well as the first for his company Jagged Edge Productions.",
+    "tries": 1
+  },
+  "José de Sá Caetano": {
+    "photo": null,
+    "bio": "Portuguese film director",
+    "tries": 1
+  },
+  "David Kittredge": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/David_Kittredge_at_2026_SIFF_03.jpg/500px-David_Kittredge_at_2026_SIFF_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "David Kittredge (born April 4, 1972) is an American film director, editor and screenwriter. He earned his Bachelor of Arts from New York University's Tisch School of the Arts and is the owner and creative director of Triple Fire Productions, a Los Angeles–based production company. His feature documentary Boorman and the Devil had its world premiere at the 82nd Venice International Film Festival on September 5, 2025.",
+    "tries": 1
+  },
+  "Tom Hardy": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tom_Hardy_%2841869508740%29.jpg/500px-Tom_Hardy_%2841869508740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Edward Thomas Hardy  (born 15 September 1977) is an English actor. Known for his intense screen presence and versatility, he has established a career across independent films, blockbusters, and primetime television, often portraying complex and psychologically-driven characters. After training at the Drama Centre London, Hardy made his film debut in Black Hawk Down (2001).",
+    "tries": 1
+  },
+  "Talita Prestes": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Richard L. Bare": {
+    "photo": null,
+    "bio": "Richard Leland Bare (August 12, 1913 – March 28, 2015) was an American director, producer, and screenwriter of Hollywood movies, television shows and short films.",
+    "tries": 1
+  },
+  "Alex Prager": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Alex_Prager%2C_2023.jpg/500px-Alex_Prager%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Alex Prager (born November 1, 1979) is an American artist, director, and screenwriter based in Los Angeles. Prager is best known for making large-scale photographic works that distort the boundaries between reality and artifice, often centered around the human condition.",
+    "tries": 1
+  },
+  "Jordan Pfeifer": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Amirali Navaee": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Bob Bentley": {
+    "photo": null,
+    "bio": "Robert or Bob Bentley may refer to:",
+    "tries": 1
+  },
+  "Paween Purijitpanya": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Paween_Purikitpanya_at_MTV_8th_anniversary.jpg/500px-Paween_Purikitpanya_at_MTV_8th_anniversary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Thai film director",
+    "tries": 1
+  },
+  "Tony Scott": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Filming_of_Top_Gun_movie_%2805%29_1985.jpg/500px-Filming_of_Top_Gun_movie_%2805%29_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Anthony David Leighton Scott (21 June 1944 – 19 August 2012) was an English filmmaker. He made his theatrical film debut with The Hunger (1983) and went on to direct highly successful action and thriller films such as Top Gun (1986), Beverly Hills Cop II (1987), Days of Thunder (1990), The Last Boy Scout (1991), True Romance (1993), Crimson Tide (1995), Enemy of the State (1998), Man on Fire (2004), Déjà Vu (2006), The Taking of Pelham 123 (2009), and Unstoppable (2010). Scott was the younger brother of film director Ridley Scott.",
+    "tries": 1
+  },
+  "Joko Anwar": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joko_Anwar_Best_Director_Festival_Film_Indonesia_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Joko Anwar (born 3 January 1976) is an Indonesian film director, producer, screenwriter, and actor. Prior to becoming a filmmaker, he worked as a journalist and film critic. Anwar first rose to prominence for co-writing Nia Dinata's 2003 hit Arisan!",
+    "tries": 1
+  },
+  "Pedro Claudio": {
+    "photo": null,
+    "bio": "victim of the military dictatorship of Augusto Pinochet",
+    "tries": 1
+  },
+  "Martin Scorsese": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/500px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Martin Charles Scorsese ( skor-SESS-ee; Italian: [skorˈseːze, -se]; born November 17, 1942) is an American filmmaker. One of the major figures of the New Hollywood era, he is widely considered one of the greatest and most influential directors in the history of cinema. He has received numerous accolades including an Academy Award, four BAFTA Awards, three Emmy Awards, a Grammy Award, and three Golden Globe Awards.",
+    "tries": 1
+  },
+  "Felix Breisach": {
+    "photo": null,
+    "bio": "Austrian director",
+    "tries": 1
+  },
+  "Francesco Stefani": {
+    "photo": null,
+    "bio": "Francesco Stefani (born 17 April 1971 in Bassano del Grappa) is an Italian slalom canoeist who competed from the late 1980s to the mid-2000s. He won a bronze medal in the C-1 team event at the 1993 ICF Canoe Slalom World Championships in Mezzana. Stefani also finished 26th in the C-1 event at the 1996 Summer Olympics in Atlanta.",
+    "tries": 1
+  },
+  "Leida Laius": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Leida_Laius.jpg/500px-Leida_Laius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Leida Laius (26 March 1923 – 6 April 1996) was an Estonian film director. She is widely received as one of the most renowned filmmakers in Estonian cinema. In 1995 she was honored by the Estonian Cultural Foundation with the Lifetime Achievement Award in special recognition of her contributions to the cultural history of Estonia.",
+    "tries": 1
+  },
+  "Chris Noonan": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chris_Noonan.jpg/500px-Chris_Noonan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Chris Noonan (born 14 November 1952) is an Australian filmmaker and actor. He is best known for the family film Babe (1995), for which he was nominated for the Academy Award for Best Director and Academy Award for Best Adapted Screenplay.",
+    "tries": 1
+  },
+  "Rupert Julian": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rupert_Julian%2C_silent_films_%28SAYRE_4913%29.jpg/500px-Rupert_Julian%2C_silent_films_%28SAYRE_4913%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Rupert Julian (born Thomas Percival Hayes; 25 January 1879 – 27 December 1943) was a New Zealand cinema actor, director, writer and producer. During his career, Julian directed 60 films and acted in over 90 films. He is best remembered for directing Lon Chaney in The Phantom of the Opera (1925).",
+    "tries": 1
+  },
+  "Krsto Papić": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Krsto_Papic_Cineplexx_East_Zagreb_29032012_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Krsto Papić (7 December 1933 – 7 February 2013) was a Croatian screenwriter and film director whose career spanned over five decades. He is generally considered among the best directors of former Yugoslavia, and counted among the Yugoslav Black Wave.",
+    "tries": 1
+  },
+  "Juraj Herz": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Juraj_Herz_KVIFF.jpg/500px-Juraj_Herz_KVIFF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Juraj Herz (4 September 1934 – 8 April 2018) was a Slovak film director, actor, and scene designer, associated with the Czechoslovak New Wave movement of the 1960s. He is best known for his 1969 horror/black comedy The Cremator, often cited as one of the best Czechoslovak films of all time, though many of his other films achieved cult status. He directed for both film and television, and in the latter capacity he directed episodes of a French-Czech television series based on George Simenon's Maigret novels.",
+    "tries": 1
+  },
+  "Martin Scorsese, Francis Ford Coppola, Woody Allen": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Martín Rejtman": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mart%C3%ADn_Rejtman.jpg/500px-Mart%C3%ADn_Rejtman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Martín Rejtman (born January 3, 1961, in Buenos Aires) is an Argentine writer and film director. He is considered to be a key figure in the New Argentine Cinema, making films such as Silvia Prieto and The Magic Gloves. His documentary Riders won the Eurimages Co-Production Development Award at the San Sebastián International Film Festival in 2020.",
+    "tries": 1
+  },
+  "Muriel d’Ansembourg": {
+    "photo": null,
+    "bio": "film director",
+    "tries": 1
+  },
+  "Kapil Rijal": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }
