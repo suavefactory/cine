@@ -5880,7 +5880,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         12.1,
-        26.7
+        26.6
       ],
       "director_lbxd_slug": "jean-anouilh"
     },
