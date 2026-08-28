@@ -49704,35 +49704,7 @@
       "imdb_id": "tt39075246",
       "tmdb_id": "1529846"
     },
-    "omdb": {
-      "Title": "The Wonderfully Weird World of Gumball",
-      "Year": "2025–",
-      "Rated": "TV-PG",
-      "Released": "28 Jul 2025",
-      "Runtime": "N/A",
-      "Genre": "Animation, Short, Adventure",
-      "Director": "N/A",
-      "Writer": "Ben Bocquelet",
-      "Actors": "Alkaio Thiele, Hero Hunter, Teresa Gallagher",
-      "Plot": "In Elmore, reality bends and family life gets weird. Gumball pulls Darwin, Anais, and the whole town into adventures - from fighting evil fast food to dealing with an AI crushing on his mom. The show's so wild, it needed a new name.",
-      "Language": "English",
-      "Country": "United Kingdom, France, United States, Germany",
-      "Awards": "1 win & 1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwMThiODYtOTg5ZC00ZWQ3LWJlMmUtOWZjNjBhN2UxN2Q4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.5",
-      "imdbVotes": "4,038",
-      "imdbID": "tt36985473",
-      "Type": "series",
-      "totalSeasons": "2",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -50103,33 +50075,7 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": {
-      "Title": "Água Mãe",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "20 Oct 2025",
-      "Runtime": "72 min",
-      "Genre": "Documentary",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Rossana Torres",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "1 win total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt38865778",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -53439,7 +53385,8 @@
       "https://image.tmdb.org/t/p/w1280/sflp9eeoFhVyPJHa8mFOFFAffAs.jpg",
       "https://image.tmdb.org/t/p/w1280/jxcSXIH3SIEwRoO27HiiFjMT7hX.jpg"
     ],
-    "tmdb_id": "57981"
+    "tmdb_id": "57981",
+    "wiki_tries": 1
   },
   "A Prática|2024": {
     "lbxd": {
@@ -53701,51 +53648,57 @@
     ],
     "tmdb_id": "887081"
   },
-  "Hope|None": {
+  "Pinocchio: Unstrung|2026": {
     "lbxd": {
-      "rating": 3.88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/1/13771-hope-0-500-0-750-crop.jpg?v=11485e571c",
-      "description": "After losing one of his horses in an accident, an illiterate horse cab driver sets out into the desert in a quest for a mythical lost treasure.",
+      "rating": 2.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/5/6/9/1115569-pinocchio-unstrung-0-500-0-750-crop.jpg?v=3165dff75f",
+      "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
       "genres": [
-        "Drama"
+        "Mystery",
+        "Horror",
+        "Fantasy"
       ],
-      "country": "Turkey",
-      "lb_director": "Yılmaz Güney",
-      "lb_director_slug": "ylmaz-guney",
-      "lb_year": 1970,
-      "lb_title": "Hope",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/eb/25/cz/zp/hope-1920-1920-1080-1080-crop-000000.jpg?v=a6b7209cde",
-      "imdb_id": "tt0066500",
-      "tmdb_id": "52104"
+      "country": "UK",
+      "lb_director": "Rhys Frake-Waterfield",
+      "lb_director_slug": "rhys-frake-waterfield",
+      "lb_year": 2026,
+      "lb_title": "Pinocchio: Unstrung",
+      "backdrop": null,
+      "imdb_id": "tt30887701",
+      "tmdb_id": "1232569"
     },
     "omdb": {
-      "Title": "Hope",
-      "Year": "2013",
-      "Rated": "Not Rated",
-      "Released": "04 Apr 2017",
-      "Runtime": "122 min",
-      "Genre": "Drama",
-      "Director": "Lee Joon-ik",
-      "Writer": "Ji-hye Kim",
-      "Actors": "Lee Re, Sul Kyung-gu, Uhm Ji-won",
-      "Plot": "Story of an 8-year-old girl who faces a horrible rape that damages her internally and affects her emotionally, trying to overcome all the obstacles following the incident with the good support of those around her.",
-      "Language": "Korean",
-      "Country": "South Korea",
-      "Awards": "9 wins & 14 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiMDNhOWMtMTI0ZC00MjUxLTk0NzYtYzQxZGRjMjFmNDA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Title": "Pinocchio: Unstrung",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "24 Jul 2026",
+      "Runtime": "80 min",
+      "Genre": "Fantasy, Horror, Thriller",
+      "Director": "Rhys Frake-Waterfield",
+      "Writer": "Rhys Frake-Waterfield",
+      "Actors": "Jude Evan Lloyd, Richard Brake, Robert Englund",
+      "Plot": "A dark coming-of-age reimagining of Pinocchio, this unsettling tale follows the iconic puppet's disturbing journey toward becoming real.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "8.2/10"
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "50/100"
         }
       ],
-      "Metascore": "N/A",
-      "imdbRating": "8.2",
-      "imdbVotes": "11,399",
-      "imdbID": "tt3153634",
+      "Metascore": "50",
+      "imdbRating": "5.8",
+      "imdbVotes": "1,250",
+      "imdbID": "tt30887701",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "N/A",
+      "BoxOffice": "$625,726",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
@@ -53754,37 +53707,41 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      26.5,
-      40.2
+      32.7,
+      49.9,
+      28.8
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/mdPQzNJx8fgES4kq3NUXMVksv8o.jpg",
-      "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
+      "https://image.tmdb.org/t/p/w1280/v3E8reNemamgMZlnztpXJQvOMnd.jpg",
+      "https://image.tmdb.org/t/p/w1280/zXuL6AKUsoA0vbIuxeu776vWmhT.jpg",
+      "https://image.tmdb.org/t/p/w1280/sq1WaNwQn52XiwN2hp1kwJbnSDx.jpg"
     ],
-    "tmdb_id": "52104"
+    "tmdb_id": "1232569"
   },
-  "Poultry Farm|None": {
-    "lbxd": null,
+  "Azul, Azul|1984": {
+    "lbxd": {
+      "lb_title": "Caetano Veloso"
+    },
     "omdb": {
-      "Title": "Scenes at Cackett's Poultry Farm",
-      "Year": "1903",
+      "Title": "Azul, Azul",
+      "Year": "1984",
       "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "Documentary, Short",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
+      "Released": "20 Feb 1986",
+      "Runtime": "105 min",
+      "Genre": "N/A",
+      "Director": "José de Sá Caetano",
+      "Writer": "Augusto Sobral, José de Sá Caetano",
+      "Actors": "José Alegria, Françoise Ariel, Isabel Bezelga",
       "Plot": "N/A",
-      "Language": "English",
-      "Country": "UK",
+      "Language": "Portuguese",
+      "Country": "Portugal",
       "Awards": "N/A",
       "Poster": "N/A",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt2877358",
+      "imdbID": "tt0085203",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -53792,51 +53749,185 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Caetano Veloso",
+      "imdb_id": null,
+      "extract_pt": "Caetano Emanuel Viana Teles Veloso (Santo Amaro, 7 de agosto de 1942) é um cantor, músico, compositor, produtor, arranjador e escritor brasileiro. Com uma carreira que ultrapassa seis décadas, Caetano construiu uma obra musical marcada pela releitura e renovação e considerada amplamente como possuidora de grande valor intelectual e poético. Embora desde cedo tivesse aprendido a tocar violão em Salvador, escrito entre os anos de 1960 e 1962 críticas de cinema para o Diário de Notícias e conhecido o trabalho dos cantores de rádios e dos músicos de bossa nova (notavelmente João Gilberto, seu \"mestre supremo\" e com quem dividiria o palco anos mais tarde), Caetano iniciou seu trabalho profissionalmente apenas em 1965, com o compacto \"Cavaleiro/Samba em Paz\", enquanto acompanhava a irmã mais nova Maria Bethânia por suas apresentações nacionais do espetáculo Opinião, no Rio de Janeiro.\nNessa década, conheceu Gilberto Gil, Gal Costa e Tom Zé, participou dos festivais de música popular da Rede Record e compôs trilhas de filmes."
+    },
     "cinema": {},
     "dir_checked": true,
     "stills": null
   },
-  "Shaun the Sheep: The Beast of Mossy Bottom|None": {
+  "Boorman and the Devil|2025": {
     "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/9/6/8/1353968-shaun-the-sheep-the-beast-of-mossy-bottom-0-500-0-750-crop.jpg?v=aab6cd0ba2",
-      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "rating": 3.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/7/0/1393070-boorman-and-the-devil-0-500-0-750-crop.jpg?v=a903dc91da",
+      "description": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
       "genres": [
-        "Family",
-        "Comedy",
-        "Animation",
-        "Science Fiction"
+        "Documentary"
       ],
-      "country": "UK",
-      "lb_director": "Steve Cox",
-      "lb_director_slug": "steve-cox-6",
-      "lb_year": 2026,
-      "lb_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/1z/mc/0c/ny/izLG3cxbG89nK75OHyd1zvjR7n8-1920-1920-1080-1080-crop-000000.jpg?v=a6f303a831",
-      "imdb_id": "tt36841161",
-      "tmdb_id": "1477104"
+      "country": "USA",
+      "lb_director": "David Kittredge",
+      "lb_director_slug": "david-kittredge-1",
+      "lb_year": 2025,
+      "lb_title": "Boorman and the Devil",
+      "backdrop": null,
+      "imdb_id": "tt37654454",
+      "tmdb_id": "1517111"
     },
     "omdb": {
-      "Title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "Title": "Boorman and the Devil",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "01 Sep 2025",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "David Kittredge",
+      "Writer": "N/A",
+      "Actors": "Victor Hsu, Rospo Pallenberg, Garrett Brown",
+      "Plot": "After the success of POINT BLANK and DELIVERANCE, Warner Brothers offered John Boorman the opportunity of a lifetime...the chance to direct a sequel to their smash hit, THE EXORCIST. The result was one of the biggest disasters in ...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37654454",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/igS7kqXk6KJX7pe3xOHsWfKrgmp.jpg"
+    ],
+    "tmdb_id": "1517111"
+  },
+  "A Bucket of Blood|1959": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/6/9/37769-a-bucket-of-blood-0-500-0-750-crop.jpg?v=5c679f9b49",
+      "description": "Nerdy Walter Paisley, a maladroit busboy at a beatnik café who doesn't fit in with the cool scene around him, attempts to woo his beautiful co-worker, Carla, by making a bust of her. When his klutziness results in the death of his landlady's cat, he panics and hides its body under a layer of plaster. But when Carla and her friends enthuse over the resulting artwork, Walter decides to create some bigger and more elaborate pieces using the same artistic process.",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Roger Corman",
+      "lb_director_slug": "roger-corman",
+      "lb_year": 1959,
+      "lb_title": "A Bucket of Blood",
+      "backdrop": null,
+      "imdb_id": "tt0052655",
+      "tmdb_id": "22642"
+    },
+    "omdb": {
+      "Title": "A Bucket of Blood",
+      "Year": "1959",
+      "Rated": "Approved",
+      "Released": "21 Oct 1959",
+      "Runtime": "66 min",
+      "Genre": "Comedy, Crime, Horror",
+      "Director": "Roger Corman",
+      "Writer": "Charles B. Griffith",
+      "Actors": "Dick Miller, Barboura Morris, Antony Carbone",
+      "Plot": "A dimwitted busboy at a beatnik cafe passes off a cat he accidentally killed and covered in plaster as a sculpture, prompting a demand for more art that compels him to commit murders.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA4NTI0ZDAtYTNiMS00MDE3LTk4ZDgtNGQyNGQ0Y2M4OWM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "8,366",
+      "imdbID": "tt0052655",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Little Shop of Horrors",
+      "imdb_id": "tt0054033",
+      "extract_pt": "The Little Shop of Horrors (A Pequena Loja dos Horrores ou A Loja dos Horrores em português) é um filme B de 1960, uma comédia de horror dirigida por Roger Corman. Foi a estreia de Jack Nicholson no cinema."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.8,
+      41.4,
+      38.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/oOUJjdZio15xFkpWui2hwQJr2Nb.jpg",
+      "https://image.tmdb.org/t/p/w1280/wD8HgdGTgvXGfhSzdxXnUQ5CD31.jpg",
+      "https://image.tmdb.org/t/p/w1280/6OF2UGreFILNnoVKldhnkQl22En.jpg"
+    ],
+    "tmdb_id": "22642"
+  },
+  "Fall 2: Deadpoint|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/2/4/7/993247-fall-2-deadpoint-0-500-0-750-crop.jpg?v=d7c47f038b",
+      "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Michael Spierig",
+      "lb_director_slug": "michael-spierig",
+      "lb_year": 2026,
+      "lb_title": "Fall 2: Deadpoint",
+      "backdrop": null,
+      "imdb_id": "tt31192372",
+      "tmdb_id": "1101412"
+    },
+    "omdb": {
+      "Title": "Fall 2",
       "Year": "2026",
       "Rated": "N/A",
-      "Released": "18 Sep 2026",
-      "Runtime": "91 min",
-      "Genre": "Animation, Comedy, Family",
-      "Director": "Steve Cox, Matthew Walker",
-      "Writer": "Mark Burton, Giles Pilbrow",
-      "Actors": "John Sparkes, Justin Fletcher, Kate Harbour",
-      "Plot": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "Released": "07 Aug 2026",
+      "Runtime": "N/A",
+      "Genre": "Adventure, Drama, Thriller",
+      "Director": "Michael Spierig, Peter Spierig",
+      "Writer": "Jonathan Frank, Scott Mann",
+      "Actors": "Harriet Slater, Tom Brittney, Arsema Thomas",
+      "Plot": "Grieving her sister Shiloh's death, Jax Hunter bonds with Shiloh's bold friend Luce. They tackle Mount Kwan's dangerous plank walk in Thailand. When a rockslide traps them on a narrow plank 3000 feet up, Jax must face her fears to...",
       "Language": "English",
-      "Country": "United Kingdom, France",
+      "Country": "United States, United Kingdom",
       "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg4ZWQ4MTEtOWRkZS00NTg4LTg1OTAtMDBhMzI2YTJiZDRlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt36841161",
+      "imdbID": "tt31192372",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -53848,173 +53939,441 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      36.1,
-      29.0,
-      31.9
+      26.9,
+      22.0,
+      35.0
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
-      "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
-      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
+      "https://image.tmdb.org/t/p/w1280/aBtS3yCWReAen3OefxBXedbArFI.jpg",
+      "https://image.tmdb.org/t/p/w1280/hGkPXpM1R6jlK1GpMiq1uMQpM6K.jpg",
+      "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
     ],
-    "tmdb_id": "1477104"
+    "tmdb_id": "1101412"
   },
-  "THE MOVIE ORGY|None": {
-    "lbxd": {
-      "rating": 4.0,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/7/1/98571-the-movie-orgy-0-500-0-750-crop.jpg?v=34e551568a",
-      "description": "Clips from assorted television programs, B-movies, commercials, music performances, newsreels, bloopers, satirical short films and promotional and government films of the 1950s and 1960s are intercut together to tell a single story of various creatures and societal ills attacking American cities.",
-      "genres": [
-        "Comedy",
-        "History",
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Joe Dante",
-      "lb_director_slug": "joe-dante",
-      "lb_year": 1968,
-      "lb_title": "The Movie Orgy",
-      "backdrop": null,
-      "imdb_id": "tt0270523",
-      "tmdb_id": "125960"
-    },
-    "omdb": {
-      "Title": "The Movie Orgy",
-      "Year": "2009",
-      "Rated": "N/A",
-      "Released": "11 Nov 2012",
-      "Runtime": "420 min",
-      "Genre": "Documentary, Comedy, History",
-      "Director": "Joe Dante",
-      "Writer": "N/A",
-      "Actors": "Ann-Margret, Ngo Dinh Diem, Dwight D. Eisenhower",
-      "Plot": "A montage of 1950s B-movies, TV shows &amp; vintage commercials create a nostalgic collage about aliens &amp; monsters attacking America.",
-      "Language": "English, French",
-      "Country": "United States",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU3ODY0YzctMjg0Zi00M2M2LWE5NDItNTE0NjI1OGE1NDgyXkEyXkFqcGdeQXVyNDQ4NTA1Njk@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.9",
-      "imdbVotes": "209",
-      "imdbID": "tt0270523",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      46.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
-    ],
-    "tmdb_id": "125960"
-  },
-  "Colony|None": {
+  "Um S Marginal|1983": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
-      "description": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/5/4/5/8/575458-um-s-marginal-0-500-0-750-crop.jpg?v=55a9c09c54",
+      "description": "In the near future, along the Portuguese coast, a network of ocean and solar power transformers will be installed. With the ecological balance seriously threatened, domestic animals disappear from the cities and return to wildlife in upland areas. On hearing of his sister's death in a road disaster, Jorge tries to warn his father - who, meanwhile, leaves for a secretly kept house, as a refuge and resting place.",
       "genres": [
-        "Documentary"
+        "Science Fiction",
+        "Drama"
       ],
       "country": null,
-      "lb_director": "Carter Gunn",
-      "lb_director_slug": "carter-gunn",
-      "lb_year": 2009,
-      "lb_title": "Colony",
+      "lb_director": "José de Sá Caetano",
+      "lb_director_slug": "jose-de-sa-caetano",
+      "lb_year": 1983,
+      "lb_title": "Um S Marginal",
       "backdrop": null,
-      "imdb_id": "tt1480655",
-      "tmdb_id": "73903"
+      "imdb_id": "tt0083014",
+      "tmdb_id": "649830"
     },
     "omdb": {
-      "Title": "Colony",
-      "Year": "2016–2018",
-      "Rated": "TV-14",
-      "Released": "14 Jan 2016",
-      "Runtime": "42 min",
-      "Genre": "Action, Adventure, Drama",
-      "Director": "N/A",
-      "Writer": "Ryan J. Condal, Carlton Cuse",
-      "Actors": "Josh Holloway, Sarah Wayne Callies, Peter Jacobson",
-      "Plot": "In the wake of a mysterious alien invasion, a family fights to stay together in a new world order.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "5 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
-      ],
+      "Title": "Um S Marginal",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "04 Aug 1983",
+      "Runtime": "93 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "José de Sá Caetano",
+      "Writer": "José de Sá Caetano",
+      "Actors": "Françoise Ariel, Eurico da Fonseca, Diogo Dória",
+      "Plot": "In the near future, along the Portuguese coast, a network of ocean and solar power transformers will be installed. With the ecological balance seriously threatened, domestic animals disappear from the cities and return to wildlife...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
       "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "41,477",
-      "imdbID": "tt4209256",
-      "Type": "series",
-      "totalSeasons": "3",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0083014",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
       "Response": "True"
     },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "73903"
+    "tmdb_id": "649830"
   },
-  "Kenneled|None": {
+  "The Devil Within|2010": {
     "lbxd": {
-      "rating": 3.14,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/5/9/6/0/1195960-kenneled-0-500-0-750-crop.jpg?v=d18f9f3e4d",
-      "description": "Walker, a gig worker and artist, is drowning in the city's instability. Desperate for agency and financial relief to save his relationship with his ambitious girlfriend, Kylie, he accepts a lucrative but bizarre dog-walking job. At a secluded mansion, he meets Doug-a man living entirely as a dog. Initially repulsed, Walker stays, justifying the dehumanization as just another gig.",
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/5/1/20751-the-devil-within-0-500-0-750-crop.jpg?v=f9b3addcf3",
+      "description": "A night of sex, drugs and partying in the Hollywood Hill's is the perfect setting for Serina's 18th birthday - until this high school pool party goes horribly wrong when an uninvited guest begins killing everyone",
+      "genres": [
+        "Thriller"
+      ],
+      "country": null,
+      "lb_director": "Tom Hardy",
+      "lb_director_slug": "tom-hardy-2",
+      "lb_year": 2010,
+      "lb_title": "The Devil Within",
+      "backdrop": null,
+      "imdb_id": "tt1263018",
+      "tmdb_id": "44426"
+    },
+    "omdb": {
+      "Title": "The Devil Within",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "21 May 2010",
+      "Runtime": "80 min",
+      "Genre": "Thriller",
+      "Director": "Tom Hardy",
+      "Writer": "Matt Dean",
+      "Actors": "Elizabeth Di Prinzio, Ryn Harrison, Bill Oberst Jr.",
+      "Plot": "A high school pool party rages in the Hollywood Hills.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDkxNTQ4MV5BMl5BanBnXkFtZTgwMDI5ODMzMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.1",
+      "imdbVotes": "345",
+      "imdbID": "tt1263018",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      19.1,
+      24.6,
+      27.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yJ8EErCqqmXgc7s1BnNj9tHsggU.jpg",
+      "https://image.tmdb.org/t/p/w1280/zxfDWuB1Icd6HM6j9wLPRFsWUle.jpg",
+      "https://image.tmdb.org/t/p/w1280/123ljdRcqgD6oXjC7o3MDAG96K2.jpg"
+    ],
+    "tmdb_id": "44426"
+  },
+  "The Glorious Dead|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/1/7/2/1529172-the-glorious-dead-0-500-0-750-crop.jpg?v=344db15ded",
+      "description": "\"[T]his is a story about Hell on Earth, taking The Word at its very word; told through one very, very bad day in the life of small-town Americana.”",
       "genres": [
         "Horror"
       ],
       "country": "USA",
-      "lb_director": "Jay Burleson",
-      "lb_director_slug": "jay-burleson",
-      "lb_year": 2025,
-      "lb_title": "Kenneled",
+      "lb_director": "Toby Poser",
+      "lb_director_slug": "toby-poser",
+      "lb_year": 2026,
+      "lb_title": "The Glorious Dead",
       "backdrop": null,
-      "imdb_id": "tt32881455",
-      "tmdb_id": "1314812"
+      "imdb_id": "tt42541654",
+      "tmdb_id": "1666010"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1666010"
+  },
+  "The Fall Of The House Of Usher|1928": {
+    "lbxd": {
+      "rating": 3.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/9/4/1/85941-the-fall-of-the-house-of-usher-0-500-0-750-crop.jpg?v=1faabfefc2",
+      "description": "Convinced that his family is tainted by generations of evil, Roderick Usher is hellbent on stopping his sister Madeline’s wedding to prevent the cursed Usher bloodline from expanding. When her nameless traveller fiancé arrives at the crumbling estate to claim his bride, Roderick goes to ruthless—even deadly—lengths to keep them apart.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Melville Webber",
+      "lb_director_slug": "melville-webber",
+      "lb_year": 1928,
+      "lb_title": "The Fall of the House of Usher",
+      "backdrop": null,
+      "imdb_id": "tt0018873",
+      "tmdb_id": "106394"
     },
     "omdb": {
-      "Title": "Kenneled",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "21 Mar 2026",
-      "Runtime": "88 min",
-      "Genre": "Horror",
-      "Director": "Jay Burleson",
-      "Writer": "H.K. Moore",
-      "Actors": "Jack Ryan Beckner, Dan Cutts, Emily Ferguson",
-      "Plot": "A destitute dogwalker finds a wealthy client who saves him from financial ruin. But this is no ordinary dog.",
-      "Language": "English",
-      "Country": "N/A",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZmOGFhMTgtMzY4Ny00YjY2LWIwZmEtZjA1OTkxOTVjOTdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Title": "The Fall of the House of Usher",
+      "Year": "1928",
+      "Rated": "Not Rated",
+      "Released": "05 Oct 1928",
+      "Runtime": "72 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Jean Epstein",
+      "Writer": "Edgar Allan Poe, Luis Buñuel, Jean Epstein",
+      "Actors": "Jean Debucourt, Marguerite Gance, Charles Lamy",
+      "Plot": "Allan visits the sinister Usher family mansion, where his friend Roderick is painting a portrait of his sickly wife Madeline. The portrait seems to be draining the life out of Madeline, slowly leading to her death.",
+      "Language": "None",
+      "Country": "France",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDgwMjJjM2YtN2I1My00MGY4LWI3NTItNjIwZTA2M2Y4ZjFjXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "5.0/10"
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
         }
       ],
       "Metascore": "N/A",
-      "imdbRating": "5.0",
-      "imdbVotes": "33",
-      "imdbID": "tt32881455",
+      "imdbRating": "7.2",
+      "imdbVotes": "4,830",
+      "imdbID": "tt0018770",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tyZNDc0NCpSsbqth53svUa3avlW.jpg"
+    ],
+    "tmdb_id": "106394"
+  },
+  "As Ruínas no Interior (Corpos Celestes)|2011": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Wicked Wicked|1973": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/1/4/3/73143-wicked-wicked-0-500-0-750-crop.jpg?v=7fd5aa14d7",
+      "description": "Simmons, the manager of a seaside hotel in California, has a problem: Guests are turning up dead, and Sgt. Ramsey, the hotel's detective, has no information as to the identity of the murderer. The only thing anybody knows is that the killer wears a strange mask and has a fondness for blonde women. As Ramsey tracks down a list of suspects that includes the hotel handyman, Lisa, the hotel's lounge singer, finds herself in danger.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Richard L. Bare",
+      "lb_director_slug": "richard-l-bare",
+      "lb_year": 1973,
+      "lb_title": "Wicked, Wicked",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/z4/yv/3o/ux/yhOp1d1kRQ2r0bcssDlj9DsyzLR-1920-1920-1080-1080-crop-000000.jpg?v=fc0621a729",
+      "imdb_id": "tt0070916",
+      "tmdb_id": "86494"
+    },
+    "omdb": {
+      "Title": "Wicked, Wicked",
+      "Year": "1973",
+      "Rated": "PG",
+      "Released": "15 Jun 1973",
+      "Runtime": "95 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Richard L. Bare",
+      "Writer": "Richard L. Bare",
+      "Actors": "David Bailey, Tiffany Bolling, Randolph Roberts",
+      "Plot": "Someone murders and dismembers a series of blonde women; unique in that it is shot entirely in the early 1970's cinema gimmick DUO-VISION (split screen).",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzNlNjBhNmYtMDFiNC00OWRhLTgyZmItMTJkMGViMmU3MDk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.4",
+      "imdbVotes": "789",
+      "imdbID": "tt0070916",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      21.9,
+      44.0,
+      35.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yhOp1d1kRQ2r0bcssDlj9DsyzLR.jpg",
+      "https://image.tmdb.org/t/p/w1280/jhLcbo1mPU6U4CiKf1IbhVLSEiT.jpg",
+      "https://image.tmdb.org/t/p/w1280/7ApGxh5HIHr9fIjjA1zANmuHFw5.jpg"
+    ],
+    "tmdb_id": "86494"
+  },
+  "DreamQuil|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/4/5/3/7/1014537-dreamquil-0-500-0-750-crop.jpg?v=82efeb2783",
+      "description": "Set in the not so distant future when poor air quality leads to people living mostly virtual lives. Carol is a dissatisfied career mother, struggling to find connection within her marriage to Gary and her child. With the day to day familiarity of their home and lives feeling increasingly claustrophobic, and worried she could be heading towards divorce, Carol leaps at the chance to get her life back on track by signing up for \"DreamQuil\", an avant-garde digital wellness retreat. When Carol returns home however, she discovers her family has been living with \"Carol 2\", a robot the corporation sent designed to help in her absence, and things take a mysterious and sinister turn.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Alex Prager",
+      "lb_director_slug": "alex-prager",
+      "lb_year": 2026,
+      "lb_title": "DreamQuil",
+      "backdrop": null,
+      "imdb_id": "tt27733119",
+      "tmdb_id": "1125627"
+    },
+    "omdb": {
+      "Title": "DreamQuil",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 Mar 2026",
+      "Runtime": "89 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Alex Prager",
+      "Writer": "Alex Prager, Vanessa Prager",
+      "Actors": "Elizabeth Banks, Kathryn Newton, Juliette Lewis",
+      "Plot": "A woman embarks on a virtual wellness retreat in order to get her life back on track - but with nightmarish consequences.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzM2Y5ZGQtNDg0ZS00NjFjLTkzZDctYTkzODNmMjRiY2ZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt27733119",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.6,
+      42.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
+      "https://image.tmdb.org/t/p/w1280/aeuR3TkCbkOdlT7ecmj38zvVsxv.jpg"
+    ],
+    "tmdb_id": "1125627"
+  },
+  "Veins|2020": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/0/7/2/1/680721-veins-0-500-0-750-crop.jpg?v=4ea57fbf34",
+      "description": "A young woman struggles with completing a ritual centered around a menacing fertility plant in order to ensure that her bloodline continues.",
+      "genres": [
+        "Horror"
+      ],
+      "country": null,
+      "lb_director": "Jordan Pfeifer",
+      "lb_director_slug": "jordan-pfeifer",
+      "lb_year": 2020,
+      "lb_title": "Veins",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "760271"
+    },
+    "omdb": {
+      "Title": "Veins",
+      "Year": "2020",
+      "Rated": "N/A",
+      "Released": "18 Sep 2020",
+      "Runtime": "N/A",
+      "Genre": "Short, Horror",
+      "Director": "Jordan Pfeifer",
+      "Writer": "Jackie Cherry, Danyela Gotcher",
+      "Actors": "Ann Nuñez, Caitlin Serros",
+      "Plot": "A young woman struggles with completing a ritual centered around a menacing fertility plant in order to ensure that her bloodline continues.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E3MjBhMDItN2MzMS00NzJlLTlkNjItMDc2YzgxOTNkMDNiXkEyXkFqcGdeQXVyMTA1NTc5ODM5._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt13044558",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "760271"
+  },
+  "Sunshine Express|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/6/7/4/1307674-sunshine-express-0-500-0-750-crop.jpg?v=2085edca02",
+      "description": "Participants assigned a specific character in a role-playing game undertake a fictional train journey to an island, in order to win a cash prize, only for the competition to become a microcosm of the limitations they experience in their real lives.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Iran",
+      "lb_director": "Amirali Navaee",
+      "lb_director_slug": "amirali-navaee",
+      "lb_year": 2025,
+      "lb_title": "Sunshine Express",
+      "backdrop": null,
+      "imdb_id": "tt35572092",
+      "tmdb_id": "1428886"
+    },
+    "omdb": {
+      "Title": "Sunshine Express",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "06 Feb 2025",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Amirali Navaee",
+      "Writer": "Amirali Navaee",
+      "Actors": "Sam Nakhai, Babak Karimi",
+      "Plot": "In \"Sunshine Express\" a diverse group of individuals sign a contract to take part in a reality show. They board a decorative train placed in a studio, bound for Hermia, the mythical land of dreams. Each passenger is assigned a uni...",
+      "Language": "Persian",
+      "Country": "Iran",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlZjhhYjktYWY0Ni00YmMyLWIyMDEtOWYwYTM1NmZjZGU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "19",
+      "imdbID": "tt35572092",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -54029,47 +54388,304 @@
       38.5
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
+      "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
     ],
-    "tmdb_id": "1314812"
+    "tmdb_id": "1428886"
   },
-  "Remanence – A Voltage Cosmic Horror + Q&A|None": {
+  "Recluse|1981": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/7/1/3/1124713-remanence-0-500-0-750-crop.jpg?v=a34acb0f84",
-      "description": "Combining two recently discovered unique archival sources, this short film evokes the lost history of a Dutch women's pacifist movement that brought women together in collective action in the 1930s.",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/7/3/8/250738-recluse-0-500-0-750-crop.jpg?v=544750984f",
+      "description": "A reconstruction of the possible events that might have led up to the real-life tragic case of the Luxton family who lived at West Chapple Farm, Winkleigh, Devon. Brothers and sister Robert, Alan and Frances Luxton had lived in the farm for many years. On 23 September 1975 their bodies were found with shotgun wounds outside their farmhouse.",
       "genres": [
-        "Documentary"
+        "Crime",
+        "Drama"
       ],
-      "country": "Netherlands",
-      "lb_director": "Sabine Groenewegen",
-      "lb_director_slug": "sabine-groenewegen",
-      "lb_year": 2024,
-      "lb_title": "Remanence",
+      "country": null,
+      "lb_director": "Bob Bentley",
+      "lb_director_slug": "bob-bentley",
+      "lb_year": 1981,
+      "lb_title": "Recluse",
       "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "1241423"
+      "imdb_id": "tt0216147",
+      "tmdb_id": "323609"
     },
     "omdb": {
-      "Title": "Remanence",
-      "Year": "2017",
+      "Title": "Recluse",
+      "Year": "1981",
       "Rated": "N/A",
-      "Released": "30 Jul 2017",
-      "Runtime": "5 min",
-      "Genre": "Short, Sci-Fi",
-      "Director": "Jono Seneff",
-      "Writer": "David Hudson, Jono Seneff",
-      "Actors": "David Atkinson, Sam Hayes, Michelle Farrah Huang, Parker Shook",
-      "Plot": "N/A",
+      "Released": "N/A",
+      "Runtime": "27 min",
+      "Genre": "Short, Drama",
+      "Director": "Bob Bentley",
+      "Writer": "Paddy Fletcher, Bob Bentley",
+      "Actors": "Maurice Denham, Derek Smith, Ann Tirard",
+      "Plot": "This film is a reconstruction of the possible events that might have led up to the real-life tragic case of the Luxton family who lived at West Chapple Farm, Winkleigh, Devon. Brothers and sister Robert, Alan and Frances Luxton ha...",
       "Language": "English",
-      "Country": "USA",
+      "Country": "United Kingdom, Canada",
+      "Awards": "Won 1 BAFTA Award1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWVjZTY0MWQtZjY2Yi00OWRiLWE5NGYtNGNkMWMyNDBhMDUzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "53",
+      "imdbID": "tt0216147",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      27.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/4fbAiQcmzqGpqXaOMVgmFPt20hf.jpg",
+      "https://image.tmdb.org/t/p/w1280/rgV7kRvAgxznO4Y3YTO3dUtAC.jpg"
+    ],
+    "tmdb_id": "323609"
+  },
+  "God Skin|2026": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/2/7/3/1/1162731-god-skin-0-500-0-750-crop.jpg?v=9b16c62d18",
+      "description": "Win, takes a lethal gamble to fund his mother's medical treatment when Itt, an old friend, lures him into the Arena. In this brutal underground circuit, fighters are marked with \"God Skin\" tattoos to gain a ruthless edge.",
+      "genres": [
+        "Science Fiction",
+        "Fantasy",
+        "Action"
+      ],
+      "country": "Thailand",
+      "lb_director": "Paween Purijitpanya",
+      "lb_director_slug": "paween-purijitpanya-1",
+      "lb_year": 2026,
+      "lb_title": "God Skin",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/pu/dj/i7/qi/97N6gxiBB2Dk71g8v0XxSi8Hyeb-1920-1920-1080-1080-crop-000000.jpg?v=524f8cdb3a",
+      "imdb_id": "tt42834526",
+      "tmdb_id": "1278971"
+    },
+    "omdb": {
+      "Title": "God Skin",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "27 Aug 2026",
+      "Runtime": "N/A",
+      "Genre": "Fantasy, Action",
+      "Director": "Paween Purijitpanya",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Follows a delivery boy who discovers a clandestine martial arts scene with a high-tech twist.",
+      "Language": "N/A",
+      "Country": "Thailand",
       "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBkMGRhMWQtZjk2Mi00ZjNiLTkxYTktZjcxOGY0ZTk3Y2Y3XkEyXkFqcGdeQXVyMjM1NjE5MjM@._V1_SX300.jpg",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGVlMzc4ODctZmJhMC00YjFjLTg3NmUtNGZhMDM0NGFlNWQ2XkEyXkFqcGc@._V1_QL75_UY414_CR7,0,280,414_.jpg",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt8010462",
+      "imdbID": "tt42834526",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      26.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/97N6gxiBB2Dk71g8v0XxSi8Hyeb.jpg",
+      "https://image.tmdb.org/t/p/w1280/7pbILoLbonhPQ4nndfL8OmfTf5n.jpg"
+    ],
+    "tmdb_id": "1278971"
+  },
+  "The Hunger – Sessão Especial RTP ANTENA 3|1983": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/9/9/45099-the-hunger-0-500-0-750-crop.jpg?v=00ecc49c58",
+      "description": "Five-thousand-year-old vampire Miriam promises her lovers the gift of eternal life. When John, her cellist companion for centuries, discovers that he has suddenly begun growing old, he attempts to seek out the help of Dr. Sarah Roberts, a researcher on the mechanisms of aging.",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "country": "UK",
+      "lb_director": "Tony Scott",
+      "lb_director_slug": "tony-scott",
+      "lb_year": 1983,
+      "lb_title": "The Hunger",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/u6/ll/1h/vc/the-hunger-1920-1920-1080-1080-crop-000000.jpg?v=96fb197b0d",
+      "imdb_id": "tt0085701",
+      "tmdb_id": "11654"
+    },
+    "omdb": {
+      "Title": "The Hunger",
+      "Year": "1983",
+      "Rated": "R",
+      "Released": "29 Apr 1983",
+      "Runtime": "97 min",
+      "Genre": "Drama, Horror",
+      "Director": "Tony Scott",
+      "Writer": "James Costigan, Michael Thomas, Whitley Strieber",
+      "Actors": "Catherine Deneuve, David Bowie, Susan Sarandon",
+      "Plot": "A love triangle develops between a vampire, her cellist companion, and a gerontologist.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAyNmQ3N2MtOWZlOS00Mjg1LWJhY2EtNmMzOTgyODg2NjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "Metascore": "52",
+      "imdbRating": "6.6",
+      "imdbVotes": "30,695",
+      "imdbID": "tt0085701",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,979,292",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.4,
+      13.4,
+      32.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/qw9p7gBroQt99fjG0cwtLHohQR9.jpg",
+      "https://image.tmdb.org/t/p/w1280/iTcNyLdz5FrnUtd9hkAkdE0WOO1.jpg",
+      "https://image.tmdb.org/t/p/w1280/cPyiFUo1HwUVj8fKjpssS0UavBq.jpg"
+    ],
+    "tmdb_id": "11654"
+  },
+  "Ghost in the Cell|2026": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/6/6/3/1277663-ghost-in-the-cell-0-500-0-750-crop.jpg?v=e438d28d3c",
+      "description": "A notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Comedy"
+      ],
+      "country": "Indonesia",
+      "lb_director": "Joko Anwar",
+      "lb_director_slug": "joko-anwar-1",
+      "lb_year": 2026,
+      "lb_title": "Ghost in the Cell",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/7/7/6/6/3/tmdb/izuzDBvLM4ja1rt2EuA4hHBMF52-1920-1920-1080-1080-crop-000000.jpg?v=537f8fd6c5",
+      "imdb_id": "tt9000310",
+      "tmdb_id": "1393326"
+    },
+    "omdb": {
+      "Title": "Ghost in the Cell",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 Apr 2026",
+      "Runtime": "106 min",
+      "Genre": "Comedy, Horror, Thriller",
+      "Director": "Joko Anwar",
+      "Writer": "N/A",
+      "Actors": "Abimana Aryasatya, Almanzo Konoralma, Aming Sugandhi",
+      "Plot": "A notorious prison, an invisible force starts killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "Language": "Indonesian",
+      "Country": "Indonesia, South Korea",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVmOTI2N2UtM2U1Ny00ZTJlLWE0ODktZDk3OWI2MjBhNmZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "35",
+      "imdbID": "tt9000310",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.5,
+      60.1,
+      40.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "https://image.tmdb.org/t/p/w1280/afk22GzX3YZoG6XRsD3T2QRn0lv.jpg",
+      "https://image.tmdb.org/t/p/w1280/unEj3lNA48RKVQDdzeaTxKHtE4C.jpg"
+    ],
+    "tmdb_id": "1393326"
+  },
+  "Os Primos|1996": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/4/7/8/9/524789-os-primos-0-500-0-750-crop.jpg?v=e5bd22ab08",
+      "description": "A suit and tie dressed gang plays Ska.",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "country": null,
+      "lb_director": "Pedro Cláudio",
+      "lb_director_slug": "pedro-claudio",
+      "lb_year": 1996,
+      "lb_title": "Os Primos",
+      "backdrop": null,
+      "imdb_id": "tt0119946",
+      "tmdb_id": "597430"
+    },
+    "omdb": {
+      "Title": "Os Primos",
+      "Year": "1997",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Pedro Claudio",
+      "Writer": "N/A",
+      "Actors": "Ricardo Aires, João Cardoso, Luis Varatojo",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0119946",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -54081,596 +54697,90 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1241423"
+    "tmdb_id": "597430"
   },
-  "The Furious|None": {
+  "Alice Doesn’t Live Here Anymore|1974": {
     "lbxd": {
-      "rating": 3.83,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-500-0-750-crop.jpg?v=f880a59523",
-      "description": "After the daughter of Wang Wei is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive martial arts showdown.",
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/7/8/9/41789-alice-doesn-t-live-here-anymore-0-500-0-750-crop.jpg?v=0fb472b004",
+      "description": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
       "genres": [
-        "Crime",
-        "Action",
-        "Thriller"
-      ],
-      "country": "Hong Kong",
-      "lb_director": "Kenji Tanigaki",
-      "lb_director_slug": "kenji-tanigaki",
-      "lb_year": 2025,
-      "lb_title": "The Furious",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/6/4/1/5/4/tmdb/9XwQphZxNJgGASfjL58mhIkJJpf-1920-1920-1080-1080-crop-000000.jpg?v=20d0be396b",
-      "imdb_id": "tt33311069",
-      "tmdb_id": "1280738"
-    },
-    "omdb": {
-      "Title": "The Furious",
-      "Year": "2026",
-      "Rated": "R",
-      "Released": "12 Jun 2026",
-      "Runtime": "113 min",
-      "Genre": "Action, Crime, Thriller",
-      "Director": "Kenji Tanigaki",
-      "Writer": "Tin Shu Mak, Zhilong Lei, Kwan-Sin Shum",
-      "Actors": "Miao Xie, Joe Taslim, Enyou Yang",
-      "Plot": "A father fights fiercely against ruthless kidnappers to save his abducted daughter.",
-      "Language": "Chinese, English, Thai",
-      "Country": "Hong Kong, China",
-      "Awards": "1 win & 2 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "87/100"
-        }
-      ],
-      "Metascore": "87",
-      "imdbRating": "7.7",
-      "imdbVotes": "991",
-      "imdbID": "tt33311069",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      28.7,
-      18.4,
-      20.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-      "https://image.tmdb.org/t/p/w1280/b94Br0pFWR0gKIBgP5I6fGneUAl.jpg",
-      "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
-    ],
-    "tmdb_id": "1280738"
-  },
-  "Bloody Tennis + Q&A|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Bowels of Hell + Q&A|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Our Effed Up World|None": {
-    "lbxd": {
-      "rating": 3.21,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/0/6/0/8/1450608-our-effed-up-world-0-500-0-750-crop.jpg?v=7160b44918",
-      "description": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of shitkicker friends are what stands in the way of an insatiable, intergalactic hunger.",
-      "genres": [
-        "Horror",
-        "Science Fiction"
-      ],
-      "country": "Australia",
-      "lb_director": "Alice Maio Mackay",
-      "lb_director_slug": "alice-maio-mackay",
-      "lb_year": 2026,
-      "lb_title": "Our Effed Up World",
-      "backdrop": null,
-      "imdb_id": "tt40521447",
-      "tmdb_id": "1579168"
-    },
-    "omdb": {
-      "Title": "Our Effed Up World",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "19 Jun 2026",
-      "Runtime": "67 min",
-      "Genre": "Horror, Sci-Fi",
-      "Director": "Alice Maio Mackay",
-      "Writer": "Alice Maio Mackay, Benjamin Pahl Robinson",
-      "Actors": "Kerry Armstrong, Jordan Dulieu, Brandon Flynn",
-      "Plot": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of friends are what stands in the way of an insatiabl...",
-      "Language": "English",
-      "Country": "Australia",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY2NjMwMDgxNF5BMl5BanBnXkFtZTYwNjIyNjg1._V1_QL75_UX280_CR0,7,280,280_.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt40521447",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      45.3,
-      30.7,
-      32.5
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/hYMVwlquxdKRdqW3YIyNobA6A1V.jpg",
-      "https://image.tmdb.org/t/p/w1280/rJXSOkGpVc4yUYNgHHYNlV8a2rV.jpg",
-      "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
-    ],
-    "tmdb_id": "1579168"
-  },
-  "Mag Mag|None": {
-    "lbxd": {
-      "rating": 3.25,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/1/5/7/5/1411575-mag-mag-0-500-0-750-crop.jpg?v=0fb72f9071",
-      "description": "The revenge story of a woman whose partner is murdered by a ghost, and who will soon discover the true identity of the one she must avenge.",
-      "genres": [
-        "Horror"
-      ],
-      "country": "Japan",
-      "lb_director": "Yuriyan Retriever",
-      "lb_director_slug": "yuriyan-retriever",
-      "lb_year": 2025,
-      "lb_title": "Mag Mag",
-      "backdrop": null,
-      "imdb_id": "tt38263629",
-      "tmdb_id": "1536720"
-    },
-    "omdb": {
-      "Title": "Mag Mag",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "06 Feb 2026",
-      "Runtime": "112 min",
-      "Genre": "Comedy, Horror",
-      "Director": "Yuriyan Retriever",
-      "Writer": "N/A",
-      "Actors": "Mai Fukagawa, Tetsu Hirahara, Atsuko Hirata",
-      "Plot": "After her beloved is killed by the Mag Mag ghost, the protagonist, Sanae, vows revenge, but soon discovers the true identity of the person she truly owes her revenge to.",
-      "Language": "Japanese",
-      "Country": "Japan",
-      "Awards": "1 win total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZlNDExMGYtOTc1Ny00MTM5LTk5MDQtMjU5MGE5YjYyODNkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "69",
-      "imdbID": "tt38263629",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      16.8,
-      15.6,
-      42.0
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/xJCZpMKq5GROqXlfPTPozhcWwxJ.jpg",
-      "https://image.tmdb.org/t/p/w1280/aWRLdVStMsg8hNATW7by9ybJV0X.jpg",
-      "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
-    ],
-    "tmdb_id": "1536720"
-  },
-  "Curtas ao Almoço: Internacionais #4 2026|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Gunman|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/4/6/5/2/164652-gunman-0-500-0-750-crop.jpg?v=d5df745e8e",
-      "description": "At a nearby newsstand, another man witnesses the arrest. He turns and walks away – with a limp. He is the gunman, and his name is Sergeant Sommai. After losing a leg fighting for the Thai Special Forces during the Secret War in Laos, Sommai now works as a barber in a small shop in a canal community of suburban Bangkok.",
-      "genres": [
-        "Drama",
-        "Action",
-        "Crime"
-      ],
-      "country": "Thailand",
-      "lb_director": "Chatrichalerm Yukol",
-      "lb_director_slug": "chatrichalerm-yukol",
-      "lb_year": 1983,
-      "lb_title": "Gunman",
-      "backdrop": null,
-      "imdb_id": "tt0257972",
-      "tmdb_id": "234473"
-    },
-    "omdb": {
-      "Title": "Gunman",
-      "Year": "1983",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "140 min",
-      "Genre": "N/A",
-      "Director": "Chatrichalerm Yukol",
-      "Writer": "N/A",
-      "Actors": "Sorapong Chatree, Ron Rittichai",
-      "Plot": "N/A",
-      "Language": "Thai",
-      "Country": "Thailand",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM0NTIzNDMtMTEzYy00NjhiLTljYmMtY2YzOGZmODExM2UxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "47",
-      "imdbID": "tt0257972",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      45.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/54OiKjwXBrZMMdony36i8FCOjlf.jpg"
-    ],
-    "tmdb_id": "234473"
-  },
-  "Mum, I’m Alien Pregnant|None": {
-    "lbxd": {
-      "rating": 3.46,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/0/0/6/1465006-mum-im-alien-pregnant-0-500-0-750-crop.jpg?v=d289c7068f",
-      "description": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "country": "New Zealand",
-      "lb_director": "Jordan Mark Windsor",
-      "lb_director_slug": "jordan-mark-windsor",
-      "lb_year": 2026,
-      "lb_title": "Mum, I'm Alien Pregnant",
-      "backdrop": null,
-      "imdb_id": "tt28784376",
-      "tmdb_id": "1596301"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      42.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
-    ],
-    "tmdb_id": "1596301"
-  },
-  "A Teia do Gelo ( Versão Inglesa)|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Roma Elastica|None": {
-    "lbxd": {
-      "rating": 2.91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/5/9/1184659-roma-elastica-0-500-0-750-crop.jpg?v=be14433e78",
-      "description": "1982. French actress Eddie is on the verge of collapse and travels to Rome accompanied by her loyal makeup artist, Valentina, to shoot a science-fiction film – a film that could be her last one.",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller",
-        "Horror"
-      ],
-      "country": "France",
-      "lb_director": "Bertrand Mandico",
-      "lb_director_slug": "bertrand-mandico",
-      "lb_year": 2026,
-      "lb_title": "Roma elastica",
-      "backdrop": null,
-      "imdb_id": "tt32596720",
-      "tmdb_id": "1302994"
-    },
-    "omdb": {
-      "Title": "Roma elastica",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "N/A",
-      "Director": "Bertrand Mandico",
-      "Writer": "Bertrand Mandico",
-      "Actors": "Marion Cotillard, Noémie Merlant, Martina Scrinzi",
-      "Plot": "The story revolves around an actress who is going to shoot her latest film in Rome in the 1980s.",
-      "Language": "French",
-      "Country": "France, Italy",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt32596720",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      33.1,
-      22.0,
-      36.8
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/aVPp9XJeYhAbGSaXOXgX8AtUq6g.jpg",
-      "https://image.tmdb.org/t/p/w1280/92uzbmS3aiWDUQ9sYEG9UEhzDYX.jpg",
-      "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
-    ],
-    "tmdb_id": "1302994"
-  },
-  "Hallowarrior + Q&A|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Chronovisor|None": {
-    "lbxd": {
-      "rating": 3.73,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-500-0-750-crop.jpg?v=381f601981",
-      "description": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco.",
-      "genres": [
-        "Mystery",
-        "Science Fiction",
-        "Horror"
-      ],
-      "country": "USA",
-      "lb_director": "Kevin Walker",
-      "lb_director_slug": "kevin-walker-5",
-      "lb_year": 2026,
-      "lb_title": "Chronovisor",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/7/8/4/tmdb/xbp6MM3ZIL7neN7qLk8pp0t0eOj-1920-1920-1080-1080-crop-000000.jpg?v=07d5de2e38",
-      "imdb_id": "tt39196981",
-      "tmdb_id": "1599181"
-    },
-    "omdb": {
-      "Title": "Chronovisor",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "30 Jan 2026",
-      "Runtime": "99 min",
-      "Genre": "Mystery, Sci-Fi",
-      "Director": "N/A",
-      "Writer": "Jack Auen, Kevin Walker",
-      "Actors": "Anne Laure Sellier",
-      "Plot": "An armchair mystery in which the life of a reclusive academic collides with the story of a clandestine technology that can photograph the past.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3NGZmMGEtZGI0ZC00MDY5LWI0MzEtZWI2YTM5ZGVjMzk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "14",
-      "imdbID": "tt39196981",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      27.1,
-      19.7,
-      39.9
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/xbp6MM3ZIL7neN7qLk8pp0t0eOj.jpg",
-      "https://image.tmdb.org/t/p/w1280/oWCpvjZ0o08YHVh3JfwnfVNHpgC.jpg",
-      "https://image.tmdb.org/t/p/w1280/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg"
-    ],
-    "tmdb_id": "1599181"
-  },
-  "Cape Fear|1991": {
-    "lbxd": {
-      "rating": 3.72,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/3/6/50936-cape-fear-1991-0-500-0-750-crop.jpg?v=fa3497476a",
-      "description": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Crime"
+        "Romance",
+        "Drama"
       ],
       "country": "USA",
       "lb_director": "Martin Scorsese",
       "lb_director_slug": "martin-scorsese",
-      "lb_year": 1991,
-      "lb_title": "Cape Fear",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/2z/rm/ge/1g/tzRSEZIpaCy8Zy053t36OqYHHe8-1920-1920-1080-1080-crop-000000.jpg?v=18ab640297",
-      "imdb_id": "tt0101540",
-      "tmdb_id": "1598"
+      "lb_year": 1974,
+      "lb_title": "Alice Doesn't Live Here Anymore",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tl/mq/xv/58/alice-doesnt-live-here-anymore-1920-1920-1080-1080-crop-000000.jpg?v=0d8a3b0262",
+      "imdb_id": "tt0071115",
+      "tmdb_id": "16153"
     },
-    "omdb": {
-      "Title": "Cape Fear",
-      "Year": "1991",
-      "Rated": "R",
-      "Released": "15 Nov 1991",
-      "Runtime": "128 min",
-      "Genre": "Crime, Drama, Thriller",
-      "Director": "Martin Scorsese",
-      "Writer": "John D. MacDonald, James R. Webb, Wesley Strick",
-      "Actors": "Robert De Niro, Nick Nolte, Jessica Lange",
-      "Plot": "A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "Nominated for 2 Oscars. 5 wins & 21 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "77%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "73/100"
-        }
-      ],
-      "Metascore": "73",
-      "imdbRating": "7.3",
-      "imdbVotes": "240,855",
-      "imdbID": "tt0101540",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$79,091,969",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      54.3,
-      31.2,
-      25.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/iRID3QKu1Y8eoBEFoJMak83JqxA.jpg",
-      "https://image.tmdb.org/t/p/w1280/qfhBi9ittpAzlFU9nacF0gBl8fA.jpg",
-      "https://image.tmdb.org/t/p/w1280/dCXRBSPYJvCI0Av5NtSnXKsL22R.jpg"
-    ],
-    "tmdb_id": "1598"
-  },
-  "Aria|1987": {
-    "lbxd": null,
     "omdb": null,
     "wiki": null,
     "cinema": {
       "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital."
     },
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      26.6,
+      48.8,
+      18.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+      "https://image.tmdb.org/t/p/w1280/wb2WNnJENGjZjro7cy1F8S9Lfxf.jpg",
+      "https://image.tmdb.org/t/p/w1280/kr6udcTVBlb0syv0IGbUn6PJqgW.jpg"
+    ],
+    "tmdb_id": "16153"
   },
-  "Possession|1981": {
+  "Libahunt|1969": {
     "lbxd": {
-      "rating": 4.03,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-500-0-750-crop.jpg?v=cb9f332628",
-      "description": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/4/3/0/2/324302-werewolf-1969-0-500-0-750-crop.jpg?v=44da73c91a",
+      "description": "There are three children growing at Tammaru farm - one boy, Margus; and two orphan girls, Mari and Tiina. Margus' parents want him to marry Mari instead of Tiina as she is more their kind. Hotblooded Tiina is completely different from them and her mother was once executed for being a witch. Thinking that Tiina has bewitched Margus, Mari starts to publicly accuse her stepsister of being a werewolf.",
       "genres": [
-        "Horror"
+        "Romance",
+        "Drama"
       ],
-      "country": "France",
-      "lb_director": "Andrzej Żuławski",
-      "lb_director_slug": "andrzej-zuawski",
-      "lb_year": 1981,
-      "lb_title": "Possession",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/md/zx/rq/4v/possession-1920-1920-1080-1080-crop-000000.jpg?v=e8b6f32f0a",
-      "imdb_id": "tt0082933",
-      "tmdb_id": "21484"
+      "country": "USSR",
+      "lb_director": "Leida Laius",
+      "lb_director_slug": "leida-laius",
+      "lb_year": 1969,
+      "lb_title": "Werewolf",
+      "backdrop": null,
+      "imdb_id": "tt0445527",
+      "tmdb_id": "389684"
     },
     "omdb": {
-      "Title": "Possession",
-      "Year": "1981",
-      "Rated": "R",
-      "Released": "28 Oct 1983",
-      "Runtime": "124 min",
-      "Genre": "Drama, Horror",
-      "Director": "Andrzej Zulawski",
-      "Writer": "Andrzej Zulawski, Frederic Tuten",
-      "Actors": "Isabelle Adjani, Sam Neill, Margit Carstensen",
-      "Plot": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
-      "Language": "English, French, German",
-      "Country": "France, West Germany",
-      "Awards": "5 wins & 4 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjczNmItMGJkMS00YzVhLTg4NzEtOGQyYWUzNDA0ZmNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Title": "Libahunt",
+      "Year": "1968",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "71 min",
+      "Genre": "Drama, Romance",
+      "Director": "Leida Laius",
+      "Writer": "August Kitzberg, Leida Laius, Lembit Remmelgas",
+      "Actors": "Ene Rämmeld, Doris Kareva, Malle Klaassen",
+      "Plot": "A young woman living in a 19th century farming village is accused of being a werewolf.",
+      "Language": "Estonian",
+      "Country": "Soviet Union, Estonia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVlNGRlN2MtOWFmMC00N2ZjLWJkN2ItNDgwZmI0ZGYzNDAwXkEyXkFqcGdeQXVyNTAxMTUwNDQ@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "87%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "75/100"
+          "Value": "6.7/10"
         }
       ],
-      "Metascore": "75",
-      "imdbRating": "7.2",
-      "imdbVotes": "55,674",
-      "imdbID": "tt0082933",
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "65",
+      "imdbID": "tt0445527",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "$1,158,473",
+      "BoxOffice": "N/A",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
@@ -54681,25 +54791,87 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      52.7,
-      34.1,
-      36.8
+      40.4,
+      35.1,
+      32.5
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "https://image.tmdb.org/t/p/w1280/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg",
-      "https://image.tmdb.org/t/p/w1280/oWEgWU4EyHfY6q2npQIkATY2n9H.jpg"
+      "https://image.tmdb.org/t/p/w1280/9tgmfUeIfh5Vg02ch3pxlPngK9z.jpg",
+      "https://image.tmdb.org/t/p/w1280/gWG2dVV4wcMCBIWJxmuqVe8YBkg.jpg",
+      "https://image.tmdb.org/t/p/w1280/dPhdQBEKTj36ptNmUVrD7xNqWXc.jpg"
     ],
-    "tmdb_id": "21484"
+    "tmdb_id": "389684"
   },
-  "Bodyhackers|2026": {
+  "A Prática|2023": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/6/8/5/4/636854-the-practice-0-500-0-750-crop.jpg?v=b63aeed921",
+      "description": "Dealing with a series of increasingly absurd situations and relationships, recently separated yoga instructors Gustavo and Vanesa are finding it difficult to live apart. Their challenges include meddling mothers, amnesiac students, and burgeoning romances. Step by step, they find their way back to the practice.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Germany",
+      "lb_director": "Martín Rejtman",
+      "lb_director_slug": "martin-rejtman",
+      "lb_year": 2023,
+      "lb_title": "The Practice",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fx/n2/5m/o2/wbJF09o7jimtS2AOvzYgjoX18Bl-1920-1920-1080-1080-crop-000000.jpg?v=1838541e76",
+      "imdb_id": "tt10399660",
+      "tmdb_id": "713919"
+    },
+    "omdb": {
+      "Title": "The Practice",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt10399660",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2024,
+      "country": "Argentina, Chile, Portugal e Alemanha",
+      "plot_pt": "Gustavo e Vanesa separam-se e têm de rever os projetos em comum. Os dois são professores de yoga. Gustavo é argentino, Vanesa é chilena. Vanesa fica com o apartamento e deixa o estúdio que partilhavam; Gustavo fica sem casa. Devido ao stress acumulado, Gustavo lesiona o joelho e substitui o yoga por exercícios de quadríceps e ginásio. A sua vida transforma-se num mundo de alunos e ex-alunos. Até que, aos poucos, ele reencontra o caminho para a prática."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wbJF09o7jimtS2AOvzYgjoX18Bl.jpg"
+    ],
+    "tmdb_id": "713919"
+  },
+  "GAUTHALI|2020": {
     "lbxd": null,
     "omdb": null,
     "wiki": null,
-    "cinema": {
-      "year": 2026,
-      "plot_pt": "O ativista ambiental Denver Blake decide denunciar uma clínica de cosmética que, na sua opinião, explora as inseguranças geradas pelos padrões de beleza impostos pela sociedade. No entanto, quando se apaixona por Renée, uma ex-bailarina obcecada por aperfeiçoar constantemente a sua aparência, acaba por ser arrastado para um fascinante e perturbador submundo que subverte o significado da cirurgia plástica."
-    },
+    "cinema": {},
     "dir_checked": true,
     "stills": null
   }
