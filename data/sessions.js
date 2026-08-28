@@ -1,22 +1,133 @@
 window.CINEMA_DATA = {
-  "generated": "2026-08-27T19:09:26.859531+00:00",
+  "generated": "2026-08-28T20:12:42.851160+00:00",
   "movies": [
     {
-      "id": "sao_jorge_11641",
-      "title": "Dudley and the Invasion of the Space Slugs",
-      "director": null,
-      "duration": 83,
+      "id": "sao_jorge_11667",
+      "title": "Hope",
+      "director": "Lee Joon-ik",
+      "duration": 160,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_Dudley_and_the_Invasion_of_the_Space_Slugs.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/dudley-and-the-invasion-of-the-space-slugs/",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/1/13771-hope-0-500-0-750-crop.jpg?v=11485e571c",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/hope/",
       "sessions": [
         {
-          "date": "2026-09-13",
-          "time": "14:00",
+          "date": "2026-09-06",
+          "time": "20:10",
           "cinema": "sao_jorge"
         }
-      ]
+      ],
+      "rating": 3.88,
+      "year": 1970,
+      "plot": "After losing one of his horses in an accident, an illiterate horse cab driver sets out into the desert in a quest for a mythical lost treasure.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/mdPQzNJx8fgES4kq3NUXMVksv8o.jpg",
+        "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
+      ],
+      "stills_focus": [
+        26.5,
+        40.2
+      ],
+      "country": "Turkey",
+      "director_lbxd_slug": "ylmaz-guney"
+    },
+    {
+      "id": "sao_jorge_11405",
+      "title": "Poultry Farm",
+      "director": null,
+      "duration": 97,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_poultry_farm.webp",
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/poultry-farm/",
+      "sessions": [
+        {
+          "date": "2026-09-04",
+          "time": "14:05",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-09-06",
+          "time": "21:45",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "title_en": "Scenes at Cackett's Poultry Farm",
+      "country": "UK",
+      "year": 1903
+    },
+    {
+      "id": "sao_jorge_11665",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "director": "Steve Cox, Matthew Walker",
+      "duration": 80,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/9/6/8/1353968-shaun-the-sheep-the-beast-of-mossy-bottom-0-500-0-750-crop.jpg?v=aab6cd0ba2",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Science Fiction"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/shaun-the-sheep-the-beast-of-mossy-bottom/",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "14:45",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
+        "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
+        "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
+      ],
+      "stills_focus": [
+        36.1,
+        29.0,
+        31.9
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "steve-cox-6"
+    },
+    {
+      "id": "sao_jorge_11663",
+      "title": "THE MOVIE ORGY",
+      "director": "Joe Dante",
+      "duration": 420,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/7/1/98571-the-movie-orgy-0-500-0-750-crop.jpg?v=34e551568a",
+      "genres": [
+        "Comedy",
+        "History",
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/the-movie-orgy/",
+      "sessions": [
+        {
+          "date": "2026-09-08",
+          "time": "16:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 4.0,
+      "year": 1968,
+      "plot": "Clips from assorted television programs, B-movies, commercials, music performances, newsreels, bloopers, satirical short films and promotional and government films of the 1950s and 1960s are intercut together to tell a single story of various creatures and societal ills attacking American cities.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
+      ],
+      "stills_focus": [
+        46.3
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "joe-dante"
     },
     {
       "id": "sao_jorge_11421",
@@ -35,6 +146,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-09-04",
           "time": "23:50",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "23:45",
           "cinema": "sao_jorge"
         }
       ],
@@ -55,27 +171,10 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "rhys-frake-waterfield"
     },
     {
-      "id": "sao_jorge_11419",
-      "title": "Nervous + Q&A",
-      "director": null,
-      "duration": 100,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Nervous.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/nervous-qa/",
-      "sessions": [
-        {
-          "date": "2026-09-04",
-          "time": "23:50",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
       "id": "sao_jorge_11650",
       "title": "Curtas: Internacionais #6 2026",
       "director": null,
-      "duration": 16,
+      "duration": 79,
       "festival": null,
       "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_The_Taste_of_your_Scales.webp",
       "genres": [],
@@ -190,6 +289,64 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "roger-corman"
     },
     {
+      "id": "sao_jorge_11641",
+      "title": "Dudley and the Invasion of the Space Slugs",
+      "director": null,
+      "duration": 83,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_Dudley_and_the_Invasion_of_the_Space_Slugs.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/dudley-and-the-invasion-of-the-space-slugs/",
+      "sessions": [
+        {
+          "date": "2026-09-13",
+          "time": "14:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11593",
+      "title": "Ghost in the Cell",
+      "director": "Joko Anwar",
+      "duration": 106,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/6/6/3/1277663-ghost-in-the-cell-0-500-0-750-crop.jpg?v=e438d28d3c",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Comedy"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/ghost-in-the-cell/",
+      "sessions": [
+        {
+          "date": "2026-09-10",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "23:59",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.55,
+      "year": 2026,
+      "plot": "A notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+        "https://image.tmdb.org/t/p/w1280/afk22GzX3YZoG6XRsD3T2QRn0lv.jpg",
+        "https://image.tmdb.org/t/p/w1280/unEj3lNA48RKVQDdzeaTxKHtE4C.jpg"
+      ],
+      "stills_focus": [
+        41.5,
+        60.1,
+        40.1
+      ],
+      "country": "Indonesia",
+      "director_lbxd_slug": "joko-anwar-1"
+    },
+    {
       "id": "sao_jorge_11639",
       "title": "Curtas ao Almoço: Internacionais #5",
       "director": null,
@@ -284,6 +441,29 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jose-de-sa-caetano"
     },
     {
+      "id": "sao_jorge_11629",
+      "title": "The Glorious Dead",
+      "director": null,
+      "duration": 81,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/1/7/2/1529172-the-glorious-dead-0-500-0-750-crop.jpg?v=344db15ded",
+      "genres": [
+        "Horror"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/the-glorious-dead/",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "17:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "\"[T]his is a story about Hell on Earth, taking The Word at its very word; told through one very, very bad day in the life of small-town Americana.”",
+      "country": "USA",
+      "director_lbxd_slug": "toby-poser"
+    },
+    {
       "id": "sao_jorge_11631",
       "title": "The Devil Within",
       "director": "Tom Hardy",
@@ -317,27 +497,32 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "tom-hardy-2"
     },
     {
-      "id": "sao_jorge_11629",
-      "title": "The Glorious Dead",
+      "id": "sao_jorge_11417",
+      "title": "Colony",
       "director": null,
-      "duration": 81,
+      "duration": 140,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/1/7/2/1529172-the-glorious-dead-0-500-0-750-crop.jpg?v=344db15ded",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
       "genres": [
-        "Horror"
+        "Documentary"
       ],
-      "link": "https://cinemasaojorge.pt/evento/the-glorious-dead/",
+      "link": "https://cinemasaojorge.pt/evento/colony/",
       "sessions": [
         {
-          "date": "2026-09-12",
-          "time": "17:00",
+          "date": "2026-09-04",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "16:00",
           "cinema": "sao_jorge"
         }
       ],
-      "year": 2026,
-      "plot": "\"[T]his is a story about Hell on Earth, taking The Word at its very word; told through one very, very bad day in the life of small-town Americana.”",
-      "country": "USA",
-      "director_lbxd_slug": "toby-poser"
+      "year": 2009,
+      "plot": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
+      "country": "United States",
+      "director_lbxd_slug": "carter-gunn"
     },
     {
       "id": "sao_jorge_11627",
@@ -391,6 +576,36 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "sao_jorge_11623",
+      "title": "Kenneled",
+      "director": "Jay Burleson",
+      "duration": 96,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/5/9/6/0/1195960-kenneled-0-500-0-750-crop.jpg?v=d18f9f3e4d",
+      "genres": [
+        "Horror"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/kenneled/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "23:59",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.14,
+      "year": 2025,
+      "plot": "Walker, a gig worker and artist, is drowning in the city's instability. Desperate for agency and financial relief to save his relationship with his ambitious girlfriend, Kylie, he accepts a lucrative but bizarre dog-walking job. At a secluded mansion, he meets Doug-a man living entirely as a dog. Initially repulsed, Walker stays, justifying the dehumanization as just another gig.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
+      ],
+      "stills_focus": [
+        38.5
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "jay-burleson"
+    },
+    {
       "id": "sao_jorge_11620",
       "title": "Curtas: Méliès d’argent PT #02 + Q&A",
       "director": null,
@@ -406,6 +621,66 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
+    },
+    {
+      "id": "sao_jorge_11618",
+      "title": "Remanence – A Voltage Cosmic Horror + Q&A",
+      "director": "Jono Seneff",
+      "duration": 80,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/7/1/3/1124713-remanence-0-500-0-750-crop.jpg?v=a34acb0f84",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/remanence-a-voltage-cosmic-horror-qa/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2024,
+      "plot": "Combining two recently discovered unique archival sources, this short film evokes the lost history of a Dutch women's pacifist movement that brought women together in collective action in the 1930s.",
+      "title_en": "Remanence",
+      "country": "Netherlands",
+      "director_lbxd_slug": "sabine-groenewegen"
+    },
+    {
+      "id": "sao_jorge_11616",
+      "title": "The Furious",
+      "director": "Kenji Tanigaki",
+      "duration": 123,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-500-0-750-crop.jpg?v=f880a59523",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/the-furious/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "21:15",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.83,
+      "year": 2025,
+      "plot": "After the daughter of Wang Wei is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive martial arts showdown.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+        "https://image.tmdb.org/t/p/w1280/b94Br0pFWR0gKIBgP5I6fGneUAl.jpg",
+        "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
+      ],
+      "stills_focus": [
+        28.7,
+        18.4,
+        20.6
+      ],
+      "country": "Hong Kong",
+      "director_lbxd_slug": "kenji-tanigaki"
     },
     {
       "id": "sao_jorge_11614",
@@ -627,6 +902,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
+      "rating": 3.31,
       "year": 2026,
       "plot": "Win, takes a lethal gamble to fund his mother's medical treatment when Itt, an old friend, lures him into the Arena. In this brutal underground circuit, fighters are marked with \"God Skin\" tattoos to gain a ruthless edge.",
       "stills": [
@@ -653,6 +929,28 @@ window.CINEMA_DATA = {
         {
           "date": "2026-09-10",
           "time": "21:25",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11569",
+      "title": "Bloody Tennis + Q&A",
+      "director": null,
+      "duration": 95,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_bloody_tennis.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/bloody-tennis-qa/",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "18:50",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "21:20",
           "cinema": "sao_jorge"
         }
       ]
@@ -711,134 +1009,282 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_11593",
-      "title": "Ghost in the Cell",
-      "director": "Joko Anwar",
-      "duration": 106,
+      "id": "sao_jorge_11510",
+      "title": "Bowels of Hell + Q&A",
+      "director": null,
+      "duration": 111,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/6/6/3/1277663-ghost-in-the-cell-0-500-0-750-crop.jpg?v=e438d28d3c",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_Bowels_of_Hell.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/bowels-of-hell-qa/",
+      "sessions": [
+        {
+          "date": "2026-09-02",
+          "time": "14:45",
+          "cinema": "sao_jorge"
+        },
+        {
+          "date": "2026-09-08",
+          "time": "23:40",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11591",
+      "title": "Our Effed Up World",
+      "director": "Alice Maio Mackay",
+      "duration": 67,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/0/6/0/8/1450608-our-effed-up-world-0-500-0-750-crop.jpg?v=7160b44918",
       "genres": [
-        "Thriller",
         "Horror",
-        "Comedy"
+        "Science Fiction"
       ],
-      "link": "https://cinemasaojorge.pt/evento/ghost-in-the-cell/",
+      "link": "https://cinemasaojorge.pt/evento/our-effed-up-world/",
       "sessions": [
         {
           "date": "2026-09-10",
-          "time": "19:00",
+          "time": "17:20",
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.55,
+      "rating": 3.21,
       "year": 2026,
-      "plot": "A notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "plot": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of shitkicker friends are what stands in the way of an insatiable, intergalactic hunger.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-        "https://image.tmdb.org/t/p/w1280/afk22GzX3YZoG6XRsD3T2QRn0lv.jpg",
-        "https://image.tmdb.org/t/p/w1280/unEj3lNA48RKVQDdzeaTxKHtE4C.jpg"
+        "https://image.tmdb.org/t/p/w1280/hYMVwlquxdKRdqW3YIyNobA6A1V.jpg",
+        "https://image.tmdb.org/t/p/w1280/rJXSOkGpVc4yUYNgHHYNlV8a2rV.jpg",
+        "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
       ],
       "stills_focus": [
-        41.5,
-        60.1,
-        40.1
+        45.3,
+        30.7,
+        32.5
       ],
-      "country": "Indonesia",
-      "director_lbxd_slug": "joko-anwar-1"
+      "country": "Australia",
+      "director_lbxd_slug": "alice-maio-mackay"
     },
     {
-      "id": "sao_jorge_11535",
-      "title": "Os Primos",
-      "director": "Pedro Claudio",
-      "duration": 75,
+      "id": "sao_jorge_11589",
+      "title": "Mag Mag",
+      "director": "Yuriyan Retriever",
+      "duration": 112,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/4/7/8/9/524789-os-primos-0-500-0-750-crop.jpg?v=e5bd22ab08",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/1/5/7/5/1411575-mag-mag-0-500-0-750-crop.jpg?v=0fb72f9071",
       "genres": [
-        "Comedy",
-        "Music"
+        "Horror"
       ],
-      "link": "https://cinemasaojorge.pt/evento/os-primos/",
+      "link": "https://cinemasaojorge.pt/evento/mag-mag/",
       "sessions": [
         {
-          "date": "2026-08-29",
-          "time": "18:00",
+          "date": "2026-09-10",
+          "time": "16:30",
           "cinema": "sao_jorge"
         }
       ],
-      "year": 1996,
-      "plot": "A suit and tie dressed gang plays Ska.",
-      "country": "Portugal",
-      "director_lbxd_slug": "pedro-claudio"
-    },
-    {
-      "id": "cinemateca_20201",
-      "title": "Alice’s Restaurant",
-      "director": "Arthur Penn",
-      "year": 1969,
-      "duration": 111,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/5/6/48756-alice-s-restaurant-0-500-0-750-crop.jpg?v=fa863d8b84",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20201",
-      "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.23,
-      "plot": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump but finds it closed for the holiday, so he dumps the trash in the bottom of a ravine. This act of littering gets him arrested and sends him on a bizarre journey.",
-      "plot_pt": "Belíssima mescla de melodrama e comédia que facilmente se coloca entre os melhores trabalhos de Robert Mulligan. Natalie Wood é uma rapariga (católica) que se descobre grávida na sequência de um “one night stand” com um músico, Steve McQueen. Juntos, tentarão encontrar dinheiro para um aborto, e nesse processo vão-se conhecendo cada vez melhor. Mulligan trata um tema difícil com toda a delicadeza, e quer Wood quer McQueen estão em estado de graça. Um dos candidatos a ser a obra-prima de Mulligan. A exibir em cópia 35mm.",
+      "rating": 3.25,
+      "year": 2025,
+      "plot": "The revenge story of a woman whose partner is murdered by a ghost, and who will soon discover the true identity of the one she must avenge.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/gSxBpt9YVANM9NdLoVeAfZCIot6.jpg",
-        "https://image.tmdb.org/t/p/w1280/lgfufoqVHb1de5hVLvK67bi0dEz.jpg",
-        "https://image.tmdb.org/t/p/w1280/7TuP1K77CLnqWlmomz39GQREcfR.jpg"
+        "https://image.tmdb.org/t/p/w1280/xJCZpMKq5GROqXlfPTPozhcWwxJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/aWRLdVStMsg8hNATW7by9ybJV0X.jpg",
+        "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
       ],
       "stills_focus": [
-        43.0,
-        31.1,
-        17.4
+        16.8,
+        15.6,
+        42.0
       ],
-      "country": "USA",
-      "director_lbxd_slug": "arthur-penn"
+      "country": "Japan",
+      "director_lbxd_slug": "yuriyan-retriever"
     },
     {
-      "id": "cinemateca_20197",
-      "title": "American Graffiti",
-      "director": "George Lucas",
-      "year": 1973,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/pg/y6/re/c7/xq8MFYQ6MLZ65mFpweqV6mCs39k-0-500-0-750-crop.jpg?v=c90f2b906e",
+      "id": "sao_jorge_11586",
+      "title": "Curtas ao Almoço: Internacionais #4 2026",
+      "director": null,
+      "duration": 60,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Spanked-by-a-Ghost.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/curtas-ao-almoco-internacionais-4-2026/",
+      "sessions": [
+        {
+          "date": "2026-09-10",
+          "time": "13:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11584",
+      "title": "Gunman",
+      "director": "Chatrichalerm Yukol",
+      "duration": 80,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/4/6/5/2/164652-gunman-0-500-0-750-crop.jpg?v=d5df745e8e",
       "genres": [
         "Drama",
-        "Comedy"
+        "Action",
+        "Crime"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20197",
+      "link": "https://cinemasaojorge.pt/evento/gunman/",
       "sessions": [
         {
-          "date": "2026-08-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
+          "date": "2026-09-09",
+          "time": "23:59",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 1983,
+      "plot": "At a nearby newsstand, another man witnesses the arrest. He turns and walks away – with a limp. He is the gunman, and his name is Sergeant Sommai. After losing a leg fighting for the Thai Special Forces during the Secret War in Laos, Sommai now works as a barber in a small shop in a canal community of suburban Bangkok.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/54OiKjwXBrZMMdony36i8FCOjlf.jpg"
+      ],
+      "stills_focus": [
+        45.6
+      ],
+      "country": "Thailand",
+      "director_lbxd_slug": "chatrichalerm-yukol"
+    },
+    {
+      "id": "sao_jorge_11582",
+      "title": "Mum, I’m Alien Pregnant",
+      "director": null,
+      "duration": 95,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/0/0/6/1465006-mum-im-alien-pregnant-0-500-0-750-crop.jpg?v=d289c7068f",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/mum-im-alien-pregnant/",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "23:45",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.46,
+      "year": 2026,
+      "plot": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
+      ],
+      "stills_focus": [
+        42.1
+      ],
+      "country": "New Zealand",
+      "director_lbxd_slug": "jordan-mark-windsor"
+    },
+    {
+      "id": "sao_jorge_11580",
+      "title": "A Teia do Gelo ( Versão Inglesa)",
+      "director": null,
+      "duration": 100,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/motelx2026-cinema_sj_a_teia_de_gelo.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/a-teia-do-gelo-versao-inglesa/",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "22:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11578",
+      "title": "Roma Elastica",
+      "director": "Bertrand Mandico",
+      "duration": 107,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/5/9/1184659-roma-elastica-0-500-0-750-crop.jpg?v=be14433e78",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/roma-elastica/",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "21:40",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 2.91,
+      "year": 2026,
+      "plot": "1982. French actress Eddie is on the verge of collapse and travels to Rome accompanied by her loyal makeup artist, Valentina, to shoot a science-fiction film – a film that could be her last one.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/aVPp9XJeYhAbGSaXOXgX8AtUq6g.jpg",
+        "https://image.tmdb.org/t/p/w1280/92uzbmS3aiWDUQ9sYEG9UEhzDYX.jpg",
+        "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
+      ],
+      "stills_focus": [
+        33.1,
+        22.0,
+        36.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "bertrand-mandico"
+    },
+    {
+      "id": "sao_jorge_11576",
+      "title": "Hallowarrior + Q&A",
+      "director": null,
+      "duration": 91,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Hallowarrior.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/hallowarrior-qa/",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "21:20",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11574",
+      "title": "Chronovisor",
+      "director": null,
+      "duration": 110,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-500-0-750-crop.jpg?v=381f601981",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Horror"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/chronovisor/",
+      "sessions": [
+        {
+          "date": "2026-09-09",
+          "time": "19:10",
+          "cinema": "sao_jorge"
         }
       ],
       "rating": 3.73,
-      "plot": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
-      "plot_pt": "Filme que ficou marcado, na carreira de Warren Beatty, pela tensão com o realizador Robert Rossen, e que lhe viria a sublinhar a necessidade de controlo sobre os seus projetos. A última realização de Robert Rossen é, no entanto, um tocante e comovente filme: uma adaptação de um romance de J.R. Salamanca que tem por cenário um hospício onde um jovem estagiário se apaixona por uma perturbante jovem ali internada (Jean Seberg) e onde, progressivamente, vai ele próprio deslizando para a loucura. Possivelmente o filme definitivo sobre a passagem dessa frágil fronteira entre a razão e a loucura, a que Rossen dá uma estranha atmosfera poética, valorizada pela singular fotografia de mestre Eugen Schüfftan. A exibir em cópia 35mm.",
+      "year": 2026,
+      "plot": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/4ePrn94TAta0B54euB2Ai0RxCZo.jpg",
-        "https://image.tmdb.org/t/p/w1280/mUTVd9LfWDQcBezZLV3O4S7cfML.jpg",
-        "https://image.tmdb.org/t/p/w1280/v7CWQHiEZemqUIU5js9dB9KWmTr.jpg"
+        "https://image.tmdb.org/t/p/w1280/xbp6MM3ZIL7neN7qLk8pp0t0eOj.jpg",
+        "https://image.tmdb.org/t/p/w1280/oWCpvjZ0o08YHVh3JfwnfVNHpgC.jpg",
+        "https://image.tmdb.org/t/p/w1280/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg"
       ],
       "stills_focus": [
-        40.6,
-        45.1,
-        30.5
+        27.1,
+        19.7,
+        39.9
       ],
       "country": "USA",
-      "director_lbxd_slug": "george-lucas"
+      "director_lbxd_slug": "kevin-walker-5"
     },
     {
       "id": "cinemateca_20199",
@@ -1574,6 +2020,11 @@ window.CINEMA_DATA = {
           "date": "2026-09-07",
           "time": "19:00",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-09-10",
+          "time": "19:30",
+          "cinema": "cinemateca"
         }
       ],
       "rating": 4.13,
@@ -1814,6 +2265,94 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "martin-scorsese"
+    },
+    {
+      "id": "cinemateca_20238",
+      "title": "Cape Fear",
+      "director": "Martin Scorsese",
+      "year": 1991,
+      "duration": 125,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/3/6/50936-cape-fear-1991-0-500-0-750-crop.jpg?v=fa3497476a",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20238",
+      "sessions": [
+        {
+          "date": "2026-09-10",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.72,
+      "plot": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/iRID3QKu1Y8eoBEFoJMak83JqxA.jpg",
+        "https://image.tmdb.org/t/p/w1280/qfhBi9ittpAzlFU9nacF0gBl8fA.jpg",
+        "https://image.tmdb.org/t/p/w1280/dCXRBSPYJvCI0Av5NtSnXKsL22R.jpg"
+      ],
+      "stills_focus": [
+        54.3,
+        31.2,
+        25.1
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "martin-scorsese"
+    },
+    {
+      "id": "cinemateca_20287",
+      "title": "Aria",
+      "director": "Robert Altman, Bruce Beresford, Bill Bryden, Jean-Luc Godard, Derek Jarman, Franc Roddam, Nicolas Roeg, Ken Russell, Charles Sturridge, Julien Temple",
+      "year": 1987,
+      "duration": 90,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20287",
+      "sessions": [
+        {
+          "date": "2026-09-10",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital."
+    },
+    {
+      "id": "cinemateca_20292",
+      "title": "Possession",
+      "director": "Andrzej Zulawski",
+      "year": 1981,
+      "duration": 124,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/8c/pk/z8/4v/aIjO3kraeaD4MDBSef3rTO2vIuZ-0-500-0-750-crop.jpg?v=cb9f332628",
+      "genres": [
+        "Horror"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20292",
+      "sessions": [
+        {
+          "date": "2026-09-10",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.03,
+      "plot": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+        "https://image.tmdb.org/t/p/w1280/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg",
+        "https://image.tmdb.org/t/p/w1280/oWEgWU4EyHfY6q2npQIkATY2n9H.jpg"
+      ],
+      "stills_focus": [
+        52.7,
+        34.1,
+        36.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "andrzej-zuawski"
     },
     {
       "id": "cinemateca_20213_0",
@@ -2099,16 +2638,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-amiga-silenciosa-2025",
       "sessions": [
         {
-          "date": "2026-08-27",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-08-27",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-08-28",
           "time": "19:15",
           "cinema": "nimas"
@@ -2232,37 +2761,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "howard-hawks"
     },
     {
-      "id": "nimas_ydessa-os-ursos-e-etc-2004",
-      "title": "Ydessa, os Ursos e etc.",
-      "director": "Agnès Varda",
-      "year": 2004,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/8/8/4/0/208840-ydessa-the-bears-and-etc--0-500-0-750-crop.jpg?v=f85730cf5a",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ydessa-os-ursos-e-etc-2004",
-      "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.63,
-      "plot": "Ydessa Hendeles' exhibition entitled \"The living and the Artificial\" (consisting of works of art all comprising a photograph of living persons in the company of one or several teddy bears) had puzzled Agnès Varda so much that she decided to go to Toronto where the artist lives and interview her. In front of Agnes Varda's DV camera, Ydessa tells about the singularity of her artistic approach. She also expresses herself about the Holocaust, which both her parents survived.",
-      "plot_pt": "Em 2004, Agnès Varda descobriu a exposição «O Vivo e o Artificial», na Haus der Kunst, em Munique, comissariada pela artista e coleccionadora Ydessa Hendeles. Esta acumulação de milhares de fotografias anónimas, coladas nas paredes, tinha apenas um elemento em comum: a presença de um ursinho de peluche. A cineasta filmou a exposição e depois voou para Toronto para conhecer Ydessa e tentar compreender a sua obsessão.",
-      "title_en": "Ydessa, the Bears and etc.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/cL1dtYZYCfLOBvmffNtVGv1xFhv.jpg"
-      ],
-      "stills_focus": [
-        47.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
       "id": "nimas_duas-horas-na-vida-de-uma-mulher-1961",
       "title": "Duas Horas na Vida de uma Mulher",
       "director": "Agnès Varda",
@@ -2274,11 +2772,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/duas-horas-na-vida-de-uma-mulher-1961",
       "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-09-01",
           "time": "19:30",
@@ -2308,77 +2801,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
-      "id": "nimas_t7-coz-wc-a-venda-1984",
-      "title": "T7,  Coz, WC… À VENDA",
-      "director": "Agnès Varda",
-      "year": 1984,
-      "duration": 28,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/8/5/175285-seven-rooms-kitchen-bathroom-for-sale-0-500-0-750-crop.jpg?v=b6725bf4a9",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/t7-coz-wc-a-venda-1984",
-      "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.57,
-      "plot": "An unusual visit to a large, empty apartment. But is it empty or not? Maybe a family has lived there or is going to live there. Maybe a young girl is going to escape from there. Maybe some of the old-timers who lived there never left. The walls themselves tell the stories of the time passing by.",
-      "plot_pt": "A visita a um grande e vazio apartamento transforma-se numa deriva imaginária pelas vidas que o habitaram, e que talvez ainda o assombrem. Entre a comédia e o surrealismo, Agnès Varda filma as memórias e histórias suspensas deste espaço.",
-      "title_en": "Seven Rooms, Kitchen, Bathroom, for Sale",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
-        "https://image.tmdb.org/t/p/w1280/5eZoqvxtLy8sj1sRywUqsiCskEO.jpg",
-        "https://image.tmdb.org/t/p/w1280/5pRkyOm1LFmQVbHHlXJ6lUbt4fA.jpg"
-      ],
-      "stills_focus": [
-        36.8,
-        48.4,
-        25.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_errando-pelo-caminho-1965",
-      "title": "Errando pelo Caminho",
-      "director": "Robert Mulligan",
-      "year": 1965,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/0/6/5/79065-baby-the-rain-must-fall-0-500-0-750-crop.jpg?v=720af12a39",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/errando-pelo-caminho-1965",
-      "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.21,
-      "plot": "Henry Thomas tries to overcome the horrors of his childhood and start a new life with his wife and kid. However, his abusive step-mother and his dependence on alcohol threaten to ruin his future.",
-      "plot_pt": "Um cantor recém-libertado da prisão reencontra-se com a mulher e a filha no Texas, mas os sarilhos perseguem-no.",
-      "title_en": "Baby the Rain Must Fall",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/xjQLbQPAt6plkDa8dBpzUoV1ybo.jpg",
-        "https://image.tmdb.org/t/p/w1280/vAwvrYc4SYgevl0l7bSGF5C4RTv.jpg",
-        "https://image.tmdb.org/t/p/w1280/mko8rYuDeD73iNhQvf7aPRtNuLY.jpg"
-      ],
-      "stills_focus": [
-        14.4,
-        38.0,
-        20.0
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "robert-mulligan"
-    },
-    {
       "id": "nimas_belissima-1951",
       "title": "Belíssima",
       "director": "Luchino Visconti",
@@ -2390,11 +2812,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/belissima-1951",
       "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-09-03",
           "time": "21:30",
@@ -4341,7 +4758,10 @@ window.CINEMA_DATA = {
         {
           "date": "2026-09-09",
           "time": "21:30",
-          "cinema": "fernando"
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
         }
       ],
       "plot": "Reboleira, a suburb of Lisbon. After a robbery gone wrong, a car ends up crashed right in the middle of the neighborhood. The driver is arrested, but the €180,000 that were stolen have vanished. Within the area sealed off by the police, rumors spread and speculations run wild. Among the residents, a whole cast of colorful characters dream of getting their hands on the loot. Who will the first to get their hands on it?",
@@ -5880,7 +6300,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         12.1,
-        26.6
+        26.7
       ],
       "director_lbxd_slug": "jean-anouilh"
     },
@@ -6458,7 +6878,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
       ],
       "stills_focus": [
-        39.6
+        39.4
       ],
       "director_lbxd_slug": "wang-bo"
     },
@@ -6699,7 +7119,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         30.9,
         29.3,
-        39.6
+        30.1
       ],
       "director_lbxd_slug": "tiago-guedes"
     },
@@ -6730,7 +7150,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
       ],
       "stills_focus": [
-        37.3
+        37.2
       ],
       "director_lbxd_slug": "marta-mateus"
     },
@@ -6827,7 +7247,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
       ],
       "stills_focus": [
-        50.9
+        51.4
       ],
       "director_lbxd_slug": "yann-gonzalez"
     },
@@ -6968,8 +7388,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.2,
-        40.8
+        30.3,
+        40.6
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
@@ -7427,16 +7847,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/o-convite",
       "sessions": [
         {
-          "date": "2026-08-27",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-08-28",
           "time": "21:30",
           "cinema": "trindade"
@@ -7520,22 +7930,39 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "olivia-wilde"
     },
     {
-      "id": "trindade_9159",
-      "title": "Ao Longo da Costa + As Donzelas Fizeram 25 Anos",
+      "id": "trindade_8938",
+      "title": "O Universo de Jacques Demy",
       "director": "Agnès Varda",
-      "year": 1958,
-      "duration": 89,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinematrindade.pt/pt/filmes/ao-longo-da-costa-as-donzelas-fizeram-25-anos",
+      "year": 1995,
+      "duration": 90,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/4/7/2/143472-the-world-of-jacques-demy-0-500-0-750-crop.jpg?v=16cc4fe04d",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-universo-de-jacques-demy",
       "sessions": [
         {
-          "date": "2026-08-28",
+          "date": "2026-08-29",
           "time": "14:15",
           "cinema": "trindade"
         }
       ],
-      "plot_pt": "Em 1966, Jacques Demy filmou As Donzelas de Rochefort, protagonizado pelas irmãs Catherine Deneuve e Françoise Dorléac. Para assinalar o 25º aniversário da estreia do filme (em 1967), a cidade de Rochefort organizou uma grande celebração. Agnès Varda aproveitou a ocasião para conceber um documentário à sua imagem, entrelaçando imagens dos dois Verões, incluindo imagens gravadas por Varda durante a rodagem em 1966. O resultado é um filme colorido e alegre, por vezes melancólico, que revisita os habitantes de Rochefort, antigos figurantes que entretanto cresceram e o elenco, como Catherine Deneuve e Jacques Perrin."
+      "rating": 3.76,
+      "plot": "Agnès Varda's documentary portrait of her late husband, Jacques Demy. A companion piece to her Jacquot de Nantes.",
+      "plot_pt": "Depois de Jacquot de Nantes (1990), sobre a infância do seu marido e cineasta Jacques Demy, Agnès Varda realizou esta homenagem à sua vida e obra. Varda faz um retrato caleidoscópico de Demy, com recurs a vários dispositivos, incluindo entrevistas com o próprio e com vários dos artistas que com ele colaboraram ao longo dos anos, como Catherine Deneuve, Jacques Perrin e Nino Castelnuovo, e imagens inéditas das rodagens dos filmes. O Universo de Jacques Demy mostra-nos o cineasta como Varda o conheceu e amou, um homem de uma criatividade incansável que olhava para o mundo com encanto.",
+      "title_en": "The World of Jacques Demy",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/3NC6J6B5rU2TMqTuZaI1Hqzqukz.jpg",
+        "https://image.tmdb.org/t/p/w1280/vL0oTaPG11MiurxtyeaebWhX58r.jpg",
+        "https://image.tmdb.org/t/p/w1280/nDj8biEOu4PoGCm4hSzEZe9AU6a.jpg"
+      ],
+      "stills_focus": [
+        16.9,
+        26.7,
+        57.1
+      ],
+      "country": "Belgium",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "trindade_9078",
@@ -7549,11 +7976,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/calle-malaga",
       "sessions": [
-        {
-          "date": "2026-08-28",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-29",
           "time": "16:00",
@@ -7597,40 +8019,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "maryam-touzani"
     },
     {
-      "id": "trindade_7702",
-      "title": "Rapado",
-      "director": "Martín Rejtman",
-      "year": 1992,
-      "duration": 78,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/2/4/8224-rapado-0-500-0-750-crop.jpg?v=715fbf6393",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/rapado",
-      "sessions": [
-        {
-          "date": "2026-08-28",
-          "time": "17:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.4,
-      "plot": "After the theft of his motorcycle, Lucio bums aimlessly around Buenos Aires drifting from one arcade and record store to the next, indulging in short chats with friends and, more often, setting out onto the streets alone.",
-      "plot_pt": "Lucio está a ter péssimo dia. Foi assaltado e os ladrões levaram a sua moto, dinheiro e sapatos. O jovem vagueia sem rumo pela noite de Buenos Aires, na intenção de roubar a moto de outra pessoa para atenuar seu prejuízo. Mas vários acasos e adversidades irão tornar essa tarefa quase impossível.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/tsH5USbAYagDJ19cqFEH8ScnlnP.jpg",
-        "https://image.tmdb.org/t/p/w1280/sflp9eeoFhVyPJHa8mFOFFAffAs.jpg",
-        "https://image.tmdb.org/t/p/w1280/jxcSXIH3SIEwRoO27HiiFjMT7hX.jpg"
-      ],
-      "stills_focus": [
-        32.6,
-        45.2,
-        40.7
-      ],
-      "country": "Argentina",
-      "director_lbxd_slug": "martin-rejtman"
-    },
-    {
       "id": "trindade_9342",
       "title": "Morte e Vida Madalena",
       "director": "Guto Parente",
@@ -7643,11 +8031,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/morte-e-vida-madalena",
       "sessions": [
-        {
-          "date": "2026-08-28",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-29",
           "time": "18:00",
@@ -7695,6 +8078,45 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "guto-parente"
     },
     {
+      "id": "trindade_9088",
+      "title": "I Want Your Sex",
+      "director": "Gregg Araki",
+      "year": 2026,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/9/5/4/1170954-i-want-your-sex-0-500-0-750-crop.jpg?v=c13a0c57b7",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/i-want-your-sex",
+      "sessions": [
+        {
+          "date": "2026-08-29",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-08-31",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.35,
+      "plot": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
+      "plot_pt": "Depois de 12 longos anos, Gregg Araki, um dos nomes maiores do cinema independente americano, regressa com um novo filme, fiel ao seu estilo sempre irreverente. Nesta moderna comédia sexual, Elliot (Cooper Hoffman), um jovem entediado e sexualmente frustrado, consegue o seu primeiro emprego como assistente de uma provocante artista, Erika Tracy (Olivia Wilde). As suas fantasias tornam-se realidade quando Erika o escolhe para ser a sua musa sexual.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/rcBpmEIdSTMnt5Rn4BQeHF4SIL5.jpg",
+        "https://image.tmdb.org/t/p/w1280/hZs2eab6WhfEzWU5ue5xE1h5ru4.jpg",
+        "https://image.tmdb.org/t/p/w1280/iKNXGQuZhVr5sLUcwvN9R9G50QO.jpg"
+      ],
+      "stills_focus": [
+        42.2,
+        18.6,
+        34.5
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "gregg-araki"
+    },
+    {
       "id": "trindade_9198",
       "title": "A Prática",
       "director": "Martín Rejtman",
@@ -7707,11 +8129,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/a-pratica",
       "sessions": [
-        {
-          "date": "2026-08-28",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-08-29",
           "time": "19:30",
@@ -7750,80 +8167,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Germany",
       "director_lbxd_slug": "martin-rejtman"
-    },
-    {
-      "id": "trindade_8938",
-      "title": "O Universo de Jacques Demy",
-      "director": "Agnès Varda",
-      "year": 1995,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/4/7/2/143472-the-world-of-jacques-demy-0-500-0-750-crop.jpg?v=16cc4fe04d",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-universo-de-jacques-demy",
-      "sessions": [
-        {
-          "date": "2026-08-29",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "Agnès Varda's documentary portrait of her late husband, Jacques Demy. A companion piece to her Jacquot de Nantes.",
-      "plot_pt": "Depois de Jacquot de Nantes (1990), sobre a infância do seu marido e cineasta Jacques Demy, Agnès Varda realizou esta homenagem à sua vida e obra. Varda faz um retrato caleidoscópico de Demy, com recurs a vários dispositivos, incluindo entrevistas com o próprio e com vários dos artistas que com ele colaboraram ao longo dos anos, como Catherine Deneuve, Jacques Perrin e Nino Castelnuovo, e imagens inéditas das rodagens dos filmes. O Universo de Jacques Demy mostra-nos o cineasta como Varda o conheceu e amou, um homem de uma criatividade incansável que olhava para o mundo com encanto.",
-      "title_en": "The World of Jacques Demy",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3NC6J6B5rU2TMqTuZaI1Hqzqukz.jpg",
-        "https://image.tmdb.org/t/p/w1280/vL0oTaPG11MiurxtyeaebWhX58r.jpg",
-        "https://image.tmdb.org/t/p/w1280/nDj8biEOu4PoGCm4hSzEZe9AU6a.jpg"
-      ],
-      "stills_focus": [
-        16.9,
-        26.7,
-        57.1
-      ],
-      "country": "Belgium",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "trindade_9088",
-      "title": "I Want Your Sex",
-      "director": "Gregg Araki",
-      "year": 2026,
-      "duration": 89,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/9/5/4/1170954-i-want-your-sex-0-500-0-750-crop.jpg?v=c13a0c57b7",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/i-want-your-sex",
-      "sessions": [
-        {
-          "date": "2026-08-29",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-08-31",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.35,
-      "plot": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-      "plot_pt": "Depois de 12 longos anos, Gregg Araki, um dos nomes maiores do cinema independente americano, regressa com um novo filme, fiel ao seu estilo sempre irreverente. Nesta moderna comédia sexual, Elliot (Cooper Hoffman), um jovem entediado e sexualmente frustrado, consegue o seu primeiro emprego como assistente de uma provocante artista, Erika Tracy (Olivia Wilde). As suas fantasias tornam-se realidade quando Erika o escolhe para ser a sua musa sexual.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/rcBpmEIdSTMnt5Rn4BQeHF4SIL5.jpg",
-        "https://image.tmdb.org/t/p/w1280/hZs2eab6WhfEzWU5ue5xE1h5ru4.jpg",
-        "https://image.tmdb.org/t/p/w1280/iKNXGQuZhVr5sLUcwvN9R9G50QO.jpg"
-      ],
-      "stills_focus": [
-        42.2,
-        18.6,
-        34.5
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "gregg-araki"
     },
     {
       "id": "trindade_7694",
@@ -7905,11 +8248,6 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/a-saga-de-anathan",
       "sessions": [
         {
-          "date": "2026-08-28",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-08-30",
           "time": "14:30",
           "cinema": "ideal"
@@ -7989,11 +8327,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/soy-cuba",
       "sessions": [
-        {
-          "date": "2026-08-28",
-          "time": "18:45",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-29",
           "time": "16:15",
@@ -8112,6 +8445,27 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "muriel-dansembourg"
     },
     {
+      "id": "trindade_9398",
+      "title": "Bodyhackers",
+      "director": "Carlos Conceição",
+      "year": 2026,
+      "duration": 83,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinematrindade.pt/pt/filmes/bodyhackers",
+      "sessions": [
+        {
+          "date": "2026-09-20",
+          "time": "21:15",
+          "cinema": "trindade",
+          "labels": [
+            "*com a presença do realizador + conversa com o público"
+          ]
+        }
+      ],
+      "plot_pt": "O ativista ambiental Denver Blake decide denunciar uma clínica de cosmética que, na sua opinião, explora as inseguranças geradas pelos padrões de beleza impostos pela sociedade. No entanto, quando se apaixona por Renée, uma ex-bailarina obcecada por aperfeiçoar constantemente a sua aparência, acaba por ser arrastado para um fascinante e perturbador submundo que subverte o significado da cirurgia plástica."
+    },
+    {
       "id": "trindade_9371",
       "title": "Adolescência, Sexo e Morte No Campo Miasma",
       "director": "Jane Schoenbrun",
@@ -8187,7 +8541,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_meu_semba",
       "title": "MEU SEMBA",
-      "director": "Hugo Salvaterra",
+      "director": null,
       "year": 2026,
       "duration": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/4/7/6/3/1404763-my-semba-0-500-0-750-crop.jpg?v=c92f2a25ca",
@@ -8234,16 +8588,6 @@ window.CINEMA_DATA = {
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66062",
       "sessions": [
-        {
-          "date": "2026-08-27",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-08-28",
-          "time": "16:15",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-08-29",
           "time": "14:00",
@@ -8315,9 +8659,9 @@ window.CINEMA_DATA = {
     {
       "id": "ideal__gua_m_e",
       "title": "ÁGUA MÃE",
-      "director": "Rossana Torres e Hiroatsu Suzuki",
+      "director": null,
       "year": 2025,
-      "duration": null,
+      "duration": 72,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/8/0/1/0/1438010-agua-mae-0-500-0-750-crop.jpg?v=f9edfb256f",
       "genres": [
         "Documentary"
@@ -8658,6 +9002,21 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
+    "Lee Joon-ik": {
+      "lbxd_slug": "ylmaz-guney",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20130925%E2%80%94Lee_Joon-ik_%EC%9D%B4%EC%A4%80%EC%9D%B5_Marie_Claire_Korea_photo_shoot_screenshot_%2800m42s%29.jpg/500px-20130925%E2%80%94Lee_Joon-ik_%EC%9D%B4%EC%A4%80%EC%9D%B5_Marie_Claire_Korea_photo_shoot_screenshot_%2800m42s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Lee Joon-ik (born September 21, 1959) is a South Korean film director and producer. He is best known for directing and producing King and the Clown (2005), one of the highest grossing Korean films of all time. Other notable films include Sunny (2008), Hope (2013), The Throne (2015), Dongju: The Portrait of a Poet (2016), and The Book of Fish (2021)."
+    },
+    "Steve Cox, Matthew Walker": {
+      "lbxd_slug": "steve-cox-6",
+      "photo": null,
+      "bio": null
+    },
+    "Joe Dante": {
+      "lbxd_slug": "joe-dante",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Joe_Dante_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg/500px-Joe_Dante_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Joe Dante (; born November 28, 1946) is an American film director. His films—notably Gremlins (1984) alongside its sequel, Gremlins 2: The New Batch (1990)—often mix the 1950s-style B movie genre with 1960s radicalism and cartoon comedy. Dante's output includes the films Piranha (1978), The Howling (1981), Explorers (1985), Innerspace (1987), The 'Burbs (1989), Matinee (1993), Small Soldiers (1998), and Looney Tunes: Back in Action (2003)."
+    },
     "Rhys Frake-Waterfield": {
       "lbxd_slug": "rhys-frake-waterfield",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rhys_Frake-Waterfield_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -8678,10 +9037,30 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg/500px-Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Roger William Corman (April 5, 1926 – May 9, 2024) was an American film director and producer. Known under various monikers such as \"The Pope of Pop Cinema\", “King of the Beatnik Movies”, \"The Spiritual Godfather of the New Hollywood\", and \"The King of Cult\", he was known as a trailblazer in the world of independent film. Many of the more than 500 features directed or produced by Corman were low-budget films that later attracted a cult following, such as A Bucket of Blood (1959), The Little Shop of Horrors (1960), The Intruder (1962), X: The Man with the X-ray Eyes (1963), and the counterculture films The Wild Angels (1966) and The Trip (1967)."
     },
+    "Joko Anwar": {
+      "lbxd_slug": "joko-anwar-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joko_Anwar_Best_Director_Festival_Film_Indonesia_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Joko Anwar (born 3 January 1976) is an Indonesian film director, producer, screenwriter, and actor. Prior to becoming a filmmaker, he worked as a journalist and film critic. Anwar first rose to prominence for co-writing Nia Dinata's 2003 hit Arisan!"
+    },
     "Tom Hardy": {
       "lbxd_slug": "tom-hardy-2",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tom_Hardy_%2841869508740%29.jpg/500px-Tom_Hardy_%2841869508740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Edward Thomas Hardy  (born 15 September 1977) is an English actor. Known for his intense screen presence and versatility, he has established a career across independent films, blockbusters, and primetime television, often portraying complex and psychologically-driven characters. After training at the Drama Centre London, Hardy made his film debut in Black Hawk Down (2001)."
+    },
+    "Jay Burleson": {
+      "lbxd_slug": "jay-burleson",
+      "photo": null,
+      "bio": "Jay Burleson is an American filmmaker from Hartselle, Alabama."
+    },
+    "Jono Seneff": {
+      "lbxd_slug": "sabine-groenewegen",
+      "photo": null,
+      "bio": null
+    },
+    "Kenji Tanigaki": {
+      "lbxd_slug": "kenji-tanigaki",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg/500px-Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kenji Tanigaki (谷垣 健治, Tanigaki Kenji; born 13 October 1970) is a Japanese action choreographer, stunt performer, and film director. He is best known for his works in Hong Kong action cinema, and has expanded his career in Japanese cinema and Hollywood. Inspired by Jackie Chan's action films, Tanigaki migrated to Hong Kong in 1993 and began his career in action choreography by collaborating with Donnie Yen in the ATV martial arts drama series Fist of Fury (1995)."
     },
     "Talita Prestes": {
       "lbxd_slug": "marcos-jorge-1",
@@ -8723,25 +9102,25 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Filming_of_Top_Gun_movie_%2805%29_1985.jpg/500px-Filming_of_Top_Gun_movie_%2805%29_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Anthony David Leighton Scott (21 June 1944 – 19 August 2012) was an English filmmaker. He made his theatrical film debut with The Hunger (1983) and went on to direct highly successful action and thriller films such as Top Gun (1986), Beverly Hills Cop II (1987), Days of Thunder (1990), The Last Boy Scout (1991), True Romance (1993), Crimson Tide (1995), Enemy of the State (1998), Man on Fire (2004), Déjà Vu (2006), The Taking of Pelham 123 (2009), and Unstoppable (2010). Scott was the younger brother of film director Ridley Scott."
     },
-    "Joko Anwar": {
-      "lbxd_slug": "joko-anwar-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joko_Anwar_Best_Director_Festival_Film_Indonesia_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Joko Anwar (born 3 January 1976) is an Indonesian film director, producer, screenwriter, and actor. Prior to becoming a filmmaker, he worked as a journalist and film critic. Anwar first rose to prominence for co-writing Nia Dinata's 2003 hit Arisan!"
-    },
-    "Pedro Claudio": {
-      "lbxd_slug": "pedro-claudio",
+    "Alice Maio Mackay": {
+      "lbxd_slug": "alice-maio-mackay",
       "photo": null,
-      "bio": "victim of the military dictatorship of Augusto Pinochet"
+      "bio": "Alice Maio Mackay (born 4 August 2004) is an Australian filmmaker. Born in Adelaide, Mackay began producing, writing, directing and occasionally acting in horror films as a teenager, also coming out as a transgender woman around the same time. Many of her films deal with issues faced by the trans community; a recurring motif in her work is transphobia expressed in the form of monsters, vampires or zombies."
     },
-    "Arthur Penn": {
-      "lbxd_slug": "arthur-penn",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PBS_photo_of_Arthur_Penn_1972.jpg/500px-PBS_photo_of_Arthur_Penn_1972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Arthur Hiller Penn (September 27, 1922 – September 28, 2010) was an American filmmaker, theatre director, and producer. He was a three-time Academy Award nominee for Best Director, and a Tony Award winner. Among other accolades, he was also nominated for a BAFTA Award, a Golden Globe and two Primetime Emmy Awards."
+    "Yuriyan Retriever": {
+      "lbxd_slug": "yuriyan-retriever",
+      "photo": null,
+      "bio": "Yuriyan Retriever (ゆりやん レトリィバァ, born November 1, 1990) is a Japanese comedian and actress, hip hop artist, singer, Film director from Yoshino, Nara, Japan. Her real name is Yuri Yoshida (吉田 有里, Yoshida Yuri). She is represented with Yoshimoto Kogyo."
     },
-    "George Lucas": {
-      "lbxd_slug": "george-lucas",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Lucas_by_Gage_Skidmore.jpg/500px-George_Lucas_by_Gage_Skidmore.jpg",
-      "bio": "George Walton Lucas Jr. (born May 14, 1944) is an American filmmaker and philanthropist. He created the Star Wars franchise and its fictional universe, the Indiana Jones franchise, and founded  Lucasfilm, LucasArts, Industrial Light & Magic and THX."
+    "Chatrichalerm Yukol": {
+      "lbxd_slug": "chatrichalerm-yukol",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/69/Chatrichalerm_Yukol_20070116.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Prince Chatrichalerm Yukol (Thai: หม่อมเจ้าชาตรีเฉลิม ยุคล; RTGS: Chatrichaloem Yukhon; born 29 November 1942), or usually known by his nickname Mui (Thai: มุ้ย), is a Thai film director, screenwriter, film producer, and National Artist in 2001. A member of the Thai royal family, his official royal title is Mom Chao, or M.C., the most junior title still considered royalty. A prolific director since the 1970s, among his films is the 2001 historical epic The Legend of Suriyothai."
+    },
+    "Bertrand Mandico": {
+      "lbxd_slug": "bertrand-mandico",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bertrand_Mandico03.jpg/500px-Bertrand_Mandico03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Bertrand Mandico (born 21 March 1971) is a French film director and screenwriter. His first feature film, The Wild Boys (2017), was named the best film of 2018 by Cahiers du Cinéma. He has also written and directed After Blue (2021), She Is Conann (2023), Dragon Dilatation (2024), and Roma Elastica (2026)."
     },
     "Dennis Hopper": {
       "lbxd_slug": "dennis-hopper",
@@ -8828,6 +9207,16 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Robert Altman, Bruce Beresford, Bill Bryden, Jean-Luc Godard, Derek Jarman, Franc Roddam, Nicolas Roeg, Ken Russell, Charles Sturridge, Julien Temple": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Andrzej Zulawski": {
+      "lbxd_slug": "andrzej-zuawski",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Andrzej_%C5%BBu%C5%82awski_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Andrzej Żuławski (Polish: [ˈandʐɛj ʐuˈwafskʲi]; 22 November 1940 in Lwów – 17 February 2016 in Warsaw) was a Polish film director and writer best known for his 1981 psychological horror film Possession. Żuławski often went against mainstream commercialism in his films, and enjoyed success mostly with European art-house audiences. In the late 1950s, he studied cinema in France."
+    },
     "Ildikó Enyedi": {
       "lbxd_slug": "ildiko-enyedi",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8842,11 +9231,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "agnes-varda",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
-    },
-    "Robert Mulligan": {
-      "lbxd_slug": "robert-mulligan",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Robert-mulligan-1-sized.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Robert Patrick Mulligan (August 23, 1925 – December 20, 2008) was an American director and producer. His dramas include To Kill a Mockingbird (1962), Summer of '42 (1971), The Other (1972), Same Time, Next Year (1978), and The Man in the Moon (1991). He collaborated with producer Alan J."
     },
     "Luchino Visconti": {
       "lbxd_slug": "luchino-visconti",
@@ -9323,11 +9707,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maryam_Touzani_at_82nd_Venice_International_Film_Festival-1.jpg/500px-Maryam_Touzani_at_82nd_Venice_International_Film_Festival-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Maryam Touzani (born 17 September 1980) is a Moroccan filmmaker and actress. She is best known as the director of the critically acclaimed film Adam (2019), Morocco's entry for the 92nd Academy Awards for Best International Feature Film, and The Blue Caftan (2022), the country's submission for the same award for the 95th Academy Awards."
     },
-    "Martín Rejtman": {
-      "lbxd_slug": "martin-rejtman",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mart%C3%ADn_Rejtman.jpg/500px-Mart%C3%ADn_Rejtman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Martín Rejtman (born January 3, 1961, in Buenos Aires) is an Argentine writer and film director. He is considered to be a key figure in the New Argentine Cinema, making films such as Silvia Prieto and The Magic Gloves. His documentary Riders won the Eurimages Co-Production Development Award at the San Sebastián International Film Festival in 2020."
-    },
     "Guto Parente": {
       "lbxd_slug": "guto-parente",
       "photo": null,
@@ -9337,6 +9716,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "gregg-araki",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gregg_Araki_-_Mysterious_Skin.jpg/500px-Gregg_Araki_-_Mysterious_Skin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Gregg Araki (born December 17, 1959) is an American filmmaker. He is noted for his involvement with the New Queer Cinema movement. His Teenage Apocalypse film trilogy, consisting of Totally F***ed Up (1993), The Doom Generation (1995) and Nowhere (1997), has been heralded as a cult classic."
+    },
+    "Martín Rejtman": {
+      "lbxd_slug": "martin-rejtman",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mart%C3%ADn_Rejtman.jpg/500px-Mart%C3%ADn_Rejtman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Martín Rejtman (born January 3, 1961, in Buenos Aires) is an Argentine writer and film director. He is considered to be a key figure in the New Argentine Cinema, making films such as Silvia Prieto and The Magic Gloves. His documentary Riders won the Eurimages Co-Production Development Award at the San Sebastián International Film Festival in 2020."
     },
     "Rodrigo Areias, Aaron Brookner": {
       "lbxd_slug": "rodrigo-areias",
@@ -9368,6 +9752,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "film director"
     },
+    "Carlos Conceição": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Carlos Miguel V. Conceição (born 5 August 1979), is an Angola-born Portuguese filmmaker. Conceição is best known as the director of the films Tommy Guns and Serpentarius as well as the horror film Name Above Title."
+    },
     "Jane Schoenbrun": {
       "lbxd_slug": "jane-schoenbrun",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg/500px-JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -9378,20 +9767,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg/500px-Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Pedro Almodóvar Caballero (Spanish: [ˈpeðɾo almoˈðoβaɾ kaβaˈʎeɾo]; born 25 September 1949) is a Spanish film director, screenwriter and author. His films are distinguished by melodrama, irreverent humour, bold colour, glossy décor, quotations from popular culture, and complex narratives. Desire, LGBTQ issues, passion, family, motherhood, and identity are among Almodóvar's most frequently explored subjects."
     },
-    "Hugo Salvaterra": {
-      "lbxd_slug": "hugo-salvaterra",
-      "photo": null,
-      "bio": null
-    },
     "Jacques Deray": {
       "lbxd_slug": "jacques-deray",
       "photo": null,
       "bio": "Jacques Deray (born Jacques Desrayaud, 19 February 1929 – 9 August 2003) was a French film director and screenwriter. Deray is prominently known for directing many crime and thriller films."
-    },
-    "Rossana Torres e Hiroatsu Suzuki": {
-      "lbxd_slug": "hiroatsu-suzuki",
-      "photo": null,
-      "bio": null
     },
     "Kapil Rijal": {
       "lbxd_slug": "prakash-bhatta",
@@ -9409,5 +9788,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
