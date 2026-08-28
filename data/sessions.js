@@ -7,7 +7,7 @@ window.CINEMA_DATA = {
       "director": "Lee Joon-ik",
       "duration": 160,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/1/13771-hope-0-500-0-750-crop.jpg?v=11485e571c",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/5/5/1/179551-hope-0-500-0-750-crop.jpg?v=b04f20b036",
       "genres": [
         "Drama"
       ],
@@ -19,18 +19,20 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.88,
-      "year": 1970,
-      "plot": "After losing one of his horses in an accident, an illiterate horse cab driver sets out into the desert in a quest for a mythical lost treasure.",
+      "rating": 4.24,
+      "year": 2013,
+      "plot": "After 8-year-old So-won narrowly survives a brutal sexual assault, her family labors to help her heal while coping with their own rage and grief.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/mdPQzNJx8fgES4kq3NUXMVksv8o.jpg",
-        "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
+        "https://image.tmdb.org/t/p/w1280/4Nx40jwpoTHPjCWNGoaZ6kaoGxa.jpg",
+        "https://image.tmdb.org/t/p/w1280/cri20wZDTl1X5QpxlWCSJ4HSpTF.jpg",
+        "https://image.tmdb.org/t/p/w1280/l5K9elugftlcyIHHm4nylvsn26X.jpg"
       ],
       "stills_focus": [
-        26.5,
-        40.2
+        21.5,
+        27.9,
+        22.4
       ],
-      "country": "Turkey",
+      "country": "South Korea",
       "director_lbxd_slug": "ylmaz-guney"
     },
     {
@@ -283,7 +285,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/6OF2UGreFILNnoVKldhnkQl22En.jpg"
       ],
       "stills_focus": [
-        32.8,
+        32.5,
         41.4,
         38.5
       ],
@@ -333,7 +335,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.55,
+      "rating": 3.54,
       "year": 2026,
       "plot": "A notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "stills": [
@@ -502,10 +504,10 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_11417",
       "title": "Colony",
-      "director": null,
+      "director": "Carter Gunn, Ross McDonnell",
       "duration": 140,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/9/2/4/4/899244-colony-0-500-0-750-crop.jpg?v=ea99eb5d0d",
       "genres": [
         "Documentary"
       ],
@@ -522,9 +524,9 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "year": 2009,
-      "plot": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
-      "country": "United States",
+      "year": 2007,
+      "plot": "This film explores multinational shoe company Bata’s impact on individual lives and their surroundings. The film’s aesthetic, shifting from site to site and shot to shot, offers pockets as a visual version of the bubble that was the Bata colony itself. The characters are all connected to that past. They guide the viewers through the merging of past and present in memory. The film’s colouration also evokes this mixture.",
+      "country": "Czechia",
       "director_lbxd_slug": "carter-gunn"
     },
     {
@@ -6872,7 +6874,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
       ],
       "stills_focus": [
-        39.4
+        39.6
       ],
       "director_lbxd_slug": "wang-bo"
     },
@@ -7112,7 +7114,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         30.9,
         29.3,
-        30.1
+        39.6
       ],
       "director_lbxd_slug": "tiago-guedes"
     },
@@ -7143,7 +7145,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
       ],
       "stills_focus": [
-        37.2
+        37.3
       ],
       "director_lbxd_slug": "marta-mateus"
     },
@@ -7240,7 +7242,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
       ],
       "stills_focus": [
-        51.4
+        50.9
       ],
       "director_lbxd_slug": "yann-gonzalez"
     },
@@ -7381,8 +7383,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.3,
-        40.6
+        30.2,
+        40.8
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
@@ -9028,15 +9030,40 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Michael Spierig, Peter Spierig": {
+      "lbxd_slug": "michael-spierig",
+      "photo": null,
+      "bio": null
+    },
     "Tom Hardy": {
       "lbxd_slug": "tom-hardy-2",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tom_Hardy_%2841869508740%29.jpg/500px-Tom_Hardy_%2841869508740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Edward Thomas Hardy  (born 15 September 1977) is an English actor. Known for his intense screen presence and versatility, he has established a career across independent films, blockbusters, and primetime television, often portraying complex and psychologically-driven characters. After training at the Drama Centre London, Hardy made his film debut in Black Hawk Down (2001)."
     },
+    "Carter Gunn, Ross McDonnell": {
+      "lbxd_slug": "carter-gunn",
+      "photo": null,
+      "bio": null
+    },
     "Jean Epstein": {
       "lbxd_slug": "jean-epstein",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jean_epstein_1920.jpg/500px-Jean_epstein_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Jean Epstein (French: [ʒɑ̃ ɛpʃtajn]; 25 March 1897 – 2 April 1953) was a French filmmaker, film theorist, literary critic, and novelist. Although he is remembered today primarily for his adaptation of Edgar Allan Poe's The Fall of the House of Usher, he directed three dozen films and was an influential critic of literature and film from the early 1920s through the late 1940s. He is often associated with French Impressionist Cinema and the concept of photogénie."
+    },
+    "Jay Burleson": {
+      "lbxd_slug": "jay-burleson",
+      "photo": null,
+      "bio": "Jay Burleson is an American filmmaker from Hartselle, Alabama."
+    },
+    "Jono Seneff": {
+      "lbxd_slug": "sabine-groenewegen",
+      "photo": null,
+      "bio": null
+    },
+    "Kenji Tanigaki": {
+      "lbxd_slug": "kenji-tanigaki",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg/500px-Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kenji Tanigaki (谷垣 健治, Tanigaki Kenji; born 13 October 1970) is a Japanese action choreographer, stunt performer, and film director. He is best known for his works in Hong Kong action cinema, and has expanded his career in Japanese cinema and Hollywood. Inspired by Jackie Chan's action films, Tanigaki migrated to Hong Kong in 1993 and began his career in action choreography by collaborating with Donnie Yen in the ATV martial arts drama series Fist of Fury (1995)."
     },
     "Talita Prestes": {
       "lbxd_slug": "marcos-jorge-1",
