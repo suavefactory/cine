@@ -33,7 +33,8 @@ window.CINEMA_DATA = {
         22.4
       ],
       "country": "South Korea",
-      "director_lbxd_slug": "ylmaz-guney"
+      "director_lbxd_slug": "ylmaz-guney",
+      "plot_pt": "So-won (bra: Hope) é um filme de drama sul-coreano de 2013 dirigido por Lee Joon-ik, com roteiro baseado no \"caso Nayoung\", ocorrido em 2008.\nSo-won é protagonizado por Lee Re, Sol Kyung-gu, Uhm Ji-won e Kim Hae-sook."
     },
     {
       "id": "sao_jorge_11405",
@@ -915,8 +916,7 @@ window.CINEMA_DATA = {
         26.0
       ],
       "country": "Thailand",
-      "director_lbxd_slug": "paween-purijitpanya-1",
-      "rating": 3.31
+      "director_lbxd_slug": "paween-purijitpanya-1"
     },
     {
       "id": "sao_jorge_11601",
@@ -1051,7 +1051,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.54,
+      "rating": 3.21,
       "year": 2026,
       "plot": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of shitkicker friends are what stands in the way of an insatiable, intergalactic hunger.",
       "stills": [
@@ -1681,7 +1681,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/kr6udcTVBlb0syv0IGbUn6PJqgW.jpg"
       ],
       "stills_focus": [
-        26.6,
+        26.5,
         48.8,
         18.5
       ],
@@ -2290,7 +2290,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.72,
       "plot": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
-      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital.",
+      "plot_pt": "Um filme que apresenta praticamente a nova geração de atores para os anos 80 e 90. Adaptação de um romance da escritora S.E. Hinton sobre a juventude da década de sessenta, é uma obra muito marcada pela cinefilia de Coppola, sendo, em grande parte, uma homenagem a GONE WITH THE WIND. O regresso de Coppola ao “low profile” (e ao “budget” reduzido) depois das dívidas contraídas para financiar o ruinoso elefante branco dos Estúdios Zoetrope. A “onda” destes “marginais” não era bem o “folk”, mas ainda assim, entre as canções do filme, ouve-se uma composição de Dylan, Tomorrow is a Long Time, na versão de Elvis Presley. A apresentar em cópia digital, na versão de 2005 (THE OUTSIDERS - THE COMPLETE NOVEL).",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/iRID3QKu1Y8eoBEFoJMak83JqxA.jpg",
         "https://image.tmdb.org/t/p/w1280/qfhBi9ittpAzlFU9nacF0gBl8fA.jpg",
@@ -2342,7 +2342,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.03,
       "plot": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital.",
+      "plot_pt": "Um filme que apresenta praticamente a nova geração de atores para os anos 80 e 90. Adaptação de um romance da escritora S.E. Hinton sobre a juventude da década de sessenta, é uma obra muito marcada pela cinefilia de Coppola, sendo, em grande parte, uma homenagem a GONE WITH THE WIND. O regresso de Coppola ao “low profile” (e ao “budget” reduzido) depois das dívidas contraídas para financiar o ruinoso elefante branco dos Estúdios Zoetrope. A “onda” destes “marginais” não era bem o “folk”, mas ainda assim, entre as canções do filme, ouve-se uma composição de Dylan, Tomorrow is a Long Time, na versão de Elvis Presley. A apresentar em cópia digital, na versão de 2005 (THE OUTSIDERS - THE COMPLETE NOVEL).",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
         "https://image.tmdb.org/t/p/w1280/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg",
@@ -2350,7 +2350,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         52.7,
-        34.1,
+        33.9,
         36.8
       ],
       "country": "France",
@@ -9025,10 +9025,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg/500px-Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Roger William Corman (April 5, 1926 – May 9, 2024) was an American film director and producer. Known under various monikers such as \"The Pope of Pop Cinema\", “King of the Beatnik Movies”, \"The Spiritual Godfather of the New Hollywood\", and \"The King of Cult\", he was known as a trailblazer in the world of independent film. Many of the more than 500 features directed or produced by Corman were low-budget films that later attracted a cult following, such as A Bucket of Blood (1959), The Little Shop of Horrors (1960), The Intruder (1962), X: The Man with the X-ray Eyes (1963), and the counterculture films The Wild Angels (1966) and The Trip (1967)."
     },
-    "Michael Spierig, Peter Spierig": {
-      "lbxd_slug": "michael-spierig",
-      "photo": null,
-      "bio": null
+    "Joko Anwar": {
+      "lbxd_slug": "joko-anwar-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joko_Anwar_Best_Director_Festival_Film_Indonesia_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Joko Anwar (born 3 January 1976) is an Indonesian film director, producer, screenwriter, and actor. Prior to becoming a filmmaker, he worked as a journalist and film critic. Anwar first rose to prominence for co-writing Nia Dinata's 2003 hit Arisan!"
     },
     "Michael Spierig, Peter Spierig": {
       "lbxd_slug": "michael-spierig",

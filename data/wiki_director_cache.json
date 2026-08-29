@@ -1611,7 +1611,7 @@
   "Jono Seneff": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Kenji Tanigaki": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg/500px-Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1641,7 +1641,7 @@
   "Robert Altman, Bruce Beresford, Bill Bryden, Jean-Luc Godard, Derek Jarman, Franc Roddam, Nicolas Roeg, Ken Russell, Charles Sturridge, Julien Temple": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Andrzej Zulawski": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Andrzej_%C5%BBu%C5%82awski_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1653,19 +1653,24 @@
     "bio": "Carlos Miguel V. Conceição (born 5 August 1979), is an Angola-born Portuguese filmmaker. Conceição is best known as the director of the films Tommy Guns and Serpentarius as well as the horror film Name Above Title.",
     "tries": 1
   },
-  "Michael Spierig, Peter Spierig": {
-    "photo": null,
-    "bio": null,
-    "tries": 1
-  },
   "Carter Gunn, Ross McDonnell": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Jean Epstein": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jean_epstein_1920.jpg/500px-Jean_epstein_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Jean Epstein (French: [ʒɑ̃ ɛpʃtajn]; 25 March 1897 – 2 April 1953) was a French filmmaker, film theorist, literary critic, and novelist. Although he is remembered today primarily for his adaptation of Edgar Allan Poe's The Fall of the House of Usher, he directed three dozen films and was an influential critic of literature and film from the early 1920s through the late 1940s. He is often associated with French Impressionist Cinema and the concept of photogénie.",
+    "tries": 1
+  },
+  "Lee Joon-ik": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20130925%E2%80%94Lee_Joon-ik_%EC%9D%B4%EC%A4%80%EC%9D%B5_Marie_Claire_Korea_photo_shoot_screenshot_%2800m42s%29.jpg/500px-20130925%E2%80%94Lee_Joon-ik_%EC%9D%B4%EC%A4%80%EC%9D%B5_Marie_Claire_Korea_photo_shoot_screenshot_%2800m42s%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Lee Joon-ik (born September 21, 1959) is a South Korean film director and producer. He is best known for directing and producing King and the Clown (2005), one of the highest grossing Korean films of all time. Other notable films include Sunny (2008), Hope (2013), The Throne (2015), Dongju: The Portrait of a Poet (2016), and The Book of Fish (2021).",
+    "tries": 1
+  },
+  "Steve Cox, Matthew Walker": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }
