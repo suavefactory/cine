@@ -11295,9 +11295,9 @@ window.CINEMA_DATA = {
           ]
         }
       ],
+      "plot_pt": "O ativista ambiental Denver Blake decide denunciar uma clínica de cosmética que, na sua opinião, explora as inseguranças geradas pelos padrões de beleza impostos pela sociedade. No entanto, quando se apaixona por Renée, uma ex-bailarina obcecada por aperfeiçoar constantemente a sua aparência, acaba por ser arrastado para um fascinante e perturbador submundo que subverte o significado da cirurgia plástica.",
       "rating": 2.76,
       "plot": "An environmental activist Denver Blake has decided to expose a cosmetics corporation that he believes is exploiting the insecurities caused by societal beauty standards. However, when he falls in love with Renée, a former ballerina obsessed with constantly improving her beauty, he becomes drawn into a mesmerizing underworld of plastic surgery.",
-      "plot_pt": "O ativista ambiental Denver Blake decide denunciar uma clínica de cosmética que, na sua opinião, explora as inseguranças geradas pelos padrões de beleza impostos pela sociedade. No entanto, quando se apaixona por Renée, uma ex-bailarina obcecada por aperfeiçoar constantemente a sua aparência, acaba por ser arrastado para um fascinante e perturbador submundo que subverte o significado da cirurgia plástica.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/6ulhfmEC7leqpNaCMt8tVEobtFt.jpg"
       ],
