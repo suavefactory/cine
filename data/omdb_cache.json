@@ -50278,33 +50278,7 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": {
-      "Title": "Água Mãe",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "20 Oct 2025",
-      "Runtime": "72 min",
-      "Genre": "Documentary",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Rossana Torres",
-      "Plot": "N/A",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "1 win total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt38865778",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -53942,7 +53916,7 @@
       "https://image.tmdb.org/t/p/w1280/sq1WaNwQn52XiwN2hp1kwJbnSDx.jpg"
     ],
     "tmdb_id": "1232569",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Azul, Azul|1984": {
     "lbxd": {
@@ -54043,7 +54017,7 @@
       "https://image.tmdb.org/t/p/w1280/igS7kqXk6KJX7pe3xOHsWfKrgmp.jpg"
     ],
     "tmdb_id": "1517111",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Bucket of Blood|1959": {
     "lbxd": {
@@ -54165,16 +54139,7 @@
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills_focus": [
-      26.9,
-      22.0,
-      35.0
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/aBtS3yCWReAen3OefxBXedbArFI.jpg",
-      "https://image.tmdb.org/t/p/w1280/hGkPXpM1R6jlK1GpMiq1uMQpM6K.jpg",
-      "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1101412"
   },
   "Um S Marginal|1983": {
@@ -54296,7 +54261,7 @@
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/1/7/2/1529172-the-glorious-dead-0-500-0-750-crop.jpg?v=344db15ded",
-      "description": "\"[T]his is a story about Hell on Earth, taking The Word at its very word; told through one very, very bad day in the life of small-town Americana.”",
+      "description": "A small-town sheriff and her deputy awaken to a changed world where blood drips from taps, people and pets vanish, fleshy creatures roam the woods, and the hamlet descends into chaos. By noon, the skies turn white with snow, and the dirt cannot keep the dead down as the shattered community buckles under the pressure, and as the sun sets, all hell has frozen over.",
       "genres": [
         "Horror"
       ],
@@ -54379,7 +54344,7 @@
       "https://image.tmdb.org/t/p/w1280/tyZNDc0NCpSsbqth53svUa3avlW.jpg"
     ],
     "tmdb_id": "106394",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "As Ruínas no Interior (Corpos Celestes)|2011": {
     "lbxd": null,
@@ -54455,7 +54420,7 @@
       "https://image.tmdb.org/t/p/w1280/7ApGxh5HIHr9fIjjA1zANmuHFw5.jpg"
     ],
     "tmdb_id": "86494",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "DreamQuil|2026": {
     "lbxd": {
@@ -54742,7 +54707,7 @@
       "https://image.tmdb.org/t/p/w1280/7pbILoLbonhPQ4nndfL8OmfTf5n.jpg"
     ],
     "tmdb_id": "1278971",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Hunger – Sessão Especial RTP ANTENA 3|1983": {
     "lbxd": {
@@ -54816,7 +54781,7 @@
       "https://image.tmdb.org/t/p/w1280/cPyiFUo1HwUVj8fKjpssS0UavBq.jpg"
     ],
     "tmdb_id": "11654",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ghost in the Cell|2026": {
     "lbxd": {
@@ -54878,7 +54843,7 @@
       "https://image.tmdb.org/t/p/w1280/unEj3lNA48RKVQDdzeaTxKHtE4C.jpg"
     ],
     "tmdb_id": "1393326",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Os Primos|1996": {
     "lbxd": {
@@ -55048,7 +55013,7 @@
       "https://image.tmdb.org/t/p/w1280/dPhdQBEKTj36ptNmUVrD7xNqWXc.jpg"
     ],
     "tmdb_id": "389684",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Prática|2023": {
     "lbxd": {
@@ -55114,7 +55079,7 @@
       "https://image.tmdb.org/t/p/w1280/wbJF09o7jimtS2AOvzYgjoX18Bl.jpg"
     ],
     "tmdb_id": "713919",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "GAUTHALI|2020": {
     "lbxd": null,
@@ -55186,7 +55151,8 @@
       "https://image.tmdb.org/t/p/w1280/cri20wZDTl1X5QpxlWCSJ4HSpTF.jpg",
       "https://image.tmdb.org/t/p/w1280/l5K9elugftlcyIHHm4nylvsn26X.jpg"
     ],
-    "tmdb_id": "255709"
+    "tmdb_id": "255709",
+    "wiki_tries": 1
   },
   "Poultry Farm|1903": {
     "lbxd": null,
@@ -55314,24 +55280,24 @@
       "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
     ],
     "tmdb_id": "125960",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Colony|2009": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/9/2/4/4/899244-colony-0-500-0-750-crop.jpg?v=ea99eb5d0d",
-      "description": "This film explores multinational shoe company Bata’s impact on individual lives and their surroundings. The film’s aesthetic, shifting from site to site and shot to shot, offers pockets as a visual version of the bubble that was the Bata colony itself. The characters are all connected to that past. They guide the viewers through the merging of past and present in memory. The film’s colouration also evokes this mixture.",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
+      "description": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
       "genres": [
         "Documentary"
       ],
-      "country": "Czechia",
-      "lb_director": "Michelle Williams",
-      "lb_director_slug": "michelle-williams-2",
-      "lb_year": 2007,
+      "country": null,
+      "lb_director": "Carter Gunn",
+      "lb_director_slug": "carter-gunn",
+      "lb_year": 2009,
       "lb_title": "Colony",
       "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "998107"
+      "imdb_id": "tt1480655",
+      "tmdb_id": "73903"
     },
     "omdb": {
       "Title": "Colony",
@@ -55369,7 +55335,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "998107"
+    "tmdb_id": "73903"
   },
   "Kenneled|2025": {
     "lbxd": {
@@ -55430,7 +55396,7 @@
       "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
     ],
     "tmdb_id": "1314812",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Remanence – A Voltage Cosmic Horror + Q&A|2024": {
     "lbxd": null,
@@ -55513,7 +55479,7 @@
       "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
     ],
     "tmdb_id": "1280738",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Our Effed Up World|2026": {
     "lbxd": {
@@ -55574,7 +55540,7 @@
       "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
     ],
     "tmdb_id": "1579168",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Mag Mag|2025": {
     "lbxd": {
@@ -55634,7 +55600,7 @@
       "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
     ],
     "tmdb_id": "1536720",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Gunman|1983": {
     "lbxd": {
@@ -55728,7 +55694,7 @@
       "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
     ],
     "tmdb_id": "1596301",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Roma Elastica|2026": {
     "lbxd": {
@@ -55791,7 +55757,7 @@
       "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
     ],
     "tmdb_id": "1302994",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Chronovisor|2026": {
     "lbxd": {
@@ -55853,7 +55819,7 @@
       "https://image.tmdb.org/t/p/w1280/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg"
     ],
     "tmdb_id": "1599181",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Hope|2013": {
     "lbxd": {
@@ -56162,227 +56128,7 @@
     "tmdb_id": "1441275",
     "wiki_tries": 1
   },
-  "Hope|None": {
-    "lbxd": {
-      "rating": 3.88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/1/13771-hope-0-500-0-750-crop.jpg?v=11485e571c",
-      "description": "After losing one of his horses in an accident, an illiterate horse cab driver sets out into the desert in a quest for a mythical lost treasure.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Turkey",
-      "lb_director": "Yılmaz Güney",
-      "lb_director_slug": "ylmaz-guney",
-      "lb_year": 1970,
-      "lb_title": "Hope",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/eb/25/cz/zp/hope-1920-1920-1080-1080-crop-000000.jpg?v=a6b7209cde",
-      "imdb_id": "tt0066500",
-      "tmdb_id": "52104"
-    },
-    "omdb": {
-      "Title": "Hope",
-      "Year": "2013",
-      "Rated": "Not Rated",
-      "Released": "04 Apr 2017",
-      "Runtime": "122 min",
-      "Genre": "Drama",
-      "Director": "Lee Joon-ik",
-      "Writer": "Ji-hye Kim",
-      "Actors": "Lee Re, Sul Kyung-gu, Uhm Ji-won",
-      "Plot": "Story of an 8-year-old girl who faces a horrible rape that damages her internally and affects her emotionally, trying to overcome all the obstacles following the incident with the good support of those around her.",
-      "Language": "Korean",
-      "Country": "South Korea",
-      "Awards": "9 wins & 14 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiMDNhOWMtMTI0ZC00MjUxLTk0NzYtYzQxZGRjMjFmNDA3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.2/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.2",
-      "imdbVotes": "11,399",
-      "imdbID": "tt3153634",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      26.5,
-      40.2
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/mdPQzNJx8fgES4kq3NUXMVksv8o.jpg",
-      "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
-    ],
-    "tmdb_id": "52104"
-  },
-  "Poultry Farm|None": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Scenes at Cackett's Poultry Farm",
-      "Year": "1903",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "Documentary, Short",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "English",
-      "Country": "UK",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt2877358",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Shaun the Sheep: The Beast of Mossy Bottom|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/9/6/8/1353968-shaun-the-sheep-the-beast-of-mossy-bottom-0-500-0-750-crop.jpg?v=aab6cd0ba2",
-      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
-      "genres": [
-        "Family",
-        "Comedy",
-        "Animation",
-        "Science Fiction"
-      ],
-      "country": "UK",
-      "lb_director": "Steve Cox",
-      "lb_director_slug": "steve-cox-6",
-      "lb_year": 2026,
-      "lb_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/1z/mc/0c/ny/izLG3cxbG89nK75OHyd1zvjR7n8-1920-1920-1080-1080-crop-000000.jpg?v=a6f303a831",
-      "imdb_id": "tt36841161",
-      "tmdb_id": "1477104"
-    },
-    "omdb": {
-      "Title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "18 Sep 2026",
-      "Runtime": "91 min",
-      "Genre": "Animation, Comedy, Family",
-      "Director": "Steve Cox, Matthew Walker",
-      "Writer": "Mark Burton, Giles Pilbrow",
-      "Actors": "John Sparkes, Justin Fletcher, Kate Harbour",
-      "Plot": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
-      "Language": "English",
-      "Country": "United Kingdom, France",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt36841161",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      36.1,
-      29.0,
-      31.9
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
-      "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
-      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
-    ],
-    "tmdb_id": "1477104"
-  },
-  "THE MOVIE ORGY|None": {
-    "lbxd": {
-      "rating": 4.0,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/7/1/98571-the-movie-orgy-0-500-0-750-crop.jpg?v=34e551568a",
-      "description": "Clips from assorted television programs, B-movies, commercials, music performances, newsreels, bloopers, satirical short films and promotional and government films of the 1950s and 1960s are intercut together to tell a single story of various creatures and societal ills attacking American cities.",
-      "genres": [
-        "Comedy",
-        "History",
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Joe Dante",
-      "lb_director_slug": "joe-dante",
-      "lb_year": 1968,
-      "lb_title": "The Movie Orgy",
-      "backdrop": null,
-      "imdb_id": "tt0270523",
-      "tmdb_id": "125960"
-    },
-    "omdb": {
-      "Title": "The Movie Orgy",
-      "Year": "2009",
-      "Rated": "N/A",
-      "Released": "11 Nov 2012",
-      "Runtime": "420 min",
-      "Genre": "Documentary, Comedy, History",
-      "Director": "Joe Dante",
-      "Writer": "N/A",
-      "Actors": "Ann-Margret, Ngo Dinh Diem, Dwight D. Eisenhower",
-      "Plot": "A montage of 1950s B-movies, TV shows &amp; vintage commercials create a nostalgic collage about aliens &amp; monsters attacking America.",
-      "Language": "English, French",
-      "Country": "United States",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU3ODY0YzctMjg0Zi00M2M2LWE5NDItNTE0NjI1OGE1NDgyXkEyXkFqcGdeQXVyNDQ4NTA1Njk@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.9",
-      "imdbVotes": "209",
-      "imdbID": "tt0270523",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      46.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
-    ],
-    "tmdb_id": "125960"
-  },
-  "American Dollhouse|None": {
+  "American Dollhouse|2026": {
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/5/7/8/1485578-american-dollhouse-0-500-0-750-crop.jpg?v=81f714f9dd",
@@ -56433,59 +56179,7 @@
     "stills": null,
     "tmdb_id": "1616344"
   },
-  "Colony|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
-      "description": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": null,
-      "lb_director": "Carter Gunn",
-      "lb_director_slug": "carter-gunn",
-      "lb_year": 2009,
-      "lb_title": "Colony",
-      "backdrop": null,
-      "imdb_id": "tt1480655",
-      "tmdb_id": "73903"
-    },
-    "omdb": {
-      "Title": "Colony",
-      "Year": "2016–2018",
-      "Rated": "TV-14",
-      "Released": "14 Jan 2016",
-      "Runtime": "42 min",
-      "Genre": "Action, Adventure, Drama",
-      "Director": "N/A",
-      "Writer": "Ryan J. Condal, Carlton Cuse",
-      "Actors": "Josh Holloway, Sarah Wayne Callies, Peter Jacobson",
-      "Plot": "In the wake of a mysterious alien invasion, a family fights to stay together in a new world order.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "5 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "41,477",
-      "imdbID": "tt4209256",
-      "Type": "series",
-      "totalSeasons": "3",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "73903"
-  },
-  "Kinki|None": {
+  "Kinki|2014": {
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/8/1/4/275814-kinki-0-500-0-750-crop.jpg?v=b4e537a032",
@@ -56546,442 +56240,45 @@
     ],
     "tmdb_id": "345161"
   },
-  "Kenneled|None": {
+  "All the Colors of the Dark|1972": {
     "lbxd": {
-      "rating": 3.14,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/5/9/6/0/1195960-kenneled-0-500-0-750-crop.jpg?v=d18f9f3e4d",
-      "description": "Walker, a gig worker and artist, is drowning in the city's instability. Desperate for agency and financial relief to save his relationship with his ambitious girlfriend, Kylie, he accepts a lucrative but bizarre dog-walking job. At a secluded mansion, he meets Doug-a man living entirely as a dog. Initially repulsed, Walker stays, justifying the dehumanization as just another gig.",
-      "genres": [
-        "Horror"
-      ],
-      "country": "USA",
-      "lb_director": "Jay Burleson",
-      "lb_director_slug": "jay-burleson",
-      "lb_year": 2025,
-      "lb_title": "Kenneled",
-      "backdrop": null,
-      "imdb_id": "tt32881455",
-      "tmdb_id": "1314812"
-    },
-    "omdb": {
-      "Title": "Kenneled",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "21 Mar 2026",
-      "Runtime": "88 min",
-      "Genre": "Horror",
-      "Director": "Jay Burleson",
-      "Writer": "H.K. Moore",
-      "Actors": "Jack Ryan Beckner, Dan Cutts, Emily Ferguson",
-      "Plot": "A destitute dogwalker finds a wealthy client who saves him from financial ruin. But this is no ordinary dog.",
-      "Language": "English",
-      "Country": "N/A",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZmOGFhMTgtMzY4Ny00YjY2LWIwZmEtZjA1OTkxOTVjOTdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.0/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.0",
-      "imdbVotes": "33",
-      "imdbID": "tt32881455",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      38.5
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
-    ],
-    "tmdb_id": "1314812"
-  },
-  "Remanence – A Voltage Cosmic Horror + Q&A|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/7/1/3/1124713-remanence-0-500-0-750-crop.jpg?v=a34acb0f84",
-      "description": "Combining two recently discovered unique archival sources, this short film evokes the lost history of a Dutch women's pacifist movement that brought women together in collective action in the 1930s.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "Netherlands",
-      "lb_director": "Sabine Groenewegen",
-      "lb_director_slug": "sabine-groenewegen",
-      "lb_year": 2024,
-      "lb_title": "Remanence",
-      "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "1241423"
-    },
-    "omdb": {
-      "Title": "Remanence",
-      "Year": "2017",
-      "Rated": "N/A",
-      "Released": "30 Jul 2017",
-      "Runtime": "5 min",
-      "Genre": "Short, Sci-Fi",
-      "Director": "Jono Seneff",
-      "Writer": "David Hudson, Jono Seneff",
-      "Actors": "David Atkinson, Sam Hayes, Michelle Farrah Huang, Parker Shook",
-      "Plot": "N/A",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBkMGRhMWQtZjk2Mi00ZjNiLTkxYTktZjcxOGY0ZTk3Y2Y3XkEyXkFqcGdeQXVyMjM1NjE5MjM@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt8010462",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "1241423"
-  },
-  "The Furious|None": {
-    "lbxd": {
-      "rating": 3.83,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-500-0-750-crop.jpg?v=f880a59523",
-      "description": "After the daughter of Wang Wei is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive martial arts showdown.",
-      "genres": [
-        "Crime",
-        "Action",
-        "Thriller"
-      ],
-      "country": "Hong Kong",
-      "lb_director": "Kenji Tanigaki",
-      "lb_director_slug": "kenji-tanigaki",
-      "lb_year": 2025,
-      "lb_title": "The Furious",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/6/4/1/5/4/tmdb/9XwQphZxNJgGASfjL58mhIkJJpf-1920-1920-1080-1080-crop-000000.jpg?v=20d0be396b",
-      "imdb_id": "tt33311069",
-      "tmdb_id": "1280738"
-    },
-    "omdb": {
-      "Title": "The Furious",
-      "Year": "2026",
-      "Rated": "R",
-      "Released": "12 Jun 2026",
-      "Runtime": "113 min",
-      "Genre": "Action, Crime, Thriller",
-      "Director": "Kenji Tanigaki",
-      "Writer": "Tin Shu Mak, Zhilong Lei, Kwan-Sin Shum",
-      "Actors": "Miao Xie, Joe Taslim, Enyou Yang",
-      "Plot": "A father fights fiercely against ruthless kidnappers to save his abducted daughter.",
-      "Language": "Chinese, English, Thai",
-      "Country": "Hong Kong, China",
-      "Awards": "1 win & 2 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.7/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "87/100"
-        }
-      ],
-      "Metascore": "87",
-      "imdbRating": "7.7",
-      "imdbVotes": "991",
-      "imdbID": "tt33311069",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      28.7,
-      18.4,
-      20.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-      "https://image.tmdb.org/t/p/w1280/b94Br0pFWR0gKIBgP5I6fGneUAl.jpg",
-      "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
-    ],
-    "tmdb_id": "1280738"
-  },
-  "Our Effed Up World|None": {
-    "lbxd": {
-      "rating": 3.2,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/0/6/0/8/1450608-our-effed-up-world-0-500-0-750-crop.jpg?v=7160b44918",
-      "description": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of shitkicker friends are what stands in the way of an insatiable, intergalactic hunger.",
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/6/5/0/31650-all-the-colours-of-the-dark-0-500-0-750-crop.jpg?v=df97477d6b",
+      "description": "After a car accident that caused the loss of her baby, Jane experiences an increasing amount of nightmares that shake her to her core. After seeking professional help, her haunting visions turn into an even more frightening reality, one full of black magic, blood orgies, and murder.",
       "genres": [
         "Horror",
-        "Science Fiction"
-      ],
-      "country": "Australia",
-      "lb_director": "Alice Maio Mackay",
-      "lb_director_slug": "alice-maio-mackay",
-      "lb_year": 2026,
-      "lb_title": "Our Effed Up World",
-      "backdrop": null,
-      "imdb_id": "tt40521447",
-      "tmdb_id": "1579168"
-    },
-    "omdb": {
-      "Title": "Our Effed Up World",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "19 Jun 2026",
-      "Runtime": "67 min",
-      "Genre": "Horror, Sci-Fi",
-      "Director": "Alice Maio Mackay",
-      "Writer": "Alice Maio Mackay, Benjamin Pahl Robinson",
-      "Actors": "Kerry Armstrong, Jordan Dulieu, Brandon Flynn",
-      "Plot": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of friends are what stands in the way of an insatiabl...",
-      "Language": "English",
-      "Country": "Australia",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY2NjMwMDgxNF5BMl5BanBnXkFtZTYwNjIyNjg1._V1_QL75_UX280_CR0,7,280,280_.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt40521447",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      45.3,
-      30.7,
-      32.5
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/hYMVwlquxdKRdqW3YIyNobA6A1V.jpg",
-      "https://image.tmdb.org/t/p/w1280/rJXSOkGpVc4yUYNgHHYNlV8a2rV.jpg",
-      "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
-    ],
-    "tmdb_id": "1579168"
-  },
-  "Mag Mag|None": {
-    "lbxd": {
-      "rating": 3.25,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/1/5/7/5/1411575-mag-mag-0-500-0-750-crop.jpg?v=0fb72f9071",
-      "description": "The revenge story of a woman whose partner is murdered by a ghost, and who will soon discover the true identity of the one she must avenge.",
-      "genres": [
-        "Horror"
-      ],
-      "country": "Japan",
-      "lb_director": "Yuriyan Retriever",
-      "lb_director_slug": "yuriyan-retriever",
-      "lb_year": 2025,
-      "lb_title": "Mag Mag",
-      "backdrop": null,
-      "imdb_id": "tt38263629",
-      "tmdb_id": "1536720"
-    },
-    "omdb": {
-      "Title": "Mag Mag",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "06 Feb 2026",
-      "Runtime": "112 min",
-      "Genre": "Comedy, Horror",
-      "Director": "Yuriyan Retriever",
-      "Writer": "N/A",
-      "Actors": "Mai Fukagawa, Tetsu Hirahara, Atsuko Hirata",
-      "Plot": "After her beloved is killed by the Mag Mag ghost, the protagonist, Sanae, vows revenge, but soon discovers the true identity of the person she truly owes her revenge to.",
-      "Language": "Japanese",
-      "Country": "Japan",
-      "Awards": "1 win total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZlNDExMGYtOTc1Ny00MTM5LTk5MDQtMjU5MGE5YjYyODNkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "69",
-      "imdbID": "tt38263629",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      16.8,
-      15.6,
-      42.0
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/xJCZpMKq5GROqXlfPTPozhcWwxJ.jpg",
-      "https://image.tmdb.org/t/p/w1280/aWRLdVStMsg8hNATW7by9ybJV0X.jpg",
-      "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
-    ],
-    "tmdb_id": "1536720"
-  },
-  "Gunman|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/4/6/5/2/164652-gunman-0-500-0-750-crop.jpg?v=d5df745e8e",
-      "description": "At a nearby newsstand, another man witnesses the arrest. He turns and walks away – with a limp. He is the gunman, and his name is Sergeant Sommai. After losing a leg fighting for the Thai Special Forces during the Secret War in Laos, Sommai now works as a barber in a small shop in a canal community of suburban Bangkok.",
-      "genres": [
-        "Drama",
-        "Action",
-        "Crime"
-      ],
-      "country": "Thailand",
-      "lb_director": "Chatrichalerm Yukol",
-      "lb_director_slug": "chatrichalerm-yukol",
-      "lb_year": 1983,
-      "lb_title": "Gunman",
-      "backdrop": null,
-      "imdb_id": "tt0257972",
-      "tmdb_id": "234473"
-    },
-    "omdb": {
-      "Title": "Gunman",
-      "Year": "1983",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "140 min",
-      "Genre": "N/A",
-      "Director": "Chatrichalerm Yukol",
-      "Writer": "N/A",
-      "Actors": "Sorapong Chatree, Ron Rittichai",
-      "Plot": "N/A",
-      "Language": "Thai",
-      "Country": "Thailand",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM0NTIzNDMtMTEzYy00NjhiLTljYmMtY2YzOGZmODExM2UxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "47",
-      "imdbID": "tt0257972",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      45.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/54OiKjwXBrZMMdony36i8FCOjlf.jpg"
-    ],
-    "tmdb_id": "234473"
-  },
-  "Mum, I’m Alien Pregnant|None": {
-    "lbxd": {
-      "rating": 3.46,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/0/0/6/1465006-mum-im-alien-pregnant-0-500-0-750-crop.jpg?v=d289c7068f",
-      "description": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "country": "New Zealand",
-      "lb_director": "Jordan Mark Windsor",
-      "lb_director_slug": "jordan-mark-windsor",
-      "lb_year": 2026,
-      "lb_title": "Mum, I'm Alien Pregnant",
-      "backdrop": null,
-      "imdb_id": "tt28784376",
-      "tmdb_id": "1596301"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      42.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
-    ],
-    "tmdb_id": "1596301"
-  },
-  "Roma Elastica|None": {
-    "lbxd": {
-      "rating": 2.91,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/5/9/1184659-roma-elastica-0-500-0-750-crop.jpg?v=be14433e78",
-      "description": "1982. French actress Eddie is on the verge of collapse and travels to Rome accompanied by her loyal makeup artist, Valentina, to shoot a science-fiction film – a film that could be her last one.",
-      "genres": [
-        "Comedy",
-        "Drama",
         "Thriller",
-        "Horror"
+        "Mystery"
       ],
-      "country": "France",
-      "lb_director": "Bertrand Mandico",
-      "lb_director_slug": "bertrand-mandico",
-      "lb_year": 2026,
-      "lb_title": "Roma elastica",
+      "country": "Italy",
+      "lb_director": "Sergio Martino",
+      "lb_director_slug": "sergio-martino-1",
+      "lb_year": 1972,
+      "lb_title": "All the Colours of the Dark",
       "backdrop": null,
-      "imdb_id": "tt32596720",
-      "tmdb_id": "1302994"
+      "imdb_id": "tt0069390",
+      "tmdb_id": "30901"
     },
     "omdb": {
-      "Title": "Roma elastica",
-      "Year": "2026",
+      "Title": "244 - ALL THE COLORS OF THE DARK (1972) + YOUR VICE IS A LOCKED ROOM AND ONLY I HAVE A KEY (1972)",
+      "Year": "1972",
       "Rated": "N/A",
-      "Released": "N/A",
+      "Released": "01 Oct 2022",
       "Runtime": "N/A",
       "Genre": "N/A",
-      "Director": "Bertrand Mandico",
-      "Writer": "Bertrand Mandico",
-      "Actors": "Marion Cotillard, Noémie Merlant, Martina Scrinzi",
-      "Plot": "The story revolves around an actress who is going to shoot her latest film in Rome in the 1980s.",
-      "Language": "French",
-      "Country": "France, Italy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "N/A",
       "Awards": "N/A",
       "Poster": "N/A",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt32596720",
+      "imdbID": "tt22472124",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -56993,16 +56290,16 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.1,
-      22.0,
-      36.8
+      26.9,
+      29.9,
+      27.1
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/aVPp9XJeYhAbGSaXOXgX8AtUq6g.jpg",
-      "https://image.tmdb.org/t/p/w1280/92uzbmS3aiWDUQ9sYEG9UEhzDYX.jpg",
-      "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
+      "https://image.tmdb.org/t/p/w1280/suNonhGkoRUiZxW7Nr30v0Ykmw4.jpg",
+      "https://image.tmdb.org/t/p/w1280/70OVvZvEr611SvQULci8jsfzVSO.jpg",
+      "https://image.tmdb.org/t/p/w1280/1UWB2VUJH96xT4GBYBb1ShunOAQ.jpg"
     ],
-    "tmdb_id": "1302994"
+    "tmdb_id": "30901"
   },
   "The Age Of Innocence|1993": {
     "lbxd": {
@@ -57068,8 +56365,8 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      42.0,
-      36.5,
+      42.1,
+      36.6,
       56.0
     ],
     "stills": [
@@ -57137,8 +56434,8 @@
     "dir_checked": true,
     "stills_focus": [
       27.3,
-      28.3,
-      45.4
+      29.0,
+      45.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/rTnb5JsRwT31ttNk4Lj5kvRfATK.jpg",
@@ -57251,8 +56548,8 @@
     "dir_checked": true,
     "stills_focus": [
       6.0,
-      48.5,
-      28.3
+      48.6,
+      27.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8xcm94SLAxvNmJYuGh42ziydu70.jpg",
@@ -57261,7 +56558,7 @@
     ],
     "tmdb_id": "10527"
   },
-  "British Sounds|1969": {
+  "British Sounds|1970": {
     "lbxd": {
       "rating": 3.41,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/1/25431-british-sounds-0-500-0-750-crop.jpg?v=e29a65609f",
@@ -57316,7 +56613,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      36.0,
+      35.9,
       45.1
     ],
     "stills": [
@@ -57879,7 +57176,7 @@
     ],
     "tmdb_id": "19119"
   },
-  "Era Uma Vez na América|1985": {
+  "Era Uma Vez na América|1984": {
     "lbxd": {
       "rating": 4.22,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-500-0-750-crop.jpg?v=803d65b52c",
@@ -58270,6 +57567,119 @@
     ],
     "tmdb_id": "17221"
   },
+  "A Revolta|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/0/4/2/5/880425-the-uprising-2026-0-500-0-750-crop.jpg?v=71d42e25d2",
+      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "genres": [
+        "Drama",
+        "History",
+        "Action"
+      ],
+      "country": "Germany",
+      "lb_director": "Paul Greengrass",
+      "lb_director_slug": "paul-greengrass",
+      "lb_year": 2026,
+      "lb_title": "The Uprising",
+      "backdrop": null,
+      "imdb_id": "tt36983905",
+      "tmdb_id": "977942"
+    },
+    "omdb": {
+      "Title": "The Uprising",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "11 Sep 2026",
+      "Runtime": "N/A",
+      "Genre": "Action, Drama, History",
+      "Director": "Paul Greengrass",
+      "Writer": "Paul Greengrass",
+      "Actors": "Andrew Garfield, Jamie Bell, Stephen Dillane",
+      "Plot": "In plague-ravaged 14th century England a peasant triggers a rebellion against King Richard II and unintentionally becomes a legend of resistance.",
+      "Language": "English",
+      "Country": "United Kingdom, Germany, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQyNzhiZjYtNjJlOS00MTRlLWI0YTYtZjg1YzJmNTc2YjQwXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36983905",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Uprising",
+      "plot_pt": "Andrew Garfield protagoniza a história do lendário líder de uma feroz rebelião contra a tirania do rei Ricardo II. Enquanto a guerra devasta Inglaterra, ele reúne um exército popular para enfrentar o poder do rei numa luta por justiça e pela sobrevivência.",
+      "country": "Reino Unido, EUA",
+      "genre": "Thriller, Drama, Histórico",
+      "year": 2026,
+      "director": "Paul Greengrass",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/uprising_still_1-2.jpg",
+        "https://medeiafilmes.com/uploads/library/uprising_still_2-2.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      48.9,
+      48.5,
+      45.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+      "https://image.tmdb.org/t/p/w1280/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg",
+      "https://image.tmdb.org/t/p/w1280/ka4fkRgnZnlwdZs5nx4DTKSpufe.jpg"
+    ],
+    "tmdb_id": "977942"
+  },
+  "Nunca Deixes de Olhar|2018": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/7/2/5/3/357253-never-look-away-0-500-0-750-crop.jpg?v=1780d06c6b",
+      "description": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "country": "Germany",
+      "lb_director": "Florian Henckel von Donnersmarck",
+      "lb_director_slug": "florian-henckel-von-donnersmarck",
+      "lb_year": 2018,
+      "lb_title": "Never Look Away",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/3u/25/x9/8u/never-look-away-1920-1920-1080-1080-crop-000000.jpg?v=b12213b74d",
+      "imdb_id": "tt5311542",
+      "tmdb_id": "423612"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Werk ohne Autor",
+      "plot_pt": "A história de Kurt Barnert desde a infância, numa Alemanha dominada pelos ideais nazis, à idade adulta, após conseguir escapar do jugo comunista da República Democrática Alemã (RDA).",
+      "country": "Alemanha, Itália, EUA",
+      "year": 2018,
+      "director": "Florian Henckel von Donnersmarck"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      44.3,
+      34.0,
+      37.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lFLQNIkNVIHLXNVDHbt4pow4lXc.jpg",
+      "https://image.tmdb.org/t/p/w1280/nE3TrturcVMt71piGZoX40VEjgm.jpg",
+      "https://image.tmdb.org/t/p/w1280/bo5YITiYofBdKsdfYGEipRmWYAl.jpg"
+    ],
+    "tmdb_id": "423612"
+  },
   "O Laço Branco|2009": {
     "lbxd": {
       "rating": 4.21,
@@ -58426,46 +57836,161 @@
     ],
     "tmdb_id": "17645"
   },
-  "Nunca Deixes de Olhar|2018": {
+  "O Padrinho: Parte II|1974": {
     "lbxd": {
-      "rating": 3.94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/7/2/5/3/357253-never-look-away-0-500-0-750-crop.jpg?v=1780d06c6b",
-      "description": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR regime.",
+      "rating": 4.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-500-0-750-crop.jpg?v=6a49853f25",
+      "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
       "genres": [
         "Drama",
-        "History",
-        "Romance"
+        "Crime"
       ],
-      "country": "Germany",
-      "lb_director": "Florian Henckel von Donnersmarck",
-      "lb_director_slug": "florian-henckel-von-donnersmarck",
-      "lb_year": 2018,
-      "lb_title": "Never Look Away",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/3u/25/x9/8u/never-look-away-1920-1920-1080-1080-crop-000000.jpg?v=b12213b74d",
-      "imdb_id": "tt5311542",
-      "tmdb_id": "423612"
+      "country": "USA",
+      "lb_director": "Francis Ford Coppola",
+      "lb_director_slug": "francis-ford-coppola",
+      "lb_year": 1974,
+      "lb_title": "The Godfather Part II",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rw/q1/s4/xy/the-godfather-part-ii-1920-1920-1080-1080-crop-000000.jpg?v=e76eb25900",
+      "imdb_id": "tt0071562",
+      "tmdb_id": "240"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "The Godfather Part II",
+      "Year": "1974",
+      "Rated": "R",
+      "Released": "18 Dec 1974",
+      "Runtime": "202 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Francis Ford Coppola, Mario Puzo",
+      "Actors": "Al Pacino, Robert De Niro, Robert Duvall",
+      "Plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "Language": "English, Italian, Spanish, Latin, Sicilian",
+      "Country": "United States",
+      "Awards": "Won 6 Oscars. 17 wins & 21 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "9.0",
+      "imdbVotes": "1,492,120",
+      "imdbID": "tt0071562",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$47,834,595",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {
-      "original_title": "Werk ohne Autor",
-      "plot_pt": "A história de Kurt Barnert desde a infância, numa Alemanha dominada pelos ideais nazis, à idade adulta, após conseguir escapar do jugo comunista da República Democrática Alemã (RDA).",
-      "country": "Alemanha, Itália, EUA",
-      "year": 2018,
-      "director": "Florian Henckel von Donnersmarck"
+      "original_title": "The Godfather Part II",
+      "plot_pt": "Em 1950, o jovem Michael Corleone, agora à frente da família, tenta expandir o negócio a Las Vegas, Hollywood e Cuba. Paralelamente, revela-se a história do jovem Vito Corleone, e de como saiu da Sicília em 1910 e chegou a Nova Iorque para construir um império do crime.",
+      "country": "EUA",
+      "genre": "Drama",
+      "year": 1972,
+      "director": "Francis Ford Coppola"
     },
     "dir_checked": true,
     "stills_focus": [
-      44.3,
-      34.0,
-      37.8
+      21.2,
+      16.4,
+      27.5
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/lFLQNIkNVIHLXNVDHbt4pow4lXc.jpg",
-      "https://image.tmdb.org/t/p/w1280/nE3TrturcVMt71piGZoX40VEjgm.jpg",
-      "https://image.tmdb.org/t/p/w1280/bo5YITiYofBdKsdfYGEipRmWYAl.jpg"
+      "https://image.tmdb.org/t/p/w1280/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+      "https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+      "https://image.tmdb.org/t/p/w1280/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg"
     ],
-    "tmdb_id": "423612"
+    "tmdb_id": "240"
+  },
+  "Heimat - Crónica de Uma Nostalgia - Parte 2|2013": {
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/3/0/6/6/153066-home-from-home-chronicle-of-a-vision-0-500-0-750-crop.jpg?v=5310c3fd6b",
+      "description": "Follow-up to the TV trilogy “Heimat”, this time for cinemas, set again in the fictional village Schabbach in the Hunsrück region of Rhineland-Palatinate.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Germany",
+      "lb_director": "Edgar Reitz",
+      "lb_director_slug": "edgar-reitz",
+      "lb_year": 2013,
+      "lb_title": "Home from Home – Chronicle of a Vision",
+      "backdrop": null,
+      "imdb_id": "tt1998204",
+      "tmdb_id": "215740"
+    },
+    "omdb": {
+      "Title": "Home from Home: Chronicle of a Vision",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "11 Sep 2015",
+      "Runtime": "231 min",
+      "Genre": "Drama, History",
+      "Director": "Edgar Reitz",
+      "Writer": "Edgar Reitz, Gert Heidenreich",
+      "Actors": "Jan Dieter Schneider, Antonia Bill, Maximilian Scheidt",
+      "Plot": "Jakob longs for a new life for himself and his troubled family in Brazil.",
+      "Language": "German",
+      "Country": "Germany, France",
+      "Awards": "9 wins & 8 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwNjMyODExMV5BMl5BanBnXkFtZTgwNTE2MzMzNTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "7.9",
+      "imdbVotes": "1,561",
+      "imdbID": "tt1998204",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Die Andere Heimat - Part 2",
+      "plot_pt": "“Heimat” de Edgar Reitz era, com 53 horas e 25 minutos, a série mais longa da história do cinema. Agora, o realizador apresenta-nos uma prequela, de nome “Die Andere Heimat — Chronik einer Sehnsucht”, e aumentou a narrativa com a história de uma Alemanha fragilizada pelo rigor climatérico, pela escassez de alimentos e pelas investidas da Prússia. Considerado pelo Der Spiegel como um “magnífico completar de uma obra-prima”, a série mostra o recrutamento de jovens alemães por parte da Corte Portuguesa com vista à colonização do Brasil.",
+      "country": "Alemanha",
+      "genre": "Drama",
+      "year": 2013,
+      "director": "Edgar Reitz"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.3,
+      27.1,
+      33.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1Y3pnuqQXEyYtLq9FP8tROOQBDa.jpg",
+      "https://image.tmdb.org/t/p/w1280/jQMQG1cG2zEw74Lomi3gyqvQMm9.jpg",
+      "https://image.tmdb.org/t/p/w1280/fo2VdwGDl7KL2lQytIUhMfxhPlM.jpg"
+    ],
+    "tmdb_id": "215740"
   },
   "Brincadeiras Perigosas|1997": {
     "lbxd": {
@@ -58624,161 +58149,84 @@
     ],
     "tmdb_id": "215740"
   },
-  "O Padrinho: Parte II|1972": {
+  "Toni Erdmann|2016": {
     "lbxd": {
-      "rating": 4.59,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-500-0-750-crop.jpg?v=6a49853f25",
-      "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "rating": 3.95,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/z1/lq/5m/7z/gJNjVE8WGUjiSKUtMDEvNzxR5zq-0-500-0-750-crop.jpg?v=e2e59fc23d",
+      "description": "Convinced that his daughter has forgotten how to laugh, a father shows up unannounced while she's living abroad and bombards her with outrageous jokes.",
       "genres": [
-        "Drama",
-        "Crime"
+        "Comedy",
+        "Drama"
       ],
-      "country": "USA",
-      "lb_director": "Francis Ford Coppola",
-      "lb_director_slug": "francis-ford-coppola",
-      "lb_year": 1974,
-      "lb_title": "The Godfather Part II",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rw/q1/s4/xy/the-godfather-part-ii-1920-1920-1080-1080-crop-000000.jpg?v=e76eb25900",
-      "imdb_id": "tt0071562",
-      "tmdb_id": "240"
+      "country": "Austria",
+      "lb_director": "Maren Ade",
+      "lb_director_slug": "maren-ade",
+      "lb_year": 2016,
+      "lb_title": "Toni Erdmann",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/5c/11/89/3d/toni-erdmann-1920-1920-1080-1080-crop-000000.jpg?v=2275dcf909",
+      "imdb_id": "tt4048272",
+      "tmdb_id": "374475"
     },
     "omdb": {
-      "Title": "The Godfather Part II",
-      "Year": "1974",
+      "Title": "Toni Erdmann",
+      "Year": "2016",
       "Rated": "R",
-      "Released": "18 Dec 1974",
-      "Runtime": "202 min",
-      "Genre": "Crime, Drama",
-      "Director": "Francis Ford Coppola",
-      "Writer": "Francis Ford Coppola, Mario Puzo",
-      "Actors": "Al Pacino, Robert De Niro, Robert Duvall",
-      "Plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
-      "Language": "English, Italian, Spanish, Latin, Sicilian",
-      "Country": "United States",
-      "Awards": "Won 6 Oscars. 17 wins & 21 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Released": "25 Dec 2016",
+      "Runtime": "162 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Maren Ade",
+      "Writer": "Maren Ade",
+      "Actors": "Sandra Hüller, Peter Simonischek, Michael Wittenborn",
+      "Plot": "A practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
+      "Language": "French, German, English, Romanian",
+      "Country": "Germany, Austria, Monaco, Romania, France, Switzerland, Belgium",
+      "Awards": "Nominated for 1 Oscar. 59 wins & 85 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODNiNmE5OWMtNDAxMy00YTQzLThjMGItMTAwOTNlNGM2ZDlhXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "9.0/10"
+          "Value": "7.3/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "96%"
+          "Value": "93%"
         },
         {
           "Source": "Metacritic",
-          "Value": "90/100"
+          "Value": "93/100"
         }
       ],
-      "Metascore": "90",
-      "imdbRating": "9.0",
-      "imdbVotes": "1,492,120",
-      "imdbID": "tt0071562",
+      "Metascore": "93",
+      "imdbRating": "7.3",
+      "imdbVotes": "54,800",
+      "imdbID": "tt4048272",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "$47,834,595",
+      "BoxOffice": "$1,479,387",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
     },
     "wiki": null,
     "cinema": {
-      "original_title": "The Godfather Part II",
-      "plot_pt": "Em 1950, o jovem Michael Corleone, agora à frente da família, tenta expandir o negócio a Las Vegas, Hollywood e Cuba. Paralelamente, revela-se a história do jovem Vito Corleone, e de como saiu da Sicília em 1910 e chegou a Nova Iorque para construir um império do crime.",
-      "country": "EUA",
-      "genre": "Drama",
-      "year": 1972,
-      "director": "Francis Ford Coppola"
+      "original_title": "Toni Erdmann",
+      "plot_pt": "Já na casa dos 60, Winfried Conrad é um antigo professor de música conhecido pelo riso fácil e pelo gosto pela vida. A sua forma desprendida e um pouco irresponsável é uma das razões pelas quais se tornou distante de Ines, a sua extraordinariamente bem-sucedida filha. Ao contrário do progenitor, ela é sisuda, controlada e muito dedicada à carreira. Um dia, consciente do afastamento entre ambos, ele resolve fazer-lhe uma visita surpresa em Bucareste (Roménia), a cidade onde ela trabalha há já alguns anos. O encontro revela-se um fracasso e eles acabam por se distanciar ainda mais. Até que, algum tempo depois, ele regressa, desta vez vestindo a pele de Toni Erdmann, um \"alter ego\" inventado por si que, ao infernizar a vida da filha contando mentiras a todos os seus contactos, lhe vai mostrar o que verdadeiramente importa para ser feliz…",
+      "country": "Alemanha, Áustria, França, Suíça",
+      "year": 2016,
+      "director": "Maren Ade"
     },
     "dir_checked": true,
     "stills_focus": [
-      21.2,
-      16.4,
-      27.5
+      27.4,
+      40.7,
+      25.6
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
-      "https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
-      "https://image.tmdb.org/t/p/w1280/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg"
+      "https://image.tmdb.org/t/p/w1280/dwBdfo10gulOpTpmlJMczr5GhZ6.jpg",
+      "https://image.tmdb.org/t/p/w1280/i7gRHdspKcYLiKMl1poDOf1aill.jpg",
+      "https://image.tmdb.org/t/p/w1280/2ZoUHy3Ek44wvYKAZTyiPPrRGGH.jpg"
     ],
-    "tmdb_id": "240"
-  },
-  "Heimat - Crónica de Uma Nostalgia - Parte 2|2013": {
-    "lbxd": {
-      "rating": 4.0,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/3/0/6/6/153066-home-from-home-chronicle-of-a-vision-0-500-0-750-crop.jpg?v=5310c3fd6b",
-      "description": "Follow-up to the TV trilogy “Heimat”, this time for cinemas, set again in the fictional village Schabbach in the Hunsrück region of Rhineland-Palatinate.",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "country": "Germany",
-      "lb_director": "Edgar Reitz",
-      "lb_director_slug": "edgar-reitz",
-      "lb_year": 2013,
-      "lb_title": "Home from Home – Chronicle of a Vision",
-      "backdrop": null,
-      "imdb_id": "tt1998204",
-      "tmdb_id": "215740"
-    },
-    "omdb": {
-      "Title": "Home from Home: Chronicle of a Vision",
-      "Year": "2013",
-      "Rated": "Not Rated",
-      "Released": "11 Sep 2015",
-      "Runtime": "231 min",
-      "Genre": "Drama, History",
-      "Director": "Edgar Reitz",
-      "Writer": "Edgar Reitz, Gert Heidenreich",
-      "Actors": "Jan Dieter Schneider, Antonia Bill, Maximilian Scheidt",
-      "Plot": "Jakob longs for a new life for himself and his troubled family in Brazil.",
-      "Language": "German",
-      "Country": "Germany, France",
-      "Awards": "9 wins & 8 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwNjMyODExMV5BMl5BanBnXkFtZTgwNTE2MzMzNTE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "70/100"
-        }
-      ],
-      "Metascore": "70",
-      "imdbRating": "7.9",
-      "imdbVotes": "1,561",
-      "imdbID": "tt1998204",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "original_title": "Die Andere Heimat - Part 2",
-      "plot_pt": "“Heimat” de Edgar Reitz era, com 53 horas e 25 minutos, a série mais longa da história do cinema. Agora, o realizador apresenta-nos uma prequela, de nome “Die Andere Heimat — Chronik einer Sehnsucht”, e aumentou a narrativa com a história de uma Alemanha fragilizada pelo rigor climatérico, pela escassez de alimentos e pelas investidas da Prússia. Considerado pelo Der Spiegel como um “magnífico completar de uma obra-prima”, a série mostra o recrutamento de jovens alemães por parte da Corte Portuguesa com vista à colonização do Brasil.",
-      "country": "Alemanha",
-      "genre": "Drama",
-      "year": 2013,
-      "director": "Edgar Reitz"
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      32.3,
-      27.1,
-      33.7
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/1Y3pnuqQXEyYtLq9FP8tROOQBDa.jpg",
-      "https://image.tmdb.org/t/p/w1280/jQMQG1cG2zEw74Lomi3gyqvQMm9.jpg",
-      "https://image.tmdb.org/t/p/w1280/fo2VdwGDl7KL2lQytIUhMfxhPlM.jpg"
-    ],
-    "tmdb_id": "215740"
+    "tmdb_id": "374475"
   },
   "Nada a Esconder|2005": {
     "lbxd": {
@@ -58861,6 +58309,82 @@
     ],
     "tmdb_id": "445"
   },
+  "Miroirs No. 3|2025": {
+    "lbxd": {
+      "rating": 3.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/5/1/9/7/1065197-mirrors-no-3-0-500-0-750-crop.jpg?v=30ef3cac4b",
+      "description": "On a weekend trip to the countryside, Laura miraculously survives a car crash. Physically unhurt but deeply shaken, she is taken in by a local woman who witnessed the accident and now cares for Laura with motherly devotion. When her husband and adult son also give up their initial resistance to Laura's presence, the four of them slowly build up some family-like routine. But soon they can no longer ignore their past...",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Christian Petzold",
+      "lb_director_slug": "christian-petzold",
+      "lb_year": 2025,
+      "lb_title": "Miroirs No. 3",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/6/5/1/9/7/tmdb/pmF1HcUwAZ6Ge7dk1WGTQAptMaD-1920-1920-1080-1080-crop-000000.jpg?v=00845c698a",
+      "imdb_id": "tt32247943",
+      "tmdb_id": "1178602"
+    },
+    "omdb": {
+      "Title": "Miroirs No. 3",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "10 Jun 2025",
+      "Runtime": "86 min",
+      "Genre": "Drama",
+      "Director": "Christian Petzold",
+      "Writer": "Christian Petzold",
+      "Actors": "Paula Beer, Matthias Brandt, Enno Trebs",
+      "Plot": "After a car crash kills her boyfriend, piano student Laura is taken in by Betty, who witnessed the accident. Living with Betty's family brings comfort, but Laura starts questioning their intentions as time passes.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36848172",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Miroirs No. 3",
+      "plot_pt": "Numa viagem de fim de semana ao campo, Laura sobrevive miraculosamente a um acidente de carro. Fisicamente ilesa, mas profundamente abalada, é acolhida por uma mulher local que testemunhou o sinistro e agora se ocupa dela com uma devoção maternal. Quando o marido e o filho adulto também deixam de parte a resistência inicial à sua presença, os quatro começam, aos poucos, a criar uma rotina que se assemelha à de uma família. Não muito tempo depois, porém, já não conseguem mais ignorar o passado...",
+      "country": "Alemanha",
+      "genre": "Drama",
+      "year": 2025,
+      "director": "Christian Petzold",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/mv5by2fkzwyzmzqtn2zhoc00zwmxlwixnwutnjlimtg2y2finjuzxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bogu0ztfmodmtn2m5ni00mji4lwfjzdetn2i2yzg1nzmyytkxxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bnznimzu0ntutndrlnc00odrilwjin2mtnzaxm2nlnjlknde1xkeyxkfqcgc_v1_fmjpg_ux1920.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.0,
+      38.4,
+      41.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
+      "https://image.tmdb.org/t/p/w1280/dv8xr2P21nDAfggGq2vLrsZDV5y.jpg",
+      "https://image.tmdb.org/t/p/w1280/vsBn8CO3RDNX7JXyzdOZT7nGkib.jpg"
+    ],
+    "tmdb_id": "1178602"
+  },
   "Amor|2012": {
     "lbxd": {
       "rating": 4.24,
@@ -58941,160 +58465,51 @@
     ],
     "tmdb_id": "86837"
   },
-  "Miroirs No. 3|2025": {
+  "Olhar o Sol|2025": {
     "lbxd": {
-      "rating": 3.5,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/5/1/9/7/1065197-mirrors-no-3-0-500-0-750-crop.jpg?v=30ef3cac4b",
-      "description": "On a weekend trip to the countryside, Laura miraculously survives a car crash. Physically unhurt but deeply shaken, she is taken in by a local woman who witnessed the accident and now cares for Laura with motherly devotion. When her husband and adult son also give up their initial resistance to Laura's presence, the four of them slowly build up some family-like routine. But soon they can no longer ignore their past...",
+      "rating": 3.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/4/8/2/6/1104826-sound-of-falling-0-500-0-750-crop.jpg?v=a6e045cc0d",
+      "description": "Four adolescent girls each spend their youth in the same farmhouse over the last century. Though separated by decades, resonances between their lives emerge: their desires and distress, secrets and truths, encounters with another’s gaze and defiant gaze in return.",
       "genres": [
-        "Drama"
+        "Drama",
+        "War"
       ],
       "country": "Germany",
-      "lb_director": "Christian Petzold",
-      "lb_director_slug": "christian-petzold",
+      "lb_director": "Mascha Schilinski",
+      "lb_director_slug": "mascha-schilinski",
       "lb_year": 2025,
-      "lb_title": "Miroirs No. 3",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/6/5/1/9/7/tmdb/pmF1HcUwAZ6Ge7dk1WGTQAptMaD-1920-1920-1080-1080-crop-000000.jpg?v=00845c698a",
-      "imdb_id": "tt32247943",
-      "tmdb_id": "1178602"
+      "lb_title": "Sound of Falling",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/0/4/8/2/6/tmdb/iJN7ifV3JWNZE1isqaKieIOMBzv-1920-1920-1080-1080-crop-000000.jpg?v=62cee4fa90",
+      "imdb_id": "tt28690468",
+      "tmdb_id": "1221061"
     },
-    "omdb": {
-      "Title": "Miroirs No. 3",
-      "Year": "2025",
-      "Rated": "N/A",
-      "Released": "10 Jun 2025",
-      "Runtime": "86 min",
-      "Genre": "Drama",
-      "Director": "Christian Petzold",
-      "Writer": "Christian Petzold",
-      "Actors": "Paula Beer, Matthias Brandt, Enno Trebs",
-      "Plot": "After a car crash kills her boyfriend, piano student Laura is taken in by Betty, who witnessed the accident. Living with Betty's family brings comfort, but Laura starts questioning their intentions as time passes.",
-      "Language": "German",
-      "Country": "Germany",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt36848172",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {
-      "original_title": "Miroirs No. 3",
-      "plot_pt": "Numa viagem de fim de semana ao campo, Laura sobrevive miraculosamente a um acidente de carro. Fisicamente ilesa, mas profundamente abalada, é acolhida por uma mulher local que testemunhou o sinistro e agora se ocupa dela com uma devoção maternal. Quando o marido e o filho adulto também deixam de parte a resistência inicial à sua presença, os quatro começam, aos poucos, a criar uma rotina que se assemelha à de uma família. Não muito tempo depois, porém, já não conseguem mais ignorar o passado...",
+      "original_title": "In Die Sonne Schauen",
+      "plot_pt": "Ao longo de um século, Alma, Erika, Angelika e Lenka, quatro raparigas de diferentes gerações, passam a sua juventude na mesma quinta no norte da Alemanha. Os ecos do passado permanecem nas suas paredes, e as suas vidas entrelaçam-se até que o tempo parece dissolver-se.\n\r\n\r\n\r\n\r\nUma história envolvente que nos mergulha na experiência feminina vivida por aquelas que ficaram à margem da história.",
       "country": "Alemanha",
       "genre": "Drama",
       "year": 2025,
-      "director": "Christian Petzold",
+      "director": "Mascha Schilinski",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/mv5by2fkzwyzmzqtn2zhoc00zwmxlwixnwutnjlimtg2y2finjuzxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
-        "https://medeiafilmes.com/uploads/library/mv5bogu0ztfmodmtn2m5ni00mji4lwfjzdetn2i2yzg1nzmyytkxxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
-        "https://medeiafilmes.com/uploads/library/mv5bnznimzu0ntutndrlnc00odrilwjin2mtnzaxm2nlnjlknde1xkeyxkfqcgc_v1_fmjpg_ux1920.jpg"
+        "https://medeiafilmes.com/uploads/library/mv5bmtjjzgyzowmtmjbhyi00ztbkltk3ztctzjg3nwu5ztvjzdi2xkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bntc2nzjkyjytnge0os00yty2ltk0ytetmmrmyjhhmdljyju4xkeyxkfqcgc_v1_fmjpg_ux1801.jpg",
+        "https://medeiafilmes.com/uploads/library/sound-of-falling_lenaurzendowskyangelika_copyrightfabiangamper_studiozentral_11.jpg"
       ]
     },
     "dir_checked": true,
     "stills_focus": [
-      28.0,
-      38.4,
-      41.5
+      24.1,
+      31.4,
+      18.6
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/sBmk1aaiepcBfC3l5NpEsdEoawP.jpg",
-      "https://image.tmdb.org/t/p/w1280/dv8xr2P21nDAfggGq2vLrsZDV5y.jpg",
-      "https://image.tmdb.org/t/p/w1280/vsBn8CO3RDNX7JXyzdOZT7nGkib.jpg"
+      "https://image.tmdb.org/t/p/w1280/cXr5YOMJKZBkokgNogHjEyFZLc6.jpg",
+      "https://image.tmdb.org/t/p/w1280/1hXcizMqZnI3aUWGz0fL07OQgah.jpg",
+      "https://image.tmdb.org/t/p/w1280/dJpQUhXtDh8sbeRS8t9XibBQ2XD.jpg"
     ],
-    "tmdb_id": "1178602"
-  },
-  "Toni Erdmann|2016": {
-    "lbxd": {
-      "rating": 3.95,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/z1/lq/5m/7z/gJNjVE8WGUjiSKUtMDEvNzxR5zq-0-500-0-750-crop.jpg?v=e2e59fc23d",
-      "description": "Convinced that his daughter has forgotten how to laugh, a father shows up unannounced while she's living abroad and bombards her with outrageous jokes.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "country": "Austria",
-      "lb_director": "Maren Ade",
-      "lb_director_slug": "maren-ade",
-      "lb_year": 2016,
-      "lb_title": "Toni Erdmann",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/5c/11/89/3d/toni-erdmann-1920-1920-1080-1080-crop-000000.jpg?v=2275dcf909",
-      "imdb_id": "tt4048272",
-      "tmdb_id": "374475"
-    },
-    "omdb": {
-      "Title": "Toni Erdmann",
-      "Year": "2016",
-      "Rated": "R",
-      "Released": "25 Dec 2016",
-      "Runtime": "162 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Maren Ade",
-      "Writer": "Maren Ade",
-      "Actors": "Sandra Hüller, Peter Simonischek, Michael Wittenborn",
-      "Plot": "A practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
-      "Language": "French, German, English, Romanian",
-      "Country": "Germany, Austria, Monaco, Romania, France, Switzerland, Belgium",
-      "Awards": "Nominated for 1 Oscar. 59 wins & 85 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODNiNmE5OWMtNDAxMy00YTQzLThjMGItMTAwOTNlNGM2ZDlhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "93/100"
-        }
-      ],
-      "Metascore": "93",
-      "imdbRating": "7.3",
-      "imdbVotes": "54,800",
-      "imdbID": "tt4048272",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$1,479,387",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "original_title": "Toni Erdmann",
-      "plot_pt": "Já na casa dos 60, Winfried Conrad é um antigo professor de música conhecido pelo riso fácil e pelo gosto pela vida. A sua forma desprendida e um pouco irresponsável é uma das razões pelas quais se tornou distante de Ines, a sua extraordinariamente bem-sucedida filha. Ao contrário do progenitor, ela é sisuda, controlada e muito dedicada à carreira. Um dia, consciente do afastamento entre ambos, ele resolve fazer-lhe uma visita surpresa em Bucareste (Roménia), a cidade onde ela trabalha há já alguns anos. O encontro revela-se um fracasso e eles acabam por se distanciar ainda mais. Até que, algum tempo depois, ele regressa, desta vez vestindo a pele de Toni Erdmann, um \"alter ego\" inventado por si que, ao infernizar a vida da filha contando mentiras a todos os seus contactos, lhe vai mostrar o que verdadeiramente importa para ser feliz…",
-      "country": "Alemanha, Áustria, França, Suíça",
-      "year": 2016,
-      "director": "Maren Ade"
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      27.4,
-      40.7,
-      25.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/dwBdfo10gulOpTpmlJMczr5GhZ6.jpg",
-      "https://image.tmdb.org/t/p/w1280/i7gRHdspKcYLiKMl1poDOf1aill.jpg",
-      "https://image.tmdb.org/t/p/w1280/2ZoUHy3Ek44wvYKAZTyiPPrRGGH.jpg"
-    ],
-    "tmdb_id": "374475"
+    "tmdb_id": "1221061"
   },
   "71 Fragmentos de uma Cronologia do Acaso|1994": {
     "lbxd": {
@@ -59247,51 +58662,74 @@
     ],
     "tmdb_id": "26891"
   },
-  "Olhar o Sol|2025": {
+  "​Ludwig, Requiem para um Rei Virgem|1972": {
     "lbxd": {
-      "rating": 3.72,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/0/4/8/2/6/1104826-sound-of-falling-0-500-0-750-crop.jpg?v=a6e045cc0d",
-      "description": "Four adolescent girls each spend their youth in the same farmhouse over the last century. Though separated by decades, resonances between their lives emerge: their desires and distress, secrets and truths, encounters with another’s gaze and defiant gaze in return.",
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/4/4/142544-ludwig-requiem-for-a-virgin-king-0-500-0-750-crop.jpg?v=7cfa8555da",
+      "description": "Reflected in an artificial and bombastically staged illusory world with Wagnerian compositions, glossy and satirical time references, 19th century German figures and traditions are stripped of their mythology and interpreted by the Germany of 1972.",
       "genres": [
-        "Drama",
-        "War"
+        "History",
+        "Drama"
       ],
       "country": "Germany",
-      "lb_director": "Mascha Schilinski",
-      "lb_director_slug": "mascha-schilinski",
-      "lb_year": 2025,
-      "lb_title": "Sound of Falling",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/0/4/8/2/6/tmdb/iJN7ifV3JWNZE1isqaKieIOMBzv-1920-1920-1080-1080-crop-000000.jpg?v=62cee4fa90",
-      "imdb_id": "tt28690468",
-      "tmdb_id": "1221061"
+      "lb_director": "Hans-Jürgen Syberberg",
+      "lb_director_slug": "hans-jurgen-syberberg",
+      "lb_year": 1972,
+      "lb_title": "Ludwig – Requiem for a Virgin King",
+      "backdrop": null,
+      "imdb_id": "tt0068884",
+      "tmdb_id": "198605"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Ludwig - Requiem for a Virgin King",
+      "Year": "1972",
+      "Rated": "N/A",
+      "Released": "23 Jun 1972",
+      "Runtime": "140 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Hans-Jürgen Syberberg",
+      "Writer": "Hans-Jürgen Syberberg",
+      "Actors": "Harry Baer, Ingrid Caven, Hanna Köhler",
+      "Plot": "The story of the legendary King Ludwig II of Bavaria (1845-1886), his opera interest and friendship with theatre personalities such as Richard Wagner and Joseph Kainz, and at the same time a reflection of the German 1800s.",
+      "Language": "German, French, English",
+      "Country": "West Germany, Austria",
+      "Awards": "3 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGIxOTMyNjMtYjAzZC00ZmY2LThhODctODZkYzQ5NGUxZTA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "342",
+      "imdbID": "tt0068884",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {
-      "original_title": "In Die Sonne Schauen",
-      "plot_pt": "Ao longo de um século, Alma, Erika, Angelika e Lenka, quatro raparigas de diferentes gerações, passam a sua juventude na mesma quinta no norte da Alemanha. Os ecos do passado permanecem nas suas paredes, e as suas vidas entrelaçam-se até que o tempo parece dissolver-se.\n\r\n\r\n\r\n\r\nUma história envolvente que nos mergulha na experiência feminina vivida por aquelas que ficaram à margem da história.",
-      "country": "Alemanha",
-      "genre": "Drama",
-      "year": 2025,
-      "director": "Mascha Schilinski",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/mv5bmtjjzgyzowmtmjbhyi00ztbkltk3ztctzjg3nwu5ztvjzdi2xkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
-        "https://medeiafilmes.com/uploads/library/mv5bntc2nzjkyjytnge0os00yty2ltk0ytetmmrmyjhhmdljyju4xkeyxkfqcgc_v1_fmjpg_ux1801.jpg",
-        "https://medeiafilmes.com/uploads/library/sound-of-falling_lenaurzendowskyangelika_copyrightfabiangamper_studiozentral_11.jpg"
-      ]
+      "original_title": "Ludwig - Requiem für einen jungfräulichen König",
+      "plot_pt": "Refletidas num mundo ilusório artificial e bombasticamente encenado com composições wagnerianas, referências temporais brilhantes e satíricas, as figuras e tradições alemãs do século XIX são despojadas da sua mitologia e interpretadas pela Alemanha de 1972, através da invocação do rei Luís II da Baviera.",
+      "country": "RFA",
+      "year": 1972,
+      "director": "Hans-Jürgen Syberberg"
     },
     "dir_checked": true,
     "stills_focus": [
-      24.1,
-      31.4,
-      18.6
+      35.8,
+      40.2
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/cXr5YOMJKZBkokgNogHjEyFZLc6.jpg",
-      "https://image.tmdb.org/t/p/w1280/1hXcizMqZnI3aUWGz0fL07OQgah.jpg",
-      "https://image.tmdb.org/t/p/w1280/dJpQUhXtDh8sbeRS8t9XibBQ2XD.jpg"
+      "https://image.tmdb.org/t/p/w1280/x4tSwHNtRbZZ95NGEDNkpom98uj.jpg",
+      "https://image.tmdb.org/t/p/w1280/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
     ],
-    "tmdb_id": "1221061"
+    "tmdb_id": "198605"
   },
   "O Vídeo de Benny|1992": {
     "lbxd": {
@@ -59373,75 +58811,6 @@
     ],
     "tmdb_id": "1987"
   },
-  "​Ludwig, Requiem para um Rei Virgem|1972": {
-    "lbxd": {
-      "rating": 3.69,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/4/4/142544-ludwig-requiem-for-a-virgin-king-0-500-0-750-crop.jpg?v=7cfa8555da",
-      "description": "Reflected in an artificial and bombastically staged illusory world with Wagnerian compositions, glossy and satirical time references, 19th century German figures and traditions are stripped of their mythology and interpreted by the Germany of 1972.",
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "country": "Germany",
-      "lb_director": "Hans-Jürgen Syberberg",
-      "lb_director_slug": "hans-jurgen-syberberg",
-      "lb_year": 1972,
-      "lb_title": "Ludwig – Requiem for a Virgin King",
-      "backdrop": null,
-      "imdb_id": "tt0068884",
-      "tmdb_id": "198605"
-    },
-    "omdb": {
-      "Title": "Ludwig - Requiem for a Virgin King",
-      "Year": "1972",
-      "Rated": "N/A",
-      "Released": "23 Jun 1972",
-      "Runtime": "140 min",
-      "Genre": "Biography, Drama, History",
-      "Director": "Hans-Jürgen Syberberg",
-      "Writer": "Hans-Jürgen Syberberg",
-      "Actors": "Harry Baer, Ingrid Caven, Hanna Köhler",
-      "Plot": "The story of the legendary King Ludwig II of Bavaria (1845-1886), his opera interest and friendship with theatre personalities such as Richard Wagner and Joseph Kainz, and at the same time a reflection of the German 1800s.",
-      "Language": "German, French, English",
-      "Country": "West Germany, Austria",
-      "Awards": "3 wins & 3 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGIxOTMyNjMtYjAzZC00ZmY2LThhODctODZkYzQ5NGUxZTA5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.1",
-      "imdbVotes": "342",
-      "imdbID": "tt0068884",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "original_title": "Ludwig - Requiem für einen jungfräulichen König",
-      "plot_pt": "Refletidas num mundo ilusório artificial e bombasticamente encenado com composições wagnerianas, referências temporais brilhantes e satíricas, as figuras e tradições alemãs do século XIX são despojadas da sua mitologia e interpretadas pela Alemanha de 1972, através da invocação do rei Luís II da Baviera.",
-      "country": "RFA",
-      "year": 1972,
-      "director": "Hans-Jürgen Syberberg"
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      35.8,
-      40.2
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/x4tSwHNtRbZZ95NGEDNkpom98uj.jpg",
-      "https://image.tmdb.org/t/p/w1280/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
-    ],
-    "tmdb_id": "198605"
-  },
   "A Rebelião|1993": {
     "lbxd": {
       "rating": 3.54,
@@ -59505,7 +58874,7 @@
     "dir_checked": true,
     "stills_focus": [
       39.0,
-      33.1
+      33.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/6n4uHX4j943VAOz9L1hKqwpUrsj.jpg",
@@ -59513,76 +58882,45 @@
     ],
     "tmdb_id": "124309"
   },
-  "Natal Amargo|2025": {
+  "O Sétimo Continente|1989": {
     "lbxd": {
-      "rating": 3.16,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-500-0-750-crop.jpg?v=e53e0d2801",
-      "description": "In 2025 Spain, a celebrated film director struggles to write the screenplay for an autofictional film set in 2004 Spain about an unsuccessful movie director turned director of commercials who suffers a panic attack that forces her to take a break by visiting the Canary Islands, where she begins work on a new film.",
+      "rating": 4.02,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/2/1/3/30213-the-seventh-continent-0-500-0-750-crop.jpg?v=d5f3fc9324",
+      "description": "Chronicles three years of a middle-class family seemingly caught up in their daily routines, troubled only by minor incidents. Behind their apparent calm and repetitive existence, however, they're planning something much more sinister.",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Drama"
       ],
-      "country": "Spain",
-      "lb_director": "Pedro Almodóvar",
-      "lb_director_slug": "pedro-almodovar",
-      "lb_year": 2026,
-      "lb_title": "Bitter Christmas",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/1/4/3/7/tmdb/5BEVBLecjLWzZtfA920waEsHF6o-1920-1920-1080-1080-crop-000000.jpg?v=640a8c814d",
-      "imdb_id": "tt28088049",
-      "tmdb_id": "1088548"
+      "country": "Austria",
+      "lb_director": "Michael Haneke",
+      "lb_director_slug": "michael-haneke",
+      "lb_year": 1989,
+      "lb_title": "The Seventh Continent",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ac/i8/ze/6v/seventhcontinent-1920-1920-1080-1080-crop-000000.jpg?v=189db1241f",
+      "imdb_id": "tt0098327",
+      "tmdb_id": "32761"
     },
-    "omdb": {
-      "Title": "Amarga Navidad",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "Drama",
-      "Director": "Pedro Almodóvar",
-      "Writer": "Pedro Almodóvar",
-      "Actors": "Victoria Luengo, Patrick Criado",
-      "Plot": "A woman being abandoned by her partner during Christmas time.",
-      "Language": "Spanish",
-      "Country": "Spain",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt28088049",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {
-      "original_title": "Amarga Navidad",
-      "plot_pt": "A história centra-se em Elsa, uma diretora de publicidade cuja mãe morre durante a época natalícia. Incapaz de enfrentar o luto, afunda-se no trabalho, tentando fugir à dor da perda. Quando um ataque de pânico a força a abrandar, Elsa decide fazer uma pausa e viajar para a ilha de Lanzarote, nas Ilhas Canárias, com a sua amiga Patrícia, enquanto o seu companheiro Bonifacio permanece em Madrid. Em paralelo, o filme acompanha Raúl Durán, um argumentista e realizador cinematográfico, e explora a interseção entre a vida e a ficção, misturando as experiências pessoais dos personagens com elementos narrativos reflexivos típicos do universo de Almodóvar.",
-      "country": "Espanha",
+      "original_title": "Der Siebente Kontinent",
+      "plot_pt": "O dia-a-dia de uma família austríaca aparentemente normal começa a seguir uma direcção sinistra quando, de repente, a sua filha alega estar cega. O Sétimo Continente retrata, com um distanciamento clínico, o vazio espiritual da cultura de consumo e o horror que se esconde por baixo das suas superfícies plácidas, introduzindo a visão do realizador sobre a ligação entre a violência e a nossa cultura de emoções fabricadas. Inspirado numa história verídica, a primeira longa metragem de Michael Haneke é um arrepiante retrato da anomia burguesa e do seu caminho até à auto-destruição.",
+      "country": "Áustria",
       "genre": "Drama",
-      "year": 2025,
-      "director": "Pedro Almodóvar",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/07_press_hd-2.jpg",
-        "https://medeiafilmes.com/uploads/library/04_press_hd-2.jpg"
-      ]
+      "year": 1989,
+      "director": "Michael Haneke"
     },
     "dir_checked": true,
     "stills_focus": [
-      27.4,
-      40.0,
-      24.1
+      18.5,
+      29.2,
+      31.7
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
-      "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
-      "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
+      "https://image.tmdb.org/t/p/w1280/aI4PZbPUeuOc91OCi7TmjFza5Rk.jpg",
+      "https://image.tmdb.org/t/p/w1280/mOfBL3yT71mKQpB48J0xN5JfRZC.jpg",
+      "https://image.tmdb.org/t/p/w1280/5PpbwRXTYRrSmXRacfHwpjphR8A.jpg"
     ],
-    "tmdb_id": "1088548"
+    "tmdb_id": "32761"
   },
   "Adolescência, Sexo e Morte no Acampamento Miasma|2026": {
     "lbxd": {
@@ -59654,9 +58992,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      13.6,
-      12.7,
-      24.3
+      13.7,
+      12.8,
+      24.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
@@ -59664,46 +59002,6 @@
       "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
     ],
     "tmdb_id": "1240889"
-  },
-  "O Sétimo Continente|1989": {
-    "lbxd": {
-      "rating": 4.02,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/2/1/3/30213-the-seventh-continent-0-500-0-750-crop.jpg?v=d5f3fc9324",
-      "description": "Chronicles three years of a middle-class family seemingly caught up in their daily routines, troubled only by minor incidents. Behind their apparent calm and repetitive existence, however, they're planning something much more sinister.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Austria",
-      "lb_director": "Michael Haneke",
-      "lb_director_slug": "michael-haneke",
-      "lb_year": 1989,
-      "lb_title": "The Seventh Continent",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ac/i8/ze/6v/seventhcontinent-1920-1920-1080-1080-crop-000000.jpg?v=189db1241f",
-      "imdb_id": "tt0098327",
-      "tmdb_id": "32761"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "original_title": "Der Siebente Kontinent",
-      "plot_pt": "O dia-a-dia de uma família austríaca aparentemente normal começa a seguir uma direcção sinistra quando, de repente, a sua filha alega estar cega. O Sétimo Continente retrata, com um distanciamento clínico, o vazio espiritual da cultura de consumo e o horror que se esconde por baixo das suas superfícies plácidas, introduzindo a visão do realizador sobre a ligação entre a violência e a nossa cultura de emoções fabricadas. Inspirado numa história verídica, a primeira longa metragem de Michael Haneke é um arrepiante retrato da anomia burguesa e do seu caminho até à auto-destruição.",
-      "country": "Áustria",
-      "genre": "Drama",
-      "year": 1989,
-      "director": "Michael Haneke"
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      32.0,
-      29.2,
-      31.7
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/aI4PZbPUeuOc91OCi7TmjFza5Rk.jpg",
-      "https://image.tmdb.org/t/p/w1280/mOfBL3yT71mKQpB48J0xN5JfRZC.jpg",
-      "https://image.tmdb.org/t/p/w1280/5PpbwRXTYRrSmXRacfHwpjphR8A.jpg"
-    ],
-    "tmdb_id": "32761"
   },
   "Código Desconhecido|2000": {
     "lbxd": {
@@ -59856,6 +59154,52 @@
     ],
     "tmdb_id": "150898"
   },
+  "A Pianista|2001": {
+    "lbxd": {
+      "rating": 4.05,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
+      "description": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Michael Haneke",
+      "lb_director_slug": "michael-haneke",
+      "lb_year": 2001,
+      "lb_title": "The Piano Teacher",
+      "backdrop": null,
+      "imdb_id": "tt0254686",
+      "tmdb_id": "1791"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "La Pianiste",
+      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
+      "country": "França, Áustria, Alemanha",
+      "genre": "Drama",
+      "year": 2001,
+      "director": "Michael Haneke",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/28739id_pianoteacher_grab89_w1600.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bm2m4ymixnzatnge4mi00ngfhlwiwngetntqyntqzytlkngzlxkeyxkfqcgc_v1_fmjpg_ux1920.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bndk0ytgxnzytodewzc00ntbllwi2ndctnzu1zmfmytbjyzllxkeyxkfqcgc_v1_fmjpg_ux1920.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      21.4,
+      12.7,
+      26.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+      "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
+      "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
+    ],
+    "tmdb_id": "1791"
+  },
   "Lemingues, Parte 1 – A Arcádia|1979": {
     "lbxd": null,
     "omdb": null,
@@ -59964,52 +59308,6 @@
     },
     "dir_checked": true,
     "stills": null
-  },
-  "A Pianista|2001": {
-    "lbxd": {
-      "rating": 4.05,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
-      "description": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Michael Haneke",
-      "lb_director_slug": "michael-haneke",
-      "lb_year": 2001,
-      "lb_title": "The Piano Teacher",
-      "backdrop": null,
-      "imdb_id": "tt0254686",
-      "tmdb_id": "1791"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "original_title": "La Pianiste",
-      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
-      "country": "França, Áustria, Alemanha",
-      "genre": "Drama",
-      "year": 2001,
-      "director": "Michael Haneke",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/28739id_pianoteacher_grab89_w1600.jpg",
-        "https://medeiafilmes.com/uploads/library/mv5bm2m4ymixnzatnge4mi00ngfhlwiwngetntqyntqzytlkngzlxkeyxkfqcgc_v1_fmjpg_ux1920.jpg",
-        "https://medeiafilmes.com/uploads/library/mv5bndk0ytgxnzytodewzc00ntbllwi2ndctnzu1zmfmytbjyzllxkeyxkfqcgc_v1_fmjpg_ux1920.jpg"
-      ]
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      21.4,
-      12.7,
-      26.0
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-      "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
-      "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
-    ],
-    "tmdb_id": "1791"
   },
   "O Tempo do Lobo|2003": {
     "lbxd": {
