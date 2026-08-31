@@ -1671,6 +1671,136 @@
   "Steve Cox, Matthew Walker": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
+  },
+  "John Valley": {
+    "photo": null,
+    "bio": "American geologist",
+    "tries": 1
+  },
+  "Kôtarô Wajima": {
+    "photo": null,
+    "bio": "Japanese film director",
+    "tries": 1
+  },
+  "Slobodan Sijan": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Slobodan_%C5%A0ijan_%28cropped%29.jpg/500px-Slobodan_%C5%A0ijan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Slobodan Šijan (Serbian Cyrillic: Слободан Шијан, pronounced [slɔbɔ̌dan ʃîjaːn]; born 16 November 1946) is a Serbian film director.",
+    "tries": 1
+  },
+  "Eric Darnell, Tom McGrath": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Grupo Dziga Vertov": {
+    "photo": null,
+    "bio": "collective of activist filmmakers",
+    "tries": 1
+  },
+  "David Lynch": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/David_Lynch_%281990%29.jpg/500px-David_Lynch_%281990%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "David Keith Lynch (January 20, 1946 – January 16, 2025) was an American filmmaker and artist. He is widely regarded as one of the greatest and most influential filmmakers in the history of cinema, with his films often characterized by a distinctive surrealist sensibility that gave rise to the adjective \"Lynchian\". He is often credited with bringing surrealism and experimentalism to mainstream media in the late 20th century.",
+    "tries": 1
+  },
+  "Tobe Hopper": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Quentin Tarantino": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/500px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Quentin Jerome Tarantino ( TARR-ən-TEE-noh; born March 27, 1963) is an American filmmaker, actor, and author. His films are characterized by graphic violence, extended dialogue often featuring much profanity, and references to popular culture. His work has earned a cult following alongside critical and commercial success, and he has been named by some as the most influential director of his generation.",
+    "tries": 1
+  },
+  "John Ford": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952).",
+    "tries": 1
+  },
+  "Jules Dassin": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jules_Dassin_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Julius \"Jules\" Dassin ( DASS-in, dass-IN; December 18, 1911 – March 31, 2008) was an American film and theatre director, producer, writer and actor. A subject of the Hollywood blacklist, he subsequently moved to France, and later Greece, where he continued his career. He was best-known for his noir and crime films, though he also worked in other genres.",
+    "tries": 1
+  },
+  "de Sergio Leone": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Alexander Kluge, Khavn": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Michael Haneke": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Michael Haneke (German: [ˈhaːnəkə]; born 23 March 1942) is a German-born Austrian retired film director and screenwriter. His work often examines social issues and depicts the feelings of estrangement experienced by individuals in modern society. Haneke has made films in French, German, and English and has worked in television and theatre.",
+    "tries": 1
+  },
+  "John M. Stahl": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/John_M_Stahl_-_Dec_1920_EH.jpg/500px-John_M_Stahl_-_Dec_1920_EH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "John Malcolm Stahl (January 21, 1886 – January 12, 1950, born Jacob Morris Strelitsky) was a Russian-born American film director and producer. He is best known for his films such as Leave Her to Heaven (1945), Imitation of Life (1934), The Keys of the Kingdom (1944), and Back Street (1932).",
+    "tries": 1
+  },
+  "Florian Henckel von Donnersmarck": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Florian_Henckel_von_Donnersmarck.jpg/500px-Florian_Henckel_von_Donnersmarck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Florian Maria Georg Christian Graf Henckel von Donnersmarck (German: [ˈfloː.ʁi.aːn ˈhɛŋ.kl̩ fɔn ˈdɔ.nɐsˌmaʁk] ; born 2 May 1973) is a German-Austrian film director. He is best known for writing and directing the 2006 dramatic thriller Das Leben der Anderen (The Lives of Others), which won the Academy Award for Best Foreign Language Film. He also wrote and directed the 2010 romantic thriller The Tourist starring Angelina Jolie and Johnny Depp, and the 2018 epic drama Never Look Away.",
+    "tries": 1
+  },
+  "Christian Petzold": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Christian_petzold_3.jpg/500px-Christian_petzold_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Christian Petzold may refer to:",
+    "tries": 1
+  },
+  "Maren Ade": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Maren_Ade-5109.jpg/500px-Maren_Ade-5109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Maren Ade (German: [ˈmaːʁən ˈʔaːdə]; born 12 December 1976) is a German film director, screenwriter and producer. Ade lives in Berlin, teaching screenwriting at the Film Academy Baden-Württemberg in Ludwigsburg. Together with Janine Jackowski and Jonas Dornbach, she runs the production company Komplizen Film.",
+    "tries": 1
+  },
+  "Mascha Schilinski": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MKr377335_Mascha_Schilinski_%28In_die_Sonne_schauen%2C_Cannes_2025%29.jpg/500px-MKr377335_Mascha_Schilinski_%28In_die_Sonne_schauen%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Mascha Schilinski (German pronunciation: [ˈmaʃa ʃiˈlɪnski]; born 1984) is a German film director and screenwriter. Her second feature film, Sound of Falling (2025), won the Jury Prize at the 78th Cannes Film Festival.",
+    "tries": 1
+  },
+  "Hans-Jürgen Syberberg": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Syberberg_ister.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Hans-Jürgen Syberberg (German: [ˈhans ˈjʏʁɡn̩ ˈzyːbɐbɛʁk]; born 8 December 1935) is a German film director, whose best known film is his lengthy feature Hitler: A Film from Germany.",
+    "tries": 1
+  },
+  "Wolfgang Becker": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MJK_71083_Wolfgang_Becker_%28arte-Empfang%2C_Berlinale_2020%29.jpg/500px-MJK_71083_Wolfgang_Becker_%28arte-Empfang%2C_Berlinale_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Wolfgang Becker may refer to:",
+    "tries": 1
+  },
+  "David Cronenberg": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/David_Cronenberg.jpg/500px-David_Cronenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "David Paul Cronenberg (born March 15, 1943) is a Canadian film director, screenwriter, producer and actor. He is a principal originator of the body horror genre, with his films exploring visceral bodily transformation, infectious diseases, and the intertwining of the psychological, physical, and technological. Cronenberg is best known for exploring these themes through sci-fi horror films such as Shivers (1975), Scanners (1981), Videodrome (1983) and The Fly (1986), though he has also directed dramas, psychological thrillers and gangster films.",
+    "tries": 1
+  },
+  "Maria Speth": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Oliver_Mark_-_Maria_Speth%2C_Berlin_2002.jpg/500px-Oliver_Mark_-_Maria_Speth%2C_Berlin_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "German film director and screenwriter",
+    "tries": 1
+  },
+  "Valeska Grisebach": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Valeska_Grisebach_at_Berlinale_2023.jpg/500px-Valeska_Grisebach_at_Berlinale_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Valeska Grisebach (born 4 January 1968) is a German film director. She was born in Bremen. She is considered part of the Berlin School of filmmaking, and is most known for her drama films Western (2017) and The Dreamed Adventure (2026).",
+    "tries": 1
+  },
+  "Michael Powell": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Michael_Powell-1943_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "bio": "Michael Latham Powell (30 September 1905 – 19 February 1990) was an English filmmaker. He is celebrated for his partnership with Emeric Pressburger and through their production company, The Archers, they together wrote, produced and directed a series of classic British films, notably The Life and Death of Colonel Blimp (1943), A Canterbury Tale (1944), I Know Where I'm Going! (1945), A Matter of Life and Death (1946, Stairway to Heaven in the U.S.), Black Narcissus (1947), The Red Shoes (1948), and The Tales of Hoffmann (1951).",
+    "tries": 1
+  },
+  "Abel Ferrara": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abel_Ferrara_Cannes_2017.jpg/500px-Abel_Ferrara_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Abel Ferrara (born July 19, 1951) is an American filmmaker, actor and musician. Closely associated with the independent film movement in the United States, he is known for his provocative and often-controversial films which use and redefine neo-noir imagery. His best-known works include the New York-set, gritty crime thrillers The Driller Killer (1979), Ms .45 (1981), Fear City (1984), King of New York (1990), Bad Lieutenant (1992), and The Funeral (1996), chronicling violent crime in urban settings with spiritual overtones.",
+    "tries": 1
+  },
+  "John Cassavetes": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Cassavetes_Johnny_Staccato_1959.jpg/500px-John_Cassavetes_Johnny_Staccato_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "John Nicholas Cassavetes (December 9, 1929 – February 3, 1989) was an American filmmaker and actor. He began as an actor in film and television before helping to pioneer modern American independent cinema as a writer and director, often self-financing, producing, and distributing his own films. He received nominations for three Academy Awards, two BAFTA Awards, four Golden Globe Awards, and an Emmy Award.",
+    "tries": 1
   }
 }
