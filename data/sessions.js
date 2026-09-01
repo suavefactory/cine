@@ -47,8 +47,9 @@ window.CINEMA_DATA = {
         26.5,
         40.2
       ],
-      "country": "Turkey",
-      "director_lbxd_slug": "ylmaz-guney"
+      "country": "South Korea",
+      "director_lbxd_slug": "ylmaz-guney",
+      "plot_pt": "So-won (bra: Hope) é um filme de drama sul-coreano de 2013 dirigido por Lee Joon-ik, com roteiro baseado no \"caso Nayoung\", ocorrido em 2008.\nSo-won é protagonizado por Lee Re, Sol Kyung-gu, Uhm Ji-won e Kim Hae-sook."
     },
     {
       "id": "sao_jorge_11405",
@@ -460,7 +461,17 @@ window.CINEMA_DATA = {
         35.0
       ],
       "country": "UK",
-      "director_lbxd_slug": "michael-spierig"
+      "director_lbxd_slug": "michael-spierig",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/aBtS3yCWReAen3OefxBXedbArFI.jpg",
+        "https://image.tmdb.org/t/p/w1280/hGkPXpM1R6jlK1GpMiq1uMQpM6K.jpg",
+        "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
+      ],
+      "stills_focus": [
+        26.9,
+        22.0,
+        35.0
+      ]
     },
     {
       "id": "sao_jorge_11633",
@@ -5872,6 +5883,90 @@ window.CINEMA_DATA = {
       ],
       "country": "Cuba",
       "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_happy-end-2017",
+      "title": "Happy End",
+      "director": "Michael Haneke",
+      "year": 2017,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/2/9/1/333291-happy-end-0-500-0-750-crop.jpg?v=fe45aa7a50",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/happy-end-2017",
+      "sessions": [
+        {
+          "date": "2026-09-17",
+          "time": "21:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com Ricardo Vieira Lisboa e Vasco Câmara"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "time": "19:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.46,
+      "plot": "A well-to-do French family living in Calais deal with a series of setbacks and crises while paying little attention to the grim conditions in the refugee camps within a few miles of their home.",
+      "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
+        "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
+        "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
+      ],
+      "stills_focus": [
+        27.0,
+        19.8,
+        29.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_o-castigo-da-justica-1950",
+      "title": "O Castigo da Justiça",
+      "director": "Otto Preminger",
+      "year": 1950,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/1/2/1/41121-where-the-sidewalk-ends-0-500-0-750-crop.jpg?v=e57d5b50f7",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-castigo-da-justica-1950",
+      "sessions": [
+        {
+          "date": "2026-09-17",
+          "time": "14:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.78,
+      "plot": "A police detective's violent nature keeps him from being a good cop.",
+      "plot_pt": "Where the Sidewalk Ends (bra: Passos na Noite; prt: O Castigo da Justiça) é um filme noir estadunidense de 1950, produzido e dirigido por Otto Preminger para a 20th Century Fox, com roteiro escrito por Ben Hecht da adaptação de Robert E. Kent, Frank P. Rosenberg e Victor Trivas do livro de 1948 Night Cry, de William L. Stuart. O filme é considerado um clássico do gênero noir. Foi o último de Otto Preminger como diretor de aluguel da Twentieth Century Fox.",
+      "title_en": "Where the Sidewalk Ends",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/baa8BwCJblUiVRmCEyo6Sw7yyfS.jpg",
+        "https://image.tmdb.org/t/p/w1280/tixnPjgzG13m9gZ5u8MwQlPAoWe.jpg",
+        "https://image.tmdb.org/t/p/w1280/3Pq5e4GpcpIJoKMTusO7Ntn3x0q.jpg"
+      ],
+      "stills_focus": [
+        42.5,
+        45.6,
+        42.7
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "otto-preminger"
     },
     {
       "id": "nimas_o-laco-branco-2009",
