@@ -50304,12 +50304,38 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Água Mãe",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "20 Oct 2025",
+      "Runtime": "72 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rossana Torres",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38865778",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      35.0
+      34.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/i2yn4PusvC2RN5JVNQmCIIkhxK0.jpg"
@@ -55187,7 +55213,7 @@
       "https://image.tmdb.org/t/p/w1280/l5K9elugftlcyIHHm4nylvsn26X.jpg"
     ],
     "tmdb_id": "255709",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Poultry Farm|1903": {
     "lbxd": null,
@@ -56161,7 +56187,7 @@
       "https://image.tmdb.org/t/p/w1280/6ulhfmEC7leqpNaCMt8tVEobtFt.jpg"
     ],
     "tmdb_id": "1441275",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "American Dollhouse|2026": {
     "lbxd": {
@@ -56525,7 +56551,7 @@
       "https://image.tmdb.org/t/p/w1280/drmTthkZ51GI2ySFw7Py6yXYLUk.jpg"
     ],
     "tmdb_id": "15203",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Madagascar: Escape 2 Africa|2008": {
     "lbxd": {
@@ -57429,7 +57455,7 @@
       "https://medeiafilmes.com/uploads/library/0d1e5e31787840341f27e6dc42559fd5.jpeg"
     ],
     "tmdb_id": "664584",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Fantasma Apaixonado|1947": {
     "lbxd": {
@@ -58119,7 +58145,7 @@
       "https://image.tmdb.org/t/p/w1280/fo2VdwGDl7KL2lQytIUhMfxhPlM.jpg"
     ],
     "tmdb_id": "215740",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Brincadeiras Perigosas|1997": {
     "lbxd": {
@@ -58282,7 +58308,7 @@
       "https://image.tmdb.org/t/p/w1280/fo2VdwGDl7KL2lQytIUhMfxhPlM.jpg"
     ],
     "tmdb_id": "215740",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Toni Erdmann|2016": {
     "lbxd": {
@@ -58529,7 +58555,7 @@
       "https://image.tmdb.org/t/p/w1280/vsBn8CO3RDNX7JXyzdOZT7nGkib.jpg"
     ],
     "tmdb_id": "1178602",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Amor|2012": {
     "lbxd": {
@@ -58896,7 +58922,7 @@
       "https://image.tmdb.org/t/p/w1280/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
     ],
     "tmdb_id": "198605",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Vídeo de Benny|1992": {
     "lbxd": {
@@ -59053,7 +59079,7 @@
       "https://image.tmdb.org/t/p/w1280/pmjwXpRxKPQWyWlV7S8HvVYLhhx.jpg"
     ],
     "tmdb_id": "124309",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Sétimo Continente|1989": {
     "lbxd": {
@@ -59180,7 +59206,7 @@
       "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
     ],
     "tmdb_id": "1240889",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Código Desconhecido|2000": {
     "lbxd": {
@@ -59337,7 +59363,7 @@
       "https://image.tmdb.org/t/p/w1280/aAB5oqTj3kfdYk4NuDyN6UyknSl.jpg"
     ],
     "tmdb_id": "150898",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Pianista|2001": {
     "lbxd": {
@@ -59582,7 +59608,7 @@
       "https://image.tmdb.org/t/p/w1280/xDRfjoH3cp4DPcvrEXfMWA6SqbL.jpg"
     ],
     "tmdb_id": "24190",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Brincadeiras Perigosas U.S.|2007": {
     "lbxd": {
@@ -59804,7 +59830,7 @@
       "https://image.tmdb.org/t/p/w1280/hJdg6sjCg63W98qCFs57TrGfgPi.jpg"
     ],
     "tmdb_id": "795812",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Western|2017": {
     "lbxd": {
@@ -59962,7 +59988,7 @@
       "https://image.tmdb.org/t/p/w1280/to2l5XjusKTekMnVOC0SdplssHR.jpg"
     ],
     "tmdb_id": "11167",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Bad Lieutenant|1992": {
     "lbxd": {
@@ -60044,6 +60070,1071 @@
       "https://image.tmdb.org/t/p/w1280/6I7aIw8zeHdUYVUct2G7Y6qCKd8.jpg"
     ],
     "tmdb_id": "12143",
+    "wiki_tries": 1
+  },
+  "Bodyhackers + Q&A|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Hope|None": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/1/13771-hope-0-500-0-750-crop.jpg?v=11485e571c",
+      "description": "After losing one of his horses in an accident, an illiterate horse cab driver sets out into the desert in a quest for a mythical lost treasure.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Turkey",
+      "lb_director": "Yılmaz Güney",
+      "lb_director_slug": "ylmaz-guney",
+      "lb_year": 1970,
+      "lb_title": "Hope",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/eb/25/cz/zp/hope-1920-1920-1080-1080-crop-000000.jpg?v=a6b7209cde",
+      "imdb_id": "tt0066500",
+      "tmdb_id": "52104"
+    },
+    "omdb": {
+      "Title": "Hope",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "04 Apr 2017",
+      "Runtime": "122 min",
+      "Genre": "Drama",
+      "Director": "Lee Joon-ik",
+      "Writer": "Ji-hye Kim",
+      "Actors": "Lee Re, Sul Kyung-gu, Uhm Ji-won",
+      "Plot": "Story of an 8-year-old girl who faces a horrible rape that damages her internally and affects her emotionally, trying to overcome all the obstacles following the incident with the good support of those around her.",
+      "Language": "Korean",
+      "Country": "South Korea",
+      "Awards": "9 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiMDNhOWMtMTI0ZC00MjUxLTk0NzYtYzQxZGRjMjFmNDA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "11,399",
+      "imdbID": "tt3153634",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      26.5,
+      40.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/mdPQzNJx8fgES4kq3NUXMVksv8o.jpg",
+      "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
+    ],
+    "tmdb_id": "52104"
+  },
+  "Poultry Farm|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Scenes at Cackett's Poultry Farm",
+      "Year": "1903",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt2877358",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Shaun the Sheep: The Beast of Mossy Bottom|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/9/6/8/1353968-shaun-the-sheep-the-beast-of-mossy-bottom-0-500-0-750-crop.jpg?v=aab6cd0ba2",
+      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Science Fiction"
+      ],
+      "country": "UK",
+      "lb_director": "Steve Cox",
+      "lb_director_slug": "steve-cox-6",
+      "lb_year": 2026,
+      "lb_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/1z/mc/0c/ny/izLG3cxbG89nK75OHyd1zvjR7n8-1920-1920-1080-1080-crop-000000.jpg?v=a6f303a831",
+      "imdb_id": "tt36841161",
+      "tmdb_id": "1477104"
+    },
+    "omdb": {
+      "Title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Sep 2026",
+      "Runtime": "91 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "Steve Cox, Matthew Walker",
+      "Writer": "Mark Burton, Giles Pilbrow",
+      "Actors": "John Sparkes, Justin Fletcher, Kate Harbour",
+      "Plot": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "Language": "English",
+      "Country": "United Kingdom, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36841161",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      36.1,
+      29.0,
+      31.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
+      "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
+      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
+    ],
+    "tmdb_id": "1477104"
+  },
+  "THE MOVIE ORGY|None": {
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/7/1/98571-the-movie-orgy-0-500-0-750-crop.jpg?v=34e551568a",
+      "description": "Clips from assorted television programs, B-movies, commercials, music performances, newsreels, bloopers, satirical short films and promotional and government films of the 1950s and 1960s are intercut together to tell a single story of various creatures and societal ills attacking American cities.",
+      "genres": [
+        "Comedy",
+        "History",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Joe Dante",
+      "lb_director_slug": "joe-dante",
+      "lb_year": 1968,
+      "lb_title": "The Movie Orgy",
+      "backdrop": null,
+      "imdb_id": "tt0270523",
+      "tmdb_id": "125960"
+    },
+    "omdb": {
+      "Title": "The Movie Orgy",
+      "Year": "2009",
+      "Rated": "N/A",
+      "Released": "11 Nov 2012",
+      "Runtime": "420 min",
+      "Genre": "Documentary, Comedy, History",
+      "Director": "Joe Dante",
+      "Writer": "N/A",
+      "Actors": "Ann-Margret, Ngo Dinh Diem, Dwight D. Eisenhower",
+      "Plot": "A montage of 1950s B-movies, TV shows &amp; vintage commercials create a nostalgic collage about aliens &amp; monsters attacking America.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU3ODY0YzctMjg0Zi00M2M2LWE5NDItNTE0NjI1OGE1NDgyXkEyXkFqcGdeQXVyNDQ4NTA1Njk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "209",
+      "imdbID": "tt0270523",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      46.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
+    ],
+    "tmdb_id": "125960"
+  },
+  "American Dollhouse|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/5/7/8/1485578-american-dollhouse-0-500-0-750-crop.jpg?v=81f714f9dd",
+      "description": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her hometown is violently interrupted by a psychopathic neighbor.",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "country": null,
+      "lb_director": "John Valley",
+      "lb_director_slug": "john-valley",
+      "lb_year": 2026,
+      "lb_title": "American Dollhouse",
+      "backdrop": null,
+      "imdb_id": "tt39368498",
+      "tmdb_id": "1616344"
+    },
+    "omdb": {
+      "Title": "American Dollhouse",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Mar 2026",
+      "Runtime": "87 min",
+      "Genre": "Horror, Thriller",
+      "Director": "John Valley",
+      "Writer": "N/A",
+      "Actors": "Richard C. Jones, Hailley Lauren, Danielle Evon Ploeger",
+      "Plot": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her home town is violently interrupted by a psychopathic neighbor.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzA3ODBlZGQtNTdiMS00YjVlLTllOGYtYmJjOWU0ZjE1MDQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt39368498",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1616344"
+  },
+  "Colony|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
+      "description": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Carter Gunn",
+      "lb_director_slug": "carter-gunn",
+      "lb_year": 2009,
+      "lb_title": "Colony",
+      "backdrop": null,
+      "imdb_id": "tt1480655",
+      "tmdb_id": "73903"
+    },
+    "omdb": {
+      "Title": "Colony",
+      "Year": "2016–2018",
+      "Rated": "TV-14",
+      "Released": "14 Jan 2016",
+      "Runtime": "42 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Ryan J. Condal, Carlton Cuse",
+      "Actors": "Josh Holloway, Sarah Wayne Callies, Peter Jacobson",
+      "Plot": "In the wake of a mysterious alien invasion, a family fights to stay together in a new world order.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "41,477",
+      "imdbID": "tt4209256",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "73903"
+  },
+  "Kinki|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/8/1/4/275814-kinki-0-500-0-750-crop.jpg?v=b4e537a032",
+      "description": "A teacher is sexually involved with an underage student. She visits her father's home and discovers a boy who's been kept as a sex slave. The teacher continues harboring the boy out of fear and begins to feel sexually attracted to him.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Japan",
+      "lb_director": "Kotaro Wajima",
+      "lb_director_slug": "kotaro-wajima",
+      "lb_year": 2014,
+      "lb_title": "Kinki",
+      "backdrop": null,
+      "imdb_id": "tt4190550",
+      "tmdb_id": "345161"
+    },
+    "omdb": {
+      "Title": "Kinki",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "06 Dec 2014",
+      "Runtime": "73 min",
+      "Genre": "Drama",
+      "Director": "Kôtarô Wajima",
+      "Writer": "Kôtarô Wajima",
+      "Actors": "Shôko Fujimura, Hayate Matsuzaki, Ryû Morioka",
+      "Plot": "A teacher is sexually involved with an underage student. She visits her father's home and discovers a boy who's been kept as a sex slave. The teacher continues harboring the boy out of fear and begins to feel sexually attracted to...",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmNzY5OTMtOWEyNy00NzVkLWE0Y2ItMjNjZTVjMmVjNzQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.8",
+      "imdbVotes": "79",
+      "imdbID": "tt4190550",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      14.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/y13rjyTqVCV8ZA0fap3ouRL1YlD.jpg"
+    ],
+    "tmdb_id": "345161"
+  },
+  "Kenneled|None": {
+    "lbxd": {
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/5/9/6/0/1195960-kenneled-0-500-0-750-crop.jpg?v=d18f9f3e4d",
+      "description": "Walker, a gig worker and artist, is drowning in the city's instability. Desperate for agency and financial relief to save his relationship with his ambitious girlfriend, Kylie, he accepts a lucrative but bizarre dog-walking job. At a secluded mansion, he meets Doug-a man living entirely as a dog. Initially repulsed, Walker stays, justifying the dehumanization as just another gig.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Jay Burleson",
+      "lb_director_slug": "jay-burleson",
+      "lb_year": 2025,
+      "lb_title": "Kenneled",
+      "backdrop": null,
+      "imdb_id": "tt32881455",
+      "tmdb_id": "1314812"
+    },
+    "omdb": {
+      "Title": "Kenneled",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "21 Mar 2026",
+      "Runtime": "88 min",
+      "Genre": "Horror",
+      "Director": "Jay Burleson",
+      "Writer": "H.K. Moore",
+      "Actors": "Jack Ryan Beckner, Dan Cutts, Emily Ferguson",
+      "Plot": "A destitute dogwalker finds a wealthy client who saves him from financial ruin. But this is no ordinary dog.",
+      "Language": "English",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZmOGFhMTgtMzY4Ny00YjY2LWIwZmEtZjA1OTkxOTVjOTdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.0",
+      "imdbVotes": "33",
+      "imdbID": "tt32881455",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
+    ],
+    "tmdb_id": "1314812"
+  },
+  "Remanence – A Voltage Cosmic Horror + Q&A|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/7/1/3/1124713-remanence-0-500-0-750-crop.jpg?v=a34acb0f84",
+      "description": "Combining two recently discovered unique archival sources, this short film evokes the lost history of a Dutch women's pacifist movement that brought women together in collective action in the 1930s.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Netherlands",
+      "lb_director": "Sabine Groenewegen",
+      "lb_director_slug": "sabine-groenewegen",
+      "lb_year": 2024,
+      "lb_title": "Remanence",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1241423"
+    },
+    "omdb": {
+      "Title": "Remanence",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "30 Jul 2017",
+      "Runtime": "5 min",
+      "Genre": "Short, Sci-Fi",
+      "Director": "Jono Seneff",
+      "Writer": "David Hudson, Jono Seneff",
+      "Actors": "David Atkinson, Sam Hayes, Michelle Farrah Huang, Parker Shook",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBkMGRhMWQtZjk2Mi00ZjNiLTkxYTktZjcxOGY0ZTk3Y2Y3XkEyXkFqcGdeQXVyMjM1NjE5MjM@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt8010462",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1241423"
+  },
+  "The Furious|None": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-500-0-750-crop.jpg?v=f880a59523",
+      "description": "After the daughter of Wang Wei is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive martial arts showdown.",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Kenji Tanigaki",
+      "lb_director_slug": "kenji-tanigaki",
+      "lb_year": 2025,
+      "lb_title": "The Furious",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/6/4/1/5/4/tmdb/9XwQphZxNJgGASfjL58mhIkJJpf-1920-1920-1080-1080-crop-000000.jpg?v=20d0be396b",
+      "imdb_id": "tt33311069",
+      "tmdb_id": "1280738"
+    },
+    "omdb": {
+      "Title": "The Furious",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "12 Jun 2026",
+      "Runtime": "113 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Kenji Tanigaki",
+      "Writer": "Tin Shu Mak, Zhilong Lei, Kwan-Sin Shum",
+      "Actors": "Miao Xie, Joe Taslim, Enyou Yang",
+      "Plot": "A father fights fiercely against ruthless kidnappers to save his abducted daughter.",
+      "Language": "Chinese, English, Thai",
+      "Country": "Hong Kong, China",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.7",
+      "imdbVotes": "991",
+      "imdbID": "tt33311069",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.3,
+      18.4,
+      22.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "https://image.tmdb.org/t/p/w1280/b94Br0pFWR0gKIBgP5I6fGneUAl.jpg",
+      "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
+    ],
+    "tmdb_id": "1280738"
+  },
+  "Our Effed Up World|None": {
+    "lbxd": {
+      "rating": 3.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/0/6/0/8/1450608-our-effed-up-world-0-500-0-750-crop.jpg?v=7160b44918",
+      "description": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of shitkicker friends are what stands in the way of an insatiable, intergalactic hunger.",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "country": "Australia",
+      "lb_director": "Alice Maio Mackay",
+      "lb_director_slug": "alice-maio-mackay",
+      "lb_year": 2026,
+      "lb_title": "Our Effed Up World",
+      "backdrop": null,
+      "imdb_id": "tt40521447",
+      "tmdb_id": "1579168"
+    },
+    "omdb": {
+      "Title": "Our Effed Up World",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Jun 2026",
+      "Runtime": "67 min",
+      "Genre": "Horror, Sci-Fi",
+      "Director": "Alice Maio Mackay",
+      "Writer": "Alice Maio Mackay, Benjamin Pahl Robinson",
+      "Actors": "Kerry Armstrong, Jordan Dulieu, Brandon Flynn",
+      "Plot": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of friends are what stands in the way of an insatiabl...",
+      "Language": "English",
+      "Country": "Australia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY2NjMwMDgxNF5BMl5BanBnXkFtZTYwNjIyNjg1._V1_QL75_UX280_CR0,7,280,280_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40521447",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.3,
+      30.7,
+      32.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hYMVwlquxdKRdqW3YIyNobA6A1V.jpg",
+      "https://image.tmdb.org/t/p/w1280/rJXSOkGpVc4yUYNgHHYNlV8a2rV.jpg",
+      "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
+    ],
+    "tmdb_id": "1579168"
+  },
+  "Mag Mag|None": {
+    "lbxd": {
+      "rating": 3.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/1/5/7/5/1411575-mag-mag-0-500-0-750-crop.jpg?v=0fb72f9071",
+      "description": "The revenge story of a woman whose partner is murdered by a ghost, and who will soon discover the true identity of the one she must avenge.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "Japan",
+      "lb_director": "Yuriyan Retriever",
+      "lb_director_slug": "yuriyan-retriever",
+      "lb_year": 2025,
+      "lb_title": "Mag Mag",
+      "backdrop": null,
+      "imdb_id": "tt38263629",
+      "tmdb_id": "1536720"
+    },
+    "omdb": {
+      "Title": "Mag Mag",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "06 Feb 2026",
+      "Runtime": "112 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Yuriyan Retriever",
+      "Writer": "N/A",
+      "Actors": "Mai Fukagawa, Tetsu Hirahara, Atsuko Hirata",
+      "Plot": "After her beloved is killed by the Mag Mag ghost, the protagonist, Sanae, vows revenge, but soon discovers the true identity of the person she truly owes her revenge to.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZlNDExMGYtOTc1Ny00MTM5LTk5MDQtMjU5MGE5YjYyODNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "69",
+      "imdbID": "tt38263629",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.8,
+      15.6,
+      42.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xJCZpMKq5GROqXlfPTPozhcWwxJ.jpg",
+      "https://image.tmdb.org/t/p/w1280/aWRLdVStMsg8hNATW7by9ybJV0X.jpg",
+      "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
+    ],
+    "tmdb_id": "1536720"
+  },
+  "Gunman|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/4/6/5/2/164652-gunman-0-500-0-750-crop.jpg?v=d5df745e8e",
+      "description": "At a nearby newsstand, another man witnesses the arrest. He turns and walks away – with a limp. He is the gunman, and his name is Sergeant Sommai. After losing a leg fighting for the Thai Special Forces during the Secret War in Laos, Sommai now works as a barber in a small shop in a canal community of suburban Bangkok.",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "country": "Thailand",
+      "lb_director": "Chatrichalerm Yukol",
+      "lb_director_slug": "chatrichalerm-yukol",
+      "lb_year": 1983,
+      "lb_title": "Gunman",
+      "backdrop": null,
+      "imdb_id": "tt0257972",
+      "tmdb_id": "234473"
+    },
+    "omdb": {
+      "Title": "Gunman",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "140 min",
+      "Genre": "N/A",
+      "Director": "Chatrichalerm Yukol",
+      "Writer": "N/A",
+      "Actors": "Sorapong Chatree, Ron Rittichai",
+      "Plot": "N/A",
+      "Language": "Thai",
+      "Country": "Thailand",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM0NTIzNDMtMTEzYy00NjhiLTljYmMtY2YzOGZmODExM2UxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "47",
+      "imdbID": "tt0257972",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/54OiKjwXBrZMMdony36i8FCOjlf.jpg"
+    ],
+    "tmdb_id": "234473"
+  },
+  "Mum, I’m Alien Pregnant|None": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/0/0/6/1465006-mum-im-alien-pregnant-0-500-0-750-crop.jpg?v=d289c7068f",
+      "description": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "country": "New Zealand",
+      "lb_director": "Jordan Mark Windsor",
+      "lb_director_slug": "jordan-mark-windsor",
+      "lb_year": 2026,
+      "lb_title": "Mum, I'm Alien Pregnant",
+      "backdrop": null,
+      "imdb_id": "tt28784376",
+      "tmdb_id": "1596301"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
+    ],
+    "tmdb_id": "1596301"
+  },
+  "Roma Elastica|None": {
+    "lbxd": {
+      "rating": 2.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/5/9/1184659-roma-elastica-0-500-0-750-crop.jpg?v=be14433e78",
+      "description": "1982. French actress Eddie is on the verge of collapse and travels to Rome accompanied by her loyal makeup artist, Valentina, to shoot a science-fiction film – a film that could be her last one.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "country": "France",
+      "lb_director": "Bertrand Mandico",
+      "lb_director_slug": "bertrand-mandico",
+      "lb_year": 2026,
+      "lb_title": "Roma elastica",
+      "backdrop": null,
+      "imdb_id": "tt32596720",
+      "tmdb_id": "1302994"
+    },
+    "omdb": {
+      "Title": "Roma elastica",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Bertrand Mandico",
+      "Writer": "Bertrand Mandico",
+      "Actors": "Marion Cotillard, Noémie Merlant, Martina Scrinzi",
+      "Plot": "The story revolves around an actress who is going to shoot her latest film in Rome in the 1980s.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32596720",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.1,
+      22.0,
+      36.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/aVPp9XJeYhAbGSaXOXgX8AtUq6g.jpg",
+      "https://image.tmdb.org/t/p/w1280/92uzbmS3aiWDUQ9sYEG9UEhzDYX.jpg",
+      "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
+    ],
+    "tmdb_id": "1302994"
+  },
+  "British Sounds|1969": {
+    "lbxd": {
+      "rating": 3.41,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/1/25431-british-sounds-0-500-0-750-crop.jpg?v=e29a65609f",
+      "description": "Jean-Luc Godard brings his firebrand political cinema to the UK, exploring the revolutionary signals in late '60s British society. Constructed as a montage of various disconnected political acts (in line with Godard's then appropriation of Soviet director Dziga Vertov's agitprop techniques), it combines a diverse range of footage, from students discussing The Beatles to the production line at the MG factory in Oxfordshire, burnished with onscreen political sloganeering.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Luc Godard",
+      "lb_director_slug": "jean-luc-godard-1",
+      "lb_year": 1970,
+      "lb_title": "British Sounds",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/v2/t0/c7/7v/x323447TwPUChZf30pC338RxPXF-1920-1920-1080-1080-crop-000000.jpg?v=6eeec06899",
+      "imdb_id": "tt0065494",
+      "tmdb_id": "39239"
+    },
+    "omdb": {
+      "Title": "See You at Mao",
+      "Year": "1970",
+      "Rated": "Not Rated",
+      "Released": "21 May 1970",
+      "Runtime": "54 min",
+      "Genre": "Documentary",
+      "Director": "Jean-Luc Godard, Jean-Henri Roger, Groupe Dziga Vertov",
+      "Writer": "Jean-Luc Godard, Jean-Henri Roger",
+      "Actors": "N/A",
+      "Plot": "An examination of the daily routine at a British auto factory assembly line, set against class-conflict and The Communist Manifesto.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZmZGZhNjAtNmZkMS00Y2I0LTgyYzEtNjBiZTllZWUzMmVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "620",
+      "imdbID": "tt0065494",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.9,
+      45.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/x323447TwPUChZf30pC338RxPXF.jpg",
+      "https://image.tmdb.org/t/p/w1280/hhzYhuvFvvQ675Wwi0CWkmbp17Z.jpg"
+    ],
+    "tmdb_id": "39239"
+  },
+  "Trás-Os-Montes|1976": {
+    "lbxd": {
+      "rating": 4.01,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/5/8/135058-tras-os-montes-0-500-0-750-crop.jpg?v=f5ad22b365",
+      "description": "The first feature in António Reis and Margarida Cordeiro’s trilogy is a journey through this almost mythical region of north-east Portugal, a tapestry of micronarratives where past, present and future become intertwined.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Margarida Cordeiro",
+      "lb_director_slug": "margarida-cordeiro",
+      "lb_year": 1976,
+      "lb_title": "Tras-os-Montes",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/t0/w5/4r/9s/tras-1920-1920-1080-1080-crop-000000.jpg?v=ae1dd3951c",
+      "imdb_id": "tt0075354",
+      "tmdb_id": "186967"
+    },
+    "omdb": {
+      "Title": "Trás-os-Montes",
+      "Year": "1976",
+      "Rated": "N/A",
+      "Released": "11 Jun 1976",
+      "Runtime": "108 min",
+      "Genre": "Drama",
+      "Director": "Margarida Cordeiro, António Reis",
+      "Writer": "Margarida Cordeiro, António Reis",
+      "Actors": "Albino S. Pedro, Carlos Margarido, Mariana Margarido",
+      "Plot": "It's a docudrama with a poetic writing and non-linear narrative. Specifically, it's an \"etnofiction\": portraits the typical characters of Terra Fria, the North-east of Portugal, showing secular habits, in a majestic rural ambient....",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MTk0MzQ0OV5BMl5BanBnXkFtZTcwOTcyODY0Nw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "215",
+      "imdbID": "tt0075354",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Trás-os-Montes (film)",
+      "imdb_id": "tt0075354",
+      "extract_pt": "Trás-os-Montes é uma docuficção (com elementos etnográficos) portuguesa de 1976, realizada, escrita e produzida por António Reis e Margarida Cordeiro. É protagonizada por um ensemble cast de atores não-profissionais, habitantes de localidades em Bragança e Miranda do Douro, que interpretam versões ficcionalizadas de si mesmos e dos seus antepassados. A longa-metragem retrata personagens típicas da Terra Fria, o nordeste montanhoso de Portugal, inventariando hábitos seculares, num ambiente rural majestoso.\nO filme foi estreado comercialmente nos cinemas de Portugal a 11 de junho de 1976, e de França, a 22 de março de 1978."
+    },
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      49.3,
+      48.3,
+      49.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2C0PZONReMPZkhYmioIvr14vdUB.jpg",
+      "https://image.tmdb.org/t/p/w1280/i5jPho8ZDt73yHOVNpcWFqW8eP2.jpg",
+      "https://image.tmdb.org/t/p/w1280/wBzdnSIeOWU33oJff18suOkZeku.jpg"
+    ],
+    "tmdb_id": "186967",
+    "wiki_tries": 1
+  },
+  "Casino|1995": {
+    "lbxd": {
+      "rating": 4.22,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6p/om/dp/mc/casino-original-0-500-0-750-crop.jpg?v=4bb9a2596f",
+      "description": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1995,
+      "lb_title": "Casino",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4x/k7/eg/7o/casino-1920-1920-1080-1080-crop-000000.jpg?v=7ca7bf9f3a",
+      "imdb_id": "tt0112641",
+      "tmdb_id": "524"
+    },
+    "omdb": {
+      "Title": "Casino",
+      "Year": "1995",
+      "Rated": "R",
+      "Released": "22 Nov 1995",
+      "Runtime": "178 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Nicholas Pileggi, Martin Scorsese",
+      "Actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+      "Plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "Language": "English",
+      "Country": "United States, France",
+      "Awards": "Nominated for 1 Oscar. 4 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.2",
+      "imdbVotes": "613,907",
+      "imdbID": "tt0112641",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$42,512,375",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Martin Scorsese filmography",
+      "imdb_id": null,
+      "extract_pt": "Esta é a filmografia de Martin Scorsese, cuja carreira cinematográfica se estende desde a década de 1960 até aos dias atuais. Esta lista inclui o ano de lançamento do filme, além da atuação de Scorsese na produção de cada um. Scorsese dirigiu vinte e cinco longa-metragens de 1967 a 2019. \nMartin Charles Scorsese é um diretor, produtor, roteirista, ator e historiador de filmes estadunidense."
+    },
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.2,
+      42.3,
+      23.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/73UvQRjuSr6stQUZBB7bpkPjshX.jpg",
+      "https://image.tmdb.org/t/p/w1280/b0X2DVqSWMwItvVPICLnf2JA38l.jpg",
+      "https://image.tmdb.org/t/p/w1280/u0dh7MWHpJAXhpC3pkLRbu5zFVU.jpg"
+    ],
+    "tmdb_id": "524",
     "wiki_tries": 1
   }
 }
