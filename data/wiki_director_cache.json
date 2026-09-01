@@ -1691,7 +1691,7 @@
   "Eric Darnell, Tom McGrath": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Grupo Dziga Vertov": {
     "photo": null,
@@ -1706,7 +1706,7 @@
   "Tobe Hopper": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Quentin Tarantino": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/500px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1726,12 +1726,12 @@
   "de Sergio Leone": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Alexander Kluge, Khavn": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Michael Haneke": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -1806,6 +1806,11 @@
   "John Cassavetes": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Cassavetes_Johnny_Staccato_1959.jpg/500px-John_Cassavetes_Johnny_Staccato_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "John Nicholas Cassavetes (December 9, 1929 – February 3, 1989) was an American filmmaker and actor. He began as an actor in film and television before helping to pioneer modern American independent cinema as a writer and director, often self-financing, producing, and distributing his own films. He received nominations for three Academy Awards, two BAFTA Awards, four Golden Globe Awards, and an Emmy Award.",
+    "tries": 1
+  },
+  "António Reis, Margarida Cordeiro": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }

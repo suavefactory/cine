@@ -9961,8 +9961,8 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      24.8,
-      25.1
+      24.7,
+      25.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/9vYYgAxMk5dihLVJhnneUbTL2Wb.jpg",
@@ -45923,7 +45923,7 @@
     "tmdb_id": "95378",
     "wiki_tries": 3,
     "stills_focus": [
-      32.4,
+      32.5,
       43.2
     ],
     "stills": [
@@ -50249,7 +50249,33 @@
       "imdb_id": "tt38865778",
       "tmdb_id": "1565146"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Água Mãe",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "20 Oct 2025",
+      "Runtime": "72 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rossana Torres",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwYWQxMDQtMDQwYi00OGEwLWJlY2ItNDM1MmRkY2FmNDUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38865778",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -51447,7 +51473,7 @@
       "https://image.tmdb.org/t/p/w1280/7pbILoLbonhPQ4nndfL8OmfTf5n.jpg"
     ],
     "tmdb_id": "1278971",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Game + Q&A|None": {
     "lbxd": null,
@@ -53167,7 +53193,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      37.4,
+      37.2,
       45.9
     ],
     "stills": [
@@ -53238,7 +53264,7 @@
     "dir_checked": true,
     "stills_focus": [
       21.7,
-      39.5
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/xgkKoCXbgt7oJqbhL18229Vmwtk.jpg",
@@ -56091,7 +56117,7 @@
       "https://image.tmdb.org/t/p/w1280/oWEgWU4EyHfY6q2npQIkATY2n9H.jpg"
     ],
     "tmdb_id": "21484",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Bodyhackers|2026": {
     "lbxd": {
@@ -56126,7 +56152,7 @@
       "https://image.tmdb.org/t/p/w1280/6ulhfmEC7leqpNaCMt8tVEobtFt.jpg"
     ],
     "tmdb_id": "1441275",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "American Dollhouse|2026": {
     "lbxd": {
@@ -56359,7 +56385,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Age of Innocence (1993 film)",
+      "imdb_id": "tt0106226",
+      "extract_pt": "The Age of Innocence (bra: A Época da Inocência; prt: A Idade da Inocência) é um filme norte-americano de 1993 do gênero drama romântico, dirigido por Martin Scorsese, com roteiro dele e Jay Cocks baseado no romance The Age of Innocence, de Edith Wharton."
+    },
     "cinema": {
       "plot_pt": "O filme do fenómeno “Travolta” no reino do disco sound dos anos 70 americanos. Um ano depois, num livro sobre o ator lia-se: “Is there anyone in the entire United States of America who isn’t crazy about John Travolta? It seems a sure bet that the simple answer is no”. Entre referências a James Dean (em REBEL WITHOUT A CAUSE) e a Elvis, SATURDAY NIGHT FEVER tem Travolta em versão frenética, os Bee Gees e a excitação de noites febris. A exibir em cópia digital."
     },
@@ -56374,7 +56404,8 @@
       "https://image.tmdb.org/t/p/w1280/jha4hsGYlxPSsZC2AL35PJNW3o5.jpg",
       "https://image.tmdb.org/t/p/w1280/c3Z0IxiRYeYsayAo4ZAEh1dx0wb.jpg"
     ],
-    "tmdb_id": "10436"
+    "tmdb_id": "10436",
+    "wiki_tries": 1
   },
   "Non Ou A Vã Glória De Mandar|1990": {
     "lbxd": {
@@ -56427,7 +56458,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "No, or the Vain Glory of Command",
+      "imdb_id": "tt0100269",
+      "extract_pt": "Non, ou a Vã Glória de Mandar é um filme português de longa-metragem realizado em 1990 por Manoel de Oliveira.\nTrata da história de Portugal tal como contada pelo alferes Cabrita aos homens da sua companhia em plena guerra colonial. Recebeu o Prémio Especial do Júri no Festival de Cannes."
+    },
     "cinema": {
       "plot_pt": "O filme do fenómeno “Travolta” no reino do disco sound dos anos 70 americanos. Um ano depois, num livro sobre o ator lia-se: “Is there anyone in the entire United States of America who isn’t crazy about John Travolta? It seems a sure bet that the simple answer is no”. Entre referências a James Dean (em REBEL WITHOUT A CAUSE) e a Elvis, SATURDAY NIGHT FEVER tem Travolta em versão frenética, os Bee Gees e a excitação de noites febris. A exibir em cópia digital."
     },
@@ -56442,7 +56477,8 @@
       "https://image.tmdb.org/t/p/w1280/lGUklTizMMxlvyVGdfXq1N1hBcY.jpg",
       "https://image.tmdb.org/t/p/w1280/fMPKHiL0ISouvsuODgU1dE4zHeo.jpg"
     ],
-    "tmdb_id": "103417"
+    "tmdb_id": "103417",
+    "wiki_tries": 1
   },
   "Davitelj Protiv Davitelja|1984": {
     "lbxd": {
@@ -56479,7 +56515,8 @@
       "https://image.tmdb.org/t/p/w1280/kkxKhakwupg6hWeJAxSJsdDrkLe.jpg",
       "https://image.tmdb.org/t/p/w1280/drmTthkZ51GI2ySFw7Py6yXYLUk.jpg"
     ],
-    "tmdb_id": "15203"
+    "tmdb_id": "15203",
+    "wiki_tries": 1
   },
   "Madagascar: Escape 2 Africa|2008": {
     "lbxd": {
@@ -56541,7 +56578,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Madagascar: Escape 2 Africa",
+      "imdb_id": "tt0479952",
+      "extract_pt": "Madagascar: Escape 2 Africa (bra: Madagascar 2: A Grande Escapada; prt: Madagáscar 2) é um filme de animação estadunidense do gênero comédia lançado em 2008, produzido pela DreamWorks Animation e distribuído pela Paramount Pictures. É a sequência do filme Madagascar de 2005 e a segunda parte da franquia e mostra as aventuras de Alex, o leão, Marty, a zebra, Melman, a girafa, e Gloria, a hipopótamo. Foi dirigido por Eric Darnell e Tom McGrath, com roteiro sendo escrito por Etan Cohen, Darnell e McGrath. Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith, Sacha Baron Cohen, Cedric the Entertainer, Andy Richter reprisam seus papéis do primeiro filme, sendo unidos com novos integrantes do elenco como Bernie Mac, Alec Baldwin, Sherri Shepherd e will.i.am."
+    },
     "cinema": {
       "plot_pt": "O filme do fenómeno “Travolta” no reino do disco sound dos anos 70 americanos. Um ano depois, num livro sobre o ator lia-se: “Is there anyone in the entire United States of America who isn’t crazy about John Travolta? It seems a sure bet that the simple answer is no”. Entre referências a James Dean (em REBEL WITHOUT A CAUSE) e a Elvis, SATURDAY NIGHT FEVER tem Travolta em versão frenética, os Bee Gees e a excitação de noites febris. A exibir em cópia digital."
     },
@@ -56556,7 +56597,8 @@
       "https://image.tmdb.org/t/p/w1280/4LkgxXoedieEmBhpsodVymovaKu.jpg",
       "https://image.tmdb.org/t/p/w1280/bwbkzyWTndhxbdOr8SVlsPq1cOg.jpg"
     ],
-    "tmdb_id": "10527"
+    "tmdb_id": "10527",
+    "wiki_tries": 1
   },
   "British Sounds|1970": {
     "lbxd": {
@@ -56696,7 +56738,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Wings of Desire",
+      "imdb_id": "tt0093191",
+      "extract_pt": "Der Himmel über Berlin (bra: Asas do Desejo; prt: As Asas do Desejo) é um filme franco-alemão ocidental de 1987, do gênero drama romântico-fantástico, dirigido por Wim Wenders, com roteiro de Peter Handke, Richard Reitinger e do próprio diretor. \nSua poética é inspirada em Rainer Maria Rilke."
+    },
     "cinema": {
       "original_title": "DER HIMMEL ÜBER BERLIN",
       "plot_pt": "Na Berlim pós-guerra, Damiel e Cassiel são dois anjos que deambulam pela cidade. Invisíveis aos mortais, eles lêem os seus pensamentos e tentam confortar as almas que encontram. Entretanto, um dos anjos apaixona-se por uma trapezista, e deseja tornar-se humano para experimentar as alegrias e tristezas de cada dia.",
@@ -56716,7 +56762,8 @@
       "https://image.tmdb.org/t/p/w1280/vh2VRlGjFbyXNmEdsiG60Q0JYoV.jpg",
       "https://image.tmdb.org/t/p/w1280/svD7zZ0dxRb4NVZkZ30Nbzi20yM.jpg"
     ],
-    "tmdb_id": "144"
+    "tmdb_id": "144",
+    "wiki_tries": 1
   },
   "Aconteceu em Xangai|1941": {
     "lbxd": {
@@ -56771,7 +56818,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Shanghai Gesture",
+      "imdb_id": "tt0034175",
+      "extract_pt": "The Xangai Gesture (Brasil: Tensão em Xangai / Portugal: Aconteceu em Xangai) é um filme norte-americano de 1941, do gênero policial, dirigido por Josef von Sternberg e estrelado por Gene Tierney e Walter Huston."
+    },
     "cinema": {
       "original_title": "The Shanghai Gesture",
       "plot_pt": "Entre as multidões de uma Xangai simultaneamente gloriosa e claustrofóbica, Sternberg conta a história de um grupo de criminosos e aristocratas que frequentam a casa de apostas da “Mãe” Ging Sling (Ona Munson), um lugar de opulência decadente em que os ricos entediados e os pobres desesperados se reúnem para perder o seu dinheiro e as suas almas. É neste mundo que entra Poppy (Gene Tierney), uma jovem atrevida que se apaixonara pelo poeta libertino Omar (Victor Mature). Ao descobrir que Poppy é filha de Guy Charteris (Walter Huston), o empresário que acabara de comprar o terreno onde se situa a casa de apostas, Ging Sling usa-a como parte do seu plano para se vingar do homem. Um dos mais ousados retratos de degradação a passar pela censura de Hollywood, Aconteceu em Xangai é uma obra-prima dantesca e o último filme de Sternberg em Hollywood.",
@@ -56791,7 +56842,8 @@
       "https://image.tmdb.org/t/p/w1280/9Y5zYj2SctFrdleIWy4D9m9aq07.jpg",
       "https://image.tmdb.org/t/p/w1280/1PrMymOLdDbsPPEro8ARwCRzjC5.jpg"
     ],
-    "tmdb_id": "42678"
+    "tmdb_id": "42678",
+    "wiki_tries": 1
   },
   "Pulp Fiction|1994": {
     "lbxd": {
@@ -56852,7 +56904,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Pulp Fiction",
+      "imdb_id": "tt0110912",
+      "extract_pt": "Pulp Fiction (bra: Pulp Fiction: Tempo de Violência; prt: Pulp Fiction) é um filme estadunidense de 1994 do gênero drama policial, escrito e dirigido por Quentin Tarantino, com roteiro dele e Roger Avary. \nDirigido de uma forma altamente estilizada, Pulp Fiction narra três histórias diferentes, todavia entrelaçadas, sobre dois assassinos profissionais, o gângster que os chefia e sua esposa, um pugilista pago para perder uma luta e um casal assaltando um restaurante, em Los Angeles na década de 1990. Um tempo considerável do filme é destinado a conversas e monólogos que revelam as perspectivas de vida e o senso de humor das personagens. O roteiro, assim como na maioria dos demais trabalhos de Quentin Tarantino, é apresentado fora da ordem cronológica."
+    },
     "cinema": {
       "original_title": "Pulp Fiction",
       "plot_pt": "Um thriller que funde a modernidade com as memórias do cinema clássico, em ambientes de marginalidade genuínos, irónicos e cruéis no meio do quotidiano mais vulgar, Pulp Fiction é o zénite do “fenómeno Tarantino”.",
@@ -56872,7 +56928,8 @@
       "https://image.tmdb.org/t/p/w1280/9pGM43a9VmXxwIxmhJoiDkcB2hT.jpg",
       "https://image.tmdb.org/t/p/w1280/cOGysF4SXauEKz18mFGmkZW6O2T.jpg"
     ],
-    "tmdb_id": "680"
+    "tmdb_id": "680",
+    "wiki_tries": 1
   },
   "A Estrada do Tabaco|1941": {
     "lbxd": {
@@ -56924,7 +56981,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Tobacco Road (film)",
+      "imdb_id": "tt0034297",
+      "extract_pt": "Tobacco Road (bra: Caminho Áspero; prt: A Estrada do Tabaco) é um filme estadunidense de 1941,  dirigido por John Ford, estrelado por Charley Grapewin, Marjorie Rambeau, Gene Tierney, William Tracy e Dana Andrews. Foi baseado no romance de mesmo nome por Erskine Caldwell, mas o enredo foi reescrito para o filme. \nTobacco Road é uma adaptação da peça que causou escândalo na Broadway, onde ficou em cartaz por sete anos. Porém o cinema tem seus códigos de moralidade, e o retrato realista da vida miserável dos camponeses da Geórgia teve de ser cortado."
+    },
     "cinema": {
       "original_title": "Tobacco Road",
       "plot_pt": "“Sentimos um prazer que o cinema raramente proporciona.” – André Bazin",
@@ -56944,7 +57005,8 @@
       "https://image.tmdb.org/t/p/w1280/gvTrYNVgmr1ZzIlyHtAy03WgQWW.jpg",
       "https://image.tmdb.org/t/p/w1280/WJSlbEyM8xuC80S8xarflv3pkd.jpg"
     ],
-    "tmdb_id": "18539"
+    "tmdb_id": "18539",
+    "wiki_tries": 1
   },
   "Laura|1944": {
     "lbxd": {
@@ -57000,7 +57062,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Laura (1944 film)",
+      "imdb_id": "tt0037008",
+      "extract_pt": "Laura é um filme estadounidense de 1944, do gênero suspense e film noir, dirigido por Otto Preminger, baseado no livro homônimo de Vera Caspary e lançado pela 20th Century Fox.\nEm 1999, Laura foi selecionado para preservação nos Estados Unidos pela Biblioteca do Congresso como sendo \"cultural, histórica ou esteticamente significativo\". AFI nomeou-o como um dos 10 melhores filmes de mistério de todos os tempos, e também foi mencionado na série \"Great Movies\", de Roger Ebert."
+    },
     "cinema": {
       "original_title": "Laura",
       "plot_pt": "Um detective da polícia apaixona-se pela mulher cujo assassinato está a investigar.",
@@ -57019,7 +57085,8 @@
       "https://image.tmdb.org/t/p/w1280/nH8IHZxMIa3u7Vqk4mt4X1Ikycj.jpg",
       "https://image.tmdb.org/t/p/w1280/r6GwymahVWaqO7bVfvotvWQPhig.jpg"
     ],
-    "tmdb_id": "1939"
+    "tmdb_id": "1939",
+    "wiki_tries": 1
   },
   "O Padrinho|1972": {
     "lbxd": {
@@ -57079,7 +57146,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Godfather",
+      "imdb_id": "tt0068646",
+      "extract_pt": "The Godfather  é um filme policial de 1972, dirigido por Francis Ford Coppola,produzido nos Estados Unidos e baseado no livro homônimo de Mario Puzo,com o roteiro escrito por ambos. Primeira parte da trilogia The Godfather,  narra a história da família Corleone sob o comando do patriarca Vito Corleone, de 1945 a 1955, concentrando-se na transformação de seu filho mais novo, Michael Corleone, de relutante forasteiro da família a implacável chefe da máfia. É estrelado por Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte e Diane Keaton.\nA Paramount Pictures obteve os direitos do romance original por oitenta mil dólares, antes mesmo do livro ganhar popularidade."
+    },
     "cinema": {
       "original_title": "The Godfather",
       "plot_pt": "Tudo começou em 1972, e O Padrinho, adaptação do best seller de Mario Puzzo, viria a “mudar” Hollywood, também com um recorde de receitas. A história da família Corleone tem um fôlego shakespeariano, à volta do poder e da vingança, das fidelidades e traições. A família e os seus fantasmas, os amores e os ciúmes, as suas contradições.",
@@ -57099,7 +57170,8 @@
       "https://image.tmdb.org/t/p/w1280/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
       "https://image.tmdb.org/t/p/w1280/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg"
     ],
-    "tmdb_id": "238"
+    "tmdb_id": "238",
+    "wiki_tries": 1
   },
   "Foragidos da Noite|1950": {
     "lbxd": {
@@ -57155,7 +57227,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Night and the City",
+      "imdb_id": "tt0042788",
+      "extract_pt": "Night and the City (br.: Sombras do mal / pt.: Foragidos da noite) é um filme de drama noir britânico de 1950, dirigido por Jules Dassin para distribuição da 20th Century Fox. O roteiro é baseado no romance homônimo de 1938 de Gerald Kersh. Com locações em Londres.\nO diretor Dassin mais tarde confessou que nunca leu o livro do qual o roteiro foi baseado."
+    },
     "cinema": {
       "original_title": "Night and the City",
       "plot_pt": "Harry Fabian é um pequeno oportunista e vigarista sempre com planos para enriquecer nas apostas, o que o leva a um beco sem saída quando se envolve no mundo da luta greco-romana e em combates falsificados.",
@@ -57174,7 +57250,8 @@
       "https://image.tmdb.org/t/p/w1280/pe8t0xT2m1Pho1G65jGwXPveQFg.jpg",
       "https://image.tmdb.org/t/p/w1280/r6CDi0dUoZLSsR3lXtizpyZH6aE.jpg"
     ],
-    "tmdb_id": "19119"
+    "tmdb_id": "19119",
+    "wiki_tries": 1
   },
   "Era Uma Vez na América|1984": {
     "lbxd": {
@@ -57234,7 +57311,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Once Upon a Time in America",
+      "imdb_id": "tt0087843",
+      "extract_pt": "Era uma Vez na América (em inglês: Once Upon a Time in America; em italiano: C'era una volta in America) é um filme ítalo-estadunidense de 1984 dos gêneros drama épico e crime, coescrito e dirigido pelo cineasta italiano Sergio Leone, e estrelado por Robert De Niro e James Woods. Foi produzido pelos estúdios americanos The Ladd Company, Embassy International Pictures e PSO Enterprises em conjunto com a Rafran Cinematografica da Itália. Baseado no romance The Hoods, escrito por Harry Grey, o filme narra a vida dos melhores amigos Noodles e Max enquanto lideram um grupo de jovens judeus do gueto que ganham destaque como gangsters judeus no mundo do crime organizado da cidade de Nova York. O longa explora temas de amizades de infância, amor, luxúria, ganância, traição, perda e relacionamentos rompidos, juntamente com a ascensão de mafiosos na sociedade americana."
+    },
     "cinema": {
       "original_title": "Once Upon a Time in America",
       "plot_pt": "Leone revolucionou o western e os filmes de gangsters e foi um dos realizadores estrangeiros que mais soube apropriar-se da história da América e dos seus mitos. Era uma Vez na América, “poema épico” de violência e avidez que acompanha 5 décadas na vida de quatro gangsters nova-iorquinos, foi o filme da sua consagração crítica, apresentado no festival de Cannes em 1984.",
@@ -57254,7 +57335,8 @@
       "https://image.tmdb.org/t/p/w1280/1rdBEWWgtI85SYtP3cUaTv5WNL7.jpg",
       "https://image.tmdb.org/t/p/w1280/jSy5yfOWXeazRWGr9JeGvHJf4q6.jpg"
     ],
-    "tmdb_id": "311"
+    "tmdb_id": "311",
+    "wiki_tries": 1
   },
   "Orphea|2020": {
     "lbxd": {
@@ -57332,7 +57414,8 @@
       "https://medeiafilmes.com/uploads/library/6fa6bcf9f0fc5452ad8e954939b665af.jpeg",
       "https://medeiafilmes.com/uploads/library/0d1e5e31787840341f27e6dc42559fd5.jpeg"
     ],
-    "tmdb_id": "664584"
+    "tmdb_id": "664584",
+    "wiki_tries": 1
   },
   "O Fantasma Apaixonado|1947": {
     "lbxd": {
@@ -57389,7 +57472,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Ghost and Mrs. Muir",
+      "imdb_id": "tt0039420",
+      "extract_pt": "O Fantasma Apaixonado (The Ghost and Mrs. Muir, no original em inglês) é um filme norte-americano de 1947, do gênero comédia, dirigido por Joseph L. Mankiewicz e estrelado por Gene Tierney, Rex Harrison e George Sanders.\nCharmosa, e belamente trabalhada fantasia hollywoodiana, o filme é também \"a menos aterrorizante história de fantasmas já filmada\"  e está entre os dez melhores trabalhos, tanto de Gene Tierney quanto de Rex Harrison, de acordo com Ken Wlaschin.\nO filme deu origem à telessérie homônima, conhecida no Brasil como Nós e o Fantasma."
+    },
     "cinema": {
       "original_title": "The Ghost and Mrs. Muir",
       "plot_pt": "O Fantasma Apaixonado, comédia romântica com laivos de sobrenatural, apresenta a viúva Gene Tierney, que aluga uma velha casa à beira-mar assombrada pelo fantasma do seu anterior proprietário Rex Harrison, um charmoso capitão marinho. A relação entre os dois é acompanhada pela música inspirada de Bernard Herrmann (segundo consta, a sua música preferida de todas aquelas que compôs para o cinema) que muito contribui para acentuar o pendor dramático de Mankiewicz, esse que tão decisivamente contribuiu para a identidade das comédias da 20th Century Fox.",
@@ -57408,7 +57495,8 @@
       "https://image.tmdb.org/t/p/w1280/lPo9NfVtXboC9xYNYHgGYmx4ocl.jpg",
       "https://image.tmdb.org/t/p/w1280/xi662W65fXp9rQ2AnnPNtXfMjlT.jpg"
     ],
-    "tmdb_id": "22292"
+    "tmdb_id": "22292",
+    "wiki_tries": 1
   },
   "Happy End|2017": {
     "lbxd": {
@@ -57467,7 +57555,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Happy End (2017 film)",
+      "imdb_id": "tt5304464",
+      "extract_pt": "Happy End é um filme de drama franco-alemão-austríaco de 2017 dirigido e escrito por Michael Haneke. Protagonizado por Isabelle Huppert e Jean-Louis Trintignant, estreou no Festival de Cannes 2017, no qual competiu para a Palm d'Or."
+    },
     "cinema": {
       "original_title": "Happy End",
       "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
@@ -57486,7 +57578,8 @@
       "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
       "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
     ],
-    "tmdb_id": "399031"
+    "tmdb_id": "399031",
+    "wiki_tries": 1
   },
   "O Castigo da Justiça|1950": {
     "lbxd": {
@@ -57552,7 +57645,8 @@
       "original_title": "Where the Sidewalk Ends",
       "country": "EUA",
       "year": 1950,
-      "director": "Otto Preminger"
+      "director": "Otto Preminger",
+      "plot_pt": "Where the Sidewalk Ends (bra: Passos na Noite; prt: O Castigo da Justiça) é um filme noir estadunidense de 1950, produzido e dirigido por Otto Preminger para a 20th Century Fox, com roteiro escrito por Ben Hecht da adaptação de Robert E. Kent, Frank P. Rosenberg e Victor Trivas do livro de 1948 Night Cry, de William L. Stuart. O filme é considerado um clássico do gênero noir. Foi o último de Otto Preminger como diretor de aluguel da Twentieth Century Fox."
     },
     "dir_checked": true,
     "stills_focus": [
@@ -57659,7 +57753,11 @@
       "tmdb_id": "423612"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Never Look Away (2018 film)",
+      "imdb_id": "tt5311542",
+      "extract_pt": "Werk ohne Autor (em inglês: Never Look Away; em português: Não Deixe de Lembrar) é um filme de drama alemão dirigido por Florian Henckel von Donnersmarck. O filme foi selecionado para ser exibido no Festival Internacional de Cinema de Veneza, em 2018. Além disso, foi selecionado como o concorrente alemão para o Óscar 2019 na categoria de Melhor Filme Estrangeiro. Como reconhecimento, foi indicado ao Globo de Ouro na categoria de Melhor Filme Estrangeiro e ao Oscar nas categorias de Melhor Filme Estrangeiro e Melhor Fotografia."
+    },
     "cinema": {
       "original_title": "Werk ohne Autor",
       "plot_pt": "A história de Kurt Barnert desde a infância, numa Alemanha dominada pelos ideais nazis, à idade adulta, após conseguir escapar do jugo comunista da República Democrática Alemã (RDA).",
@@ -57678,7 +57776,8 @@
       "https://image.tmdb.org/t/p/w1280/nE3TrturcVMt71piGZoX40VEjgm.jpg",
       "https://image.tmdb.org/t/p/w1280/bo5YITiYofBdKsdfYGEipRmWYAl.jpg"
     ],
-    "tmdb_id": "423612"
+    "tmdb_id": "423612",
+    "wiki_tries": 1
   },
   "O Laço Branco|2009": {
     "lbxd": {
@@ -57738,7 +57837,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The White Ribbon",
+      "imdb_id": "tt1149362",
+      "extract_pt": "Das weiße Band (bra: A Fita Branca; prt: O Laço Branco) é um filme austríaco de 2009 dirigido por Michael Haneke, sobre um coral de crianças em uma vila no norte da Alemanha pouco antes da Primeira Guerra Mundial. De acordo com Haneke, o filme é sobre \"a origem de todo tipo de terrorismo, seja ele de natureza política ou religiosa\".\nNo Brasil, foi lançado nos cinemas pela Imovision em 12 de fevereiro de 2010."
+    },
     "cinema": {
       "original_title": "Das weiße Band - Eine deutsche Kindergeschichte",
       "plot_pt": "Uma aldeia protestante da Alemanha do Norte. 1913/1914. Vésperas da Primeira Guerra Mundial. Uma história de crianças e adolescentes, pertencentes a um coro liderado pelo professor da aldeia, e suas famílias: o barão, o gerente, o pastor, o médico, a parteira, os camponeses. Acidentes estranhos acontecem e, gradualmente, assumem o carácter de uma punição ritual. \n\r\n\r\nQuem estará por detrás de tudo isso?",
@@ -57758,7 +57861,8 @@
       "https://image.tmdb.org/t/p/w1280/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
       "https://image.tmdb.org/t/p/w1280/2FHF4H1HOuvzgWvSaOlQnuAktxc.jpg"
     ],
-    "tmdb_id": "37903"
+    "tmdb_id": "37903",
+    "wiki_tries": 1
   },
   "Amar Foi a Minha Perdição|1945": {
     "lbxd": {
@@ -57815,7 +57919,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Leave Her to Heaven",
+      "imdb_id": "tt0037865",
+      "extract_pt": "Leave Her to Heaven (bra: Amar Foi Minha Ruína; prt: Amar Foi a Minha Perdição) é um filme norte-americano de 1945, dos gêneros drama e noir, dirigido por John M. Stahl. Foi baseado no romance homônimo do escritor Ben Ames Williams, publicado em 1944. A história se trata de uma mulher fatal que ludibria seu marido e comete vários crimes motivados por seu ciúme doentio.\nEstrelando Gene Tierney, que recebeu uma nomeação ao Oscar de melhor atriz por seu papel, o filme conquistou a maior receita do que qualquer outro trabalho da Fox na década de 1940, bem como o Oscar de melhor fotografia de 1946."
+    },
     "cinema": {
       "original_title": "Leave Her to Heaven",
       "plot_pt": "Um dos grandes melodramas da década de 40, feito num inacreditável Technicolor, com elementos de psicanálise, então na moda em Hollywood. Uma mulher, doentiamente fixada na figura do seu pai, casa com um homem que se lhe assemelha, e nele exerce um mórbido sentido de posse, acabando por se suicidar e encenar o acto como um crime, para que ele seja acusado. \"Leave Her to Heaven\" é também uma variação estonteantemente colorida do filme negro.",
@@ -57834,7 +57942,8 @@
       "https://image.tmdb.org/t/p/w1280/3XHpq2c2gGWthqL9hk348PmZhSP.jpg",
       "https://image.tmdb.org/t/p/w1280/glQ0OrEyuHuDPK2ZQeU7WZ5wm0K.jpg"
     ],
-    "tmdb_id": "17645"
+    "tmdb_id": "17645",
+    "wiki_tries": 1
   },
   "O Padrinho: Parte II|1974": {
     "lbxd": {
@@ -57894,7 +58003,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Godfather Part II",
+      "imdb_id": "tt0071562",
+      "extract_pt": "The Godfather Part II (bra: O Poderoso Chefão Parte 2; prt: O Padrinho - Parte II:) é um filme estado-unidense de 1974, dirigido por Francis Ford Coppola.\nÉ uma sequência do filme The Godfather, de 1972, ambos com roteiro baseado em romance de Mario Puzo. O filme é estrelado por Al Pacino, Robert Duvall, Diane Keaton e Robert De Niro.\nThe Godfather Part II recebeu onze indicações ao Oscar, ganhou em seis categorias, incluindo Melhor Filme, Melhor Diretor (Coppola), Melhor Ator Coadjuvante (De Niro) e Melhor Roteiro Adaptado (Coppola e Puzo), tornando-se a primeira sequência a ganhar na categoria de Melhor Filme."
+    },
     "cinema": {
       "original_title": "The Godfather Part II",
       "plot_pt": "Em 1950, o jovem Michael Corleone, agora à frente da família, tenta expandir o negócio a Las Vegas, Hollywood e Cuba. Paralelamente, revela-se a história do jovem Vito Corleone, e de como saiu da Sicília em 1910 e chegou a Nova Iorque para construir um império do crime.",
@@ -57914,7 +58027,8 @@
       "https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
       "https://image.tmdb.org/t/p/w1280/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg"
     ],
-    "tmdb_id": "240"
+    "tmdb_id": "240",
+    "wiki_tries": 1
   },
   "Heimat - Crónica de Uma Nostalgia - Parte 2|2013": {
     "lbxd": {
@@ -57990,7 +58104,8 @@
       "https://image.tmdb.org/t/p/w1280/jQMQG1cG2zEw74Lomi3gyqvQMm9.jpg",
       "https://image.tmdb.org/t/p/w1280/fo2VdwGDl7KL2lQytIUhMfxhPlM.jpg"
     ],
-    "tmdb_id": "215740"
+    "tmdb_id": "215740",
+    "wiki_tries": 1
   },
   "Brincadeiras Perigosas|1997": {
     "lbxd": {
@@ -58051,7 +58166,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Funny Games (1997 film)",
+      "imdb_id": "tt0119167",
+      "extract_pt": "Funny Games (bra: Violência Gratuita; prt: Brincadeiras Perigosas) é um filme de suspense de 1997, escrito e dirigido por Michael Haneke sobre uma família em férias em uma casa a beira de um lago é surpreendida por dois jovens psicopatas. O filme foi inscrito no Festival de Cannes 1997. No Brasil, foi apresentado na Mostra Internacional de Cinema de São Paulo."
+    },
     "cinema": {
       "original_title": "Funny Games",
       "plot_pt": "Anna, Georg e o filho Georg Jr. vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Com uma neutralidade assustadora e uma frieza de contornos cirúrgicos, Michael Haneke explora a violência das imagens e confronta-nos com o nosso recurso à violência enquanto entretenimento, ao tornar-nos cúmplices deste espectáculo de crueldade.",
@@ -58071,7 +58190,8 @@
       "https://image.tmdb.org/t/p/w1280/yUmtjm5eLK7WohDtt5E2lHXx84P.jpg",
       "https://image.tmdb.org/t/p/w1280/9cOWevA6ofoGGcZbQ7PUqUav2YK.jpg"
     ],
-    "tmdb_id": "10234"
+    "tmdb_id": "10234",
+    "wiki_tries": 1
   },
   "Heimat - Crónica de Uma Nostalgia - Parte 1|2013": {
     "lbxd": {
@@ -58147,7 +58267,8 @@
       "https://image.tmdb.org/t/p/w1280/jQMQG1cG2zEw74Lomi3gyqvQMm9.jpg",
       "https://image.tmdb.org/t/p/w1280/fo2VdwGDl7KL2lQytIUhMfxhPlM.jpg"
     ],
-    "tmdb_id": "215740"
+    "tmdb_id": "215740",
+    "wiki_tries": 1
   },
   "Toni Erdmann|2016": {
     "lbxd": {
@@ -58207,7 +58328,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Toni Erdmann",
+      "imdb_id": "tt4048272",
+      "extract_pt": "Toni Erdmann (Brasil: As Faces de Toni Erdmann ) é um filme austro-alemão de comédia dramática de 2016 dirigido, escrito e co-produzido por Maren Ade. É estrelado por Peter Simonischek e Sandra Hüller.\nO filme, que estreou em competição no Festival de Cannes 2016. foi eleito o melhor filme de 2016 pela Sight & Sound e outras revistas de cinema respeitadas."
+    },
     "cinema": {
       "original_title": "Toni Erdmann",
       "plot_pt": "Já na casa dos 60, Winfried Conrad é um antigo professor de música conhecido pelo riso fácil e pelo gosto pela vida. A sua forma desprendida e um pouco irresponsável é uma das razões pelas quais se tornou distante de Ines, a sua extraordinariamente bem-sucedida filha. Ao contrário do progenitor, ela é sisuda, controlada e muito dedicada à carreira. Um dia, consciente do afastamento entre ambos, ele resolve fazer-lhe uma visita surpresa em Bucareste (Roménia), a cidade onde ela trabalha há já alguns anos. O encontro revela-se um fracasso e eles acabam por se distanciar ainda mais. Até que, algum tempo depois, ele regressa, desta vez vestindo a pele de Toni Erdmann, um \"alter ego\" inventado por si que, ao infernizar a vida da filha contando mentiras a todos os seus contactos, lhe vai mostrar o que verdadeiramente importa para ser feliz…",
@@ -58226,7 +58351,8 @@
       "https://image.tmdb.org/t/p/w1280/i7gRHdspKcYLiKMl1poDOf1aill.jpg",
       "https://image.tmdb.org/t/p/w1280/2ZoUHy3Ek44wvYKAZTyiPPrRGGH.jpg"
     ],
-    "tmdb_id": "374475"
+    "tmdb_id": "374475",
+    "wiki_tries": 1
   },
   "Nada a Esconder|2005": {
     "lbxd": {
@@ -58287,7 +58413,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Caché (film)",
+      "imdb_id": "tt0387898",
+      "extract_pt": "Caché (prt: Nada a Esconder; bra: Caché) é um filme de 2005, uma produção de quatro países: França, Áustria, Alemanha e Itália. Tem direção e roteiro de Michael Haneke. Tem em seu elenco Daniel Auteuil, Juliette Binoche e Maurice Bénichou. Foi eleito pelo jornal The Times como o melhor filme da década de 2000."
+    },
     "cinema": {
       "original_title": "Caché",
       "plot_pt": "Georges, jornalista, recebe vídeos, filmados clandestinamente a partir da rua, em que aparece com a família, assim como desenhos perturbadores e difíceis de interpretar, e não faz a menor ideia da identidade do remetente. Pouco a pouco, o conteúdo das cassetes vai-se tornando cada vez mais pessoal, o que o leva a pensar que o autor o conhece há muito tempo. Georges sente que uma ameaça paira sobre si e sobre a sua família mas, como não é explícita, a polícia recusa-se a ajudá-lo...",
@@ -58307,7 +58437,8 @@
       "https://image.tmdb.org/t/p/w1280/8GAZVvFGy9xVPwNLPLqBAn2rgJ1.jpg",
       "https://image.tmdb.org/t/p/w1280/fdmn0qcQA5narSHmz0h7p1gQvPr.jpg"
     ],
-    "tmdb_id": "445"
+    "tmdb_id": "445",
+    "wiki_tries": 1
   },
   "Miroirs No. 3|2025": {
     "lbxd": {
@@ -58383,7 +58514,8 @@
       "https://image.tmdb.org/t/p/w1280/dv8xr2P21nDAfggGq2vLrsZDV5y.jpg",
       "https://image.tmdb.org/t/p/w1280/vsBn8CO3RDNX7JXyzdOZT7nGkib.jpg"
     ],
-    "tmdb_id": "1178602"
+    "tmdb_id": "1178602",
+    "wiki_tries": 1
   },
   "Amor|2012": {
     "lbxd": {
@@ -58443,7 +58575,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Amour (2012 film)",
+      "imdb_id": "tt1602620",
+      "extract_pt": "Amor (título original em francês: Amour) é um filme de língua francesa de 2012, escrito e dirigido por Michael Haneke, estrelando Jean-Louis Trintignant, Emmanuelle Riva e Isabelle Huppert. A narrativa se foca em um casal idoso aposentado, Anne e Georges, e uma filha que vive na França. O drama começa quando Anne é submetida a uma operação na carótida que corre mal e a paralisa em um lado do corpo.\nTeve sua estreia no Festival de Cannes de 2012, em que venceu a Palma de Ouro."
+    },
     "cinema": {
       "original_title": "Amour",
       "plot_pt": "Georges e Anne são octogenários, pessoas cultas, professores de música reformados. A filha, igualmente música, vive no estrangeiro com a família. Um dia, Anne é vítima de um acidente. O amor que une este casal vai ser posto à prova...",
@@ -58463,7 +58599,8 @@
       "https://image.tmdb.org/t/p/w1280/mSAl7H4uOhWgyyCfid2FefBb09f.jpg",
       "https://image.tmdb.org/t/p/w1280/4JB1kXY713EBrcWOoO6EkznCV4h.jpg"
     ],
-    "tmdb_id": "86837"
+    "tmdb_id": "86837",
+    "wiki_tries": 1
   },
   "Olhar o Sol|2025": {
     "lbxd": {
@@ -58484,7 +58621,11 @@
       "tmdb_id": "1221061"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Sound of Falling",
+      "imdb_id": "tt28690468",
+      "extract_pt": "In die Sonne schauen (em inglês: Sound of Falling) é um filme alemão de drama dirigido e co-roterizado por Mascha Schilinski. Ele conta a história de quatro gerações de mulheres conectadas por uma fazenda em Altmark. A estreia mundial do filme aconteceu na mostra competitiva do Festival de Cannes 2025, onde ganhou o Prêmio do Júri. O lançamento do filme nos cinemas alemães acontecerá em 2025, a distribuidora no território alemão é a Neue Visionen."
+    },
     "cinema": {
       "original_title": "In Die Sonne Schauen",
       "plot_pt": "Ao longo de um século, Alma, Erika, Angelika e Lenka, quatro raparigas de diferentes gerações, passam a sua juventude na mesma quinta no norte da Alemanha. Os ecos do passado permanecem nas suas paredes, e as suas vidas entrelaçam-se até que o tempo parece dissolver-se.\n\r\n\r\n\r\n\r\nUma história envolvente que nos mergulha na experiência feminina vivida por aquelas que ficaram à margem da história.",
@@ -58509,7 +58650,8 @@
       "https://image.tmdb.org/t/p/w1280/1hXcizMqZnI3aUWGz0fL07OQgah.jpg",
       "https://image.tmdb.org/t/p/w1280/dJpQUhXtDh8sbeRS8t9XibBQ2XD.jpg"
     ],
-    "tmdb_id": "1221061"
+    "tmdb_id": "1221061",
+    "wiki_tries": 1
   },
   "71 Fragmentos de uma Cronologia do Acaso|1994": {
     "lbxd": {
@@ -58568,7 +58710,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "71 Fragments of a Chronology of Chance",
+      "imdb_id": "tt0109020",
+      "extract_pt": "71 Fragmente einer Chronologie des Zufalls (bra/prt: 71 Fragmentos de uma Cronologia do Acaso) é um longa-metragem austríaco de 1994, escrito e dirigido por Michael Haneke. Tem um enredo fragmentado, como o título sugere, e narra várias histórias em paralelo, aparentemente não relacionadas. Essas linhas narrativas separadas se cruzam em um incidente no final do filme: um assassinato em massa em um banco austríaco. O filme se passa em Viena de outubro a dezembro de 1993."
+    },
     "cinema": {
       "original_title": "71 Fragmente einer Chronologie des Zufalls",
       "plot_pt": "Num mundo desumanizado, onde a dormência emocional é apenas perturbada pelo choque de episódios de violência extrema, setenta e uma cenas intrincadas e aparentemente desconectadas formam um puzzle onde as vidas de pessoas aleatórias colidem num encontro devastador num banco. Um rapaz romeno que vive nas ruas de Viena, um casal desesperado por adoptar uma criança e um estudante universitário no limite são alguns dos protagonistas destes quadros, que compõem a natureza simultaneamente aleatória e interconectada da existência moderna, focada de forma angustiante neste desesperante último capítulo da trilogia de Michael Haneke.",
@@ -58588,7 +58734,8 @@
       "https://image.tmdb.org/t/p/w1280/zuTy2f5CiruZ2HX3uy4fjy5UbK7.jpg",
       "https://image.tmdb.org/t/p/w1280/v6C3DNDUfwyRG4bK9L04tulCpDj.jpg"
     ],
-    "tmdb_id": "32764"
+    "tmdb_id": "32764",
+    "wiki_tries": 1
   },
   "O Castelo|1997": {
     "lbxd": {
@@ -58640,7 +58787,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Castle (1997 Austrian film)",
+      "imdb_id": "tt0120075",
+      "extract_pt": "Das Schloß (em inglês:  The Castle) é um filme austríaco feito para televisão em 1997 e dirigido pelo diretor Michael Haneke. É uma adaptação do romance homônimo escrito por Franz Kafka."
+    },
     "cinema": {
       "original_title": "Das Schloß",
       "plot_pt": "Um agrimensor é chamado para trabalhar numa pequena aldeia à volta de um castelo. Porém, desde a sua chegada, não consegue convencer os habitantes da sua legitimidade, tentando sem sucesso entrar no castelo e cumprir o seu trabalho, e logo vendo-se preso numa espiral de burocracia provincial e rivalidades sociais insignificantes, que rapidamente se transforma num pesadelo surrealista. Baseado num dos livros mais inquietantes de Franz Kafka, O Castelo mergulha num universo pleno de desconforto e confusão.",
@@ -58660,7 +58811,8 @@
       "https://image.tmdb.org/t/p/w1280/lAZpIsVTClPaCaLzIGZpEjQ1Oke.jpg",
       "https://image.tmdb.org/t/p/w1280/cDRtn75v08NPYe2VjB6Mmv5qOb8.jpg"
     ],
-    "tmdb_id": "26891"
+    "tmdb_id": "26891",
+    "wiki_tries": 1
   },
   "​Ludwig, Requiem para um Rei Virgem|1972": {
     "lbxd": {
@@ -58729,7 +58881,8 @@
       "https://image.tmdb.org/t/p/w1280/x4tSwHNtRbZZ95NGEDNkpom98uj.jpg",
       "https://image.tmdb.org/t/p/w1280/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
     ],
-    "tmdb_id": "198605"
+    "tmdb_id": "198605",
+    "wiki_tries": 1
   },
   "O Vídeo de Benny|1992": {
     "lbxd": {
@@ -58789,7 +58942,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Benny's Video",
+      "imdb_id": "tt0103793",
+      "extract_pt": "Benny's Video é um filme de drama austríaco de 1992 dirigido e escrito por Michael Haneke. Foi selecionado como representante da Áustria à edição do Oscar 1993, organizada pela Academia de Artes e Ciências Cinematográficas."
+    },
     "cinema": {
       "original_title": "Benny’s Video",
       "plot_pt": "Benny é um adolescente de 14 anos, fanático pela tecnologia do vídeo, filho de pais ricos e desinteressados, que só encontra satisfação no mundo das imagens violentas. Esta obsessão leva-o a criar a sua própria obra monstruosa de terror na vida real. Em O Vídeo de Benny, Haneke concebeu um estudo perturbador e provocador (e cada vez mais actual) da desconexão emocional numa era de saturação mediática, numa das mais impressionantes expressões do seu universo clinicamente gelado.",
@@ -58809,7 +58966,8 @@
       "https://image.tmdb.org/t/p/w1280/o1RKOVPdTa81Hq2dJVCgu9MBgV1.jpg",
       "https://image.tmdb.org/t/p/w1280/3u69H2FTJWfNwc5Y1WEdMdNtI0f.jpg"
     ],
-    "tmdb_id": "1987"
+    "tmdb_id": "1987",
+    "wiki_tries": 1
   },
   "A Rebelião|1993": {
     "lbxd": {
@@ -58880,7 +59038,8 @@
       "https://image.tmdb.org/t/p/w1280/6n4uHX4j943VAOz9L1hKqwpUrsj.jpg",
       "https://image.tmdb.org/t/p/w1280/pmjwXpRxKPQWyWlV7S8HvVYLhhx.jpg"
     ],
-    "tmdb_id": "124309"
+    "tmdb_id": "124309",
+    "wiki_tries": 1
   },
   "O Sétimo Continente|1989": {
     "lbxd": {
@@ -58900,7 +59059,11 @@
       "tmdb_id": "32761"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Seventh Continent (1989 film)",
+      "imdb_id": "tt0098327",
+      "extract_pt": "O Sétimo Continente (em alemão:  Der Siebente Kontinent) é um filme dramático austríaco escrito e realizado por Michael Haneke, em 1989. É a primeira longa-metragem do cineasta, que se inspirou numa história verídica em que uma família austríaca de classe média cometeu suicídio. \nO filme reporta-se para a representação dos últimos anos vividos pela mesma, constituida por Georg, um engenheiro, a sua esposa Anna, oftalmologista, e a sua filha Eva. Dividido em três partes, as duas primeiras, que vão de 1987 a 1988, retratam a vida da família, mostrando as actividades do quotidiano, repetidas numa constante rotina, que os acabará por afundar no tédio e no desespero, tanto que Eva finge que foi atacada por um misterioso tipo de cegueira."
+    },
     "cinema": {
       "original_title": "Der Siebente Kontinent",
       "plot_pt": "O dia-a-dia de uma família austríaca aparentemente normal começa a seguir uma direcção sinistra quando, de repente, a sua filha alega estar cega. O Sétimo Continente retrata, com um distanciamento clínico, o vazio espiritual da cultura de consumo e o horror que se esconde por baixo das suas superfícies plácidas, introduzindo a visão do realizador sobre a ligação entre a violência e a nossa cultura de emoções fabricadas. Inspirado numa história verídica, a primeira longa metragem de Michael Haneke é um arrepiante retrato da anomia burguesa e do seu caminho até à auto-destruição.",
@@ -58920,7 +59083,8 @@
       "https://image.tmdb.org/t/p/w1280/mOfBL3yT71mKQpB48J0xN5JfRZC.jpg",
       "https://image.tmdb.org/t/p/w1280/5PpbwRXTYRrSmXRacfHwpjphR8A.jpg"
     ],
-    "tmdb_id": "32761"
+    "tmdb_id": "32761",
+    "wiki_tries": 1
   },
   "Adolescência, Sexo e Morte no Acampamento Miasma|2026": {
     "lbxd": {
@@ -59001,7 +59165,8 @@
       "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
       "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
     ],
-    "tmdb_id": "1240889"
+    "tmdb_id": "1240889",
+    "wiki_tries": 1
   },
   "Código Desconhecido|2000": {
     "lbxd": {
@@ -59060,7 +59225,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Code Unknown",
+      "imdb_id": "tt0216625",
+      "extract_pt": "Code inconnu: Récit incomplet de divers voyages é um filme de drama de 2000 dirigido por Michael Haneke. A maior parte da história ocorre em Paris, França, onde os destinos de vários personagens se cruzam e se conectam.\nCódigo Desconhecido é composto de longas tomadas não editadas, filmadas em tempo real, cortadas apenas quando a perspectiva dentro de uma cena muda de um personagem para outro no meio da ação. Uma edição especial do filme foi lançada em Blu-ray em 2015 pela The Criterion Collection."
+    },
     "cinema": {
       "original_title": "Code inconnu: Récit incomplet de divers voyages",
       "plot_pt": "Anne, uma jovem actriz, sai do seu apartamento em Paris e cruza-se com Jean, irmão de Georges, o seu namorado fotojornalista de guerra várias vezes ausente do país. Jean fugiu da quinta do seu pai e mudou-se para Paris. Quando atira os restos de um bolo a Maria, uma imigrante romena que pede nas ruas para sustentar os filhos, Jean envolve-se numa discussão acesa com um transeunte, Amadou. Composto maioritariamente por uma série de planos-sequência que dão a ver episódios do quotidiano das personagens ligadas a este incidente, Código Desconhecido é um estudo fascinante das questões sociais que assombram a Europa contemporânea, da alienação urbana e crescentes dificuldades em comunicar à desigualdade racial e intolerância.",
@@ -59080,7 +59249,8 @@
       "https://image.tmdb.org/t/p/w1280/yGyFKLKm0vmOzsg3urWaTFPOBYP.jpg",
       "https://image.tmdb.org/t/p/w1280/Ah9LjxViRVOVIUbjfSM3rYSBTZY.jpg"
     ],
-    "tmdb_id": "30970"
+    "tmdb_id": "30970",
+    "wiki_tries": 1
   },
   "Três Caminhos para o Lago|1976": {
     "lbxd": {
@@ -59152,7 +59322,8 @@
       "https://image.tmdb.org/t/p/w1280/l1k5VsRNYTF3T3cXndaIN7KfsCS.jpg",
       "https://image.tmdb.org/t/p/w1280/aAB5oqTj3kfdYk4NuDyN6UyknSl.jpg"
     ],
-    "tmdb_id": "150898"
+    "tmdb_id": "150898",
+    "wiki_tries": 1
   },
   "A Pianista|2001": {
     "lbxd": {
@@ -59173,7 +59344,11 @@
       "tmdb_id": "1791"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Piano Teacher (film)",
+      "imdb_id": "tt0254686",
+      "extract_pt": "La pianiste (Brasil: A Professora de Piano / Portugal: A Pianista) é um filme austro-teuto-francês de 2001, escrito e dirigido por Michael Haneke, baseado no romance Die Klavierspielerin, de Elfriede Jelinek.\nO filme rendeu aos atores Benoît Magimel e Isabelle Huppert o prêmio máximo da categoria no Festival de Cannes, e seu diretor, que recebeu o Prêmio Especial do Júri, foi indicado à Palma de Ouro."
+    },
     "cinema": {
       "original_title": "La Pianiste",
       "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
@@ -59198,7 +59373,8 @@
       "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
       "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
     ],
-    "tmdb_id": "1791"
+    "tmdb_id": "1791",
+    "wiki_tries": 1
   },
   "Lemingues, Parte 1 – A Arcádia|1979": {
     "lbxd": null,
@@ -59273,7 +59449,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Good Bye, Lenin!",
+      "imdb_id": "tt0301357",
+      "extract_pt": "Good Bye, Lenin! (bra: Adeus, Lenin!) é um filme alemão de dramédia tragicômica de 2003 dirigido por Wolfgang Becker. Contando com Daniel Brühl, Katrin Sass, Chulpan Khamatova e Maria Simon no elenco principal, o filme retrata uma família na Alemanha Oriental (RDA), a qual a mãe dedica-se à causa socialista e sofre um infarto, entrando em coma profundo em outubro de 1989, pouco antes da Die Wende em novembro; quando ela desperta, oito meses depois, em junho de 1990, seu filho tenta protegê-la de um segundo ataque cardíaco, escondendo-lhe fatos sobre a Queda do Muro de Berlim e o colapso do comunismo na Alemanha Oriental.\nA maioria das cenas foi filmada na Karl-Marx-Allee em Berlim e em alguns plattenbaus localizados na Alexanderplatz."
+    },
     "cinema": {
       "original_title": "Good Bye Lenin!",
       "plot_pt": "Outono de 1989. Pouco antes da queda do Muro de Berlim, a mãe de Alex tem um ataque cardíaco e entra em coma. O triunfo do capitalismo acontece enquanto ela está inconsciente. Quando finalmente acorda, no Verão de 1990, a RDA deixou de existir e Berlim está totalmente transformada. Alex, determinado a protegê-la a qualquer custo e com medo que ela volte a ter um ataque cardíaco se souber o que aconteceu, decide não lhe contar que o Muro caiu. Com a ajuda de um amigo, fabrica programas de televisão que já deixaram de existir, evita que ela veja anúncios publicitários (o que seria se ela visse um cartaz da Coca-Cola!) e enche a casa de produtos e objectos, cada vez mais raros e difíceis de conseguir.",
@@ -59292,7 +59472,8 @@
       "https://image.tmdb.org/t/p/w1280/elQ35lnbMHGgqx62kXqslL1ielY.jpg",
       "https://image.tmdb.org/t/p/w1280/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg"
     ],
-    "tmdb_id": "338"
+    "tmdb_id": "338",
+    "wiki_tries": 1
   },
   "Lemingues, Parte 2 – As Feridas|1979": {
     "lbxd": null,
@@ -59386,7 +59567,8 @@
       "https://image.tmdb.org/t/p/w1280/fx3dceNJMq7RHC03YWjdHYzweA2.jpg",
       "https://image.tmdb.org/t/p/w1280/xDRfjoH3cp4DPcvrEXfMWA6SqbL.jpg"
     ],
-    "tmdb_id": "24190"
+    "tmdb_id": "24190",
+    "wiki_tries": 1
   },
   "Brincadeiras Perigosas U.S.|2007": {
     "lbxd": {
@@ -59407,7 +59589,11 @@
       "tmdb_id": "8461"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Funny Games (2007 film)",
+      "imdb_id": "tt0808279",
+      "extract_pt": "Funny Games (bra: Violência Gratuita; prt: Brincadeiras Perigosas) é um filme teuto-ítalo-franco-áustrio-britano-estadunidense de 2007, dos gêneros drama e suspense, escrito e dirigido por Michael Haneke.\nTrata-se de um remake do filme homônimo de 1997, dirigido pelo próprio Haneke. Naomi Watts, Tim Roth, Michael Pitt e Brady Corbet interpretam os papéis principais.\nComo o original, o filme mostra uma família de classe média que encontra dois rapazes nas férias e é posteriormente capturada e torturada por eles, que lhes dá até o dia seguinte para tentar sobreviver."
+    },
     "cinema": {
       "original_title": "Funny Games U.S.",
       "plot_pt": "Um remake assinado pelo próprio Michael Haneke, desta vez com produção e elenco americano, de Brincadeiras Perigosas, filme que conquistou a crítica e recebeu vários prémios dez anos antes. Ann, George e o filho Georgie vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Dez anos depois, a visão de Michael Haneke apenas se tornou mais actual e acutilante, nesta exploração da violência das imagens e do seu recurso enquanto entretenimento.",
@@ -59432,7 +59618,8 @@
       "https://image.tmdb.org/t/p/w1280/ZdK8HzzQoiVtAq2j0X9n4K77aU.jpg",
       "https://image.tmdb.org/t/p/w1280/stMyI68M8yExIVCOr46em4vUP6n.jpg"
     ],
-    "tmdb_id": "8461"
+    "tmdb_id": "8461",
+    "wiki_tries": 1
   },
   "Crash|1996": {
     "lbxd": {
@@ -59492,7 +59679,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Crash (1996 film)",
+      "imdb_id": "tt0115964",
+      "extract_pt": "Crash (prt: Crash; bra: Crash: Estranhos Prazeres) é um filme independente britano-canadense de 1996, dos gêneros thriller psicológico e suspense erótico escrito e dirigido por David Cronenberg, baseado no romance de J. G. Ballard de 1973 com o mesmo nome. Segue-se um produtor de cinema (James Spader) quando ele se envolve com um grupo de simforofílicos que são sexualmente excitados por acidentes de carro. O filme também é estrelado por Deborah Kara Unger, Elias Koteas, Holly Hunter e Rosanna Arquette.\nO filme gerou polêmica considerável em seu lançamento e abriu a reações mistas e altamente divergentes da crítica de cinema."
+    },
     "cinema": {
       "original_title": "Crash",
       "plot_pt": "Um dos maiores êxitos da carreira de David Cronenberg e, também, um dos seus filmes mais controversos e polémicos. Adaptado do romance de J.G. Ballard, “Crash” é um filme demencial sobre o fascínio do sexo e da morte sobre rodas. Trata-se de uma macabra visão sobre a combinação entre erotismo e mutilação, autodestruição calculada e desejo sexual, morte violenta e acidentes rodoviários. James Ballard (James Spader), um produtor de filmes publicitários, tem um grave acidente de viação ao colidir com outro automóvel, que resulta na morte do outro condutor e deixa a mulher dele ferida. No hospital, Ballard perde-se e volta a encontrar Helen Remington (Holly Hunter), a viúva da vítima mortal do acidente. Na sua companhia conhece Vaughan (Elias Koteas), um cientista e fotógrafo fascinado pela beleza erótica dos ferimentos e das mutilações originadas por acidentes de viação. Ballard começa por se sentir curioso em relação a Vaughan e às suas ideias de recriar acidentes célebres, como o que vitimou James Dean. E, a pouco e pouco, deixa-se contagiar pelo erotismo que emerge da insólita combinação.",
@@ -59517,7 +59708,8 @@
       "https://image.tmdb.org/t/p/w1280/oWfJw6cTKQbQc43GgQeJwm2zlL8.jpg",
       "https://image.tmdb.org/t/p/w1280/osbMI3NYlizeKcfGroJgoqYj2hG.jpg"
     ],
-    "tmdb_id": "884"
+    "tmdb_id": "884",
+    "wiki_tries": 1
   },
   "O Professor Bachmann e a Sua Turma|2021": {
     "lbxd": {
@@ -59597,7 +59789,8 @@
       "https://image.tmdb.org/t/p/w1280/bm1gheKuUA2Y4X8L6z7dqjeAYxW.jpg",
       "https://image.tmdb.org/t/p/w1280/hJdg6sjCg63W98qCFs57TrGfgPi.jpg"
     ],
-    "tmdb_id": "795812"
+    "tmdb_id": "795812",
+    "wiki_tries": 1
   },
   "Western|2017": {
     "lbxd": {
@@ -59656,7 +59849,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Western (2017 film)",
+      "imdb_id": "tt5157326",
+      "extract_pt": "Western é um filme de drama austro-alemão de 2017 dirigido e escrito por Valeska Grisebach. Protagonizado por Meinhard Neumann e Reinhardt Wetrek, estreou no Festival de Cannes 2017, no qual competiu para Un certain regard."
+    },
     "cinema": {
       "original_title": "Western",
       "plot_pt": "Um grupo de trabalhadores alemães da construção civil começa um trabalho difícil num estaleiro de uma zona rural da Bulgária. A terra estrangeira desperta o sentido aventureiro dos homens, mas eles também se confrontam com os seus próprios preconceitos e desconfianças, acentuados pela barreira linguística e pelas diferenças culturais. Tudo aponta para um confronto quando dois homens começam a competir pelo reconhecimento e favor dos locais.",
@@ -59676,7 +59873,8 @@
       "https://image.tmdb.org/t/p/w1280/9ozqr1cazqQlM4yEYywxoEz6vSf.jpg",
       "https://image.tmdb.org/t/p/w1280/hmI6NDw1NBB3OYQNjPRlOaiOIib.jpg"
     ],
-    "tmdb_id": "452000"
+    "tmdb_id": "452000",
+    "wiki_tries": 1
   },
   "A Vítima Do Medo: Peeping Tom|1960": {
     "lbxd": {
@@ -59749,7 +59947,8 @@
       "https://image.tmdb.org/t/p/w1280/zNUr47uEO6eWCe0FNMiDVFFbpdw.jpg",
       "https://image.tmdb.org/t/p/w1280/to2l5XjusKTekMnVOC0SdplssHR.jpg"
     ],
-    "tmdb_id": "11167"
+    "tmdb_id": "11167",
+    "wiki_tries": 1
   },
   "Bad Lieutenant|1992": {
     "lbxd": {
@@ -59809,7 +60008,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Bad Lieutenant",
+      "imdb_id": "tt0103759",
+      "extract_pt": "Bad Lieutenant (bra: Vício Frenético) é um filme produzido nos Estados Unidos em 1992, co-escrito por Abel Ferrara e pela atriz e modelo Zoë Lund, e dirigido por Abel Ferrara."
+    },
     "cinema": {
       "year": 1992,
       "country": "tados Unidos",
@@ -59826,6 +60029,1062 @@
       "https://image.tmdb.org/t/p/w1280/m7NNNH0fAhkyIc4eEMUdyQy9NOB.jpg",
       "https://image.tmdb.org/t/p/w1280/6I7aIw8zeHdUYVUct2G7Y6qCKd8.jpg"
     ],
-    "tmdb_id": "12143"
+    "tmdb_id": "12143",
+    "wiki_tries": 1
+  },
+  "Bodyhackers + Q&A|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Hope|None": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/1/13771-hope-0-500-0-750-crop.jpg?v=11485e571c",
+      "description": "After losing one of his horses in an accident, an illiterate horse cab driver sets out into the desert in a quest for a mythical lost treasure.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Turkey",
+      "lb_director": "Yılmaz Güney",
+      "lb_director_slug": "ylmaz-guney",
+      "lb_year": 1970,
+      "lb_title": "Hope",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/eb/25/cz/zp/hope-1920-1920-1080-1080-crop-000000.jpg?v=a6b7209cde",
+      "imdb_id": "tt0066500",
+      "tmdb_id": "52104"
+    },
+    "omdb": {
+      "Title": "Hope",
+      "Year": "2013",
+      "Rated": "Not Rated",
+      "Released": "04 Apr 2017",
+      "Runtime": "122 min",
+      "Genre": "Drama",
+      "Director": "Lee Joon-ik",
+      "Writer": "Ji-hye Kim",
+      "Actors": "Lee Re, Sul Kyung-gu, Uhm Ji-won",
+      "Plot": "Story of an 8-year-old girl who faces a horrible rape that damages her internally and affects her emotionally, trying to overcome all the obstacles following the incident with the good support of those around her.",
+      "Language": "Korean",
+      "Country": "South Korea",
+      "Awards": "9 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiMDNhOWMtMTI0ZC00MjUxLTk0NzYtYzQxZGRjMjFmNDA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "11,399",
+      "imdbID": "tt3153634",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      26.5,
+      40.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/mdPQzNJx8fgES4kq3NUXMVksv8o.jpg",
+      "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
+    ],
+    "tmdb_id": "52104"
+  },
+  "Poultry Farm|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Scenes at Cackett's Poultry Farm",
+      "Year": "1903",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt2877358",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Shaun the Sheep: The Beast of Mossy Bottom|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/9/6/8/1353968-shaun-the-sheep-the-beast-of-mossy-bottom-0-500-0-750-crop.jpg?v=aab6cd0ba2",
+      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Science Fiction"
+      ],
+      "country": "UK",
+      "lb_director": "Steve Cox",
+      "lb_director_slug": "steve-cox-6",
+      "lb_year": 2026,
+      "lb_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/1z/mc/0c/ny/izLG3cxbG89nK75OHyd1zvjR7n8-1920-1920-1080-1080-crop-000000.jpg?v=a6f303a831",
+      "imdb_id": "tt36841161",
+      "tmdb_id": "1477104"
+    },
+    "omdb": {
+      "Title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Sep 2026",
+      "Runtime": "91 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "Steve Cox, Matthew Walker",
+      "Writer": "Mark Burton, Giles Pilbrow",
+      "Actors": "John Sparkes, Justin Fletcher, Kate Harbour",
+      "Plot": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "Language": "English",
+      "Country": "United Kingdom, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36841161",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      36.1,
+      29.0,
+      31.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
+      "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
+      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
+    ],
+    "tmdb_id": "1477104"
+  },
+  "THE MOVIE ORGY|None": {
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/7/1/98571-the-movie-orgy-0-500-0-750-crop.jpg?v=34e551568a",
+      "description": "Clips from assorted television programs, B-movies, commercials, music performances, newsreels, bloopers, satirical short films and promotional and government films of the 1950s and 1960s are intercut together to tell a single story of various creatures and societal ills attacking American cities.",
+      "genres": [
+        "Comedy",
+        "History",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Joe Dante",
+      "lb_director_slug": "joe-dante",
+      "lb_year": 1968,
+      "lb_title": "The Movie Orgy",
+      "backdrop": null,
+      "imdb_id": "tt0270523",
+      "tmdb_id": "125960"
+    },
+    "omdb": {
+      "Title": "The Movie Orgy",
+      "Year": "2009",
+      "Rated": "N/A",
+      "Released": "11 Nov 2012",
+      "Runtime": "420 min",
+      "Genre": "Documentary, Comedy, History",
+      "Director": "Joe Dante",
+      "Writer": "N/A",
+      "Actors": "Ann-Margret, Ngo Dinh Diem, Dwight D. Eisenhower",
+      "Plot": "A montage of 1950s B-movies, TV shows &amp; vintage commercials create a nostalgic collage about aliens &amp; monsters attacking America.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU3ODY0YzctMjg0Zi00M2M2LWE5NDItNTE0NjI1OGE1NDgyXkEyXkFqcGdeQXVyNDQ4NTA1Njk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "209",
+      "imdbID": "tt0270523",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      46.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
+    ],
+    "tmdb_id": "125960"
+  },
+  "American Dollhouse|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/5/7/8/1485578-american-dollhouse-0-500-0-750-crop.jpg?v=81f714f9dd",
+      "description": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her hometown is violently interrupted by a psychopathic neighbor.",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "country": null,
+      "lb_director": "John Valley",
+      "lb_director_slug": "john-valley",
+      "lb_year": 2026,
+      "lb_title": "American Dollhouse",
+      "backdrop": null,
+      "imdb_id": "tt39368498",
+      "tmdb_id": "1616344"
+    },
+    "omdb": {
+      "Title": "American Dollhouse",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Mar 2026",
+      "Runtime": "87 min",
+      "Genre": "Horror, Thriller",
+      "Director": "John Valley",
+      "Writer": "N/A",
+      "Actors": "Richard C. Jones, Hailley Lauren, Danielle Evon Ploeger",
+      "Plot": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her home town is violently interrupted by a psychopathic neighbor.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzA3ODBlZGQtNTdiMS00YjVlLTllOGYtYmJjOWU0ZjE1MDQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt39368498",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1616344"
+  },
+  "Colony|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
+      "description": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Carter Gunn",
+      "lb_director_slug": "carter-gunn",
+      "lb_year": 2009,
+      "lb_title": "Colony",
+      "backdrop": null,
+      "imdb_id": "tt1480655",
+      "tmdb_id": "73903"
+    },
+    "omdb": {
+      "Title": "Colony",
+      "Year": "2016–2018",
+      "Rated": "TV-14",
+      "Released": "14 Jan 2016",
+      "Runtime": "42 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Ryan J. Condal, Carlton Cuse",
+      "Actors": "Josh Holloway, Sarah Wayne Callies, Peter Jacobson",
+      "Plot": "In the wake of a mysterious alien invasion, a family fights to stay together in a new world order.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MzAzODQ5OF5BMl5BanBnXkFtZTgwMDA1MDI0NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "41,477",
+      "imdbID": "tt4209256",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "73903"
+  },
+  "Kinki|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/5/8/1/4/275814-kinki-0-500-0-750-crop.jpg?v=b4e537a032",
+      "description": "A teacher is sexually involved with an underage student. She visits her father's home and discovers a boy who's been kept as a sex slave. The teacher continues harboring the boy out of fear and begins to feel sexually attracted to him.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Japan",
+      "lb_director": "Kotaro Wajima",
+      "lb_director_slug": "kotaro-wajima",
+      "lb_year": 2014,
+      "lb_title": "Kinki",
+      "backdrop": null,
+      "imdb_id": "tt4190550",
+      "tmdb_id": "345161"
+    },
+    "omdb": {
+      "Title": "Kinki",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "06 Dec 2014",
+      "Runtime": "73 min",
+      "Genre": "Drama",
+      "Director": "Kôtarô Wajima",
+      "Writer": "Kôtarô Wajima",
+      "Actors": "Shôko Fujimura, Hayate Matsuzaki, Ryû Morioka",
+      "Plot": "A teacher is sexually involved with an underage student. She visits her father's home and discovers a boy who's been kept as a sex slave. The teacher continues harboring the boy out of fear and begins to feel sexually attracted to...",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmNzY5OTMtOWEyNy00NzVkLWE0Y2ItMjNjZTVjMmVjNzQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.8",
+      "imdbVotes": "79",
+      "imdbID": "tt4190550",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      14.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/y13rjyTqVCV8ZA0fap3ouRL1YlD.jpg"
+    ],
+    "tmdb_id": "345161"
+  },
+  "Kenneled|None": {
+    "lbxd": {
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/5/9/6/0/1195960-kenneled-0-500-0-750-crop.jpg?v=d18f9f3e4d",
+      "description": "Walker, a gig worker and artist, is drowning in the city's instability. Desperate for agency and financial relief to save his relationship with his ambitious girlfriend, Kylie, he accepts a lucrative but bizarre dog-walking job. At a secluded mansion, he meets Doug-a man living entirely as a dog. Initially repulsed, Walker stays, justifying the dehumanization as just another gig.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "USA",
+      "lb_director": "Jay Burleson",
+      "lb_director_slug": "jay-burleson",
+      "lb_year": 2025,
+      "lb_title": "Kenneled",
+      "backdrop": null,
+      "imdb_id": "tt32881455",
+      "tmdb_id": "1314812"
+    },
+    "omdb": {
+      "Title": "Kenneled",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "21 Mar 2026",
+      "Runtime": "88 min",
+      "Genre": "Horror",
+      "Director": "Jay Burleson",
+      "Writer": "H.K. Moore",
+      "Actors": "Jack Ryan Beckner, Dan Cutts, Emily Ferguson",
+      "Plot": "A destitute dogwalker finds a wealthy client who saves him from financial ruin. But this is no ordinary dog.",
+      "Language": "English",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZmOGFhMTgtMzY4Ny00YjY2LWIwZmEtZjA1OTkxOTVjOTdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.0",
+      "imdbVotes": "33",
+      "imdbID": "tt32881455",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
+    ],
+    "tmdb_id": "1314812"
+  },
+  "Remanence – A Voltage Cosmic Horror + Q&A|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/7/1/3/1124713-remanence-0-500-0-750-crop.jpg?v=a34acb0f84",
+      "description": "Combining two recently discovered unique archival sources, this short film evokes the lost history of a Dutch women's pacifist movement that brought women together in collective action in the 1930s.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Netherlands",
+      "lb_director": "Sabine Groenewegen",
+      "lb_director_slug": "sabine-groenewegen",
+      "lb_year": 2024,
+      "lb_title": "Remanence",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1241423"
+    },
+    "omdb": {
+      "Title": "Remanence",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "30 Jul 2017",
+      "Runtime": "5 min",
+      "Genre": "Short, Sci-Fi",
+      "Director": "Jono Seneff",
+      "Writer": "David Hudson, Jono Seneff",
+      "Actors": "David Atkinson, Sam Hayes, Michelle Farrah Huang, Parker Shook",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBkMGRhMWQtZjk2Mi00ZjNiLTkxYTktZjcxOGY0ZTk3Y2Y3XkEyXkFqcGdeQXVyMjM1NjE5MjM@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt8010462",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1241423"
+  },
+  "The Furious|None": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/1/5/4/1164154-the-furious-0-500-0-750-crop.jpg?v=f880a59523",
+      "description": "After the daughter of Wang Wei is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out on a rampage to find her himself. His only ally is Navin – a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly fights against the kidnappers in this explosive martial arts showdown.",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "country": "Hong Kong",
+      "lb_director": "Kenji Tanigaki",
+      "lb_director_slug": "kenji-tanigaki",
+      "lb_year": 2025,
+      "lb_title": "The Furious",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/6/4/1/5/4/tmdb/9XwQphZxNJgGASfjL58mhIkJJpf-1920-1920-1080-1080-crop-000000.jpg?v=20d0be396b",
+      "imdb_id": "tt33311069",
+      "tmdb_id": "1280738"
+    },
+    "omdb": {
+      "Title": "The Furious",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "12 Jun 2026",
+      "Runtime": "113 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Kenji Tanigaki",
+      "Writer": "Tin Shu Mak, Zhilong Lei, Kwan-Sin Shum",
+      "Actors": "Miao Xie, Joe Taslim, Enyou Yang",
+      "Plot": "A father fights fiercely against ruthless kidnappers to save his abducted daughter.",
+      "Language": "Chinese, English, Thai",
+      "Country": "Hong Kong, China",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.7",
+      "imdbVotes": "991",
+      "imdbID": "tt33311069",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.3,
+      18.4,
+      22.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "https://image.tmdb.org/t/p/w1280/b94Br0pFWR0gKIBgP5I6fGneUAl.jpg",
+      "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
+    ],
+    "tmdb_id": "1280738"
+  },
+  "Our Effed Up World|None": {
+    "lbxd": {
+      "rating": 3.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/0/6/0/8/1450608-our-effed-up-world-0-500-0-750-crop.jpg?v=7160b44918",
+      "description": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of shitkicker friends are what stands in the way of an insatiable, intergalactic hunger.",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "country": "Australia",
+      "lb_director": "Alice Maio Mackay",
+      "lb_director_slug": "alice-maio-mackay",
+      "lb_year": 2026,
+      "lb_title": "Our Effed Up World",
+      "backdrop": null,
+      "imdb_id": "tt40521447",
+      "tmdb_id": "1579168"
+    },
+    "omdb": {
+      "Title": "Our Effed Up World",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Jun 2026",
+      "Runtime": "67 min",
+      "Genre": "Horror, Sci-Fi",
+      "Director": "Alice Maio Mackay",
+      "Writer": "Alice Maio Mackay, Benjamin Pahl Robinson",
+      "Actors": "Kerry Armstrong, Jordan Dulieu, Brandon Flynn",
+      "Plot": "Sheri thought her biggest problem in life was dealing with the recent loss of her beloved grandma. But when a mysterious entity crash lands in the woods, only she and her group of friends are what stands in the way of an insatiabl...",
+      "Language": "English",
+      "Country": "Australia",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY2NjMwMDgxNF5BMl5BanBnXkFtZTYwNjIyNjg1._V1_QL75_UX280_CR0,7,280,280_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40521447",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.3,
+      30.7,
+      32.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hYMVwlquxdKRdqW3YIyNobA6A1V.jpg",
+      "https://image.tmdb.org/t/p/w1280/rJXSOkGpVc4yUYNgHHYNlV8a2rV.jpg",
+      "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
+    ],
+    "tmdb_id": "1579168"
+  },
+  "Mag Mag|None": {
+    "lbxd": {
+      "rating": 3.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/1/5/7/5/1411575-mag-mag-0-500-0-750-crop.jpg?v=0fb72f9071",
+      "description": "The revenge story of a woman whose partner is murdered by a ghost, and who will soon discover the true identity of the one she must avenge.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "Japan",
+      "lb_director": "Yuriyan Retriever",
+      "lb_director_slug": "yuriyan-retriever",
+      "lb_year": 2025,
+      "lb_title": "Mag Mag",
+      "backdrop": null,
+      "imdb_id": "tt38263629",
+      "tmdb_id": "1536720"
+    },
+    "omdb": {
+      "Title": "Mag Mag",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "06 Feb 2026",
+      "Runtime": "112 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Yuriyan Retriever",
+      "Writer": "N/A",
+      "Actors": "Mai Fukagawa, Tetsu Hirahara, Atsuko Hirata",
+      "Plot": "After her beloved is killed by the Mag Mag ghost, the protagonist, Sanae, vows revenge, but soon discovers the true identity of the person she truly owes her revenge to.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZlNDExMGYtOTc1Ny00MTM5LTk5MDQtMjU5MGE5YjYyODNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "69",
+      "imdbID": "tt38263629",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.8,
+      15.6,
+      42.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xJCZpMKq5GROqXlfPTPozhcWwxJ.jpg",
+      "https://image.tmdb.org/t/p/w1280/aWRLdVStMsg8hNATW7by9ybJV0X.jpg",
+      "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
+    ],
+    "tmdb_id": "1536720"
+  },
+  "Gunman|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/4/6/5/2/164652-gunman-0-500-0-750-crop.jpg?v=d5df745e8e",
+      "description": "At a nearby newsstand, another man witnesses the arrest. He turns and walks away – with a limp. He is the gunman, and his name is Sergeant Sommai. After losing a leg fighting for the Thai Special Forces during the Secret War in Laos, Sommai now works as a barber in a small shop in a canal community of suburban Bangkok.",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "country": "Thailand",
+      "lb_director": "Chatrichalerm Yukol",
+      "lb_director_slug": "chatrichalerm-yukol",
+      "lb_year": 1983,
+      "lb_title": "Gunman",
+      "backdrop": null,
+      "imdb_id": "tt0257972",
+      "tmdb_id": "234473"
+    },
+    "omdb": {
+      "Title": "Gunman",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "140 min",
+      "Genre": "N/A",
+      "Director": "Chatrichalerm Yukol",
+      "Writer": "N/A",
+      "Actors": "Sorapong Chatree, Ron Rittichai",
+      "Plot": "N/A",
+      "Language": "Thai",
+      "Country": "Thailand",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM0NTIzNDMtMTEzYy00NjhiLTljYmMtY2YzOGZmODExM2UxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "47",
+      "imdbID": "tt0257972",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/54OiKjwXBrZMMdony36i8FCOjlf.jpg"
+    ],
+    "tmdb_id": "234473"
+  },
+  "Mum, I’m Alien Pregnant|None": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/0/0/6/1465006-mum-im-alien-pregnant-0-500-0-750-crop.jpg?v=d289c7068f",
+      "description": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "country": "New Zealand",
+      "lb_director": "Jordan Mark Windsor",
+      "lb_director_slug": "jordan-mark-windsor",
+      "lb_year": 2026,
+      "lb_title": "Mum, I'm Alien Pregnant",
+      "backdrop": null,
+      "imdb_id": "tt28784376",
+      "tmdb_id": "1596301"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
+    ],
+    "tmdb_id": "1596301"
+  },
+  "Roma Elastica|None": {
+    "lbxd": {
+      "rating": 2.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/5/9/1184659-roma-elastica-0-500-0-750-crop.jpg?v=be14433e78",
+      "description": "1982. French actress Eddie is on the verge of collapse and travels to Rome accompanied by her loyal makeup artist, Valentina, to shoot a science-fiction film – a film that could be her last one.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller",
+        "Horror"
+      ],
+      "country": "France",
+      "lb_director": "Bertrand Mandico",
+      "lb_director_slug": "bertrand-mandico",
+      "lb_year": 2026,
+      "lb_title": "Roma elastica",
+      "backdrop": null,
+      "imdb_id": "tt32596720",
+      "tmdb_id": "1302994"
+    },
+    "omdb": {
+      "Title": "Roma elastica",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Bertrand Mandico",
+      "Writer": "Bertrand Mandico",
+      "Actors": "Marion Cotillard, Noémie Merlant, Martina Scrinzi",
+      "Plot": "The story revolves around an actress who is going to shoot her latest film in Rome in the 1980s.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32596720",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.1,
+      22.0,
+      36.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/aVPp9XJeYhAbGSaXOXgX8AtUq6g.jpg",
+      "https://image.tmdb.org/t/p/w1280/92uzbmS3aiWDUQ9sYEG9UEhzDYX.jpg",
+      "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
+    ],
+    "tmdb_id": "1302994"
+  },
+  "British Sounds|1969": {
+    "lbxd": {
+      "rating": 3.41,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/1/25431-british-sounds-0-500-0-750-crop.jpg?v=e29a65609f",
+      "description": "Jean-Luc Godard brings his firebrand political cinema to the UK, exploring the revolutionary signals in late '60s British society. Constructed as a montage of various disconnected political acts (in line with Godard's then appropriation of Soviet director Dziga Vertov's agitprop techniques), it combines a diverse range of footage, from students discussing The Beatles to the production line at the MG factory in Oxfordshire, burnished with onscreen political sloganeering.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Luc Godard",
+      "lb_director_slug": "jean-luc-godard-1",
+      "lb_year": 1970,
+      "lb_title": "British Sounds",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/v2/t0/c7/7v/x323447TwPUChZf30pC338RxPXF-1920-1920-1080-1080-crop-000000.jpg?v=6eeec06899",
+      "imdb_id": "tt0065494",
+      "tmdb_id": "39239"
+    },
+    "omdb": {
+      "Title": "See You at Mao",
+      "Year": "1970",
+      "Rated": "Not Rated",
+      "Released": "21 May 1970",
+      "Runtime": "54 min",
+      "Genre": "Documentary",
+      "Director": "Jean-Luc Godard, Jean-Henri Roger, Groupe Dziga Vertov",
+      "Writer": "Jean-Luc Godard, Jean-Henri Roger",
+      "Actors": "N/A",
+      "Plot": "An examination of the daily routine at a British auto factory assembly line, set against class-conflict and The Communist Manifesto.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZmZGZhNjAtNmZkMS00Y2I0LTgyYzEtNjBiZTllZWUzMmVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "620",
+      "imdbID": "tt0065494",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.9,
+      45.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/x323447TwPUChZf30pC338RxPXF.jpg",
+      "https://image.tmdb.org/t/p/w1280/hhzYhuvFvvQ675Wwi0CWkmbp17Z.jpg"
+    ],
+    "tmdb_id": "39239"
+  },
+  "Trás-Os-Montes|1976": {
+    "lbxd": {
+      "rating": 4.01,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/5/8/135058-tras-os-montes-0-500-0-750-crop.jpg?v=f5ad22b365",
+      "description": "The first feature in António Reis and Margarida Cordeiro’s trilogy is a journey through this almost mythical region of north-east Portugal, a tapestry of micronarratives where past, present and future become intertwined.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Margarida Cordeiro",
+      "lb_director_slug": "margarida-cordeiro",
+      "lb_year": 1976,
+      "lb_title": "Tras-os-Montes",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/t0/w5/4r/9s/tras-1920-1920-1080-1080-crop-000000.jpg?v=ae1dd3951c",
+      "imdb_id": "tt0075354",
+      "tmdb_id": "186967"
+    },
+    "omdb": {
+      "Title": "Trás-os-Montes",
+      "Year": "1976",
+      "Rated": "N/A",
+      "Released": "11 Jun 1976",
+      "Runtime": "108 min",
+      "Genre": "Drama",
+      "Director": "Margarida Cordeiro, António Reis",
+      "Writer": "Margarida Cordeiro, António Reis",
+      "Actors": "Albino S. Pedro, Carlos Margarido, Mariana Margarido",
+      "Plot": "It's a docudrama with a poetic writing and non-linear narrative. Specifically, it's an \"etnofiction\": portraits the typical characters of Terra Fria, the North-east of Portugal, showing secular habits, in a majestic rural ambient....",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MTk0MzQ0OV5BMl5BanBnXkFtZTcwOTcyODY0Nw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "215",
+      "imdbID": "tt0075354",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      49.3,
+      48.3,
+      49.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2C0PZONReMPZkhYmioIvr14vdUB.jpg",
+      "https://image.tmdb.org/t/p/w1280/i5jPho8ZDt73yHOVNpcWFqW8eP2.jpg",
+      "https://image.tmdb.org/t/p/w1280/wBzdnSIeOWU33oJff18suOkZeku.jpg"
+    ],
+    "tmdb_id": "186967"
+  },
+  "Casino|1995": {
+    "lbxd": {
+      "rating": 4.22,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6p/om/dp/mc/casino-original-0-500-0-750-crop.jpg?v=4bb9a2596f",
+      "description": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1995,
+      "lb_title": "Casino",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4x/k7/eg/7o/casino-1920-1920-1080-1080-crop-000000.jpg?v=7ca7bf9f3a",
+      "imdb_id": "tt0112641",
+      "tmdb_id": "524"
+    },
+    "omdb": {
+      "Title": "Casino",
+      "Year": "1995",
+      "Rated": "R",
+      "Released": "22 Nov 1995",
+      "Runtime": "178 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Nicholas Pileggi, Martin Scorsese",
+      "Actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+      "Plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "Language": "English",
+      "Country": "United States, France",
+      "Awards": "Nominated for 1 Oscar. 4 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.2",
+      "imdbVotes": "613,907",
+      "imdbID": "tt0112641",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$42,512,375",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.2,
+      42.3,
+      23.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/73UvQRjuSr6stQUZBB7bpkPjshX.jpg",
+      "https://image.tmdb.org/t/p/w1280/b0X2DVqSWMwItvVPICLnf2JA38l.jpg",
+      "https://image.tmdb.org/t/p/w1280/u0dh7MWHpJAXhpC3pkLRbu5zFVU.jpg"
+    ],
+    "tmdb_id": "524"
   }
 }
