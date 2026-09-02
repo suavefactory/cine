@@ -1812,15 +1812,5 @@
     "photo": null,
     "bio": null,
     "tries": 3
-  },
-  "Krzysztof Kieslowski": {
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "bio": "Krzysztof Kieślowski (Polish: [ˈkʂɨʂtɔf kʲɛɕˈlɔfskʲi] , 27 June 1941 – 14 March 1996) was a Polish film director and screenwriter. He is known internationally for Dekalog (1989), The Double Life of Veronique (1991), and the Three Colours trilogy (1993–1994). Kieślowski received numerous awards during his career, including the Cannes Film Festival Jury Prize (1988), FIPRESCI Prize (1988, 1991), and Prize of the Ecumenical Jury (1991), the Venice Film Festival FIPRESCI Prize (1989), Golden Lion (1993), and OCIC Award (1993), and the Berlin International Film Festival Silver Bear (1994).",
-    "tries": 1
-  },
-  "Alain Tanner": {
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alain_Tanner_r%C3%A9pondant_%C3%A0_Andr%C3%A9_S._Labarthe_%C3%A0_la_Cin%C3%A9math%C3%A8que_fran%C3%A7aise.JPG/500px-Alain_Tanner_r%C3%A9pondant_%C3%A0_Andr%C3%A9_S._Labarthe_%C3%A0_la_Cin%C3%A9math%C3%A8que_fran%C3%A7aise.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "bio": "Alain Tanner (6 December 1929 – 11 September 2022) was a Swiss film director.",
-    "tries": 1
   }
 }
