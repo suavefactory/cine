@@ -39976,7 +39976,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      34.0
+      33.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/cTZjNtY4JTJgiHsDUO09Xnv6VBs.jpg"
@@ -45923,7 +45923,7 @@
     "tmdb_id": "95378",
     "wiki_tries": 3,
     "stills_focus": [
-      32.4,
+      32.5,
       43.2
     ],
     "stills": [
@@ -50364,7 +50364,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      32.5,
+      33.1,
       28.2
     ],
     "stills": [
@@ -51007,7 +51007,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1666010"
+    "tmdb_id": "1666010",
+    "wiki_tries": 1
   },
   "The Fall Of The House Of Usher|None": {
     "lbxd": {
@@ -53642,7 +53643,7 @@
       "https://image.tmdb.org/t/p/w1280/jxcSXIH3SIEwRoO27HiiFjMT7hX.jpg"
     ],
     "tmdb_id": "57981",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Prática|2024": {
     "lbxd": {
@@ -60141,7 +60142,7 @@
       "https://image.tmdb.org/t/p/w1280/1HmsmFKeNfjhVfyYpn6wYbDLYpz.jpg"
     ],
     "tmdb_id": "52104",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Poultry Farm|None": {
     "lbxd": null,
@@ -60300,7 +60301,7 @@
       "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
     ],
     "tmdb_id": "125960",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "American Dollhouse|None": {
     "lbxd": {
@@ -60525,7 +60526,7 @@
       "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
     ],
     "tmdb_id": "1314812",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Remanence – A Voltage Cosmic Horror + Q&A|None": {
     "lbxd": {
@@ -60650,7 +60651,7 @@
       "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
     ],
     "tmdb_id": "1280738",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Our Effed Up World|None": {
     "lbxd": {
@@ -60711,7 +60712,7 @@
       "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
     ],
     "tmdb_id": "1579168",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Mag Mag|None": {
     "lbxd": {
@@ -60771,7 +60772,7 @@
       "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
     ],
     "tmdb_id": "1536720",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Gunman|None": {
     "lbxd": {
@@ -60865,7 +60866,7 @@
       "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
     ],
     "tmdb_id": "1596301",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Roma Elastica|None": {
     "lbxd": {
@@ -60928,7 +60929,7 @@
       "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
     ],
     "tmdb_id": "1302994",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "British Sounds|1969": {
     "lbxd": {
@@ -61209,7 +61210,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Three Colours: Red",
+      "imdb_id": "tt0111495",
+      "extract_pt": "Trois couleurs: Rouge (Brasil: A Fraternidade É Vermelha / Portugal: Três Cores: Vermelho) é um filme polonês, francês e suíço de 1994, do gênero drama, dirigido pelo cineasta polonês Krzysztof Kieślowski.\nÉ o terceiro filme da trilogia das cores, baseada nas três cores da bandeira francesa e nas três palavras do lema da Revolução Francesa - liberdade, igualdade e fraternidade. O filme completa a trilogia e trata do ideal da fraternidade."
+    },
     "cinema": {
       "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
     },
@@ -61224,7 +61229,8 @@
       "https://image.tmdb.org/t/p/w1280/5pZEn16rAMc1geDMxHB5EbACpKn.jpg",
       "https://image.tmdb.org/t/p/w1280/88HAPCIgQ4Bd20hJKwwwsKjCNxs.jpg"
     ],
-    "tmdb_id": "110"
+    "tmdb_id": "110",
+    "wiki_tries": 1
   },
   "Bringing Out The Dead|1999": {
     "lbxd": {
@@ -61283,7 +61289,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Bringing Out the Dead",
+      "imdb_id": "tt0163988",
+      "extract_pt": "Bringing Out the Dead (bra: Vivendo no Limite) é um filme de 1999 dirigido por Martin Scorsese, estrelando Nicolas Cage, Ving Rhames, John Goodman, e Tom Sizemore. É baseado no romance de Joe Connelly, um médico da cidade de Nova Iorque."
+    },
     "cinema": {
       "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
     },
@@ -61298,7 +61308,8 @@
       "https://image.tmdb.org/t/p/w1280/usI7HjQKftSn6hPYezHcdp6nb6y.jpg",
       "https://image.tmdb.org/t/p/w1280/6UgzxKBBIdfTLrDQdDdFf1gpBBa.jpg"
     ],
-    "tmdb_id": "8649"
+    "tmdb_id": "8649",
+    "wiki_tries": 1
   },
   "La Salamandre|1971": {
     "lbxd": {
@@ -61350,7 +61361,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Salamander (1971 film)",
+      "imdb_id": "tt0067701",
+      "extract_pt": "La Salamandre é um filme de drama suíço de 1971 dirigido e escrito por Alain Tanner e John Berger. Foi selecionado como representante da Suíça à edição do Oscar 1972, organizada pela Academia de Artes e Ciências Cinematográficas."
+    },
     "cinema": {
       "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
     },
@@ -61365,7 +61380,8 @@
       "https://image.tmdb.org/t/p/w1280/8ngj1o14cDZ4bzfuCgLEl7aTpA.jpg",
       "https://image.tmdb.org/t/p/w1280/wJ7I4AT0lzkSbj9TMiaj2JfLJsk.jpg"
     ],
-    "tmdb_id": "62978"
+    "tmdb_id": "62978",
+    "wiki_tries": 1
   },
   "Kundun|1997": {
     "lbxd": {
@@ -61425,7 +61441,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Kundun",
+      "imdb_id": "tt0119485",
+      "extract_pt": "Kundun é um filme americano de 1997 escrito por Melissa Mathison e dirigido por Martin Scorsese, baseado na vida de Tenzin Gyatso, o 14º dalai-lama. \nNação ocupada há décadas pelo governo da China, o Tibete proibiu Scorsese e Mathison de gravar o filme em seu território. \nO filme foi indicado ao Óscar de Melhor Banda Sonora Original."
+    },
     "cinema": {
       "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
     },
@@ -61440,7 +61460,8 @@
       "https://image.tmdb.org/t/p/w1280/8yqyaXCTSDRumZiIf7pwUnamkXf.jpg",
       "https://image.tmdb.org/t/p/w1280/mDiF5ikQ6e4ejXI78caPIx50hs6.jpg"
     ],
-    "tmdb_id": "9746"
+    "tmdb_id": "9746",
+    "wiki_tries": 1
   },
   "Era Uma Vez na América|1985": {
     "lbxd": {
@@ -61731,7 +61752,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "La Piscine (film)",
+      "imdb_id": "tt0064816",
+      "extract_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand."
+    },
     "cinema": {
       "year": 1969,
       "original_title": "La Piscine",
@@ -61749,6 +61774,150 @@
       "https://image.tmdb.org/t/p/w1280/gbgoA365wY0tLZxVCaOE6NpF2iF.jpg",
       "https://image.tmdb.org/t/p/w1280/pZ0nNN5UoUkpyY9zWdyquztgX1v.jpg"
     ],
-    "tmdb_id": "4946"
+    "tmdb_id": "4946",
+    "wiki_tries": 1
+  },
+  "L’Hypothèse Du Tableau Volé|1979": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
+      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1978,
+      "lb_title": "The Hypothesis of the Stolen Painting",
+      "backdrop": null,
+      "imdb_id": "tt0077707",
+      "tmdb_id": "88034"
+    },
+    "omdb": {
+      "Title": "L'hypothèse du tableau volé",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "04 Apr 1979",
+      "Runtime": "66 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Raúl Ruiz",
+      "Writer": "Raúl Ruiz, Pierre Klossowski",
+      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
+      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,240",
+      "imdbID": "tt0077707",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      8.0,
+      27.9,
+      57.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
+      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
+      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
+    ],
+    "tmdb_id": "88034"
+  },
+  "Gangs Of New York|2002": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/4/6/49846-gangs-of-new-york-0-500-0-750-crop.jpg?v=5c4435acc6",
+      "description": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+      "genres": [
+        "Drama",
+        "History",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2002,
+      "lb_title": "Gangs of New York",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/df/5x/o9/7z/gangs-new-york-1920-1920-1080-1080-crop-000000.jpg?v=0a215ca565",
+      "imdb_id": "tt0217505",
+      "tmdb_id": "3131"
+    },
+    "omdb": {
+      "Title": "Gangs of New York",
+      "Year": "2002",
+      "Rated": "R",
+      "Released": "20 Dec 2002",
+      "Runtime": "167 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Jay Cocks, Steven Zaillian, Kenneth Lonergan",
+      "Actors": "Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis",
+      "Plot": "In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher; his father's killer.",
+      "Language": "English, Irish Gaelic, Chinese, Latin",
+      "Country": "United States, Italy",
+      "Awards": "Nominated for 10 Oscars. 50 wins & 135 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.5",
+      "imdbVotes": "502,256",
+      "imdbID": "tt0217505",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$77,812,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.5,
+      40.5,
+      17.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
+      "https://image.tmdb.org/t/p/w1280/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg",
+      "https://image.tmdb.org/t/p/w1280/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg"
+    ],
+    "tmdb_id": "3131"
   }
 }
