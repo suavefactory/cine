@@ -79,7 +79,8 @@ window.CINEMA_DATA = {
         43.0
       ],
       "country": "South Korea",
-      "director_lbxd_slug": "na-hong-jin"
+      "director_lbxd_slug": "ylmaz-guney",
+      "plot_pt": "So-won (bra: Hope) é um filme de drama sul-coreano de 2013 dirigido por Lee Joon-ik, com roteiro baseado no \"caso Nayoung\", ocorrido em 2008.\nSo-won é protagonizado por Lee Re, Sol Kyung-gu, Uhm Ji-won e Kim Hae-sook."
     },
     {
       "id": "sao_jorge_11405",
@@ -493,7 +494,8 @@ window.CINEMA_DATA = {
         35.0
       ],
       "country": "UK",
-      "director_lbxd_slug": "michael-spierig"
+      "director_lbxd_slug": "michael-spierig",
+      "rating": 2.4
     },
     {
       "id": "sao_jorge_11633",
@@ -1434,7 +1436,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.82,
       "plot": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
-      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm.",
+      "plot_pt": "Entre o Bronx e Coney Island, dois gangues de adolescentes perseguem se durante uma noite. Terceira longa metragem de Walter Hill num período de graça da sua obra, THE WARRIORS foi o filme que definitivamente o lançou para uma carreira no mínimo singular, privilegiando o género do western mas dando lhe um toque contemporâneo tendendo para a distopia. Um “CLOCKWORK ORANGE + WEST SIDE STORY” que extravasou o grande ecrã, tendo a performance nas bilheteiras sido prejudicada por alguns incidentes envolvendo gangues reais, o que levou à retirada precoce do filme das salas (mais tarde, tornou se um dos mais amados fenómenos de culto dos anos 70). A exibir em cópia digital.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
         "https://image.tmdb.org/t/p/w1280/wb2WNnJENGjZjro7cy1F8S9Lfxf.jpg",
@@ -10300,7 +10302,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
       ],
       "stills_focus": [
-        33.3
+        33.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -10338,6 +10340,48 @@ window.CINEMA_DATA = {
         41.9
       ],
       "director_lbxd_slug": "paulo-rocha-1"
+    },
+    {
+      "id": "trindade_9198",
+      "title": "A Prática",
+      "director": "Martín Rejtman",
+      "year": 2023,
+      "duration": "",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/6/8/5/4/636854-the-practice-0-500-0-750-crop.jpg?v=b63aeed921",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/a-pratica",
+      "sessions": [
+        {
+          "date": "2026-09-03",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-09-05",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-09-07",
+          "time": "14:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.21,
+      "plot": "Dealing with a series of increasingly absurd situations and relationships, recently separated yoga instructors Gustavo and Vanesa are finding it difficult to live apart. Their challenges include meddling mothers, amnesiac students, and burgeoning romances. Step by step, they find their way back to the practice.",
+      "plot_pt": "Gustavo e Vanesa separam-se e têm de rever os projetos em comum. Os dois são professores de yoga. Gustavo é argentino, Vanesa é chilena. Vanesa fica com o apartamento e deixa o estúdio que partilhavam; Gustavo fica sem casa. Devido ao stress acumulado, Gustavo lesiona o joelho e substitui o yoga por exercícios de quadríceps e ginásio. A sua vida transforma-se num mundo de alunos e ex-alunos. Até que, aos poucos, ele reencontra o caminho para a prática.",
+      "title_en": "The Practice",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/wbJF09o7jimtS2AOvzYgjoX18Bl.jpg"
+      ],
+      "stills_focus": [
+        32.7
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "martin-rejtman"
     },
     {
       "id": "trindade_9436",
@@ -11344,6 +11388,16 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/500px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Martin Charles Scorsese ( skor-SESS-ee; Italian: [skorˈseːze, -se]; born November 17, 1942) is an American filmmaker. One of the major figures of the New Hollywood era, he is widely considered one of the greatest and most influential directors in the history of cinema. He has received numerous accolades including an Academy Award, four BAFTA Awards, three Emmy Awards, a Grammy Award, and three Golden Globe Awards."
     },
+    "Felix Breisach": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Austrian director"
+    },
+    "Francesco Stefani": {
+      "lbxd_slug": "francesco-stefani",
+      "photo": null,
+      "bio": "Francesco Stefani (born 17 April 1971 in Bassano del Grappa) is an Italian slalom canoeist who competed from the late 1980s to the mid-2000s. He won a bronze medal in the C-1 team event at the 1993 ICF Canoe Slalom World Championships in Mezzana. Stefani also finished 26th in the C-1 event at the 1996 Summer Olympics in Atlanta."
+    },
     "Leida Laius": {
       "lbxd_slug": "leida-laius",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Leida_Laius.jpg/500px-Leida_Laius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -12009,13 +12063,8 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg/500px-Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Olivia Jane Cockburn (born March 10, 1984), known professionally as Olivia Wilde, is an American actress and filmmaker. She played Remy \"Thirteen\" Hadley on the medical-drama television series House (2007–2012), and appeared in the action films Tron: Legacy (2010) and Cowboys & Aliens (2011), the romantic drama film Her (2013), the comedy film The Incredible Burt Wonderstone (2013), and the horror film The Lazarus Effect (2015). She made her Broadway debut playing Julia in 1984 (2017)."
     },
-    "Martín Rejtman": {
-      "lbxd_slug": "martin-rejtman",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mart%C3%ADn_Rejtman.jpg/500px-Mart%C3%ADn_Rejtman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Martín Rejtman (born January 3, 1961, in Buenos Aires) is an Argentine writer and film director. He is considered to be a key figure in the New Argentine Cinema, making films such as Silvia Prieto and The Magic Gloves. His documentary Riders won the Eurimages Co-Production Development Award at the San Sebastián International Film Festival in 2020."
-    },
-    "Rodrigo Areias, Aaron Brookner": {
-      "lbxd_slug": "rodrigo-areias",
+    "Guto Parente": {
+      "lbxd_slug": "guto-parente",
       "photo": null,
       "bio": null
     },
@@ -12024,20 +12073,30 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg/500px-Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Karim Aïnouz (; Portuguese: [kɐˈɾĩ ajˈnus]; born 17 January 1966) is a Brazilian film director and visual artist. He is best known for his film The Invisible Life of Eurídice Gusmão."
     },
-    "Michael Powell": {
-      "lbxd_slug": "michael-powell",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Michael_Powell-1943_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bio": "Michael Latham Powell (30 September 1905 – 19 February 1990) was an English filmmaker. He is celebrated for his partnership with Emeric Pressburger and through their production company, The Archers, they together wrote, produced and directed a series of classic British films, notably The Life and Death of Colonel Blimp (1943), A Canterbury Tale (1944), I Know Where I'm Going! (1945), A Matter of Life and Death (1946, Stairway to Heaven in the U.S.), Black Narcissus (1947), The Red Shoes (1948), and The Tales of Hoffmann (1951)."
-    },
-    "Guto Parente": {
-      "lbxd_slug": "guto-parente",
-      "photo": null,
-      "bio": null
-    },
     "Mikhail Kalatozov": {
       "lbxd_slug": "mikhail-kalatozov",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg/500px-Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Mikhail Konstantinovich Kalatozov (Georgian: მიხეილ კალატოზიშვილი, Russian: Михаил Константинович Калатозов; 28 December 1903 – 26 March 1973), born Mikheil Kalatozishvili, was a Soviet film director of Georgian origin who contributed to both Georgian and Russian cinema. He is known for his films The Cranes Are Flying and I Am Cuba, winning the Palme d'Or for the former at the 1958 Cannes Film Festival."
+    },
+    "Lois Patiño": {
+      "lbxd_slug": "lois-patino",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Festival_de_M%C3%A1laga_2020_-_Lois_Pati%C3%B1o_2.jpg/500px-Festival_de_M%C3%A1laga_2020_-_Lois_Pati%C3%B1o_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Spanish film director"
+    },
+    "Rodrigo Areias, Aaron Brookner": {
+      "lbxd_slug": "rodrigo-areias",
+      "photo": null,
+      "bio": null
+    },
+    "Sofia Exarchou": {
+      "lbxd_slug": "sofia-exarchou",
+      "photo": null,
+      "bio": "Greek film director"
+    },
+    "Michael Powell": {
+      "lbxd_slug": "michael-powell",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Michael_Powell-1943_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bio": "Michael Latham Powell (30 September 1905 – 19 February 1990) was an English filmmaker. He is celebrated for his partnership with Emeric Pressburger and through their production company, The Archers, they together wrote, produced and directed a series of classic British films, notably The Life and Death of Colonel Blimp (1943), A Canterbury Tale (1944), I Know Where I'm Going! (1945), A Matter of Life and Death (1946, Stairway to Heaven in the U.S.), Black Narcissus (1947), The Red Shoes (1948), and The Tales of Hoffmann (1951)."
     },
     "Gregg Araki": {
       "lbxd_slug": "gregg-araki",

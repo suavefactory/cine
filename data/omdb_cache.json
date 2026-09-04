@@ -46683,7 +46683,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.3
+      33.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
@@ -54147,7 +54147,7 @@
   },
   "Fall 2: Deadpoint|2026": {
     "lbxd": {
-      "rating": null,
+      "rating": 2.4,
       "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/2/4/7/993247-fall-2-deadpoint-0-500-0-750-crop.jpg?v=d7c47f038b",
       "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "genres": [
@@ -54162,33 +54162,7 @@
       "imdb_id": "tt31192372",
       "tmdb_id": "1101412"
     },
-    "omdb": {
-      "Title": "Fall 2",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "07 Aug 2026",
-      "Runtime": "N/A",
-      "Genre": "Adventure, Drama, Thriller",
-      "Director": "Michael Spierig, Peter Spierig",
-      "Writer": "Jonathan Frank, Scott Mann",
-      "Actors": "Harriet Slater, Tom Brittney, Arsema Thomas",
-      "Plot": "Grieving her sister Shiloh's death, Jax Hunter bonds with Shiloh's bold friend Luce. They tackle Mount Kwan's dangerous plank walk in Thailand. When a rockslide traps them on a narrow plank 3000 feet up, Jax must face her fears to...",
-      "Language": "English",
-      "Country": "United States, United Kingdom",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg4ZWQ4MTEtOWRkZS00NTg4LTg1OTAtMDBhMzI2YTJiZDRlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt31192372",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -54342,7 +54316,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1666010",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Fall Of The House Of Usher|1928": {
     "lbxd": {
@@ -55260,7 +55234,8 @@
         "Family",
         "Comedy",
         "Animation",
-        "Science Fiction"
+        "Adventure",
+        "Horror"
       ],
       "country": "UK",
       "lb_director": "Steve Cox",
@@ -61790,77 +61765,7 @@
     "tmdb_id": "4946",
     "wiki_tries": 1
   },
-  "Hope|2026": {
-    "lbxd": {
-      "rating": 3.31,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/4/6/6/3/954663-hope-2026-0-500-0-750-crop.jpg?v=102a8bfda2",
-      "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Mystery"
-      ],
-      "country": "South Korea",
-      "lb_director": "Na Hong-jin",
-      "lb_director_slug": "na-hong-jin",
-      "lb_year": 2026,
-      "lb_title": "Hope",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/5/4/6/6/3/tmdb/qv2gffpbllYE1Pxz5nhYQmYuht5-1920-1920-1080-1080-crop-000000.jpg?v=c62374719c",
-      "imdb_id": "tt27369017",
-      "tmdb_id": "1058424"
-    },
-    "omdb": {
-      "Title": "Hope",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "09 Sep 2026",
-      "Runtime": "160 min",
-      "Genre": "Action, Drama, Horror",
-      "Director": "Na Hong-jin",
-      "Writer": "Na Hong-jin",
-      "Actors": "Hwang Jung-min, Zo In-sung, Hoyeon",
-      "Plot": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
-      "Language": "Korean, English",
-      "Country": "South Korea",
-      "Awards": "1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.0/10"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "68/100"
-        }
-      ],
-      "Metascore": "68",
-      "imdbRating": "7.0",
-      "imdbVotes": "678",
-      "imdbID": "tt27369017",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      43.1,
-      35.1,
-      43.0
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
-      "https://image.tmdb.org/t/p/w1280/5MGFVXDYdcxs4H59f3YgZfEsqq4.jpg",
-      "https://image.tmdb.org/t/p/w1280/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
-    ],
-    "tmdb_id": "1058424"
-  },
-  "L’Hypothèse Du Tableau Volé|1979": {
+  "L’Hypothèse Du Tableau Volé|1978": {
     "lbxd": {
       "rating": 3.97,
       "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
@@ -62002,116 +61907,5 @@
       "https://image.tmdb.org/t/p/w1280/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg"
     ],
     "tmdb_id": "3131"
-  },
-  "Visages D’Enfants|1923": {
-    "lbxd": {
-      "rating": 3.66,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
-      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
-      "genres": [
-        "Romance",
-        "Family",
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Jacques Feyder",
-      "lb_director_slug": "jacques-feyder",
-      "lb_year": 1925,
-      "lb_title": "Faces of Children",
-      "backdrop": null,
-      "imdb_id": "tt0016491",
-      "tmdb_id": "87116"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      31.3,
-      45.0,
-      42.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
-      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
-      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
-    ],
-    "tmdb_id": "87116"
-  },
-  "The Aviator|2004": {
-    "lbxd": {
-      "rating": 3.76,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/3e/ft/n3/pz/y7TLJzyaz5ILCPqqvoJoVK0zfD3-0-500-0-750-crop.jpg?v=7d8d7fc76e",
-      "description": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Germany",
-      "lb_director": "Martin Scorsese",
-      "lb_director_slug": "martin-scorsese",
-      "lb_year": 2004,
-      "lb_title": "The Aviator",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/is/3p/5x/w4/aviator-1920-1920-1080-1080-crop-000000.jpg?v=a4a496e2b0",
-      "imdb_id": "tt0338751",
-      "tmdb_id": "2567"
-    },
-    "omdb": {
-      "Title": "The Aviator",
-      "Year": "2004",
-      "Rated": "PG-13",
-      "Released": "25 Dec 2004",
-      "Runtime": "170 min",
-      "Genre": "Biography, Drama",
-      "Director": "Martin Scorsese",
-      "Writer": "John Logan",
-      "Actors": "Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale",
-      "Plot": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
-      "Language": "English, Persian",
-      "Country": "Germany, United States",
-      "Awards": "Won 5 Oscars. 89 wins & 131 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "86%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "77/100"
-        }
-      ],
-      "Metascore": "77",
-      "imdbRating": "7.5",
-      "imdbVotes": "401,380",
-      "imdbID": "tt0338751",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$102,610,330",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      23.2,
-      22.3,
-      22.5
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/6KLKdhk9wZvJ6OcTzDCoxup0Kmh.jpg",
-      "https://image.tmdb.org/t/p/w1280/vVk0HV9HAqvvSfWiNGjpsOekLBS.jpg",
-      "https://image.tmdb.org/t/p/w1280/yRL8uh5YVq5XDuRHPoXQu0zt0Wa.jpg"
-    ],
-    "tmdb_id": "2567"
   }
 }
