@@ -50813,7 +50813,7 @@
   },
   "Fall 2: Deadpoint|None": {
     "lbxd": {
-      "rating": null,
+      "rating": 2.4,
       "poster": "https://a.ltrbxd.com/resized/film-poster/9/9/3/2/4/7/993247-fall-2-deadpoint-0-500-0-750-crop.jpg?v=d7c47f038b",
       "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "genres": [
@@ -51008,7 +51008,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1666010",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Fall Of The House Of Usher|None": {
     "lbxd": {
@@ -60188,7 +60188,8 @@
         "Family",
         "Comedy",
         "Animation",
-        "Science Fiction"
+        "Adventure",
+        "Horror"
       ],
       "country": "UK",
       "lb_director": "Steve Cox",
@@ -60302,7 +60303,7 @@
       "https://image.tmdb.org/t/p/w1280/f63qMoOKbDZr1gs13U5a7Qj6aOd.jpg"
     ],
     "tmdb_id": "125960",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "American Dollhouse|None": {
     "lbxd": {
@@ -60527,7 +60528,7 @@
       "https://image.tmdb.org/t/p/w1280/yra1tV0cOxSxlyCNgZn1rQybYAD.jpg"
     ],
     "tmdb_id": "1314812",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Remanence – A Voltage Cosmic Horror + Q&A|None": {
     "lbxd": {
@@ -60652,7 +60653,7 @@
       "https://image.tmdb.org/t/p/w1280/AlMCQ0z8FmqyLytAV4Czfr3lrs3.jpg"
     ],
     "tmdb_id": "1280738",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Our Effed Up World|None": {
     "lbxd": {
@@ -60713,7 +60714,7 @@
       "https://image.tmdb.org/t/p/w1280/4CQpmbZx9gUBkkyDARsawRXKoZ9.jpg"
     ],
     "tmdb_id": "1579168",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Mag Mag|None": {
     "lbxd": {
@@ -60773,7 +60774,7 @@
       "https://image.tmdb.org/t/p/w1280/axpACkCX5ea97OPBxn7EFAuJtYQ.jpg"
     ],
     "tmdb_id": "1536720",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Gunman|None": {
     "lbxd": {
@@ -60867,7 +60868,7 @@
       "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
     ],
     "tmdb_id": "1596301",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Roma Elastica|None": {
     "lbxd": {
@@ -60930,7 +60931,7 @@
       "https://image.tmdb.org/t/p/w1280/iHiddKwJ29heqJ36k1OXD0rO6lU.jpg"
     ],
     "tmdb_id": "1302994",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "British Sounds|1969": {
     "lbxd": {
@@ -61522,7 +61523,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Once Upon a Time in America",
+      "imdb_id": "tt0087843",
+      "extract_pt": "Era uma Vez na América (em inglês: Once Upon a Time in America; em italiano: C'era una volta in America) é um filme ítalo-estadunidense de 1984 dos gêneros drama épico e crime, coescrito e dirigido pelo cineasta italiano Sergio Leone, e estrelado por Robert De Niro e James Woods. Foi produzido pelos estúdios americanos The Ladd Company, Embassy International Pictures e PSO Enterprises em conjunto com a Rafran Cinematografica da Itália. Baseado no romance The Hoods, escrito por Harry Grey, o filme narra a vida dos melhores amigos Noodles e Max enquanto lideram um grupo de jovens judeus do gueto que ganham destaque como gangsters judeus no mundo do crime organizado da cidade de Nova York. O longa explora temas de amizades de infância, amor, luxúria, ganância, traição, perda e relacionamentos rompidos, juntamente com a ascensão de mafiosos na sociedade americana."
+    },
     "cinema": {
       "original_title": "Once Upon a Time in America",
       "plot_pt": "Leone revolucionou o western e os filmes de gangsters e foi um dos realizadores estrangeiros que mais soube apropriar-se da história da América e dos seus mitos. Era uma Vez na América, “poema épico” de violência e avidez que acompanha 5 décadas na vida de quatro gangsters nova-iorquinos, foi o filme da sua consagração crítica, apresentado no festival de Cannes em 1984.",
@@ -61542,7 +61547,8 @@
       "https://image.tmdb.org/t/p/w1280/1rdBEWWgtI85SYtP3cUaTv5WNL7.jpg",
       "https://image.tmdb.org/t/p/w1280/jSy5yfOWXeazRWGr9JeGvHJf4q6.jpg"
     ],
-    "tmdb_id": "311"
+    "tmdb_id": "311",
+    "wiki_tries": 1
   },
   "O Padrinho: Parte II|1972": {
     "lbxd": {
@@ -61602,7 +61608,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Godfather",
+      "imdb_id": "tt0068646",
+      "extract_pt": "The Godfather  é um filme policial de 1972, dirigido por Francis Ford Coppola,produzido nos Estados Unidos e baseado no livro homônimo de Mario Puzo,com o roteiro escrito por ambos. Primeira parte da trilogia The Godfather,  narra a história da família Corleone sob o comando do patriarca Vito Corleone, de 1945 a 1955, concentrando-se na transformação de seu filho mais novo, Michael Corleone, de relutante forasteiro da família a implacável chefe da máfia. É estrelado por Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte e Diane Keaton.\nA Paramount Pictures obteve os direitos do romance original por oitenta mil dólares, antes mesmo do livro ganhar popularidade."
+    },
     "cinema": {
       "original_title": "The Godfather Part II",
       "plot_pt": "Em 1950, o jovem Michael Corleone, agora à frente da família, tenta expandir o negócio a Las Vegas, Hollywood e Cuba. Paralelamente, revela-se a história do jovem Vito Corleone, e de como saiu da Sicília em 1910 e chegou a Nova Iorque para construir um império do crime.",
@@ -61622,7 +61632,8 @@
       "https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
       "https://image.tmdb.org/t/p/w1280/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg"
     ],
-    "tmdb_id": "240"
+    "tmdb_id": "240",
+    "wiki_tries": 1
   },
   "Natal Amargo|2025": {
     "lbxd": {
@@ -61693,7 +61704,8 @@
       "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
       "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
     ],
-    "tmdb_id": "1088548"
+    "tmdb_id": "1088548",
+    "wiki_tries": 1
   },
   "A Piscina|1969": {
     "lbxd": {
@@ -61777,5 +61789,329 @@
     ],
     "tmdb_id": "4946",
     "wiki_tries": 1
+  },
+  "Hope|2026": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/4/6/6/3/954663-hope-2026-0-500-0-750-crop.jpg?v=102a8bfda2",
+      "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "country": "South Korea",
+      "lb_director": "Na Hong-jin",
+      "lb_director_slug": "na-hong-jin",
+      "lb_year": 2026,
+      "lb_title": "Hope",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/5/4/6/6/3/tmdb/qv2gffpbllYE1Pxz5nhYQmYuht5-1920-1920-1080-1080-crop-000000.jpg?v=c62374719c",
+      "imdb_id": "tt27369017",
+      "tmdb_id": "1058424"
+    },
+    "omdb": {
+      "Title": "Hope",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "09 Sep 2026",
+      "Runtime": "160 min",
+      "Genre": "Action, Drama, Horror",
+      "Director": "Na Hong-jin",
+      "Writer": "Na Hong-jin",
+      "Actors": "Hwang Jung-min, Zo In-sung, Hoyeon",
+      "Plot": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
+      "Language": "Korean, English",
+      "Country": "South Korea",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.0",
+      "imdbVotes": "678",
+      "imdbID": "tt27369017",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      43.1,
+      35.1,
+      43.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+      "https://image.tmdb.org/t/p/w1280/5MGFVXDYdcxs4H59f3YgZfEsqq4.jpg",
+      "https://image.tmdb.org/t/p/w1280/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
+    ],
+    "tmdb_id": "1058424"
+  },
+  "L’Hypothèse Du Tableau Volé|1979": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
+      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1978,
+      "lb_title": "The Hypothesis of the Stolen Painting",
+      "backdrop": null,
+      "imdb_id": "tt0077707",
+      "tmdb_id": "88034"
+    },
+    "omdb": {
+      "Title": "L'hypothèse du tableau volé",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "04 Apr 1979",
+      "Runtime": "66 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Raúl Ruiz",
+      "Writer": "Raúl Ruiz, Pierre Klossowski",
+      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
+      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,240",
+      "imdbID": "tt0077707",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      8.0,
+      27.9,
+      57.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
+      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
+      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
+    ],
+    "tmdb_id": "88034"
+  },
+  "Gangs Of New York|2002": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/4/6/49846-gangs-of-new-york-0-500-0-750-crop.jpg?v=5c4435acc6",
+      "description": "In early 1860s New York, Irish immigrant Amsterdam Vallon is released from prison and returns to the Five Points, seeking revenge against his father's killer, William Cutting, a powerful anti-immigrant gang leader. He knows that revenge can only be attained by infiltrating Cutting's inner circle. Vallon's journey becomes a fight for personal survival and to find a place for the Irish people.",
+      "genres": [
+        "Drama",
+        "History",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2002,
+      "lb_title": "Gangs of New York",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/df/5x/o9/7z/gangs-new-york-1920-1920-1080-1080-crop-000000.jpg?v=0a215ca565",
+      "imdb_id": "tt0217505",
+      "tmdb_id": "3131"
+    },
+    "omdb": {
+      "Title": "Gangs of New York",
+      "Year": "2002",
+      "Rated": "R",
+      "Released": "20 Dec 2002",
+      "Runtime": "167 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Jay Cocks, Steven Zaillian, Kenneth Lonergan",
+      "Actors": "Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis",
+      "Plot": "In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher; his father's killer.",
+      "Language": "English, Irish Gaelic, Chinese, Latin",
+      "Country": "United States, Italy",
+      "Awards": "Nominated for 10 Oscars. 50 wins & 135 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "72%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.5",
+      "imdbVotes": "502,256",
+      "imdbID": "tt0217505",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$77,812,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.5,
+      40.5,
+      17.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/p8yXQse3IDZiwEjWRHda3EzDQjA.jpg",
+      "https://image.tmdb.org/t/p/w1280/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg",
+      "https://image.tmdb.org/t/p/w1280/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg"
+    ],
+    "tmdb_id": "3131"
+  },
+  "Visages D’Enfants|1923": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
+      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Feyder",
+      "lb_director_slug": "jacques-feyder",
+      "lb_year": 1925,
+      "lb_title": "Faces of Children",
+      "backdrop": null,
+      "imdb_id": "tt0016491",
+      "tmdb_id": "87116"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.3,
+      45.0,
+      42.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
+      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
+      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
+    ],
+    "tmdb_id": "87116"
+  },
+  "The Aviator|2004": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/3e/ft/n3/pz/y7TLJzyaz5ILCPqqvoJoVK0zfD3-0-500-0-750-crop.jpg?v=7d8d7fc76e",
+      "description": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2004,
+      "lb_title": "The Aviator",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/is/3p/5x/w4/aviator-1920-1920-1080-1080-crop-000000.jpg?v=a4a496e2b0",
+      "imdb_id": "tt0338751",
+      "tmdb_id": "2567"
+    },
+    "omdb": {
+      "Title": "The Aviator",
+      "Year": "2004",
+      "Rated": "PG-13",
+      "Released": "25 Dec 2004",
+      "Runtime": "170 min",
+      "Genre": "Biography, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "John Logan",
+      "Actors": "Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale",
+      "Plot": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
+      "Language": "English, Persian",
+      "Country": "Germany, United States",
+      "Awards": "Won 5 Oscars. 89 wins & 131 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "7.5",
+      "imdbVotes": "401,380",
+      "imdbID": "tt0338751",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$102,610,330",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.2,
+      22.3,
+      22.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/6KLKdhk9wZvJ6OcTzDCoxup0Kmh.jpg",
+      "https://image.tmdb.org/t/p/w1280/vVk0HV9HAqvvSfWiNGjpsOekLBS.jpg",
+      "https://image.tmdb.org/t/p/w1280/yRL8uh5YVq5XDuRHPoXQu0zt0Wa.jpg"
+    ],
+    "tmdb_id": "2567"
   }
 }
