@@ -9961,8 +9961,8 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      24.7,
-      25.0
+      24.8,
+      25.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/9vYYgAxMk5dihLVJhnneUbTL2Wb.jpg",
@@ -33670,9 +33670,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      43.4,
-      36.9,
-      50.4
+      43.3,
+      36.8,
+      50.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
@@ -46683,7 +46683,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.4
+      33.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
@@ -47487,9 +47487,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.2,
-      28.0,
-      23.7
+      35.3,
+      27.9,
+      23.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
@@ -53221,7 +53221,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      37.2,
+      37.4,
       45.9
     ],
     "stills": [
@@ -53292,8 +53292,8 @@
     "dir_checked": true,
     "stills_focus": [
       21.7,
-      39.6,
-      53.2
+      39.5,
+      53.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/xgkKoCXbgt7oJqbhL18229Vmwtk.jpg",
@@ -54179,7 +54179,8 @@
       "https://image.tmdb.org/t/p/w1280/hGkPXpM1R6jlK1GpMiq1uMQpM6K.jpg",
       "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
     ],
-    "tmdb_id": "1101412"
+    "tmdb_id": "1101412",
+    "wiki_tries": 1
   },
   "Um S Marginal|1983": {
     "lbxd": {
@@ -54319,7 +54320,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1666010",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Fall Of The House Of Usher|1928": {
     "lbxd": {
@@ -55195,7 +55196,20 @@
     "wiki_tries": 3
   },
   "Poultry Farm|1903": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/8/5/1/2/1628512-poultry-farm-0-500-0-750-crop.jpg?v=fd6dda0632",
+      "description": "Hawar, a homeless, undocumented Kurdish young boy, crosses the border between Iraq and Iran illegally in search of work, eventually finding employment at a remote poultry farm on the outskirts of Tehran. When the only worker with whom he befriends disappears without a trace, Hawar begins an investigation that leads him into a world marked by exploitation, fear and violence. Combining the mystery thriller with social drama, “Poultry Farm” uses an isolated and oppressive setting to portray the vulnerability of invisible migrants and the brutality of power structures. A tense and humanist film, where the terror lies in the cruelty of the real world.",
+      "genres": null,
+      "country": null,
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": null,
+      "lb_title": null,
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1763636"
+    },
     "omdb": {
       "Title": "Scenes at Cackett's Poultry Farm",
       "Year": "1903",
@@ -55226,7 +55240,8 @@
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1763636"
   },
   "Shaun the Sheep: The Beast of Mossy Bottom|2026": {
     "lbxd": {
@@ -56674,7 +56689,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.9,
+      36.0,
       45.1
     ],
     "stills": [
@@ -61847,7 +61862,8 @@
       "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
       "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
     ],
-    "tmdb_id": "88034"
+    "tmdb_id": "88034",
+    "wiki_tries": 1
   },
   "Gangs Of New York|2002": {
     "lbxd": {
@@ -62000,74 +62016,7 @@
     ],
     "tmdb_id": "1058424"
   },
-  "L’Hypothèse Du Tableau Volé|1979": {
-    "lbxd": {
-      "rating": 3.97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
-      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "country": "France",
-      "lb_director": "Raúl Ruiz",
-      "lb_director_slug": "raul-ruiz",
-      "lb_year": 1978,
-      "lb_title": "The Hypothesis of the Stolen Painting",
-      "backdrop": null,
-      "imdb_id": "tt0077707",
-      "tmdb_id": "88034"
-    },
-    "omdb": {
-      "Title": "L'hypothèse du tableau volé",
-      "Year": "1978",
-      "Rated": "N/A",
-      "Released": "04 Apr 1979",
-      "Runtime": "66 min",
-      "Genre": "Drama, Mystery",
-      "Director": "Raúl Ruiz",
-      "Writer": "Raúl Ruiz, Pierre Klossowski",
-      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
-      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
-      "Language": "French",
-      "Country": "France",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.4",
-      "imdbVotes": "1,240",
-      "imdbID": "tt0077707",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      8.0,
-      27.9,
-      57.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
-      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
-      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
-    ],
-    "tmdb_id": "88034"
-  },
-  "Visages D’Enfants|1923": {
+  "Visages D’Enfants|1925": {
     "lbxd": {
       "rating": 3.66,
       "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
@@ -62093,9 +62042,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      31.3,
+      31.5,
       45.0,
-      42.6
+      42.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
@@ -62167,9 +62116,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      23.2,
-      22.1,
-      22.5
+      23.3,
+      47.8,
+      22.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/6KLKdhk9wZvJ6OcTzDCoxup0Kmh.jpg",
@@ -62177,595 +62126,5 @@
       "https://image.tmdb.org/t/p/w1280/yRL8uh5YVq5XDuRHPoXQu0zt0Wa.jpg"
     ],
     "tmdb_id": "2567"
-  },
-  "Cendres Et Sang|2009": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/4/4904-ashes-and-blood-0-500-0-750-crop.jpg?v=54d28cd1d3",
-      "description": "Exiled from her country since her husband's murder ten years earlier, Judith lives in Marseille with her three children. After having refused to see her family for years, Judith, in spite of her fears and secrets, allows herself to be influenced by her children's wishes and accepts an invitation to their cousin's wedding. They set off to spend a summer in the old country, discovering their roots and their past. But Judith's return revives old hatreds between rival clans. The spiral of violence is inexorably set in motion, blood will tell...",
-      "genres": [
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Fanny Ardant",
-      "lb_director_slug": "fanny-ardant",
-      "lb_year": 2009,
-      "lb_title": "Ashes and Blood",
-      "backdrop": null,
-      "imdb_id": "tt1236182",
-      "tmdb_id": "61835"
-    },
-    "omdb": {
-      "Title": "Cendres et Sang",
-      "Year": "2009",
-      "Rated": "N/A",
-      "Released": "09 Sep 2009",
-      "Runtime": "105 min",
-      "Genre": "Drama",
-      "Director": "Fanny Ardant",
-      "Writer": "Ismail Kadare, Fanny Ardant",
-      "Actors": "Ronit Elkabetz, Abraham Belaga, Marc Ruchmann",
-      "Plot": "After her husband was murdered a decade ago, Judith lives in exile in Marseille with her children. But now she is invited to a wedding in her homeland, and she decides to accept the invitation and return for a short time.",
-      "Language": "French, Romanian",
-      "Country": "France, Romania, Portugal",
-      "Awards": "1 nomination",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZlZDk3ZmQtM2I5YS00MmNlLWExYzMtOWIzMzdmMWUyNDMyXkEyXkFqcGdeQXVyMjA3NjI2NDA@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.1/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.1",
-      "imdbVotes": "181",
-      "imdbID": "tt1236182",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      28.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/2k0ucU3bzj5pav3nciKN8dAcPkq.jpg"
-    ],
-    "tmdb_id": "61835"
-  },
-  "A Personal Journey With Martin Scorsese Through American Movies|1995": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
-    },
-    "dir_checked": true,
-    "stills": null
-  },
-  "The Departed|2006": {
-    "lbxd": {
-      "rating": 4.35,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-500-0-750-crop.jpg?v=f5d8231026",
-      "description": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "country": "Hong Kong",
-      "lb_director": "Martin Scorsese",
-      "lb_director_slug": "martin-scorsese",
-      "lb_year": 2006,
-      "lb_title": "The Departed",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/33/lu/26/83/the-departed-1920-1920-1080-1080-crop-000000.jpg?v=525d3990b0",
-      "imdb_id": "tt0407887",
-      "tmdb_id": "1422"
-    },
-    "omdb": {
-      "Title": "The Departed",
-      "Year": "2006",
-      "Rated": "R",
-      "Released": "06 Oct 2006",
-      "Runtime": "151 min",
-      "Genre": "Crime, Drama, Thriller",
-      "Director": "Martin Scorsese",
-      "Writer": "William Monahan, Alan Mak, Felix Chong",
-      "Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson",
-      "Plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
-      "Language": "English, Cantonese",
-      "Country": "United States, Hong Kong",
-      "Awards": "Won 4 Oscars. 100 wins & 141 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY562_CR0,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "91%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "85/100"
-        }
-      ],
-      "Metascore": "85",
-      "imdbRating": "8.5",
-      "imdbVotes": "1,551,506",
-      "imdbID": "tt0407887",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$132,399,394",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      36.8,
-      37.8,
-      24.8
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/6WRrGYalXXveItfpnipYdayFkQB.jpg",
-      "https://image.tmdb.org/t/p/w1280/cDFtxTxEtE3ljadfQ5SwtRTi8Iw.jpg",
-      "https://image.tmdb.org/t/p/w1280/9RuC3UD6mNZ0p1J6RbfJDUkQ03i.jpg"
-    ],
-    "tmdb_id": "1422"
-  },
-  "Canções Do Segundo Andar|2000": {
-    "lbxd": {
-      "rating": 4.03,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/vf/f8/qt/by/vBNHPEVXMeDmhRiqTW17TTEkX62-0-500-0-750-crop.jpg?v=94eda98672",
-      "description": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "country": "Sweden",
-      "lb_director": "Roy Andersson",
-      "lb_director_slug": "roy-andersson",
-      "lb_year": 2000,
-      "lb_title": "Songs from the Second Floor",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/62/t5/3l/2y/songs-from-the-second-floor-1920-1920-1080-1080-crop-000000.jpg?v=c986ae78c2",
-      "imdb_id": "tt0120263",
-      "tmdb_id": "34070"
-    },
-    "omdb": {
-      "Title": "Songs from the Second Floor",
-      "Year": "2000",
-      "Rated": "Not Rated",
-      "Released": "06 Oct 2000",
-      "Runtime": "98 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Roy Andersson",
-      "Writer": "Roy Andersson",
-      "Actors": "Lars Nordh, Stefan Larsson, Bengt C.W. Carlsson",
-      "Plot": "Where are we humans going? A film poem inspired by the Peruvian poet César Vallejo. We meet people in the city. People trying to communicate, searching compassion and get the connection of small and large things.",
-      "Language": "Swedish, Russian",
-      "Country": "Sweden, Norway, Denmark, France, Germany",
-      "Awards": "9 wins & 4 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNDczMjg1MF5BMl5BanBnXkFtZTgwOTE4MjgwMzE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "88%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "77/100"
-        }
-      ],
-      "Metascore": "77",
-      "imdbRating": "7.5",
-      "imdbVotes": "20,990",
-      "imdbID": "tt0120263",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$80,334",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": "Songs from the Second Floor",
-      "imdb_id": "tt0120263",
-      "extract_pt": "Sånger från andra våningen (em português: Canções do Segundo Andar), é um filme de drama sueco de 2000 dirigido e escrito por Roy Andersson. Foi selecionado como representante da Suécia à edição do Oscar 2001, organizada pela Academia de Artes e Ciências Cinematográficas."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      31.9,
-      28.4,
-      41.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "https://image.tmdb.org/t/p/w1280/7YWVwRvreMqxWmhLrgMKi33wIao.jpg",
-      "https://image.tmdb.org/t/p/w1280/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg"
-    ],
-    "tmdb_id": "34070"
-  },
-  "Tu, Que Vives|2007": {
-    "lbxd": {
-      "rating": 3.94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/4/4/48644-you-the-living-0-500-0-750-crop.jpg?v=833ed302b9",
-      "description": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
-      "genres": [
-        "Comedy",
-        "Music",
-        "Drama"
-      ],
-      "country": "Denmark",
-      "lb_director": "Roy Andersson",
-      "lb_director_slug": "roy-andersson",
-      "lb_year": 2007,
-      "lb_title": "You, the Living",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/04/og/33/9h/youtheliving-1920-1920-1080-1080-crop-000000.jpg?v=603efdd9dd",
-      "imdb_id": "tt0445336",
-      "tmdb_id": "5817"
-    },
-    "omdb": {
-      "Title": "You, the Living",
-      "Year": "2007",
-      "Rated": "Not Rated",
-      "Released": "21 Sep 2007",
-      "Runtime": "95 min",
-      "Genre": "Comedy, Drama, Music",
-      "Director": "Roy Andersson",
-      "Writer": "Roy Andersson",
-      "Actors": "Elisabeth Helander, Jörgen Nohall, Jan Wikbladh",
-      "Plot": "Humankind's greatness, baseness, joy, sorrow, self-confidence, anxiety, desire to love and be loved.",
-      "Language": "Swedish",
-      "Country": "Sweden, Germany, France, Denmark, Norway, Japan",
-      "Awards": "11 wins & 6 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM0MWUzYTMtZWFlMi00YTFkLWI1MjQtMDFlYjRkZDNhNWZiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "Metascore": "81",
-      "imdbRating": "7.4",
-      "imdbVotes": "16,546",
-      "imdbID": "tt0445336",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$21,438",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      41.1,
-      25.4,
-      25.0
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
-      "https://image.tmdb.org/t/p/w1280/uMgVikqprjU84eDBTI0dbapX02c.jpg",
-      "https://image.tmdb.org/t/p/w1280/jjbtd1PqoWhJcqm0QXBh8YTBJS3.jpg"
-    ],
-    "tmdb_id": "5817"
-  },
-  "Um Pombo Pousou Num Ramo A Reflectir Na Existência|2014": {
-    "lbxd": {
-      "rating": 3.81,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/5/0/6/88506-a-pigeon-sat-on-a-branch-reflecting-on-existence-0-500-0-750-crop.jpg?v=c5c6229ec3",
-      "description": "An absurdist, surrealistic and shocking pitch-black comedy, which moves freely from nightmare to fantasy to hilariously deadpan humour as it muses on man’s perpetual inhumanity to man.",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Roy Andersson",
-      "lb_director_slug": "roy-andersson",
-      "lb_year": 2014,
-      "lb_title": "A Pigeon Sat on a Branch Reflecting on Existence",
-      "backdrop": null,
-      "imdb_id": "tt1883180",
-      "tmdb_id": "110390"
-    },
-    "omdb": {
-      "Title": "A Pigeon Sat on a Branch Reflecting on Existence",
-      "Year": "2014",
-      "Rated": "PG-13",
-      "Released": "24 Oct 2014",
-      "Runtime": "101 min",
-      "Genre": "Comedy, Drama, Fantasy",
-      "Director": "Roy Andersson",
-      "Writer": "Roy Andersson",
-      "Actors": "Holger Andersson, Nils Westblom, Viktor Gyllenberg",
-      "Plot": "Sam and Jonathan, a pair of hapless novelty salesmen, embark on a tour of the human condition in reality and fantasy that unfold in a series of absurdist episodes.",
-      "Language": "Swedish, English",
-      "Country": "Sweden, Germany, Norway, France, Denmark",
-      "Awards": "5 wins & 28 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWYxMzZhNzQtNGNiZC00ZDZiLWFlMDYtYzBlYzg5ODU5ZDI2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "90%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "81/100"
-        }
-      ],
-      "Metascore": "81",
-      "imdbRating": "6.9",
-      "imdbVotes": "19,907",
-      "imdbID": "tt1883180",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$222,989",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      35.6,
-      36.2,
-      36.2
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/ljl1Qbs42WWDhx61mXz424u2vZQ.jpg",
-      "https://image.tmdb.org/t/p/w1280/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg",
-      "https://image.tmdb.org/t/p/w1280/4YGBqQRI5vWqG59wu4DF5qFo1UJ.jpg"
-    ],
-    "tmdb_id": "110390"
-  },
-  "Da Eternidade|2019": {
-    "lbxd": {
-      "rating": 3.68,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/8/7/7/278877-about-endlessness-0-500-0-750-crop.jpg?v=6d31987829",
-      "description": "A reflection on human life in all its beauty and cruelty, its splendor and banality, guided by a Scheherazade-esque narrator. Inconsequential moments have the same significance as historical events. Simultaneously an ode and a lament, presents a kaleidoscope of all that is eternally human, an infinite story of the vulnerability of existence.",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Comedy"
-      ],
-      "country": "France",
-      "lb_director": "Roy Andersson",
-      "lb_director_slug": "roy-andersson",
-      "lb_year": 2019,
-      "lb_title": "About Endlessness",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/8d/2w/tc/tx/rS82bCzK8l35MGxsYAx6fegiXIs-1920-1920-1080-1080-crop-000000.jpg?v=576a8af693",
-      "imdb_id": "tt6817944",
-      "tmdb_id": "348672"
-    },
-    "omdb": {
-      "Title": "About Endlessness",
-      "Year": "2019",
-      "Rated": "N/A",
-      "Released": "30 Apr 2021",
-      "Runtime": "78 min",
-      "Genre": "Comedy, Drama, Fantasy",
-      "Director": "Roy Andersson",
-      "Writer": "Roy Andersson",
-      "Actors": "Jessica Louthander, Tatiana Delaunay, Anders Hellström",
-      "Plot": "Roy Andersson adds to his cinematic oeuvre with a reflection on human life in all its beauty and cruelty, its splendour and banality.",
-      "Language": "Swedish",
-      "Country": "Sweden, Germany, Norway, France",
-      "Awards": "4 wins & 13 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYzNTQ2MjItOTMzZC00MDA5LTk4MTctN2RiMTAzY2MyYzgyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "95%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "87/100"
-        }
-      ],
-      "Metascore": "87",
-      "imdbRating": "6.8",
-      "imdbVotes": "8,080",
-      "imdbID": "tt6817944",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$51,386",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      24.3,
-      34.8,
-      35.2
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
-      "https://image.tmdb.org/t/p/w1280/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
-      "https://image.tmdb.org/t/p/w1280/rS82bCzK8l35MGxsYAx6fegiXIs.jpg"
-    ],
-    "tmdb_id": "348672"
-  },
-  "NOBODY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
-      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "country": "Japan",
-      "lb_director": "Toshimichi Ohkawa",
-      "lb_director_slug": "toshimichi-ohkawa",
-      "lb_year": 1994,
-      "lb_title": "Nobody",
-      "backdrop": null,
-      "imdb_id": "tt0203027",
-      "tmdb_id": "22487"
-    },
-    "omdb": {
-      "Title": "Nobody",
-      "Year": "2021",
-      "Rated": "R",
-      "Released": "26 Mar 2021",
-      "Runtime": "92 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Ilya Naishuller",
-      "Writer": "Derek Kolstad",
-      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
-      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
-      "Language": "English, Russian, Spanish",
-      "Country": "United States, China, Japan",
-      "Awards": "5 wins & 18 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "64/100"
-        }
-      ],
-      "Metascore": "64",
-      "imdbRating": "7.4",
-      "imdbVotes": "391,880",
-      "imdbID": "tt7888964",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$27,568,035",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "22487"
-  },
-  "TABLE FOR TWO - semana do cinema chinês em portugal 2026 | sessão especial|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "HER STORY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": 3.78,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
-      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Sydney Freeland",
-      "lb_director_slug": "sydney-freeland",
-      "lb_year": 2016,
-      "lb_title": "Her Story",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "imdb_id": "tt4858316",
-      "tmdb_id": "67282"
-    },
-    "omdb": {
-      "Title": "Her Story",
-      "Year": "2024",
-      "Rated": "N/A",
-      "Released": "22 Nov 2024",
-      "Runtime": "123 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "Yihui Shao",
-      "Writer": "Shao Yihui",
-      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
-      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
-      "Language": "Mandarin",
-      "Country": "China",
-      "Awards": "34 wins & 35 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.5",
-      "imdbVotes": "2,333",
-      "imdbID": "tt31807233",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      27.8,
-      44.8
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
-    ],
-    "tmdb_id": "67282"
-  },
-  "A WRITER'S ODYSSEY II - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
   }
 }
