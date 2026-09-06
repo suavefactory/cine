@@ -125,6 +125,7 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "Hawar, a homeless, undocumented Kurdish young boy, crosses the border between Iraq and Iran illegally in search of work, eventually finding employment at a remote poultry farm on the outskirts of Tehran. When the only worker with whom he befriends disappears without a trace, Hawar begins an investigation that leads him into a world marked by exploitation, fear and violence. Combining the mystery thriller with social drama, “Poultry Farm” uses an isolated and oppressive setting to portray the vulnerability of invisible migrants and the brutality of power structures. A tense and humanist film, where the terror lies in the cruelty of the real world.",
       "country": "Iran",
+      "year": 2026,
       "director_lbxd_slug": "mohammadreza-ardalan"
     },
     {
@@ -260,7 +261,8 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her hometown is violently interrupted by a psychopathic neighbor.",
       "country": "United States",
-      "director_lbxd_slug": "john-valley"
+      "director_lbxd_slug": "john-valley",
+      "rating": 3.23
     },
     {
       "id": "sao_jorge_11650",
@@ -952,7 +954,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
       ],
       "stills_focus": [
-        38.5
+        38.7
       ],
       "country": "Iran",
       "director_lbxd_slug": "amirali-navaee"
@@ -1035,7 +1037,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         26.6,
-        26.0
+        26.1
       ],
       "country": "Thailand",
       "director_lbxd_slug": "paween-purijitpanya-1"
@@ -2328,6 +2330,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.97,
       "plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford.",
       "title_en": "The Hypothesis of the Stolen Painting",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
@@ -3165,6 +3168,77 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_jules-e-jim-1962",
+      "title": "Jules & Jim",
+      "director": "François Truffaut",
+      "year": 1962,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/1/3/50913-jules-and-jim-0-500-0-750-crop.jpg?v=31bcc36456",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/jules-e-jim-1962",
+      "sessions": [
+        {
+          "date": "2026-09-05",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+      "plot_pt": "A partir de um romance autobiográfico de Henri-Pierre Roché, Truffaut conta a história bela e terrível de um amor que a cada dia se reinventa, na euforia alegre e na tristeza melancólica, nas suas riquezas e contradições. Esta relação triangular entre dois homens e uma mulher (interpretados por Henri Serre, Oskar Werner e Jeanne Moreau, no seu auge como mulher fatal da Nouvelle Vague: \"fazer filmes já não é uma maneira de representar, é uma maneira de viver), numa construção em espiral que convoca o turbilhão da vida, é um dos títulos fundamentais da Nouvelle Vague e da obra de Truffaut.",
+      "title_en": "Jules and Jim",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+        "https://image.tmdb.org/t/p/w1280/7eVmxO8e003vfPKBrAaEfXhXwwm.jpg",
+        "https://image.tmdb.org/t/p/w1280/ruLUjqkerRsSe7agMKgQNEaBAqi.jpg"
+      ],
+      "stills_focus": [
+        13.7,
+        28.8,
+        27.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "francois-truffaut"
+    },
+    {
+      "id": "nimas_a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
+      "title": "A Influência dos Raios Gama no Comportamento das Margaridas",
+      "director": "Paul Newman",
+      "year": 1972,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/7/5/2/74752-the-effect-of-gamma-rays-on-man-in-the-moon-marigolds-0-500-0-750-crop.jpg?v=289bd1d2d3",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-influencia-dos-raios-gama-no-comportamento-das-margaridas-1972",
+      "sessions": [
+        {
+          "date": "2026-09-05",
+          "time": "20:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.9,
+      "plot": "Middle-aged widow Beatrice Hunsdorfer and her daughters Ruth and Matilda are struggling to survive in a society they barely understand. Beatrice dreams of opening an elegant tea room but does not have the wherewithal to achieve her lofty goal. Epileptic Ruth is a rebellious adolescent, while shy but highly intelligent and idealistic Matilda seeks solace in her pets and school projects, including one designed to show how small amounts of radium affect marigolds.",
+      "plot_pt": "“Uma pequena frase resume bem uma emoção que o cinema americano, nas suas sagas e melodramas, nas séries de televisão e nos frescos familiares sempre soube destilar. E esta frase diz mais ou menos: ‘é a vida!...’ Há momentos assim, onde tudo se joga, onde a personagem compreende que jogou e foi jogada. […] Não resta senão [‘é a vida’] o último combate numa guerra perdida de um indivíduo face à imagem embaciada daquilo que acreditou ser o ‘seu’ destino e que é um capítulo na história dos outros. […] Há disso no filme do grande Paul Newman, A Influência dos Raios Gama…”\n\r\n\r\nSerge Daney",
+      "title_en": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
+        "https://image.tmdb.org/t/p/w1280/dvTBbq7Bw4opuJaOfDkUjNkncdT.jpg",
+        "https://image.tmdb.org/t/p/w1280/jBORbmLMg8MdBEmG7W5uyd1wiiC.jpg"
+      ],
+      "stills_focus": [
+        43.4,
+        36.9,
+        50.4
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "paul-newman"
+    },
+    {
       "id": "nimas_o-leopardo-1963",
       "title": "O Leopardo",
       "director": "Luchino Visconti",
@@ -3784,9 +3858,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/sBzeWFfApH8jrpSR2BpUpNQrfKM.jpg"
       ],
       "stills_focus": [
-        22.8,
-        25.0,
-        32.6
+        28.6,
+        21.8,
+        22.0
       ],
       "country": "USA",
       "director_lbxd_slug": "paul-newman"
@@ -4980,6 +5054,44 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "jules-dassin"
+    },
+    {
+      "id": "nimas_t7-coz-wc-a-venda-1984",
+      "title": "T7,  Coz, WC… À VENDA",
+      "director": "Agnès Varda",
+      "year": 1984,
+      "duration": 28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/8/5/175285-seven-rooms-kitchen-bathroom-for-sale-0-500-0-750-crop.jpg?v=b6725bf4a9",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/t7-coz-wc-a-venda-1984",
+      "sessions": [
+        {
+          "date": "2026-09-14",
+          "time": "16:00",
+          "cinema": "nimas",
+          "labels": [
+            "Curtas — Programa 3"
+          ]
+        }
+      ],
+      "rating": 3.57,
+      "plot": "An unusual visit to a large, empty apartment. But is it empty or not? Maybe a family has lived there or is going to live there. Maybe a young girl is going to escape from there. Maybe some of the old-timers who lived there never left. The walls themselves tell the stories of the time passing by.",
+      "plot_pt": "A visita a um grande e vazio apartamento transforma-se numa deriva imaginária pelas vidas que o habitaram, e que talvez ainda o assombrem. Entre a comédia e o surrealismo, Agnès Varda filma as memórias e histórias suspensas deste espaço.",
+      "title_en": "Seven Rooms, Kitchen, Bathroom, for Sale",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/sunzg4rHOLY30NNBWYpGyM1mif8.jpg",
+        "https://image.tmdb.org/t/p/w1280/5eZoqvxtLy8sj1sRywUqsiCskEO.jpg",
+        "https://image.tmdb.org/t/p/w1280/5pRkyOm1LFmQVbHHlXJ6lUbt4fA.jpg"
+      ],
+      "stills_focus": [
+        36.8,
+        48.4,
+        25.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_orphea-2020",
@@ -6919,7 +7031,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/z6K25AJk9iRWezWgGQFNcAmddeQ.jpg"
       ],
       "stills_focus": [
-        33.1,
+        32.5,
         28.2
       ],
       "country": "Switzerland",
@@ -6955,7 +7067,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/8cTtgaKagrDgt13eu2DPD8XxXd9.jpg"
       ],
       "stills_focus": [
-        31.9,
+        31.7,
         28.4,
         41.3
       ],
@@ -7201,14 +7313,6 @@ window.CINEMA_DATA = {
       "rating": 3.78,
       "plot": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
       "title_en": "HER STORY",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-        "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
-      ],
-      "stills_focus": [
-        27.8,
-        44.8
-      ],
       "country": "USA",
       "director_lbxd_slug": "sydney-freeland"
     },
@@ -10270,10 +10374,10 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Ambientado na Segunda Guerra Mundial, este drama romântico com elementos de fantasia acompanha um piloto britânico (David Niven) que, após saltar de um avião sem paraquedas, sobrevive devido a um erro administrativo no Além. Enquanto se apaixona por June (Kim Hunter), a operadora de rádio estadunidense a quem dirigiu as suas últimas palavras antes da queda, vê-se obrigado a defender o direito à vida e ao amor perante um tribunal celestial. Um dos filmes mais celebrados de Powell e Pressburger, A Matter of Life and Death encerra este ciclo sobre a vida, a morte e o que o cinema imagina entre ambas, afirmando-se como uma obra de profundo humanismo e notável inovação formal.",
-      "plot": "A British wartime aviator who cheats death must argue for his life before a celestial court, hoping to prolong his fledgling romance with an American girl.",
-      "country": "UK",
-      "rating": 4.26,
+      "rating": 3.21,
+      "plot": "Dealing with a series of increasingly absurd situations and relationships, recently separated yoga instructors Gustavo and Vanesa are finding it difficult to live apart. Their challenges include meddling mothers, amnesiac students, and burgeoning romances. Step by step, they find their way back to the practice.",
+      "plot_pt": "Gustavo e Vanesa separam-se e têm de rever os projetos em comum. Os dois são professores de yoga. Gustavo é argentino, Vanesa é chilena. Vanesa fica com o apartamento e deixa o estúdio que partilhavam; Gustavo fica sem casa. Devido ao stress acumulado, Gustavo lesiona o joelho e substitui o yoga por exercícios de quadríceps e ginásio. A sua vida transforma-se num mundo de alunos e ex-alunos. Até que, aos poucos, ele reencontra o caminho para a prática.",
+      "title_en": "The Practice",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/bY7DvsYsAODykqUJfkPZA3BHKOd.jpg",
         "https://image.tmdb.org/t/p/w1280/1Uu7T38ByqvyeT8pQCf2EMShMzf.jpg",
@@ -11179,6 +11283,21 @@ window.CINEMA_DATA = {
       "lbxd_slug": "martin-scorsese",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/500px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Martin Charles Scorsese ( skor-SESS-ee; Italian: [skorˈseːze, -se]; born November 17, 1942) is an American filmmaker. One of the major figures of the New Hollywood era, he is widely considered one of the greatest and most influential directors in the history of cinema. He has received numerous accolades including an Academy Award, four BAFTA Awards, three Emmy Awards, a Grammy Award, and three Golden Globe Awards."
+    },
+    "Leida Laius": {
+      "lbxd_slug": "leida-laius",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Leida_Laius.jpg/500px-Leida_Laius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Leida Laius (26 March 1923 – 6 April 1996) was an Estonian film director. She is widely received as one of the most renowned filmmakers in Estonian cinema. In 1995 she was honored by the Estonian Cultural Foundation with the Lifetime Achievement Award in special recognition of her contributions to the cultural history of Estonia."
+    },
+    "Chris Noonan": {
+      "lbxd_slug": "chris-noonan",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chris_Noonan.jpg/500px-Chris_Noonan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Chris Noonan (born 14 November 1952) is an Australian filmmaker and actor. He is best known for the family film Babe (1995), for which he was nominated for the Academy Award for Best Director and Academy Award for Best Adapted Screenplay."
+    },
+    "Rupert Julian": {
+      "lbxd_slug": "rupert-julian",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rupert_Julian%2C_silent_films_%28SAYRE_4913%29.jpg/500px-Rupert_Julian%2C_silent_films_%28SAYRE_4913%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Rupert Julian (born Thomas Percival Hayes; 25 January 1879 – 27 December 1943) was a New Zealand cinema actor, director, writer and producer. During his career, Julian directed 60 films and acted in over 90 films. He is best remembered for directing Lon Chaney in The Phantom of the Opera (1925)."
     },
     "Krsto Papić": {
       "lbxd_slug": "krsto-papic",

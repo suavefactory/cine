@@ -33670,9 +33670,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      43.3,
-      36.8,
-      50.5
+      43.4,
+      36.9,
+      50.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/oKBF72vHcsKDqGuC8rNyv5EVdCE.jpg",
@@ -50370,7 +50370,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.1,
+      32.5,
       28.2
     ],
     "stills": [
@@ -54186,7 +54186,7 @@
       "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
     ],
     "tmdb_id": "1101412",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Um S Marginal|1983": {
     "lbxd": {
@@ -54626,7 +54626,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      38.5
+      38.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
@@ -54747,7 +54747,7 @@
     "dir_checked": true,
     "stills_focus": [
       26.6,
-      26.0
+      26.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/97N6gxiBB2Dk71g8v0XxSi8Hyeb.jpg",
@@ -55206,12 +55206,17 @@
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/8/5/1/2/1628512-poultry-farm-0-500-0-750-crop.jpg?v=fd6dda0632",
       "description": "Hawar, a homeless, undocumented Kurdish young boy, crosses the border between Iraq and Iran illegally in search of work, eventually finding employment at a remote poultry farm on the outskirts of Tehran. When the only worker with whom he befriends disappears without a trace, Hawar begins an investigation that leads him into a world marked by exploitation, fear and violence. Combining the mystery thriller with social drama, “Poultry Farm” uses an isolated and oppressive setting to portray the vulnerability of invisible migrants and the brutality of power structures. A tense and humanist film, where the terror lies in the cruelty of the real world.",
-      "genres": null,
-      "country": null,
-      "lb_director": null,
-      "lb_director_slug": null,
-      "lb_year": null,
-      "lb_title": null,
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "country": "Iran",
+      "lb_director": "Mohammadreza Ardalan",
+      "lb_director_slug": "mohammadreza-ardalan",
+      "lb_year": 2026,
+      "lb_title": "Poultry Farm",
       "backdrop": null,
       "imdb_id": null,
       "tmdb_id": "1763636"
@@ -56192,7 +56197,7 @@
   },
   "American Dollhouse|2026": {
     "lbxd": {
-      "rating": null,
+      "rating": 3.23,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/5/7/8/1485578-american-dollhouse-0-500-0-750-crop.jpg?v=81f714f9dd",
       "description": "Caught between a grotesque Christmas fantasy and her own childhood trauma, a woman's search for a fresh start in her hometown is violently interrupted by a psychopathic neighbor.",
       "genres": [
@@ -56695,7 +56700,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      36.0,
+      35.9,
       45.1
     ],
     "stills": [
@@ -61874,7 +61879,7 @@
       "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
     ],
     "tmdb_id": "88034",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Gangs Of New York|2002": {
     "lbxd": {
@@ -62063,7 +62068,8 @@
       "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
       "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
     ],
-    "tmdb_id": "87116"
+    "tmdb_id": "87116",
+    "wiki_tries": 1
   },
   "The Aviator|2004": {
     "lbxd": {
@@ -62143,106 +62149,6 @@
     ],
     "tmdb_id": "2567",
     "wiki_tries": 1
-  },
-  "L’Hypothèse Du Tableau Volé|1979": {
-    "lbxd": {
-      "rating": 3.97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
-      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "country": "France",
-      "lb_director": "Raúl Ruiz",
-      "lb_director_slug": "raul-ruiz",
-      "lb_year": 1978,
-      "lb_title": "The Hypothesis of the Stolen Painting",
-      "backdrop": null,
-      "imdb_id": "tt0077707",
-      "tmdb_id": "88034"
-    },
-    "omdb": {
-      "Title": "L'hypothèse du tableau volé",
-      "Year": "1978",
-      "Rated": "N/A",
-      "Released": "04 Apr 1979",
-      "Runtime": "66 min",
-      "Genre": "Drama, Mystery",
-      "Director": "Raúl Ruiz",
-      "Writer": "Raúl Ruiz, Pierre Klossowski",
-      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
-      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
-      "Language": "French",
-      "Country": "France",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.4",
-      "imdbVotes": "1,240",
-      "imdbID": "tt0077707",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      8.0,
-      27.9,
-      57.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
-      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
-      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
-    ],
-    "tmdb_id": "88034"
-  },
-  "Visages D’Enfants|1923": {
-    "lbxd": {
-      "rating": 3.66,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
-      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
-      "genres": [
-        "Romance",
-        "Family",
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Jacques Feyder",
-      "lb_director_slug": "jacques-feyder",
-      "lb_year": 1925,
-      "lb_title": "Faces of Children",
-      "backdrop": null,
-      "imdb_id": "tt0016491",
-      "tmdb_id": "87116"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      31.3,
-      45.0,
-      42.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
-      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
-      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
-    ],
-    "tmdb_id": "87116"
   },
   "Cendres Et Sang|2009": {
     "lbxd": {
@@ -62390,285 +62296,6 @@
     ],
     "tmdb_id": "1422"
   },
-  "Moonfleet|1955": {
-    "lbxd": {
-      "rating": 3.6,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/3/8/3/32383-moonfleet-0-500-0-750-crop.jpg?v=a170c37171",
-      "description": "Set in the eighteenth century, Moonfleet is about John Mohune, a young orphan who is sent to the Dorset village of Moonfleet to stay with an old friend of his mother's, Jeremy Fox. Fox is a morally ambiguous character, an elegant gentleman involved with smugglers and pirates.",
-      "genres": [
-        "Adventure",
-        "History",
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Fritz Lang",
-      "lb_director_slug": "fritz-lang-1",
-      "lb_year": 1955,
-      "lb_title": "Moonfleet",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/lj/c6/vu/ce/moonfleet-1920-1920-1080-1080-crop-000000.jpg?v=1b31af9a7e",
-      "imdb_id": "tt0048387",
-      "tmdb_id": "29967"
-    },
-    "omdb": {
-      "Title": "Moonfleet",
-      "Year": "1955",
-      "Rated": "Approved",
-      "Released": "18 Jul 1955",
-      "Runtime": "87 min",
-      "Genre": "Adventure, Drama",
-      "Director": "Fritz Lang",
-      "Writer": "Jan Lustig, Margaret Fitts, J. Meade Falkner",
-      "Actors": "Stewart Granger, George Sanders, Joan Greenwood",
-      "Plot": "A young orphan is sent to the village of Moonfleet in Dorset, England to stay with his mother's former lover, who has the facade of a gentleman but leads a gang of swashbuckling bootleggers; the duo go on a treasure hunt.",
-      "Language": "English, French",
-      "Country": "United States",
-      "Awards": "1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNhN2VhNmYtNjJiZi00MDRjLTg4NzMtOTc3MzI1MzJhNmQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "64%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.6",
-      "imdbVotes": "4,203",
-      "imdbID": "tt0048387",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      25.4,
-      34.6,
-      30.8
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/yrvTunVj8GUrdYSDSQasAWr7qLM.jpg",
-      "https://image.tmdb.org/t/p/w1280/rRrSmxNATjqPnW4zVJ2kxqh73oK.jpg",
-      "https://image.tmdb.org/t/p/w1280/ytEubaLI8snJkTcoWlzzIzDbcDB.jpg"
-    ],
-    "tmdb_id": "29967"
-  },
-  "Il Mio Viaggio In Italia|1999": {
-    "lbxd": {
-      "rating": 4.03,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/3/5/12735-my-voyage-to-italy-0-500-0-750-crop.jpg?v=591ed3493e",
-      "description": "World-renowned director Martin Scorsese narrates this journey through his favorites in Italian cinema.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Martin Scorsese",
-      "lb_director_slug": "martin-scorsese",
-      "lb_year": 1999,
-      "lb_title": "My Voyage to Italy",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rx/ja/ny/ar/my%20voyage%20to%20italy-1920-1920-1080-1080-crop-000000.jpg?v=ddab8693fa",
-      "imdb_id": "tt0173772",
-      "tmdb_id": "53198"
-    },
-    "omdb": {
-      "Title": "My Voyage to Italy",
-      "Year": "1999",
-      "Rated": "PG-13",
-      "Released": "16 May 2002",
-      "Runtime": "246 min",
-      "Genre": "Documentary",
-      "Director": "Martin Scorsese",
-      "Writer": "Suso Cecchi D'Amico, Raffaele Donato, Kent Jones",
-      "Actors": "Martin Scorsese",
-      "Plot": "World-renowned director Martin Scorsese narrates this journey through his favorites in Italian cinema.",
-      "Language": "English, Italian, French, German",
-      "Country": "Italy, United States",
-      "Awards": "3 wins & 2 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdjNDQ3NjQtODc4Ni00NzIxLWI0ZDItYzJiMzhlZmJmMDg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "100%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "90/100"
-        }
-      ],
-      "Metascore": "90",
-      "imdbRating": "8.2",
-      "imdbVotes": "3,576",
-      "imdbID": "tt0173772",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$11,683",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": "My Voyage to Italy",
-      "imdb_id": "tt0173772",
-      "extract_pt": "My Voyage to Italy (Italiano: Il mio viaggio in Italia) é um documentário pessoal do cineasta Martin Scorsese. O filme é um viagem pela história do cinema italiano. Foi lançado em 1999 e têm a duração de quatro horas."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      42.3,
-      42.4
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/aOEsoi4PLECCsoNH0XQajlwupf6.jpg",
-      "https://a.ltrbxd.com/resized/sm/upload/rx/ja/ny/ar/my%20voyage%20to%20italy-1920-1920-1080-1080-crop-000000.jpg?v=ddab8693fa"
-    ],
-    "tmdb_id": "53198"
-  },
-  "Oxalá|1980": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/4/4/6/5/194465-oxala-0-500-0-750-crop.jpg?v=13dfb3ff93",
-      "description": "A man exiled in Paris makes various trips to Portugal after the Carnation Revolution. Each trip is represented by a woman.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Portugal",
-      "lb_director": "António-Pedro Vasconcelos",
-      "lb_director_slug": "antonio-pedro-vasconcelos",
-      "lb_year": 1980,
-      "lb_title": "Oxalá",
-      "backdrop": null,
-      "imdb_id": "tt0081292",
-      "tmdb_id": "271151"
-    },
-    "omdb": {
-      "Title": "Oxalá",
-      "Year": "1980",
-      "Rated": "N/A",
-      "Released": "08 May 1981",
-      "Runtime": "131 min",
-      "Genre": "Drama",
-      "Director": "António-Pedro Vasconcelos",
-      "Writer": "António-Pedro Vasconcelos",
-      "Actors": "Manuel Baeta Neves, Marta Reynolds, Laura Soveral",
-      "Plot": "N/A",
-      "Language": "Portuguese, French",
-      "Country": "Portugal",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQyMjVhOGItMGEyMy00MTZkLWE1M2EtZmI2MDBmNDgyOGJlXkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.4/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.4",
-      "imdbVotes": "32",
-      "imdbID": "tt0081292",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": null,
-      "imdb_id": "tt0081292",
-      "extract_pt": "Oxalá é um filme português de drama, realizado por António Pedro Vasconcelos, estreado em 8 de Maio de 1981."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "271151"
-  },
-  "Fatucha Superstar|1976": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Scorpio Rising|1963": {
-    "lbxd": {
-      "rating": 3.83,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/8/18578-scorpio-rising-0-500-0-750-crop.jpg?v=6a8252e09a",
-      "description": "A gang of bikers prepares for a race as sexual, sadistic, and occult images are cut together.",
-      "genres": [
-        "Music"
-      ],
-      "country": "USA",
-      "lb_director": "Kenneth Anger",
-      "lb_director_slug": "kenneth-anger",
-      "lb_year": 1963,
-      "lb_title": "Scorpio Rising",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/m7/ae/e8/9u/5d6liBnNjxhU2s4GnwBXF3JkeWX-1920-1920-1080-1080-crop-000000.jpg?v=6fca41b39a",
-      "imdb_id": "tt0058555",
-      "tmdb_id": "46787"
-    },
-    "omdb": {
-      "Title": "Scorpio Rising",
-      "Year": "1963",
-      "Rated": "N/A",
-      "Released": "10 Oct 1969",
-      "Runtime": "28 min",
-      "Genre": "Short, Music",
-      "Director": "Kenneth Anger",
-      "Writer": "Kenneth Anger, Ernest D. Glucksman",
-      "Actors": "Ernie Allo, Bruce Byron, Frank Carifi",
-      "Plot": "A gang of Nazi bikers prepares for a race as sexual, sadistic, and occult images are cut together.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "1 win total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODQzY2EwNWEtYjI0Ni00ZGZiLWFiNGYtMmNjYTIxZDdiYjJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.8/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.8",
-      "imdbVotes": "5,880",
-      "imdbID": "tt0058555",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": "Scorpio Rising (film)",
-      "imdb_id": "tt0058555",
-      "extract_pt": "Scorpio Rising (de 1964) é um filme experimental de Kenneth Anger, também autor do livro Hollywood Babylon (volume 1 e 2). No elenco, o filme traz Bruce Byron como Scorpio. O filme trata de temas como motociclistas com roupas de couro, ocultismo, Jesus e Nazistas. O filme foi, inicialmente, mostrado no circuito de filmes undergrounds, e não tem diálogo."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      47.5,
-      37.5,
-      48.5
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/ew4ogBGU2TkervI02yKt1r4mV0v.jpg",
-      "https://image.tmdb.org/t/p/w1280/1z2ZMEvlCxlcSQWLoO7dU0GBVBO.jpg",
-      "https://image.tmdb.org/t/p/w1280/5d6liBnNjxhU2s4GnwBXF3JkeWX.jpg"
-    ],
-    "tmdb_id": "46787"
-  },
   "Canções Do Segundo Andar|2000": {
     "lbxd": {
       "rating": 4.03,
@@ -62735,7 +62362,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      31.9,
+      31.7,
       28.4,
       41.3
     ],
@@ -62968,70 +62595,13 @@
     ],
     "tmdb_id": "348672"
   },
-  "NOBODY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
-      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "country": "Japan",
-      "lb_director": "Toshimichi Ohkawa",
-      "lb_director_slug": "toshimichi-ohkawa",
-      "lb_year": 1994,
-      "lb_title": "Nobody",
-      "backdrop": null,
-      "imdb_id": "tt0203027",
-      "tmdb_id": "22487"
-    },
-    "omdb": {
-      "Title": "Nobody",
-      "Year": "2021",
-      "Rated": "R",
-      "Released": "26 Mar 2021",
-      "Runtime": "92 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Ilya Naishuller",
-      "Writer": "Derek Kolstad",
-      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
-      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
-      "Language": "English, Russian, Spanish",
-      "Country": "United States, China, Japan",
-      "Awards": "5 wins & 18 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "64/100"
-        }
-      ],
-      "Metascore": "64",
-      "imdbRating": "7.4",
-      "imdbVotes": "391,880",
-      "imdbID": "tt7888964",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$27,568,035",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+  "NOBODY - semana do cinema chinês em portugal 2026|1994": {
+    "lbxd": null,
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "22487"
+    "stills": null
   },
   "TABLE FOR TWO - semana do cinema chinês em portugal 2026 | sessão especial|None": {
     "lbxd": null,
@@ -63041,67 +62611,13 @@
     "dir_checked": true,
     "stills": null
   },
-  "HER STORY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": 3.78,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
-      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Sydney Freeland",
-      "lb_director_slug": "sydney-freeland",
-      "lb_year": 2016,
-      "lb_title": "Her Story",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "imdb_id": "tt4858316",
-      "tmdb_id": "67282"
-    },
-    "omdb": {
-      "Title": "Her Story",
-      "Year": "2024",
-      "Rated": "N/A",
-      "Released": "22 Nov 2024",
-      "Runtime": "123 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "Yihui Shao",
-      "Writer": "Shao Yihui",
-      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
-      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
-      "Language": "Mandarin",
-      "Country": "China",
-      "Awards": "34 wins & 35 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.5",
-      "imdbVotes": "2,333",
-      "imdbID": "tt31807233",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+  "HER STORY - semana do cinema chinês em portugal 2026|2016": {
+    "lbxd": null,
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills_focus": [
-      27.8,
-      44.8
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
-    ],
-    "tmdb_id": "67282"
+    "stills": null
   },
   "A WRITER'S ODYSSEY II - semana do cinema chinês em portugal 2026|None": {
     "lbxd": null,
