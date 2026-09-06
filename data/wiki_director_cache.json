@@ -1837,5 +1837,50 @@
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Portrait_of_Jacques_Feyder.png/500px-Portrait_of_Jacques_Feyder.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Jacques Feyder (French: [fɛ.dɛʁ]; 21 July 1885 – 24 May 1948) was a Belgian  film director, screenwriter and actor who worked principally in France, but also in the US, Britain and Germany. He was a director of silent films during the 1920s, and in the 1930s he became associated with the style of poetic realism in French cinema. He adopted French nationality in 1928.",
     "tries": 1
+  },
+  "Fanny Ardant": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fanny_Ardant_45th_C%C3%A9sar_Awards_2020_%283x4_cropped%29.jpg/500px-Fanny_Ardant_45th_C%C3%A9sar_Awards_2020_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Fanny Marguerite Judith Ardant (born 22 March 1949) is a French actress and film director. She is the recipient of numerous accolades, including two César Awards and a Lumière Award.",
+    "tries": 1
+  },
+  "Martin Scorsese (e Michael Henry Wilson)": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "António-Pedro Vasconcelos": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Antonio-Pedro_Vasconcelos_2019.jpg/500px-Antonio-Pedro_Vasconcelos_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "António-Pedro Saraiva de Barros e Vasconcelos GCIH (10 March 1939 – 5 March 2024) was a Portuguese film director.",
+    "tries": 1
+  },
+  "João Paulo Ferreira": {
+    "photo": null,
+    "bio": "researcher",
+    "tries": 1
+  },
+  "Kenneth Anger": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kenneth_Anger_%28Scorpio_Rising%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Kenneth Anger (born Kenneth Wilbur Anglemyer; February 3, 1927 – May 11, 2023) was an American underground experimental filmmaker, actor, and writer. Working exclusively in short films, he produced almost 40 works beginning in 1937, nine of which have been grouped together as the \"Magick Lantern Cycle\". Anger's films variously merge surrealism with homoeroticism and the occult, and have been described as containing \"elements of erotica, documentary, psychodrama, and spectacle\".",
+    "tries": 1
+  },
+  "Roy Andersson": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roy_Andersson_in_Aug_2014-3.jpg/500px-Roy_Andersson_in_Aug_2014-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Roy Arne Lennart Andersson (born 31 March 1943) is a Swedish film director, best known for his distinctive style of absurdist humor and melancholic depictions of human life. His personal style is characterized by long takes, and stiff caricaturing of Swedish culture and grotesque. Over his career Andersson earned prizes from the Cannes Film Festival, Berlin International Film Festival and Venice International Film Festival.",
+    "tries": 1
+  },
+  "Ilya Naishuller": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ilya_Naishuller_%28cropped%29.jpg/500px-Ilya_Naishuller_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Ilya Viktorovich Naishuller (Russian: Илья Викторович Найшуллер; born November 19, 1983) is a Russian film director and musician. He is known for directing the action films Hardcore Henry (2015) and Nobody (2021). He is also the founder of the film production company Versus Pictures and the indie rock band Biting Elbows.",
+    "tries": 1
+  },
+  "Yihui Shao": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Julien Chheng e Jean-Christophe Roger": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }
