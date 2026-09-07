@@ -1863,6 +1863,11 @@
     "bio": null,
     "tries": 2
   },
+  "Kadir van Lohuizen": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kadir_van_Lohuizen.jpg/500px-Kadir_van_Lohuizen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Dutch photographer and journalist (born 1963)",
+    "tries": 1
+  },
   "António-Pedro Vasconcelos": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Antonio-Pedro_Vasconcelos_2019.jpg/500px-Antonio-Pedro_Vasconcelos_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "António-Pedro Saraiva de Barros e Vasconcelos GCIH (10 March 1939 – 5 March 2024) was a Portuguese film director.",
@@ -1881,11 +1886,6 @@
   "Julien Chheng e Jean-Christophe Roger": {
     "photo": null,
     "bio": null,
-    "tries": 1
-  },
-  "Frank Capra": {
-    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Frank_Capra.jpg/500px-Frank_Capra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "bio": "Frank Russell Capra (born Francesco Rosario Capra; May 18, 1897 – September 3, 1991) was an Italian-born American film director, producer, and screenwriter who was the creative force behind several major award-winning films of the 1930s and 1940s. Born in Italy and raised in Los Angeles from the age of five, his rags-to-riches story has led film historians such as Ian Freer to consider him the \"American Dream personified\". Capra became one of America's most influential directors during the 1930s, winning three Academy Awards for Best Director from six nominations.",
     "tries": 1
   }
 }

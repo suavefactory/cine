@@ -41830,7 +41830,7 @@
     "dir_checked": true,
     "stills_focus": [
       12.1,
-      26.7
+      26.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/9raenDlb8r15wapTziwQhg6yVgh.jpg",
@@ -47513,9 +47513,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.3,
-      27.9,
-      23.6
+      35.2,
+      28.0,
+      23.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
@@ -50421,7 +50421,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      32.5,
+      33.1,
       28.2
     ],
     "stills": [
@@ -54242,7 +54242,7 @@
       "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
     ],
     "tmdb_id": "1101412",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Um S Marginal|1983": {
     "lbxd": {
@@ -54559,7 +54559,12 @@
       "Country": "United States",
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzM2Y5ZGQtNDg0ZS00NjFjLTkzZDctYTkzODNmMjRiY2ZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "36%"
+        }
+      ],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
@@ -54682,7 +54687,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      38.7
+      38.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
@@ -54803,7 +54808,7 @@
     "dir_checked": true,
     "stills_focus": [
       26.6,
-      26.1
+      26.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/97N6gxiBB2Dk71g8v0XxSi8Hyeb.jpg",
@@ -56300,7 +56305,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1616344"
+    "tmdb_id": "1616344",
+    "wiki_tries": 1
   },
   "Kinki|2014": {
     "lbxd": {
@@ -61936,7 +61942,7 @@
       "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
     ],
     "tmdb_id": "88034",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Gangs Of New York|2002": {
     "lbxd": {
@@ -62126,7 +62132,7 @@
       "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
     ],
     "tmdb_id": "87116",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Aviator|2004": {
     "lbxd": {
@@ -62693,49 +62699,46 @@
     "dir_checked": true,
     "stills": null
   },
-  "L’Hypothèse Du Tableau Volé|1979": {
+  "Poultry Farm|2026": {
     "lbxd": {
-      "rating": 3.97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
-      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/8/5/1/2/1628512-poultry-farm-0-500-0-750-crop.jpg?v=fd6dda0632",
+      "description": "Hawar, a homeless, undocumented Kurdish young boy, crosses the border between Iraq and Iran illegally in search of work, eventually finding employment at a remote poultry farm on the outskirts of Tehran. When the only worker with whom he befriends disappears without a trace, Hawar begins an investigation that leads him into a world marked by exploitation, fear and violence. Combining the mystery thriller with social drama, “Poultry Farm” uses an isolated and oppressive setting to portray the vulnerability of invisible migrants and the brutality of power structures. A tense and humanist film, where the terror lies in the cruelty of the real world.",
       "genres": [
-        "Drama",
-        "Mystery"
+        "Thriller",
+        "Horror",
+        "Mystery",
+        "Drama"
       ],
-      "country": "France",
-      "lb_director": "Raúl Ruiz",
-      "lb_director_slug": "raul-ruiz",
-      "lb_year": 1978,
-      "lb_title": "The Hypothesis of the Stolen Painting",
+      "country": "Iran",
+      "lb_director": "Mohammadreza Ardalan",
+      "lb_director_slug": "mohammadreza-ardalan",
+      "lb_year": 2026,
+      "lb_title": "Poultry Farm",
       "backdrop": null,
-      "imdb_id": "tt0077707",
-      "tmdb_id": "88034"
+      "imdb_id": null,
+      "tmdb_id": "1763636"
     },
     "omdb": {
-      "Title": "L'hypothèse du tableau volé",
-      "Year": "1978",
+      "Title": "The Vegan Poultry Farmer",
+      "Year": "2025",
       "Rated": "N/A",
-      "Released": "04 Apr 1979",
-      "Runtime": "66 min",
-      "Genre": "Drama, Mystery",
-      "Director": "Raúl Ruiz",
-      "Writer": "Raúl Ruiz, Pierre Klossowski",
-      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
-      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
-      "Language": "French",
-      "Country": "France",
+      "Released": "11 Sep 2025",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Kadir van Lohuizen",
+      "Writer": "N/A",
+      "Actors": "Ruud Zanders",
+      "Plot": "N/A",
+      "Language": "Dutch",
+      "Country": "Netherlands",
       "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
-      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmZkOGY4MzctNjJhNy00NDE4LWE2ZjgtMGIyYzVhZmEyNmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
       "Metascore": "N/A",
-      "imdbRating": "7.4",
-      "imdbVotes": "1,240",
-      "imdbID": "tt0077707",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt39167828",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -62744,58 +62747,10 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {
-      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
-    },
+    "cinema": {},
     "dir_checked": true,
-    "stills_focus": [
-      8.0,
-      27.9,
-      57.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
-      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
-      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
-    ],
-    "tmdb_id": "88034"
-  },
-  "Visages D’Enfants|1923": {
-    "lbxd": {
-      "rating": 3.66,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
-      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
-      "genres": [
-        "Romance",
-        "Family",
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Jacques Feyder",
-      "lb_director_slug": "jacques-feyder",
-      "lb_year": 1925,
-      "lb_title": "Faces of Children",
-      "backdrop": null,
-      "imdb_id": "tt0016491",
-      "tmdb_id": "87116"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      31.3,
-      45.0,
-      42.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
-      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
-      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
-    ],
-    "tmdb_id": "87116"
+    "stills": null,
+    "tmdb_id": "1763636"
   },
   "Moonfleet|1955": {
     "lbxd": {
@@ -63046,265 +63001,5 @@
       "https://image.tmdb.org/t/p/w1280/5d6liBnNjxhU2s4GnwBXF3JkeWX.jpg"
     ],
     "tmdb_id": "46787"
-  },
-  "NOBODY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
-      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "country": "Japan",
-      "lb_director": "Toshimichi Ohkawa",
-      "lb_director_slug": "toshimichi-ohkawa",
-      "lb_year": 1994,
-      "lb_title": "Nobody",
-      "backdrop": null,
-      "imdb_id": "tt0203027",
-      "tmdb_id": "22487"
-    },
-    "omdb": {
-      "Title": "Nobody",
-      "Year": "2021",
-      "Rated": "R",
-      "Released": "26 Mar 2021",
-      "Runtime": "92 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Ilya Naishuller",
-      "Writer": "Derek Kolstad",
-      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
-      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
-      "Language": "English, Russian, Spanish",
-      "Country": "United States, China, Japan",
-      "Awards": "5 wins & 18 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "64/100"
-        }
-      ],
-      "Metascore": "64",
-      "imdbRating": "7.4",
-      "imdbVotes": "391,880",
-      "imdbID": "tt7888964",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$27,568,035",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "22487"
-  },
-  "HER STORY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": 3.78,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
-      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Sydney Freeland",
-      "lb_director_slug": "sydney-freeland",
-      "lb_year": 2016,
-      "lb_title": "Her Story",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "imdb_id": "tt4858316",
-      "tmdb_id": "67282"
-    },
-    "omdb": {
-      "Title": "Her Story",
-      "Year": "2024",
-      "Rated": "N/A",
-      "Released": "22 Nov 2024",
-      "Runtime": "123 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "Yihui Shao",
-      "Writer": "Shao Yihui",
-      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
-      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
-      "Language": "Mandarin",
-      "Country": "China",
-      "Awards": "34 wins & 35 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.5",
-      "imdbVotes": "2,333",
-      "imdbID": "tt31807233",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      27.8,
-      44.8
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
-    ],
-    "tmdb_id": "67282"
-  },
-  "The Heart’s Root|2000": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/2/0/1/172201-the-hearts-root-0-500-0-750-crop.jpg?v=0fd72a8ec0",
-      "description": "Set in the Lisbon during the festivities of Saint Anthony, the patron saint of lovers and the old town. The story is about Cato, a nationalist politician who is charismatic and unscrupulous. He obsessively pursues Silvia, a mystical and mysterious young transvestite whom he meets at the festival. When Silvia runs into Vicente, a policeman who arrests transvestites and threatens them, Silvia must look towards blackmail to save herself. Compromising photos of Cato start to emerge among opposition parties and he must do all in his power to save his political career.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Paulo Rocha",
-      "lb_director_slug": "paulo-rocha-1",
-      "lb_year": 2000,
-      "lb_title": "The Heart's Root",
-      "backdrop": null,
-      "imdb_id": "tt0189960",
-      "tmdb_id": "246114"
-    },
-    "omdb": {
-      "Title": "A Raiz do Coração",
-      "Year": "2000",
-      "Rated": "N/A",
-      "Released": "18 Oct 2000",
-      "Runtime": "118 min",
-      "Genre": "Drama",
-      "Director": "Paulo Rocha",
-      "Writer": "Raquel Freire, Regina Guimarães, Paulo Rocha",
-      "Actors": "Luís Miguel Cintra, Joana Bárcia, Isabel Ruth",
-      "Plot": "In Lisbon, during the feasts of St. Anthony, the cross breeders of politicians in black shirts and transvestites all dressed in pink. An exuberant allegory of freedom against dictatorship.",
-      "Language": "Portuguese",
-      "Country": "Portugal, France",
-      "Awards": "3 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwNGQ5ZjUtZWVhNS00ZWQ1LWJkZjMtYjE5ZTU5MGU5MTY2XkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.6/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.6",
-      "imdbVotes": "94",
-      "imdbID": "tt0189960",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": null,
-      "imdb_id": "tt0189960",
-      "extract_pt": "A Raiz do Coração é um filme português realizado em 2000 por Paulo Rocha.\nA estreia em Portugal foi a 12 de Janeiro de 2001."
-    },
-    "cinema": {
-      "plot_pt": "Em tom de fábula urbana, esta comédia musical imagina uma Lisboa no então futuro próximo de2010. Catão, político nacionalista, carismático e sem escrúpulos, desenvolve uma obsessão por Sílvia, uma jovem trans protegida por Ju, figura enigmática que sobrevive através de pequenas chantagens. Quando fotografias comprometedoras de Catão começam a circular entre os partidos da oposição, o seu interesse por Sílvia ameaça pôr em causa a carreira política. Uma das últimas obras de Paulo Rocha, A Raiz do Coração evidencia a experimentação que caracteriza a segunda metade da filmografia do cineasta.\nSessão seguida de conversa com Regina Guimarães (argumentista do filme) e Raquel Morais (Cinemateca Portuguesa)"
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      29.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
-    ],
-    "tmdb_id": "246114"
-  },
-  "In the Darkness of the Night [Director’s Cut]|2004": {
-    "lbxd": {
-      "rating": 3.54,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/2/9/1/70291-in-the-darkness-of-the-night-0-500-0-750-crop.jpg?v=badcccfad8",
-      "description": "A disturbing film about the Portuguese underworld of prostitution.",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "country": "Portugal",
-      "lb_director": "João Canijo",
-      "lb_director_slug": "joao-canijo",
-      "lb_year": 2004,
-      "lb_title": "In the Darkness of the Night",
-      "backdrop": null,
-      "imdb_id": "tt0413053",
-      "tmdb_id": "83827"
-    },
-    "omdb": {
-      "Title": "Noite Escura",
-      "Year": "2004",
-      "Rated": "N/A",
-      "Released": "21 Oct 2004",
-      "Runtime": "94 min",
-      "Genre": "Drama, Crime",
-      "Director": "João Canijo",
-      "Writer": "João Canijo, Pierre Hodgson, Mayanna von Ledebur",
-      "Actors": "Fernando Luís, Rita Blanco, Beatriz Batarda",
-      "Plot": "\"Noite Escura\" is a disturbing movie about the Portuguese underworld of prostitution.",
-      "Language": "Portuguese, Russian",
-      "Country": "Portugal",
-      "Awards": "5 wins & 3 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWMxMmZhMzYtNzAyMC00YTQ0LTliOGQtODE1NmNmNGEyMzE5XkEyXkFqcGc@._V1_QL75_UY562_CR26,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.7",
-      "imdbVotes": "667",
-      "imdbID": "tt0413053",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Numa casa de alterne gerida por uma família, algures no interior de Portugal, a tensão cresce. Uma máfia russa exige o sacrifício de uma das filhas do gerente como recompensa pela quebra de confiança. Baseado numa tragédia grega, Noite Escura é um dos mais virtuosos filmes de João Canijo, onde a câmara deambula entre as alternadeiras e os seus clientes, num movimento de entrelaçamento de narrativas, processo que seria central no seu cinema futuro. Nesta sessão, será apresentada a versão original, com mais 12 minutos, recuperada na recente digitalização do filme."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      20.1,
-      40.4,
-      43.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/8mnRVNUvduPlEf0y2KNKOiqZRPy.jpg",
-      "https://image.tmdb.org/t/p/w1280/hRFEJnrJXWmyA6KYBTGkXdxyCVd.jpg",
-      "https://image.tmdb.org/t/p/w1280/oNNCruDSUousZNqNH2M4RcJJptQ.jpg"
-    ],
-    "tmdb_id": "83827"
   }
 }
