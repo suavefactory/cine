@@ -1846,7 +1846,7 @@
   "Martin Scorsese (e Michael Henry Wilson)": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Roy Andersson": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roy_Andersson_in_Aug_2014-3.jpg/500px-Roy_Andersson_in_Aug_2014-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1861,6 +1861,31 @@
   "Yihui Shao": {
     "photo": null,
     "bio": null,
+    "tries": 2
+  },
+  "António-Pedro Vasconcelos": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Antonio-Pedro_Vasconcelos_2019.jpg/500px-Antonio-Pedro_Vasconcelos_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "António-Pedro Saraiva de Barros e Vasconcelos GCIH (10 March 1939 – 5 March 2024) was a Portuguese film director.",
+    "tries": 1
+  },
+  "João Paulo Ferreira": {
+    "photo": null,
+    "bio": "researcher",
+    "tries": 1
+  },
+  "Kenneth Anger": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kenneth_Anger_%28Scorpio_Rising%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Kenneth Anger (born Kenneth Wilbur Anglemyer; February 3, 1927 – May 11, 2023) was an American underground experimental filmmaker, actor, and writer. Working exclusively in short films, he produced almost 40 works beginning in 1937, nine of which have been grouped together as the \"Magick Lantern Cycle\". Anger's films variously merge surrealism with homoeroticism and the occult, and have been described as containing \"elements of erotica, documentary, psychodrama, and spectacle\".",
+    "tries": 1
+  },
+  "Julien Chheng e Jean-Christophe Roger": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Frank Capra": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Frank_Capra.jpg/500px-Frank_Capra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Frank Russell Capra (born Francesco Rosario Capra; May 18, 1897 – September 3, 1991) was an Italian-born American film director, producer, and screenwriter who was the creative force behind several major award-winning films of the 1930s and 1940s. Born in Italy and raised in Los Angeles from the age of five, his rags-to-riches story has led film historians such as Ian Freer to consider him the \"American Dream personified\". Capra became one of America's most influential directors during the 1930s, winning three Academy Awards for Best Director from six nominations.",
     "tries": 1
   }
 }

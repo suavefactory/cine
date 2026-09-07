@@ -40302,7 +40302,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      38.9
+      39.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -44411,7 +44411,7 @@
   },
   "It’s a Wonderful Life|1946": {
     "lbxd": {
-      "rating": 4.44,
+      "rating": 4.45,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/9/4/9/50949-it-s-a-wonderful-life-0-500-0-750-crop.jpg?v=64b72dd083",
       "description": "A holiday favourite for generations... George Bailey has spent his entire life giving to the people of Bedford Falls. All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company. But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "genres": [
@@ -44422,7 +44422,11 @@
       "country": "USA",
       "lb_director": "Frank Capra",
       "lb_director_slug": "frank-capra",
-      "lb_year": 1946
+      "lb_year": 1946,
+      "lb_title": "It's a Wonderful Life",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/dr/yl/7v/w5/its-a-wonderful-life-1920-1920-1080-1080-crop-000000.jpg?v=72eb81c504",
+      "imdb_id": "tt0038650",
+      "tmdb_id": "1585"
     },
     "omdb": {
       "Title": "It's a Wonderful Life",
@@ -44463,7 +44467,23 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Um dos clássicos de Natal mais adorados de sempre, It’s a Wonderful Life acompanha George Bailey (James Stewart), que dedicou a vida a ajudar a comunidade de Bedford Falls, sacrificando os seus próprios sonhos para manter o negócio familiar de empréstimos e travar o controlo do ganancioso Mr. Potter sobre a cidade. Na véspera de Natal, perante uma crise financeira e o desespero pessoal, George pondera o suicídio. É então visitado pelo seu anjo da guarda, que lhe mostra o impacto da sua existência e como seria o mundo sem ele."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.5,
+      43.7,
+      14.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+      "https://image.tmdb.org/t/p/w1280/rqmE0aFFerz8E8PkGOKPAoIY5Ax.jpg",
+      "https://image.tmdb.org/t/p/w1280/rUITLSnNLW0JAIkZ99bS8wyCfVb.jpg"
+    ],
+    "tmdb_id": "1585"
   },
   "Honeymoon|None": {
     "lbxd": {
@@ -50365,7 +50385,38 @@
       "imdb_id": "tt18376344",
       "tmdb_id": "1728711"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "O Jacaré",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "03 Sep 2026",
+      "Runtime": "92 min",
+      "Genre": "Thriller",
+      "Director": "Basil da Cunha",
+      "Writer": "Basil da Cunha",
+      "Actors": "Alexandre Da Costa Fonseca, Paulo César Lima Fonseca, Nelson Carvalho",
+      "Plot": "It centers on a robbery in a hood on the outskirts of Lisbon which threatens its close-knit solidarity.",
+      "Language": "Portuguese",
+      "Country": "Switzerland, Portugal",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDU3MDA3NjUtOTdjOC00NWZlLThhYjEtNzhlY2UxMzgzODcyXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "27",
+      "imdbID": "tt18376344",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -50849,7 +50900,7 @@
       "https://image.tmdb.org/t/p/w1280/GZNbEfK77t5DPVE9ZvPdUdddAI.jpg"
     ],
     "tmdb_id": "1101412",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Um S Marginal|None": {
     "lbxd": {
@@ -51248,7 +51299,12 @@
       "Country": "United States",
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzM2Y5ZGQtNDg0ZS00NjFjLTkzZDctYTkzODNmMjRiY2ZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "36%"
+        }
+      ],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
@@ -60377,7 +60433,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1616344"
+    "tmdb_id": "1616344",
+    "wiki_tries": 1
   },
   "Colony|None": {
     "lbxd": {
@@ -62031,7 +62088,7 @@
       "https://image.tmdb.org/t/p/w1280/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
     ],
     "tmdb_id": "1058424",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Visages D’Enfants|1925": {
     "lbxd": {
@@ -62200,7 +62257,9 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {},
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
     "dir_checked": true,
     "stills_focus": [
       28.1
@@ -62214,7 +62273,9 @@
     "lbxd": null,
     "omdb": null,
     "wiki": null,
-    "cinema": {},
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
     "dir_checked": true,
     "stills": null
   },
@@ -62282,7 +62343,9 @@
       "imdb_id": "tt0407887",
       "extract_pt": "The Departed (bra: Os Infiltrados; prt: The Departed – Entre Inimigos) é um filme americano de 2006 dirigido por Martin Scorsese. É uma refilmagem de Mou Gaan Dou (Conflitos Internos), filme produzido em Hong Kong em 2002, cujo roteiro, escrito por Felix Chong e Siu Fai Mak, foi adaptado por William Monahan.\nO filme é estrelado por Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Martin Sheen e Vera Farmiga. A história se passa em Boston, Massachusetts, onde o chefe da máfia irlandesa, Francis \"Frank\" Costello, planta Colin Sullivan como um informante dentro da Polícia Estadual de Massachussetts."
     },
-    "cinema": {},
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
     "dir_checked": true,
     "stills_focus": [
       36.8,
@@ -62445,7 +62508,8 @@
       "https://image.tmdb.org/t/p/w1280/uMgVikqprjU84eDBTI0dbapX02c.jpg",
       "https://image.tmdb.org/t/p/w1280/jjbtd1PqoWhJcqm0QXBh8YTBJS3.jpg"
     ],
-    "tmdb_id": "5817"
+    "tmdb_id": "5817",
+    "wiki_tries": 1
   },
   "Um Pombo Pousou Num Ramo A Reflectir Na Existência|2014": {
     "lbxd": {
@@ -62519,7 +62583,8 @@
       "https://image.tmdb.org/t/p/w1280/uXeMfLCsKX4qJLjbPDCmgQelxrQ.jpg",
       "https://image.tmdb.org/t/p/w1280/4YGBqQRI5vWqG59wu4DF5qFo1UJ.jpg"
     ],
-    "tmdb_id": "110390"
+    "tmdb_id": "110390",
+    "wiki_tries": 1
   },
   "Da Eternidade|2019": {
     "lbxd": {
@@ -62593,7 +62658,8 @@
       "https://image.tmdb.org/t/p/w1280/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
       "https://image.tmdb.org/t/p/w1280/rS82bCzK8l35MGxsYAx6fegiXIs.jpg"
     ],
-    "tmdb_id": "348672"
+    "tmdb_id": "348672",
+    "wiki_tries": 1
   },
   "NOBODY - semana do cinema chinês em portugal 2026|1994": {
     "lbxd": null,
@@ -62626,5 +62692,619 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "L’Hypothèse Du Tableau Volé|1979": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
+      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1978,
+      "lb_title": "The Hypothesis of the Stolen Painting",
+      "backdrop": null,
+      "imdb_id": "tt0077707",
+      "tmdb_id": "88034"
+    },
+    "omdb": {
+      "Title": "L'hypothèse du tableau volé",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "04 Apr 1979",
+      "Runtime": "66 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Raúl Ruiz",
+      "Writer": "Raúl Ruiz, Pierre Klossowski",
+      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
+      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,240",
+      "imdbID": "tt0077707",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      8.0,
+      27.9,
+      57.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
+      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
+      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
+    ],
+    "tmdb_id": "88034"
+  },
+  "Visages D’Enfants|1923": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
+      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Feyder",
+      "lb_director_slug": "jacques-feyder",
+      "lb_year": 1925,
+      "lb_title": "Faces of Children",
+      "backdrop": null,
+      "imdb_id": "tt0016491",
+      "tmdb_id": "87116"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.3,
+      45.0,
+      42.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
+      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
+      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
+    ],
+    "tmdb_id": "87116"
+  },
+  "Moonfleet|1955": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/3/8/3/32383-moonfleet-0-500-0-750-crop.jpg?v=a170c37171",
+      "description": "Set in the eighteenth century, Moonfleet is about John Mohune, a young orphan who is sent to the Dorset village of Moonfleet to stay with an old friend of his mother's, Jeremy Fox. Fox is a morally ambiguous character, an elegant gentleman involved with smugglers and pirates.",
+      "genres": [
+        "Adventure",
+        "History",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Fritz Lang",
+      "lb_director_slug": "fritz-lang-1",
+      "lb_year": 1955,
+      "lb_title": "Moonfleet",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/lj/c6/vu/ce/moonfleet-1920-1920-1080-1080-crop-000000.jpg?v=1b31af9a7e",
+      "imdb_id": "tt0048387",
+      "tmdb_id": "29967"
+    },
+    "omdb": {
+      "Title": "Moonfleet",
+      "Year": "1955",
+      "Rated": "Approved",
+      "Released": "18 Jul 1955",
+      "Runtime": "87 min",
+      "Genre": "Adventure, Drama",
+      "Director": "Fritz Lang",
+      "Writer": "Jan Lustig, Margaret Fitts, J. Meade Falkner",
+      "Actors": "Stewart Granger, George Sanders, Joan Greenwood",
+      "Plot": "A young orphan is sent to the village of Moonfleet in Dorset, England to stay with his mother's former lover, who has the facade of a gentleman but leads a gang of swashbuckling bootleggers; the duo go on a treasure hunt.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNhN2VhNmYtNjJiZi00MDRjLTg4NzMtOTc3MzI1MzJhNmQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "64%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "4,203",
+      "imdbID": "tt0048387",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.4,
+      34.6,
+      30.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yrvTunVj8GUrdYSDSQasAWr7qLM.jpg",
+      "https://image.tmdb.org/t/p/w1280/rRrSmxNATjqPnW4zVJ2kxqh73oK.jpg",
+      "https://image.tmdb.org/t/p/w1280/ytEubaLI8snJkTcoWlzzIzDbcDB.jpg"
+    ],
+    "tmdb_id": "29967"
+  },
+  "Il Mio Viaggio In Italia|1999": {
+    "lbxd": {
+      "rating": 4.03,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/3/5/12735-my-voyage-to-italy-0-500-0-750-crop.jpg?v=591ed3493e",
+      "description": "World-renowned director Martin Scorsese narrates this journey through his favorites in Italian cinema.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 1999,
+      "lb_title": "My Voyage to Italy",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rx/ja/ny/ar/my%20voyage%20to%20italy-1920-1920-1080-1080-crop-000000.jpg?v=ddab8693fa",
+      "imdb_id": "tt0173772",
+      "tmdb_id": "53198"
+    },
+    "omdb": {
+      "Title": "My Voyage to Italy",
+      "Year": "1999",
+      "Rated": "PG-13",
+      "Released": "16 May 2002",
+      "Runtime": "246 min",
+      "Genre": "Documentary",
+      "Director": "Martin Scorsese",
+      "Writer": "Suso Cecchi D'Amico, Raffaele Donato, Kent Jones",
+      "Actors": "Martin Scorsese",
+      "Plot": "World-renowned director Martin Scorsese narrates this journey through his favorites in Italian cinema.",
+      "Language": "English, Italian, French, German",
+      "Country": "Italy, United States",
+      "Awards": "3 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTdjNDQ3NjQtODc4Ni00NzIxLWI0ZDItYzJiMzhlZmJmMDg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.2",
+      "imdbVotes": "3,576",
+      "imdbID": "tt0173772",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$11,683",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.3,
+      42.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/aOEsoi4PLECCsoNH0XQajlwupf6.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/rx/ja/ny/ar/my%20voyage%20to%20italy-1920-1920-1080-1080-crop-000000.jpg?v=ddab8693fa"
+    ],
+    "tmdb_id": "53198"
+  },
+  "Oxalá|1980": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/4/4/6/5/194465-oxala-0-500-0-750-crop.jpg?v=13dfb3ff93",
+      "description": "A man exiled in Paris makes various trips to Portugal after the Carnation Revolution. Each trip is represented by a woman.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "António-Pedro Vasconcelos",
+      "lb_director_slug": "antonio-pedro-vasconcelos",
+      "lb_year": 1980,
+      "lb_title": "Oxalá",
+      "backdrop": null,
+      "imdb_id": "tt0081292",
+      "tmdb_id": "271151"
+    },
+    "omdb": {
+      "Title": "Oxalá",
+      "Year": "1980",
+      "Rated": "N/A",
+      "Released": "08 May 1981",
+      "Runtime": "131 min",
+      "Genre": "Drama",
+      "Director": "António-Pedro Vasconcelos",
+      "Writer": "António-Pedro Vasconcelos",
+      "Actors": "Manuel Baeta Neves, Marta Reynolds, Laura Soveral",
+      "Plot": "N/A",
+      "Language": "Portuguese, French",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQyMjVhOGItMGEyMy00MTZkLWE1M2EtZmI2MDBmNDgyOGJlXkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "32",
+      "imdbID": "tt0081292",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0081292",
+      "extract_pt": "Oxalá é um filme português de drama, realizado por António Pedro Vasconcelos, estreado em 8 de Maio de 1981."
+    },
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "271151"
+  },
+  "Fatucha Superstar|1976": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Scorpio Rising|1963": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/8/18578-scorpio-rising-0-500-0-750-crop.jpg?v=6a8252e09a",
+      "description": "A gang of bikers prepares for a race as sexual, sadistic, and occult images are cut together.",
+      "genres": [
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Kenneth Anger",
+      "lb_director_slug": "kenneth-anger",
+      "lb_year": 1963,
+      "lb_title": "Scorpio Rising",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/m7/ae/e8/9u/5d6liBnNjxhU2s4GnwBXF3JkeWX-1920-1920-1080-1080-crop-000000.jpg?v=6fca41b39a",
+      "imdb_id": "tt0058555",
+      "tmdb_id": "46787"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      47.5,
+      37.5,
+      48.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ew4ogBGU2TkervI02yKt1r4mV0v.jpg",
+      "https://image.tmdb.org/t/p/w1280/1z2ZMEvlCxlcSQWLoO7dU0GBVBO.jpg",
+      "https://image.tmdb.org/t/p/w1280/5d6liBnNjxhU2s4GnwBXF3JkeWX.jpg"
+    ],
+    "tmdb_id": "46787"
+  },
+  "NOBODY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
+      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "country": "Japan",
+      "lb_director": "Toshimichi Ohkawa",
+      "lb_director_slug": "toshimichi-ohkawa",
+      "lb_year": 1994,
+      "lb_title": "Nobody",
+      "backdrop": null,
+      "imdb_id": "tt0203027",
+      "tmdb_id": "22487"
+    },
+    "omdb": {
+      "Title": "Nobody",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "26 Mar 2021",
+      "Runtime": "92 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ilya Naishuller",
+      "Writer": "Derek Kolstad",
+      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
+      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+      "Language": "English, Russian, Spanish",
+      "Country": "United States, China, Japan",
+      "Awards": "5 wins & 18 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.4",
+      "imdbVotes": "391,880",
+      "imdbID": "tt7888964",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$27,568,035",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "22487"
+  },
+  "HER STORY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
+      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Sydney Freeland",
+      "lb_director_slug": "sydney-freeland",
+      "lb_year": 2016,
+      "lb_title": "Her Story",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "imdb_id": "tt4858316",
+      "tmdb_id": "67282"
+    },
+    "omdb": {
+      "Title": "Her Story",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Nov 2024",
+      "Runtime": "123 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yihui Shao",
+      "Writer": "Shao Yihui",
+      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
+      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
+      "Language": "Mandarin",
+      "Country": "China",
+      "Awards": "34 wins & 35 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,333",
+      "imdbID": "tt31807233",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      44.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
+    ],
+    "tmdb_id": "67282"
+  },
+  "The Heart’s Root|2000": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/2/0/1/172201-the-hearts-root-0-500-0-750-crop.jpg?v=0fd72a8ec0",
+      "description": "Set in the Lisbon during the festivities of Saint Anthony, the patron saint of lovers and the old town. The story is about Cato, a nationalist politician who is charismatic and unscrupulous. He obsessively pursues Silvia, a mystical and mysterious young transvestite whom he meets at the festival. When Silvia runs into Vicente, a policeman who arrests transvestites and threatens them, Silvia must look towards blackmail to save herself. Compromising photos of Cato start to emerge among opposition parties and he must do all in his power to save his political career.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Paulo Rocha",
+      "lb_director_slug": "paulo-rocha-1",
+      "lb_year": 2000,
+      "lb_title": "The Heart's Root",
+      "backdrop": null,
+      "imdb_id": "tt0189960",
+      "tmdb_id": "246114"
+    },
+    "omdb": {
+      "Title": "A Raiz do Coração",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "18 Oct 2000",
+      "Runtime": "118 min",
+      "Genre": "Drama",
+      "Director": "Paulo Rocha",
+      "Writer": "Raquel Freire, Regina Guimarães, Paulo Rocha",
+      "Actors": "Luís Miguel Cintra, Joana Bárcia, Isabel Ruth",
+      "Plot": "In Lisbon, during the feasts of St. Anthony, the cross breeders of politicians in black shirts and transvestites all dressed in pink. An exuberant allegory of freedom against dictatorship.",
+      "Language": "Portuguese",
+      "Country": "Portugal, France",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwNGQ5ZjUtZWVhNS00ZWQ1LWJkZjMtYjE5ZTU5MGU5MTY2XkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "94",
+      "imdbID": "tt0189960",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0189960",
+      "extract_pt": "A Raiz do Coração é um filme português realizado em 2000 por Paulo Rocha.\nA estreia em Portugal foi a 12 de Janeiro de 2001."
+    },
+    "cinema": {
+      "plot_pt": "Em tom de fábula urbana, esta comédia musical imagina uma Lisboa no então futuro próximo de2010. Catão, político nacionalista, carismático e sem escrúpulos, desenvolve uma obsessão por Sílvia, uma jovem trans protegida por Ju, figura enigmática que sobrevive através de pequenas chantagens. Quando fotografias comprometedoras de Catão começam a circular entre os partidos da oposição, o seu interesse por Sílvia ameaça pôr em causa a carreira política. Uma das últimas obras de Paulo Rocha, A Raiz do Coração evidencia a experimentação que caracteriza a segunda metade da filmografia do cineasta.\nSessão seguida de conversa com Regina Guimarães (argumentista do filme) e Raquel Morais (Cinemateca Portuguesa)"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
+    ],
+    "tmdb_id": "246114"
+  },
+  "In the Darkness of the Night [Director’s Cut]|2004": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/2/9/1/70291-in-the-darkness-of-the-night-0-500-0-750-crop.jpg?v=badcccfad8",
+      "description": "A disturbing film about the Portuguese underworld of prostitution.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Canijo",
+      "lb_director_slug": "joao-canijo",
+      "lb_year": 2004,
+      "lb_title": "In the Darkness of the Night",
+      "backdrop": null,
+      "imdb_id": "tt0413053",
+      "tmdb_id": "83827"
+    },
+    "omdb": {
+      "Title": "Noite Escura",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "21 Oct 2004",
+      "Runtime": "94 min",
+      "Genre": "Drama, Crime",
+      "Director": "João Canijo",
+      "Writer": "João Canijo, Pierre Hodgson, Mayanna von Ledebur",
+      "Actors": "Fernando Luís, Rita Blanco, Beatriz Batarda",
+      "Plot": "\"Noite Escura\" is a disturbing movie about the Portuguese underworld of prostitution.",
+      "Language": "Portuguese, Russian",
+      "Country": "Portugal",
+      "Awards": "5 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWMxMmZhMzYtNzAyMC00YTQ0LTliOGQtODE1NmNmNGEyMzE5XkEyXkFqcGc@._V1_QL75_UY562_CR26,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "667",
+      "imdbID": "tt0413053",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Numa casa de alterne gerida por uma família, algures no interior de Portugal, a tensão cresce. Uma máfia russa exige o sacrifício de uma das filhas do gerente como recompensa pela quebra de confiança. Baseado numa tragédia grega, Noite Escura é um dos mais virtuosos filmes de João Canijo, onde a câmara deambula entre as alternadeiras e os seus clientes, num movimento de entrelaçamento de narrativas, processo que seria central no seu cinema futuro. Nesta sessão, será apresentada a versão original, com mais 12 minutos, recuperada na recente digitalização do filme."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.1,
+      40.4,
+      43.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8mnRVNUvduPlEf0y2KNKOiqZRPy.jpg",
+      "https://image.tmdb.org/t/p/w1280/hRFEJnrJXWmyA6KYBTGkXdxyCVd.jpg",
+      "https://image.tmdb.org/t/p/w1280/oNNCruDSUousZNqNH2M4RcJJptQ.jpg"
+    ],
+    "tmdb_id": "83827"
   }
 }
