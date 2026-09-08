@@ -40302,7 +40302,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      39.2
+      38.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/8ks0OY0ll6UQTaIG5Mz5UxyothM.jpg"
@@ -41830,7 +41830,7 @@
     "dir_checked": true,
     "stills_focus": [
       12.1,
-      26.6
+      26.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/9raenDlb8r15wapTziwQhg6yVgh.jpg",
@@ -44468,7 +44468,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "It's a Wonderful Life",
+      "imdb_id": "tt0038650",
+      "extract_pt": "It's a Wonderful Life (bra: A Felicidade Não Se Compra; prt: Do Céu Caiu uma Estrela) é um filme norte-americano de 1946, dos gêneros drama, fantasia, e Natal, produzido e dirigido por Frank Capra. A história foi baseada no conto e livreto The Greatest Gift, que Philip Van Doren Stern escreveu, e publicou de forma particular, em 1943.\nO filme é estrelado por James Stewart como George Bailey, um homem que desistiu de seus sonhos para ajudar os outros, e cujo suicídio iminente na véspera de Natal provoca a intervenção de seu anjo da guarda, Clarence Odbody (Henry Travers). Clarence mostra a George todas as vidas que ele tocou e como a vida seria diferente para sua esposa Mary e sua comunidade de Bedford Falls, se ele nunca tivesse nascido."
+    },
     "cinema": {
       "plot_pt": "Um dos clássicos de Natal mais adorados de sempre, It’s a Wonderful Life acompanha George Bailey (James Stewart), que dedicou a vida a ajudar a comunidade de Bedford Falls, sacrificando os seus próprios sonhos para manter o negócio familiar de empréstimos e travar o controlo do ganancioso Mr. Potter sobre a cidade. Na véspera de Natal, perante uma crise financeira e o desespero pessoal, George pondera o suicídio. É então visitado pelo seu anjo da guarda, que lhe mostra o impacto da sua existência e como seria o mundo sem ele."
     },
@@ -44483,7 +44487,8 @@
       "https://image.tmdb.org/t/p/w1280/rqmE0aFFerz8E8PkGOKPAoIY5Ax.jpg",
       "https://image.tmdb.org/t/p/w1280/rUITLSnNLW0JAIkZ99bS8wyCfVb.jpg"
     ],
-    "tmdb_id": "1585"
+    "tmdb_id": "1585",
+    "wiki_tries": 1
   },
   "Honeymoon|None": {
     "lbxd": {
@@ -60440,7 +60445,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1616344",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Colony|None": {
     "lbxd": {
@@ -62094,7 +62099,7 @@
       "https://image.tmdb.org/t/p/w1280/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg"
     ],
     "tmdb_id": "1058424",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Visages D’Enfants|1925": {
     "lbxd": {
@@ -62515,7 +62520,7 @@
       "https://image.tmdb.org/t/p/w1280/jjbtd1PqoWhJcqm0QXBh8YTBJS3.jpg"
     ],
     "tmdb_id": "5817",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Um Pombo Pousou Num Ramo A Reflectir Na Existência|2014": {
     "lbxd": {
@@ -62590,7 +62595,7 @@
       "https://image.tmdb.org/t/p/w1280/4YGBqQRI5vWqG59wu4DF5qFo1UJ.jpg"
     ],
     "tmdb_id": "110390",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Da Eternidade|2019": {
     "lbxd": {
@@ -62665,7 +62670,7 @@
       "https://image.tmdb.org/t/p/w1280/rS82bCzK8l35MGxsYAx6fegiXIs.jpg"
     ],
     "tmdb_id": "348672",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "NOBODY - semana do cinema chinês em portugal 2026|1994": {
     "lbxd": null,
@@ -62822,7 +62827,8 @@
       "https://image.tmdb.org/t/p/w1280/rRrSmxNATjqPnW4zVJ2kxqh73oK.jpg",
       "https://image.tmdb.org/t/p/w1280/ytEubaLI8snJkTcoWlzzIzDbcDB.jpg"
     ],
-    "tmdb_id": "29967"
+    "tmdb_id": "29967",
+    "wiki_tries": 1
   },
   "Il Mio Viaggio In Italia|1999": {
     "lbxd": {
@@ -62881,7 +62887,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "My Voyage to Italy",
+      "imdb_id": "tt0173772",
+      "extract_pt": "My Voyage to Italy (Italiano: Il mio viaggio in Italia) é um documentário pessoal do cineasta Martin Scorsese. O filme é um viagem pela história do cinema italiano. Foi lançado em 1999 e têm a duração de quatro horas."
+    },
     "cinema": {
       "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
     },
@@ -62894,7 +62904,8 @@
       "https://image.tmdb.org/t/p/w1280/aOEsoi4PLECCsoNH0XQajlwupf6.jpg",
       "https://a.ltrbxd.com/resized/sm/upload/rx/ja/ny/ar/my%20voyage%20to%20italy-1920-1920-1080-1080-crop-000000.jpg?v=ddab8693fa"
     ],
-    "tmdb_id": "53198"
+    "tmdb_id": "53198",
+    "wiki_tries": 1
   },
   "Oxalá|1980": {
     "lbxd": {
@@ -62985,7 +62996,11 @@
       "tmdb_id": "46787"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Scorpio Rising (film)",
+      "imdb_id": "tt0058555",
+      "extract_pt": "Scorpio Rising (de 1964) é um filme experimental de Kenneth Anger, também autor do livro Hollywood Babylon (volume 1 e 2). No elenco, o filme traz Bruce Byron como Scorpio. O filme trata de temas como motociclistas com roupas de couro, ocultismo, Jesus e Nazistas. O filme foi, inicialmente, mostrado no circuito de filmes undergrounds, e não tem diálogo."
+    },
     "cinema": {
       "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa)."
     },
@@ -63000,6 +63015,767 @@
       "https://image.tmdb.org/t/p/w1280/1z2ZMEvlCxlcSQWLoO7dU0GBVBO.jpg",
       "https://image.tmdb.org/t/p/w1280/5d6liBnNjxhU2s4GnwBXF3JkeWX.jpg"
     ],
-    "tmdb_id": "46787"
+    "tmdb_id": "46787",
+    "wiki_tries": 1
+  },
+  "L’Hypothèse Du Tableau Volé|1979": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
+      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1978,
+      "lb_title": "The Hypothesis of the Stolen Painting",
+      "backdrop": null,
+      "imdb_id": "tt0077707",
+      "tmdb_id": "88034"
+    },
+    "omdb": {
+      "Title": "L'hypothèse du tableau volé",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "04 Apr 1979",
+      "Runtime": "66 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Raúl Ruiz",
+      "Writer": "Raúl Ruiz, Pierre Klossowski",
+      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
+      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,240",
+      "imdbID": "tt0077707",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      8.0,
+      27.9,
+      57.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
+      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
+      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
+    ],
+    "tmdb_id": "88034"
+  },
+  "Visages D’Enfants|1923": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
+      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Feyder",
+      "lb_director_slug": "jacques-feyder",
+      "lb_year": 1925,
+      "lb_title": "Faces of Children",
+      "backdrop": null,
+      "imdb_id": "tt0016491",
+      "tmdb_id": "87116"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.3,
+      45.0,
+      42.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
+      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
+      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
+    ],
+    "tmdb_id": "87116"
+  },
+  "Shutter Island|2010": {
+    "lbxd": {
+      "rating": 4.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-500-0-750-crop.jpg?v=85dd4c38e3",
+      "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2010,
+      "lb_title": "Shutter Island",
+      "backdrop": null,
+      "imdb_id": "tt1130884",
+      "tmdb_id": "11324"
+    },
+    "omdb": {
+      "Title": "Shutter Island",
+      "Year": "2010",
+      "Rated": "R",
+      "Released": "19 Feb 2010",
+      "Runtime": "138 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Martin Scorsese",
+      "Writer": "Laeta Kalogridis, Dennis Lehane",
+      "Actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+      "Plot": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+      "Language": "English, German",
+      "Country": "Canada, United States",
+      "Awards": "11 wins & 66 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,644,111",
+      "imdbID": "tt1130884",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$128,012,934",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      22.3,
+      27.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
+      "https://image.tmdb.org/t/p/w1280/yJXDsrRywSfwG7IyvytzHdeAYnR.jpg",
+      "https://image.tmdb.org/t/p/w1280/6TMcyW2qbwvQfTGoQon7JNeaYOD.jpg"
+    ],
+    "tmdb_id": "11324"
+  },
+  "Shine A Light|2008": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/5/0/47950-shine-a-light-0-500-0-750-crop.jpg?v=9b5629235c",
+      "description": "Martin Scorsese’s electrifying concert documentary captures The Rolling Stones live at New York’s Beacon Theatre during their A Bigger Bang tour. Filmed over two nights in 2006 with an all-star team of cinematographers, the film combines dynamic performances with archival footage and rare glimpses behind the scenes, offering a vibrant portrait of the band’s enduring energy and legacy.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "Canada",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2008,
+      "lb_title": "Shine a Light",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce",
+      "imdb_id": "tt0893382",
+      "tmdb_id": "7944"
+    },
+    "omdb": {
+      "Title": "Shine a Light",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "04 Apr 2008",
+      "Runtime": "122 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Martin Scorsese",
+      "Writer": "N/A",
+      "Actors": "Mick Jagger, Keith Richards, Charlie Watts",
+      "Plot": "A career-spanning documentary on The Rolling Stones, with concert footage from their \"A Bigger Bang\" tour.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTg5ZTY5ZmQtNDA5NC00MTEyLTlmYWUtY2M1MTNiZTY4MmMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.1",
+      "imdbVotes": "12,606",
+      "imdbID": "tt0893382",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,505,267",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.5,
+      54.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zzAuxUpfZDEspL33N3KlOCWxOLH.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
+    ],
+    "tmdb_id": "7944"
+  },
+  "Border Line|1992": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/5/5/5/305555-border-line-0-500-0-750-crop.jpg?v=e58023b61f",
+      "description": "On a whim, the long-married Hélène decides to look up a former lover of hers. At his apartment, she is met by the man's grown son, Julien, who tells her that his father died just a few days before. Before long, she has become Julien's lover, but she is also increasingly becoming attached to the rather unlikely idea that Julien and she are genetically related. Meanwhile, her cardiologist husband cannot fathom her increasingly bizarre behavior. It is one thing to have an affair, even with a much younger man, but she seems to be edging ever-closer to the borderline between sanity and madness.",
+      "genres": [
+        "Drama"
+      ],
+      "country": null,
+      "lb_director": "Danièle Dubroux",
+      "lb_director_slug": "daniele-dubroux",
+      "lb_year": 1992,
+      "lb_title": "Border Line",
+      "backdrop": null,
+      "imdb_id": "tt0103860",
+      "tmdb_id": "369747"
+    },
+    "omdb": {
+      "Title": "Border Line",
+      "Year": "1992",
+      "Rated": "N/A",
+      "Released": "25 Mar 1992",
+      "Runtime": "90 min",
+      "Genre": "N/A",
+      "Director": "Danièle Dubroux",
+      "Writer": "Danièle Dubroux",
+      "Actors": "Danièle Dubroux, David Léotard, André Dussollier",
+      "Plot": "Helen loves Julien but he is her former dead love Charles' son.",
+      "Language": "French",
+      "Country": "France, Switzerland",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3MWVmYzQtYWJjNy00MDQ5LWJkM2UtNDMyNTU1OTZjMzg4XkEyXkFqcGdeQXVyNzU3NjUzNTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "38",
+      "imdbID": "tt0103860",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "369747"
+  },
+  "Orlando|1992": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/9/2/47292-orlando-0-500-0-750-crop.jpg?v=f27f26b77a",
+      "description": "England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "France",
+      "lb_director": "Sally Potter",
+      "lb_director_slug": "sally-potter",
+      "lb_year": 1992,
+      "lb_title": "Orlando",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/6a/vh/fe/9q/orlando-1920-1920-1080-1080-crop-000000.jpg?v=ed6760ab74",
+      "imdb_id": "tt0107756",
+      "tmdb_id": "9300"
+    },
+    "omdb": {
+      "Title": "Orlando",
+      "Year": "1992",
+      "Rated": "PG-13",
+      "Released": "09 Jun 1993",
+      "Runtime": "94 min",
+      "Genre": "Biography, Drama, Fantasy",
+      "Director": "Sally Potter",
+      "Writer": "Virginia Woolf, Walter Donohue, Sally Potter",
+      "Actors": "Tilda Swinton, Billy Zane, Quentin Crisp",
+      "Plot": "After Queen Elizabeth I commands him not to grow old, a young nobleman struggles with love and his place in the world.",
+      "Language": "English, French",
+      "Country": "United Kingdom, Russia, Italy, France, Netherlands",
+      "Awards": "Nominated for 2 Oscars. 15 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZThhODA0ZmQtM2UyMy00YWY0LTg4MGItZTJhZmI2NWJkMTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.1",
+      "imdbVotes": "20,816",
+      "imdbID": "tt0107756",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,377,643",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Uma sessão com “o princípio de Martin Scorsese”, que tinha 21 anos quando rodou WHAT’S A NICE GIRL LIKE YOU DOING IN A PLACE LIKE THIS, feito como um exercício para escola de artes nova-iorquina que frequentava, e sob o feitiço do OTTO E MEZZO de Federico Fellini, que tinha acabado de estrear em Nova Iorque – história de um escritor obcecado com um quadro (a rapariga mencionada no título é a que o vai distrair da obsessão), revela à primeira uma preocupação com as angústias ligadas à criação artística. IT’S NOT JUST YOU, MURRAY! também foi feito em ambiente escolar (agora, a New York University), e marca o primeiro encontro de Scorsese com um universo a que voltaria muitas vezes, a Máfia (o protagonista é um gangster a remoer a crise de meia idade). A primeira longa, WHO’S THAT KNOCKING AT MY DOOR, centra-se num domínio, a intimidade conjugal, que está sempre presente no cinema de Scorsese, embora normalmente rodeado de coisas à volta, enquanto aqui o foco é total na relação do casal formado por Harvey Keitel e Zina Bethune. Também é o filme do encontro de Scorsese com Keitel (em estreia absoluta como ator de cinema), tal como WHAT’S A NICE GIRL... fora o encontro do realizador com uma personalidade que esteve sempre,"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      18.0,
+      48.0,
+      30.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/AoMYwa8yRvXcbRKdD5s8VwIN3NA.jpg",
+      "https://image.tmdb.org/t/p/w1280/zVKXgxCOnj01owWoia6wfRxw6WK.jpg",
+      "https://image.tmdb.org/t/p/w1280/3YAldML4EDyoC6RBpzceALigrAZ.jpg"
+    ],
+    "tmdb_id": "9300"
+  },
+  "NOBODY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
+      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "country": "Japan",
+      "lb_director": "Toshimichi Ohkawa",
+      "lb_director_slug": "toshimichi-ohkawa",
+      "lb_year": 1994,
+      "lb_title": "Nobody",
+      "backdrop": null,
+      "imdb_id": "tt0203027",
+      "tmdb_id": "22487"
+    },
+    "omdb": {
+      "Title": "Nobody",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "26 Mar 2021",
+      "Runtime": "92 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ilya Naishuller",
+      "Writer": "Derek Kolstad",
+      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
+      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+      "Language": "English, Russian, Spanish",
+      "Country": "United States, China, Japan",
+      "Awards": "5 wins & 18 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.4",
+      "imdbVotes": "391,880",
+      "imdbID": "tt7888964",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$27,568,035",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "22487"
+  },
+  "HER STORY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
+      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Sydney Freeland",
+      "lb_director_slug": "sydney-freeland",
+      "lb_year": 2016,
+      "lb_title": "Her Story",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "imdb_id": "tt4858316",
+      "tmdb_id": "67282"
+    },
+    "omdb": {
+      "Title": "Her Story",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Nov 2024",
+      "Runtime": "123 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yihui Shao",
+      "Writer": "Shao Yihui",
+      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
+      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
+      "Language": "Mandarin",
+      "Country": "China",
+      "Awards": "34 wins & 35 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,333",
+      "imdbID": "tt31807233",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      44.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
+    ],
+    "tmdb_id": "67282"
+  },
+  "The Heart’s Root|2000": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/2/0/1/172201-the-hearts-root-0-500-0-750-crop.jpg?v=0fd72a8ec0",
+      "description": "Set in the Lisbon during the festivities of Saint Anthony, the patron saint of lovers and the old town. The story is about Cato, a nationalist politician who is charismatic and unscrupulous. He obsessively pursues Silvia, a mystical and mysterious young transvestite whom he meets at the festival. When Silvia runs into Vicente, a policeman who arrests transvestites and threatens them, Silvia must look towards blackmail to save herself. Compromising photos of Cato start to emerge among opposition parties and he must do all in his power to save his political career.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Paulo Rocha",
+      "lb_director_slug": "paulo-rocha-1",
+      "lb_year": 2000,
+      "lb_title": "The Heart's Root",
+      "backdrop": null,
+      "imdb_id": "tt0189960",
+      "tmdb_id": "246114"
+    },
+    "omdb": {
+      "Title": "A Raiz do Coração",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "18 Oct 2000",
+      "Runtime": "118 min",
+      "Genre": "Drama",
+      "Director": "Paulo Rocha",
+      "Writer": "Raquel Freire, Regina Guimarães, Paulo Rocha",
+      "Actors": "Luís Miguel Cintra, Joana Bárcia, Isabel Ruth",
+      "Plot": "In Lisbon, during the feasts of St. Anthony, the cross breeders of politicians in black shirts and transvestites all dressed in pink. An exuberant allegory of freedom against dictatorship.",
+      "Language": "Portuguese",
+      "Country": "Portugal, France",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwNGQ5ZjUtZWVhNS00ZWQ1LWJkZjMtYjE5ZTU5MGU5MTY2XkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "94",
+      "imdbID": "tt0189960",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0189960",
+      "extract_pt": "A Raiz do Coração é um filme português realizado em 2000 por Paulo Rocha.\nA estreia em Portugal foi a 12 de Janeiro de 2001."
+    },
+    "cinema": {
+      "plot_pt": "Em tom de fábula urbana, esta comédia musical imagina uma Lisboa no então futuro próximo de2010. Catão, político nacionalista, carismático e sem escrúpulos, desenvolve uma obsessão por Sílvia, uma jovem trans protegida por Ju, figura enigmática que sobrevive através de pequenas chantagens. Quando fotografias comprometedoras de Catão começam a circular entre os partidos da oposição, o seu interesse por Sílvia ameaça pôr em causa a carreira política. Uma das últimas obras de Paulo Rocha, A Raiz do Coração evidencia a experimentação que caracteriza a segunda metade da filmografia do cineasta.\nSessão seguida de conversa com Regina Guimarães (argumentista do filme) e Raquel Morais (Cinemateca Portuguesa)"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
+    ],
+    "tmdb_id": "246114"
+  },
+  "In the Darkness of the Night [Director’s Cut]|2004": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/2/9/1/70291-in-the-darkness-of-the-night-0-500-0-750-crop.jpg?v=badcccfad8",
+      "description": "A disturbing film about the Portuguese underworld of prostitution.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Canijo",
+      "lb_director_slug": "joao-canijo",
+      "lb_year": 2004,
+      "lb_title": "In the Darkness of the Night",
+      "backdrop": null,
+      "imdb_id": "tt0413053",
+      "tmdb_id": "83827"
+    },
+    "omdb": {
+      "Title": "Noite Escura",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "21 Oct 2004",
+      "Runtime": "94 min",
+      "Genre": "Drama, Crime",
+      "Director": "João Canijo",
+      "Writer": "João Canijo, Pierre Hodgson, Mayanna von Ledebur",
+      "Actors": "Fernando Luís, Rita Blanco, Beatriz Batarda",
+      "Plot": "\"Noite Escura\" is a disturbing movie about the Portuguese underworld of prostitution.",
+      "Language": "Portuguese, Russian",
+      "Country": "Portugal",
+      "Awards": "5 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWMxMmZhMzYtNzAyMC00YTQ0LTliOGQtODE1NmNmNGEyMzE5XkEyXkFqcGc@._V1_QL75_UY562_CR26,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "667",
+      "imdbID": "tt0413053",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Numa casa de alterne gerida por uma família, algures no interior de Portugal, a tensão cresce. Uma máfia russa exige o sacrifício de uma das filhas do gerente como recompensa pela quebra de confiança. Baseado numa tragédia grega, Noite Escura é um dos mais virtuosos filmes de João Canijo, onde a câmara deambula entre as alternadeiras e os seus clientes, num movimento de entrelaçamento de narrativas, processo que seria central no seu cinema futuro. Nesta sessão, será apresentada a versão original, com mais 12 minutos, recuperada na recente digitalização do filme."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.1,
+      40.4,
+      43.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8mnRVNUvduPlEf0y2KNKOiqZRPy.jpg",
+      "https://image.tmdb.org/t/p/w1280/hRFEJnrJXWmyA6KYBTGkXdxyCVd.jpg",
+      "https://image.tmdb.org/t/p/w1280/oNNCruDSUousZNqNH2M4RcJJptQ.jpg"
+    ],
+    "tmdb_id": "83827"
+  },
+  "HANAMI|None": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/6/2/1/8/1196218-hanami-0-500-0-750-crop.jpg?v=6b1b5433ef",
+      "description": "On a remote volcanic island that everybody wants to leave, little Nana learns to stay. Her mother, Nia, went into exile right after she was born and Nana grows up in the family of her father. One day, the family learns that Nia is ill. Nana begins to develop high fevers and is sent to the foot of a volcano for treatment. There she encounters a world steeped in magical realism, between dreams and reality. Later, when Nana is a teenager, her mother Nia finally returns to the island.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "Cabo Verde",
+      "lb_director": "Denise Fernandes",
+      "lb_director_slug": "denise-fernandes",
+      "lb_year": 2024,
+      "lb_title": "Hanami",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/6/2/1/8/tmdb/lWdr2OuPBKPbFC2OPdG2fsJ5dIv-1920-1920-1080-1080-crop-000000.jpg?v=ca8c8e5568",
+      "imdb_id": "tt29344907",
+      "tmdb_id": "1315405"
+    },
+    "omdb": {
+      "Title": "Hanami",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Oct 2024",
+      "Runtime": "96 min",
+      "Genre": "Drama, Fantasy",
+      "Director": "Denise Fernandes",
+      "Writer": "Telmo Churro, Denise Fernandes",
+      "Actors": "Yuta Nakano, Alice Da Luz, Daílma Mendes",
+      "Plot": "On a volcanic isle, Nana stays while others leave. Her ill mother Nia left after Nana's birth. Sent to the volcano's base for fever treatment, Nana encounters a dream-reality world. Years later, teenager Nana reunites with returni...",
+      "Language": "Japanese, French, English",
+      "Country": "Portugal, Switzerland, Cape Verde",
+      "Awards": "2 wins & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRhNThhMDItZTkxNS00NmYyLTgyMWItZWQwYWQ4YWUxNzZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "36",
+      "imdbID": "tt29344907",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.6,
+      32.4,
+      46.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pgVegm3YeB9an3rrRvlWJl6jcWe.jpg",
+      "https://image.tmdb.org/t/p/w1280/lWdr2OuPBKPbFC2OPdG2fsJ5dIv.jpg",
+      "https://image.tmdb.org/t/p/w1280/lphVSmoqsokJZi9lbQpoqtOVyaa.jpg"
+    ],
+    "tmdb_id": "1315405"
+  },
+  "O HÉROI|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/4/0/154540-the-hero-0-500-0-750-crop.jpg?v=2e3502719b",
+      "description": "A 20-year veteran of the Angolan civil war returns to the capital city of Luanda where he faces the challenges of assimilation and survival.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Angola",
+      "lb_director": "Zézé Gamboa",
+      "lb_director_slug": "zeze-gamboa",
+      "lb_year": 2004,
+      "lb_title": "The Hero",
+      "backdrop": null,
+      "imdb_id": "tt0424142",
+      "tmdb_id": "218202"
+    },
+    "omdb": {
+      "Title": "Jerônimo, O Héroi de Sertão",
+      "Year": "1972",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "90 min",
+      "Genre": "Adventure",
+      "Director": "C. Adolpho Chadler",
+      "Writer": "Célio Gonçalves, Moysés Weltman",
+      "Actors": "Elizabeth Baker, Elizabeth Baker, Antonio Carnera",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZjllNGMtNDk1ZS00YjQ3LThmNzgtZmIxMWNiY2I4NmJiXkEyXkFqcGdeQXVyMTY4MDUwMzc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0188008",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      40.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1XWATF1iH9xdC9XugtXp9lD9sRY.jpg"
+    ],
+    "tmdb_id": "218202"
   }
 }
