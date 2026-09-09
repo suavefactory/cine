@@ -1886,11 +1886,46 @@
   "Julien Chheng e Jean-Christophe Roger": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Frank Capra": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Frank_Capra.jpg/500px-Frank_Capra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Frank Russell Capra (born Francesco Rosario Capra; May 18, 1897 – September 3, 1991) was an Italian-born American film director, producer, and screenwriter who was the creative force behind several major award-winning films of the 1930s and 1940s. Born in Italy and raised in Los Angeles from the age of five, his rags-to-riches story has led film historians such as Ian Freer to consider him the \"American Dream personified\". Capra became one of America's most influential directors during the 1930s, winning three Academy Awards for Best Director from six nominations.",
+    "tries": 1
+  },
+  "Danièle Dubroux": {
+    "photo": null,
+    "bio": "Danièle Dubroux (born September 4, 1947, Paris) is a French director, screenwriter, and actress.",
+    "tries": 1
+  },
+  "Sally Potter": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/MJK_71590_Sally_Potter_%28The_Roads_Not_Taken%2C_Berlinale_2020%29.jpg/500px-MJK_71590_Sally_Potter_%28The_Roads_Not_Taken%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Charlotte Sally Potter  (born 19 September 1949) is an English film director and screenwriter. She directed Orlando (1992), which won the audience prize for Best Film at the Venice Film Festival.",
+    "tries": 1
+  },
+  "Kim Longinotto, Jano Williams": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Manuel Mozos": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ManuelMozos.png/500px-ManuelMozos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Manuel Mozos (born June 1959, in Lisbon) is a Portuguese film director.",
+    "tries": 1
+  },
+  "Sergio Leone": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sergio_Leone_1975.jpg/500px-Sergio_Leone_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Sergio Leone ( lee-OH-nee; Italian: [ˈsɛrdʒo leˈoːne]; 3 January 1929 – 30 April 1989) was an Italian filmmaker, credited as the pioneer of the spaghetti Western genre. He is widely regarded as one of the greatest directors in the history of cinema. Leone's film-making style includes juxtaposing extreme close-up shots with lengthy long shots.",
+    "tries": 1
+  },
+  "Denise Fernandes": {
+    "photo": null,
+    "bio": "Denise Fernandes is a Cape Verdean director. Her 2024 debut feature film Hanami screened at numerous festivals, like the Melbourne International Film Festival and the Red Sea International Film Festival, and won her an award for best director at the Locarno Film Festival.",
+    "tries": 1
+  },
+  "C. Adolpho Chadler": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }

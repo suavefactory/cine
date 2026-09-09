@@ -60445,7 +60445,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1616344",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Colony|None": {
     "lbxd": {
@@ -60922,7 +60922,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      45.6
+      45.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/54OiKjwXBrZMMdony36i8FCOjlf.jpg"
@@ -60953,7 +60953,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      42.1
+      42.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg"
@@ -61083,7 +61083,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.9,
+      36.0,
       45.1
     ],
     "stills": [
@@ -62273,7 +62273,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      28.1
+      28.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2k0ucU3bzj5pav3nciKN8dAcPkq.jpg"
@@ -62520,7 +62520,7 @@
       "https://image.tmdb.org/t/p/w1280/jjbtd1PqoWhJcqm0QXBh8YTBJS3.jpg"
     ],
     "tmdb_id": "5817",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Um Pombo Pousou Num Ramo A Reflectir Na Existência|2014": {
     "lbxd": {
@@ -62595,7 +62595,7 @@
       "https://image.tmdb.org/t/p/w1280/4YGBqQRI5vWqG59wu4DF5qFo1UJ.jpg"
     ],
     "tmdb_id": "110390",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Da Eternidade|2019": {
     "lbxd": {
@@ -62670,7 +62670,7 @@
       "https://image.tmdb.org/t/p/w1280/rS82bCzK8l35MGxsYAx6fegiXIs.jpg"
     ],
     "tmdb_id": "348672",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "NOBODY - semana do cinema chinês em portugal 2026|1994": {
     "lbxd": null,
@@ -62809,7 +62809,7 @@
       "https://image.tmdb.org/t/p/w1280/ytEubaLI8snJkTcoWlzzIzDbcDB.jpg"
     ],
     "tmdb_id": "29967",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Il Mio Viaggio In Italia|1999": {
     "lbxd": {
@@ -63053,7 +63053,9 @@
       "imdb_id": "tt0189960",
       "extract_pt": "A Raiz do Coração é um filme português realizado em 2000 por Paulo Rocha.\nA estreia em Portugal foi a 12 de Janeiro de 2001."
     },
-    "cinema": {},
+    "cinema": {
+      "plot_pt": "Em tom de fábula urbana, esta comédia musical imagina uma Lisboa no então futuro próximo de2010. Catão, político nacionalista, carismático e sem escrúpulos, desenvolve uma obsessão por Sílvia, uma jovem trans protegida por Ju, figura enigmática que sobrevive através de pequenas chantagens. Quando fotografias comprometedoras de Catão começam a circular entre os partidos da oposição, o seu interesse por Sílvia ameaça pôr em causa a carreira política. Uma das últimas obras de Paulo Rocha, A Raiz do Coração evidencia a experimentação que caracteriza a segunda metade da filmografia do cineasta.\nSessão seguida de conversa com Regina Guimarães (argumentista do filme) e Raquel Morais (Cinemateca Portuguesa)"
+    },
     "dir_checked": true,
     "stills_focus": [
       29.6
@@ -63118,7 +63120,9 @@
       "imdb_id": "tt0413053",
       "extract_pt": "Noite Escura é um filme português realizado por João Canijo, e estreado a 20 de Maio de 2004, no Festival de Cannes. Para além disso, foi escolhido como candidato ao Óscar de Melhor Filme Estrangeiro desse ano e arrecadou, em Portugal, o Globo de Ouro para o Melhor Filme."
     },
-    "cinema": {},
+    "cinema": {
+      "plot_pt": "Numa casa de alterne gerida por uma família, algures no interior de Portugal, a tensão cresce. Uma máfia russa exige o sacrifício de uma das filhas do gerente como recompensa pela quebra de confiança. Baseado numa tragédia grega, Noite Escura é um dos mais virtuosos filmes de João Canijo, onde a câmara deambula entre as alternadeiras e os seus clientes, num movimento de entrelaçamento de narrativas, processo que seria central no seu cinema futuro. Nesta sessão, será apresentada a versão original, com mais 12 minutos, recuperada na recente digitalização do filme."
+    },
     "dir_checked": true,
     "stills_focus": [
       20.1,
@@ -63131,5 +63135,988 @@
       "https://image.tmdb.org/t/p/w1280/oNNCruDSUousZNqNH2M4RcJJptQ.jpg"
     ],
     "tmdb_id": "83827"
+  },
+  "L’Hypothèse Du Tableau Volé|1979": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
+      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1978,
+      "lb_title": "The Hypothesis of the Stolen Painting",
+      "backdrop": null,
+      "imdb_id": "tt0077707",
+      "tmdb_id": "88034"
+    },
+    "omdb": {
+      "Title": "L'hypothèse du tableau volé",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "04 Apr 1979",
+      "Runtime": "66 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Raúl Ruiz",
+      "Writer": "Raúl Ruiz, Pierre Klossowski",
+      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
+      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,240",
+      "imdbID": "tt0077707",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      15.3,
+      41.9,
+      57.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
+      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
+      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
+    ],
+    "tmdb_id": "88034"
+  },
+  "Visages D’Enfants|1923": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
+      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Feyder",
+      "lb_director_slug": "jacques-feyder",
+      "lb_year": 1925,
+      "lb_title": "Faces of Children",
+      "backdrop": null,
+      "imdb_id": "tt0016491",
+      "tmdb_id": "87116"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.5,
+      45.0,
+      42.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
+      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
+      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
+    ],
+    "tmdb_id": "87116"
+  },
+  "Shutter Island|2010": {
+    "lbxd": {
+      "rating": 4.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-500-0-750-crop.jpg?v=85dd4c38e3",
+      "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2010,
+      "lb_title": "Shutter Island",
+      "backdrop": null,
+      "imdb_id": "tt1130884",
+      "tmdb_id": "11324"
+    },
+    "omdb": {
+      "Title": "Shutter Island",
+      "Year": "2010",
+      "Rated": "R",
+      "Released": "19 Feb 2010",
+      "Runtime": "138 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Martin Scorsese",
+      "Writer": "Laeta Kalogridis, Dennis Lehane",
+      "Actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+      "Plot": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+      "Language": "English, German",
+      "Country": "Canada, United States",
+      "Awards": "11 wins & 66 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,644,111",
+      "imdbID": "tt1130884",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$128,012,934",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      22.3,
+      27.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
+      "https://image.tmdb.org/t/p/w1280/yJXDsrRywSfwG7IyvytzHdeAYnR.jpg",
+      "https://image.tmdb.org/t/p/w1280/6TMcyW2qbwvQfTGoQon7JNeaYOD.jpg"
+    ],
+    "tmdb_id": "11324"
+  },
+  "Shine A Light|2008": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/5/0/47950-shine-a-light-0-500-0-750-crop.jpg?v=9b5629235c",
+      "description": "Martin Scorsese’s electrifying concert documentary captures The Rolling Stones live at New York’s Beacon Theatre during their A Bigger Bang tour. Filmed over two nights in 2006 with an all-star team of cinematographers, the film combines dynamic performances with archival footage and rare glimpses behind the scenes, offering a vibrant portrait of the band’s enduring energy and legacy.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "Canada",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2008,
+      "lb_title": "Shine a Light",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce",
+      "imdb_id": "tt0893382",
+      "tmdb_id": "7944"
+    },
+    "omdb": {
+      "Title": "Shine a Light",
+      "Year": "2008",
+      "Rated": "PG-13",
+      "Released": "04 Apr 2008",
+      "Runtime": "122 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Martin Scorsese",
+      "Writer": "N/A",
+      "Actors": "Mick Jagger, Keith Richards, Charlie Watts",
+      "Plot": "A career-spanning documentary on The Rolling Stones, with concert footage from their \"A Bigger Bang\" tour.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTg5ZTY5ZmQtNDA5NC00MTEyLTlmYWUtY2M1MTNiZTY4MmMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.1",
+      "imdbVotes": "12,606",
+      "imdbID": "tt0893382",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,505,267",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.2,
+      54.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zzAuxUpfZDEspL33N3KlOCWxOLH.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
+    ],
+    "tmdb_id": "7944"
+  },
+  "Border Line|1992": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/5/5/5/305555-border-line-0-500-0-750-crop.jpg?v=e58023b61f",
+      "description": "On a whim, the long-married Hélène decides to look up a former lover of hers. At his apartment, she is met by the man's grown son, Julien, who tells her that his father died just a few days before. Before long, she has become Julien's lover, but she is also increasingly becoming attached to the rather unlikely idea that Julien and she are genetically related. Meanwhile, her cardiologist husband cannot fathom her increasingly bizarre behavior. It is one thing to have an affair, even with a much younger man, but she seems to be edging ever-closer to the borderline between sanity and madness.",
+      "genres": [
+        "Drama"
+      ],
+      "country": null,
+      "lb_director": "Danièle Dubroux",
+      "lb_director_slug": "daniele-dubroux",
+      "lb_year": 1992,
+      "lb_title": "Border Line",
+      "backdrop": null,
+      "imdb_id": "tt0103860",
+      "tmdb_id": "369747"
+    },
+    "omdb": {
+      "Title": "Border Line",
+      "Year": "1992",
+      "Rated": "N/A",
+      "Released": "25 Mar 1992",
+      "Runtime": "90 min",
+      "Genre": "N/A",
+      "Director": "Danièle Dubroux",
+      "Writer": "Danièle Dubroux",
+      "Actors": "Danièle Dubroux, David Léotard, André Dussollier",
+      "Plot": "Helen loves Julien but he is her former dead love Charles' son.",
+      "Language": "French",
+      "Country": "France, Switzerland",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3MWVmYzQtYWJjNy00MDQ5LWJkM2UtNDMyNTU1OTZjMzg4XkEyXkFqcGdeQXVyNzU3NjUzNTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "38",
+      "imdbID": "tt0103860",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "369747"
+  },
+  "Orlando|1992": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/9/2/47292-orlando-0-500-0-750-crop.jpg?v=f27f26b77a",
+      "description": "England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "France",
+      "lb_director": "Sally Potter",
+      "lb_director_slug": "sally-potter",
+      "lb_year": 1992,
+      "lb_title": "Orlando",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/6a/vh/fe/9q/orlando-1920-1920-1080-1080-crop-000000.jpg?v=ed6760ab74",
+      "imdb_id": "tt0107756",
+      "tmdb_id": "9300"
+    },
+    "omdb": {
+      "Title": "Orlando",
+      "Year": "1992",
+      "Rated": "PG-13",
+      "Released": "09 Jun 1993",
+      "Runtime": "94 min",
+      "Genre": "Biography, Drama, Fantasy",
+      "Director": "Sally Potter",
+      "Writer": "Virginia Woolf, Walter Donohue, Sally Potter",
+      "Actors": "Tilda Swinton, Billy Zane, Quentin Crisp",
+      "Plot": "After Queen Elizabeth I commands him not to grow old, a young nobleman struggles with love and his place in the world.",
+      "Language": "English, French",
+      "Country": "United Kingdom, Russia, Italy, France, Netherlands",
+      "Awards": "Nominated for 2 Oscars. 15 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZThhODA0ZmQtM2UyMy00YWY0LTg4MGItZTJhZmI2NWJkMTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.1",
+      "imdbVotes": "20,816",
+      "imdbID": "tt0107756",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,377,643",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      18.0,
+      48.0,
+      30.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/AoMYwa8yRvXcbRKdD5s8VwIN3NA.jpg",
+      "https://image.tmdb.org/t/p/w1280/zVKXgxCOnj01owWoia6wfRxw6WK.jpg",
+      "https://image.tmdb.org/t/p/w1280/3YAldML4EDyoC6RBpzceALigrAZ.jpg"
+    ],
+    "tmdb_id": "9300"
+  },
+  "Shinjuku Boys|1995": {
+    "lbxd": {
+      "rating": 4.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/0/5/3/62053-shinjuku-boys-0-500-0-750-crop.jpg?v=46e24cfe12",
+      "description": "This documentary is set in the New Marilyn night club in Tokyo, Japan - where the hosts are transgender men. They can only make their living as hosts in a nightclub with other wannabes like them. The young women who come there often have relationships with them but the underlying fear is whether such a relationship can withstand the pressures on a girl to get married and have children. All three boys deal with this in different ways. These three hosts, the Shinjuku Boys, take us into their lives.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "Kim Longinotto",
+      "lb_director_slug": "kim-longinotto-1",
+      "lb_year": 1995,
+      "lb_title": "Shinjuku Boys",
+      "backdrop": null,
+      "imdb_id": "tt0114427",
+      "tmdb_id": "74124"
+    },
+    "omdb": {
+      "Title": "Shinjuku Boys",
+      "Year": "1995",
+      "Rated": "Not Rated",
+      "Released": "07 Jun 1996",
+      "Runtime": "53 min",
+      "Genre": "Documentary",
+      "Director": "Kim Longinotto, Jano Williams",
+      "Writer": "N/A",
+      "Actors": "Gaish, Tatsu, Kazuki",
+      "Plot": "Shinjuku Boys is a 1995 film by Kim Longinotto and Jano Williams. It explores the lives of three transgender men who work at the New Marilyn Club in Tokyo, Japan.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg2MDIwMjM3Nl5BMl5BanBnXkFtZTcwNzAzOTIxMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "243",
+      "imdbID": "tt0114427",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      36.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/szd1nXObfjY8Co8olPaB9QAnPLA.jpg"
+    ],
+    "tmdb_id": "74124"
+  },
+  "Cinema – Alguns Cortes: Censura|1999": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Censura: Alguns Cortes",
+      "Year": "1999",
+      "Rated": "N/A",
+      "Released": "29 Apr 1999",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Manuel Mozos",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0198363",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1402153"
+  },
+  "The Wolf Of Wall Street|2013": {
+    "lbxd": {
+      "rating": 4.0,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/1/1/4/86114-the-wolf-of-wall-street-0-500-0-750-crop.jpg?v=a2b958b6f1",
+      "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2013,
+      "lb_title": "The Wolf of Wall Street",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/cq/zm/xo/3z/wolf-of-wall-street-1920-1920-1080-1080-crop-000000.jpg?v=bfcb5bcfa9",
+      "imdb_id": "tt0993846",
+      "tmdb_id": "106646"
+    },
+    "omdb": {
+      "Title": "The Wolf of Wall Street",
+      "Year": "2013",
+      "Rated": "R",
+      "Released": "25 Dec 2013",
+      "Runtime": "180 min",
+      "Genre": "Biography, Comedy, Crime",
+      "Director": "Martin Scorsese",
+      "Writer": "Terence Winter, Jordan Belfort",
+      "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+      "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "8.2",
+      "imdbVotes": "1,784,314",
+      "imdbID": "tt0993846",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$116,900,694",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.0,
+      46.9,
+      18.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+      "https://image.tmdb.org/t/p/w1280/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
+      "https://image.tmdb.org/t/p/w1280/gqqIUxwey7z2P1scjGpG7G8Uscx.jpg"
+    ],
+    "tmdb_id": "106646"
+  },
+  "NOBODY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
+      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "country": "Japan",
+      "lb_director": "Toshimichi Ohkawa",
+      "lb_director_slug": "toshimichi-ohkawa",
+      "lb_year": 1994,
+      "lb_title": "Nobody",
+      "backdrop": null,
+      "imdb_id": "tt0203027",
+      "tmdb_id": "22487"
+    },
+    "omdb": {
+      "Title": "Nobody",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "26 Mar 2021",
+      "Runtime": "92 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ilya Naishuller",
+      "Writer": "Derek Kolstad",
+      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
+      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+      "Language": "English, Russian, Spanish",
+      "Country": "United States, China, Japan",
+      "Awards": "5 wins & 18 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.4",
+      "imdbVotes": "391,880",
+      "imdbID": "tt7888964",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$27,568,035",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "22487"
+  },
+  "HER STORY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
+      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Sydney Freeland",
+      "lb_director_slug": "sydney-freeland",
+      "lb_year": 2016,
+      "lb_title": "Her Story",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "imdb_id": "tt4858316",
+      "tmdb_id": "67282"
+    },
+    "omdb": {
+      "Title": "Her Story",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Nov 2024",
+      "Runtime": "123 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yihui Shao",
+      "Writer": "Shao Yihui",
+      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
+      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
+      "Language": "Mandarin",
+      "Country": "China",
+      "Awards": "34 wins & 35 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,333",
+      "imdbID": "tt31807233",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      44.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
+    ],
+    "tmdb_id": "67282"
+  },
+  "Toute une nuit|1982": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/1/2/3612-toute-une-nuit-0-500-0-750-crop.jpg?v=f8e9bc5872",
+      "description": "Following over two dozen different individuals in the almost wordless atmosphere of a dark night in a Brussels town, acceptance and rejection in the realm of romance is examined.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1982,
+      "lb_title": "Toute une nuit",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/xr/pt/61/dj/toute-1920-1920-1080-1080-crop-000000.jpg?v=870ea32d3f",
+      "imdb_id": "tt0084808",
+      "tmdb_id": "63215"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1982,
+      "plot_pt": "Numa noite de verão em Bruxelas, um conjunto de casais deixa-se levar por sentimentos ardentes — encontram-se, fazem amor, separam-se, dançam, dormem. Dividido em diferentes vinhetas, o filme mergulha em múltiplos romances fortuitos explorando o mistério da atração entre seres humanos. Uma obra menos conhecida da aclamada realizadora Chantal Akerman — autora de filmes como Je, tu, il, elle ou Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles, em 2022 considerado o melhor de sempre pela revista Sight & Sound. O restauro foi realizado pela CINEMATEK (Royal Film Archive of Belgium) com o apoio da Chantal Akerman Foundation e acompanhado pela diretora de fotografia Caroline Champetier."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      18.0,
+      29.9,
+      20.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3gSqZ9cKFibs60gXrZNoiXAizsO.jpg",
+      "https://image.tmdb.org/t/p/w1280/uQ3NNa9CW75Gc7ISXrAREp9xH7c.jpg",
+      "https://image.tmdb.org/t/p/w1280/3foyMrUy167MEBRfzLFXwh4SoYg.jpg"
+    ],
+    "tmdb_id": "63215"
+  },
+  "Je Tu Il Elle|1974": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/0/1/3/78013-je-tu-il-elle-0-500-0-750-crop.jpg?v=cf23035b7c",
+      "description": "A woman suffers a subdued psychological breakdown in the wake of a devastating breakup.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1974,
+      "lb_title": "Je Tu Il Elle",
+      "backdrop": null,
+      "imdb_id": "tt0071690",
+      "tmdb_id": "93934"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1974,
+      "plot_pt": "Julie vive no seu quarto, numa clausura da sua própria vontade, depois de um desgosto amoroso. Os seus dias preenchem-se entre arrumações e a escrita de cartas. Eventualmente, decide abandonar o quarto e apanha boleia de um camionista. Na viagem, ouve-o falar das relações com as mulheres da sua vida. Os dois separam-se quando Julie chega ao seu destino – a casa da sua ex-namorada. Nesta que é a primeira longa-metragem de Akerman, que também a protagoniza, vemos uma vulnerável exploração do sentimento de alienação e procura por uma conexão, realizada de forma minimalista, mas com uma grande precisão emocional e psicológica."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.1,
+      25.3,
+      22.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3FBWf8D3UuVULrtWsRBKfhOaBSc.jpg",
+      "https://image.tmdb.org/t/p/w1280/xzfR4D9G1YpZylwCnBqBznZNkMg.jpg",
+      "https://image.tmdb.org/t/p/w1280/abhET2JWvVFLGRv7DVnuxKQwEFO.jpg"
+    ],
+    "tmdb_id": "93934"
+  },
+  "Histoires d’Amerique|1989": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/6/7/7/1/186771-american-stories-0-500-0-750-crop.jpg?v=f5960d341d",
+      "description": "An exploration of Jewish American identity in a multilayered portrait of the immigrant experience. A series of first-person addresses delivered by a cross-section of Jewish New Yorkers, whose by turns tragic and humourous tales speak to a collective history of trauma, displacement, and resilience.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1989,
+      "lb_title": "American Stories: Food, Family and Philosophy",
+      "backdrop": null,
+      "imdb_id": "tt0095310",
+      "tmdb_id": "263358"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1989,
+      "plot_pt": "Através de piadas, situações cómicas e cenas absurdas da vida quotidiana, esta jóia desconhecida de Akerman gira em torno da memória e da identidade dos judeus americanos."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.2,
+      28.3,
+      41.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/k5GblfwWxtl7cMIRqu3ORPudqRf.jpg",
+      "https://image.tmdb.org/t/p/w1280/jWeXLS9tHfYOrHGZVlgjRSnqXx1.jpg",
+      "https://image.tmdb.org/t/p/w1280/wvHKGjSfa6vfirJWHQauWvYciJk.jpg"
+    ],
+    "tmdb_id": "263358"
+  },
+  "Les Rendez-vous d’Anna|1978": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/7/9/0/1/77901-the-meetings-of-anna-0-500-0-750-crop.jpg?v=95412557ba",
+      "description": "Detached filmmaker Anna Silver arrives in Germany to show her latest film; over the course of some days, she encounters a variety of new and old faces, some of whom make personal revelations to her to little affect.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1978,
+      "lb_title": "The Meetings of Anna",
+      "backdrop": null,
+      "imdb_id": "tt0078152",
+      "tmdb_id": "93669"
+    },
+    "omdb": {
+      "Title": "The Meetings of Anna",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "08 Nov 1978",
+      "Runtime": "128 min",
+      "Genre": "Drama",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "Aurore Clément, Helmut Griem, Magali Noël",
+      "Plot": "Anna, a detached and diffident director, arrives in Germany to show her latest film; she checks into a hotel, invites a stranger to her bed, and abruptly tells him to leave. He asks her to a birthday lunch with his mother and daug...",
+      "Language": "French",
+      "Country": "France, Belgium, West Germany",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhkMjkxM2QtMjNmOS00YWIzLWI3OWItZjdlZGFlYWJkMDY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "2,226",
+      "imdbID": "tt0078152",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1978,
+      "plot_pt": "Aurore Clément (\"Voando sobre um Ninho de Cucos\") encarna o alter ego de Chantal Akerman num filme emocionante que narra as aventuras das suas viagens pela Europa. O resultado é uma das obras mais comoventes, vibrantes e divisivas de Akerman. O trabalho de Anna como realizadora de cinema leva-a por toda a Europa Ocidental. Onde quer que vá, ou já tem uma relação próxima ou encontra-a rapidamente. As pessoas são atraídas por ela e tendem a revelar-lhe os seus segredos mais íntimos, embora Anna não demonstre interesse em conhecê-los."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.3,
+      21.0,
+      18.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/upRrVdUCP4QbiIlVpRiJQnG1sQQ.jpg",
+      "https://image.tmdb.org/t/p/w1280/oAmSmWIPk1PeelKjas54Zpzyc81.jpg",
+      "https://image.tmdb.org/t/p/w1280/veRNG8w5rLpVnvndlSbXNfQJJXJ.jpg"
+    ],
+    "tmdb_id": "93669"
+  },
+  "HANAMI|None": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/6/2/1/8/1196218-hanami-0-500-0-750-crop.jpg?v=6b1b5433ef",
+      "description": "On a remote volcanic island that everybody wants to leave, little Nana learns to stay. Her mother, Nia, went into exile right after she was born and Nana grows up in the family of her father. One day, the family learns that Nia is ill. Nana begins to develop high fevers and is sent to the foot of a volcano for treatment. There she encounters a world steeped in magical realism, between dreams and reality. Later, when Nana is a teenager, her mother Nia finally returns to the island.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "Cabo Verde",
+      "lb_director": "Denise Fernandes",
+      "lb_director_slug": "denise-fernandes",
+      "lb_year": 2024,
+      "lb_title": "Hanami",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/6/2/1/8/tmdb/lWdr2OuPBKPbFC2OPdG2fsJ5dIv-1920-1920-1080-1080-crop-000000.jpg?v=ca8c8e5568",
+      "imdb_id": "tt29344907",
+      "tmdb_id": "1315405"
+    },
+    "omdb": {
+      "Title": "Hanami",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Oct 2024",
+      "Runtime": "96 min",
+      "Genre": "Drama, Fantasy",
+      "Director": "Denise Fernandes",
+      "Writer": "Telmo Churro, Denise Fernandes",
+      "Actors": "Yuta Nakano, Alice Da Luz, Daílma Mendes",
+      "Plot": "On a volcanic isle, Nana stays while others leave. Her ill mother Nia left after Nana's birth. Sent to the volcano's base for fever treatment, Nana encounters a dream-reality world. Years later, teenager Nana reunites with returni...",
+      "Language": "Japanese, French, English",
+      "Country": "Portugal, Switzerland, Cape Verde",
+      "Awards": "2 wins & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRhNThhMDItZTkxNS00NmYyLTgyMWItZWQwYWQ4YWUxNzZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "36",
+      "imdbID": "tt29344907",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.6,
+      32.4,
+      46.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pgVegm3YeB9an3rrRvlWJl6jcWe.jpg",
+      "https://image.tmdb.org/t/p/w1280/lWdr2OuPBKPbFC2OPdG2fsJ5dIv.jpg",
+      "https://image.tmdb.org/t/p/w1280/lphVSmoqsokJZi9lbQpoqtOVyaa.jpg"
+    ],
+    "tmdb_id": "1315405"
+  },
+  "O HÉROI|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/4/0/154540-the-hero-0-500-0-750-crop.jpg?v=2e3502719b",
+      "description": "A 20-year veteran of the Angolan civil war returns to the capital city of Luanda where he faces the challenges of assimilation and survival.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Angola",
+      "lb_director": "Zézé Gamboa",
+      "lb_director_slug": "zeze-gamboa",
+      "lb_year": 2004,
+      "lb_title": "The Hero",
+      "backdrop": null,
+      "imdb_id": "tt0424142",
+      "tmdb_id": "218202"
+    },
+    "omdb": {
+      "Title": "Jerônimo, O Héroi de Sertão",
+      "Year": "1972",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "90 min",
+      "Genre": "Adventure",
+      "Director": "C. Adolpho Chadler",
+      "Writer": "Célio Gonçalves, Moysés Weltman",
+      "Actors": "Elizabeth Baker, Elizabeth Baker, Antonio Carnera",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZjllNGMtNDk1ZS00YjQ3LThmNzgtZmIxMWNiY2I4NmJiXkEyXkFqcGdeQXVyMTY4MDUwMzc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0188008",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      40.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1XWATF1iH9xdC9XugtXp9lD9sRY.jpg"
+    ],
+    "tmdb_id": "218202"
   }
 }
