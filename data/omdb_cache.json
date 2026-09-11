@@ -40240,7 +40240,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.1
+      35.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yhkN6N3lLVhFoO12zAle3B9wriM.jpg"
@@ -45954,7 +45954,7 @@
     "tmdb_id": "95378",
     "wiki_tries": 3,
     "stills_focus": [
-      32.5,
+      32.4,
       43.2
     ],
     "stills": [
@@ -50347,8 +50347,8 @@
   },
   "O Jacaré|2026": {
     "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/0/4/1595104-o-jacare-0-500-0-750-crop.jpg?v=6946c88ad3",
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/0/4/1595104-o-jacare-0-500-0-750-crop.jpg?v=6c2ff7054f",
       "description": "Reboleira, a suburb of Lisbon. After a robbery gone wrong, a car ends up crashed right in the middle of the neighborhood. The driver is arrested, but the €180,000 that were stolen have vanished. Within the area sealed off by the police, rumors spread and speculations run wild. Among the residents, a whole cast of colorful characters dream of getting their hands on the loot. Who will the first to get their hands on it?",
       "genres": [
         "Drama"
@@ -50362,43 +50362,12 @@
       "imdb_id": "tt18376344",
       "tmdb_id": "1728711"
     },
-    "omdb": {
-      "Title": "O Jacaré",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "03 Sep 2026",
-      "Runtime": "92 min",
-      "Genre": "Thriller",
-      "Director": "Basil da Cunha",
-      "Writer": "Basil da Cunha",
-      "Actors": "Alexandre Da Costa Fonseca, Paulo César Lima Fonseca, Nelson Carvalho",
-      "Plot": "It centers on a robbery in a hood on the outskirts of Lisbon which threatens its close-knit solidarity.",
-      "Language": "Portuguese",
-      "Country": "Switzerland, Portugal",
-      "Awards": "1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDU3MDA3NjUtOTdjOC00NWZlLThhYjEtNzhlY2UxMzgzODcyXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.3",
-      "imdbVotes": "27",
-      "imdbID": "tt18376344",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.1,
+      32.5,
       28.2
     ],
     "stills": [
@@ -51382,16 +51351,21 @@
       "Genre": "Drama",
       "Director": "Amirali Navaee",
       "Writer": "Amirali Navaee",
-      "Actors": "Sam Nakhai, Babak Karimi",
-      "Plot": "In \"Sunshine Express\" a diverse group of individuals sign a contract to take part in a reality show. They board a decorative train placed in a studio, bound for Hermia, the mythical land of dreams. Each passenger is assigned a uni...",
+      "Actors": "Sam Nakhai, Babak Karimi, Azadeh Seifi",
+      "Plot": "A group of passengers embark on a unique journey to Hermia, a mythical land of dreams, guided by a show director, symbolizing their struggles and aspirations, completing in a quest for redemption under the totalitarian show's stri...",
       "Language": "Persian",
       "Country": "Iran",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlZjhhYjktYWY0Ni00YmMyLWIyMDEtOWYwYTM1NmZjZGU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlZjhhYjktYWY0Ni00YmMyLWIyMDEtOWYwYTM1NmZjZGU0XkEyXkFqcGc@._V1_QL75_UY562_CR30,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.5/10"
+        }
+      ],
       "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "19",
+      "imdbRating": "4.5",
+      "imdbVotes": "47",
       "imdbID": "tt35572092",
       "Type": "movie",
       "DVD": "N/A",
@@ -60293,14 +60267,14 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
+      36.1,
       29.0,
-      31.9,
-      42.5
+      31.9
     ],
     "stills": [
+      "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
       "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
-      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg",
-      "https://image.tmdb.org/t/p/w1280/izLG3cxbG89nK75OHyd1zvjR7n8.jpg"
+      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
     ],
     "tmdb_id": "1477104"
   },
@@ -63522,7 +63496,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Shinjuku Boys",
+      "imdb_id": "tt0114427",
+      "extract_pt": "Shinjuku Boys é um filme de 1995 de Kim Longinotto e Jano Williams. Ele explora a vida de três homens trans ou não binários que trabalham no New Marilyn Club em Tóquio, Japão. O termo que usam para si mesmos é onabe, e os três protagonistas discutem seus relacionamentos românticos, seus relacionamentos com os pais, suas apresentações de gênero, como entendem seus próprios gêneros e suas diferentes perspectivas de vida."
+    },
     "cinema": {
       "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos."
     },
@@ -63533,7 +63511,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/szd1nXObfjY8Co8olPaB9QAnPLA.jpg"
     ],
-    "tmdb_id": "74124"
+    "tmdb_id": "74124",
+    "wiki_tries": 1
   },
   "Cinema – Alguns Cortes: Censura|1999": {
     "lbxd": null,
@@ -63631,7 +63610,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Wolf of Wall Street (2013 film)",
+      "imdb_id": "tt0993846",
+      "extract_pt": "The Wolf of Wall Street (bra/prt: O Lobo de Wall Street) é um filme estadunidense de 2013, do gênero comédia dramático-biográfico-policial, dirigido por Martin Scorsese, com roteiro de Terence Winter baseado nas memórias de Jordan Belfort, The Wolf of Wall Street."
+    },
     "cinema": {
       "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos."
     },
@@ -63646,7 +63629,8 @@
       "https://image.tmdb.org/t/p/w1280/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
       "https://image.tmdb.org/t/p/w1280/gqqIUxwey7z2P1scjGpG7G8Uscx.jpg"
     ],
-    "tmdb_id": "106646"
+    "tmdb_id": "106646",
+    "wiki_tries": 1
   },
   "Toute une nuit|1982": {
     "lbxd": {
@@ -63683,7 +63667,8 @@
       "https://image.tmdb.org/t/p/w1280/uQ3NNa9CW75Gc7ISXrAREp9xH7c.jpg",
       "https://image.tmdb.org/t/p/w1280/3foyMrUy167MEBRfzLFXwh4SoYg.jpg"
     ],
-    "tmdb_id": "63215"
+    "tmdb_id": "63215",
+    "wiki_tries": 1
   },
   "Je Tu Il Elle|1974": {
     "lbxd": {
@@ -63704,7 +63689,11 @@
       "tmdb_id": "93934"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Je Tu Il Elle",
+      "imdb_id": "tt0071690",
+      "extract_pt": "Je, tu, il, elle é um filme de comédia dramática coproduzido pela França e Bélgica, dirigido por Chantal Akerman e lançado em 1974."
+    },
     "cinema": {
       "year": 1974,
       "plot_pt": "Julie vive no seu quarto, numa clausura da sua própria vontade, depois de um desgosto amoroso. Os seus dias preenchem-se entre arrumações e a escrita de cartas. Eventualmente, decide abandonar o quarto e apanha boleia de um camionista. Na viagem, ouve-o falar das relações com as mulheres da sua vida. Os dois separam-se quando Julie chega ao seu destino – a casa da sua ex-namorada. Nesta que é a primeira longa-metragem de Akerman, que também a protagoniza, vemos uma vulnerável exploração do sentimento de alienação e procura por uma conexão, realizada de forma minimalista, mas com uma grande precisão emocional e psicológica."
@@ -63720,7 +63709,8 @@
       "https://image.tmdb.org/t/p/w1280/xzfR4D9G1YpZylwCnBqBznZNkMg.jpg",
       "https://image.tmdb.org/t/p/w1280/abhET2JWvVFLGRv7DVnuxKQwEFO.jpg"
     ],
-    "tmdb_id": "93934"
+    "tmdb_id": "93934",
+    "wiki_tries": 1
   },
   "Histoires d’Amerique|1989": {
     "lbxd": {
@@ -63740,7 +63730,11 @@
       "tmdb_id": "263358"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "American Stories: Food, Family and Philosophy",
+      "imdb_id": "tt0095310",
+      "extract_pt": "Histoires d'Amérique é um filme de drama franco-belga de 1989 dirigido por Chantal Akerman."
+    },
     "cinema": {
       "year": 1989,
       "country": "França e Bélgica",
@@ -63757,7 +63751,8 @@
       "https://image.tmdb.org/t/p/w1280/jWeXLS9tHfYOrHGZVlgjRSnqXx1.jpg",
       "https://image.tmdb.org/t/p/w1280/wvHKGjSfa6vfirJWHQauWvYciJk.jpg"
     ],
-    "tmdb_id": "263358"
+    "tmdb_id": "263358",
+    "wiki_tries": 1
   },
   "Les Rendez-vous d’Anna|1978": {
     "lbxd": {
@@ -63828,6 +63823,775 @@
       "https://image.tmdb.org/t/p/w1280/oAmSmWIPk1PeelKjas54Zpzyc81.jpg",
       "https://image.tmdb.org/t/p/w1280/veRNG8w5rLpVnvndlSbXNfQJJXJ.jpg"
     ],
-    "tmdb_id": "93669"
+    "tmdb_id": "93669",
+    "wiki_tries": 1
+  },
+  "L’Hypothèse Du Tableau Volé|1979": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
+      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1978,
+      "lb_title": "The Hypothesis of the Stolen Painting",
+      "backdrop": null,
+      "imdb_id": "tt0077707",
+      "tmdb_id": "88034"
+    },
+    "omdb": {
+      "Title": "L'hypothèse du tableau volé",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "04 Apr 1979",
+      "Runtime": "66 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Raúl Ruiz",
+      "Writer": "Raúl Ruiz, Pierre Klossowski",
+      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
+      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,240",
+      "imdbID": "tt0077707",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      8.0,
+      27.9,
+      57.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
+      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
+      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
+    ],
+    "tmdb_id": "88034"
+  },
+  "Visages D’Enfants|1923": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
+      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Feyder",
+      "lb_director_slug": "jacques-feyder",
+      "lb_year": 1925,
+      "lb_title": "Faces of Children",
+      "backdrop": null,
+      "imdb_id": "tt0016491",
+      "tmdb_id": "87116"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.3,
+      45.0,
+      42.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
+      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
+      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
+    ],
+    "tmdb_id": "87116"
+  },
+  "High Art|1998": {
+    "lbxd": {
+      "rating": 3.34,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/8/6/0/26860-high-art-0-500-0-750-crop.jpg?v=e3fb8875cf",
+      "description": "When Syd, a young editor at an influential art magazine, becomes involved with her neighbor, a drug-addicted lesbian photographer, both seek to exploit each other for their respective careers while slowly falling in love with each other.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Canada",
+      "lb_director": "Lisa Cholodenko",
+      "lb_director_slug": "lisa-cholodenko-1",
+      "lb_year": 1998,
+      "lb_title": "High Art",
+      "backdrop": null,
+      "imdb_id": "tt0139362",
+      "tmdb_id": "37636"
+    },
+    "omdb": {
+      "Title": "High Art",
+      "Year": "1998",
+      "Rated": "R",
+      "Released": "12 Jun 1998",
+      "Runtime": "101 min",
+      "Genre": "Drama, Romance",
+      "Director": "Lisa Cholodenko",
+      "Writer": "Lisa Cholodenko",
+      "Actors": "Radha Mitchell, Ally Sheedy, Patricia Clarkson",
+      "Plot": "A young female intern at a small magazine company and a drug-addicted lesbian photographer slowly fall in love while exploiting each other to advance their respective careers.",
+      "Language": "English",
+      "Country": "Canada, United States",
+      "Awards": "8 wins & 19 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGNlOTFjYzEtYTAxNy00M2Q4LWFmZDMtY2Q3ZGUxNGQyOTEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "6.6",
+      "imdbVotes": "11,426",
+      "imdbID": "tt0139362",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,960,216",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.8,
+      40.9,
+      29.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/z6Cxs29a2vX2Oq79sLCZ5BOZMJ7.jpg",
+      "https://image.tmdb.org/t/p/w1280/yTYR92DqJ9HgBvvRy7GL4P4Bx0G.jpg",
+      "https://image.tmdb.org/t/p/w1280/xlqH0aFIf4zAtTczF3lce6NXnEf.jpg"
+    ],
+    "tmdb_id": "37636"
+  },
+  "A Letter To Elia|2010": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Silence|2016": {
+    "lbxd": {
+      "rating": 4.02,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/5/0/4/52504-silence-0-500-0-750-crop.jpg?v=b1740fd4a3",
+      "description": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2016,
+      "lb_title": "Silence",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/qt/hj/ck/ur/silence-1920-1920-1080-1080-crop-000000.jpg?v=23f81bb8c6",
+      "imdb_id": "tt0490215",
+      "tmdb_id": "68730"
+    },
+    "omdb": {
+      "Title": "Silence",
+      "Year": "2016",
+      "Rated": "R",
+      "Released": "13 Jan 2017",
+      "Runtime": "161 min",
+      "Genre": "Drama, History",
+      "Director": "Martin Scorsese",
+      "Writer": "Jay Cocks, Martin Scorsese, Shûsaku Endô",
+      "Actors": "Andrew Garfield, Adam Driver, Liam Neeson",
+      "Plot": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
+      "Language": "English, Japanese, Latin",
+      "Country": "United Kingdom, Italy, Mexico, United States",
+      "Awards": "Nominated for 1 Oscar. 8 wins & 62 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.2",
+      "imdbVotes": "130,171",
+      "imdbID": "tt0490215",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$7,100,177",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.0,
+      28.2,
+      31.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
+      "https://image.tmdb.org/t/p/w1280/dUElfbkhY9urTLiE1MGFUc2WdcP.jpg",
+      "https://image.tmdb.org/t/p/w1280/dNpNQ0vNXRRZnElrI5XUngq5EEd.jpg"
+    ],
+    "tmdb_id": "68730"
+  },
+  "Hugo|2011": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/9v/8u/7j/rSmmVKeW3nsP86V2S6R7ePs4CFw-0-500-0-750-crop.jpg?v=2e7a1b811a",
+      "description": "Orphaned and alone except for an uncle, Hugo Cabret lives in the walls of a train station in 1930s Paris. Hugo's job is to oil and maintain the station's clocks, but to him, his more important task is to protect a broken automaton and notebook left to him by his late father. Accompanied by the goddaughter of an embittered toy merchant, Hugo embarks on a quest to solve the mystery of the automaton and find a place he can call home.",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2011,
+      "lb_title": "Hugo",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/8t/7j/ae/lx/hugo-1920-1920-1080-1080-crop-000000.jpg?v=b67326a75a",
+      "imdb_id": "tt0970179",
+      "tmdb_id": "44826"
+    },
+    "omdb": {
+      "Title": "Hugo",
+      "Year": "2011",
+      "Rated": "PG",
+      "Released": "23 Nov 2011",
+      "Runtime": "126 min",
+      "Genre": "Adventure, Drama, Family",
+      "Director": "Martin Scorsese",
+      "Writer": "John Logan, Brian Selznick",
+      "Actors": "Asa Butterfield, Chloë Grace Moretz, Christopher Lee",
+      "Plot": "In 1931 Paris, an orphan living in the walls of a train station gets wrapped up in a mystery involving his late father and an automaton.",
+      "Language": "English, French",
+      "Country": "United Kingdom, United States",
+      "Awards": "Won 5 Oscars. 61 wins & 193 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.5",
+      "imdbVotes": "348,108",
+      "imdbID": "tt0970179",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$73,864,507",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      41.8,
+      28.2,
+      44.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
+      "https://image.tmdb.org/t/p/w1280/jlh5bNiSPcbQ79Nt31kE2GxIR3h.jpg",
+      "https://image.tmdb.org/t/p/w1280/h1W887ujJGKiqYSdv0DRjLZJG8J.jpg"
+    ],
+    "tmdb_id": "44826"
+  },
+  "George Harrison: Living In The Material World|2011": {
+    "lbxd": {
+      "rating": 4.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/5/5/1/9/1285519-george-harrison-living-in-the-material-world-0-500-0-750-crop.jpg?v=e1a1b83154",
+      "description": "He was part of the most famous rock-'n'-roll quartet in history. But George Harrison was much more than just a member of The Beatles.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2011,
+      "lb_title": "George Harrison: Living in the Material World",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/0j/0w/yd/yl/georgeharrison-1920-1920-1080-1080-crop-000000.jpg?v=7a84645412",
+      "imdb_id": "tt1113829",
+      "tmdb_id": "43107"
+    },
+    "omdb": {
+      "Title": "George Harrison: Living in the Material World",
+      "Year": "2011",
+      "Rated": "Not Rated",
+      "Released": "04 Oct 2011",
+      "Runtime": "208 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Martin Scorsese",
+      "Writer": "N/A",
+      "Actors": "George Harrison, Harry Harrison, Peter Harrison",
+      "Plot": "Filmmaker Martin Scorsese examines the life of musician George Harrison, weaving together interviews, concert footage, home movies and photographs.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Primetime Emmys. 6 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmI1NGU2OTQtMTI1OC00MzU0LTkyZjMtNjZhMzVmNmExNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "13,367",
+      "imdbID": "tt1113829",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.6,
+      28.8,
+      36.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/piMw4xxshI5lT5ieT8u5cTpXxyF.jpg",
+      "https://image.tmdb.org/t/p/w1280/oa97E5GlbHLHcF3Cn5Vsnh6Kkbw.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/0j/0w/yd/yl/georgeharrison-1920-1920-1080-1080-crop-000000.jpg?v=7a84645412"
+    ],
+    "tmdb_id": "43107"
+  },
+  "L’Homme Blessé|1983": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/3/4/5/50345-the-wounded-man-0-500-0-750-crop.jpg?v=d538185858",
+      "description": "A fleeting encounter in a train station draws a withdrawn young man into a shadowy world of desire and danger. As obsession deepens, innocence destroyed, and an irreversible transformation begins.",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "Patrice Chéreau",
+      "lb_director_slug": "patrice-chereau",
+      "lb_year": 1983,
+      "lb_title": "The Wounded Man",
+      "backdrop": null,
+      "imdb_id": "tt0084085",
+      "tmdb_id": "2304"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.4,
+      32.6,
+      19.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zqoWkhg7Z82Yg2vjnQnltcSpI5k.jpg",
+      "https://image.tmdb.org/t/p/w1280/hFZ9KW2RHcPL5tcrwWPYYMRAi6f.jpg",
+      "https://image.tmdb.org/t/p/w1280/m6MXfscV1eN7UvSKZu2Nzmbm3GF.jpg"
+    ],
+    "tmdb_id": "2304"
+  },
+  "NOBODY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
+      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "country": "Japan",
+      "lb_director": "Toshimichi Ohkawa",
+      "lb_director_slug": "toshimichi-ohkawa",
+      "lb_year": 1994,
+      "lb_title": "Nobody",
+      "backdrop": null,
+      "imdb_id": "tt0203027",
+      "tmdb_id": "22487"
+    },
+    "omdb": {
+      "Title": "Nobody",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "26 Mar 2021",
+      "Runtime": "92 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ilya Naishuller",
+      "Writer": "Derek Kolstad",
+      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
+      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+      "Language": "English, Russian, Spanish",
+      "Country": "United States, China, Japan",
+      "Awards": "5 wins & 18 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.4",
+      "imdbVotes": "391,880",
+      "imdbID": "tt7888964",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$27,568,035",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "22487"
+  },
+  "HER STORY - semana do cinema chinês em portugal 2026|None": {
+    "lbxd": {
+      "rating": 3.78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
+      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Sydney Freeland",
+      "lb_director_slug": "sydney-freeland",
+      "lb_year": 2016,
+      "lb_title": "Her Story",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "imdb_id": "tt4858316",
+      "tmdb_id": "67282"
+    },
+    "omdb": {
+      "Title": "Her Story",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Nov 2024",
+      "Runtime": "123 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Yihui Shao",
+      "Writer": "Shao Yihui",
+      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
+      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
+      "Language": "Mandarin",
+      "Country": "China",
+      "Awards": "34 wins & 35 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,333",
+      "imdbID": "tt31807233",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      44.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
+      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
+    ],
+    "tmdb_id": "67282"
+  },
+  "Crimes do Futuro|2022": {
+    "lbxd": {
+      "rating": 3.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/6/3/1/8/736318-crimes-of-the-future-0-500-0-750-crop.jpg?v=ae8a4b1603",
+      "description": "With his partner, a celebrity performance artist publicly showcases the metamorphosis of his organs in avant-garde performances. An investigator from the National Organ Registry obsessively tracks their movements, which is when a mysterious group is revealed... Their mission — to use the artist's notoriety to shed light on the next phase of human evolution.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "country": "Canada",
+      "lb_director": "David Cronenberg",
+      "lb_director_slug": "david-cronenberg",
+      "lb_year": 2022,
+      "lb_title": "Crimes of the Future",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/l4/7m/g2/wa/crimes-of-future-2022-1920-1920-1080-1080-crop-000000.jpg?v=2764ae72dc",
+      "imdb_id": "tt14549466",
+      "tmdb_id": "819876"
+    },
+    "omdb": {
+      "Title": "Crimes of the Future",
+      "Year": "2022",
+      "Rated": "R",
+      "Released": "25 May 2022",
+      "Runtime": "107 min",
+      "Genre": "Drama, Horror, Sci-Fi",
+      "Director": "David Cronenberg",
+      "Writer": "David Cronenberg",
+      "Actors": "Viggo Mortensen, Léa Seydoux, Kristen Stewart",
+      "Plot": "Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
+      "Language": "English",
+      "Country": "Canada, Greece, United Kingdom, France",
+      "Awards": "10 wins & 33 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBjMTEzZGItOGMzYy00Mzk4LWE0YjgtN2ExMjY1MTBlNTlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "5.8",
+      "imdbVotes": "46,557",
+      "imdbID": "tt14549466",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$2,452,882",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2022,
+      "original_title": "Crimes of the Future",
+      "country": "Reino Unido, Grécia e Canadá",
+      "plot_pt": "À medida que a espécie humana se adapta a um ambiente sintético, o corpo sofre novas transformações e mutações. Com o seu parceiro Caprice, Saul Tenser, artista performático de celebridades, mostra publicamente a metamorfose dos seus órgãos em performances de vanguarda. Timlin, um investigador do National Organ Registry, rastreia obsessivamente os seus movimentos, que é quando um grupo misterioso é revelado… sua missão? – usar a notoriedade de Saul para lançar luz sobre a próxima fase da evolução humana."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.6,
+      26.0,
+      27.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/sqdsuvy8X6Maila4IAc7deMtPAA.jpg",
+      "https://image.tmdb.org/t/p/w1280/kHVt03r8DO5j4c97wSeZgQCnvvk.jpg",
+      "https://image.tmdb.org/t/p/w1280/4WrPiblKVwmciGWqS8S280wFgbl.jpg"
+    ],
+    "tmdb_id": "819876"
+  },
+  "HANAMI|None": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/6/2/1/8/1196218-hanami-0-500-0-750-crop.jpg?v=6b1b5433ef",
+      "description": "On a remote volcanic island that everybody wants to leave, little Nana learns to stay. Her mother, Nia, went into exile right after she was born and Nana grows up in the family of her father. One day, the family learns that Nia is ill. Nana begins to develop high fevers and is sent to the foot of a volcano for treatment. There she encounters a world steeped in magical realism, between dreams and reality. Later, when Nana is a teenager, her mother Nia finally returns to the island.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "Cabo Verde",
+      "lb_director": "Denise Fernandes",
+      "lb_director_slug": "denise-fernandes",
+      "lb_year": 2024,
+      "lb_title": "Hanami",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/6/2/1/8/tmdb/lWdr2OuPBKPbFC2OPdG2fsJ5dIv-1920-1920-1080-1080-crop-000000.jpg?v=ca8c8e5568",
+      "imdb_id": "tt29344907",
+      "tmdb_id": "1315405"
+    },
+    "omdb": {
+      "Title": "Hanami",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "22 Oct 2024",
+      "Runtime": "96 min",
+      "Genre": "Drama, Fantasy",
+      "Director": "Denise Fernandes",
+      "Writer": "Telmo Churro, Denise Fernandes",
+      "Actors": "Yuta Nakano, Alice Da Luz, Daílma Mendes",
+      "Plot": "On a volcanic isle, Nana stays while others leave. Her ill mother Nia left after Nana's birth. Sent to the volcano's base for fever treatment, Nana encounters a dream-reality world. Years later, teenager Nana reunites with returni...",
+      "Language": "Japanese, French, English",
+      "Country": "Portugal, Switzerland, Cape Verde",
+      "Awards": "2 wins & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTRhNThhMDItZTkxNS00NmYyLTgyMWItZWQwYWQ4YWUxNzZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "36",
+      "imdbID": "tt29344907",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.6,
+      32.4,
+      46.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pgVegm3YeB9an3rrRvlWJl6jcWe.jpg",
+      "https://image.tmdb.org/t/p/w1280/lWdr2OuPBKPbFC2OPdG2fsJ5dIv.jpg",
+      "https://image.tmdb.org/t/p/w1280/lphVSmoqsokJZi9lbQpoqtOVyaa.jpg"
+    ],
+    "tmdb_id": "1315405"
+  },
+  "O HÉROI|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/5/4/0/154540-the-hero-0-500-0-750-crop.jpg?v=2e3502719b",
+      "description": "A 20-year veteran of the Angolan civil war returns to the capital city of Luanda where he faces the challenges of assimilation and survival.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Angola",
+      "lb_director": "Zézé Gamboa",
+      "lb_director_slug": "zeze-gamboa",
+      "lb_year": 2004,
+      "lb_title": "The Hero",
+      "backdrop": null,
+      "imdb_id": "tt0424142",
+      "tmdb_id": "218202"
+    },
+    "omdb": {
+      "Title": "Jerônimo, O Héroi de Sertão",
+      "Year": "1972",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "90 min",
+      "Genre": "Adventure",
+      "Director": "C. Adolpho Chadler",
+      "Writer": "Célio Gonçalves, Moysés Weltman",
+      "Actors": "Elizabeth Baker, Elizabeth Baker, Antonio Carnera",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZjllNGMtNDk1ZS00YjQ3LThmNzgtZmIxMWNiY2I4NmJiXkEyXkFqcGdeQXVyMTY4MDUwMzc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0188008",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      40.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1XWATF1iH9xdC9XugtXp9lD9sRY.jpg"
+    ],
+    "tmdb_id": "218202"
   }
 }

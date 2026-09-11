@@ -1911,12 +1911,12 @@
   "C. Adolpho Chadler": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Kim Longinotto, Jano Williams": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Manuel Mozos": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ManuelMozos.png/500px-ManuelMozos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1926,6 +1926,21 @@
   "Sergio Leone": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sergio_Leone_1975.jpg/500px-Sergio_Leone_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Sergio Leone ( lee-OH-nee; Italian: [ˈsɛrdʒo leˈoːne]; 3 January 1929 – 30 April 1989) was an Italian filmmaker, credited as the pioneer of the spaghetti Western genre. He is widely regarded as one of the greatest directors in the history of cinema. Leone's film-making style includes juxtaposing extreme close-up shots with lengthy long shots.",
+    "tries": 1
+  },
+  "Lisa Cholodenko": {
+    "photo": null,
+    "bio": "Lisa Cholodenko is an American screenwriter and director. Cholodenko wrote and directed the films High Art (1998), Laurel Canyon (2002), and The Kids Are All Right (2010). She has also directed television, including the miniseries Olive Kitteridge (2014) and Unbelievable (2019).",
+    "tries": 1
+  },
+  "Martin Scorsese (e Kent Jones)": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Patrice Chéreau": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Patrice_Ch%C3%A9reau_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/500px-Patrice_Ch%C3%A9reau_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Patrice Chéreau (; French: [patʁis ʃeʁo]; 2 November 1944 – 7 October 2013) was a French opera and theatre director, filmmaker, actor and producer. In France he is best known for his work for the theatre, internationally for his films La Reine Margot and Intimacy, and for his staging of the Jahrhundertring, the centenary Ring Cycle at the Bayreuth Festival in 1976. Winner of almost twenty movie awards, including the Cannes Jury Prize and the Golden Berlin Bear, Chéreau served as president of the jury at the 2003 Cannes festival.",
     "tries": 1
   }
 }
