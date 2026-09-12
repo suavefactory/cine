@@ -65,6 +65,140 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "kotaro-wajima"
     },
     {
+      "id": "sao_jorge_11620",
+      "title": "Curtas: Méliès d’argent PT #02 + Q&A",
+      "director": null,
+      "duration": 93,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Calhau.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/curtas-melies-dargent-pt-02-qa/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "22:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11613",
+      "title": "Wicked Wicked",
+      "director": "Richard L. Bare",
+      "duration": 95,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/1/4/3/73143-wicked-wicked-0-500-0-750-crop.jpg?v=7fd5aa14d7",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/wicked-wicked/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.17,
+      "year": 1973,
+      "plot": "Simmons, the manager of a seaside hotel in California, has a problem: Guests are turning up dead, and Sgt. Ramsey, the hotel's detective, has no information as to the identity of the murderer. The only thing anybody knows is that the killer wears a strange mask and has a fondness for blonde women. As Ramsey tracks down a list of suspects that includes the hotel handyman, Lisa, the hotel's lounge singer, finds herself in danger.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/yhOp1d1kRQ2r0bcssDlj9DsyzLR.jpg",
+        "https://image.tmdb.org/t/p/w1280/jhLcbo1mPU6U4CiKf1IbhVLSEiT.jpg",
+        "https://image.tmdb.org/t/p/w1280/7ApGxh5HIHr9fIjjA1zANmuHFw5.jpg"
+      ],
+      "stills_focus": [
+        21.9,
+        44.0,
+        35.2
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "richard-l-bare"
+    },
+    {
+      "id": "sao_jorge_11611",
+      "title": "DreamQuil",
+      "director": "Alex Prager",
+      "duration": 104,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/4/5/3/7/1014537-dreamquil-0-500-0-750-crop.jpg?v=82efeb2783",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/dreamquil/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "Set in the not so distant future when poor air quality leads to people living mostly virtual lives. Carol is a dissatisfied career mother, struggling to find connection within her marriage to Gary and her child. With the day to day familiarity of their home and lives feeling increasingly claustrophobic, and worried she could be heading towards divorce, Carol leaps at the chance to get her life back on track by signing up for \"DreamQuil\", an avant-garde digital wellness retreat. When Carol returns home however, she discovers her family has been living with \"Carol 2\", a robot the corporation sent designed to help in her absence, and things take a mysterious and sinister turn.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
+        "https://image.tmdb.org/t/p/w1280/aeuR3TkCbkOdlT7ecmj38zvVsxv.jpg"
+      ],
+      "stills_focus": [
+        28.6,
+        42.9
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "alex-prager",
+      "rating": 3.18
+    },
+    {
+      "id": "sao_jorge_11609",
+      "title": "Sunshine Express",
+      "director": "Amirali Navaee",
+      "duration": 100,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/6/7/4/1307674-sunshine-express-0-500-0-750-crop.jpg?v=2085edca02",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/sunshine-express/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "14:55",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2025,
+      "plot": "Participants assigned a specific character in a role-playing game undertake a fictional train journey to an island, in order to win a cash prize, only for the competition to become a microcosm of the limitations they experience in their real lives.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
+      ],
+      "stills_focus": [
+        38.5
+      ],
+      "country": "Iran",
+      "director_lbxd_slug": "amirali-navaee"
+    },
+    {
+      "id": "sao_jorge_11605",
+      "title": "Curtas ao Almoço: Competição PT #1 2026",
+      "director": null,
+      "duration": 58,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Curtas-ao-Almoco_-Competicao-PT-1-amordemoura.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/curtas-ao-almoco-competicao-pt-1-2026/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "13:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
       "id": "sao_jorge_11593",
       "title": "Ghost in the Cell",
       "director": "Joko Anwar",
@@ -981,7 +1115,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.97,
       "plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
-      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese.",
+      "plot_pt": "Em vários sentidos MEAN STREETS é o Scorsese “seminal”, que lança para a rua (propriamente dita) os dados essenciais do seu trabalho futuro, sobretudo do seu trabalho ao longo do resto da década, até ao princípio dos anos 80. A raiz do filme é uma espécie de memória distorcida (como “distorcida” é a personagem principal, o hiper-neurótico Harvey Keitel) da juventude de Scorsese em Little Italy, os traumas católicos a coexistirem com a marginalidade social, as zaragatas de rua, os gangs mais ou menos à margem da lei, a relação com as mulheres marcada por uma mistura de preconceitos religiosos e uma misoginia de rejeitado. Já cheio de “rock and roll” na banda sonora (a primeira sequência do filme traz logo os Rolling Stones, que Scorsese mais tarde filmaria em carne e osso), é o filme onde Scorsese mergulha na mise en scène como exercício de euforia e violência sempre vorazes – como nas cenas de zaragata geral, as melhores cenas do género desde as célebres cenas “corais” de pancadaria de John Ford.",
       "title_en": "The Hypothesis of the Stolen Painting",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
@@ -1059,7 +1193,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.67,
       "plot": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
-      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese.",
+      "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”.",
       "title_en": "Faces of Children",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
@@ -4605,9 +4739,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/1PrMymOLdDbsPPEro8ARwCRzjC5.jpg"
       ],
       "stills_focus": [
-        38.0,
-        45.9,
-        39.1
+        32.5,
+        43.2
       ],
       "country": "USA",
       "director_lbxd_slug": "josef-von-sternberg"
@@ -5553,14 +5686,6 @@ window.CINEMA_DATA = {
       "rating": 3.78,
       "plot": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
       "title_en": "HER STORY",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-        "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
-      ],
-      "stills_focus": [
-        27.8,
-        44.8
-      ],
       "country": "USA",
       "director_lbxd_slug": "sydney-freeland"
     },
@@ -8646,7 +8771,7 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         }
       ],
-      "rating": 3.2,
+      "rating": 3.21,
       "plot": "Dealing with a series of increasingly absurd situations and relationships, recently separated yoga instructors Gustavo and Vanesa are finding it difficult to live apart. Their challenges include meddling mothers, amnesiac students, and burgeoning romances. Step by step, they find their way back to the practice.",
       "plot_pt": "Gustavo e Vanesa separam-se e têm de rever os projetos em comum. Os dois são professores de yoga. Gustavo é argentino, Vanesa é chilena. Vanesa fica com o apartamento e deixa o estúdio que partilhavam; Gustavo fica sem casa. Devido ao stress acumulado, Gustavo lesiona o joelho e substitui o yoga por exercícios de quadríceps e ginásio. A sua vida transforma-se num mundo de alunos e ex-alunos. Até que, aos poucos, ele reencontra o caminho para a prática.",
       "title_en": "The Practice",
@@ -9483,6 +9608,21 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Japanese film director"
     },
+    "Richard L. Bare": {
+      "lbxd_slug": "richard-l-bare",
+      "photo": null,
+      "bio": "Richard Leland Bare (August 12, 1913 – March 28, 2015) was an American director, producer, and screenwriter of Hollywood movies, television shows and short films."
+    },
+    "Alex Prager": {
+      "lbxd_slug": "alex-prager",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Alex_Prager%2C_2023.jpg/500px-Alex_Prager%2C_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Alex Prager (born November 1, 1979) is an American artist, director, and screenwriter based in Los Angeles. Prager is best known for making large-scale photographic works that distort the boundaries between reality and artifice, often centered around the human condition."
+    },
+    "Amirali Navaee": {
+      "lbxd_slug": "amirali-navaee",
+      "photo": null,
+      "bio": null
+    },
     "Joko Anwar": {
       "lbxd_slug": "joko-anwar-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Joko_Anwar_Best_Director_Festival_Film_Indonesia_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -9523,10 +9663,75 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Jay Burleson": {
+      "lbxd_slug": "jay-burleson",
+      "photo": null,
+      "bio": "Jay Burleson is an American filmmaker from Hartselle, Alabama."
+    },
+    "Jono Seneff": {
+      "lbxd_slug": "sabine-groenewegen",
+      "photo": null,
+      "bio": null
+    },
+    "Kenji Tanigaki": {
+      "lbxd_slug": "kenji-tanigaki",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg/500px-Kenji_Tanigaki_at_the_2025_Toronto_International_Film_Festival._01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kenji Tanigaki (谷垣 健治, Tanigaki Kenji; born 13 October 1970) is a Japanese action choreographer, stunt performer, and film director. He is best known for his works in Hong Kong action cinema, and has expanded his career in Japanese cinema and Hollywood. Inspired by Jackie Chan's action films, Tanigaki migrated to Hong Kong in 1993 and began his career in action choreography by collaborating with Donnie Yen in the ATV martial arts drama series Fist of Fury (1995)."
+    },
+    "Talita Prestes": {
+      "lbxd_slug": "marcos-jorge-1",
+      "photo": null,
+      "bio": null
+    },
+    "Jordan Pfeifer": {
+      "lbxd_slug": "jordan-pfeifer",
+      "photo": null,
+      "bio": null
+    },
+    "Bob Bentley": {
+      "lbxd_slug": "bob-bentley",
+      "photo": null,
+      "bio": "Robert or Bob Bentley may refer to:"
+    },
+    "Paween Purijitpanya": {
+      "lbxd_slug": "paween-purijitpanya-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Paween_Purikitpanya_at_MTV_8th_anniversary.jpg/500px-Paween_Purikitpanya_at_MTV_8th_anniversary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Thai film director"
+    },
+    "Yuriyan Retriever": {
+      "lbxd_slug": "yuriyan-retriever",
+      "photo": null,
+      "bio": "Yuriyan Retriever (ゆりやん レトリィバァ, born November 1, 1990) is a Japanese comedian and actress, hip hop artist, singer, Film director from Yoshino, Nara, Japan. Her real name is Yuri Yoshida (吉田 有里, Yoshida Yuri). She is represented with Yoshimoto Kogyo."
+    },
     "Martin Scorsese": {
       "lbxd_slug": "martin-scorsese",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/500px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Martin Charles Scorsese ( skor-SESS-ee; Italian: [skorˈseːze, -se]; born November 17, 1942) is an American filmmaker. One of the major figures of the New Hollywood era, he is widely considered one of the greatest and most influential directors in the history of cinema. He has received numerous accolades including an Academy Award, four BAFTA Awards, three Emmy Awards, a Grammy Award, and three Golden Globe Awards."
+    },
+    "Robert Altman, Bruce Beresford, Bill Bryden, Jean-Luc Godard, Derek Jarman, Franc Roddam, Nicolas Roeg, Ken Russell, Charles Sturridge, Julien Temple": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Andrzej Zulawski": {
+      "lbxd_slug": "andrzej-zuawski",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Andrzej_%C5%BBu%C5%82awski_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Andrzej Żuławski (Polish: [ˈandʐɛj ʐuˈwafskʲi]; 22 November 1940 in Lwów – 17 February 2016 in Warsaw) was a Polish film director and writer best known for his 1981 psychological horror film Possession. Żuławski often went against mainstream commercialism in his films, and enjoyed success mostly with European art-house audiences. In the late 1950s, he studied cinema in France."
+    },
+    "Manoel de Oliveira": {
+      "lbxd_slug": "manoel-de-oliveira",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
+    },
+    "Slobodan Sijan": {
+      "lbxd_slug": "slobodan-sijan-2",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Slobodan_%C5%A0ijan_%28cropped%29.jpg/500px-Slobodan_%C5%A0ijan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Slobodan Šijan (Serbian Cyrillic: Слободан Шијан, pronounced [slɔbɔ̌dan ʃîjaːn]; born 16 November 1946) is a Serbian film director."
+    },
+    "Eric Darnell, Tom McGrath": {
+      "lbxd_slug": "eric-darnell",
+      "photo": null,
+      "bio": null
     },
     "Grupo Dziga Vertov": {
       "lbxd_slug": "jean-luc-godard-1",
@@ -9658,15 +9863,25 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Agnès Varda": {
+      "lbxd_slug": "agnes-varda",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
+    },
+    "Josef von Sternberg": {
+      "lbxd_slug": "josef-von-sternberg",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dishonored_%28film%29_1931_On_set%2C_BW_photo%2C_L_to_R_Josef_von_Sternberg%2C_Marlene_Dietrich_%28cropped-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Josef von Sternberg (Austrian German: [ˈjoːzɛf fɔn ˈʃtɛrnbɛrg]; born Jonas Sternberg; May 29, 1894 – December 22, 1969) was an Austrian-American filmmaker whose career successfully spanned the transition from the silent to the sound era, during which he worked with most of the major Hollywood studios. He is best known for his film collaboration with actress Marlene Dietrich in the 1930s, including the highly regarded Paramount/UFA production The Blue Angel (1930). He was twice nominated for the Academy Award for Best Director, for Morocco (1930) and Shanghai Express (1932)."
+    },
     "Luchino Visconti": {
       "lbxd_slug": "luchino-visconti",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
       "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
     },
-    "John Ford": {
-      "lbxd_slug": "john-ford-2",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952)."
+    "Ildikó Enyedi": {
+      "lbxd_slug": "ildiko-enyedi",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
     },
     "Maryam Touzani": {
       "lbxd_slug": "maryam-touzani",
@@ -10177,11 +10392,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "olivia-wilde",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg/500px-Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Olivia Jane Cockburn (born March 10, 1984), known professionally as Olivia Wilde, is an American actress and filmmaker. She played Remy \"Thirteen\" Hadley on the medical-drama television series House (2007–2012), and appeared in the action films Tron: Legacy (2010) and Cowboys & Aliens (2011), the romantic drama film Her (2013), the comedy film The Incredible Burt Wonderstone (2013), and the horror film The Lazarus Effect (2015). She made her Broadway debut playing Julia in 1984 (2017)."
-    },
-    "Jacques Deray": {
-      "lbxd_slug": "jacques-deray",
-      "photo": null,
-      "bio": "Jacques Deray (born Jacques Desrayaud, 19 February 1929 – 9 August 2003) was a French film director and screenwriter. Deray is prominently known for directing many crime and thriller films."
     },
     "Chantal Akerman": {
       "lbxd_slug": "chantal-akerman",
