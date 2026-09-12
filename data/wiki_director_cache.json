@@ -1916,7 +1916,7 @@
   "Kim Longinotto, Jano Williams": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Manuel Mozos": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ManuelMozos.png/500px-ManuelMozos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -1936,6 +1936,36 @@
   "Martin Scorsese (e Kent Jones)": {
     "photo": null,
     "bio": null,
+    "tries": 2
+  },
+  "Patrice Chéreau": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Patrice_Ch%C3%A9reau_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/500px-Patrice_Ch%C3%A9reau_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Patrice Chéreau (; French: [patʁis ʃeʁo]; 2 November 1944 – 7 October 2013) was a French opera and theatre director, filmmaker, actor and producer. In France he is best known for his work for the theatre, internationally for his films La Reine Margot and Intimacy, and for his staging of the Jahrhundertring, the centenary Ring Cycle at the Bayreuth Festival in 1976. Winner of almost twenty movie awards, including the Cannes Jury Prize and the Golden Berlin Bear, Chéreau served as president of the jury at the 2003 Cannes festival.",
+    "tries": 1
+  },
+  "Allan Dwan": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Dwan_-_Sep_1920_EH.jpg/500px-Allan_Dwan_-_Sep_1920_EH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Allan Dwan (born Joseph Aloysius Dwan; April 3, 1885 – December 28, 1981) was a pioneering Canadian and American motion picture director, producer, and screenwriter.",
+    "tries": 1
+  },
+  "Marlon Riggs": {
+    "photo": null,
+    "bio": "Marlon Troy Riggs (February 3, 1957 – April 5, 1994) was an American filmmaker, educator, poet, and activist. He produced, wrote, and directed several documentary films, including Ethnic Notions, Tongues Untied, Color Adjustment, and Black Is... Black Ain't.",
+    "tries": 1
+  },
+  "Vítor Raposo": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "António Ruano": {
+    "photo": null,
+    "bio": "researcher",
+    "tries": 1
+  },
+  "Augusto Cabrita": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Augusto_Cabrita_Barreiro.jpg/500px-Augusto_Cabrita_Barreiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Augusto Cabrita (March 16, 1923 – February 1, 1993) was a Portuguese photographer, cinematographer and film director. He is best known as a leading name in photography in Portugal.",
     "tries": 1
   }
 }
