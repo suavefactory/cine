@@ -2,6 +2,39 @@ window.CINEMA_DATA = {
   "generated": "2026-09-13T13:25:22.269656+00:00",
   "movies": [
     {
+      "id": "sao_jorge_11631",
+      "title": "The Devil Within",
+      "director": "Tom Hardy",
+      "duration": 84,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/5/1/20751-the-devil-within-0-500-0-750-crop.jpg?v=f9b3addcf3",
+      "genres": [
+        "Thriller"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/the-devil-within/",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "17:05",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2010,
+      "plot": "A night of sex, drugs and partying in the Hollywood Hill's is the perfect setting for Serina's 18th birthday - until this high school pool party goes horribly wrong when an uninvited guest begins killing everyone",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/yJ8EErCqqmXgc7s1BnNj9tHsggU.jpg",
+        "https://image.tmdb.org/t/p/w1280/zxfDWuB1Icd6HM6j9wLPRFsWUle.jpg",
+        "https://image.tmdb.org/t/p/w1280/123ljdRcqgD6oXjC7o3MDAG96K2.jpg"
+      ],
+      "stills_focus": [
+        19.1,
+        24.3,
+        27.7
+      ],
+      "country": "United States",
+      "director_lbxd_slug": "tom-hardy-2"
+    },
+    {
       "id": "sao_jorge_11465",
       "title": "Kinki",
       "director": "Kôtarô Wajima",
@@ -32,6 +65,176 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "kotaro-wajima"
     },
     {
+      "id": "sao_jorge_11620",
+      "title": "Curtas: Méliès d’argent PT #02 + Q&A",
+      "director": null,
+      "duration": 93,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Calhau.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/curtas-melies-dargent-pt-02-qa/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "22:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11613",
+      "title": "Wicked Wicked",
+      "director": "Richard L. Bare",
+      "duration": 95,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/1/4/3/73143-wicked-wicked-0-500-0-750-crop.jpg?v=7fd5aa14d7",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/wicked-wicked/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.17,
+      "year": 1973,
+      "plot": "Simmons, the manager of a seaside hotel in California, has a problem: Guests are turning up dead, and Sgt. Ramsey, the hotel's detective, has no information as to the identity of the murderer. The only thing anybody knows is that the killer wears a strange mask and has a fondness for blonde women. As Ramsey tracks down a list of suspects that includes the hotel handyman, Lisa, the hotel's lounge singer, finds herself in danger.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/yhOp1d1kRQ2r0bcssDlj9DsyzLR.jpg",
+        "https://image.tmdb.org/t/p/w1280/jhLcbo1mPU6U4CiKf1IbhVLSEiT.jpg",
+        "https://image.tmdb.org/t/p/w1280/7ApGxh5HIHr9fIjjA1zANmuHFw5.jpg"
+      ],
+      "stills_focus": [
+        21.9,
+        44.0,
+        35.2
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "richard-l-bare"
+    },
+    {
+      "id": "sao_jorge_11611",
+      "title": "DreamQuil",
+      "director": "Alex Prager",
+      "duration": 104,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/4/5/3/7/1014537-dreamquil-0-500-0-750-crop.jpg?v=82efeb2783",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/dreamquil/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "Set in the not so distant future when poor air quality leads to people living mostly virtual lives. Carol is a dissatisfied career mother, struggling to find connection within her marriage to Gary and her child. With the day to day familiarity of their home and lives feeling increasingly claustrophobic, and worried she could be heading towards divorce, Carol leaps at the chance to get her life back on track by signing up for \"DreamQuil\", an avant-garde digital wellness retreat. When Carol returns home however, she discovers her family has been living with \"Carol 2\", a robot the corporation sent designed to help in her absence, and things take a mysterious and sinister turn.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
+        "https://image.tmdb.org/t/p/w1280/aeuR3TkCbkOdlT7ecmj38zvVsxv.jpg"
+      ],
+      "stills_focus": [
+        28.6,
+        43.0
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "alex-prager",
+      "rating": 3.18
+    },
+    {
+      "id": "sao_jorge_11609",
+      "title": "Sunshine Express",
+      "director": "Amirali Navaee",
+      "duration": 100,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/7/6/7/4/1307674-sunshine-express-0-500-0-750-crop.jpg?v=2085edca02",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/sunshine-express/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "14:55",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2025,
+      "plot": "Participants assigned a specific character in a role-playing game undertake a fictional train journey to an island, in order to win a cash prize, only for the competition to become a microcosm of the limitations they experience in their real lives.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
+      ],
+      "stills_focus": [
+        38.7
+      ],
+      "country": "Iran",
+      "director_lbxd_slug": "amirali-navaee"
+    },
+    {
+      "id": "sao_jorge_11605",
+      "title": "Curtas ao Almoço: Competição PT #1 2026",
+      "director": null,
+      "duration": 58,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Curtas-ao-Almoco_-Competicao-PT-1-amordemoura.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/curtas-ao-almoco-competicao-pt-1-2026/",
+      "sessions": [
+        {
+          "date": "2026-09-11",
+          "time": "13:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_11593",
+      "title": "Ghost in the Cell",
+      "director": "Joko Anwar",
+      "duration": 106,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/7/6/6/3/1277663-ghost-in-the-cell-0-500-0-750-crop.jpg?v=e438d28d3c",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Comedy"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/ghost-in-the-cell/",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "23:59",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.54,
+      "year": 2026,
+      "plot": "A notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+        "https://image.tmdb.org/t/p/w1280/afk22GzX3YZoG6XRsD3T2QRn0lv.jpg",
+        "https://image.tmdb.org/t/p/w1280/unEj3lNA48RKVQDdzeaTxKHtE4C.jpg"
+      ],
+      "stills_focus": [
+        41.5,
+        60.1,
+        40.1
+      ],
+      "country": "Indonesia",
+      "director_lbxd_slug": "joko-anwar-1"
+    },
+    {
       "id": "sao_jorge_11639",
       "title": "Curtas ao Almoço: Internacionais #5",
       "director": null,
@@ -47,6 +250,43 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
+    },
+    {
+      "id": "sao_jorge_11665",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "director": "Steve Cox, Matthew Walker",
+      "duration": 80,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/9/6/8/1353968-shaun-the-sheep-the-beast-of-mossy-bottom-0-500-0-750-crop.jpg?v=aab6cd0ba2",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Adventure",
+        "Horror"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/shaun-the-sheep-the-beast-of-mossy-bottom/",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "14:45",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
+        "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg",
+        "https://image.tmdb.org/t/p/w1280/izLG3cxbG89nK75OHyd1zvjR7n8.jpg"
+      ],
+      "stills_focus": [
+        29.0,
+        31.9,
+        42.5
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "steve-cox-6"
     },
     {
       "id": "sao_jorge_11421",
@@ -77,9 +317,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/sq1WaNwQn52XiwN2hp1kwJbnSDx.jpg"
       ],
       "stills_focus": [
-        32.9,
-        49.8,
-        28.7
+        32.7,
+        49.9,
+        28.8
       ],
       "country": "UK",
       "director_lbxd_slug": "rhys-frake-waterfield"
@@ -160,7 +400,9 @@ window.CINEMA_DATA = {
         }
       ],
       "country": "Portugal",
-      "year": 1984
+      "year": 1984,
+      "plot_pt": "Caetano Emanuel Viana Teles Veloso (Santo Amaro, 7 de agosto de 1942) é um cantor, músico, compositor, produtor, arranjador e escritor brasileiro. Com uma carreira que ultrapassa seis décadas, Caetano construiu uma obra musical marcada pela releitura e renovação e considerada amplamente como possuidora de grande valor intelectual e poético. Embora desde cedo tivesse aprendido a tocar violão em Salvador, escrito entre os anos de 1960 e 1962 críticas de cinema para o Diário de Notícias e conhecido o trabalho dos cantores de rádios e dos músicos de bossa nova (notavelmente João Gilberto, seu \"mestre supremo\" e com quem dividiria o palco anos mais tarde), Caetano iniciou seu trabalho profissionalmente apenas em 1965, com o compacto \"Cavaleiro/Samba em Paz\", enquanto acompanhava a irmã mais nova Maria Bethânia por suas apresentações nacionais do espetáculo Opinião, no Rio de Janeiro.\nNessa década, conheceu Gilberto Gil, Gal Costa e Tom Zé, participou dos festivais de música popular da Rede Record e compôs trilhas de filmes.",
+      "title_en": "Caetano Veloso"
     },
     {
       "id": "sao_jorge_11645",
@@ -180,7 +422,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.71,
+      "rating": 3.72,
       "year": 2025,
       "plot": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art.",
       "stills": [
@@ -220,12 +462,13 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/6OF2UGreFILNnoVKldhnkQl22En.jpg"
       ],
       "stills_focus": [
-        32.8,
-        41.2,
-        38.3
+        32.5,
+        41.4,
+        38.5
       ],
       "country": "USA",
-      "director_lbxd_slug": "roger-corman"
+      "director_lbxd_slug": "roger-corman",
+      "plot_pt": "The Little Shop of Horrors (A Pequena Loja dos Horrores ou A Loja dos Horrores em português) é um filme B de 1960, uma comédia de horror dirigida por Roger Corman. Foi a estreia de Jack Nicholson no cinema."
     },
     {
       "id": "sao_jorge_11641",
@@ -247,7 +490,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_11417",
       "title": "Colony",
-      "director": null,
+      "director": "Carter Gunn, Ross McDonnell",
       "duration": 140,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/2/7/2/60272-colony-0-500-0-750-crop.jpg?v=e7ac2de023",
@@ -266,6 +509,162 @@ window.CINEMA_DATA = {
       "plot": "The unexplainable phenomenon known as Colony Collapse Disorder has left landscapes of empty beehives all across the US, threatening not only the beekeeping industry but our food supply. As scientists and beekeepers search for the cause, Colony captures the struggle within the beekeeping community to save the honeybee and themselves. Colony documents a time of unprecedented crisis in the world of the honeybee through the eyes of both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two young brothers getting into beekeeping when most are getting out. As Mendes tries to save the nation's collapsing hives, the Seppi's try to keep their business alive amidst a collapsing economy.",
       "country": "United States",
       "director_lbxd_slug": "carter-gunn"
+    },
+    {
+      "id": "sao_jorge_11625",
+      "title": "Curtas ao Almoço: Competição PT #2",
+      "director": null,
+      "duration": 60,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/08/Curtas-ao-Almoco_-Competicao-PT-2-Tardo.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/curtas-ao-almoco-competicao-pt-2/",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "13:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20205",
+      "title": "Madagascar: Escape 2 Africa",
+      "director": "Eric Darnell, Tom McGrath",
+      "year": 2008,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/1/4/5/46145-madagascar-escape-2-africa-0-500-0-750-crop.jpg?v=92f4a1b4a1",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20205",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "15:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.29,
+      "plot": "Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.",
+      "plot_pt": "O filme do fenómeno “Travolta” no reino do disco sound dos anos 70 americanos. Um ano depois, num livro sobre o ator lia-se: “Is there anyone in the entire United States of America who isn’t crazy about John Travolta? It seems a sure bet that the simple answer is no”. Entre referências a James Dean (em REBEL WITHOUT A CAUSE) e a Elvis, SATURDAY NIGHT FEVER tem Travolta em versão frenética, os Bee Gees e a excitação de noites febris. A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/8xcm94SLAxvNmJYuGh42ziydu70.jpg",
+        "https://image.tmdb.org/t/p/w1280/4LkgxXoedieEmBhpsodVymovaKu.jpg",
+        "https://image.tmdb.org/t/p/w1280/bwbkzyWTndhxbdOr8SVlsPq1cOg.jpg"
+      ],
+      "stills_focus": [
+        6.0,
+        48.6,
+        27.9
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "eric-darnell"
+    },
+    {
+      "id": "cinemateca_20236",
+      "title": "The Last Temptation Of Christ",
+      "director": "Martin Scorsese",
+      "year": 1988,
+      "duration": 164,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/2/45652-the-last-temptation-of-christ-0-500-0-750-crop.jpg?v=bc15d11cd8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20236",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "16:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt.",
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
+        "https://image.tmdb.org/t/p/w1280/r76RjsexxdOM5GAhTRo7FRxdm3c.jpg",
+        "https://image.tmdb.org/t/p/w1280/fwVp94HejgicglenLj336U5YEY2.jpg"
+      ],
+      "stills_focus": [
+        34.3,
+        39.3,
+        19.1
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "martin-scorsese"
+    },
+    {
+      "id": "cinemateca_20274",
+      "title": "British Sounds",
+      "director": "Grupo Dziga Vertov",
+      "year": 1970,
+      "duration": 52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/1/25431-british-sounds-0-500-0-750-crop.jpg?v=e29a65609f",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20274",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.41,
+      "plot": "Jean-Luc Godard brings his firebrand political cinema to the UK, exploring the revolutionary signals in late '60s British society. Constructed as a montage of various disconnected political acts (in line with Godard's then appropriation of Soviet director Dziga Vertov's agitprop techniques), it combines a diverse range of footage, from students discussing The Beatles to the production line at the MG factory in Oxfordshire, burnished with onscreen political sloganeering.",
+      "plot_pt": "O filme do fenómeno “Travolta” no reino do disco sound dos anos 70 americanos. Um ano depois, num livro sobre o ator lia-se: “Is there anyone in the entire United States of America who isn’t crazy about John Travolta? It seems a sure bet that the simple answer is no”. Entre referências a James Dean (em REBEL WITHOUT A CAUSE) e a Elvis, SATURDAY NIGHT FEVER tem Travolta em versão frenética, os Bee Gees e a excitação de noites febris. A exibir em cópia digital.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/x323447TwPUChZf30pC338RxPXF.jpg",
+        "https://image.tmdb.org/t/p/w1280/hhzYhuvFvvQ675Wwi0CWkmbp17Z.jpg"
+      ],
+      "stills_focus": [
+        35.9,
+        45.1
+      ],
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
+    },
+    {
+      "id": "cinemateca_20222",
+      "title": "New York, New York",
+      "director": "Martin Scorsese",
+      "year": 1977,
+      "duration": 153,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/0/5/44405-new-york-new-york-0-500-0-750-crop.jpg?v=f406d57c0e",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20222",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "An egotistical saxophone player and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long uphill climb.",
+      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/9lOh8t4qPBfqIcKNW0HT0VdMgEi.jpg",
+        "https://image.tmdb.org/t/p/w1280/dy9vvNddvAdsKXKnulnvhP8FxGv.jpg",
+        "https://image.tmdb.org/t/p/w1280/lS4nKr1I1hYJldaMLY83412lHZs.jpg"
+      ],
+      "stills_focus": [
+        47.4,
+        20.6,
+        14.7
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "martin-scorsese"
     },
     {
       "id": "cinemateca_20234",
@@ -701,9 +1100,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
       ],
       "stills_focus": [
-        31.3,
+        31.5,
         45.0,
-        42.6
+        42.5
       ],
       "country": "France",
       "director_lbxd_slug": "jacques-feyder"
@@ -4243,6 +4642,86 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jane-schoenbrun"
     },
     {
+      "id": "nimas_aconteceu-em-xangai-1941",
+      "title": "Aconteceu em Xangai",
+      "director": "Josef von Sternberg",
+      "year": 1941,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/1/1/22411-the-shanghai-gesture-0-500-0-750-crop.jpg?v=38984041e5",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/aconteceu-em-xangai-1941",
+      "sessions": [
+        {
+          "date": "2026-09-25",
+          "time": "17:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "A gambling queen uses blackmail to stop a British financier from closing her Chinese clip joint.",
+      "plot_pt": "Entre as multidões de uma Xangai simultaneamente gloriosa e claustrofóbica, Sternberg conta a história de um grupo de criminosos e aristocratas que frequentam a casa de apostas da “Mãe” Ging Sling (Ona Munson), um lugar de opulência decadente em que os ricos entediados e os pobres desesperados se reúnem para perder o seu dinheiro e as suas almas. É neste mundo que entra Poppy (Gene Tierney), uma jovem atrevida que se apaixonara pelo poeta libertino Omar (Victor Mature). Ao descobrir que Poppy é filha de Guy Charteris (Walter Huston), o empresário que acabara de comprar o terreno onde se situa a casa de apostas, Ging Sling usa-a como parte do seu plano para se vingar do homem. Um dos mais ousados retratos de degradação a passar pela censura de Hollywood, Aconteceu em Xangai é uma obra-prima dantesca e o último filme de Sternberg em Hollywood.",
+      "title_en": "The Shanghai Gesture",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/vyIVF4tVteXlOg3JUWDjOhfJN15.jpg",
+        "https://image.tmdb.org/t/p/w1280/9Y5zYj2SctFrdleIWy4D9m9aq07.jpg",
+        "https://image.tmdb.org/t/p/w1280/1PrMymOLdDbsPPEro8ARwCRzjC5.jpg"
+      ],
+      "stills_focus": [
+        38.0,
+        45.9,
+        39.1
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "josef-von-sternberg"
+    },
+    {
+      "id": "nimas_codigo-desconhecido-2000",
+      "title": "Código Desconhecido",
+      "director": "Michael Haneke",
+      "year": 2000,
+      "duration": 118,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/5/8/6/31586-code-unknown-0-500-0-750-crop.jpg?v=bc42747843",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/codigo-desconhecido-2000",
+      "sessions": [
+        {
+          "date": "2026-09-25",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "19:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.79,
+      "plot": "A series of events unfold like a chain reaction, all stemming from a minor event that brings the film's five characters together. Set in Paris, France, Anne is an actress whose boyfriend Georges photographs the war in Kosovo. Georges' brother, Jean, is looking for the entry code to Georges' apartment. These characters' lives interconnect with a Romanian immigrant and a deaf teacher.",
+      "plot_pt": "Anne, uma jovem actriz, sai do seu apartamento em Paris e cruza-se com Jean, irmão de Georges, o seu namorado fotojornalista de guerra várias vezes ausente do país. Jean fugiu da quinta do seu pai e mudou-se para Paris. Quando atira os restos de um bolo a Maria, uma imigrante romena que pede nas ruas para sustentar os filhos, Jean envolve-se numa discussão acesa com um transeunte, Amadou. Composto maioritariamente por uma série de planos-sequência que dão a ver episódios do quotidiano das personagens ligadas a este incidente, Código Desconhecido é um estudo fascinante das questões sociais que assombram a Europa contemporânea, da alienação urbana e crescentes dificuldades em comunicar à desigualdade racial e intolerância.",
+      "title_en": "Code Unknown",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/bTUBuFR25xvTiFel7q6pq0ejacY.jpg",
+        "https://image.tmdb.org/t/p/w1280/yGyFKLKm0vmOzsg3urWaTFPOBYP.jpg",
+        "https://image.tmdb.org/t/p/w1280/Ah9LjxViRVOVIUbjfSM3rYSBTZY.jpg"
+      ],
+      "stills_focus": [
+        29.4,
+        20.8,
+        30.3
+      ],
+      "country": "France",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
       "id": "nimas_a-opera-mouffe-1958",
       "title": "A Ópera Mouffe",
       "director": "Agnès Varda",
@@ -5264,7 +5743,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Konkurs",
-      "plot_pt": "Considerado um dos primeiros filmes da Nova Vaga Checa, Audition marcou a estreia independente de Forman e antecipou temas centrais da sua obra: atores não profissionais, humor mordaz e atenção aos pequenos detalhes do quotidiano. Composto por duas curtas-metragens lançadas em conjunto, o filme acompanha dois músicos que trocam os ensaios por corridas de motas e um grupo de aspirantes ao estrelato que participa numa audição para o Teatro Semafor de Praga. A obra capta com ironia e frescura a rebeldia juvenil dos anos 60 face ao conformismo social e geracional.",
       "plot": "Two closely related episodes. Youths make problems for two local orchestras about to compete nationally, and in a talent competition a young girl gets stage fright, while another lies to her boss to compete.",
       "country": "Czechoslovakia",
       "rating": 3.34,
@@ -5663,7 +6141,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Filme de final de curso de José María Martín Sarmiento enquanto aluno do Instituto de Altos Estudos Cinematográficos (Paris), Los montes situa-se numa aldeia remota e quase abandonada do Bierzo Alto, nos confins da província de León. Oscilando entre a ficção satírica e a realidade, a obra acompanha o velório do último homem da aldeia e das restantes seis mulheres idosas que nela habitam. Entre o isolamento, a dureza das práticas agrícolas, e o regresso sazonal das romarias de verão, evocam-se os laços comunitários e a tradição oral como formas de resistência. O filme foi nomeado para o César de Melhor Curta-Metragem Documental.",
       "plot": "Los Montes de la Ermita, region of Bierzo Alto, in the province of León, Spain. Six women assist Joaquín —the only and last inhabitant of the remote village, located on the slopes of the mythical and mysterious Catoute Peak—, who is in danger of death due to an unfortunate accident.",
       "country": "France",
       "director_lbxd_slug": "jose-maria-martin-sarmiento"
@@ -5838,7 +6315,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Lásky jedné plavovlásky",
-      "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro.",
+      "plot_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times.",
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "rating": 3.78,
@@ -6058,7 +6535,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico.",
       "plot": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
       "country": "Italy",
       "rating": 3.84,
@@ -7032,7 +7508,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
-      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -7101,7 +7576,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -7124,7 +7598,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -7156,7 +7629,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -8003,7 +8475,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
-      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "stills": [
@@ -8227,7 +8698,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Numa quinta leiteira em Kent, na Inglaterra, acompanhamos o quotidiano da vaca Luma, desde o nascimento da sua cria até aos últimos momentos da sua vida. Através de raros diálogos e de uma abordagem sensorial e intimista, a primeira incursão de Arnold no género documental levanta questões sobre consumo, exploração e empatia. Segundo a realizadora, o filme, estreado no Festival de Cannes, “é um esforço para considerar as vacas. Para nos aproximar delas. Para contemplar a sua beleza e os desafios das suas vidas. Não de forma romântica, mas de forma real”.",
       "plot": "A close-up portrait of the daily lives of a pair of cows: told by way of some narrative-free, intimate POV photography, with plenty of close shot images, we follow the daily routine of these animals as they live what can only be described as mundane, boring lives - all with an ultimate purpose within the human food chain.",
       "country": "UK",
       "rating": 3.62,
@@ -9090,10 +9560,25 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg/500px-Filmmaker_Roger_Corman%2C_portrait%2C_1978_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Roger William Corman (April 5, 1926 – May 9, 2024) was an American film director and producer. Known under various monikers such as \"The Pope of Pop Cinema\", “King of the Beatnik Movies”, \"The Spiritual Godfather of the New Hollywood\", and \"The King of Cult\", he was known as a trailblazer in the world of independent film. Many of the more than 500 features directed or produced by Corman were low-budget films that later attracted a cult following, such as A Bucket of Blood (1959), The Little Shop of Horrors (1960), The Intruder (1962), X: The Man with the X-ray Eyes (1963), and the counterculture films The Wild Angels (1966) and The Trip (1967)."
     },
+    "Carter Gunn, Ross McDonnell": {
+      "lbxd_slug": "carter-gunn",
+      "photo": null,
+      "bio": null
+    },
+    "Eric Darnell, Tom McGrath": {
+      "lbxd_slug": "eric-darnell",
+      "photo": null,
+      "bio": null
+    },
     "Martin Scorsese": {
       "lbxd_slug": "martin-scorsese",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/500px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Martin Charles Scorsese ( skor-SESS-ee; Italian: [skorˈseːze, -se]; born November 17, 1942) is an American filmmaker. One of the major figures of the New Hollywood era, he is widely considered one of the greatest and most influential directors in the history of cinema. He has received numerous accolades including an Academy Award, four BAFTA Awards, three Emmy Awards, a Grammy Award, and three Golden Globe Awards."
+    },
+    "Grupo Dziga Vertov": {
+      "lbxd_slug": "jean-luc-godard-1",
+      "photo": null,
+      "bio": "collective of activist filmmakers"
     },
     "António Reis, Margarida Cordeiro": {
       "lbxd_slug": "margarida-cordeiro",
@@ -9235,20 +9720,15 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Francis Ford Coppola": {
-      "lbxd_slug": "francis-ford-coppola",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
-      "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
-    },
     "Luchino Visconti": {
       "lbxd_slug": "luchino-visconti",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
       "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
     },
-    "Ildikó Enyedi": {
-      "lbxd_slug": "ildiko-enyedi",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
+    "John Ford": {
+      "lbxd_slug": "john-ford-2",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952)."
     },
     "Ilker Çatak": {
       "lbxd_slug": "ilker-catak",
