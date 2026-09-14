@@ -49941,8 +49941,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      13.4,
-      43.3,
+      13.3,
+      43.4,
       44.5
     ],
     "stills": [
@@ -54301,8 +54301,8 @@
     "dir_checked": true,
     "stills_focus": [
       19.1,
-      24.3,
-      27.7
+      24.6,
+      27.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yJ8EErCqqmXgc7s1BnNj9tHsggU.jpg",
@@ -54533,14 +54533,14 @@
     "dir_checked": true,
     "stills_focus": [
       28.6,
-      43.0
+      42.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/Nri5jNAwzerZl4q5A5XCtnQxkC.jpg",
       "https://image.tmdb.org/t/p/w1280/aeuR3TkCbkOdlT7ecmj38zvVsxv.jpg"
     ],
     "tmdb_id": "1125627",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Veins|2020": {
     "lbxd": {
@@ -54645,7 +54645,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      38.7
+      38.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wgBSKrfcorZyORIdDwEqEjAIGP.jpg"
@@ -55325,14 +55325,14 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
+      36.1,
       29.0,
-      31.9,
-      42.5
+      31.9
     ],
     "stills": [
+      "https://image.tmdb.org/t/p/w1280/ws4SvzInJPRdjOQnZPqZuBbTokU.jpg",
       "https://image.tmdb.org/t/p/w1280/feIIWaIk5mGDZO3HqUdyOI2tzNS.jpg",
-      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg",
-      "https://image.tmdb.org/t/p/w1280/izLG3cxbG89nK75OHyd1zvjR7n8.jpg"
+      "https://image.tmdb.org/t/p/w1280/oVC4BCq4VsJD4pwXked36edSjUu.jpg"
     ],
     "tmdb_id": "1477104"
   },
@@ -64601,110 +64601,6 @@
     "tmdb_id": "970947",
     "wiki_tries": 1
   },
-  "L’Hypothèse Du Tableau Volé|1979": {
-    "lbxd": {
-      "rating": 3.97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/2/0/7/74207-the-hypothesis-of-the-stolen-painting-0-500-0-750-crop.jpg?v=3ea766f717",
-      "description": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in an effort to explain the series' significance.",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "country": "France",
-      "lb_director": "Raúl Ruiz",
-      "lb_director_slug": "raul-ruiz",
-      "lb_year": 1978,
-      "lb_title": "The Hypothesis of the Stolen Painting",
-      "backdrop": null,
-      "imdb_id": "tt0077707",
-      "tmdb_id": "88034"
-    },
-    "omdb": {
-      "Title": "L'hypothèse du tableau volé",
-      "Year": "1978",
-      "Rated": "N/A",
-      "Released": "04 Apr 1979",
-      "Runtime": "66 min",
-      "Genre": "Drama, Mystery",
-      "Director": "Raúl Ruiz",
-      "Writer": "Raúl Ruiz, Pierre Klossowski",
-      "Actors": "Jean Rougeul, Chantal Paley, Jean Raynaud",
-      "Plot": "Two narrators, one seen and one unseen, discuss possible connections between a series of paintings. The on-screen narrator walks through three-dimensional reproductions of each painting, featuring real people, sometimes moving, in...",
-      "Language": "French",
-      "Country": "France",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1MzE4MDc5MF5BMl5BanBnXkFtZTcwNzQ3MjUzMQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.4",
-      "imdbVotes": "1,240",
-      "imdbID": "tt0077707",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      8.0,
-      27.9,
-      57.1
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/zt9ewLkJZIuXvQTqHaFXaAHCONO.jpg",
-      "https://image.tmdb.org/t/p/w1280/eqhVUBdood0SkmpHMd4Z7JShL2m.jpg",
-      "https://image.tmdb.org/t/p/w1280/dGAVcrjHczh4qHupjn4FrhXdn7M.jpg"
-    ],
-    "tmdb_id": "88034"
-  },
-  "Visages D’Enfants|1923": {
-    "lbxd": {
-      "rating": 3.66,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/9/2/8/73928-faces-of-children-0-500-0-750-crop.jpg?v=9c93850ea1",
-      "description": "A young boy living in the Swiss Alps struggles to come to terms with his mother's death and his father's remarriage which brings a new mother and step-sister into his family.",
-      "genres": [
-        "Romance",
-        "Family",
-        "Drama"
-      ],
-      "country": "France",
-      "lb_director": "Jacques Feyder",
-      "lb_director_slug": "jacques-feyder",
-      "lb_year": 1925,
-      "lb_title": "Faces of Children",
-      "backdrop": null,
-      "imdb_id": "tt0016491",
-      "tmdb_id": "87116"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      31.3,
-      45.0,
-      42.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/bTY4ZSNMQXmtjUKRQVukwnwFIcy.jpg",
-      "https://image.tmdb.org/t/p/w1280/iatJ5TlaYIVDgs0N0Q37S1dDSsO.jpg",
-      "https://image.tmdb.org/t/p/w1280/hbk4mVVLhgwKO55vZ1RaKsxgITQ.jpg"
-    ],
-    "tmdb_id": "87116"
-  },
   "É Uma Animação! 1001 Coisas E Maneiras De As Pôr A Mexer|None": {
     "lbxd": null,
     "omdb": null,
@@ -65000,133 +64896,6 @@
     ],
     "tmdb_id": "398978"
   },
-  "NOBODY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/5/37865-nobody-0-500-0-750-crop.jpg?v=53d1a1fe4e",
-      "description": "Three elite salarymen find themselves in a bar fight with a group of threatening but mysterious men. When the mystery men come looking for revenge, the salarymen find themselves embroiled in a deadly game...",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "country": "Japan",
-      "lb_director": "Toshimichi Ohkawa",
-      "lb_director_slug": "toshimichi-ohkawa",
-      "lb_year": 1994,
-      "lb_title": "Nobody",
-      "backdrop": null,
-      "imdb_id": "tt0203027",
-      "tmdb_id": "22487"
-    },
-    "omdb": {
-      "Title": "Nobody",
-      "Year": "2021",
-      "Rated": "R",
-      "Released": "26 Mar 2021",
-      "Runtime": "92 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Ilya Naishuller",
-      "Writer": "Derek Kolstad",
-      "Actors": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen",
-      "Plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
-      "Language": "English, Russian, Spanish",
-      "Country": "United States, China, Japan",
-      "Awards": "5 wins & 18 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.4/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "83%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "64/100"
-        }
-      ],
-      "Metascore": "64",
-      "imdbRating": "7.4",
-      "imdbVotes": "391,880",
-      "imdbID": "tt7888964",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$27,568,035",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "22487"
-  },
-  "HER STORY - semana do cinema chinês em portugal 2026|None": {
-    "lbxd": {
-      "rating": 3.78,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/6/0/9/319609-her-story-0-500-0-750-crop.jpg?v=5deb31fe17",
-      "description": "Her Story is about two trans women in Los Angeles who have given up on love, when suddenly chance encounters give them hope. Violet is drawn to Allie, a reporter who approaches her for an interview, while career-driven Paige meets James, the first man she’s considered opening up to in years. Will they risk letting what they are stand in the way of being loved for who they are? Trans women in the media have long been punchlines, killers, indications of urban grit, pathetic tragedies, and dangerous sirens. Rarely have they been complex characters who laugh, struggle, and grow, who share strength in sisterhood, who seek and find love. Her Story depicts the unique, complicated, and very human women we see in queer communities, and explores how these women navigate the intersections of label identity and love.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Sydney Freeland",
-      "lb_director_slug": "sydney-freeland",
-      "lb_year": 2016,
-      "lb_title": "Her Story",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "imdb_id": "tt4858316",
-      "tmdb_id": "67282"
-    },
-    "omdb": {
-      "Title": "Her Story",
-      "Year": "2024",
-      "Rated": "N/A",
-      "Released": "22 Nov 2024",
-      "Runtime": "123 min",
-      "Genre": "Comedy, Drama, Romance",
-      "Director": "Yihui Shao",
-      "Writer": "Shao Yihui",
-      "Actors": "Jia Song, Elane Zhong, Yu Zhang",
-      "Plot": "Wang Tiemei, a single mother, loses her job and moves, befriending neighbor Xiaoye who appears cheerful but is depressed. Their bond grows as Tiemei navigates relationships with her ex-husband causing trouble.",
-      "Language": "Mandarin",
-      "Country": "China",
-      "Awards": "34 wins & 35 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTVkOWU1NWUtZjYxMy00YmFmLTliYjQtZDFjZmZkZmE3YWVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.5",
-      "imdbVotes": "2,333",
-      "imdbID": "tt31807233",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      27.8,
-      44.8
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/f0/7g/v6/or/her-story-1920-1920-1080-1080-crop-000000.jpg?v=c7216a4d9c",
-      "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
-    ],
-    "tmdb_id": "67282"
-  },
   "Facing the Wind|2018": {
     "lbxd": {
       "rating": 3.42,
@@ -65146,13 +64915,11 @@
     },
     "omdb": null,
     "wiki": null,
-    "cinema": {
-      "plot_pt": "Após 20 anos a viver em Buenos Aires, Mónica regressa à aldeia de Burgos onde nasceu, depois de receber a notícia de que o pai está gravemente doente. Quando chega, ele já morreu e a mãe pede-lhe que fique para a ajudar a vender a casa familiar. O inverno e a dificuldade de comunicação entre mãe e filha tornam o regresso particularmente difícil. De novo envolta numa paisagem rural, Mónica confronta a vida que deixou para trás e procura reatar os laços familiares. Con el viento foi selecionado para o Forum da Berlinale em 2018."
-    },
+    "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      42.4,
-      39.6
+      42.3,
+      39.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2EWGt2mqGvytJQWZc8S4aSsFOoe.jpg",
@@ -65160,7 +64927,7 @@
     ],
     "tmdb_id": "499547"
   },
-  "It Went With The Sea|2024": {
+  "It Went With The Sea|2025": {
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/6/0/2/7/1316027-it-went-with-the-sea-0-500-0-750-crop.jpg?v=59fb32cc9f",
@@ -65179,12 +64946,10 @@
     },
     "omdb": null,
     "wiki": null,
-    "cinema": {
-      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece."
-    },
+    "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      45.3
+      45.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jSedATgHxi84cKOR7aeWXTxgVdl.jpg"
@@ -65195,34 +64960,8 @@
     "lbxd": null,
     "omdb": null,
     "wiki": null,
-    "cinema": {
-      "plot_pt": "Entre 2018 e 2023, Ewelina Rosińska visitou diferentes regiões e lugares de Portugal, sozinha ou na companhia de artistas e eco-activistas. A conservação da natureza, a etnografia, a agricultura e as ações contra a gentrificação atravessam o filme, compassado pelo ritmo de uma câmara Bolex. Entre observação e contemplação, Pedras Instáveis propõe um olhar sobre o território e sobre a possibilidade de abrandar."
-    },
+    "cinema": {},
     "dir_checked": true,
     "stills": null
-  },
-  "Naza|2026": {
-    "lbxd": {
-      "lb_title": "NAZA (film)"
-    },
-    "omdb": null,
-    "wiki": {
-      "title_en": "NAZA (film)",
-      "imdb_id": "tt44766123",
-      "extract_pt": "NAZA é um documentário britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorre ao Leão de Ouro. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza."
-    },
-    "cinema": {
-      "year": 2026,
-      "country": "Reino Unido e Estados Unidos",
-      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      61.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/sGZJGECzPhABKX37xtwWOznGgFT.jpg"
-    ],
-    "tmdb_id": "1755291"
   }
 }
