@@ -1956,7 +1956,7 @@
   "Vítor Raposo": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "António Ruano": {
     "photo": null,
@@ -1966,6 +1966,36 @@
   "Augusto Cabrita": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Augusto_Cabrita_Barreiro.jpg/500px-Augusto_Cabrita_Barreiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Augusto Cabrita (March 16, 1923 – February 1, 1993) was a Portuguese photographer, cinematographer and film director. He is best known as a leading name in photography in Portugal.",
+    "tries": 1
+  },
+  "Catarina Ruivo": {
+    "photo": null,
+    "bio": "Catarina Ruivo (b. Coimbra, 1971), Portuguese film director. Catarina Ruivo studied at the Escola Superior de Teatro e Cinema in Lisbon, specializing her studies in cinematography editing.",
+    "tries": 1
+  },
+  "John Greyson": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/John_Greyson_2-15-21.jpg/500px-John_Greyson_2-15-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "John Greyson (born March 13, 1960) is a Canadian director, writer, video artist, producer, and political activist, whose work frequently deals with queer characters and themes. He was part of a loosely affiliated group of filmmakers to emerge in the 1980s from Toronto known as the Toronto New Wave. Greyson has won accolades and achieved critical success with his films—most notably Zero Patience (1993) and Lilies (1996).",
+    "tries": 1
+  },
+  "Meritxell Colell Aparicio": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Director-_Meritxell_Colell_Aparicio_at_the_79th_Locarno_Film_Festival_-2.jpg/500px-Director-_Meritxell_Colell_Aparicio_at_the_79th_Locarno_Film_Festival_-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Meritxell Colell Aparicio (born 1983) is a Spanish director.",
+    "tries": 1
+  },
+  "Matilde César": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Ewelina Rosinska e Nuno Barroso": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Yuval Abraham, Rachel Szor": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }
