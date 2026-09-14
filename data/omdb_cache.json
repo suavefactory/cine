@@ -63238,7 +63238,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.5,
+      25.2,
       54.9
     ],
     "stills": [
@@ -64379,7 +64379,7 @@
       "https://image.tmdb.org/t/p/w1280/pQHa3lTU0Whr9ufkTu3WQ3cRBM9.jpg"
     ],
     "tmdb_id": "79761",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Black Is… Black Ain’t|1994": {
     "lbxd": {
@@ -64415,7 +64415,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/j0/1d/2a/dk/black%20is-1920-1920-1080-1080-crop-000000.jpg?v=3e0e7c023b"
     ],
     "tmdb_id": "77341",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Sinfonia De Cristal|1947": {
     "lbxd": null,
@@ -64520,7 +64520,7 @@
       "https://image.tmdb.org/t/p/w1280/duKFQjH6SQdo2kv8ilxoCDvyT7A.jpg"
     ],
     "tmdb_id": "661348",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Shrouds – As Mortalhas|2024": {
     "lbxd": {
@@ -64599,7 +64599,7 @@
       "https://image.tmdb.org/t/p/w1280/sgSuxUNSFVlOi3zQzZW2MN7BHbY.jpg"
     ],
     "tmdb_id": "970947",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "É Uma Animação! 1001 Coisas E Maneiras De As Pôr A Mexer|None": {
     "lbxd": null,
@@ -64818,7 +64818,8 @@
       "https://image.tmdb.org/t/p/w1280/kJEsukCP06LCYWtk0tYbzhfbf7Q.jpg",
       "https://image.tmdb.org/t/p/w1280/1n8Ght2ZU3PV4zLhTOwxEvSY6mW.jpg"
     ],
-    "tmdb_id": "85118"
+    "tmdb_id": "85118",
+    "wiki_tries": 1
   },
   "The Irishman|2019": {
     "lbxd": {
@@ -64879,7 +64880,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Irishman",
+      "imdb_id": "tt1302006",
+      "extract_pt": "The Irishman (bra/prt: O Irlandês) é um filme americano de 2019 do gênero drama biográfico-policial, dirigido por Martin Scorsese, com roteiro de Steven Zaillian baseado no livro de memórias I Heard You Paint Houses, do investigador e advogado Charles Brandt.\nThe Irishman relata a história de Frank \"The Irishman\" Sheeran, sindicalista ligado ao crime organizado que, pouco antes de morrer, em 2003, confessou ter assassinado o líder sindical Jimmy Hoffa, desaparecido em 1975.\nEstrelado por Robert De Niro, Al Pacino e Joe Pesci, o filme segue a história de Sheeran enquanto ele relata seus supostos trabalhos como mercenário para a família criminosa Bufalino. É a nona colaboração entre De Niro e Scorsese, sendo a primeira desde Casino, em 1995; o quarto filme a estrelar De Niro e Pacino (após The Godfather Part II, Heat e Righteous Kill); o quinto a estrelar De Niro e Pesci (após Raging Bull, Once Upon a Time in America, Goodfellas e Casino); o primeiro a estrelar Pacino e Pesci juntos; e a primeira vez em que Scorsese dirige Pacino."
+    },
     "cinema": {
       "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos."
     },
@@ -64894,7 +64899,8 @@
       "https://image.tmdb.org/t/p/w1280/aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg",
       "https://image.tmdb.org/t/p/w1280/ww5aGS5H2tUtckxFFNOJE2790S7.jpg"
     ],
-    "tmdb_id": "398978"
+    "tmdb_id": "398978",
+    "wiki_tries": 1
   },
   "Facing the Wind|2018": {
     "lbxd": {
@@ -64925,7 +64931,8 @@
       "https://image.tmdb.org/t/p/w1280/2EWGt2mqGvytJQWZc8S4aSsFOoe.jpg",
       "https://image.tmdb.org/t/p/w1280/vkLabkNZxdGxqCvXosdmCpc3Gne.jpg"
     ],
-    "tmdb_id": "499547"
+    "tmdb_id": "499547",
+    "wiki_tries": 1
   },
   "It Went With The Sea|2025": {
     "lbxd": {
@@ -64963,5 +64970,58 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Naza|2026": {
+    "lbxd": {
+      "lb_title": "NAZA (film)"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "NAZA (film)",
+      "imdb_id": "tt44766123",
+      "extract_pt": "NAZA é um documentário britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorre ao Leão de Ouro. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza."
+    },
+    "cinema": {
+      "year": 2026,
+      "country": "Reino Unido e Estados Unidos",
+      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      61.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dDKy6eWfzaPgXZ2MOIn6tLuM9F2.jpg"
+    ],
+    "tmdb_id": "1755291"
+  },
+  "It Went With The Sea|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/6/0/2/7/1316027-it-went-with-the-sea-0-500-0-750-crop.jpg?v=59fb32cc9f",
+      "description": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Matilde César",
+      "lb_director_slug": "matilde-cesar-1",
+      "lb_year": 2025,
+      "lb_title": "It Went With The Sea",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1438226"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/jSedATgHxi84cKOR7aeWXTxgVdl.jpg"
+    ],
+    "tmdb_id": "1438226"
   }
 }
