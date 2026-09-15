@@ -1986,16 +1986,61 @@
   "Matilde César": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Ewelina Rosinska e Nuno Barroso": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Yuval Abraham, Rachel Szor": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
+  },
+  "Sandulela Asanda": {
+    "photo": null,
+    "bio": "South African director and screenwriter",
+    "tries": 1
+  },
+  "Frank Ripploh": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/1986_Frank_Ripploh_800.jpg/500px-1986_Frank_Ripploh_800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Frank Ripploh (2 September 1949 – 24 June 2002) was a German actor, film director, and author. He is best remembered for his semi-autobiographical 1980 film Taxi zum Klo. The film, produced on a shoestring budget of 100,000 DM,  explored the day-to-day life of a Berlin schoolteacher who also led a very active gay sex life.",
+    "tries": 1
+  },
+  "Lana Wachowski, Lilly Wachowski": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Joan Porcel": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/M%C3%A1laga_Film_Festival_2026_-_Joan_Porcel_-_1.jpg/500px-M%C3%A1laga_Film_Festival_2026_-_Joan_Porcel_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": null,
+    "tries": 1
+  },
+  "Ian de la Rosa": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Equip_de_Farrucas%2C_XIV_Premis_Gaud%C3%AD_%282022%29_%28Ian_de_la_Rosa_cropped%29.jpg/500px-Equip_de_Farrucas%2C_XIV_Premis_Gaud%C3%AD_%282022%29_%28Ian_de_la_Rosa_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Ian de la Rosa (born 1988) is a Spanish screenwriter and director of movies and television.",
+    "tries": 1
+  },
+  "Jules Rosskam": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jules_Infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Jules Rosskam is an American filmmaker, artist, and educator. His films, which include transparent (2005), against a trans narrative (2008), Thick Relations (2012), and Paternal Rites (2018), have helped shape the discussion around transgender narratives in 21st century film. Rosskam is also a noted fine artist, lecturer, and professor.",
+    "tries": 1
+  },
+  "Antoine Vazquez": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Marine Atlan": {
+    "photo": null,
+    "bio": "Marine Atlan (French pronunciation: [ma.ʁin at.lɑ̃]; born 1989 or 1990) is a French cinematographer and film director.",
+    "tries": 1
+  },
+  "Leontine Sagan": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Leontine_Sagan_%281889%E2%80%931974%29_1918.jpg/500px-Leontine_Sagan_%281889%E2%80%931974%29_1918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Leontine Sagan (born Leontine Schlesinger; 13 February 1889 – 20 May 1974) was a theatre director and actress of Jewish descent, whose life and career took her from the Austro-Hungarian Empire to South Africa, Britain and the United States. She is best known for directing a film, Mädchen in Uniform (1931), which has been celebrated for its scathing indictment of Prussian military-style schooling, as well as its sensitive portrayal of same-sex intimacy between a teacher and a student at a girls' school, in the waning years of Germany's Weimar Republic. Sagan was born in Budapest but grew up in South Africa.",
+    "tries": 1
   }
 }
