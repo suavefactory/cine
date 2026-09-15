@@ -30,9 +30,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/77x7WNxYPvphcXsOPEnUAYnO0wx.jpg"
       ],
       "stills_focus": [
-        50.6,
+        50.4,
         39.3,
-        47.4
+        47.3
       ],
       "country": "South Africa",
       "director_lbxd_slug": "sandulela-asanda"
@@ -67,9 +67,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/tn24Glc8rDxukkeBkI6173LK3II.jpg"
       ],
       "stills_focus": [
-        33.8,
-        39.3,
-        20.4
+        34.1,
+        39.4,
+        20.6
       ],
       "country": "Germany",
       "director_lbxd_slug": "frank-ripploh"
@@ -103,8 +103,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/e9s3wDLSVTA3y4r5buhkhm5QfeG.jpg"
       ],
       "stills_focus": [
-        38.5,
-        25.3,
+        38.4,
+        25.2,
         19.0
       ],
       "country": "USA",
@@ -141,9 +141,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/9IY80XVQ2wl56h5tFwWoM4FOsjx.jpg"
       ],
       "stills_focus": [
-        43.2,
+        43.1,
         49.3,
-        50.1
+        50.7
       ],
       "country": "Spain",
       "director_lbxd_slug": "joan-porcel"
@@ -237,7 +237,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         39.8,
-        30.6,
+        30.5,
         24.1
       ],
       "country": "Philippines",
@@ -7689,8 +7689,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
       ],
       "stills_focus": [
-        30.2,
-        40.8
+        30.3,
+        40.6
       ],
       "director_lbxd_slug": "eloy-calvo"
     },
@@ -7894,7 +7894,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
       ],
       "stills_focus": [
-        46.3
+        46.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -7960,7 +7960,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
       ],
       "stills_focus": [
-        36.0
+        37.3
       ],
       "director_lbxd_slug": "liliane-de-kermadec"
     },
@@ -8317,8 +8317,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/vkLabkNZxdGxqCvXosdmCpc3Gne.jpg"
       ],
       "stills_focus": [
-        42.4,
-        39.6
+        42.3,
+        39.4
       ],
       "director_lbxd_slug": "meritxell-colell-aparicio"
     },
@@ -8347,7 +8347,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/jSedATgHxi84cKOR7aeWXTxgVdl.jpg"
       ],
       "stills_focus": [
-        45.3
+        45.4
       ],
       "director_lbxd_slug": "matilde-cesar-1"
     },
@@ -8928,7 +8928,7 @@ window.CINEMA_DATA = {
       ],
       "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/sGZJGECzPhABKX37xtwWOznGgFT.jpg"
+        "https://image.tmdb.org/t/p/w1280/dDKy6eWfzaPgXZ2MOIn6tLuM9F2.jpg"
       ],
       "stills_focus": [
         61.3
@@ -8963,8 +8963,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/89vGCy3V0Tc3a04lrHzOd69VXcN.jpg"
       ],
       "stills_focus": [
-        13.4,
-        43.3,
+        13.3,
+        43.4,
         44.5
       ],
       "country": "Angola",
