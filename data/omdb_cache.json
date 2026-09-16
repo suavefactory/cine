@@ -6647,7 +6647,8 @@
       "https://image.tmdb.org/t/p/w1280/kIYjvWbIQKg3udciGh8Kl78XGPy.jpg",
       "https://image.tmdb.org/t/p/w1280/5EzaY8pYajKvmDoTF2f7HPxCQWF.jpg"
     ],
-    "tmdb_id": "354388"
+    "tmdb_id": "354388",
+    "wiki_tries": 1
   },
   "Don’t Raise The Bridge, Lower The River|1968": {
     "lbxd": {
@@ -21937,7 +21938,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Dogtooth (film)",
+      "imdb_id": "tt1379182",
+      "extract_pt": "Kynodontas (no Brasil, Dente Canino e em Portugal, Canino) é um filme de drama grego de 2009 dirigido e escrito por Yorgos Lanthimos e Efthymis Filippou. Protagonizado por Christos Stergioglou, teve sua primeira aparição no Festival de Cannes em 18 de maio de 2009, quando foi condecorado pelo un certain regard. Foi também indicado ao Oscar de melhor filme estrangeiro na edição de 2010, representando a Grécia."
+    },
     "cinema": {
       "year": 2009,
       "original_title": "Kynodontas",
@@ -21954,7 +21959,8 @@
       "https://image.tmdb.org/t/p/w1280/eM0MpRNyag5RAhRFclSLUMO10xx.jpg",
       "https://image.tmdb.org/t/p/w1280/bKzwMAh5MYOw8uH2SEPZgzUUjqy.jpg"
     ],
-    "tmdb_id": "38810"
+    "tmdb_id": "38810",
+    "wiki_tries": 1
   },
   "Intervenção Divina|2002": {
     "lbxd": null,
@@ -63282,7 +63288,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.2,
+      25.5,
       54.9
     ],
     "stills": [
@@ -65039,7 +65045,7 @@
       61.3
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/sGZJGECzPhABKX37xtwWOznGgFT.jpg"
+      "https://image.tmdb.org/t/p/w1280/dDKy6eWfzaPgXZ2MOIn6tLuM9F2.jpg"
     ],
     "tmdb_id": "1755291"
   },
@@ -66808,7 +66814,8 @@
       "https://image.tmdb.org/t/p/w1280/99VC9RFtpU9OKnhScyOPftmaLbz.jpg",
       "https://image.tmdb.org/t/p/w1280/xy5SEU2RyhuiMhovlHrIgBMtXqw.jpg"
     ],
-    "tmdb_id": "1214593"
+    "tmdb_id": "1214593",
+    "wiki_tries": 1
   },
   "Pédale rurale|2025": {
     "lbxd": {
@@ -67019,9 +67026,1412 @@
   },
   "Desire Lines|2024": {
     "lbxd": {
-      "rating": 3.37,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/4/9/1098349-desire-lines-2024-0-500-0-750-crop.jpg?v=dd5da64bd8",
-      "description": "Past and present collide when an Iranian American trans man time-travels through an LGBTQ+ archive on a dizzying and erotic quest to unravel his own sexual desires.",
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
+      "description": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "Germany",
+      "lb_director": "Faraz Shariat",
+      "lb_director_slug": "faraz-shariat",
+      "lb_year": 2026,
+      "lb_title": "Prosecution",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/85/z2/3y/h2/8HWczDBlKFMryrpHEukzLBFhuAt-1920-1920-1080-1080-crop-000000.jpg?v=17f261b82c",
+      "imdb_id": "tt39213126",
+      "tmdb_id": "1599784"
+    },
+    "omdb": {
+      "Title": "Prosecution",
+      "Year": "2022–",
+      "Rated": "N/A",
+      "Released": "15 Oct 2022",
+      "Runtime": "N/A",
+      "Genre": "Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Chinese",
+      "Country": "China",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt21348678",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      39.0,
+      32.5,
+      38.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
+      "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
+      "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
+    ],
+    "tmdb_id": "1599784"
+  },
+  "Tangles|None": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-500-0-750-crop.jpg?v=2b45bd5dc8",
+      "description": "When Alzheimer's disease begins to strip away her mother's vibrant personality, a headstrong young woman is forced to return to her oddball family in the conservative small town she recently fled in order to care for her. She quickly realizes she must accept the cruel and warped reality of the disease, and the imperfect beauty of her family, in order to become the daughter they need.",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Leah Nelson",
+      "lb_director_slug": "leah-nelson-2",
+      "lb_year": 2026,
+      "lb_title": "Tangles",
+      "backdrop": null,
+      "imdb_id": "tt22183852",
+      "tmdb_id": "1316999"
+    },
+    "omdb": {
+      "Title": "Tangles",
+      "Year": "2011",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "18 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Francine Vitagliano",
+      "Writer": "Francine Vitagliano",
+      "Actors": "Sara Pascale",
+      "Plot": "A young woman works through finding herself by exploring new avenues and shedding old attachments that stifle her.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3NDA0MDQwM15BMl5BanBnXkFtZTcwNDExNDM5Ng@@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt1894564",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      60.4,
+      44.8,
+      47.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/gW1YCLaT9y7prba0HqU1OblxFod.jpg",
+      "https://image.tmdb.org/t/p/w1280/hc0rBryUFk893Zo1P1tODmOxaJw.jpg",
+      "https://image.tmdb.org/t/p/w1280/asHif0ptqTWi6NC1mAflUB45TcR.jpg"
+    ],
+    "tmdb_id": "1316999"
+  },
+  "Un jeune homme de bonne famille|None": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/5/2/4/1465524-a-very-good-boy-2026-0-500-0-750-crop.jpg?v=3c2c46aeec",
+      "description": "From his childhood in a modest family in the Pyrénées to his unexpected career as a porn actor in the 1970s, the film traces the life of Claude Loir, who set out to fully embrace life. His homosexuality and curiosity guide him through encounters that lead into the shadowy, liberated circles of a pre-AIDS era, caught between conservatism and sexual freedom. Loves and lovers, flamboyance and fragility… the film offers a striking portrait of a fearless, hedonistic man navigating desire, identity, and society’s constraints.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Sébastien Lifshitz",
+      "lb_director_slug": "sebastien-lifshitz",
+      "lb_year": 2026,
+      "lb_title": "A Very Good Boy",
+      "backdrop": null,
+      "imdb_id": "tt38799105",
+      "tmdb_id": "1596222"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.6,
+      40.1,
+      18.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xJESfu8rAzXMNpUq6FX9AGOkLDP.jpg",
+      "https://image.tmdb.org/t/p/w1280/n2nzEYjBcaRG0cHpXEypfLfydOf.jpg",
+      "https://image.tmdb.org/t/p/w1280/iXmlDu12oPvDc1AkDyZ16oXVQl0.jpg"
+    ],
+    "tmdb_id": "1596222"
+  },
+  "A Sweetness from Nowhere|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/7/1/7/9/1367179-a-sweetness-from-nowhere-0-500-0-750-crop.jpg?v=8680fd65dd",
+      "description": "Filmmaker Ester Martin Bergsmark interrogates their response to a transphobic slur hurled at them following their move to Berlin. Exploring the root of violence and its nature, this is a powerful meditation on the trans experience and a treatise on how to move forward from fear.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Sweden",
+      "lb_director": "Ester Martin Bergsmark",
+      "lb_director_slug": "ester-martin-bergsmark",
+      "lb_year": 2026,
+      "lb_title": "A Sweetness from Nowhere",
+      "backdrop": null,
+      "imdb_id": "tt40054398",
+      "tmdb_id": "1490707"
+    },
+    "omdb": {
+      "Title": "A Sweetness from Nowhere",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Mar 2026",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Drama",
+      "Director": "Ester Martin Bergsmark",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Bergsmark examines their reaction to a transphobic slur after moving to Berlin. A meditation on the trans experience that explores violence's origins and nature, offering a path beyond fear.",
+      "Language": "Swedish, English",
+      "Country": "Sweden, Norway",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyNGU4YTYtNTlmZC00ZTVlLWI1MTEtOWU0MDk3MTgyZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40054398",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      47.6,
+      44.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xRqtb4g4zye96lRxNtM7D7kP985.jpg",
+      "https://image.tmdb.org/t/p/w1280/myDk8L1B50vIXfl28V1wSWqc4Lz.jpg"
+    ],
+    "tmdb_id": "1490707"
+  },
+  "Papaya|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/2/6/2/733262-papaya-0-500-0-750-crop.jpg?v=671139784d",
+      "description": "Luna's Grandpa blames her for her father's death, said to have been caused by leptospirosis from intermingling with her poor mother. As the past continues to haunt Luna, she summons a most dreadful visitor into their home.",
+      "genres": [
+        "Family",
+        "Music",
+        "Horror"
+      ],
+      "country": "Philippines",
+      "lb_director": "Timmy Harn",
+      "lb_director_slug": "timmy-harn",
+      "lb_year": 2021,
+      "lb_title": "Papaya",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "816657"
+    },
+    "omdb": {
+      "Title": "Papaya",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "14 Sep 2025",
+      "Runtime": "74 min",
+      "Genre": "Animation",
+      "Director": "Priscilla Kellen",
+      "Writer": "Priscilla Kellen, Patricia Oriolo",
+      "Actors": "Aretha Garcia Rollo, Tulipa Ruiz",
+      "Plot": "A small Amazon seed yearns to fly and stays in motion to prevent rooting. When she finally discovers what her roots can truly do, she sparks a change that reshapes her world and realizes her dream differently.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVmNzhlYzgtZjU4OS00YWRiLTg0MmYtZmEwYWRjZTU1YmE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "10",
+      "imdbID": "tt38350704",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "816657"
+  },
+  "En el Camino|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/9/5/9/2/899592-en-el-camino-0-500-0-750-crop.jpg?v=55b2dab50e",
+      "description": "During the trip back from their vacation, a young couple is stranded in the middle of the road and they lose all forms of communication, including each other.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Uriel Reyes",
+      "lb_director_slug": "uriel-reyes",
+      "lb_year": 2020,
+      "lb_title": "En el camino",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "998807"
+    },
+    "omdb": {
+      "Title": "En el camino",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "93 min",
+      "Genre": "N/A",
+      "Director": "David Pablos",
+      "Writer": "N/A",
+      "Actors": "Victor Prieto Simental, Osvaldo Sanchez",
+      "Plot": "A drifter who sleeps with truckers meets a reserved driver and joins him hauling freight across northern Mexico. As they grow closer on the road, the drifter's past threatens them both.",
+      "Language": "Spanish",
+      "Country": "Mexico, France",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37660509",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      40.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1rofxa5giAv02QZKQSqnRB5Bpxj.jpg"
+    ],
+    "tmdb_id": "998807"
+  },
+  "Two Mountains Weighing Down my Chest|None": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/0/1/5/1468015-two-mountains-weighing-down-my-chest-0-500-0-750-crop.jpg?v=c0bf1cf761",
+      "description": "A Chinese misfit ricochets between Berlin’s alternative frenzy and Beijing’s family order, transforming cultural whiplash into an offbeat search for identity and a playful quest for belonging.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Germany",
+      "lb_director": "Viv Li",
+      "lb_director_slug": "viv-li",
+      "lb_year": 2026,
+      "lb_title": "Two Mountains Weighing Down My Chest",
+      "backdrop": null,
+      "imdb_id": "tt39215184",
+      "tmdb_id": "1599790"
+    },
+    "omdb": {
+      "Title": "Two Mountains Weighing Down My Chest",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "13 Feb 2026",
+      "Runtime": "85 min",
+      "Genre": "Documentary",
+      "Director": "Viv Li",
+      "Writer": "N/A",
+      "Actors": "Viv Li",
+      "Plot": "A young Chinese artist navigates between Berlin's queer community and her traditional Beijing family, seeking her place amid global cultural divides.",
+      "Language": "English, Mandarin, German",
+      "Country": "Germany, Netherlands",
+      "Awards": "2 nominations total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "20",
+      "imdbID": "tt39215184",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      60.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/x3BWvMmeeiMTP4u7MWQ6Bsv0C6Z.jpg"
+    ],
+    "tmdb_id": "1599790"
+  },
+  "Jim Queen|None": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/7/3/8/0/957380-jim-queen-0-500-0-750-crop.jpg?v=3ee7026b1b",
+      "description": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "country": "France",
+      "lb_director": "Marco Nguyen",
+      "lb_director_slug": "marco-nguyen",
+      "lb_year": 2026,
+      "lb_title": "Jim Queen",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/5/7/3/8/0/tmdb/vQw05sfFEVCVpysDAU5C8NU1gMO-1920-1920-1080-1080-crop-000000.jpg?v=2d4514f5c0",
+      "imdb_id": "tt36955518",
+      "tmdb_id": "1061798"
+    },
+    "omdb": {
+      "Title": "Jim Queen",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "80 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Nicolas Athane, Marco Nguyen",
+      "Writer": "Nicolas Athane, Simon Balteaux, Brice Chevillard",
+      "Actors": "François Sagat, Jérémy Gillet, Elisabeth Wiener",
+      "Plot": "A gay influencer's life crumbles when a virus turns Paris's gay men straight. He teams up with a twink to find a rumored cure in the Marais district. A satire on identity, fame, and queer culture.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36955518",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      50.8,
+      41.8,
+      41.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+      "https://image.tmdb.org/t/p/w1280/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
+      "https://image.tmdb.org/t/p/w1280/1WcUj5oKWYuiGcIvTWYFU8D5jsf.jpg"
+    ],
+    "tmdb_id": "1061798"
+  },
+  "La face cachée de la terre|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "IN MY SHORTS 2 | Queer Lisboa 30|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Outerlands|None": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/4/4/1301544-outerlands-0-500-0-750-crop.jpg?v=6e67a56023",
+      "description": "Cass juggles jobs as a nanny, restaurant server, and party drug dealer in order to make ends meet and pay for their tiny San Francisco apartment. After a one night stand with Kalli, a co-worker they have a crush on, Cass agrees to watch her 11-year-old daughter, Ari, while she goes out of town. But as days pass without word from Kalli, Cass and Ari form a bond that spirals Cass back to their own difficult childhood and the pain they’ve been running from.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "USA",
+      "lb_director": "Elena Oxman",
+      "lb_director_slug": "elena-oxman",
+      "lb_year": 2025,
+      "lb_title": "Outerlands",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4b/l2/ce/tr/EQrXtV4cIVFnFjj3XwDoJ5CgRM-1920-1920-1080-1080-crop-000000.jpg?v=9251c9e4b3",
+      "imdb_id": "tt35319790",
+      "tmdb_id": "1422013"
+    },
+    "omdb": {
+      "Title": "Outerlands",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "10 Mar 2025",
+      "Runtime": "100 min",
+      "Genre": "Drama, Family",
+      "Director": "Elena Oxman",
+      "Writer": "Elena Oxman",
+      "Actors": "Ridley Asha Bateman, Eziah Best, Wimberly Brooklyn",
+      "Plot": "A gig worker in San Francisco balances multiple jobs, including dealing party drugs. When their crush asks them to watch her daughter, what starts as temporary childcare evolves into an unexpected journey of self-discovery and hea...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWEwODFiY2EtNjBmOC00MWI0LTlmNDMtYzcwYzcxZWYwOGZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "46",
+      "imdbID": "tt35319790",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.3,
+      31.3,
+      48.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/g0dQGwSfkTPUblFiGg8tv5taiLr.jpg",
+      "https://image.tmdb.org/t/p/w1280/frAn7nLRTc0xygTkLCIkAW7oaIq.jpg",
+      "https://image.tmdb.org/t/p/w1280/cv8KzfQcTTeC3E33Lg0eGPv4hkx.jpg"
+    ],
+    "tmdb_id": "1422013"
+  },
+  "The Lesbian Avengers Eat Fire, Too|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "The Lesbian Avengers Eat Fire, Too",
+      "Year": "1993",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "56 min",
+      "Genre": "Documentary",
+      "Director": "Janet Baus, Su Friedrich",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "This film documents the first year of actions by The Lesbian Avengers, a group of bold and brazen New York City activists fighting for recognition and equal rights for lesbians everywhere. We recruit!",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE3OGFiYmUtMDQwZS00MGE5LTg5ODctZGQ4MTBkYmQ5NzI4XkEyXkFqcGdeQXVyNzM0MDQ1Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "14",
+      "imdbID": "tt7870278",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.7,
+      28.0,
+      50.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/vJAPz4IrVTgyaggPNTQ26WntDHH.jpg",
+      "https://image.tmdb.org/t/p/w1280/9qe2QTA5aYA9Z42Eh7hYZtilpjX.jpg",
+      "https://image.tmdb.org/t/p/w1280/mmvLuWdfMqHvGPhpjDxJscEUecP.jpg"
+    ],
+    "tmdb_id": "377364"
+  },
+  "London|None": {
+    "lbxd": {
+      "rating": 2.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/9/7/47997-london-0-500-0-750-crop.jpg?v=75e3c23b12",
+      "description": "London is a drug laden adventure that centers on a party in a New York loft where a young man is trying to win back his ex-girlfriend.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Hunter Richards",
+      "lb_director_slug": "hunter-richards",
+      "lb_year": 2005,
+      "lb_title": "London",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/4/7/9/9/7/tmdb/uqchYxRnt7QRRRPa6Dm5NFigDXW-1920-1920-1080-1080-crop-000000.jpg?v=a2627a5a9a",
+      "imdb_id": "tt0449061",
+      "tmdb_id": "7515"
+    },
+    "omdb": {
+      "Title": "London",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "03 Jul 2021",
+      "Runtime": "92 min",
+      "Genre": "Drama, Romance",
+      "Director": "Hunter Richards",
+      "Writer": "Hunter Richards",
+      "Actors": "Jessica Biel, Chris Evans, Jason Statham",
+      "Plot": "At a drug laden party in a New York loft, a young man tries to win back his ex-girlfriend.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MzQxNTU3N15BMl5BanBnXkFtZTcwODE2MzIzMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "14%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "24/100"
+        }
+      ],
+      "Metascore": "24",
+      "imdbRating": "6.3",
+      "imdbVotes": "25,892",
+      "imdbID": "tt0449061",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$20,361",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      20.2,
+      36.0,
+      19.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/uqchYxRnt7QRRRPa6Dm5NFigDXW.jpg",
+      "https://image.tmdb.org/t/p/w1280/xsItpfcQXOQAUWiE7TDwHQVoSkA.jpg",
+      "https://image.tmdb.org/t/p/w1280/uVTtO3ecjpFjbZ7yW9J8vRO7elt.jpg"
+    ],
+    "tmdb_id": "7515"
+  },
+  "Corren las Liebres|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/6/0/9/1338609-corren-las-liebres-0-500-0-750-crop.jpg?v=f128926a70",
+      "description": "After serving a ten-year sentence, Noa, a 48-year-old transgender Roma woman, struggles to regain custody of her teenage children who are under state care. The system demands that she find a home, but due to lack of resources, Noa squats in an apartment from which she is about to be evicted. Her cousin Mary Karmen, an intersex Roma squatter activist, is her loyal companion, along with other friends living on the margins: Nani, a drug addict and pickpocket, and Luana, a homeless Portuguese singer. The solidarity and sisterhood among them all—infused with art and a surprising sense of humor—push them to survive their harsh realities.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Lorena Ros",
+      "lb_director_slug": "lorena-ros",
+      "lb_year": 2025,
+      "lb_title": "Corren las liebres",
+      "backdrop": null,
+      "imdb_id": "tt37618867",
+      "tmdb_id": "1461893"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/aPuWY2zCLemK7550ASVRnql1iP3.jpg"
+    ],
+    "tmdb_id": "1461893"
+  },
+  "Estrany Riu|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Estrany riu",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Jaume Claret Muxart",
+      "Writer": "Jaume Claret Muxart, Meritxell Colell",
+      "Actors": "Nausicaa Bonnín, Francesco Wenz, Jordi Oriol",
+      "Plot": "N/A",
+      "Language": "Catalan",
+      "Country": "Spain, Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33023305",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.6,
+      40.0,
+      45.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ewamGmvSRdg7Ve1eoCfSgcaJf7A.jpg",
+      "https://image.tmdb.org/t/p/w1280/3AB6DwOdCF69Wh7DH1OaHNTSJtD.jpg",
+      "https://image.tmdb.org/t/p/w1280/kIf3AyWzHgGGFLNSkjlVWxcJRrh.jpg"
+    ],
+    "tmdb_id": "1025389"
+  },
+  "Life is about Losing Everything|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/6/2/4/4/1606244-life-is-about-losing-everything-0-500-0-750-crop.jpg?v=936290b8b8",
+      "description": "Life Is About Losing Everything is a hybrid documentary, equal parts feminist artist portrait and fantastical memoir, exploring loss and love through the lens of pop culture and art. Based on Canadian poet Lynn Crosbie’s memoir of the same name, the film follows multiple fictionalized incarnations of Crosbie as they embark on a delirious journey through the writer’s memories and imagination, encountering celebrity lookalikes, an inch-tall man, uncanny high schoolers, and a Zombie Sylvia Plath along the way. Drawing on a wealth of pop and literary references, Life Is About Losing Everything reflects on the role of art and storytelling in finding kinship and giving meaning to our lives.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Stefan Ramírez Pérez",
+      "lb_director_slug": "stefan-ramirez-perez-1",
+      "lb_year": null,
+      "lb_title": null,
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1740520"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      19.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/v3FOY5GUvA3zqh6zSJMH0EfnShk.jpg"
+    ],
+    "tmdb_id": "1740520"
+  },
+  "IN MY SHORTS 1 | Queer Lisboa 30|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Joy Boy: a Tribute to Julius Eastman|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/8/3/1486083-joy-boy-a-tribute-to-julius-eastman-0-500-0-750-crop.jpg?v=d143431e59",
+      "description": "African American composer Julius Eastman’s music and voice take turns. Sparked by colonial and life history. Raw, radical, crystal clear. A multipart, flashy, transnational-collective performance by six artists. An homage.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Mawena Yehouessi",
+      "lb_director_slug": "mawena-yehouessi",
+      "lb_year": 2026,
+      "lb_title": "Joy Boy: A Tribute to Julius Eastman",
+      "backdrop": null,
+      "imdb_id": "tt39383485",
+      "tmdb_id": "1616828"
+    },
+    "omdb": {
+      "Title": "Joy Boy: A Tribute to Julius Eastman",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Feb 2026",
+      "Runtime": "64 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Six artists pay tribute to African American composer Julius Eastman with a performance celebrating his music and legacy. Drawing inspiration from colonial history and their personal journeys, they create a bold and unfiltered trib...",
+      "Language": "English",
+      "Country": "Belgium",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt39383485",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1swyIGbGB0uG5AT8QKpNnzuE1UY.jpg"
+    ],
+    "tmdb_id": "1616828"
+  },
+  "The Watermelon Woman|None": {
+    "lbxd": {
+      "rating": 4.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/0/3/20703-the-watermelon-woman-0-500-0-750-crop.jpg?v=11ffcd731b",
+      "description": "A young black lesbian filmmaker probes into the life of The Watermelon Woman, a 1930s black actress who played 'mammy' archetypes.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Cheryl Dunye",
+      "lb_director_slug": "cheryl-dunye",
+      "lb_year": 1996,
+      "lb_title": "The Watermelon Woman",
+      "backdrop": null,
+      "imdb_id": "tt0118125",
+      "tmdb_id": "44479"
+    },
+    "omdb": {
+      "Title": "The Watermelon Woman",
+      "Year": "1996",
+      "Rated": "Unrated",
+      "Released": "05 Mar 1997",
+      "Runtime": "85 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Cheryl Dunye",
+      "Writer": "Cheryl Dunye, Douglas McKeown",
+      "Actors": "Cheryl Dunye, Guinevere Turner, Valarie Walker",
+      "Plot": "A young black lesbian filmmaker probes into the life of The Watermelon Woman, a 1930s black actress who played 'mammy' archetypes.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWEzZDRlZjMtNGZkMS00NTg5LTg3NGQtY2JkOGQyNTYxNWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "7.1",
+      "imdbVotes": "3,976",
+      "imdbID": "tt0118125",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,989",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.2,
+      22.8,
+      30.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/l0YhkeRNks3mPdjxd2VgAFtKplB.jpg",
+      "https://image.tmdb.org/t/p/w1280/qyWhfJxHeJc7XWqPB0EtPBZw8cg.jpg",
+      "https://image.tmdb.org/t/p/w1280/9THMq437DAofbPKDcfBaiIUYXEo.jpg"
+    ],
+    "tmdb_id": "44479"
+  },
+  "Blue Film|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/8/4/6/9/978469-blue-film-0-500-0-750-crop.jpg?v=f0156ce9e7",
+      "description": "In order to see his ex-girlfriend Sofija, Mykolas stages an emergency situation. They have a lot to tell each other, but sometimes it's hard to find proper words, or maybe it's too difficult to talk about our feelings? In this story they say goodbye for the very last time.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Lithuania",
+      "lb_director": "Severina Vaičiūnaitė",
+      "lb_director_slug": "severina-vaiciunaite",
+      "lb_year": 2023,
+      "lb_title": "Blue Film",
+      "backdrop": null,
+      "imdb_id": "tt26693711",
+      "tmdb_id": "1085380"
+    },
+    "omdb": {
+      "Title": "Blue Film",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "19 Feb 2015",
+      "Runtime": "18 min",
+      "Genre": "Short, Romance",
+      "Director": "Vijay Gowtham Raju",
+      "Writer": "N/A",
+      "Actors": "Shraavya Reddy, Chaitanya Nelli, Vamshi Paidithalli",
+      "Plot": "N/A",
+      "Language": "Telugu",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q4YzRhZWItMGViNS00NGI5LWJmYmEtNjE1Yjk0MjQ5NzNlXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "300",
+      "imdbID": "tt6035904",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1085380"
+  },
+  "Virages|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Virages",
+      "Year": "2008",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Alexis Taillant",
+      "Writer": "Alexis Taillant",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTMyOTMyNGItOWI0OS00YjExLThhN2MtZWJkMTIxY2U2MjZjXkEyXkFqcGdeQXVyNzM3MTU2ODE@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt6682352",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Stop! That! Train!|None": {
+    "lbxd": {
+      "rating": 3.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/6/3/1/3/1416313-stop-that-train-0-500-0-750-crop.jpg?v=8423afafd4",
+      "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "country": "USA",
+      "lb_director": "Adam Shankman",
+      "lb_director_slug": "adam-shankman",
+      "lb_year": 2026,
+      "lb_title": "Stop! That! Train!",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/6/3/1/3/tmdb/ldSRlTcMflx8kjio6pEZADcyhfm-1920-1920-1080-1080-crop-000000.jpg?v=3f110937dd",
+      "imdb_id": "tt38128726",
+      "tmdb_id": "1541560"
+    },
+    "omdb": {
+      "Title": "Stop! That! Train!",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "12 Jun 2026",
+      "Runtime": "92 min",
+      "Genre": "Action, Comedy",
+      "Director": "Adam Shankman",
+      "Writer": "Christina Friel, Connor Wright",
+      "Actors": "Brock Hayhoe, Paul Scheer, Symone",
+      "Plot": "Two train stewardess BFFs switch from a dull railway to the luxurious Glamazonian Express. During a massive storm, they must work with snooty first-class crew and President Gagwell to prevent disaster in LA.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2MmJkMDEtYjc2Yi00NGMzLWExYjAtMjQzN2RiNzkwZWE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38128726",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      20.5,
+      14.7,
+      38.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
+      "https://image.tmdb.org/t/p/w1280/5e6Z7Ey5s7NsX58cZgckLDs1b6U.jpg",
+      "https://image.tmdb.org/t/p/w1280/5ys9JbxaJ0EW1OIIoBSKh56MMEr.jpg"
+    ],
+    "tmdb_id": "1541560"
+  },
+  "A Paixão segundo G.H.B.|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "La conscience politique|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Bugis Street|None": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/7/4/7/161747-bugis-street-0-500-0-750-crop.jpg?v=4b59f667ec",
+      "description": "In 1960s Singapore when Bugis Street was a center of transvestite and transsexual prostitution, naïve sixteen-year-old Lian comes of age working as a receptionist for the Sin Sin Hotel, home to a gaggle of trans women whom all have stories of broken hearts and drunken sailors.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Singapore",
+      "lb_director": "Yonfan",
+      "lb_director_slug": "yonfan",
+      "lb_year": 1995,
+      "lb_title": "Bugis Street",
+      "backdrop": null,
+      "imdb_id": "tt0111788",
+      "tmdb_id": "230141"
+    },
+    "omdb": {
+      "Title": "Bugis Street",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "13 Apr 1995",
+      "Runtime": "101 min",
+      "Genre": "Drama",
+      "Director": "Yonfan",
+      "Writer": "Fruit Chan, Yuo Chan, Yonfan",
+      "Actors": "Hiep Thi Le, Michael Lam, Greg-o",
+      "Plot": "Young and innocent Lian is a maid to a rich family in Malaysia. She is then sent to work at a small hotel near Bugis Street in Singapore. She learns about another side of life when encounter with transvestites and transgender indi...",
+      "Language": "Mandarin, Cantonese, English",
+      "Country": "Singapore, Hong Kong",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYxNTA1ZmUtYjQxZC00MDUxLWI4ZDItN2M2YWQ1MzhmN2JmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "164",
+      "imdbID": "tt0111788",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.5,
+      20.6,
+      29.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/56odNXCMN9GDnx5C3WvsNonqLFR.jpg",
+      "https://image.tmdb.org/t/p/w1280/S7JXuNZVwQHoyv8Ka9fOulbTOY.jpg",
+      "https://image.tmdb.org/t/p/w1280/vRpZDoVbNGxvpdAhnsh5G9WnkuG.jpg"
+    ],
+    "tmdb_id": "230141"
+  },
+  "Amarga Navidad|None": {
+    "lbxd": {
+      "rating": 3.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-500-0-750-crop.jpg?v=e53e0d2801",
+      "description": "In 2025 Spain, a celebrated film director struggles to write the screenplay for an autofictional film set in 2004 Spain about an unsuccessful movie director turned director of commercials who suffers a panic attack that forces her to take a break by visiting the Canary Islands, where she begins work on a new film.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Spain",
+      "lb_director": "Pedro Almodóvar",
+      "lb_director_slug": "pedro-almodovar",
+      "lb_year": 2026,
+      "lb_title": "Bitter Christmas",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/1/4/3/7/tmdb/5BEVBLecjLWzZtfA920waEsHF6o-1920-1920-1080-1080-crop-000000.jpg?v=640a8c814d",
+      "imdb_id": "tt28088049",
+      "tmdb_id": "1088548"
+    },
+    "omdb": {
+      "Title": "Amarga Navidad",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Pedro Almodóvar",
+      "Writer": "Pedro Almodóvar",
+      "Actors": "Victoria Luengo, Patrick Criado",
+      "Plot": "A woman being abandoned by her partner during Christmas time.",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt28088049",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.5,
+      40.0,
+      24.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+      "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
+      "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
+    ],
+    "tmdb_id": "1088548"
+  },
+  "Baby Jackfruit Baby Guava|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/9/4/0/4/1299404-baby-jackfruit-baby-guava-0-500-0-750-crop.jpg?v=996f510952",
+      "description": "When an unplanned baby enters the lives of a conservative mother, neurodivergent daughter and detached gay son, the trio travels back in time through their diaries and family photos to mend ruptured bonds and prepare for a new cycle of motherhood.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Vietnam",
+      "lb_director": "Nông Nhật Quang",
+      "lb_director_slug": "nong-nhat-quang",
+      "lb_year": 2026,
+      "lb_title": "Baby Jackfruit Baby Guava",
+      "backdrop": null,
+      "imdb_id": "tt42092229",
+      "tmdb_id": "1418816"
+    },
+    "omdb": {
+      "Title": "Baby Jackfruit Baby Guava",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Apr 2026",
+      "Runtime": "105 min",
+      "Genre": "Documentary",
+      "Director": "Nong Nhat Quang",
+      "Writer": "N/A",
+      "Actors": "Do Thi Kim Cuc, Le Anh Duc, Leland Evans",
+      "Plot": "When an unplanned baby nicknamed Guava enters the lives of conservative mother Cuc, troubled daughter Mai, and detached gay son Nông, the trio travels back in time through their family diaries and photos.",
+      "Language": "Vietnamese, English",
+      "Country": "South Korea, Vietnam",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmRhYTgwNGItMDY1OC00ZTUzLWJkYjYtNWIxYmFmYTVhNjMxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt42092229",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.2,
+      40.5,
+      41.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ufBY3ilUOVefhsItI1kcpkFSMUv.jpg",
+      "https://image.tmdb.org/t/p/w1280/1TZa37ouqggtA9AZQwmUKbn9PVh.jpg",
+      "https://image.tmdb.org/t/p/w1280/vue9gmgf8M3rYjhq7jMEbn5QFuJ.jpg"
+    ],
+    "tmdb_id": "1418816"
+  },
+  "Curtas 2 | Queer Lisboa 30|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Desejo de Viver (mutatis mutandis)|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/5/9/1/225591-mutatis-mutandis-0-500-0-750-crop.jpg?v=afed317e3d",
+      "description": "A dexterous verbal enactment of slippages between voice, body and object, with objects functioning as stand-ins for multiple ideas and body parts.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Kathryn Elkin",
+      "lb_director_slug": "kathryn-elkin",
+      "lb_year": 2014,
+      "lb_title": "Mutatis Mutandis",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "298439"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "298439"
+  },
+  "Cinema – Alguns Cortes: Censura Iii|2014": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Cinema: Alguns Cortes - Censura II",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "30 May 2014",
+      "Runtime": "39 min",
+      "Genre": "Documentary, Short",
+      "Director": "Manuel Mozos",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "A digest of cut scenes that survived from the Portuguese censorship film board, from films of various origins from 1945 to 1974. The present collection includes mostly scenes cut for political reasons, and a few for moral reasons.",
+      "Language": "English, Italian, French, Spanish, German",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt4633068",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Rolling Thunder Revue: A Bob Dylan Story By Martin Scorsese|2019": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/2/6/5/7/502657-rolling-thunder-revue-a-bob-dylan-story-by-martin-scorses-0-500-0-750-crop.jpg?v=b1d5bd1e7e",
+      "description": "Part documentary, part concert film, part fever dream, this film captures the troubled spirit of America in 1975 and the joyous music that Dylan performed during the fall of that year.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Martin Scorsese",
+      "lb_director_slug": "martin-scorsese",
+      "lb_year": 2019,
+      "lb_title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/gj/lf/aa/3q/rolling-thunder-revue-a-bob-dylan-story-by-martin-scorsese-1920-1920-1080-1080-crop-000000.jpg?v=28f70d9ed7",
+      "imdb_id": "tt9577852",
+      "tmdb_id": "574638"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      43.7,
+      33.9,
+      43.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/4MYtYsSGzQUUYQqHGWBNeEkT91s.jpg",
+      "https://image.tmdb.org/t/p/w1280/15fv8QwYdhU29hrNiTfW49mQP8T.jpg",
+      "https://image.tmdb.org/t/p/w1280/iZzVCB2sq37gLlfn0d5orhhpwFP.jpg"
+    ],
+    "tmdb_id": "574638",
+    "wiki_tries": 1
+  },
+  "O Vídeo de Benny|1991": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5m/3j/xh/u8/djRDTKgtKFacrQlsBylMbVznAu0-0-500-0-750-crop.jpg?v=a65d3f7ca8",
+      "description": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "Austria",
+      "lb_director": "Michael Haneke",
+      "lb_director_slug": "michael-haneke",
+      "lb_year": 1992,
+      "lb_title": "Benny's Video",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/uy/6s/od/p1/bennys%20video-1920-1920-1080-1080-crop-000000.jpg?v=a3fd8f0966",
+      "imdb_id": "tt0103793",
+      "tmdb_id": "1987"
+    },
+    "omdb": {
+      "Title": "Benny's Video",
+      "Year": "1992",
+      "Rated": "Not Rated",
+      "Released": "11 Feb 1993",
+      "Runtime": "110 min",
+      "Genre": "Crime, Drama",
+      "Director": "Michael Haneke",
+      "Writer": "Michael Haneke",
+      "Actors": "Arno Frisch, Angela Winkler, Ulrich Mühe",
+      "Plot": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+      "Language": "German, English, Arabic, French",
+      "Country": "Austria, Switzerland",
+      "Awards": "2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2NDI1NDMtNDFkZi00N2IxLTkxMzYtMTliYTcxM2VhNzA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "62%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "7.1",
+      "imdbVotes": "20,137",
+      "imdbID": "tt0103793",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Benny’s Video",
+      "plot_pt": "Benny é um adolescente de 14 anos, fanático pela tecnologia do vídeo, filho de pais ricos e desinteressados, que só encontra satisfação no mundo das imagens violentas. Esta obsessão leva-o a criar a sua própria obra monstruosa de terror na vida real. Em O Vídeo de Benny, Haneke concebeu um estudo perturbador e provocador (e cada vez mais actual) da desconexão emocional numa era de saturação mediática, numa das mais impressionantes expressões do seu universo clinicamente gelado.",
+      "country": "Áustria, Suíça",
+      "genre": "Drama",
+      "year": 1991,
+      "director": "Michael Haneke"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.0,
+      38.3,
+      40.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+      "https://image.tmdb.org/t/p/w1280/o1RKOVPdTa81Hq2dJVCgu9MBgV1.jpg",
+      "https://image.tmdb.org/t/p/w1280/3u69H2FTJWfNwc5Y1WEdMdNtI0f.jpg"
+    ],
+    "tmdb_id": "1987"
+  },
+  "Preface to the Little Dialogue|2025": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/5/7/4/9/1085749-you-burn-me-0-500-0-750-crop.jpg?v=3d7e1db678",
+      "description": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
       "genres": [
         "Drama",
         "Documentary"
@@ -67047,9 +68457,208 @@
       "Actors": "Aden Hakimi, André Alan Pérez, Theo Germaine",
       "Plot": "An Iranian American trans man travels back in time to an LGBTQ+ archive to understand his sexuality. He encounters his past and present selves during an erotic journey of self-discovery.",
       "Language": "English",
-      "Country": "United States",
-      "Awards": "3 wins & 6 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0NjU1M2EtYjA4Yi00ZDg1LWFlNjMtYTI2NTEwOGI5YzA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Country": "Spain, Argentina",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0Yzk4ODctN2NhZS00NDRkLTkzNzQtYjM0NTZlYzhkMWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "34",
+      "imdbID": "tt31018983",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.3,
+      25.9,
+      28.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
+      "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
+      "https://image.tmdb.org/t/p/w1280/1Q8Kby0AWy70kvjvWRQBUpBXal2.jpg"
+    ],
+    "tmdb_id": "1200753"
+  },
+  "D’Est|1993": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/7/7/2/84772-from-the-east-0-500-0-750-crop.jpg?v=a15f37b933",
+      "description": "In this incisive dispatch from the newly collapsed Soviet empire, bullet holes from WWII still pockmark the old stone buildings. Akerman journeys from East Germany to Moscow between the late summer and winter of 1993 ('while there’s still time'), chronicling in deliberate tracking shots, circular pans, and domestic tableaux yet another moment of radical upheaval in the 20th-century, the faces and bodies of Poles, Ukrainians, Germans, and Russians weighed down with obedient resignation and uncertainty.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1993,
+      "lb_title": "From the East",
+      "backdrop": null,
+      "imdb_id": "tt0106642",
+      "tmdb_id": "104739"
+    },
+    "omdb": {
+      "Title": "From the East",
+      "Year": "1993",
+      "Rated": "N/A",
+      "Released": "01 Oct 1993",
+      "Runtime": "107 min",
+      "Genre": "Documentary",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "Natalia Chakhovskaia",
+      "Plot": "A look at life in Eastern Europe after the collapse of the Soviet Union.",
+      "Language": "French",
+      "Country": "Belgium, France, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NzY3MjYzMF5BMl5BanBnXkFtZTcwNDczNzk4Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "1,062",
+      "imdbID": "tt0106642",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$8,540",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1993,
+      "plot_pt": "Na forma de um diário em vídeo, Chantal Akerman medita sobre o estado da Europa após a queda do Muro de Berlim e o colapso da União Soviética. Edifícios, paisagens, neve, crepúsculos, Akerman oferece aqui uma acumulação de objetos e imagens que constituem um poema cativante e impressionista. Da Alemanha do Leste a Moscovo, passando pela Polónia, Lituânia e Ucrânia, Chantal Akerman captura os corpos e rostos das massas anónimas, com expressões ilegíveis, caminhando ou simplesmente à espera de algo."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      21.9,
+      31.6,
+      44.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/eGzhtDCzwUlRdxsDmQSRCrzxgfv.jpg",
+      "https://image.tmdb.org/t/p/w1280/oFHQGmqKdcs0bhQ1NdBTJpK4Qkn.jpg",
+      "https://image.tmdb.org/t/p/w1280/uYELb6PK7GUtiOXOYJ7oIf9AZdd.jpg"
+    ],
+    "tmdb_id": "104739",
+    "wiki_tries": 1
+  },
+  "Golden Eighties|1986": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/5/5/2355-golden-eighties-0-500-0-750-crop.jpg?v=ee4adf15c3",
+      "description": "In a lively shopping center, proprietors and customers are bustling, including three women vying for a man's heart with song and dance.",
+      "genres": [
+        "Romance",
+        "Music",
+        "Comedy"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1986,
+      "lb_title": "Golden Eighties",
+      "backdrop": null,
+      "imdb_id": "tt0092219",
+      "tmdb_id": "63763"
+    },
+    "omdb": {
+      "Title": "Golden Eighties",
+      "Year": "1986",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "99 min",
+      "Genre": "Comedy, Musical",
+      "Director": "Chantal Akerman",
+      "Writer": "Pascal Bonitzer, Henry Bean, Chantal Akerman",
+      "Actors": "Lio, Pascale Salkin, Delphine Seyrig",
+      "Plot": "Employees and clients of a commercial gallery only live for love; they dream it, proclaim it, sing it and dance it. Experience the encounters, reunions, passions and disappointments of a malicious chorus of girls and a group of id...",
+      "Language": "French",
+      "Country": "Belgium, France, Switzerland",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzdhN2U3MjAtZDIzNi00NjlhLWI3MGQtZDM4MmRkMTg0MGFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "678",
+      "imdbID": "tt0092219",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1986,
+      "plot_pt": "Os empregados e os clientes de um centro comercial vivem apenas para o amor: sonham-no, proclamam-no, cantam-no e dançam-no. Encontros e reencontros, paixões e desilusões. Conjugando todas as formas de sedução e de sentimento amoroso, as histórias cruzam-se e misturam-se ao serem cantadas por um coro de raparigas travessas e um grupo de rapazes ociosos."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      30.9,
+      33.0,
+      30.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/yPH1CnCP53iRHujUlQ8wIRCsGAc.jpg",
+      "https://image.tmdb.org/t/p/w1280/oz2ay2TYu7P4obkXri1hf5dvw9v.jpg",
+      "https://image.tmdb.org/t/p/w1280/xMm4gsTCCcvZC7E4IL5wpxeYkG2.jpg"
+    ],
+    "tmdb_id": "63763",
+    "wiki_tries": 1
+  },
+  "News from home|1976": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/8/2/73382-news-from-home-0-500-0-750-crop.jpg?v=ba20a839c0",
+      "description": "Impersonal and beautiful images of Akerman's life in New York are combined with letters from her loving but manipulative mother, read by Akerman herself.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1976,
+      "lb_title": "News from Home",
+      "backdrop": null,
+      "imdb_id": "tt0076452",
+      "tmdb_id": "86814"
+    },
+    "omdb": {
+      "Title": "News from Home",
+      "Year": "1976",
+      "Rated": "N/A",
+      "Released": "08 Jun 1977",
+      "Runtime": "85 min",
+      "Genre": "Documentary",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "Chantal Akerman",
+      "Plot": "Impersonal and beautiful images of Akerman's life in New York are combined with letters from her loving but manipulative mother, read by Akerman herself.",
+      "Language": "French",
+      "Country": "Belgium, France, West Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmE2MzM4OTYtZDVkZS00NmRjLWExY2UtMjcxYjg4ZmI2MDc5XkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
@@ -67062,8 +68671,147 @@
       ],
       "Metascore": "N/A",
       "imdbRating": "7.3",
-      "imdbVotes": "66",
-      "imdbID": "tt28510594",
+      "imdbVotes": "3,030",
+      "imdbID": "tt0076452",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "News from Home",
+      "imdb_id": "tt0076452",
+      "extract_pt": "News from Home é um filme documentário coproduzido por teuto-belgo-francês dirigido por Chantal Akerman e lançado em 8 de junho de 1977. Conta a história da cineasta belga Akerman, que retrata o período que ela passou em Nova Iorque, com imagens de diferentes pontos da cidade e com narração da leitura de cartas escritas pela sua mãe, na Bélgica."
+    },
+    "cinema": {
+      "year": 1976,
+      "plot_pt": "Chantal Akerman compõe uma bela amálgama da correspondência com a sua mãe e imagens da vida quotidiana em Nova Iorque, captadas através do seu olhar singular."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      40.1,
+      37.7,
+      22.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bHHDpJ6UHyxLvFOiS4RwxsFv5C5.jpg",
+      "https://image.tmdb.org/t/p/w1280/hnzvpXs7JpnoZXoBxJsTW6Zg7kH.jpg",
+      "https://image.tmdb.org/t/p/w1280/lAeS2GFAYIPVBnEzyW0keB4sNd7.jpg"
+    ],
+    "tmdb_id": "86814",
+    "wiki_tries": 1
+  },
+  "Hotel Monterey|1972": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/5/0/8/87508-hotel-monterey-0-500-0-750-crop.jpg?v=d28f291e2a",
+      "description": "New York City's Monterey is a residence hotel, whose inhabitants are older and primarily live alone. The camera, usually stationery, observes the lobby. No score, the lobby is clean with granite floors, men wear hats, people enter and exit an elevator, the camera looks out from within the elevator as doors open and close. People sit alone and motionless in their apartments. There are long shots of empty halls. Paint peels. The flooring on upper levels is linoleum. Hall lights are florescent. Doors open a crack then close.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1973,
+      "lb_title": "Hotel Monterey",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4c/k7/1v/ms/hotel%20montery-1920-1920-1080-1080-crop-000000.jpg?v=b0791a7ccd",
+      "imdb_id": "tt0068725",
+      "tmdb_id": "108831"
+    },
+    "omdb": {
+      "Title": "Hotel Monterey",
+      "Year": "1973",
+      "Rated": "N/A",
+      "Released": "11 Jul 1989",
+      "Runtime": "65 min",
+      "Genre": "Documentary",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "N/A",
+      "Plot": "Hotel Monterey is a cheap hotel in New York reserved for the outcasts of American society. Chantal Akerman invites viewers to visit this unusual place as well as the people who live there, from the reception up to the last story.",
+      "Language": "None",
+      "Country": "Belgium, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjU3YzBiNWQtNzMwZi00MTM1LWIyNDgtNmJjZWNhOWE2OGM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "950",
+      "imdbID": "tt0068725",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1972,
+      "plot_pt": "\"Hotel Monterey\" pode ser considerada a primeira obra de maior fôlego de Akerman. Tal como já acontecia com \"La Chambre\", conta com a colaboração de Babette Mangolte, que assina a excelente fotografi a. Centrando-se neste hotel nova-iorquino, que explora intensivamente desde o R/C ao terraço, o filme afirma-se como um estudo sobre um espaço arquitetónico, a luz e o tempo. O seu rigor formal aliado ao mutismo fazem de \"Hotel Monterey\" um trabalho único no cinema dos anos 70."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      45.1,
+      40.6,
+      47.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/rddoisVKDGQQ2kQYDVuNbZJJR4e.jpg",
+      "https://image.tmdb.org/t/p/w1280/exJCiVh6E1sVta1l1tP0Ov5FQ1n.jpg",
+      "https://image.tmdb.org/t/p/w1280/eMy74ws3Uesvw42qUPfZ3fBaZGs.jpg"
+    ],
+    "tmdb_id": "108831"
+  },
+  "A TABLE FOR TWO|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/0/6/4/7/920647-a-table-for-two-0-500-0-750-crop.jpg?v=acb39c14e7",
+      "description": "In 2007, fifteen-year-old Chaeyoung is diagnosed with anorexia and committed to a mental hospital. Feeling guilty, her mother, Sangok, tries to trace the source of her daughter’s illness but there is no way to know. Ten years later, the mother and daughter begin a conversation. Relying on Chaeyoung’s diary, drawings, and voice-over, the film explores the history of conflict and pain in mother-daughter relationships through three generations: grandmother, mother, and daughter.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "South Korea",
+      "lb_director": "Kim Bo-ram",
+      "lb_director_slug": "kim-bo-ram",
+      "lb_year": 2022,
+      "lb_title": "A Table for Two",
+      "backdrop": null,
+      "imdb_id": "tt22174176",
+      "tmdb_id": "1021777"
+    },
+    "omdb": {
+      "Title": "A Table for Two",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Mar 2026",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Jing Wu",
+      "Writer": "Jing Wu",
+      "Actors": "Shuying Jiang, Chuan-jun Wang, Jiayi Du",
+      "Plot": "Worst-selling book editor Zhang Jiayi (played by Jiang Shuying) and unemployed programmer Lu Shigu (played by Wang Chuanjun) accidentally became \"food partners\". As changes in their lives continued to occur, the relaxed and simple...",
+      "Language": "Chinese",
+      "Country": "China",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZhMjdiNGEtMTQwZS00Mjg5LThiN2UtZTdjODBjNTJmYjc3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "55",
+      "imdbID": "tt31925197",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -67084,6 +68832,1273 @@
       "https://image.tmdb.org/t/p/w1280/99VC9RFtpU9OKnhScyOPftmaLbz.jpg",
       "https://image.tmdb.org/t/p/w1280/xy5SEU2RyhuiMhovlHrIgBMtXqw.jpg"
     ],
-    "tmdb_id": "1214593"
+    "tmdb_id": "1021777"
+  },
+  "Prosecution|2026": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
+      "description": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "Germany",
+      "lb_director": "Faraz Shariat",
+      "lb_director_slug": "faraz-shariat",
+      "lb_year": 2026,
+      "lb_title": "Prosecution",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/85/z2/3y/h2/8HWczDBlKFMryrpHEukzLBFhuAt-1920-1920-1080-1080-crop-000000.jpg?v=17f261b82c",
+      "imdb_id": "tt39213126",
+      "tmdb_id": "1599784"
+    },
+    "omdb": {
+      "Title": "The Prosecution",
+      "Year": "2024–",
+      "Rated": "N/A",
+      "Released": "28 May 2024",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "Reuven Brodsky, Dorit Beller De-Bar, Roni Reiner",
+      "Actors": "N/A",
+      "Plot": "The people of Jerusalem's criminal prosecution office take us into the impossible world of serious criminal case handling, in which expectations of fair compensation and justice are shattered by the cold-hearted barriers of crimin...",
+      "Language": "Hebrew",
+      "Country": "Israel",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGEyYWQ4ZjgtNDExOS00ZTcyLWJmYzAtNWFlMmUwNDkxNjgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32573747",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      39.0,
+      32.5,
+      38.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
+      "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
+      "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
+    ],
+    "tmdb_id": "1599784"
+  },
+  "Tangles|2026": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Un jeune homme de bonne famille|2026": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/5/5/2/4/1465524-a-very-good-boy-2026-0-500-0-750-crop.jpg?v=3c2c46aeec",
+      "description": "From his childhood in a modest family in the Pyrénées to his unexpected career as a porn actor in the 1970s, the film traces the life of Claude Loir, who set out to fully embrace life. His homosexuality and curiosity guide him through encounters that lead into the shadowy, liberated circles of a pre-AIDS era, caught between conservatism and sexual freedom. Loves and lovers, flamboyance and fragility… the film offers a striking portrait of a fearless, hedonistic man navigating desire, identity, and society’s constraints.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Sébastien Lifshitz",
+      "lb_director_slug": "sebastien-lifshitz",
+      "lb_year": 2026,
+      "lb_title": "A Very Good Boy",
+      "backdrop": null,
+      "imdb_id": "tt38799105",
+      "tmdb_id": "1596222"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.6,
+      40.1,
+      18.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xJESfu8rAzXMNpUq6FX9AGOkLDP.jpg",
+      "https://image.tmdb.org/t/p/w1280/n2nzEYjBcaRG0cHpXEypfLfydOf.jpg",
+      "https://image.tmdb.org/t/p/w1280/iXmlDu12oPvDc1AkDyZ16oXVQl0.jpg"
+    ],
+    "tmdb_id": "1596222"
+  },
+  "A Sweetness from Nowhere|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/7/1/7/9/1367179-a-sweetness-from-nowhere-0-500-0-750-crop.jpg?v=8680fd65dd",
+      "description": "Filmmaker Ester Martin Bergsmark interrogates their response to a transphobic slur hurled at them following their move to Berlin. Exploring the root of violence and its nature, this is a powerful meditation on the trans experience and a treatise on how to move forward from fear.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Sweden",
+      "lb_director": "Ester Martin Bergsmark",
+      "lb_director_slug": "ester-martin-bergsmark",
+      "lb_year": 2026,
+      "lb_title": "A Sweetness from Nowhere",
+      "backdrop": null,
+      "imdb_id": "tt40054398",
+      "tmdb_id": "1490707"
+    },
+    "omdb": {
+      "Title": "A Sweetness from Nowhere",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Mar 2026",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Drama",
+      "Director": "Ester Martin Bergsmark",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Bergsmark examines their reaction to a transphobic slur after moving to Berlin. A meditation on the trans experience that explores violence's origins and nature, offering a path beyond fear.",
+      "Language": "Swedish, English",
+      "Country": "Sweden, Norway",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmUyNGU4YTYtNTlmZC00ZTVlLWI1MTEtOWU0MDk3MTgyZWQwXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40054398",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      47.6,
+      44.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xRqtb4g4zye96lRxNtM7D7kP985.jpg",
+      "https://image.tmdb.org/t/p/w1280/myDk8L1B50vIXfl28V1wSWqc4Lz.jpg"
+    ],
+    "tmdb_id": "1490707"
+  },
+  "Papaya|2021": {
+    "lbxd": {
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/3/1409023-papaya-2025-0-500-0-750-crop.jpg?v=8894f9a534",
+      "description": "Passionate about flying, a tiny papaya seed in the Amazonian forest must keep moving to avoid rooting. Through perseverance, she discovers the power of her roots, triggering a revolution that transforms her world and fulfills her dreams in an unexpected way.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "Brazil",
+      "lb_director": "Priscilla Kellen",
+      "lb_director_slug": "priscilla-kellen",
+      "lb_year": 2026,
+      "lb_title": "Papaya",
+      "backdrop": null,
+      "imdb_id": "tt38350704",
+      "tmdb_id": "1534205"
+    },
+    "omdb": {
+      "Title": "Papaya",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "14 Sep 2025",
+      "Runtime": "74 min",
+      "Genre": "Animation",
+      "Director": "Priscilla Kellen",
+      "Writer": "Priscilla Kellen, Patricia Oriolo",
+      "Actors": "Aretha Garcia Rollo, Tulipa Ruiz",
+      "Plot": "A small Amazon seed yearns to fly and stays in motion to prevent rooting. When she finally discovers what her roots can truly do, she sparks a change that reshapes her world and realizes her dream differently.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVmNzhlYzgtZjU4OS00YWRiLTg0MmYtZmEwYWRjZTU1YmE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "10",
+      "imdbID": "tt38350704",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      36.8,
+      41.3,
+      44.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/vB6k4sY7n2lVMtr88EHdBaYa36I.jpg",
+      "https://image.tmdb.org/t/p/w1280/lg9tzHp7QqmM8lXlHYAuIru6w5W.jpg",
+      "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
+    ],
+    "tmdb_id": "1534205"
+  },
+  "En el Camino|2020": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/1/1393051-on-the-road-2025-2-0-500-0-750-crop.jpg?v=a254fd20a5",
+      "description": "Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "country": "Mexico",
+      "lb_director": "David Pablos",
+      "lb_director_slug": "david-pablos",
+      "lb_year": 2025,
+      "lb_title": "On the Road",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/3/0/5/1/tmdb/5HuHvXKpTrOr2jPceLLC5wyg0Fx-1920-1920-1080-1080-crop-000000.jpg?v=cc37d1219a",
+      "imdb_id": "tt37660509",
+      "tmdb_id": "1517123"
+    },
+    "omdb": {
+      "Title": "En el camino",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "93 min",
+      "Genre": "N/A",
+      "Director": "David Pablos",
+      "Writer": "N/A",
+      "Actors": "Victor Prieto Simental, Osvaldo Sanchez",
+      "Plot": "A drifter who sleeps with truckers meets a reserved driver and joins him hauling freight across northern Mexico. As they grow closer on the road, the drifter's past threatens them both.",
+      "Language": "Spanish",
+      "Country": "Mexico, France",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37660509",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.8,
+      24.0,
+      36.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+      "https://image.tmdb.org/t/p/w1280/rG4l5ICADDRUduB7MnehoZCdmBP.jpg",
+      "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
+    ],
+    "tmdb_id": "1517123"
+  },
+  "Two Mountains Weighing Down my Chest|2026": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/0/1/5/1468015-two-mountains-weighing-down-my-chest-0-500-0-750-crop.jpg?v=c0bf1cf761",
+      "description": "A Chinese misfit ricochets between Berlin’s alternative frenzy and Beijing’s family order, transforming cultural whiplash into an offbeat search for identity and a playful quest for belonging.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Germany",
+      "lb_director": "Viv Li",
+      "lb_director_slug": "viv-li",
+      "lb_year": 2026,
+      "lb_title": "Two Mountains Weighing Down My Chest",
+      "backdrop": null,
+      "imdb_id": "tt39215184",
+      "tmdb_id": "1599790"
+    },
+    "omdb": {
+      "Title": "Two Mountains Weighing Down My Chest",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "13 Feb 2026",
+      "Runtime": "85 min",
+      "Genre": "Documentary",
+      "Director": "Viv Li",
+      "Writer": "N/A",
+      "Actors": "Viv Li",
+      "Plot": "A young Chinese artist navigates between Berlin's queer community and her traditional Beijing family, seeking her place amid global cultural divides.",
+      "Language": "English, Mandarin, German",
+      "Country": "Germany, Netherlands",
+      "Awards": "2 nominations total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "20",
+      "imdbID": "tt39215184",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      60.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/x3BWvMmeeiMTP4u7MWQ6Bsv0C6Z.jpg"
+    ],
+    "tmdb_id": "1599790"
+  },
+  "Jim Queen|2026": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/7/3/8/0/957380-jim-queen-0-500-0-750-crop.jpg?v=3ee7026b1b",
+      "description": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a freshly-out twink with more heart than abs, still by his side, Jim must race to find a cure before the disease erases the community that once worshipped him.",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "country": "France",
+      "lb_director": "Marco Nguyen",
+      "lb_director_slug": "marco-nguyen",
+      "lb_year": 2026,
+      "lb_title": "Jim Queen",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/5/7/3/8/0/tmdb/vQw05sfFEVCVpysDAU5C8NU1gMO-1920-1920-1080-1080-crop-000000.jpg?v=2d4514f5c0",
+      "imdb_id": "tt36955518",
+      "tmdb_id": "1061798"
+    },
+    "omdb": {
+      "Title": "Jim Queen",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "80 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Nicolas Athane, Marco Nguyen",
+      "Writer": "Nicolas Athane, Simon Balteaux, Brice Chevillard",
+      "Actors": "François Sagat, Jérémy Gillet, Elisabeth Wiener",
+      "Plot": "A gay influencer's life crumbles when a virus turns Paris's gay men straight. He teams up with a twink to find a rumored cure in the Marais district. A satire on identity, fame, and queer culture.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36955518",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      50.8,
+      41.8,
+      41.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+      "https://image.tmdb.org/t/p/w1280/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
+      "https://image.tmdb.org/t/p/w1280/1WcUj5oKWYuiGcIvTWYFU8D5jsf.jpg"
+    ],
+    "tmdb_id": "1061798"
+  },
+  "Outerlands|2025": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/1/5/4/4/1301544-outerlands-0-500-0-750-crop.jpg?v=6e67a56023",
+      "description": "Cass juggles jobs as a nanny, restaurant server, and party drug dealer in order to make ends meet and pay for their tiny San Francisco apartment. After a one night stand with Kalli, a co-worker they have a crush on, Cass agrees to watch her 11-year-old daughter, Ari, while she goes out of town. But as days pass without word from Kalli, Cass and Ari form a bond that spirals Cass back to their own difficult childhood and the pain they’ve been running from.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "USA",
+      "lb_director": "Elena Oxman",
+      "lb_director_slug": "elena-oxman",
+      "lb_year": 2025,
+      "lb_title": "Outerlands",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4b/l2/ce/tr/EQrXtV4cIVFnFjj3XwDoJ5CgRM-1920-1920-1080-1080-crop-000000.jpg?v=9251c9e4b3",
+      "imdb_id": "tt35319790",
+      "tmdb_id": "1422013"
+    },
+    "omdb": {
+      "Title": "Outerlands",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "10 Mar 2025",
+      "Runtime": "100 min",
+      "Genre": "Drama, Family",
+      "Director": "Elena Oxman",
+      "Writer": "Elena Oxman",
+      "Actors": "Ridley Asha Bateman, Eziah Best, Wimberly Brooklyn",
+      "Plot": "A gig worker in San Francisco balances multiple jobs, including dealing party drugs. When their crush asks them to watch her daughter, what starts as temporary childcare evolves into an unexpected journey of self-discovery and hea...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWEwODFiY2EtNjBmOC00MWI0LTlmNDMtYzcwYzcxZWYwOGZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "46",
+      "imdbID": "tt35319790",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.3,
+      31.3,
+      48.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/g0dQGwSfkTPUblFiGg8tv5taiLr.jpg",
+      "https://image.tmdb.org/t/p/w1280/frAn7nLRTc0xygTkLCIkAW7oaIq.jpg",
+      "https://image.tmdb.org/t/p/w1280/cv8KzfQcTTeC3E33Lg0eGPv4hkx.jpg"
+    ],
+    "tmdb_id": "1422013"
+  },
+  "The Lesbian Avengers Eat Fire, Too|1993": {
+    "lbxd": {
+      "rating": 4.01,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/6/5/7/312657-lesbian-avengers-eat-fire-too-0-500-0-750-crop.jpg?v=6e4a5e4d6f",
+      "description": "An insider's look at the first year of an activist group known as the Lesbian Avengers.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Su Friedrich",
+      "lb_director_slug": "su-friedrich",
+      "lb_year": 1993,
+      "lb_title": "Lesbian Avengers Eat Fire Too",
+      "backdrop": null,
+      "imdb_id": "tt7870278",
+      "tmdb_id": "377364"
+    },
+    "omdb": {
+      "Title": "The Lesbian Avengers Eat Fire, Too",
+      "Year": "1993",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "56 min",
+      "Genre": "Documentary",
+      "Director": "Janet Baus, Su Friedrich",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "This film documents the first year of actions by The Lesbian Avengers, a group of bold and brazen New York City activists fighting for recognition and equal rights for lesbians everywhere. We recruit!",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmE3OGFiYmUtMDQwZS00MGE5LTg5ODctZGQ4MTBkYmQ5NzI4XkEyXkFqcGdeQXVyNzM0MDQ1Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "14",
+      "imdbID": "tt7870278",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.7,
+      28.0,
+      50.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/vJAPz4IrVTgyaggPNTQ26WntDHH.jpg",
+      "https://image.tmdb.org/t/p/w1280/9qe2QTA5aYA9Z42Eh7hYZtilpjX.jpg",
+      "https://image.tmdb.org/t/p/w1280/mmvLuWdfMqHvGPhpjDxJscEUecP.jpg"
+    ],
+    "tmdb_id": "377364"
+  },
+  "London|2005": {
+    "lbxd": {
+      "rating": 2.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/9/7/47997-london-0-500-0-750-crop.jpg?v=75e3c23b12",
+      "description": "London is a drug laden adventure that centers on a party in a New York loft where a young man is trying to win back his ex-girlfriend.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Hunter Richards",
+      "lb_director_slug": "hunter-richards",
+      "lb_year": 2005,
+      "lb_title": "London",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/4/7/9/9/7/tmdb/uqchYxRnt7QRRRPa6Dm5NFigDXW-1920-1920-1080-1080-crop-000000.jpg?v=a2627a5a9a",
+      "imdb_id": "tt0449061",
+      "tmdb_id": "7515"
+    },
+    "omdb": {
+      "Title": "Jump London",
+      "Year": "2003",
+      "Rated": "N/A",
+      "Released": "09 Sep 2003",
+      "Runtime": "60 min",
+      "Genre": "Documentary",
+      "Director": "Mike Christie, Emily Richardson",
+      "Writer": "N/A",
+      "Actors": "Clare Tomlinson, Stephen Billington, Toby Sawyer",
+      "Plot": "Having developed from a childhood game, Free Running has been given global recognition due to a series of adverts for Toyota, Nike and the BBC to name a few. The recognised creator of the discipline, which involves running and jum...",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNTk1OTA3OF5BMl5BanBnXkFtZTcwOTc2ODUyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "187",
+      "imdbID": "tt0380472",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "London (2005 American film)",
+      "imdb_id": "tt0449061",
+      "extract_pt": "London (original: London) é um filme americano, lançado no ano 2005 e é centrado em uma festa de Manhattan. O filme, produzido por Paul Davis-Miller e Bonnie Timmermann, foi dirigido e escrito por Brian \"Hunter\" Richards. É estrelado por Jessica Biel, Jason Statham, Joy Bryant, Dane Cook e Chris Evans."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.3,
+      36.0,
+      19.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/uqchYxRnt7QRRRPa6Dm5NFigDXW.jpg",
+      "https://image.tmdb.org/t/p/w1280/xsItpfcQXOQAUWiE7TDwHQVoSkA.jpg",
+      "https://image.tmdb.org/t/p/w1280/uVTtO3ecjpFjbZ7yW9J8vRO7elt.jpg"
+    ],
+    "tmdb_id": "7515"
+  },
+  "Corren las Liebres|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/6/0/9/1338609-corren-las-liebres-0-500-0-750-crop.jpg?v=f128926a70",
+      "description": "After serving a ten-year sentence, Noa, a 48-year-old transgender Roma woman, struggles to regain custody of her teenage children who are under state care. The system demands that she find a home, but due to lack of resources, Noa squats in an apartment from which she is about to be evicted. Her cousin Mary Karmen, an intersex Roma squatter activist, is her loyal companion, along with other friends living on the margins: Nani, a drug addict and pickpocket, and Luana, a homeless Portuguese singer. The solidarity and sisterhood among them all—infused with art and a surprising sense of humor—push them to survive their harsh realities.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Lorena Ros",
+      "lb_director_slug": "lorena-ros",
+      "lb_year": 2025,
+      "lb_title": "Corren las liebres",
+      "backdrop": null,
+      "imdb_id": "tt37618867",
+      "tmdb_id": "1461893"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/aPuWY2zCLemK7550ASVRnql1iP3.jpg"
+    ],
+    "tmdb_id": "1461893"
+  },
+  "Estrany Riu|2025": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/4/2/9/0/924290-strange-river-0-500-0-750-crop.jpg?v=4c0ee444d5",
+      "description": "One summer, Dídac travels by bike along the Danube with his family, starting where the river first emerges in Germany. As they journey downstream, he begins seeing a mysterious boy, Alexander, who appears and disappears in the water. Dídac feels himself changing, drawn toward Alexander and away from his brother Biel. Their mother, Monika, who once took the same trip as a teenager, drifts into memories of a past summer love. When she sees Dídac and Alexander together, she encourages them to continue the journey alone. But as twilight falls, Dídac begins to question who Alexander truly is.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Jaume Claret Muxart",
+      "lb_director_slug": "jaume-claret-muxart",
+      "lb_year": 2025,
+      "lb_title": "Strange River",
+      "backdrop": null,
+      "imdb_id": "tt33023305",
+      "tmdb_id": "1025389"
+    },
+    "omdb": {
+      "Title": "Estrany riu",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Jaume Claret Muxart",
+      "Writer": "Jaume Claret Muxart, Meritxell Colell",
+      "Actors": "Nausicaa Bonnín, Francesco Wenz, Jordi Oriol",
+      "Plot": "N/A",
+      "Language": "Catalan",
+      "Country": "Spain, Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33023305",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.6,
+      40.0,
+      45.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ewamGmvSRdg7Ve1eoCfSgcaJf7A.jpg",
+      "https://image.tmdb.org/t/p/w1280/3AB6DwOdCF69Wh7DH1OaHNTSJtD.jpg",
+      "https://image.tmdb.org/t/p/w1280/kIf3AyWzHgGGFLNSkjlVWxcJRrh.jpg"
+    ],
+    "tmdb_id": "1025389"
+  },
+  "Joy Boy: a Tribute to Julius Eastman|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/6/0/8/3/1486083-joy-boy-a-tribute-to-julius-eastman-0-500-0-750-crop.jpg?v=d143431e59",
+      "description": "African American composer Julius Eastman’s music and voice take turns. Sparked by colonial and life history. Raw, radical, crystal clear. A multipart, flashy, transnational-collective performance by six artists. An homage.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Mawena Yehouessi",
+      "lb_director_slug": "mawena-yehouessi",
+      "lb_year": 2026,
+      "lb_title": "Joy Boy: A Tribute to Julius Eastman",
+      "backdrop": null,
+      "imdb_id": "tt39383485",
+      "tmdb_id": "1616828"
+    },
+    "omdb": {
+      "Title": "Joy Boy: A Tribute to Julius Eastman",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Feb 2026",
+      "Runtime": "64 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Six artists pay tribute to African American composer Julius Eastman with a performance celebrating his music and legacy. Drawing inspiration from colonial history and their personal journeys, they create a bold and unfiltered trib...",
+      "Language": "English",
+      "Country": "Belgium",
+      "Awards": "1 nomination total",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt39383485",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1swyIGbGB0uG5AT8QKpNnzuE1UY.jpg"
+    ],
+    "tmdb_id": "1616828"
+  },
+  "The Watermelon Woman|1996": {
+    "lbxd": {
+      "rating": 4.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/7/0/3/20703-the-watermelon-woman-0-500-0-750-crop.jpg?v=11ffcd731b",
+      "description": "A young black lesbian filmmaker probes into the life of The Watermelon Woman, a 1930s black actress who played 'mammy' archetypes.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Cheryl Dunye",
+      "lb_director_slug": "cheryl-dunye",
+      "lb_year": 1996,
+      "lb_title": "The Watermelon Woman",
+      "backdrop": null,
+      "imdb_id": "tt0118125",
+      "tmdb_id": "44479"
+    },
+    "omdb": {
+      "Title": "The Watermelon Woman",
+      "Year": "1996",
+      "Rated": "Unrated",
+      "Released": "05 Mar 1997",
+      "Runtime": "85 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Cheryl Dunye",
+      "Writer": "Cheryl Dunye, Douglas McKeown",
+      "Actors": "Cheryl Dunye, Guinevere Turner, Valarie Walker",
+      "Plot": "A young black lesbian filmmaker probes into the life of The Watermelon Woman, a 1930s black actress who played 'mammy' archetypes.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "4 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWEzZDRlZjMtNGZkMS00NTg5LTg3NGQtY2JkOGQyNTYxNWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "7.1",
+      "imdbVotes": "3,976",
+      "imdbID": "tt0118125",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,989",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Watermelon Woman",
+      "imdb_id": "tt0118125",
+      "extract_pt": "The Watermelon Woman é um filme de drama estadunidense de 1996 dirigido e escrito por Cheryl Dunye. Estrelado por Dunye, Guinevere Turner, Valarie Walker e Lisa Marie Bronson, estreou no Festival Internacional de Cinema de Berlim em fevereiro de 1996."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.3,
+      22.8,
+      30.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/l0YhkeRNks3mPdjxd2VgAFtKplB.jpg",
+      "https://image.tmdb.org/t/p/w1280/qyWhfJxHeJc7XWqPB0EtPBZw8cg.jpg",
+      "https://image.tmdb.org/t/p/w1280/9THMq437DAofbPKDcfBaiIUYXEo.jpg"
+    ],
+    "tmdb_id": "44479"
+  },
+  "Blue Film|2023": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Virages|2008": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Virages",
+      "Year": "2008",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Alexis Taillant",
+      "Writer": "Alexis Taillant",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTMyOTMyNGItOWI0OS00YjExLThhN2MtZWJkMTIxY2U2MjZjXkEyXkFqcGdeQXVyNzM3MTU2ODE@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt6682352",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Stop! That! Train!|2026": {
+    "lbxd": {
+      "rating": 3.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/6/3/1/3/1416313-stop-that-train-0-500-0-750-crop.jpg?v=8423afafd4",
+      "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "country": "USA",
+      "lb_director": "Adam Shankman",
+      "lb_director_slug": "adam-shankman",
+      "lb_year": 2026,
+      "lb_title": "Stop! That! Train!",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/6/3/1/3/tmdb/ldSRlTcMflx8kjio6pEZADcyhfm-1920-1920-1080-1080-crop-000000.jpg?v=3f110937dd",
+      "imdb_id": "tt38128726",
+      "tmdb_id": "1541560"
+    },
+    "omdb": {
+      "Title": "Stop! That! Train!",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "12 Jun 2026",
+      "Runtime": "92 min",
+      "Genre": "Action, Comedy",
+      "Director": "Adam Shankman",
+      "Writer": "Christina Friel, Connor Wright",
+      "Actors": "Brock Hayhoe, Paul Scheer, Symone",
+      "Plot": "Two train stewardess BFFs switch from a dull railway to the luxurious Glamazonian Express. During a massive storm, they must work with snooty first-class crew and President Gagwell to prevent disaster in LA.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM2MmJkMDEtYjc2Yi00NGMzLWExYjAtMjQzN2RiNzkwZWE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38128726",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      20.5,
+      14.7,
+      38.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
+      "https://image.tmdb.org/t/p/w1280/5e6Z7Ey5s7NsX58cZgckLDs1b6U.jpg",
+      "https://image.tmdb.org/t/p/w1280/5ys9JbxaJ0EW1OIIoBSKh56MMEr.jpg"
+    ],
+    "tmdb_id": "1541560"
+  },
+  "Bugis Street|1995": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/7/4/7/161747-bugis-street-0-500-0-750-crop.jpg?v=4b59f667ec",
+      "description": "In 1960s Singapore when Bugis Street was a center of transvestite and transsexual prostitution, naïve sixteen-year-old Lian comes of age working as a receptionist for the Sin Sin Hotel, home to a gaggle of trans women whom all have stories of broken hearts and drunken sailors.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Singapore",
+      "lb_director": "Yonfan",
+      "lb_director_slug": "yonfan",
+      "lb_year": 1995,
+      "lb_title": "Bugis Street",
+      "backdrop": null,
+      "imdb_id": "tt0111788",
+      "tmdb_id": "230141"
+    },
+    "omdb": {
+      "Title": "Bugis Street",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "13 Apr 1995",
+      "Runtime": "101 min",
+      "Genre": "Drama",
+      "Director": "Yonfan",
+      "Writer": "Fruit Chan, Yuo Chan, Yonfan",
+      "Actors": "Hiep Thi Le, Michael Lam, Greg-o",
+      "Plot": "Young and innocent Lian is a maid to a rich family in Malaysia. She is then sent to work at a small hotel near Bugis Street in Singapore. She learns about another side of life when encounter with transvestites and transgender indi...",
+      "Language": "Mandarin, Cantonese, English",
+      "Country": "Singapore, Hong Kong",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYxNTA1ZmUtYjQxZC00MDUxLWI4ZDItN2M2YWQ1MzhmN2JmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "164",
+      "imdbID": "tt0111788",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Bugis Street (film)",
+      "imdb_id": "tt0111788",
+      "extract_pt": "Bugis Street (妖街皇后) (Yao jie huang hou, em cantonês) é um filme de Hong Kong e Singapura, dirigido por Yonfan e lançado em 13 de abril de 1995."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.5,
+      20.6,
+      29.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/56odNXCMN9GDnx5C3WvsNonqLFR.jpg",
+      "https://image.tmdb.org/t/p/w1280/S7JXuNZVwQHoyv8Ka9fOulbTOY.jpg",
+      "https://image.tmdb.org/t/p/w1280/vRpZDoVbNGxvpdAhnsh5G9WnkuG.jpg"
+    ],
+    "tmdb_id": "230141"
+  },
+  "Amarga Navidad|2026": {
+    "lbxd": {
+      "rating": 3.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-500-0-750-crop.jpg?v=e53e0d2801",
+      "description": "In 2025 Spain, a celebrated film director struggles to write the screenplay for an autofictional film set in 2004 Spain about an unsuccessful movie director turned director of commercials who suffers a panic attack that forces her to take a break by visiting the Canary Islands, where she begins work on a new film.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Spain",
+      "lb_director": "Pedro Almodóvar",
+      "lb_director_slug": "pedro-almodovar",
+      "lb_year": 2026,
+      "lb_title": "Bitter Christmas",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/1/4/3/7/tmdb/5BEVBLecjLWzZtfA920waEsHF6o-1920-1920-1080-1080-crop-000000.jpg?v=640a8c814d",
+      "imdb_id": "tt28088049",
+      "tmdb_id": "1088548"
+    },
+    "omdb": {
+      "Title": "Amarga Navidad",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Pedro Almodóvar",
+      "Writer": "Pedro Almodóvar",
+      "Actors": "Victoria Luengo, Patrick Criado",
+      "Plot": "A woman being abandoned by her partner during Christmas time.",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt28088049",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Amarga Navidad (no Brasil: Natal Amargo e em inglês: Bitter Christimas) é um longa-metragem espanhol de tragicomédia com elementos de autoficção lançado em 2026 escrito e dirigido por Pedro Almodóvar. A trama acompanha uma diretora de publicidade que, após a morte da mãe e uma crise emocional, viaja com uma amiga a Lanzarote, nas Ilhas Canárias, em busca de distância, mas acaba confrontando o próprio luto. É estrelado por Bárbara Lennie e Leonardo Sbaraglia, ao lado de Aitana Sánchez-Gijón, Victoria Luengo, Patrick Criado, Milena Smit e Quim Gutiérrez. \nO filme foi lançado nos cinemas da Espanha em 20 de março de 2026 pela Warner Bros."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.5,
+      40.0,
+      24.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+      "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
+      "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
+    ],
+    "tmdb_id": "1088548"
+  },
+  "Baby Jackfruit Baby Guava|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/9/4/0/4/1299404-baby-jackfruit-baby-guava-0-500-0-750-crop.jpg?v=996f510952",
+      "description": "When an unplanned baby enters the lives of a conservative mother, neurodivergent daughter and detached gay son, the trio travels back in time through their diaries and family photos to mend ruptured bonds and prepare for a new cycle of motherhood.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Vietnam",
+      "lb_director": "Nông Nhật Quang",
+      "lb_director_slug": "nong-nhat-quang",
+      "lb_year": 2026,
+      "lb_title": "Baby Jackfruit Baby Guava",
+      "backdrop": null,
+      "imdb_id": "tt42092229",
+      "tmdb_id": "1418816"
+    },
+    "omdb": {
+      "Title": "Baby Jackfruit Baby Guava",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Apr 2026",
+      "Runtime": "105 min",
+      "Genre": "Documentary",
+      "Director": "Nong Nhat Quang",
+      "Writer": "N/A",
+      "Actors": "Do Thi Kim Cuc, Le Anh Duc, Leland Evans",
+      "Plot": "When an unplanned baby nicknamed Guava enters the lives of conservative mother Cuc, troubled daughter Mai, and detached gay son Nông, the trio travels back in time through their family diaries and photos.",
+      "Language": "Vietnamese, English",
+      "Country": "South Korea, Vietnam",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmRhYTgwNGItMDY1OC00ZTUzLWJkYjYtNWIxYmFmYTVhNjMxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt42092229",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.2,
+      40.5,
+      41.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ufBY3ilUOVefhsItI1kcpkFSMUv.jpg",
+      "https://image.tmdb.org/t/p/w1280/1TZa37ouqggtA9AZQwmUKbn9PVh.jpg",
+      "https://image.tmdb.org/t/p/w1280/vue9gmgf8M3rYjhq7jMEbn5QFuJ.jpg"
+    ],
+    "tmdb_id": "1418816"
+  },
+  "Desejo de Viver (mutatis mutandis)|2014": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/5/9/1/225591-mutatis-mutandis-0-500-0-750-crop.jpg?v=afed317e3d",
+      "description": "A dexterous verbal enactment of slippages between voice, body and object, with objects functioning as stand-ins for multiple ideas and body parts.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Kathryn Elkin",
+      "lb_director_slug": "kathryn-elkin",
+      "lb_year": 2014,
+      "lb_title": "Mutatis Mutandis",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "298439"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "298439"
+  },
+  "Preface to the Little Dialogue|2024": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/5/7/4/9/1085749-you-burn-me-0-500-0-750-crop.jpg?v=3d7e1db678",
+      "description": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
+      "genres": [
+        "Drama",
+        "Documentary"
+      ],
+      "country": "Argentina",
+      "lb_director": "Matías Piñeiro",
+      "lb_director_slug": "matias-pineiro",
+      "lb_year": 2024,
+      "lb_title": "You Burn Me",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/k2/oc/a1/u3/y46l34DHFL0fjlGnisvaZbofaF8-1920-1920-1080-1080-crop-000000.jpg?v=7595a6dacf",
+      "imdb_id": "tt31018983",
+      "tmdb_id": "1200753"
+    },
+    "omdb": {
+      "Title": "You Burn Me",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "03 Oct 2024",
+      "Runtime": "64 min",
+      "Genre": "Drama",
+      "Director": "Matías Piñeiro",
+      "Writer": "Matías Piñeiro",
+      "Actors": "Ana Cristina Barragán, Maria Inês Gonçalves, Agustina Muñoz",
+      "Plot": "The poet Sappho encounters the nymph Britomartis by the sea. Tales claim Sappho leapt into the ocean out of heartbreak while Britomartis fell into the water escaping a man's pursuit. Together they reflect on the bittersweet pangs ...",
+      "Language": "English",
+      "Country": "Spain, Argentina",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0Yzk4ODctN2NhZS00NDRkLTkzNzQtYjM0NTZlYzhkMWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "34",
+      "imdbID": "tt31018983",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.3,
+      25.9,
+      28.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
+      "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
+      "https://image.tmdb.org/t/p/w1280/1Q8Kby0AWy70kvjvWRQBUpBXal2.jpg"
+    ],
+    "tmdb_id": "1200753"
+  },
+  "Hotel Monterey|1973": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/5/0/8/87508-hotel-monterey-0-500-0-750-crop.jpg?v=d28f291e2a",
+      "description": "New York City's Monterey is a residence hotel, whose inhabitants are older and primarily live alone. The camera, usually stationery, observes the lobby. No score, the lobby is clean with granite floors, men wear hats, people enter and exit an elevator, the camera looks out from within the elevator as doors open and close. People sit alone and motionless in their apartments. There are long shots of empty halls. Paint peels. The flooring on upper levels is linoleum. Hall lights are florescent. Doors open a crack then close.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1973,
+      "lb_title": "Hotel Monterey",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4c/k7/1v/ms/hotel%20montery-1920-1920-1080-1080-crop-000000.jpg?v=b0791a7ccd",
+      "imdb_id": "tt0068725",
+      "tmdb_id": "108831"
+    },
+    "omdb": {
+      "Title": "Hotel Monterey",
+      "Year": "1973",
+      "Rated": "N/A",
+      "Released": "11 Jul 1989",
+      "Runtime": "65 min",
+      "Genre": "Documentary",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "N/A",
+      "Plot": "Hotel Monterey is a cheap hotel in New York reserved for the outcasts of American society. Chantal Akerman invites viewers to visit this unusual place as well as the people who live there, from the reception up to the last story.",
+      "Language": "None",
+      "Country": "Belgium, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjU3YzBiNWQtNzMwZi00MTM1LWIyNDgtNmJjZWNhOWE2OGM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "950",
+      "imdbID": "tt0068725",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1972,
+      "plot_pt": "\"Hotel Monterey\" pode ser considerada a primeira obra de maior fôlego de Akerman. Tal como já acontecia com \"La Chambre\", conta com a colaboração de Babette Mangolte, que assina a excelente fotografi a. Centrando-se neste hotel nova-iorquino, que explora intensivamente desde o R/C ao terraço, o filme afirma-se como um estudo sobre um espaço arquitetónico, a luz e o tempo. O seu rigor formal aliado ao mutismo fazem de \"Hotel Monterey\" um trabalho único no cinema dos anos 70."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      45.1,
+      40.6,
+      47.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/rddoisVKDGQQ2kQYDVuNbZJJR4e.jpg",
+      "https://image.tmdb.org/t/p/w1280/exJCiVh6E1sVta1l1tP0Ov5FQ1n.jpg",
+      "https://image.tmdb.org/t/p/w1280/eMy74ws3Uesvw42qUPfZ3fBaZGs.jpg"
+    ],
+    "tmdb_id": "108831"
+  },
+  "A TABLE FOR TWO|2022": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
