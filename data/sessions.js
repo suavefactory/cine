@@ -10088,7 +10088,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/i2yn4PusvC2RN5JVNQmCIIkhxK0.jpg"
       ],
       "stills_focus": [
-        35.0
+        34.9
       ],
       "country": "Portugal",
       "director_lbxd_slug": "hiroatsu-suzuki"
