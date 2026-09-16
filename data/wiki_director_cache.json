@@ -2011,7 +2011,7 @@
   "Lana Wachowski, Lilly Wachowski": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Joan Porcel": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/M%C3%A1laga_Film_Festival_2026_-_Joan_Porcel_-_1.jpg/500px-M%C3%A1laga_Film_Festival_2026_-_Joan_Porcel_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2031,7 +2031,7 @@
   "Antoine Vazquez": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Marine Atlan": {
     "photo": null,
@@ -2056,6 +2056,96 @@
   "Fil Ieropoulos": {
     "photo": null,
     "bio": "Fil Ieropoulos (; Greek: Φιλ Ιερόπουλος, romanized: Fil Ieropoulos; born June 1, 1978) is a Greek filmmaker, artist and academic. His experimental films combine various media, performance and queer politics.",
+    "tries": 1
+  },
+  "Francine Vitagliano": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Ester Martin Bergsmark": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ester_M._Bergsmark.jpg/500px-Ester_M._Bergsmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Ester Martin Bergsmark (born 1982) is a Swedish movie director and screenwriter of the documentaries Maggie in Wonderland and She Male Snails. Bergsmark's first fiction feature Something Must Break (2014) has won ten awards, including the Tiger Award, 43rd Rotterdam International Film Festival, the Grand Jury Award in Outfest Los Angeles LGBT Film Festival or Best Film and Best Performance for Saga Becker in the Lisbon International Queer Film Festival.",
+    "tries": 1
+  },
+  "Priscilla Kellen": {
+    "photo": null,
+    "bio": "brasilian film maker",
+    "tries": 1
+  },
+  "David Pablos": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/David_Pablos_at_82nd_Venice_International_Film_Festival-1.jpg/500px-David_Pablos_at_82nd_Venice_International_Film_Festival-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "David Pablos (born July 28, 1982) is a Mexican director, editor and screenwriter. An active filmmaker since 2007, Pablos has been involved in seven films, including shorts and documentaries. Pablos attained recognition for directing La Vida Después (2013) and Las Elegidas (2015).",
+    "tries": 1
+  },
+  "Viv Li": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Nicolas Athane, Marco Nguyen": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Elena Oxman": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Janet Baus, Su Friedrich": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Hunter Richards": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Jaume Claret Muxart": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Jaume_Claret_Muxart_at_the_2026_New_Directors_New_Films_festival_02.jpg/500px-Jaume_Claret_Muxart_at_the_2026_New_Directors_New_Films_festival_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Catalan filmmaker",
+    "tries": 1
+  },
+  "Cheryl Dunye": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cheryl_Dunye_2.jpg/500px-Cheryl_Dunye_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Cheryl Dunye (; born May 13, 1966) is a Liberian-American film director, producer, screenwriter, editor and actress. She is the daughter of Edith Irene Hamilton Dunye and George Kekura Dunye. She was born in Liberia, but shortly after, her family moved to Philadelphia.",
+    "tries": 1
+  },
+  "Vijay Gowtham Raju": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Alexis Taillant": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Adam Shankman": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Adam-shankman.jpg/500px-Adam-shankman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Adam Michael Shankman (born November 27, 1964) is an American film director, producer, writer, dancer, author, actor, and choreographer. He was a permanent judge on seasons 6–7 of the television program So You Think You Can Dance. He began his professional career in musical theater and was a dancer in music videos for Paula Abdul and Janet Jackson.",
+    "tries": 1
+  },
+  "Yonfan": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Yonfan_2020.jpg/500px-Yonfan_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Yonfan (born 14 October 1947) is a Hong Kong film director and photographer.",
+    "tries": 1
+  },
+  "Nong Nhat Quang": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Yorgos Lanthimos": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yorgos_Lanthimos_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Yorgos_Lanthimos_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Yorgos Lanthimos (; Greek: Γιώργος Λάνθιμος, romanized: Giórgos Lánthimos, pronounced [ˈʝorɣos ˈlanθimos]; born 23 September 1973) is a Greek film and theatre director. Often described as one of the preeminent filmmakers of his generation, he has received numerous accolades including a BAFTA Award and a Golden Lion, as well as nominations for six Academy Awards and a Golden Globe Award. Lanthimos started his career in experimental theatre before making his directorial film debut with the sex comedy My Best Friend (2001).",
+    "tries": 1
+  },
+  "Jing Wu": {
+    "photo": null,
+    "bio": "Chin Woo Athletic Association (simplified Chinese: 精武体育会; traditional Chinese: 精武體育會; pinyin: Jīngwǔ Tǐyùhuì) is an international martial arts organization founded in Shanghai, China, on July 7, 1910, but some sources cite dates in 1909. It has almost over 80 branches based in 30 or more countries worldwide, where it is usually known as an \"athletic association\" or \"federation\".",
     "tries": 1
   }
 }
