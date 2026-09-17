@@ -44175,7 +44175,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      36.0
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -46818,7 +46818,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      33.3
+      33.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
@@ -50045,8 +50045,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      13.3,
-      43.4,
+      13.4,
+      43.3,
       44.5
     ],
     "stills": [
@@ -50390,7 +50390,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      34.9
+      35.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/i2yn4PusvC2RN5JVNQmCIIkhxK0.jpg"
@@ -63063,7 +63063,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      29.6
+      29.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
@@ -63290,7 +63290,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.1,
+      25.2,
       54.9
     ],
     "stills": [
@@ -65047,7 +65047,7 @@
       61.3
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/dDKy6eWfzaPgXZ2MOIn6tLuM9F2.jpg"
+      "https://image.tmdb.org/t/p/w1280/sGZJGECzPhABKX37xtwWOznGgFT.jpg"
     ],
     "tmdb_id": "1755291"
   },
@@ -66276,7 +66276,7 @@
       "https://image.tmdb.org/t/p/w1280/77x7WNxYPvphcXsOPEnUAYnO0wx.jpg"
     ],
     "tmdb_id": "1528501",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Taxi to the Toilet|1980": {
     "lbxd": {
@@ -66347,7 +66347,7 @@
       "https://image.tmdb.org/t/p/w1280/tn24Glc8rDxukkeBkI6173LK3II.jpg"
     ],
     "tmdb_id": "35125",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Bound|1996": {
     "lbxd": {
@@ -66598,7 +66598,7 @@
       "https://image.tmdb.org/t/p/w1280/rwgC47QAi2D2vOJSsqxtCy4RXCP.jpg"
     ],
     "tmdb_id": "1520506",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Nuestro Cuerpo Es una Estrella que Se Expande|2025": {
     "lbxd": {
@@ -66688,7 +66688,7 @@
       "https://image.tmdb.org/t/p/w1280/xw74V4uM6ipNLtCju6Qnp4OJdku.jpg"
     ],
     "tmdb_id": "1514847",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Uchronia: Parallel Histories of Queer Revolt|2026": {
     "lbxd": {
@@ -66873,7 +66873,7 @@
       "https://image.tmdb.org/t/p/w1280/jwFj1fIxffU6CziBoufDiqNrkKA.jpg"
     ],
     "tmdb_id": "1365181",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "La Gradiva|2026": {
     "lbxd": {
@@ -66946,7 +66946,7 @@
       "https://image.tmdb.org/t/p/w1280/w8O8oGu5PGstainGT2mjwV4gNZC.jpg"
     ],
     "tmdb_id": "1154730",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Teenage Sex and Death at Camp Miasma|2026": {
     "lbxd": {
@@ -67080,7 +67080,8 @@
       "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
       "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
     ],
-    "tmdb_id": "1599784"
+    "tmdb_id": "1599784",
+    "wiki_tries": 1
   },
   "Tangles|None": {
     "lbxd": {
@@ -68903,7 +68904,8 @@
       "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
       "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
     ],
-    "tmdb_id": "1599784"
+    "tmdb_id": "1599784",
+    "wiki_tries": 1
   },
   "Tangles|2026": {
     "lbxd": null,
@@ -68944,7 +68946,8 @@
       "https://image.tmdb.org/t/p/w1280/n2nzEYjBcaRG0cHpXEypfLfydOf.jpg",
       "https://image.tmdb.org/t/p/w1280/iXmlDu12oPvDc1AkDyZ16oXVQl0.jpg"
     ],
-    "tmdb_id": "1596222"
+    "tmdb_id": "1596222",
+    "wiki_tries": 1
   },
   "A Sweetness from Nowhere|2026": {
     "lbxd": {
@@ -68995,8 +68998,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      47.6,
-      44.8
+      48.3,
+      45.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/xRqtb4g4zye96lRxNtM7D7kP985.jpg",
@@ -69172,12 +69175,13 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      60.3
+      61.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/x3BWvMmeeiMTP4u7MWQ6Bsv0C6Z.jpg"
     ],
-    "tmdb_id": "1599790"
+    "tmdb_id": "1599790",
+    "wiki_tries": 1
   },
   "Jim Queen|2026": {
     "lbxd": {
@@ -69242,7 +69246,8 @@
       "https://image.tmdb.org/t/p/w1280/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
       "https://image.tmdb.org/t/p/w1280/1WcUj5oKWYuiGcIvTWYFU8D5jsf.jpg"
     ],
-    "tmdb_id": "1061798"
+    "tmdb_id": "1061798",
+    "wiki_tries": 1
   },
   "Outerlands|2025": {
     "lbxd": {
@@ -69302,7 +69307,8 @@
       "https://image.tmdb.org/t/p/w1280/frAn7nLRTc0xygTkLCIkAW7oaIq.jpg",
       "https://image.tmdb.org/t/p/w1280/cv8KzfQcTTeC3E33Lg0eGPv4hkx.jpg"
     ],
-    "tmdb_id": "1422013"
+    "tmdb_id": "1422013",
+    "wiki_tries": 1
   },
   "The Lesbian Avengers Eat Fire, Too|1993": {
     "lbxd": {
@@ -69366,7 +69372,8 @@
       "https://image.tmdb.org/t/p/w1280/9qe2QTA5aYA9Z42Eh7hYZtilpjX.jpg",
       "https://image.tmdb.org/t/p/w1280/mmvLuWdfMqHvGPhpjDxJscEUecP.jpg"
     ],
-    "tmdb_id": "377364"
+    "tmdb_id": "377364",
+    "wiki_tries": 1
   },
   "London|2005": {
     "lbxd": {
@@ -69457,7 +69464,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      37.9
+      38.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/aPuWY2zCLemK7550ASVRnql1iP3.jpg"
@@ -69521,7 +69528,8 @@
       "https://image.tmdb.org/t/p/w1280/3AB6DwOdCF69Wh7DH1OaHNTSJtD.jpg",
       "https://image.tmdb.org/t/p/w1280/kIf3AyWzHgGGFLNSkjlVWxcJRrh.jpg"
     ],
-    "tmdb_id": "1025389"
+    "tmdb_id": "1025389",
+    "wiki_tries": 1
   },
   "Joy Boy: a Tribute to Julius Eastman|2026": {
     "lbxd": {
@@ -69766,7 +69774,8 @@
       "https://image.tmdb.org/t/p/w1280/5e6Z7Ey5s7NsX58cZgckLDs1b6U.jpg",
       "https://image.tmdb.org/t/p/w1280/5ys9JbxaJ0EW1OIIoBSKh56MMEr.jpg"
     ],
-    "tmdb_id": "1541560"
+    "tmdb_id": "1541560",
+    "wiki_tries": 1
   },
   "Bugis Street|1995": {
     "lbxd": {
@@ -70039,7 +70048,8 @@
       "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
       "https://image.tmdb.org/t/p/w1280/1Q8Kby0AWy70kvjvWRQBUpBXal2.jpg"
     ],
-    "tmdb_id": "1200753"
+    "tmdb_id": "1200753",
+    "wiki_tries": 1
   },
   "Hotel Monterey|1973": {
     "lbxd": {
@@ -70106,7 +70116,8 @@
       "https://image.tmdb.org/t/p/w1280/exJCiVh6E1sVta1l1tP0Ov5FQ1n.jpg",
       "https://image.tmdb.org/t/p/w1280/eMy74ws3Uesvw42qUPfZ3fBaZGs.jpg"
     ],
-    "tmdb_id": "108831"
+    "tmdb_id": "108831",
+    "wiki_tries": 1
   },
   "A TABLE FOR TWO|2022": {
     "lbxd": null,
@@ -70116,43 +70127,43 @@
     "dir_checked": true,
     "stills": null
   },
-  "La belle année|None": {
+  "Papaya|2026": {
     "lbxd": {
-      "rating": 3.46,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/4/6/1467546-la-belle-annee-0-500-0-750-crop.jpg?v=f9206292be",
-      "description": "Revisiting a teenage crush on a female teacher, Angelica Ruffier embarks on a delicate journey of memory and desire. A finely woven, reflective essay on past longings and present selves infused with the subtle glamour of French cinema.",
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/3/1409023-papaya-2025-0-500-0-750-crop.jpg?v=8894f9a534",
+      "description": "Passionate about flying, a tiny papaya seed in the Amazonian forest must keep moving to avoid rooting. Through perseverance, she discovers the power of her roots, triggering a revolution that transforms her world and fulfills her dreams in an unexpected way.",
       "genres": [
-        "Documentary"
+        "Animation"
       ],
-      "country": "Sweden",
-      "lb_director": "Angelica Ruffier",
-      "lb_director_slug": "angelica-ruffier",
+      "country": "Brazil",
+      "lb_director": "Priscilla Kellen",
+      "lb_director_slug": "priscilla-kellen",
       "lb_year": 2026,
-      "lb_title": "La belle année",
+      "lb_title": "Papaya",
       "backdrop": null,
-      "imdb_id": "tt30958418",
-      "tmdb_id": "1599208"
+      "imdb_id": "tt38350704",
+      "tmdb_id": "1534205"
     },
     "omdb": {
-      "Title": "La Belle Année",
-      "Year": "2026",
+      "Title": "Papaya",
+      "Year": "2025",
       "Rated": "N/A",
-      "Released": "17 Apr 2026",
-      "Runtime": "95 min",
-      "Genre": "Documentary",
-      "Director": "Angelica Ruffier",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "While emptying her childhood home after the death of her father, Angelica reminisces an intense and solitary love she had as teenager.",
-      "Language": "Swedish, French",
-      "Country": "Sweden",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNzVjOGEtNjc5Mi00YWFhLWFlNTUtMjYyZGZjZjdkNTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Released": "14 Sep 2025",
+      "Runtime": "74 min",
+      "Genre": "Animation",
+      "Director": "Priscilla Kellen",
+      "Writer": "Priscilla Kellen, Patricia Oriolo",
+      "Actors": "Aretha Garcia Rollo, Tulipa Ruiz",
+      "Plot": "A small Amazon seed yearns to fly and stays in motion to prevent rooting. When she finally discovers what her roots can truly do, she sparks a change that reshapes her world and realizes her dream differently.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVmNzhlYzgtZjU4OS00YWRiLTg0MmYtZmEwYWRjZTU1YmE3XkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt30958418",
+      "imdbVotes": "10",
+      "imdbID": "tt38350704",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -70164,136 +70175,56 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
+      36.6,
       41.3,
-      39.9,
-      46.3
+      44.9
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
-      "https://image.tmdb.org/t/p/w1280/fwKaYOTsaaxFKuyAJG16Q0aNGBb.jpg",
-      "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
+      "https://image.tmdb.org/t/p/w1280/vB6k4sY7n2lVMtr88EHdBaYa36I.jpg",
+      "https://image.tmdb.org/t/p/w1280/lg9tzHp7QqmM8lXlHYAuIru6w5W.jpg",
+      "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
     ],
-    "tmdb_id": "1599208"
+    "tmdb_id": "1534205"
   },
-  "Prosecution|None": {
+  "En el Camino|2025": {
     "lbxd": {
-      "rating": 3.65,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
-      "description": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/1/1393051-on-the-road-2025-2-0-500-0-750-crop.jpg?v=a254fd20a5",
+      "description": "Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.",
       "genres": [
-        "Thriller"
+        "Thriller",
+        "Drama",
+        "Crime"
       ],
-      "country": "Germany",
-      "lb_director": "Faraz Shariat",
-      "lb_director_slug": "faraz-shariat",
-      "lb_year": 2026,
-      "lb_title": "Prosecution",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/85/z2/3y/h2/8HWczDBlKFMryrpHEukzLBFhuAt-1920-1920-1080-1080-crop-000000.jpg?v=17f261b82c",
-      "imdb_id": "tt39213126",
-      "tmdb_id": "1599784"
+      "country": "Mexico",
+      "lb_director": "David Pablos",
+      "lb_director_slug": "david-pablos",
+      "lb_year": 2025,
+      "lb_title": "On the Road",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/3/0/5/1/tmdb/5HuHvXKpTrOr2jPceLLC5wyg0Fx-1920-1920-1080-1080-crop-000000.jpg?v=cc37d1219a",
+      "imdb_id": "tt37660509",
+      "tmdb_id": "1517123"
     },
     "omdb": {
-      "Title": "Prosecution",
-      "Year": "2022–",
+      "Title": "En el camino",
+      "Year": "2025",
       "Rated": "N/A",
-      "Released": "15 Oct 2022",
-      "Runtime": "N/A",
-      "Genre": "Crime",
-      "Director": "N/A",
+      "Released": "N/A",
+      "Runtime": "93 min",
+      "Genre": "N/A",
+      "Director": "David Pablos",
       "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "Chinese",
-      "Country": "China",
-      "Awards": "N/A",
+      "Actors": "Victor Prieto Simental, Osvaldo Sanchez",
+      "Plot": "A drifter who sleeps with truckers meets a reserved driver and joins him hauling freight across northern Mexico. As they grow closer on the road, the drifter's past threatens them both.",
+      "Language": "Spanish",
+      "Country": "Mexico, France",
+      "Awards": "1 nomination total",
       "Poster": "N/A",
       "Ratings": [],
       "Metascore": "N/A",
       "imdbRating": "N/A",
       "imdbVotes": "N/A",
-      "imdbID": "tt21348678",
-      "Type": "series",
-      "totalSeasons": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      39.0,
-      32.5,
-      38.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
-      "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
-      "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
-    ],
-    "tmdb_id": "1599784"
-  },
-  "Ocaña, Retrato Intermitente|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Curtas 1 | Queer Lisboa 30|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Public Access|None": {
-    "lbxd": {
-      "rating": 3.1,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/4/8/6/63486-public-access-0-500-0-750-crop.jpg?v=553ea49cdb",
-      "description": "Brewster seems to be an almost too perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"what's wrong with Brewster?\", there surely can't be any deep dark secrets in the town that are just waiting to come to the surface - or can there? And when the question becomes \"who's wrong with Brewster?\" things start getting seriously nasty.",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "country": "USA",
-      "lb_director": "Bryan Singer",
-      "lb_director_slug": "bryan-singer",
-      "lb_year": 1993,
-      "lb_title": "Public Access",
-      "backdrop": null,
-      "imdb_id": "tt0107895",
-      "tmdb_id": "77064"
-    },
-    "omdb": {
-      "Title": "Public Access",
-      "Year": "1993",
-      "Rated": "R",
-      "Released": "29 Mar 1997",
-      "Runtime": "90 min",
-      "Genre": "Drama, Thriller",
-      "Director": "Bryan Singer",
-      "Writer": "Christopher McQuarrie, Bryan Singer, Michael Feit Dougan",
-      "Actors": "Ron Marquette, Bert Williams, Leigh Hunt",
-      "Plot": "Brewster seems to be an almost too-perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"What's wrong wi...",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "3 wins",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4N2Q5OGQtODE3ZS00ZTM3LWFlODUtZTFlYzkxYWMzYzk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "5.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "64%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "5.2",
-      "imdbVotes": "995",
-      "imdbID": "tt0107895",
+      "imdbID": "tt37660509",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -70301,96 +70232,23 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "On the Road (2025 Mexican film)",
+      "imdb_id": "tt37660509",
+      "extract_pt": "En el camino é um filme mexicano de romance e suspense de 2025 escrito e dirigido por David Pablos. É estrelado por Victor Prieto e Osvaldo Sanchez.\nO filme teve sua estreia mundial na seção Orizzonti do 82º Festival Internacional de Cinema de Veneza em 4 de setembro de 2025, onde ganhou o prêmio principal da seção e o Queer Lion. Também foi selecionado como o representante mexicano para Melhor Filme Internacional no 99º Oscar."
+    },
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      28.7,
-      22.8,
-      23.0
+      38.9,
+      24.0,
+      36.3
     ],
     "stills": [
-      "https://image.tmdb.org/t/p/w1280/6uwUbeoYUB9uQX3Qy0iS9ghyUF5.jpg",
-      "https://image.tmdb.org/t/p/w1280/4pyYzswLBj7G5rbgcmZT0mVXyUj.jpg",
-      "https://image.tmdb.org/t/p/w1280/XrfHLAfACVGWjrHoaDXGCLjZvI.jpg"
+      "https://image.tmdb.org/t/p/w1280/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+      "https://image.tmdb.org/t/p/w1280/rG4l5ICADDRUduB7MnehoZCdmBP.jpg",
+      "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
     ],
-    "tmdb_id": "77064"
-  },
-  "Conversa Com Paulo Branco|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Mais ecos do TAXI DRIVER, ou não se tratasse também do reencontro entre Scorsese e um argumento escrito por Paul Schrader. Um “ambulance driver” agora, porque condutor de ambulâncias através da noite nova-iorquina é a atividade do protagonista, um Nicolas Cage excelente (algo que ele é frequentemente, ao contrário do que dizem as más línguas). O filme também é excelente, muitíssimo “atmosférico”, cheio de angústias e sombreados morais sem qualquer linearidade ou clareza telegrafadas, e tem ainda a característica de ter sido possivelmente a última vez em que Scorsese apostou num “tom menor”, numa altura em que os sinais exteriores de “grandiosidade” se tornavam a norma do seu cinema: será, mesmo, o último “pequeno filme” (também como operação de produção) na obra do seu realizador."
-    },
-    "dir_checked": true,
-    "stills": null
-  },
-  "Branca De Neve|2000": {
-    "lbxd": {
-      "rating": 3.56,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/6/4/8/69648-snow-white-2000-0-500-0-750-crop.jpg?v=9a9be70f03",
-      "description": "Monteiro moved far away from the visual opulence defined by his earlier films with his inspired adaptation of radical Swiss writer Robert Walser’s anti-fairy tale. Carefully restricting the image track, Monteiro maintains an almost totally black screen in order to focus instead on the voices of Snow White, the Prince, the Queen and the Hunter, engaged in an extended debate about love, free will and the events leading up to the fateful attempt on the maiden’s life. Despite its visual austerity, Snow White is haunted by the arresting images with which it begins – infamous black-and-white photographs of Walser lying dead in the snow after his heart attack outside a Swiss asylum at the age of seventy-eight, a strange realization of the “death of the author” so central to postmodern literary criticism.",
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "country": "Portugal",
-      "lb_director": "João César Monteiro",
-      "lb_director_slug": "joao-cesar-monteiro",
-      "lb_year": 2000,
-      "lb_title": "Snow White",
-      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/6/9/6/4/8/tmdb/15Q2rJkZ09AGdxZWXLeXhuSuMMP-1920-1920-1080-1080-crop-000000.jpg?v=5197af7c3c",
-      "imdb_id": "tt0267155",
-      "tmdb_id": "83225"
-    },
-    "omdb": {
-      "Title": "Branca de Neve",
-      "Year": "2000",
-      "Rated": "N/A",
-      "Released": "04 Sep 2000",
-      "Runtime": "75 min",
-      "Genre": "Drama",
-      "Director": "João César Monteiro",
-      "Writer": "Robert Walser, João César Monteiro",
-      "Actors": "Maria Do Carmo Rôlo, Ana Brandão, Reginaldo da Cruz",
-      "Plot": "Based on Robert Walser's play, Branca de Neve is a recital of Snow White over a black screen with spontaneous flashing images of clouds and some unintelligible dialogue.",
-      "Language": "Portuguese",
-      "Country": "Portugal",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTYzMzAwOV5BMl5BanBnXkFtZTYwNjAwODc5._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "4.9/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "4.9",
-      "imdbVotes": "437",
-      "imdbID": "tt0267155",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {
-      "plot_pt": "Mais ecos do TAXI DRIVER, ou não se tratasse também do reencontro entre Scorsese e um argumento escrito por Paul Schrader. Um “ambulance driver” agora, porque condutor de ambulâncias através da noite nova-iorquina é a atividade do protagonista, um Nicolas Cage excelente (algo que ele é frequentemente, ao contrário do que dizem as más línguas). O filme também é excelente, muitíssimo “atmosférico”, cheio de angústias e sombreados morais sem qualquer linearidade ou clareza telegrafadas, e tem ainda a característica de ter sido possivelmente a última vez em que Scorsese apostou num “tom menor”, numa altura em que os sinais exteriores de “grandiosidade” se tornavam a norma do seu cinema: será, mesmo, o último “pequeno filme” (também como operação de produção) na obra do seu realizador."
-    },
-    "dir_checked": true,
-    "stills_focus": [
-      34.2,
-      38.6,
-      44.7
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/5iKOnGqXUpzuy7eatvVD5CcxTPP.jpg",
-      "https://image.tmdb.org/t/p/w1280/ltNH5ReVxt4KEqDuDIcMw0HPOmG.jpg",
-      "https://image.tmdb.org/t/p/w1280/ppuavePc8VzaxuMW0LSwUOoNcx0.jpg"
-    ],
-    "tmdb_id": "83225"
+    "tmdb_id": "1517123"
   }
 }

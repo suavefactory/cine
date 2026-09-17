@@ -237,8 +237,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/myDk8L1B50vIXfl28V1wSWqc4Lz.jpg"
       ],
       "stills_focus": [
-        47.6,
-        44.8
+        48.3,
+        45.0
       ],
       "country": "Sweden",
       "director_lbxd_slug": "ester-martin-bergsmark"
@@ -263,10 +263,21 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "year": 2021,
-      "plot": "Luna's Grandpa blames her for her father's death, said to have been caused by leptospirosis from intermingling with her poor mother. As the past continues to haunt Luna, she summons a most dreadful visitor into their home.",
-      "country": "Philippines",
-      "director_lbxd_slug": "timmy-harn"
+      "year": 2026,
+      "plot": "Passionate about flying, a tiny papaya seed in the Amazonian forest must keep moving to avoid rooting. Through perseverance, she discovers the power of her roots, triggering a revolution that transforms her world and fulfills her dreams in an unexpected way.",
+      "country": "Brazil",
+      "director_lbxd_slug": "timmy-harn",
+      "rating": 3.44,
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/vB6k4sY7n2lVMtr88EHdBaYa36I.jpg",
+        "https://image.tmdb.org/t/p/w1280/lg9tzHp7QqmM8lXlHYAuIru6w5W.jpg",
+        "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
+      ],
+      "stills_focus": [
+        36.6,
+        41.3,
+        44.9
+      ]
     },
     {
       "id": "sao_jorge_11824",
@@ -292,10 +303,15 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/1rofxa5giAv02QZKQSqnRB5Bpxj.jpg"
       ],
       "stills_focus": [
-        40.2
+        38.9,
+        24.0,
+        36.3
       ],
       "country": "Mexico",
-      "director_lbxd_slug": "uriel-reyes"
+      "director_lbxd_slug": "uriel-reyes",
+      "rating": 3.51,
+      "title_en": "On the Road",
+      "plot_pt": "En el camino é um filme mexicano de romance e suspense de 2025 escrito e dirigido por David Pablos. É estrelado por Victor Prieto e Osvaldo Sanchez.\nO filme teve sua estreia mundial na seção Orizzonti do 82º Festival Internacional de Cinema de Veneza em 4 de setembro de 2025, onde ganhou o prêmio principal da seção e o Queer Lion. Também foi selecionado como o representante mexicano para Melhor Filme Internacional no 99º Oscar."
     },
     {
       "id": "sao_jorge_11821",
@@ -1129,9 +1145,9 @@ window.CINEMA_DATA = {
       "director": "Jules Rosskam",
       "duration": 107,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/2/2/9/8/1152298-desire-lines-0-500-0-750-crop.jpg?v=58f53d37d6",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
       "genres": [
-        "Drama"
+        "Thriller"
       ],
       "link": "https://cinemasaojorge.pt/evento/desire-lines/",
       "sessions": [
@@ -1141,21 +1157,22 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 2.95,
-      "year": 2025,
-      "plot": "Branko dwells on the fringes of Belgrade society. Isolated and unable to sleep, he speaks to no-one. His only obsession seems to be his younger brother, whose muddy shoes, bloodstained sheets, and murky whereabouts unsettle him. As paranoia sets in, Branko realises his brother isn't the strange one. He is.",
+      "rating": 3.65,
+      "year": 2026,
+      "plot": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/2fTrY26RsoVmw7xrik6rLaJ8H8V.jpg",
-        "https://image.tmdb.org/t/p/w1280/beledFmdx6QFtdt5Le4SBYnfUKB.jpg",
-        "https://image.tmdb.org/t/p/w1280/hnSFlSEpa3SGH9J9fl8pKjW2kCt.jpg"
+        "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
+        "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
+        "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
       ],
       "stills_focus": [
-        35.5,
-        32.7,
-        66.1
+        39.0,
+        32.5,
+        38.6
       ],
-      "country": "Bosnia and Herzegovina",
-      "director_lbxd_slug": "dane-komljen"
+      "country": "Germany",
+      "director_lbxd_slug": "dane-komljen",
+      "title_en": "Prosecution"
     },
     {
       "id": "sao_jorge_11753",
@@ -1823,7 +1840,7 @@ window.CINEMA_DATA = {
         "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
       ],
       "stills_focus": [
-        25.1,
+        25.2,
         54.9
       ],
       "country": "Canada",
@@ -4647,6 +4664,39 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "jane-schoenbrun"
+    },
+    {
+      "id": "nimas_algumas-viuvas-de-noirmoutier-2006",
+      "title": "Algumas Viúvas de Noirmoutier",
+      "director": "Agnès Varda",
+      "year": 2006,
+      "duration": 69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/1/0/7/5/251075-quelques-veuves-de-noirmoutier-0-500-0-750-crop.jpg?v=ed43178353",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/algumas-viuvas-de-noirmoutier-2006",
+      "sessions": [
+        {
+          "date": "2026-09-25",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.62,
+      "plot": "A documentary film directed by French Agnès Varda as an extension of the exhibition 'L'île et elle'. The installation 'Les veuves de Noirmoutier' (or 'The Widows of Noirmoutier') had various women filmed by Varda, young and old, who spoke about their widowhood and their residence on the island of Noirmoutier. The film is a montage of these meetings, which are both simple and melancholic.",
+      "plot_pt": "As conversas íntimas entre Agnès Varda e as viúvas de Noirmoutier (a pequena ilha que Varda e Demy escolheram como segunda casa) dão voz aos seus sentimentos e memórias passadas. Varda aborda as suas histórias com a empatia que a define, concebendo retratos complexos e sensíveis destas mulheres enquanto navegam pela alegria e pelo amor, pela angústia e pela dor. Ao mesmo tempo, Varda dá-nos a ver o seu próprio luto, num filme que capta a dimensão sensível da intimidade. Quelques Veuves de Noirmoutier foi realizado como um prolongamento da instalação-vídeo homónima, apresentada na Galeria Martine Aboucaya no início de 2005 e, no ano seguinte, na Fondation Cartier, no âmbito da exposição L''Île et Elle.",
+      "title_en": "Some Widows of Noirmoutier",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/jcSVzzwGB1E9IrNsIAEIPZycipr.jpg",
+        "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
+      ],
+      "stills_focus": [
+        53.5,
+        38.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
     },
     {
       "id": "nimas_a-opera-mouffe-1958",
@@ -8587,7 +8637,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
       ],
       "stills_focus": [
-        36.0
+        37.3
       ],
       "director_lbxd_slug": "liliane-de-kermadec"
     },
@@ -8684,7 +8734,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
       ],
       "stills_focus": [
-        33.3
+        33.4
       ],
       "director_lbxd_slug": "joao-canijo"
     },
@@ -8843,7 +8893,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
       ],
       "stills_focus": [
-        29.6
+        29.3
       ],
       "director_lbxd_slug": "paulo-rocha-1"
     },
@@ -9790,7 +9840,7 @@ window.CINEMA_DATA = {
       ],
       "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/dDKy6eWfzaPgXZ2MOIn6tLuM9F2.jpg"
+        "https://image.tmdb.org/t/p/w1280/sGZJGECzPhABKX37xtwWOznGgFT.jpg"
       ],
       "stills_focus": [
         61.3
