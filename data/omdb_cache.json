@@ -6648,7 +6648,7 @@
       "https://image.tmdb.org/t/p/w1280/5EzaY8pYajKvmDoTF2f7HPxCQWF.jpg"
     ],
     "tmdb_id": "354388",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Don’t Raise The Bridge, Lower The River|1968": {
     "lbxd": {
@@ -62278,7 +62278,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      28.0
+      28.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2k0ucU3bzj5pav3nciKN8dAcPkq.jpg"
@@ -63565,7 +63565,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.5
+      36.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/szd1nXObfjY8Co8olPaB9QAnPLA.jpg"
@@ -64722,9 +64722,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      45.7,
-      48.3,
-      42.8
+      45.6,
+      48.4,
+      42.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/1suJwLL3PtmHGA8UIp8dQ2tt03C.jpg",
@@ -64978,8 +64978,8 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      42.3,
-      39.4
+      42.4,
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2EWGt2mqGvytJQWZc8S4aSsFOoe.jpg",
@@ -66817,7 +66817,7 @@
       "https://image.tmdb.org/t/p/w1280/xy5SEU2RyhuiMhovlHrIgBMtXqw.jpg"
     ],
     "tmdb_id": "1214593",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Pédale rurale|2025": {
     "lbxd": {
@@ -68358,7 +68358,7 @@
       "https://image.tmdb.org/t/p/w1280/iZzVCB2sq37gLlfn0d5orhhpwFP.jpg"
     ],
     "tmdb_id": "574638",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Vídeo de Benny|1991": {
     "lbxd": {
@@ -68574,7 +68574,7 @@
       "https://image.tmdb.org/t/p/w1280/uYELb6PK7GUtiOXOYJ7oIf9AZdd.jpg"
     ],
     "tmdb_id": "104739",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Golden Eighties|1986": {
     "lbxd": {
@@ -68644,7 +68644,7 @@
       "https://image.tmdb.org/t/p/w1280/xMm4gsTCCcvZC7E4IL5wpxeYkG2.jpg"
     ],
     "tmdb_id": "63763",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "News from home|1976": {
     "lbxd": {
@@ -69064,7 +69064,8 @@
       "https://image.tmdb.org/t/p/w1280/lg9tzHp7QqmM8lXlHYAuIru6w5W.jpg",
       "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
     ],
-    "tmdb_id": "1534205"
+    "tmdb_id": "1534205",
+    "wiki_tries": 1
   },
   "En el Camino|2020": {
     "lbxd": {
@@ -69125,7 +69126,8 @@
       "https://image.tmdb.org/t/p/w1280/rG4l5ICADDRUduB7MnehoZCdmBP.jpg",
       "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
     ],
-    "tmdb_id": "1517123"
+    "tmdb_id": "1517123",
+    "wiki_tries": 1
   },
   "Two Mountains Weighing Down my Chest|2026": {
     "lbxd": {
@@ -70249,6 +70251,216 @@
       "https://image.tmdb.org/t/p/w1280/rG4l5ICADDRUduB7MnehoZCdmBP.jpg",
       "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
     ],
-    "tmdb_id": "1517123"
+    "tmdb_id": "77064"
+  },
+  "Conversa Com Paulo Branco|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Mais ecos do TAXI DRIVER, ou não se tratasse também do reencontro entre Scorsese e um argumento escrito por Paul Schrader. Um “ambulance driver” agora, porque condutor de ambulâncias através da noite nova-iorquina é a atividade do protagonista, um Nicolas Cage excelente (algo que ele é frequentemente, ao contrário do que dizem as más línguas). O filme também é excelente, muitíssimo “atmosférico”, cheio de angústias e sombreados morais sem qualquer linearidade ou clareza telegrafadas, e tem ainda a característica de ter sido possivelmente a última vez em que Scorsese apostou num “tom menor”, numa altura em que os sinais exteriores de “grandiosidade” se tornavam a norma do seu cinema: será, mesmo, o último “pequeno filme” (também como operação de produção) na obra do seu realizador."
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Branca De Neve|2000": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/6/4/8/69648-snow-white-2000-0-500-0-750-crop.jpg?v=9a9be70f03",
+      "description": "Monteiro moved far away from the visual opulence defined by his earlier films with his inspired adaptation of radical Swiss writer Robert Walser’s anti-fairy tale. Carefully restricting the image track, Monteiro maintains an almost totally black screen in order to focus instead on the voices of Snow White, the Prince, the Queen and the Hunter, engaged in an extended debate about love, free will and the events leading up to the fateful attempt on the maiden’s life. Despite its visual austerity, Snow White is haunted by the arresting images with which it begins – infamous black-and-white photographs of Walser lying dead in the snow after his heart attack outside a Swiss asylum at the age of seventy-eight, a strange realization of the “death of the author” so central to postmodern literary criticism.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "João César Monteiro",
+      "lb_director_slug": "joao-cesar-monteiro",
+      "lb_year": 2000,
+      "lb_title": "Snow White",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/6/9/6/4/8/tmdb/15Q2rJkZ09AGdxZWXLeXhuSuMMP-1920-1920-1080-1080-crop-000000.jpg?v=5197af7c3c",
+      "imdb_id": "tt0267155",
+      "tmdb_id": "83225"
+    },
+    "omdb": {
+      "Title": "Branca de Neve",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "04 Sep 2000",
+      "Runtime": "75 min",
+      "Genre": "Drama",
+      "Director": "João César Monteiro",
+      "Writer": "Robert Walser, João César Monteiro",
+      "Actors": "Maria Do Carmo Rôlo, Ana Brandão, Reginaldo da Cruz",
+      "Plot": "Based on Robert Walser's play, Branca de Neve is a recital of Snow White over a black screen with spontaneous flashing images of clouds and some unintelligible dialogue.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTYzMzAwOV5BMl5BanBnXkFtZTYwNjAwODc5._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.9",
+      "imdbVotes": "437",
+      "imdbID": "tt0267155",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0267155",
+      "extract_pt": "Branca de Neve é um filme português de 2000, escrito e realizado por João César Monteiro, adaptado da peça homónima do escritor suíço Robert Walser. Caracteriza-se por ser um filme sem imagem, uma projeção a negro com raros e curtos planos inseridos. Estreou no cinema King, em Lisboa, a 10 de novembro de 2000."
+    },
+    "cinema": {
+      "plot_pt": "Mais ecos do TAXI DRIVER, ou não se tratasse também do reencontro entre Scorsese e um argumento escrito por Paul Schrader. Um “ambulance driver” agora, porque condutor de ambulâncias através da noite nova-iorquina é a atividade do protagonista, um Nicolas Cage excelente (algo que ele é frequentemente, ao contrário do que dizem as más línguas). O filme também é excelente, muitíssimo “atmosférico”, cheio de angústias e sombreados morais sem qualquer linearidade ou clareza telegrafadas, e tem ainda a característica de ter sido possivelmente a última vez em que Scorsese apostou num “tom menor”, numa altura em que os sinais exteriores de “grandiosidade” se tornavam a norma do seu cinema: será, mesmo, o último “pequeno filme” (também como operação de produção) na obra do seu realizador."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.2,
+      38.6,
+      44.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/5iKOnGqXUpzuy7eatvVD5CcxTPP.jpg",
+      "https://image.tmdb.org/t/p/w1280/ltNH5ReVxt4KEqDuDIcMw0HPOmG.jpg",
+      "https://image.tmdb.org/t/p/w1280/ppuavePc8VzaxuMW0LSwUOoNcx0.jpg"
+    ],
+    "tmdb_id": "83225",
+    "wiki_tries": 1
+  },
+  "La belle année|2026": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/4/6/1467546-la-belle-annee-0-500-0-750-crop.jpg?v=f9206292be",
+      "description": "Revisiting a teenage crush on a female teacher, Angelica Ruffier embarks on a delicate journey of memory and desire. A finely woven, reflective essay on past longings and present selves infused with the subtle glamour of French cinema.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Sweden",
+      "lb_director": "Angelica Ruffier",
+      "lb_director_slug": "angelica-ruffier",
+      "lb_year": 2026,
+      "lb_title": "La belle année",
+      "backdrop": null,
+      "imdb_id": "tt30958418",
+      "tmdb_id": "1599208"
+    },
+    "omdb": {
+      "Title": "La Belle Année",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Apr 2026",
+      "Runtime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Angelica Ruffier",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "While emptying her childhood home after the death of her father, Angelica reminisces an intense and solitary love she had as teenager.",
+      "Language": "Swedish, French",
+      "Country": "Sweden",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNzVjOGEtNjc5Mi00YWFhLWFlNTUtMjYyZGZjZjdkNTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30958418",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.3,
+      39.9,
+      46.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
+      "https://image.tmdb.org/t/p/w1280/fwKaYOTsaaxFKuyAJG16Q0aNGBb.jpg",
+      "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
+    ],
+    "tmdb_id": "1599208"
+  },
+  "Public Access|1993": {
+    "lbxd": {
+      "rating": 3.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/4/8/6/63486-public-access-0-500-0-750-crop.jpg?v=553ea49cdb",
+      "description": "Brewster seems to be an almost too perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"what's wrong with Brewster?\", there surely can't be any deep dark secrets in the town that are just waiting to come to the surface - or can there? And when the question becomes \"who's wrong with Brewster?\" things start getting seriously nasty.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Bryan Singer",
+      "lb_director_slug": "bryan-singer",
+      "lb_year": 1993,
+      "lb_title": "Public Access",
+      "backdrop": null,
+      "imdb_id": "tt0107895",
+      "tmdb_id": "77064"
+    },
+    "omdb": {
+      "Title": "Public Access",
+      "Year": "1993",
+      "Rated": "R",
+      "Released": "29 Mar 1997",
+      "Runtime": "90 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Bryan Singer",
+      "Writer": "Christopher McQuarrie, Bryan Singer, Michael Feit Dougan",
+      "Actors": "Ron Marquette, Bert Williams, Leigh Hunt",
+      "Plot": "Brewster seems to be an almost too-perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"What's wrong wi...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4N2Q5OGQtODE3ZS00ZTM3LWFlODUtZTFlYzkxYWMzYzk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "64%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "995",
+      "imdbID": "tt0107895",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.7,
+      22.8,
+      23.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/6uwUbeoYUB9uQX3Qy0iS9ghyUF5.jpg",
+      "https://image.tmdb.org/t/p/w1280/4pyYzswLBj7G5rbgcmZT0mVXyUj.jpg",
+      "https://image.tmdb.org/t/p/w1280/XrfHLAfACVGWjrHoaDXGCLjZvI.jpg"
+    ],
+    "tmdb_id": "77064"
   }
 }
