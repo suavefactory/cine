@@ -2061,7 +2061,7 @@
   "Francine Vitagliano": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Ester Martin Bergsmark": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ester_M._Bergsmark.jpg/500px-Ester_M._Bergsmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2081,27 +2081,27 @@
   "Viv Li": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Nicolas Athane, Marco Nguyen": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Elena Oxman": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Janet Baus, Su Friedrich": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Hunter Richards": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Jaume Claret Muxart": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Jaume_Claret_Muxart_at_the_2026_New_Directors_New_Films_festival_02.jpg/500px-Jaume_Claret_Muxart_at_the_2026_New_Directors_New_Films_festival_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2116,12 +2116,12 @@
   "Vijay Gowtham Raju": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Alexis Taillant": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Adam Shankman": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Adam-shankman.jpg/500px-Adam-shankman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2136,7 +2136,7 @@
   "Nong Nhat Quang": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Yorgos Lanthimos": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Yorgos_Lanthimos_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg/500px-Yorgos_Lanthimos_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2146,6 +2146,21 @@
   "Jing Wu": {
     "photo": null,
     "bio": "Chin Woo Athletic Association (simplified Chinese: 精武体育会; traditional Chinese: 精武體育會; pinyin: Jīngwǔ Tǐyùhuì) is an international martial arts organization founded in Shanghai, China, on July 7, 1910, but some sources cite dates in 1909. It has almost over 80 branches based in 30 or more countries worldwide, where it is usually known as an \"athletic association\" or \"federation\".",
+    "tries": 1
+  },
+  "Angelica Ruffier": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Bryan Singer": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822427114066%29_%28cropped%29%282%29.jpg/500px-Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822427114066%29_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Bryan Jay Singer (born September 17, 1965) is an American filmmaker. He is the founder of Bad Hat Harry Productions and has produced almost all of the films he has directed, as well as multiple television series. After graduating from the University of Southern California, Singer directed his first short film, Lion's Den (1988).",
+    "tries": 1
+  },
+  "João César Monteiro": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Joao_Cesar_Monteiro.jpg/500px-Joao_Cesar_Monteiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "João César Monteiro Santos (2 February 1939 – 3 February 2003) was a Portuguese film director, actor, writer and film critic.",
     "tries": 1
   }
 }
