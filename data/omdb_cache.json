@@ -44175,7 +44175,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -63063,7 +63063,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      29.3
+      29.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
@@ -63290,7 +63290,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.2,
+      25.5,
       54.9
     ],
     "stills": [
@@ -65035,7 +65035,7 @@
     "wiki": {
       "title_en": "NAZA (film)",
       "imdb_id": "tt44766123",
-      "extract_pt": "NAZA é um documentário britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorre ao Leão de Ouro. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza."
+      "extract_pt": "NAZA é um documentário britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorreu ao Leão de Ouro, e venceu o Prémio Especial do Júri. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza."
     },
     "cinema": {
       "year": 2026,
@@ -65044,9 +65044,11 @@
     },
     "dir_checked": true,
     "stills_focus": [
+      37.9,
       61.3
     ],
     "stills": [
+      "https://image.tmdb.org/t/p/w1280/8IZ1rgkd0HQRsZ72Dc6Bmz7bgKJ.jpg",
       "https://image.tmdb.org/t/p/w1280/sGZJGECzPhABKX37xtwWOznGgFT.jpg"
     ],
     "tmdb_id": "1755291"
@@ -65111,7 +65113,7 @@
       "https://image.tmdb.org/t/p/w1280/77x7WNxYPvphcXsOPEnUAYnO0wx.jpg"
     ],
     "tmdb_id": "1528501",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Taxi to the Toilet|None": {
     "lbxd": {
@@ -65182,7 +65184,7 @@
       "https://image.tmdb.org/t/p/w1280/tn24Glc8rDxukkeBkI6173LK3II.jpg"
     ],
     "tmdb_id": "35125",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Bound|None": {
     "lbxd": {
@@ -65257,7 +65259,7 @@
       "https://image.tmdb.org/t/p/w1280/e9s3wDLSVTA3y4r5buhkhm5QfeG.jpg"
     ],
     "tmdb_id": "9303",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "LA CARN|None": {
     "lbxd": {
@@ -65389,7 +65391,7 @@
       "https://image.tmdb.org/t/p/w1280/rwgC47QAi2D2vOJSsqxtCy4RXCP.jpg"
     ],
     "tmdb_id": "1520506",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Nuestro Cuerpo Es una Estrella que Se Expande|None": {
     "lbxd": {
@@ -65479,7 +65481,7 @@
       "https://image.tmdb.org/t/p/w1280/xw74V4uM6ipNLtCju6Qnp4OJdku.jpg"
     ],
     "tmdb_id": "1514847",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Uchronia: Parallel Histories of Queer Revolt|None": {
     "lbxd": {
@@ -65581,7 +65583,7 @@
       "https://image.tmdb.org/t/p/w1280/hnSFlSEpa3SGH9J9fl8pKjW2kCt.jpg"
     ],
     "tmdb_id": "1268429",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Curtas 3 | Queer Lisboa 30|None": {
     "lbxd": null,
@@ -65645,7 +65647,7 @@
       "https://image.tmdb.org/t/p/w1280/jwFj1fIxffU6CziBoufDiqNrkKA.jpg"
     ],
     "tmdb_id": "1365181",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "La Gradiva|None": {
     "lbxd": {
@@ -65718,7 +65720,7 @@
       "https://image.tmdb.org/t/p/w1280/w8O8oGu5PGstainGT2mjwV4gNZC.jpg"
     ],
     "tmdb_id": "1154730",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Teenage Sex and Death at Camp Miasma|None": {
     "lbxd": {
@@ -66183,7 +66185,7 @@
       "https://image.tmdb.org/t/p/w1280/7SULaIXhHmHgv3q8UP8bAjt6gu9.jpg"
     ],
     "tmdb_id": "67282",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "It Went With The Sea|2024": {
     "lbxd": {
@@ -66209,7 +66211,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      45.4
+      45.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jSedATgHxi84cKOR7aeWXTxgVdl.jpg"
@@ -67142,7 +67144,7 @@
       "https://image.tmdb.org/t/p/w1280/asHif0ptqTWi6NC1mAflUB45TcR.jpg"
     ],
     "tmdb_id": "1316999",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Un jeune homme de bonne famille|None": {
     "lbxd": {
@@ -67176,7 +67178,7 @@
       "https://image.tmdb.org/t/p/w1280/iXmlDu12oPvDc1AkDyZ16oXVQl0.jpg"
     ],
     "tmdb_id": "1596222",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Sweetness from Nowhere|None": {
     "lbxd": {
@@ -67336,7 +67338,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      40.2
+      40.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/1rofxa5giAv02QZKQSqnRB5Bpxj.jpg"
@@ -67391,13 +67393,13 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      61.5
+      60.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/x3BWvMmeeiMTP4u7MWQ6Bsv0C6Z.jpg"
     ],
     "tmdb_id": "1599790",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Jim Queen|None": {
     "lbxd": {
@@ -67463,7 +67465,7 @@
       "https://image.tmdb.org/t/p/w1280/1WcUj5oKWYuiGcIvTWYFU8D5jsf.jpg"
     ],
     "tmdb_id": "1061798",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "La face cachée de la terre|None": {
     "lbxd": null,
@@ -67540,7 +67542,7 @@
       "https://image.tmdb.org/t/p/w1280/cv8KzfQcTTeC3E33Lg0eGPv4hkx.jpg"
     ],
     "tmdb_id": "1422013",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Lesbian Avengers Eat Fire, Too|None": {
     "lbxd": null,
@@ -67582,7 +67584,7 @@
     "stills_focus": [
       37.7,
       28.0,
-      50.3
+      50.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/vJAPz4IrVTgyaggPNTQ26WntDHH.jpg",
@@ -67663,7 +67665,7 @@
       "https://image.tmdb.org/t/p/w1280/uVTtO3ecjpFjbZ7yW9J8vRO7elt.jpg"
     ],
     "tmdb_id": "7515",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Corren las Liebres|None": {
     "lbxd": {
@@ -67685,7 +67687,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      38.0
+      37.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/aPuWY2zCLemK7550ASVRnql1iP3.jpg"
@@ -67725,14 +67727,14 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      28.7,
-      28.2,
-      40.0
+      28.6,
+      40.0,
+      45.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ewamGmvSRdg7Ve1eoCfSgcaJf7A.jpg",
-      "https://image.tmdb.org/t/p/w1280/c29N12KzEac7IOwVlOln1C08Ntm.jpg",
-      "https://image.tmdb.org/t/p/w1280/3AB6DwOdCF69Wh7DH1OaHNTSJtD.jpg"
+      "https://image.tmdb.org/t/p/w1280/3AB6DwOdCF69Wh7DH1OaHNTSJtD.jpg",
+      "https://image.tmdb.org/t/p/w1280/kIf3AyWzHgGGFLNSkjlVWxcJRrh.jpg"
     ],
     "tmdb_id": "1025389"
   },
@@ -67900,7 +67902,7 @@
       "https://image.tmdb.org/t/p/w1280/9THMq437DAofbPKDcfBaiIUYXEo.jpg"
     ],
     "tmdb_id": "44479",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Blue Film|None": {
     "lbxd": {
@@ -68054,7 +68056,7 @@
       "https://image.tmdb.org/t/p/w1280/5ys9JbxaJ0EW1OIIoBSKh56MMEr.jpg"
     ],
     "tmdb_id": "1541560",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Paixão segundo G.H.B.|None": {
     "lbxd": null,
@@ -68135,7 +68137,7 @@
       "https://image.tmdb.org/t/p/w1280/vRpZDoVbNGxvpdAhnsh5G9WnkuG.jpg"
     ],
     "tmdb_id": "230141",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Amarga Navidad|None": {
     "lbxd": {
@@ -68196,7 +68198,7 @@
       "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
     ],
     "tmdb_id": "1088548",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Baby Jackfruit Baby Guava|None": {
     "lbxd": {
@@ -68506,7 +68508,7 @@
       "https://image.tmdb.org/t/p/w1280/1Q8Kby0AWy70kvjvWRQBUpBXal2.jpg"
     ],
     "tmdb_id": "1200753",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "D’Est|1993": {
     "lbxd": {
@@ -68788,7 +68790,7 @@
       "https://image.tmdb.org/t/p/w1280/eMy74ws3Uesvw42qUPfZ3fBaZGs.jpg"
     ],
     "tmdb_id": "108831",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A TABLE FOR TWO|None": {
     "lbxd": {
@@ -70462,5 +70464,241 @@
       "https://image.tmdb.org/t/p/w1280/XrfHLAfACVGWjrHoaDXGCLjZvI.jpg"
     ],
     "tmdb_id": "77064"
+  },
+  "La belle année|None": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/4/6/1467546-la-belle-annee-0-500-0-750-crop.jpg?v=f9206292be",
+      "description": "Revisiting a teenage crush on a female teacher, Angelica Ruffier embarks on a delicate journey of memory and desire. A finely woven, reflective essay on past longings and present selves infused with the subtle glamour of French cinema.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Sweden",
+      "lb_director": "Angelica Ruffier",
+      "lb_director_slug": "angelica-ruffier",
+      "lb_year": 2026,
+      "lb_title": "La belle année",
+      "backdrop": null,
+      "imdb_id": "tt30958418",
+      "tmdb_id": "1599208"
+    },
+    "omdb": {
+      "Title": "La Belle Année",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Apr 2026",
+      "Runtime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Angelica Ruffier",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "While emptying her childhood home after the death of her father, Angelica reminisces an intense and solitary love she had as teenager.",
+      "Language": "Swedish, French",
+      "Country": "Sweden",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNzVjOGEtNjc5Mi00YWFhLWFlNTUtMjYyZGZjZjdkNTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30958418",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.3,
+      39.9,
+      46.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
+      "https://image.tmdb.org/t/p/w1280/fwKaYOTsaaxFKuyAJG16Q0aNGBb.jpg",
+      "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
+    ],
+    "tmdb_id": "1599208"
+  },
+  "Prosecution|None": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
+      "description": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "Germany",
+      "lb_director": "Faraz Shariat",
+      "lb_director_slug": "faraz-shariat",
+      "lb_year": 2026,
+      "lb_title": "Prosecution",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/85/z2/3y/h2/8HWczDBlKFMryrpHEukzLBFhuAt-1920-1920-1080-1080-crop-000000.jpg?v=17f261b82c",
+      "imdb_id": "tt39213126",
+      "tmdb_id": "1599784"
+    },
+    "omdb": {
+      "Title": "Prosecution",
+      "Year": "2022–",
+      "Rated": "N/A",
+      "Released": "15 Oct 2022",
+      "Runtime": "N/A",
+      "Genre": "Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Chinese",
+      "Country": "China",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt21348678",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      39.0,
+      32.5,
+      38.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
+      "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
+      "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
+    ],
+    "tmdb_id": "1599784"
+  },
+  "Ocaña, Retrato Intermitente|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Curtas 1 | Queer Lisboa 30|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Public Access|None": {
+    "lbxd": {
+      "rating": 3.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/4/8/6/63486-public-access-0-500-0-750-crop.jpg?v=553ea49cdb",
+      "description": "Brewster seems to be an almost too perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"what's wrong with Brewster?\", there surely can't be any deep dark secrets in the town that are just waiting to come to the surface - or can there? And when the question becomes \"who's wrong with Brewster?\" things start getting seriously nasty.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Bryan Singer",
+      "lb_director_slug": "bryan-singer",
+      "lb_year": 1993,
+      "lb_title": "Public Access",
+      "backdrop": null,
+      "imdb_id": "tt0107895",
+      "tmdb_id": "77064"
+    },
+    "omdb": {
+      "Title": "Public Access",
+      "Year": "1993",
+      "Rated": "R",
+      "Released": "29 Mar 1997",
+      "Runtime": "90 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Bryan Singer",
+      "Writer": "Christopher McQuarrie, Bryan Singer, Michael Feit Dougan",
+      "Actors": "Ron Marquette, Bert Williams, Leigh Hunt",
+      "Plot": "Brewster seems to be an almost too-perfect example of idyllic small-town America, with everyone living in peace and harmony. So when newcomer Whiley Pritcher starts up his own local cable TV show with the question \"What's wrong wi...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4N2Q5OGQtODE3ZS00ZTM3LWFlODUtZTFlYzkxYWMzYzk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "64%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "995",
+      "imdbID": "tt0107895",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.7,
+      22.8,
+      23.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/6uwUbeoYUB9uQX3Qy0iS9ghyUF5.jpg",
+      "https://image.tmdb.org/t/p/w1280/4pyYzswLBj7G5rbgcmZT0mVXyUj.jpg",
+      "https://image.tmdb.org/t/p/w1280/XrfHLAfACVGWjrHoaDXGCLjZvI.jpg"
+    ],
+    "tmdb_id": "77064"
+  },
+  "No Other Land|2024": {
+    "lbxd": {
+      "rating": 4.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/5/8/7/4/1115874-no-other-land-0-500-0-750-crop.jpg?v=7a96e00fce",
+      "description": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Norway",
+      "lb_director": "Rachel Szor",
+      "lb_director_slug": "rachel-szor",
+      "lb_year": 2024,
+      "lb_title": "No Other Land",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/b8/w7/es/1a/8FNqLsZfkqvGXWDupWUj359iMwc-1920-1920-1080-1080-crop-000000.jpg?v=9f45914c75",
+      "imdb_id": "tt30953759",
+      "tmdb_id": "1232493"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2024,
+      "plot_pt": "Um ato de resistência criativa na procura de justiça para o conflito israelo-palestiniano. Mergulha num conflito histórico no seu pior, num filme que tem camadas, humanidade e toda a esperança que se pode ter neste momento. Basel Adra, um jovem ativista palestiniano de Masafer Yatta, na Cisjordânia, luta desde a infância contra a expulsão em massa da sua comunidade pelas autoridades israelitas."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.8,
+      28.0,
+      43.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bBleQSVXH97a0G2oF9MDAYCOlLG.jpg",
+      "https://image.tmdb.org/t/p/w1280/ec0AmoeGrNhKmuClneuffW9YvGz.jpg",
+      "https://image.tmdb.org/t/p/w1280/8FNqLsZfkqvGXWDupWUj359iMwc.jpg"
+    ],
+    "tmdb_id": "1232493"
   }
 }

@@ -2151,7 +2151,7 @@
   "Angelica Ruffier": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Bryan Singer": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822427114066%29_%28cropped%29%282%29.jpg/500px-Brian_Singer_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822427114066%29_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2161,6 +2161,11 @@
   "João César Monteiro": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Joao_Cesar_Monteiro.jpg/500px-Joao_Cesar_Monteiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "João César Monteiro Santos (2 February 1939 – 3 February 2003) was a Portuguese film director, actor, writer and film critic.",
+    "tries": 1
+  },
+  "Yuval Abraham, Basel Adra, Hamdan ballal, Rachel Szor": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }
