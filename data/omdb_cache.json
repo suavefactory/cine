@@ -38638,7 +38638,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -43378,7 +43378,7 @@
     "stills_focus": [
       30.9,
       29.3,
-      30.1
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yA2fl30o2FkaGItuggq6eRhRZFp.jpg",
@@ -43443,7 +43443,7 @@
     "tmdb_id": "460646",
     "wiki_tries": 3,
     "stills_focus": [
-      37.2
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
@@ -43635,7 +43635,7 @@
     "tmdb_id": "295039",
     "wiki_tries": 3,
     "stills_focus": [
-      51.4
+      50.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
@@ -43829,8 +43829,8 @@
     "tmdb_id": "1375097",
     "wiki_tries": 3,
     "stills_focus": [
-      30.3,
-      40.6
+      30.2,
+      40.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
@@ -44175,7 +44175,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -63290,7 +63290,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.1,
+      25.5,
       54.9
     ],
     "stills": [
@@ -63565,7 +63565,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.5
+      36.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/szd1nXObfjY8Co8olPaB9QAnPLA.jpg"
@@ -64722,9 +64722,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      45.7,
-      48.3,
-      42.8
+      45.6,
+      48.4,
+      42.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/1suJwLL3PtmHGA8UIp8dQ2tt03C.jpg",
@@ -65514,7 +65514,7 @@
   "Uchronia: Parallel Histories of Queer Revolt|None": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/1/6/2/1485162-uchronia-2026-0-500-0-750-crop.jpg?v=a6f4eabe99",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/1/6/2/1485162-uchronia-2026-0-500-0-750-crop.jpg?v=17d65897d3",
       "description": "A psychedelic docu-essay, inspired by Arthur Rimbaud’s visionary poem Une Saison en Enfer, in which the poet’s ghost travels through history, encountering revolutionary figures and queer ‘freaks’ such as Emma Goldman, David Wojnarowicz, and Marsha P. Johnson. These encounters form a multilayered collage that interrogates identity, the meaning of revolution, and the role of the artist in shaping radical histories and collective imaginaries.",
       "genres": [
         "Fantasy",
@@ -70599,7 +70599,11 @@
       "tmdb_id": "1232493"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "No Other Land",
+      "imdb_id": "tt30953759",
+      "extract_pt": "No Other Land é um documentário de 2024 dirigido por Basel Adra, Hamdan Ballal, Yuval Abraham e Rachel Szor, todos estreantes como diretores. O filme foi feito por um coletivo palestino-israelense de quatro ativistas no que eles descrevem como um ato de resistência no caminho para a justiça durante o conflito em curso na região.\nUma coprodução de Palestina e Noruega, o filme foi selecionado para a seção Panorama do 74º Festival Internacional de Cinema de Berlim, onde teve sua estreia mundial em 16 de fevereiro de 2024, ganhando o Prêmio do Público Panorama de Melhor Documentário, e o Prêmio de Documentário da Berlinale.\nEm 17 de dezembro de 2024, o filme foi pré-selecionado para o 97º Oscar de Melhor Documentário."
+    },
     "cinema": {
       "year": 2024,
       "plot_pt": "Um ato de resistência criativa na procura de justiça para o conflito israelo-palestiniano. Mergulha num conflito histórico no seu pior, num filme que tem camadas, humanidade e toda a esperança que se pode ter neste momento. Basel Adra, um jovem ativista palestiniano de Masafer Yatta, na Cisjordânia, luta desde a infância contra a expulsão em massa da sua comunidade pelas autoridades israelitas."
@@ -70615,6 +70619,122 @@
       "https://image.tmdb.org/t/p/w1280/ec0AmoeGrNhKmuClneuffW9YvGz.jpg",
       "https://image.tmdb.org/t/p/w1280/8FNqLsZfkqvGXWDupWUj359iMwc.jpg"
     ],
-    "tmdb_id": "1232493"
+    "tmdb_id": "1232493",
+    "wiki_tries": 1
+  },
+  "La belle année|None": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/4/6/1467546-la-belle-annee-0-500-0-750-crop.jpg?v=f9206292be",
+      "description": "Revisiting a teenage crush on a female teacher, Angelica Ruffier embarks on a delicate journey of memory and desire. A finely woven, reflective essay on past longings and present selves infused with the subtle glamour of French cinema.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Sweden",
+      "lb_director": "Angelica Ruffier",
+      "lb_director_slug": "angelica-ruffier",
+      "lb_year": 2026,
+      "lb_title": "La belle année",
+      "backdrop": null,
+      "imdb_id": "tt30958418",
+      "tmdb_id": "1599208"
+    },
+    "omdb": {
+      "Title": "La Belle Année",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Apr 2026",
+      "Runtime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Angelica Ruffier",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "While emptying her childhood home after the death of her father, Angelica reminisces an intense and solitary love she had as teenager.",
+      "Language": "Swedish, French",
+      "Country": "Sweden",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNzVjOGEtNjc5Mi00YWFhLWFlNTUtMjYyZGZjZjdkNTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30958418",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.3,
+      39.9,
+      46.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
+      "https://image.tmdb.org/t/p/w1280/fwKaYOTsaaxFKuyAJG16Q0aNGBb.jpg",
+      "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
+    ],
+    "tmdb_id": "1599208"
+  },
+  "Prosecution|None": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
+      "description": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "Germany",
+      "lb_director": "Faraz Shariat",
+      "lb_director_slug": "faraz-shariat",
+      "lb_year": 2026,
+      "lb_title": "Prosecution",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/85/z2/3y/h2/8HWczDBlKFMryrpHEukzLBFhuAt-1920-1920-1080-1080-crop-000000.jpg?v=17f261b82c",
+      "imdb_id": "tt39213126",
+      "tmdb_id": "1599784"
+    },
+    "omdb": {
+      "Title": "Prosecution",
+      "Year": "2022–",
+      "Rated": "N/A",
+      "Released": "15 Oct 2022",
+      "Runtime": "N/A",
+      "Genre": "Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Chinese",
+      "Country": "China",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt21348678",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      39.0,
+      32.5,
+      38.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
+      "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
+      "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
+    ],
+    "tmdb_id": "1599784"
   }
 }
