@@ -211,10 +211,21 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "year": 2021,
-      "plot": "Luna's Grandpa blames her for her father's death, said to have been caused by leptospirosis from intermingling with her poor mother. As the past continues to haunt Luna, she summons a most dreadful visitor into their home.",
-      "country": "Philippines",
-      "director_lbxd_slug": "timmy-harn"
+      "year": 2026,
+      "plot": "Passionate about flying, a tiny papaya seed in the Amazonian forest must keep moving to avoid rooting. Through perseverance, she discovers the power of her roots, triggering a revolution that transforms her world and fulfills her dreams in an unexpected way.",
+      "country": "Brazil",
+      "director_lbxd_slug": "timmy-harn",
+      "rating": 3.44,
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/vB6k4sY7n2lVMtr88EHdBaYa36I.jpg",
+        "https://image.tmdb.org/t/p/w1280/lg9tzHp7QqmM8lXlHYAuIru6w5W.jpg",
+        "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
+      ],
+      "stills_focus": [
+        36.8,
+        41.3,
+        44.8
+      ]
     },
     {
       "id": "sao_jorge_11824",
@@ -240,10 +251,15 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/1rofxa5giAv02QZKQSqnRB5Bpxj.jpg"
       ],
       "stills_focus": [
-        40.3
+        38.9,
+        24.0,
+        36.3
       ],
       "country": "Mexico",
-      "director_lbxd_slug": "uriel-reyes"
+      "director_lbxd_slug": "uriel-reyes",
+      "rating": 3.51,
+      "title_en": "On the Road",
+      "plot_pt": "En el camino é um filme mexicano de romance e suspense de 2025 escrito e dirigido por David Pablos. É estrelado por Victor Prieto e Osvaldo Sanchez.\nO filme teve sua estreia mundial na seção Orizzonti do 82º Festival Internacional de Cinema de Veneza em 4 de setembro de 2025, onde ganhou o prêmio principal da seção e o Queer Lion. Também foi selecionado como o representante mexicano para Melhor Filme Internacional no 99º Oscar."
     },
     {
       "id": "sao_jorge_11821",
@@ -1079,9 +1095,9 @@ window.CINEMA_DATA = {
       "director": "Jules Rosskam",
       "duration": 107,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/2/2/9/8/1152298-desire-lines-0-500-0-750-crop.jpg?v=58f53d37d6",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
       "genres": [
-        "Drama"
+        "Thriller"
       ],
       "link": "https://cinemasaojorge.pt/evento/desire-lines/",
       "sessions": [
@@ -1091,21 +1107,22 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 2.95,
-      "year": 2025,
-      "plot": "Branko dwells on the fringes of Belgrade society. Isolated and unable to sleep, he speaks to no-one. His only obsession seems to be his younger brother, whose muddy shoes, bloodstained sheets, and murky whereabouts unsettle him. As paranoia sets in, Branko realises his brother isn't the strange one. He is.",
+      "rating": 3.65,
+      "year": 2026,
+      "plot": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/2fTrY26RsoVmw7xrik6rLaJ8H8V.jpg",
-        "https://image.tmdb.org/t/p/w1280/beledFmdx6QFtdt5Le4SBYnfUKB.jpg",
-        "https://image.tmdb.org/t/p/w1280/hnSFlSEpa3SGH9J9fl8pKjW2kCt.jpg"
+        "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
+        "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
+        "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
       ],
       "stills_focus": [
-        35.5,
-        32.7,
-        66.1
+        39.0,
+        32.5,
+        38.6
       ],
-      "country": "Bosnia and Herzegovina",
-      "director_lbxd_slug": "dane-komljen"
+      "country": "Germany",
+      "director_lbxd_slug": "dane-komljen",
+      "title_en": "Prosecution"
     },
     {
       "id": "sao_jorge_11753",
@@ -1405,7 +1422,7 @@ window.CINEMA_DATA = {
         "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
       ],
       "stills_focus": [
-        25.5,
+        25.2,
         54.9
       ],
       "country": "Canada",
@@ -9426,6 +9443,16 @@ window.CINEMA_DATA = {
       "lbxd_slug": "mikhail-kalatozov",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg/500px-Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Mikhail Konstantinovich Kalatozov (Georgian: მიხეილ კალატოზიშვილი, Russian: Михаил Константинович Калатозов; 28 December 1903 – 26 March 1973), born Mikheil Kalatozishvili, was a Soviet film director of Georgian origin who contributed to both Georgian and Russian cinema. He is known for his films The Cranes Are Flying and I Am Cuba, winning the Palme d'Or for the former at the 1958 Cannes Film Festival."
+    },
+    "Rossana Torres e Hiroatsu Suzuki": {
+      "lbxd_slug": "hiroatsu-suzuki",
+      "photo": null,
+      "bio": null
+    },
+    "Jing Wu": {
+      "lbxd_slug": "kim-bo-ram",
+      "photo": null,
+      "bio": "Chin Woo Athletic Association (simplified Chinese: 精武体育会; traditional Chinese: 精武體育會; pinyin: Jīngwǔ Tǐyùhuì) is an international martial arts organization founded in Shanghai, China, on July 7, 1910, but some sources cite dates in 1909. It has almost over 80 branches based in 30 or more countries worldwide, where it is usually known as an \"athletic association\" or \"federation\"."
     },
     "Listen, Think, Write": {
       "lbxd_slug": null,

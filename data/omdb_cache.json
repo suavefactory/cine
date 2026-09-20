@@ -46731,7 +46731,7 @@
     "tmdb_id": "1104067",
     "wiki_tries": 3,
     "stills_focus": [
-      39.4
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
@@ -63290,7 +63290,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.5,
+      25.2,
       54.9
     ],
     "stills": [
@@ -66723,7 +66723,7 @@
   "Uchronia: Parallel Histories of Queer Revolt|2026": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/1/6/2/1485162-uchronia-2026-0-500-0-750-crop.jpg?v=a6f4eabe99",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/1/6/2/1485162-uchronia-2026-0-500-0-750-crop.jpg?v=17d65897d3",
       "description": "A psychedelic docu-essay, inspired by Arthur Rimbaud’s visionary poem Une Saison en Enfer, in which the poet’s ghost travels through history, encountering revolutionary figures and queer ‘freaks’ such as Emma Goldman, David Wojnarowicz, and Marsha P. Johnson. These encounters form a multilayered collage that interrogates identity, the meaning of revolution, and the role of the artist in shaping radical histories and collective imaginaries.",
       "genres": [
         "Fantasy",
@@ -67111,7 +67111,7 @@
       "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
     ],
     "tmdb_id": "1599784",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Tangles|None": {
     "lbxd": {
@@ -69095,7 +69095,7 @@
       "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
     ],
     "tmdb_id": "1534205",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "En el Camino|2020": {
     "lbxd": {
@@ -70424,7 +70424,7 @@
       "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
     ],
     "tmdb_id": "1599208",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Public Access|1993": {
     "lbxd": {
@@ -70494,7 +70494,7 @@
       "https://image.tmdb.org/t/p/w1280/XrfHLAfACVGWjrHoaDXGCLjZvI.jpg"
     ],
     "tmdb_id": "77064",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ocaña, Retrato Intermitente|None": {
     "lbxd": null,
@@ -70621,120 +70621,5 @@
     ],
     "tmdb_id": "1232493",
     "wiki_tries": 1
-  },
-  "La belle année|None": {
-    "lbxd": {
-      "rating": 3.47,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/4/6/1467546-la-belle-annee-0-500-0-750-crop.jpg?v=f9206292be",
-      "description": "Revisiting a teenage crush on a female teacher, Angelica Ruffier embarks on a delicate journey of memory and desire. A finely woven, reflective essay on past longings and present selves infused with the subtle glamour of French cinema.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "Sweden",
-      "lb_director": "Angelica Ruffier",
-      "lb_director_slug": "angelica-ruffier",
-      "lb_year": 2026,
-      "lb_title": "La belle année",
-      "backdrop": null,
-      "imdb_id": "tt30958418",
-      "tmdb_id": "1599208"
-    },
-    "omdb": {
-      "Title": "La Belle Année",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "17 Apr 2026",
-      "Runtime": "95 min",
-      "Genre": "Documentary",
-      "Director": "Angelica Ruffier",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "While emptying her childhood home after the death of her father, Angelica reminisces an intense and solitary love she had as teenager.",
-      "Language": "Swedish, French",
-      "Country": "Sweden",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNzVjOGEtNjc5Mi00YWFhLWFlNTUtMjYyZGZjZjdkNTgyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt30958418",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      41.3,
-      39.9,
-      46.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
-      "https://image.tmdb.org/t/p/w1280/fwKaYOTsaaxFKuyAJG16Q0aNGBb.jpg",
-      "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
-    ],
-    "tmdb_id": "1599208"
-  },
-  "Prosecution|None": {
-    "lbxd": {
-      "rating": 3.65,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
-      "description": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
-      "genres": [
-        "Thriller"
-      ],
-      "country": "Germany",
-      "lb_director": "Faraz Shariat",
-      "lb_director_slug": "faraz-shariat",
-      "lb_year": 2026,
-      "lb_title": "Prosecution",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/85/z2/3y/h2/8HWczDBlKFMryrpHEukzLBFhuAt-1920-1920-1080-1080-crop-000000.jpg?v=17f261b82c",
-      "imdb_id": "tt39213126",
-      "tmdb_id": "1599784"
-    },
-    "omdb": {
-      "Title": "Prosecution",
-      "Year": "2022–",
-      "Rated": "N/A",
-      "Released": "15 Oct 2022",
-      "Runtime": "N/A",
-      "Genre": "Crime",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "Chinese",
-      "Country": "China",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt21348678",
-      "Type": "series",
-      "totalSeasons": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      39.0,
-      32.5,
-      38.6
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
-      "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
-      "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
-    ],
-    "tmdb_id": "1599784"
   }
 }
