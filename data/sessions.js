@@ -156,9 +156,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
       ],
       "stills_focus": [
-        36.6,
+        36.8,
         41.3,
-        44.9
+        44.8
       ]
     },
     {
@@ -1157,147 +1157,6 @@ window.CINEMA_DATA = {
       "plot_pt": "Bugis Street (妖街皇后) (Yao jie huang hou, em cantonês) é um filme de Hong Kong e Singapura, dirigido por Yonfan e lançado em 13 de abril de 1995."
     },
     {
-      "id": "sao_jorge_11745",
-      "title": "Amarga Navidad",
-      "director": "Pedro Almodóvar",
-      "duration": 112,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-500-0-750-crop.jpg?v=e53e0d2801",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/amarga-navidad/",
-      "sessions": [
-        {
-          "date": "2026-09-20",
-          "time": "22:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.15,
-      "year": 2026,
-      "plot": "In 2025 Spain, a celebrated film director struggles to write the screenplay for an autofictional film set in 2004 Spain about an unsuccessful movie director turned director of commercials who suffers a panic attack that forces her to take a break by visiting the Canary Islands, where she begins work on a new film.",
-      "title_en": "Bitter Christmas",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
-        "https://image.tmdb.org/t/p/w1280/cpA661TwBZ4vob2qaxEnrZa61G.jpg",
-        "https://image.tmdb.org/t/p/w1280/pTpnA64rpJLtYRV1UruaULatR2W.jpg"
-      ],
-      "stills_focus": [
-        27.5,
-        40.0,
-        24.1
-      ],
-      "country": "Spain",
-      "director_lbxd_slug": "pedro-almodovar",
-      "plot_pt": "Amarga Navidad (no Brasil: Natal Amargo e em inglês: Bitter Christimas) é um longa-metragem espanhol de tragicomédia com elementos de autoficção lançado em 2026 escrito e dirigido por Pedro Almodóvar. A trama acompanha uma diretora de publicidade que, após a morte da mãe e uma crise emocional, viaja com uma amiga a Lanzarote, nas Ilhas Canárias, em busca de distância, mas acaba confrontando o próprio luto. É estrelado por Bárbara Lennie e Leonardo Sbaraglia, ao lado de Aitana Sánchez-Gijón, Victoria Luengo, Patrick Criado, Milena Smit e Quim Gutiérrez. \nO filme foi lançado nos cinemas da Espanha em 20 de março de 2026 pela Warner Bros."
-    },
-    {
-      "id": "sao_jorge_11743",
-      "title": "Baby Jackfruit Baby Guava",
-      "director": "Nong Nhat Quang",
-      "duration": 105,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/9/9/4/0/4/1299404-baby-jackfruit-baby-guava-0-500-0-750-crop.jpg?v=996f510952",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/baby-jackfruit-baby-guava/",
-      "sessions": [
-        {
-          "date": "2026-09-20",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2026,
-      "plot": "When an unplanned baby enters the lives of a conservative mother, neurodivergent daughter and detached gay son, the trio travels back in time through their diaries and family photos to mend ruptured bonds and prepare for a new cycle of motherhood.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ufBY3ilUOVefhsItI1kcpkFSMUv.jpg",
-        "https://image.tmdb.org/t/p/w1280/1TZa37ouqggtA9AZQwmUKbn9PVh.jpg",
-        "https://image.tmdb.org/t/p/w1280/vue9gmgf8M3rYjhq7jMEbn5QFuJ.jpg"
-      ],
-      "stills_focus": [
-        30.2,
-        40.5,
-        41.8
-      ],
-      "country": "Vietnam",
-      "director_lbxd_slug": "nong-nhat-quang"
-    },
-    {
-      "id": "sao_jorge_11739",
-      "title": "Curtas 2 | Queer Lisboa 30",
-      "director": null,
-      "duration": 98,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/Je-veux-quOCOon-se-souvienne-de-nous-┬®-Hutong-Productions-Le-Bal.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/curtas-2-queer-lisboa-30/",
-      "sessions": [
-        {
-          "date": "2026-09-20",
-          "time": "18:45",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11737",
-      "title": "Desejo de Viver (mutatis mutandis)",
-      "director": null,
-      "duration": 83,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/5/9/1/225591-mutatis-mutandis-0-500-0-750-crop.jpg?v=afed317e3d",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/desejo-de-viver-mutatis-mutandis/",
-      "sessions": [
-        {
-          "date": "2026-09-20",
-          "time": "18:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2014,
-      "plot": "A dexterous verbal enactment of slippages between voice, body and object, with objects functioning as stand-ins for multiple ideas and body parts.",
-      "director_lbxd_slug": "kathryn-elkin"
-    },
-    {
-      "id": "sao_jorge_11735",
-      "title": "La Gradiva",
-      "director": "Marine Atlan",
-      "duration": 145,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-500-0-750-crop.jpg?v=5fdcc738e5",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/la-gradiva/",
-      "sessions": [
-        {
-          "date": "2026-09-20",
-          "time": "16:15",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.1,
-      "year": 2026,
-      "plot": "A small group of French high school students goes on a school trip to Pompeii to discover its ruins and the bodies petrified by Vesuvius in 79 CE. It is in this ghost town that they are suddenly overcome by a dizzying sensation. One after another, James, Toni, Suzanne, and their Latin teacher, Mme Mercier, allow themselves to be engulfed by desire, anger, and despair—until they surrender to it completely and lose everything.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/9BmIu8JMoSWSyqNsIW9ue9CthPZ.jpg",
-        "https://image.tmdb.org/t/p/w1280/z6TKISvu0WlMyrCrwMU3EL2ZJ7X.jpg",
-        "https://image.tmdb.org/t/p/w1280/w8O8oGu5PGstainGT2mjwV4gNZC.jpg"
-      ],
-      "stills_focus": [
-        31.3,
-        42.2,
-        39.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "marine-atlan"
-    },
-    {
       "id": "cinemateca_20256",
       "title": "Shutter Island",
       "director": "Martin Scorsese",
@@ -1370,7 +1229,7 @@ window.CINEMA_DATA = {
         "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
       ],
       "stills_focus": [
-        25.1,
+        25.5,
         54.9
       ],
       "country": "Canada",
@@ -7947,7 +7806,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.68,
       "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-      "plot_pt": "Em Tânger, uma idosa espanhola luta contra a venda de sua casa pela filha. Enquanto tenta manter seu lar e resgatar seus pertences, acaba a redescobrir o amor e o desejo.",
+      "plot_pt": "María Ángeles, uma mulher espanhola de 79 anos, vive sozinha em Tânger, Marrocos, e desfruta da sua rotina diária, até que a chegada da filha, vinda de Madrid com intenção de vender o apartamento onde María sempre viveu, vira a sua vida do avesso. Determinada a ficar, faz tudo o que pode para recuperar a sua casa e os seus bens. Inesperadamente, redescobre também o amor e a sensualidade.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg",
