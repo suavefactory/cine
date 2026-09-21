@@ -63322,7 +63322,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.2,
+      25.1,
       54.9
     ],
     "stills": [
@@ -63597,7 +63597,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      36.2
+      35.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/szd1nXObfjY8Co8olPaB9QAnPLA.jpg"
@@ -66710,7 +66710,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      25.1
+      25.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ffepIhBgKOLCxuU2NymPGt2CIm7.jpg"
@@ -66803,7 +66803,7 @@
     "dir_checked": true,
     "stills_focus": [
       31.5,
-      17.9
+      24.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/3h2eaxPhTDLp2XTr9Js9v05tblg.jpg",
@@ -66929,7 +66929,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      36.1
+      35.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jwFj1fIxffU6CziBoufDiqNrkKA.jpg"
@@ -69189,7 +69189,7 @@
       "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
     ],
     "tmdb_id": "1517123",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Two Mountains Weighing Down my Chest|2026": {
     "lbxd": {
@@ -70249,7 +70249,7 @@
       "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
     ],
     "tmdb_id": "1534205",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "En el Camino|2025": {
     "lbxd": {
@@ -70611,7 +70611,8 @@
       "https://image.tmdb.org/t/p/w1280/99VC9RFtpU9OKnhScyOPftmaLbz.jpg",
       "https://image.tmdb.org/t/p/w1280/xy5SEU2RyhuiMhovlHrIgBMtXqw.jpg"
     ],
-    "tmdb_id": "1214593"
+    "tmdb_id": "1214593",
+    "wiki_tries": 1
   },
   "No Other Land|2024": {
     "lbxd": {
