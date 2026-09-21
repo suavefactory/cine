@@ -41504,7 +41504,33 @@
       "imdb_id": null,
       "tmdb_id": "415221"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Montañas ardientes que vomitan fuego",
+      "Year": "2017",
+      "Rated": "N/A",
+      "Released": "18 Jul 2017",
+      "Runtime": "14 min",
+      "Genre": "Short",
+      "Director": "Samuel M. Delgado, Helena Girón",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "The interior of the earth became a refuge from the threat that moved closer and closer to the island. The volcanic tubes served as communication vessels between time and space. This was where they experimented their resistance.",
+      "Language": "None",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFlMTVhZTQtNWU5Ny00YTRlLThjODYtNWMwYjRjYzA1Y2RlXkEyXkFqcGc@._V1_QL75_UX1000_CR0,95,1000,563_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt25404314",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -43830,11 +43856,13 @@
     "wiki_tries": 3,
     "stills_focus": [
       30.2,
-      40.8
+      40.8,
+      34.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/32FwO5bh9T5behN6ZWLON3oMBIR.jpg",
-      "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg"
+      "https://image.tmdb.org/t/p/w1280/7HaMSz0M5nzf6IMflTnIn3epeji.jpg",
+      "https://image.tmdb.org/t/p/w1280/4h1BUoKL0L1Hh3fU8qjwyWuYRdQ.jpg"
     ]
   },
   "American Honey|2016": {
@@ -50416,7 +50444,11 @@
     },
     "omdb": null,
     "wiki": null,
-    "cinema": {},
+    "cinema": {
+      "year": 2026,
+      "country": "Portugal e França",
+      "plot_pt": "PC, o líder do bairro, envia o jovem Chandi para se infiltrar junto de KP e descobrir o paradeiro do dinheiro. Machine prepara um golpe para roubar Máfia, um traficante apaixonado por automóveis antigos. Xana tenta libertar-se do marido violento, acabado de sair da prisão."
+    },
     "dir_checked": true,
     "stills_focus": [
       33.1,
@@ -63727,7 +63759,7 @@
       "https://image.tmdb.org/t/p/w1280/3foyMrUy167MEBRfzLFXwh4SoYg.jpg"
     ],
     "tmdb_id": "63215",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Je Tu Il Elle|1974": {
     "lbxd": {
@@ -70621,5 +70653,64 @@
     ],
     "tmdb_id": "1232493",
     "wiki_tries": 1
+  },
+  "La belle année|None": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/4/6/1467546-la-belle-annee-0-500-0-750-crop.jpg?v=f9206292be",
+      "description": "Revisiting a teenage crush on a female teacher, Angelica Ruffier embarks on a delicate journey of memory and desire. A finely woven, reflective essay on past longings and present selves infused with the subtle glamour of French cinema.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Sweden",
+      "lb_director": "Angelica Ruffier",
+      "lb_director_slug": "angelica-ruffier",
+      "lb_year": 2026,
+      "lb_title": "La belle année",
+      "backdrop": null,
+      "imdb_id": "tt30958418",
+      "tmdb_id": "1599208"
+    },
+    "omdb": {
+      "Title": "La Belle Année",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Apr 2026",
+      "Runtime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Angelica Ruffier",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "While emptying her childhood home after the death of her father, Angelica reminisces an intense and solitary love she had as teenager.",
+      "Language": "Swedish, French",
+      "Country": "Sweden",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNzVjOGEtNjc5Mi00YWFhLWFlNTUtMjYyZGZjZjdkNTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt30958418",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.3,
+      39.9,
+      46.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
+      "https://image.tmdb.org/t/p/w1280/fwKaYOTsaaxFKuyAJG16Q0aNGBb.jpg",
+      "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
+    ],
+    "tmdb_id": "1599208"
   }
 }
