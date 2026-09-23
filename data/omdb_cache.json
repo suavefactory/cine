@@ -63322,7 +63322,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.5,
+      25.2,
       54.9
     ],
     "stills": [
@@ -70713,5 +70713,13 @@
       "https://image.tmdb.org/t/p/w1280/pby8bnQf8yPUKVTgTm8g3kMQaNx.jpg"
     ],
     "tmdb_id": "1599208"
+  },
+  "Insula On Tour | Magma 2026|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
