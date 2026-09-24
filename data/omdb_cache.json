@@ -25545,7 +25545,11 @@
       "tmdb_id": "836"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Barren Lives (film)",
+      "imdb_id": "tt0057654",
+      "extract_pt": "Vidas Secas (Na grafia da época, Vidas Sêcas) é um filme brasileiro de 1963, do gênero drama, dirigido e escrito por Nelson Pereira dos Santos para a Herbert Richers. O roteiro é baseado no livro homônimo de Graciliano Ramos, sendo o filme estrelado por Átila Iório, Maria Ribeiro, Genivaldo Lima, Gilvan Lima e Joffre Soares. De acordo com os letreiros iniciais, as filmagens foram realizadas em Minador do Negrão e Palmeira dos Índios, sertão de Alagoas.\nConsiderado um dos principais filmes do movimento cinematográfico brasileiro Cinema Novo, Nelson continuou com a tendência de adaptar a literatura com temática social para o meio cinematográfico."
+    },
     "cinema": {
       "year": 1963,
       "plot_pt": "Em \"Vidas Secas\", uma família pobre tenta escapar da seca no sertão nordestino. Fabiano (Átila Iório), Sinhá Vitória (Maria Ribeiro), os seus dois filhos e a cachorra Baleia vagueim sem destino e já quase sem esperanças pelos confins do interior, sobrevivendo às forças da natureza e à crueldade dos homens. Adaptação da obra homónima de Graciliano Ramos."
@@ -25561,7 +25565,8 @@
       "https://image.tmdb.org/t/p/w1280/ueG5XtHSttjNZdZ2scKWKeNXYFl.jpg",
       "https://image.tmdb.org/t/p/w1280/pK6m6Ck3ldRtY1xL2OhTmYEzQ1c.jpg"
     ],
-    "tmdb_id": "836"
+    "tmdb_id": "836",
+    "wiki_tries": 1
   },
   "Nazarín|1959": {
     "lbxd": {
@@ -33240,7 +33245,7 @@
     },
     "tmdb_id": "31332",
     "stills_focus": [
-      30.2
+      30.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
@@ -37544,7 +37549,7 @@
     "tmdb_id": "324088",
     "wiki_tries": 3,
     "stills_focus": [
-      53.5,
+      53.1,
       38.9
     ],
     "stills": [
@@ -46108,7 +46113,7 @@
     "tmdb_id": "95378",
     "wiki_tries": 3,
     "stills_focus": [
-      32.5,
+      32.4,
       43.2
     ],
     "stills": [
@@ -47672,9 +47677,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      35.2,
-      28.0,
-      23.7
+      35.3,
+      27.9,
+      23.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
@@ -59204,7 +59209,7 @@
     "dir_checked": true,
     "stills_focus": [
       39.0,
-      33.2
+      33.1
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/6n4uHX4j943VAOz9L1hKqwpUrsj.jpg",
@@ -63344,7 +63349,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.2,
+      25.1,
       54.9
     ],
     "stills": [
@@ -64776,9 +64781,9 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      45.6,
-      48.4,
-      42.7
+      45.7,
+      48.3,
+      42.8
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/1suJwLL3PtmHGA8UIp8dQ2tt03C.jpg",
@@ -69666,7 +69671,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      17.0
+      16.7
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/1swyIGbGB0uG5AT8QKpNnzuE1UY.jpg"
@@ -70809,7 +70814,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Umberto D.",
+      "imdb_id": "tt0045274",
+      "extract_pt": "Umberto D. é um filme neo-realista italiano de 1952 , dirigido por Vittorio de Sica. O elenco era composto em sua maioria por atores não profissionais, incluindo Carlos Battisti, que interpreta Umberto Domenico Ferrari, um idoso romano pobre que tenta desesperadamente manter seu quarto alugado. Sua senhoria (Lina Gennari) está despejando a ele e a seus únicos amigos, a empregada (Maria-Pia Casilio) e seu cachorro Flike.\nDe acordo com Robert Osborne, do canal de televisão estadunidense Turner Classic Movies, esse era, entre todas as suas realizações, o preferido de De Sica."
+    },
     "cinema": {
       "year": 1952,
       "plot_pt": "Esta obra-prima neorrealista de Vittorio De Sica acompanha um idoso reformado enquanto tenta sobreviver durante a recuperação económica do pós-guerra na Itália. Sozinho, exceto pelo seu cão, Flike, Umberto luta para manter a sua dignidade numa cidade onde a bondade humana parece ter sido engolida pelas forças da modernização. A sua simples busca para satisfazer as suas necessidades básicas — comida, abrigo, companhia — torna esta história uma das mais comoventes já filmadas e um clássico essencial do cinema mundial."
@@ -70825,6 +70834,7 @@
       "https://image.tmdb.org/t/p/w1280/3VNlaaf2onfbdrI5jJchpv4pxGB.jpg",
       "https://image.tmdb.org/t/p/w1280/oHL7gjqFgxHiwm45hqj4Xou9Odg.jpg"
     ],
-    "tmdb_id": "833"
+    "tmdb_id": "833",
+    "wiki_tries": 1
   }
 }

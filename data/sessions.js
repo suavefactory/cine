@@ -43,16 +43,6 @@ window.CINEMA_DATA = {
       "rating": 4.15,
       "year": 2026,
       "plot": "When Alzheimer's disease begins to strip away her mother's vibrant personality, a headstrong young woman is forced to return to her oddball family in the conservative small town she recently fled in order to care for her. She quickly realizes she must accept the cruel and warped reality of the disease, and the imperfect beauty of her family, in order to become the daughter they need.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/gW1YCLaT9y7prba0HqU1OblxFod.jpg",
-        "https://image.tmdb.org/t/p/w1280/hc0rBryUFk893Zo1P1tODmOxaJw.jpg",
-        "https://image.tmdb.org/t/p/w1280/asHif0ptqTWi6NC1mAflUB45TcR.jpg"
-      ],
-      "stills_focus": [
-        60.4,
-        44.8,
-        47.6
-      ],
       "country": "USA",
       "director_lbxd_slug": "leah-nelson-2"
     },
@@ -129,11 +119,9 @@ window.CINEMA_DATA = {
       "director": "Priscilla Kellen",
       "duration": 74,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/2/6/2/733262-papaya-0-500-0-750-crop.jpg?v=671139784d",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/9/0/2/3/1409023-papaya-2025-0-500-0-750-crop.jpg?v=8894f9a534",
       "genres": [
-        "Family",
-        "Music",
-        "Horror"
+        "Animation"
       ],
       "link": "https://cinemasaojorge.pt/evento/papaya/",
       "sessions": [
@@ -154,9 +142,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
       ],
       "stills_focus": [
-        36.6,
+        36.8,
         41.3,
-        44.9
+        44.8
       ]
     },
     {
@@ -165,9 +153,11 @@ window.CINEMA_DATA = {
       "director": "David Pablos",
       "duration": 93,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/9/5/9/2/899592-en-el-camino-0-500-0-750-crop.jpg?v=55b2dab50e",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/5/1/1393051-on-the-road-2025-2-0-500-0-750-crop.jpg?v=a254fd20a5",
       "genres": [
-        "Drama"
+        "Thriller",
+        "Drama",
+        "Crime"
       ],
       "link": "https://cinemasaojorge.pt/evento/en-el-camino/",
       "sessions": [
@@ -177,21 +167,22 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "year": 2020,
-      "plot": "During the trip back from their vacation, a young couple is stranded in the middle of the road and they lose all forms of communication, including each other.",
+      "year": 2025,
+      "plot": "Veneno, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets Muñeco, a hard-edged driver who keeps to himself. He convinces Muñeco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno’s past resurface, putting both their lives at risk.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/1rofxa5giAv02QZKQSqnRB5Bpxj.jpg"
+        "https://image.tmdb.org/t/p/w1280/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+        "https://image.tmdb.org/t/p/w1280/rG4l5ICADDRUduB7MnehoZCdmBP.jpg",
+        "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
       ],
       "stills_focus": [
-        38.9,
+        38.8,
         24.0,
         36.3
       ],
       "country": "Mexico",
       "director_lbxd_slug": "uriel-reyes",
       "rating": 3.51,
-      "title_en": "On the Road",
-      "plot_pt": "En el camino é um filme mexicano de romance e suspense de 2025 escrito e dirigido por David Pablos. É estrelado por Victor Prieto e Osvaldo Sanchez.\nO filme teve sua estreia mundial na seção Orizzonti do 82º Festival Internacional de Cinema de Veneza em 4 de setembro de 2025, onde ganhou o prêmio principal da seção e o Queer Lion. Também foi selecionado como o representante mexicano para Melhor Filme Internacional no 99º Oscar."
+      "title_en": "On the Road"
     },
     {
       "id": "sao_jorge_11821",
@@ -333,7 +324,7 @@ window.CINEMA_DATA = {
       "director": "Janet Baus, Su Friedrich",
       "duration": 84,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/The-Lesbian-Avengers-Eat-Fire-Too.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/6/5/7/312657-lesbian-avengers-eat-fire-too-0-500-0-750-crop.jpg?v=6e4a5e4d6f",
       "genres": [
         "Documentary"
       ],
@@ -345,7 +336,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "This film documents the first year of actions by The Lesbian Avengers, a group of bold and brazen New York City activists fighting for recognition and equal rights for lesbians everywhere. We recruit!",
+      "plot": "An insider's look at the first year of an activist group known as the Lesbian Avengers.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/vJAPz4IrVTgyaggPNTQ26WntDHH.jpg",
         "https://image.tmdb.org/t/p/w1280/9qe2QTA5aYA9Z42Eh7hYZtilpjX.jpg",
@@ -357,7 +348,9 @@ window.CINEMA_DATA = {
         50.2
       ],
       "country": "United States",
-      "year": 1993
+      "year": 1993,
+      "rating": 4.01,
+      "director_lbxd_slug": "su-friedrich"
     },
     {
       "id": "sao_jorge_11807",
@@ -387,12 +380,13 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/uVTtO3ecjpFjbZ7yW9J8vRO7elt.jpg"
       ],
       "stills_focus": [
-        20.2,
+        28.3,
         36.0,
         19.3
       ],
       "country": "UK",
-      "director_lbxd_slug": "hunter-richards"
+      "director_lbxd_slug": "hunter-richards",
+      "plot_pt": "London (original: London) é um filme americano, lançado no ano 2005 e é centrado em uma festa de Manhattan. O filme, produzido por Paul Davis-Miller e Bonnie Timmermann, foi dirigido e escrito por Brian \"Hunter\" Richards. É estrelado por Jessica Biel, Jason Statham, Joy Bryant, Dane Cook e Chris Evans."
     },
     {
       "id": "sao_jorge_11805",
@@ -429,7 +423,7 @@ window.CINEMA_DATA = {
       "director": "Jaume Claret Muxart",
       "duration": 105,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/Estrany-Riu-scaled.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/4/2/9/0/924290-strange-river-0-500-0-750-crop.jpg?v=4c0ee444d5",
       "genres": [
         "Drama"
       ],
@@ -454,8 +448,12 @@ window.CINEMA_DATA = {
         40.0,
         45.1
       ],
-      "country": "Spain",
-      "year": 2025
+      "country": "Germany",
+      "year": 2025,
+      "rating": 3.18,
+      "plot": "One summer, Dídac travels by bike along the Danube with his family, starting where the river first emerges in Germany. As they journey downstream, he begins seeing a mysterious boy, Alexander, who appears and disappears in the water. Dídac feels himself changing, drawn toward Alexander and away from his brother Biel. Their mother, Monika, who once took the same trip as a teenager, drifts into memories of a past summer love. When she sees Dídac and Alexander together, she encourages them to continue the journey alone. But as twilight falls, Dídac begins to question who Alexander truly is.",
+      "title_en": "Strange River",
+      "director_lbxd_slug": "jaume-claret-muxart"
     },
     {
       "id": "sao_jorge_11799",
@@ -524,7 +522,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/1swyIGbGB0uG5AT8QKpNnzuE1UY.jpg"
       ],
       "stills_focus": [
-        17.0
+        16.7
       ],
       "country": "Belgium",
       "director_lbxd_slug": "mawena-yehouessi"
@@ -558,1240 +556,13 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/9THMq437DAofbPKDcfBaiIUYXEo.jpg"
       ],
       "stills_focus": [
-        17.2,
+        17.3,
         22.8,
         30.6
       ],
       "country": "USA",
       "director_lbxd_slug": "cheryl-dunye",
       "plot_pt": "The Watermelon Woman é um filme de drama estadunidense de 1996 dirigido e escrito por Cheryl Dunye. Estrelado por Dunye, Guinevere Turner, Valarie Walker e Lisa Marie Bronson, estreou no Festival Internacional de Cinema de Berlim em fevereiro de 1996."
-    },
-    {
-      "id": "sao_jorge_11790",
-      "title": "Blue Film",
-      "director": "Vijay Gowtham Raju",
-      "duration": 85,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/8/4/6/9/978469-blue-film-0-500-0-750-crop.jpg?v=f0156ce9e7",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/blue-film/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "22:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2023,
-      "plot": "In order to see his ex-girlfriend Sofija, Mykolas stages an emergency situation. They have a lot to tell each other, but sometimes it's hard to find proper words, or maybe it's too difficult to talk about our feelings? In this story they say goodbye for the very last time.",
-      "country": "Lithuania",
-      "director_lbxd_slug": "severina-vaiciunaite"
-    },
-    {
-      "id": "sao_jorge_11788",
-      "title": "Virages",
-      "director": "Alexis Taillant",
-      "duration": 89,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/Virages.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/virages/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "country": "France",
-      "year": 2008
-    },
-    {
-      "id": "sao_jorge_11786",
-      "title": "Stop! That! Train!",
-      "director": "Adam Shankman",
-      "duration": 92,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/6/3/1/3/1416313-stop-that-train-0-500-0-750-crop.jpg?v=8423afafd4",
-      "genres": [
-        "Comedy",
-        "Action"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/stop-that-train/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.09,
-      "year": 2026,
-      "plot": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
-        "https://image.tmdb.org/t/p/w1280/5e6Z7Ey5s7NsX58cZgckLDs1b6U.jpg",
-        "https://image.tmdb.org/t/p/w1280/5ys9JbxaJ0EW1OIIoBSKh56MMEr.jpg"
-      ],
-      "stills_focus": [
-        20.5,
-        14.7,
-        38.0
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "adam-shankman"
-    },
-    {
-      "id": "sao_jorge_11784",
-      "title": "A Paixão segundo G.H.B.",
-      "director": null,
-      "duration": 82,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/A-Paixa╠ao-segundo-G.H.B.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/a-paixao-segundo-g-h-b/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "18:45",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Com a presença de Vinicius Couto Sessões Quarta-feira,"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11782",
-      "title": "La conscience politique",
-      "director": null,
-      "duration": 71,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/La-conscience-politique.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/la-conscience-politique/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "18:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Conversa com Geoffroy de Lagasnerie e Léolo Victor-Pujebet,"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11780",
-      "title": "Black Burns Fast",
-      "director": "Sandulela Asanda",
-      "duration": 96,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/6/2/0/1403620-black-burns-fast-0-500-0-750-crop.jpg?v=77991123cf",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/black-burns-fast/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "16:15",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.65,
-      "year": 2025,
-      "plot": "Black Burns Fast is a queer and quirky coming of age film set in at a prestigious boarding school in South Africa. 17-year-old adorkable Luthando is on track for a normal academic year, until Ayanda arrives at the school and forces her to rethink everything. In the aftermath, Luthando struggles with juggling multiple identities to avoid rejection from her mother and her schoolmates as she comes to terms with her sexuality.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/dmG1g4mZjGGNBsI50aoDYlpQPpo.jpg",
-        "https://image.tmdb.org/t/p/w1280/26I8cqwSg4x0bsB6LcMXEUtfxq0.jpg",
-        "https://image.tmdb.org/t/p/w1280/77x7WNxYPvphcXsOPEnUAYnO0wx.jpg"
-      ],
-      "stills_focus": [
-        50.4,
-        39.3,
-        47.3
-      ],
-      "country": "South Africa",
-      "director_lbxd_slug": "sandulela-asanda"
-    },
-    {
-      "id": "sao_jorge_11776",
-      "title": "Taxi to the Toilet",
-      "director": "Frank Ripploh",
-      "duration": 90,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/8/28738-taxi-zum-klo-0-500-0-750-crop.jpg?v=37ae2efefa",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/taxi-to-the-toilet/",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "16:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.68,
-      "year": 1980,
-      "plot": "Frank, a dedicated schoolteacher, embraces the sexual freedoms of the city’s underground scene—navigating a double life in public restrooms, cinemas, and cruising spots. When he meets Bernd, a sweet and steady museum worker, he finds himself torn between the comfort of domestic partnership and the allure of anonymous desire.",
-      "title_en": "Taxi to the Toilets",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/36sGdksVobQVWz9lSyo6YAordcL.jpg",
-        "https://image.tmdb.org/t/p/w1280/l1D9ZJOfAAxrQePyD1vzdlN44iY.jpg",
-        "https://image.tmdb.org/t/p/w1280/tn24Glc8rDxukkeBkI6173LK3II.jpg"
-      ],
-      "stills_focus": [
-        34.1,
-        39.4,
-        20.6
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "frank-ripploh"
-    },
-    {
-      "id": "sao_jorge_11774",
-      "title": "Bound",
-      "director": "Lana Wachowski, Lilly Wachowski",
-      "duration": 109,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/8/9/47289-bound-0-500-0-750-crop.jpg?v=54e3ef63ae",
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/bound/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "22:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.04,
-      "year": 1996,
-      "plot": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/1I3yTxPDVpQjQoz5r43YmGRFgVt.jpg",
-        "https://image.tmdb.org/t/p/w1280/mSIwogX33Hp09JEnahn5IbAODG.jpg",
-        "https://image.tmdb.org/t/p/w1280/e9s3wDLSVTA3y4r5buhkhm5QfeG.jpg"
-      ],
-      "stills_focus": [
-        38.4,
-        25.2,
-        19.0
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "lana-wachowski",
-      "plot_pt": "Bound (bra: Ligadas pelo Desejo; prt: Bound - Sem Limites) é um filme estadunidense de 1996 dos gêneros crime e suspense dirigido pelas irmãs Wachowski em sua estréia na direção de longas-metragens. O filme segue Violet, uma sedutora mulher que deseja escapar de seu relacionamento com seu namorado mafioso Ceasar, tendo um caso amoroso com a ex-presidiária Corky; as duas mulheres traçam um plano para roubar dois milhões de dólares em dinheiro de Ceasar, quantia esta oriunda da própria máfia. Bound conta com Jennifer Tilly, Gina Gershon e Joe Pantoliano nos papéis principais.\nFoi o primeiro filme dirigido pelas irmãs Wachowskis, a qual se inspiraram em Billy Wilder para contar uma história ao estilo noir cheia de sexo e violência."
-    },
-    {
-      "id": "sao_jorge_11771",
-      "title": "LA CARN",
-      "director": "Joan Porcel",
-      "duration": 84,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/4/0/3/6/4/1440364-la-carn-0-500-0-750-crop.jpg?v=6be73fadb1",
-      "genres": [
-        "Documentary",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/la-carn/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "21:45",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Com a presença de Joan Porcel   Leg."
-          ]
-        }
-      ],
-      "year": 2025,
-      "plot": "Lluís Garau, a young dancer, has created a performance inspired by Chatroulette, a platform that connects strangers at random via video call. In his restless search for connection and meaning, he becomes entangled in a series of increasingly unsettling encounters where desire, fear, and exposure merge with art and intimacy.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/nsNbjklLKrFQvnZXvtrTx4Jrn1d.jpg",
-        "https://image.tmdb.org/t/p/w1280/x1lyXd055GKCdqU2VogdnwguGkz.jpg",
-        "https://image.tmdb.org/t/p/w1280/9IY80XVQ2wl56h5tFwWoM4FOsjx.jpg"
-      ],
-      "stills_focus": [
-        43.2,
-        49.3,
-        50.1
-      ],
-      "country": "Spain",
-      "director_lbxd_slug": "joan-porcel"
-    },
-    {
-      "id": "sao_jorge_11769",
-      "title": "Não Resta Nada",
-      "director": "André Godinho",
-      "duration": 96,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/6/5/7/9/1586579-nothing-left-2026-0-500-0-750-crop.jpg?v=1202863629",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/nao-resta-nada/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "19:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Com a presença de André Godinho e equipa do filme Sessões Terça-feira,"
-          ]
-        }
-      ],
-      "year": 2026,
-      "plot": "A group of queer people is kidnapped and dumped in the middle of nowhere. Are they left there to rot? Is this a concentration camp? Or a hunting ground where they are the prey? When you've got nothing left the only thing you can do, is find your way to resist.",
-      "title_en": "Nothing Left",
-      "country": "Portugal",
-      "director_lbxd_slug": "andre-godinho"
-    },
-    {
-      "id": "sao_jorge_11767",
-      "title": "Curtas 4 | Queer Lisboa 30",
-      "director": null,
-      "duration": 96,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/Cairo-Streets.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/curtas-4-queer-lisboa-30/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "18:45",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11765",
-      "title": "Hélène Trésore",
-      "director": null,
-      "duration": 94,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/He╠ule╠Cne-tre╠usore-transnationale-┬®-Godot-Production.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/helene-tresore/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "18:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11763",
-      "title": "Raging",
-      "director": "Lesa O&apos;Daniel-Esparza, Lesa O&apos;Daniel",
-      "duration": 87,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/6/5/0/7/1396507-raging-0-500-0-750-crop.jpg?v=0d866b3762",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/raging/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "16:15",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.25,
-      "year": 2025,
-      "plot": "A young man’s quest for truth and justice interwines with a plane crash mystery, uncovering a sinister plot that propels his desire to be heard but also threatens his community.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3ffs46wc8PwJYdPZ7b82UFKwRkU.jpg",
-        "https://image.tmdb.org/t/p/w1280/f7TNYKtkn5XIHYfUbIKSMYOXX1u.jpg",
-        "https://image.tmdb.org/t/p/w1280/rwgC47QAi2D2vOJSsqxtCy4RXCP.jpg"
-      ],
-      "stills_focus": [
-        39.8,
-        30.5,
-        24.1
-      ],
-      "country": "Philippines",
-      "director_lbxd_slug": "ryan-machado-1"
-    },
-    {
-      "id": "sao_jorge_11761",
-      "title": "Nuestro Cuerpo Es una Estrella que Se Expande",
-      "director": null,
-      "duration": 84,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/4/0/1/1/2/1440112-our-body-is-an-expanding-star-0-500-0-750-crop.jpg?v=df11140ff0",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/nuestro-cuerpo-es-una-estrella-que-se-expande/",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "16:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2025,
-      "plot": "Two siblings, their queer bodies and the deep bond they share. They read the brown skin they once wished they didn’t have as a landscape. Associatively, with extreme close-ups, animations, projections or razor-sharp nature photography, pores become desert landscapes, skin cells become salt flats.",
-      "title_en": "Our Body Is an Expanding Star",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ffepIhBgKOLCxuU2NymPGt2CIm7.jpg"
-      ],
-      "stills_focus": [
-        25.1
-      ],
-      "country": "Mexico",
-      "director_lbxd_slug": "semillites-hernandez-velasco"
-    },
-    {
-      "id": "sao_jorge_11759",
-      "title": "Iván & Hadoum",
-      "director": "Ian de la Rosa",
-      "duration": 100,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/0/8/6/4/1390864-ivan-hadoum-0-500-0-750-crop.jpg?v=286d6726dd",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/ivan-hadoum/",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "22:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.49,
-      "year": 2026,
-      "plot": "Iván (33), a trans man, and Hadoum (30), a Spanish-Moroccan woman, fall in love at the industrial greenhouse they work in. While facing the opposition from their families and co-workers, Iván realizes he doesn’t need to be the man he is expected to be.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/gckc8SQdekMG0qqTOp6OBQAaHaq.jpg",
-        "https://image.tmdb.org/t/p/w1280/5FOV1G8cXjEwCjzh9B4aLwYPfZb.jpg",
-        "https://image.tmdb.org/t/p/w1280/xw74V4uM6ipNLtCju6Qnp4OJdku.jpg"
-      ],
-      "stills_focus": [
-        23.5,
-        37.2,
-        16.2
-      ],
-      "country": "Spain",
-      "director_lbxd_slug": "ian-de-la-rosa-1"
-    },
-    {
-      "id": "sao_jorge_11757",
-      "title": "Uchronia: Parallel Histories of Queer Revolt",
-      "director": "Fil Ieropoulos",
-      "duration": 97,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/8/5/1/6/2/1485162-uchronia-2026-0-500-0-750-crop.jpg?v=17d65897d3",
-      "genres": [
-        "Fantasy",
-        "Documentary",
-        "History"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/uchronia-parallel-histories-of-queer-revolt/",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2026,
-      "plot": "A psychedelic docu-essay, inspired by Arthur Rimbaud’s visionary poem Une Saison en Enfer, in which the poet’s ghost travels through history, encountering revolutionary figures and queer ‘freaks’ such as Emma Goldman, David Wojnarowicz, and Marsha P. Johnson. These encounters form a multilayered collage that interrogates identity, the meaning of revolution, and the role of the artist in shaping radical histories and collective imaginaries.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3h2eaxPhTDLp2XTr9Js9v05tblg.jpg",
-        "https://image.tmdb.org/t/p/w1280/fKqyX55QR3664h5l3tkGSf8nd57.jpg"
-      ],
-      "stills_focus": [
-        31.5,
-        17.9
-      ],
-      "country": "Greece",
-      "director_lbxd_slug": "fil-ieropoulos"
-    },
-    {
-      "id": "sao_jorge_11755",
-      "title": "Desire Lines",
-      "director": "Jules Rosskam",
-      "duration": 107,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/8/2/5/8/1468258-prosecution-0-500-0-750-crop.jpg?v=e250b3510a",
-      "genres": [
-        "Thriller"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/desire-lines/",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.65,
-      "year": 2026,
-      "plot": "After surviving a racist attack, state prosecutor Seyo Kim takes her own case to court – confronting both the perpetrators and a justice system that turns a blind eye to right-wing extremism.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/siifAFhxsc8hwn4lru4GtdQ5OkN.jpg",
-        "https://image.tmdb.org/t/p/w1280/gqCOyjoaqBxW7qFlDaeyJnZi20H.jpg",
-        "https://image.tmdb.org/t/p/w1280/b3e1eWQQ5uwADCy2fP6M3rgZaXV.jpg"
-      ],
-      "stills_focus": [
-        39.0,
-        32.5,
-        38.6
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "dane-komljen",
-      "title_en": "Prosecution"
-    },
-    {
-      "id": "sao_jorge_11753",
-      "title": "Curtas 3 | Queer Lisboa 30",
-      "director": null,
-      "duration": 98,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/The-Jezebels.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/curtas-3-queer-lisboa-30/",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "18:45",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11751",
-      "title": "Pédale rurale",
-      "director": "Antoine Vazquez",
-      "duration": 84,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/3/0/4/4/1253044-country-queer-0-500-0-750-crop.jpg?v=356e352df7",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/pedale-rurale/",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "18:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Com a presença de Antoine Vazquez   Leg."
-          ]
-        }
-      ],
-      "rating": 3.69,
-      "year": 2025,
-      "plot": "Benoît built his paradise hidden from view, emancipated in his own way, resolved to face the constraints of a space which, in imaginations, conflicts with his identity. The countryside. One day, he and other queers from the area decide to organize the first Pride of the Périgord vert, because it is time to come out, to take up space to celebrate, heal, and finally open a path.",
-      "title_en": "Country Queer",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/jwFj1fIxffU6CziBoufDiqNrkKA.jpg"
-      ],
-      "stills_focus": [
-        36.1
-      ],
-      "country": "France",
-      "director_lbxd_slug": "antoine-vazquez"
-    },
-    {
-      "id": "sao_jorge_11747",
-      "title": "Bugis Street",
-      "director": "Yonfan",
-      "duration": 98,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/7/4/7/161747-bugis-street-0-500-0-750-crop.jpg?v=4b59f667ec",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/bugis-street/",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "16:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.57,
-      "year": 1995,
-      "plot": "In 1960s Singapore when Bugis Street was a center of transvestite and transsexual prostitution, naïve sixteen-year-old Lian comes of age working as a receptionist for the Sin Sin Hotel, home to a gaggle of trans women whom all have stories of broken hearts and drunken sailors.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/56odNXCMN9GDnx5C3WvsNonqLFR.jpg",
-        "https://image.tmdb.org/t/p/w1280/S7JXuNZVwQHoyv8Ka9fOulbTOY.jpg",
-        "https://image.tmdb.org/t/p/w1280/vRpZDoVbNGxvpdAhnsh5G9WnkuG.jpg"
-      ],
-      "stills_focus": [
-        38.5,
-        20.6,
-        29.0
-      ],
-      "country": "Singapore",
-      "director_lbxd_slug": "yonfan",
-      "plot_pt": "Bugis Street (妖街皇后) (Yao jie huang hou, em cantonês) é um filme de Hong Kong e Singapura, dirigido por Yonfan e lançado em 13 de abril de 1995."
-    },
-    {
-      "id": "cinemateca_20256",
-      "title": "Shutter Island",
-      "director": "Martin Scorsese",
-      "year": 2010,
-      "duration": 138,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-500-0-750-crop.jpg?v=85dd4c38e3",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20256",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.2,
-      "plot": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
-      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
-        "https://image.tmdb.org/t/p/w1280/yJXDsrRywSfwG7IyvytzHdeAYnR.jpg",
-        "https://image.tmdb.org/t/p/w1280/6TMcyW2qbwvQfTGoQon7JNeaYOD.jpg"
-      ],
-      "stills_focus": [
-        26.6,
-        22.3,
-        27.7
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20259",
-      "title": "Shine A Light",
-      "director": "Martin Scorsese",
-      "year": 2008,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/5/0/47950-shine-a-light-0-500-0-750-crop.jpg?v=9b5629235c",
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20259",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.56,
-      "plot": "Martin Scorsese’s electrifying concert documentary captures The Rolling Stones live at New York’s Beacon Theatre during their A Bigger Bang tour. Filmed over two nights in 2006 with an all-star team of cinematographers, the film combines dynamic performances with archival footage and rare glimpses behind the scenes, offering a vibrant portrait of the band’s enduring energy and legacy.",
-      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/zzAuxUpfZDEspL33N3KlOCWxOLH.jpg",
-        "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
-      ],
-      "stills_focus": [
-        25.2,
-        54.9
-      ],
-      "country": "Canada",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20280",
-      "title": "Border Line",
-      "director": "Danièle Dubroux",
-      "year": 1992,
-      "duration": 90,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/5/5/5/5/305555-border-line-0-500-0-750-crop.jpg?v=e58023b61f",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20280",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "On a whim, the long-married Hélène decides to look up a former lover of hers. At his apartment, she is met by the man's grown son, Julien, who tells her that his father died just a few days before. Before long, she has become Julien's lover, but she is also increasingly becoming attached to the rather unlikely idea that Julien and she are genetically related. Meanwhile, her cardiologist husband cannot fathom her increasingly bizarre behavior. It is one thing to have an affair, even with a much younger man, but she seems to be edging ever-closer to the borderline between sanity and madness.",
-      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”.",
-      "country": "France",
-      "director_lbxd_slug": "daniele-dubroux"
-    },
-    {
-      "id": "cinemateca_20295",
-      "title": "Orlando",
-      "director": "Sally Potter",
-      "year": 1992,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/9/2/47292-orlando-0-500-0-750-crop.jpg?v=f27f26b77a",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20295",
-      "sessions": [
-        {
-          "date": "2026-09-21",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.91,
-      "plot": "England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.",
-      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/AoMYwa8yRvXcbRKdD5s8VwIN3NA.jpg",
-        "https://image.tmdb.org/t/p/w1280/zVKXgxCOnj01owWoia6wfRxw6WK.jpg",
-        "https://image.tmdb.org/t/p/w1280/3YAldML4EDyoC6RBpzceALigrAZ.jpg"
-      ],
-      "stills_focus": [
-        18.0,
-        48.0,
-        30.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "sally-potter"
-    },
-    {
-      "id": "cinemateca_20251",
-      "title": "The Aviator",
-      "director": "Martin Scorsese",
-      "year": 2004,
-      "duration": 170,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/3e/ft/n3/pz/y7TLJzyaz5ILCPqqvoJoVK0zfD3-0-500-0-750-crop.jpg?v=7d8d7fc76e",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20251",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
-      "plot_pt": "THE BIG SHAVE é o primeiro grito enraivecido de Martin Scorsese, realizado numa altura sombria da sua vida particular tal como durante um período trágico da vida do país, ainda a braços com uma guerra sanguinária e absurda travada no Vietname. Dá contornos de tragédia nacional ao gesto mais mundano e corriqueiro de todos: o corte da barba, mostrado como um pesadelo de um surrealismo violento e grotesco. TAXI DRIVER, um dos filmes fundamentais da década de setenta, foi dirigido por Scorsese segundo um argumento de Paul Schrader, e é talvez a maior representação da “solidão urbana”. É uma obra profundamente pessimista, sobre um ex-veterano do Vietname, marcado e traumatizado pelo drama que viveu e que percorre, de noite, em deambulações pela cidade, outro “inferno”: o submundo de Nova Iorque. O percurso de Travis (De Niro) culmina num massacre que se pretende redentor. Num dos momentos mais emblemáticos do filme, a personagem insiste em perguntar à sua imagem refletida num espelho: “Are you talking to me?”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/6KLKdhk9wZvJ6OcTzDCoxup0Kmh.jpg",
-        "https://image.tmdb.org/t/p/w1280/vVk0HV9HAqvvSfWiNGjpsOekLBS.jpg",
-        "https://image.tmdb.org/t/p/w1280/yRL8uh5YVq5XDuRHPoXQu0zt0Wa.jpg"
-      ],
-      "stills_focus": [
-        23.3,
-        47.8,
-        22.3
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20296",
-      "title": "Shinjuku Boys",
-      "director": "Kim Longinotto, Jano Williams",
-      "year": 1995,
-      "duration": 53,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/0/5/3/62053-shinjuku-boys-0-500-0-750-crop.jpg?v=46e24cfe12",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20296",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.14,
-      "plot": "This documentary is set in the New Marilyn night club in Tokyo, Japan - where the hosts are transgender men. They can only make their living as hosts in a nightclub with other wannabes like them. The young women who come there often have relationships with them but the underlying fear is whether such a relationship can withstand the pressures on a girl to get married and have children. All three boys deal with this in different ways. These three hosts, the Shinjuku Boys, take us into their lives.",
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/szd1nXObfjY8Co8olPaB9QAnPLA.jpg"
-      ],
-      "stills_focus": [
-        36.2
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "kim-longinotto-1"
-    },
-    {
-      "id": "cinemateca_20305",
-      "title": "Cinema – Alguns Cortes: Censura Iii",
-      "director": "Manuel Mozos",
-      "year": 2014,
-      "duration": 50,
-      "poster": null,
-      "genres": [
-        "Documentary",
-        "Short"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20305",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "A digest of cut scenes that survived from the Portuguese censorship film board, from films of various origins from 1945 to 1974. The present collection includes mostly scenes cut for political reasons, and a few for moral reasons.",
-      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward).",
-      "country": "Portugal"
-    },
-    {
-      "id": "cinemateca_20260",
-      "title": "The Wolf Of Wall Street",
-      "director": "Martin Scorsese",
-      "year": 2013,
-      "duration": 180,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/1/1/4/86114-the-wolf-of-wall-street-0-500-0-750-crop.jpg?v=a2b958b6f1",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20260",
-      "sessions": [
-        {
-          "date": "2026-09-22",
-          "time": "21:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.0,
-      "plot": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-        "https://image.tmdb.org/t/p/w1280/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
-        "https://image.tmdb.org/t/p/w1280/gqqIUxwey7z2P1scjGpG7G8Uscx.jpg"
-      ],
-      "stills_focus": [
-        46.0,
-        46.9,
-        18.3
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20254",
-      "title": "The Departed",
-      "director": "Martin Scorsese",
-      "year": 2006,
-      "duration": 151,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-500-0-750-crop.jpg?v=f5d8231026",
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20254",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.35,
-      "plot": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
-      "plot_pt": "Realizado pelo croata Krsto Papić, cineasta conhecido pelo seu cinema politicamente interventivo, IZBAVITELJ é uma rara sátira de terror oriunda do Bloco de Leste. Baseado num conto do escritor soviético Alexander Grin (vítima de uma purga estalinista), combina fantasia grotesca, alegoria política e inquietação gótica para criticar os mecanismos da ditadura e antecipar tensões étnicas e sociais. Considerado pela crítica como um dos melhores filmes croatas de sempre, foi o candidato da Jugoslávia ao Oscar de Melhor Filme Estrangeiro em 1977 e recebeu um prémio no Fantasporto 1981 (estrearia em julho de 1992 no cinema Politeama, em Lisboa).",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/6WRrGYalXXveItfpnipYdayFkQB.jpg",
-        "https://image.tmdb.org/t/p/w1280/cDFtxTxEtE3ljadfQ5SwtRTi8Iw.jpg",
-        "https://image.tmdb.org/t/p/w1280/9RuC3UD6mNZ0p1J6RbfJDUkQ03i.jpg"
-      ],
-      "stills_focus": [
-        36.8,
-        37.8,
-        24.8
-      ],
-      "country": "Hong Kong",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20297",
-      "title": "High Art",
-      "director": "Lisa Cholodenko",
-      "year": 1998,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/8/6/0/26860-high-art-0-500-0-750-crop.jpg?v=e3fb8875cf",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20297",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.34,
-      "plot": "When Syd, a young editor at an influential art magazine, becomes involved with her neighbor, a drug-addicted lesbian photographer, both seek to exploit each other for their respective careers while slowly falling in love with each other.",
-      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward).",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/z6Cxs29a2vX2Oq79sLCZ5BOZMJ7.jpg",
-        "https://image.tmdb.org/t/p/w1280/yTYR92DqJ9HgBvvRy7GL4P4Bx0G.jpg",
-        "https://image.tmdb.org/t/p/w1280/xlqH0aFIf4zAtTczF3lce6NXnEf.jpg"
-      ],
-      "stills_focus": [
-        32.8,
-        40.9,
-        29.6
-      ],
-      "country": "Canada",
-      "director_lbxd_slug": "lisa-cholodenko-1"
-    },
-    {
-      "id": "cinemateca_20262",
-      "title": "A Letter To Elia",
-      "director": "Martin Scorsese (e Kent Jones)",
-      "year": 2010,
-      "duration": 60,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20262",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward)."
-    },
-    {
-      "id": "cinemateca_20263",
-      "title": "Silence",
-      "director": "Martin Scorsese",
-      "year": 2016,
-      "duration": 161,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/5/0/4/52504-silence-0-500-0-750-crop.jpg?v=b1740fd4a3",
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20263",
-      "sessions": [
-        {
-          "date": "2026-09-23",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.02,
-      "plot": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
-      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward).",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
-        "https://image.tmdb.org/t/p/w1280/dUElfbkhY9urTLiE1MGFUc2WdcP.jpg",
-        "https://image.tmdb.org/t/p/w1280/dNpNQ0vNXRRZnElrI5XUngq5EEd.jpg"
-      ],
-      "stills_focus": [
-        24.1,
-        27.9,
-        31.7
-      ],
-      "country": "Mexico",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20228",
-      "title": "The Last Waltz",
-      "director": "Martin Scorsese",
-      "year": 1978,
-      "duration": 117,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/4/4/9/43449-the-last-waltz-0-500-0-750-crop.jpg?v=e137475542",
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20228",
-      "sessions": [
-        {
-          "date": "2026-09-24",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.26,
-      "plot": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends.",
-      "plot_pt": "ALICE’S RESTAURANT não é o nome de um restaurante, é apenas o nome de uma canção e, por extensão, deste filme. Arthur Penn dá vida à célebre composição de dezoito minutos de Arlo Guthrie – com o próprio cantor de folk a interpretar uma versão de si mesmo – que relata um episódio verídico da sua juventude. Preso por despejar lixo na via pública, Guthrie veria esse registo criminal tornar-se, mais tarde, o motivo pelo qual a junta militar o considerou inapto, moralmente, para servir na Guerra do Vietname. Inapto para matar por atirar lixo de uma ravina? Afinal tudo o que é preciso para escapar à guerra é cantar “You can get anything you want in Alice’s Restaurant”. A exibir em cópia 35mm.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
-        "https://image.tmdb.org/t/p/w1280/9K2MPICI1Jz3il86ISZLniQ6T2T.jpg",
-        "https://image.tmdb.org/t/p/w1280/8kX41oWjNt5R7337sgdMVvd07ZU.jpg"
-      ],
-      "stills_focus": [
-        21.8,
-        25.3,
-        39.8
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20265",
-      "title": "Hugo",
-      "director": "Martin Scorsese",
-      "year": 2011,
-      "duration": 126,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/9v/8u/7j/rSmmVKeW3nsP86V2S6R7ePs4CFw-0-500-0-750-crop.jpg?v=2e7a1b811a",
-      "genres": [
-        "Adventure",
-        "Family",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20265",
-      "sessions": [
-        {
-          "date": "2026-09-24",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.51,
-      "plot": "Orphaned and alone except for an uncle, Hugo Cabret lives in the walls of a train station in 1930s Paris. Hugo's job is to oil and maintain the station's clocks, but to him, his more important task is to protect a broken automaton and notebook left to him by his late father. Accompanied by the goddaughter of an embittered toy merchant, Hugo embarks on a quest to solve the mystery of the automaton and find a place he can call home.",
-      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
-        "https://image.tmdb.org/t/p/w1280/jlh5bNiSPcbQ79Nt31kE2GxIR3h.jpg",
-        "https://image.tmdb.org/t/p/w1280/h1W887ujJGKiqYSdv0DRjLZJG8J.jpg"
-      ],
-      "stills_focus": [
-        41.8,
-        28.3,
-        44.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20267",
-      "title": "George Harrison: Living In The Material World",
-      "director": "Martin Scorsese",
-      "year": 2011,
-      "duration": 208,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/5/5/1/9/1285519-george-harrison-living-in-the-material-world-0-500-0-750-crop.jpg?v=e1a1b83154",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20267",
-      "sessions": [
-        {
-          "date": "2026-09-24",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.17,
-      "plot": "He was part of the most famous rock-'n'-roll quartet in history. But George Harrison was much more than just a member of The Beatles.",
-      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/piMw4xxshI5lT5ieT8u5cTpXxyF.jpg",
-        "https://image.tmdb.org/t/p/w1280/oa97E5GlbHLHcF3Cn5Vsnh6Kkbw.jpg",
-        "https://a.ltrbxd.com/resized/sm/upload/0j/0w/yd/yl/georgeharrison-1920-1920-1080-1080-crop-000000.jpg?v=7a84645412"
-      ],
-      "stills_focus": [
-        40.6,
-        28.8,
-        36.8
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20298",
-      "title": "L’Homme Blessé",
-      "director": "Patrice Chéreau",
-      "year": 1983,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/3/4/5/50345-the-wounded-man-0-500-0-750-crop.jpg?v=d538185858",
-      "genres": [
-        "Romance",
-        "Crime",
-        "Thriller"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20298",
-      "sessions": [
-        {
-          "date": "2026-09-24",
-          "time": "21:45",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.52,
-      "plot": "A fleeting encounter in a train station draws a withdrawn young man into a shadowy world of desire and danger. As obsession deepens, innocence destroyed, and an irreversible transformation begins.",
-      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese.",
-      "title_en": "The Wounded Man",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/zqoWkhg7Z82Yg2vjnQnltcSpI5k.jpg",
-        "https://image.tmdb.org/t/p/w1280/hFZ9KW2RHcPL5tcrwWPYYMRAi6f.jpg",
-        "https://image.tmdb.org/t/p/w1280/m6MXfscV1eN7UvSKZu2Nzmbm3GF.jpg"
-      ],
-      "stills_focus": [
-        26.4,
-        32.6,
-        19.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "patrice-chereau"
-    },
-    {
-      "id": "cinemateca_20261",
-      "title": "The Wolf Of Wall Street",
-      "director": "Martin Scorsese",
-      "year": 2013,
-      "duration": 180,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/1/1/4/86114-the-wolf-of-wall-street-0-500-0-750-crop.jpg?v=a2b958b6f1",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20261",
-      "sessions": [
-        {
-          "date": "2026-09-25",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.0,
-      "plot": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-        "https://image.tmdb.org/t/p/w1280/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
-        "https://image.tmdb.org/t/p/w1280/gqqIUxwey7z2P1scjGpG7G8Uscx.jpg"
-      ],
-      "stills_focus": [
-        46.0,
-        46.9,
-        18.3
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20303",
-      "title": "The Iron Mask",
-      "director": "Allan Dwan",
-      "year": 1929,
-      "duration": 108,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/6/2/1/6/66216-the-iron-mask-0-500-0-750-crop.jpg?v=90c92b099a",
-      "genres": [
-        "Adventure",
-        "History"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20303",
-      "sessions": [
-        {
-          "date": "2026-09-25",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.52,
-      "plot": "King Louis XIII of France is thrilled to have born to him a son - an heir to the throne. But when the queen delivers a twin, Cardinal Richelieu sees the second son as a potential for revolution, and has him sent off to Spain to be raised in secret to ensure a peaceful future for France. Alas, keeping the secret means sending Constance, lover of D'Artagnan, off to a convent. D'Artagnan hears of this and rallies the Musketeers in a bid to rescue her. Unfortunately, Richelieu out-smarts the Musketeers and banishes them forever.",
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/l6dxdIQMsqTzKlWBCVk3AdB7Dv5.jpg",
-        "https://image.tmdb.org/t/p/w1280/gIXofYbBoXvnxUC7hfu5lx2J3Yq.jpg",
-        "https://image.tmdb.org/t/p/w1280/pQHa3lTU0Whr9ufkTu3WQ3cRBM9.jpg"
-      ],
-      "stills_focus": [
-        32.6,
-        43.0,
-        30.0
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "allan-dwan"
-    },
-    {
-      "id": "cinemateca_20299",
-      "title": "Black Is… Black Ain’t",
-      "director": "Marlon Riggs",
-      "year": 1994,
-      "duration": 87,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/3/8/0/5/63805-black-is-black-ain-t-0-500-0-750-crop.jpg?v=154729a063",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20299",
-      "sessions": [
-        {
-          "date": "2026-09-25",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "Sessão com apresentação e seguida de conversa após a projeção"
-          ]
-        }
-      ],
-      "rating": 4.3,
-      "plot": "African-American documentary filmmaker Marlon Riggs was working on this final film as he died from AIDS-related complications in 1994; he addresses the camera from his hospital bed in several scenes. The film directly addresses sexism and homophobia within the black community, with snippets of misogynistic and anti-gay slurs from popular hip-hop songs juxtaposed with interviews with African-American intellectuals and political theorists, including Cornel West, bell hooks and Angela Davis.",
-      "plot_pt": "O primeiro “remake” assumido na obra de Martin Scorsese (e só não é o único porque THE DEPARTED, na década seguinte, “refez” um filme de Hong Kong). O CAPE FEAR original, de 1962, assinado por um realizador que nunca foi muito considerado (Jack Lee Thompson) e protagonizado por um Robert Mitchum a dar largas à sua faceta mais violenta e perturbante, teve um efeito sobre toda uma geração de cineastas americanos, e aqui, de certa forma, Scorsese reconhece esse efeito prestando-lhe homenagem. Será essencialmente um exercício de estilo – Scorsese a prestar homenagem também a Hitchcock, entre outros – mas nos traços do corpo exagerado de Robert de Niro, e na sua violência psicopática, está uma hipérbole de todas aquelas figuras de masculinidade “tóxica” que Scorsese andava a filmar há praticamente vinte anos.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/b5hiYnjls9xxpJwbelKkAlFXGX2.jpg",
-        "https://image.tmdb.org/t/p/w1280/tPMgu3N91G8h2QxWmYBbIK7C6X0.jpg",
-        "https://a.ltrbxd.com/resized/sm/upload/j0/1d/2a/dk/black%20is-1920-1920-1080-1080-crop-000000.jpg?v=3e0e7c023b"
-      ],
-      "stills_focus": [
-        61.9,
-        23.6,
-        54.5
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "marlon-riggs"
     },
     {
       "id": "cinemateca_20207",
@@ -1837,9 +608,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/ytAvLmMGuotowtmjkX9x5LVYlT3.jpg"
       ],
       "stills_focus": [
-        45.6,
-        48.4,
-        42.7
+        45.7,
+        48.3,
+        42.8
       ],
       "country": "Portugal",
       "director_lbxd_slug": "catarina-ruivo"
@@ -2123,7 +894,7 @@ window.CINEMA_DATA = {
         "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
       ],
       "stills_focus": [
-        25.2,
+        25.1,
         54.9
       ],
       "country": "Canada",
@@ -2724,7 +1495,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/gVsYUzSVwur2TRHvFI6WLAzMgMr.jpg"
       ],
       "stills_focus": [
-        32.5,
+        32.4,
         43.2
       ],
       "country": "France",
@@ -2765,7 +1536,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         39.0,
-        33.2
+        33.1
       ],
       "country": "Austria",
       "director_lbxd_slug": "michael-haneke"
@@ -2844,7 +1615,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/bmCHTQZ69ivUQ4mTa45nsniSrZ7.jpg"
       ],
       "stills_focus": [
-        53.5,
+        53.1,
         38.9
       ],
       "country": "France",
@@ -3922,9 +2693,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
       ],
       "stills_focus": [
-        35.2,
-        28.0,
-        23.7
+        35.3,
+        27.9,
+        23.6
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -4319,7 +3090,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
       ],
       "stills_focus": [
-        30.2
+        30.1
       ],
       "country": "Algeria",
       "director_lbxd_slug": "luchino-visconti"
@@ -4784,7 +3555,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Lásky jedné plavovlásky",
-      "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro.",
+      "plot_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times.",
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "rating": 3.78,
@@ -5004,7 +3775,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico.",
       "plot": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
       "country": "Italy",
       "rating": 3.84,
@@ -5758,11 +4528,10 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Prefacio para el dialoguito",
-      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega",
       "plot": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
-      "country": "USA",
+      "country": "Argentina",
       "rating": 3.36,
-      "title_en": "Desire Lines",
+      "title_en": "You Burn Me",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
         "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
@@ -6017,7 +4786,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
-      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -6086,7 +4854,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -6109,7 +4876,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -6141,7 +4907,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -6990,7 +5755,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
-      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "stills": [
@@ -7282,7 +6046,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
-      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "stills": [
@@ -7614,7 +6377,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.68,
       "plot": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-      "plot_pt": "Em Tânger, uma idosa espanhola luta contra a venda de sua casa pela filha. Enquanto tenta manter seu lar e resgatar seus pertences, acaba a redescobrir o amor e o desejo.",
+      "plot_pt": "María Ángeles, uma mulher espanhola de 79 anos, vive sozinha em Tânger, Marrocos, e desfruta da sua rotina diária, até que a chegada da filha, vinda de Madrid com intenção de vender o apartamento onde María sempre viveu, vira a sua vida do avesso. Determinada a ficar, faz tudo o que pode para recuperar a sua casa e os seus bens. Inesperadamente, redescobre também o amor e a sensualidade.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg",
         "https://image.tmdb.org/t/p/w1280/2hy0wlH0iimNPQLHNBKmPbfVI5i.jpg",
@@ -8346,7 +7109,7 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Janet Baus, Su Friedrich": {
-      "lbxd_slug": null,
+      "lbxd_slug": "su-friedrich",
       "photo": null,
       "bio": null
     },
@@ -8356,7 +7119,7 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Jaume Claret Muxart": {
-      "lbxd_slug": null,
+      "lbxd_slug": "jaume-claret-muxart",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Jaume_Claret_Muxart_at_the_2026_New_Directors_New_Films_festival_02.jpg/500px-Jaume_Claret_Muxart_at_the_2026_New_Directors_New_Films_festival_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "Catalan filmmaker"
     },
