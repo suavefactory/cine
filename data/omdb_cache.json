@@ -25532,14 +25532,36 @@
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/6/51316-barren-lives-0-500-0-750-crop.jpg?v=338162fca4",
       "description": "In vivid images, the documentary-like story of a drover and his family in the northern badlands of Brazil during the drought. A family in the search of new hope and destiny.",
       "genres": [
+        "Western",
         "Drama"
       ],
       "country": "Brazil",
       "lb_director": "Nelson Pereira dos Santos",
       "lb_director_slug": "nelson-pereira-dos-santos",
-      "lb_year": 1963
+      "lb_year": 1963,
+      "lb_title": "Barren Lives",
+      "backdrop": null,
+      "imdb_id": "tt0057654",
+      "tmdb_id": "836"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1963,
+      "plot_pt": "Em \"Vidas Secas\", uma família pobre tenta escapar da seca no sertão nordestino. Fabiano (Átila Iório), Sinhá Vitória (Maria Ribeiro), os seus dois filhos e a cachorra Baleia vagueim sem destino e já quase sem esperanças pelos confins do interior, sobrevivendo às forças da natureza e à crueldade dos homens. Adaptação da obra homónima de Graciliano Ramos."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      16.5,
+      41.3,
+      26.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3KBuZG9keFgKAbIRnMMn4MoOzo7.jpg",
+      "https://image.tmdb.org/t/p/w1280/ueG5XtHSttjNZdZ2scKWKeNXYFl.jpg",
+      "https://image.tmdb.org/t/p/w1280/pK6m6Ck3ldRtY1xL2OhTmYEzQ1c.jpg"
+    ],
+    "tmdb_id": "836"
   },
   "Nazarín|1959": {
     "lbxd": {
@@ -43404,7 +43426,7 @@
     "stills_focus": [
       30.9,
       29.3,
-      30.1
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yA2fl30o2FkaGItuggq6eRhRZFp.jpg",
@@ -43469,7 +43491,7 @@
     "tmdb_id": "460646",
     "wiki_tries": 3,
     "stills_focus": [
-      37.2
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
@@ -43661,7 +43683,7 @@
     "tmdb_id": "295039",
     "wiki_tries": 3,
     "stills_focus": [
-      51.4
+      50.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
@@ -44203,7 +44225,7 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3
+      36.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg"
@@ -63095,7 +63117,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      29.3
+      29.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
@@ -63322,7 +63344,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.5,
+      25.2,
       54.9
     ],
     "stills": [
@@ -65010,8 +65032,8 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      42.3,
-      39.4
+      42.4,
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2EWGt2mqGvytJQWZc8S4aSsFOoe.jpg",
@@ -70721,5 +70743,88 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "La Bataille de Gaulle: L’âge de fer|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Umberto D.|1952": {
+    "lbxd": {
+      "rating": 4.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/9/51319-umberto-d--0-500-0-750-crop.jpg?v=1a5ed7cfcc",
+      "description": "When elderly pensioner Umberto Domenico Ferrari returns to his boarding house from a protest calling for a hike in old-age pensions, his landlady demands her 15,000-lire rent by the end of the month or he and his small dog will be turned out onto the street. Unable to get the money in time, Umberto fakes illness to get sent to a hospital, giving his beloved dog to the landlady's pregnant and abandoned maid for temporary safekeeping.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Vittorio De Sica",
+      "lb_director_slug": "vittorio-de-sica-1",
+      "lb_year": 1952,
+      "lb_title": "Umberto D.",
+      "backdrop": null,
+      "imdb_id": "tt0045274",
+      "tmdb_id": "833"
+    },
+    "omdb": {
+      "Title": "Umberto D.",
+      "Year": "1952",
+      "Rated": "Not Rated",
+      "Released": "07 Nov 1955",
+      "Runtime": "89 min",
+      "Genre": "Drama",
+      "Director": "Vittorio De Sica",
+      "Writer": "Cesare Zavattini",
+      "Actors": "Carlo Battisti, Maria Pia Casilio, Lina Gennari",
+      "Plot": "An elderly man and his dog struggle to survive on his government pension in Rome.",
+      "Language": "Italian",
+      "Country": "Italy",
+      "Awards": "Nominated for 1 Oscar. 3 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRkY2VmOTEtMTk5My00OWZmLWFmYWMtODE3ZmYyZTBhNTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.1",
+      "imdbVotes": "30,490",
+      "imdbID": "tt0045274",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$71,816",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1952,
+      "plot_pt": "Esta obra-prima neorrealista de Vittorio De Sica acompanha um idoso reformado enquanto tenta sobreviver durante a recuperação económica do pós-guerra na Itália. Sozinho, exceto pelo seu cão, Flike, Umberto luta para manter a sua dignidade numa cidade onde a bondade humana parece ter sido engolida pelas forças da modernização. A sua simples busca para satisfazer as suas necessidades básicas — comida, abrigo, companhia — torna esta história uma das mais comoventes já filmadas e um clássico essencial do cinema mundial."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.1,
+      34.1,
+      32.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dop0CEPeeW3BXDUGL1oDt9ywgK.jpg",
+      "https://image.tmdb.org/t/p/w1280/3VNlaaf2onfbdrI5jJchpv4pxGB.jpg",
+      "https://image.tmdb.org/t/p/w1280/oHL7gjqFgxHiwm45hqj4Xou9Odg.jpg"
+    ],
+    "tmdb_id": "833"
   }
 }
