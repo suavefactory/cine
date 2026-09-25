@@ -142,9 +142,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/dzXxL4zgBHNDSbyZqwpf4lkSava.jpg"
       ],
       "stills_focus": [
-        36.8,
+        36.6,
         41.3,
-        44.8
+        44.9
       ]
     },
     {
@@ -175,14 +175,15 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/rjGSQKTA6SlbF9YtPDGw65HzqqG.jpg"
       ],
       "stills_focus": [
-        38.8,
+        38.9,
         24.0,
         36.3
       ],
       "country": "Mexico",
       "director_lbxd_slug": "uriel-reyes",
       "rating": 3.51,
-      "title_en": "On the Road"
+      "title_en": "On the Road",
+      "plot_pt": "En el camino é um filme mexicano de romance e suspense de 2025 escrito e dirigido por David Pablos. É estrelado por Victor Prieto e Osvaldo Sanchez.\nO filme teve sua estreia mundial na seção Orizzonti do 82º Festival Internacional de Cinema de Veneza em 4 de setembro de 2025, onde ganhou o prêmio principal da seção e o Queer Lion. Também foi selecionado como o representante mexicano para Melhor Filme Internacional no 99º Oscar."
     },
     {
       "id": "sao_jorge_11821",
@@ -795,7 +796,7 @@ window.CINEMA_DATA = {
         "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
       ],
       "stills_focus": [
-        25.5,
+        25.2,
         54.9
       ],
       "country": "Canada",
