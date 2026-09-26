@@ -63349,7 +63349,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.2,
+      25.5,
       54.9
     ],
     "stills": [
@@ -70901,6 +70901,135 @@
       "https://image.tmdb.org/t/p/w1280/666P96JJCF4Wd91JUzcZYRMl47y.jpg"
     ],
     "tmdb_id": "31304",
-    "wiki_tries": 2
+    "wiki_tries": 3
+  },
+  "Digger|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/2/6/8/8/1132688-digger-2026-0-500-0-750-crop.jpg?v=81ec883a95",
+      "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Alejandro G. Iñárritu",
+      "lb_director_slug": "alejandro-g-inarritu",
+      "lb_year": 2026,
+      "lb_title": "Digger",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/9e/bq/fx/ti/digger-1920-1920-1080-1080-crop-000000.jpg?v=96e129a6f2",
+      "imdb_id": "tt31450459",
+      "tmdb_id": "1248832"
+    },
+    "omdb": {
+      "Title": "Digger",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "02 Oct 2026",
+      "Runtime": "106 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Alejandro G. Iñárritu",
+      "Writer": "Sabina Berman, Alexander Dinelaris, Nicolás Giacobone",
+      "Actors": "Tom Cruise, Riz Ahmed, Aetheria Angel",
+      "Plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Mexico",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt31450459",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Digger (2026 film)",
+      "imdb_id": "tt31450459",
+      "extract_pt": "Digger é um filme satírico de humor negro dirigido por Alejandro G. Iñárritu, que coescreveu o roteiro com Sabina Berman, Alexander Dinelaris Jr. e Nicolás Giacobone, a partir de uma história de Iñárritu e Berman. O longa é uma coprodução dos Estados Unidos, Reino Unido e México. É estrelado por Tom Cruise, ao lado de um elenco que inclui Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg e Jesse Plemons."
+    },
+    "cinema": {
+      "year": 2026,
+      "country": "México, Reino Unido e Estados Unidos",
+      "plot_pt": "Digger acompanha o homem mais poderoso do mundo que, após provocar um desastre ambiental de proporções globais, começa uma missão intensa para reparar os danos que ele mesmo causou e provar que é o salvador da humanidade. Em uma corrida contra o tempo, ele precisa enfrentar as consequências de suas decisões antes que a crise saia completamente do controle e ameace o futuro do planeta. Nessa trajetória, o bilionário cruza o caminho de algumas das figuras mais influentes do mundo, incluindo o presidente dos Estados Unidos, enquanto tenta recuperar sua credibilidade. O filme mistura drama épico e reflete sobre responsabilidade e os impactos da ambição desenfreada em uma narrativa repleta de tensão."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.2,
+      34.0,
+      20.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "https://image.tmdb.org/t/p/w1280/244Hk4UVxrgdotp0pfkvnW9Iand.jpg",
+      "https://image.tmdb.org/t/p/w1280/vlJHTUMyfPw9398oIvcosdNWSSw.jpg"
+    ],
+    "tmdb_id": "1248832"
+  },
+  "Fuck the Polis|2025": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/0/2/9/1/1370291-fuck-the-polis-0-500-0-750-crop.jpg?v=40c3c0850f",
+      "description": "Twenty years ago, believing she was doomed, Irma took a trip to Greece. Today, she retraces that journey, accompanied by three young men. From island to island, between sky and sea, the travelers read, listen and live, carried by a longing for beauty and clarity.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2025,
+      "lb_title": "Fuck the Polis",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/7/0/2/9/1/tmdb/7KCO5hHfllj9HmRIpB6jxp5fPeR-1920-1920-1080-1080-crop-000000.jpg?v=283631dbd4",
+      "imdb_id": "tt37243951",
+      "tmdb_id": "1493022"
+    },
+    "omdb": {
+      "Title": "Fuck the Polis",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "10 Jul 2025",
+      "Runtime": "74 min",
+      "Genre": "Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes, Regina Guimarães",
+      "Actors": "Bingham Bryant, Maria Farantouri, Rita Azevedo Gomes",
+      "Plot": "N/A",
+      "Language": "Portuguese, Greek",
+      "Country": "Portugal",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTgxMzcyNTEtMzg2NC00Y2VlLWJjNWYtZGY5YTM2MWE4NDJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37243951",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2025,
+      "plot_pt": "O anúncio de uma doença funesta leva Irma até à Grécia, reino da claridade, onde faz uma viagem ditada pelo deus Apolo e norteada pelos respectivos lugares sagrados. Cerca de vinte anos depois, Irma empreende uma revisitação desse périplo apolíneo."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      47.2,
+      42.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/7KCO5hHfllj9HmRIpB6jxp5fPeR.jpg",
+      "https://image.tmdb.org/t/p/w1280/jQqpCGJ15LoxOmBf9l59qkRu1x8.jpg"
+    ],
+    "tmdb_id": "1493022"
   }
 }

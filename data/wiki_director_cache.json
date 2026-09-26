@@ -2182,5 +2182,10 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Alejandro González Iñarritu": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg/500px-MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Alejandro González Iñárritu (born 15 August 1963) is a Mexican filmmaker. He is primarily known for making modern psychological drama films about the human condition. His most notable films include Amores perros (2000), 21 Grams (2003), Babel (2006), Biutiful (2010), Birdman (2014), The Revenant (2015), and Bardo (2022).",
+    "tries": 1
   }
 }
