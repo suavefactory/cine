@@ -28,12 +28,13 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/3PGKBMDpsFhAB6xdHEJOKs3AhxW.jpg"
       ],
       "stills_focus": [
-        39.2,
+        38.7,
         38.2,
         24.7
       ],
       "country": "France",
-      "director_lbxd_slug": "mathieu-kassovitz"
+      "director_lbxd_slug": "mathieu-kassovitz",
+      "plot_pt": "La Haine [pronúncia em francês: ​[la ɛn], (bra/prt: O Ódio)] é um filme francês de 1995, dos gêneros drama criminal e suspense, dirigido por Mathieu Kassovitz, e estrelado por Vincent Cassel, Hubert Koundé e Saïd Taghmaoui. O roteiro do próprio Kassovitz foi baseado em sua própria história. Seu título deriva de uma frase dita por um deles, Hubert: \"La haine attire la haine!\" (\"O ódio atrai o ódio!\").\nA trama retrata a história de um dia na vida de três amigos de um bairro pobre de imigrantes nos subúrbios de Paris."
     },
     {
       "id": "sao_jorge_11983",
@@ -86,7 +87,8 @@ window.CINEMA_DATA = {
         52.8
       ],
       "country": "France",
-      "director_lbxd_slug": "jean-pierre-jeunet"
+      "director_lbxd_slug": "jean-pierre-jeunet",
+      "plot_pt": "Jean-Pierre Jeunet (Le Coteau, 3 de setembro de 1953) é um cineasta e roteirista francês, conhecido pelos seus filmes Delicatessen, A Cidade das Crianças Perdidas, Alien - A Ressurreição e O Fabuloso Destino de Amelie.\nOs seus filmes misturam o fantástico à realidade em diversas proporções, seja na criação de universos fantásticos, seja dando relevância ao acaso no quotidiano (Le fabuleux destin d'Amélie Poulain). Além disso, a sua obra traz sempre um pouco de humor infantil, mesmo nos filmes que tratam de horror (Alien Resurrection)."
     },
     {
       "id": "sao_jorge_11915",
@@ -183,13 +185,14 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_11881",
       "title": "L’Inconnue",
-      "director": null,
+      "director": "Arthur Harari",
       "duration": 140,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/6/4/9/6/1636496-linconnue-0-500-0-750-crop.jpg?v=d85374d077",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Mystery",
+        "Drama",
+        "Fantasy"
       ],
       "link": "https://cinemasaojorge.pt/evento/linconnue/",
       "sessions": [
@@ -200,17 +203,22 @@ window.CINEMA_DATA = {
         }
       ],
       "year": 2026,
-      "plot": "The story plunges us into a hangar at night, where friends are having fun with a disguise, unintentionally frightening their friend who is standing guard.",
+      "plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/aC6hM1IlbDzaeGgkvW9zehH9yFT.jpg",
-        "https://image.tmdb.org/t/p/w1280/5PxE12fQr9pn11cAFszRWmQe2OL.jpg"
+        "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
+        "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
+        "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
       ],
       "stills_focus": [
-        38.7,
-        36.7
+        42.1,
+        44.0,
+        32.8
       ],
       "country": "France",
-      "director_lbxd_slug": "mathieu-barthez-2"
+      "director_lbxd_slug": "mathieu-barthez-2",
+      "rating": 3.2,
+      "plot_pt": "L'Inconnue (em inglês: The Unknown) é um longa-metragem de fantasia psicólogica franco-italiana dirigido por Arthur Harari e escrito pelo mesmo em parceira a Lucas Harari e Vincent Poymiro inspirado na história em quadrinhos Le cas David Zimmerman escrita por Arthur escreveu em parceria com seu irmão Lucas. Estrelado por Léa Seydoux, Niels Schneider, Victoire Du Bois e Radu Jude, conta a história de David, um fotógrafo parisiense, cuja vida muda radicalmente após um encontro com uma misteriosa entidade.\nO filme teve sua estreia mundial na competição principal do Festival de Cannes de 2026, em 18 de maio, onde concorreu à Palma de Ouro; e foi lançado nos cinemas da França pela Pathé em 26 de agosto.",
+      "title_en": "The Unknown"
     },
     {
       "id": "sao_jorge_11919",
@@ -218,7 +226,7 @@ window.CINEMA_DATA = {
       "director": "José Mojica Marins",
       "duration": 95,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/66b6b82f583cf19efd1af58a72666d80.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/1/1/3/7/241137-the-curse-0-500-0-750-crop.jpg?v=ca2cebee9e",
       "genres": [
         "Horror"
       ],
@@ -235,7 +243,7 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "While out for a walk in the countryside, Marina and Juvenal stop to take some pictures in front of an old woman's house. Annoyed, the old woman turns out to be a witch and casts a curse on the young couple.",
+      "plot": "While out for a walk in the countryside, Marina and Juvenal stop to take some pictures in front of an old woman’s house. Annoyed, the old woman turns out to be a witch and casts a curse on the young couple in the form of a wound that feeds on raw flesh.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/dQopBXcPLMEZRdMt5TkfR1caIDv.jpg",
         "https://image.tmdb.org/t/p/w1280/pweghz7ycqy7hg4hnLs4dDai3Ww.jpg",
@@ -247,7 +255,11 @@ window.CINEMA_DATA = {
         49.5
       ],
       "country": "Brazil",
-      "year": 2021
+      "year": 2021,
+      "rating": 3.43,
+      "plot_pt": "Zé do Caixão (conhecido nos países de língua inglesa como Coffin Joe) é um personagem do cinema brasileiro. É uma figura bastante conhecida mundialmente pelos filmes de terror. Seu criador e intérprete, José Mojica Marins, é mais conhecido pelo nome de seu personagem do que pelo seu nome próprio. O personagem é um agente funerário amoral com crenças nietzschianas, que é movido por seu desejo de ter um filho com uma \"mulher perfeita\", acreditando que a imortalidade é alcançada através da procriação, um conceito a que ele se refere como \"a continuação do sangue\".",
+      "title_en": "The Curse",
+      "director_lbxd_slug": "jose-mojica-marins"
     },
     {
       "id": "sao_jorge_11877",
@@ -328,7 +340,8 @@ window.CINEMA_DATA = {
         24.6
       ],
       "country": "France",
-      "director_lbxd_slug": "asghar-farhadi"
+      "director_lbxd_slug": "asghar-farhadi",
+      "plot_pt": "Histoires parallèles (no Brasil: Contos Paralelos e em inglês: Parallel Tales) é um longa-metragem de drama lançado em 2026 escrito e dirigido por Asghar Farhadi. Coproduzido entre a França, Estados Unidos, Itália e Bélgica, é levemente inspirado em Dekalog: Six, de Krzysztof Kieślowski e Krzysztof Piesiewicz, um de seis filmes escritos para a televisão polonesa. Estrelado por Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney e Adam Bessa, acompanha Sylvie (Huppert), uma famosa escritora que busca inspiração observando os vizinhos do outro lado da rua e que contrata o misterioso Adam (Bessa) como assistente, mas ele rapidamente vira sua vida de cabeça para baixo.\nO filme teve sua estreia mundial na competição principal do Festival de Cannes de 2026 em 14 de maio e foi lançado nos cinemas da França no mesmo dia pela Memento Films."
     },
     {
       "id": "sao_jorge_11885",
@@ -581,8 +594,8 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         30.5,
-        19.8,
-        27.0
+        19.7,
+        26.9
       ],
       "country": "France",
       "year": 1896
@@ -622,7 +635,8 @@ window.CINEMA_DATA = {
         28.8
       ],
       "country": "France",
-      "director_lbxd_slug": "agnes-jaoui"
+      "director_lbxd_slug": "agnes-jaoui",
+      "plot_pt": "A 79.ª edição anual do Festival de Cannes foi um festival internacional de cinema ocorrido entre os dias 12 e 23 de maio de 2026 em Cannes, na França. Presidido pelo cineasta sul-coreano, Park Chan-wook, a mostra competitiva do festival premiou com a Palma de Ouro, Cristian Mungiu, diretor e roteirista romeno do longa-metragem dramático, Fjord. \nO pôster oficial do festival foi criado pelo estúdio Hartland Villa e traz as atrizes Geena Davis e Susan Sarandon em uma imagem feita nos bastidores de gravações de Thelma & Louise, dirigido por Ridley Scott, escolhido como filme de encerramento da 44ª edição do festival em 1991. A atriz francesa Eye Haïdara foi a apresentadora das cerimônias de abertura e encerramento."
     },
     {
       "id": "sao_jorge_11913",
@@ -655,7 +669,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/mCF79jj7s5KZAyqxvNGJxEnF32P.jpg"
       ],
       "stills_focus": [
-        49.4
+        49.6
       ],
       "country": "Central African Republic",
       "director_lbxd_slug": "rafiki-fariala"
@@ -694,8 +708,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/uJJwOT3jUWcZyBPWeqA504ApWmy.jpg"
       ],
       "stills_focus": [
-        28.1,
-        37.5,
+        28.0,
+        45.3,
         27.5
       ],
       "country": "Belgium",
@@ -704,7 +718,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_11921",
       "title": "Paradise",
-      "director": null,
+      "director": "Stuart Gillard",
       "duration": 90,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/6/37146-paradise-0-500-0-750-crop.jpg?v=f6ac081575",
@@ -734,9 +748,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/n60yxoktCQFDmIx4QpGjDhmz7TU.jpg"
       ],
       "stills_focus": [
-        28.8,
-        44.7,
-        16.7
+        28.5,
+        44.8,
+        16.8
       ],
       "country": "Canada",
       "director_lbxd_slug": "stuart-gillard"
@@ -774,9 +788,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/jgpYoMmSLt5SvdLOpqHJptOzhBs.jpg"
       ],
       "stills_focus": [
-        45.4,
-        35.8,
-        23.8
+        45.1,
+        35.7,
+        23.7
       ],
       "country": "France",
       "director_lbxd_slug": "julien-gaspar-oliveri"
@@ -803,16 +817,6 @@ window.CINEMA_DATA = {
       "rating": 4.23,
       "year": 2007,
       "plot": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
-        "https://image.tmdb.org/t/p/w1280/efoD6dDoo2WwkGfHjgIuHy79S1k.jpg",
-        "https://image.tmdb.org/t/p/w1280/6kqybERm5qi2jGpu8I7DaQPxpSU.jpg"
-      ],
-      "stills_focus": [
-        24.9,
-        25.6,
-        35.4
-      ],
       "country": "France",
       "director_lbxd_slug": "marjane-satrapi"
     },
@@ -960,7 +964,8 @@ window.CINEMA_DATA = {
         40.6
       ],
       "country": "France",
-      "director_lbxd_slug": "claude-nuridsany"
+      "director_lbxd_slug": "claude-nuridsany",
+      "plot_pt": "Microcosmos: Le peuple de l'herbe (bra/prt: Microcosmos) é um filme documental realizado por Claude Nuridsany e Marie Pérennou."
     },
     {
       "id": "sao_jorge_11951",
@@ -969,7 +974,9 @@ window.CINEMA_DATA = {
       "duration": 97,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/6/9/9/1282699-curtas-0-500-0-750-crop.jpg?v=e38cae0929",
-      "genres": [],
+      "genres": [
+        "Comedy"
+      ],
       "link": "https://cinemasaojorge.pt/evento/curtas-courts-metrages/",
       "sessions": [
         {
@@ -1018,7 +1025,8 @@ window.CINEMA_DATA = {
         50.0
       ],
       "country": "France",
-      "director_lbxd_slug": "ugo-bienvenu"
+      "director_lbxd_slug": "ugo-bienvenu",
+      "plot_pt": "Arco é um filme de animação francês de ficção científica e fantasia de 2025, dirigido por Ugo Bienvenu.\nO filme teve sua estreia mundial no Festival de Cannes de 2025, em 16 de maio. Foi indicado a Melhor Animação no Critics' Choice Awards, Globo de Ouro e Oscar.\nO filme estreou nos cinemas franceses em 22 de outubro."
     },
     {
       "id": "sao_jorge_11955",
@@ -1044,16 +1052,6 @@ window.CINEMA_DATA = {
       "year": 2024,
       "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
       "title_en": "When Fall Is Coming",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/z3zeYgp8P8SqTypwatOHINDCnHM.jpg",
-        "https://image.tmdb.org/t/p/w1280/16ruM41MJNYQF09q1JJxO8o1uwU.jpg",
-        "https://image.tmdb.org/t/p/w1280/iljIkk70Ury2ofekG0V5wKLmmZ.jpg"
-      ],
-      "stills_focus": [
-        29.1,
-        30.9,
-        16.2
-      ],
       "country": "France",
       "director_lbxd_slug": "francois-ozon"
     },
@@ -1399,7 +1397,7 @@ window.CINEMA_DATA = {
         "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
       ],
       "stills_focus": [
-        25.2,
+        25.5,
         54.9
       ],
       "country": "Canada",
@@ -1593,8 +1591,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/chnTRRxshZy3EADOWqRKkd3CTNi.jpg"
       ],
       "stills_focus": [
-        48.6,
-        52.6
+        48.5,
+        52.4
       ],
       "country": "Belgium",
       "director_lbxd_slug": "michael-hegner"
@@ -2602,7 +2600,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         39.0,
-        33.1
+        33.2
       ],
       "country": "Austria",
       "director_lbxd_slug": "michael-haneke"
@@ -2670,9 +2668,9 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
       ],
       "stills_focus": [
-        35.3,
-        27.9,
-        23.6
+        35.2,
+        28.0,
+        23.7
       ],
       "country": "France",
       "director_lbxd_slug": "agnes-varda"
@@ -3172,7 +3170,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
       ],
       "stills_focus": [
-        30.1
+        30.2
       ],
       "country": "Algeria",
       "director_lbxd_slug": "luchino-visconti"
@@ -3540,7 +3538,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         61.1,
-        37.8,
+        37.9,
         45.5
       ]
     },
@@ -3662,7 +3660,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Lásky jedné plavovlásky",
-      "plot_pt": "Andula, aprendiz de uma fábrica, conhece um pianista de Praga de passagem pela cidade. Após passarem a noite juntos, a jovem leva demasiado a sério um convite casual — acabando por fazer as malas e perceber, ao chegar ao destino, que ninguém a espera. Equilibrando comédia romântica, drama e sátira social, Forman constrói um retrato profundamente humano da solidão e da passagem à idade adulta. Considerado um dos exemplos mais marcantes da Nova Onda Checa, Loves of a Blonde confirma o olhar simultaneamente terno e mordaz de Forman sobre a juventude e as ilusões românticas. O filme estreou na secção competitiva do Festival de Veneza e foi nomeado para o Óscar de Melhor Filme Estrangeiro.",
+      "plot_pt": "Lásky jedné plavovlásky, Brasil: Os Amores de uma Loira , é um filme checo de 1965 dirigido por Miloš Forman.\nO filme faz parte da lista dos 1.000 melhores filmes de todos os tempos do The New York Times.",
       "plot": "Andula, an innocent Czech girl from a factory town, is desperately in search of love. She believes she's found it when she beds Milda, a charming young musician visiting from Prague. Milda, however, is only looking for a casual encounter, and leaves town assuming he'll never see Andula again. But when Andula doesn't hear from him, she packs up and heads to Prague, to the surprise of Milda and his parents.",
       "country": "Czechoslovakia",
       "rating": 3.78,
@@ -3882,7 +3880,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Desdémona, filha de um aristocrata veneziano, foge com o general mouro Othello, despertando a inveja e o ressentimento de Iago. Familiarizado com as fragilidades do herói, Iago manipula-o através de suspeitas e intrigas que conduzem Othello progressivamente à desconfiança e à destruição emocional. Adaptação da tragédia homónima de William Shakespeare, Othello é um dos projetos mais pessoais de Orson Welles, que assina a realização, produção e interpretação do protagonista. Embora historicamente relevante, o filme reflete convenções de representação racial da época que hoje exigem um enquadramento crítico.",
       "plot": "Manipulated by his jealous ensign Iago, the Moorish general Othello is driven to believe that his new wife Desdemona is unfaithful, setting in motion a chain of deception, jealousy, and violence that leads to tragedy.",
       "country": "Italy",
       "rating": 3.84,
@@ -4636,11 +4633,10 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Prefacio para el dialoguito",
-      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega",
       "plot": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
-      "country": "USA",
+      "country": "Argentina",
       "rating": 3.36,
-      "title_en": "Desire Lines",
+      "title_en": "You Burn Me",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
         "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
@@ -4895,7 +4891,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
-      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4964,7 +4959,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -4987,7 +4981,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -5019,7 +5012,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -5905,7 +5897,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
-      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "stills": [
@@ -6197,7 +6188,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
-      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "stills": [
@@ -6905,8 +6895,13 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Arthur Harari": {
+      "lbxd_slug": "mathieu-barthez-2",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Arthur_Harari_2017.jpg/500px-Arthur_Harari_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Arthur Harari (born 1981 in Paris) is a French film director, screenwriter and actor. He is most known for co-writing Anatomy of a Fall (2023) with Justine Triet, for which he won the Golden Globe Award for Best Screenplay, BAFTA Award for Best Original Screenplay, César Award for Best Original Screenplay and Academy Award for Best Original Screenplay. He made his directorial debut in 2016 with the crime drama Dark Inclusion."
+    },
     "José Mojica Marins": {
-      "lbxd_slug": null,
+      "lbxd_slug": "jose-mojica-marins",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg/500px-Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "José Mojica Marins (13 March 1936 – 19 February 2020) was a Brazilian filmmaker, actor, composer, screenwriter, and television horror host. Marins is also known for creating and playing the character Coffin Joe (loosely translated from Zé do Caixão) in a series of horror films; the character has since gone on to become his alter ego as well as a pop culture icon, a horror icon, and a cult figure. The popularity of Coffin Joe in Brazil has led to the character being referred to as \"Brazil's National Boogeyman\" and \"Brazil's Freddy Krueger\"."
     },
@@ -6944,6 +6939,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "felix-de-givry",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/F%C3%A9lix_de_Givry_2015.jpg/500px-F%C3%A9lix_de_Givry_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "French actor and entrepreneur"
+    },
+    "Stuart Gillard": {
+      "lbxd_slug": "stuart-gillard",
+      "photo": null,
+      "bio": "Stuart Thomas Gillard (born April 28, 1950) is a Canadian film director, writer, producer, actor and television director. He is best known for directing the films Teenage Mutant Ninja Turtles III (1993) and RocketMan (1997). He also wrote and directed the romance film Paradise in 1982, his directing debut."
     },
     "Julien Gaspar-Oliveri": {
       "lbxd_slug": "julien-gaspar-oliveri",

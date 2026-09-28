@@ -33266,7 +33266,7 @@
     },
     "tmdb_id": "31332",
     "stills_focus": [
-      30.1
+      30.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
@@ -39315,46 +39315,11 @@
   },
   "Persépolis|2007": {
     "lbxd": null,
-    "omdb": {
-      "Title": "Persepolis",
-      "Year": "2007",
-      "Rated": "PG-13",
-      "Released": "22 Feb 2008",
-      "Runtime": "96 min",
-      "Genre": "Animation, Biography, Drama",
-      "Director": "Vincent Paronnaud, Marjane Satrapi",
-      "Writer": "Marjane Satrapi, Vincent Paronnaud",
-      "Actors": "Chiara Mastroianni, Catherine Deneuve, Gena Rowlands",
-      "Plot": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
-      "Language": "French, English, Persian, German",
-      "Country": "France, United States",
-      "Awards": "Nominated for 1 Oscar. 30 wins & 58 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk3NTI2NGUtNmM1Yy00YTRmLWE2YTItZTYyNGM0ZjdjOTliXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "96%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "90/100"
-        }
-      ],
-      "Metascore": "90",
-      "imdbRating": "8.0",
-      "imdbVotes": "102,920",
-      "imdbID": "tt0808417",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$4,445,756",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    }
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   },
   "BEM-VINDOS CONQUISTADORES INTERPLANETÁRIOS E DO ESPAÇO SIDERAL|None": {
     "lbxd": null,
@@ -59230,7 +59195,7 @@
     "dir_checked": true,
     "stills_focus": [
       39.0,
-      33.1
+      33.2
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/6n4uHX4j943VAOz9L1hKqwpUrsj.jpg",
@@ -63370,7 +63335,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      25.2,
+      25.5,
       54.9
     ],
     "stills": [
@@ -65125,7 +65090,7 @@
     "dir_checked": true,
     "stills_focus": [
       61.1,
-      37.8,
+      37.9,
       45.5
     ],
     "stills": [
@@ -72717,7 +72682,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "And God Created Woman (1956 film)",
+      "imdb_id": "tt0049189",
+      "extract_pt": "Et Dieu… créa la femme é um filme ítalo-francês de 1956 com direção de Roger Vadim e estrelado por Brigitte Bardot, Curd Jürgens e Jean-Louis Trintignant. É reconhecido como o filme que lançou Bardot ao estrelato e a tornou o sex-symbol do cinema europeu por três décadas.\nQuando o filme foi exibido, causou escândalo na França e na Europa e imediatamente transformou Brigitte Bardot em uma sensação nos Estados Unidos, onde a obra foi condenada pela Liga da Decência Católica por ultrapassar os limites da representação da sexualidade no cinema americano. A maioria das cópias disponíveis foram fortemente editadas para se adequar aos padrões de censura do Código Hays."
+    },
     "cinema": {
       "plot_pt": "É um dos mais famosos filmes do começo do cinema sonoro alemão, sobre o despertar dos sentimentos de uma jovem, num pensionato feminino, e os laços fortes de intimidade que começam a ligá-la a uma das professoras. Por representar o amor entre duas mulheres de forma explícita, foi proibido nos Estados Unidos e um jornalista português escreveu que a protagonista “deveria ser internada numa casa de correção”. Realizado por Leontine Sagan, naquele que foi o seu primeiro filme como realizadora (e o único de que se conservam cópias), MÄDCHEN IN UNIFORM adapta uma peça de teatro, meio onde Sagan se havia afirmado (foi aluna de Max Reinhardt, começou como atriz e depois afirmou-se como encenadora). Um marco na História do Cinema a apresentar em cópia de 35mm preservada pela Cinemateca Portuguesa."
     },
@@ -72732,7 +72701,8 @@
       "https://image.tmdb.org/t/p/w1280/uM56xQlagTRMbUVvn9dce3LJnp2.jpg",
       "https://image.tmdb.org/t/p/w1280/56Jqu68IjBeAbyMugzGlXuiYd6d.jpg"
     ],
-    "tmdb_id": "8420"
+    "tmdb_id": "8420",
+    "wiki_tries": 1
   },
   "The Ugly Duckling And Me!|2006": {
     "lbxd": {
@@ -72785,20 +72755,25 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Ugly Duckling and Me!",
+      "imdb_id": "tt0396042",
+      "extract_pt": "The Ugly Duckling and Me! (O Patinho Feio e Eu, em Portugal; Putz! A Coisa Tá Feia, no Brasil; em dinamarquês Den grimme ælling og mig) é um filme de animação lançado em 2006 e realizado por Michael Hegner e Karsten Kiilerich. O filme é baseada na série homônima do mesmo nome e também na fábula do patinho feio."
+    },
     "cinema": {
       "plot_pt": "É um dos mais famosos filmes do começo do cinema sonoro alemão, sobre o despertar dos sentimentos de uma jovem, num pensionato feminino, e os laços fortes de intimidade que começam a ligá-la a uma das professoras. Por representar o amor entre duas mulheres de forma explícita, foi proibido nos Estados Unidos e um jornalista português escreveu que a protagonista “deveria ser internada numa casa de correção”. Realizado por Leontine Sagan, naquele que foi o seu primeiro filme como realizadora (e o único de que se conservam cópias), MÄDCHEN IN UNIFORM adapta uma peça de teatro, meio onde Sagan se havia afirmado (foi aluna de Max Reinhardt, começou como atriz e depois afirmou-se como encenadora). Um marco na História do Cinema a apresentar em cópia de 35mm preservada pela Cinemateca Portuguesa."
     },
     "dir_checked": true,
     "stills_focus": [
-      48.6,
-      52.6
+      48.5,
+      52.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/rUCnMIMnmrxi2o6elIZcWjEScwz.jpg",
       "https://image.tmdb.org/t/p/w1280/chnTRRxshZy3EADOWqRKkd3CTNi.jpg"
     ],
-    "tmdb_id": "13517"
+    "tmdb_id": "13517",
+    "wiki_tries": 1
   },
   "Mars Attacks!|1996": {
     "lbxd": {
@@ -72859,7 +72834,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Natalie Portman filmography",
+      "imdb_id": null,
+      "extract_pt": "Lista-se, aqui, a filmografia de Natalie Portman, uma atriz, produtora e diretora norte-americana, nascida em Israel, estreou no cinema com o longa-metragem Léon: The Professional (1994), de Luc Besson, no qual interpretou uma assassina vingativa. Seguindo-se a esse trabalho, integrou o elenco do thriller criminal Heat (1995), de Michael Mann; da comédia romântica Beautiful Girls (1996), de Ted Demme; e da comédia de ficção científica Mars Attacks! (1996), de Tim Burton. Três anos depois, seu papel coadjuvante no drama Anywhere but Here (1999), como a precoce e responsável filha de uma mulher narcisista, interpretada por Susan Sarandon, levou a atriz a ser indicada pela primeira vez ao Globo de Ouro."
+    },
     "cinema": {
       "plot_pt": "É um dos mais famosos filmes do começo do cinema sonoro alemão, sobre o despertar dos sentimentos de uma jovem, num pensionato feminino, e os laços fortes de intimidade que começam a ligá-la a uma das professoras. Por representar o amor entre duas mulheres de forma explícita, foi proibido nos Estados Unidos e um jornalista português escreveu que a protagonista “deveria ser internada numa casa de correção”. Realizado por Leontine Sagan, naquele que foi o seu primeiro filme como realizadora (e o único de que se conservam cópias), MÄDCHEN IN UNIFORM adapta uma peça de teatro, meio onde Sagan se havia afirmado (foi aluna de Max Reinhardt, começou como atriz e depois afirmou-se como encenadora). Um marco na História do Cinema a apresentar em cópia de 35mm preservada pela Cinemateca Portuguesa."
     },
@@ -72874,6 +72853,1474 @@
       "https://image.tmdb.org/t/p/w1280/E873oJJefZET6Xo8ZXT260Aoll.jpg",
       "https://image.tmdb.org/t/p/w1280/2FZnx1UDauBbtsJOVrh4EwnI1kE.jpg"
     ],
-    "tmdb_id": "75"
+    "tmdb_id": "75",
+    "wiki_tries": 1
+  },
+  "La Haine|1995": {
+    "lbxd": {
+      "rating": 4.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/4/51684-la-haine-0-500-0-750-crop.jpg?v=b6677cc136",
+      "description": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Mathieu Kassovitz",
+      "lb_director_slug": "mathieu-kassovitz",
+      "lb_year": 1995,
+      "lb_title": "La Haine",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/h5/en/ik/n2/la-haine-1920-1920-1080-1080-crop-000000.jpg?v=b0b3aed69a",
+      "imdb_id": "tt0113247",
+      "tmdb_id": "406"
+    },
+    "omdb": {
+      "Title": "La haine",
+      "Year": "1995",
+      "Rated": "Not Rated",
+      "Released": "23 Feb 1996",
+      "Runtime": "98 min",
+      "Genre": "Crime, Drama",
+      "Director": "Mathieu Kassovitz",
+      "Writer": "Mathieu Kassovitz",
+      "Actors": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
+      "Plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+      "Language": "French, Yiddish",
+      "Country": "France",
+      "Awards": "8 wins & 15 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "223,323",
+      "imdbID": "tt0113247",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$280,859",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "La Haine",
+      "imdb_id": "tt0113247",
+      "extract_pt": "La Haine [pronúncia em francês: ​[la ɛn], (bra/prt: O Ódio)] é um filme francês de 1995, dos gêneros drama criminal e suspense, dirigido por Mathieu Kassovitz, e estrelado por Vincent Cassel, Hubert Koundé e Saïd Taghmaoui. O roteiro do próprio Kassovitz foi baseado em sua própria história. Seu título deriva de uma frase dita por um deles, Hubert: \"La haine attire la haine!\" (\"O ódio atrai o ódio!\").\nA trama retrata a história de um dia na vida de três amigos de um bairro pobre de imigrantes nos subúrbios de Paris."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.7,
+      38.2,
+      24.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "https://image.tmdb.org/t/p/w1280/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+      "https://image.tmdb.org/t/p/w1280/3PGKBMDpsFhAB6xdHEJOKs3AhxW.jpg"
+    ],
+    "tmdb_id": "406"
+  },
+  "Delicatessen|1991": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/0/51260-delicatessen-0-500-0-750-crop.jpg?v=dca54560ba",
+      "description": "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.",
+      "genres": [
+        "Fantasy",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Pierre Jeunet",
+      "lb_director_slug": "jean-pierre-jeunet",
+      "lb_year": 1991,
+      "lb_title": "Delicatessen",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f9/cu/i0/so/delicatessen-1920-1920-1080-1080-crop-000000.jpg?v=1c3d8f0de1",
+      "imdb_id": "tt0101700",
+      "tmdb_id": "892"
+    },
+    "omdb": {
+      "Title": "Delicatessen",
+      "Year": "1992",
+      "Rated": "R",
+      "Released": "03 Apr 1992",
+      "Runtime": "99 min",
+      "Genre": "Comedy, Crime",
+      "Director": "Marc Caro, Jean-Pierre Jeunet",
+      "Writer": "Jean-Pierre Jeunet, Marc Caro, Gilles Adrien",
+      "Actors": "Marie-Laure Dougnac, Dominique Pinon, Pascal Benezech",
+      "Plot": "Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "Nominated for 1 BAFTA Award. 15 wins & 16 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM3ZjE4ZjMtOGIxNi00ODc3LWI2OGQtY2E5MDlkMjAwZWZjXkEyXkFqcGc@._V1_QL75_UY562_CR5,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "7.5",
+      "imdbVotes": "94,907",
+      "imdbID": "tt0101700",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,803,257",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Jean-Pierre Jeunet",
+      "imdb_id": null,
+      "extract_pt": "Jean-Pierre Jeunet (Le Coteau, 3 de setembro de 1953) é um cineasta e roteirista francês, conhecido pelos seus filmes Delicatessen, A Cidade das Crianças Perdidas, Alien - A Ressurreição e O Fabuloso Destino de Amelie.\nOs seus filmes misturam o fantástico à realidade em diversas proporções, seja na criação de universos fantásticos, seja dando relevância ao acaso no quotidiano (Le fabuleux destin d'Amélie Poulain). Além disso, a sua obra traz sempre um pouco de humor infantil, mesmo nos filmes que tratam de horror (Alien Resurrection)."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      19.9,
+      24.5,
+      52.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ii6L97z4uzJ1vPTHOnpTgzkvrXs.jpg",
+      "https://image.tmdb.org/t/p/w1280/qsm0PCPoEIFLW9vrwIWtTVDxRxV.jpg",
+      "https://image.tmdb.org/t/p/w1280/VjhrYIsEpiaWIzMZZ0pvlNZZ1M.jpg"
+    ],
+    "tmdb_id": "892"
+  },
+  "Du fioul dans les artères|2026": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/8/0/1/0/978010-flesh-fuel-0-500-0-750-crop.jpg?v=2b4bd81078",
+      "description": "A lonely French trucker's routine life on the road takes an unexpected turn when he encounters a Polish driver. As feelings develop, he struggles to balance his demanding job with a chance at love, determined to make their connection work.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Pierre le Gall",
+      "lb_director_slug": "pierre-le-gall",
+      "lb_year": 2026,
+      "lb_title": "Flesh & Fuel",
+      "backdrop": null,
+      "imdb_id": "tt35495082",
+      "tmdb_id": "1084814"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.7,
+      43.0,
+      30.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg",
+      "https://image.tmdb.org/t/p/w1280/h8OnhaIaPh0TKIVvlMh9FypOiS0.jpg",
+      "https://image.tmdb.org/t/p/w1280/yyTYXr3hFj5lulJqu5N2JBW34vL.jpg"
+    ],
+    "tmdb_id": "1084814"
+  },
+  "THE MONEY MAKER – O FALSIFICADOR|1964": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/4/0/5/278405-the-money-maker-0-500-0-750-crop.jpg?v=d6b7419690",
+      "description": "This film comedy takes place in the good old times of the Austro-Hungarian Monarchy at the turn of the century. Bányai, an impecunious clerk suddenly finds himself to be able to make perfect imitations of ornaments on the bank-notes. Being spurred by his incessantly shrewish mother-in-law, he finds a solution to his family's financial problems overnight, but an ambitious detective becomes suspicious of him.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "Hungary",
+      "lb_director": "Frigyes Bán",
+      "lb_director_slug": "frigyes-ban",
+      "lb_year": 1964,
+      "lb_title": "The Money-Maker",
+      "backdrop": null,
+      "imdb_id": "tt0058504",
+      "tmdb_id": "348056"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      40.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/cLWlMBETMPaSbs50zkfgoUtN7GQ.jpg"
+    ],
+    "tmdb_id": "348056"
+  },
+  "L’Inconnue|2026": {
+    "lbxd": {
+      "rating": 3.2,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
+      "description": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "France",
+      "lb_director": "Arthur Harari",
+      "lb_director_slug": "arthur-harari",
+      "lb_year": 2026,
+      "lb_title": "The Unknown",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/bk/70/br/mq/tzKi5YsDKhdLFrWcIp1vJ1RnpSr-1920-1920-1080-1080-crop-000000.jpg?v=b5276543f2",
+      "imdb_id": "tt32359586",
+      "tmdb_id": "1182935"
+    },
+    "omdb": {
+      "Title": "The Unknown",
+      "Year": "2027",
+      "Rated": "N/A",
+      "Released": "08 Jan 2027",
+      "Runtime": "139 min",
+      "Genre": "Drama, Fantasy, Sci-Fi",
+      "Director": "Arthur Harari",
+      "Writer": "Arthur Harari, Lucas Harari, Vincent Poymiro",
+      "Actors": "Léa Seydoux, Radu Jude, Niels Schneider",
+      "Plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms-he awakens in her body.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2NGFmYjItNTVkZC00OWQxLTgyNjAtOWQ3MGRiZWRkODliXkEyXkFqcGc@._V1_QL75_UY562_CR521,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "6.3",
+      "imdbVotes": "48",
+      "imdbID": "tt32359586",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Unknown (2026 film)",
+      "imdb_id": "tt32359586",
+      "extract_pt": "L'Inconnue (em inglês: The Unknown) é um longa-metragem de fantasia psicólogica franco-italiana dirigido por Arthur Harari e escrito pelo mesmo em parceira a Lucas Harari e Vincent Poymiro inspirado na história em quadrinhos Le cas David Zimmerman escrita por Arthur escreveu em parceria com seu irmão Lucas. Estrelado por Léa Seydoux, Niels Schneider, Victoire Du Bois e Radu Jude, conta a história de David, um fotógrafo parisiense, cuja vida muda radicalmente após um encontro com uma misteriosa entidade.\nO filme teve sua estreia mundial na competição principal do Festival de Cannes de 2026, em 18 de maio, onde concorreu à Palma de Ouro; e foi lançado nos cinemas da França pela Pathé em 26 de agosto."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.1,
+      44.0,
+      32.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
+      "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
+      "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
+    ],
+    "tmdb_id": "1182935"
+  },
+  "A praga|2021": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/1/1/3/7/241137-the-curse-0-500-0-750-crop.jpg?v=ca2cebee9e",
+      "description": "While out for a walk in the countryside, Marina and Juvenal stop to take some pictures in front of an old woman’s house. Annoyed, the old woman turns out to be a witch and casts a curse on the young couple in the form of a wound that feeds on raw flesh.",
+      "genres": [
+        "Horror"
+      ],
+      "country": "Brazil",
+      "lb_director": "José Mojica Marins",
+      "lb_director_slug": "jose-mojica-marins",
+      "lb_year": 2021,
+      "lb_title": "The Curse",
+      "backdrop": null,
+      "imdb_id": "tt0260293",
+      "tmdb_id": "314088"
+    },
+    "omdb": {
+      "Title": "A Praga",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "15 Oct 2021",
+      "Runtime": "80 min",
+      "Genre": "Horror",
+      "Director": "José Mojica Marins",
+      "Writer": "Rubens Francisco Lucchetti, José Mojica Marins",
+      "Actors": "Eucir de Souza, Felipe, Sílvia Gless",
+      "Plot": "While out for a walk in the countryside, Marina and Juvenal stop to take some pictures in front of an old woman's house. Annoyed, the old woman turns out to be a witch and casts a curse on the young couple.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA0MmE1MzYtNjE3OC00MTgzLTk5OWEtYzNkZGVjMTc0NzQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "100",
+      "imdbID": "tt0260293",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Coffin Joe",
+      "imdb_id": null,
+      "extract_pt": "Zé do Caixão (conhecido nos países de língua inglesa como Coffin Joe) é um personagem do cinema brasileiro. É uma figura bastante conhecida mundialmente pelos filmes de terror. Seu criador e intérprete, José Mojica Marins, é mais conhecido pelo nome de seu personagem do que pelo seu nome próprio. O personagem é um agente funerário amoral com crenças nietzschianas, que é movido por seu desejo de ter um filho com uma \"mulher perfeita\", acreditando que a imortalidade é alcançada através da procriação, um conceito a que ele se refere como \"a continuação do sangue\"."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      21.6,
+      13.9,
+      49.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dQopBXcPLMEZRdMt5TkfR1caIDv.jpg",
+      "https://image.tmdb.org/t/p/w1280/pweghz7ycqy7hg4hnLs4dDai3Ww.jpg",
+      "https://image.tmdb.org/t/p/w1280/tcTASY9ku1h4S1Mn1lvp0QoUPoN.jpg"
+    ],
+    "tmdb_id": "314088"
+  },
+  "Ni vue, ni connue|1997": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Histoires parallèles|2026": {
+    "lbxd": {
+      "rating": 2.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/4/1/1/3/1044113-parallel-tales-0-500-0-750-crop.jpg?v=483e8b4370",
+      "description": "In search of inspiration for her new novel, Sylvie spies on her neighbors in the building across the street using a telescope. When she hires young Adam to help her with her daily routine, she has no idea that he will turn her life and her work upside down, until the fiction she had imagined surpasses the reality of them all.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "Asghar Farhadi",
+      "lb_director_slug": "asghar-farhadi",
+      "lb_year": 2026,
+      "lb_title": "Parallel Tales",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/hl/2p/vd/vk/8mQayOm0n013Y36Rahd3O9OAuHT-1920-1920-1080-1080-crop-000000.jpg?v=5d80ba9d64",
+      "imdb_id": "tt36646880",
+      "tmdb_id": "1157869"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Parallel Tales",
+      "imdb_id": "tt36646880",
+      "extract_pt": "Histoires parallèles (no Brasil: Contos Paralelos e em inglês: Parallel Tales) é um longa-metragem de drama lançado em 2026 escrito e dirigido por Asghar Farhadi. Coproduzido entre a França, Estados Unidos, Itália e Bélgica, é levemente inspirado em Dekalog: Six, de Krzysztof Kieślowski e Krzysztof Piesiewicz, um de seis filmes escritos para a televisão polonesa. Estrelado por Isabelle Huppert, Virginie Efira, Vincent Cassel, Pierre Niney e Adam Bessa, acompanha Sylvie (Huppert), uma famosa escritora que busca inspiração observando os vizinhos do outro lado da rua e que contrata o misterioso Adam (Bessa) como assistente, mas ele rapidamente vira sua vida de cabeça para baixo.\nO filme teve sua estreia mundial na competição principal do Festival de Cannes de 2026 em 14 de maio e foi lançado nos cinemas da França no mesmo dia pela Memento Films."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      34.0,
+      37.7,
+      24.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3lKjspWl46OWPmn6jIp8Wo8UdP4.jpg",
+      "https://image.tmdb.org/t/p/w1280/8mQayOm0n013Y36Rahd3O9OAuHT.jpg",
+      "https://image.tmdb.org/t/p/w1280/iLGbLmi6aE97U7ma50CnH4aGWfj.jpg"
+    ],
+    "tmdb_id": "1157869"
+  },
+  "Os Miseráveis|1967": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Os Miseráveis",
+      "Year": "1967–",
+      "Rated": "N/A",
+      "Released": "15 May 1967",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Otávio Augusto, Esmeralda Barros, Sadi Cabral",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0209695",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "La Troisième Nuit|2026": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/2/7/4/4/1382744-when-the-night-falls-2026-0-500-0-750-crop.jpg?v=61d9ee61c7",
+      "description": "Follows the incredible story of a 1942 effort to to save over 100 Jewish children from a deportation camp just outside of Lyon.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "France",
+      "lb_director": "Daniel Auteuil",
+      "lb_director_slug": "daniel-auteuil",
+      "lb_year": 2026,
+      "lb_title": "When the Night Falls",
+      "backdrop": null,
+      "imdb_id": "tt35422726",
+      "tmdb_id": "1506476"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.8,
+      34.2,
+      48.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pn59n6kKGF0BQ05St0qk5ha8bSi.jpg",
+      "https://image.tmdb.org/t/p/w1280/ulvTLCYqu0felQu6G9B2tc7M8VB.jpg",
+      "https://image.tmdb.org/t/p/w1280/3tns793ZMKKTokeA4YmlHU9Z9cN.jpg"
+    ],
+    "tmdb_id": "1506476"
+  },
+  "Les Enfants vont bien|2025": {
+    "lbxd": {
+      "rating": 3.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/1/6/9/1/1161691-out-of-love-2025-0-500-0-750-crop.jpg?v=a588df1301",
+      "description": "When Jeanne, a meticulous insurance assessor, is suddenly left to care for her estranged sister’s two children after their mother vanishes, her carefully ordered life begins to unravel. Confronted with unexpected responsibilities, she must balance the fragile task of earning the children’s trust while also tending to her own relationship with her girlfriend, who struggles to adjust to Jeanne’s new role. As grief, uncertainty, and shifting loyalties mount, Jeanne finds herself redefining what family and love truly mean.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Nathan Ambrosioni",
+      "lb_director_slug": "nathan-ambrosioni",
+      "lb_year": 2025,
+      "lb_title": "Out of Love",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/6/1/6/9/1/tmdb/fZmL1q8PMwdI6WEuXzj14On7QAa-1920-1920-1080-1080-crop-000000.jpg?v=6370b35bf5",
+      "imdb_id": "tt35455855",
+      "tmdb_id": "1277882"
+    },
+    "omdb": {
+      "Title": "Les enfants vont bien",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "03 Dec 2025",
+      "Runtime": "111 min",
+      "Genre": "N/A",
+      "Director": "Nathan Ambrosioni",
+      "Writer": "Nathan Ambrosioni",
+      "Actors": "Camille Cottin, Monia Chokri, Juliette Armanet",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "N/A",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NkZmRjNDAtODg5Ni00ZWI0LWE1ZjItODE4ZWY0YWE2MTBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "14",
+      "imdbID": "tt35455855",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      25.2,
+      45.6,
+      53.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/amgPQ7hCwd8beF91w379rxgPh77.jpg",
+      "https://image.tmdb.org/t/p/w1280/bENf7fq9uPQEgcX11DwvUuDNDbX.jpg",
+      "https://image.tmdb.org/t/p/w1280/1mxCsv2P1rRHuP8N97NVSMdZRCr.jpg"
+    ],
+    "tmdb_id": "1277882"
+  },
+  "Full Phil|2026": {
+    "lbxd": {
+      "rating": 2.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/8/1/5/4/1428154-full-phil-0-500-0-750-crop.jpg?v=74eb84f63b",
+      "description": "Wealthy American industrialist Philip Doom attempts to reconnect with his daughter Madeleine during a luxurious trip to Paris. Unfortunately, French cuisine, a 1950s horror film, and an intrusive hotel employee disrupt their stay.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Quentin Dupieux",
+      "lb_director_slug": "quentin-dupieux",
+      "lb_year": 2026,
+      "lb_title": "Full Phil",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/60/9p/2k/oq/r4opW3N4pF4KCLSoDMSAf5PI4pr-1920-1920-1080-1080-crop-000000.jpg?v=5166b6d0f0",
+      "imdb_id": "tt38607959",
+      "tmdb_id": "1554364"
+    },
+    "omdb": {
+      "Title": "Full Phil",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 May 2026",
+      "Runtime": "78 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Quentin Dupieux",
+      "Writer": "Quentin Dupieux",
+      "Actors": "Woody Harrelson, Kristen Stewart, Charlotte Le Bon",
+      "Plot": "A rich American industrialist's Paris trip with his estranged daughter Madeleine goes awry when French food, a vintage horror movie, and a meddling hotel worker interfere with their plans.",
+      "Language": "English, French",
+      "Country": "France, Belgium, Luxembourg",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdiM2JmOTEtYjNjMS00MWFiLTk0NjItYTVmMzA4MmY0MjUzXkEyXkFqcGc@._V1_QL75_UY562_CR277,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "5.3",
+      "imdbVotes": "31",
+      "imdbID": "tt38607959",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/r4opW3N4pF4KCLSoDMSAf5PI4pr.jpg"
+    ],
+    "tmdb_id": "1554364"
+  },
+  "Ulysse|1983": {
+    "lbxd": {
+      "rating": 3.92,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/2/7/3/181273-ulysse-0-500-0-750-crop.jpg?v=0475a8eaf3",
+      "description": "At the sea shore, a goat, a child, and a naked man. This is a photograph taken in 1954 by Agnès Varda. The goat was dead, the child was named Ulysses, and the man was naked. Starting from this frozen image, the film explores the real and the imaginary.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Varda",
+      "lb_director_slug": "agnes-varda",
+      "lb_year": 1983,
+      "lb_title": "Ulysse",
+      "backdrop": null,
+      "imdb_id": "tt0161034",
+      "tmdb_id": "257524"
+    },
+    "omdb": {
+      "Title": "Ulysse",
+      "Year": "1983",
+      "Rated": "Not Rated",
+      "Released": "29 Jan 1986",
+      "Runtime": "22 min",
+      "Genre": "Documentary, Short",
+      "Director": "Agnès Varda",
+      "Writer": "Agnès Varda",
+      "Actors": "Fouli Elia, Ulysse Llorca, Charles de Gaulle",
+      "Plot": "Agnès Varda interviews two subjects from a photograph she took 30 years earlier.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDNiMDgzNGItYmIzMy00OTkxLTg5ZTItZDIyNTQxYTEyMDIwXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "913",
+      "imdbID": "tt0161034",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      47.5,
+      41.6,
+      42.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
+      "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
+      "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
+    ],
+    "tmdb_id": "257524"
+  },
+  "La Maison des Femmes|2025": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/9/1/9/3/1199193-a-place-for-her-0-500-0-750-crop.jpg?v=81740aada5",
+      "description": "At the Maison des Femmes, women victims of violence are cared for. Elsewhere, they are threatened, brutalized, raped, mutilated, their suffering ignored. Here, they are listened to, supported, helped and believed. Diane, Manon, Inès, Awa and the others will give them a helping hand until they can stand up again. As a team. Even if it means risking their own equilibrium.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Mélisa Godet",
+      "lb_director_slug": "melisa-godet",
+      "lb_year": 2025,
+      "lb_title": "A Place for Her",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/9/1/9/3/tmdb/a7R1KHBvcf8dztRIpR7sa1KQamx-1920-1920-1080-1080-crop-000000.jpg?v=6a707d4f6e",
+      "imdb_id": "tt35455708",
+      "tmdb_id": "1318417"
+    },
+    "omdb": {
+      "Title": "La Maison des femmes",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "04 Mar 2026",
+      "Runtime": "110 min",
+      "Genre": "N/A",
+      "Director": "Melisa Godet",
+      "Writer": "Melisa Godet, Catherine Paillé",
+      "Actors": "Oulaya Amamra, Juliette Armanet, Aure Atika",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQyMDFlN2MtMTY1Ni00ZGIwLTg4ZjUtYjA5MWRkNmFiZmUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt35455708",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.2,
+      35.4,
+      23.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/a7R1KHBvcf8dztRIpR7sa1KQamx.jpg",
+      "https://image.tmdb.org/t/p/w1280/7BPrxySzJOzF0u2eDn3SaSx5JQx.jpg",
+      "https://image.tmdb.org/t/p/w1280/e96yQCaeWBiZCuT05Rq4qHccSrr.jpg"
+    ],
+    "tmdb_id": "1318417"
+  },
+  "De la Comédie-Française|1896": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Place de la Comédie",
+      "Year": "1896",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "1 min",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "None",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.7",
+      "imdbVotes": "117",
+      "imdbID": "tt1982820",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.5,
+      19.7,
+      26.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/AhKoI2RRwVgbxuxYKzRJGQ4ZePw.jpg",
+      "https://image.tmdb.org/t/p/w1280/iRxHhvktvbm9ybi6NLgF1yMmwP4.jpg",
+      "https://image.tmdb.org/t/p/w1280/kZUAjc1d4tezDB5BUF5i3G9JmN4.jpg"
+    ],
+    "tmdb_id": "194573"
+  },
+  "L’Objet du délit|2026": {
+    "lbxd": {
+      "rating": 2.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/3/0/8/1/1343081-crescendo-2026-2-0-500-0-750-crop.jpg?v=5c6a493075",
+      "description": "In the ruins of a Roman amphitheatre in the South of France, the cast and crew of an ambitious staging of The Marriage of Figaro is thrown off balance when troubling accusations threaten to derail the entire production. As tensions intensify, loyalties slowly fracture and deep generational disagreement emerges, throwing their sheltered opera world into a great divide.",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Jaoui",
+      "lb_director_slug": "agnes-jaoui",
+      "lb_year": 2026,
+      "lb_title": "Crescendo",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/zs/xr/y2/cf/2ws3k2uwYT1vHE9wfm3OOAwJhX5-1920-1920-1080-1080-crop-000000.jpg?v=442b5c0513",
+      "imdb_id": "tt37535559",
+      "tmdb_id": "1466123"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "2026 Cannes Film Festival",
+      "imdb_id": null,
+      "extract_pt": "A 79.ª edição anual do Festival de Cannes foi um festival internacional de cinema ocorrido entre os dias 12 e 23 de maio de 2026 em Cannes, na França. Presidido pelo cineasta sul-coreano, Park Chan-wook, a mostra competitiva do festival premiou com a Palma de Ouro, Cristian Mungiu, diretor e roteirista romeno do longa-metragem dramático, Fjord. \nO pôster oficial do festival foi criado pelo estúdio Hartland Villa e traz as atrizes Geena Davis e Susan Sarandon em uma imagem feita nos bastidores de gravações de Thelma & Louise, dirigido por Ridley Scott, escolhido como filme de encerramento da 44ª edição do festival em 1991. A atriz francesa Eye Haïdara foi a apresentadora das cerimônias de abertura e encerramento."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.7,
+      38.1,
+      28.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/m6lfhmhlH3zEZHlvNR3YmPd16wT.jpg",
+      "https://image.tmdb.org/t/p/w1280/jolGVJiumyw7TYaKFJuKbQDlxrB.jpg",
+      "https://image.tmdb.org/t/p/w1280/a5BFKPEp18Jay1Q18IdlaKp2xZA.jpg"
+    ],
+    "tmdb_id": "1466123"
+  },
+  "Congo Boy|2026": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/4/4/3/1529443-congo-boy-0-500-0-750-crop.jpg?v=699f344393",
+      "description": "Bangui, Central African Republic. 17 year-old Robert dreams of a career in music, but civil war is tearing the country apart. When both his parents are thrown into prison, he is left to look after his four younger siblings on his own, juggling daily life, odd jobs, school exams and concert stages, determined to follow his dream.",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "country": "Central African Republic",
+      "lb_director": "Rafiki Fariala",
+      "lb_director_slug": "rafiki-fariala",
+      "lb_year": 2026,
+      "lb_title": "Congo Boy",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/5/2/9/4/4/3/tmdb/mCF79jj7s5KZAyqxvNGJxEnF32P-1920-1920-1080-1080-crop-000000.jpg?v=c80fe10a04",
+      "imdb_id": "tt41592086",
+      "tmdb_id": "1666683"
+    },
+    "omdb": {
+      "Title": "Congo Boy",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "15 May 2026",
+      "Runtime": "95 min",
+      "Genre": "Drama",
+      "Director": "Rafiki Fariala",
+      "Writer": "Tommy Baron, Rafiki Fariala",
+      "Actors": "Gloria Ambacko, Bradley Fiomona Dembeasset, Rosiana Kotozia",
+      "Plot": "Robert dreams of a career in music, but civil war is tearing his country apart. When his parents are thrown into prison, he is left to look after his siblings, juggling daily life and determined to follow his dream.",
+      "Language": "N/A",
+      "Country": "Italy, Central African Republic, The Democratic Republic of Congo, France, Congo",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU5NzAxMzQtODkzNy00NTJjLWExMmItODg0YmIzNzE4MmQxXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.7",
+      "imdbVotes": "20",
+      "imdbID": "tt41592086",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      49.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/mCF79jj7s5KZAyqxvNGJxEnF32P.jpg"
+    ],
+    "tmdb_id": "1666683"
+  },
+  "Adieu monde cruel|2026": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/1/9/8/9/1241989-goodbye-cruel-world-2026-0-500-0-750-crop.jpg?v=28f69d3866",
+      "description": "Fourteen-year-old Otto writes a suicide letter to his family and classmates, but his attempt fails. Too ashamed to go back home, he hides. As night falls, he roams the city streets like a ghost—until a girl from his high school, Léna, recognizes him.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Félix de Givry",
+      "lb_director_slug": "felix-de-givry",
+      "lb_year": 2026,
+      "lb_title": "Goodbye Cruel World",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/4/1/9/8/9/tmdb/udsruWvkA5WglCq6dLvabMIwbqt-1920-1920-1080-1080-crop-000000.jpg?v=0df5d4dca5",
+      "imdb_id": "tt34427439",
+      "tmdb_id": "1352304"
+    },
+    "omdb": {
+      "Title": "Adieu monde cruel",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "20 May 2026",
+      "Runtime": "93 min",
+      "Genre": "Drama, Romance",
+      "Director": "Félix de Givry",
+      "Writer": "Félix de Givry, Marie-Stéphane Imbert",
+      "Actors": "Milo Machado-Graner, Jane Beever, Françoise Lebrun",
+      "Plot": "14-year-old Otto vanishes after writing goodbye letters to his classmates. Everyone thinks he's dead, but his classmate Léna spots him walking the streets one night.",
+      "Language": "N/A",
+      "Country": "France, Belgium",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M0ZmNjZGQtMGJiYy00ZGQ0LWFjZWItN2E3NTRkYWVlZTg1XkEyXkFqcGc@._V1_QL75_UY562_CR277,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "14",
+      "imdbID": "tt34427439",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.0,
+      45.3,
+      27.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/l43i6Exp5wa6OvrN4IgPWkZuBSx.jpg",
+      "https://image.tmdb.org/t/p/w1280/jQebusYFrfZVyyxI45DQxrbIucY.jpg",
+      "https://image.tmdb.org/t/p/w1280/uJJwOT3jUWcZyBPWeqA504ApWmy.jpg"
+    ],
+    "tmdb_id": "1352304"
+  },
+  "Paradise|1982": {
+    "lbxd": {
+      "rating": 2.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/6/37146-paradise-0-500-0-750-crop.jpg?v=f6ac081575",
+      "description": "After their caravan is attacked and their respective families butchered by Arab marauders, teenagers David and Sarah flee across the desert. But the desert is filled with danger from the elements, animals and the unwholesome appetite of the Jackal, a sheik who wants Sarah for himself. However, the desert also holds temptation and love. David and Sarah hide out in an oasis and build a life for themselves, discovering each other in new ways.",
+      "genres": [
+        "Adventure",
+        "Romance"
+      ],
+      "country": "Canada",
+      "lb_director": "Stuart Gillard",
+      "lb_director_slug": "stuart-gillard",
+      "lb_year": 1982,
+      "lb_title": "Paradise",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/h7/25/li/29/paradise-1920-1920-1080-1080-crop-000000.jpg?v=4ab2cb8c9d",
+      "imdb_id": "tt0084469",
+      "tmdb_id": "23942"
+    },
+    "omdb": {
+      "Title": "Paradise",
+      "Year": "1982",
+      "Rated": "R",
+      "Released": "07 May 1982",
+      "Runtime": "102 min",
+      "Genre": "Adventure, Romance",
+      "Director": "Stuart Gillard",
+      "Writer": "Stuart Gillard",
+      "Actors": "Willie Aames, Phoebe Cates, Tuvia Tavi",
+      "Plot": "In the Middle East in 1823, two teenagers seek refuge at an oasis, where they discover love and intimacy while staying one step ahead of the slaver who massacred their families.",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgwMjg2MGItNDI3MC00NzI5LWI1OTctM2FhODQwZjg5ZWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "0%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "20/100"
+        }
+      ],
+      "Metascore": "20",
+      "imdbRating": "4.9",
+      "imdbVotes": "3,233",
+      "imdbID": "tt0084469",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,588,800",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.5,
+      44.8,
+      16.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/8f7TgUsnDTvJpdfOh6hPKmXiyuI.jpg",
+      "https://image.tmdb.org/t/p/w1280/7LeZcy6m4hGATOSYS4kpcXqqEJi.jpg",
+      "https://image.tmdb.org/t/p/w1280/n60yxoktCQFDmIx4QpGjDhmz7TU.jpg"
+    ],
+    "tmdb_id": "23942"
+  },
+  "La Frappe|2026": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/7/5/1/1315751-the-blow-2026-0-500-0-750-crop.jpg?v=8e8cfd4b17",
+      "description": "Nineteen-year-old Enzo and his twenty-year-old sister Carla have been left to fend for themselves for several years. When their father, Anthony, is released from prison, Enzo sees the fragile promise of a family to rebuild, unlike Carla, for whom the idea remains inconceivable. Haunted by his past, Enzo must confront a truth he has kept hidden for far too long.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Julien Gaspar-Oliveri",
+      "lb_director_slug": "julien-gaspar-oliveri",
+      "lb_year": 2026,
+      "lb_title": "The Blow",
+      "backdrop": null,
+      "imdb_id": "tt42385458",
+      "tmdb_id": "1437948"
+    },
+    "omdb": {
+      "Title": "La frappe",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "15 May 2026",
+      "Runtime": "105 min",
+      "Genre": "Drama",
+      "Director": "Julien Gaspar-Oliveri",
+      "Writer": "Claudia Bottino, Julien Gaspar-Oliveri, Dorothée Lachaud",
+      "Actors": "Diego Murgia, Romane Fringeli, Bastien Bouillon",
+      "Plot": "Follows siblings Enzo and Carla who have been on their own for several years. When their father is released from prison, Enzo hopes to rebuild their family, but Carla refuses to reconnect.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTVjYzNlMjYtNDM1OS00MDJmLTk4YTgtYzAyNWNhMzQ1OTY0XkEyXkFqcGc@._V1_QL75_UY562_CR277,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "15",
+      "imdbID": "tt42385458",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.1,
+      35.7,
+      23.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zJSb4zzCAbIaNjEB3p2wq0bM4N2.jpg",
+      "https://image.tmdb.org/t/p/w1280/bGjWcRhScS9f5bFx27dThYhVt9Y.jpg",
+      "https://image.tmdb.org/t/p/w1280/jgpYoMmSLt5SvdLOpqHJptOzhBs.jpg"
+    ],
+    "tmdb_id": "1437948"
+  },
+  "Une vie manifeste|2026": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/8/0/5/1360805-a-life-a-manifesto-0-500-0-750-crop.jpg?v=44468fb114",
+      "description": "The life of Michèle Firk — a trailblazing French journalist, film critic, aspiring director and communist activist involved in various liberation struggles in the second half of the 20th century — as told by narrator Alice Diop, modern day French director.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Gabriel Périot",
+      "lb_director_slug": "jean-gabriel-periot",
+      "lb_year": 2026,
+      "lb_title": "A Life, A Manifesto",
+      "backdrop": null,
+      "imdb_id": "tt42414520",
+      "tmdb_id": "1483908"
+    },
+    "omdb": {
+      "Title": "Une vie manifeste",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 May 2026",
+      "Runtime": "86 min",
+      "Genre": "Documentary",
+      "Director": "Jean-Gabriel Périot",
+      "Writer": "Jean-Gabriel Périot",
+      "Actors": "Alice Diop, Nadia Tereszkiewicz",
+      "Plot": "Michèle Firk, film critic, aspiring director, revolutionary activist who championed justice and freedom. A Life, A Manifesto chronicles a woman who defied convention, embracing free love, cinema, and revolution.",
+      "Language": "N/A",
+      "Country": "France",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU5MTFkMWItMjhlMi00M2FlLThjZjQtMDNmOTllNTM3ODNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.6",
+      "imdbVotes": "6",
+      "imdbID": "tt42414520",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1483908"
+  },
+  "Mémoire de fille|2026": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/1/0/9/6/1391096-a-girls-story-0-500-0-750-crop.jpg?v=906f5fa6aa",
+      "description": "During a book signing in Normandy, Annie Ernaux, 70, revisits her memories of the summer of 1958, when she was 17. That summer, she left her hometown to work as a camp counsellor. At the first party, the head counsellor set out to deflower her. Finding him handsome, she lets him do it, as if against her will... Her body becomes a foreign place for her, an offering to be sacrificed.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Judith Godrèche",
+      "lb_director_slug": "judith-godreche",
+      "lb_year": 2026,
+      "lb_title": "A Girl’s Story",
+      "backdrop": null,
+      "imdb_id": "tt39088978",
+      "tmdb_id": "1514891"
+    },
+    "omdb": {
+      "Title": "Mémoire de fille",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "30 Sep 2026",
+      "Runtime": "117 min",
+      "Genre": "Drama",
+      "Director": "Judith Godrèche",
+      "Writer": "Annie Ernaux, Judith Godrèche",
+      "Actors": "Tess Barthélémy, Valérie Dréville, Victor Bonnel",
+      "Plot": "Annie Ernaux is invited to a book signing. On her way, she is overcome by a feeling of dizziness and is plunged back into the memory of the summer of 1958, the summer of her first night with a man.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYzYTk3NzMtYTEzZC00ZWVkLTlhYWEtZjY4ZDMzY2FmN2VjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.9",
+      "imdbVotes": "20",
+      "imdbID": "tt39088978",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      46.7,
+      65.9,
+      47.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/50w3VUxBQge2pUp8COyuGqg6Gqc.jpg",
+      "https://image.tmdb.org/t/p/w1280/gb5sHuZ8THeXqoOai8YauA9jyMQ.jpg",
+      "https://image.tmdb.org/t/p/w1280/lOZJaGCrDUO5NK6PBQ3IhhoVR2z.jpg"
+    ],
+    "tmdb_id": "1514891"
+  },
+  "Microcosmos – Le Peuple de l’herbe|1996": {
+    "lbxd": {
+      "rating": 4.13,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/8/7/47287-microcosmos-0-500-0-750-crop.jpg?v=9289bab95f",
+      "description": "A documentary of insect life in meadows and ponds, using incredible close-ups, slow motion, and time-lapse photography. It includes bees collecting nectar, ladybugs eating mites, snails mating, spiders wrapping their catch, a scarab beetle relentlessly pushing its ball of dung uphill, endless lines of caterpillars, an underwater spider creating an air bubble to live in, and a mosquito hatching.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Claude Nuridsany",
+      "lb_director_slug": "claude-nuridsany",
+      "lb_year": 1996,
+      "lb_title": "Microcosmos",
+      "backdrop": null,
+      "imdb_id": "tt0117040",
+      "tmdb_id": "9305"
+    },
+    "omdb": {
+      "Title": "Microcosmos",
+      "Year": "1996",
+      "Rated": "Not Rated",
+      "Released": "06 Sep 1996",
+      "Runtime": "80 min",
+      "Genre": "Documentary",
+      "Director": "Claude Nuridsany, Marie Pérennou",
+      "Writer": "Claude Nuridsany, Marie Pérennou",
+      "Actors": "Jacques Perrin, Kristin Scott Thomas",
+      "Plot": "A documentary on insect life in meadows and ponds.",
+      "Language": "French",
+      "Country": "France, Switzerland, Italy, United Kingdom",
+      "Awards": "9 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMwODhiY2MtZDY3OC00N2ZkLWIwM2MtOGU1ZDg1Njk4NmZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.9",
+      "imdbVotes": "12,020",
+      "imdbID": "tt0117040",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,433,210",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Microcosmos (film)",
+      "imdb_id": "tt0117040",
+      "extract_pt": "Microcosmos: Le peuple de l'herbe (bra/prt: Microcosmos) é um filme documental realizado por Claude Nuridsany e Marie Pérennou."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      51.2,
+      31.9,
+      40.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/9JbL0Z1cHFRgg5EgjExnWzdr6K5.jpg",
+      "https://image.tmdb.org/t/p/w1280/5hsqBF6DFfrsCEJT9IHEYn04JYF.jpg",
+      "https://image.tmdb.org/t/p/w1280/87NFGpptRN7xnI3VfERAZEwbh7C.jpg"
+    ],
+    "tmdb_id": "9305"
+  },
+  "CURTAS | COURTS MÉTRAGES|2020": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/6/9/9/1282699-curtas-0-500-0-750-crop.jpg?v=e38cae0929",
+      "description": "Sitting in front of his farmhouse in Mirás, Sério reflects on a life linked to cinema. An exercise in synthesis and memory.",
+      "genres": null,
+      "country": "Portugal",
+      "lb_director": "Sério Fernandes",
+      "lb_director_slug": "serio-fernandes",
+      "lb_year": 2020,
+      "lb_title": "Curtas",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1398947"
+    },
+    "omdb": {
+      "Title": "13 courts métrages d'Alice Guy",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "16 Jan 2021",
+      "Runtime": "45 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Alice Guy",
+      "Actors": "N/A",
+      "Plot": "A program of 13 short films by Alice Guy made between 1898 and 1907. She was the first female director of fiction films at the dawn of cinema, and she suggested to Léon Gaumont to film short scripted stories in his studio or Paris...",
+      "Language": "None",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMWVhNDktN2ZlZS00YmYyLTg0ZTgtMzBjNzMwM2Q3ZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt33460023",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1398947"
+  },
+  "Arco|2025": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/5/6/6/721566-arco-0-500-0-750-crop.jpg?v=dcaae85d56",
+      "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Science Fiction",
+        "Family"
+      ],
+      "country": "France",
+      "lb_director": "Ugo Bienvenu",
+      "lb_director_slug": "ugo-bienvenu",
+      "lb_year": 2025,
+      "lb_title": "Arco",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/7/2/1/5/6/6/tmdb/2xZqXvixybEFg6GQAoSYPJu9gHS-1920-1920-1080-1080-crop-000000.jpg?v=bda3a8ea57",
+      "imdb_id": "tt14883538",
+      "tmdb_id": "804370"
+    },
+    "omdb": {
+      "Title": "Arco",
+      "Year": "2025",
+      "Rated": "PG",
+      "Released": "14 Nov 2025",
+      "Runtime": "88 min",
+      "Genre": "Animation, Adventure, Fantasy",
+      "Director": "Ugo Bienvenu",
+      "Writer": "Ugo Bienvenu, Félix de Givry",
+      "Actors": "Margot Ringard Oldra, Oscar Tresanini, Nathanaël Perrot",
+      "Plot": "In 2075, a girl witnesses a mysterious boy in a rainbow suit fall from the sky. He comes from an idyllic far future where time travel is possible. She shelters him and will do whatever it takes to help him return to his time.",
+      "Language": "French, English",
+      "Country": "France, United States, United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 12 wins & 50 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2IzNjdiNzUtNTJjMy00Mjk5LTg3MzItNzA2ZjYzOWE2MGIyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.3",
+      "imdbVotes": "7,143",
+      "imdbID": "tt14883538",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,046,181",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Arco (film)",
+      "imdb_id": "tt14883538",
+      "extract_pt": "Arco é um filme de animação francês de ficção científica e fantasia de 2025, dirigido por Ugo Bienvenu.\nO filme teve sua estreia mundial no Festival de Cannes de 2025, em 16 de maio. Foi indicado a Melhor Animação no Critics' Choice Awards, Globo de Ouro e Oscar.\nO filme estreou nos cinemas franceses em 22 de outubro."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.4,
+      24.1,
+      50.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/reQELo8rDiLIOoYIA7M6q7KGRW0.jpg",
+      "https://image.tmdb.org/t/p/w1280/upvaYJFfSDmMUrG7rur3iUrHoli.jpg",
+      "https://image.tmdb.org/t/p/w1280/dBbbPY9ITxqmTSS2cJO1lynejED.jpg"
+    ],
+    "tmdb_id": "804370"
+  },
+  "O Estrangeiro|2024": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "O que é o Amor?|2015": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Afinal, o que é o Amor?",
+      "Year": "2015",
+      "Rated": "N/A",
+      "Released": "13 Aug 2015",
+      "Runtime": "5 min",
+      "Genre": "Short, Romance",
+      "Director": "Henrique Cannavial",
+      "Writer": "Ivo Rocha da Silva",
+      "Actors": "Gonçalo de Morais",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGY5MGE3ZWQtZjc4YS00ZTY2LWJjYmMtZjRkZjNhY2RhNTU4XkEyXkFqcGdeQXVyNDgxNjIxMzc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt9326300",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Marcel e Monsieur Pagnol|2025": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/5/7/0/8/755708-the-magnificent-life-of-marcel-pagnol-0-500-0-750-crop.jpg?v=6c2a9e55f5",
+      "description": "In 1955, 60-year-old Marcel Pagnol is a well-known and acclaimed playwright and filmmaker. When the editor-in-chief of ELLE magazine commissions a weekly column about Pagnol's childhood, he sees this as a great opportunity to go back to his artistic roots: writing. Realizing his memory is failing him and deeply affected by the disappointing results of his last two plays, Pagnol starts doubting his ability to pursue his work. That is until Little Marcel - the young boy he used to be - appears to him as if by magic. Together, they will explore Marcel Pagnol's incredible life and bring back to life his most cherished encounters and memories...",
+      "genres": [
+        "Animation",
+        "History",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Sylvain Chomet",
+      "lb_director_slug": "sylvain-chomet",
+      "lb_year": 2025,
+      "lb_title": "A Magnificent Life",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/7/5/5/7/0/8/tmdb/h4vDr7nirn5jdo8CcGrBKkqD6Y8-1920-1920-1080-1080-crop-000000.jpg?v=b1f555b4f2",
+      "imdb_id": "tt13968662",
+      "tmdb_id": "840873"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.7,
+      47.2,
+      29.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+      "https://image.tmdb.org/t/p/w1280/9uKBTDxTE06ffjrPRcNgA7Gu5Bd.jpg",
+      "https://image.tmdb.org/t/p/w1280/9CvDpyS8P8yKKlc9FuAMYeMldZk.jpg"
+    ],
+    "tmdb_id": "840873"
   }
 }

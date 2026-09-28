@@ -2201,7 +2201,7 @@
   "Marc Caro, Jean-Pierre Jeunet": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "José Mojica Marins": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg/500px-Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2226,7 +2226,7 @@
   "Melisa Godet": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Rafiki Fariala": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Director_Rafiki_Fariala_at_the_79th_Locarno_Film_Festival_01.jpg/500px-Director_Rafiki_Fariala_at_the_79th_Locarno_Film_Festival_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2246,7 +2246,7 @@
   "Georges Bourdelon": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Jean-Gabriel Périot": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jean-Gabriel_P%C3%A9riot.tif/lossy-page1-500px-Jean-Gabriel_P%C3%A9riot.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2261,7 +2261,7 @@
   "Claude Nuridsany, Marie Pérennou": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Ugo Bienvenu": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ugo_Bienvenu.jpg/500px-Ugo_Bienvenu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2271,12 +2271,12 @@
   "Inês Delgado, Ricardo Machado": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Henrique Cannavial": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Roger Vadim": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Roger_Vadim_-_still.jpg/500px-Roger_Vadim_-_still.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2286,11 +2286,21 @@
   "Michael Hegner e Karsten Kiilerich": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Tim Burton": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tim_Burton-63605.jpg/500px-Tim_Burton-63605.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Timothy Walter Burton (born August 25, 1958) is an American filmmaker, and former animator. He is known for pioneering goth subculture in Hollywood, with his films employing a distinctive style that blends gothic horror and dark fantasy aesthetics with whimsical and surreal elements. He has received numerous accolades, including one Emmy Award and nominations for two Academy Awards, a Golden Globe Award, and three BAFTA Awards.",
+    "tries": 1
+  },
+  "Arthur Harari": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Arthur_Harari_2017.jpg/500px-Arthur_Harari_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Arthur Harari (born 1981 in Paris) is a French film director, screenwriter and actor. He is most known for co-writing Anatomy of a Fall (2023) with Justine Triet, for which he won the Golden Globe Award for Best Screenplay, BAFTA Award for Best Original Screenplay, César Award for Best Original Screenplay and Academy Award for Best Original Screenplay. He made his directorial debut in 2016 with the crime drama Dark Inclusion.",
+    "tries": 1
+  },
+  "Stuart Gillard": {
+    "photo": null,
+    "bio": "Stuart Thomas Gillard (born April 28, 1950) is a Canadian film director, writer, producer, actor and television director. He is best known for directing the films Teenage Mutant Ninja Turtles III (1993) and RocketMan (1997). He also wrote and directed the romance film Paradise in 1982, his directing debut.",
     "tries": 1
   }
 }
