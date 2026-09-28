@@ -3539,8 +3539,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/r9N2yehTqeePFIhyzOOGIvItIFy.jpg"
       ],
       "stills_focus": [
-        61.0,
-        37.9,
+        61.1,
+        37.8,
         45.5
       ]
     },
