@@ -2201,7 +2201,7 @@
   "Marc Caro, Jean-Pierre Jeunet": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "José Mojica Marins": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg/500px-Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2226,7 +2226,7 @@
   "Melisa Godet": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Rafiki Fariala": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Director_Rafiki_Fariala_at_the_79th_Locarno_Film_Festival_01.jpg/500px-Director_Rafiki_Fariala_at_the_79th_Locarno_Film_Festival_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2246,7 +2246,7 @@
   "Georges Bourdelon": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Jean-Gabriel Périot": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jean-Gabriel_P%C3%A9riot.tif/lossy-page1-500px-Jean-Gabriel_P%C3%A9riot.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2261,7 +2261,7 @@
   "Claude Nuridsany, Marie Pérennou": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Ugo Bienvenu": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ugo_Bienvenu.jpg/500px-Ugo_Bienvenu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2271,12 +2271,12 @@
   "Inês Delgado, Ricardo Machado": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Henrique Cannavial": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Roger Vadim": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Roger_Vadim_-_still.jpg/500px-Roger_Vadim_-_still.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2286,7 +2286,7 @@
   "Michael Hegner e Karsten Kiilerich": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Tim Burton": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tim_Burton-63605.jpg/500px-Tim_Burton-63605.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2301,6 +2301,56 @@
   "Stuart Gillard": {
     "photo": null,
     "bio": "Stuart Thomas Gillard (born April 28, 1950) is a Canadian film director, writer, producer, actor and television director. He is best known for directing the films Teenage Mutant Ninja Turtles III (1993) and RocketMan (1997). He also wrote and directed the romance film Paradise in 1982, his directing debut.",
+    "tries": 1
+  },
+  "Henry Koster": {
+    "photo": null,
+    "bio": "Henry Koster (born Hermann Kosterlitz, May 1, 1905 – September 21, 1988) was a German-born film director. He was the husband of actress Peggy Moran.",
+    "tries": 1
+  },
+  "Noémia Delgado": {
+    "photo": null,
+    "bio": "Noémia Delgado (7 June 1933 – 2 March 2016) was a Portuguese television and film screenwriter, film editor and director.",
+    "tries": 1
+  },
+  "François Reichenbach, Eddy Matalon": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Christian-Jaque": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Christian-Jaque-1954-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Christian-Jaque (byname of Christian Maudet; 4 September 1904  – 8 July 1994) was a French filmmaker. From 1954 to 1959, he was married to actress Martine Carol, who starred in several of his films, including Lucrèce Borgia (1953), Madame du Barry (1954), and Nana (1955). In 1961 he married Laurence Christol [1]\nChristian-Jaque's 1946 film A Lover's Return was entered into the 1946 Cannes Film Festival.",
+    "tries": 1
+  },
+  "Paul Feig": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Paul_Feig_by_Gage_Skidmore.jpg/500px-Paul_Feig_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Paul Feig (; born September 17, 1962) is an American filmmaker and actor. He is best known for directing films such as Bridesmaids (2011), The Heat (2013), Spy (2015), Ghostbusters: Answer the Call (2016), A Simple Favor (2018), Last Christmas (2019), and The Housemaid (2025). He often collaborates with actress Melissa McCarthy.",
+    "tries": 1
+  },
+  "Julien Duvivier": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Identite-JulienDuvivier-1932-Sacem.png/500px-Identite-JulienDuvivier-1932-Sacem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Julien Duvivier (French: [ʒyljɛ̃ dyvivje]; 8 October 1896 – 29 October 1967) was a French film director and screenwriter. He was prominent in French cinema in the years 1930–1960. Amongst his most original films, chiefly notable are La Bandera, Pépé le Moko, Little World of Don Camillo, Panic (Panique), Deadlier Than the Male and Marianne de ma jeunesse.",
+    "tries": 1
+  },
+  "Henri-Georges Clouzot": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/HGClouzot-1947-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Henri-Georges Clouzot (French: [ɑ̃ʁi ʒɔʁʒ kluzo]; 20 November 1907 – 12 January 1977) was a French film director, screenwriter, and producer. He is best remembered for his work in the thriller film genre, having directed The Wages of Fear (1953) and Les Diaboliques (1955), which are critically recognized as among the greatest films of the 1950s. He also directed documentary films, including The Mystery of Picasso (1956), which was declared a national treasure by the government of France.",
+    "tries": 1
+  },
+  "Edward Dmytryk": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Edward_Dmytryk_in_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Edward Dmytryk (September 4, 1908 – July 1, 1999) was a Canadian-born American film director and editor. He was known for his 1940s noir films and received an Oscar nomination for Best Director for Crossfire (1947). In 1947, he was named as one of the Hollywood Ten, a group of blacklisted film industry professionals who refused to testify to the House Un-American Activities Committee (HUAC) in their investigations during the Red Scare of the McCarthy era.",
+    "tries": 1
+  },
+  "Ratchapoom Boonbunchachoke": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/MKr381634_Ratchapoom_Boonbunchachoke_%28A_Useful_Ghost%2C_Cannes_2025%29.jpg/500px-MKr381634_Ratchapoom_Boonbunchachoke_%28A_Useful_Ghost%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Ratchapoom Boonbunchachoke is a Thai film director and screenwriter of Teochew-Hainanese descent, whose debut feature film A Useful Ghost was released in 2025. He also teaches film theory and screenwriting classes in Bangkok. Born and raised in Bangkok, he studied film at Chulalongkorn University.",
+    "tries": 1
+  },
+  "Lance Oppenheim": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg/500px-Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Lance Oppenheim (born January 26, 1996) is an American director and producer. His work blends nonfiction storytelling with heightened, cinematic formalism. Oppenheim's documentaries include the films Some Kind of Heaven (2020) about The Villages, Florida, Spermworld (2024), about unregulated sperm donation, and You Can See Everything, about Elizabeth Holmes, which he co-directed with Nathan Fielder.",
     "tries": 1
   }
 }
