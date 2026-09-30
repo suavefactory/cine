@@ -3974,7 +3974,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
       ],
       "stills_focus": [
-        40.6
+        40.5
       ],
       "director_lbxd_slug": "carla-andrade"
     },
@@ -5927,7 +5927,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
       ],
       "stills_focus": [
-        29.6
+        29.3
       ],
       "director_lbxd_slug": "paulo-rocha-1"
     },
