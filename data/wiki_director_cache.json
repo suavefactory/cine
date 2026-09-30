@@ -2316,7 +2316,7 @@
   "François Reichenbach, Eddy Matalon": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Christian-Jaque": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Christian-Jaque-1954-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2351,6 +2351,56 @@
   "Lance Oppenheim": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg/500px-Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Lance Oppenheim (born January 26, 1996) is an American director and producer. His work blends nonfiction storytelling with heightened, cinematic formalism. Oppenheim's documentaries include the films Some Kind of Heaven (2020) about The Villages, Florida, Spermworld (2024), about unregulated sperm donation, and You Can See Everything, about Elizabeth Holmes, which he co-directed with Nathan Fielder.",
+    "tries": 1
+  },
+  "Marguerite de Hillerin, Félix Dutilloy-Liégeois": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Sharunas Bartas": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg/500px-OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Šarūnas Bartas (born 16 August 1964) is a Lithuanian film director. He is one of the most prominent Lithuanian film directors internationally from the late 20th century. His 2015 film Peace to Us in Our Dreams was screened in the Directors' Fortnight section at the 2015 Cannes Film Festival.",
+    "tries": 1
+  },
+  "Mário Barroso": {
+    "photo": null,
+    "bio": "Mário Barroso (born 15 August 1947) is a Portuguese film director, actor and cinematographer born in Lisbon.",
+    "tries": 1
+  },
+  "Jacques Doillon": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jacques_Doillon_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Jacques Doillon (French: [dwajɔ̃]; born 15 March 1944) is a French film director and screenwriter.",
+    "tries": 1
+  },
+  "Patricia Plattner": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Patricia_Plattner_%281994%29_by_Erling_Mandelmann_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Patricia Plattner (22 January 1953, in Geneva – 5 September 2016) was a Swiss filmmaker. Between 1986 and 2009 she directed fourteen films. She was awarded a Prix UBS at the Solothurn Film Festival in 2000.",
+    "tries": 1
+  },
+  "Mauritz Stiller": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mauritz_Stiller_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Mauritz Stiller (born Moshe Stiller, 17 July 1883 – 8 November 1928) was a Swedish-Finnish film director of Jewish origin, best known for discovering Greta Garbo and bringing her to America. Stiller was a pioneer of the Swedish film industry, writing and directing many short films from 1912. When Metro-Goldwyn-Mayer invited him to Hollywood as a director, he arrived with his new discovery Greta Gustafsson, whose screen name Greta Garbo is believed to have been his suggestion.",
+    "tries": 1
+  },
+  "Nino Oxilia": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Oxilia-n---foto-1914.jpg/500px-Oxilia-n---foto-1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Nino Oxilia (13 November 1889 – 18 November 1917) was an Italian playwright, screenwriter and film director. His 1911 play Goodbye Youth, written with Sandro Camasio, was turned into several films. He also wrote the first lyrics for the song \"Giovinezza\" in 1909.",
+    "tries": 1
+  },
+  "Marc Forster": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Marc_Forster_Cannes_2013.jpg/500px-Marc_Forster_Cannes_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Marc Forster (born 30 November 1969) is a German-Swiss filmmaker. He is best known for directing the feature films Monster's Ball, Finding Neverland, Stranger than Fiction, Quantum of Solace, World War Z, and Christopher Robin, and has additionally directed numerous television commercials. He is a BAFTA, Golden Globe, and Independent Spirit Award nominee.",
+    "tries": 1
+  },
+  "Jean-Claude Biette": {
+    "photo": null,
+    "bio": "French film critic (1942-2003)",
+    "tries": 1
+  },
+  "Noémia Delgado (não creditada)": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }

@@ -1,1309 +1,6 @@
 window.CINEMA_DATA = {
-  "generated": "2026-09-29T14:56:44.092685+00:00",
+  "generated": "2026-09-30T14:52:29.509070+00:00",
   "movies": [
-    {
-      "id": "sao_jorge_11947",
-      "title": "La Haine",
-      "director": "Mathieu Kassovitz",
-      "duration": 95,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/4/51684-la-haine-0-500-0-750-crop.jpg?v=b6677cc136",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/o-odio/",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "21:15",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.5,
-      "year": 1995,
-      "plot": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
-        "https://image.tmdb.org/t/p/w1280/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
-        "https://image.tmdb.org/t/p/w1280/3PGKBMDpsFhAB6xdHEJOKs3AhxW.jpg"
-      ],
-      "stills_focus": [
-        39.2,
-        38.2,
-        24.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "mathieu-kassovitz"
-    },
-    {
-      "id": "sao_jorge_11983",
-      "title": "MOTEUR… IMPROVISO!",
-      "director": null,
-      "duration": 80,
-      "festival": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/moteur-improviso/",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11981",
-      "title": "Delicatessen",
-      "director": "Marc Caro, Jean-Pierre Jeunet",
-      "duration": 95,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/0/51260-delicatessen-0-500-0-750-crop.jpg?v=dca54560ba",
-      "genres": [
-        "Fantasy",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/delicatessen/",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "15:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.82,
-      "year": 1991,
-      "plot": "In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ii6L97z4uzJ1vPTHOnpTgzkvrXs.jpg",
-        "https://image.tmdb.org/t/p/w1280/qsm0PCPoEIFLW9vrwIWtTVDxRxV.jpg",
-        "https://image.tmdb.org/t/p/w1280/VjhrYIsEpiaWIzMZZ0pvlNZZ1M.jpg"
-      ],
-      "stills_focus": [
-        19.9,
-        24.5,
-        52.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "jean-pierre-jeunet"
-    },
-    {
-      "id": "sao_jorge_11915",
-      "title": "Du fioul dans les artères",
-      "director": null,
-      "duration": 90,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/8/0/1/0/978010-flesh-fuel-0-500-0-750-crop.jpg?v=2b4bd81078",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/du-fioul-dans-les-arteres/",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.7,
-      "year": 2026,
-      "plot": "A lonely French trucker's routine life on the road takes an unexpected turn when he encounters a Polish driver. As feelings develop, he struggles to balance his demanding job with a chance at love, determined to make their connection work.",
-      "title_en": "Flesh & Fuel",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg",
-        "https://image.tmdb.org/t/p/w1280/h8OnhaIaPh0TKIVvlMh9FypOiS0.jpg",
-        "https://image.tmdb.org/t/p/w1280/yyTYXr3hFj5lulJqu5N2JBW34vL.jpg"
-      ],
-      "stills_focus": [
-        38.7,
-        43.0,
-        30.5
-      ],
-      "country": "France",
-      "director_lbxd_slug": "pierre-le-gall"
-    },
-    {
-      "id": "sao_jorge_11949",
-      "title": "Destemidas | LES PETITS CINÉPHILES",
-      "director": null,
-      "duration": 100,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_Destemidas.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/destemidas-les-petits-cinephiles/",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "11:00",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "11:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11892",
-      "title": "THE MONEY MAKER – O FALSIFICADOR",
-      "director": null,
-      "duration": 128,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/4/0/5/278405-the-money-maker-0-500-0-750-crop.jpg?v=d6b7419690",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/laffaire-bojarski/",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "21:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 1964,
-      "plot": "This film comedy takes place in the good old times of the Austro-Hungarian Monarchy at the turn of the century. Bányai, an impecunious clerk suddenly finds himself to be able to make perfect imitations of ornaments on the bank-notes. Being spurred by his incessantly shrewish mother-in-law, he finds a solution to his family's financial problems overnight, but an ambitious detective becomes suspicious of him.",
-      "title_en": "The Money-Maker",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/cLWlMBETMPaSbs50zkfgoUtN7GQ.jpg"
-      ],
-      "stills_focus": [
-        40.4
-      ],
-      "country": "Hungary",
-      "director_lbxd_slug": "frigyes-ban"
-    },
-    {
-      "id": "sao_jorge_11881",
-      "title": "L’Inconnue",
-      "director": null,
-      "duration": 140,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/6/4/9/6/1636496-linconnue-0-500-0-750-crop.jpg?v=d85374d077",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/linconnue/",
-      "sessions": [
-        {
-          "date": "2026-10-05",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2026,
-      "plot": "The story plunges us into a hangar at night, where friends are having fun with a disguise, unintentionally frightening their friend who is standing guard.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/aC6hM1IlbDzaeGgkvW9zehH9yFT.jpg",
-        "https://image.tmdb.org/t/p/w1280/5PxE12fQr9pn11cAFszRWmQe2OL.jpg"
-      ],
-      "stills_focus": [
-        38.7,
-        36.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "mathieu-barthez-2"
-    },
-    {
-      "id": "sao_jorge_11919",
-      "title": "A praga",
-      "director": "José Mojica Marins",
-      "duration": 95,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/66b6b82f583cf19efd1af58a72666d80.webp",
-      "genres": [
-        "Horror"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/a-praga/",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "19:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "plot": "While out for a walk in the countryside, Marina and Juvenal stop to take some pictures in front of an old woman's house. Annoyed, the old woman turns out to be a witch and casts a curse on the young couple.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/dQopBXcPLMEZRdMt5TkfR1caIDv.jpg",
-        "https://image.tmdb.org/t/p/w1280/pweghz7ycqy7hg4hnLs4dDai3Ww.jpg",
-        "https://image.tmdb.org/t/p/w1280/tcTASY9ku1h4S1Mn1lvp0QoUPoN.jpg"
-      ],
-      "stills_focus": [
-        21.6,
-        13.9,
-        49.5
-      ],
-      "country": "Brazil",
-      "year": 2021
-    },
-    {
-      "id": "sao_jorge_11877",
-      "title": "Ni vue, ni connue",
-      "director": "Dorothée Sebbagh",
-      "duration": 113,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/3/8/6/7/6/538676-ni-vue-ni-connue-0-500-0-750-crop.jpg?v=3dde80fcf9",
-      "genres": [
-        "Crime",
-        "Tv Movie"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/ni-vue-ni-connue-sessao-de-encerramento/",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "19:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Sessão de Encerramento"
-          ]
-        }
-      ],
-      "year": 1997,
-      "plot": "Directed by Pierre Lary. With Mireille Darc, Christophe Odent, Jean-Marie Winling, Hugues Boucher.",
-      "country": "France",
-      "director_lbxd_slug": "pierre-lary"
-    },
-    {
-      "id": "sao_jorge_11879",
-      "title": "La Bataille de Gaulle : J’écris ton nom",
-      "director": null,
-      "duration": 157,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_DG2_Photogramme_20260526_TIFF-16bits_4608x1582_EC_Rec709G24-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/la-bataille-de-gaulle-jecris-ton-nom/",
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11883",
-      "title": "Histoires parallèles",
-      "director": null,
-      "duration": 139,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/4/1/1/3/1044113-parallel-tales-0-500-0-750-crop.jpg?v=483e8b4370",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/histoires-paralleles/",
-      "sessions": [
-        {
-          "date": "2026-10-02",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 2.9,
-      "year": 2026,
-      "plot": "In search of inspiration for her new novel, Sylvie spies on her neighbors in the building across the street using a telescope. When she hires young Adam to help her with her daily routine, she has no idea that he will turn her life and her work upside down, until the fiction she had imagined surpasses the reality of them all.",
-      "title_en": "Parallel Tales",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3lKjspWl46OWPmn6jIp8Wo8UdP4.jpg",
-        "https://image.tmdb.org/t/p/w1280/8mQayOm0n013Y36Rahd3O9OAuHT.jpg",
-        "https://image.tmdb.org/t/p/w1280/iLGbLmi6aE97U7ma50CnH4aGWfj.jpg"
-      ],
-      "stills_focus": [
-        34.0,
-        37.7,
-        24.6
-      ],
-      "country": "France",
-      "director_lbxd_slug": "asghar-farhadi"
-    },
-    {
-      "id": "sao_jorge_11885",
-      "title": "A Breve Vida das Flores",
-      "director": null,
-      "duration": 137,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/leila-bekhti-dans-le-film-changer-l-eau-des-fleurs-photo-bruno-calvo-palomar-24-25-films-studio-canal-france-2-cinema-1788968048.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/a-breve-vida-das-flores/",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11887",
-      "title": "Os Miseráveis",
-      "director": null,
-      "duration": 178,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/OIP-1.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/os-miseraveis-2/",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "country": "Brazil",
-      "year": 1967
-    },
-    {
-      "id": "sao_jorge_11890",
-      "title": "La Troisième Nuit",
-      "director": null,
-      "duration": 92,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/2/7/4/4/1382744-when-the-night-falls-2026-0-500-0-750-crop.jpg?v=61d9ee61c7",
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/la-troisieme-nuit/",
-      "sessions": [
-        {
-          "date": "2026-10-08",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.22,
-      "year": 2026,
-      "plot": "Follows the incredible story of a 1942 effort to to save over 100 Jewish children from a deportation camp just outside of Lyon.",
-      "title_en": "When the Night Falls",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/pn59n6kKGF0BQ05St0qk5ha8bSi.jpg",
-        "https://image.tmdb.org/t/p/w1280/ulvTLCYqu0felQu6G9B2tc7M8VB.jpg",
-        "https://image.tmdb.org/t/p/w1280/3tns793ZMKKTokeA4YmlHU9Z9cN.jpg"
-      ],
-      "stills_focus": [
-        32.8,
-        34.2,
-        48.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "daniel-auteuil"
-    },
-    {
-      "id": "sao_jorge_11894",
-      "title": "Les Enfants vont bien",
-      "director": "Nathan Ambrosioni",
-      "duration": 111,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/1/6/9/1/1161691-out-of-love-2025-0-500-0-750-crop.jpg?v=a588df1301",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/les-enfants-vont-bien/",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "18:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.72,
-      "year": 2025,
-      "plot": "When Jeanne, a meticulous insurance assessor, is suddenly left to care for her estranged sister’s two children after their mother vanishes, her carefully ordered life begins to unravel. Confronted with unexpected responsibilities, she must balance the fragile task of earning the children’s trust while also tending to her own relationship with her girlfriend, who struggles to adjust to Jeanne’s new role. As grief, uncertainty, and shifting loyalties mount, Jeanne finds herself redefining what family and love truly mean.",
-      "title_en": "Out of Love",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/amgPQ7hCwd8beF91w379rxgPh77.jpg",
-        "https://image.tmdb.org/t/p/w1280/bENf7fq9uPQEgcX11DwvUuDNDbX.jpg",
-        "https://image.tmdb.org/t/p/w1280/1mxCsv2P1rRHuP8N97NVSMdZRCr.jpg"
-      ],
-      "stills_focus": [
-        25.2,
-        45.6,
-        53.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "nathan-ambrosioni"
-    },
-    {
-      "id": "sao_jorge_11901",
-      "title": "Full Phil",
-      "director": "Quentin Dupieux",
-      "duration": 78,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/8/1/5/4/1428154-full-phil-0-500-0-750-crop.jpg?v=74eb84f63b",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/full-phil/",
-      "sessions": [
-        {
-          "date": "2026-10-06",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 2.92,
-      "year": 2026,
-      "plot": "Wealthy American industrialist Philip Doom attempts to reconnect with his daughter Madeleine during a luxurious trip to Paris. Unfortunately, French cuisine, a 1950s horror film, and an intrusive hotel employee disrupt their stay.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/r4opW3N4pF4KCLSoDMSAf5PI4pr.jpg"
-      ],
-      "stills_focus": [
-        42.1
-      ],
-      "country": "France",
-      "director_lbxd_slug": "quentin-dupieux"
-    },
-    {
-      "id": "sao_jorge_11903",
-      "title": "Ulysse",
-      "director": "Agnès Varda",
-      "duration": 97,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/2/7/3/181273-ulysse-0-500-0-750-crop.jpg?v=0475a8eaf3",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/ulysse/",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "16:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.92,
-      "year": 1983,
-      "plot": "At the sea shore, a goat, a child, and a naked man. This is a photograph taken in 1954 by Agnès Varda. The goat was dead, the child was named Ulysses, and the man was naked. Starting from this frozen image, the film explores the real and the imaginary.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/behIDapKLsJqVEz1z3ipAWrLgLz.jpg",
-        "https://image.tmdb.org/t/p/w1280/kNExUL8vwPEFCKaEa2pMdbM8Abz.jpg",
-        "https://image.tmdb.org/t/p/w1280/At9iEsJqvWt4219IAZGiWSDLndh.jpg"
-      ],
-      "stills_focus": [
-        47.5,
-        41.6,
-        42.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "sao_jorge_11905",
-      "title": "La Chaleur",
-      "director": null,
-      "duration": 92,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_La-Chaleur_still-PRINCIPAL.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/la-chaleur/",
-      "sessions": [
-        {
-          "date": "2026-10-02",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11907",
-      "title": "La Maison des Femmes",
-      "director": "Melisa Godet",
-      "duration": 110,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/9/1/9/3/1199193-a-place-for-her-0-500-0-750-crop.jpg?v=81740aada5",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/la-maison-des-femmes/",
-      "sessions": [
-        {
-          "date": "2026-10-02",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.97,
-      "year": 2025,
-      "plot": "At the Maison des Femmes, women victims of violence are cared for. Elsewhere, they are threatened, brutalized, raped, mutilated, their suffering ignored. Here, they are listened to, supported, helped and believed. Diane, Manon, Inès, Awa and the others will give them a helping hand until they can stand up again. As a team. Even if it means risking their own equilibrium.",
-      "title_en": "A Place for Her",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/a7R1KHBvcf8dztRIpR7sa1KQamx.jpg",
-        "https://image.tmdb.org/t/p/w1280/7BPrxySzJOzF0u2eDn3SaSx5JQx.jpg",
-        "https://image.tmdb.org/t/p/w1280/e96yQCaeWBiZCuT05Rq4qHccSrr.jpg"
-      ],
-      "stills_focus": [
-        16.2,
-        35.4,
-        23.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "melisa-godet"
-    },
-    {
-      "id": "sao_jorge_11909",
-      "title": "De la Comédie-Française",
-      "director": null,
-      "duration": 75,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_de_la_comedie_francaise-2.webp",
-      "genres": [
-        "Documentary",
-        "Short"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/de-la-comedie-francaise/",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "18:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "title_en": "Place de la Comédie",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/AhKoI2RRwVgbxuxYKzRJGQ4ZePw.jpg",
-        "https://image.tmdb.org/t/p/w1280/iRxHhvktvbm9ybi6NLgF1yMmwP4.jpg",
-        "https://image.tmdb.org/t/p/w1280/kZUAjc1d4tezDB5BUF5i3G9JmN4.jpg"
-      ],
-      "stills_focus": [
-        30.5,
-        19.8,
-        27.0
-      ],
-      "country": "France",
-      "year": 1896
-    },
-    {
-      "id": "sao_jorge_11911",
-      "title": "L’Objet du délit",
-      "director": null,
-      "duration": 134,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/3/0/8/1/1343081-crescendo-2026-2-0-500-0-750-crop.jpg?v=5c6a493075",
-      "genres": [
-        "Comedy",
-        "Music",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/lobjet-du-delit/",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 2.81,
-      "year": 2026,
-      "plot": "In the ruins of a Roman amphitheatre in the South of France, the cast and crew of an ambitious staging of The Marriage of Figaro is thrown off balance when troubling accusations threaten to derail the entire production. As tensions intensify, loyalties slowly fracture and deep generational disagreement emerges, throwing their sheltered opera world into a great divide.",
-      "title_en": "Crescendo",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/m6lfhmhlH3zEZHlvNR3YmPd16wT.jpg",
-        "https://image.tmdb.org/t/p/w1280/jolGVJiumyw7TYaKFJuKbQDlxrB.jpg",
-        "https://image.tmdb.org/t/p/w1280/a5BFKPEp18Jay1Q18IdlaKp2xZA.jpg"
-      ],
-      "stills_focus": [
-        32.7,
-        38.1,
-        28.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-jaoui"
-    },
-    {
-      "id": "sao_jorge_11913",
-      "title": "Congo Boy",
-      "director": "Rafiki Fariala",
-      "duration": 90,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/4/4/3/1529443-congo-boy-0-500-0-750-crop.jpg?v=699f344393",
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/congo-boy/",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "16:00",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "19:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.61,
-      "year": 2026,
-      "plot": "Bangui, Central African Republic. 17 year-old Robert dreams of a career in music, but civil war is tearing the country apart. When both his parents are thrown into prison, he is left to look after his four younger siblings on his own, juggling daily life, odd jobs, school exams and concert stages, determined to follow his dream.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/mCF79jj7s5KZAyqxvNGJxEnF32P.jpg"
-      ],
-      "stills_focus": [
-        49.4
-      ],
-      "country": "Central African Republic",
-      "director_lbxd_slug": "rafiki-fariala"
-    },
-    {
-      "id": "sao_jorge_11917",
-      "title": "Adieu monde cruel",
-      "director": "Félix de Givry",
-      "duration": 93,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/1/9/8/9/1241989-goodbye-cruel-world-2026-0-500-0-750-crop.jpg?v=28f69d3866",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/adieu-monde-cruel/",
-      "sessions": [
-        {
-          "date": "2026-10-05",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "19:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.54,
-      "year": 2026,
-      "plot": "Fourteen-year-old Otto writes a suicide letter to his family and classmates, but his attempt fails. Too ashamed to go back home, he hides. As night falls, he roams the city streets like a ghost—until a girl from his high school, Léna, recognizes him.",
-      "title_en": "Goodbye Cruel World",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/l43i6Exp5wa6OvrN4IgPWkZuBSx.jpg",
-        "https://image.tmdb.org/t/p/w1280/jQebusYFrfZVyyxI45DQxrbIucY.jpg",
-        "https://image.tmdb.org/t/p/w1280/uJJwOT3jUWcZyBPWeqA504ApWmy.jpg"
-      ],
-      "stills_focus": [
-        28.1,
-        37.5,
-        27.5
-      ],
-      "country": "Belgium",
-      "director_lbxd_slug": "felix-de-givry"
-    },
-    {
-      "id": "sao_jorge_11921",
-      "title": "Paradise",
-      "director": null,
-      "duration": 90,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/6/37146-paradise-0-500-0-750-crop.jpg?v=f6ac081575",
-      "genres": [
-        "Adventure",
-        "Romance"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/paradise/",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "19:30",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 2.53,
-      "year": 1982,
-      "plot": "After their caravan is attacked and their respective families butchered by Arab marauders, teenagers David and Sarah flee across the desert. But the desert is filled with danger from the elements, animals and the unwholesome appetite of the Jackal, a sheik who wants Sarah for himself. However, the desert also holds temptation and love. David and Sarah hide out in an oasis and build a life for themselves, discovering each other in new ways.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/8f7TgUsnDTvJpdfOh6hPKmXiyuI.jpg",
-        "https://image.tmdb.org/t/p/w1280/7LeZcy6m4hGATOSYS4kpcXqqEJi.jpg",
-        "https://image.tmdb.org/t/p/w1280/n60yxoktCQFDmIx4QpGjDhmz7TU.jpg"
-      ],
-      "stills_focus": [
-        28.8,
-        44.7,
-        16.7
-      ],
-      "country": "Canada",
-      "director_lbxd_slug": "stuart-gillard"
-    },
-    {
-      "id": "sao_jorge_11923",
-      "title": "La Frappe",
-      "director": "Julien Gaspar-Oliveri",
-      "duration": 104,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/7/5/1/1315751-the-blow-2026-0-500-0-750-crop.jpg?v=8e8cfd4b17",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/la-frappe/",
-      "sessions": [
-        {
-          "date": "2026-10-06",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.4,
-      "year": 2026,
-      "plot": "Nineteen-year-old Enzo and his twenty-year-old sister Carla have been left to fend for themselves for several years. When their father, Anthony, is released from prison, Enzo sees the fragile promise of a family to rebuild, unlike Carla, for whom the idea remains inconceivable. Haunted by his past, Enzo must confront a truth he has kept hidden for far too long.",
-      "title_en": "The Blow",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/zJSb4zzCAbIaNjEB3p2wq0bM4N2.jpg",
-        "https://image.tmdb.org/t/p/w1280/bGjWcRhScS9f5bFx27dThYhVt9Y.jpg",
-        "https://image.tmdb.org/t/p/w1280/jgpYoMmSLt5SvdLOpqHJptOzhBs.jpg"
-      ],
-      "stills_focus": [
-        45.4,
-        35.8,
-        23.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "julien-gaspar-oliveri"
-    },
-    {
-      "id": "sao_jorge_11932",
-      "title": "Persépolis",
-      "director": "Georges Bourdelon",
-      "duration": 95,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/28/um/1t/jq/dYvyF1RlNokAd1N7Nek0vDpYsV6-0-500-0-750-crop.jpg?v=fc5d71c744",
-      "genres": [
-        "Animation",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/persepolis/",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "17:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.23,
-      "year": 2007,
-      "plot": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
-        "https://image.tmdb.org/t/p/w1280/efoD6dDoo2WwkGfHjgIuHy79S1k.jpg",
-        "https://image.tmdb.org/t/p/w1280/6kqybERm5qi2jGpu8I7DaQPxpSU.jpg"
-      ],
-      "stills_focus": [
-        24.9,
-        25.6,
-        35.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "marjane-satrapi"
-    },
-    {
-      "id": "sao_jorge_11934",
-      "title": "O Canto das Florestas",
-      "director": null,
-      "duration": 93,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_le-chant-des-forets-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/o-canto-das-florestas/",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "18:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11936",
-      "title": "Une vie manifeste",
-      "director": "Jean-Gabriel Périot",
-      "duration": 86,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/8/0/5/1360805-a-life-a-manifesto-0-500-0-750-crop.jpg?v=44468fb114",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/une-vie-manifeste/",
-      "sessions": [
-        {
-          "date": "2026-10-08",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.58,
-      "year": 2026,
-      "plot": "The life of Michèle Firk — a trailblazing French journalist, film critic, aspiring director and communist activist involved in various liberation struggles in the second half of the 20th century — as told by narrator Alice Diop, modern day French director.",
-      "title_en": "A Life, A Manifesto",
-      "country": "France",
-      "director_lbxd_slug": "jean-gabriel-periot"
-    },
-    {
-      "id": "sao_jorge_11939",
-      "title": "Mémoire de fille",
-      "director": "Judith Godrèche",
-      "duration": 117,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/1/0/9/6/1391096-a-girls-story-0-500-0-750-crop.jpg?v=906f5fa6aa",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/memoire-de-fille/",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "15:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.38,
-      "year": 2026,
-      "plot": "During a book signing in Normandy, Annie Ernaux, 70, revisits her memories of the summer of 1958, when she was 17. That summer, she left her hometown to work as a camp counsellor. At the first party, the head counsellor set out to deflower her. Finding him handsome, she lets him do it, as if against her will... Her body becomes a foreign place for her, an offering to be sacrificed.",
-      "title_en": "A Girl’s Story",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/50w3VUxBQge2pUp8COyuGqg6Gqc.jpg",
-        "https://image.tmdb.org/t/p/w1280/gb5sHuZ8THeXqoOai8YauA9jyMQ.jpg",
-        "https://image.tmdb.org/t/p/w1280/lOZJaGCrDUO5NK6PBQ3IhhoVR2z.jpg"
-      ],
-      "stills_focus": [
-        46.7,
-        65.9,
-        47.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "judith-godreche"
-    },
-    {
-      "id": "sao_jorge_11941",
-      "title": "Derrière les palmiers",
-      "director": null,
-      "duration": 80,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_Derriere-les-Palmiers.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/derriere-les-palmiers/",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11943",
-      "title": "Bataclan: Os que Viveram",
-      "director": null,
-      "duration": 104,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/DV_EP1_Stills-12.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/bataclan-os-que-viveram/",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "19:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11945",
-      "title": "Microcosmos – Le Peuple de l’herbe",
-      "director": "Claude Nuridsany, Marie Pérennou",
-      "duration": 75,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/2/8/7/47287-microcosmos-0-500-0-750-crop.jpg?v=9289bab95f",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/microcosmos-le-peuple-de-lherbe/",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "17:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 4.13,
-      "year": 1996,
-      "plot": "A documentary of insect life in meadows and ponds, using incredible close-ups, slow motion, and time-lapse photography. It includes bees collecting nectar, ladybugs eating mites, snails mating, spiders wrapping their catch, a scarab beetle relentlessly pushing its ball of dung uphill, endless lines of caterpillars, an underwater spider creating an air bubble to live in, and a mosquito hatching.",
-      "title_en": "Microcosmos",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/9JbL0Z1cHFRgg5EgjExnWzdr6K5.jpg",
-        "https://image.tmdb.org/t/p/w1280/5hsqBF6DFfrsCEJT9IHEYn04JYF.jpg",
-        "https://image.tmdb.org/t/p/w1280/87NFGpptRN7xnI3VfERAZEwbh7C.jpg"
-      ],
-      "stills_focus": [
-        51.2,
-        31.9,
-        40.6
-      ],
-      "country": "France",
-      "director_lbxd_slug": "claude-nuridsany"
-    },
-    {
-      "id": "sao_jorge_11953",
-      "title": "Arco",
-      "director": "Ugo Bienvenu",
-      "duration": 88,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/1/5/6/6/721566-arco-0-500-0-750-crop.jpg?v=dcaae85d56",
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Science Fiction",
-        "Family"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/arco/",
-      "sessions": [
-        {
-          "date": "2026-10-02",
-          "time": "16:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.88,
-      "year": 2025,
-      "plot": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/reQELo8rDiLIOoYIA7M6q7KGRW0.jpg",
-        "https://image.tmdb.org/t/p/w1280/upvaYJFfSDmMUrG7rur3iUrHoli.jpg",
-        "https://image.tmdb.org/t/p/w1280/dBbbPY9ITxqmTSS2cJO1lynejED.jpg"
-      ],
-      "stills_focus": [
-        38.4,
-        24.1,
-        50.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "ugo-bienvenu"
-    },
-    {
-      "id": "sao_jorge_11955",
-      "title": "O Estrangeiro",
-      "director": "Inês Delgado, Ricardo Machado",
-      "duration": 122,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/8/7/9/2/1058792-when-fall-is-coming-0-500-0-750-crop.jpg?v=0df2a0a2ab",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/o-estrangeiro/",
-      "sessions": [
-        {
-          "date": "2026-10-05",
-          "time": "16:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.39,
-      "year": 2024,
-      "plot": "Michelle is enjoying a peaceful retirement in a Burgundy village, close to her longtime friend Marie-Claude. When her Parisian daughter Valérie drops off her son Lucas to spend school vacation with his grandma, Michelle, stressed out by her daughter, serves her toxic mushrooms for lunch. Valérie quickly recovers, but forbids her mother from seeing her grandson anymore. Feeling lonely and guilty, Michelle falls into a depression... until Marie-Claude's son gets out of prison.",
-      "title_en": "When Fall Is Coming",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/z3zeYgp8P8SqTypwatOHINDCnHM.jpg",
-        "https://image.tmdb.org/t/p/w1280/16ruM41MJNYQF09q1JJxO8o1uwU.jpg",
-        "https://image.tmdb.org/t/p/w1280/iljIkk70Ury2ofekG0V5wKLmmZ.jpg"
-      ],
-      "stills_focus": [
-        29.1,
-        30.9,
-        16.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "francois-ozon"
-    },
-    {
-      "id": "sao_jorge_11958",
-      "title": "JOVENS MÃES",
-      "director": null,
-      "duration": 105,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_Jovens-maes-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/jovens-maes/",
-      "sessions": [
-        {
-          "date": "2026-10-06",
-          "time": "17:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11960",
-      "title": "O que é o Amor?",
-      "director": "Henrique Cannavial",
-      "duration": 100,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/CAFE-CEST-QUOI-LAMOUR-_-©-Deuxieme-ligne-films-Petit-Film-France-3-cinema0-scaled.webp",
-      "genres": [
-        "Short",
-        "Romance"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/o-que-e-o-amor/",
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "17:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "title_en": "Afinal, o que é o Amor?",
-      "country": "Portugal",
-      "year": 2015
-    },
-    {
-      "id": "sao_jorge_11962",
-      "title": "Marcel e Monsieur Pagnol",
-      "director": null,
-      "duration": 90,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/5/7/0/8/755708-the-magnificent-life-of-marcel-pagnol-0-500-0-750-crop.jpg?v=6c2a9e55f5",
-      "genres": [
-        "Animation",
-        "History",
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/marcel-e-monsieur-pagnol/",
-      "sessions": [
-        {
-          "date": "2026-10-08",
-          "time": "17:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.43,
-      "year": 2025,
-      "plot": "In 1955, 60-year-old Marcel Pagnol is a well-known and acclaimed playwright and filmmaker. When the editor-in-chief of ELLE magazine commissions a weekly column about Pagnol's childhood, he sees this as a great opportunity to go back to his artistic roots: writing. Realizing his memory is failing him and deeply affected by the disappointing results of his last two plays, Pagnol starts doubting his ability to pursue his work. That is until Little Marcel - the young boy he used to be - appears to him as if by magic. Together, they will explore Marcel Pagnol's incredible life and bring back to life his most cherished encounters and memories...",
-      "title_en": "A Magnificent Life",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-        "https://image.tmdb.org/t/p/w1280/9uKBTDxTE06ffjrPRcNgA7Gu5Bd.jpg",
-        "https://image.tmdb.org/t/p/w1280/9CvDpyS8P8yKKlc9FuAMYeMldZk.jpg"
-      ],
-      "stills_focus": [
-        32.7,
-        47.2,
-        29.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "sylvain-chomet"
-    },
-    {
-      "id": "sao_jorge_11966",
-      "title": "Só Uma Ilusão",
-      "director": null,
-      "duration": 116,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/26_03_02_1772473828_justeuneillusion_j40_resedence_copains_full_300dpi_117_retouche_RET-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/so-uma-ilusao/",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "21:45",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11968",
-      "title": "13 Dias, 13 Noites",
-      "director": null,
-      "duration": 111,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_13-jours-13-nuits-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/13-dias-13-noites/",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "18:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_11971",
-      "title": "O Mago do Kremlin",
-      "director": null,
-      "duration": 152,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/09/MAIN_le-mage-du-kremlin-scaled.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/o-mago-do-kremlin/",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "21:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20266",
-      "title": "Hugo",
-      "director": "Martin Scorsese",
-      "year": 2011,
-      "duration": 126,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/kp/9v/8u/7j/rSmmVKeW3nsP86V2S6R7ePs4CFw-0-500-0-750-crop.jpg?v=2e7a1b811a",
-      "genres": [
-        "Adventure",
-        "Family",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20266",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.51,
-      "plot": "Orphaned and alone except for an uncle, Hugo Cabret lives in the walls of a train station in 1930s Paris. Hugo's job is to oil and maintain the station's clocks, but to him, his more important task is to protect a broken automaton and notebook left to him by his late father. Accompanied by the goddaughter of an embittered toy merchant, Hugo embarks on a quest to solve the mystery of the automaton and find a place he can call home.",
-      "plot_pt": "Ainda hoje é dos filmes mais discutidos e menos “consensuais” deste período da obra de Scorsese, talvez porque fosse o filme que, na época, ninguém esperava que ele fizesse como sequência para TAXI DRIVER. É outra vez Nova Iorque, mas agora numa perspetiva elegíaca, nostálgica (os anos do pós-Guerra, que correspondem à infância de Scorsese), e sobretudo musical: é o grande encontro de Scorsese com o género do filme musical. Por dentro, claro, é o relato de uma relação de casal com tendência para o caos (magníficos são Liza Minnelli e De Niro), um caos que reflete também o estado pessoal de Scorsese nesta época, e o seu vício da cocaína (a que o realizador, retrospetivamente, atribuiu a dificuldade que teve para conseguir chegar a uma montagem satisfatória – para ele, em primeiro lugar). Dizendo de outra maneira, cara aos franceses: é o grande “film-malade”, o grande “filme doente”, da obra de Scorsese.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/Aj81Gu3u1a64qXFOLDuF5gdxyy0.jpg",
-        "https://image.tmdb.org/t/p/w1280/jlh5bNiSPcbQ79Nt31kE2GxIR3h.jpg",
-        "https://image.tmdb.org/t/p/w1280/h1W887ujJGKiqYSdv0DRjLZJG8J.jpg"
-      ],
-      "stills_focus": [
-        41.8,
-        28.3,
-        44.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20257",
-      "title": "Shutter Island",
-      "director": "Martin Scorsese",
-      "year": 2010,
-      "duration": 138,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-500-0-750-crop.jpg?v=85dd4c38e3",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20257",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 4.2,
-      "plot": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
-      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
-        "https://image.tmdb.org/t/p/w1280/yJXDsrRywSfwG7IyvytzHdeAYnR.jpg",
-        "https://image.tmdb.org/t/p/w1280/6TMcyW2qbwvQfTGoQon7JNeaYOD.jpg"
-      ],
-      "stills_focus": [
-        26.6,
-        22.3,
-        27.7
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20258",
-      "title": "Shine A Light",
-      "director": "Martin Scorsese",
-      "year": 2008,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/5/0/47950-shine-a-light-0-500-0-750-crop.jpg?v=9b5629235c",
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20258",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.56,
-      "plot": "Martin Scorsese’s electrifying concert documentary captures The Rolling Stones live at New York’s Beacon Theatre during their A Bigger Bang tour. Filmed over two nights in 2006 with an all-star team of cinematographers, the film combines dynamic performances with archival footage and rare glimpses behind the scenes, offering a vibrant portrait of the band’s enduring energy and legacy.",
-      "plot_pt": "Há uma carga testamentária neste ROUGE que se pode verificar em duas dimensões simultâneas: foi a última longa-metragem para cinema rodada pelo mestre do cinema polaco e francês, Krzysztof Kieslowski; foi também o derradeiro ponto de convergência (e resolução?) da famosa “Trilogia das Cores”, que se baseou concetualmente nas três cores da bandeira francesa e no lema da Revolução Francesa, ou seja, liberdade (BLEU), igualdade (BLANC) e fraternidade (ROUGE). Este filme, que levou Kieslowski a precipitar o anúncio do fim da sua carreira, conta a história de uma inusitada cumplicidade entre a perspicaz modelo Valentine (Irène Jacob) e um velho juiz (Jean-Louis Trintignant) “retirado do mundo” e com o estranho hábito de espiar a vida dos outros. A relação fraterna nasce no sentimento de piedade de Valentine, ela que, como escreveu Manuel Cintra Ferreira, “é a personagem ‘salvífica’ por excelência”, neste que é “o melhor dos filmes [da Trilogia] e um dos melhores de toda a filmografia de Kieslowski”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/zzAuxUpfZDEspL33N3KlOCWxOLH.jpg",
-        "https://a.ltrbxd.com/resized/sm/upload/fg/pe/8s/4z/shine_a_light-1920-1920-1080-1080-crop-000000.jpg?v=e81ed70bce"
-      ],
-      "stills_focus": [
-        25.2,
-        54.9
-      ],
-      "country": "Canada",
-      "director_lbxd_slug": "martin-scorsese"
-    },
-    {
-      "id": "cinemateca_20272",
-      "title": "Rolling Thunder Revue: A Bob Dylan Story By Martin Scorsese",
-      "director": "Martin Scorsese",
-      "year": 2019,
-      "duration": 142,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/2/6/5/7/502657-rolling-thunder-revue-a-bob-dylan-story-by-martin-scorses-0-500-0-750-crop.jpg?v=b1d5bd1e7e",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20272",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "22:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.93,
-      "plot": "Part documentary, part concert film, part fever dream, this film captures the troubled spirit of America in 1975 and the joyous music that Dylan performed during the fall of that year.",
-      "plot_pt": "Excluindo o filme de Cristo, THE AGE OF INNOCENCE era o maior recuo temporal que Scorsese já tinha operado, instalando-se no final do século XIX para contar uma história da “pseudo-aristocracia” nova-iorquina, em adaptação do romance homónimo de Edith Wharton. Até nessa relação com o “pedigree” literário (algo que até então só tinha par no filme de Cristo, tirado de um romance de Nikos Kazantzakis) se percebe que os anos 90 foram uma época em que Scorsese tentou sacudir muitas das ideias feitas que a sua obra tinha gerado, e começou a experimentar coisas radicalmente diferentes de filme para filme. THE AGE OF INNOCENCE relaciona-se com um certa memória do classicismo americano – aquele romantismo de época de tantos melodramas dos “forties” e “fifties” por exemplo – e fá-lo de uma maneira irrepreensível, intensa, em cores belíssimas, e com um elenco fora de série (sem esquecer a narradora em “off”, a grande Joanne Woodward).",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/4MYtYsSGzQUUYQqHGWBNeEkT91s.jpg",
-        "https://image.tmdb.org/t/p/w1280/15fv8QwYdhU29hrNiTfW49mQP8T.jpg",
-        "https://image.tmdb.org/t/p/w1280/iZzVCB2sq37gLlfn0d5orhhpwFP.jpg"
-      ],
-      "stills_focus": [
-        43.7,
-        33.9,
-        43.4
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "martin-scorsese"
-    },
     {
       "id": "cinemateca_20264",
       "title": "Silence",
@@ -1466,22 +163,57 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "roger-vadim"
     },
     {
-      "id": "cinemateca_20319",
-      "title": "Le Parti Des Choses: Bardot / Godard",
-      "director": "Roger Vadim",
-      "year": 1956,
-      "duration": 90,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20319",
+      "id": "cinemateca_20421",
+      "title": "Garbo Talks",
+      "director": "Sidney Lumet",
+      "year": 1984,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/2/0/5/85205-garbo-talks-0-500-0-750-crop.jpg?v=a9c0f95877",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20421",
       "sessions": [
         {
           "date": "2026-10-01",
-          "time": "19:00",
+          "time": "19:30",
           "cinema": "cinemateca"
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "rating": 3.29,
+      "plot": "When New York accountant Gilbert Rolfe finds out his mother has a brain tumor, he is devastated. His incorrigible mother, Estelle, has one last wish: to meet the great Greta Garbo. Gilbert, wanting to do this last thing for her, sets out on a wild goose chase through the streets of New York City to track down the iconic star, at the expense of his personal life and much to the chagrin of his wife, Lisa. Can he find Garbo before it's too late?",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/8v21imc2RgPmSuTrBSGib60HkFe.jpg",
+        "https://image.tmdb.org/t/p/w1280/w0KUARVuBxCuMUwuWPDaTUV08QN.jpg",
+        "https://image.tmdb.org/t/p/w1280/fBjI2Qd2i46bI9RZp3oBh8Y72Zz.jpg"
+      ],
+      "stills_focus": [
+        21.9,
+        26.3,
+        29.5
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "sidney-lumet"
+    },
+    {
+      "id": "cinemateca_20400",
+      "title": "L’Enfant",
+      "director": "Marguerite de Hillerin, Félix Dutilloy-Liégeois",
+      "year": 2022,
+      "duration": 109,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20400",
+      "sessions": [
+        {
+          "date": "2026-10-01",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
     {
       "id": "cinemateca_20321",
@@ -1509,7 +241,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.18,
       "plot": "Professor Leaf, an absent-minded poet with a prejudice against the sciences, is forced to face the fact that his son is a math prodigy with little artistic talent of his own.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/cE1DdUr5VSJtdNZNI9wlWBE5nwh.jpg",
         "https://image.tmdb.org/t/p/w1280/1S0nrW8RDqESoUtncSiuQsD6Izy.jpg",
@@ -1542,7 +274,7 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "The film sought to portray a relatively unknown and isolated rural world and, through a highly politicized discourse, affirmed the genuineness of “folk culture.” Representative of the new documentary film movement that developed in Portugal after the revolution, the movie encouraged the local retrieval of the Caretos tradition. A ritual that seemed to be doomed by the conjoined impact of emigration, the colonial war and the crisis of agriculture was thus brought back to life. - Paulo Raposo",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "title_en": "Masks",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/a4g3GBNbvCMFrnMAVgcbqwhXJgr.jpg",
@@ -1556,25 +288,37 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "noemia-delgado"
     },
     {
-      "id": "cinemateca_20323",
-      "title": "Paparazzi + Vie Privée",
-      "director": "Henry Koster",
-      "year": 1965,
-      "duration": 100,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20323",
+      "id": "cinemateca_20401",
+      "title": "Freedom",
+      "director": "Sharunas Bartas",
+      "year": 2000,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/2/3/3/30233-freedom-0-500-0-750-crop.jpg?v=f34d471039",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20401",
       "sessions": [
         {
           "date": "2026-10-02",
-          "time": "19:30",
+          "time": "21:30",
           "cinema": "cinemateca",
           "labels": [
             "Sessão com apresentação"
           ]
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "rating": 3.59,
+      "plot": "A few fugitives... And a very, very long way to freedom.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/2Rf9I9RVkmeneB1M4Cl7Y4N9gDC.jpg"
+      ],
+      "stills_focus": [
+        41.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "sarunas-bartas"
     },
     {
       "id": "cinemateca_20310",
@@ -1635,7 +379,7 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "And the image created the myth... Bardot as a brunette, blonde or redhead. Bardot in thigh-high boots, mini-dress or swimsuit, Bardot in London, at La Madrague or on a Harley... In all her states, BB sings with Gainsbourg and Sacha Distel: \"Bonnie and Clyde\", \"Comic strip\", \"Mister Sun\"... Reichenbach's camera sublimates the icon.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/ja6hbGqB8DDqYruuxypL38N7fFG.jpg"
       ],
@@ -1644,6 +388,59 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "francois-reichenbach"
+    },
+    {
+      "id": "cinemateca_20344",
+      "title": "Eça De Queiroz: Notas Breves Sobre +Camilo Castelo Branco + Almeida Garrett 1799-1854: Escrever É Lutar +Camilo Pessanha: Entre Os Dois Abismos",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20344",
+      "sessions": [
+        {
+          "date": "2026-10-03",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    {
+      "id": "cinemateca_20402",
+      "title": "Ordem Moral",
+      "director": "Mário Barroso",
+      "year": 2020,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/7/0/1/0/617010-moral-order-0-500-0-750-crop.jpg?v=581e4d1c8d",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20402",
+      "sessions": [
+        {
+          "date": "2026-10-03",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.43,
+      "plot": "In 1918, Maria Adelaide Coelho da Cunha, heiress and owner of the Diário de Notícias, leaves the social, cultural and family luxury in which she lives to escape with a petty chauffeur, 26 years younger.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "Moral Order",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/gOscmiIA1wpHM9Gs9oaTMlU0yFz.jpg",
+        "https://image.tmdb.org/t/p/w1280/kby31SNr2F8IkKGD1N9P7IO3GmG.jpg",
+        "https://image.tmdb.org/t/p/w1280/xEUTbLGtwbJ9clOXabdS9wfiilR.jpg"
+      ],
+      "stills_focus": [
+        30.7,
+        33.2,
+        32.2
+      ],
+      "country": "Portugal",
+      "director_lbxd_slug": "mario-barroso"
     },
     {
       "id": "cinemateca_20327",
@@ -1666,7 +463,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.07,
       "plot": "Outlaw sisters in the old West inherit a ranch and try to settle down and develop relationships with neighboring family of lots of brothers.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "title_en": "The Legend of Frenchie King",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/7Z3Lzevwua5KFDkqi07ITIdvIs3.jpg",
@@ -1674,8 +471,8 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/gPwq8iwvpNDF1Y0B0xuP8SSq0j1.jpg"
       ],
       "stills_focus": [
-        23.1,
-        28.7,
+        23.0,
+        28.8,
         19.8
       ],
       "country": "France",
@@ -1697,7 +494,7 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
     {
       "id": "cinemateca_20329",
@@ -1725,18 +522,43 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.18,
       "plot": "After rescuing a man from a suicide attempt, Geneviève's life is hijacked by his verbal and emotional abuse, yet she can't seem to tear herself from him.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "title_en": "Love on a Pillow",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/5s17ObZeNvqacLsw9DVFmT4UzD7.jpg",
         "https://image.tmdb.org/t/p/w1280/wKzduDW33BkZeT6lc1L90w8lBPm.jpg"
       ],
       "stills_focus": [
-        28.8,
-        32.0
+        46.2,
+        31.9
       ],
       "country": "France",
       "director_lbxd_slug": "roger-vadim"
+    },
+    {
+      "id": "cinemateca_20403",
+      "title": "Le Mariage À Trois",
+      "director": "Jacques Doillon",
+      "year": 2010,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/6/4/8/56648-the-three-way-wedding-0-500-0-750-crop.jpg?v=44c1d8c23f",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20403",
+      "sessions": [
+        {
+          "date": "2026-10-06",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.09,
+      "plot": "When a famous playwright invites the cast of his new play - including his enchanting assistant, his ex-wife and her new lover - to his country estate, a series of seductions and surprising alliances ensue.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "The Three-way Wedding",
+      "country": "France",
+      "director_lbxd_slug": "jacques-doillon"
     },
     {
       "id": "cinemateca_20331",
@@ -1761,7 +583,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.3,
       "plot": "1907 Central America: Maria II is the daughter of an Irish terrorist. After her father's death, she meets Maria I, a performer, and decides to stay with the circus, and on her debut as a singer, unintentionally invents the striptease and makes the circus famous. Their inadvertent encounter with a socialist revolutionary lands them leading a revolution against the dictator, the capitalists, and the Church.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/om47GMuXbkAtlBgBcOnklWAXg6H.jpg",
         "https://image.tmdb.org/t/p/w1280/pY647BmyyM3EhBXnPmKTTUu66EW.jpg",
@@ -1769,8 +591,8 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         46.9,
-        23.5,
-        24.2
+        23.4,
+        24.3
       ],
       "country": "France",
       "director_lbxd_slug": "louis-malle-2"
@@ -1791,7 +613,7 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
     {
       "id": "cinemateca_20333",
@@ -1811,20 +633,25 @@ window.CINEMA_DATA = {
           "date": "2026-10-07",
           "time": "21:30",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "15:30",
+          "cinema": "cinemateca"
         }
       ],
       "rating": 3.14,
       "plot": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/ugDSJKMEexMt1d38uyzRnVFsDIh.jpg",
         "https://image.tmdb.org/t/p/w1280/nb1s8r6MhDcPyMjx3sjw9rFsEP5.jpg",
         "https://image.tmdb.org/t/p/w1280/l3XRHXsX14cs3mAlHygaUFDFPIQ.jpg"
       ],
       "stills_focus": [
-        26.9,
+        27.0,
         26.7,
-        23.4
+        23.2
       ],
       "country": "Canada",
       "director_lbxd_slug": "paul-feig"
@@ -1850,7 +677,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.25,
       "plot": "Handsome and rich Spanish gentleman abandons his wife and riches for his love of a young girl of poor stock who taunts and degrades him.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "title_en": "A Woman Like Satan",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/lSt70meREm6vLzf4S0nrPJHbGdG.jpg",
@@ -1859,8 +686,8 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         39.5,
-        24.9,
-        60.3
+        24.7,
+        60.4
       ],
       "country": "Italy",
       "director_lbxd_slug": "julien-duvivier"
@@ -1881,7 +708,7 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
     {
       "id": "cinemateca_20338",
@@ -1904,7 +731,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 4.0,
       "plot": "As Dominique Marceau is being tried for the murder of Gilbert Tellier, accounts by different witnesses paint a picture of the kind of relationship the two used to share.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "title_en": "The Truth",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/we3XcGn0jgj1tKrsjYCd7P3KLii.jpg",
@@ -1912,12 +739,65 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fIelkQhtZXmo3LV0ik1PZOQkarR.jpg"
       ],
       "stills_focus": [
-        26.5,
-        20.2,
-        18.4
+        26.4,
+        20.4,
+        18.5
       ],
       "country": "France",
       "director_lbxd_slug": "henri-georges-clouzot"
+    },
+    {
+      "id": "cinemateca_20404",
+      "title": "Bazar",
+      "director": "Patricia Plattner",
+      "year": 2009,
+      "duration": 108,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/7/7/8/7/187787-bazar-0-500-0-750-crop.jpg?v=d74471c2c7",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20404",
+      "sessions": [
+        {
+          "date": "2026-10-08",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Gabrielle, a pleasant woman in her sixties, learns that she is about to be evicted from her second-hand shop...",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "country": "France",
+      "director_lbxd_slug": "patricia-plattner-1"
+    },
+    {
+      "id": "cinemateca_20405",
+      "title": "L’Homme Qui A Perdu Son Ombre",
+      "director": "Alain Tanner",
+      "year": 1991,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/4/6/2346-the-man-who-lost-his-shadow-0-500-0-750-crop.jpg?v=93176575d8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20405",
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Paul has left his wife and children. Now his wife and ex-mistress is on the hunt for him.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "The Man Who Lost His Shadow",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/fIBLHU6XvQswixAGXm3vQpJfHE4.jpg"
+      ],
+      "stills_focus": [
+        38.6
+      ],
+      "country": "Switzerland",
+      "director_lbxd_slug": "alain-tanner"
     },
     {
       "id": "cinemateca_20349",
@@ -1935,7 +815,7 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
     {
       "id": "cinemateca_20311",
@@ -1974,6 +854,42 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "tim-burton"
     },
     {
+      "id": "cinemateca_20413",
+      "title": "Erotikon",
+      "director": "Mauritz Stiller",
+      "year": 1920,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/0/4/5/69045-erotikon-0-500-0-750-crop.jpg?v=a935b313c2",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20413",
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.28,
+      "plot": "Erotikon is a 1920 Swedish romantic comedy film directed by Mauritz Stiller, starring Tora Teje, Karin Molander, Anders de Wahl and Lars Hanson. It is based on the 1917 play A kék róka by Ferenc Herczeg. The story revolves around an entomology professor obsessed with the sexual life of bugs, and his easygoing wife who is courted by two suitors.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/iQ8NfEvNy9WQYAUeq5kBbyboFfi.jpg",
+        "https://image.tmdb.org/t/p/w1280/owMTfTKM2j9Lt0Myydmsi4Mhb4O.jpg",
+        "https://image.tmdb.org/t/p/w1280/xDLqhDNYzP2IxLQprysAkAspqt0.jpg"
+      ],
+      "stills_focus": [
+        23.7,
+        22.5,
+        19.8
+      ],
+      "country": "Sweden",
+      "director_lbxd_slug": "mauritz-stiller"
+    },
+    {
       "id": "cinemateca_20350",
       "title": "Ensaio No Moinho +Sol E Sombra + “Filme Do Comício De Faro – Luar”",
       "director": null,
@@ -1989,7 +905,7 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes."
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
     {
       "id": "cinemateca_20340",
@@ -2011,7 +927,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 2.83,
       "plot": "While guiding a hunting party of clueless European aristocrats, cowboy Bosky Fulton leads them into hostile Apache territory. Becoming separated from the group, Countess Irina Lazaar experiences the first run-in with an Apache, which results in the tracker Shalako coming to her rescue. Despite Shalako's warning to leave the area immediately, the pampered foreigners fail to take him seriously, leaving them in grave danger.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/4005Fur9C9mvAsfbigo92B369a4.jpg",
         "https://image.tmdb.org/t/p/w1280/1ahIqR9JoIFK7P5UB17Q40jSrv5.jpg",
@@ -2026,7 +942,214 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "edward-dmytryk"
     },
     {
-      "id": "cinemateca_20324_0",
+      "id": "cinemateca_20414",
+      "title": "Rapsodia Satanica",
+      "director": "Nino Oxilia",
+      "year": 1917,
+      "duration": 60,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/2/5/3/104253-satan-s-rhapsody-0-500-0-750-crop.jpg?v=5a090c852a",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror",
+        "Romance",
+        "Fantasy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20414",
+      "sessions": [
+        {
+          "date": "2026-10-12",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.58,
+      "plot": "A Faustian tale about an old woman who makes a pact with Mephisto to regain her youth, but in return she must stay away from love. After making the deal, she meets two brothers who fall in love with her.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "Satan's Rhapsody",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ui5WVfq3FkYj4JGiG0WFAS7KNAJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/o5WVLT28gH0oAgICTKoGvMkVBjS.jpg",
+        "https://image.tmdb.org/t/p/w1280/jS2pDU71wVG7f86ts9p8vpjFPw.jpg"
+      ],
+      "stills_focus": [
+        26.7,
+        17.1,
+        17.7
+      ],
+      "country": "Italy",
+      "director_lbxd_slug": "nino-oxilia"
+    },
+    {
+      "id": "cinemateca_20406",
+      "title": "Francisca",
+      "director": "Manoel de Oliveira",
+      "year": 1981,
+      "duration": 167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/8/9/88789-francisca-0-500-0-750-crop.jpg?v=70674e1dc8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20406",
+      "sessions": [
+        {
+          "date": "2026-10-12",
+          "time": "21:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.98,
+      "plot": "The life of a young man, son of an English officer who lets himself become a prisoner of love resulting in fatalism and disgrace.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/gVzKF6bT2SWRFK9JibRvk8lobc8.jpg",
+        "https://image.tmdb.org/t/p/w1280/pv0qaBJYs77tHf0IX2tDuGaXsbW.jpg",
+        "https://image.tmdb.org/t/p/w1280/zYtoyQ3YxrkNhFggyhDszwkIZm5.jpg"
+      ],
+      "stills_focus": [
+        47.4,
+        24.4,
+        34.8
+      ],
+      "country": "Portugal",
+      "director_lbxd_slug": "manoel-de-oliveira"
+    },
+    {
+      "id": "cinemateca_20420",
+      "title": "Finding Neverland",
+      "director": "Marc Forster",
+      "year": 2004,
+      "duration": 106,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/d8/qt/1z/wg/7VNtGDhKLefRhJWYokfP3hBh0uV-0-500-0-750-crop.jpg?v=41c74823a7",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20420",
+      "sessions": [
+        {
+          "date": "2026-10-13",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.54,
+      "plot": "During a writing slump, playwright J.M. Barrie meets a widow and her four children, all young boys—who soon become an important part of Barrie’s life and the inspiration that lead him to create his masterpiece. Peter Pan.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ursbJ6xP9YnmtlTFKf77KPxmw7U.jpg",
+        "https://image.tmdb.org/t/p/w1280/6DdQDPNz5yB8LwO1GRUKhMhycJe.jpg",
+        "https://image.tmdb.org/t/p/w1280/sBsnLIrB0UdB7gBdmw5iJ9L1ltK.jpg"
+      ],
+      "stills_focus": [
+        39.7,
+        47.4,
+        23.0
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "marc-forster"
+    },
+    {
+      "id": "cinemateca_20407",
+      "title": "Loin De Manhattan",
+      "director": "Jean-Claude Biette",
+      "year": 1982,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/1/9/3619-loin-de-manhattan-0-500-0-750-crop.jpg?v=268643db83",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20407",
+      "sessions": [
+        {
+          "date": "2026-10-13",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.56,
+      "plot": "Christian, an art critic, must write a study on the painter René Dimanche in order to understand why he did not produce anything for eight years. He asks his friend Ingrid to help him break through this mystery.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "Far from Manhattan",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/bQ0qOig5NYrta7UBB3w9K4XL9bc.jpg"
+      ],
+      "stills_focus": [
+        25.0
+      ],
+      "country": "France",
+      "director_lbxd_slug": "jean-claude-biette"
+    },
+    {
+      "id": "cinemateca_20319_0",
+      "title": "Le Parti Des Choses: Bardot / Godard",
+      "director": "Jacques Rozier",
+      "year": 1964,
+      "duration": 10,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/8/1/8/177818-le-parti-des-choses-bardot-et-godard-0-500-0-750-crop.jpg?v=6159914331",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20319",
+      "sessions": [
+        {
+          "date": "2026-10-01",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.33,
+      "plot": "A documentary short following director Jean-Luc Godard on the set of Contempt.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "Bardot et Godard",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tJF4Firwy9oKLU27qJZ6VkVgpRi.jpg"
+      ],
+      "stills_focus": [
+        23.3
+      ],
+      "country": "France",
+      "director_lbxd_slug": "jacques-rozier-1"
+    },
+    {
+      "id": "cinemateca_20319_1",
+      "title": "Le Mépris",
+      "director": "Jean-Luc Godard",
+      "year": 1963,
+      "duration": 103,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/pt/by/s9/xe/e8AFmkWiY6MS7Em4GmLuqjEDc1v-0-500-0-750-crop.jpg?v=9745581dd9",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20319",
+      "sessions": [
+        {
+          "date": "2026-10-01",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.79,
+      "plot": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "Contempt",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
+        "https://image.tmdb.org/t/p/w1280/65VvjEscRHZNCCg63GmRfGU66v9.jpg",
+        "https://image.tmdb.org/t/p/w1280/e7uHIsjDZREm7fINopx315KBGei.jpg"
+      ],
+      "stills_focus": [
+        22.9,
+        41.5,
+        23.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "jean-luc-godard-1"
+    },
+    {
+      "id": "cinemateca_20323_0",
       "title": "Paparazzi",
       "director": "Jacques Rozier",
       "year": 1964,
@@ -2035,8 +1158,13 @@ window.CINEMA_DATA = {
       "genres": [
         "Documentary"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20324",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20323",
       "sessions": [
+        {
+          "date": "2026-10-02",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        },
         {
           "date": "2026-10-12",
           "time": "15:30",
@@ -2045,7 +1173,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.47,
       "plot": "Paparazzi explores the relationship between Brigitte Bardot and groups of invasive photographers attempting to photograph her while she works on the set of Jean-Luc Godard's film Le Mépris (Contempt). Through video footage of Bardot, interviews with the paparazzi, and still photos of Bardot from magazine covers and elsewhere, director Rozier investigates some of the ramifications of international movie stardom, specifically the loss of privacy to the paparazzi. The film explains the shooting of the film on the island of Capri, and the photographers' valiant, even foolishly dangerous, attempts to get a photograph of Bardot.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/3KJScl1cvLsZrazeDWgqRyGMcVL.jpg",
         "https://image.tmdb.org/t/p/w1280/21q3384GdqRkPwipR279KIEqQjq.jpg"
@@ -2058,7 +1186,7 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jacques-rozier-1"
     },
     {
-      "id": "cinemateca_20324_1",
+      "id": "cinemateca_20323_1",
       "title": "Vie Privée",
       "director": "Louis Malle",
       "year": 1962,
@@ -2067,8 +1195,13 @@ window.CINEMA_DATA = {
       "genres": [
         "Drama"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20324",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20323",
       "sessions": [
+        {
+          "date": "2026-10-02",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        },
         {
           "date": "2026-10-12",
           "time": "15:30",
@@ -2077,7 +1210,7 @@ window.CINEMA_DATA = {
       ],
       "rating": 3.13,
       "plot": "After achieving fame as a movie star, a woman finds her private life invaded by relentless fans, leading her mother’s ex-lover to intervene and offer protection.",
-      "plot_pt": "Terceiro grande momento dylaniano na obra de Scorsese (contando com THE LAST WALTZ), e segundo momento totalmente centrado em Dylan (depois de NO DIRECTION HOME, em meados dos 2000), esta BOB DYLAN STORY BY MARTIN SCORSESE é seguramente o momento mais perverso, e nesse sentido mais dylaniano. É quase um prolongamento de RENALDO & CLARA, cujas imagens (colhidas numa digressão de 1975 a que Dylan chamou a Rolling Thunder Revue) são profusamente usadas, e que já era um longo jogo do gato e do rato entre Dylan, os seus fãs, os seus exegetas, e de Dylan, mestre da dissociação, com ele próprio. “It’s all true”, dizia Orson Welles quando se preparava para dizer uma mentira. Aqui também é “it’s all true” nesse mesmo sentido: o filme está pejado de mentiras e falsificações, postas lado a lado com os testemunhos historicamente rigorosos, e é nisso que ele se assume como uma grande comédia, uma grande farsa dylaniana. Infalsificável é a presença dele e dos seus companheiros de palco durante a digressão de 1975 (que incluiu a presença, pela primeira vez em mais de uma década, de Joan Baez): os momentos musicais de ROLLING THUNDER REVUE são absolutamente sublimes.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
       "title_en": "A Very Private Affair",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/oEpaiiEK1D6a2peB6kbzFulXaOM.jpg",
@@ -2089,6 +1222,77 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "louis-malle-2"
+    },
+    {
+      "id": "cinemateca_20352_0",
+      "title": "Quem Foste Alvarez?",
+      "director": "Noémia Delgado",
+      "year": 1988,
+      "duration": 60,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/3/3/6/4/463364-quem-foste-alvarez--0-500-0-750-crop.jpg?v=f2bb8528b5",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20352",
+      "sessions": [
+        {
+          "date": "2026-10-13",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Documentary about the life and work of the painter Dominguez Alvarez, interspersed with fictionalized staging of some moments of the life of the artist.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "country": "Portugal",
+      "director_lbxd_slug": "noemia-delgado"
+    },
+    {
+      "id": "cinemateca_20352_1",
+      "title": "Mafra E O Barroco Europeu",
+      "director": "Noémia Delgado (não creditada)",
+      "year": 1972,
+      "duration": 3,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20352",
+      "sessions": [
+        {
+          "date": "2026-10-13",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    {
+      "id": "cinemateca_20352_2",
+      "title": "A Pousada Das Chagas – Uma Representação Sobre O Museu De Óbidos",
+      "director": "Paulo Rocha",
+      "year": 1971,
+      "duration": 17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/8/5/6/170856-sever-do-vouga-uma-experiencia-0-500-0-750-crop.jpg?v=3a709bbad2",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20352",
+      "sessions": [
+        {
+          "date": "2026-10-13",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Short film on the creation of an agricultural cooperative in the village of Sever do Vouga.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "Sever do Vouga... Uma Experiência",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/cJ57VAFEbEjMEhPdgwO0LXjhfhV.jpg"
+      ],
+      "stills_focus": [
+        45.5
+      ],
+      "country": "Portugal",
+      "director_lbxd_slug": "paulo-rocha-1"
     },
     {
       "id": "nimas_natal-amargo-2025",
@@ -2103,36 +1307,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/natal-amargo-2025",
       "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "16:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-09-30",
           "time": "14:45",
@@ -2160,6 +1334,16 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-10-01",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-01",
           "time": "16:15",
           "cinema": "ideal"
         },
@@ -2169,14 +1353,44 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         },
         {
+          "date": "2026-10-01",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-10-02",
           "time": "16:15",
           "cinema": "ideal"
         },
         {
+          "date": "2026-10-02",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
           "date": "2026-10-03",
           "time": "14:15",
           "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "16:00",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-03",
@@ -2187,6 +1401,11 @@ window.CINEMA_DATA = {
           "date": "2026-10-03",
           "time": "17:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "21:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-04",
@@ -2200,8 +1419,28 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-10-04",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
           "time": "16:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "14:15",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-05",
@@ -2210,18 +1449,53 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-10-05",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-05",
           "time": "16:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "16:00",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-06",
           "time": "16:15",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "19:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-06",
           "time": "21:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "14:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "16:00",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-07",
@@ -2304,275 +1578,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jane-schoenbrun"
     },
     {
-      "id": "nimas_o-laco-branco-2009",
-      "title": "O Laço Branco",
-      "director": "Michael Haneke",
-      "year": 2009,
-      "duration": 138,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/6/1/6/26616-the-white-ribbon-0-500-0-750-crop.jpg?v=4f4172dea5",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-laco-branco-2009",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.21,
-      "plot": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
-      "plot_pt": "Uma aldeia protestante da Alemanha do Norte. 1913/1914. Vésperas da Primeira Guerra Mundial. Uma história de crianças e adolescentes, pertencentes a um coro liderado pelo professor da aldeia, e suas famílias: o barão, o gerente, o pastor, o médico, a parteira, os camponeses. Acidentes estranhos acontecem e, gradualmente, assumem o carácter de uma punição ritual. \n\r\n\r\nQuem estará por detrás de tudo isso?",
-      "title_en": "The White Ribbon",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/9Cxi5RQzYAlkNI5FROWkoKgiNkJ.jpg",
-        "https://image.tmdb.org/t/p/w1280/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
-        "https://image.tmdb.org/t/p/w1280/2FHF4H1HOuvzgWvSaOlQnuAktxc.jpg"
-      ],
-      "stills_focus": [
-        28.2,
-        24.9,
-        23.2
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_o-intruso-1976",
-      "title": "O Intruso",
-      "director": "Luchino Visconti",
-      "year": 1976,
-      "duration": 129,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/4/1/4/49414-the-innocent-0-500-0-750-crop.jpg?v=798ab16a9d",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-intruso-1976",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.81,
-      "plot": "Tullio Hermil is a chauvinist aristocrat who flaunts his mistress to his wife, but when he believes she has been unfaithful he becomes enamored of her again.",
-      "plot_pt": "No contexto aristocrático da Itália do século XIX, Tulio pouco se importa se é visto com a sua amante em público. Porém, quando a mulher que negligenciara se envolve com um jovem romancista (personagem que se diz ser inspirada em Gabriele d’Annunzio, autor do romance homónimo que o filme adapta), o caso muda de figura. Último filme de Visconti, O Intruso retoma a linguagem característica do cineasta para uma combinação singular de opulência e depravação, num melodrama trágico em que a fragilidade dos arquétipos de masculinidade é, uma vez mais, desvelada.",
-      "title_en": "The Innocent",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/j1R4wGpgfgY219Z7cDDZQJOM6TI.jpg",
-        "https://image.tmdb.org/t/p/w1280/a6OW0pQdfqjGiSOWTWcBPA8YfrJ.jpg",
-        "https://image.tmdb.org/t/p/w1280/jIoAQX5p73OyN08GW3m0C3IRNcz.jpg"
-      ],
-      "stills_focus": [
-        32.5,
-        31.0,
-        37.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "luchino-visconti"
-    },
-    {
-      "id": "nimas_laura-1944",
-      "title": "Laura",
-      "director": "Otto Preminger",
-      "year": 1944,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/6/9/50669-laura-0-500-0-750-crop.jpg?v=6f306e1a55",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/laura-1944",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "17:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.04,
-      "plot": "A police detective falls in love with the woman whose murder he's investigating.",
-      "plot_pt": "Laura é um filme estadounidense de 1944, do gênero suspense e film noir, dirigido por Otto Preminger, baseado no livro homônimo de Vera Caspary e lançado pela 20th Century Fox.\nEm 1999, Laura foi selecionado para preservação nos Estados Unidos pela Biblioteca do Congresso como sendo \"cultural, histórica ou esteticamente significativo\". AFI nomeou-o como um dos 10 melhores filmes de mistério de todos os tempos, e também foi mencionado na série \"Great Movies\", de Roger Ebert.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
-        "https://image.tmdb.org/t/p/w1280/nH8IHZxMIa3u7Vqk4mt4X1Ikycj.jpg",
-        "https://image.tmdb.org/t/p/w1280/r6GwymahVWaqO7bVfvotvWQPhig.jpg"
-      ],
-      "stills_focus": [
-        22.7,
-        35.3,
-        52.7
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "otto-preminger"
-    },
-    {
-      "id": "nimas_brincadeiras-perigosas-u-s-2007",
-      "title": "Brincadeiras Perigosas U.S.",
-      "director": "Michael Haneke",
-      "year": 2007,
-      "duration": 111,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/1/0/47710-funny-games-0-500-0-750-crop.jpg?v=5fb4eca12a",
-      "genres": [
-        "Thriller",
-        "Horror"
-      ],
-      "link": "https://medeiafilmes.com/filmes/brincadeiras-perigosas-u-s-2007",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.59,
-      "plot": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
-      "plot_pt": "Um remake assinado pelo próprio Michael Haneke, desta vez com produção e elenco americano, de Brincadeiras Perigosas, filme que conquistou a crítica e recebeu vários prémios dez anos antes. Ann, George e o filho Georgie vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Dez anos depois, a visão de Michael Haneke apenas se tornou mais actual e acutilante, nesta exploração da violência das imagens e do seu recurso enquanto entretenimento.",
-      "title_en": "Funny Games",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
-        "https://image.tmdb.org/t/p/w1280/ZdK8HzzQoiVtAq2j0X9n4K77aU.jpg",
-        "https://image.tmdb.org/t/p/w1280/stMyI68M8yExIVCOr46em4vUP6n.jpg"
-      ],
-      "stills_focus": [
-        21.1,
-        24.3,
-        31.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_la-pointe-courte-1954",
-      "title": "La Pointe Courte",
-      "director": "Agnès Varda",
-      "year": 1955,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/4/4/11644-la-pointe-courte-0-500-0-750-crop.jpg?v=b6f78245c5",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/la-pointe-courte-1954",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.7,
-      "plot": "A penetrating study of a marriage on the rocks, set against the backdrop of a small Mediterranean fishing village. Both a stylized depiction of the complicated relationship between a married couple and a documentary-like look at the daily struggles of the inhabitants of Sète in the South of France.",
-      "plot_pt": "Uma mulher chega ao bairro piscatório de La Pointe Courte, em Sète (sul de França), para informar o seu marido, natural do bairro, de que deseja o divórcio. Ao mesmo tempo que o casal conversa sobre o seu amor e a sua relação, a comunidade local enfrenta a pobreza quando a pesca é proibida pelas autoridades sanitárias. Entre a ficção e o documentário (conjugação que viria a ser recorrente na obra da cineasta), Agnès Varda concebeu assim um profundo estudo das tribulações de um casamento, e um olhar neo-realista sobre a vida da comunidade de La Pointe Courte, onde viveu durante a adolescência. La Pointe Courte é o primeiro filme de Agnès Varda e por muitos (como Georges Sadoul, um dos mais reputados historiadores de cinema) considerado como o verdadeiro primeiro filme da Nouvelle Vague, com uma modernidade inegável.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qCm7JsnryHF0SCXTIvBB7k7oh5m.jpg",
-        "https://image.tmdb.org/t/p/w1280/iCXSQm3Yaao5Zrxbv0qJukYWzav.jpg",
-        "https://image.tmdb.org/t/p/w1280/bR2jifR8EQLUcM3RqJxTxg2YSSd.jpg"
-      ],
-      "stills_focus": [
-        29.4,
-        43.1,
-        33.4
-      ],
-      "country": "France",
-      "director_lbxd_slug": "agnes-varda"
-    },
-    {
-      "id": "nimas_71-fragmentos-de-uma-cronologia-do-acaso-1994",
-      "title": "71 Fragmentos de uma Cronologia do Acaso",
-      "director": "Michael Haneke",
-      "year": 1994,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/2/1/2/30212-71-fragments-of-a-chronology-of-chance-0-500-0-750-crop.jpg?v=bff012ba01",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/71-fragmentos-de-uma-cronologia-do-acaso-1994",
-      "sessions": [
-        {
-          "date": "2026-09-30",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.77,
-      "plot": "71 scenes revolving around multiple Viennese residents who are by chance involved with a senseless gun slaughter on Christmas Eve.",
-      "plot_pt": "Num mundo desumanizado, onde a dormência emocional é apenas perturbada pelo choque de episódios de violência extrema, setenta e uma cenas intrincadas e aparentemente desconectadas formam um puzzle onde as vidas de pessoas aleatórias colidem num encontro devastador num banco. Um rapaz romeno que vive nas ruas de Viena, um casal desesperado por adoptar uma criança e um estudante universitário no limite são alguns dos protagonistas destes quadros, que compõem a natureza simultaneamente aleatória e interconectada da existência moderna, focada de forma angustiante neste desesperante último capítulo da trilogia de Michael Haneke.",
-      "title_en": "71 Fragments of a Chronology of Chance",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/9fGRcNndP0IsVcbU3B7rZqiqhdk.jpg",
-        "https://image.tmdb.org/t/p/w1280/zuTy2f5CiruZ2HX3uy4fjy5UbK7.jpg",
-        "https://image.tmdb.org/t/p/w1280/v6C3DNDUfwyRG4bK9L04tulCpDj.jpg"
-      ],
-      "stills_focus": [
-        48.5,
-        31.3,
-        33.1
-      ],
-      "country": "Austria",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_a-pianista-2001",
-      "title": "A Pianista",
-      "director": "Michael Haneke",
-      "year": 2001,
-      "duration": 131,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-pianista-2001",
-      "sessions": [
-        {
-          "date": "2026-09-30",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "19:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.05,
-      "plot": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
-      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
-      "title_en": "The Piano Teacher",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-        "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
-        "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
-      ],
-      "stills_focus": [
-        21.4,
-        12.7,
-        26.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
       "id": "nimas_a-estrada-do-tabaco-1941",
       "title": "A Estrada do Tabaco",
       "director": "John Ford",
@@ -2643,6 +1648,87 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "francis-ford-coppola"
+    },
+    {
+      "id": "nimas_a-pianista-2001",
+      "title": "A Pianista",
+      "director": "Michael Haneke",
+      "year": 2001,
+      "duration": 131,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-pianista-2001",
+      "sessions": [
+        {
+          "date": "2026-09-30",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "19:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
+      "title_en": "The Piano Teacher",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+        "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
+        "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
+      ],
+      "stills_focus": [
+        21.4,
+        12.7,
+        26.0
+      ],
+      "country": "France",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_71-fragmentos-de-uma-cronologia-do-acaso-1994",
+      "title": "71 Fragmentos de uma Cronologia do Acaso",
+      "director": "Michael Haneke",
+      "year": 1994,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/2/1/2/30212-71-fragments-of-a-chronology-of-chance-0-500-0-750-crop.jpg?v=bff012ba01",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/71-fragmentos-de-uma-cronologia-do-acaso-1994",
+      "sessions": [
+        {
+          "date": "2026-09-30",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.77,
+      "plot": "71 scenes revolving around multiple Viennese residents who are by chance involved with a senseless gun slaughter on Christmas Eve.",
+      "plot_pt": "Num mundo desumanizado, onde a dormência emocional é apenas perturbada pelo choque de episódios de violência extrema, setenta e uma cenas intrincadas e aparentemente desconectadas formam um puzzle onde as vidas de pessoas aleatórias colidem num encontro devastador num banco. Um rapaz romeno que vive nas ruas de Viena, um casal desesperado por adoptar uma criança e um estudante universitário no limite são alguns dos protagonistas destes quadros, que compõem a natureza simultaneamente aleatória e interconectada da existência moderna, focada de forma angustiante neste desesperante último capítulo da trilogia de Michael Haneke.",
+      "title_en": "71 Fragments of a Chronology of Chance",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/9fGRcNndP0IsVcbU3B7rZqiqhdk.jpg",
+        "https://image.tmdb.org/t/p/w1280/zuTy2f5CiruZ2HX3uy4fjy5UbK7.jpg",
+        "https://image.tmdb.org/t/p/w1280/v6C3DNDUfwyRG4bK9L04tulCpDj.jpg"
+      ],
+      "stills_focus": [
+        48.5,
+        31.3,
+        33.1
+      ],
+      "country": "Austria",
+      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "nimas_noites-brancas-1957",
@@ -2716,6 +1802,421 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-varda"
     },
     {
+      "id": "nimas_naza-2026",
+      "title": "Naza",
+      "director": "Yuval Abraham, Rachel Szor",
+      "year": 2026,
+      "duration": 80,
+      "poster": "https://medeiafilmes.com/uploads/library/naza-cartaz-web-3.jpg",
+      "genres": [
+        "Documentário"
+      ],
+      "link": "https://medeiafilmes.com/filmes/naza-2026",
+      "sessions": [
+        {
+          "date": "2026-10-01",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "20:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "21:30",
+          "cinema": "fernando",
+          "labels": [
+            "Sessão especial"
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "20:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "15:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "18:00",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "14:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "15:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "18:00",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "17:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "18:00",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "20:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "20:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "18:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "21:30",
+          "cinema": "campo_alegre"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "19:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "21:30",
+          "cinema": "trindade",
+          "labels": [
+            "sessão esgotada"
+          ]
+        },
+        {
+          "date": "2026-10-10",
+          "time": "17:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "18:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "19:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "19:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/qkuEfYYOZTW6ymbZMeyJeYQaMd7.jpg",
+        "https://image.tmdb.org/t/p/w1280/8IZ1rgkd0HQRsZ72Dc6Bmz7bgKJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/r9N2yehTqeePFIhyzOOGIvItIFy.jpg"
+      ],
+      "stills_focus": [
+        61.1,
+        37.9,
+        45.5
+      ]
+    },
+    {
+      "id": "nimas_tres-caminhos-para-o-lago-1976",
+      "title": "Três Caminhos para o Lago",
+      "director": "Michael Haneke",
+      "year": 1976,
+      "duration": 101,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/4/9/8/113498-three-paths-to-the-lake-0-500-0-750-crop.jpg?v=8f1b71da3f",
+      "genres": [
+        "Drama",
+        "Tv Movie"
+      ],
+      "link": "https://medeiafilmes.com/filmes/tres-caminhos-para-o-lago-1976",
+      "sessions": [
+        {
+          "date": "2026-10-01",
+          "time": "15:00",
+          "cinema": "nimas",
+          "labels": [
+            "Inédito comercialmente em sala"
+          ]
+        }
+      ],
+      "rating": 3.35,
+      "plot": "Elisabeth, a fifty year old woman, visits her old father in the outskirts of Klagenfurt. There, she reflects about her childhood and her romantic life.",
+      "plot_pt": "Elisabeth, uma fotógrafa de guerra mundialmente reputada, regressa à sua vila natal de Klagenfurt para visitar o seu pai. No meio de uma crise existencial, as longas caminhadas à volta do Lago Wörthersee fazem-na reflectir sobre memórias de infância e a sua vida romântica. Nesta adaptação do livro homónimo da escritora Ingeborg Bachmann, Michael Haneke usa a sua natureza fragmentada para explorar algumas das questões que viriam a marcar a sua obra, como as dinâmicas familiares, os media e a relação entre o indivíduo e a sociedade, com o seu estilo rigoroso já a fazer-se sentir.",
+      "title_en": "Three Paths to the Lake",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/fWVYXDzFSwNloDpXTJgbPOXeVw1.jpg",
+        "https://image.tmdb.org/t/p/w1280/l1k5VsRNYTF3T3cXndaIN7KfsCS.jpg",
+        "https://image.tmdb.org/t/p/w1280/aAB5oqTj3kfdYk4NuDyN6UyknSl.jpg"
+      ],
+      "stills_focus": [
+        39.5,
+        18.6,
+        41.3
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
       "id": "nimas_violencia-e-paixao-1974",
       "title": "Violência e Paixão",
       "director": "Luchino Visconti",
@@ -2750,40 +2251,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "luchino-visconti"
-    },
-    {
-      "id": "nimas_happy-end-2017",
-      "title": "Happy End",
-      "director": "Michael Haneke",
-      "year": 2017,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/2/9/1/333291-happy-end-0-500-0-750-crop.jpg?v=fe45aa7a50",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/happy-end-2017",
-      "sessions": [
-        {
-          "date": "2026-10-01",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.46,
-      "plot": "A well-to-do French family living in Calais deal with a series of setbacks and crises while paying little attention to the grim conditions in the refugee camps within a few miles of their home.",
-      "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
-        "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
-        "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
-      ],
-      "stills_focus": [
-        27.0,
-        19.8,
-        29.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "nimas_as-asas-do-desejo-1987",
@@ -2828,79 +2295,38 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wim-wenders"
     },
     {
-      "id": "nimas_tres-caminhos-para-o-lago-1976",
-      "title": "Três Caminhos para o Lago",
+      "id": "nimas_happy-end-2017",
+      "title": "Happy End",
       "director": "Michael Haneke",
-      "year": 1976,
-      "duration": 101,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/4/9/8/113498-three-paths-to-the-lake-0-500-0-750-crop.jpg?v=8f1b71da3f",
+      "year": 2017,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/2/9/1/333291-happy-end-0-500-0-750-crop.jpg?v=fe45aa7a50",
       "genres": [
-        "Drama",
-        "Tv Movie"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/tres-caminhos-para-o-lago-1976",
+      "link": "https://medeiafilmes.com/filmes/happy-end-2017",
       "sessions": [
         {
           "date": "2026-10-01",
-          "time": "15:00",
-          "cinema": "nimas",
-          "labels": [
-            "Inédito comercialmente em sala"
-          ]
-        }
-      ],
-      "rating": 3.35,
-      "plot": "Elisabeth, a fifty year old woman, visits her old father in the outskirts of Klagenfurt. There, she reflects about her childhood and her romantic life.",
-      "plot_pt": "Elisabeth, uma fotógrafa de guerra mundialmente reputada, regressa à sua vila natal de Klagenfurt para visitar o seu pai. No meio de uma crise existencial, as longas caminhadas à volta do Lago Wörthersee fazem-na reflectir sobre memórias de infância e a sua vida romântica. Nesta adaptação do livro homónimo da escritora Ingeborg Bachmann, Michael Haneke usa a sua natureza fragmentada para explorar algumas das questões que viriam a marcar a sua obra, como as dinâmicas familiares, os media e a relação entre o indivíduo e a sociedade, com o seu estilo rigoroso já a fazer-se sentir.",
-      "title_en": "Three Paths to the Lake",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/fWVYXDzFSwNloDpXTJgbPOXeVw1.jpg",
-        "https://image.tmdb.org/t/p/w1280/l1k5VsRNYTF3T3cXndaIN7KfsCS.jpg",
-        "https://image.tmdb.org/t/p/w1280/aAB5oqTj3kfdYk4NuDyN6UyknSl.jpg"
-      ],
-      "stills_focus": [
-        39.5,
-        18.6,
-        41.3
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_a-felicidade-1964",
-      "title": "A Felicidade",
-      "director": "Agnès Varda",
-      "year": 1965,
-      "duration": 85,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-500-0-750-crop.jpg?v=a14d5e2ec3",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-felicidade-1964",
-      "sessions": [
-        {
-          "date": "2026-10-02",
-          "time": "13:00",
+          "time": "19:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.15,
-      "plot": "Though married to the good-natured, beautiful Thérèse, young husband and father François finds himself falling unquestioningly into an affair with an attractive postal worker. One of Agnès Varda's most provocative films, 'Le bonheur' examines, with a deceptively cheery palette and the spirited strains of Mozart, the ideas of fidelity and happiness in a modern, self-centered world.",
-      "plot_pt": "François, um jovem carpinteiro, casado com Thérèse e pai de dois filhos, é um homem feliz. Um dia, numa ida aos correios, conhece Émilie, por quem se apaixona. Ainda apaixonado pela sua esposa, François decide aumentar a sua felicidade e tem um caso com Émilie. Num dos seus filmes mais provocadores, Agnès Varda examina, com uma paleta de cores alegres, tons impressionistas sensuais e as notas vibrantes de Mozart, as ideias de fidelidade e felicidade num mundo moderno, focado no indivíduo.",
-      "title_en": "Le Bonheur",
+      "rating": 3.46,
+      "plot": "A well-to-do French family living in Calais deal with a series of setbacks and crises while paying little attention to the grim conditions in the refugee camps within a few miles of their home.",
+      "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
-        "https://image.tmdb.org/t/p/w1280/3NN2lvLuoroRrSZMjiaLVPkoj03.jpg",
-        "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
+        "https://image.tmdb.org/t/p/w1280/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
+        "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
+        "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
       ],
       "stills_focus": [
-        35.2,
-        28.0,
-        23.7
+        27.0,
+        19.8,
+        29.9
       ],
       "country": "France",
-      "director_lbxd_slug": "agnes-varda"
+      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "nimas_sentimento-1954",
@@ -2940,40 +2366,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luchino-visconti"
     },
     {
-      "id": "nimas_ludwig-requiem-para-um-rei-virgem-1972",
-      "title": "​Ludwig, Requiem para um Rei Virgem",
-      "director": "Hans-Jürgen Syberberg",
-      "year": 1972,
-      "duration": 140,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/4/4/142544-ludwig-requiem-for-a-virgin-king-0-500-0-750-crop.jpg?v=7cfa8555da",
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ludwig-requiem-para-um-rei-virgem-1972",
-      "sessions": [
-        {
-          "date": "2026-10-02",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.69,
-      "plot": "Reflected in an artificial and bombastically staged illusory world with Wagnerian compositions, glossy and satirical time references, 19th century German figures and traditions are stripped of their mythology and interpreted by the Germany of 1972.",
-      "plot_pt": "Refletidas num mundo ilusório artificial e bombasticamente encenado com composições wagnerianas, referências temporais brilhantes e satíricas, as figuras e tradições alemãs do século XIX são despojadas da sua mitologia e interpretadas pela Alemanha de 1972, através da invocação do rei Luís II da Baviera.",
-      "title_en": "Ludwig – Requiem for a Virgin King",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/x4tSwHNtRbZZ95NGEDNkpom98uj.jpg",
-        "https://image.tmdb.org/t/p/w1280/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
-      ],
-      "stills_focus": [
-        35.8,
-        40.2
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "hans-jurgen-syberberg"
-    },
-    {
       "id": "nimas_a-rebeliao-1993",
       "title": "A Rebelião",
       "director": "Michael Haneke",
@@ -3009,44 +2401,109 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "michael-haneke"
     },
     {
-      "id": "nimas_crash-1996",
-      "title": "Crash",
-      "director": "David Cronenberg",
-      "year": 1996,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/8/51268-crash-0-500-0-750-crop.jpg?v=b67a17e4ec",
+      "id": "nimas_a-felicidade-1964",
+      "title": "A Felicidade",
+      "director": "Agnès Varda",
+      "year": 1965,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-500-0-750-crop.jpg?v=a14d5e2ec3",
       "genres": [
-        "Thriller",
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://medeiafilmes.com/filmes/crash-1996",
+      "link": "https://medeiafilmes.com/filmes/a-felicidade-1964",
       "sessions": [
         {
-          "date": "2026-10-03",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "21:30",
+          "date": "2026-10-02",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.63,
-      "plot": "A car crash victim suddenly finds himself turned on by car accidents and becomes involved with an underground sub-culture of like-minded souls.",
-      "plot_pt": "Um dos maiores êxitos da carreira de David Cronenberg e, também, um dos seus filmes mais controversos e polémicos. Adaptado do romance de J.G. Ballard, “Crash” é um filme demencial sobre o fascínio do sexo e da morte sobre rodas. Trata-se de uma macabra visão sobre a combinação entre erotismo e mutilação, autodestruição calculada e desejo sexual, morte violenta e acidentes rodoviários. James Ballard (James Spader), um produtor de filmes publicitários, tem um grave acidente de viação ao colidir com outro automóvel, que resulta na morte do outro condutor e deixa a mulher dele ferida. No hospital, Ballard perde-se e volta a encontrar Helen Remington (Holly Hunter), a viúva da vítima mortal do acidente. Na sua companhia conhece Vaughan (Elias Koteas), um cientista e fotógrafo fascinado pela beleza erótica dos ferimentos e das mutilações originadas por acidentes de viação. Ballard começa por se sentir curioso em relação a Vaughan e às suas ideias de recriar acidentes célebres, como o que vitimou James Dean. E, a pouco e pouco, deixa-se contagiar pelo erotismo que emerge da insólita combinação.",
+      "rating": 4.15,
+      "plot": "Though married to the good-natured, beautiful Thérèse, young husband and father François finds himself falling unquestioningly into an affair with an attractive postal worker. One of Agnès Varda's most provocative films, 'Le bonheur' examines, with a deceptively cheery palette and the spirited strains of Mozart, the ideas of fidelity and happiness in a modern, self-centered world.",
+      "plot_pt": "François, um jovem carpinteiro, casado com Thérèse e pai de dois filhos, é um homem feliz. Um dia, numa ida aos correios, conhece Émilie, por quem se apaixona. Ainda apaixonado pela sua esposa, François decide aumentar a sua felicidade e tem um caso com Émilie. Num dos seus filmes mais provocadores, Agnès Varda examina, com uma paleta de cores alegres, tons impressionistas sensuais e as notas vibrantes de Mozart, as ideias de fidelidade e felicidade num mundo moderno, focado no indivíduo.",
+      "title_en": "Le Bonheur",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
-        "https://image.tmdb.org/t/p/w1280/oWfJw6cTKQbQc43GgQeJwm2zlL8.jpg",
-        "https://image.tmdb.org/t/p/w1280/osbMI3NYlizeKcfGroJgoqYj2hG.jpg"
+        "https://image.tmdb.org/t/p/w1280/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
+        "https://image.tmdb.org/t/p/w1280/3NN2lvLuoroRrSZMjiaLVPkoj03.jpg",
+        "https://image.tmdb.org/t/p/w1280/3LpmqkY8xCmBKI7CTwOmavixrZO.jpg"
       ],
       "stills_focus": [
-        55.8,
-        29.5,
-        26.9
+        35.2,
+        28.0,
+        23.7
       ],
-      "country": "Canada",
-      "director_lbxd_slug": "david-cronenberg"
+      "country": "France",
+      "director_lbxd_slug": "agnes-varda"
+    },
+    {
+      "id": "nimas_ludwig-requiem-para-um-rei-virgem-1972",
+      "title": "​Ludwig, Requiem para um Rei Virgem",
+      "director": "Hans-Jürgen Syberberg",
+      "year": 1972,
+      "duration": 140,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/4/4/142544-ludwig-requiem-for-a-virgin-king-0-500-0-750-crop.jpg?v=7cfa8555da",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/ludwig-requiem-para-um-rei-virgem-1972",
+      "sessions": [
+        {
+          "date": "2026-10-02",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.69,
+      "plot": "Reflected in an artificial and bombastically staged illusory world with Wagnerian compositions, glossy and satirical time references, 19th century German figures and traditions are stripped of their mythology and interpreted by the Germany of 1972.",
+      "plot_pt": "Refletidas num mundo ilusório artificial e bombasticamente encenado com composições wagnerianas, referências temporais brilhantes e satíricas, as figuras e tradições alemãs do século XIX são despojadas da sua mitologia e interpretadas pela Alemanha de 1972, através da invocação do rei Luís II da Baviera.",
+      "title_en": "Ludwig – Requiem for a Virgin King",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/x4tSwHNtRbZZ95NGEDNkpom98uj.jpg",
+        "https://image.tmdb.org/t/p/w1280/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
+      ],
+      "stills_focus": [
+        35.8,
+        40.2
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "hans-jurgen-syberberg"
+    },
+    {
+      "id": "nimas_o-professor-bachmann-e-a-sua-turma-2021",
+      "title": "O Professor Bachmann e a Sua Turma",
+      "director": "Maria Speth",
+      "year": 2021,
+      "duration": 217,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/4/713524-mr-bachmann-and-his-class-0-500-0-750-crop.jpg?v=344d537dd5",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-professor-bachmann-e-a-sua-turma-2021",
+      "sessions": [
+        {
+          "date": "2026-10-03",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.12,
+      "plot": "Mr. Bachmann And His Class explores the close bond between an elementary school teacher and his students. His unconventional methods clash with the complex social and cultural realities of the provincial German industrial town they live in.",
+      "plot_pt": "Em Stadtallendorf, cidade alemã com uma história complexa no que concerne à integração e exclusão de estrangeiros, o professor Dieter Bachmann oferece aos seus alunos a chave para o sentimento de pertença. Com idades entre os 12 e os 14 anos, os estudantes são provenientes de doze países diferentes e alguns ainda não dominam a língua alemã. Bachmann está empenhado em inspirar estes cidadãos-em-construção com o sentido de curiosidade para que tenham vontade de desenvolver um vasto conjunto de saberes, disciplinas, culturas e opiniões.",
+      "title_en": "Mr. Bachmann and His Class",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/A5N6hjPvjcxCLOKo8mAgRIz26Ie.jpg",
+        "https://image.tmdb.org/t/p/w1280/bm1gheKuUA2Y4X8L6z7dqjeAYxW.jpg",
+        "https://image.tmdb.org/t/p/w1280/hJdg6sjCg63W98qCFs57TrGfgPi.jpg"
+      ],
+      "stills_focus": [
+        37.8,
+        24.5,
+        23.5
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "maria-speth"
     },
     {
       "id": "nimas_amar-foi-a-minha-perdicao-1945",
@@ -3121,76 +2578,44 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "michael-haneke"
     },
     {
-      "id": "nimas_o-professor-bachmann-e-a-sua-turma-2021",
-      "title": "O Professor Bachmann e a Sua Turma",
-      "director": "Maria Speth",
-      "year": 2021,
-      "duration": 217,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/3/5/2/4/713524-mr-bachmann-and-his-class-0-500-0-750-crop.jpg?v=344d537dd5",
+      "id": "nimas_crash-1996",
+      "title": "Crash",
+      "director": "David Cronenberg",
+      "year": 1996,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/8/51268-crash-0-500-0-750-crop.jpg?v=b67a17e4ec",
       "genres": [
-        "Documentary"
+        "Thriller",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-professor-bachmann-e-a-sua-turma-2021",
+      "link": "https://medeiafilmes.com/filmes/crash-1996",
       "sessions": [
         {
           "date": "2026-10-03",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.12,
-      "plot": "Mr. Bachmann And His Class explores the close bond between an elementary school teacher and his students. His unconventional methods clash with the complex social and cultural realities of the provincial German industrial town they live in.",
-      "plot_pt": "Em Stadtallendorf, cidade alemã com uma história complexa no que concerne à integração e exclusão de estrangeiros, o professor Dieter Bachmann oferece aos seus alunos a chave para o sentimento de pertença. Com idades entre os 12 e os 14 anos, os estudantes são provenientes de doze países diferentes e alguns ainda não dominam a língua alemã. Bachmann está empenhado em inspirar estes cidadãos-em-construção com o sentido de curiosidade para que tenham vontade de desenvolver um vasto conjunto de saberes, disciplinas, culturas e opiniões.",
-      "title_en": "Mr. Bachmann and His Class",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/A5N6hjPvjcxCLOKo8mAgRIz26Ie.jpg",
-        "https://image.tmdb.org/t/p/w1280/bm1gheKuUA2Y4X8L6z7dqjeAYxW.jpg",
-        "https://image.tmdb.org/t/p/w1280/hJdg6sjCg63W98qCFs57TrGfgPi.jpg"
-      ],
-      "stills_focus": [
-        37.8,
-        24.5,
-        23.5
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "maria-speth"
-    },
-    {
-      "id": "nimas_brincadeiras-perigosas-1997",
-      "title": "Brincadeiras Perigosas",
-      "director": "Michael Haneke",
-      "year": 1997,
-      "duration": 109,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/8/46418-funny-games-0-500-0-750-crop.jpg?v=00900d829d",
-      "genres": [
-        "Thriller",
-        "Horror",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/brincadeiras-perigosas-1997",
-      "sessions": [
-        {
-          "date": "2026-10-04",
           "time": "22:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "21:30",
+          "cinema": "nimas"
         }
       ],
-      "rating": 3.9,
-      "plot": "Two psychotic young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
-      "plot_pt": "Anna, Georg e o filho Georg Jr. vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Com uma neutralidade assustadora e uma frieza de contornos cirúrgicos, Michael Haneke explora a violência das imagens e confronta-nos com o nosso recurso à violência enquanto entretenimento, ao tornar-nos cúmplices deste espectáculo de crueldade.",
-      "title_en": "Funny Games",
+      "rating": 3.63,
+      "plot": "A car crash victim suddenly finds himself turned on by car accidents and becomes involved with an underground sub-culture of like-minded souls.",
+      "plot_pt": "Um dos maiores êxitos da carreira de David Cronenberg e, também, um dos seus filmes mais controversos e polémicos. Adaptado do romance de J.G. Ballard, “Crash” é um filme demencial sobre o fascínio do sexo e da morte sobre rodas. Trata-se de uma macabra visão sobre a combinação entre erotismo e mutilação, autodestruição calculada e desejo sexual, morte violenta e acidentes rodoviários. James Ballard (James Spader), um produtor de filmes publicitários, tem um grave acidente de viação ao colidir com outro automóvel, que resulta na morte do outro condutor e deixa a mulher dele ferida. No hospital, Ballard perde-se e volta a encontrar Helen Remington (Holly Hunter), a viúva da vítima mortal do acidente. Na sua companhia conhece Vaughan (Elias Koteas), um cientista e fotógrafo fascinado pela beleza erótica dos ferimentos e das mutilações originadas por acidentes de viação. Ballard começa por se sentir curioso em relação a Vaughan e às suas ideias de recriar acidentes célebres, como o que vitimou James Dean. E, a pouco e pouco, deixa-se contagiar pelo erotismo que emerge da insólita combinação.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/z0VWyPOtmlmYiGi3bGYh5WAEnVQ.jpg",
-        "https://image.tmdb.org/t/p/w1280/yUmtjm5eLK7WohDtt5E2lHXx84P.jpg",
-        "https://image.tmdb.org/t/p/w1280/9cOWevA6ofoGGcZbQ7PUqUav2YK.jpg"
+        "https://image.tmdb.org/t/p/w1280/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg",
+        "https://image.tmdb.org/t/p/w1280/oWfJw6cTKQbQc43GgQeJwm2zlL8.jpg",
+        "https://image.tmdb.org/t/p/w1280/osbMI3NYlizeKcfGroJgoqYj2hG.jpg"
       ],
       "stills_focus": [
-        46.5,
-        42.4,
-        39.2
+        55.8,
+        29.5,
+        26.9
       ],
-      "country": "Austria",
-      "director_lbxd_slug": "michael-haneke"
+      "country": "Canada",
+      "director_lbxd_slug": "david-cronenberg"
     },
     {
       "id": "nimas_western-2017",
@@ -3299,6 +2724,150 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "michael-haneke"
     },
     {
+      "id": "nimas_brincadeiras-perigosas-1997",
+      "title": "Brincadeiras Perigosas",
+      "director": "Michael Haneke",
+      "year": 1997,
+      "duration": 109,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/1/8/46418-funny-games-0-500-0-750-crop.jpg?v=00900d829d",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/brincadeiras-perigosas-1997",
+      "sessions": [
+        {
+          "date": "2026-10-04",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.9,
+      "plot": "Two psychotic young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+      "plot_pt": "Anna, Georg e o filho Georg Jr. vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Com uma neutralidade assustadora e uma frieza de contornos cirúrgicos, Michael Haneke explora a violência das imagens e confronta-nos com o nosso recurso à violência enquanto entretenimento, ao tornar-nos cúmplices deste espectáculo de crueldade.",
+      "title_en": "Funny Games",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/z0VWyPOtmlmYiGi3bGYh5WAEnVQ.jpg",
+        "https://image.tmdb.org/t/p/w1280/yUmtjm5eLK7WohDtt5E2lHXx84P.jpg",
+        "https://image.tmdb.org/t/p/w1280/9cOWevA6ofoGGcZbQ7PUqUav2YK.jpg"
+      ],
+      "stills_focus": [
+        46.5,
+        42.4,
+        39.2
+      ],
+      "country": "Austria",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_adeus-lenine-2003",
+      "title": "Adeus, Lenine!",
+      "director": "Wolfgang Becker",
+      "year": 2003,
+      "duration": 121,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/4/51724-good-bye-lenin--0-500-0-750-crop.jpg?v=85e5ac1c04",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/adeus-lenine-2003",
+      "sessions": [
+        {
+          "date": "2026-10-05",
+          "time": "16:45",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.89,
+      "plot": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
+      "plot_pt": "Outono de 1989. Pouco antes da queda do Muro de Berlim, a mãe de Alex tem um ataque cardíaco e entra em coma. O triunfo do capitalismo acontece enquanto ela está inconsciente. Quando finalmente acorda, no Verão de 1990, a RDA deixou de existir e Berlim está totalmente transformada. Alex, determinado a protegê-la a qualquer custo e com medo que ela volte a ter um ataque cardíaco se souber o que aconteceu, decide não lhe contar que o Muro caiu. Com a ajuda de um amigo, fabrica programas de televisão que já deixaram de existir, evita que ela veja anúncios publicitários (o que seria se ela visse um cartaz da Coca-Cola!) e enche a casa de produtos e objectos, cada vez mais raros e difíceis de conseguir.",
+      "title_en": "Good Bye, Lenin!",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/uBLmfG7MyNXPXI50eMs1ZjxpbnV.jpg",
+        "https://image.tmdb.org/t/p/w1280/elQ35lnbMHGgqx62kXqslL1ielY.jpg",
+        "https://image.tmdb.org/t/p/w1280/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg"
+      ],
+      "stills_focus": [
+        36.2,
+        41.4,
+        20.2
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "wolfgang-becker-1"
+    },
+    {
+      "id": "nimas_brincadeiras-perigosas-u-s-2007",
+      "title": "Brincadeiras Perigosas U.S.",
+      "director": "Michael Haneke",
+      "year": 2007,
+      "duration": 111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/1/0/47710-funny-games-0-500-0-750-crop.jpg?v=5fb4eca12a",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "link": "https://medeiafilmes.com/filmes/brincadeiras-perigosas-u-s-2007",
+      "sessions": [
+        {
+          "date": "2026-10-05",
+          "time": "19:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.59,
+      "plot": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+      "plot_pt": "Um remake assinado pelo próprio Michael Haneke, desta vez com produção e elenco americano, de Brincadeiras Perigosas, filme que conquistou a crítica e recebeu vários prémios dez anos antes. Ann, George e o filho Georgie vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Dez anos depois, a visão de Michael Haneke apenas se tornou mais actual e acutilante, nesta exploração da violência das imagens e do seu recurso enquanto entretenimento.",
+      "title_en": "Funny Games",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+        "https://image.tmdb.org/t/p/w1280/ZdK8HzzQoiVtAq2j0X9n4K77aU.jpg",
+        "https://image.tmdb.org/t/p/w1280/stMyI68M8yExIVCOr46em4vUP6n.jpg"
+      ],
+      "stills_focus": [
+        21.1,
+        24.3,
+        31.6
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_a-amiga-silenciosa-2025",
+      "title": "A Amiga Silenciosa",
+      "director": "Ildikó Enyedi",
+      "year": 2025,
+      "duration": 147,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/8/1/2/1055812-silent-friend-0-500-0-750-crop.jpg?v=d46efdd929",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-amiga-silenciosa-2025",
+      "sessions": [
+        {
+          "date": "2026-10-05",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "On the grounds of a medieval German university town looms an imposing Ginkgo biloba, a tree whose longevity stands in marked contrast to three intimate, human-scaled stories. In 1908, the university’s first female student gains admission into the prestigious botany department, confronting the sexism of both professors and peers. In 1972, amidst counterculture movements, a reserved student finds his attention captured by a fellow housemate and the geranium plant she studies. In 2020, during the COVID-19 pandemic, a neuroscientist from Hong Kong secures the help of a renowned botanist for an experiment on the old ginkgo tree.",
+      "plot_pt": "No coração de um jardim botânico, numa cidade universitária alemã, ergue-se um majestoso ginkgo, que testemunhará três histórias. Em 1908, a universidade acolhe a primeira estudante de Botânica; em 1972, outra estudante transforma-se pelo simples acto de observar um gerânio; em 2020, um neurocientista de Hong Kong desenvolve uma experiência com a árvore. Através dela e destas três histórias, A Amiga Silenciosa é uma exploração terna da mais humana pulsão – a conexão com o Outro.",
+      "title_en": "Silent Friend",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/3HgNb4XRFVxwWP6XrES2oGOvHit.jpg",
+        "https://image.tmdb.org/t/p/w1280/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
+        "https://image.tmdb.org/t/p/w1280/15rAF2HeIRTLfWhn6BlqWhCZ2m5.jpg"
+      ],
+      "stills_focus": [
+        37.0,
+        18.6,
+        39.2
+      ],
+      "country": "France",
+      "director_lbxd_slug": "ildiko-enyedi"
+    },
+    {
       "id": "nimas_ludwig-luis-da-baviera-1973",
       "title": "Ludwig – Luís da Baviera",
       "director": "Luchino Visconti",
@@ -3372,75 +2941,40 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "michael-haneke"
     },
     {
-      "id": "nimas_a-amiga-silenciosa-2025",
-      "title": "A Amiga Silenciosa",
-      "director": "Ildikó Enyedi",
-      "year": 2025,
-      "duration": 147,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/8/1/2/1055812-silent-friend-0-500-0-750-crop.jpg?v=d46efdd929",
+      "id": "nimas_o-video-de-benny-1991",
+      "title": "O Vídeo de Benny",
+      "director": "Michael Haneke",
+      "year": 1992,
+      "duration": 110,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/5m/3j/xh/u8/djRDTKgtKFacrQlsBylMbVznAu0-0-500-0-750-crop.jpg?v=a65d3f7ca8",
       "genres": [
+        "Crime",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/a-amiga-silenciosa-2025",
+      "link": "https://medeiafilmes.com/filmes/o-video-de-benny-1991",
       "sessions": [
         {
-          "date": "2026-10-05",
-          "time": "21:30",
+          "date": "2026-10-06",
+          "time": "17:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.76,
-      "plot": "On the grounds of a medieval German university town looms an imposing Ginkgo biloba, a tree whose longevity stands in marked contrast to three intimate, human-scaled stories. In 1908, the university’s first female student gains admission into the prestigious botany department, confronting the sexism of both professors and peers. In 1972, amidst counterculture movements, a reserved student finds his attention captured by a fellow housemate and the geranium plant she studies. In 2020, during the COVID-19 pandemic, a neuroscientist from Hong Kong secures the help of a renowned botanist for an experiment on the old ginkgo tree.",
-      "plot_pt": "No coração de um jardim botânico, numa cidade universitária alemã, ergue-se um majestoso ginkgo, que testemunhará três histórias. Em 1908, a universidade acolhe a primeira estudante de Botânica; em 1972, outra estudante transforma-se pelo simples acto de observar um gerânio; em 2020, um neurocientista de Hong Kong desenvolve uma experiência com a árvore. Através dela e destas três histórias, A Amiga Silenciosa é uma exploração terna da mais humana pulsão – a conexão com o Outro.",
-      "title_en": "Silent Friend",
+      "rating": 3.6,
+      "plot": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+      "plot_pt": "Benny é um adolescente de 14 anos, fanático pela tecnologia do vídeo, filho de pais ricos e desinteressados, que só encontra satisfação no mundo das imagens violentas. Esta obsessão leva-o a criar a sua própria obra monstruosa de terror na vida real. Em O Vídeo de Benny, Haneke concebeu um estudo perturbador e provocador (e cada vez mais actual) da desconexão emocional numa era de saturação mediática, numa das mais impressionantes expressões do seu universo clinicamente gelado.",
+      "title_en": "Benny's Video",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/3HgNb4XRFVxwWP6XrES2oGOvHit.jpg",
-        "https://image.tmdb.org/t/p/w1280/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
-        "https://image.tmdb.org/t/p/w1280/15rAF2HeIRTLfWhn6BlqWhCZ2m5.jpg"
+        "https://image.tmdb.org/t/p/w1280/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+        "https://image.tmdb.org/t/p/w1280/o1RKOVPdTa81Hq2dJVCgu9MBgV1.jpg",
+        "https://image.tmdb.org/t/p/w1280/3u69H2FTJWfNwc5Y1WEdMdNtI0f.jpg"
       ],
       "stills_focus": [
-        37.0,
-        18.6,
-        39.2
+        20.0,
+        38.3,
+        40.9
       ],
-      "country": "France",
-      "director_lbxd_slug": "ildiko-enyedi"
-    },
-    {
-      "id": "nimas_adeus-lenine-2003",
-      "title": "Adeus, Lenine!",
-      "director": "Wolfgang Becker",
-      "year": 2003,
-      "duration": 121,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/4/51724-good-bye-lenin--0-500-0-750-crop.jpg?v=85e5ac1c04",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/adeus-lenine-2003",
-      "sessions": [
-        {
-          "date": "2026-10-05",
-          "time": "16:45",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.89,
-      "plot": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
-      "plot_pt": "Outono de 1989. Pouco antes da queda do Muro de Berlim, a mãe de Alex tem um ataque cardíaco e entra em coma. O triunfo do capitalismo acontece enquanto ela está inconsciente. Quando finalmente acorda, no Verão de 1990, a RDA deixou de existir e Berlim está totalmente transformada. Alex, determinado a protegê-la a qualquer custo e com medo que ela volte a ter um ataque cardíaco se souber o que aconteceu, decide não lhe contar que o Muro caiu. Com a ajuda de um amigo, fabrica programas de televisão que já deixaram de existir, evita que ela veja anúncios publicitários (o que seria se ela visse um cartaz da Coca-Cola!) e enche a casa de produtos e objectos, cada vez mais raros e difíceis de conseguir.",
-      "title_en": "Good Bye, Lenin!",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/uBLmfG7MyNXPXI50eMs1ZjxpbnV.jpg",
-        "https://image.tmdb.org/t/p/w1280/elQ35lnbMHGgqx62kXqslL1ielY.jpg",
-        "https://image.tmdb.org/t/p/w1280/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg"
-      ],
-      "stills_focus": [
-        36.2,
-        41.4,
-        20.2
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "wolfgang-becker-1"
+      "country": "Austria",
+      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "nimas_a-terra-treme-1948",
@@ -3478,40 +3012,35 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luchino-visconti"
     },
     {
-      "id": "nimas_o-video-de-benny-1991",
-      "title": "O Vídeo de Benny",
-      "director": "Michael Haneke",
-      "year": 1992,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/5m/3j/xh/u8/djRDTKgtKFacrQlsBylMbVznAu0-0-500-0-750-crop.jpg?v=a65d3f7ca8",
+      "id": "nimas_o-estrangeiro-1967-1967",
+      "title": "O Estrangeiro (1967)",
+      "director": "Luchino Visconti",
+      "year": 1967,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/6/7/31267-the-stranger-0-500-0-750-crop.jpg?v=872b3840b5",
       "genres": [
-        "Crime",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-video-de-benny-1991",
+      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1967-1967",
       "sessions": [
         {
-          "date": "2026-10-06",
-          "time": "17:00",
+          "date": "2026-10-07",
+          "time": "22:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.6,
-      "plot": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
-      "plot_pt": "Benny é um adolescente de 14 anos, fanático pela tecnologia do vídeo, filho de pais ricos e desinteressados, que só encontra satisfação no mundo das imagens violentas. Esta obsessão leva-o a criar a sua própria obra monstruosa de terror na vida real. Em O Vídeo de Benny, Haneke concebeu um estudo perturbador e provocador (e cada vez mais actual) da desconexão emocional numa era de saturação mediática, numa das mais impressionantes expressões do seu universo clinicamente gelado.",
-      "title_en": "Benny's Video",
+      "rating": 3.44,
+      "plot": "Meursault is a man who feels utterly isolated from everyone and everything around him. This alienation results in sudden, inexplicable bursts of violence, culminating in murder.",
+      "plot_pt": "Em meados da década de 1930, Arthur Meursault (Marcello Mastroianni), um francês a viver na Argélia, conhece a encantadora Marie (Anna Karina), depois do funeral da mãe, com quem inicia uma relação ambígua. Por força de uma série de circunstâncias pouco claras, Arthur, sem razão aparente, mata um jovem argelino numa praia.",
+      "title_en": "The Stranger",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
-        "https://image.tmdb.org/t/p/w1280/o1RKOVPdTa81Hq2dJVCgu9MBgV1.jpg",
-        "https://image.tmdb.org/t/p/w1280/3u69H2FTJWfNwc5Y1WEdMdNtI0f.jpg"
+        "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
       ],
       "stills_focus": [
-        20.0,
-        38.3,
-        40.9
+        30.2
       ],
-      "country": "Austria",
-      "director_lbxd_slug": "michael-haneke"
+      "country": "Algeria",
+      "director_lbxd_slug": "luchino-visconti"
     },
     {
       "id": "nimas_o-castigo-da-justica-1950",
@@ -3588,37 +3117,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luchino-visconti"
     },
     {
-      "id": "nimas_o-estrangeiro-1967-1967",
-      "title": "O Estrangeiro (1967)",
-      "director": "Luchino Visconti",
-      "year": 1967,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/6/7/31267-the-stranger-0-500-0-750-crop.jpg?v=872b3840b5",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1967-1967",
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.44,
-      "plot": "Meursault is a man who feels utterly isolated from everyone and everything around him. This alienation results in sudden, inexplicable bursts of violence, culminating in murder.",
-      "plot_pt": "Em meados da década de 1930, Arthur Meursault (Marcello Mastroianni), um francês a viver na Argélia, conhece a encantadora Marie (Anna Karina), depois do funeral da mãe, com quem inicia uma relação ambígua. Por força de uma série de circunstâncias pouco claras, Arthur, sem razão aparente, mata um jovem argelino numa praia.",
-      "title_en": "The Stranger",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/5ekGWawVJRnVzVsOqQMF9UpkZGP.jpg"
-      ],
-      "stills_focus": [
-        30.2
-      ],
-      "country": "Algeria",
-      "director_lbxd_slug": "luchino-visconti"
-    },
-    {
       "id": "nimas_o-tempo-do-lobo-2003",
       "title": "O Tempo do Lobo",
       "director": "Michael Haneke",
@@ -3690,303 +3188,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Austria",
       "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "fernando_da_eternidade",
-      "title": "Da Eternidade",
-      "director": "Roy Andersson",
-      "year": 2019,
-      "duration": 76,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/8/8/7/7/278877-about-endlessness-0-500-0-750-crop.jpg?v=6d31987829",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Comedy"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/DA-ETERNIDADE",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "21:30",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 3.68,
-      "plot": "A reflection on human life in all its beauty and cruelty, its splendor and banality, guided by a Scheherazade-esque narrator. Inconsequential moments have the same significance as historical events. Simultaneously an ode and a lament, presents a kaleidoscope of all that is eternally human, an infinite story of the vulnerability of existence.",
-      "title_en": "About Endlessness",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/dQgqxHUdcNSmhiM4zebekZnnUII.jpg",
-        "https://image.tmdb.org/t/p/w1280/84pCpSmZVpYOSIggr0hAfplWua7.jpg",
-        "https://image.tmdb.org/t/p/w1280/rS82bCzK8l35MGxsYAx6fegiXIs.jpg"
-      ],
-      "stills_focus": [
-        24.5,
-        34.8,
-        35.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "roy-andersson"
-    },
-    {
-      "id": "fernando_naza",
-      "title": "Naza",
-      "director": "Yuval Abraham & Rachel Szor",
-      "year": 2026,
-      "duration": 80,
-      "poster": "https://freight.cargo.site/t/original/i/fabbfcef1b2f77c14f5bd21b7eedbb8251d9ce3a202971d69640e6371a98a0fc/NAZA_POSTER.jpg",
-      "genres": [
-        "Aguarda classificação",
-        "Documentário"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/NAZA",
-      "sessions": [
-        {
-          "date": "2026-10-01",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "20:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "21:30",
-          "cinema": "fernando",
-          "labels": [
-            "Sessão especial"
-          ]
-        },
-        {
-          "date": "2026-10-01",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "20:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-02",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "14:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "17:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "20:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "20:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "18:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "17:15",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "18:45",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "21:00",
-          "cinema": "fernando"
-        }
-      ],
-      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qkuEfYYOZTW6ymbZMeyJeYQaMd7.jpg",
-        "https://image.tmdb.org/t/p/w1280/8IZ1rgkd0HQRsZ72Dc6Bmz7bgKJ.jpg",
-        "https://image.tmdb.org/t/p/w1280/r9N2yehTqeePFIhyzOOGIvItIFy.jpg"
-      ],
-      "stills_focus": [
-        61.1,
-        37.9,
-        45.5
-      ]
     },
     {
       "id": "fernando_um_fantasma_u_til",
@@ -4126,6 +3327,7 @@ window.CINEMA_DATA = {
       "duration": 110,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-500-0-750-crop.jpg?v=41640d6988",
       "genres": [
+        "Drama",
         "Crime",
         "Thriller"
       ],
@@ -4136,6 +3338,11 @@ window.CINEMA_DATA = {
           "date": "2026-10-08",
           "time": "21:00",
           "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "21:30",
+          "cinema": "trindade"
         },
         {
           "date": "2026-10-09",
@@ -4168,7 +3375,7 @@ window.CINEMA_DATA = {
           "cinema": "fernando"
         }
       ],
-      "rating": 3.73,
+      "rating": 3.72,
       "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
@@ -4222,7 +3429,6 @@ window.CINEMA_DATA = {
       "duration": null,
       "poster": "https://freight.cargo.site/t/original/i/1c7011ef6b3b8831f0239abe5884a2e869b5df58efc11d1b3c65138ff502638f/5_CURTAS_MOSTRA_ROY_ANDERSSON.jpg",
       "genres": [
-        "Aguarda classificação",
         "Duração total 115 MIN"
       ],
       "festival": null,
@@ -4769,7 +3975,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
       ],
       "stills_focus": [
-        40.5
+        40.6
       ],
       "director_lbxd_slug": "carla-andrade"
     },
@@ -5035,7 +4241,7 @@ window.CINEMA_DATA = {
       ],
       "stills_focus": [
         12.1,
-        26.6
+        26.7
       ],
       "director_lbxd_slug": "jean-anouilh"
     },
@@ -5650,7 +4856,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
       ],
       "stills_focus": [
-        39.6
+        39.4
       ],
       "director_lbxd_slug": "wang-bo"
     },
@@ -5928,7 +5134,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         30.9,
         29.3,
-        39.6
+        30.1
       ],
       "director_lbxd_slug": "tiago-guedes"
     },
@@ -5959,7 +5165,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
       ],
       "stills_focus": [
-        37.3
+        37.2
       ],
       "director_lbxd_slug": "marta-mateus"
     },
@@ -6056,7 +5262,7 @@ window.CINEMA_DATA = {
         "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
       ],
       "stills_focus": [
-        50.9
+        51.4
       ],
       "director_lbxd_slug": "yann-gonzalez"
     },
@@ -6898,13 +6104,18 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/o-jacare",
       "sessions": [
         {
-          "date": "2026-09-29",
+          "date": "2026-09-30",
           "time": "17:15",
           "cinema": "trindade"
         },
         {
-          "date": "2026-09-30",
-          "time": "17:15",
+          "date": "2026-10-01",
+          "time": "17:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "17:30",
           "cinema": "trindade"
         }
       ],
@@ -6936,13 +6147,18 @@ window.CINEMA_DATA = {
       "link": "https://cinematrindade.pt/pt/filmes/truly-naked",
       "sessions": [
         {
-          "date": "2026-09-29",
+          "date": "2026-09-30",
           "time": "17:30",
           "cinema": "trindade"
         },
         {
-          "date": "2026-09-30",
-          "time": "17:30",
+          "date": "2026-10-02",
+          "time": "17:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "17:15",
           "cinema": "trindade"
         }
       ],
@@ -6961,126 +6177,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Netherlands",
       "director_lbxd_slug": "muriel-dansembourg"
-    },
-    {
-      "id": "trindade_8757",
-      "title": "O Convite",
-      "director": "Olivia Wilde",
-      "year": 2026,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/4/8/3/1/854831-the-invite-2026-0-500-0-750-crop.jpg?v=ee72905e48",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/o-convite",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "14:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.04,
-      "plot": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-      "plot_pt": "Aquilo que devia ser uma noite tranquila descarrila quando os vizinhos, de sinibidos e seguros de si, fazem uma proposta que ninguém estava à espera, deixando as duas relações expostas, postas à prova e em rota de colisão.",
-      "title_en": "The Invite",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-        "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "https://image.tmdb.org/t/p/w1280/25PFe4nByh8qc9YPZ79YcUhrLiS.jpg"
-      ],
-      "stills_focus": [
-        26.2,
-        28.2,
-        29.0
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "olivia-wilde"
-    },
-    {
-      "id": "trindade_8617",
-      "title": "Rosebush Pruning",
-      "director": "Karim Aïnouz",
-      "year": 2026,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/0/5/9/1019059-rosebush-pruning-0-500-0-750-crop.jpg?v=42d3e09345",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/rosebush-pruning",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 2.66,
-      "plot": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the fabric of the family begins to unravel.",
-      "plot_pt": "Numa vila opulenta sob o sol da Catalunha, os irmãos Jack, Ed, Anna e Robert vivem isolados, sustentados por uma fortuna herdada e afastados das exigências do pai cego. Procuram amor e validação entre si, e nas roupas de designer. Quando Jack, o irmão mais velho e pilar da família, anuncia que vai viver com a namorada, Martha, os laços de sangue começam a desfazer-se e Ed começa a desenterrar a verdade sobre a morte da mãe. À medida que as mentiras de família vêm à tona, o frágil equilíbrio que os une ameaça ruir por completo.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
-        "https://image.tmdb.org/t/p/w1280/4Y7X3exMjMRlGsntrMJEeVw7dxe.jpg",
-        "https://image.tmdb.org/t/p/w1280/lKPQpQXiw9ogxmSBiCkt5GIALBC.jpg"
-      ],
-      "stills_focus": [
-        24.3,
-        21.4,
-        21.7
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "karim-ainouz-1"
-    },
-    {
-      "id": "trindade_9371",
-      "title": "Adolescência, Sexo e Morte No Campo Miasma",
-      "director": "Jane Schoenbrun",
-      "year": 2026,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/adolescencia-sexo-e-morte-no-campo-miasma",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "19:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.84,
-      "plot": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-      "plot_pt": "Um slasher queer protagonizado por Hannah Einbinder e Gillian Anderson, que tem conquistado crítica e público desde a sua estreia no festival de Cannes onde venceu a Queer Palm. Após anos de sequelas e fãs de terror em declínio, Camp Miasma é entregue a uma jovem realizadora entusiasmada por uma ressurreição. No entanto, quando visita a protagonista original do filme, uma actriz envolta em mistério, as duas mulheres mergulham num mundo sangrento de desejo, medo e delírio. E uma nova espécie de slasher emerge do fundo do lago.",
-      "title_en": "Teenage Sex and Death at Camp Miasma",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
-        "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-        "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
-      ],
-      "stills_focus": [
-        13.7,
-        12.8,
-        24.4
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "jane-schoenbrun"
     },
     {
       "id": "trindade_8748",
@@ -7112,6 +6208,58 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "director_lbxd_slug": "rodrigo-areias"
+    },
+    {
+      "id": "trindade_9371",
+      "title": "Adolescência, Sexo e Morte No Campo Miasma",
+      "director": "Jane Schoenbrun",
+      "year": 2026,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/adolescencia-sexo-e-morte-no-campo-miasma",
+      "sessions": [
+        {
+          "date": "2026-09-30",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "19:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.84,
+      "plot": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+      "plot_pt": "Um slasher queer protagonizado por Hannah Einbinder e Gillian Anderson, que tem conquistado crítica e público desde a sua estreia no festival de Cannes onde venceu a Queer Palm. Após anos de sequelas e fãs de terror em declínio, Camp Miasma é entregue a uma jovem realizadora entusiasmada por uma ressurreição. No entanto, quando visita a protagonista original do filme, uma actriz envolta em mistério, as duas mulheres mergulham num mundo sangrento de desejo, medo e delírio. E uma nova espécie de slasher emerge do fundo do lago.",
+      "title_en": "Teenage Sex and Death at Camp Miasma",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
+        "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+        "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
+      ],
+      "stills_focus": [
+        13.7,
+        12.8,
+        24.4
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "jane-schoenbrun"
     },
     {
       "id": "trindade_9323",
@@ -7155,6 +6303,7 @@ window.CINEMA_DATA = {
       "duration": 129,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/2/6/8/8/1132688-digger-2026-0-500-0-750-crop.jpg?v=81ec883a95",
       "genres": [
+        "Drama",
         "Comedy"
       ],
       "link": "https://cinematrindade.pt/pt/filmes/digger",
@@ -7163,8 +6312,39 @@ window.CINEMA_DATA = {
           "date": "2026-10-01",
           "time": "19:15",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "19:15",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "19:15",
+          "cinema": "trindade"
         }
       ],
+      "rating": 3.66,
       "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
       "plot_pt": "Digger acompanha o homem mais poderoso do mundo que, após provocar um desastre ambiental de proporções globais, começa uma missão intensa para reparar os danos que ele mesmo causou e provar que é o salvador da humanidade. Em uma corrida contra o tempo, ele precisa enfrentar as consequências de suas decisões antes que a crise saia completamente do controle e ameace o futuro do planeta. Nessa trajetória, o bilionário cruza o caminho de algumas das figuras mais influentes do mundo, incluindo o presidente dos Estados Unidos, enquanto tenta recuperar sua credibilidade. O filme mistura drama épico e reflete sobre responsabilidade e os impactos da ambição desenfreada em uma narrativa repleta de tensão.",
       "stills": [
@@ -7179,6 +6359,48 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "alejandro-g-inarritu"
+    },
+    {
+      "id": "trindade_8757",
+      "title": "O Convite",
+      "director": "Olivia Wilde",
+      "year": 2026,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/4/8/3/1/854831-the-invite-2026-0-500-0-750-crop.jpg?v=ee72905e48",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-convite",
+      "sessions": [
+        {
+          "date": "2026-10-03",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "17:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.04,
+      "plot": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "plot_pt": "Aquilo que devia ser uma noite tranquila descarrila quando os vizinhos, de sinibidos e seguros de si, fazem uma proposta que ninguém estava à espera, deixando as duas relações expostas, postas à prova e em rota de colisão.",
+      "title_en": "The Invite",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+        "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "https://image.tmdb.org/t/p/w1280/25PFe4nByh8qc9YPZ79YcUhrLiS.jpg"
+      ],
+      "stills_focus": [
+        26.2,
+        28.2,
+        29.0
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "olivia-wilde"
     },
     {
       "id": "trindade_9584",
@@ -7225,6 +6447,16 @@ window.CINEMA_DATA = {
           "date": "2026-10-05",
           "time": "21:30",
           "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "14:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "20:00",
+          "cinema": "ideal"
         }
       ],
       "rating": 3.24,
@@ -7240,6 +6472,42 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "director_lbxd_slug": "rita-azevedo-gomes"
+    },
+    {
+      "id": "trindade_9632",
+      "title": "O Laço Branco",
+      "director": "Michael Haneke",
+      "year": 2009,
+      "duration": 144,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/6/1/6/26616-the-white-ribbon-0-500-0-750-crop.jpg?v=4f4172dea5",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/o-laco-branco",
+      "sessions": [
+        {
+          "date": "2026-10-06",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.21,
+      "plot": "An aged tailor recalls his life as the schoolteacher of a small village in Northern Germany that was struck by a series of strange events in the year leading up to WWI.",
+      "plot_pt": "Uma aldeia protestante da Alemanha do Norte. 1913/1914. Vésperas da Primeira Guerra Mundial. Uma história de crianças e adolescentes, pertencentes a um coro liderado pelo professor da aldeia, e suas famílias: o barão, o gerente, o pastor, o médico, a parteira, os camponeses. Acidentes estranhos acontecem e, gradualmente, assumem o carácter de uma punição ritual. \n\r\n\r\nQuem estará por detrás de tudo isso?",
+      "title_en": "The White Ribbon",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/9Cxi5RQzYAlkNI5FROWkoKgiNkJ.jpg",
+        "https://image.tmdb.org/t/p/w1280/n4S9IhJI3UTq5GQMFg7qwC3kcI3.jpg",
+        "https://image.tmdb.org/t/p/w1280/2FHF4H1HOuvzgWvSaOlQnuAktxc.jpg"
+      ],
+      "stills_focus": [
+        28.2,
+        24.9,
+        23.2
+      ],
+      "country": "Italy",
+      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "trindade_9645",
@@ -7455,60 +6723,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "mikhail-kalatozov"
     },
     {
-      "id": "ideal_a_piscina",
-      "title": "A PISCINA",
-      "director": "Jacques Deray",
-      "year": 1969,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/5/2/49052-the-swimming-pool-0-500-0-750-crop.jpg?v=34fafbb92c",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=66062",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "18:45",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.75,
-      "plot": "Set in a magnificent villa near a sun-drenched St. Tropez, lovers Jean-Paul and Marianne are spending a happy, lazy summer holiday. Their only concern is to gratify their mutual passion - until the day when Marianne invites her former lover and his beautiful teenage daughter to spend a few days with them. From the first moment, a certain uneasiness and tension begin to develop between the four, which soon escalates in a dangerous love-game.",
-      "plot_pt": "La piscine é um filme ítalo-francês de 1969 dirigido por Jacques Deray, com trilha sonora de Michel Legrand.",
-      "title_en": "The Swimming Pool",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/pQpGA6XsWlmlAyicVIxVXHIW02P.jpg",
-        "https://image.tmdb.org/t/p/w1280/gbgoA365wY0tLZxVCaOE6NpF2iF.jpg",
-        "https://image.tmdb.org/t/p/w1280/pZ0nNN5UoUkpyY9zWdyquztgX1v.jpg"
-      ],
-      "stills_focus": [
-        18.7,
-        44.0,
-        28.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "jacques-deray"
-    },
-    {
-      "id": "culturgest_ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
-      "title": "Ouvir, Pensar, Escrever",
-      "director": "Listen, Think, Write",
-      "year": null,
-      "duration": null,
-      "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/52/5a/525a8495-24d0-4a98-a8ad-07be8eff62cd/maria_filomena_cor_som_mistura_final00_00_03_16still005.jpeg__768x768_q85_crop_subject_location-914%2C439_subsampling-2_upscale.jpg",
-      "genres": [],
-      "link": "https://www.culturgest.pt/en/whats-on/ouvir-pensar-escrever-alexandre-melo-maria-filomena-molder",
-      "sessions": [
-        {
-          "date": "2026-09-29",
-          "time": "19:00",
-          "cinema": "culturgest"
-        }
-      ]
-    },
-    {
       "id": "culturgest_rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
       "title": "Mali Futur Live",
       "director": "Rimini Protokoll / Théâtre Vidy-Lausanne / Les Praticables",
@@ -7527,96 +6741,6 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "Mathieu Kassovitz": {
-      "lbxd_slug": "mathieu-kassovitz",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Mathieu_Kassovitz_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Mathieu Kassovitz (French pronunciation: [matjø kasɔvits]; born 3 August 1967) is a French actor, film director, film producer and screenwriter. He has won three César Awards: Most Promising Actor for See How They Fall (1994), and Best Film and Best Editing for La Haine (1995). He also received Best Director and Best Original Screenplay or Adaptation nominations."
-    },
-    "Marc Caro, Jean-Pierre Jeunet": {
-      "lbxd_slug": "jean-pierre-jeunet",
-      "photo": null,
-      "bio": null
-    },
-    "José Mojica Marins": {
-      "lbxd_slug": null,
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg/500px-Jos%C3%A9_Mojica_Marins%2C_circa_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "José Mojica Marins (13 March 1936 – 19 February 2020) was a Brazilian filmmaker, actor, composer, screenwriter, and television horror host. Marins is also known for creating and playing the character Coffin Joe (loosely translated from Zé do Caixão) in a series of horror films; the character has since gone on to become his alter ego as well as a pop culture icon, a horror icon, and a cult figure. The popularity of Coffin Joe in Brazil has led to the character being referred to as \"Brazil's National Boogeyman\" and \"Brazil's Freddy Krueger\"."
-    },
-    "Dorothée Sebbagh": {
-      "lbxd_slug": "pierre-lary",
-      "photo": null,
-      "bio": "French film director and screenwriter"
-    },
-    "Nathan Ambrosioni": {
-      "lbxd_slug": "nathan-ambrosioni",
-      "photo": null,
-      "bio": "Nathan Ambrosioni (born August 18, 1999 in Grasse, Alpes-Maritimes) is a French film director."
-    },
-    "Quentin Dupieux": {
-      "lbxd_slug": "quentin-dupieux",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Quentin_Dupieux_at_2026_Cannes_Film_Festival_01.jpg/500px-Quentin_Dupieux_at_2026_Cannes_Film_Festival_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Quentin Dupieux (French: [kɑ̃tɛ̃ dypjø]; born 14 April 1974), also known by his musical stage name Mr. Oizo (French: [wazo]), is a French electronic musician, record producer, songwriter, and filmmaker. Dupieux is credited with his legal name for his films, while the stage name  \"Mr."
-    },
-    "Agnès Varda": {
-      "lbxd_slug": "agnes-varda",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
-    },
-    "Melisa Godet": {
-      "lbxd_slug": "melisa-godet",
-      "photo": null,
-      "bio": null
-    },
-    "Rafiki Fariala": {
-      "lbxd_slug": "rafiki-fariala",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Director_Rafiki_Fariala_at_the_79th_Locarno_Film_Festival_01.jpg/500px-Director_Rafiki_Fariala_at_the_79th_Locarno_Film_Festival_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Rafiki Fariala (born 1997) is a Congolese film director."
-    },
-    "Félix de Givry": {
-      "lbxd_slug": "felix-de-givry",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/F%C3%A9lix_de_Givry_2015.jpg/500px-F%C3%A9lix_de_Givry_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": "French actor and entrepreneur"
-    },
-    "Julien Gaspar-Oliveri": {
-      "lbxd_slug": "julien-gaspar-oliveri",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Photo_julien_oliveri.jpg/500px-Photo_julien_oliveri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": null
-    },
-    "Georges Bourdelon": {
-      "lbxd_slug": "marjane-satrapi",
-      "photo": null,
-      "bio": null
-    },
-    "Jean-Gabriel Périot": {
-      "lbxd_slug": "jean-gabriel-periot",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jean-Gabriel_P%C3%A9riot.tif/lossy-page1-500px-Jean-Gabriel_P%C3%A9riot.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Jean-Gabriel Périot is a French filmmaker."
-    },
-    "Judith Godrèche": {
-      "lbxd_slug": "judith-godreche",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Judith_Godr%C3%A8che_2007.jpg/500px-Judith_Godr%C3%A8che_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Judith Godrèche (French pronunciation: [ʒydit ɡɔdʁɛʃ]; born 23 March 1972 in Paris) is a French actress, author and feminist activist, who has appeared in more than 30 films."
-    },
-    "Claude Nuridsany, Marie Pérennou": {
-      "lbxd_slug": "claude-nuridsany",
-      "photo": null,
-      "bio": null
-    },
-    "Ugo Bienvenu": {
-      "lbxd_slug": "ugo-bienvenu",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ugo_Bienvenu.jpg/500px-Ugo_Bienvenu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": "Arco is a 2025 French animated science fantasy film co-produced and directed by Ugo Bienvenu in his feature film directorial debut, who co-wrote it with Félix de Givry. It stars Swann Arlaud, Alma Jodorowsky, Margot Ringard Oldra, Oscar Tresanini, Vincent Macaigne, Louis Garrel, William Lebghil, and Oxmo Puccino. The film had its world premiere in the Special Screenings section of the 2025 Cannes Film Festival on 16 May, followed by a theatrical release in France on 22 October by Diaphana Distribution."
-    },
-    "Inês Delgado, Ricardo Machado": {
-      "lbxd_slug": "francois-ozon",
-      "photo": null,
-      "bio": null
-    },
-    "Henrique Cannavial": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "Martin Scorsese": {
       "lbxd_slug": "martin-scorsese",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Martin_Scorsese-68749.jpg/500px-Martin_Scorsese-68749.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -7632,6 +6756,16 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Roger_Vadim_-_still.jpg/500px-Roger_Vadim_-_still.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Roger Vadim Plemiannikov (French: [ʁɔʒe vadim]; 26 January 1928 – 11 February 2000) was a French screenwriter, film director, and producer, as well as an author, artist, and occasional actor. His best-known works are visually lavish films with erotic qualities, such as And God Created Woman (1956), Blood and Roses (1960), The Game Is Over (1966), Barbarella (1968), and Pretty Maids All in a Row (1971)."
     },
+    "Sidney Lumet": {
+      "lbxd_slug": "sidney-lumet",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sidney_Lumet_1970.jpg/500px-Sidney_Lumet_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Sidney Arthur Lumet ( loo-MET; June 25, 1924 – April 9, 2011) was an American film director. Lumet started his career in theatre before moving to directing television in 1950, and then directing films from 1957, where he gained a reputation for making realistic and gritty New York dramas that focused on the working class, tackled social injustices, and often questioned authority. He received various accolades including an Academy Honorary Award and a Golden Globe Award as well as nominations for nine British Academy Film Awards and a Primetime Emmy Award."
+    },
+    "Marguerite de Hillerin, Félix Dutilloy-Liégeois": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Henry Koster": {
       "lbxd_slug": "henry-koster-1",
       "photo": null,
@@ -7641,6 +6775,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "noemia-delgado",
       "photo": null,
       "bio": "Noémia Delgado (7 June 1933 – 2 March 2016) was a Portuguese television and film screenwriter, film editor and director."
+    },
+    "Sharunas Bartas": {
+      "lbxd_slug": "sarunas-bartas",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg/500px-OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Šarūnas Bartas (born 16 August 1964) is a Lithuanian film director. He is one of the most prominent Lithuanian film directors internationally from the late 20th century. His 2015 film Peace to Us in Our Dreams was screened in the Directors' Fortnight section at the 2015 Cannes Film Festival."
     },
     "Michael Hegner e Karsten Kiilerich": {
       "lbxd_slug": "michael-hegner",
@@ -7652,10 +6791,20 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Mário Barroso": {
+      "lbxd_slug": "mario-barroso",
+      "photo": null,
+      "bio": "Mário Barroso (born 15 August 1947) is a Portuguese film director, actor and cinematographer born in Lisbon."
+    },
     "Christian-Jaque": {
       "lbxd_slug": "christian-jaque",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Christian-Jaque-1954-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Christian-Jaque (byname of Christian Maudet; 4 September 1904  – 8 July 1994) was a French filmmaker. From 1954 to 1959, he was married to actress Martine Carol, who starred in several of his films, including Lucrèce Borgia (1953), Madame du Barry (1954), and Nana (1955). In 1961 he married Laurence Christol [1]\nChristian-Jaque's 1946 film A Lover's Return was entered into the 1946 Cannes Film Festival."
+    },
+    "Jacques Doillon": {
+      "lbxd_slug": "jacques-doillon",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jacques_Doillon_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Jacques Doillon (French: [dwajɔ̃]; born 15 March 1944) is a French film director and screenwriter."
     },
     "Louis Malle": {
       "lbxd_slug": "louis-malle-2",
@@ -7677,20 +6826,70 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/HGClouzot-1947-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Henri-Georges Clouzot (French: [ɑ̃ʁi ʒɔʁʒ kluzo]; 20 November 1907 – 12 January 1977) was a French film director, screenwriter, and producer. He is best remembered for his work in the thriller film genre, having directed The Wages of Fear (1953) and Les Diaboliques (1955), which are critically recognized as among the greatest films of the 1950s. He also directed documentary films, including The Mystery of Picasso (1956), which was declared a national treasure by the government of France."
     },
+    "Patricia Plattner": {
+      "lbxd_slug": "patricia-plattner-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Patricia_Plattner_%281994%29_by_Erling_Mandelmann_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Patricia Plattner (22 January 1953, in Geneva – 5 September 2016) was a Swiss filmmaker. Between 1986 and 2009 she directed fourteen films. She was awarded a Prix UBS at the Solothurn Film Festival in 2000."
+    },
+    "Alain Tanner": {
+      "lbxd_slug": "alain-tanner",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alain_Tanner_r%C3%A9pondant_%C3%A0_Andr%C3%A9_S._Labarthe_%C3%A0_la_Cin%C3%A9math%C3%A8que_fran%C3%A7aise.JPG/500px-Alain_Tanner_r%C3%A9pondant_%C3%A0_Andr%C3%A9_S._Labarthe_%C3%A0_la_Cin%C3%A9math%C3%A8que_fran%C3%A7aise.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Alain Tanner (6 December 1929 – 11 September 2022) was a Swiss film director."
+    },
     "Tim Burton": {
       "lbxd_slug": "tim-burton",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tim_Burton-63605.jpg/500px-Tim_Burton-63605.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Timothy Walter Burton (born August 25, 1958) is an American filmmaker, and former animator. He is known for pioneering goth subculture in Hollywood, with his films employing a distinctive style that blends gothic horror and dark fantasy aesthetics with whimsical and surreal elements. He has received numerous accolades, including one Emmy Award and nominations for two Academy Awards, a Golden Globe Award, and three BAFTA Awards."
+    },
+    "Mauritz Stiller": {
+      "lbxd_slug": "mauritz-stiller",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mauritz_Stiller_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Mauritz Stiller (born Moshe Stiller, 17 July 1883 – 8 November 1928) was a Swedish-Finnish film director of Jewish origin, best known for discovering Greta Garbo and bringing her to America. Stiller was a pioneer of the Swedish film industry, writing and directing many short films from 1912. When Metro-Goldwyn-Mayer invited him to Hollywood as a director, he arrived with his new discovery Greta Gustafsson, whose screen name Greta Garbo is believed to have been his suggestion."
     },
     "Edward Dmytryk": {
       "lbxd_slug": "edward-dmytryk",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Edward_Dmytryk_in_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Edward Dmytryk (September 4, 1908 – July 1, 1999) was a Canadian-born American film director and editor. He was known for his 1940s noir films and received an Oscar nomination for Best Director for Crossfire (1947). In 1947, he was named as one of the Hollywood Ten, a group of blacklisted film industry professionals who refused to testify to the House Un-American Activities Committee (HUAC) in their investigations during the Red Scare of the McCarthy era."
     },
+    "Nino Oxilia": {
+      "lbxd_slug": "nino-oxilia",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Oxilia-n---foto-1914.jpg/500px-Oxilia-n---foto-1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Nino Oxilia (13 November 1889 – 18 November 1917) was an Italian playwright, screenwriter and film director. His 1911 play Goodbye Youth, written with Sandro Camasio, was turned into several films. He also wrote the first lyrics for the song \"Giovinezza\" in 1909."
+    },
+    "Manoel de Oliveira": {
+      "lbxd_slug": "manoel-de-oliveira",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
+    },
+    "Marc Forster": {
+      "lbxd_slug": "marc-forster",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Marc_Forster_Cannes_2013.jpg/500px-Marc_Forster_Cannes_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Marc Forster (born 30 November 1969) is a German-Swiss filmmaker. He is best known for directing the feature films Monster's Ball, Finding Neverland, Stranger than Fiction, Quantum of Solace, World War Z, and Christopher Robin, and has additionally directed numerous television commercials. He is a BAFTA, Golden Globe, and Independent Spirit Award nominee."
+    },
+    "Jean-Claude Biette": {
+      "lbxd_slug": "jean-claude-biette",
+      "photo": null,
+      "bio": "French film critic (1942-2003)"
+    },
     "Jacques Rozier": {
       "lbxd_slug": "jacques-rozier-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jacques_Rozier_2.jpg/500px-Jacques_Rozier_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Jacques Rozier (French: [ʒak ʁozje]; 10 November 1926 – 31 May 2023) was a French film director and screenwriter. He was one of the lesser-known members of the French New Wave movement and has collaborated with Jean-Luc Godard. Three of his films have been screened at the Cannes Film Festival."
+    },
+    "Jean-Luc Godard": {
+      "lbxd_slug": "jean-luc-godard-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg/500px-Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
+      "bio": "Jean-Luc Godard (UK:  GOD-ar, US:  goh-DAR; French: [ʒɑ̃ lyk ɡɔdaʁ]; 3 December 1930 – 13 September 2022) was a French and Swiss film director, screenwriter, and film critic. He rose to prominence as a pioneer of the French New Wave film movement of the 1960s, alongside such filmmakers as François Truffaut, Agnès Varda, Éric Rohmer and Jacques Demy. He was arguably the most influential French filmmaker of the post-war era."
+    },
+    "Noémia Delgado (não creditada)": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Paulo Rocha": {
+      "lbxd_slug": "paulo-rocha-1",
+      "photo": null,
+      "bio": "Paulo Rocha may refer to:"
     },
     "Pedro Almodóvar": {
       "lbxd_slug": "pedro-almodovar",
@@ -7702,6 +6901,16 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg/500px-JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Jane Flannery Schoenbrun (; born February 5, 1987) is an American filmmaker. They are known for directing the films We're All Going to the World's Fair (2021), I Saw the TV Glow (2024), and Teenage Sex and Death at Camp Miasma (2026)."
     },
+    "John Ford": {
+      "lbxd_slug": "john-ford-2",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952)."
+    },
+    "Francis Ford Coppola": {
+      "lbxd_slug": "francis-ford-coppola",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
+      "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
+    },
     "Michael Haneke": {
       "lbxd_slug": "michael-haneke",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -7712,20 +6921,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/500px-Luchino_Visconti_1972b.jpg",
       "bio": "Luchino Visconti di Modrone, Count of Lonate Pozzolo (Italian: [luˈkiːno viˈskonti di moˈdroːne]; 2 November 1906 – 17 March 1976) was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”\nBorn into a Milanese noble family with close ties to the artistic world, Visconti began his career in France as an assistant director to Jean Renoir."
     },
-    "Otto Preminger": {
-      "lbxd_slug": "otto-preminger",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
-      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
+    "Agnès Varda": {
+      "lbxd_slug": "agnes-varda",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg/500px-Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Agnès Varda (born Arlette Varda; 30 May 1928 – 29 March 2019) was a Belgian-born French filmmaker, artist, and photographer. Varda's work employed location shooting in an era when the limitations of sound technology made it easier and more common to film indoors, with constructed sets and painted backdrops of landscapes, rather than outdoors, on location. Her use of non-professional actors was also unconventional for 1950s French cinema."
     },
-    "John Ford": {
-      "lbxd_slug": "john-ford-2",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "John Martin Feeney (February 1, 1894 – August 31, 1973), better known as John Ford, was an American film director and producer. He is regarded as one of the most important and influential filmmakers during the Golden Age of Hollywood, and was one of the first American directors to be recognized as an auteur. In a career of more than 50 years, he directed over 130 films between 1917 and 1970 (although most of his silent films are now lost), and received a record four Academy Awards for Best Director for The Informer (1935), The Grapes of Wrath (1940), How Green Was My Valley (1941), and The Quiet Man (1952)."
-    },
-    "Francis Ford Coppola": {
-      "lbxd_slug": "francis-ford-coppola",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
-      "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
+    "Yuval Abraham, Rachel Szor": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
     },
     "Wim Wenders": {
       "lbxd_slug": "wim-wenders",
@@ -7737,45 +6941,40 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Syberberg_ister.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Hans-Jürgen Syberberg (German: [ˈhans ˈjʏʁɡn̩ ˈzyːbɐbɛʁk]; born 8 December 1935) is a German film director, whose best known film is his lengthy feature Hitler: A Film from Germany."
     },
-    "David Cronenberg": {
-      "lbxd_slug": "david-cronenberg",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/David_Cronenberg.jpg/500px-David_Cronenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "David Paul Cronenberg (born March 15, 1943) is a Canadian film director, screenwriter, producer and actor. He is a principal originator of the body horror genre, with his films exploring visceral bodily transformation, infectious diseases, and the intertwining of the psychological, physical, and technological. Cronenberg is best known for exploring these themes through sci-fi horror films such as Shivers (1975), Scanners (1981), Videodrome (1983) and The Fly (1986), though he has also directed dramas, psychological thrillers and gangster films."
+    "Maria Speth": {
+      "lbxd_slug": "maria-speth",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Oliver_Mark_-_Maria_Speth%2C_Berlin_2002.jpg/500px-Oliver_Mark_-_Maria_Speth%2C_Berlin_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "German film director and screenwriter"
     },
     "John M. Stahl": {
       "lbxd_slug": "john-m-stahl",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/John_M_Stahl_-_Dec_1920_EH.jpg/500px-John_M_Stahl_-_Dec_1920_EH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "John Malcolm Stahl (January 21, 1886 – January 12, 1950, born Jacob Morris Strelitsky) was a Russian-born American film director and producer. He is best known for his films such as Leave Her to Heaven (1945), Imitation of Life (1934), The Keys of the Kingdom (1944), and Back Street (1932)."
     },
-    "Maria Speth": {
-      "lbxd_slug": "maria-speth",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Oliver_Mark_-_Maria_Speth%2C_Berlin_2002.jpg/500px-Oliver_Mark_-_Maria_Speth%2C_Berlin_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": "German film director and screenwriter"
+    "David Cronenberg": {
+      "lbxd_slug": "david-cronenberg",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/David_Cronenberg.jpg/500px-David_Cronenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "David Paul Cronenberg (born March 15, 1943) is a Canadian film director, screenwriter, producer and actor. He is a principal originator of the body horror genre, with his films exploring visceral bodily transformation, infectious diseases, and the intertwining of the psychological, physical, and technological. Cronenberg is best known for exploring these themes through sci-fi horror films such as Shivers (1975), Scanners (1981), Videodrome (1983) and The Fly (1986), though he has also directed dramas, psychological thrillers and gangster films."
     },
     "Valeska Grisebach": {
       "lbxd_slug": "valeska-grisebach",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Valeska_Grisebach_at_Berlinale_2023.jpg/500px-Valeska_Grisebach_at_Berlinale_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Valeska Grisebach (born 4 January 1968) is a German film director. She was born in Bremen. She is considered part of the Berlin School of filmmaking, and is most known for her drama films Western (2017) and The Dreamed Adventure (2026)."
     },
-    "Ildikó Enyedi": {
-      "lbxd_slug": "ildiko-enyedi",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
-    },
     "Wolfgang Becker": {
       "lbxd_slug": "wolfgang-becker-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MJK_71083_Wolfgang_Becker_%28arte-Empfang%2C_Berlinale_2020%29.jpg/500px-MJK_71083_Wolfgang_Becker_%28arte-Empfang%2C_Berlinale_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "Wolfgang Becker may refer to:"
     },
-    "Roy Andersson": {
-      "lbxd_slug": "roy-andersson",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roy_Andersson_in_Aug_2014-3.jpg/500px-Roy_Andersson_in_Aug_2014-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Roy Arne Lennart Andersson (born 31 March 1943) is a Swedish film director, best known for his distinctive style of absurdist humor and melancholic depictions of human life. His personal style is characterized by long takes, and stiff caricaturing of Swedish culture and grotesque. Over his career Andersson earned prizes from the Cannes Film Festival, Berlin International Film Festival and Venice International Film Festival."
+    "Ildikó Enyedi": {
+      "lbxd_slug": "ildiko-enyedi",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
     },
-    "Yuval Abraham & Rachel Szor": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
+    "Otto Preminger": {
+      "lbxd_slug": "otto-preminger",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Otto_Preminger_Allan_Warren.jpg/500px-Otto_Preminger_Allan_Warren.jpg",
+      "bio": "Otto Ludwig Preminger ( PREM-in-jər; German: [ˈɔtoː ˈpreːmɪŋɐ] ; 5 December 1905 – 23 April 1986) was an Austrian-American film and theatre director, film producer and actor. He directed more than 35 feature films in a five-decade career after leaving the theatre, and was one of the most influential directors in Hollywood during the 1940s and 1950s. He was nominated for three Academy Awards, twice for Best Director and once for Best Picture, among many other accolades."
     },
     "Ratchapoom Boonbunchachoke": {
       "lbxd_slug": "ratchapoom-boonbunchachoke",
@@ -7786,6 +6985,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "ilker-catak",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ilker_%C3%87atak_Max-Oph%C3%BCls-Preis_2015.jpg/500px-Ilker_%C3%87atak_Max-Oph%C3%BCls-Preis_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "German film director, screenwriter and film producer"
+    },
+    "Roy Andersson": {
+      "lbxd_slug": "roy-andersson",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roy_Andersson_in_Aug_2014-3.jpg/500px-Roy_Andersson_in_Aug_2014-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Roy Arne Lennart Andersson (born 31 March 1943) is a Swedish film director, best known for his distinctive style of absurdist humor and melancholic depictions of human life. His personal style is characterized by long takes, and stiff caricaturing of Swedish culture and grotesque. Over his career Andersson earned prizes from the Cannes Film Festival, Berlin International Film Festival and Venice International Film Festival."
     },
     "Lance Oppenheim": {
       "lbxd_slug": "lance-oppenheim",
@@ -7937,11 +7141,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Manoel de Oliveira": {
-      "lbxd_slug": "manoel-de-oliveira",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
-    },
     "Karrabing Film Collective": {
       "lbxd_slug": null,
       "photo": null,
@@ -8052,11 +7251,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Liliane de Kermadec (6 October 1928 – 13 February 2020) was a Polish-French film director and screenwriter. She directed more than twenty films and documentaries between 1965 and 2016."
     },
-    "Paulo Rocha": {
-      "lbxd_slug": "paulo-rocha-1",
-      "photo": null,
-      "bio": "Paulo Rocha may refer to:"
-    },
     "Michael Powell e Emeric Pressburger": {
       "lbxd_slug": "emeric-pressburger",
       "photo": null,
@@ -8097,16 +7291,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "film director"
     },
-    "Olivia Wilde": {
-      "lbxd_slug": "olivia-wilde",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg/500px-Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Olivia Jane Cockburn (born March 10, 1984), known professionally as Olivia Wilde, is an American actress and filmmaker. She played Remy \"Thirteen\" Hadley on the medical-drama television series House (2007–2012), and appeared in the action films Tron: Legacy (2010) and Cowboys & Aliens (2011), the romantic drama film Her (2013), the comedy film The Incredible Burt Wonderstone (2013), and the horror film The Lazarus Effect (2015). She made her Broadway debut playing Julia in 1984 (2017)."
-    },
-    "Karim Aïnouz": {
-      "lbxd_slug": "karim-ainouz-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg/500px-Director_Karim_Anouz_at_2024_Cannes_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Karim Aïnouz (; Portuguese: [kɐˈɾĩ ajˈnus]; born 17 January 1966) is a Brazilian film director and visual artist. He is best known for his film The Invisible Life of Eurídice Gusmão."
-    },
     "Rodrigo Areias, Aaron Brookner": {
       "lbxd_slug": "rodrigo-areias",
       "photo": null,
@@ -8121,6 +7305,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "alejandro-g-inarritu",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg/500px-MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Alejandro González Iñárritu (born 15 August 1963) is a Mexican filmmaker. He is primarily known for making modern psychological drama films about the human condition. His most notable films include Amores perros (2000), 21 Grams (2003), Babel (2006), Biutiful (2010), Birdman (2014), The Revenant (2015), and Bardo (2022)."
+    },
+    "Olivia Wilde": {
+      "lbxd_slug": "olivia-wilde",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg/500px-Olivia_Wilde_at_the_2026_Sundance_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Olivia Jane Cockburn (born March 10, 1984), known professionally as Olivia Wilde, is an American actress and filmmaker. She played Remy \"Thirteen\" Hadley on the medical-drama television series House (2007–2012), and appeared in the action films Tron: Legacy (2010) and Cowboys & Aliens (2011), the romantic drama film Her (2013), the comedy film The Incredible Burt Wonderstone (2013), and the horror film The Lazarus Effect (2015). She made her Broadway debut playing Julia in 1984 (2017)."
     },
     "Rita Azevedo Gomes": {
       "lbxd_slug": "rita-azevedo-gomes",
@@ -8151,16 +7340,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "mikhail-kalatozov",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg/500px-Mikhail_Kalatozov_PSE_Russia_2003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Mikhail Konstantinovich Kalatozov (Georgian: მიხეილ კალატოზიშვილი, Russian: Михаил Константинович Калатозов; 28 December 1903 – 26 March 1973), born Mikheil Kalatozishvili, was a Soviet film director of Georgian origin who contributed to both Georgian and Russian cinema. He is known for his films The Cranes Are Flying and I Am Cuba, winning the Palme d'Or for the former at the 1958 Cannes Film Festival."
-    },
-    "Jacques Deray": {
-      "lbxd_slug": "jacques-deray",
-      "photo": null,
-      "bio": "Jacques Deray (born Jacques Desrayaud, 19 February 1929 – 9 August 2003) was a French film director and screenwriter. Deray is prominently known for directing many crime and thriller films."
-    },
-    "Listen, Think, Write": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
     },
     "Rimini Protokoll / Théâtre Vidy-Lausanne / Les Praticables": {
       "lbxd_slug": null,
