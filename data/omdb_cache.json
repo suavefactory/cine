@@ -43418,7 +43418,7 @@
     "stills_focus": [
       30.9,
       29.3,
-      30.1
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/yA2fl30o2FkaGItuggq6eRhRZFp.jpg",
@@ -43483,7 +43483,7 @@
     "tmdb_id": "460646",
     "wiki_tries": 3,
     "stills_focus": [
-      37.2
+      37.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5XjT5CB2s9apFx4B9HzbwaZA5pM.jpg"
@@ -43675,7 +43675,7 @@
     "tmdb_id": "295039",
     "wiki_tries": 3,
     "stills_focus": [
-      51.4
+      50.9
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/ft0BS6OSc6rMR6RmchFAWAqkJRg.jpg"
@@ -74414,7 +74414,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Garbo Talks",
+      "imdb_id": "tt0087313",
+      "extract_pt": "Garbo Talks (br: Fala Greta Garbo — pt: Greta Garbo Fala) é um filme estadunidense de 1984, um drama com roteiro de Larry Grusin e dirigido por Sidney Lumet. O título foi retirado de um slogan do primeiro filme sonoro (1930) da atriz e estrela do cinema mudo Greta Garbo, quando sua voz foi ouvida em uma película pela primeira vez, pelo público. O filme explora o fato de Greta Garbo, depois de ter deixado o cinema ainda como estrela, tornar-se totalmente reclusa, a evitar qualquer contato com o público e a mídia."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -74429,7 +74433,8 @@
       "https://image.tmdb.org/t/p/w1280/w0KUARVuBxCuMUwuWPDaTUV08QN.jpg",
       "https://image.tmdb.org/t/p/w1280/fBjI2Qd2i46bI9RZp3oBh8Y72Zz.jpg"
     ],
-    "tmdb_id": "105404"
+    "tmdb_id": "105404",
+    "wiki_tries": 1
   },
   "L’Enfant|2022": {
     "lbxd": null,
@@ -74491,7 +74496,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Dear Brigitte",
+      "imdb_id": "tt0059094",
+      "extract_pt": "Dear Brigitte é um filme estadunidense de 1965, do gênero comédia, dirigido por Henry Koster, estrelado por James Stewart e com participação de Brigitte Bardot."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -74506,7 +74515,8 @@
       "https://image.tmdb.org/t/p/w1280/1S0nrW8RDqESoUtncSiuQsD6Izy.jpg",
       "https://image.tmdb.org/t/p/w1280/8EEROpFRVIR09TXRJILop18JjhS.jpg"
     ],
-    "tmdb_id": "42734"
+    "tmdb_id": "42734",
+    "wiki_tries": 1
   },
   "Máscaras|1976": {
     "lbxd": {
@@ -74636,7 +74646,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2Rf9I9RVkmeneB1M4Cl7Y4N9gDC.jpg"
     ],
-    "tmdb_id": "32708"
+    "tmdb_id": "32708",
+    "wiki_tries": 1
   },
   "Spécial Bardot|1968": {
     "lbxd": {
@@ -74744,7 +74755,8 @@
       "https://image.tmdb.org/t/p/w1280/kby31SNr2F8IkKGD1N9P7IO3GmG.jpg",
       "https://image.tmdb.org/t/p/w1280/xEUTbLGtwbJ9clOXabdS9wfiilR.jpg"
     ],
-    "tmdb_id": "692840"
+    "tmdb_id": "692840",
+    "wiki_tries": 1
   },
   "Les Pétroleuses|1971": {
     "lbxd": {
@@ -74780,7 +74792,8 @@
       "https://image.tmdb.org/t/p/w1280/sDqGsKHvadHHQgkrMz4W998ssea.jpg",
       "https://image.tmdb.org/t/p/w1280/gPwq8iwvpNDF1Y0B0xuP8SSq0j1.jpg"
     ],
-    "tmdb_id": "64345"
+    "tmdb_id": "64345",
+    "wiki_tries": 1
   },
   "O Ladrão Do Pão + A Princesinha Das Rosas|None": {
     "lbxd": null,
@@ -74817,14 +74830,15 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.2,
-      31.9
+      28.8,
+      32.0
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/5s17ObZeNvqacLsw9DVFmT4UzD7.jpg",
       "https://image.tmdb.org/t/p/w1280/wKzduDW33BkZeT6lc1L90w8lBPm.jpg"
     ],
-    "tmdb_id": "66916"
+    "tmdb_id": "66916",
+    "wiki_tries": 1
   },
   "Le Mariage À Trois|2009": {
     "lbxd": {
@@ -74923,7 +74937,8 @@
       "https://image.tmdb.org/t/p/w1280/pY647BmyyM3EhBXnPmKTTUu66EW.jpg",
       "https://image.tmdb.org/t/p/w1280/3EyIib3YHs6NBT0OlGA3n9be85Z.jpg"
     ],
-    "tmdb_id": "11799"
+    "tmdb_id": "11799",
+    "wiki_tries": 1
   },
   "O Visconde + Tiaga Ou A Reencarnação Deliciosa|None": {
     "lbxd": null,
@@ -74994,7 +75009,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "A Simple Favor (film)",
+      "imdb_id": "tt7040874",
+      "extract_pt": "A Simple Favor (bra/prt: Um Pequeno Favor) é um filme norte-americano de thriller de mistério dirigido por Paul Feig e escrito por Jessica Sharzer. Baseado no livro homônimo de Darcey Bell, o filme é estrelado por Anna Kendrick e Blake Lively e segue uma blogueira de uma cidade pequena que tenta resolver o desaparecimento misterioso de sua amiga rica. Foi lançado nos Estados Unidos em 14 de setembro de 2018, pela Lionsgate. O filme recebeu críticas favoráveis dos críticos, com elogios para as reviravoltas e atuações de Kendrick e Lively."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75009,7 +75028,8 @@
       "https://image.tmdb.org/t/p/w1280/nb1s8r6MhDcPyMjx3sjw9rFsEP5.jpg",
       "https://image.tmdb.org/t/p/w1280/l3XRHXsX14cs3mAlHygaUFDFPIQ.jpg"
     ],
-    "tmdb_id": "484247"
+    "tmdb_id": "484247",
+    "wiki_tries": 1
   },
   "La Femme Et Le Pantin|1958": {
     "lbxd": {
@@ -75076,7 +75096,8 @@
       "https://image.tmdb.org/t/p/w1280/pGveJ5C8o3GQlm92O9stti9dp83.jpg",
       "https://image.tmdb.org/t/p/w1280/u3YVXyOID03Ter5nDfINfjoi9wE.jpg"
     ],
-    "tmdb_id": "57669"
+    "tmdb_id": "57669",
+    "wiki_tries": 1
   },
   "O Defunto + O Canto Da Sereia|None": {
     "lbxd": null,
@@ -75107,7 +75128,11 @@
       "tmdb_id": "61711"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "La Vérité (film)",
+      "imdb_id": "tt0054452",
+      "extract_pt": "La Vérité (bra A Verdade) é um filme franco-italiano de 1960, do gênero drama, dirigido por Henri-Georges Clouzot e estrelado por Brigitte Bardot."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75122,7 +75147,8 @@
       "https://image.tmdb.org/t/p/w1280/bLTGKsEeIB5hraJ6pfwraSGEMfz.jpg",
       "https://image.tmdb.org/t/p/w1280/fIelkQhtZXmo3LV0ik1PZOQkarR.jpg"
     ],
-    "tmdb_id": "61711"
+    "tmdb_id": "61711",
+    "wiki_tries": 1
   },
   "Bazar|2009": {
     "lbxd": {
@@ -75319,7 +75345,8 @@
       "https://image.tmdb.org/t/p/w1280/owMTfTKM2j9Lt0Myydmsi4Mhb4O.jpg",
       "https://image.tmdb.org/t/p/w1280/xDLqhDNYzP2IxLQprysAkAspqt0.jpg"
     ],
-    "tmdb_id": "82576"
+    "tmdb_id": "82576",
+    "wiki_tries": 1
   },
   "Ensaio No Moinho +Sol E Sombra + “Filme Do Comício De Faro – Luar”|None": {
     "lbxd": null,
@@ -75388,7 +75415,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Shalako (film)",
+      "imdb_id": "tt0063592",
+      "extract_pt": "Shalako é um filme britânico de faroeste, dirigido por Edward Dmytryk, roteirizado por J.J. Griffith, Hal Hopper e Scott Finch, baseado no livro de Louis L'Amour. E estrelado por Sean Connery e Brigitte Bardot.\nProduzido em 1968, o filme causou sensação na mídia durante sua produção, por reunir no mesmo elenco a sex symbol da era, Bardot, com Sean Connery, então no auge da popularidade dos filmes de James Bond. Uma bond girl, Honor Blackman, também integra o elenco."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75403,7 +75434,8 @@
       "https://image.tmdb.org/t/p/w1280/1ahIqR9JoIFK7P5UB17Q40jSrv5.jpg",
       "https://image.tmdb.org/t/p/w1280/lHxToOFBVEfXXpmRs9EGZQWQVFj.jpg"
     ],
-    "tmdb_id": "39209"
+    "tmdb_id": "39209",
+    "wiki_tries": 1
   },
   "Rapsodia Satanica|1917": {
     "lbxd": {
@@ -75442,7 +75474,8 @@
       "https://image.tmdb.org/t/p/w1280/o5WVLT28gH0oAgICTKoGvMkVBjS.jpg",
       "https://image.tmdb.org/t/p/w1280/jS2pDU71wVG7f86ts9p8vpjFPw.jpg"
     ],
-    "tmdb_id": "135551"
+    "tmdb_id": "135551",
+    "wiki_tries": 1
   },
   "Francisca|1981": {
     "lbxd": {
@@ -75493,7 +75526,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "O cinema, Manoel de Oliveira e eu é um documentário biográfico português de 2016 realizado e narrado por João Botelho. O filme apresenta-se como uma homenagem a Manoel de Oliveira, focando-se em particular no seu método de realizar filmes, nas aprendizagens de João Botelho e no legado do seu estilo no cinema nacional e mundial. Utilizando uma estrutura de filme dentro de um filme, O cinema, Manoel de Oliveira e eu contém ainda a curta-metragem de ficção intitulada \"A rapariga das luvas”, uma obra que havia sido imaginada por Oliveira e que nunca tinha sido realizada.\nO documentário fez parte da programação do 13º Festival IndieLisboa, fora de competição, onde foi apresentado a 24 de abril de 2016, um ano após o falecimento de Manoel de Oliveira."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75508,7 +75545,8 @@
       "https://image.tmdb.org/t/p/w1280/pv0qaBJYs77tHf0IX2tDuGaXsbW.jpg",
       "https://image.tmdb.org/t/p/w1280/zYtoyQ3YxrkNhFggyhDszwkIZm5.jpg"
     ],
-    "tmdb_id": "110789"
+    "tmdb_id": "110789",
+    "wiki_tries": 1
   },
   "Finding Neverland|2004": {
     "lbxd": {
@@ -75568,7 +75606,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Finding Neverland (film)",
+      "imdb_id": "tt0308644",
+      "extract_pt": "Finding Neverland (bra: Em Busca da Terra do Nunca; prt: À Procura da Terra do Nunca) é um filme britano-estadunidense de 2004, dos gêneros fantasia e dramabiográfico dirigido por Marc Forster. Seu roteiro é de David Magee baseado em peça teatral de Allan Knee."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75583,7 +75625,8 @@
       "https://image.tmdb.org/t/p/w1280/6DdQDPNz5yB8LwO1GRUKhMhycJe.jpg",
       "https://image.tmdb.org/t/p/w1280/sBsnLIrB0UdB7gBdmw5iJ9L1ltK.jpg"
     ],
-    "tmdb_id": "866"
+    "tmdb_id": "866",
+    "wiki_tries": 1
   },
   "Loin De Manhattan|1980": {
     "lbxd": {
@@ -75760,7 +75803,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Contempt (film)",
+      "imdb_id": "tt0057345",
+      "extract_pt": "O Desprezo é um filme franco-italiano de 1963, do gênero drama, dirigido por Jean-Luc Godard, com roteiro inspirado na novela Il Disprezzo, do escritor Alberto Moravia e estrelado por Brigitte Bardot.\nAclamado pela crítica e considerado um dos melhores filmes de Godard e da nouvelle vague, o filme foi produzido por Carlo Ponti. O cineasta alemão Fritz Lang tem uma participação especial como ele mesmo.\nNo Brasil, voltou a ser exibido nos cinemas em novembro de 2023 após entrar na programação do Festival Varilux."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75775,7 +75822,8 @@
       "https://image.tmdb.org/t/p/w1280/65VvjEscRHZNCCg63GmRfGU66v9.jpg",
       "https://image.tmdb.org/t/p/w1280/e7uHIsjDZREm7fINopx315KBGei.jpg"
     ],
-    "tmdb_id": "266"
+    "tmdb_id": "266",
+    "wiki_tries": 1
   },
   "Paparazzi|1963": {
     "lbxd": {
@@ -76183,7 +76231,8 @@
       "https://image.tmdb.org/t/p/w1280/5k1DoJ71pWD5ydzRGliDyTnKqxt.jpg",
       "https://image.tmdb.org/t/p/w1280/cg2WvuzI9Z3nsrY3ueooPd7izdJ.jpg"
     ],
-    "tmdb_id": "1375441"
+    "tmdb_id": "1375441",
+    "wiki_tries": 1
   },
   "Giliap|1975": {
     "lbxd": {
@@ -76244,7 +76293,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/q6pL6RcedkFmMoHQ4CzRUQDxhCU.jpg"
     ],
-    "tmdb_id": "91873"
+    "tmdb_id": "91873",
+    "wiki_tries": 1
   },
   "5 Curtas Essenciais|None": {
     "lbxd": null,
@@ -76253,5 +76303,284 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Le Mariage À Trois|2010": {
+    "lbxd": {
+      "rating": 3.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/6/4/8/56648-the-three-way-wedding-0-500-0-750-crop.jpg?v=44c1d8c23f",
+      "description": "When a famous playwright invites the cast of his new play - including his enchanting assistant, his ex-wife and her new lover - to his country estate, a series of seductions and surprising alliances ensue.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Doillon",
+      "lb_director_slug": "jacques-doillon",
+      "lb_year": 2010,
+      "lb_title": "The Three-way Wedding",
+      "backdrop": null,
+      "imdb_id": "tt1532266",
+      "tmdb_id": "72848"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "72848"
+  },
+  "Loin De Manhattan|1982": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/1/9/3619-loin-de-manhattan-0-500-0-750-crop.jpg?v=268643db83",
+      "description": "Christian, an art critic, must write a study on the painter René Dimanche in order to understand why he did not produce anything for eight years. He asks his friend Ingrid to help him break through this mystery.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Claude Biette",
+      "lb_director_slug": "jean-claude-biette",
+      "lb_year": 1982,
+      "lb_title": "Far from Manhattan",
+      "backdrop": null,
+      "imdb_id": "tt0123973",
+      "tmdb_id": "63208"
+    },
+    "omdb": {
+      "Title": "Loin de Manhattan",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "27 Jan 1982",
+      "Runtime": "80 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Jean-Claude Biette",
+      "Writer": "Jean-Claude Biette",
+      "Actors": "Jean-Christophe Bouvet, Sonia Saviange, Howard Vernon",
+      "Plot": "Christian takes his friend Ingrid's help to find out more about René, an artist.",
+      "Language": "N/A",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI3NDlmMzAtYmNkNy00ZTQ4LTk2YTItZWJhMGVkODQyMTU4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "50",
+      "imdbID": "tt0123973",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bQ0qOig5NYrta7UBB3w9K4XL9bc.jpg"
+    ],
+    "tmdb_id": "63208"
+  },
+  "Le Parti Des Choses: Bardot / Godard|1964": {
+    "lbxd": {
+      "rating": 3.33,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/8/1/8/177818-le-parti-des-choses-bardot-et-godard-0-500-0-750-crop.jpg?v=6159914331",
+      "description": "A documentary short following director Jean-Luc Godard on the set of Contempt.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Rozier",
+      "lb_director_slug": "jacques-rozier-1",
+      "lb_year": 1964,
+      "lb_title": "Bardot et Godard",
+      "backdrop": null,
+      "imdb_id": "tt0057871",
+      "tmdb_id": "254019"
+    },
+    "omdb": {
+      "Title": "Le Parti des choses: Bardot et Godard",
+      "Year": "1964",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "10 min",
+      "Genre": "Documentary, Short",
+      "Director": "Jacques Rozier",
+      "Writer": "N/A",
+      "Actors": "Brigitte Bardot, Jean-Luc Godard, Fritz Lang",
+      "Plot": "May 1963: Jean-Luc Godard and his two stars, Brigitte Bardot and Michel Piccoli, arrive on Capri, where they want to shoot scenes for the feature film \"Contempt\".",
+      "Language": "N/A",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdmOGQ3ZDAtNjIwNy00Mjg5LTkyY2YtOTBjZDNlMGY4OWZhXkEyXkFqcGdeQXVyNzU3NjUzNTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "188",
+      "imdbID": "tt0057871",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/tJF4Firwy9oKLU27qJZ6VkVgpRi.jpg"
+    ],
+    "tmdb_id": "254019"
+  },
+  "Paparazzi|1964": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/7/8/1/9/177819-paparazzi-0-500-0-750-crop.jpg?v=01602d7ead",
+      "description": "Paparazzi explores the relationship between Brigitte Bardot and groups of invasive photographers attempting to photograph her while she works on the set of Jean-Luc Godard's film Le Mépris (Contempt). Through video footage of Bardot, interviews with the paparazzi, and still photos of Bardot from magazine covers and elsewhere, director Rozier investigates some of the ramifications of international movie stardom, specifically the loss of privacy to the paparazzi. The film explains the shooting of the film on the island of Capri, and the photographers' valiant, even foolishly dangerous, attempts to get a photograph of Bardot.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Jacques Rozier",
+      "lb_director_slug": "jacques-rozier-1",
+      "lb_year": 1964,
+      "lb_title": "Paparazzi",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/21/7o/l2/zt/21q3384GdqRkPwipR279KIEqQjq-1920-1920-1080-1080-crop-000000.jpg?v=71b3655e3f",
+      "imdb_id": "tt0058448",
+      "tmdb_id": "254018"
+    },
+    "omdb": {
+      "Title": "Paparazzi",
+      "Year": "1964",
+      "Rated": "N/A",
+      "Released": "23 Sep 1964",
+      "Runtime": "18 min",
+      "Genre": "Short",
+      "Director": "Jacques Rozier",
+      "Writer": "Jacques Rozier, Michel Piccoli",
+      "Actors": "Michel Piccoli, Jean Lescot, David Tonelli",
+      "Plot": "Paparazzi explores the relationship between Brigitte Bardot and groups of invasive photographers attempting to photograph her while she works on the set of Jean-Luc Godard's film Le Mépris (Contempt).",
+      "Language": "French, Italian",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYyMzY0MDY5M15BMl5BanBnXkFtZTgwNTU2OTIzMjI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "345",
+      "imdbID": "tt0058448",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.1,
+      43.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3KJScl1cvLsZrazeDWgqRyGMcVL.jpg",
+      "https://image.tmdb.org/t/p/w1280/21q3384GdqRkPwipR279KIEqQjq.jpg"
+    ],
+    "tmdb_id": "254018"
+  },
+  "Vie Privée|1962": {
+    "lbxd": {
+      "rating": 3.13,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/2/2/17322-a-very-private-affair-0-500-0-750-crop.jpg?v=1f6432adb2",
+      "description": "After achieving fame as a movie star, a woman finds her private life invaded by relentless fans, leading her mother’s ex-lover to intervene and offer protection.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Louis Malle",
+      "lb_director_slug": "louis-malle-2",
+      "lb_year": 1962,
+      "lb_title": "A Very Private Affair",
+      "backdrop": null,
+      "imdb_id": "tt0055599",
+      "tmdb_id": "48196"
+    },
+    "omdb": {
+      "Title": "A Very Private Affair",
+      "Year": "1962",
+      "Rated": "N/A",
+      "Released": "28 Sep 1962",
+      "Runtime": "103 min",
+      "Genre": "Drama",
+      "Director": "Louis Malle",
+      "Writer": "Jean-Paul Rappeneau, Louis Malle, Jean Ferry",
+      "Actors": "Brigitte Bardot, Marcello Mastroianni, Nicolas Bataille",
+      "Plot": "When Jill becomes a movie star she soon discovers that her private life is destroyed by persistent fans that won't leave her alone. Her mother's ex-lover, Fabio, tries to protect her.",
+      "Language": "French, Italian",
+      "Country": "France, Italy",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyMGQxMmQtNGU5NS00ODcyLTkyMWItY2Y0MjcwMjY3NDZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "1,292",
+      "imdbID": "tt0055599",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.6,
+      25.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/oEpaiiEK1D6a2peB6kbzFulXaOM.jpg",
+      "https://image.tmdb.org/t/p/w1280/eDki3lbGhM8kmUulkOKeZtRB35V.jpg"
+    ],
+    "tmdb_id": "48196"
   }
 }

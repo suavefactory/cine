@@ -2316,7 +2316,7 @@
   "François Reichenbach, Eddy Matalon": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Christian-Jaque": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Christian-Jaque-1954-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2356,7 +2356,7 @@
   "Marguerite de Hillerin, Félix Dutilloy-Liégeois": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Sharunas Bartas": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg/500px-OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2401,6 +2401,6 @@
   "Noémia Delgado (não creditada)": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   }
 }
