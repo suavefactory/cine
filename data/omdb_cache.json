@@ -9829,13 +9829,20 @@
   },
   "Viridiana|1961": {
     "lbxd": {
-      "rating": 4.1,
+      "rating": 4.05,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/4/49294-viridiana-0-500-0-750-crop.jpg?v=45489590bd",
       "description": "Viridiana is preparing to start her life as a nun when she is sent, somewhat unwillingly, to visit her aging uncle, Don Jaime. He supports her; but the two have met only once. Jaime thinks Viridiana resembles his dead wife. Viridiana has secretly despised this man all her life and finds her worst fears proven when Jaime grows determined to seduce his pure niece. Viridiana becomes undone as her uncle upends the plans she had made to join the convent.",
       "genres": [
         "Drama"
       ],
-      "country": "Spain"
+      "country": "Spain",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1961,
+      "lb_title": "Viridiana",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/kv/0c/kt/u4/viridiana-1920-1920-1080-1080-crop-000000.jpg?v=60919146fa",
+      "imdb_id": "tt0055601",
+      "tmdb_id": "4497"
     },
     "omdb": {
       "Title": "Viridiana",
@@ -9872,7 +9879,28 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Viridiana",
+      "plot_pt": "\"Viridiana provocou em Espanha um escândalo muito considerável, comparável ao de L'Âge d'or. [...] foi imediatamente proibido e o Director Geral da Cinematografia Espanhola era mandado para a reforma antecipada por ter subido ao palco do festival de Cannes para receber [a Palma de Ouro]…\"",
+      "country": "Espanha, México",
+      "genre": "Comédia, Drama",
+      "year": 1961,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.8,
+      38.6,
+      16.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2QGuTuyxwCCER9iwSeONW8BAxce.jpg",
+      "https://image.tmdb.org/t/p/w1280/vRRnLUJpwPyPd8W0GrFpmHBnc9R.jpg",
+      "https://image.tmdb.org/t/p/w1280/AtsBKCxxc2mOWCUGawetaxk1N2L.jpg"
+    ],
+    "tmdb_id": "4497"
   },
   "Valor Sentimental|None": {
     "lbxd": {
@@ -19777,8 +19805,50 @@
     "omdb": null
   },
   "O Espelho|1974": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/4/51064-mirror-0-500-0-750-crop.jpg?v=88898b6c6e",
+      "description": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "USSR",
+      "lb_director": "Andrei Tarkovsky",
+      "lb_director_slug": "andrei-tarkovsky",
+      "lb_year": 1975,
+      "lb_title": "Mirror",
+      "backdrop": null,
+      "imdb_id": "tt0072443",
+      "tmdb_id": "1396"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Zerkalo",
+      "plot_pt": "Um filme sobre memória, reflexão e mistério, que agita o espectador até às profundezas da sua alma. Um homem moribundo aos quarenta anos recorda o passado. A sua infância, a mãe, a Guerra, momentos pessoais, o misticismo do quotidiano e aspectos relacionados com a história da Rússia moderna, que se perdem nas preocupações mundanas do dia-a-dia.",
+      "country": "Rússia",
+      "genre": "Drama",
+      "year": 1974,
+      "director": "Andrei Tarkovsky",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/o-espelho_1.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-espelho_2.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-espelho_3.jpeg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.0,
+      38.2,
+      44.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/eSZZiDs6Y6dIt5BFNi1Sg3vvSVS.jpg",
+      "https://image.tmdb.org/t/p/w1280/fciks3kQnA4ESOlsMgxXF8iEnY8.jpg",
+      "https://image.tmdb.org/t/p/w1280/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg"
+    ],
+    "tmdb_id": "1396"
   },
   "Lavagante|2025": {
     "lbxd": {
@@ -21024,8 +21094,87 @@
     }
   },
   "Simão do Deserto|1965": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/4/4/28044-simon-of-the-desert-0-500-0-750-crop.jpg?v=1a77f581e8",
+      "description": "Simon, a deeply religious man living in the 4th century, wants to be nearer to God so he climbs a column. The Devil wants him come down to Earth and is trying to seduce him.",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1965,
+      "lb_title": "Simon of the Desert",
+      "backdrop": null,
+      "imdb_id": "tt0059719",
+      "tmdb_id": "36265"
+    },
+    "omdb": {
+      "Title": "Simon of the Desert",
+      "Year": "1965",
+      "Rated": "Not Rated",
+      "Released": "09 Feb 1970",
+      "Runtime": "45 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Julio Alejandro",
+      "Actors": "Claudio Brook, Silvia Pinal, Enrique Álvarez Félix",
+      "Plot": "Simon, a deeply religious man living in the 4th century, wants to be nearer to God so he climbs a column. The Devil wants him to come down to Earth and is trying to seduce him.",
+      "Language": "Spanish, Latin",
+      "Country": "Mexico",
+      "Awards": "2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY3MWMyZDAtMWMxOS00ZGM4LTliMzYtODcxNTQ0Njg3NjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "11,460",
+      "imdbID": "tt0059719",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Simon del Desierto",
+      "plot_pt": "Simão, o Estilita, aspira à santidade e vive numa coluna no deserto, passando os dias a rezar e a benzer os fiéis que o vêm ver. O Diabo, através das suas encarnações terrenas, usa diversos subterfúgios para o tentar, sem sucesso. Consegue, no entanto, fazê-lo abandonar a coluna e levá-lo para uma boîte nova-iorquina.",
+      "country": "México",
+      "genre": "Comédia, Drama",
+      "year": 1965,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/26-1.jpg",
+        "https://medeiafilmes.com/uploads/library/l-ange-exterminateur.jpg",
+        "https://medeiafilmes.com/uploads/library/6714b05bbb92eb50201092ac57a322411.jpeg",
+        "https://medeiafilmes.com/uploads/library/1ab4a5984e7b92f5b73bd73ecc816a24.jpeg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.6,
+      23.5,
+      28.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/sm7NapjwKYhIH2GzFEgJkiw9hF1.jpg",
+      "https://image.tmdb.org/t/p/w1280/vMjJ2WCyoPrH90N3yOTqa63FtMd.jpg",
+      "https://image.tmdb.org/t/p/w1280/oIVriGA07qiXlAwdOmeDhVDFIRb.jpg"
+    ],
+    "tmdb_id": "36265"
   },
   "No Coração do Escuridão|2017": {
     "lbxd": null,
@@ -21136,8 +21285,51 @@
     "omdb": null
   },
   "O Anjo Exterminador|1962": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/8/33008-the-exterminating-angel-0-500-0-750-crop.jpg?v=d7eafc8345",
+      "description": "After a lavish dinner party, the guests find themselves unable to depart... and, over the next few days, all of their elaborate societal pretenses and façades deteriorate as they are reduced to living like animals.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Fantasy"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1962,
+      "lb_title": "The Exterminating Angel",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/yq/pr/2c/hs/exterminating-angel-1920-1920-1080-1080-crop-000000.jpg?v=0a815c54ce",
+      "imdb_id": "tt0056732",
+      "tmdb_id": "29264"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "El Ángel Exterminador",
+      "plot_pt": "Depois de um jantar de cerimónia, um grupo de respeitáveis burgueses fica retido em casa de um deles. Por uma razão qualquer, só os criados conseguem atravessar a porta da sala de jantar. Depressa se resignam ao enclausuramento e, pouco a pouco, vão-se submetendo a uma promiscuidade completamente estranha aos seus hábitos. O ambiente deteriora-se e a selvajaria aparece. Quando finalmente se libertam, vão a uma missa para agradecerem a Deus. Mas no fim da missa, o padre não consegue atravessar o limiar da sacristia.",
+      "country": "México",
+      "genre": "Drama",
+      "year": 1962,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/24-1.jpg",
+        "https://medeiafilmes.com/uploads/library/24-3.jpg",
+        "https://medeiafilmes.com/uploads/library/0d0b80e5-644c-482a-96db-002314117bfb.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.9,
+      29.3,
+      30.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wJ4HyVZsbZRWH7BS3bLZsvO31rZ.jpg",
+      "https://image.tmdb.org/t/p/w1280/mI7hfScSb8NAWC09viymxCzWZIq.jpg",
+      "https://image.tmdb.org/t/p/w1280/BbnbWiCOp5U9SYabXpoRAcHZTQ.jpg"
+    ],
+    "tmdb_id": "29264"
   },
   "Benedetta|2021": {
     "lbxd": {
@@ -24448,7 +24640,7 @@
   },
   "Nazarín|1958": {
     "lbxd": {
-      "rating": 3.94,
+      "rating": 3.92,
       "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/9/28739-nazarin-0-500-0-750-crop.jpg?v=32d54174c3",
       "description": "A Catholic priest in a poor community lives a charitable life in accordance with his religious principles, but others do not return the favor.",
       "genres": [
@@ -24457,7 +24649,11 @@
       "country": "Mexico",
       "lb_director": "Luis Buñuel",
       "lb_director_slug": "luis-bunuel",
-      "lb_year": 1959
+      "lb_year": 1959,
+      "lb_title": "Nazarín",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/98/qc/1k/la/nazirin-1920-1920-1080-1080-crop-000000.jpg?v=d7834174b0",
+      "imdb_id": "tt0051983",
+      "tmdb_id": "35124"
     },
     "omdb": {
       "Title": "Nazarin",
@@ -24494,7 +24690,26 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Nazarín",
+      "plot_pt": "Um padre jovem, Nazarín, vive num bairro pobre da Cidade do México. Beatriz, uma suicida falhada, e Andara, uma prostituta assassina, refugiam-se em casa dele. Tentando apagar provas do seu crime, Andara provoca um incêndio. Nazarín é interrogado pela polícia, e a hierarquia da Igreja censura-o por ter albergado uma criminosa. Persuadido a viver segundo os princípios dos Evangelhos, Nazarin passa a subsistir através de esmolas. Tenta empregar-se mas é expulso pelos operários sindicalizados. Reencontra Beatriz e Andara, que o seguem. Beatriz, apaixonada por ele, foge com El Pinto, enquanto Nazarín e Andara são presos. Mais tarde, uma mulher oferece-lhe um ananás, que ele começa por recusar para, finalmente, aceitar.",
+      "country": "México",
+      "genre": "Drama",
+      "year": 1958,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.8,
+      25.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/eunBY4OdJseL3LvMeng5zUbxDAG.jpg",
+      "https://image.tmdb.org/t/p/w1280/aDVlKMwtt229wweLslbgkvaHrth.jpg"
+    ],
+    "tmdb_id": "35124"
   },
   "O Carteirista|1959": {
     "lbxd": null,
@@ -42986,7 +43201,7 @@
     "tmdb_id": "1104067",
     "wiki_tries": 3,
     "stills_focus": [
-      39.4
+      39.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/fT8pAJKeqaHRYQsyOAtIDniuisr.jpg"
@@ -48843,7 +49058,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      40.5
+      40.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2ZttZZOvalQQSE1V5SpWoquTVMn.jpg"
@@ -63111,7 +63326,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      29.3
+      29.6
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/hGTIGRQWOAnFeS1nNbXe5EyKjxI.jpg"
@@ -74647,7 +74862,7 @@
       "https://image.tmdb.org/t/p/w1280/2Rf9I9RVkmeneB1M4Cl7Y4N9gDC.jpg"
     ],
     "tmdb_id": "32708",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Spécial Bardot|1968": {
     "lbxd": {
@@ -74756,7 +74971,7 @@
       "https://image.tmdb.org/t/p/w1280/xEUTbLGtwbJ9clOXabdS9wfiilR.jpg"
     ],
     "tmdb_id": "692840",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Les Pétroleuses|1971": {
     "lbxd": {
@@ -74793,7 +75008,7 @@
       "https://image.tmdb.org/t/p/w1280/gPwq8iwvpNDF1Y0B0xuP8SSq0j1.jpg"
     ],
     "tmdb_id": "64345",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Ladrão Do Pão + A Princesinha Das Rosas|None": {
     "lbxd": null,
@@ -74838,7 +75053,7 @@
       "https://image.tmdb.org/t/p/w1280/wKzduDW33BkZeT6lc1L90w8lBPm.jpg"
     ],
     "tmdb_id": "66916",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Le Mariage À Trois|2009": {
     "lbxd": {
@@ -74864,7 +75079,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "72848"
+    "tmdb_id": "72848",
+    "wiki_tries": 1
   },
   "Viva Maria!|1965": {
     "lbxd": {
@@ -74938,7 +75154,7 @@
       "https://image.tmdb.org/t/p/w1280/3EyIib3YHs6NBT0OlGA3n9be85Z.jpg"
     ],
     "tmdb_id": "11799",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Visconde + Tiaga Ou A Reencarnação Deliciosa|None": {
     "lbxd": null,
@@ -75097,7 +75313,7 @@
       "https://image.tmdb.org/t/p/w1280/u3YVXyOID03Ter5nDfINfjoi9wE.jpg"
     ],
     "tmdb_id": "57669",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Defunto + O Canto Da Sereia|None": {
     "lbxd": null,
@@ -75346,7 +75562,7 @@
       "https://image.tmdb.org/t/p/w1280/xDLqhDNYzP2IxLQprysAkAspqt0.jpg"
     ],
     "tmdb_id": "82576",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ensaio No Moinho +Sol E Sombra + “Filme Do Comício De Faro – Luar”|None": {
     "lbxd": null,
@@ -75475,7 +75691,7 @@
       "https://image.tmdb.org/t/p/w1280/jS2pDU71wVG7f86ts9p8vpjFPw.jpg"
     ],
     "tmdb_id": "135551",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Francisca|1981": {
     "lbxd": {
@@ -75689,7 +75905,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/bQ0qOig5NYrta7UBB3w9K4XL9bc.jpg"
     ],
-    "tmdb_id": "63208"
+    "tmdb_id": "63208",
+    "wiki_tries": 1
   },
   "Le Parti Des Choses: Bardot / Godard|1963": {
     "lbxd": {
@@ -75751,7 +75968,8 @@
     "stills": [
       "https://image.tmdb.org/t/p/w1280/tJF4Firwy9oKLU27qJZ6VkVgpRi.jpg"
     ],
-    "tmdb_id": "254019"
+    "tmdb_id": "254019",
+    "wiki_tries": 1
   },
   "Le Mépris|1963": {
     "lbxd": {
@@ -75887,7 +76105,8 @@
       "https://image.tmdb.org/t/p/w1280/3KJScl1cvLsZrazeDWgqRyGMcVL.jpg",
       "https://image.tmdb.org/t/p/w1280/21q3384GdqRkPwipR279KIEqQjq.jpg"
     ],
-    "tmdb_id": "254018"
+    "tmdb_id": "254018",
+    "wiki_tries": 1
   },
   "Vie Privée|1961": {
     "lbxd": {
@@ -75938,7 +76157,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "A Very Private Affair",
+      "imdb_id": "tt0055599",
+      "extract_pt": "Vida Privada (em francês:  Vie privée) é um filme franco-italiano de 1962, do gênero drama, dirigido por Louis Malle e estrelado por Brigitte Bardot e Marcello Mastroianni. \nEm Vida Privada, Bardot estrela um filme cujo roteiro é semi-autobiográfico com relação à sua vida, o preço da fama e o assédio da imprensa na época em que foi filmado."
+    },
     "cinema": {
       "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras."
     },
@@ -75951,7 +76174,8 @@
       "https://image.tmdb.org/t/p/w1280/oEpaiiEK1D6a2peB6kbzFulXaOM.jpg",
       "https://image.tmdb.org/t/p/w1280/eDki3lbGhM8kmUulkOKeZtRB35V.jpg"
     ],
-    "tmdb_id": "48196"
+    "tmdb_id": "48196",
+    "wiki_tries": 1
   },
   "Quem Foste Alvarez?|1988": {
     "lbxd": {
@@ -76232,7 +76456,7 @@
       "https://image.tmdb.org/t/p/w1280/cg2WvuzI9Z3nsrY3ueooPd7izdJ.jpg"
     ],
     "tmdb_id": "1375441",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Giliap|1975": {
     "lbxd": {
@@ -76294,7 +76518,7 @@
       "https://image.tmdb.org/t/p/w1280/q6pL6RcedkFmMoHQ4CzRUQDxhCU.jpg"
     ],
     "tmdb_id": "91873",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "5 Curtas Essenciais|None": {
     "lbxd": null,
@@ -76582,5 +76806,2107 @@
       "https://image.tmdb.org/t/p/w1280/eDki3lbGhM8kmUulkOKeZtRB35V.jpg"
     ],
     "tmdb_id": "48196"
+  },
+  "Nova ’78|2021": {
+    "lbxd": {
+      "rating": 3.41,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/6/3/7/6/1386376-nova-78-0-500-0-750-crop.jpg?v=29ff3c6402",
+      "description": "East Village, New York, 1978. William Burroughs, Patti Smith, Frank Zappa, Allen Ginsberg, and other brilliant minds come together in an explosion of ideas, art, and rebellion.",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rodrigo Areias",
+      "lb_director_slug": "rodrigo-areias",
+      "lb_year": 2025,
+      "lb_title": "Nova '78",
+      "backdrop": null,
+      "imdb_id": "tt37379020",
+      "tmdb_id": "1510390"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Nova ’78",
+      "plot_pt": "Uma viagem electrizante ao coração da contracultura dos anos 70, construída em torno de imagens nunca antes vistas da Nova Convention. Este evento de três dias em Nova Iorque celebrou o regresso de William S. Burroughs à América e juntou Patti Smith, Frank Zappa, Laurie Anderson, Philip Glass, Allen Ginsberg, Merce Cunningham, John Cage e muitos outros. Uma cápsula do tempo de liberdade criativa. Filmado originalmente por Howard Brookner e há muito considerado perdido, foi recuperado por Aaron Brookner. O filme é co-realizado por Rodrigo Areias e conta com música original de The Legendary Tigerman.",
+      "country": "Reino Unido, Portugal",
+      "genre": "Documentário",
+      "year": 2021,
+      "director": "Aaron Brookner, Rodrigo Areias",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/1-35.png",
+        "https://medeiafilmes.com/uploads/library/10-1024x503.png",
+        "https://medeiafilmes.com/uploads/library/3-28.png"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.4,
+      39.7,
+      30.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/bwQUJMnlS83ROh0sQ0tTXzQzLC4.jpg",
+      "https://medeiafilmes.com/uploads/library/1-35.png",
+      "https://medeiafilmes.com/uploads/library/10-1024x503.png"
+    ],
+    "tmdb_id": "1510390"
+  },
+  "Memórias do Cárcere|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/0/9/8/1338098-memorias-do-carcere-0-500-0-750-crop.jpg?v=a916734a62",
+      "description": "Accused of adultery, Ana Augusta Plácido and Camilo Castelo Branco were imprisoned for more than a year in the Porto Prison, she in June 1860, he in October of the same year, after an adventurous escape from justice through the lands of the North.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Sérgio Graciano",
+      "lb_director_slug": "sergio-graciano",
+      "lb_year": 2026,
+      "lb_title": "Memórias do Cárcere",
+      "backdrop": null,
+      "imdb_id": "tt36068820",
+      "tmdb_id": "1461062"
+    },
+    "omdb": {
+      "Title": "Memórias do Cárcere",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "24 Sep 2026",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Sérgio Graciano",
+      "Writer": "N/A",
+      "Actors": "Albano Jerónimo, Maria João Bastos, Paulo Pires",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36068820",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Memórias do Cárcere",
+      "plot_pt": "Acusados de adultério, Ana Augusta Plácido e Camilo Castelo Branco foram encarcerados durante mais de um ano na Cadeia da Relação do Porto, ela em Junho de 1860, ele em Outubro do mesmo ano, após uma aventurosa fuga à justiça por terras do Norte.",
+      "country": "Portugal",
+      "genre": "Drama",
+      "year": 2026,
+      "director": "Sérgio Graciano",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/315.jpg",
+        "https://medeiafilmes.com/uploads/library/410.jpg",
+        "https://medeiafilmes.com/uploads/library/217.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.4,
+      26.5,
+      37.5
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/315.jpg",
+      "https://medeiafilmes.com/uploads/library/410.jpg",
+      "https://medeiafilmes.com/uploads/library/217.jpg"
+    ],
+    "tmdb_id": "1461062"
+  },
+  "Mistérios de Lisboa|2010": {
+    "lbxd": {
+      "rating": 4.07,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/1/7/0/2/1351702-mysteries-of-lisbon-1-0-500-0-750-crop.jpg?v=404482f2a0",
+      "description": "The tragic story of the many lives of Father Dinis, his dark origins and his pious works, and the different fates of all those who, trapped in a sinister web of love, hate and crime, cross paths with him through years of adventure.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 2010,
+      "lb_title": "Mysteries of Lisbon",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/9k/g5/rw/ck/mysteries-1920-1920-1080-1080-crop-000000.jpg?v=709bf7e0f4",
+      "imdb_id": "tt20259142",
+      "tmdb_id": "1474601"
+    },
+    "omdb": {
+      "Title": "Mysteries of Lisbon",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "20 Oct 2010",
+      "Runtime": "266 min",
+      "Genre": "Drama",
+      "Director": "Raúl Ruiz",
+      "Writer": "Camilo Castelo Branco, Carlos Saboga",
+      "Actors": "Adriano Luz, Maria João Bastos, Ricardo Pereira",
+      "Plot": "The tragic story of the many lives of Father Dinis, his dark origins and his pious works, and the different fates of all those who, trapped in a sinister web of love, hate and crime, cross paths with him through years of adventure.",
+      "Language": "Portuguese",
+      "Country": "Portugal, France",
+      "Awards": "20 wins & 31 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTY5N2YxMjctNzMyOC00NzA4LWE0ZTAtMjZhOGRlNGVlOWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "376",
+      "imdbID": "tt20259142",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Mistérios de Lisboa",
+      "plot_pt": "Mistérios de Lisboa mergulha-nos num turbilhão imparável de aventuras e desventuras, coincidências e revelações, sentimentos e paixões violentos, vinganças, amores desgra-çados, e ilegítimos, numa atribulada viagem por Portugal, França, Itália e Brasil. Uma série de figuras dominam o destino de Pedro da Silva, órfão de um colégio interno: padre Dinis, que de aristocrata e libertino se converte em justiceiro, uma condessa roída pelo ciúme e sedenta de vingança, um pirata sanguinário tornado próspero homem de negócios.",
+      "country": "França, Portugal",
+      "genre": "Drama, histórico",
+      "year": 2010,
+      "director": "Raúl Ruiz",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/angela_lima_e_padre_dinis.jpg",
+        "https://medeiafilmes.com/uploads/library/burguesas.jpg",
+        "https://medeiafilmes.com/uploads/library/branca_benoit_e_sebastiao.jpg",
+        "https://medeiafilmes.com/uploads/library/eugenia_e_alberto_magalhaes.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.1,
+      42.3,
+      37.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/7kSzxv7WKuV3crrYZ6a373J3i0T.jpg",
+      "https://image.tmdb.org/t/p/w1280/jGHtsCqayHcGTfcgvsXXoMhOGA4.jpg",
+      "https://image.tmdb.org/t/p/w1280/qWshgfzd58hVU8jjk6okOQWtgwA.jpg"
+    ],
+    "tmdb_id": "1474601"
+  },
+  "As Aventuras de Robinson Crusoe|1953": {
+    "lbxd": {
+      "rating": 3.16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/2/6/11126-robinson-crusoe-0-500-0-750-crop.jpg?v=6b1d068609",
+      "description": "The titular adventurer, after defying his parents to go to sea, survives a shipwreck and becomes a castaway on a deserted island for nearly thirty years, learning to build a new life from scratch, discovering companionship with a native man he names Friday, and eventually returning to civilisation a changed man, finding wealth and new challenges.",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1954,
+      "lb_title": "Robinson Crusoe",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/cr/og/ky/2j/RobinsonCrusoe2-1920-1920-1080-1080-crop-000000.jpg?v=6bda9ef804",
+      "imdb_id": "tt0044386",
+      "tmdb_id": "54979"
+    },
+    "omdb": {
+      "Title": "Robinson Crusoe",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "05 Aug 1954",
+      "Runtime": "90 min",
+      "Genre": "Adventure, Drama, Family",
+      "Director": "Luis Buñuel",
+      "Writer": "Daniel Defoe, Hugo Butler, Luis Buñuel",
+      "Actors": "Dan O'Herlihy, Jaime Fernández, Felipe de Alba",
+      "Plot": "The classic story of Robinson Crusoe, a man who is dragged to a desert island after a shipwreck.",
+      "Language": "English, Spanish",
+      "Country": "Mexico, United States",
+      "Awards": "Nominated for 1 Oscar. 6 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTY3ZThhMjItODJmMi00ZGZhLWI2NjQtNjkxMDY4OWJiMTY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "4,910",
+      "imdbID": "tt0044386",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Adventures of Robinson Crusoe",
+      "plot_pt": "Único sobrevivente de um naufrágio, Robinson Crusoe resigna-se a viver sozinho numa ilha do Atlântico Sul. Um dia salva um homem prestes a ser sacrificado num ritual canibalístico. Mesmo receoso de que o indígena também seja um canibal, Robinson protege-o e baptiza-o de Sexta-Feira. Educa-o segundo os valores da civilização anglo-saxónica, converte-o ao cristianismo, e Sexta-Feira torna-se num seu criado. Muitos anos se passam até que a ilha é visitada por uma embarcação onde um grupo de amotinados se apresta a fuzilar os outros membros da tripulação. Robinson, com a ajuda de Sexta-Feira, salva-os, e ambos partem, definitivamente, deixando os amotinados abandonados à sua sorte.",
+      "country": "México, EUA",
+      "genre": "Aventura, Drama",
+      "year": 1953,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      22.3,
+      53.8,
+      49.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/1cmKxkRkiGYo0DaPSYZOwYG1Yx2.jpg",
+      "https://image.tmdb.org/t/p/w1280/pbJcSupdYWUnHOdgeHaRJHeN6a9.jpg",
+      "https://image.tmdb.org/t/p/w1280/gjAweqnhzzxYkJmZxe0nVP39Br2.jpg"
+    ],
+    "tmdb_id": "54979"
+  },
+  "De Gaulle: Resistência|2026": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/1/0/0/0/1051000-de-gaulle-tilting-iron-0-500-0-750-crop.jpg?v=74935413b3",
+      "description": "June, 1940. France collapses and signs the armistice. In the midst of the chaos, one man refuses to give up. Alone against the odds, this unknown general flees to London to save what remains of freedom.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Antonin Baudry",
+      "lb_director_slug": "antonin-baudry",
+      "lb_year": 2026,
+      "lb_title": "De Gaulle: Résistance",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/1/0/0/0/tmdb/ngxcfLFMefoFl6kzEth2OsMSRxz-1920-1920-1080-1080-crop-000000.jpg?v=1ef3f55119",
+      "imdb_id": "tt28553375",
+      "tmdb_id": "1165366"
+    },
+    "omdb": {
+      "Title": "De Gaulle: Résistance",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "03 Jun 2026",
+      "Runtime": "160 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Antonin Baudry",
+      "Writer": "Antonin Baudry, Julian T. Jackson, Bérénice Vila",
+      "Actors": "Simon Abkarian, Simon Russell Beale, Florian Lesieur",
+      "Plot": "A powerful account of Charles de Gaulle's journey during World War II, from his rise as a military leader to his emergence in French politics between 1940-1945.",
+      "Language": "French, English",
+      "Country": "France, Belgium, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc1ZWJjMDEtYjY3Yy00ZjQ3LTk5ZjMtOTczNGQ3YjU3M2ZhXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "2,804",
+      "imdbID": "tt28553375",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "De Gaulle: Résistance",
+      "plot_pt": "Junho de 1940. A França desmorona-se e assina o armistício. No meio do caos, um homem recusa-se a desistir. Sozinho contra todas as probabilidades, este general desconhecido foge para Londres, determinado a salvar o que resta da liberdade.\n\r\n\r\nSem exército, sem apoios, sem esperança. Mas movido por uma convicção irracional: a França, a sua França, não depôs as armas. Numa aposta derradeira, procura convencer o mundo de que a batalha por França não terminou, nem está perdida.\nA realidade, porém, é implacável e parece determinada a provar-lhe que está errado. Ainda assim, pouco a pouco, resistentes, estudantes rebeldes e soldados determinados erguem-se em Inglaterra, em França e em África para se juntarem à causa. A sua fé, audácia e sede de liberdade desafiam aquilo que a História parecia ter escrito de antemão.",
+      "country": "França",
+      "genre": "Thriller Geopolítico",
+      "year": 2026,
+      "director": "Antonin Baudry",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/1_deg0939.jpg",
+        "https://medeiafilmes.com/uploads/library/a_0231c006_240308_130022_h1dn2_rec709-g24_4096x1716.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      36.3,
+      32.2,
+      23.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/byHsToGgxj0p1jBIM2ODrBwnx0q.jpg",
+      "https://image.tmdb.org/t/p/w1280/mu930fAteJp5tqiXZbxiONTBPnK.jpg",
+      "https://image.tmdb.org/t/p/w1280/ngxcfLFMefoFl6kzEth2OsMSRxz.jpg"
+    ],
+    "tmdb_id": "1165366"
+  },
+  "Um Cão Andaluz|1929": {
+    "lbxd": {
+      "rating": 3.8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/8/51498-un-chien-andalou-0-500-0-750-crop.jpg?v=6f1b84e3af",
+      "description": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
+      "genres": [
+        "Fantasy",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1929,
+      "lb_title": "Un Chien Andalou",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4t/f9/ho/5h/un-chien-andalou-1920-1920-1080-1080-crop-000000.jpg?v=e9da91952b",
+      "imdb_id": "tt0020530",
+      "tmdb_id": "626"
+    },
+    "omdb": {
+      "Title": "Un chien andalou",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "06 Jun 1929",
+      "Runtime": "16 min",
+      "Genre": "Short, Fantasy, Horror",
+      "Director": "Luis Buñuel",
+      "Writer": "Salvador Dalí, Luis Buñuel",
+      "Actors": "Pierre Batcheff, Simone Mareuil, Luis Buñuel",
+      "Plot": "Luis Buñuel and Salvador Dalí present 16 minutes of bizarre, surreal imagery.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmIwNjhlZGMtN2JmNy00MmQ0LTljOGItYTNiMjI1ZWZlMGRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "56,198",
+      "imdbID": "tt0020530",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Un Chien Andalou",
+      "plot_pt": "Um homem afia uma lâmina de barbear, antes de com ela cortar o olho de uma mulher jovem e impassível. Um ciclista cai. Uma mulher e um homem observam um andrógino e uma mão cortada, e depois acariciam-se. Passado um ano, chega outro homem que ordena ao primeiro que saia da cama. Tudo acaba numa praia onde a mulher encontra um terceiro homem.",
+      "country": "França",
+      "genre": "Fantasia, Terror",
+      "year": 1929,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.0,
+      30.9,
+      43.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lsv1GFDAR1euS5kFsnyQgguyozi.jpg",
+      "https://image.tmdb.org/t/p/w1280/hi5aTvx4gVJU6ruugZ8b2WOlUjA.jpg",
+      "https://image.tmdb.org/t/p/w1280/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg"
+    ],
+    "tmdb_id": "626"
+  },
+  "Ensaio de um Crime|1955": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/8/6/8/26868-the-criminal-life-of-archibaldo-de-la-cruz-0-500-0-750-crop.jpg?v=abde653af6",
+      "description": "A bizarre black comedy about a man whose overwhelming ambition in life is to be a renowned serial killer of women, and will stop at nothing to achieve it - but not everything goes according to plan...",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1955,
+      "lb_title": "The Criminal Life of Archibaldo de la Cruz",
+      "backdrop": null,
+      "imdb_id": "tt0048037",
+      "tmdb_id": "37628"
+    },
+    "omdb": {
+      "Title": "The Criminal Life of Archibaldo de la Cruz",
+      "Year": "1955",
+      "Rated": "Not Rated",
+      "Released": "19 May 1955",
+      "Runtime": "89 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Eduardo Ugarte, Rodolfo Usigli",
+      "Actors": "Ernesto Alonso, Miroslava, Rita Macedo",
+      "Plot": "The delirious journey of a mentally-disordered man who is obsessed with committing the perfect crime.",
+      "Language": "Spanish, English",
+      "Country": "Mexico",
+      "Awards": "1 win & 8 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzMWVhM2QtNDU3My00YmIwLWEwZjctMzNjMTYxMWQ4YTY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "6,037",
+      "imdbID": "tt0048037",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Ensayo de un crimen",
+      "plot_pt": "Em criança, Archibaldo recebe da mãe uma caixa de música dotada de poderes mágicos. Segundo a lenda, a caixa permite satisfazer um desejo de morte. Archibaldo tenta usar esse feitiço sobre a governanta, e ela morre, vítima de uma bala perdida. Já adulto, Archibaldo reencontra a caixa de música, e não resiste a repetir experiências semelhantes. Mas a cada tentativa há um elemento que o contraria, pois se as mulheres morrem não é ele o responsável pela morte delas. Tanto a polícia como a justiça recusam considerá-lo culpado, mesmo que Archibaldo o julgue, efectivamente, ser. Acaba por se desembaraçar da caixa de música, e fugir com Lavinia.",
+      "country": "México",
+      "genre": "Comédia, Crime, Drama",
+      "year": 1955,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.9,
+      34.7,
+      18.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lgNnEQCRGVibL8NYW5pKZFwdQLI.jpg",
+      "https://image.tmdb.org/t/p/w1280/7fhEbsy39QfKgNqx7VEKETKK8L7.jpg",
+      "https://image.tmdb.org/t/p/w1280/i1sMVu3wN9dXb23T9wVyA6UQM12.jpg"
+    ],
+    "tmdb_id": "37628"
+  },
+  "Ele|1953": {
+    "lbxd": {
+      "rating": 3.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/0/4/21804-el-0-500-0-750-crop.jpg?v=26cac6548e",
+      "description": "Gloria encounters Francisco, a man whose social veneer betrays a truer self burrowed underneath.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1953,
+      "lb_title": "Él",
+      "backdrop": null,
+      "imdb_id": "tt0045361",
+      "tmdb_id": "43344"
+    },
+    "omdb": {
+      "Title": "El",
+      "Year": "1953",
+      "Rated": "Approved",
+      "Released": "09 Jul 1953",
+      "Runtime": "82 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Luis Alcoriza, Mercedes Pinto",
+      "Actors": "Arturo de Córdova, Delia Garcés, Aurora Walker",
+      "Plot": "A husband's suave exterior unravels after his marriage, and he unleashes his paranoid and volatile temper on his wife, which escalates to more dangerous and unpredictable tantrums.",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY4Yjg5Y2MtYzM2OC00ZWU3LWEzNGUtYjY3NGM2MTliMGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "6,666",
+      "imdbID": "tt0045361",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Él",
+      "plot_pt": "Numa cerimónia religiosa, o olhar de Francisco é atraído pelos pés de Gloria, sentada na primeira fila. Depois da missa, segue-a mas perde-lhe o rasto. Encontra-a e afasta um namorado incómodo, Raul. Francisco e Gloria casam. Logo na viagem de núpcias começa um pesadelo para Gloria, de que ela escapa com a ajuda de Raul, com quem refaz a vida. Tem um filho, a quem dá o nome de Francisco. Em família, visita o ex-marido, que foi viver a sua amargura para um convento. É informada de que o estado dele regista francas melhoras, que parecem ser contrariadas pela sua incapacidade de andar a direito.",
+      "country": "México",
+      "genre": "Drama, Romance",
+      "year": 1953,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      36.2,
+      25.5,
+      28.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dDWSK0xdXiOdzKY7ZT0TEoR4isb.jpg",
+      "https://image.tmdb.org/t/p/w1280/8gy5gf9q9jn00z6wxtMxgbVSaJt.jpg",
+      "https://image.tmdb.org/t/p/w1280/pfPz4by5WD8FVMPrT4CdiemSW1B.jpg"
+    ],
+    "tmdb_id": "43344"
+  },
+  "Histórias Paralelas|2026": {
+    "lbxd": {
+      "rating": 2.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/4/4/1/1/3/1044113-parallel-tales-0-500-0-750-crop.jpg?v=483e8b4370",
+      "description": "In search of inspiration for her new novel, Sylvie spies on her neighbors in the building across the street using a telescope. When she hires young Adam to help her with her daily routine, she has no idea that he will turn her life and her work upside down, until the fiction she had imagined surpasses the reality of them all.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "Asghar Farhadi",
+      "lb_director_slug": "asghar-farhadi",
+      "lb_year": 2026,
+      "lb_title": "Parallel Tales",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/hl/2p/vd/vk/8mQayOm0n013Y36Rahd3O9OAuHT-1920-1920-1080-1080-crop-000000.jpg?v=5d80ba9d64",
+      "imdb_id": "tt36646880",
+      "tmdb_id": "1157869"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Histoires Parallèles",
+      "plot_pt": "Procurando inspiração para o seu novo romance, Sylvie espia os vizinhos da frente.\nQuando contrata o jovem Adam para a ajudar na sua rotina diária, não imagina que ele irá virar a sua vida e o seu trabalho de pernas para o ar, a ponto de a ficção que tinha imaginado acabar por superar a realidade de todos os envolvidos.",
+      "country": "França",
+      "year": 2026,
+      "director": "Asghar Farhadi",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/histoires-paralleles_8902r3carolebethuel_2.jpg",
+        "https://medeiafilmes.com/uploads/library/histoires-paralleles_4190carolebethuel_2.jpg",
+        "https://medeiafilmes.com/uploads/library/histoires-paralleles_9791r-pscarolebethuel_2.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.0,
+      37.7,
+      24.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/3lKjspWl46OWPmn6jIp8Wo8UdP4.jpg",
+      "https://image.tmdb.org/t/p/w1280/8mQayOm0n013Y36Rahd3O9OAuHT.jpg",
+      "https://image.tmdb.org/t/p/w1280/iLGbLmi6aE97U7ma50CnH4aGWfj.jpg"
+    ],
+    "tmdb_id": "1157869"
+  },
+  "O Milagre de Milão|1951": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/7/6/9/21769-miracle-in-milan-0-500-0-750-crop.jpg?v=c658b97482",
+      "description": "Once upon a time a wise and kind old woman discovers a baby in her cabbage patch. She brings up the child and, when she dies, the boy, Totò, enters an orphanage. Totò leaves the orphanage a happy young man, and looks for work in post-war Milan. He ends up with the homeless and organizes them to build a shanty town in a vacant lot. But when greedy developers threaten the community’s land, Totò will need all the help he can get in order to find an impossible way out.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "Italy",
+      "lb_director": "Vittorio De Sica",
+      "lb_director_slug": "vittorio-de-sica-1",
+      "lb_year": 1951,
+      "lb_title": "Miracle in Milan",
+      "backdrop": null,
+      "imdb_id": "tt0043809",
+      "tmdb_id": "43379"
+    },
+    "omdb": {
+      "Title": "Miracle in Milan",
+      "Year": "1951",
+      "Rated": "Not Rated",
+      "Released": "17 Dec 1951",
+      "Runtime": "97 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Vittorio De Sica",
+      "Writer": "Cesare Zavattini, Vittorio De Sica, Suso Cecchi D&apos;Amico",
+      "Actors": "Emma Gramatica, Francesco Golisano, Paolo Stoppa",
+      "Plot": "An open-hearted, unrelentingly energetic orphan struggles to make the best of his life on the streets of Milan.",
+      "Language": "Italian, English",
+      "Country": "Italy",
+      "Awards": "Nominated for 2 BAFTA Awards. 4 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2YjI4MmMtMmQ2MC00YWI3LTk5ZTktMzE0MjA1OGI1NzBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.6",
+      "imdbVotes": "9,514",
+      "imdbID": "tt0043809",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Miracolo a Milano",
+      "plot_pt": "Depois do sucesso de Ladrões de Bicicletas, um filme da dupla De Sica-Zavattini seria sempre um acontecimento. E De Sica voltava a surpreender, neste filme que adapta um romance do próprio Zavattini. Como notou Bazin, O Milagre de Milão traz ao neo-realismo uma audaciosa mutação, misturando o realismo social com a fantasia mais desenfreada. Totò é um jovem ingénuo e com bons sentimentos, saído de um orfanato. Um vagabundo acolhe-o em noite de intempérie e ele decide organizar uma “cidade da felicidade” para os indigentes num terreno baldio. Mas, ao descobrirem que naquele lugar há petróleo, os capitalistas resolvem expulsá-los. E é aí que entra o elemento “mágico”, na forma de uma pomba que lhe é entregue pela avó, que desce do céu, e que Totò usa para rechaçar os invasores. De Sica reconhece a influência de Chaplin e de René Clair, mas fá-la ressurgir de uma forma extremamente criativa, poética (Bazin dizia que não havia no mundo nenhum realizador que tivesse, como ele, o sentido da poesia de um rosto), cómica, e humana. O cineasta italiano construía assim mais um futuro clássico da história do cinema.",
+      "country": "Itália",
+      "genre": "Comédia, Drama",
+      "year": 1951,
+      "director": "Vittorio De Sica",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/modelos-compete2020-feder9.jpg",
+        "https://medeiafilmes.com/uploads/library/5360538jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
+        "https://medeiafilmes.com/uploads/library/milagre_em_milao.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      44.8,
+      28.9,
+      24.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/auItHwCI7tvJ8C5f2B0lS5zjDZQ.jpg",
+      "https://image.tmdb.org/t/p/w1280/sCSLll8Lc99B2jZmtwfyigEVCCC.jpg",
+      "https://image.tmdb.org/t/p/w1280/oGrwlhALcUHXYy78dCKpFgi4EsI.jpg"
+    ],
+    "tmdb_id": "43379"
+  },
+  "Ladrões de Bicicletas|1948": {
+    "lbxd": {
+      "rating": 4.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/3/0/48930-bicycle-thieves-0-500-0-750-crop.jpg?v=274fd27e34",
+      "description": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle—essential to his work—gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Vittorio De Sica",
+      "lb_director_slug": "vittorio-de-sica-1",
+      "lb_year": 1948,
+      "lb_title": "Bicycle Thieves",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/xh/na/ai/0x/bicycle-thieves-1920-1920-1080-1080-crop-000000.jpg?v=7cd2a52c59",
+      "imdb_id": "tt0040522",
+      "tmdb_id": "5156"
+    },
+    "omdb": {
+      "Title": "Bicycle Thieves",
+      "Year": "1948",
+      "Rated": "Not Rated",
+      "Released": "13 Dec 1949",
+      "Runtime": "89 min",
+      "Genre": "Drama",
+      "Director": "Vittorio De Sica",
+      "Writer": "Cesare Zavattini, Luigi Bartolini, Oreste Biancoli",
+      "Actors": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell",
+      "Plot": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+      "Language": "Italian, German",
+      "Country": "Italy",
+      "Awards": "Nominated for 1 Oscar. 18 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "190,001",
+      "imdbID": "tt0040522",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$371,111",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Ladri di biciclette",
+      "plot_pt": "Ladrões de Bicicletas ocupa há sete décadas consecutivas um lugar cimeiro no cânone dos melhores filmes de todos os tempos. Logo na estreia gerou um grande entusiasmo, na Europa e na América, e André Bazin descrevia-o como uma obra-prima, perfeita e sublime, e afirmava que De Sica era o maior realizador italiano. Amado por Orson Welles e Wes Anderson, o filme que “mudou a vida” de Ken Loach, que “salvou a carreira” de Jia Zhang Ke, Ladrões de Bicicletas, a odisseia de um pai e de um filho pelas ruas de Roma à procura de uma bicicleta roubada, indispensável para o seu trabalho, obra zénite do neo-realismo italiano, tem a grandeza de uma tragédia clássica.\n\r\n\r\nCesare Pavese dizia que o grande cronista da Itália do seu tempo era De Sica. Foi também nas ruas, onde filmaria, que o realizador foi procurar os seus intérpretes: Lamberto Maggiorani, o pai, era um operário mecânico, e Enzo Staiola, o filho, descobriu-o entre os mirones. “Era necessário que este operário fosse ao mesmo tempo tão perfeito, anónimo e objectivo como a sua bicicleta.” Com uma extraordinária mise en scène, um trabalho rigoroso de escrita (com Cesare Zavattini e outros), uma concisão comovente, Ladrões de Bicicletas é “cinema no seu estado puro”, que nos provoca uma comoção tão forte hoje como há 70 anos.",
+      "country": "Itália",
+      "genre": "Drama",
+      "year": 1948,
+      "director": "Vittorio De Sica",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/modelos-compete2020-feder8.jpg",
+        "https://medeiafilmes.com/uploads/library/1_egby_iqdqm0bnv86dkhgaq.jpg",
+        "https://medeiafilmes.com/uploads/library/bicycle_thief_163.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.9,
+      33.9,
+      32.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+      "https://image.tmdb.org/t/p/w1280/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+      "https://image.tmdb.org/t/p/w1280/loNjs84HrviWIyHNYMNfLKHkon0.jpg"
+    ],
+    "tmdb_id": "5156"
+  },
+  "A Desconhecida|2026": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
+      "description": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "France",
+      "lb_director": "Arthur Harari",
+      "lb_director_slug": "arthur-harari",
+      "lb_year": 2026,
+      "lb_title": "The Unknown",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/bk/70/br/mq/tzKi5YsDKhdLFrWcIp1vJ1RnpSr-1920-1920-1080-1080-crop-000000.jpg?v=b5276543f2",
+      "imdb_id": "tt32359586",
+      "tmdb_id": "1182935"
+    },
+    "omdb": {
+      "Title": "The Unknown",
+      "Year": "2027",
+      "Rated": "N/A",
+      "Released": "08 Jan 2027",
+      "Runtime": "139 min",
+      "Genre": "Drama, Fantasy, Sci-Fi",
+      "Director": "Arthur Harari",
+      "Writer": "Arthur Harari, Lucas Harari, Vincent Poymiro",
+      "Actors": "Léa Seydoux, Radu Jude, Niels Schneider",
+      "Plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms-he awakens in her body.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2NGFmYjItNTVkZC00OWQxLTgyNjAtOWQ3MGRiZWRkODliXkEyXkFqcGc@._V1_QL75_UY562_CR521,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "6.3",
+      "imdbVotes": "48",
+      "imdbID": "tt32359586",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "L'inconnue",
+      "plot_pt": "Com quase 40 anos, David Zimmerman é fotógrafo, mas ninguém sabe disso. Quando os amigos o arrastam para uma festa, ele avista uma mulher no meio da multidão e não consegue tirar os olhos dela; segue-a… Algumas horas depois, David acorda: está no corpo daquela mulher desconhecida.",
+      "country": "França",
+      "genre": "Drama, Thriller",
+      "year": 2026,
+      "director": "Arthur Harari",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/l_inconnue_still_07_00128789-1536x827.jpg",
+        "https://medeiafilmes.com/uploads/library/l_inconnue_still_12_00160283-1536x830.jpg",
+        "https://medeiafilmes.com/uploads/library/l_inconnue_still_22_00250803-1536x830.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.1,
+      44.0,
+      32.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
+      "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
+      "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
+    ],
+    "tmdb_id": "1182935"
+  },
+  "Os Esquecidos|1950": {
+    "lbxd": {
+      "rating": 4.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/2/51352-los-olvidados-0-500-0-750-crop.jpg?v=0cfdaa522e",
+      "description": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1950,
+      "lb_title": "The Young and the Damned",
+      "backdrop": null,
+      "imdb_id": "tt0042804",
+      "tmdb_id": "800"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Los olvidados",
+      "plot_pt": "Jaibo, jovem delinquente dos arrabaldes da Cidade do México, quer vingar-se de Julián, que o denunciou à polícia, provocando a sua prisão. Jaibo mata Julián com a cumplicidade de Pedro, a quem pede segredo absoluto. Este, para agradar à mãe, que se recusa a continuar a sustentá-lo, emprega-se numa cutelaria. Jaibo visita-o e rouba uma faca. Pedro é acusado, e condenado perante o assentimento da mãe. No entanto, evade-se da casa de correcção e denuncia Jaibo pela morte de Julián. Jaibo vinga-se e mata Pedro, sendo depois abatido pela polícia. O cadáver de Pedro é atirado a uma lixeira pública.",
+      "country": "México",
+      "genre": "Crime, Drama",
+      "year": 1950,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.3,
+      17.7,
+      38.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
+      "https://image.tmdb.org/t/p/w1280/qov2tWElGWI4OmYhkEKnvENEm8Q.jpg",
+      "https://image.tmdb.org/t/p/w1280/zE1R2r5iKNNxIyaScpT9BrPCAMw.jpg"
+    ],
+    "tmdb_id": "800"
+  },
+  "A Cativa|2000": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/1/4/4/18144-the-captive-0-500-0-750-crop.jpg?v=3e1e4adb3a",
+      "description": "Ariane lives with Simon in his large Paris flat. Simon is obsessed with her: he wants to know everything about her, secretly follows her when she goes out, asks questions all the time, even in the most intimate moments. Ariane seems to take it all in stride, but Simon realises that she's hiding something.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 2000,
+      "lb_title": "The Captive",
+      "backdrop": null,
+      "imdb_id": "tt0216605",
+      "tmdb_id": "47244"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "La Captive",
+      "plot_pt": "Ariane vive em casa de Simon, num grande apartamento parisiense, sob vigilância. Ele quer saber tudo sobre ela, acompanha-a onde quer que ela vá, procura surpreendê-la e submete-a a incessantes perguntas. Mas apesar disso, Ariane consegue arranjar para si um espaço de liberdade física e mental. Enquanto isso Simon sofre e, até nos momentos em que pensa possuí-la completamente, ela escapa-lhe cada vez mais. O facto de saber que Ariane sente uma grande atracção por mulheres, leva-o a imaginar que ela tem uma vida dupla, e só serve para aumentar o seu sofrimento e o seu desejo por ela. Mas não é apenas a atracção de Ariane por mulheres, nem as diferenças entre sexos que tornam os seus pedidos impossíveis - pedidos de fusão total, de osmose, de um desejo obsessivo de penetrar completamente a subjectividade do outro. É também o facto de que o outro é um outro, irrefutavelmente outro. O outro é um estranho e Ariane permanecerá sempre impenetrável para ele. É uma história de dois amantes. E por isso mesmo uma história trágica.",
+      "country": "França",
+      "genre": "Drama, Romance",
+      "year": 2000,
+      "director": "Chantal Akerman",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/captive-2000.jpg",
+        "https://medeiafilmes.com/uploads/library/what-to-stream-la-captive.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      48.9,
+      18.6,
+      27.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/A73L43TlR4ISUn4B9b6EGcoEcpm.jpg",
+      "https://image.tmdb.org/t/p/w1280/vBRm7SAQz7orb4Iiv0iYYWVYaf7.jpg",
+      "https://image.tmdb.org/t/p/w1280/2prF1U7JfUuR1soOBUH3pceAUBx.jpg"
+    ],
+    "tmdb_id": "47244"
+  },
+  "Jeanne Dielman, 23 quai du commerce, 1080 Bruxelles|1975": {
+    "lbxd": {
+      "rating": 4.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/9/21149-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0-500-0-750-crop.jpg?v=952ed786ed",
+      "description": "A lonely young widow lives with her son following an immutable order: while the boy is in school, she cares for their apartment, does chores, and receives clients in the afternoon.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1975,
+      "lb_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/0q/ih/qs/bg/jeannedielman-1920-1920-1080-1080-crop-000000.jpg?v=fcd1013a5e",
+      "imdb_id": "tt0073198",
+      "tmdb_id": "44012"
+    },
+    "omdb": {
+      "Title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "Year": "1975",
+      "Rated": "Not Rated",
+      "Released": "21 Jan 1976",
+      "Runtime": "202 min",
+      "Genre": "Drama",
+      "Director": "Chantal Akerman",
+      "Writer": "Chantal Akerman",
+      "Actors": "Delphine Seyrig, Jan Decorte, Henri Storck",
+      "Plot": "A lonely widowed housewife does her daily chores, takes care of her apartment where she lives with her teenage son, and turns the occasional trick to make ends meet, but something happens that changes her safe routine.",
+      "Language": "French",
+      "Country": "Belgium, France",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDNlYWVhYjctNTIzNi00NGJhLWFmNzYtZTVmOWUxNmYwM2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.5",
+      "imdbVotes": "16,628",
+      "imdbID": "tt0073198",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$19,858",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Jeanne Dielman, 23 quai du commerce, 1080 Bruxelles",
+      "plot_pt": "Na votação para os 100 melhores filmes da história do cinema que a Sight & Sound organiza de 10 em 10 anos, escolhidos por um extenso painel internacional, surge pela primeira vez no topo um filme de uma realizadora. Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles, de Chantal Akerman, sucede assim a Vertigo, de Hitchcock, o filme eleito em 2012.\n\r\n\r\nA obra-prima que consagrou Akerman segue as rotinas de uma mulher, viúva, mãe de um adolescente, ao longo de 3 dias. Subitamente, uma hora livre desregula essa rotina…",
+      "country": "Bélgica, França",
+      "year": 1975,
+      "director": "Chantal Akerman"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.7,
+      24.9,
+      22.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/2qL6rsvq29ueZ0ITh47Jj2F985R.jpg",
+      "https://image.tmdb.org/t/p/w1280/qKAsCqW3Z0fGMASemMWKf2PNb0w.jpg",
+      "https://image.tmdb.org/t/p/w1280/sJ3JJUw8a5arzDZwGpymOmin9me.jpg"
+    ],
+    "tmdb_id": "44012"
+  },
+  "Um Divã em Nova Iorque|1996": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/6/7/17967-a-couch-in-new-york-0-500-0-750-crop.jpg?v=f08dedcf5b",
+      "description": "A burnt-out New York psychoanalyst exchanges apartments with a Parisian woman. When his patients arrive, they talk to her and then pay. He returns early and becomes a patient as well.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 1996,
+      "lb_title": "A Couch in New York",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rv/r5/ge/s9/couch%20in%20new%20york-1920-1920-1080-1080-crop-000000.jpg?v=51b8ec0c5f",
+      "imdb_id": "tt0118018",
+      "tmdb_id": "47434"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Un divan à New York",
+      "plot_pt": "A meio caminho entre a comédia romântica e a screwball, entre a Europa e a América, entre a herança do cinema clássico e a contemporaneidade, nesta incursão americana de Chantal Akerman, numa troca de apartamentos “trocam-se” estilos de vida. Henry/William Hurt é um psicanalista americano que se vê confrontado com a “diferença” em Paris. Béatrice/Juliette Binoche, uma bailarina parisiense atrás da “novidade” em Nova Iorque. Um filme surpreendente.",
+      "country": "Bélgica, França, Alemanha",
+      "year": 1996,
+      "director": "Chantal Akerman"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.2,
+      21.2,
+      21.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/xoxOLdS3J0j1LGD1270MDjvGnU9.jpg",
+      "https://image.tmdb.org/t/p/w1280/nJavnKFzF225BzKxGdcoDMwaQj5.jpg",
+      "https://image.tmdb.org/t/p/w1280/i11IHbxBXVrJq99FrckysEkHtDB.jpg"
+    ],
+    "tmdb_id": "47434"
+  },
+  "Amanhã Mudamos de Casa|2004": {
+    "lbxd": {
+      "rating": 3.63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/5/1/7/8/65178-tomorrow-we-move-0-500-0-750-crop.jpg?v=48531f03a4",
+      "description": "Single woman Charlotte tries to write erotic fiction despite not having any sensual experience.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "Belgium",
+      "lb_director": "Chantal Akerman",
+      "lb_director_slug": "chantal-akerman",
+      "lb_year": 2004,
+      "lb_title": "Tomorrow We Move",
+      "backdrop": null,
+      "imdb_id": "tt0328990",
+      "tmdb_id": "78789"
+    },
+    "omdb": {
+      "Title": "Autour d'hier aujourd'hui et demain (on déménage)",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Chantal Akerman",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt31109865",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Demain on déménage",
+      "plot_pt": "Uma mãe (Aurore Clément) muda-se de armas e bagagens (piano e móveis incluídos) para a casa da filha depois da morte do marido. Depressa começa o pesadelo. A filha (Sylvie Testud) não consegue escrever o seu livro erótico, apesar dos conselhos da mãe que acha que percebe um bocadinho mais do assunto, enquanto a rapariga ainda tem muito que aprender. O espaço também é escasso e é preciso pensar em vender e mudar de casa - e aí começam as visitas dos potenciais compradores. Pelo meio, fantasmas do Holocausto, num tom de comédia com fundo trágico que, como diz a realizadora Chantal Akerman, \"só os pessimistas as sabem fazer\".\n“Há algo utópico sobre Amanhã Mudamos de Casa. É um filme optimista, daqueles que só os pessimistas sabem fazer. É esse o mote do filme. Porque preciso e quero-me mentalizar de que as coisas ainda são possíveis; que, para lá da tragédia, existe vida.” – Chantal Akerman",
+      "country": "França, Bélgica",
+      "year": 2004,
+      "director": "Chantal Akerman"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.4,
+      27.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/cgUOhA4FlNgntG3BWyu7q8sD88k.jpg",
+      "https://image.tmdb.org/t/p/w1280/dXtDdlO8O7Sa3k1CWMS2hW0ch55.jpg"
+    ],
+    "tmdb_id": "78789"
+  },
+  "Duas Estações, Dois Desconhecidos|2025": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/6/5/2/1339652-two-seasons-two-strangers-0-500-0-750-crop.jpg?v=294be8ef47",
+      "description": "In summer, Nagisa and Natsuo meet by the sea. Their vacant gazes reflect each other as they exchange awkward words and wade into the rain-drenched ocean. In winter, Li, a screenwriter, travels to a snow-covered village. There, she finds a guesthouse run by Benzo.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Sho Miyake",
+      "lb_director_slug": "sho-miyake-1",
+      "lb_year": 2025,
+      "lb_title": "Two Seasons, Two Strangers",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/3/9/6/5/2/tmdb/aJM7KIdC5mNPjqKp8NdwvzyHceS-1920-1920-1080-1080-crop-000000.jpg?v=a5c9ca5494",
+      "imdb_id": "tt37538491",
+      "tmdb_id": "1462735"
+    },
+    "omdb": {
+      "Title": "Two Seasons, Two Strangers",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "07 Nov 2025",
+      "Runtime": "89 min",
+      "Genre": "Drama",
+      "Director": "Shô Miyake",
+      "Writer": "Shô Miyake, Yoshiharu Tsuge",
+      "Actors": "Shim Eun-kyung, Yumi Kawai, Mansaku Takada",
+      "Plot": "In summer, Nagisa and Natsuo meet seaside exchanging distant looks and clumsy words in the rainy ocean. In winter, screenwriter Li arrives at a snowy village meeting Benzo at his guesthouse. Despite disconnected talks they embark ...",
+      "Language": "Japanese, Korean",
+      "Country": "Japan",
+      "Awards": "3 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhmY2M0ZDAtMzJkYy00MjQ3LThhMTYtYjE4ZTM3ODY4NGI4XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "414",
+      "imdbID": "tt37538491",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Tabi to Hibi",
+      "plot_pt": "No Verão, numa cidade costeira, Nagisa, turista, e Natsuo encontram-se e trocam palavras desconfortáveis perante o oceano azul. No Inverno, a argumentista Li, a lidar com um bloqueio criativo, visita uma aldeia coberta de neve, onde encontra uma pensão gerida pelo solitário Benzo. Com uma lembrança deixada pelo seu mentor, ela embarca numa viagem que dissolve as fronteiras entre realidade e memória. Momentos de surpresa, encontros lúdicos e breves ligações ecoam ao longo de duas estações, entrelaçando a vida de estranhos por paisagens de Verão e Inverno. Adaptando duas manga de Yoshitaru Tsuge, Sho Miyake concebe um estudo sensível e surpreendente sobre a conexão humana.",
+      "country": "Japão",
+      "genre": "Drama",
+      "year": 2025,
+      "director": "Sho Miyake",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/mv5bzdcwywmyytetyjvmzc00mzg2ltg0zdktmdy0mzqxmtiwmwiyxkeyxkfqcgc_v1_fmjpg_ux2160.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bntq1zwq4y2ytzgixyy00odk5ltgxn2etzdflywezy2q5nje0xkeyxkfqcgc_v1_fmjpg_ux2000.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bmdg2otg3mdgtnjazni00otliltg3odatyzzmyzzjmjnkzmu5xkeyxkfqcgc_v1_fmjpg_ux2160.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      24.4,
+      30.9,
+      23.3
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
+      "https://image.tmdb.org/t/p/w1280/hO7nwvpweIbnxGvVF6mc3eQkHKb.jpg",
+      "https://image.tmdb.org/t/p/w1280/wDI2jGf42RAHymKkagKwEfIJYDi.jpg"
+    ],
+    "tmdb_id": "1462735"
+  },
+  "De Gaulle: Liberdade|2026": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/1/0/0/1/1051001-de-gaulle-liberte-0-500-0-750-crop.jpg?v=1fbce325b9",
+      "description": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Antonin Baudry",
+      "lb_director_slug": "antonin-baudry",
+      "lb_year": 2026,
+      "lb_title": "De Gaulle: Liberté",
+      "backdrop": null,
+      "imdb_id": "tt35856133",
+      "tmdb_id": "1165369"
+    },
+    "omdb": {
+      "Title": "De Gaulle: Liberté",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "26 Jun 2026",
+      "Runtime": "157 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Antonin Baudry",
+      "Writer": "Antonin Baudry, Julian T. Jackson, Bérénice Vila",
+      "Actors": "Simon Abkarian, Niels Schneider, Anamaria Vartolomei",
+      "Plot": "1943–1944. To free France, General de Gaulle must unite a divided Resistance. He also fights to establish his legitimacy with the Allies.",
+      "Language": "French, English",
+      "Country": "France, Belgium, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NhODRhMWUtNTZlZi00YjJiLTk3ZTAtNWYyNjE4YjgyZTUyXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "1,748",
+      "imdbID": "tt35856133",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "De Gaulle: Liberté",
+      "plot_pt": "Junho de 1940. A França desmorona-se e assina o armistício. No meio do caos, um homem recusa-se a desistir. Sozinho contra todas as probabilidades, este general desconhecido foge para Londres, determinado a salvar o que resta da liberdade.\n\r\n\r\nSem exército, sem apoios, sem esperança. Mas movido por uma convicção irracional: a França, a sua França, não depôs as armas. Numa aposta derradeira, procura convencer o mundo de que a batalha por França não terminou, nem está perdida.\nA realidade, porém, é implacável e parece determinada a provar-lhe que está errado. Ainda assim, pouco a pouco, resistentes, estudantes rebeldes e soldados determinados erguem-se em Inglaterra, em França e em África para se juntarem à causa. A sua fé, audácia e sede de liberdade desafiam aquilo que a História parecia ter escrito de antemão.",
+      "country": "França",
+      "genre": "Thriller Geopolítico",
+      "year": 2026,
+      "director": "Antonin Baudry",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/dg_ma_08264-nr_giraud_photo-by-malgosia-abramowska.jpg",
+        "https://medeiafilmes.com/uploads/library/dg_ma_03880_churchill-eden_photo-by-malgosia-abramowska.jpg",
+        "https://medeiafilmes.com/uploads/library/dg_ma_00555_leclerc_by-malgosia-abramowska.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.2,
+      51.9,
+      32.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/pS7VXwb1sNk79F5GzgtEP5YzEHE.jpg",
+      "https://image.tmdb.org/t/p/w1280/g6Q1aGvW2k5sFaeBDxYtmVNzWiO.jpg",
+      "https://image.tmdb.org/t/p/w1280/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg"
+    ],
+    "tmdb_id": "1165369"
+  },
+  "Vai Seguir-te|2014": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-500-0-750-crop.jpg?v=0f234ef9c3",
+      "description": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "country": "USA",
+      "lb_director": "David Robert Mitchell",
+      "lb_director_slug": "david-robert-mitchell",
+      "lb_year": 2014,
+      "lb_title": "It Follows",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/hk/6q/84/oi/it-follows-1920-1920-1080-1080-crop-000000.jpg?v=153860ef84",
+      "imdb_id": "tt3235888",
+      "tmdb_id": "270303"
+    },
+    "omdb": {
+      "Title": "It Follows",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "13 Mar 2015",
+      "Runtime": "100 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "David Robert Mitchell",
+      "Writer": "David Robert Mitchell",
+      "Actors": "Maika Monroe, Keir Gilchrist, Olivia Luccardi",
+      "Plot": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "25 wins & 44 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZiYWRiYjAtODU0NS00YzAzLTk2MzQtZGVlMzVjM2M3MGQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "6.8",
+      "imdbVotes": "296,741",
+      "imdbID": "tt3235888",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$14,674,076",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "It Follows",
+      "plot_pt": "Para a jovem Jay, de 19 anos, o Outono deveria ser sinónimo de escola, rapazes e fins de semana no lago. Mas na sequência de um encontro sexual aparentemente inocente, Jay vê-se atormentada por estranhas visões e pela terrível sensação latente de que alguém ou algo está a segui-la.",
+      "country": "EUA",
+      "year": 2014,
+      "director": "David Robert Mitchell"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      30.1,
+      30.9,
+      58.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zXiF4O7iMVVZVxGe3AM6dScyi7z.jpg",
+      "https://image.tmdb.org/t/p/w1280/keEWjA5ykLJo851tIBFdmkxPxxh.jpg",
+      "https://image.tmdb.org/t/p/w1280/hpf1Q0sv3RDNSOt4BinYKpAgTUa.jpg"
+    ],
+    "tmdb_id": "270303"
+  },
+  "Drácula|2026": {
+    "lbxd": {
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/4/0/0/1/1204001-dracula-2025-1-0-500-0-750-crop.jpg?v=4fb1824d1a",
+      "description": "In modern-day Transylvania, vampire hunts and labor strikes collide with sci-fi twists, romance, and AI-crafted tales, as multiple storylines blend folklore, classic horror, and contemporary elements into a fresh take on Dracula's legend.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "country": "Romania",
+      "lb_director": "Radu Jude",
+      "lb_director_slug": "radu-jude",
+      "lb_year": 2025,
+      "lb_title": "Dracula",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ya/m4/kr/u7/dracula-1920-1920-1080-1080-crop-000000.jpg?v=d42940ad11",
+      "imdb_id": "tt32448239",
+      "tmdb_id": "1323409"
+    },
+    "omdb": {
+      "Title": "Dracula",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "31 Oct 2025",
+      "Runtime": "170 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Radu Jude",
+      "Writer": "Radu Jude",
+      "Actors": "Ilinca Manolache, Alina Serban, Serban Pavlu",
+      "Plot": "In modern-day Transylvania, vampire hunts and labor strikes collide with sci-fi twists, romance, and AI-crafted tales, as multiple storylines blend folklore, classic horror, and contemporary elements into a fresh take on Dracula's...",
+      "Language": "Romanian, English, German",
+      "Country": "Romania, Austria, Luxembourg, Brazil, United Kingdom, Switzerland",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZjMjkyMDItODIwYi00MWI0LWJjNGYtMGFjNTA1NTM5Y2NjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "51",
+      "imdbID": "tt32448239",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Dracula",
+      "plot_pt": "O que acontece quando um jovem e curioso realizador desafia a sua criatividade com as possibilidades ilimitadas de uma inteligência artificial falsa? Uma mistura surpreendente de várias histórias, de tempos antigos e modernos, sobre o mito original de Drácula: uma caça a vampiros, zombies e Drácula a interromper uma greve, um conto de ficção científica sobre o regresso de Vlad, o Empalador, uma adaptação da primeira novela romena de vampiros, um romance trágico, um conto popular vulgar, histórias kitsch geradas por IA… e muito mais!",
+      "country": "Roménia, Brasil, Reino Unido",
+      "genre": "Comédia, Terror",
+      "year": 2026,
+      "director": "Radu Jude",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/dracula_216.jpg",
+        "https://medeiafilmes.com/uploads/library/dracula_215.jpg",
+        "https://medeiafilmes.com/uploads/library/dracula_214.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.5,
+      49.4,
+      29.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ucSE2LQXZ9KYUMZOZ9m1w9KPXp3.jpg",
+      "https://image.tmdb.org/t/p/w1280/7EIOi4Q2TTf19wAoCxeui0aEHOU.jpg",
+      "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
+    ],
+    "tmdb_id": "1323409"
+  },
+  "O Monte dos Vendavais|1953": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/2/0/21820-wuthering-heights-0-500-0-750-crop.jpg?v=326a827451",
+      "description": "In 19th-century Mexico, young orphan Alejandro is adopted by the wealthy, landowning Earnshaw family and moves into their estate, Wuthering Heights. Soon, the new resident falls for his compassionate foster sister, Catalina. The two share a remarkable bond that seems unbreakable until Catalina, feeling the pressure of social convention, suppresses her feelings and marries Eduardo, a man of means who befits her stature. Alejandro vows to win her back.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1954,
+      "lb_title": "Wuthering Heights",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ju/tw/v1/ct/wuthering-1920-1920-1080-1080-crop-000000.jpg?v=bd65a4cf96",
+      "imdb_id": "tt0046675",
+      "tmdb_id": "43328"
+    },
+    "omdb": {
+      "Title": "Wuthering Heights",
+      "Year": "1954",
+      "Rated": "N/A",
+      "Released": "30 Jun 1954",
+      "Runtime": "91 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luis Buñuel",
+      "Writer": "Emily Brontë, Luis Buñuel, Julio Alejandro",
+      "Actors": "Irasema Dilián, Jorge Mistral, Lilia Prado",
+      "Plot": "A partial retelling of Wuthering Heights in 19th century Mexico.",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyYjE1YTItYmY5OS00MDA2LTllY2YtZDJiYjk0M2U2NDNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "1,390",
+      "imdbID": "tt0046675",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Abismos de Pasión",
+      "plot_pt": "Alejandro regressa aos lugares do seu passado. Reencontra Catalina, amiga de infância, que para ele sempre fora como uma irmã, a despeito das diferenças sociais entre ambos. Catalina casou, entretanto, com Eduardo, para se vingar da partida de Alejandro. Este, não suportando ver Catalina casada com outro, humilha-a. Casa com Isabel, irmã de Eduardo, que ele não ama e negligencia. Grávida, Catalina morre durante o parto. Alejandro profana a sua tumba, abre o caixão, e contempla cadáver dela. Ricardo, irmão de Catalina, segue-o e mata-o a tiro.",
+      "country": "México",
+      "genre": "Drama, Romance",
+      "year": 1953,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.2,
+      45.1,
+      43.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zBTCJq6mIZus8V1AbPxUNGcEImE.jpg",
+      "https://image.tmdb.org/t/p/w1280/r8ordppo5kDyw6kUjYyl40mTSA2.jpg",
+      "https://image.tmdb.org/t/p/w1280/kjqy4dbFgH1o9biiRcmRqu5oqKm.jpg"
+    ],
+    "tmdb_id": "43328"
+  },
+  "Susana|1951": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/0/5/3/5/20535-susana-the-devil-the-flesh--0-500-0-750-crop.jpg?v=ee6d04a76c",
+      "description": "The story of a girl of questionable mental stability who escapes from incarceration and ends up at a plantation where she disrupts a working family's daily routines and chemistry.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1951,
+      "lb_title": "Susana",
+      "backdrop": null,
+      "imdb_id": "tt0043018",
+      "tmdb_id": "44655"
+    },
+    "omdb": {
+      "Title": "Susana",
+      "Year": "1951",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "86 min",
+      "Genre": "Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Manuel Reachi, Jaime Salvador, Rodolfo Usigli",
+      "Actors": "Rosita Quintana, Fernando Soler, Víctor Manuel Mendoza",
+      "Plot": "An unstable young woman escapes from a reformatory for seriously wayward girls and deceptively finds shelter in the kind home of a frighteningly nice and decent family. Little by little, she causes unrest and discord among the mem...",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5YjE2NWMtMmE0Yi00ZWJiLWI2ODEtNmJlZjllYWMzYzg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "2,495",
+      "imdbID": "tt0043018",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Susana",
+      "plot_pt": "Susana, reclusa numa prisão de mulheres, evade-se por um milagre e chega, numa noite de tempestade, a uma quinta, onde lhe oferecem emprego como doméstica. Susana seduz, simultaneamente, o chefe de família, o seu filho Alberto, e o contramestre Jesús. O pai gostaria de a ver continuar na quinta, ocupando o lugar da sua mulher, enquanto os outros dois preferiam fugir com ela. Ciumento, o pai despede Jesús. Este, sabendo que a polícia procura uma mulher foragida, denuncia Susana. Susana é presa e a harmonia regressa à quinta.",
+      "country": "México",
+      "genre": "Drama",
+      "year": 1951,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      48.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/atNiMTTg211WNG5Jv7S2Fs23j0h.jpg"
+    ],
+    "tmdb_id": "44655"
+  },
+  "A Filha do Engano|1951": {
+    "lbxd": {
+      "rating": 3.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/1/2/16712-daughter-of-deceit-0-500-0-750-crop.jpg?v=d4703288b6",
+      "description": "In the drama, a father, firmly believing that the baby daughter in his arms is not his own, abandons her upon the doorstep of the town drunk. Many years pass, and the man finds himself continually wracked with guilt about deserting her.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1951,
+      "lb_title": "Daughter of Deceit",
+      "backdrop": null,
+      "imdb_id": "tt0043639",
+      "tmdb_id": "48849"
+    },
+    "omdb": {
+      "Title": "Daughter of Deceit",
+      "Year": "1951",
+      "Rated": "N/A",
+      "Released": "29 Aug 1951",
+      "Runtime": "78 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Carlos Arniches, Luis Alcoriza, Janet Alcoriza",
+      "Actors": "Fernando Soler, Alicia Caro, Fernando Soto",
+      "Plot": "After discovering he's being cheated on by his wife María, Quintin kicks her out of the house. Upon leaving, his wife confesses that their daughter Martha is actually not Quintin'd daughter. Quintin abandons the child in front of ...",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDViOTkyN2EtMDUwNC00MWQyLTk1YzMtY2MxYmE2MmYzNjMzXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "809",
+      "imdbID": "tt0043639",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "La hija del engaño",
+      "plot_pt": "Don Quintin é um caixeiro-viajante amargo e frustrado. Um dia surpreende a mulher com o amante, expulsa-a de casa, não sem que antes esta lhe confesse que a filha, Marta, não é dele. Don Quintin abandona Marta à sua sorte, até que Lencho, um bêbedo, a recolhe. Definitivamente decepcionado com a vida, Don Quintin abre um cabaret chamado “O Inferno”, e torna-se num patrão desapiedado. Entretanto, a sua ex-mulher, pouco antes de morrer, diz-lhe que mentiu e que, afinal, Marta é mesmo sua filha. Quintin aceita Marta novamente, pagando-lhe uma pensão. Entretanto, Marta, já uma jovem mulher, apaixona-se por Raco e planeia fugir com ele, precisamente no dia em que o pai decide recuperá-la. Quando finalmente a encontra, Marta anuncia-lhe que espera um filho.",
+      "country": "México",
+      "genre": "Comédia, Drama",
+      "year": 1951,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      30.7,
+      30.8,
+      26.4
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/zHn3741Xxmi6NLW9IYGi0fwFFHR.jpg",
+      "https://image.tmdb.org/t/p/w1280/ixDFH2ukzNKWZ6xDAPWhhnOMH6n.jpg",
+      "https://image.tmdb.org/t/p/w1280/vFGN1lZwySStO8sYBlNf12cnQnM.jpg"
+    ],
+    "tmdb_id": "48849"
+  },
+  "A Bola Negra|2026": {
+    "lbxd": {
+      "rating": 4.32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/0/3/0/1302030-la-bola-negra-0-500-0-750-crop.jpg?v=d8dd544a16",
+      "description": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "Spain",
+      "lb_director": "Javier Ambrossi",
+      "lb_director_slug": "javier-ambrossi",
+      "lb_year": 2026,
+      "lb_title": "La Bola Negra",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/bn/s6/4i/13/8TzXngI47d60TFnM5i91PAlXdKo-1920-1920-1080-1080-crop-000000.jpg?v=84dd117ec3",
+      "imdb_id": "tt35511966",
+      "tmdb_id": "1422041"
+    },
+    "omdb": {
+      "Title": "La bola negra",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "02 Dec 2026",
+      "Runtime": "155 min",
+      "Genre": "Drama, History, Musical",
+      "Director": "Javier Ambrossi, Javier Calvo",
+      "Writer": "Javier Ambrossi, Javier Calvo, Alberto Conejero",
+      "Actors": "Penélope Cruz, Glenn Close, Miguel Bernardeau",
+      "Plot": "Explores what it means to be gay throughout different eras, focusing on \"three existences\" that are connected through themes of sexuality, desire, pain, and inheritance.",
+      "Language": "Spanish",
+      "Country": "Spain, France",
+      "Awards": "4 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU5ODg4MDMtNjliOS00YWYzLWFlOGUtOGUwMjNmZGUyOWQ0XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.0",
+      "imdbVotes": "820",
+      "imdbID": "tt35511966",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "La Bola Negra",
+      "plot_pt": "A Bola Negra conta as histórias interligadas de três homens em três épocas diferentes. Três vidas intimamente ligadas pela sexualidade e pelo desejo, pela dor e pela herança, e por uma das últimas obras inacabadas de Federico García Lorca.",
+      "country": "Espanha, França",
+      "genre": "Drama, Musical",
+      "year": 2026,
+      "director": "Javier Calvo, Javier Ambrossi",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/7-1536x864.jpg",
+        "https://medeiafilmes.com/uploads/library/6-4-1536x864.jpg",
+        "https://medeiafilmes.com/uploads/library/2-6-1536x864.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.8,
+      21.5,
+      39.7
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/wM4LLukeBIfhjn7LcVP6VIced4p.jpg",
+      "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "https://image.tmdb.org/t/p/w1280/toaF7weZaKRmdpQyUY7xxN3X9ic.jpg"
+    ],
+    "tmdb_id": "1422041"
+  },
+  "Cavalo Selvagem Nove|2026": {
+    "lbxd": {
+      "rating": 4.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
+      "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Martin McDonagh",
+      "lb_director_slug": "martin-mcdonagh",
+      "lb_year": 2026,
+      "lb_title": "Wild Horse Nine",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7",
+      "imdb_id": "tt15799564",
+      "tmdb_id": "891621"
+    },
+    "omdb": {
+      "Title": "Wild Horse Nine",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "06 Nov 2026",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin McDonagh",
+      "Writer": "Martin McDonagh",
+      "Actors": "Sam Rockwell, Steve Buscemi, Parker Posey",
+      "Plot": "CIA agents Chris and Lee face a trust-testing mission from Santiago to Easter Island during 1973 in Chile.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15799564",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Wild Horse Nine",
+      "plot_pt": "Pouco antes do golpe chileno de 1973, os agentes da CIA, Chris (John Malkovich) e Lee (Sam Rockwell) são enviados de Santiago para a Ilha de Páscoa pelo seu chefe de serviço, MJ (Steve Buscemi). Entre as icónicas estátuas da ilha e enquanto os parceiros de longa data lidam com o seu passado obscuro e conspirações presentes, o recém-descoberto vínculo de Chris com um par de estudantes rebeldes (Mariana di Girolamo e Ailín Salas) ameaça transformar a viagem de todos neste paraíso remoto num verdadeiro caos.",
+      "country": "EUA, França, Reino Unido, Áustria",
+      "genre": "Acção, Comédia, Crime",
+      "year": 2026,
+      "director": "Martin McDonagh",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/whn-03439_v1.jpg",
+        "https://medeiafilmes.com/uploads/library/whn-01249_v1.jpg",
+        "https://medeiafilmes.com/uploads/library/whn-00412_v1.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.0,
+      59.3,
+      27.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/b17UWf3LqHgKolQkXckne32qv0.jpg",
+      "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+      "https://image.tmdb.org/t/p/w1280/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg"
+    ],
+    "tmdb_id": "891621"
+  },
+  "Uma Mulher Sem Amor|1951": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/6/7/8/16678-a-woman-without-love-0-500-0-750-crop.jpg?v=9b9f2e38de",
+      "description": "After indulging in an affair with a man (a friend of the family) she truly loves, a woman returns to her young son and husband for good, and loses contact with the man. Her husband is unaware of the affair. Twenty years later, there is news that the friend has died and left all of his money to the younger son in the family, which leads us to question this younger son's biological origin.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1952,
+      "lb_title": "A Woman Without Love",
+      "backdrop": null,
+      "imdb_id": "tt0043824",
+      "tmdb_id": "48883"
+    },
+    "omdb": {
+      "Title": "A Woman Without Love",
+      "Year": "1952",
+      "Rated": "Not Rated",
+      "Released": "31 Jul 1952",
+      "Runtime": "85 min",
+      "Genre": "Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Guy de Maupassant, Jaime Salvador, Rodolfo Usigli",
+      "Actors": "Rosario Granados, Julio Villarreal, Tito Junco",
+      "Plot": "After indulging in an affair with a man (a friend of the family) she truly loves, a woman returns to her young son and husband for good, and loses contact with the man. Her husband is unaware of the affair. Twenty years later, the...",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBlYTIwYmMtZDk2OS00MzFlLWIzNTUtMDAzODRhNzYxYTViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "894",
+      "imdbID": "tt0043824",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Una Mujer sin Amor",
+      "plot_pt": "Carlos, um antiquário, recebe a notícia de que o seu filho Carlito cometeu um roubo. O pai promete um castigo exemplar. A criança, trancada no quarto, consegue fugir. Na sua fuga, é recolhido por um engenheiro, Julio, que o devolve à casa da família. Rosario, mulher de Carlos, apaixona-se por Julio. Do romance nasce um filho Miguel, cuja identidade Rosario esconde à família. Carlos adoece do coração e Rosario, vendo nessa doença um sinal do destino, sente-se culpada, preferindo ficar junto do marido a fugir com Julio. Alguns anos depois, Julio morre doença e deixa todos os seus bens a Miguel. Quando o marido morre, Rosario coloca uma fotografia de Julio na chaminé e põe-se a tricotar.",
+      "country": "México",
+      "genre": "Drama",
+      "year": 1951,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.7,
+      23.8,
+      38.6
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/ibWi1sjBr3bLGMXvDwLJNwhRH2J.jpg",
+      "https://image.tmdb.org/t/p/w1280/rzY0PYJIlYGxy2hm3BshNR4lwhF.jpg",
+      "https://image.tmdb.org/t/p/w1280/4boGiYMisxXNIwxMbhsDJi38nzi.jpg"
+    ],
+    "tmdb_id": "48883"
+  },
+  "A Febre Sobe em El Pao|1959": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/6/9/8/16698-fever-mounts-at-el-pao-0-500-0-750-crop.jpg?v=5b850fced4",
+      "description": "After Caribbean despot Mariano Vargas is murdered at the hands of his enraged populace, his secretary Ramón Vázquez takes not just control but also Vargas' widow Inés, with whom he's been having an affair. Special military unit leader Alejandro Gual arrives to overthrow Vázquez by turning the people and Inés against him.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1959,
+      "lb_title": "Fever Mounts at El Pao",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/h5/yw/a7/2q/1SXABeNy4oMwqpnFp2WGLCcHuGY-1920-1920-1080-1080-crop-000000.jpg?v=392d3b924a",
+      "imdb_id": "tt0052810",
+      "tmdb_id": "48863"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "La Fièvre Monte à El Pao",
+      "plot_pt": "Num país imaginário da América latina, Ramón Vázquez, um idealista, está secretamente apaixonado por Inés Vargas, mulher do seu superior hierárquico, governador e director da prisão. Vargas é assassinado, provocando uma sangrenta repressão conduzida por Gual. Para Gual, Vázquez é um suspeito. Gual tenta seduzir Inés e chantageia-a, dizendo-lhe que se dormir com ele deixará Vázquez em paz. Cardenas, um jurista que foi professor de Vázquez, é preso e morre na prisão. Vázquez acalma os ânimos e, em virtude de conseguir abrandar a espiral da revolta, sobe na hierarquia do regime. Manda soldados prenderem Inés - que tentou matar Gual - mas, desobedecendo às suas ordens, eles matam-na.",
+      "country": "França, México",
+      "genre": "Drama",
+      "year": 1959,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/376830_full1.jpg",
+        "https://medeiafilmes.com/uploads/library/arton7026-1450x800-c1.jpg",
+        "https://medeiafilmes.com/uploads/library/fievre-monte-a-el-pao-59-01-g1.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.2,
+      36.5,
+      31.5
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dBlWShywAgnUILzEzJjnrP2rb5j.jpg",
+      "https://image.tmdb.org/t/p/w1280/1SXABeNy4oMwqpnFp2WGLCcHuGY.jpg",
+      "https://image.tmdb.org/t/p/w1280/bSvOYovY92xj80yJ94eiRB4TJXi.jpg"
+    ],
+    "tmdb_id": "48863"
+  },
+  "O Bruto|1953": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/8/1/22581-the-brute-0-500-0-750-crop.jpg?v=8b8e34187a",
+      "description": "A tough young man, who helps to kick poor people out of their houses, falls in love with a girl. She lives with her father in the building about to be demolished.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Mexico",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1953,
+      "lb_title": "The Brute",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/87/zc/9j/na/uTrf7aWMduVdjLsRDi5SUq5B1hA-1920-1920-1080-1080-crop-000000.jpg?v=c8c7d68aaa",
+      "imdb_id": "tt0044453",
+      "tmdb_id": "42502"
+    },
+    "omdb": {
+      "Title": "The Brute",
+      "Year": "1953",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "81 min",
+      "Genre": "Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Alcoriza, Luis Buñuel",
+      "Actors": "Pedro Armendáriz, Katy Jurado, Rosita Arenas",
+      "Plot": "A tough young man who helps to evict poor people from their houses falls in love with a girl who lives with her father in a building that's about to be demolished.",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFkNDc5YzItZjliNy00YTdkLWIxM2UtYjIwNDIxYWYzNTU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "2,302",
+      "imdbID": "tt0044453",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "El Bruto",
+      "plot_pt": "Um proprietário quer expulsar os moradores de um bairro pobre. Organiza-se uma revolta, liderada por Don Carmelo. Para suster a rebelião, contrária aos seus projectos, o proprietário contrata Pedro, dito “O Bruto”, um funcionário do matadouro. O “Bruto” acaba por matar, acidentalmente, Don Carmelo. Procurado pela polícia, o “Bruto” é abrigado pelo proprietário. A mulher deste, Paloma, passa a ser visita frequente da cama do “Bruto”. Mais uma vez em fuga depois de ser reconhecido pelos moradores, o “Bruto” esconde-se em casa de Meche, a filha de Carmelo, por quem se apaixona. Vexada, Paloma diz a Meche que o “Bruto” é o assassino do seu pai, e conta ao marido que o “Bruto” tentou abusar dela. No confronto que se segue, o “Bruto” mata o proprietário, antes de ser morto pela polícia, conduzida por Paloma.",
+      "country": "México",
+      "genre": "Drama",
+      "year": 1953,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.1,
+      21.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/uTrf7aWMduVdjLsRDi5SUq5B1hA.jpg",
+      "https://image.tmdb.org/t/p/w1280/nUSaFjbjvpLpVlTFU02ANUc4FB7.jpg"
+    ],
+    "tmdb_id": "42502"
+  },
+  "Onoda, 10 000 Noites na Selva|2021": {
+    "lbxd": {
+      "rating": 3.81,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/9/0/0/1/619001-onoda-10-000-nights-in-the-jungle-0-500-0-750-crop.jpg?v=1ef428107e",
+      "description": "Japan, 1944. Trained for intelligence work, Hiroo Onoda, 22 years old, discovers a philosophy contrary to the official line: no suicide; stay alive whatever happens; the mission is more important than anything else. Sent to Lubang, a small island in the Philippines where the Americans are about to land, this role will be to wage a guerrilla war until the return of the Japanese troops. The Empire will surrender soon after; Onoda, 10,000 days later.",
+      "genres": [
+        "War",
+        "Drama",
+        "Adventure",
+        "History"
+      ],
+      "country": "France",
+      "lb_director": "Arthur Harari",
+      "lb_director_slug": "arthur-harari",
+      "lb_year": 2021,
+      "lb_title": "Onoda: 10,000 Nights in the Jungle",
+      "backdrop": null,
+      "imdb_id": "tt9844938",
+      "tmdb_id": "695089"
+    },
+    "omdb": {
+      "Title": "Onoda: 10,000 Nights in the Jungle",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "13 Dec 2022",
+      "Runtime": "173 min",
+      "Genre": "Adventure, Drama, History",
+      "Director": "Arthur Harari",
+      "Writer": "Bernard Cendron, Arthur Harari, Vincent Poymiro",
+      "Actors": "Yûya Endô, Kanji Tsuda, Yûya Matsuura",
+      "Plot": "When Japan surrenders at the end of World War II, soldier Hiroo Onoda retreats into the jungles of the Philippines to continue the war himself for another 10,000 days.",
+      "Language": "Japanese, Filipino",
+      "Country": "France, Japan, Germany, Belgium, Italy, Cambodia",
+      "Awards": "5 wins & 20 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjk4MmI3ZGYtODg4Zi00ZjBkLTg1YWMtY2NiMmIzNDc0ZWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.2",
+      "imdbVotes": "3,099",
+      "imdbID": "tt9844938",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2021,
+      "plot_pt": "Quando o Japão se rende no final da Segunda Guerra Mundial, o soldado Hiroo Onoda recua para as selvas das Filipinas para continuar a guerra por si próprio durante mais 10.000 dias."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      17.6,
+      34.5,
+      25.8
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/gt4R31AIfMfbBek2EUnRWCBUDma.jpg",
+      "https://image.tmdb.org/t/p/w1280/1DfXDVnpT9A5egcL0ofYXI14dOO.jpg",
+      "https://image.tmdb.org/t/p/w1280/ggEQRywXw7EQgt00Ll0WtRKawXI.jpg"
+    ],
+    "tmdb_id": "695089"
   }
 }
