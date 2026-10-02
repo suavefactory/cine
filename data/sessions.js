@@ -1184,7 +1184,8 @@ window.CINEMA_DATA = {
         37.5
       ],
       "country": "Portugal",
-      "director_lbxd_slug": "sergio-graciano"
+      "director_lbxd_slug": "sergio-graciano",
+      "title_en": "Memories of Prison"
     },
     {
       "id": "nimas_misterios-de-lisboa-2010",
