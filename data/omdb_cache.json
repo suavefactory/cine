@@ -19854,7 +19854,7 @@
       "https://image.tmdb.org/t/p/w1280/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg"
     ],
     "tmdb_id": "1396",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Lavagante|2025": {
     "lbxd": {
@@ -21181,7 +21181,7 @@
       "https://image.tmdb.org/t/p/w1280/oIVriGA07qiXlAwdOmeDhVDFIRb.jpg"
     ],
     "tmdb_id": "36265",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "No Coração do Escuridão|2017": {
     "lbxd": null,
@@ -75125,7 +75125,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "72848",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Viva Maria!|1965": {
     "lbxd": {
@@ -75951,7 +75951,7 @@
       "https://image.tmdb.org/t/p/w1280/bQ0qOig5NYrta7UBB3w9K4XL9bc.jpg"
     ],
     "tmdb_id": "63208",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Le Parti Des Choses: Bardot / Godard|1963": {
     "lbxd": {
@@ -76151,7 +76151,7 @@
       "https://image.tmdb.org/t/p/w1280/21q3384GdqRkPwipR279KIEqQjq.jpg"
     ],
     "tmdb_id": "254018",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Vie Privée|1961": {
     "lbxd": {
@@ -76488,7 +76488,10 @@
       "Response": "True"
     },
     "wiki": null,
-    "cinema": {},
+    "cinema": {
+      "year": 2026,
+      "country": "tados Unidos"
+    },
     "dir_checked": true,
     "stills_focus": [
       18.2,
@@ -76906,7 +76909,7 @@
       "https://medeiafilmes.com/uploads/library/10-1024x503.png"
     ],
     "tmdb_id": "1510390",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Memórias do Cárcere|2026": {
     "lbxd": {
@@ -77222,7 +77225,7 @@
       "https://image.tmdb.org/t/p/w1280/ngxcfLFMefoFl6kzEth2OsMSRxz.jpg"
     ],
     "tmdb_id": "1165366",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Um Cão Andaluz|1929": {
     "lbxd": {
@@ -77462,7 +77465,7 @@
       "https://image.tmdb.org/t/p/w1280/pfPz4by5WD8FVMPrT4CdiemSW1B.jpg"
     ],
     "tmdb_id": "43344",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Histórias Paralelas|2026": {
     "lbxd": {
@@ -78064,7 +78067,7 @@
       "https://image.tmdb.org/t/p/w1280/dXtDdlO8O7Sa3k1CWMS2hW0ch55.jpg"
     ],
     "tmdb_id": "78789",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Duas Estações, Dois Desconhecidos|2025": {
     "lbxd": {
@@ -78145,7 +78148,7 @@
       "https://image.tmdb.org/t/p/w1280/wDI2jGf42RAHymKkagKwEfIJYDi.jpg"
     ],
     "tmdb_id": "1462735",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "De Gaulle: Liberdade|2026": {
     "lbxd": {
@@ -78223,7 +78226,7 @@
       "https://image.tmdb.org/t/p/w1280/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg"
     ],
     "tmdb_id": "1165369",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Vai Seguir-te|2014": {
     "lbxd": {
@@ -78386,7 +78389,7 @@
       "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
     ],
     "tmdb_id": "1323409",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Monte dos Vendavais|1953": {
     "lbxd": {
@@ -78535,7 +78538,7 @@
       "https://image.tmdb.org/t/p/w1280/atNiMTTg211WNG5Jv7S2Fs23j0h.jpg"
     ],
     "tmdb_id": "44655",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Filha do Engano|1951": {
     "lbxd": {
@@ -78608,7 +78611,7 @@
       "https://image.tmdb.org/t/p/w1280/vFGN1lZwySStO8sYBlNf12cnQnM.jpg"
     ],
     "tmdb_id": "48849",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Bola Negra|2026": {
     "lbxd": {
@@ -78777,7 +78780,7 @@
       "https://image.tmdb.org/t/p/w1280/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg"
     ],
     "tmdb_id": "891621",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Uma Mulher Sem Amor|1951": {
     "lbxd": {
@@ -78850,7 +78853,7 @@
       "https://image.tmdb.org/t/p/w1280/4boGiYMisxXNIwxMbhsDJi38nzi.jpg"
     ],
     "tmdb_id": "48883",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Febre Sobe em El Pao|1959": {
     "lbxd": {
@@ -78896,7 +78899,7 @@
       "https://image.tmdb.org/t/p/w1280/bSvOYovY92xj80yJ94eiRB4TJXi.jpg"
     ],
     "tmdb_id": "48863",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Bruto|1953": {
     "lbxd": {
@@ -78971,7 +78974,7 @@
       "https://image.tmdb.org/t/p/w1280/nUSaFjbjvpLpVlTFU02ANUc4FB7.jpg"
     ],
     "tmdb_id": "42502",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Onoda, 10 000 Noites na Selva|2021": {
     "lbxd": {
@@ -79050,7 +79053,7 @@
       "https://image.tmdb.org/t/p/w1280/ggEQRywXw7EQgt00Ll0WtRKawXI.jpg"
     ],
     "tmdb_id": "695089",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Nova ’78|2025": {
     "lbxd": {
@@ -79490,5 +79493,277 @@
     ],
     "tmdb_id": "48883",
     "wiki_tries": 1
+  },
+  "La Plage Noire|2001": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/6/5/8/1/326581-the-black-beach-0-500-0-750-crop.jpg?v=267ad528ff",
+      "description": "An exhausted militant wants to take a break from the incessant frenzy surrounding him. His country’s dictatorship is on its last legs and chaos reigns. His wife Sylvie leaves their country for France. She writes about the new democracy struggling to be born back home. His daughter Joyce must hide out in the deserted childhood home in the solitude and infinity of the Black Beach. Several adversaries – the militia of a hazy regime in his native land and the Paris police – wage a strange game of chess in which he is the pawn. Threats abound and he’s haunted by his past, his fears, dead friends. He has three allies: his wife, his daughter, and an old girlfriend from his fighting days.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Poland",
+      "lb_director": "Michel Piccoli",
+      "lb_director_slug": "michel-piccoli",
+      "lb_year": 2001,
+      "lb_title": "The Black Beach",
+      "backdrop": null,
+      "imdb_id": "tt0260283",
+      "tmdb_id": "392028"
+    },
+    "omdb": {
+      "Title": "La plage noire",
+      "Year": "2001",
+      "Rated": "N/A",
+      "Released": "12 Dec 2001",
+      "Runtime": "114 min",
+      "Genre": "Drama",
+      "Director": "Michel Piccoli",
+      "Writer": "Ludivine Clerc, François Maspero, Michel Piccoli",
+      "Actors": "Jerzy Radziwilowicz, Dominique Blanc, Jade Fortineau",
+      "Plot": "After a period of dictatorial rule, an imaginary country finds itself in the middle of learning democracy. A., a fervent supporter of this new freedom, finds himself threatened with death by members of the old regime.",
+      "Language": "French",
+      "Country": "France, Portugal, Switzerland, Poland",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE3ZDU4NzEtMTJhZS00ZWFlLThjZDEtY2I5MGI2NWE3YzE1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.9",
+      "imdbVotes": "60",
+      "imdbID": "tt0260283",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "392028"
+  },
+  "Insiang|1976": {
+    "lbxd": {
+      "rating": 4.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/5/5/8/87558-insiang-0-500-0-750-crop.jpg?v=36b26c7f6c",
+      "description": "A story about the life of a young girl living with her mother in the slums of Manila, which becomes unbearable when her mother's young boyfriend moves in with them.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1976,
+      "lb_title": "Insiang",
+      "backdrop": null,
+      "imdb_id": "tt0077740",
+      "tmdb_id": "108949"
+    },
+    "omdb": {
+      "Title": "Insiang",
+      "Year": "1976",
+      "Rated": "TV-14",
+      "Released": "06 Dec 1978",
+      "Runtime": "95 min",
+      "Genre": "Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Mario O'Hara, Lamberto E. Antonio",
+      "Actors": "Hilda Koronel, Mona Lisa, Rez Cortez",
+      "Plot": "The life of a young girl living with her mother in the slums of Manila becomes unbearable when her mother's young boyfriend moves in with them.",
+      "Language": "Filipino, Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "7 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlOTFiMDUtNjYyYS00YTI1LTgzZTUtNDAxN2YwNmUyZWU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,313",
+      "imdbID": "tt0077740",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.7,
+      40.2,
+      43.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/o30k6ehjyiNwFoHeytZH9Gcdo64.jpg",
+      "https://image.tmdb.org/t/p/w1280/l3Ivdu1FiRRn7UWM4mxs2La44qr.jpg",
+      "https://image.tmdb.org/t/p/w1280/2jszHkRpzO6Z3gS0IvIBue0VHHE.jpg"
+    ],
+    "tmdb_id": "108949"
+  },
+  "Tinimbang Ka Ngunit Kulang|1974": {
+    "lbxd": {
+      "rating": 3.85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/1/7/126617-weighed-but-found-wanting-0-500-0-750-crop.jpg?v=30cd51bb5c",
+      "description": "A privileged teenager, disillusioned with the hypocrisy he witnesses in his small town, forms a bond with a lonely man with leprosy and a mentally distressed homeless woman.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1974,
+      "lb_title": "Weighed But Found Wanting",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/i1/ss/w5/mt/b9MDsflWyVC3pTjfgauCO4PRFi7-1920-1920-1080-1080-crop-000000.jpg?v=3e303982d0",
+      "imdb_id": "tt0072295",
+      "tmdb_id": "172472"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      22.2,
+      46.5,
+      35.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dbNdMdBIqOaUvb4Oxqb7GEfX4Zs.jpg",
+      "https://image.tmdb.org/t/p/w1280/fjG3jXHxDmwI2tbY51QH9oeXSqp.jpg",
+      "https://image.tmdb.org/t/p/w1280/b9MDsflWyVC3pTjfgauCO4PRFi7.jpg"
+    ],
+    "tmdb_id": "172472"
+  },
+  "As Asas Do Desejo|1987": {
+    "lbxd": {
+      "rating": 4.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/7/51907-wings-of-desire-0-500-0-750-crop.jpg?v=9b4044c82d",
+      "description": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "country": "Germany",
+      "lb_director": "Wim Wenders",
+      "lb_director_slug": "wim-wenders",
+      "lb_year": 1987,
+      "lb_title": "Wings of Desire",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/l2/tf/kt/wx/wings-desire-1920-1920-1080-1080-crop-000000.jpg?v=927a8faa46",
+      "imdb_id": "tt0093191",
+      "tmdb_id": "144"
+    },
+    "omdb": {
+      "Title": "Wings of Desire",
+      "Year": "1987",
+      "Rated": "PG-13",
+      "Released": "06 May 1988",
+      "Runtime": "128 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "Wim Wenders",
+      "Writer": "Wim Wenders, Peter Handke, Richard Reitinger",
+      "Actors": "Bruno Ganz, Solveig Dommartin, Otto Sander",
+      "Plot": "An angel meets Peter Falk, and loves a French trapeze artist in Berlin.",
+      "Language": "German, English, French, Turkish, Hebrew, Spanish, Japanese",
+      "Country": "West Germany, France",
+      "Awards": "Nominated for 1 BAFTA Award18 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUwY2EyMDktMGI0Ny00MDNlLWE0ODMtZWIwOGNhNmY1OWIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.9",
+      "imdbVotes": "82,979",
+      "imdbID": "tt0093191",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,333,969",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1987,
+      "plot_pt": "Na Berlim pós-guerra, Damiel e Cassiel são dois anjos que deambulam pela cidade. Invisíveis aos mortais, eles lêem os seus pensamentos e tentam confortar as almas que encontram. Entretanto, um dos anjos apaixona-se por uma trapezista, e deseja tornar-se humano para experimentar as alegrias e tristezas de cada dia."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.1,
+      23.1,
+      35.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "https://image.tmdb.org/t/p/w1280/vh2VRlGjFbyXNmEdsiG60Q0JYoV.jpg",
+      "https://image.tmdb.org/t/p/w1280/svD7zZ0dxRb4NVZkZ30Nbzi20yM.jpg"
+    ],
+    "tmdb_id": "144"
+  },
+  "Anatomia De Uma Queda|2023": {
+    "lbxd": {
+      "rating": 4.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/2/0/9/3/822093-anatomy-of-a-fall-0-500-0-750-crop.jpg?v=4efab8aedc",
+      "description": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Justine Triet",
+      "lb_director_slug": "justine-triet",
+      "lb_year": 2023,
+      "lb_title": "Anatomy of a Fall",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wt/mj/4u/pj/anatomy-1920-1920-1080-1080-crop-000000.jpg?v=b1310de47c",
+      "imdb_id": "tt17009710",
+      "tmdb_id": "915935"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2023,
+      "original_title": "Anatomie d'une chute",
+      "plot_pt": "Durante o último ano, Sandra, uma escritora alemã, o seu marido francês Samuel e o filho de onze anos, Daniel, deficiente visual, têm vivido numa cidade remota, nas montanhas dos Alpes franceses. Um dia, Samuel é encontrado morto na neve por baixo do chalé. A polícia questiona se ele se suicidou, ou se foi morto. É aberto um inquérito por morte suspeita. Sandra é rapidamente acusada Um ano mais tarde, Daniel assiste ao julgamento da mãe que, aos poucos, se torna não apenas uma inquirição às circunstâncias da morte, mas uma inquietante viagem psicológica às profundezas da relação conflituosa entre Sandra e Samuel."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      18.8,
+      41.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg",
+      "https://image.tmdb.org/t/p/w1280/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+      "https://image.tmdb.org/t/p/w1280/3Feq4UV4p2gU6dShAYfveqwWAEf.jpg"
+    ],
+    "tmdb_id": "915935"
   }
 }
