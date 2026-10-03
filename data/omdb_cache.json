@@ -76793,7 +76793,7 @@
       "https://image.tmdb.org/t/p/w1280/21q3384GdqRkPwipR279KIEqQjq.jpg"
     ],
     "tmdb_id": "254018",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Vie Privée|1962": {
     "lbxd": {
@@ -79485,29 +79485,163 @@
     "tmdb_id": "48883",
     "wiki_tries": 2
   },
-  "Paparazzi + Vie Privée|None": {
-    "lbxd": null,
-    "omdb": null,
+  "La Plage Noire|2001": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/6/5/8/1/326581-the-black-beach-0-500-0-750-crop.jpg?v=267ad528ff",
+      "description": "An exhausted militant wants to take a break from the incessant frenzy surrounding him. His country’s dictatorship is on its last legs and chaos reigns. His wife Sylvie leaves their country for France. She writes about the new democracy struggling to be born back home. His daughter Joyce must hide out in the deserted childhood home in the solitude and infinity of the Black Beach. Several adversaries – the militia of a hazy regime in his native land and the Paris police – wage a strange game of chess in which he is the pawn. Threats abound and he’s haunted by his past, his fears, dead friends. He has three allies: his wife, his daughter, and an old girlfriend from his fighting days.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Poland",
+      "lb_director": "Michel Piccoli",
+      "lb_director_slug": "michel-piccoli",
+      "lb_year": 2001,
+      "lb_title": "The Black Beach",
+      "backdrop": null,
+      "imdb_id": "tt0260283",
+      "tmdb_id": "392028"
+    },
+    "omdb": {
+      "Title": "La plage noire",
+      "Year": "2001",
+      "Rated": "N/A",
+      "Released": "12 Dec 2001",
+      "Runtime": "114 min",
+      "Genre": "Drama",
+      "Director": "Michel Piccoli",
+      "Writer": "Ludivine Clerc, François Maspero, Michel Piccoli",
+      "Actors": "Jerzy Radziwilowicz, Dominique Blanc, Jade Fortineau",
+      "Plot": "After a period of dictatorial rule, an imaginary country finds itself in the middle of learning democracy. A., a fervent supporter of this new freedom, finds himself threatened with death by members of the old regime.",
+      "Language": "French",
+      "Country": "France, Portugal, Switzerland, Poland",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE3ZDU4NzEtMTJhZS00ZWFlLThjZDEtY2I5MGI2NWE3YzE1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.9",
+      "imdbVotes": "60",
+      "imdbID": "tt0260283",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "392028"
   },
-  "CINE-ALMANAQUES Nº 1, 4, 7 (EXCERTOS) + MAFRA E O BARROCO EUROPEU + “ARTE NOVA E DECO NO NORTE DE PORTUGAL” + “O TRABALHO DO OURO E DA PRATA NO NORTE”: ARTESANATO E INDÚSTRIA|None": {
-    "lbxd": null,
-    "omdb": null,
+  "Insiang|1976": {
+    "lbxd": {
+      "rating": 4.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/5/5/8/87558-insiang-0-500-0-750-crop.jpg?v=36b26c7f6c",
+      "description": "A story about the life of a young girl living with her mother in the slums of Manila, which becomes unbearable when her mother's young boyfriend moves in with them.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1976,
+      "lb_title": "Insiang",
+      "backdrop": null,
+      "imdb_id": "tt0077740",
+      "tmdb_id": "108949"
+    },
+    "omdb": {
+      "Title": "Insiang",
+      "Year": "1976",
+      "Rated": "TV-14",
+      "Released": "06 Dec 1978",
+      "Runtime": "95 min",
+      "Genre": "Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Mario O'Hara, Lamberto E. Antonio",
+      "Actors": "Hilda Koronel, Mona Lisa, Rez Cortez",
+      "Plot": "The life of a young girl living with her mother in the slums of Manila becomes unbearable when her mother's young boyfriend moves in with them.",
+      "Language": "Filipino, Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "7 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlOTFiMDUtNjYyYS00YTI1LTgzZTUtNDAxN2YwNmUyZWU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,313",
+      "imdbID": "tt0077740",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      41.7,
+      40.2,
+      43.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/o30k6ehjyiNwFoHeytZH9Gcdo64.jpg",
+      "https://image.tmdb.org/t/p/w1280/l3Ivdu1FiRRn7UWM4mxs2La44qr.jpg",
+      "https://image.tmdb.org/t/p/w1280/2jszHkRpzO6Z3gS0IvIBue0VHHE.jpg"
+    ],
+    "tmdb_id": "108949",
+    "wiki_tries": 1
   },
-  "Quem Foste Alvarez? + Mafra E O Barroco Europeu + A Pousada Das Chagas – Uma Representação Sobre O Museu De Óbidos|None": {
-    "lbxd": null,
+  "Tinimbang Ka Ngunit Kulang|1974": {
+    "lbxd": {
+      "rating": 3.85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/1/7/126617-weighed-but-found-wanting-0-500-0-750-crop.jpg?v=30cd51bb5c",
+      "description": "A privileged teenager, disillusioned with the hypocrisy he witnesses in his small town, forms a bond with a lonely man with leprosy and a mentally distressed homeless woman.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1974,
+      "lb_title": "Weighed But Found Wanting",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/i1/ss/w5/mt/b9MDsflWyVC3pTjfgauCO4PRFi7-1920-1920-1080-1080-crop-000000.jpg?v=3e303982d0",
+      "imdb_id": "tt0072295",
+      "tmdb_id": "172472"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      22.2,
+      46.5,
+      35.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/dbNdMdBIqOaUvb4Oxqb7GEfX4Zs.jpg",
+      "https://image.tmdb.org/t/p/w1280/fjG3jXHxDmwI2tbY51QH9oeXSqp.jpg",
+      "https://image.tmdb.org/t/p/w1280/b9MDsflWyVC3pTjfgauCO4PRFi7.jpg"
+    ],
+    "tmdb_id": "172472",
+    "wiki_tries": 1
   },
   "As Asas Do Desejo|1987": {
     "lbxd": {
@@ -79568,7 +79702,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Wings of Desire",
+      "imdb_id": "tt0093191",
+      "extract_pt": "Der Himmel über Berlin (bra: Asas do Desejo; prt: As Asas do Desejo) é um filme franco-alemão ocidental de 1987, do gênero drama romântico-fantástico, dirigido por Wim Wenders, com roteiro de Peter Handke, Richard Reitinger e do próprio diretor. \nSua poética é inspirada em Rainer Maria Rilke."
+    },
     "cinema": {
       "year": 1987,
       "plot_pt": "Na Berlim pós-guerra, Damiel e Cassiel são dois anjos que deambulam pela cidade. Invisíveis aos mortais, eles lêem os seus pensamentos e tentam confortar as almas que encontram. Entretanto, um dos anjos apaixona-se por uma trapezista, e deseja tornar-se humano para experimentar as alegrias e tristezas de cada dia."
@@ -79584,6 +79722,51 @@
       "https://image.tmdb.org/t/p/w1280/vh2VRlGjFbyXNmEdsiG60Q0JYoV.jpg",
       "https://image.tmdb.org/t/p/w1280/svD7zZ0dxRb4NVZkZ30Nbzi20yM.jpg"
     ],
-    "tmdb_id": "144"
+    "tmdb_id": "144",
+    "wiki_tries": 1
+  },
+  "Anatomia De Uma Queda|2023": {
+    "lbxd": {
+      "rating": 4.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/2/0/9/3/822093-anatomy-of-a-fall-0-500-0-750-crop.jpg?v=4efab8aedc",
+      "description": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Mystery"
+      ],
+      "country": "France",
+      "lb_director": "Justine Triet",
+      "lb_director_slug": "justine-triet",
+      "lb_year": 2023,
+      "lb_title": "Anatomy of a Fall",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wt/mj/4u/pj/anatomy-1920-1920-1080-1080-crop-000000.jpg?v=b1310de47c",
+      "imdb_id": "tt17009710",
+      "tmdb_id": "915935"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Anatomy of a Fall",
+      "imdb_id": "tt17009710",
+      "extract_pt": "Anatomie d'une chute (bra/prt: Anatomia de uma Queda) é um filme de suspense dramático de tribunal de 2023 dirigido por Justine Triet a partir de um roteiro co-escrito por Triet e Arthur Harari. É estrelado por Sandra Hüller como uma escritora que tenta provar sua inocência na morte do marido. Teve sua estreia mundial no Festival de Cannes 2023, onde ganhou a Palma de Ouro e o Prêmio Palm Dog e concorreu ao Queer Palm. No Brasil, foi apresentado pela Diamond Films nos cinemas em novembro no Festival Varilux 2023, e seu lançamento comercial ocorreu em 25 de janeiro de 2024."
+    },
+    "cinema": {
+      "year": 2023,
+      "original_title": "Anatomie d'une chute",
+      "plot_pt": "Durante o último ano, Sandra, uma escritora alemã, o seu marido francês Samuel e o filho de onze anos, Daniel, deficiente visual, têm vivido numa cidade remota, nas montanhas dos Alpes franceses. Um dia, Samuel é encontrado morto na neve por baixo do chalé. A polícia questiona se ele se suicidou, ou se foi morto. É aberto um inquérito por morte suspeita. Sandra é rapidamente acusada Um ano mais tarde, Daniel assiste ao julgamento da mãe que, aos poucos, se torna não apenas uma inquirição às circunstâncias da morte, mas uma inquietante viagem psicológica às profundezas da relação conflituosa entre Sandra e Samuel."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.6,
+      18.8,
+      41.2
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg",
+      "https://image.tmdb.org/t/p/w1280/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+      "https://image.tmdb.org/t/p/w1280/3Feq4UV4p2gU6dShAYfveqwWAEf.jpg"
+    ],
+    "tmdb_id": "915935",
+    "wiki_tries": 1
   }
 }
