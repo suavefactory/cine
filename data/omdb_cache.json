@@ -38947,7 +38947,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.4
+      46.3
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -44477,8 +44477,8 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      37.3,
-      41.4
+      36.0,
+      30.5
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg",
@@ -50727,7 +50727,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      33.1,
+      32.5,
       28.2
     ],
     "stills": [
@@ -65286,8 +65286,8 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      42.4,
-      39.6
+      42.3,
+      39.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/2EWGt2mqGvytJQWZc8S4aSsFOoe.jpg",
@@ -65318,7 +65318,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      45.3
+      45.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/jSedATgHxi84cKOR7aeWXTxgVdl.jpg"
@@ -76728,7 +76728,7 @@
       "https://image.tmdb.org/t/p/w1280/tJF4Firwy9oKLU27qJZ6VkVgpRi.jpg"
     ],
     "tmdb_id": "254019",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Paparazzi|1964": {
     "lbxd": {
@@ -79616,7 +79616,7 @@
       "https://image.tmdb.org/t/p/w1280/2jszHkRpzO6Z3gS0IvIBue0VHHE.jpg"
     ],
     "tmdb_id": "108949",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Tinimbang Ka Ngunit Kulang|1974": {
     "lbxd": {
@@ -79650,7 +79650,7 @@
       "https://image.tmdb.org/t/p/w1280/b9MDsflWyVC3pTjfgauCO4PRFi7.jpg"
     ],
     "tmdb_id": "172472",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "As Asas Do Desejo|1987": {
     "lbxd": {
@@ -79885,7 +79885,8 @@
       "https://image.tmdb.org/t/p/w1280/iDfTrd5sLgKmdY8xakmfmXxPiwF.jpg",
       "https://image.tmdb.org/t/p/w1280/m6MdYfMvcMS90FDuNFxqtmFldhv.jpg"
     ],
-    "tmdb_id": "288180"
+    "tmdb_id": "288180",
+    "wiki_tries": 1
   },
   "Macho Dancer|1988": {
     "lbxd": {
@@ -79949,6 +79950,7 @@
       "https://image.tmdb.org/t/p/w1280/n6SDB2pVxhtW0NSWt9z0OnW4HdH.jpg",
       "https://image.tmdb.org/t/p/w1280/i63Uz3v7ozOVKjb0uNWCjwmwJSw.jpg"
     ],
-    "tmdb_id": "170924"
+    "tmdb_id": "170924",
+    "wiki_tries": 1
   }
 }
