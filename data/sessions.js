@@ -1691,7 +1691,17 @@ window.CINEMA_DATA = {
         37.5
       ],
       "country": "Portugal",
-      "director_lbxd_slug": "sergio-graciano"
+      "director_lbxd_slug": "sergio-graciano",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/315.jpg",
+        "https://medeiafilmes.com/uploads/library/410.jpg",
+        "https://medeiafilmes.com/uploads/library/217.jpg"
+      ],
+      "stills_focus": [
+        25.4,
+        26.5,
+        37.5
+      ]
     },
     {
       "id": "nimas_misterios-de-lisboa-2010",
