@@ -19854,7 +19854,7 @@
       "https://image.tmdb.org/t/p/w1280/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg"
     ],
     "tmdb_id": "1396",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Lavagante|2025": {
     "lbxd": {
@@ -38947,7 +38947,7 @@
     },
     "dir_checked": true,
     "stills_focus": [
-      46.3
+      46.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/7chsEWfWuImmmveNcm0Mp3dKwZW.jpg"
@@ -44477,8 +44477,8 @@
     "tmdb_id": "64096",
     "wiki_tries": 3,
     "stills_focus": [
-      36.0,
-      30.5
+      37.3,
+      41.4
     ],
     "stills": [
       "https://image.tmdb.org/t/p/w1280/mhiAi5IHpvYiAc6sfrwcbKeQTX0.jpg",
@@ -76014,7 +76014,7 @@
       "https://image.tmdb.org/t/p/w1280/tJF4Firwy9oKLU27qJZ6VkVgpRi.jpg"
     ],
     "tmdb_id": "254019",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Le Mépris|1963": {
     "lbxd": {
@@ -76151,7 +76151,7 @@
       "https://image.tmdb.org/t/p/w1280/21q3384GdqRkPwipR279KIEqQjq.jpg"
     ],
     "tmdb_id": "254018",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Vie Privée|1961": {
     "lbxd": {
@@ -76909,7 +76909,7 @@
       "https://medeiafilmes.com/uploads/library/10-1024x503.png"
     ],
     "tmdb_id": "1510390",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Memórias do Cárcere|2026": {
     "lbxd": {
@@ -76970,7 +76970,16 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      25.4,
+      26.5,
+      37.5
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/315.jpg",
+      "https://medeiafilmes.com/uploads/library/410.jpg",
+      "https://medeiafilmes.com/uploads/library/217.jpg"
+    ],
     "tmdb_id": "1461062"
   },
   "Mistérios de Lisboa|2010": {
@@ -78380,7 +78389,7 @@
       "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
     ],
     "tmdb_id": "1323409",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Monte dos Vendavais|1953": {
     "lbxd": {
@@ -78844,7 +78853,7 @@
       "https://image.tmdb.org/t/p/w1280/4boGiYMisxXNIwxMbhsDJi38nzi.jpg"
     ],
     "tmdb_id": "48883",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Febre Sobe em El Pao|1959": {
     "lbxd": {
@@ -79607,7 +79616,7 @@
       "https://image.tmdb.org/t/p/w1280/2jszHkRpzO6Z3gS0IvIBue0VHHE.jpg"
     ],
     "tmdb_id": "108949",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Tinimbang Ka Ngunit Kulang|1974": {
     "lbxd": {
@@ -79641,7 +79650,7 @@
       "https://image.tmdb.org/t/p/w1280/b9MDsflWyVC3pTjfgauCO4PRFi7.jpg"
     ],
     "tmdb_id": "172472",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "As Asas Do Desejo|1987": {
     "lbxd": {
@@ -79768,5 +79777,178 @@
     ],
     "tmdb_id": "915935",
     "wiki_tries": 1
+  },
+  "O Gesto Documental|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Être Et Avoir|2002": {
+    "lbxd": {
+      "rating": 4.03,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/2/4/48924-to-be-and-to-have-0-500-0-750-crop.jpg?v=36d363f915",
+      "description": "The documentary's title translates as \"to be and to have\", the two auxiliary verbs in the French language. It is about a primary school in the commune of Saint-Étienne-sur-Usson, Puy-de-Dôme, France, the population of which is just over 200. The school has one small class of mixed ages (from four to twelve years), with a dedicated teacher, Georges Lopez, who shows patience and respect for the children as we follow their story through a single school year.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Nicolas Philibert",
+      "lb_director_slug": "nicolas-philibert",
+      "lb_year": 2002,
+      "lb_title": "To Be and to Have",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ld/1o/mm/la/to%20be%20and%20to%20have-1920-1920-1080-1080-crop-000000.jpg?v=356d8bb30a",
+      "imdb_id": "tt0318202",
+      "tmdb_id": "5168"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "To Be and to Have",
+      "imdb_id": "tt0318202",
+      "extract_pt": "Ser e Ter (em francês: Être et avoir) é um documentário francês de 2002, dirigido por Nicolas Philibert.\nEste documentário ganhou o prêmio de 2003 no Sacramento French Film Festival, na categoria de prêmio da audiência.\nSeguido do sucesso do filme, Lopez, o principal personagem do documentário, dirigido por Nicolas Philibert, clamou por merecer parte do lucro de 2 milhões €. A corte francesa rejeitou o pedido de Lopez."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.6,
+      38.9,
+      33.0
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/AorzxxnM7A0LLWJrgOBNF5JEyM7.jpg",
+      "https://image.tmdb.org/t/p/w1280/vBTNI7eoa50GCWS9MaepyoEeL9n.jpg",
+      "https://image.tmdb.org/t/p/w1280/vQSwyzAXjdtkLDn9wVY2yjhYHMO.jpg"
+    ],
+    "tmdb_id": "5168"
+  },
+  "Signed: Lino Brocka|1987": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/3/3/5/1/213351-signed-lino-brocka-0-500-0-750-crop.jpg?v=d94465366d",
+      "description": "Documentary filmmaker Christian Blackwood profiles controversial Filipino director Lino Brocka, detailing his rags-to-riches rise in the mainstream film industry of the Philippines. Primarily using interviews with the effusive director himself, Blackwood allows Brocka to describe, in his own terms, the common thematic threads tying together his work, from his own homosexuality to the political repression suffered by Filipinos at the hands of Ferdinand Marcos' dictatorial government.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Germany",
+      "lb_director": "Christian Blackwood",
+      "lb_director_slug": "christian-blackwood-2",
+      "lb_year": 1987,
+      "lb_title": "Signed: Lino Brocka",
+      "backdrop": null,
+      "imdb_id": "tt0131016",
+      "tmdb_id": "288180"
+    },
+    "omdb": {
+      "Title": "Signed: Lino Brocka",
+      "Year": "1987",
+      "Rated": "N/A",
+      "Released": "01 Oct 1987",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Christian Blackwood",
+      "Writer": "Christian Blackwood",
+      "Actors": "Lino Brocka, Lorna Tolentino, Christopher De Leon",
+      "Plot": "Documentary portrait of the Philippine filmmaker Lino Brocka.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWYyMzEzYmEtNjJkYS00MDNlLTkwMTAtMDI0MTlhODBjNDgxXkEyXkFqcGdeQXVyMTI1NjIwMzM1._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "57",
+      "imdbID": "tt0131016",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.5,
+      38.5,
+      40.1
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/74xty5pDkph1tIEF0PDnzjqiZX7.jpg",
+      "https://image.tmdb.org/t/p/w1280/iDfTrd5sLgKmdY8xakmfmXxPiwF.jpg",
+      "https://image.tmdb.org/t/p/w1280/m6MdYfMvcMS90FDuNFxqtmFldhv.jpg"
+    ],
+    "tmdb_id": "288180"
+  },
+  "Macho Dancer|1988": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/3/0/125630-macho-dancer-0-500-0-750-crop.jpg?v=a5717eddea",
+      "description": "Pol moves to Manila for better opportunities after his American lover leaves. However, he gets drawn into the gritty world of gay prostitution and sexual slavery.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1988,
+      "lb_title": "Macho Dancer",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/pw/dz/g7/3z/nxWp5dXHiTL1ul61zErdhLuItet-1920-1920-1080-1080-crop-000000.jpg?v=c38f7091cd",
+      "imdb_id": "tt0095562",
+      "tmdb_id": "170924"
+    },
+    "omdb": {
+      "Title": "Macho Dancer",
+      "Year": "1988",
+      "Rated": "TV-MA",
+      "Released": "18 Jan 1989",
+      "Runtime": "136 min",
+      "Genre": "Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Amado Lacuesta, Ricky Lee",
+      "Actors": "Jaclyn Jose, Daniel Fernando, Princess Punzalan",
+      "Plot": "Abandoned by his American lover, a handsome teenager from the mountains journeys to Manila in an effort to support his family. With a popular call boy as his mentor, Paul enters the glittering world of male strippers, prostitution...",
+      "Language": "English, Tagalog, Filipino",
+      "Country": "Philippines",
+      "Awards": "2 wins & 10 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyMTYxMjA2MV5BMl5BanBnXkFtZTcwNDQ0NzYzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "465",
+      "imdbID": "tt0095562",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.9,
+      38.1,
+      27.9
+    ],
+    "stills": [
+      "https://image.tmdb.org/t/p/w1280/orEPVHx17XfeXYcmzINYx8u6CCX.jpg",
+      "https://image.tmdb.org/t/p/w1280/n6SDB2pVxhtW0NSWt9z0OnW4HdH.jpg",
+      "https://image.tmdb.org/t/p/w1280/i63Uz3v7ozOVKjb0uNWCjwmwJSw.jpg"
+    ],
+    "tmdb_id": "170924"
   }
 }
