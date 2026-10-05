@@ -47090,12 +47090,7 @@
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills_focus": [
-      33.3
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/rAyKj9o79VvHwskb5dvWc1yjV1c.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "436665"
   },
   "PERSEPOLIS|2007": {
@@ -65276,12 +65271,7 @@
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills_focus": [
-      45.4
-    ],
-    "stills": [
-      "https://image.tmdb.org/t/p/w1280/jSedATgHxi84cKOR7aeWXTxgVdl.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1438226"
   },
   "Unstable Rocks|2024": {
@@ -79809,7 +79799,7 @@
       "https://image.tmdb.org/t/p/w1280/m6MdYfMvcMS90FDuNFxqtmFldhv.jpg"
     ],
     "tmdb_id": "288180",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Macho Dancer|1988": {
     "lbxd": {
@@ -79874,6 +79864,6 @@
       "https://image.tmdb.org/t/p/w1280/i63Uz3v7ozOVKjb0uNWCjwmwJSw.jpg"
     ],
     "tmdb_id": "170924",
-    "wiki_tries": 2
+    "wiki_tries": 3
   }
 }
