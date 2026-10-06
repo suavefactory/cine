@@ -31499,7 +31499,7 @@
   },
   "Bona|1980": {
     "lbxd": {
-      "rating": 3.81,
+      "rating": 3.83,
       "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/0/9/2/62092-bona-0-500-0-750-crop.jpg?v=3f8460d067",
       "description": "Bona, a middle-class student, becomes infatuated with a struggling actor, Gardo, and drops out of school to live with him. She becomes his unpaid maid, performing chores and enduring his relationships with other women, in the hopes of reciprocation.",
       "genres": [
@@ -31508,7 +31508,11 @@
       "country": "Philippines",
       "lb_director": "Lino Brocka",
       "lb_director_slug": "lino-brocka",
-      "lb_year": 1980
+      "lb_year": 1980,
+      "lb_title": "Bona",
+      "backdrop": null,
+      "imdb_id": "tt0082093",
+      "tmdb_id": "75628"
     },
     "omdb": {
       "Title": "Bona",
@@ -31541,7 +31545,12 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "75628"
   },
   "PERSEPOLIS|None": {
     "lbxd": {
@@ -39911,7 +39920,11 @@
       "country": "Brazil",
       "lb_director": "Noah Baumbach",
       "lb_director_slug": "noah-baumbach",
-      "lb_year": 2012
+      "lb_year": 2012,
+      "lb_title": "Frances Ha",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/eo/w6/w1/7w/4DACCDBE-4318-4E7A-BFB8-4150FA796966-1920-1920-1080-1080-crop-000000.jpg?v=fe409ae7cf",
+      "imdb_id": "tt2347569",
+      "tmdb_id": "121986"
     },
     "omdb": {
       "Title": "Frances Ha",
@@ -39952,7 +39965,20 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2012,
+      "plot_pt": "\"Frances Ha\" acompanha a vida de Frances Halladay, uma aspirante a bailarina de 27 anos que vive em Nova Iorque. Embora trabalhe como aprendiz numa companhia de dança, ela não tem um talento excecional e luta para concretizar os seus sonhos."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      39.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/eo/w6/w1/7w/4DACCDBE-4318-4E7A-BFB8-4150FA796966-1920-1920-1080-1080-crop-000000.jpg?v=fe409ae7cf"
+    ],
+    "tmdb_id": "121986"
   },
   "Sorrowful Shadow|2004": {
     "lbxd": {
@@ -79865,5 +79891,115 @@
     ],
     "tmdb_id": "170924",
     "wiki_tries": 3
+  },
+  "Ina, Kapatid, Anak|1979": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/8/6/3/135863-mother-sister-daughter-0-500-0-750-crop.jpg?v=1255a6b5f0",
+      "description": "After 20 years, Pura returns to her ancestral home to meet her father. However, this soon reignites a bitter rivalry between her and Emilia, her half-sister, that impacts the entire household.",
+      "genres": null,
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1979,
+      "lb_title": "Mother, Sister, Daughter",
+      "backdrop": null,
+      "imdb_id": "tt0079337",
+      "tmdb_id": "188326"
+    },
+    "omdb": {
+      "Title": "Mother, Sister, Daughter",
+      "Year": "1979",
+      "Rated": "N/A",
+      "Released": "08 Jun 1979",
+      "Runtime": "93 min",
+      "Genre": "Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Mel Chionglo",
+      "Actors": "Lolita Rodriguez, Charito Solis, Rio Locsin",
+      "Plot": "Pura, who has been gone for 20 years, returns to her father's house. Her arrival reignites a bitter rivalry she has with her half-sister, Emilia, which sets the entire household astir.",
+      "Language": "Filipino, Tagalog",
+      "Country": "Philippines",
+      "Awards": "1 win & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk3NTUyNGUtNDk0Ny00OWE0LWI4YzMtN2ZiYjkwZTZjMmE2XkEyXkFqcGdeQXVyNjgyOTE5MTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "53",
+      "imdbID": "tt0079337",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "188326"
+  },
+  "CAIN at ABEL|1982": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/7/9/8/117798-cain-abel-0-500-0-750-crop.jpg?v=5ed7c90fb6",
+      "description": "A modern-day version of the biblical legend of Cain and Abel, the strong-willed matriarch Señora Pina favors her younger son, Ellis, over the older Lorenzo, whom she blames for her husband's death.",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1982,
+      "lb_title": "Cain and Abel",
+      "backdrop": null,
+      "imdb_id": "tt0317210",
+      "tmdb_id": "157703"
+    },
+    "omdb": {
+      "Title": "Cain at Abel",
+      "Year": "1982",
+      "Rated": "TV-MA",
+      "Released": "08 Oct 1982",
+      "Runtime": "112 min",
+      "Genre": "Action, Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Ricky Lee",
+      "Actors": "Christopher De Leon, Phillip Salvador, Carmi Martin",
+      "Plot": "A modern-day version of the biblical legend of Cain and Abel. Strong-willed matriarch Señora Pina favors her younger son Ellis over the older Lorenzo, whom she blames for her husband's death.",
+      "Language": "English, Tagalog, Filipino",
+      "Country": "Philippines",
+      "Awards": "5 wins & 10 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThmNDNjZGMtNmI3Yy00ZjNjLWJjYzQtYjFkN2FmMDZhNGZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "499",
+      "imdbID": "tt0317210",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "157703"
   }
 }

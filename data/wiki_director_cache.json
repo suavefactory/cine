@@ -2467,5 +2467,10 @@
     "photo": null,
     "bio": "Christian Blackwood (July 7, 1942 – July 22, 1992) was an American film director and cinematographer. He was initially a child actor, then a cinematographer acclaimed for his work in Charlotte Zwerin's Thelonious Monk: Straight, No Chaser. But his major work was as the director or producer of over 95 films, mostly documentaries, over a 30-year career.",
     "tries": 1
+  },
+  "Noah Baumbach": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Noah_Baumbach_Jay_Kelly-49.jpg/500px-Noah_Baumbach_Jay_Kelly-49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Noah Baumbach (born September 3, 1969) is an American filmmaker. He is known for making films set in New York City and his works are inspired by filmmakers such as Woody Allen and Whit Stillman. His frequent collaborators include Wes Anderson, Adam Driver, and his wife, Greta Gerwig.",
+    "tries": 1
   }
 }
