@@ -31550,7 +31550,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "75628"
+    "tmdb_id": "75628",
+    "wiki_tries": 1
   },
   "PERSEPOLIS|None": {
     "lbxd": {
@@ -39966,7 +39967,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Frances Ha",
+      "imdb_id": "tt2347569",
+      "extract_pt": "Frances Ha é um filme de comédia de 2012 dirigido por Noah Baumbach e roteirizado por Baumbach e a atriz principal do filme Greta Gerwig. O filme recebeu elogios da crítica, e participou do Festival de Berlim."
+    },
     "cinema": {
       "year": 2012,
       "plot_pt": "\"Frances Ha\" acompanha a vida de Frances Halladay, uma aspirante a bailarina de 27 anos que vive em Nova Iorque. Embora trabalhe como aprendiz numa companhia de dança, ela não tem um talento excecional e luta para concretizar os seus sonhos."
@@ -39978,7 +39983,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/eo/w6/w1/7w/4DACCDBE-4318-4E7A-BFB8-4150FA796966-1920-1920-1080-1080-crop-000000.jpg?v=fe409ae7cf"
     ],
-    "tmdb_id": "121986"
+    "tmdb_id": "121986",
+    "wiki_tries": 1
   },
   "Sorrowful Shadow|2004": {
     "lbxd": {
@@ -80000,6 +80006,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "157703"
+    "tmdb_id": "157703",
+    "wiki_tries": 1
   }
 }
