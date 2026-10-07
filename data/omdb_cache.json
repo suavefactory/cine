@@ -80321,7 +80321,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Nosso Segredo é um filme brasileiro de drama e fantasia de 2026 dirigido e roterizado pela atriz e cineasta  Grace Passô. o longa-metragem estrelado por Ju Colombo, terá sua estreia mundial durante o 76º Festival Internacional de Cinema de Berlim em competição na Mostra Perspectives.\nO filme que marca a estreia de Passô na direção é uma produção da EntreFilmes em cooprodução da Globo Filmes e Desvia Filmes. No Brasil, o longa possui distribuição da Vitrine Filmes."
+    },
     "cinema": {
       "year": 2026,
       "country": "Brasil e Portugal",
@@ -80329,6 +80333,7 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1399253"
+    "tmdb_id": "1399253",
+    "wiki_tries": 1
   }
 }
