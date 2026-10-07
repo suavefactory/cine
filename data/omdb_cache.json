@@ -31551,7 +31551,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "75628",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "PERSEPOLIS|None": {
     "lbxd": {
@@ -80007,6 +80007,328 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "157703",
-    "wiki_tries": 2
+    "wiki_tries": 3
+  },
+  "Mesa Redonda: O Legado De Lino Brocka|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Dalaga Si Misis, Binata Si Mister|1981": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/0/5/8/1/840581-single-couple-0-500-0-750-crop.jpg?v=9af0b4fd51",
+      "description": "A successful couple decide to separate and see other people.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1981,
+      "lb_title": "Dalaga si Misis, Binata si Mister",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "935579"
+    },
+    "omdb": {
+      "Title": "Dalaga si misis, binata si mister",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "04 Sep 1981",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Romance",
+      "Director": "Lino Brocka",
+      "Writer": "Jose Dalisay Jr., Efren Abueg",
+      "Actors": "Nora Aunor, Christopher De Leon, Carmi Martin",
+      "Plot": "Success destroys the marriage of a couple who practically live separate lives as \"singles.\"",
+      "Language": "Filipino, Tagalog",
+      "Country": "Philippines",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0445308",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "935579"
+  },
+  "Bayan Ko: Kapit Sa Patalin|1984": {
+    "lbxd": {
+      "rating": 3.84,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/3/4/142434-this-is-my-country-0-500-0-750-crop.jpg?v=c942152be3",
+      "description": "A laborer gets money for his wife's pregnancy from his boss on the condition that he will not join the union.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1984,
+      "lb_title": "This Is My Country",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/8m/4g/0d/0h/2aoqhF1wZuD0eOFD7rwExroZmoN-1920-1920-1080-1080-crop-000000.jpg?v=576c41ab51",
+      "imdb_id": "tt0086943",
+      "tmdb_id": "198475"
+    },
+    "omdb": {
+      "Title": "Bayan Ko",
+      "Year": "1984",
+      "Rated": "N/A",
+      "Released": "19 Dec 1984",
+      "Runtime": "108 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Jose F. Lacaba",
+      "Actors": "Phillip Salvador, Gina Alajar, Venchito Galvez",
+      "Plot": "An apolitical worker in a printing press who works as a scab during a company strike belatedly realizes that everyone is affected by the evils of society.",
+      "Language": "Filipino, English, Tagalog",
+      "Country": "Philippines, France",
+      "Awards": "10 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJlODIwOWYtMTM5MS00MmQwLWFhYTAtZDZjZGMyZjg1OGI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "578",
+      "imdbID": "tt0086943",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "This Is My Country (film)",
+      "imdb_id": "tt0086943",
+      "extract_pt": "Bayan ko: Kapit sa patalim, ou apenas Bayan ko,  é um filme de drama franco-filipino de 1984 dirigido por Lino Brocka.\nFoi selecionado como representante das Filipinas à edição do Oscar 1985, organizada pela Academia de Artes e Ciências Cinematográficas.[carece de fontes]?"
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/8m/4g/0d/0h/2aoqhF1wZuD0eOFD7rwExroZmoN-1920-1920-1080-1080-crop-000000.jpg?v=576c41ab51"
+    ],
+    "tmdb_id": "198475"
+  },
+  "Wanted: Perfect Mother|1970": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/4/1/2/389412-wanted-perfect-mother-1970-0-500-0-750-crop.jpg?v=dad9c8187c",
+      "description": "It tells of a couple, Dante and Elsa who hires a new governess, Carla to care for their four children. The governess quickly establishes rapport with the children and the husband creating rumors of an affair. Before things could go wrong, Carla decides to leave. Elsa dies in a car accident and the widower decides to marry again and getting a new mother to his children. Carla is the popular one among several choices, but the head servant poisons the minds of the children against her.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1970,
+      "lb_title": "Wanted: Perfect Mother",
+      "backdrop": null,
+      "imdb_id": "tt0066544",
+      "tmdb_id": "457473"
+    },
+    "omdb": {
+      "Title": "Wanted: Perfect Mother",
+      "Year": "1970",
+      "Rated": "N/A",
+      "Released": "14 Jun 1970",
+      "Runtime": "128 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Lino Brocka",
+      "Writer": "Mars Ravelo, Lino Brocka, Nestor Malgapo",
+      "Actors": "Dante Rivero, Liza Lorena, Boots Anson-Roa",
+      "Plot": "Based on the novel by Mars Ravelo and serialized in Pilipino Komiks, \"Wanted: Perfect Mother\"--Lino Brocka's directorial debut--is described as a \"light, heartwarming dramatic story for wholesome family entertainment.\" A couple, D...",
+      "Language": "Filipino, Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNmZDJhNDQtMGQxZC00ZTJjLWFhMDQtNWQ0YTY3Yzg0YjM1XkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "21",
+      "imdbID": "tt0066544",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "457473"
+  },
+  "Sa Kabila Ng Lahat|1991": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/7/1/6/4/327164-above-everything-else-0-500-0-750-crop.jpg?v=7a2dc80c5b",
+      "description": "Famous TV commentator Maia Robles finds herself caught between having an affair with a politician and reporting on social issues, especially corruption.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery",
+        "Action",
+        "Thriller"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1991,
+      "lb_title": "Sa Kabila ng Lahat",
+      "backdrop": null,
+      "imdb_id": "tt0313547",
+      "tmdb_id": "392772"
+    },
+    "omdb": {
+      "Title": "Above Everything Else",
+      "Year": "1991",
+      "Rated": "N/A",
+      "Released": "15 May 1991",
+      "Runtime": "122 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Roy Iglesias",
+      "Actors": "Dina Bonnevie, Tonton Gutierrez, Nanette Medved",
+      "Plot": "A newsreporter is involved in an extramarital affair with a city mayor, and things get worse when he suffers a heart attack. The scandal shatters her career, and her life is at risk when the mayor's jealous, domineering wife plots...",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines",
+      "Awards": "6 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxYWEzNWItNWUwNi00N2VlLWEyNWEtMzFiMDkyMDBhZGI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,25,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "27",
+      "imdbID": "tt0313547",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "392772"
+  },
+  "Memórias do Cárcere|2022": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/0/9/8/1338098-memorias-do-carcere-0-500-0-750-crop.jpg?v=a916734a62",
+      "description": "Accused of adultery, Ana Augusta Plácido and Camilo Castelo Branco were imprisoned for more than a year in the Porto Prison, she in June 1860, he in October of the same year, after an adventurous escape from justice through the lands of the North.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Sérgio Graciano",
+      "lb_director_slug": "sergio-graciano",
+      "lb_year": 2026,
+      "lb_title": "Memories of Prison",
+      "backdrop": null,
+      "imdb_id": "tt36068820",
+      "tmdb_id": "1461062"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2022,
+      "plot_pt": "Um fascinante e vívido retrato de Camilo Castelo Branco, a partir de um dos episódios mais marcantes da sua vida, quando o escritor e Ana Plácido estiveram presos na Cadeia da Relação do Porto em virtude do célebre processo por adultério que abalou a sociedade portuguesa do séc. XIX."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1461062"
+  },
+  "Nosso Segredo|2026": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/8/2/1/1282821-our-secret-2026-0-500-0-750-crop.jpg?v=c3e6413798",
+      "description": "A Black Brazilian family in the city of Belo Horizonte, tries to rebuild their home after a recent loss. Caught between memories and nightmares, and unable to express what they feel to each other, a mother and her children shield themselves from the pain of grief through their individual routines. Only the youngest child understands the secret that the house holds within its four walls and tries to reveal it to the others, only to fall on deaf ears. Finally, confronted with the truth, they face the deep roots of their grief and come together to traverse this moment with love and courage.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Grace Passô",
+      "lb_director_slug": "grace-passo",
+      "lb_year": 2026,
+      "lb_title": "Our Secret",
+      "backdrop": null,
+      "imdb_id": "tt39382724",
+      "tmdb_id": "1399253"
+    },
+    "omdb": {
+      "Title": "Nosso segredo",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Feb 2026",
+      "Runtime": "108 min",
+      "Genre": "Family",
+      "Director": "Grace Passô",
+      "Writer": "N/A",
+      "Actors": "Ju Colombo, Flip, Jessica Gaspar",
+      "Plot": "A grieving family moves silently through their house, each mourning alone. When the youngest reveals a secret, they learn they must unite with love and courage to overcome their loss.",
+      "Language": "Portuguese",
+      "Country": "Portugal, Brazil",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt39382724",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "country": "Brasil e Portugal",
+      "plot_pt": "Nosso Segredo retrata uma família que tenta retornar ao cotidiano após uma perda muito recente. Enquanto cada membro da família enfrenta o luto do seu jeito, o silêncio e a dificuldade de expressar a dor acabam ampliando as distâncias entre eles."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1399253"
   }
 }
