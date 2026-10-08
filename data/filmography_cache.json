@@ -2953,6 +2953,14 @@
     "Avatar – Aufbruch nach Pandora"
    ]
   },
+  "tt0120338": {
+   "years": [
+    1997
+   ],
+   "titles": [
+    "Titanic"
+   ]
+  },
   "tt0090605": {
    "years": [
     1986
@@ -2974,12 +2982,15 @@
     "True Lies – Wahre Lügen"
    ]
   },
-  "tt0120338": {
+  "tt0088247": {
    "years": [
-    1997
+    1987,
+    1985,
+    1984
    ],
    "titles": [
-    "Titanic"
+    "The Terminator",
+    "Terminator"
    ]
   },
   "tt0103064": {
@@ -3011,85 +3022,6 @@
    "titles": [
     "The Abyss",
     "Abyss"
-   ]
-  },
-  "tt0088247": {
-   "years": [
-    1987,
-    1985,
-    1984
-   ],
-   "titles": [
-    "The Terminator",
-    "Terminator"
-   ]
-  },
-  "tt5637536": {
-   "years": [
-    2031
-   ],
-   "titles": [
-    "Avatar 5"
-   ]
-  },
-  "tt0554573": {
-   "years": [
-    2002
-   ],
-   "titles": [
-    "Ein Volk von Monstern",
-    "Freak Nation"
-   ]
-  },
-  "tt39018643": {
-   "years": [
-    2026
-   ],
-   "titles": [
-    "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
-    "Billie Eilish - Hit Me Hard and Soft: El tour en 3D",
-    "Billie Eilish: Hit Me Hard And Soft - Tour (3D)"
-   ]
-  },
-  "tt0417415": {
-   "years": [
-    2005
-   ],
-   "titles": [
-    "Aliens der Meere",
-    "Misterios del océano",
-    "Aliens of the Deep"
-   ]
-  },
-  "tt1630029": {
-   "years": [
-    2025,
-    2022
-   ],
-   "titles": [
-    "Avatar: The Way of Water",
-    "Avatar : La Voie de l'eau",
-    "Avatar - La via dell'acqua",
-    "Avatar: O Caminho da Água"
-   ]
-  },
-  "tt3095356": {
-   "years": [
-    2029
-   ],
-   "titles": [
-    "Avatar 4"
-   ]
-  },
-  "tt1757678": {
-   "years": [
-    2025
-   ],
-   "titles": [
-    "Avatar: Fire and Ash",
-    "Avatar 3",
-    "Avatar: Fogo e Cinzas",
-    "Avatar - Fuoco e cenere"
    ]
   },
   "tt0251488": {
@@ -3135,36 +3067,77 @@
     "Piranha 2 : Les Tueurs volants",
     "Piraña paura"
    ]
-  }
- },
- "lee unkrich": {
-  "tt0700612": {
+  },
+  "tt0417415": {
    "years": [
-    1995
+    2005
    ],
    "titles": [
-    "Community Service",
-    "Richter auf Abwegen"
+    "Aliens of the Deep",
+    "Aliens der Meere",
+    "Misterios del océano"
    ]
   },
-  "tt36261036": {
+  "tt5637536": {
+   "years": [
+    2031
+   ],
+   "titles": [
+    "Avatar 5"
+   ]
+  },
+  "tt0554573": {
+   "years": [
+    2002
+   ],
+   "titles": [
+    "Ein Volk von Monstern",
+    "Freak Nation"
+   ]
+  },
+  "tt39018643": {
+   "years": [
+    2026
+   ],
+   "titles": [
+    "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+    "Billie Eilish - Hit Me Hard and Soft: El tour en 3D",
+    "Billie Eilish: Hit Me Hard And Soft - Tour (3D)"
+   ]
+  },
+  "tt1630029": {
+   "years": [
+    2025,
+    2022
+   ],
+   "titles": [
+    "Avatar: The Way of Water",
+    "Avatar : La Voie de l'eau",
+    "Avatar - La via dell'acqua",
+    "Avatar: O Caminho da Água"
+   ]
+  },
+  "tt3095356": {
    "years": [
     2029
    ],
    "titles": [
-    "Coco 2"
+    "Avatar 4"
    ]
   },
-  "tt0120363": {
+  "tt1757678": {
    "years": [
-    2000,
-    1999
+    2025
    ],
    "titles": [
-    "Toy Story 2",
-    "Toy Story 2 - Woody e Buzz alla riscossa"
+    "Avatar: Fire and Ash",
+    "Avatar 3",
+    "Avatar: Fogo e Cinzas",
+    "Avatar - Fuoco e cenere"
    ]
-  },
+  }
+ },
+ "lee unkrich": {
   "tt0435761": {
    "years": [
     2010
@@ -3184,6 +3157,33 @@
     "Findet Nemo",
     "Buscando a Nemo",
     "Alla ricerca di Nemo"
+   ]
+  },
+  "tt0120363": {
+   "years": [
+    2000,
+    1999
+   ],
+   "titles": [
+    "Toy Story 2",
+    "Toy Story 2 - Woody e Buzz alla riscossa"
+   ]
+  },
+  "tt0700612": {
+   "years": [
+    1995
+   ],
+   "titles": [
+    "Community Service",
+    "Richter auf Abwegen"
+   ]
+  },
+  "tt36261036": {
+   "years": [
+    2029
+   ],
+   "titles": [
+    "Coco 2"
    ]
   },
   "tt0198781": {
