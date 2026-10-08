@@ -80474,7 +80474,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "70580"
+    "tmdb_id": "70580",
+    "wiki_tries": 1
   },
   "Maria Papoila|1937": {
     "lbxd": {
@@ -80559,7 +80560,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "191225"
+    "tmdb_id": "191225",
+    "wiki_tries": 1
   },
   "Orapronobis|1989": {
     "lbxd": {
@@ -80617,7 +80619,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "178978"
+    "tmdb_id": "178978",
+    "wiki_tries": 1
   },
   "DOC ANISTIA 79|None": {
     "lbxd": null,
@@ -80982,5 +80985,248 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1361916"
+  },
+  "O Defunto | O Canto Da Sereia|1981": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/9/3/5/369935-o-defunto-0-500-0-750-crop.jpg?v=51d901ae49",
+      "description": "Based on an Eça de Queiroz incursion into fantastic literature.",
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "country": "Portugal",
+      "lb_director": "Noémia Delgado",
+      "lb_director_slug": "noemia-delgado",
+      "lb_year": 1981,
+      "lb_title": "O Defunto",
+      "backdrop": null,
+      "imdb_id": "tt0978322",
+      "tmdb_id": "437030"
+    },
+    "omdb": {
+      "Title": "O Defunto",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "28 Jan 1981",
+      "Runtime": "50 min",
+      "Genre": "Horror",
+      "Director": "Noémia Delgado",
+      "Writer": "Noémia Delgado, Eça de Queirós (novel)",
+      "Actors": "João Guedes, Adelaide João, José Caldeira, Argentina Rocha",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0978322",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "437030"
+  },
+  "A Noite De Walpurgis | A Estranha Morte Do Professor Antena|1983": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/9/9/3/3/369933-a-noite-de-walpurgis-0-500-0-750-crop.jpg?v=03aa2d2c6c",
+      "description": "A Noite de Walpurgis is a fantastic tale by Hugo Rocha, admittedly inspired by Goethe's Faust. The narrator-protagonist reveals a story told to him by a third person. Here the third person is an old peasant woman that the protagonist finds in a walk through the mountains, and that tells a story that in turn would have been told to her by the grandmother.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Noémia Delgado",
+      "lb_director_slug": "noemia-delgado",
+      "lb_year": 1983,
+      "lb_title": "A Noite de Walpurgis",
+      "backdrop": null,
+      "imdb_id": "tt1027722",
+      "tmdb_id": "437028"
+    },
+    "omdb": {
+      "Title": "A Noite de Walpurgis",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "20 Jul 1983",
+      "Runtime": "50 min",
+      "Genre": "Fantasy",
+      "Director": "Noémia Delgado",
+      "Writer": "Noémia Delgado",
+      "Actors": "Fernanda Coimbra, Adelaide João, Vladimiro Franklin, Rita Cardoso Pires",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt1027722",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "437028"
+  },
+  "1- NAZA|2009": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
+      "description": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Paul Crowder",
+      "lb_director_slug": "paul-crowder",
+      "lb_year": 2010,
+      "lb_title": "Billy Joel - The Last Play at Shea",
+      "backdrop": null,
+      "imdb_id": "tt1262986",
+      "tmdb_id": "47479"
+    },
+    "omdb": {
+      "Title": "The Last Play at Shea",
+      "Year": "2010",
+      "Rated": "Not Rated",
+      "Released": "25 Apr 2010",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Paul Crowder, Jon Small",
+      "Writer": "Mark Monroe",
+      "Actors": "Alec Baldwin, Dan Barry, Dan Barry",
+      "Plot": "A documentary feature chronicling the history of two New York icons and the journey that brought them together for the last musical performance at Shea Stadium.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjgzNTA0OF5BMl5BanBnXkFtZTcwODU1MDIwNA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "400",
+      "imdbID": "tt1262986",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "47479"
+  },
+  "2- NATAL AMARGO|2018": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
+      "description": null,
+      "genres": [
+        "Romance"
+      ],
+      "country": null,
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2017,
+      "lb_title": "新妈妈2",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "799407"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "799407"
+  },
+  "3- THE FIRST 54 YEARS|2008": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/8/0/5/9/308059-sappers-0-500-0-750-crop.jpg?v=c1666d19fa",
+      "description": null,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "Russia",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2007,
+      "lb_title": "Sappers",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "372434"
+    },
+    "omdb": {
+      "Title": "Toy Story 3",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "18 Jun 2010",
+      "Runtime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Lee Unkrich",
+      "Writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
+      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
+      "Plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan",
+      "Awards": "Won 2 Oscars. 64 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.3",
+      "imdbVotes": "992,912",
+      "imdbID": "tt0435761",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,004,880",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "372434"
   }
 }
