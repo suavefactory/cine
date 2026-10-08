@@ -2477,5 +2477,25 @@
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Grace_Pass%C3%B4.jpg/500px-Grace_Pass%C3%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Grace Passô (born May 20, 1980) is a Brazilian actress, director and playwright. Her film acting credits include Temporada and Praça Paris. As a writer, Passô has won the Associação Paulista de Críticos de Arte Award for \"Best Playwright.",
     "tries": 1
+  },
+  "Leitão de Barros": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leitaodebarros.jpg/500px-Leitaodebarros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "José Júlio Marques Leitão de Barros (22 October 1896 – 29 June 1967) was a Portuguese film director and playwright.",
+    "tries": 1
+  },
+  "Paul Crowder": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Paul_Crowder_UCLA_03-12-2025_%28cropped%29.png/500px-Paul_Crowder_UCLA_03-12-2025_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Paul Crowder (born 30 December 1962, London, England) is an English musician, who later became a film editor and director.",
+    "tries": 1
+  },
+  "James Cameron": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg/500px-James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "James Francis Cameron (born August 16, 1954) is a Canadian and New Zealand filmmaker and explorer. His films combine cutting-edge film technology with classical filmmaking techniques and have grossed over $10 billion worldwide, making him the second highest-grossing film director of all time. A major figure in the post-New Hollywood era, Cameron has received numerous accolades including three Academy Awards, two Primetime Emmy Awards, and four Golden Globe Awards, as well as nominations for six British Academy Film Awards.",
+    "tries": 1
+  },
+  "Lee Unkrich": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lee_Unkrich_cropped_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Lee Edward Unkrich (born August 8, 1967) is an American film director, editor and writer. He is best known for his work with animation studio Pixar, which he joined in 1994 as an editor before being credited as a co-director on Toy Story 2 (1999). Following the film's success, Unkrich served a similar role for the films Monsters, Inc.",
+    "tries": 1
   }
 }
