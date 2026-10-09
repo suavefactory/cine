@@ -81287,50 +81287,49 @@
     "stills": null,
     "tmdb_id": "372434"
   },
-  "Gumapang Ka Sa Lusak|1990": {
+  "1- NAZA|2010": {
     "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/5/5/9/8/325598-dirty-affair-0-500-0-750-crop.jpg?v=31cbb44f47",
-      "description": "A teenage boy befriends a starlet who is having an affair with an ambitious mayor. As the elections are coming up, the mayor's wife wants him to get rid of his mistress. The starlet agrees to stop the affair on condition that the mayor help release her boyfriend from jail. The mayor does so, but wants the former jail-bird to kill his political rival.",
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
+      "description": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Documentary",
+        "Music"
       ],
-      "country": "Philippines",
-      "lb_director": "Lino Brocka",
-      "lb_director_slug": "lino-brocka",
-      "lb_year": 1990,
-      "lb_title": "Dirty Affair",
+      "country": "USA",
+      "lb_director": "Paul Crowder",
+      "lb_director_slug": "paul-crowder",
+      "lb_year": 2010,
+      "lb_title": "Billy Joel - The Last Play at Shea",
       "backdrop": null,
-      "imdb_id": "tt0099717",
-      "tmdb_id": "391076"
+      "imdb_id": "tt1262986",
+      "tmdb_id": "47479"
     },
     "omdb": {
-      "Title": "Dirty Affair",
-      "Year": "1990",
-      "Rated": "TV-14",
-      "Released": "01 Nov 1994",
-      "Runtime": "120 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Lino Brocka",
-      "Writer": "Ricky Lee",
-      "Actors": "Christopher De Leon, Dina Bonnevie, Charo Santos-Concio",
-      "Plot": "A smitten young man helps the mistress of a corrupt politician to fight back and reveal the truth about the politician and his government.",
-      "Language": "Filipino, Tagalog, English",
-      "Country": "Philippines",
-      "Awards": "7 wins & 13 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ1MWE4MzItNTQ4Yi00MjgzLTk3NTYtNGIwMmE4MTUzZmY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Title": "The Last Play at Shea",
+      "Year": "2010",
+      "Rated": "Not Rated",
+      "Released": "25 Apr 2010",
+      "Runtime": "90 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Paul Crowder, Jon Small",
+      "Writer": "Mark Monroe",
+      "Actors": "Alec Baldwin, Dan Barry, Dan Barry",
+      "Plot": "A documentary feature chronicling the history of two New York icons and the journey that brought them together for the last musical performance at Shea Stadium.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjgzNTA0OF5BMl5BanBnXkFtZTcwODU1MDIwNA@@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "6.7/10"
+          "Value": "8.0/10"
         }
       ],
       "Metascore": "N/A",
-      "imdbRating": "6.7",
-      "imdbVotes": "49",
-      "imdbID": "tt0099717",
+      "imdbRating": "8.0",
+      "imdbVotes": "400",
+      "imdbID": "tt1262986",
       "Type": "movie",
       "DVD": "N/A",
       "BoxOffice": "N/A",
@@ -81342,63 +81341,55 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "391076"
+    "tmdb_id": "47479"
   },
-  "Gumising Ka... Maruja|1978": {
+  "2- NATAL AMARGO|2017": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/5/3/9/307539-wake-up-maruja-0-500-0-750-crop.jpg?v=950cc8edfb",
-      "description": "A bride commits suicide on her wedding night. Years later, she is reincarnated as an actress-producer and tries to reveal her true story to the world.",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
+      "description": null,
       "genres": [
-        "Romance",
-        "Drama",
-        "Horror"
+        "Romance"
       ],
-      "country": "Philippines",
-      "lb_director": "Lino Brocka",
-      "lb_director_slug": "lino-brocka",
-      "lb_year": 1978,
-      "lb_title": "Wake Up... Maruja",
+      "country": null,
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2017,
+      "lb_title": "新妈妈2",
       "backdrop": null,
-      "imdb_id": "tt0077643",
-      "tmdb_id": "371898"
+      "imdb_id": null,
+      "tmdb_id": "799407"
     },
-    "omdb": {
-      "Title": "Gumising ka... Maruja",
-      "Year": "1978",
-      "Rated": "N/A",
-      "Released": "15 Mar 1997",
-      "Runtime": "N/A",
-      "Genre": "Horror",
-      "Director": "Lino Brocka",
-      "Writer": "Tony Perez, Mars Ravelo",
-      "Actors": "Susan Roces, Mario O'Hara, Laurice Guillen",
-      "Plot": "A STRANGE FILM OF STRANGE ENCOUNTERS AND RAW PASSION. MARUJA - NOW LIVES AGAIN TO HAUNT YOUR SENSES.",
-      "Language": "Filipino, Tagalog, Spanish",
-      "Country": "Philippines",
-      "Awards": "4 wins & 7 nominations",
-      "Poster": "N/A",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.5",
-      "imdbVotes": "29",
-      "imdbID": "tt0077643",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "371898"
+    "tmdb_id": "799407"
+  },
+  "3- THE FIRST 54 YEARS|2007": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/8/0/5/9/308059-sappers-0-500-0-750-crop.jpg?v=c1666d19fa",
+      "description": null,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "Russia",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2007,
+      "lb_title": "Sappers",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "372434"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "372434"
   }
 }
