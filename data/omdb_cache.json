@@ -65318,9 +65318,61 @@
   },
   "Naza|2026": {
     "lbxd": {
-      "lb_title": "NAZA (film)"
+      "rating": 4.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
+      "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Yuval Abraham",
+      "lb_director_slug": "yuval-abraham",
+      "lb_year": 2026,
+      "lb_title": "NAZA",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386",
+      "imdb_id": "tt44766123",
+      "tmdb_id": "1755291"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Naza",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 Oct 2026",
+      "Runtime": "80 min",
+      "Genre": "Documentary, War",
+      "Director": "Yuval Abraham, Rachel Szor",
+      "Writer": "Yuval Abraham, Rachel Szor",
+      "Actors": "Yuval Abraham",
+      "Plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "Language": "Hebrew, English, Arabic",
+      "Country": "United Kingdom, United States",
+      "Awards": "6 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5YjdhYTYtNmY5ZS00Mzg1LTkyNDItOGQ1YzQ1MDYzNWJlXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.9",
+      "imdbVotes": "3,173",
+      "imdbID": "tt44766123",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": {
       "title_en": "NAZA (film)",
       "imdb_id": "tt44766123",
@@ -65332,7 +65384,12 @@
       "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos."
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      61.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
+    ],
     "tmdb_id": "1755291"
   },
   "Black Burns Fast|None": {
@@ -80475,7 +80532,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "70580",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Maria Papoila|1937": {
     "lbxd": {
@@ -80561,7 +80618,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "191225",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Orapronobis|1989": {
     "lbxd": {
@@ -80620,7 +80677,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "178978",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "DOC ANISTIA 79|None": {
     "lbxd": null,
@@ -80860,7 +80917,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "49568"
+    "tmdb_id": "49568",
+    "wiki_tries": 1
   },
   "2- NATAL AMARGO|None": {
     "lbxd": {
@@ -81228,5 +81286,119 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "372434"
+  },
+  "Gumapang Ka Sa Lusak|1990": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/5/5/9/8/325598-dirty-affair-0-500-0-750-crop.jpg?v=31cbb44f47",
+      "description": "A teenage boy befriends a starlet who is having an affair with an ambitious mayor. As the elections are coming up, the mayor's wife wants him to get rid of his mistress. The starlet agrees to stop the affair on condition that the mayor help release her boyfriend from jail. The mayor does so, but wants the former jail-bird to kill his political rival.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1990,
+      "lb_title": "Dirty Affair",
+      "backdrop": null,
+      "imdb_id": "tt0099717",
+      "tmdb_id": "391076"
+    },
+    "omdb": {
+      "Title": "Dirty Affair",
+      "Year": "1990",
+      "Rated": "TV-14",
+      "Released": "01 Nov 1994",
+      "Runtime": "120 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Ricky Lee",
+      "Actors": "Christopher De Leon, Dina Bonnevie, Charo Santos-Concio",
+      "Plot": "A smitten young man helps the mistress of a corrupt politician to fight back and reveal the truth about the politician and his government.",
+      "Language": "Filipino, Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "7 wins & 13 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ1MWE4MzItNTQ4Yi00MjgzLTk3NTYtNGIwMmE4MTUzZmY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "49",
+      "imdbID": "tt0099717",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "391076"
+  },
+  "Gumising Ka... Maruja|1978": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/5/3/9/307539-wake-up-maruja-0-500-0-750-crop.jpg?v=950cc8edfb",
+      "description": "A bride commits suicide on her wedding night. Years later, she is reincarnated as an actress-producer and tries to reveal her true story to the world.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Horror"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1978,
+      "lb_title": "Wake Up... Maruja",
+      "backdrop": null,
+      "imdb_id": "tt0077643",
+      "tmdb_id": "371898"
+    },
+    "omdb": {
+      "Title": "Gumising ka... Maruja",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "15 Mar 1997",
+      "Runtime": "N/A",
+      "Genre": "Horror",
+      "Director": "Lino Brocka",
+      "Writer": "Tony Perez, Mars Ravelo",
+      "Actors": "Susan Roces, Mario O'Hara, Laurice Guillen",
+      "Plot": "A STRANGE FILM OF STRANGE ENCOUNTERS AND RAW PASSION. MARUJA - NOW LIVES AGAIN TO HAUNT YOUR SENSES.",
+      "Language": "Filipino, Tagalog, Spanish",
+      "Country": "Philippines",
+      "Awards": "4 wins & 7 nominations",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "29",
+      "imdbID": "tt0077643",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "371898"
   }
 }
