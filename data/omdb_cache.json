@@ -80532,7 +80532,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "70580",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Maria Papoila|1937": {
     "lbxd": {
@@ -80618,7 +80618,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "191225",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Orapronobis|1989": {
     "lbxd": {
@@ -80677,7 +80677,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "178978",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "DOC ANISTIA 79|None": {
     "lbxd": null,
@@ -81197,7 +81197,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "47479"
+    "tmdb_id": "47479",
+    "wiki_tries": 1
   },
   "2- NATAL AMARGO|2018": {
     "lbxd": {
