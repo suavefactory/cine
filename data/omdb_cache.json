@@ -80918,7 +80918,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "49568",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "2- NATAL AMARGO|None": {
     "lbxd": {
@@ -81392,5 +81392,183 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "372434"
+  },
+  "Gumapang Ka Sa Lusak|1990": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/5/5/9/8/325598-dirty-affair-0-500-0-750-crop.jpg?v=31cbb44f47",
+      "description": "A teenage boy befriends a starlet who is having an affair with an ambitious mayor. As the elections are coming up, the mayor's wife wants him to get rid of his mistress. The starlet agrees to stop the affair on condition that the mayor help release her boyfriend from jail. The mayor does so, but wants the former jail-bird to kill his political rival.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1990,
+      "lb_title": "Dirty Affair",
+      "backdrop": null,
+      "imdb_id": "tt0099717",
+      "tmdb_id": "391076"
+    },
+    "omdb": {
+      "Title": "Dirty Affair",
+      "Year": "1990",
+      "Rated": "TV-14",
+      "Released": "01 Nov 1994",
+      "Runtime": "120 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Ricky Lee",
+      "Actors": "Christopher De Leon, Dina Bonnevie, Charo Santos-Concio",
+      "Plot": "A smitten young man helps the mistress of a corrupt politician to fight back and reveal the truth about the politician and his government.",
+      "Language": "Filipino, Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "7 wins & 13 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ1MWE4MzItNTQ4Yi00MjgzLTk3NTYtNGIwMmE4MTUzZmY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "49",
+      "imdbID": "tt0099717",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "391076"
+  },
+  "Gumising Ka... Maruja|1978": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/5/3/9/307539-wake-up-maruja-0-500-0-750-crop.jpg?v=950cc8edfb",
+      "description": "A bride commits suicide on her wedding night. Years later, she is reincarnated as an actress-producer and tries to reveal her true story to the world.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Horror"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1978,
+      "lb_title": "Wake Up... Maruja",
+      "backdrop": null,
+      "imdb_id": "tt0077643",
+      "tmdb_id": "371898"
+    },
+    "omdb": {
+      "Title": "Gumising ka... Maruja",
+      "Year": "1978",
+      "Rated": "N/A",
+      "Released": "15 Mar 1997",
+      "Runtime": "N/A",
+      "Genre": "Horror",
+      "Director": "Lino Brocka",
+      "Writer": "Tony Perez, Mars Ravelo",
+      "Actors": "Susan Roces, Mario O'Hara, Laurice Guillen",
+      "Plot": "A STRANGE FILM OF STRANGE ENCOUNTERS AND RAW PASSION. MARUJA - NOW LIVES AGAIN TO HAUNT YOUR SENSES.",
+      "Language": "Filipino, Tagalog, Spanish",
+      "Country": "Philippines",
+      "Awards": "4 wins & 7 nominations",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "29",
+      "imdbID": "tt0077643",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "371898"
+  },
+  "Oca + Ano Ang Kulay Ng Mukha Ng Diyos?|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Jaguar|1979": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/6/5/88765-jaguar-0-500-0-750-crop.jpg?v=dbcbf24348",
+      "description": "Poldo, a poor man, takes up a job as a security guard at a high-class apartment complex. However, he soon finds himself protecting his employer's son from the violent attacks of a nightclub owner.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "Lino Brocka",
+      "lb_director_slug": "lino-brocka",
+      "lb_year": 1979,
+      "lb_title": "Jaguar",
+      "backdrop": null,
+      "imdb_id": "tt0079361",
+      "tmdb_id": "110738"
+    },
+    "omdb": {
+      "Title": "Jaguar",
+      "Year": "1979",
+      "Rated": "N/A",
+      "Released": "31 Aug 1979",
+      "Runtime": "100 min",
+      "Genre": "Crime, Drama",
+      "Director": "Lino Brocka",
+      "Writer": "Nick Joaquin, Jose F. Lacaba, Ricky Lee",
+      "Actors": "Phillip Salvador, Amy Austria, Johnny Delgado",
+      "Plot": "He has battled with the screen's heavies, starred opposite its most desirable beauties, lived through the full range of human emotions. Now he is ready for the big time. Phillip Salvador takes the big role in \"Jaguar.\"",
+      "Language": "Filipino, Tagalog",
+      "Country": "Philippines",
+      "Awards": "9 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdiZGJkMDYtODllZC00NWUzLWFkYjYtYjM4ZTk5MDY4OGY3XkEyXkFqcGdeQXVyNTMyNjA2MzQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "112",
+      "imdbID": "tt0079361",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "110738"
   }
 }
