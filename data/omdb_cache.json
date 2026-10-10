@@ -81342,7 +81342,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "47479"
+    "tmdb_id": "47479",
+    "wiki_tries": 1
   },
   "2- NATAL AMARGO|2017": {
     "lbxd": {
@@ -81506,69 +81507,5 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "371898"
-  },
-  "Oca + Ano Ang Kulay Ng Mukha Ng Diyos?|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Jaguar|1979": {
-    "lbxd": {
-      "rating": 3.6,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/6/5/88765-jaguar-0-500-0-750-crop.jpg?v=dbcbf24348",
-      "description": "Poldo, a poor man, takes up a job as a security guard at a high-class apartment complex. However, he soon finds himself protecting his employer's son from the violent attacks of a nightclub owner.",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "country": "Philippines",
-      "lb_director": "Lino Brocka",
-      "lb_director_slug": "lino-brocka",
-      "lb_year": 1979,
-      "lb_title": "Jaguar",
-      "backdrop": null,
-      "imdb_id": "tt0079361",
-      "tmdb_id": "110738"
-    },
-    "omdb": {
-      "Title": "Jaguar",
-      "Year": "1979",
-      "Rated": "N/A",
-      "Released": "31 Aug 1979",
-      "Runtime": "100 min",
-      "Genre": "Crime, Drama",
-      "Director": "Lino Brocka",
-      "Writer": "Nick Joaquin, Jose F. Lacaba, Ricky Lee",
-      "Actors": "Phillip Salvador, Amy Austria, Johnny Delgado",
-      "Plot": "He has battled with the screen's heavies, starred opposite its most desirable beauties, lived through the full range of human emotions. Now he is ready for the big time. Phillip Salvador takes the big role in \"Jaguar.\"",
-      "Language": "Filipino, Tagalog",
-      "Country": "Philippines",
-      "Awards": "9 wins & 7 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdiZGJkMDYtODllZC00NWUzLWFkYjYtYjM4ZTk5MDY4OGY3XkEyXkFqcGdeQXVyNTMyNjA2MzQ@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.5",
-      "imdbVotes": "112",
-      "imdbID": "tt0079361",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "110738"
   }
 }
