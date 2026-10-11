@@ -81198,7 +81198,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "47479",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "2- NATAL AMARGO|2018": {
     "lbxd": {
@@ -81571,74 +81571,5 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "110738"
-  },
-  "À Descoberta Das Sombras \r\nCom Lourdes Castro|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Wardi|2018": {
-    "lbxd": {
-      "rating": 3.87,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/4/2/9/5/444295-the-tower-0-500-0-750-crop.jpg?v=88cc8a3eea",
-      "description": "Eleven-year-old Wardi’s great-grandfather leaves behind a will suggesting looking to the past to find the future. Searching the house, Wardi finds out about her Palestinian homeland from family memories.",
-      "genres": [
-        "Drama",
-        "Animation"
-      ],
-      "country": "France",
-      "lb_director": "Mats Grorud",
-      "lb_director_slug": "mats-grorud",
-      "lb_year": 2018,
-      "lb_title": "The Tower",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/5y/bg/c5/h8/hwShC3tZX2TJ99SQ1ENYvOqRztY-1920-1920-1080-1080-crop-000000.jpg?v=a77e95ed36",
-      "imdb_id": "tt5847768",
-      "tmdb_id": "514570"
-    },
-    "omdb": {
-      "Title": "The Tower",
-      "Year": "2018",
-      "Rated": "PG",
-      "Released": "16 Nov 2018",
-      "Runtime": "74 min",
-      "Genre": "Animation, Drama",
-      "Director": "Mats Grorud",
-      "Writer": "Mats Grorud",
-      "Actors": "Bellamine Abdelmalek, Darina Al Joundi, Saïd Amadis",
-      "Plot": "A young girl living in a Palestinian refugee camp learns about her family's history through stories told by three previous generations of refugees.",
-      "Language": "French",
-      "Country": "France, Sweden, Norway",
-      "Awards": "2 wins & 6 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUzM2VmODItMmMzMC00NmU2LWFiZmUtMWRlMmQ5ZTNmMWQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.1/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.1",
-      "imdbVotes": "638",
-      "imdbID": "tt5847768",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills_focus": [
-      39.4
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/5y/bg/c5/h8/hwShC3tZX2TJ99SQ1ENYvOqRztY-1920-1920-1080-1080-crop-000000.jpg?v=a77e95ed36"
-    ],
-    "tmdb_id": "514570"
   }
 }
