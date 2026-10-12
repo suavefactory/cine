@@ -81198,7 +81198,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "47479",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "2- NATAL AMARGO|2018": {
     "lbxd": {
@@ -81571,7 +81571,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "110738",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "À Descoberta Das Sombras \r\nCom Lourdes Castro|None": {
     "lbxd": null,
@@ -81641,7 +81641,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/5y/bg/c5/h8/hwShC3tZX2TJ99SQ1ENYvOqRztY-1920-1920-1080-1080-crop-000000.jpg?v=a77e95ed36"
     ],
     "tmdb_id": "514570",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "VERDES ANOS 1 | DOCLISBOA 2026|None": {
     "lbxd": null,
@@ -82061,6 +82061,441 @@
     "tmdb_id": "10742"
   },
   "Knife: The Attempted Murder of Salman Rushdie|None": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/7/1/2/1181712-knife-the-attempted-murder-of-salman-rushdie-0-500-0-750-crop.jpg?v=abd75722ab",
+      "description": "In 2022, Salman Rushdie was preparing to deliver a lecture on the United States as a safe haven for writers when a man rushed the stage and, in 27 seconds, stabbed him 15 times. Airlifted to hospital, Rushdie survived, barely, and his wife Rachel Eliza Griffiths began filming immediately, capturing an unfiltered view of his recovery, return to life and how he regained his spirit and hope for the future.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Alex Gibney",
+      "lb_director_slug": "alex-gibney",
+      "lb_year": 2026,
+      "lb_title": "Knife: The Attempted Murder of Salman Rushdie",
+      "backdrop": null,
+      "imdb_id": "tt32534849",
+      "tmdb_id": "1299581"
+    },
+    "omdb": {
+      "Title": "Knife: The Attempted Murder of Salman Rushdie",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "25 Jan 2026",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Alex Gibney",
+      "Writer": "N/A",
+      "Actors": "Salman Rushdie",
+      "Plot": "New footage by Rushdie's wife shows his recovery path after the attack, capturing both physical healing and renewed hope. Based on his memoir \"Knife: Meditations After an Attempted Murder.",
+      "Language": "N/A",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYyZmE2NGUtYzZhZi00MGMyLWEwNmQtMWMwNjg0OGQ5MTdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt32534849",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1299581"
+  },
+  "Habibi Hussein|2025": {
+    "lbxd": {
+      "rating": 3.7,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/1/1/0/0/5/1411005-habibi-hussein-0-500-0-750-crop.jpg?v=bed23b992b",
+      "description": "Hussein Darby, the last projectionist of Cinema Jenin in Palestine, thought it a golden opportunity. When a German NGO came to restore the theater, Hussein was ready to prove his skills. He believed that it would help him get his job back. To revive the 50-year-old projector, he travels across the West Bank and even attempts to enter Israel. But he doesn’t know that his era has already passed.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "State of Palestine",
+      "lb_director": "Alex Bakri",
+      "lb_director_slug": "alex-bakri",
+      "lb_year": 2025,
+      "lb_title": "Habibi Hussein",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/1/0/0/5/tmdb/dK0rrx3bw5BRFdIBmSW5PDrIEBN-1920-1920-1080-1080-crop-000000.jpg?v=ad7198cbd3",
+      "imdb_id": "tt39009569",
+      "tmdb_id": "1535958"
+    },
+    "omdb": {
+      "Title": "Habibi Hussein",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "17 Nov 2025",
+      "Runtime": "96 min",
+      "Genre": "Drama",
+      "Director": "Alex Bakri",
+      "Writer": "N/A",
+      "Actors": "Hussein Darbi",
+      "Plot": "A Palestinian projectionist embarks on a journey through the West Bank, seeking parts to restore an old movie theater's projector when a German NGO arrives to renovate it, clinging to hopes of reclaiming his former position.",
+      "Language": "N/A",
+      "Country": "Germany, Occupied Palestinian Territory, Saudi Arabia, Sweden",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "17",
+      "imdbID": "tt39009569",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      47.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/1/0/0/5/tmdb/dK0rrx3bw5BRFdIBmSW5PDrIEBN-1920-1920-1080-1080-crop-000000.jpg?v=ad7198cbd3"
+    ],
+    "tmdb_id": "1535958"
+  },
+  "The Remotes|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/0/4/5/1609045-the-remotes-0-500-0-750-crop.jpg?v=3a1f8a5ec1",
+      "description": "A grieving detective finds himself increasingly ensnared while investigating a case involving a sinister navigation app causing physical and psychological debris.",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "country": "Philippines",
+      "lb_director": "John Torres",
+      "lb_director_slug": "john-torres",
+      "lb_year": 2026,
+      "lb_title": "The Remotes",
+      "backdrop": null,
+      "imdb_id": "tt29512170",
+      "tmdb_id": "1743597"
+    },
+    "omdb": {
+      "Title": "The Remotes",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "02 Oct 2026",
+      "Runtime": "153 min",
+      "Genre": "Fantasy, Mystery, Sci-Fi",
+      "Director": "John Torres",
+      "Writer": "Dodo Dayao, John Torres",
+      "Actors": "Gabby Padilla, Enchong Dee, Alchris Galura",
+      "Plot": "Follows a grieving detective who finds himself increasingly ensnared while investigating a case involving a sinister navigation app causing physical and psychological debris.",
+      "Language": "Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRjY2RiMGUtZmVkNy00NjM5LTg0Y2MtODBiODYzOTZkZGFhXkEyXkFqcGc@._V1_QL75_UY562_CR230,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt29512170",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1743597"
+  },
+  "Kate Bush – The Timeless Genius|2014": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/4/5/5/2/214552-the-kate-bush-story-running-up-that-hill-0-500-0-750-crop.jpg?v=689efa922b",
+      "description": "This documentary explores Kate Bush's career and music, from January 1978's Wuthering Heights to her 2011 album 50 Words for Snow, through the testimony of some of her key collaborators and those she has inspired.",
+      "genres": [
+        "Documentary",
+        "Tv Movie",
+        "Music"
+      ],
+      "country": "UK",
+      "lb_director": "Adrian Sibley",
+      "lb_director_slug": "adrian-sibley-1",
+      "lb_year": 2014,
+      "lb_title": "The Kate Bush Story: Running Up That Hill",
+      "backdrop": null,
+      "imdb_id": "tt4038542",
+      "tmdb_id": "288841"
+    },
+    "omdb": {
+      "Title": "The Kate Bush Story: Running Up That Hill",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "22 Aug 2014",
+      "Runtime": "60 min",
+      "Genre": "Documentary, Music",
+      "Director": "Adrian Sibley",
+      "Writer": "N/A",
+      "Actors": "Kate Bush, Elton John, Brett Anderson",
+      "Plot": "Famous fans and fellow musicians discuss the career of one of the most influential figures that British music has ever produced.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhlNjEzMzgtZWI0YS00MWZlLTliMmYtMDU3NzA1NjljYWNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "214",
+      "imdbID": "tt4038542",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "288841"
+  },
+  "For the Moon|2023": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/9/6/7/9/1079679-for-the-moon-0-500-0-750-crop.jpg?v=9d045730a5",
+      "description": "A coming-of-age narrative based on the true story of Ronald McNair, the 2nd African American to go to space following his stand against segregation in an all-white Library.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Nile Price",
+      "lb_director_slug": "nile-price",
+      "lb_year": 2023,
+      "lb_title": "For the Moon",
+      "backdrop": null,
+      "imdb_id": "tt27449300",
+      "tmdb_id": "1194010"
+    },
+    "omdb": {
+      "Title": "For the Moon",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "20 Feb 2023",
+      "Runtime": "9 min",
+      "Genre": "Short, Biography, Drama",
+      "Director": "Nile Price",
+      "Writer": "Nile Price",
+      "Actors": "Jeremiah Spain, Tovorris Troutman Jr., Shalandis Wheeler Smith",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzZjZDRkNjktZDk0Ny00ZjAzLTljMWEtODU0N2QxMDU4ZDdjXkEyXkFqcGdeQXVyMTU3MDA1MjQ3._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt27449300",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1194010"
+  },
+  "The Voice of God|2011": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/2/7/5/2/572752-the-voice-of-god-0-500-0-750-crop.jpg?v=f9223da49d",
+      "description": "If God came down to earth and try to earn a living in Bombay, most probably he would become successful as a voice over artiste, lending his voice to thousands of Hindi movies and even more documentaries and public service films in India.",
+      "genres": [
+        "Animation",
+        "Documentary"
+      ],
+      "country": "Germany",
+      "lb_director": "Bernd Lützeler",
+      "lb_director_slug": "bernd-lutzeler",
+      "lb_year": 2011,
+      "lb_title": "the Voice of God",
+      "backdrop": null,
+      "imdb_id": "tt1825174",
+      "tmdb_id": "646856"
+    },
+    "omdb": {
+      "Title": "The Voice of God",
+      "Year": "2011",
+      "Rated": "N/A",
+      "Released": "04 Jun 2011",
+      "Runtime": "10 min",
+      "Genre": "Short",
+      "Director": "Bernd Lützeler",
+      "Writer": "Bernd Lützeler, Pratik Rumde",
+      "Actors": "Harish Bhimani",
+      "Plot": "If God came down to earth and try to earn a living in Bombay, most probably he would become successful as a voice over artiste, lending his voice to thousands of Hindi movies and even more documentaries and public service films in...",
+      "Language": "English",
+      "Country": "India, Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTg4NTMzOF5BMl5BanBnXkFtZTcwOTg1OTQ2OA@@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "7",
+      "imdbID": "tt1825174",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "646856"
+  },
+  "Every Contact Leaves a Trace|2025": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/3/1/5/3/1433153-every-contact-leaves-a-trace-0-500-0-750-crop.jpg?v=37bf4d3fec",
+      "description": "Since 1990, filmmaker Lynne Sachs has collected 600 business cards—from a hairdresser, a therapist, a textile artist. Together they form an archive of encounters.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Lynne Sachs",
+      "lb_director_slug": "lynne-sachs",
+      "lb_year": 2025,
+      "lb_title": "Every Contact Leaves a Trace",
+      "backdrop": null,
+      "imdb_id": "tt41346380",
+      "tmdb_id": "1559594"
+    },
+    "omdb": {
+      "Title": "Every Contact Has a Trace",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "27 Mar 2026",
+      "Runtime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Lynne Sachs",
+      "Writer": "Lynne Sachs",
+      "Actors": "N/A",
+      "Plot": "Since 1990, filmmaker Lynne Sachs has collected 600 business cards-from a hairdresser, a therapist, a textile artist. Together they form an archive of encounters.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzZWQ0NzUtYzRkYS00NzRkLWIxOWUtMDU1NzFkN2JmMjQzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt41346380",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1559594"
+  },
+  "The Clearing|2004": {
+    "lbxd": {
+      "rating": 2.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/9/3/9/45939-the-clearing-0-500-0-750-crop.jpg?v=36921323c5",
+      "description": "When affluent executive Wayne Hayes is kidnapped by a disgruntled employee and held for ransom in a forest, Wayne’s wife is forced to reckon with the FBI agents as they negotiate with the kidnapper.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Pieter Jan Brugge",
+      "lb_director_slug": "pieter-jan-brugge",
+      "lb_year": 2004,
+      "lb_title": "The Clearing",
+      "backdrop": null,
+      "imdb_id": "tt0331952",
+      "tmdb_id": "10742"
+    },
+    "omdb": {
+      "Title": "The Clearing",
+      "Year": "2004",
+      "Rated": "R",
+      "Released": "16 Jul 2004",
+      "Runtime": "95 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Pieter Jan Brugge",
+      "Writer": "Pieter Jan Brugge, Justin Haythe",
+      "Actors": "Robert Redford, Willem Dafoe, Helen Mirren",
+      "Plot": "As an executive is held captive by a former employee, it's up to his wife to deliver the ransom.",
+      "Language": "English",
+      "Country": "United Kingdom, Germany, United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWM1N2M2MDEtMTFjYS00ZTVmLWFmOTQtNjBiY2ZjZmZjMmM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "44%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "5.8",
+      "imdbVotes": "14,453",
+      "imdbID": "tt0331952",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$5,763,875",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "10742"
+  },
+  "Knife: The Attempted Murder of Salman Rushdie|2026": {
     "lbxd": {
       "rating": 3.48,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/8/1/7/1/2/1181712-knife-the-attempted-murder-of-salman-rushdie-0-500-0-750-crop.jpg?v=abd75722ab",

@@ -2506,7 +2506,7 @@
   "Alex Bakri": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "John Torres": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jt_hshot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2516,17 +2516,17 @@
   "Adrian Sibley": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Nile Price": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Bernd Lützeler": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Pieter Jan Brugge": {
     "photo": null,
@@ -2536,6 +2536,11 @@
   "Alex Gibney": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Alex_Gibney-09500.jpg/500px-Alex_Gibney-09500.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Philip Alexander Gibney (; born October 23, 1953) is an American documentary film director and producer. In 2010, Esquire magazine described Gibney as \"becoming the most important documentarian of our time.\"\nGibney's works as director include The Inventor: Out for Blood in Silicon Valley (2019), Going Clear: Scientology and the Prison of Belief (winner of three Emmys in 2015), We Steal Secrets: The Story of Wikileaks (2013), Mea Maxima Culpa: Silence in the House of God (winner of three 2013 primetime Emmy awards), Enron: The Smartest Guys in the Room (nominated in 2005 for Academy Award for Best Documentary Feature); Client 9: The Rise and Fall of Eliot Spitzer (short-listed in 2011 for the Academy Award for Best Documentary Feature), Casino Jack and the United States of Money, and Taxi to the Dark Side (2007) (winner of the 2007 Academy Award for Best Documentary Feature), focusing on a taxi driver in Afghanistan who was tortured and killed at Bagram Air Force Base in 2002. In 2019 he released his documentary Citizen K, about Russian President Vladimir Putin and the Russian billionaire exile Mikhail Khodorkovsky.",
+    "tries": 1
+  },
+  "Lynne Sachs": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Lynne_Sachs_in_Madrid.jpg/500px-Lynne_Sachs_in_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Lynne Sachs (born 1961) is an American experimental filmmaker and poet living in Brooklyn, New York. Her moving image work ranges from documentaries, to essay films, to experimental shorts, to hybrid live performances. Working from a feminist perspective, Sachs weaves together social criticism with personal subjectivity.",
     "tries": 1
   }
 }
