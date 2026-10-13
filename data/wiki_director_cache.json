@@ -669,7 +669,8 @@
   },
   "Pauline Loquès": {
     "photo": null,
-    "bio": null
+    "bio": "French film director (born 1986)",
+    "tries": 1
   },
   "Claude Jutra": {
     "photo": null,
@@ -2506,7 +2507,7 @@
   "Alex Bakri": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "John Torres": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jt_hshot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -2516,12 +2517,12 @@
   "Adrian Sibley": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Nile Price": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Bernd Lützeler": {
     "photo": null,
@@ -2541,6 +2542,16 @@
   "Lynne Sachs": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Lynne_Sachs_in_Madrid.jpg/500px-Lynne_Sachs_in_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Lynne Sachs (born 1961) is an American experimental filmmaker and poet living in Brooklyn, New York. Her moving image work ranges from documentaries, to essay films, to experimental shorts, to hybrid live performances. Working from a feminist perspective, Sachs weaves together social criticism with personal subjectivity.",
+    "tries": 1
+  },
+  "Robert Florey": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_Florey_%281900%E2%80%931979%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Robert Florey (September 14, 1900 – May 16, 1979) was a French-American director, screenwriter, film journalist and actor. Florey directed more than 50 films, the majority of them during the 1930s, with the best known likely being the Marx Brothers first feature The Cocoanuts (1929). His 1932 foray into Universal-style horror, Murders in the Rue Morgue, is regarded by horror fans as highly reflective of German expressionism.",
+    "tries": 1
+  },
+  "João Botelho": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/JoaoBotelho.png/500px-JoaoBotelho.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "João Manuel Relvas Leopoldo Botelho (born 1949) is a Portuguese film director. He has directed and written the screenplays of numerous films. His films have won several awards.",
     "tries": 1
   }
 }

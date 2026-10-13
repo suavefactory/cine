@@ -81712,7 +81712,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/1/0/0/5/tmdb/dK0rrx3bw5BRFdIBmSW5PDrIEBN-1920-1920-1080-1080-crop-000000.jpg?v=ad7198cbd3"
     ],
-    "tmdb_id": "1535958"
+    "tmdb_id": "1535958",
+    "wiki_tries": 1
   },
   "The Fight [The William Greaves Director’s Cut]|None": {
     "lbxd": null,
@@ -82549,5 +82550,495 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1299581"
+  },
+  "Uma Maravilha Punk do Cinema Super 8mm|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "The Garage + Immigration Zone + Ils ont tué Kader|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "The Small Ones + Which Way Is East: Notebooks from Vietnam + The Whole Poem Is a Curse + The Task of the Translator +The Last Happy Day|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Nino – A Film About Nino Rota|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/3/7/9/2/153792-nino-0-500-0-750-crop.jpg?v=a6aee3b684",
+      "description": "The once illustrious Lopez-Aranda family has faded. Celia, once the darling of Philippine opera, and Gaspar, a distinguished ex-congressman, lacked the shrewdness to maintain their once elegant status. Saddled with a failed marriage, a vanishing career and mounting debt, Celia sold her share of their house to Gaspar, now bedridden. She managed to stay for free in exchange for being Gaspar’s caregiver. Gaspar loves listening to Celia’s arias. This idyllic arrangement is shattered when he slips into a coma. His daughter, Raquel, comes home from the US, determined to sell the house to salvage her own economic woes abroad. This signals Celia’s impending homelessness. With only a few heirlooms to sell, she is at her wits’ end. A fervent believer of the Sto. Nino, she hopes for a miracle. She dresses up her grandson, Antony, in Sto. Nino robes to prepare him for the coming fiesta.",
+      "genres": null,
+      "country": "Philippines",
+      "lb_director": "Loy Arcenas",
+      "lb_director_slug": "loy-arcenas",
+      "lb_year": 2011,
+      "lb_title": "Niño",
+      "backdrop": null,
+      "imdb_id": "tt1961440",
+      "tmdb_id": "216955"
+    },
+    "omdb": {
+      "Title": "Nino",
+      "Year": "2025",
+      "Rated": "Not Rated",
+      "Released": "17 Sep 2025",
+      "Runtime": "96 min",
+      "Genre": "Drama",
+      "Director": "Pauline Loquès",
+      "Writer": "Pauline Loquès, Maud Ameline",
+      "Actors": "Théodore Pellerin, William Lebghil, Salomé Dewaels",
+      "Plot": "Nino, a young man, explores the streets of Paris to reconnect with the world and himself, after being diagnosed with cancer.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "10 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZiYzM3ZGItMTZiNi00MTdkLTlmYzctZGMyODkxYjBmM2ZkXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "6.9",
+      "imdbVotes": "1,220",
+      "imdbID": "tt35519445",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "216955"
+  },
+  "Chicho o mientras el cuerpo aguante (una comedia didáctica)|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Cold Call + The Case Against Space|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Todo todo teros|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/4/7/184447-todo-todo-teros-0-500-0-750-crop.jpg?v=0a83af836b",
+      "description": "Basically an artist is also a terrorist, the protagonist thinks in an unguarded moment. And if he is a terrorist after all, then he might just as well be one. Not an instant product, but an experimental feature in which diary material is brought together to form an intriguing puzzle.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "John Torres",
+      "lb_director_slug": "john-torres",
+      "lb_year": 2006,
+      "lb_title": "Todo Todo Teros",
+      "backdrop": null,
+      "imdb_id": "tt0834962",
+      "tmdb_id": "260941"
+    },
+    "omdb": {
+      "Title": "Todo todo teros",
+      "Year": "2006",
+      "Rated": "N/A",
+      "Released": "24 Apr 2006",
+      "Runtime": "110 min",
+      "Genre": "Drama",
+      "Director": "John Torres",
+      "Writer": "John Torres, Joel Toledo",
+      "Actors": "Olga Aliseichyk, Pusong Bughaw, Earl Drilon",
+      "Plot": "N/A",
+      "Language": "Tagalog, English",
+      "Country": "Philippines",
+      "Awards": "4 wins & 3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDJmZjI4NjQtOGVhOS00M2Q0LTgwYzktZjliNDRjMWQ2M2UxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "36",
+      "imdbID": "tt0834962",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "260941"
+  },
+  "Visitas de Uma Parente Afastada|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Hipogeus + A casa é a ruína de uma casa|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Saturn or a Brief Treatise on Melancholy|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Smarty|None": {
+    "lbxd": {
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/2/4/3/158243-smarty-0-500-0-750-crop.jpg?v=bc0afdd90b",
+      "description": "Vicki Wallace takes great pleasure in teasing her husband Tony who takes no pleasure at all in being teased and it isn't long before he ups and clips her on the chin. Vicki's friend and attorney Vernon Thorpe secures a divorce for her, and Vicki and Vernon are soon married. Vicki's yen for wearing revealing clothes and a penchant for inviting ex-husband to dinner soon provokes the easily-provoked Vernon into belting one on her himself. She goes to Tony's apartment, where Tony is entertaining Bonnie, who is not all that entertained by the presence of Vicki, especially after Vicki shows every intent of moving in and staying.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Florey",
+      "lb_director_slug": "robert-florey",
+      "lb_year": 1934,
+      "lb_title": "Smarty",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a",
+      "imdb_id": "tt0025803",
+      "tmdb_id": "224264"
+    },
+    "omdb": {
+      "Title": "Smarty",
+      "Year": "1934",
+      "Rated": "Passed",
+      "Released": "19 May 1934",
+      "Runtime": "65 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Robert Florey",
+      "Writer": "F. Hugh Herbert, Carl Erickson",
+      "Actors": "Joan Blondell, Warren William, Edward Everett Horton",
+      "Plot": "Vicki Wallace (Joan Blondell) takes great pleasure in teasing her husband,Tony Wallace (Warren William), who takes no pleasure at all in being teased and it isn't long before he ups and clips her on the chin. Vicki's friend and at...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY3Y2Q3NjctZjc1Ni00OTM3LWEzOTMtN2M2NmVhNTlhMWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "581",
+      "imdbID": "tt0025803",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      36.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
+    ],
+    "tmdb_id": "224264"
+  },
+  "The Pervert’s Guide to Utopias|None": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/1/0/7/6/1601076-the-perverts-guide-to-utopias-0-500-0-750-crop.jpg?v=da2e3595b0",
+      "description": "Philosopher Slavoj Žižek is our guide through landscapes of classic film, music, social media, archive and webcasts. Making unexpected twists and turns, he maps the utopian illusions of our times. Through absurd juxtapositions and startling insights, we are seduced into recognising our fate, in order to change it.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Ireland",
+      "lb_director": "Sophie Fiennes",
+      "lb_director_slug": "sophie-fiennes",
+      "lb_year": 2026,
+      "lb_title": "The Pervert's Guide to Utopias",
+      "backdrop": null,
+      "imdb_id": "tt43696767",
+      "tmdb_id": "1734476"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1734476"
+  },
+  "Lukas the Strange|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/7/6/134676-lukas-the-strange-0-500-0-750-crop.jpg?v=579e3dde37",
+      "description": "A small town in the Philippines is turned upside down by the arrival of a film crew that has everyone excited. Meanwhile, 13-year-old Lukas finds his own world overturned when he is told that his father is a tikbalang (half horse, half man). His father’s disappearance leaves Lukas to try to unravel the mystery of his own heritage and his own nature.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Philippines",
+      "lb_director": "John Torres",
+      "lb_director_slug": "john-torres",
+      "lb_year": 2013,
+      "lb_title": "Lukas the Strange",
+      "backdrop": null,
+      "imdb_id": "tt2664766",
+      "tmdb_id": "186395"
+    },
+    "omdb": {
+      "Title": "Lukas the Strange",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "18 Apr 2014",
+      "Runtime": "83 min",
+      "Genre": "Drama",
+      "Director": "John Torres",
+      "Writer": "Dodo Dayao, Sherad Anthony Sanchez, John Torres",
+      "Actors": "Cheeno Dalog Ladera, Edilberto Marcelino",
+      "Plot": "Lukas nino (Lukas the strange) is a story of an awkward teenager coming to grips with his own initiation into manhood just when there is a movie shoot in their neighborhood. The story opens several nights before, when Lukas is tol...",
+      "Language": "Filipino",
+      "Country": "Philippines",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGE0NzdlNjAtZGJhOC00OTFkLTg1MmEtN2YyNWQ5NTc4YjM3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "32",
+      "imdbID": "tt2664766",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "186395"
+  },
+  "Nha Balila – Dentu d’Algem|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Torino Shadow + I Plant My Hand in the Garden|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Life of Jorge Luis Borges|None": {
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/2/6/2/5/1602625-biografia-de-jorge-luis-borges-0-500-0-750-crop.jpg?v=4181dd71ef",
+      "description": "A biography of Jorge Luis Borges working from an exhaustive review of the papers he left, the books he read, the places he went to. And with this, an attempt to decipher a very peculiar life: someone who lived like a hidden, underground warrior, whose cause was literature, literature conceived as a kingdom and as a landscape. If Cold War spies fought from their desks or from an uninhabited house to defend their half of the world, Borges strove from a library to elevate and broaden the territories of his own tribe: the people for whom the most important part of the universe is books, plots and words. This film is devoted to that secret pilgrim (to borrow from Le Carré, the king of all spies).",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Argentina",
+      "lb_director": "Mariano Llinás",
+      "lb_director_slug": "mariano-llinas",
+      "lb_year": 2026,
+      "lb_title": "Life of Jorge Luis Borges",
+      "backdrop": null,
+      "imdb_id": "tt43704443",
+      "tmdb_id": "1736494"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1736494"
+  },
+  "Sessão De Abertura: Os Retratos De Margaret Tait|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "No Dia Dos Meus Anos|1988": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/3/8/3/18383-hard-times-1988-0-500-0-750-crop.jpg?v=0bda22b308",
+      "description": "A film adaptation of the Charles Dickens novel \"Hard Times\" set in a Portuguese industrial town of the 1980s.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Botelho",
+      "lb_director_slug": "joao-botelho",
+      "lb_year": 1988,
+      "lb_title": "Hard Times",
+      "backdrop": null,
+      "imdb_id": "tt0095279",
+      "tmdb_id": "46987"
+    },
+    "omdb": {
+      "Title": "Hard Times",
+      "Year": "1988",
+      "Rated": "N/A",
+      "Released": "30 Sep 1988",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "João Botelho",
+      "Writer": "João Botelho, Charles Dickens",
+      "Actors": "Henrique Viana, Júlia Britton, Eunice Muñoz",
+      "Plot": "A film adaptation of the Charles Dickens novel \"Hard Times\" set in a Portuguese industrial town of the 1980s.",
+      "Language": "Portuguese",
+      "Country": "Portugal, United Kingdom",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZiNGQ5YTItZTNkNS00YTMyLThiYTgtNTVhYWUyZjI4NzcxXkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "104",
+      "imdbID": "tt0095279",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "O cinema, Manoel de Oliveira e eu é um documentário biográfico português de 2016 realizado e narrado por João Botelho. O filme apresenta-se como uma homenagem a Manoel de Oliveira, focando-se em particular no seu método de realizar filmes, nas aprendizagens de João Botelho e no legado do seu estilo no cinema nacional e mundial. Utilizando uma estrutura de filme dentro de um filme, O cinema, Manoel de Oliveira e eu contém ainda a curta-metragem de ficção intitulada \"A rapariga das luvas”, uma obra que havia sido imaginada por Oliveira e que nunca tinha sido realizada.\nO documentário fez parte da programação do 13º Festival IndieLisboa, fora de competição, onde foi apresentado a 24 de abril de 2016, um ano após o falecimento de Manoel de Oliveira."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "46987"
+  },
+  "2- HISTÓRIAS PARALELAS|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/9/8/5/1389985-2-0-500-0-750-crop.jpg?v=334405a787",
+      "description": null,
+      "genres": [
+        "Documentary"
+      ],
+      "country": "China",
+      "lb_director": "Jiahui Wang",
+      "lb_director_slug": "jiahui-wang",
+      "lb_year": 2018,
+      "lb_title": "艺术民工2",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1513605"
+    },
+    "omdb": {
+      "Title": "Terminator 2: Judgment Day",
+      "Year": "1991",
+      "Rated": "R",
+      "Released": "03 Jul 1991",
+      "Runtime": "137 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "James Cameron",
+      "Writer": "James Cameron, William Wisher",
+      "Actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+      "Plot": "A cyborg from the future, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from an even more advanced and powerful cyborg.",
+      "Language": "English, Spanish",
+      "Country": "United States, France",
+      "Awards": "Won 4 Oscars. 39 wins & 33 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,304,963",
+      "imdbID": "tt0103064",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$206,970,218",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1513605"
   }
 }
