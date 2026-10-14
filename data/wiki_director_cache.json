@@ -2562,12 +2562,12 @@
   "Ben Nicholas, David Tryhorn": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Richard Swingle": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Dénes Nagy": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%A9nes_Nagy_%282021%29.jpg/500px-D%C3%A9nes_Nagy_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2577,12 +2577,12 @@
   "Rachel Hoke": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Rayna Teneva": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Clarence Brown": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Clarence_Brown_-_Jun_1922_FB.jpg/500px-Clarence_Brown_-_Jun_1922_FB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2597,6 +2597,11 @@
   "Sofia Coppola": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sofia_Coppola_at_82nd_Venice_International_Film_Festival-8_%28cropped%29.jpg/500px-Sofia_Coppola_at_82nd_Venice_International_Film_Festival-8_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Sofia Carmina Coppola ( KOH-pə-lə; born May 14, 1971) is an American filmmaker and former actress. She has received various accolades, including an Academy Award, two Golden Globe Awards, a Golden Lion, and a Cannes Film Festival Award as well as nominations for three BAFTA Awards and a Primetime Emmy Award. Her parents are filmmakers Eleanor and Francis Ford Coppola, and she made her acting debut as an infant in her father's acclaimed crime drama The Godfather (1972).",
+    "tries": 1
+  },
+  "Salah Karim": {
+    "photo": null,
+    "bio": "Egyptian director",
     "tries": 1
   }
 }
