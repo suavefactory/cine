@@ -19802,8 +19802,65 @@
     "omdb": null
   },
   "As Virgens Suicidas|1998": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/2/4/51024-the-virgin-suicides-0-500-0-750-crop.jpg?v=b869f3409a",
+      "description": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Sofia Coppola",
+      "lb_director_slug": "sofia-coppola",
+      "lb_year": 1999,
+      "lb_title": "The Virgin Suicides",
+      "backdrop": null,
+      "imdb_id": "tt0159097",
+      "tmdb_id": "1443"
+    },
+    "omdb": {
+      "Title": "Making of 'The Virgin Suicides'",
+      "Year": "1998",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "23 min",
+      "Genre": "Documentary, Short",
+      "Director": "Eleanor Coppola",
+      "Writer": "N/A",
+      "Actors": "Eleanor Coppola, Francis Ford Coppola, Sofia Coppola",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "31",
+      "imdbID": "tt7881620",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1998,
+      "original_title": "The Virgin Suicides",
+      "country": "tados Unidos",
+      "plot_pt": "“As Virgens Suicidas” é uma história sobre a misteriosa existência de cinco irmãs, contada pelos rapazes do seu bairro que, passados 20 anos continuam sem conseguir descobrir o mistério das irmãs Lisbon. É uma singular história sobre o isolamento dessas raparigas e um trágico retrato de como os rapazes assistiram impotentes enquanto as suas vidas feneciam. É o primeiro filme de Sofia Coppola (filha de Francis Ford Coppola) e conta com a belíssima banda-sonora dos franceses AIR."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1443"
   },
   "O Diário do Realizador|2025": {
     "lbxd": null,
@@ -29421,14 +29478,20 @@
   },
   "One Is One|1951": {
     "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/2/2/6/359226-one-is-one-0-500-0-750-crop.jpg?v=a322098e9d",
-      "description": "\"Carlo and Rafaella are going to Rome for the first time. They have specially planned a journey they must make so that they can have a whole day together alone\".. . so starts this film following the (mis)fortunes of these two young lovers. [Presumably made when Margaret Tait was a student at the Centro Sperimentale di Cinematographia, Rome]",
-      "genres": null,
-      "country": null,
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/8/9/1/173891-a-portrait-of-ga-0-500-0-750-crop.jpg?v=7fbe56ef17",
+      "description": "Another early experiment in portraiture from Tait. In filming her mother she asks the wider question of how much the camera can reveal of the person.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
       "lb_director": "Margaret Tait",
       "lb_director_slug": "margaret-tait",
-      "lb_year": 1951
+      "lb_year": 1952,
+      "lb_title": "A Portrait of Ga",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/3/8/9/1/tmdb/vRnpFrElSgPBWe9giQZI4P7RG6e-1920-1920-1080-1080-crop-000000.jpg?v=d6251fc405",
+      "imdb_id": "tt2002765",
+      "tmdb_id": "248935"
     },
     "omdb": {
       "Title": "One Is One",
@@ -29456,7 +29519,17 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      19.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/3/8/9/1/tmdb/vRnpFrElSgPBWe9giQZI4P7RG6e-1920-1920-1080-1080-crop-000000.jpg?v=d6251fc405"
+    ],
+    "tmdb_id": "248935"
   },
   "On The Twelfth Day|1955": {
     "lbxd": {
@@ -81713,7 +81786,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/1/0/0/5/tmdb/dK0rrx3bw5BRFdIBmSW5PDrIEBN-1920-1920-1080-1080-crop-000000.jpg?v=ad7198cbd3"
     ],
     "tmdb_id": "1535958",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Fight [The William Greaves Director’s Cut]|None": {
     "lbxd": null,
@@ -82793,7 +82866,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
     ],
-    "tmdb_id": "224264"
+    "tmdb_id": "224264",
+    "wiki_tries": 1
   },
   "The Pervert’s Guide to Utopias|None": {
     "lbxd": {
@@ -82817,7 +82891,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1734476"
+    "tmdb_id": "1734476",
+    "wiki_tries": 1
   },
   "Lukas the Strange|None": {
     "lbxd": {
@@ -82912,7 +82987,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1736494"
+    "tmdb_id": "1736494",
+    "wiki_tries": 1
   },
   "Sessão De Abertura: Os Retratos De Margaret Tait|None": {
     "lbxd": null,
@@ -83298,5 +83374,661 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "799407"
+  },
+  "Laurel Sabino y Jaguilla + New Materials + Alea Jacarandas|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "An Incomplete Calendar|None": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/9/8/7/3/1499873-an-incomplete-calendar-0-500-0-750-crop.jpg?v=56b9f4da05",
+      "description": "A forgotten musical record connects Caracas to Tehran, revealing untold stories of oil, not as a commodity, but as a political leverage for the liberation struggles in Palestine and building Pan-Arab solidarity between 1960-1970.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "Iran",
+      "lb_director": "Sanaz Sohrabi",
+      "lb_director_slug": "sanaz-sohrabi",
+      "lb_year": 2026,
+      "lb_title": "An Incomplete Calendar",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/9/9/8/7/3/tmdb/pyiob343Ct0jIdFPB9vcUCkYMsa-1920-1920-1080-1080-crop-000000.jpg?v=fba45e32d0",
+      "imdb_id": null,
+      "tmdb_id": "1633334"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/9/9/8/7/3/tmdb/pyiob343Ct0jIdFPB9vcUCkYMsa-1920-1920-1080-1080-crop-000000.jpg?v=fba45e32d0"
+    ],
+    "tmdb_id": "1633334"
+  },
+  "Vittorio De Sica – Staging Life|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Vitillas+The Wishful|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Noli me tangere|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/0/1/9/5/490195-noli-me-tangere-0-500-0-750-crop.jpg?v=00ff8e1b4d",
+      "description": "The title of this piece is the well-known warning of Jesus to Mary Magdalene after his resurrection. It translates to Touch me not. This biblical scene gave birth to a strong iconographical tradition in Christian art, from late antiquity to present. Here, the denial of hope and redemption is removed from its religious context. 16mm film. Dual-screen projection.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Sam Taylor-Johnson",
+      "lb_director_slug": "sam-taylor-johnson",
+      "lb_year": 1998,
+      "lb_title": "Noli Me Tangere",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "561704"
+    },
+    "omdb": {
+      "Title": "Noli me tangere",
+      "Year": "1993–",
+      "Rated": "N/A",
+      "Released": "06 Jul 1993",
+      "Runtime": "N/A",
+      "Genre": "History",
+      "Director": "Eddie Romero",
+      "Writer": "N/A",
+      "Actors": "Manny Palo, Joel Torre, Gigette Reyes",
+      "Plot": ":)",
+      "Language": "Filipino",
+      "Country": "Philippines",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjU0MDhhODEtMGNiMy00ZmUwLWI2ZTUtYmQ4ZDFhYzlmNjgyXkEyXkFqcGdeQXVyMTY5NjM2NjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "10",
+      "imdbID": "tt2188052",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "561704"
+  },
+  "Cantona|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/4/5/1/1529451-cantona-0-500-0-750-crop.jpg?v=efb3d0d088",
+      "description": "Told largely in his own words, the remarkable story of Eric Cantona's journey from volatile French prodigy to Manchester United legend.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "UK",
+      "lb_director": "David Tryhorn",
+      "lb_director_slug": "david-tryhorn",
+      "lb_year": 2026,
+      "lb_title": "Cantona",
+      "backdrop": null,
+      "imdb_id": "tt41593519",
+      "tmdb_id": "1666705"
+    },
+    "omdb": {
+      "Title": "Cantona",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "15 May 2026",
+      "Runtime": "115 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Ben Nicholas, David Tryhorn",
+      "Writer": "Stevan Riley",
+      "Actors": "David Beckham, Éric Cantona, Alex Ferguson",
+      "Plot": "Follows footballer Eric Cantona, branded unmanageable and retired in disgrace at 25, who finds redemption at Manchester United under manager Alex Ferguson who channels his brilliance.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y5NzM1YWYtNjFlMS00NjJkLWEyNGYtNWI1M2Q1Nzk5ZWRlXkEyXkFqcGc@._V1_QL75_UY562_CR330,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "6.7",
+      "imdbVotes": "17",
+      "imdbID": "tt41593519",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1666705"
+  },
+  "LONDON|None": {
+    "lbxd": {
+      "rating": 2.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/9/9/7/47997-london-0-500-0-750-crop.jpg?v=75e3c23b12",
+      "description": "London is a drug laden adventure that centers on a party in a New York loft where a young man is trying to win back his ex-girlfriend.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "UK",
+      "lb_director": "Hunter Richards",
+      "lb_director_slug": "hunter-richards",
+      "lb_year": 2005,
+      "lb_title": "London",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/4/7/9/9/7/tmdb/uqchYxRnt7QRRRPa6Dm5NFigDXW-1920-1920-1080-1080-crop-000000.jpg?v=a2627a5a9a",
+      "imdb_id": "tt0449061",
+      "tmdb_id": "7515"
+    },
+    "omdb": {
+      "Title": "London",
+      "Year": "2021",
+      "Rated": "R",
+      "Released": "03 Jul 2021",
+      "Runtime": "92 min",
+      "Genre": "Drama, Romance",
+      "Director": "Hunter Richards",
+      "Writer": "Hunter Richards",
+      "Actors": "Jessica Biel, Chris Evans, Jason Statham",
+      "Plot": "At a drug laden party in a New York loft, a young man tries to win back his ex-girlfriend.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MzQxNTU3N15BMl5BanBnXkFtZTcwODE2MzIzMQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "14%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "24/100"
+        }
+      ],
+      "Metascore": "24",
+      "imdbRating": "6.3",
+      "imdbVotes": "25,892",
+      "imdbID": "tt0449061",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$20,361",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      34.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/4/7/9/9/7/tmdb/uqchYxRnt7QRRRPa6Dm5NFigDXW-1920-1920-1080-1080-crop-000000.jpg?v=a2627a5a9a"
+    ],
+    "tmdb_id": "7515"
+  },
+  "In this Room|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "In This Room",
+      "Year": "2012",
+      "Rated": "N/A",
+      "Released": "10 May 2012",
+      "Runtime": "70 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Richard Swingle",
+      "Writer": "Richard Swingle",
+      "Actors": "Sarah-Louise Tyler, Simon Howells",
+      "Plot": "A man and a woman wake up in a blacked out room. Neither of them has any memory of who they are and how they got there. They discover that they are locked inside this room and that they are...",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwODUyOTkwOV5BMl5BanBnXkFtZTcwNDI3OTQyNg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "8",
+      "imdbID": "tt2011063",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "O Nosso Último Filme sobre Lisboa|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Ala-Arriba!|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "description": "Documents Harpur College's Afro-Latin Alliance.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Larry Gottheim",
+      "lb_director_slug": "larry-gottheim",
+      "lb_year": 1969,
+      "lb_title": "ALA",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "944679"
+    },
+    "omdb": {
+      "Title": "Ala",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "26 Jun 2025",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jafar Dehghan, Dariush Farhang, Mahsa Bavafa",
+      "Plot": "N/A",
+      "Language": "Persian",
+      "Country": "Iran",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwZWJiMzAtMGRlYi00ZTFkLTlmNzctZmUwY2YwODM3YTQ2XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "2.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "2.5",
+      "imdbVotes": "29",
+      "imdbID": "tt37481323",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "944679"
+  },
+  "The Measured Everlasting Is 1.334 Billion Years|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Born Out of Death + Palestine Red Crescent Society + Children of Palestine|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Verdes Anos 2 | DOCLISBOA 2026|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "ELZA SOARES|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Kurtág Fragments|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/4/6/2/6/1264626-kurtag-fragments-0-500-0-750-crop.jpg?v=2379b29fda",
+      "description": "Renowned composer György Kurtág's journey through the key places and collaborations that shaped his work, capturing the transformation of emotions into music with world-class musicians in a cinematic exploration of his musical world.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "Hungary",
+      "lb_director": "Dénes Nagy",
+      "lb_director_slug": "denes-nagy",
+      "lb_year": 2026,
+      "lb_title": "Kurtág Fragments",
+      "backdrop": null,
+      "imdb_id": "tt27811655",
+      "tmdb_id": "1378900"
+    },
+    "omdb": {
+      "Title": "Kurtág Fragments",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Feb 2026",
+      "Runtime": "113 min",
+      "Genre": "Documentary",
+      "Director": "Dénes Nagy",
+      "Writer": "N/A",
+      "Actors": "György Kurtág",
+      "Plot": "Renowned composer György Kurtág's journey through the key places and collaborations that shaped his work, capturing the transformation of emotions into music with world-class musicians in a cinematic exploration of his musical world.",
+      "Language": "N/A",
+      "Country": "Hungary",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYxYjI5YWEtZGY2Ni00Nzg3LWJhMzgtYWUzYzFhMDU0ZjI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt27811655",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1378900"
+  },
+  "Five Eyes|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/2/0/8/9/1452089-five-eyes-0-500-0-750-crop.jpg?v=1926ef43ba",
+      "description": "The documentary explores the cultural memory of Morocco through the testimonies of artistic figures such as Paul Bowles, Mohamed Choukri or Mohamed Mrabet.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Karim Debbagh",
+      "lb_director_slug": "karim-debbagh",
+      "lb_year": 2025,
+      "lb_title": "Five Eyes",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1580268"
+    },
+    "omdb": {
+      "Title": "Five Eyes",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Short, Sci-Fi",
+      "Director": "Rachel Hoke",
+      "Writer": "Rachel Hoke",
+      "Actors": "Jessica Cook, Diana Malota",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc5MjQ3OTYtYzE0NC00NDAwLWFmZjItNDQ3MmI1MDk5YmJjXkEyXkFqcGdeQXVyNjk3OTUzNjA@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt26238856",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1580268"
+  },
+  "Geography Is Destiny|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Geography is Destiny",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "07 May 2026",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Rayna Teneva",
+      "Writer": "Rayna Teneva",
+      "Actors": "N/A",
+      "Plot": "A Bulgarian valley has long depended on rose cultivation and weapons production - two industries shaped by geopolitical shifts and climatic instability. Returning after many years, the filmmaker embarks on a journey to unpick the ...",
+      "Language": "Bulgarian, Romany, English",
+      "Country": "Bulgaria, Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY4MDRjYTAtZTQyOS00M2IxLThhMmItYTczN2FmMzQ1NDY0XkEyXkFqcGc@._V1_QL75_UY562_CR330,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt42423915",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1793478"
+  },
+  "Land Day +Where Life Holds|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Dia Mundial Do Património Audiovisual / Anim, 30 Anos|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Ute Aurand & Margaret Tait: Pintar Um Lugar|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Letty Lynton|1932": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/4/3/1/120431-letty-lynton-0-500-0-750-crop.jpg?v=a6f77c62af",
+      "description": "Socialite Letty Lynton is returning to New York, abandoning one-time lover Emile Renaul in South America, when she strikes up a shipboard romance with Jerry Darrow. Renault is waiting for her in New York and will not leave her alone, so she poisons him. When detectives take her to the D.A.'s office, Jerry cooks up an alibi.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Clarence Brown",
+      "lb_director_slug": "clarence-brown",
+      "lb_year": 1932,
+      "lb_title": "Letty Lynton",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fw/h5/2i/6i/jqhe3A7c5rk52PkakAVqqFMeiQZ-1920-1920-1080-1080-crop-000000.jpg?v=751080eeed",
+      "imdb_id": "tt0023132",
+      "tmdb_id": "162064"
+    },
+    "omdb": {
+      "Title": "Letty Lynton",
+      "Year": "1932",
+      "Rated": "Approved",
+      "Released": "14 May 1932",
+      "Runtime": "84 min",
+      "Genre": "Drama",
+      "Director": "Clarence Brown",
+      "Writer": "Marie Belloc Lowndes, John Meehan, Wanda Tuchock",
+      "Actors": "Joan Crawford, Robert Montgomery, Nils Asther",
+      "Plot": "A socialite begins a shipboard romance with a wealthy man, but is blackmailed by a former lover.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODJiYjhkZWQtY2RmYS00YjhjLWJjZTktYTY0OGM3MjI2ZmNiXkEyXkFqcGdeQXVyOTI2MjI5MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "598",
+      "imdbID": "tt0023132",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Letty Lynton",
+      "imdb_id": "tt0023132",
+      "extract_pt": "Letty Lynton (bra: Redimida) é um filme pre-Code estadunidense de 1932, do gênero drama criminal, dirigido por Clarence Brown, e estrelado por Joan Crawford e Robert Montgomery. O roteiro de John Meehan e Wanda Tuchock foi baseado no romance homônimo de 1931, de Marie Belloc Lowndes.\nDesde então, o filme tornou-se famoso em parte devido à sua indisponibilidade após um processo judicial de 1936 (ver § Estado legal). A produção também é lembrada pelo vestido Letty Lynton, desenhado pelo figurinista Adrian: um vestido branco de organdi de algodão com grandes mangas franzidas e bufantes nos ombros."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/fw/h5/2i/6i/jqhe3A7c5rk52PkakAVqqFMeiQZ-1920-1920-1080-1080-crop-000000.jpg?v=751080eeed"
+    ],
+    "tmdb_id": "162064"
+  },
+  "Viaggio In Italia|1954": {
+    "lbxd": {
+      "rating": 3.79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/2/1/50121-journey-to-italy-0-500-0-750-crop.jpg?v=242f483a5f",
+      "description": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Roberto Rossellini",
+      "lb_director_slug": "roberto-rossellini",
+      "lb_year": 1954,
+      "lb_title": "Journey to Italy",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/kj/w7/ee/jc/journey-to-italy-1920-1920-1080-1080-crop-000000.jpg?v=fa7f958a6e",
+      "imdb_id": "tt0046511",
+      "tmdb_id": "2748"
+    },
+    "omdb": {
+      "Title": "Journey to Italy",
+      "Year": "1954",
+      "Rated": "Approved",
+      "Released": "08 Sep 1954",
+      "Runtime": "97 min",
+      "Genre": "Drama, Romance",
+      "Director": "Roberto Rossellini",
+      "Writer": "Vitaliano Brancati, Roberto Rossellini, Colette",
+      "Actors": "Ingrid Bergman, George Sanders, Maria Mauban",
+      "Plot": "An unhappily married couple attempts to find direction and insight while vacationing in Naples.",
+      "Language": "English, Italian",
+      "Country": "Italy, France",
+      "Awards": "3 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTkwZjdlMjMtYTM5MC00NjhlLWJkOTgtNDVlOWRhY2M0ODRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "7.2",
+      "imdbVotes": "14,125",
+      "imdbID": "tt0046511",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      20.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/kj/w7/ee/jc/journey-to-italy-1920-1920-1080-1080-crop-000000.jpg?v=fa7f958a6e"
+    ],
+    "tmdb_id": "2748"
   }
 }

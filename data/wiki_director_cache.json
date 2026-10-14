@@ -2553,5 +2553,50 @@
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/JoaoBotelho.png/500px-JoaoBotelho.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "João Manuel Relvas Leopoldo Botelho (born 1949) is a Portuguese film director. He has directed and written the screenplays of numerous films. His films have won several awards.",
     "tries": 1
+  },
+  "Eddie Romero": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Eddie_Romero2007.jpg/500px-Eddie_Romero2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Edgar Sinco Romero,  (July 7, 1924 – May 28, 2013), commonly known as Eddie Romero, was a Filipino film director, film producer and screenwriter.",
+    "tries": 1
+  },
+  "Ben Nicholas, David Tryhorn": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Richard Swingle": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Dénes Nagy": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%A9nes_Nagy_%282021%29.jpg/500px-D%C3%A9nes_Nagy_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Dénes Nagy (Budapest, 1980) is a Hungarian film director, editor and screenwriter. His first feature film, Natural Light was awarded the Silver Bear for Best Director in 2021.",
+    "tries": 1
+  },
+  "Rachel Hoke": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Rayna Teneva": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Clarence Brown": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Clarence_Brown_-_Jun_1922_FB.jpg/500px-Clarence_Brown_-_Jun_1922_FB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Clarence Leon Brown (May 10, 1890 – August 17, 1987) was an American film director.",
+    "tries": 1
+  },
+  "Margaret Tait": {
+    "photo": null,
+    "bio": "Margaret Caroline Tait (11 November 1918 – 16 April 1999) was a Scottish medical doctor, filmmaker and poet.",
+    "tries": 1
+  },
+  "Sofia Coppola": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sofia_Coppola_at_82nd_Venice_International_Film_Festival-8_%28cropped%29.jpg/500px-Sofia_Coppola_at_82nd_Venice_International_Film_Festival-8_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Sofia Carmina Coppola ( KOH-pə-lə; born May 14, 1971) is an American filmmaker and former actress. She has received various accolades, including an Academy Award, two Golden Globe Awards, a Golden Lion, and a Cannes Film Festival Award as well as nominations for three BAFTA Awards and a Primetime Emmy Award. Her parents are filmmakers Eleanor and Francis Ford Coppola, and she made her acting debut as an infant in her father's acclaimed crime drama The Godfather (1972).",
+    "tries": 1
   }
 }
