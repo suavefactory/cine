@@ -2562,12 +2562,12 @@
   "Ben Nicholas, David Tryhorn": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Richard Swingle": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Dénes Nagy": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%A9nes_Nagy_%282021%29.jpg/500px-D%C3%A9nes_Nagy_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2577,12 +2577,12 @@
   "Rachel Hoke": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Rayna Teneva": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Clarence Brown": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Clarence_Brown_-_Jun_1922_FB.jpg/500px-Clarence_Brown_-_Jun_1922_FB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2602,6 +2602,11 @@
   "Salah Karim": {
     "photo": null,
     "bio": "Egyptian director",
+    "tries": 1
+  },
+  "Anita Leandro": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }
