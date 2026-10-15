@@ -348,7 +348,8 @@ window.CINEMA_DATA = {
       "year": 1969,
       "plot": "Documents Harpur College's Afro-Latin Alliance.",
       "country": "USA",
-      "director_lbxd_slug": "larry-gottheim"
+      "director_lbxd_slug": "larry-gottheim",
+      "title_en": "El-Zawag ala el-Tariqah el-Hadithah"
     },
     {
       "id": "sao_jorge_12113",
@@ -2111,7 +2112,8 @@ window.CINEMA_DATA = {
         20.7
       ],
       "country": "Italy",
-      "director_lbxd_slug": "roberto-rossellini"
+      "director_lbxd_slug": "roberto-rossellini",
+      "plot_pt": "Lyla Rocco (nascida em 18 de janeiro de 1933) é uma atriz de cinema italiana. Depois de fazer sua estreia no cinema em 1951, Rocco apareceu em mais de trinta produções antes de se aposentar em 1964.[carece de fontes]? Em 1954, ela desempenhou um papel de apoio no filme Viaggio in Italia, de Roberto Rossellini. Em 1960, em um de seus papéis finais, apareceu no filme de terror L'ultima preda del vampiro."
     },
     {
       "id": "nimas_historias-paralelas-2026",

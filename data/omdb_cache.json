@@ -81422,7 +81422,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "47479",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "2- NATAL AMARGO|2017": {
     "lbxd": {
@@ -82249,7 +82249,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/1/1/0/0/5/tmdb/dK0rrx3bw5BRFdIBmSW5PDrIEBN-1920-1920-1080-1080-crop-000000.jpg?v=ad7198cbd3"
     ],
     "tmdb_id": "1535958",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Remotes|2026": {
     "lbxd": {
@@ -82359,7 +82359,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "288841",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "For the Moon|2023": {
     "lbxd": {
@@ -83249,7 +83249,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
     ],
     "tmdb_id": "224264",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Pervert’s Guide to Utopias|2026": {
     "lbxd": {
@@ -83357,7 +83357,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1736494",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "2- HISTÓRIAS PARALELAS|2018": {
     "lbxd": {
@@ -84074,7 +84074,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/9/9/8/7/3/tmdb/pyiob343Ct0jIdFPB9vcUCkYMsa-1920-1920-1080-1080-crop-000000.jpg?v=fba45e32d0"
     ],
-    "tmdb_id": "1633334"
+    "tmdb_id": "1633334",
+    "wiki_tries": 1
   },
   "Noli me tangere|1998": {
     "lbxd": null,
@@ -84248,22 +84249,7 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
-      "description": "Documents Harpur College's Afro-Latin Alliance.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Larry Gottheim",
-      "lb_director_slug": "larry-gottheim",
-      "lb_year": 1969,
-      "lb_title": "ALA",
-      "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "944679"
-    },
+    "lbxd": null,
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84300,7 +84286,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "944679"
+    "tmdb_id": "537225"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {
@@ -84449,7 +84435,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/3/8/9/1/tmdb/vRnpFrElSgPBWe9giQZI4P7RG6e-1920-1920-1080-1080-crop-000000.jpg?v=d6251fc405"
     ],
-    "tmdb_id": "248935"
+    "tmdb_id": "248935",
+    "wiki_tries": 1
   },
   "As Virgens Suicidas|1999": {
     "lbxd": {
@@ -84501,7 +84488,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Virgin Suicides (film)",
+      "imdb_id": "tt0159097",
+      "extract_pt": "The Virgin Suicides (prt/bra: As Virgens Suicidas) é um filme estadunidense de 1999, do gênero comédia dramático-romântica, escrito e dirigido por Sofia Coppola (que estreia na direção), baseado no romance homônimo de Jeffrey Eugenides. \nÉ estrelado por James Woods, Kathleen Turner e Kirsten Dunst."
+    },
     "cinema": {
       "year": 1998,
       "original_title": "The Virgin Suicides",
@@ -84510,22 +84501,31 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1443"
+    "tmdb_id": "1443",
+    "wiki_tries": 1
   },
-  "Margaret Tait: Do Início Ao Fim|None": {
-    "lbxd": null,
+  "2- HISTÓRIAS PARALELAS|2017": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
+      "description": null,
+      "genres": [
+        "Romance"
+      ],
+      "country": null,
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2017,
+      "lb_title": "新妈妈2",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "799407"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
-  },
-  "Margaret Tait & Charlotte Wells: Despedidas|1979": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "799407"
   }
 }
