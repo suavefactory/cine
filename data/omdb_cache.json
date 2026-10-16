@@ -29535,7 +29535,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/3/8/9/1/tmdb/vRnpFrElSgPBWe9giQZI4P7RG6e-1920-1920-1080-1080-crop-000000.jpg?v=d6251fc405"
     ],
     "tmdb_id": "248935",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "On The Twelfth Day|1955": {
     "lbxd": {
@@ -82873,7 +82873,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
     ],
     "tmdb_id": "224264",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Pervert’s Guide to Utopias|None": {
     "lbxd": {
@@ -82898,7 +82898,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1734476",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Lukas the Strange|None": {
     "lbxd": {
@@ -82994,7 +82994,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1736494",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Sessão De Abertura: Os Retratos De Margaret Tait|None": {
     "lbxd": null,
@@ -83056,7 +83056,7 @@
     "wiki": {
       "title_en": null,
       "imdb_id": null,
-      "extract_pt": "O cinema, Manoel de Oliveira e eu é um documentário biográfico português de 2016 realizado e narrado por João Botelho. O filme apresenta-se como uma homenagem a Manoel de Oliveira, focando-se em particular no seu método de realizar filmes, nas aprendizagens de João Botelho e no legado do seu estilo no cinema nacional e mundial. Utilizando uma estrutura de filme dentro de um filme, O cinema, Manoel de Oliveira e eu contém ainda a curta-metragem de ficção intitulada \"A rapariga das luvas”, uma obra que havia sido imaginada por Oliveira e que nunca tinha sido realizada.\n\nO documentário fez parte da programação do 13º Festival IndieLisboa, fora de competição, onde foi apresentado a 24 de abril de 2016, um ano após o falecimento de Manoel de Oliveira."
+      "extract_pt": "O cinema, Manoel de Oliveira e eu é um documentário biográfico português de 2016 realizado e narrado por João Botelho. O filme apresenta-se como uma homenagem a Manoel de Oliveira, focando-se em particular no seu método de realizar filmes, nas aprendizagens de João Botelho e no legado do seu estilo no cinema nacional e mundial. Utilizando uma estrutura de filme dentro de um filme, O cinema, Manoel de Oliveira e eu contém ainda a curta-metragem de ficção intitulada \"A rapariga das luvas”, uma obra que havia sido imaginada por Oliveira e que nunca tinha sido realizada.\nO documentário fez parte da programação do 13º Festival IndieLisboa, fora de competição, onde foi apresentado a 24 de abril de 2016, um ano após o falecimento de Manoel de Oliveira."
     },
     "cinema": {},
     "dir_checked": true,
@@ -83420,7 +83420,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/9/9/8/7/3/tmdb/pyiob343Ct0jIdFPB9vcUCkYMsa-1920-1920-1080-1080-crop-000000.jpg?v=fba45e32d0"
     ],
     "tmdb_id": "1633334",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Vittorio De Sica – Staging Life|None": {
     "lbxd": null,
@@ -83615,7 +83615,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/4/7/9/9/7/tmdb/uqchYxRnt7QRRRPa6Dm5NFigDXW-1920-1920-1080-1080-crop-000000.jpg?v=a2627a5a9a"
     ],
     "tmdb_id": "7515",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "In this Room|None": {
     "lbxd": null,
@@ -84527,5 +84527,37 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "799407"
+  },
+  "Margaret Tait: Do Início Ao Fim|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Margaret Tait & Charlotte Wells: Despedidas|1979": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Margaret Tait & Peter Todd: A Memória Das Coisas|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Trabalhos De Alunos Da Etic – Escola De Tecnologias, Inovação E Criação|1975": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }

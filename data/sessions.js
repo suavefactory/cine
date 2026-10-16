@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-10-15T13:24:27.887621+00:00",
+  "generated": "2026-10-16T13:18:44.749658+00:00",
   "movies": [
     {
       "id": "sao_jorge_12058",
@@ -285,8 +285,7 @@ window.CINEMA_DATA = {
         34.4
       ],
       "country": "UK",
-      "director_lbxd_slug": "hunter-richards",
-      "plot_pt": "London (original: London) é um filme americano, lançado no ano 2005 e é centrado em uma festa de Manhattan. O filme, produzido por Paul Davis-Miller e Bonnie Timmermann, foi dirigido e escrito por Brian \"Hunter\" Richards. É estrelado por Jessica Biel, Jason Statham, Joy Bryant, Dane Cook e Chris Evans."
+      "director_lbxd_slug": "hunter-richards"
     },
     {
       "id": "sao_jorge_12121",
@@ -331,7 +330,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12115",
       "title": "Ala-Arriba!",
-      "director": "Salah Karim",
+      "director": null,
       "duration": 91,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
@@ -349,8 +348,7 @@ window.CINEMA_DATA = {
       "year": 1969,
       "plot": "Documents Harpur College's Afro-Latin Alliance.",
       "country": "USA",
-      "director_lbxd_slug": "larry-gottheim",
-      "title_en": "El-Zawag ala el-Tariqah el-Hadithah"
+      "director_lbxd_slug": "larry-gottheim"
     },
     {
       "id": "sao_jorge_12113",
@@ -795,8 +793,7 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "Philosopher Slavoj Žižek is our guide through landscapes of classic film, music, social media, archive and webcasts. Making unexpected twists and turns, he maps the utopian illusions of our times. Through absurd juxtapositions and startling insights, we are seduced into recognising our fate, in order to change it.",
       "country": "Ireland",
-      "director_lbxd_slug": "sophie-fiennes",
-      "plot_pt": "O 83.º Festival Internacional de Cinema de Veneza ocorreu de 2 a 12 de setembro de 2026, em Lido de Veneza, na Itália. A atriz estadunidense Maggie Gyllenhaal serviu como presidente do júri para o painel principal de competição enquanto os atores italianos Greta Scarano e Nicolas Maupas apresentaram as cerimônias de abertura e encerramento.\nOs filmes apresentados no festival foram anunciados oficialmente em 23 de julho de 2026, sendo que o documentário de drama NAZA, de Yuval Abraham e Rachel Szor foi incluído no painel de apresentações somente em 24 de agosto por decisão da organização do evento em meio às eventuais tensões causadas pela repercussão da obra. O drama biográfico DAU, do diretor russo Ilya Khrzhanovsky, também causou controvérsias e protestos por parte de representantes ucranianos por retratar a vida do cientista soviético Lev Landau, que desenvolveu uma bomba atômica para o país na década de 1960."
+      "director_lbxd_slug": "sophie-fiennes"
     },
     {
       "id": "sao_jorge_12061",
@@ -954,10 +951,9 @@ window.CINEMA_DATA = {
       "director": "Adrian Sibley",
       "duration": 53,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/4/5/5/2/214552-the-kate-bush-story-running-up-that-hill-0-500-0-750-crop.jpg?v=689efa922b",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/kate-bush.webp",
       "genres": [
         "Documentary",
-        "Tv Movie",
         "Music"
       ],
       "link": "https://cinemasaojorge.pt/evento/kate-bush-the-timeless-genius/",
@@ -973,157 +969,10 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "This documentary explores Kate Bush's career and music, from January 1978's Wuthering Heights to her 2011 album 50 Words for Snow, through the testimony of some of her key collaborators and those she has inspired.",
+      "plot": "Famous fans and fellow musicians discuss the career of one of the most influential figures that British music has ever produced.",
       "title_en": "The Kate Bush Story: Running Up That Hill",
-      "country": "UK",
-      "year": 2014,
-      "rating": 3.66,
-      "director_lbxd_slug": "adrian-sibley-1"
-    },
-    {
-      "id": "sao_jorge_12042",
-      "title": "For the Moon",
-      "director": "Nile Price",
-      "duration": 88,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/9/6/7/9/1079679-for-the-moon-0-500-0-750-crop.jpg?v=9d045730a5",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/for-the-moon/",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "16:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "year": 2023,
-      "plot": "A coming-of-age narrative based on the true story of Ronald McNair, the 2nd African American to go to space following his stand against segregation in an all-white Library.",
-      "country": "USA",
-      "director_lbxd_slug": "nile-price"
-    },
-    {
-      "id": "sao_jorge_12039",
-      "title": "Povo e Poder",
-      "director": null,
-      "duration": 190,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/Povo_Still_9.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/povo-e-poder/",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "15:00",
-          "cinema": "sao_jorge"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "10:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "cinemateca_20335",
-      "title": "La Femme Et Le Pantin",
-      "director": "Julien Duvivier",
-      "year": 1958,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/1/9/8519-a-woman-like-satan-0-500-0-750-crop.jpg?v=0f4287b2d5",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20335",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-10-16",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.25,
-      "plot": "Handsome and rich Spanish gentleman abandons his wife and riches for his love of a young girl of poor stock who taunts and degrades him.",
-      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
-      "title_en": "A Woman Like Satan",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lSt70meREm6vLzf4S0nrPJHbGdG.jpg",
-        "https://image.tmdb.org/t/p/w1280/pGveJ5C8o3GQlm92O9stti9dp83.jpg",
-        "https://image.tmdb.org/t/p/w1280/u3YVXyOID03Ter5nDfINfjoi9wE.jpg"
-      ],
-      "stills_focus": [
-        39.5,
-        24.7,
-        60.4
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "julien-duvivier"
-    },
-    {
-      "id": "cinemateca_20328",
-      "title": "Les Pétroleuses",
-      "director": "Christian-Jaque",
-      "year": 1971,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/6/586-the-legend-of-frenchie-king-0-500-0-750-crop.jpg?v=a9219acc3a",
-      "genres": [
-        "Comedy",
-        "Western"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20328",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.07,
-      "plot": "Outlaw sisters in the old West inherit a ranch and try to settle down and develop relationships with neighboring family of lots of brothers.",
-      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
-      "title_en": "The Legend of Frenchie King",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/7Z3Lzevwua5KFDkqi07ITIdvIs3.jpg",
-        "https://image.tmdb.org/t/p/w1280/sDqGsKHvadHHQgkrMz4W998ssea.jpg",
-        "https://image.tmdb.org/t/p/w1280/gPwq8iwvpNDF1Y0B0xuP8SSq0j1.jpg"
-      ],
-      "stills_focus": [
-        23.0,
-        28.8,
-        19.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "christian-jaque"
-    },
-    {
-      "id": "cinemateca_20408",
-      "title": "La Plage Noire",
-      "director": "Michel Piccoli",
-      "year": 2001,
-      "duration": 114,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/6/5/8/1/326581-the-black-beach-0-500-0-750-crop.jpg?v=267ad528ff",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20408",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "An exhausted militant wants to take a break from the incessant frenzy surrounding him. His country’s dictatorship is on its last legs and chaos reigns. His wife Sylvie leaves their country for France. She writes about the new democracy struggling to be born back home. His daughter Joyce must hide out in the deserted childhood home in the solitude and infinity of the Black Beach. Several adversaries – the militia of a hazy regime in his native land and the Paris police – wage a strange game of chess in which he is the pawn. Threats abound and he’s haunted by his past, his fears, dead friends. He has three allies: his wife, his daughter, and an old girlfriend from his fighting days.",
-      "title_en": "The Black Beach",
-      "country": "Poland",
-      "director_lbxd_slug": "michel-piccoli"
+      "country": "United Kingdom",
+      "year": 2014
     },
     {
       "id": "cinemateca_20353",
@@ -1162,6 +1011,42 @@ window.CINEMA_DATA = {
       ],
       "country": "Philippines",
       "director_lbxd_slug": "lino-brocka"
+    },
+    {
+      "id": "cinemateca_20337",
+      "title": "La Femme Et Le Pantin",
+      "director": "Julien Duvivier",
+      "year": 1958,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/1/9/8519-a-woman-like-satan-0-500-0-750-crop.jpg?v=0f4287b2d5",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20337",
+      "sessions": [
+        {
+          "date": "2026-10-16",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.25,
+      "plot": "Handsome and rich Spanish gentleman abandons his wife and riches for his love of a young girl of poor stock who taunts and degrades him.",
+      "plot_pt": "A última ficção de Martin Scorsese é tão mastodôntica, em termos de duração, como a penúltima, ambas roçando as três horas e meia de duração (as duas mais longas ficções na obra de Scorsese), e parecia corresponder a mais um momento de consagração, no ano em que o realizador se tornou octogenário, mas as dez nomeações para Oscars converteram-se em exatamente zero prémios conquistados. O que é mais relevante assinalar é que com KILLERS OF THE FLOWER MOON Scorsese abordou um tema inédito na sua obra: a relação dos Estados Unidos, e da maioria branca da população, com os povos nativos. É a história dos índios Osage, do Oklahoma, e de como durante anos foram manipulados, e em muitos casos assassinados, por causa do petróleo descoberto nas suas terras.",
+      "title_en": "A Woman Like Satan",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/lSt70meREm6vLzf4S0nrPJHbGdG.jpg",
+        "https://image.tmdb.org/t/p/w1280/pGveJ5C8o3GQlm92O9stti9dp83.jpg",
+        "https://image.tmdb.org/t/p/w1280/u3YVXyOID03Ter5nDfINfjoi9wE.jpg"
+      ],
+      "stills_focus": [
+        39.5,
+        24.7,
+        60.4
+      ],
+      "country": "Italy",
+      "director_lbxd_slug": "julien-duvivier"
     },
     {
       "id": "cinemateca_20355",
@@ -1481,6 +1366,11 @@ window.CINEMA_DATA = {
           "date": "2026-10-20",
           "time": "19:00",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "19:00",
+          "cinema": "cinemateca"
         }
       ],
       "rating": 3.84,
@@ -1569,6 +1459,11 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-10-21",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-10-29",
           "time": "15:30",
           "cinema": "cinemateca"
         }
@@ -1887,7 +1782,7 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "A film adaptation of the Charles Dickens novel \"Hard Times\" set in a Portuguese industrial town of the 1980s.",
-      "plot_pt": "O cinema, Manoel de Oliveira e eu é um documentário biográfico português de 2016 realizado e narrado por João Botelho. O filme apresenta-se como uma homenagem a Manoel de Oliveira, focando-se em particular no seu método de realizar filmes, nas aprendizagens de João Botelho e no legado do seu estilo no cinema nacional e mundial. Utilizando uma estrutura de filme dentro de um filme, O cinema, Manoel de Oliveira e eu contém ainda a curta-metragem de ficção intitulada \"A rapariga das luvas”, uma obra que havia sido imaginada por Oliveira e que nunca tinha sido realizada.\n\nO documentário fez parte da programação do 13º Festival IndieLisboa, fora de competição, onde foi apresentado a 24 de abril de 2016, um ano após o falecimento de Manoel de Oliveira.",
+      "plot_pt": "O cinema, Manoel de Oliveira e eu é um documentário biográfico português de 2016 realizado e narrado por João Botelho. O filme apresenta-se como uma homenagem a Manoel de Oliveira, focando-se em particular no seu método de realizar filmes, nas aprendizagens de João Botelho e no legado do seu estilo no cinema nacional e mundial. Utilizando uma estrutura de filme dentro de um filme, O cinema, Manoel de Oliveira e eu contém ainda a curta-metragem de ficção intitulada \"A rapariga das luvas”, uma obra que havia sido imaginada por Oliveira e que nunca tinha sido realizada.\nO documentário fez parte da programação do 13º Festival IndieLisboa, fora de competição, onde foi apresentado a 24 de abril de 2016, um ano após o falecimento de Manoel de Oliveira.",
       "title_en": "Hard Times",
       "country": "Portugal",
       "director_lbxd_slug": "joao-botelho"
@@ -1987,6 +1882,43 @@ window.CINEMA_DATA = {
           "date": "2026-10-28",
           "time": "21:30",
           "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20396",
+      "title": "Margaret Tait & Peter Todd: A Memória Das Coisas",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20396",
+      "sessions": [
+        {
+          "date": "2026-10-29",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20422",
+      "title": "Trabalhos De Alunos Da Etic – Escola De Tecnologias, Inovação E Criação",
+      "director": "Lino Brocka",
+      "year": 1975,
+      "duration": 123,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20422",
+      "sessions": [
+        {
+          "date": "2026-10-29",
+          "time": "21:30",
+          "cinema": "cinemateca",
+          "labels": [
+            "Com a presença de Peter Todd"
+          ]
         }
       ]
     },
@@ -2117,8 +2049,7 @@ window.CINEMA_DATA = {
         20.7
       ],
       "country": "Italy",
-      "director_lbxd_slug": "roberto-rossellini",
-      "plot_pt": "Lyla Rocco (nascida em 18 de janeiro de 1933) é uma atriz de cinema italiana. Depois de fazer sua estreia no cinema em 1951, Rocco apareceu em mais de trinta produções antes de se aposentar em 1964.[carece de fontes]? Em 1954, ela desempenhou um papel de apoio no filme Viaggio in Italia, de Roberto Rossellini. Em 1960, em um de seus papéis finais, apareceu no filme de terror L'ultima preda del vampiro."
+      "director_lbxd_slug": "roberto-rossellini"
     },
     {
       "id": "nimas_historias-paralelas-2026",
@@ -2134,31 +2065,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/historias-paralelas-2026",
       "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "21:15",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-10-16",
           "time": "14:15",
@@ -2627,21 +2533,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/natal-amargo-2025",
       "sessions": [
         {
-          "date": "2026-10-15",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-10-16",
           "time": "16:00",
           "cinema": "trindade"
@@ -2737,11 +2628,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/viridiana-1961",
       "sessions": [
         {
-          "date": "2026-10-15",
-          "time": "17:30",
-          "cinema": "nimas"
-        },
-        {
           "date": "2026-10-20",
           "time": "15:00",
           "cinema": "nimas"
@@ -2761,75 +2647,6 @@ window.CINEMA_DATA = {
         16.8
       ],
       "country": "Spain",
-      "director_lbxd_slug": "luis-bunuel"
-    },
-    {
-      "id": "nimas_happy-end-2017",
-      "title": "Happy End",
-      "director": "Michael Haneke",
-      "year": 2017,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/2/9/1/333291-happy-end-0-500-0-750-crop.jpg?v=fe45aa7a50",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/happy-end-2017",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "19:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.46,
-      "plot": "A well-to-do French family living in Calais deal with a series of setbacks and crises while paying little attention to the grim conditions in the refugee camps within a few miles of their home.",
-      "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
-        "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
-        "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
-      ],
-      "stills_focus": [
-        27.0,
-        19.8,
-        29.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_ele-1953",
-      "title": "Ele",
-      "director": "Luis Buñuel",
-      "year": 1953,
-      "duration": 82,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/8/0/4/21804-el-0-500-0-750-crop.jpg?v=26cac6548e",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ele-1953",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.97,
-      "plot": "Gloria encounters Francisco, a man whose social veneer betrays a truer self burrowed underneath.",
-      "plot_pt": "Numa cerimónia religiosa, o olhar de Francisco é atraído pelos pés de Gloria, sentada na primeira fila. Depois da missa, segue-a mas perde-lhe o rasto. Encontra-a e afasta um namorado incómodo, Raul. Francisco e Gloria casam. Logo na viagem de núpcias começa um pesadelo para Gloria, de que ela escapa com a ajuda de Raul, com quem refaz a vida. Tem um filho, a quem dá o nome de Francisco. Em família, visita o ex-marido, que foi viver a sua amargura para um convento. É informada de que o estado dele regista francas melhoras, que parecem ser contrariadas pela sua incapacidade de andar a direito.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/dDWSK0xdXiOdzKY7ZT0TEoR4isb.jpg",
-        "https://image.tmdb.org/t/p/w1280/8gy5gf9q9jn00z6wxtMxgbVSaJt.jpg",
-        "https://image.tmdb.org/t/p/w1280/pfPz4by5WD8FVMPrT4CdiemSW1B.jpg"
-      ],
-      "stills_focus": [
-        36.2,
-        25.5,
-        28.4
-      ],
-      "country": "Mexico",
       "director_lbxd_slug": "luis-bunuel"
     },
     {
@@ -2917,21 +2734,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/naza-2026",
       "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-10-16",
           "time": "14:30",
@@ -4645,11 +4447,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/PRIMETIME",
       "sessions": [
         {
-          "date": "2026-10-15",
-          "time": "19:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-10-16",
           "time": "21:30",
           "cinema": "trindade"
@@ -5086,10 +4883,11 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Prefacio para el dialoguito",
+      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega",
       "plot": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
-      "country": "Argentina",
+      "country": "USA",
       "rating": 3.36,
-      "title_en": "You Burn Me",
+      "title_en": "Desire Lines",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
         "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
@@ -5344,6 +5142,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -5412,6 +5211,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -5434,6 +5234,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -5465,6 +5266,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -6330,6 +6132,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -6677,6 +6480,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
+      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -6700,40 +6504,6 @@ window.CINEMA_DATA = {
       "plot_pt": "Entre 2018 e 2023, Ewelina Rosińska visitou diferentes regiões e lugares de Portugal, sozinha ou na companhia de artistas e eco-activistas. A conservação da natureza, a etnografia, a agricultura e as ações contra a gentrificação atravessam o filme, compassado pelo ritmo de uma câmara Bolex. Entre observação e contemplação, Pedras Instáveis propõe um olhar sobre o território e sobre a possibilidade de abrandar.",
       "plot": "Between 2018 and 2023, Ewelina Rosińska visited different regions and places in Portugal, alone or in the company of artists and eco-activists. Geological elements, agricultural places, rural dwellings and non-human beings run through the film, poetically paced by the Bolex camera. Between the detail and the immensity of the landscape, Unstable Rocks proposes a contemplative gaze upon the territory, to the rhythm of the pulse of nature and its elements.",
       "country": "Alemanha / Portugal"
-    },
-    {
-      "id": "trindade_9307",
-      "title": "News from home",
-      "director": "Chantal Akerman",
-      "year": 1976,
-      "duration": 84,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/3/3/8/2/73382-news-from-home-0-500-0-750-crop.jpg?v=ba20a839c0",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/news-from-home",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "17:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.1,
-      "plot": "Impersonal and beautiful images of Akerman's life in New York are combined with letters from her loving but manipulative mother, read by Akerman herself.",
-      "plot_pt": "Chantal Akerman compõe uma bela amálgama da correspondência com a sua mãe e imagens da vida quotidiana em Nova Iorque, captadas através do seu olhar singular.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/bHHDpJ6UHyxLvFOiS4RwxsFv5C5.jpg",
-        "https://image.tmdb.org/t/p/w1280/hnzvpXs7JpnoZXoBxJsTW6Zg7kH.jpg",
-        "https://image.tmdb.org/t/p/w1280/lAeS2GFAYIPVBnEzyW0keB4sNd7.jpg"
-      ],
-      "stills_focus": [
-        40.1,
-        37.7,
-        22.0
-      ],
-      "country": "Belgium",
-      "director_lbxd_slug": "chantal-akerman"
     },
     {
       "id": "trindade_9359",
@@ -6872,7 +6642,7 @@ window.CINEMA_DATA = {
       "sessions": [
         {
           "date": "2026-10-18",
-          "time": "21:00",
+          "time": "21:15",
           "cinema": "trindade"
         },
         {
@@ -7206,42 +6976,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "justine-triet"
-    },
-    {
-      "id": "ideal_doc_anistia_79",
-      "title": "DOC ANISTIA 79",
-      "director": "Anita Leandro",
-      "year": null,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/DOCLISBOA-POSTER.png",
-      "genres": [],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=70044",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "19:30",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
-      "id": "ideal_doc_orson_welles",
-      "title": "DOC ORSON WELLES",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/DOCLISBOA-POSTER.png",
-      "genres": [],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=70051",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "21:45",
-          "cinema": "ideal"
-        }
-      ]
     },
     {
       "id": "ideal_doc_nino_rota",
@@ -7625,20 +7359,15 @@ window.CINEMA_DATA = {
       "id": "ideal_2__hist_rias_paralelas",
       "title": "2- HISTÓRIAS PARALELAS",
       "director": "James Cameron",
-      "year": 2017,
+      "year": 2018,
       "duration": 137,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/9/8/5/1389985-2-0-500-0-750-crop.jpg?v=334405a787",
       "genres": [
-        "Romance"
+        "Documentary"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=72111",
       "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-10-16",
           "time": "15:30",
@@ -7678,26 +7407,16 @@ window.CINEMA_DATA = {
       "id": "ideal_1__naza",
       "title": "1- NAZA",
       "director": "Paul Crowder",
-      "year": 2010,
+      "year": 2009,
       "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/4/8/16048-1-0-500-0-750-crop.jpg?v=3d8ce087a9",
       "genres": [
-        "Documentary",
-        "Music"
+        "Thriller",
+        "Science Fiction"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=69576",
       "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "14:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "18:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-10-16",
           "time": "14:00",
@@ -7759,11 +7478,10 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ],
-      "rating": 3.6,
-      "plot": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
-      "country": "USA",
-      "director_lbxd_slug": "pater-sparrow",
-      "title_en": "Billy Joel - The Last Play at Shea"
+      "rating": 3.27,
+      "plot": "A bookshop renowned for its rare works is mysteriously and filled with copies of a book entitled 1, which doesn't appear to have a publisher or author. The strange almanac describes what happens to humanity in a minute. A police investigation begins and the bookshop staff are placed in solitary confinement by the Bureau for Paranormal Research. As the investigation progresses, the situation becomes more complex and the book becomes increasingly well-known, raising numerous controversies. Plagued by doubts, the protagonist has to face facts: reality only exists in the imagination of individuals.",
+      "country": "Hungary",
+      "director_lbxd_slug": "pater-sparrow"
     },
     {
       "id": "culturgest_rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
@@ -7814,11 +7532,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Salah Karim": {
-      "lbxd_slug": "larry-gottheim",
-      "photo": null,
-      "bio": "Egyptian director"
-    },
     "Dénes Nagy": {
       "lbxd_slug": "denes-nagy",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%A9nes_Nagy_%282021%29.jpg/500px-D%C3%A9nes_Nagy_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -7850,34 +7563,19 @@ window.CINEMA_DATA = {
       "bio": "Robert Florey (September 14, 1900 – May 16, 1979) was a French-American director, screenwriter, film journalist and actor. Florey directed more than 50 films, the majority of them during the 1930s, with the best known likely being the Marx Brothers first feature The Cocoanuts (1929). His 1932 foray into Universal-style horror, Murders in the Rue Morgue, is regarded by horror fans as highly reflective of German expressionism."
     },
     "Adrian Sibley": {
-      "lbxd_slug": "adrian-sibley-1",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
-    },
-    "Nile Price": {
-      "lbxd_slug": "nile-price",
-      "photo": null,
-      "bio": null
-    },
-    "Julien Duvivier": {
-      "lbxd_slug": "julien-duvivier",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Identite-JulienDuvivier-1932-Sacem.png/500px-Identite-JulienDuvivier-1932-Sacem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Julien Duvivier (French: [ʒyljɛ̃ dyvivje]; 8 October 1896 – 29 October 1967) was a French film director and screenwriter. He was prominent in French cinema in the years 1930–1960. Amongst his most original films, chiefly notable are La Bandera, Pépé le Moko, Little World of Don Camillo, Panic (Panique), Deadlier Than the Male and Marianne de ma jeunesse."
-    },
-    "Christian-Jaque": {
-      "lbxd_slug": "christian-jaque",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Christian-Jaque-1954-Harcourt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Christian-Jaque (byname of Christian Maudet; 4 September 1904  – 8 July 1994) was a French filmmaker. From 1954 to 1959, he was married to actress Martine Carol, who starred in several of his films, including Lucrèce Borgia (1953), Madame du Barry (1954), and Nana (1955). In 1961 he married Laurence Christol [1]\nChristian-Jaque's 1946 film A Lover's Return was entered into the 1946 Cannes Film Festival."
-    },
-    "Michel Piccoli": {
-      "lbxd_slug": "michel-piccoli",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Michel_Piccoli_Cannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Jacques Daniel Michel Piccoli (27 December 1925 – 12 May 2020) was a French actor, producer and film director with a career spanning 70 years. He was lauded as one of the greatest French character actors of his generation who played a wide variety of roles and worked with many acclaimed directors, being awarded with a Best Actor Award at the Cannes Film Festival and a Silver Bear for Best Actor at the Berlin Film Festival."
     },
     "Lino Brocka": {
       "lbxd_slug": "lino-brocka",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NAAW-Lino-Brocka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Catalino Ortiz Brocka (April 3, 1939 – May 22, 1991) was a Filipino film director. He is widely regarded as one of the greatest and most important filmmakers in the history of Philippine cinema. Brocka directed over 60 films across two decades that span a variety of genres, with his acclaimed work combining elements of melodrama and social realism."
+    },
+    "Julien Duvivier": {
+      "lbxd_slug": "julien-duvivier",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Identite-JulienDuvivier-1932-Sacem.png/500px-Identite-JulienDuvivier-1932-Sacem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Julien Duvivier (French: [ʒyljɛ̃ dyvivje]; 8 October 1896 – 29 October 1967) was a French film director and screenwriter. He was prominent in French cinema in the years 1930–1960. Amongst his most original films, chiefly notable are La Bandera, Pépé le Moko, Little World of Don Camillo, Panic (Panique), Deadlier Than the Male and Marianne de ma jeunesse."
     },
     "Nicolas Philibert": {
       "lbxd_slug": "nicolas-philibert",
@@ -7959,15 +7657,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
       "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
     },
-    "Michael Haneke": {
-      "lbxd_slug": "michael-haneke",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Michael Haneke (German: [ˈhaːnəkə]; born 23 March 1942) is a German-born Austrian retired film director and screenwriter. His work often examines social issues and depicts the feelings of estrangement experienced by individuals in modern society. Haneke has made films in French, German, and English and has worked in television and theatre."
-    },
     "Francis Ford Coppola": {
       "lbxd_slug": "francis-ford-coppola",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
       "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
+    },
+    "Michael Haneke": {
+      "lbxd_slug": "michael-haneke",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Michael Haneke (German: [ˈhaːnəkə]; born 23 March 1942) is a German-born Austrian retired film director and screenwriter. His work often examines social issues and depicts the feelings of estrangement experienced by individuals in modern society. Haneke has made films in French, German, and English and has worked in television and theatre."
     },
     "Yuval Abraham, Rachel Szor": {
       "lbxd_slug": "yuval-abraham",
@@ -8329,11 +8027,6 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/AnatomyOfFallPicCent011123_%281_of_8%29_%2853327939769%29_%28cropped%29.jpg/500px-AnatomyOfFallPicCent011123_%281_of_8%29_%2853327939769%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Justine Triet (French: [ʒystin tʁije]; born 17 July 1978) is a French film director, screenwriter, and editor. She has received several awards including an Academy Award, BAFTA Award, a Palme d'Or, three César Awards, and two Golden Globe Awards. Triet started her career making documentary short films surrounding social justice issues and commentary starting with Sur Place (2007) which explored the 2006 youth protests in France."
     },
-    "Anita Leandro": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
-    },
     "James Cameron": {
       "lbxd_slug": "jiahui-wang",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg/500px-James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -8350,5 +8043,14 @@ window.CINEMA_DATA = {
       "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };
