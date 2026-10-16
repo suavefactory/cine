@@ -84249,7 +84249,22 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "description": "Documents Harpur College's Afro-Latin Alliance.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Larry Gottheim",
+      "lb_director_slug": "larry-gottheim",
+      "lb_year": 1969,
+      "lb_title": "ALA",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "944679"
+    },
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84286,7 +84301,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "537225"
+    "tmdb_id": "944679"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {
