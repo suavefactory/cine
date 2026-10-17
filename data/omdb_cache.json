@@ -29535,7 +29535,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/7/3/8/9/1/tmdb/vRnpFrElSgPBWe9giQZI4P7RG6e-1920-1920-1080-1080-crop-000000.jpg?v=d6251fc405"
     ],
     "tmdb_id": "248935",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "On The Twelfth Day|1955": {
     "lbxd": {
@@ -80791,12 +80791,72 @@
     "stills": null
   },
   "DOC MI PAIS IMAGINARIO|None": {
-    "lbxd": null,
-    "omdb": null,
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/2/6/4/4/862644-my-imaginary-country-0-500-0-750-crop.jpg?v=99d9ab8954",
+      "description": "This documentary explores the protests that exploded onto the streets of Chile’s capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2022,
+      "lb_title": "My Imaginary Country",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786",
+      "imdb_id": "tt19797494",
+      "tmdb_id": "958496"
+    },
+    "omdb": {
+      "Title": "My Imaginary Country",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "26 Oct 2022",
+      "Runtime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Patricio Guzmán",
+      "Writer": "Patricio Guzmán",
+      "Actors": "Youssef Suleiman Mohammed",
+      "Plot": "Protests that exploded onto the streets of Chile's capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "Language": "Spanish",
+      "Country": "Chile, France",
+      "Awards": "1 win & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUxZDYxNmItN2FlOS00MDZhLWE4MGEtYjgzYjc1MGE3NTE1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.2",
+      "imdbVotes": "562",
+      "imdbID": "tt19797494",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$12,738",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      70.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
+    ],
+    "tmdb_id": "958496"
   },
   "DOC WHAT COMES FROM SITTING|None": {
     "lbxd": null,
@@ -83420,7 +83480,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/9/9/8/7/3/tmdb/pyiob343Ct0jIdFPB9vcUCkYMsa-1920-1920-1080-1080-crop-000000.jpg?v=fba45e32d0"
     ],
     "tmdb_id": "1633334",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Vittorio De Sica – Staging Life|None": {
     "lbxd": null,
@@ -83615,7 +83675,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/4/7/9/9/7/tmdb/uqchYxRnt7QRRRPa6Dm5NFigDXW-1920-1920-1080-1080-crop-000000.jpg?v=a2627a5a9a"
     ],
     "tmdb_id": "7515",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "In this Room|None": {
     "lbxd": null,
@@ -84552,6 +84612,38 @@
     "stills": null
   },
   "Margaret Tait & Charlotte Wells: Despedidas|1979": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Margaret Tait & Peter Todd: A Memória Das Coisas|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Trabalhos De Alunos Da Etic – Escola De Tecnologias, Inovação E Criação|1975": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Peter Todd & Margaret Tait: Exterior-Interior|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Trabalhos De Alunos Do Curso De Fotografia E Cultura Visual Do Iade - Universidade Europeia|1932": {
     "lbxd": null,
     "omdb": null,
     "wiki": null,
