@@ -348,7 +348,8 @@ window.CINEMA_DATA = {
       "year": 1969,
       "plot": "Documents Harpur College's Afro-Latin Alliance.",
       "country": "USA",
-      "director_lbxd_slug": "larry-gottheim"
+      "director_lbxd_slug": "larry-gottheim",
+      "title_en": "El-Zawag ala el-Tariqah el-Hadithah"
     },
     {
       "id": "sao_jorge_12113",
