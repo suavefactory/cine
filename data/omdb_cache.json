@@ -80876,7 +80876,33 @@
   },
   "DOC LAST MOVIES|None": {
     "lbxd": null,
-    "omdb": null,
+    "omdb": {
+      "Title": "Last Movies",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "13 Mar 2026",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Stanley Schtinter",
+      "Writer": "Stanley Schtinter",
+      "Actors": "Jeremy Irons",
+      "Plot": "Last Movies remaps the twentieth and early twenty-first centuries according to the films watched by some of its most famous people shortly before or at the time of their deaths.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTliOGM3NDctNTI3Yy00MDg2LWEzNGItNThkYTc1MmY4N2UwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40567291",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -84613,6 +84639,116 @@
     "stills": null
   },
   "Trabalhos De Alunos Da Etic – Escola De Tecnologias, Inovação E Criação|1975": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Peter Todd & Margaret Tait: Exterior-Interior|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Trabalhos De Alunos Do Curso De Fotografia E Cultura Visual Do Iade - Universidade Europeia|1932": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "CICLO PEQUENA HISTÓRIA DO CINEMA\r\nAs Origens da Magia do Cinema\r\nFILMES DOS PRIMÓRDIOS|1912": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Frau Im Mond|1929": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/9/5/7/49957-woman-in-the-moon-0-500-0-750-crop.jpg?v=071e74e806",
+      "description": "A scientist discovers that there's gold on the moon. He builds a rocket to fly there, but there's too much rivalry among the crew to have a successful expedition.",
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Fritz Lang",
+      "lb_director_slug": "fritz-lang-1",
+      "lb_year": 1929,
+      "lb_title": "Woman in the Moon",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/0s/e4/ym/dm/woman-1920-1920-1080-1080-crop-000000.jpg?v=f50e8e2440",
+      "imdb_id": "tt0019901",
+      "tmdb_id": "3007"
+    },
+    "omdb": {
+      "Title": "Woman in the Moon",
+      "Year": "1931",
+      "Rated": "Not Rated",
+      "Released": "06 Feb 1931",
+      "Runtime": "95 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Fritz Lang",
+      "Writer": "Thea von Harbou, Fritz Lang",
+      "Actors": "Willy Fritsch, Gerda Maurus, Klaus Pohl",
+      "Plot": "A tenacious scientist blasts off for the moon in hopes of riches that may be found there.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTY4MTE0NF5BMl5BanBnXkFtZTgwNjM1MTA5MTE@._V1_QL75_UY562_CR24,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "4,321",
+      "imdbID": "tt0019901",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Woman in the Moon",
+      "imdb_id": "tt0019901",
+      "extract_pt": "Frau im Mond (br:A Mulher na Lua pt: Uma Mulher na Lua) é um filme alemão, do ano de 1929, do gênero ficção científica, com produção, roteiro e direção de Fritz Lang. O filme é baseado na novela de Thea von Harbou de mesmo nome. Também creditados como roteristas Hermann Oberth e Thea von Harbou; música de Willy Schmidt-Gentner, e imagem de Konstantin Irmen-Tschet, Otto Kanturek, Curt Courant e Oskar Fischinger."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      17.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/0s/e4/ym/dm/woman-1920-1920-1080-1080-crop-000000.jpg?v=f50e8e2440"
+    ],
+    "tmdb_id": "3007"
+  },
+  "Margaret Tait & Luke Fowler: Reflexões|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Roberto Rossellini & Margaret Tait: A Brecha Da Modernidade|1912": {
     "lbxd": null,
     "omdb": null,
     "wiki": null,
