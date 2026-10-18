@@ -84335,7 +84335,22 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "description": "Documents Harpur College's Afro-Latin Alliance.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Larry Gottheim",
+      "lb_director_slug": "larry-gottheim",
+      "lb_year": 1969,
+      "lb_title": "ALA",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "944679"
+    },
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84372,7 +84387,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "537225"
+    "tmdb_id": "944679"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {
@@ -84662,98 +84677,72 @@
     "dir_checked": true,
     "stills": null
   },
-  "CICLO PEQUENA HISTÓRIA DO CINEMA\r\nAs Origens da Magia do Cinema\r\nFILMES DOS PRIMÓRDIOS|1912": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Frau Im Mond|1929": {
+  "DOC MI PAIS IMAGINARIO|2022": {
     "lbxd": {
-      "rating": 3.71,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/9/5/7/49957-woman-in-the-moon-0-500-0-750-crop.jpg?v=071e74e806",
-      "description": "A scientist discovers that there's gold on the moon. He builds a rocket to fly there, but there's too much rivalry among the crew to have a successful expedition.",
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/2/6/4/4/862644-my-imaginary-country-0-500-0-750-crop.jpg?v=99d9ab8954",
+      "description": "This documentary explores the protests that exploded onto the streets of Chile’s capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
       "genres": [
-        "Science Fiction",
-        "Romance",
-        "Drama"
+        "Documentary"
       ],
-      "country": "Germany",
-      "lb_director": "Fritz Lang",
-      "lb_director_slug": "fritz-lang-1",
-      "lb_year": 1929,
-      "lb_title": "Woman in the Moon",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/0s/e4/ym/dm/woman-1920-1920-1080-1080-crop-000000.jpg?v=f50e8e2440",
-      "imdb_id": "tt0019901",
-      "tmdb_id": "3007"
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2022,
+      "lb_title": "My Imaginary Country",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786",
+      "imdb_id": "tt19797494",
+      "tmdb_id": "958496"
     },
     "omdb": {
-      "Title": "Woman in the Moon",
-      "Year": "1931",
-      "Rated": "Not Rated",
-      "Released": "06 Feb 1931",
-      "Runtime": "95 min",
-      "Genre": "Adventure, Comedy, Drama",
-      "Director": "Fritz Lang",
-      "Writer": "Thea von Harbou, Fritz Lang",
-      "Actors": "Willy Fritsch, Gerda Maurus, Klaus Pohl",
-      "Plot": "A tenacious scientist blasts off for the moon in hopes of riches that may be found there.",
-      "Language": "German",
-      "Country": "Germany",
-      "Awards": "1 nomination total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTY4MTE0NF5BMl5BanBnXkFtZTgwNjM1MTA5MTE@._V1_QL75_UY562_CR24,0,380,562_.jpg",
+      "Title": "My Imaginary Country",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "26 Oct 2022",
+      "Runtime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Patricio Guzmán",
+      "Writer": "Patricio Guzmán",
+      "Actors": "Youssef Suleiman Mohammed",
+      "Plot": "Protests that exploded onto the streets of Chile's capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "Language": "Spanish",
+      "Country": "Chile, France",
+      "Awards": "1 win & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUxZDYxNmItN2FlOS00MDZhLWE4MGEtYjgzYjc1MGE3NTE1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.3/10"
+          "Value": "7.2/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "80%"
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
         }
       ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "4,321",
-      "imdbID": "tt0019901",
+      "Metascore": "86",
+      "imdbRating": "7.2",
+      "imdbVotes": "562",
+      "imdbID": "tt19797494",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "N/A",
+      "BoxOffice": "$12,738",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": {
-      "title_en": "Woman in the Moon",
-      "imdb_id": "tt0019901",
-      "extract_pt": "Frau im Mond (br:A Mulher na Lua pt: Uma Mulher na Lua) é um filme alemão, do ano de 1929, do gênero ficção científica, com produção, roteiro e direção de Fritz Lang. O filme é baseado na novela de Thea von Harbou de mesmo nome. Também creditados como roteristas Hermann Oberth e Thea von Harbou; música de Willy Schmidt-Gentner, e imagem de Konstantin Irmen-Tschet, Otto Kanturek, Curt Courant e Oskar Fischinger."
-    },
+    "wiki": null,
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
-      17.3
+      70.0
     ],
     "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/0s/e4/ym/dm/woman-1920-1920-1080-1080-crop-000000.jpg?v=f50e8e2440"
+      "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
     ],
-    "tmdb_id": "3007"
-  },
-  "Margaret Tait & Luke Fowler: Reflexões|None": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Roberto Rossellini & Margaret Tait: A Brecha Da Modernidade|1912": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
+    "tmdb_id": "958496"
   }
 }

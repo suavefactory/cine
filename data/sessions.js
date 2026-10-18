@@ -285,7 +285,8 @@ window.CINEMA_DATA = {
         34.4
       ],
       "country": "UK",
-      "director_lbxd_slug": "hunter-richards"
+      "director_lbxd_slug": "hunter-richards",
+      "plot_pt": "London (original: London) é um filme americano, lançado no ano 2005 e é centrado em uma festa de Manhattan. O filme, produzido por Paul Davis-Miller e Bonnie Timmermann, foi dirigido e escrito por Brian \"Hunter\" Richards. É estrelado por Jessica Biel, Jason Statham, Joy Bryant, Dane Cook e Chris Evans."
     },
     {
       "id": "sao_jorge_12121",
@@ -330,7 +331,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12115",
       "title": "Ala-Arriba!",
-      "director": null,
+      "director": "Salah Karim",
       "duration": 91,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
@@ -793,7 +794,8 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "Philosopher Slavoj Žižek is our guide through landscapes of classic film, music, social media, archive and webcasts. Making unexpected twists and turns, he maps the utopian illusions of our times. Through absurd juxtapositions and startling insights, we are seduced into recognising our fate, in order to change it.",
       "country": "Ireland",
-      "director_lbxd_slug": "sophie-fiennes"
+      "director_lbxd_slug": "sophie-fiennes",
+      "plot_pt": "O 83.º Festival Internacional de Cinema de Veneza ocorreu de 2 a 12 de setembro de 2026, em Lido de Veneza, na Itália. A atriz estadunidense Maggie Gyllenhaal serviu como presidente do júri para o painel principal de competição enquanto os atores italianos Greta Scarano e Nicolas Maupas apresentaram as cerimônias de abertura e encerramento.\nOs filmes apresentados no festival foram anunciados oficialmente em 23 de julho de 2026, sendo que o documentário de drama NAZA, de Yuval Abraham e Rachel Szor foi incluído no painel de apresentações somente em 24 de agosto por decisão da organização do evento em meio às eventuais tensões causadas pela repercussão da obra. O drama biográfico DAU, do diretor russo Ilya Khrzhanovsky, também causou controvérsias e protestos por parte de representantes ucranianos por retratar a vida do cientista soviético Lev Landau, que desenvolveu uma bomba atômica para o país na década de 1960."
     },
     {
       "id": "sao_jorge_12061",
@@ -912,9 +914,10 @@ window.CINEMA_DATA = {
       "director": "Adrian Sibley",
       "duration": 53,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/kate-bush.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/4/5/5/2/214552-the-kate-bush-story-running-up-that-hill-0-500-0-750-crop.jpg?v=689efa922b",
       "genres": [
         "Documentary",
+        "Tv Movie",
         "Music"
       ],
       "link": "https://cinemasaojorge.pt/evento/kate-bush-the-timeless-genius/",
@@ -925,10 +928,12 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "Famous fans and fellow musicians discuss the career of one of the most influential figures that British music has ever produced.",
+      "plot": "This documentary explores Kate Bush's career and music, from January 1978's Wuthering Heights to her 2011 album 50 Words for Snow, through the testimony of some of her key collaborators and those she has inspired.",
       "title_en": "The Kate Bush Story: Running Up That Hill",
-      "country": "United Kingdom",
-      "year": 2014
+      "country": "UK",
+      "year": 2014,
+      "rating": 3.66,
+      "director_lbxd_slug": "adrian-sibley-1"
     },
     {
       "id": "cinemateca_20354",
@@ -3532,6 +3537,83 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "michael-haneke"
     },
     {
+      "id": "nimas_dracula-2026",
+      "title": "Drácula",
+      "director": "Radu Jude",
+      "year": 2025,
+      "duration": 170,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/4/0/0/1/1204001-dracula-2025-1-0-500-0-750-crop.jpg?v=4fb1824d1a",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/dracula-2026",
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "20:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.14,
+      "plot": "In modern-day Transylvania, vampire hunts and labor strikes collide with sci-fi twists, romance, and AI-crafted tales, as multiple storylines blend folklore, classic horror, and contemporary elements into a fresh take on Dracula's legend.",
+      "plot_pt": "O que acontece quando um jovem e curioso realizador desafia a sua criatividade com as possibilidades ilimitadas de uma inteligência artificial falsa? Uma mistura surpreendente de várias histórias, de tempos antigos e modernos, sobre o mito original de Drácula: uma caça a vampiros, zombies e Drácula a interromper uma greve, um conto de ficção científica sobre o regresso de Vlad, o Empalador, uma adaptação da primeira novela romena de vampiros, um romance trágico, um conto popular vulgar, histórias kitsch geradas por IA… e muito mais!",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ucSE2LQXZ9KYUMZOZ9m1w9KPXp3.jpg",
+        "https://image.tmdb.org/t/p/w1280/7EIOi4Q2TTf19wAoCxeui0aEHOU.jpg",
+        "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
+      ],
+      "stills_focus": [
+        29.5,
+        49.4,
+        29.3
+      ],
+      "country": "Romania",
+      "director_lbxd_slug": "radu-jude"
+    },
+    {
+      "id": "nimas_um-cao-andaluz-1929",
+      "title": "Um Cão Andaluz",
+      "director": "Luis Buñuel",
+      "year": 1929,
+      "duration": 16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/8/51498-un-chien-andalou-0-500-0-750-crop.jpg?v=6f1b84e3af",
+      "genres": [
+        "Fantasy",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/um-cao-andaluz-1929",
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "17:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.8,
+      "plot": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
+      "plot_pt": "Um homem afia uma lâmina de barbear, antes de com ela cortar o olho de uma mulher jovem e impassível. Um ciclista cai. Uma mulher e um homem observam um andrógino e uma mão cortada, e depois acariciam-se. Passado um ano, chega outro homem que ordena ao primeiro que saia da cama. Tudo acaba numa praia onde a mulher encontra um terceiro homem.",
+      "title_en": "Un Chien Andalou",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/lsv1GFDAR1euS5kFsnyQgguyozi.jpg",
+        "https://image.tmdb.org/t/p/w1280/hi5aTvx4gVJU6ruugZ8b2WOlUjA.jpg",
+        "https://image.tmdb.org/t/p/w1280/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg"
+      ],
+      "stills_focus": [
+        24.0,
+        30.9,
+        43.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "luis-bunuel"
+    },
+    {
       "id": "nimas_simao-do-deserto-1965",
       "title": "Simão do Deserto",
       "director": "Luis Buñuel",
@@ -4439,11 +4521,10 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Prefacio para el dialoguito",
-      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega",
       "plot": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
-      "country": "USA",
+      "country": "Argentina",
       "rating": 3.36,
-      "title_en": "Desire Lines",
+      "title_en": "You Burn Me",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
         "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
@@ -4698,7 +4779,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
-      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4767,7 +4847,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -4790,7 +4869,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -4822,7 +4900,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -5688,7 +5765,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
-      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -6036,7 +6112,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
-      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -6748,11 +6823,11 @@ window.CINEMA_DATA = {
       "id": "ideal_2__hist_rias_paralelas",
       "title": "2- HISTÓRIAS PARALELAS",
       "director": "James Cameron",
-      "year": 2018,
+      "year": 2017,
       "duration": 137,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/9/8/5/1389985-2-0-500-0-750-crop.jpg?v=334405a787",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
       "genres": [
-        "Documentary"
+        "Romance"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=72111",
@@ -6786,12 +6861,12 @@ window.CINEMA_DATA = {
       "id": "ideal_1__naza",
       "title": "1- NAZA",
       "director": "Paul Crowder",
-      "year": 2009,
+      "year": 2010,
       "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/4/8/16048-1-0-500-0-750-crop.jpg?v=3d8ce087a9",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
       "genres": [
-        "Thriller",
-        "Science Fiction"
+        "Documentary",
+        "Music"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=69576",
@@ -6837,10 +6912,11 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ],
-      "rating": 3.27,
-      "plot": "A bookshop renowned for its rare works is mysteriously and filled with copies of a book entitled 1, which doesn't appear to have a publisher or author. The strange almanac describes what happens to humanity in a minute. A police investigation begins and the bookshop staff are placed in solitary confinement by the Bureau for Paranormal Research. As the investigation progresses, the situation becomes more complex and the book becomes increasingly well-known, raising numerous controversies. Plagued by doubts, the protagonist has to face facts: reality only exists in the imagination of individuals.",
-      "country": "Hungary",
-      "director_lbxd_slug": "pater-sparrow"
+      "rating": 3.6,
+      "plot": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
+      "country": "USA",
+      "director_lbxd_slug": "pater-sparrow",
+      "title_en": "Billy Joel - The Last Play at Shea"
     },
     {
       "id": "culturgest_rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
@@ -6891,6 +6967,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Salah Karim": {
+      "lbxd_slug": "larry-gottheim",
+      "photo": null,
+      "bio": "Egyptian director"
+    },
     "Dénes Nagy": {
       "lbxd_slug": "denes-nagy",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%A9nes_Nagy_%282021%29.jpg/500px-D%C3%A9nes_Nagy_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6922,7 +7003,7 @@ window.CINEMA_DATA = {
       "bio": "Robert Florey (September 14, 1900 – May 16, 1979) was a French-American director, screenwriter, film journalist and actor. Florey directed more than 50 films, the majority of them during the 1930s, with the best known likely being the Marx Brothers first feature The Cocoanuts (1929). His 1932 foray into Universal-style horror, Murders in the Rue Morgue, is regarded by horror fans as highly reflective of German expressionism."
     },
     "Adrian Sibley": {
-      "lbxd_slug": null,
+      "lbxd_slug": "adrian-sibley-1",
       "photo": null,
       "bio": null
     },
