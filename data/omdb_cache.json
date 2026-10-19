@@ -84351,22 +84351,7 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
-      "description": "Documents Harpur College's Afro-Latin Alliance.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Larry Gottheim",
-      "lb_director_slug": "larry-gottheim",
-      "lb_year": 1969,
-      "lb_title": "ALA",
-      "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "944679"
-    },
+    "lbxd": null,
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84403,7 +84388,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "944679"
+    "tmdb_id": "537225"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {
@@ -84465,7 +84450,22 @@
     "stills": null
   },
   "Geography Is Destiny|2026": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/0/9/5/8/1650958-geography-is-destiny-2026-0-500-0-750-crop.jpg?v=bcf888292f",
+      "description": "The director returns to her homeland in a Bulgarian valley long shaped by the dichotomy of “Guns and Roses”: the harvest of roses that stretches across the landscape and the Arsenal weapons factory that employs much of the region. The film looks at labour—delving into the workforce that sustains this town, inexorably shaped by the current political context of migration and war—and at filmmaking within the working context. Echoing a tradition of direct engagement with labour, the director herself enters an unexpected and risky exchange of roles.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Bulgaria",
+      "lb_director": "Rayna Teneva",
+      "lb_director_slug": "rayna-teneva",
+      "lb_year": 2026,
+      "lb_title": "Geography Is Destiny",
+      "backdrop": null,
+      "imdb_id": "tt42423915",
+      "tmdb_id": "1793478"
+    },
     "omdb": {
       "Title": "Geography is Destiny",
       "Year": "2026",
@@ -84850,6 +84850,40 @@
   "Roberto Rossellini & Margaret Tait: A Brecha Da Modernidade|1912": {
     "lbxd": null,
     "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "DOC LAST MOVIES|2026": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Last Movies",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "13 Mar 2026",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Stanley Schtinter",
+      "Writer": "Stanley Schtinter",
+      "Actors": "Jeremy Irons",
+      "Plot": "Last Movies remaps the twentieth and early twenty-first centuries according to the films watched by some of its most famous people shortly before or at the time of their deaths.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTliOGM3NDctNTI3Yy00MDg2LWEzNGItNThkYTc1MmY4N2UwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40567291",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,

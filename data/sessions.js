@@ -331,7 +331,8 @@ window.CINEMA_DATA = {
       "year": 1969,
       "plot": "Documents Harpur College's Afro-Latin Alliance.",
       "country": "USA",
-      "director_lbxd_slug": "larry-gottheim"
+      "director_lbxd_slug": "larry-gottheim",
+      "title_en": "El-Zawag ala el-Tariqah el-Hadithah"
     },
     {
       "id": "sao_jorge_12113",
@@ -464,7 +465,7 @@ window.CINEMA_DATA = {
       "director": "Rayna Teneva",
       "duration": 69,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/01_GID_still-scaled.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/0/9/5/8/1650958-geography-is-destiny-2026-0-500-0-750-crop.jpg?v=bcf888292f",
       "genres": [
         "Documentary"
       ],
@@ -476,9 +477,10 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "A Bulgarian valley has long depended on rose cultivation and weapons production - two industries shaped by geopolitical shifts and climatic instability. Returning after many years, the filmmaker embarks on a journey to unpick the ...",
+      "plot": "The director returns to her homeland in a Bulgarian valley long shaped by the dichotomy of “Guns and Roses”: the harvest of roses that stretches across the landscape and the Arsenal weapons factory that employs much of the region. The film looks at labour—delving into the workforce that sustains this town, inexorably shaped by the current political context of migration and war—and at filmmaking within the working context. Echoing a tradition of direct engagement with labour, the director herself enters an unexpected and risky exchange of roles.",
       "country": "Bulgaria",
-      "year": 2026
+      "year": 2026,
+      "director_lbxd_slug": "rayna-teneva"
     },
     {
       "id": "sao_jorge_12098",
@@ -719,6 +721,20 @@ window.CINEMA_DATA = {
           "time": "16:15",
           "cinema": "sao_jorge"
         }
+      ],
+      "year": 2026,
+      "plot": "In Lagunas del Rosario, in the arid lands of Mendoza, Rubén Díaz—artisan, Malvinas War veteran, and healer known as Caballo Loco (Crazy Horse)—each winter solstice summons a secret ceremony exclusively for initiates. During a night-long vigil, pilgrims from distant places gather in search of relief from illness, grief, and pain. Surrounded by bonfires, prayers, and ancestral stories, the community attempts to conjure away the afflictions of a territory ravaged by drought and the vanishing of its waters.",
+      "director_lbxd_slug": "mariano-donoso"
+    },
+    {
+      "id": "sao_jorge_12065",
+      "title": "Smarty",
+      "director": "Robert Florey",
+      "duration": 82,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/2/4/3/158243-smarty-0-500-0-750-crop.jpg?v=bc0afdd90b",
+      "genres": [
+        "Comedy"
       ],
       "year": 2026,
       "plot": "In Lagunas del Rosario, in the arid lands of Mendoza, Rubén Díaz—artisan, Malvinas War veteran, and healer known as Caballo Loco (Crazy Horse)—each winter solstice summons a secret ceremony exclusively for initiates. During a night-long vigil, pilgrims from distant places gather in search of relief from illness, grief, and pain. Surrounded by bonfires, prayers, and ancestral stories, the community attempts to conjure away the afflictions of a territory ravaged by drought and the vanishing of its waters.",
@@ -3495,6 +3511,47 @@ window.CINEMA_DATA = {
       ],
       "country": "Mexico",
       "director_lbxd_slug": "luis-bunuel"
+    },
+    {
+      "id": "nimas_dracula-2026",
+      "title": "Drácula",
+      "director": "Radu Jude",
+      "year": 2025,
+      "duration": 170,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/4/0/0/1/1204001-dracula-2025-1-0-500-0-750-crop.jpg?v=4fb1824d1a",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/dracula-2026",
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "20:45",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "21:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.14,
+      "plot": "In modern-day Transylvania, vampire hunts and labor strikes collide with sci-fi twists, romance, and AI-crafted tales, as multiple storylines blend folklore, classic horror, and contemporary elements into a fresh take on Dracula's legend.",
+      "plot_pt": "O que acontece quando um jovem e curioso realizador desafia a sua criatividade com as possibilidades ilimitadas de uma inteligência artificial falsa? Uma mistura surpreendente de várias histórias, de tempos antigos e modernos, sobre o mito original de Drácula: uma caça a vampiros, zombies e Drácula a interromper uma greve, um conto de ficção científica sobre o regresso de Vlad, o Empalador, uma adaptação da primeira novela romena de vampiros, um romance trágico, um conto popular vulgar, histórias kitsch geradas por IA… e muito mais!",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ucSE2LQXZ9KYUMZOZ9m1w9KPXp3.jpg",
+        "https://image.tmdb.org/t/p/w1280/7EIOi4Q2TTf19wAoCxeui0aEHOU.jpg",
+        "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
+      ],
+      "stills_focus": [
+        29.5,
+        49.4,
+        29.3
+      ],
+      "country": "Romania",
+      "director_lbxd_slug": "radu-jude"
     },
     {
       "id": "nimas_susana-1951",
@@ -6556,7 +6613,7 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Rayna Teneva": {
-      "lbxd_slug": null,
+      "lbxd_slug": "rayna-teneva",
       "photo": null,
       "bio": null
     },
