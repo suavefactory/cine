@@ -84855,38 +84855,28 @@
     "dir_checked": true,
     "stills": null
   },
-  "DOC LAST MOVIES|2026": {
-    "lbxd": null,
-    "omdb": {
-      "Title": "Last Movies",
-      "Year": "2026",
-      "Rated": "N/A",
-      "Released": "13 Mar 2026",
-      "Runtime": "N/A",
-      "Genre": "Documentary",
-      "Director": "Stanley Schtinter",
-      "Writer": "Stanley Schtinter",
-      "Actors": "Jeremy Irons",
-      "Plot": "Last Movies remaps the twentieth and early twenty-first centuries according to the films watched by some of its most famous people shortly before or at the time of their deaths.",
-      "Language": "English",
-      "Country": "United Kingdom",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTliOGM3NDctNTI3Yy00MDg2LWEzNGItNThkYTc1MmY4N2UwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt40567291",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
+  "Saturn or a Brief Treatise on Melancholy|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/2/6/8/1/1652681-saturn-or-a-brief-treatise-on-melancholy-0-500-0-750-crop.jpg?v=dbd7d86583",
+      "description": "In Lagunas del Rosario, in the arid lands of Mendoza, Rubén Díaz—artisan, Malvinas War veteran, and healer known as Caballo Loco (Crazy Horse)—each winter solstice summons a secret ceremony exclusively for initiates. During a night-long vigil, pilgrims from distant places gather in search of relief from illness, grief, and pain. Surrounded by bonfires, prayers, and ancestral stories, the community attempts to conjure away the afflictions of a territory ravaged by drought and the vanishing of its waters.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Mariano Donoso",
+      "lb_director_slug": "mariano-donoso",
+      "lb_year": 2026,
+      "lb_title": "Saturn or a Brief Treatise on Melancholy",
+      "backdrop": null,
+      "imdb_id": "tt48594864",
+      "tmdb_id": "1796586"
     },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1796586"
   }
 }
