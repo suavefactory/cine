@@ -1,23 +1,6 @@
 window.CINEMA_DATA = {
-  "generated": "2026-10-18T12:44:12.043757+00:00",
+  "generated": "2026-10-19T15:35:09.211807+00:00",
   "movies": [
-    {
-      "id": "sao_jorge_12058",
-      "title": "Uma Maravilha Punk do Cinema Super 8mm",
-      "director": null,
-      "duration": 82,
-      "festival": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/uma-maravilha-punk-do-cinema-super-8mm/",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "17:15",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
     {
       "id": "sao_jorge_12067",
       "title": "The Garage + Immigration Zone + Ils ont tué Kader",
@@ -285,8 +268,7 @@ window.CINEMA_DATA = {
         34.4
       ],
       "country": "UK",
-      "director_lbxd_slug": "hunter-richards",
-      "plot_pt": "London (original: London) é um filme americano, lançado no ano 2005 e é centrado em uma festa de Manhattan. O filme, produzido por Paul Davis-Miller e Bonnie Timmermann, foi dirigido e escrito por Brian \"Hunter\" Richards. É estrelado por Jessica Biel, Jason Statham, Joy Bryant, Dane Cook e Chris Evans."
+      "director_lbxd_slug": "hunter-richards"
     },
     {
       "id": "sao_jorge_12121",
@@ -331,7 +313,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12115",
       "title": "Ala-Arriba!",
-      "director": "Salah Karim",
+      "director": null,
       "duration": 91,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
@@ -721,8 +703,10 @@ window.CINEMA_DATA = {
       "director": null,
       "duration": 112,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/SATURNO-still-4.bmp",
-      "genres": [],
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/2/6/8/1/1652681-saturn-or-a-brief-treatise-on-melancholy-0-500-0-750-crop.jpg?v=dbd7d86583",
+      "genres": [
+        "Documentary"
+      ],
       "link": "https://cinemasaojorge.pt/evento/saturn-or-a-brief-treatise-on-melancholy/",
       "sessions": [
         {
@@ -735,37 +719,10 @@ window.CINEMA_DATA = {
           "time": "16:15",
           "cinema": "sao_jorge"
         }
-      ]
-    },
-    {
-      "id": "sao_jorge_12065",
-      "title": "Smarty",
-      "director": "Robert Florey",
-      "duration": 82,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/2/4/3/158243-smarty-0-500-0-750-crop.jpg?v=bc0afdd90b",
-      "genres": [
-        "Comedy"
       ],
-      "link": "https://cinemasaojorge.pt/evento/smarty/",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "22:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.14,
-      "year": 1934,
-      "plot": "Vicki Wallace takes great pleasure in teasing her husband Tony who takes no pleasure at all in being teased and it isn't long before he ups and clips her on the chin. Vicki's friend and attorney Vernon Thorpe secures a divorce for her, and Vicki and Vernon are soon married. Vicki's yen for wearing revealing clothes and a penchant for inviting ex-husband to dinner soon provokes the easily-provoked Vernon into belting one on her himself. She goes to Tony's apartment, where Tony is entertaining Bonnie, who is not all that entertained by the presence of Vicki, especially after Vicki shows every intent of moving in and staying.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
-      ],
-      "stills_focus": [
-        36.3
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "robert-florey"
+      "year": 2026,
+      "plot": "In Lagunas del Rosario, in the arid lands of Mendoza, Rubén Díaz—artisan, Malvinas War veteran, and healer known as Caballo Loco (Crazy Horse)—each winter solstice summons a secret ceremony exclusively for initiates. During a night-long vigil, pilgrims from distant places gather in search of relief from illness, grief, and pain. Surrounded by bonfires, prayers, and ancestral stories, the community attempts to conjure away the afflictions of a territory ravaged by drought and the vanishing of its waters.",
+      "director_lbxd_slug": "mariano-donoso"
     },
     {
       "id": "sao_jorge_12063",
@@ -780,11 +737,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemasaojorge.pt/evento/the-perverts-guide-to-utopias/",
       "sessions": [
         {
-          "date": "2026-10-18",
-          "time": "21:00",
-          "cinema": "sao_jorge"
-        },
-        {
           "date": "2026-10-24",
           "time": "21:45",
           "cinema": "sao_jorge"
@@ -794,8 +746,7 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "Philosopher Slavoj Žižek is our guide through landscapes of classic film, music, social media, archive and webcasts. Making unexpected twists and turns, he maps the utopian illusions of our times. Through absurd juxtapositions and startling insights, we are seduced into recognising our fate, in order to change it.",
       "country": "Ireland",
-      "director_lbxd_slug": "sophie-fiennes",
-      "plot_pt": "O 83.º Festival Internacional de Cinema de Veneza ocorreu de 2 a 12 de setembro de 2026, em Lido de Veneza, na Itália. A atriz estadunidense Maggie Gyllenhaal serviu como presidente do júri para o painel principal de competição enquanto os atores italianos Greta Scarano e Nicolas Maupas apresentaram as cerimônias de abertura e encerramento.\nOs filmes apresentados no festival foram anunciados oficialmente em 23 de julho de 2026, sendo que o documentário de drama NAZA, de Yuval Abraham e Rachel Szor foi incluído no painel de apresentações somente em 24 de agosto por decisão da organização do evento em meio às eventuais tensões causadas pela repercussão da obra. O drama biográfico DAU, do diretor russo Ilya Khrzhanovsky, também causou controvérsias e protestos por parte de representantes ucranianos por retratar a vida do cientista soviético Lev Landau, que desenvolveu uma bomba atômica para o país na década de 1960."
+      "director_lbxd_slug": "sophie-fiennes"
     },
     {
       "id": "sao_jorge_12061",
@@ -810,11 +761,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemasaojorge.pt/evento/lukas-the-strange/",
       "sessions": [
         {
-          "date": "2026-10-18",
-          "time": "19:30",
-          "cinema": "sao_jorge"
-        },
-        {
           "date": "2026-10-23",
           "time": "21:45",
           "cinema": "sao_jorge"
@@ -824,64 +770,6 @@ window.CINEMA_DATA = {
       "plot": "A small town in the Philippines is turned upside down by the arrival of a film crew that has everyone excited. Meanwhile, 13-year-old Lukas finds his own world overturned when he is told that his father is a tikbalang (half horse, half man). His father’s disappearance leaves Lukas to try to unravel the mystery of his own heritage and his own nature.",
       "country": "Philippines",
       "director_lbxd_slug": "john-torres"
-    },
-    {
-      "id": "sao_jorge_12059",
-      "title": "Nha Balila – Dentu d’Algem",
-      "director": null,
-      "duration": 78,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/BALILA_1.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/nha-balila-dentu-dalgem/",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_12056",
-      "title": "Torino Shadow + I Plant My Hand in the Garden",
-      "director": null,
-      "duration": 117,
-      "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/metro.webp",
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/torino-shadow-i-plant-my-hand-in-the-garden/",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "15:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_12054",
-      "title": "Life of Jorge Luis Borges",
-      "director": null,
-      "duration": 324,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/2/6/2/5/1602625-biografia-de-jorge-luis-borges-0-500-0-750-crop.jpg?v=4181dd71ef",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/life-of-jorge-luis-borges/",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "10:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.75,
-      "year": 2026,
-      "plot": "A biography of Jorge Luis Borges working from an exhaustive review of the papers he left, the books he read, the places he went to. And with this, an attempt to decipher a very peculiar life: someone who lived like a hidden, underground warrior, whose cause was literature, literature conceived as a kingdom and as a landscape. If Cold War spies fought from their desks or from an uninhabited house to defend their half of the world, Borges strove from a library to elevate and broaden the territories of his own tribe: the people for whom the most important part of the universe is books, plots and words. This film is devoted to that secret pilgrim (to borrow from Le Carré, the king of all spies).",
-      "country": "Argentina",
-      "director_lbxd_slug": "mariano-llinas"
     },
     {
       "id": "sao_jorge_12050",
@@ -914,10 +802,9 @@ window.CINEMA_DATA = {
       "director": "Adrian Sibley",
       "duration": 53,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/4/5/5/2/214552-the-kate-bush-story-running-up-that-hill-0-500-0-750-crop.jpg?v=689efa922b",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/kate-bush.webp",
       "genres": [
         "Documentary",
-        "Tv Movie",
         "Music"
       ],
       "link": "https://cinemasaojorge.pt/evento/kate-bush-the-timeless-genius/",
@@ -928,12 +815,10 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "This documentary explores Kate Bush's career and music, from January 1978's Wuthering Heights to her 2011 album 50 Words for Snow, through the testimony of some of her key collaborators and those she has inspired.",
+      "plot": "Famous fans and fellow musicians discuss the career of one of the most influential figures that British music has ever produced.",
       "title_en": "The Kate Bush Story: Running Up That Hill",
-      "country": "UK",
-      "year": 2014,
-      "rating": 3.66,
-      "director_lbxd_slug": "adrian-sibley-1"
+      "country": "United Kingdom",
+      "year": 2014
     },
     {
       "id": "cinemateca_20354",
@@ -1986,41 +1871,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/historias-paralelas-2026",
       "sessions": [
         {
-          "date": "2026-10-18",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:45",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "18:00",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "19:15",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "21:15",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-10-19",
           "time": "15:30",
           "cinema": "nimas"
@@ -2079,6 +1929,16 @@ window.CINEMA_DATA = {
           "date": "2026-10-22",
           "time": "16:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "16:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "14:00",
+          "cinema": "fernando"
         },
         {
           "date": "2026-11-02",
@@ -2351,261 +2211,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "raul-ruiz"
     },
     {
-      "id": "nimas_pulp-fiction-1994",
-      "title": "Pulp Fiction",
-      "director": "Quentin Tarantino",
-      "year": 1994,
-      "duration": 154,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-500-0-750-crop.jpg?v=dee19a8077",
-      "genres": [
-        "Comedy",
-        "Thriller",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/pulp-fiction-1994",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-      "plot_pt": "Um thriller que funde a modernidade com as memórias do cinema clássico, em ambientes de marginalidade genuínos, irónicos e cruéis no meio do quotidiano mais vulgar, Pulp Fiction é o zénite do “fenómeno Tarantino”.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-        "https://image.tmdb.org/t/p/w1280/9pGM43a9VmXxwIxmhJoiDkcB2hT.jpg",
-        "https://image.tmdb.org/t/p/w1280/cOGysF4SXauEKz18mFGmkZW6O2T.jpg"
-      ],
-      "stills_focus": [
-        20.3,
-        27.1,
-        33.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "quentin-tarantino"
-    },
-    {
-      "id": "nimas_ladroes-de-bicicletas-1948",
-      "title": "Ladrões de Bicicletas",
-      "director": "Vittorio De Sica",
-      "year": 1948,
-      "duration": 89,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/3/0/48930-bicycle-thieves-0-500-0-750-crop.jpg?v=274fd27e34",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/ladroes-de-bicicletas-1948",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.28,
-      "plot": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle—essential to his work—gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
-      "plot_pt": "Ladrões de Bicicletas ocupa há sete décadas consecutivas um lugar cimeiro no cânone dos melhores filmes de todos os tempos. Logo na estreia gerou um grande entusiasmo, na Europa e na América, e André Bazin descrevia-o como uma obra-prima, perfeita e sublime, e afirmava que De Sica era o maior realizador italiano. Amado por Orson Welles e Wes Anderson, o filme que “mudou a vida” de Ken Loach, que “salvou a carreira” de Jia Zhang Ke, Ladrões de Bicicletas, a odisseia de um pai e de um filho pelas ruas de Roma à procura de uma bicicleta roubada, indispensável para o seu trabalho, obra zénite do neo-realismo italiano, tem a grandeza de uma tragédia clássica.\n\r\n\r\nCesare Pavese dizia que o grande cronista da Itália do seu tempo era De Sica. Foi também nas ruas, onde filmaria, que o realizador foi procurar os seus intérpretes: Lamberto Maggiorani, o pai, era um operário mecânico, e Enzo Staiola, o filho, descobriu-o entre os mirones. “Era necessário que este operário fosse ao mesmo tempo tão perfeito, anónimo e objectivo como a sua bicicleta.” Com uma extraordinária mise en scène, um trabalho rigoroso de escrita (com Cesare Zavattini e outros), uma concisão comovente, Ladrões de Bicicletas é “cinema no seu estado puro”, que nos provoca uma comoção tão forte hoje como há 70 anos.",
-      "title_en": "Bicycle Thieves",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
-        "https://image.tmdb.org/t/p/w1280/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
-        "https://image.tmdb.org/t/p/w1280/loNjs84HrviWIyHNYMNfLKHkon0.jpg"
-      ],
-      "stills_focus": [
-        25.9,
-        33.9,
-        32.4
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "vittorio-de-sica-1"
-    },
-    {
-      "id": "nimas_a-amiga-silenciosa-2025",
-      "title": "A Amiga Silenciosa",
-      "director": "Ildikó Enyedi",
-      "year": 2025,
-      "duration": 147,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/8/1/2/1055812-silent-friend-0-500-0-750-crop.jpg?v=d46efdd929",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-amiga-silenciosa-2025",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "15:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "10:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "15:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "18:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.76,
-      "plot": "On the grounds of a medieval German university town looms an imposing Ginkgo biloba, a tree whose longevity stands in marked contrast to three intimate, human-scaled stories. In 1908, the university’s first female student gains admission into the prestigious botany department, confronting the sexism of both professors and peers. In 1972, amidst counterculture movements, a reserved student finds his attention captured by a fellow housemate and the geranium plant she studies. In 2020, during the COVID-19 pandemic, a neuroscientist from Hong Kong secures the help of a renowned botanist for an experiment on the old ginkgo tree.",
-      "plot_pt": "No coração de um jardim botânico, numa cidade universitária alemã, ergue-se um majestoso ginkgo, que testemunhará três histórias. Em 1908, a universidade acolhe a primeira estudante de Botânica; em 1972, outra estudante transforma-se pelo simples acto de observar um gerânio; em 2020, um neurocientista de Hong Kong desenvolve uma experiência com a árvore. Através dela e destas três histórias, A Amiga Silenciosa é uma exploração terna da mais humana pulsão – a conexão com o Outro.",
-      "title_en": "Silent Friend",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/3HgNb4XRFVxwWP6XrES2oGOvHit.jpg",
-        "https://image.tmdb.org/t/p/w1280/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
-        "https://image.tmdb.org/t/p/w1280/15rAF2HeIRTLfWhn6BlqWhCZ2m5.jpg"
-      ],
-      "stills_focus": [
-        37.0,
-        18.6,
-        39.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "ildiko-enyedi"
-    },
-    {
-      "id": "nimas_adolescencia-sexo-e-morte-no-acampamento-miasma-2026",
-      "title": "Adolescência, Sexo e Morte no Acampamento Miasma",
-      "director": "Jane Schoenbrun",
-      "year": 2026,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/adolescencia-sexo-e-morte-no-acampamento-miasma-2026",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "16:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.8,
-      "plot": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-      "plot_pt": "Depois de anos de sequelas dececionantes e com o entusiasmo dos fãs a esmorecer, a franquia de terror Camp Miasma é entregue a uma jovem realizadora entusiasta com o objetivo de a ressuscitar. Mas, quando visita a estrela do filme original, uma actriz agora reclusa e envolta em mistério, as duas mulheres mergulham num mundo ensanguentado de desejo, medo e delírio.",
-      "title_en": "Teenage Sex and Death at Camp Miasma",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
-        "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-        "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
-      ],
-      "stills_focus": [
-        13.7,
-        12.8,
-        24.4
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "jane-schoenbrun"
-    },
-    {
-      "id": "nimas_a-pianista-2001",
-      "title": "A Pianista",
-      "director": "Michael Haneke",
-      "year": 2001,
-      "duration": 131,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-pianista-2001",
-      "sessions": [
-        {
-          "date": "2026-10-22",
-          "time": "18:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "15:45",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.05,
-      "plot": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
-      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
-      "title_en": "The Piano Teacher",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-        "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
-        "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
-      ],
-      "stills_focus": [
-        21.4,
-        12.7,
-        26.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_o-padrinho-parte-ii-1974",
-      "title": "O Padrinho: Parte II",
-      "director": "Francis Ford Coppola",
-      "year": 1974,
-      "duration": 200,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-500-0-750-crop.jpg?v=6a49853f25",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-padrinho-parte-ii-1974",
-      "sessions": [
-        {
-          "date": "2026-10-19",
-          "time": "20:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.59,
-      "plot": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
-      "plot_pt": "Em 1950, o jovem Michael Corleone, agora à frente da família, tenta expandir o negócio a Las Vegas, Hollywood e Cuba. Paralelamente, revela-se a história do jovem Vito Corleone, e de como saiu da Sicília em 1910 e chegou a Nova Iorque para construir um império do crime.",
-      "title_en": "The Godfather Part II",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
-        "https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
-        "https://image.tmdb.org/t/p/w1280/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg"
-      ],
-      "stills_focus": [
-        21.2,
-        16.4,
-        27.5
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "francis-ford-coppola"
-    },
-    {
       "id": "nimas_natal-amargo-2025",
       "title": "Natal Amargo",
       "director": "Pedro Almodóvar",
@@ -2618,16 +2223,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/natal-amargo-2025",
       "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-10-19",
           "time": "18:00",
@@ -2717,6 +2312,130 @@ window.CINEMA_DATA = {
       ],
       "country": "Mexico",
       "director_lbxd_slug": "luis-bunuel"
+    },
+    {
+      "id": "nimas_a-pianista-2001",
+      "title": "A Pianista",
+      "director": "Michael Haneke",
+      "year": 2001,
+      "duration": 131,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-pianista-2001",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "18:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "15:45",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
+      "title_en": "The Piano Teacher",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+        "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
+        "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
+      ],
+      "stills_focus": [
+        21.4,
+        12.7,
+        26.0
+      ],
+      "country": "France",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_o-padrinho-parte-ii-1974",
+      "title": "O Padrinho: Parte II",
+      "director": "Francis Ford Coppola",
+      "year": 1974,
+      "duration": 200,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-500-0-750-crop.jpg?v=6a49853f25",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-padrinho-parte-ii-1974",
+      "sessions": [
+        {
+          "date": "2026-10-19",
+          "time": "20:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.59,
+      "plot": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "plot_pt": "Em 1950, o jovem Michael Corleone, agora à frente da família, tenta expandir o negócio a Las Vegas, Hollywood e Cuba. Paralelamente, revela-se a história do jovem Vito Corleone, e de como saiu da Sicília em 1910 e chegou a Nova Iorque para construir um império do crime.",
+      "title_en": "The Godfather Part II",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+        "https://image.tmdb.org/t/p/w1280/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+        "https://image.tmdb.org/t/p/w1280/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg"
+      ],
+      "stills_focus": [
+        21.2,
+        16.4,
+        27.5
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "francis-ford-coppola"
+    },
+    {
+      "id": "nimas_adolescencia-sexo-e-morte-no-acampamento-miasma-2026",
+      "title": "Adolescência, Sexo e Morte no Acampamento Miasma",
+      "director": "Jane Schoenbrun",
+      "year": 2026,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/adolescencia-sexo-e-morte-no-acampamento-miasma-2026",
+      "sessions": [
+        {
+          "date": "2026-10-20",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "16:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.8,
+      "plot": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+      "plot_pt": "Depois de anos de sequelas dececionantes e com o entusiasmo dos fãs a esmorecer, a franquia de terror Camp Miasma é entregue a uma jovem realizadora entusiasta com o objetivo de a ressuscitar. Mas, quando visita a estrela do filme original, uma actriz agora reclusa e envolta em mistério, as duas mulheres mergulham num mundo ensanguentado de desejo, medo e delírio.",
+      "title_en": "Teenage Sex and Death at Camp Miasma",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
+        "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+        "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
+      ],
+      "stills_focus": [
+        13.7,
+        12.8,
+        24.4
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "jane-schoenbrun"
     },
     {
       "id": "nimas_o-video-de-benny-1991",
@@ -2809,6 +2528,26 @@ window.CINEMA_DATA = {
       "plot_pt": "Um drama em duas partes feito para a televisão austríaca, Lemingues reflecte sobre o destino da geração do próprio Haneke, que atingiu a maioridade depois da Segunda Guerra Mundial. A primeira parte, A Arcádia, retrata o fosso geracional entre os adolescentes dos anos 50 e os seus pais. Um grupo de estudantes do liceu cresce num mundo burguês, estranhamente restritivo no plano moral. Os desafios com que são confrontados acabam por afectar permanentemente as suas personalidades."
     },
     {
+      "id": "nimas_lemingues-parte-2-as-feridas-1979",
+      "title": "Lemingues, Parte 2 – As Feridas",
+      "director": "Michael Haneke",
+      "year": 1979,
+      "duration": 107,
+      "poster": "https://medeiafilmes.com/uploads/library/screenshot_2026-08-27_at_162325.png",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/lemingues-parte-2-as-feridas-1979",
+      "sessions": [
+        {
+          "date": "2026-10-21",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "plot_pt": "Um drama em duas partes que reflecte sobre o destino da própria geração de Haneke, que atingiu a maioridade após a Segunda Guerra Mundial. A primeira parte retrata o fosso geracional entre os adolescentes dos anos 50 e os seus pais, enquanto a segunda mostra este mesmo grupo de personagens vinte anos mais tarde, agora adultos disfuncionais e suicidas. Considerado o mais significativo dos primeiros trabalhos de Haneke, Lemingues contém muitos dos temas que mais tarde viria a desenvolver nas suas longas-metragens."
+    },
+    {
       "id": "nimas_naza-2026",
       "title": "Naza",
       "director": "Yuval Abraham, Rachel Szor",
@@ -2820,39 +2559,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/naza-2026",
       "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "11:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "19:30",
-          "cinema": "trindade",
-          "labels": [
-            "com legendas em inglês / with english subtitles"
-          ]
-        },
-        {
-          "date": "2026-10-18",
-          "time": "21:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-10-19",
           "time": "18:00",
@@ -2907,9 +2613,34 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         },
         {
+          "date": "2026-10-23",
+          "time": "19:15",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "11:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "11:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
           "date": "2026-10-27",
           "time": "21:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:45",
+          "cinema": "fernando"
         }
       ],
       "rating": 4.38,
@@ -2923,6 +2654,56 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "yuval-abraham"
+    },
+    {
+      "id": "nimas_a-amiga-silenciosa-2025",
+      "title": "A Amiga Silenciosa",
+      "director": "Ildikó Enyedi",
+      "year": 2025,
+      "duration": 147,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/8/1/2/1055812-silent-friend-0-500-0-750-crop.jpg?v=d46efdd929",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-amiga-silenciosa-2025",
+      "sessions": [
+        {
+          "date": "2026-10-21",
+          "time": "15:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "10:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "15:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "18:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "On the grounds of a medieval German university town looms an imposing Ginkgo biloba, a tree whose longevity stands in marked contrast to three intimate, human-scaled stories. In 1908, the university’s first female student gains admission into the prestigious botany department, confronting the sexism of both professors and peers. In 1972, amidst counterculture movements, a reserved student finds his attention captured by a fellow housemate and the geranium plant she studies. In 2020, during the COVID-19 pandemic, a neuroscientist from Hong Kong secures the help of a renowned botanist for an experiment on the old ginkgo tree.",
+      "plot_pt": "No coração de um jardim botânico, numa cidade universitária alemã, ergue-se um majestoso ginkgo, que testemunhará três histórias. Em 1908, a universidade acolhe a primeira estudante de Botânica; em 1972, outra estudante transforma-se pelo simples acto de observar um gerânio; em 2020, um neurocientista de Hong Kong desenvolve uma experiência com a árvore. Através dela e destas três histórias, A Amiga Silenciosa é uma exploração terna da mais humana pulsão – a conexão com o Outro.",
+      "title_en": "Silent Friend",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/3HgNb4XRFVxwWP6XrES2oGOvHit.jpg",
+        "https://image.tmdb.org/t/p/w1280/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
+        "https://image.tmdb.org/t/p/w1280/15rAF2HeIRTLfWhn6BlqWhCZ2m5.jpg"
+      ],
+      "stills_focus": [
+        37.0,
+        18.6,
+        39.2
+      ],
+      "country": "France",
+      "director_lbxd_slug": "ildiko-enyedi"
     },
     {
       "id": "nimas_a-estrada-do-tabaco-1941",
@@ -2961,24 +2742,112 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "john-ford-2"
     },
     {
-      "id": "nimas_lemingues-parte-2-as-feridas-1979",
-      "title": "Lemingues, Parte 2 – As Feridas",
-      "director": "Michael Haneke",
-      "year": 1979,
-      "duration": 107,
-      "poster": "https://medeiafilmes.com/uploads/library/screenshot_2026-08-27_at_162325.png",
+      "id": "nimas_a-desconhecida-2026",
+      "title": "A Desconhecida",
+      "director": "Arthur Harari",
+      "year": 2026,
+      "duration": 139,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
       "genres": [
-        "Drama"
+        "Mystery",
+        "Drama",
+        "Fantasy"
       ],
-      "link": "https://medeiafilmes.com/filmes/lemingues-parte-2-as-feridas-1979",
+      "link": "https://medeiafilmes.com/filmes/a-desconhecida-2026",
       "sessions": [
         {
-          "date": "2026-10-21",
-          "time": "13:00",
+          "date": "2026-10-22",
+          "time": "21:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "21:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "14:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "18:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "16:45",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "18:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "18:30",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "11:00",
           "cinema": "nimas"
         }
       ],
-      "plot_pt": "Um drama em duas partes que reflecte sobre o destino da própria geração de Haneke, que atingiu a maioridade após a Segunda Guerra Mundial. A primeira parte retrata o fosso geracional entre os adolescentes dos anos 50 e os seus pais, enquanto a segunda mostra este mesmo grupo de personagens vinte anos mais tarde, agora adultos disfuncionais e suicidas. Considerado o mais significativo dos primeiros trabalhos de Haneke, Lemingues contém muitos dos temas que mais tarde viria a desenvolver nas suas longas-metragens."
+      "rating": 3.21,
+      "plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
+      "plot_pt": "Com quase 40 anos, David Zimmerman é fotógrafo, mas ninguém sabe disso. Quando os amigos o arrastam para uma festa, ele avista uma mulher no meio da multidão e não consegue tirar os olhos dela; segue-a… Algumas horas depois, David acorda: está no corpo daquela mulher desconhecida.",
+      "title_en": "The Unknown",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
+        "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
+        "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
+      ],
+      "stills_focus": [
+        42.1,
+        44.0,
+        32.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "arthur-harari"
+    },
+    {
+      "id": "nimas_os-esquecidos-1950",
+      "title": "Os Esquecidos",
+      "director": "Luis Buñuel",
+      "year": 1950,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/2/51352-los-olvidados-0-500-0-750-crop.jpg?v=0cfdaa522e",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-esquecidos-1950",
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "14:15",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.22,
+      "plot": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
+      "plot_pt": "Jaibo, jovem delinquente dos arrabaldes da Cidade do México, quer vingar-se de Julián, que o denunciou à polícia, provocando a sua prisão. Jaibo mata Julián com a cumplicidade de Pedro, a quem pede segredo absoluto. Este, para agradar à mãe, que se recusa a continuar a sustentá-lo, emprega-se numa cutelaria. Jaibo visita-o e rouba uma faca. Pedro é acusado, e condenado perante o assentimento da mãe. No entanto, evade-se da casa de correcção e denuncia Jaibo pela morte de Julián. Jaibo vinga-se e mata Pedro, sendo depois abatido pela polícia. O cadáver de Pedro é atirado a uma lixeira pública.",
+      "title_en": "The Young and the Damned",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
+        "https://image.tmdb.org/t/p/w1280/qov2tWElGWI4OmYhkEKnvENEm8Q.jpg",
+        "https://image.tmdb.org/t/p/w1280/zE1R2r5iKNNxIyaScpT9BrPCAMw.jpg"
+      ],
+      "stills_focus": [
+        26.3,
+        17.7,
+        38.3
+      ],
+      "country": "Mexico",
+      "director_lbxd_slug": "luis-bunuel"
     },
     {
       "id": "nimas_amor-2012",
@@ -3050,104 +2919,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_a-desconhecida-2026",
-      "title": "A Desconhecida",
-      "director": "Arthur Harari",
-      "year": 2026,
-      "duration": 139,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Fantasy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-desconhecida-2026",
-      "sessions": [
-        {
-          "date": "2026-10-22",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "14:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "18:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "18:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.21,
-      "plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
-      "plot_pt": "Com quase 40 anos, David Zimmerman é fotógrafo, mas ninguém sabe disso. Quando os amigos o arrastam para uma festa, ele avista uma mulher no meio da multidão e não consegue tirar os olhos dela; segue-a… Algumas horas depois, David acorda: está no corpo daquela mulher desconhecida.",
-      "title_en": "The Unknown",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
-        "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
-        "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
-      ],
-      "stills_focus": [
-        42.1,
-        44.0,
-        32.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "arthur-harari"
-    },
-    {
-      "id": "nimas_os-esquecidos-1950",
-      "title": "Os Esquecidos",
-      "director": "Luis Buñuel",
-      "year": 1950,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/2/51352-los-olvidados-0-500-0-750-crop.jpg?v=0cfdaa522e",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/os-esquecidos-1950",
-      "sessions": [
-        {
-          "date": "2026-10-23",
-          "time": "14:15",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.22,
-      "plot": "A group of juvenile delinquents live a violent life in the infamous slums of Mexico City; among them Pedro, whose morality is gradually corrupted and destroyed by the others.",
-      "plot_pt": "Jaibo, jovem delinquente dos arrabaldes da Cidade do México, quer vingar-se de Julián, que o denunciou à polícia, provocando a sua prisão. Jaibo mata Julián com a cumplicidade de Pedro, a quem pede segredo absoluto. Este, para agradar à mãe, que se recusa a continuar a sustentá-lo, emprega-se numa cutelaria. Jaibo visita-o e rouba uma faca. Pedro é acusado, e condenado perante o assentimento da mãe. No entanto, evade-se da casa de correcção e denuncia Jaibo pela morte de Julián. Jaibo vinga-se e mata Pedro, sendo depois abatido pela polícia. O cadáver de Pedro é atirado a uma lixeira pública.",
-      "title_en": "The Young and the Damned",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/b4VAgPHGL33OA5QNZCYi0jU5Nma.jpg",
-        "https://image.tmdb.org/t/p/w1280/qov2tWElGWI4OmYhkEKnvENEm8Q.jpg",
-        "https://image.tmdb.org/t/p/w1280/zE1R2r5iKNNxIyaScpT9BrPCAMw.jpg"
-      ],
-      "stills_focus": [
-        26.3,
-        17.7,
-        38.3
-      ],
-      "country": "Mexico",
-      "director_lbxd_slug": "luis-bunuel"
     },
     {
       "id": "nimas_a-cativa-2000",
@@ -3299,6 +3070,38 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "otto-preminger"
     },
     {
+      "id": "nimas_nazarin-1958",
+      "title": "Nazarín",
+      "director": "Luis Buñuel",
+      "year": 1959,
+      "duration": 94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/9/28739-nazarin-0-500-0-750-crop.jpg?v=32d54174c3",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/nazarin-1958",
+      "sessions": [
+        {
+          "date": "2026-10-27",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.92,
+      "plot": "A Catholic priest in a poor community lives a charitable life in accordance with his religious principles, but others do not return the favor.",
+      "plot_pt": "Um padre jovem, Nazarín, vive num bairro pobre da Cidade do México. Beatriz, uma suicida falhada, e Andara, uma prostituta assassina, refugiam-se em casa dele. Tentando apagar provas do seu crime, Andara provoca um incêndio. Nazarín é interrogado pela polícia, e a hierarquia da Igreja censura-o por ter albergado uma criminosa. Persuadido a viver segundo os princípios dos Evangelhos, Nazarin passa a subsistir através de esmolas. Tenta empregar-se mas é expulso pelos operários sindicalizados. Reencontra Beatriz e Andara, que o seguem. Beatriz, apaixonada por ele, foge com El Pinto, enquanto Nazarín e Andara são presos. Mais tarde, uma mulher oferece-lhe um ananás, que ele começa por recusar para, finalmente, aceitar.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/eunBY4OdJseL3LvMeng5zUbxDAG.jpg",
+        "https://image.tmdb.org/t/p/w1280/aDVlKMwtt229wweLslbgkvaHrth.jpg"
+      ],
+      "stills_focus": [
+        27.8,
+        25.7
+      ],
+      "country": "Mexico",
+      "director_lbxd_slug": "luis-bunuel"
+    },
+    {
       "id": "nimas_um-diva-em-nova-iorque-1996",
       "title": "Um Divã em Nova Iorque",
       "director": "Chantal Akerman",
@@ -3335,38 +3138,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "chantal-akerman"
     },
     {
-      "id": "nimas_nazarin-1958",
-      "title": "Nazarín",
-      "director": "Luis Buñuel",
-      "year": 1959,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/9/28739-nazarin-0-500-0-750-crop.jpg?v=32d54174c3",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/nazarin-1958",
-      "sessions": [
-        {
-          "date": "2026-10-27",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.92,
-      "plot": "A Catholic priest in a poor community lives a charitable life in accordance with his religious principles, but others do not return the favor.",
-      "plot_pt": "Um padre jovem, Nazarín, vive num bairro pobre da Cidade do México. Beatriz, uma suicida falhada, e Andara, uma prostituta assassina, refugiam-se em casa dele. Tentando apagar provas do seu crime, Andara provoca um incêndio. Nazarín é interrogado pela polícia, e a hierarquia da Igreja censura-o por ter albergado uma criminosa. Persuadido a viver segundo os princípios dos Evangelhos, Nazarin passa a subsistir através de esmolas. Tenta empregar-se mas é expulso pelos operários sindicalizados. Reencontra Beatriz e Andara, que o seguem. Beatriz, apaixonada por ele, foge com El Pinto, enquanto Nazarín e Andara são presos. Mais tarde, uma mulher oferece-lhe um ananás, que ele começa por recusar para, finalmente, aceitar.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/eunBY4OdJseL3LvMeng5zUbxDAG.jpg",
-        "https://image.tmdb.org/t/p/w1280/aDVlKMwtt229wweLslbgkvaHrth.jpg"
-      ],
-      "stills_focus": [
-        27.8,
-        25.7
-      ],
-      "country": "Mexico",
-      "director_lbxd_slug": "luis-bunuel"
-    },
-    {
       "id": "nimas_amanha-mudamos-de-casa-2004",
       "title": "Amanhã Mudamos de Casa",
       "director": "Chantal Akerman",
@@ -3398,6 +3169,42 @@ window.CINEMA_DATA = {
       ],
       "country": "Belgium",
       "director_lbxd_slug": "chantal-akerman"
+    },
+    {
+      "id": "nimas_brincadeiras-perigosas-u-s-2007",
+      "title": "Brincadeiras Perigosas U.S.",
+      "director": "Michael Haneke",
+      "year": 2007,
+      "duration": 111,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/1/0/47710-funny-games-0-500-0-750-crop.jpg?v=5fb4eca12a",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "link": "https://medeiafilmes.com/filmes/brincadeiras-perigosas-u-s-2007",
+      "sessions": [
+        {
+          "date": "2026-10-29",
+          "time": "16:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.59,
+      "plot": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+      "plot_pt": "Um remake assinado pelo próprio Michael Haneke, desta vez com produção e elenco americano, de Brincadeiras Perigosas, filme que conquistou a crítica e recebeu vários prémios dez anos antes. Ann, George e o filho Georgie vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Dez anos depois, a visão de Michael Haneke apenas se tornou mais actual e acutilante, nesta exploração da violência das imagens e do seu recurso enquanto entretenimento.",
+      "title_en": "Funny Games",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+        "https://image.tmdb.org/t/p/w1280/ZdK8HzzQoiVtAq2j0X9n4K77aU.jpg",
+        "https://image.tmdb.org/t/p/w1280/stMyI68M8yExIVCOr46em4vUP6n.jpg"
+      ],
+      "stills_focus": [
+        21.1,
+        24.3,
+        31.6
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "nimas_de-gaulle-liberdade-2026",
@@ -3501,40 +3308,41 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sho-miyake-1"
     },
     {
-      "id": "nimas_brincadeiras-perigosas-u-s-2007",
-      "title": "Brincadeiras Perigosas U.S.",
-      "director": "Michael Haneke",
-      "year": 2007,
-      "duration": 111,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/7/1/0/47710-funny-games-0-500-0-750-crop.jpg?v=5fb4eca12a",
+      "id": "nimas_simao-do-deserto-1965",
+      "title": "Simão do Deserto",
+      "director": "Luis Buñuel",
+      "year": 1965,
+      "duration": 45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/4/4/28044-simon-of-the-desert-0-500-0-750-crop.jpg?v=1a77f581e8",
       "genres": [
-        "Thriller",
-        "Horror"
+        "Comedy",
+        "Fantasy",
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/brincadeiras-perigosas-u-s-2007",
+      "link": "https://medeiafilmes.com/filmes/simao-do-deserto-1965",
       "sessions": [
         {
-          "date": "2026-10-29",
-          "time": "16:00",
+          "date": "2026-10-30",
+          "time": "17:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.59,
-      "plot": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
-      "plot_pt": "Um remake assinado pelo próprio Michael Haneke, desta vez com produção e elenco americano, de Brincadeiras Perigosas, filme que conquistou a crítica e recebeu vários prémios dez anos antes. Ann, George e o filho Georgie vão passar férias à sua casa de Verão. A sua rotina idílica é interrompida por dois jovens de luvas brancas que os irão submeter a terrores inimagináveis, “jogos” que se tornam progressivamente mais sádicos e tortuosos. Dez anos depois, a visão de Michael Haneke apenas se tornou mais actual e acutilante, nesta exploração da violência das imagens e do seu recurso enquanto entretenimento.",
-      "title_en": "Funny Games",
+      "rating": 3.95,
+      "plot": "Simon, a deeply religious man living in the 4th century, wants to be nearer to God so he climbs a column. The Devil wants him come down to Earth and is trying to seduce him.",
+      "plot_pt": "Simão, o Estilita, aspira à santidade e vive numa coluna no deserto, passando os dias a rezar e a benzer os fiéis que o vêm ver. O Diabo, através das suas encarnações terrenas, usa diversos subterfúgios para o tentar, sem sucesso. Consegue, no entanto, fazê-lo abandonar a coluna e levá-lo para uma boîte nova-iorquina.",
+      "title_en": "Simon of the Desert",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
-        "https://image.tmdb.org/t/p/w1280/ZdK8HzzQoiVtAq2j0X9n4K77aU.jpg",
-        "https://image.tmdb.org/t/p/w1280/stMyI68M8yExIVCOr46em4vUP6n.jpg"
+        "https://image.tmdb.org/t/p/w1280/sm7NapjwKYhIH2GzFEgJkiw9hF1.jpg",
+        "https://image.tmdb.org/t/p/w1280/vMjJ2WCyoPrH90N3yOTqa63FtMd.jpg",
+        "https://image.tmdb.org/t/p/w1280/oIVriGA07qiXlAwdOmeDhVDFIRb.jpg"
       ],
       "stills_focus": [
-        21.1,
-        24.3,
-        31.6
+        35.6,
+        23.5,
+        28.2
       ],
-      "country": "USA",
-      "director_lbxd_slug": "michael-haneke"
+      "country": "Mexico",
+      "director_lbxd_slug": "luis-bunuel"
     },
     {
       "id": "nimas_dracula-2026",
@@ -3572,83 +3380,10 @@ window.CINEMA_DATA = {
       "stills_focus": [
         29.5,
         49.4,
-        29.3
+        29.1
       ],
       "country": "Romania",
       "director_lbxd_slug": "radu-jude"
-    },
-    {
-      "id": "nimas_um-cao-andaluz-1929",
-      "title": "Um Cão Andaluz",
-      "director": "Luis Buñuel",
-      "year": 1929,
-      "duration": 16,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/8/51498-un-chien-andalou-0-500-0-750-crop.jpg?v=6f1b84e3af",
-      "genres": [
-        "Fantasy",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/um-cao-andaluz-1929",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.8,
-      "plot": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
-      "plot_pt": "Um homem afia uma lâmina de barbear, antes de com ela cortar o olho de uma mulher jovem e impassível. Um ciclista cai. Uma mulher e um homem observam um andrógino e uma mão cortada, e depois acariciam-se. Passado um ano, chega outro homem que ordena ao primeiro que saia da cama. Tudo acaba numa praia onde a mulher encontra um terceiro homem.",
-      "title_en": "Un Chien Andalou",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lsv1GFDAR1euS5kFsnyQgguyozi.jpg",
-        "https://image.tmdb.org/t/p/w1280/hi5aTvx4gVJU6ruugZ8b2WOlUjA.jpg",
-        "https://image.tmdb.org/t/p/w1280/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg"
-      ],
-      "stills_focus": [
-        24.0,
-        30.9,
-        43.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "luis-bunuel"
-    },
-    {
-      "id": "nimas_simao-do-deserto-1965",
-      "title": "Simão do Deserto",
-      "director": "Luis Buñuel",
-      "year": 1965,
-      "duration": 45,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/4/4/28044-simon-of-the-desert-0-500-0-750-crop.jpg?v=1a77f581e8",
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/simao-do-deserto-1965",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.95,
-      "plot": "Simon, a deeply religious man living in the 4th century, wants to be nearer to God so he climbs a column. The Devil wants him come down to Earth and is trying to seduce him.",
-      "plot_pt": "Simão, o Estilita, aspira à santidade e vive numa coluna no deserto, passando os dias a rezar e a benzer os fiéis que o vêm ver. O Diabo, através das suas encarnações terrenas, usa diversos subterfúgios para o tentar, sem sucesso. Consegue, no entanto, fazê-lo abandonar a coluna e levá-lo para uma boîte nova-iorquina.",
-      "title_en": "Simon of the Desert",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/sm7NapjwKYhIH2GzFEgJkiw9hF1.jpg",
-        "https://image.tmdb.org/t/p/w1280/vMjJ2WCyoPrH90N3yOTqa63FtMd.jpg",
-        "https://image.tmdb.org/t/p/w1280/oIVriGA07qiXlAwdOmeDhVDFIRb.jpg"
-      ],
-      "stills_focus": [
-        35.6,
-        23.5,
-        28.2
-      ],
-      "country": "Mexico",
-      "director_lbxd_slug": "luis-bunuel"
     },
     {
       "id": "nimas_um-cao-andaluz-1929",
@@ -3760,47 +3495,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Mexico",
       "director_lbxd_slug": "luis-bunuel"
-    },
-    {
-      "id": "nimas_dracula-2026",
-      "title": "Drácula",
-      "director": "Radu Jude",
-      "year": 2025,
-      "duration": 170,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/4/0/0/1/1204001-dracula-2025-1-0-500-0-750-crop.jpg?v=4fb1824d1a",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/dracula-2026",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "20:45",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "21:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.14,
-      "plot": "In modern-day Transylvania, vampire hunts and labor strikes collide with sci-fi twists, romance, and AI-crafted tales, as multiple storylines blend folklore, classic horror, and contemporary elements into a fresh take on Dracula's legend.",
-      "plot_pt": "O que acontece quando um jovem e curioso realizador desafia a sua criatividade com as possibilidades ilimitadas de uma inteligência artificial falsa? Uma mistura surpreendente de várias histórias, de tempos antigos e modernos, sobre o mito original de Drácula: uma caça a vampiros, zombies e Drácula a interromper uma greve, um conto de ficção científica sobre o regresso de Vlad, o Empalador, uma adaptação da primeira novela romena de vampiros, um romance trágico, um conto popular vulgar, histórias kitsch geradas por IA… e muito mais!",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ucSE2LQXZ9KYUMZOZ9m1w9KPXp3.jpg",
-        "https://image.tmdb.org/t/p/w1280/7EIOi4Q2TTf19wAoCxeui0aEHOU.jpg",
-        "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
-      ],
-      "stills_focus": [
-        29.5,
-        49.4,
-        29.1
-      ],
-      "country": "Romania",
-      "director_lbxd_slug": "radu-jude"
     },
     {
       "id": "nimas_susana-1951",
@@ -4090,6 +3784,26 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luis-bunuel"
     },
     {
+      "id": "fernando_5_curtas_essenciais",
+      "title": "5 Curtas Essenciais",
+      "director": "Roy Andersson",
+      "year": null,
+      "duration": null,
+      "poster": "https://freight.cargo.site/t/original/i/1c7011ef6b3b8831f0239abe5884a2e869b5df58efc11d1b3c65138ff502638f/5_CURTAS_MOSTRA_ROY_ANDERSSON.jpg",
+      "genres": [
+        "Duração total 115 MIN"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/5-CURTAS-ESSENCIAIS-DE-ROY-ANDERSSON",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "21:30",
+          "cinema": "fernando"
+        }
+      ]
+    },
+    {
       "id": "fernando_primetime",
       "title": "Primetime",
       "director": "Lance Oppenheim",
@@ -4105,16 +3819,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/PRIMETIME",
       "sessions": [
         {
-          "date": "2026-10-18",
-          "time": "14:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-10-19",
           "time": "19:15",
           "cinema": "trindade"
@@ -4123,6 +3827,16 @@ window.CINEMA_DATA = {
           "date": "2026-10-21",
           "time": "19:15",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "21:15",
+          "cinema": "fernando"
         }
       ],
       "rating": 3.72,
@@ -4141,176 +3855,40 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "lance-oppenheim"
     },
     {
-      "id": "fernando_giliap",
-      "title": "Giliap",
+      "id": "fernando_uma_histo_ria_de_amor",
+      "title": "Uma História De Amor",
       "director": "Roy Andersson",
-      "year": 1975,
-      "duration": 137,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/8/2/3/76823-giliap-0-500-0-750-crop.jpg?v=a39ab9cb3b",
+      "year": 1970,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/8/7/31287-a-swedish-love-story-0-500-0-750-crop.jpg?v=498a10c964",
       "genres": [
         "Drama",
-        "Crime"
+        "Romance"
       ],
       "festival": null,
-      "link": "https://cinemafernandolopes.pt/GILIAP",
+      "link": "https://cinemafernandolopes.pt/UMA-HISTORIA-DE-AMOR",
       "sessions": [
         {
-          "date": "2026-10-18",
-          "time": "16:30",
+          "date": "2026-10-24",
+          "time": "21:30",
           "cinema": "fernando"
         }
       ],
-      "rating": 3.36,
-      "plot": "In a minor town the morose manager is primarily responsible for the bad atmosphere of a restaurant. But central for the plot are three persons: a male waiter who is never named (here called W), the female waiter Anna, and \"the count\", a self-invented nickname by a man cleaning plates. The count is skilled in making others do what he wants. Half a dozen of the personnel assist in a poorly planned and failed attempt to liberate a man whom the police move from one arrest to another. The event involves stealing a motorcycle and threatening policemen with a gun. Anna strongly tries to make contact with W. Finally it turns out that she need his help to break her sexual relation to the count, a relation that from her part is not motivated by positive feelings. W rejects her attempts. And then Anna has suddenly gone. She has got a pleasant job in another town. And then W's feelings awaken.",
+      "rating": 3.66,
+      "plot": "The puppy love of two teenagers is set against a backdrop of adults struggling with their own lives. As a couple in love, they don't care about anything but themselves and seem totally unaware about everything that surrounds them.",
+      "title_en": "A Swedish Love Story",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/q6pL6RcedkFmMoHQ4CzRUQDxhCU.jpg"
+        "https://image.tmdb.org/t/p/w1280/hdX3esdD6u0gUdU1oSAaNMFlFQk.jpg",
+        "https://image.tmdb.org/t/p/w1280/y9U4ZEaFGzPhmpbt7l7kveD2VYN.jpg",
+        "https://image.tmdb.org/t/p/w1280/666P96JJCF4Wd91JUzcZYRMl47y.jpg"
       ],
       "stills_focus": [
-        28.2
+        26.0,
+        45.5,
+        39.5
       ],
       "country": "Sweden",
       "director_lbxd_slug": "roy-andersson"
-    },
-    {
-      "id": "fernando_um_fantasma_u_til",
-      "title": "Um Fantasma Útil",
-      "director": "Ratchapoom Boonbunchachoke",
-      "year": 2025,
-      "duration": 130,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/2/4/0/5/1252405-a-useful-ghost-0-500-0-750-crop.jpg?v=9c746acbf8",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Drama"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/UM-FANTASMA-UTIL",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "21:45",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 3.7,
-      "plot": "Worried about her husband being allergic to dust, Nat, a recently-dead woman, returns as a ghost possessing a vacuum cleaner to clean the house and protect her family from other vengeful ghosts in the house. To become a useful ghost, she needs to get rid of the useless ones.",
-      "plot_pt": "A Useful Ghost (em tailandês: ผีใช้ได้ค่ะ / bra: A Useful Ghost - Uma Ajuda do Além) é um filme de comédia ácida e fantasia de 2025, dirigido e escrito por Ratchapoom Boonbunchachoke em sua estreia na direção. O filme é estrelado por Davika Hoorne, Witsarut Himmarat, Apasiri Nitibhon, Wanlop Rungkumjud e Wisarut Homhuan. É uma co-produção da Tailândia, França, Singapura e Alemanha.\nO filme teve sua estreia mundial na seção Semana da Crítica do Festival de Cinema de Cannes de 2025, em 17 de maio de 2025, onde ganhou o Grande Prêmio.",
-      "title_en": "A Useful Ghost",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/5IfH9Itm2WAlfZTuXj5Q9lAS1jV.jpg",
-        "https://image.tmdb.org/t/p/w1280/nnZaeiX9BPKUvYJNzkMIGKM9ljt.jpg",
-        "https://image.tmdb.org/t/p/w1280/QFs1jHVLAkFLDIk47lPeGn23da.jpg"
-      ],
-      "stills_focus": [
-        22.2,
-        23.6,
-        32.0
-      ],
-      "country": "Thailand",
-      "director_lbxd_slug": "ratchapoom-boonbunchachoke"
-    },
-    {
-      "id": "batalha_s9K7UONcEX6gzqzd",
-      "title": "The Traveler Without Luggage",
-      "director": "Jean Anouilh",
-      "year": 1944,
-      "duration": 99,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/1/5/6/1/191561-the-traveler-without-luggage-0-500-0-750-crop.jpg?v=5dd64c01c1",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/le-voyageur-sans-bagage",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "13:15",
-          "cinema": "batalha"
-        }
-      ],
-      "original_title": "Le voyageur sans bagage",
-      "plot_pt": "Primeira realização cinematográfica do dramaturgo Jean Anouilh, Le voyageur sans bagage adapta ao cinema a sua peça homónima. A história acompanha Gaston, um homem encontrado amnésico no final da Primeira Guerra Mundial e acolhido durante dez anos num asilo. Quando várias famílias o reclamam como parente desaparecido, vê-se confrontado com um passado que não reconhece como seu. Entre elas está a família Renaud, cuja perspetiva sobre o jovem Gaston revela uma personalidade passada violenta e sem escrúpulos. À medida que recupera fragmentos da memória, percebe que talvez seja preferível abandonar a antiga identidade e reinventar-se.",
-      "plot": "Having lost his memory due to serving in World War I, Gaston has spent the past 15 years in a psychiatric hospital. Due to his large disability pension fund, several families claim him as their missing son. Gaston is introduced to the Renaud family by the Duchess Dupont-Dufort and her lawyer. The Renaud family attempt to revive Gaston's memory with stories of his past, but he is apalled by some of the things he hears and dislikes the man he is supposed to be.",
-      "country": "France",
-      "director_lbxd_slug": "jean-anouilh"
-    },
-    {
-      "id": "batalha_s4IOdUmYfGm8uNc3",
-      "title": "Milk",
-      "director": "Andrea Arnold",
-      "year": 1998,
-      "duration": 10,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/3/7/4/124374-milk-0-500-0-750-crop.jpg?v=0c0e5f933b",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/01-milk",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "19:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "16:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot_pt": "No dia do funeral do bebé que perdeu no final da gravidez, Hetty toma uma decisão inesperada: contrariando os pedidos do marido, falta à cerimónia e vagueia pela cidade numa tentativa desesperada de escapar à dor. O acaso leva-a a cruzar-se com Martin, com quem inicia uma viagem sem destino, impulsionada pelo álcool e pela vulnerabilidade emocional. Um breve road movie sobre perda, solidão, escapismo e empatia.",
-      "plot": "Andrea Arnold’s directorial debut consists of a woman named Hetty that has a unique way of dealing with the unexpected death of her child.",
-      "country": "UK",
-      "rating": 3.47,
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/iAABXlbNI9j1Bap1gLRjjRokwcU.jpg",
-        "https://image.tmdb.org/t/p/w1280/dWrVvWnjGxWiDakK25vmds57nU0.jpg",
-        "https://image.tmdb.org/t/p/w1280/lzEnHaFjjoczD0a9Z9qjSZ1u8zo.jpg"
-      ],
-      "stills_focus": [
-        32.0,
-        23.7,
-        45.2
-      ],
-      "director_lbxd_slug": "andrea-arnold"
-    },
-    {
-      "id": "batalha_s2WEKIdzZgQ42g0d",
-      "title": "Red Road",
-      "director": "Andrea Arnold",
-      "year": 2006,
-      "duration": 113,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/4/9/45049-red-road-0-500-0-750-crop.jpg?v=a0c6024d65",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/02-red-road",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "19:15",
-          "cinema": "batalha"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "16:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot_pt": "A aclamada longa-metragem de estreia de Andrea Arnold, distinguida com o Prémio do Júri no Festival de Cannes, acompanha Jackie, uma operadora de videovigilância que passa dias e noites a observar o quotidiano das pessoas que habitam bairros problemáticos de Glasgow, na Escócia. A sua rotina altera-se quando, no ecrã, reconhece um homem do seu passado, que julgava nunca mais voltar a ver. À medida que revive memórias dolorosas, a fronteira entre observadora e participante começa a desfazer-se. Um intenso thriller psicológico conduzido por uma interpretação magistral de Kate Dickie.",
-      "plot": "Jackie is a CCTV operator. One day, a man shows his face on her monitor, a man she hoped never to see again. Now she has no choice and is compelled to confront him.",
-      "country": "Denmark",
-      "rating": 3.64,
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/x4x42AbArvItQusMifH3R97j7oN.jpg",
-        "https://image.tmdb.org/t/p/w1280/pyOjU3auEEL3RvZnQitcvPt6R0w.jpg",
-        "https://image.tmdb.org/t/p/w1280/nzWprPMXu3l0RVjBCA5RY2dmeL9.jpg"
-      ],
-      "stills_focus": [
-        53.1,
-        41.9,
-        47.9
-      ],
-      "director_lbxd_slug": "andrea-arnold"
     },
     {
       "id": "batalha_sdv7sfu1UrKafgnu",
@@ -4521,10 +4099,11 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Prefacio para el dialoguito",
+      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega",
       "plot": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
-      "country": "Argentina",
+      "country": "USA",
       "rating": 3.36,
-      "title_en": "You Burn Me",
+      "title_en": "Desire Lines",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
         "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
@@ -4742,6 +4321,75 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "andrea-arnold"
     },
     {
+      "id": "batalha_s4IOdUmYfGm8uNc3",
+      "title": "Milk",
+      "director": "Andrea Arnold",
+      "year": 1998,
+      "duration": 10,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/3/7/4/124374-milk-0-500-0-750-crop.jpg?v=0c0e5f933b",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/01-milk",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "16:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot_pt": "No dia do funeral do bebé que perdeu no final da gravidez, Hetty toma uma decisão inesperada: contrariando os pedidos do marido, falta à cerimónia e vagueia pela cidade numa tentativa desesperada de escapar à dor. O acaso leva-a a cruzar-se com Martin, com quem inicia uma viagem sem destino, impulsionada pelo álcool e pela vulnerabilidade emocional. Um breve road movie sobre perda, solidão, escapismo e empatia.",
+      "plot": "Andrea Arnold’s directorial debut consists of a woman named Hetty that has a unique way of dealing with the unexpected death of her child.",
+      "country": "UK",
+      "rating": 3.47,
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/iAABXlbNI9j1Bap1gLRjjRokwcU.jpg",
+        "https://image.tmdb.org/t/p/w1280/dWrVvWnjGxWiDakK25vmds57nU0.jpg",
+        "https://image.tmdb.org/t/p/w1280/lzEnHaFjjoczD0a9Z9qjSZ1u8zo.jpg"
+      ],
+      "stills_focus": [
+        32.0,
+        23.7,
+        45.2
+      ],
+      "director_lbxd_slug": "andrea-arnold"
+    },
+    {
+      "id": "batalha_s2WEKIdzZgQ42g0d",
+      "title": "Red Road",
+      "director": "Andrea Arnold",
+      "year": 2006,
+      "duration": 113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/0/4/9/45049-red-road-0-500-0-750-crop.jpg?v=a0c6024d65",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "link": "https://www.batalhacentrodecinema.pt/filmes/02-red-road",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "16:15",
+          "cinema": "batalha"
+        }
+      ],
+      "plot_pt": "A aclamada longa-metragem de estreia de Andrea Arnold, distinguida com o Prémio do Júri no Festival de Cannes, acompanha Jackie, uma operadora de videovigilância que passa dias e noites a observar o quotidiano das pessoas que habitam bairros problemáticos de Glasgow, na Escócia. A sua rotina altera-se quando, no ecrã, reconhece um homem do seu passado, que julgava nunca mais voltar a ver. À medida que revive memórias dolorosas, a fronteira entre observadora e participante começa a desfazer-se. Um intenso thriller psicológico conduzido por uma interpretação magistral de Kate Dickie.",
+      "plot": "Jackie is a CCTV operator. One day, a man shows his face on her monitor, a man she hoped never to see again. Now she has no choice and is compelled to confront him.",
+      "country": "Denmark",
+      "rating": 3.64,
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/x4x42AbArvItQusMifH3R97j7oN.jpg",
+        "https://image.tmdb.org/t/p/w1280/pyOjU3auEEL3RvZnQitcvPt6R0w.jpg",
+        "https://image.tmdb.org/t/p/w1280/nzWprPMXu3l0RVjBCA5RY2dmeL9.jpg"
+      ],
+      "stills_focus": [
+        53.1,
+        41.9,
+        47.9
+      ],
+      "director_lbxd_slug": "andrea-arnold"
+    },
+    {
       "id": "batalha_sWJJjDgMLdEkR3qP",
       "title": "Pano Cru",
       "director": "Adriana Assunção",
@@ -4779,6 +4427,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4847,6 +4496,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -4869,6 +4519,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -4900,6 +4551,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -5765,6 +5417,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -6112,6 +5765,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
+      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -6135,88 +5789,6 @@ window.CINEMA_DATA = {
       "plot_pt": "Entre 2018 e 2023, Ewelina Rosińska visitou diferentes regiões e lugares de Portugal, sozinha ou na companhia de artistas e eco-activistas. A conservação da natureza, a etnografia, a agricultura e as ações contra a gentrificação atravessam o filme, compassado pelo ritmo de uma câmara Bolex. Entre observação e contemplação, Pedras Instáveis propõe um olhar sobre o território e sobre a possibilidade de abrandar.",
       "plot": "Between 2018 and 2023, Ewelina Rosińska visited different regions and places in Portugal, alone or in the company of artists and eco-activists. Geological elements, agricultural places, rural dwellings and non-human beings run through the film, poetically paced by the Bolex camera. Between the detail and the immensity of the landscape, Unstable Rocks proposes a contemplative gaze upon the territory, to the rhythm of the pulse of nature and its elements.",
       "country": "Alemanha / Portugal"
-    },
-    {
-      "id": "trindade_9576",
-      "title": "Digger",
-      "director": "Alejandro González Iñarritu",
-      "year": 2026,
-      "duration": 129,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/2/6/8/8/1132688-digger-2026-0-500-0-750-crop.jpg?v=81ec883a95",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/digger",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "19:15",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.66,
-      "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "plot_pt": "Digger acompanha o homem mais poderoso do mundo que, após provocar um desastre ambiental de proporções globais, começa uma missão intensa para reparar os danos que ele mesmo causou e provar que é o salvador da humanidade. Em uma corrida contra o tempo, ele precisa enfrentar as consequências de suas decisões antes que a crise saia completamente do controle e ameace o futuro do planeta. Nessa trajetória, o bilionário cruza o caminho de algumas das figuras mais influentes do mundo, incluindo o presidente dos Estados Unidos, enquanto tenta recuperar sua credibilidade. O filme mistura drama épico e reflete sobre responsabilidade e os impactos da ambição desenfreada em uma narrativa repleta de tensão.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
-        "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg"
-      ],
-      "stills_focus": [
-        15.5,
-        43.4,
-        42.2
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "alejandro-g-inarritu"
-    },
-    {
-      "id": "trindade_9371",
-      "title": "Adolescência, Sexo e Morte No Campo Miasma",
-      "director": "Jane Schoenbrun",
-      "year": 2026,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Romance"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/adolescencia-sexo-e-morte-no-campo-miasma",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "21:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "21:30",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.84,
-      "plot": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-      "plot_pt": "Um slasher queer protagonizado por Hannah Einbinder e Gillian Anderson, que tem conquistado crítica e público desde a sua estreia no festival de Cannes onde venceu a Queer Palm. Após anos de sequelas e fãs de terror em declínio, Camp Miasma é entregue a uma jovem realizadora entusiasmada por uma ressurreição. No entanto, quando visita a protagonista original do filme, uma actriz envolta em mistério, as duas mulheres mergulham num mundo sangrento de desejo, medo e delírio. E uma nova espécie de slasher emerge do fundo do lago.",
-      "title_en": "Teenage Sex and Death at Camp Miasma",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
-        "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-        "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
-      ],
-      "stills_focus": [
-        13.7,
-        12.8,
-        24.4
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "jane-schoenbrun"
     },
     {
       "id": "trindade_9203",
@@ -6319,6 +5891,78 @@ window.CINEMA_DATA = {
       ],
       "country": "Belgium",
       "director_lbxd_slug": "chantal-akerman"
+    },
+    {
+      "id": "trindade_9576",
+      "title": "Digger",
+      "director": "Alejandro González Iñarritu",
+      "year": 2026,
+      "duration": 129,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/2/6/8/8/1132688-digger-2026-0-500-0-750-crop.jpg?v=81ec883a95",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/digger",
+      "sessions": [
+        {
+          "date": "2026-10-20",
+          "time": "19:15",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.66,
+      "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "plot_pt": "Digger acompanha o homem mais poderoso do mundo que, após provocar um desastre ambiental de proporções globais, começa uma missão intensa para reparar os danos que ele mesmo causou e provar que é o salvador da humanidade. Em uma corrida contra o tempo, ele precisa enfrentar as consequências de suas decisões antes que a crise saia completamente do controle e ameace o futuro do planeta. Nessa trajetória, o bilionário cruza o caminho de algumas das figuras mais influentes do mundo, incluindo o presidente dos Estados Unidos, enquanto tenta recuperar sua credibilidade. O filme mistura drama épico e reflete sobre responsabilidade e os impactos da ambição desenfreada em uma narrativa repleta de tensão.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+        "https://image.tmdb.org/t/p/w1280/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+        "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg"
+      ],
+      "stills_focus": [
+        15.5,
+        43.4,
+        42.2
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "alejandro-g-inarritu"
+    },
+    {
+      "id": "trindade_9371",
+      "title": "Adolescência, Sexo e Morte No Campo Miasma",
+      "director": "Jane Schoenbrun",
+      "year": 2026,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/2/3/8/6/7/1123867-teenage-sex-and-death-at-camp-miasma-0-500-0-750-crop.jpg?v=f6059120f8",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Romance"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/adolescencia-sexo-e-morte-no-campo-miasma",
+      "sessions": [
+        {
+          "date": "2026-10-20",
+          "time": "21:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.84,
+      "plot": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+      "plot_pt": "Um slasher queer protagonizado por Hannah Einbinder e Gillian Anderson, que tem conquistado crítica e público desde a sua estreia no festival de Cannes onde venceu a Queer Palm. Após anos de sequelas e fãs de terror em declínio, Camp Miasma é entregue a uma jovem realizadora entusiasmada por uma ressurreição. No entanto, quando visita a protagonista original do filme, uma actriz envolta em mistério, as duas mulheres mergulham num mundo sangrento de desejo, medo e delírio. E uma nova espécie de slasher emerge do fundo do lago.",
+      "title_en": "Teenage Sex and Death at Camp Miasma",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/qIYpBVW114AShXorGvnEUZGgueS.jpg",
+        "https://image.tmdb.org/t/p/w1280/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+        "https://image.tmdb.org/t/p/w1280/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg"
+      ],
+      "stills_focus": [
+        13.7,
+        12.8,
+        24.4
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "jane-schoenbrun"
     },
     {
       "id": "trindade_9274",
@@ -6528,49 +6172,9 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "justine-triet"
     },
     {
-      "id": "ideal_doc_last_movies",
-      "title": "DOC LAST MOVIES",
-      "director": "Stanley Schtinter",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/DOCLISBOA-POSTER.png",
-      "genres": [
-        "Documentary"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=70102",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "19:30",
-          "cinema": "ideal"
-        }
-      ],
-      "plot": "Last Movies remaps the twentieth and early twenty-first centuries according to the films watched by some of its most famous people shortly before or at the time of their deaths.",
-      "country": "United Kingdom"
-    },
-    {
-      "id": "ideal_doc_amilcar",
-      "title": "DOC AMILCAR",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/DOCLISBOA-POSTER.png",
-      "genres": [],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=70108",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "21:45",
-          "cinema": "ideal"
-        }
-      ]
-    },
-    {
       "id": "ideal_doc_voice_of_orpheus",
       "title": "DOC VOICE OF ORPHEUS",
-      "director": null,
+      "director": "Arnold Pasquier",
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/DOCLISBOA-POSTER.png",
@@ -6588,7 +6192,7 @@ window.CINEMA_DATA = {
     {
       "id": "ideal_doc_o_filme_do_meio",
       "title": "DOC O FILME DO MEIO",
-      "director": null,
+      "director": "Margarida Gil",
       "year": null,
       "duration": null,
       "poster": "https://www.cinemaidealemcasa.pt/wp-content/uploads/DOCLISBOA-POSTER.png",
@@ -6823,25 +6427,15 @@ window.CINEMA_DATA = {
       "id": "ideal_2__hist_rias_paralelas",
       "title": "2- HISTÓRIAS PARALELAS",
       "director": "James Cameron",
-      "year": 2017,
+      "year": 2018,
       "duration": 137,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/9/8/5/1389985-2-0-500-0-750-crop.jpg?v=334405a787",
       "genres": [
-        "Romance"
+        "Documentary"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=72111",
       "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-10-20",
           "time": "15:30",
@@ -6861,31 +6455,16 @@ window.CINEMA_DATA = {
       "id": "ideal_1__naza",
       "title": "1- NAZA",
       "director": "Paul Crowder",
-      "year": 2010,
+      "year": 2009,
       "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/4/8/16048-1-0-500-0-750-crop.jpg?v=3d8ce087a9",
       "genres": [
-        "Documentary",
-        "Music"
+        "Thriller",
+        "Science Fiction"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=69576",
       "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "14:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "18:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "14:00",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-10-19",
           "time": "18:00",
@@ -6912,11 +6491,10 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ],
-      "rating": 3.6,
-      "plot": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
-      "country": "USA",
-      "director_lbxd_slug": "pater-sparrow",
-      "title_en": "Billy Joel - The Last Play at Shea"
+      "rating": 3.27,
+      "plot": "A bookshop renowned for its rare works is mysteriously and filled with copies of a book entitled 1, which doesn't appear to have a publisher or author. The strange almanac describes what happens to humanity in a minute. A police investigation begins and the bookshop staff are placed in solitary confinement by the Bureau for Paranormal Research. As the investigation progresses, the situation becomes more complex and the book becomes increasingly well-known, raising numerous controversies. Plagued by doubts, the protagonist has to face facts: reality only exists in the imagination of individuals.",
+      "country": "Hungary",
+      "director_lbxd_slug": "pater-sparrow"
     },
     {
       "id": "culturgest_rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
@@ -6967,11 +6545,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Salah Karim": {
-      "lbxd_slug": "larry-gottheim",
-      "photo": null,
-      "bio": "Egyptian director"
-    },
     "Dénes Nagy": {
       "lbxd_slug": "denes-nagy",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/D%C3%A9nes_Nagy_%282021%29.jpg/500px-D%C3%A9nes_Nagy_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6997,13 +6570,8 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jt_hshot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "John Torres is an American songwriter and recording artist from Los Angeles."
     },
-    "Robert Florey": {
-      "lbxd_slug": "robert-florey",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_Florey_%281900%E2%80%931979%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Robert Florey (September 14, 1900 – May 16, 1979) was a French-American director, screenwriter, film journalist and actor. Florey directed more than 50 films, the majority of them during the 1930s, with the best known likely being the Marx Brothers first feature The Cocoanuts (1929). His 1932 foray into Universal-style horror, Murders in the Rue Morgue, is regarded by horror fans as highly reflective of German expressionism."
-    },
     "Adrian Sibley": {
-      "lbxd_slug": "adrian-sibley-1",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -7072,25 +6640,15 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Raul_Ruiz_Memoria_Chilena.jpg/500px-Raul_Ruiz_Memoria_Chilena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "Raúl Ruiz or Raul Ruiz may refer to:"
     },
-    "Quentin Tarantino": {
-      "lbxd_slug": "quentin-tarantino",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/500px-Quentin_Tarantino_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Quentin Jerome Tarantino ( TARR-ən-TEE-noh; born March 27, 1963) is an American filmmaker, actor, and author. His films are characterized by graphic violence, extended dialogue often featuring much profanity, and references to popular culture. His work has earned a cult following alongside critical and commercial success, and he has been named by some as the most influential director of his generation."
+    "Pedro Almodóvar": {
+      "lbxd_slug": "pedro-almodovar",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg/500px-Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Pedro Almodóvar Caballero (Spanish: [ˈpeðɾo almoˈðoβaɾ kaβaˈʎeɾo]; born 25 September 1949) is a Spanish film director, screenwriter and author. His films are distinguished by melodrama, irreverent humour, bold colour, glossy décor, quotations from popular culture, and complex narratives. Desire, LGBTQ issues, passion, family, motherhood, and identity are among Almodóvar's most frequently explored subjects."
     },
-    "Vittorio De Sica": {
-      "lbxd_slug": "vittorio-de-sica-1",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/S_Kragujevic%2C_Vittorio_De_Sica%2C_1959.JPG/500px-S_Kragujevic%2C_Vittorio_De_Sica%2C_1959.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Vittorio De Sica ( də SEE-kə, Italian: [vitˈtɔːrjo de ˈsiːka]; 7 July 1901 – 13 November 1974) was an Italian film director and actor, a leading figure in the neorealist movement. Widely considered one of the most influential filmmakers in the history of cinema, four of the films he directed won Academy Awards: Sciuscià and Bicycle Thieves (honorary), while Yesterday, Today and Tomorrow, and Il giardino dei Finzi Contini won the Academy Award for Best Foreign Language Film. Indeed, the great critical success of Sciuscià (the first foreign film to be so recognized by the Academy of Motion Picture Arts and Sciences) and Bicycle Thieves helped establish the permanent Best Foreign Film Award."
-    },
-    "Ildikó Enyedi": {
-      "lbxd_slug": "ildiko-enyedi",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
-    },
-    "Jane Schoenbrun": {
-      "lbxd_slug": "jane-schoenbrun",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg/500px-JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Jane Flannery Schoenbrun (; born February 5, 1987) is an American filmmaker. They are known for directing the films We're All Going to the World's Fair (2021), I Saw the TV Glow (2024), and Teenage Sex and Death at Camp Miasma (2026)."
+    "Luis Buñuel": {
+      "lbxd_slug": "luis-bunuel",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
+      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
     },
     "Michael Haneke": {
       "lbxd_slug": "michael-haneke",
@@ -7102,20 +6660,20 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Francis_Ford_Coppola_on_December_8%2C_2024_in_the_White_House_Oval_Office_%28cropped%29.jpg",
       "bio": "Francis Ford Coppola ( KOH-pə-lə; born April 7, 1939) is an American filmmaker. One of the leading figures of the New Hollywood, Coppola is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Coppola is the recipient of five Academy Awards, a BAFTA Award, three Golden Globe Awards, and two Palmes d'Or, in addition to nominations for two Emmy Awards and a Grammy Award."
     },
-    "Pedro Almodóvar": {
-      "lbxd_slug": "pedro-almodovar",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg/500px-Pedro_Almod%C3%B3var-69720_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Pedro Almodóvar Caballero (Spanish: [ˈpeðɾo almoˈðoβaɾ kaβaˈʎeɾo]; born 25 September 1949) is a Spanish film director, screenwriter and author. His films are distinguished by melodrama, irreverent humour, bold colour, glossy décor, quotations from popular culture, and complex narratives. Desire, LGBTQ issues, passion, family, motherhood, and identity are among Almodóvar's most frequently explored subjects."
-    },
-    "Luis Buñuel": {
-      "lbxd_slug": "luis-bunuel",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
-      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
+    "Jane Schoenbrun": {
+      "lbxd_slug": "jane-schoenbrun",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg/500px-JaneSchoenbrun-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jane Flannery Schoenbrun (; born February 5, 1987) is an American filmmaker. They are known for directing the films We're All Going to the World's Fair (2021), I Saw the TV Glow (2024), and Teenage Sex and Death at Camp Miasma (2026)."
     },
     "Yuval Abraham, Rachel Szor": {
       "lbxd_slug": "yuval-abraham",
       "photo": null,
       "bio": null
+    },
+    "Ildikó Enyedi": {
+      "lbxd_slug": "ildiko-enyedi",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Ildik%C3%B3_Enyedi_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Ildikó Enyedi (born 15 November 1955) is a Hungarian film director and screenwriter. She is best known for directing On Body and Soul, which won the Golden Bear at the 67th Berlin International Film Festival, among other awards, including a nomination for the Academy Award for Best Foreign Language Film, representing Hungary."
     },
     "John Ford": {
       "lbxd_slug": "john-ford-2",
@@ -7147,15 +6705,15 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Sho_Miyake_at_the_2025_Locarno_Film_Festival_13.jpg/500px-Sho_Miyake_at_the_2025_Locarno_Film_Festival_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Sho Miyake (三宅 唱, Miyake Shō; born 18 July 1984) is a Japanese director. In 2025, he won the Golden Leopard at the Locarno Film Festival for his film Two Seasons, Two Strangers."
     },
-    "David Robert Mitchell": {
-      "lbxd_slug": "david-robert-mitchell",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/David_Robert_Mitchell_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "David Robert Mitchell (born October 19, 1974) is an American filmmaker. He received significant recognition as a director after completing his second feature, the critically acclaimed horror film It Follows (2014)."
-    },
     "Radu Jude": {
       "lbxd_slug": "radu-jude",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Radu_Jude_at_Berlinale_2025-1.jpg/500px-Radu_Jude_at_Berlinale_2025-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Radu Jude (Romanian: [ˈradu ˈʒude]; born 28 March 1977) is a Romanian filmmaker. A figure in the Romanian New Wave, his films usually explore the country society and politics through comedy and satire. He is most known for the comedy film Bad Luck Banging or Loony Porn (2021), which won the Golden Bear at the 71st Berlin International Film Festival."
+    },
+    "David Robert Mitchell": {
+      "lbxd_slug": "david-robert-mitchell",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/David_Robert_Mitchell_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "David Robert Mitchell (born October 19, 1974) is an American filmmaker. He received significant recognition as a director after completing his second feature, the critically acclaimed horror film It Follows (2014)."
     },
     "Javier Calvo, Javier Ambrossi": {
       "lbxd_slug": "javier-ambrossi",
@@ -7167,30 +6725,15 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg/500px-Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Martin Faranan McDonagh (  mək-DON-ə; born 26 March 1970) is a British-born Irish playwright and filmmaker. Known for his absurdist dark humour and provocative style, he has received numerous accolades, including an Academy Award, six BAFTAs, two Golden Globes, and three Laurence Olivier Awards in addition to nominations for five Tony Awards. His plays, many of which have been produced in the West End and on Broadway, include The Beauty Queen of Leenane, The Cripple of Inishmaan (both 1996), The Lonesome West (1997), The Lieutenant of Inishmore (2001), The Pillowman (2003), A Behanding in Spokane (2010), and Hangmen (2015)."
     },
+    "Roy Andersson": {
+      "lbxd_slug": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roy_Andersson_in_Aug_2014-3.jpg/500px-Roy_Andersson_in_Aug_2014-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Roy Arne Lennart Andersson (born 31 March 1943) is a Swedish film director, best known for his distinctive style of absurdist humor and melancholic depictions of human life. His personal style is characterized by long takes, and stiff caricaturing of Swedish culture and grotesque. Over his career Andersson earned prizes from the Cannes Film Festival, Berlin International Film Festival and Venice International Film Festival."
+    },
     "Lance Oppenheim": {
       "lbxd_slug": "lance-oppenheim",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg/500px-Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Lance Oppenheim (born January 26, 1996) is an American director and producer. His work blends nonfiction storytelling with heightened, cinematic formalism. Oppenheim's documentaries include the films Some Kind of Heaven (2020) about The Villages, Florida, Spermworld (2024), about unregulated sperm donation, and You Can See Everything, about Elizabeth Holmes, which he co-directed with Nathan Fielder."
-    },
-    "Roy Andersson": {
-      "lbxd_slug": "roy-andersson",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Roy_Andersson_in_Aug_2014-3.jpg/500px-Roy_Andersson_in_Aug_2014-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Roy Arne Lennart Andersson (born 31 March 1943) is a Swedish film director, best known for his distinctive style of absurdist humor and melancholic depictions of human life. His personal style is characterized by long takes, and stiff caricaturing of Swedish culture and grotesque. Over his career Andersson earned prizes from the Cannes Film Festival, Berlin International Film Festival and Venice International Film Festival."
-    },
-    "Ratchapoom Boonbunchachoke": {
-      "lbxd_slug": "ratchapoom-boonbunchachoke",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/MKr381634_Ratchapoom_Boonbunchachoke_%28A_Useful_Ghost%2C_Cannes_2025%29.jpg/500px-MKr381634_Ratchapoom_Boonbunchachoke_%28A_Useful_Ghost%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Ratchapoom Boonbunchachoke is a Thai film director and screenwriter of Teochew-Hainanese descent, whose debut feature film A Useful Ghost was released in 2025. He also teaches film theory and screenwriting classes in Bangkok. Born and raised in Bangkok, he studied film at Chulalongkorn University."
-    },
-    "Jean Anouilh": {
-      "lbxd_slug": "jean-anouilh",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Anouilh_1940_2b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Jean Marie Lucien Pierre Anouilh (; French: [ʒɑ̃ anuj]; 23 June 1910 – 3 October 1987)  was a French dramatist and screenwriter whose career spanned five decades. Though his work ranged from high drama to absurdist farce, Anouilh is best known for his 1944 production of Sophocles' Antigone, which, though performed without objection by censors, was nevertheless seen as an attack on Marshal Pétain's Vichy government. His plays are less experimental than those of his contemporaries, having clearly organized plot and eloquent dialogue."
-    },
-    "Andrea Arnold": {
-      "lbxd_slug": "andrea-arnold",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Andrea_Arnold_receiving_2024_Carrosse_d%27Or_Award_at_2024_Cannes_Film_Festival_group_%28cropped%29.jpg/500px-Andrea_Arnold_receiving_2024_Carrosse_d%27Or_Award_at_2024_Cannes_Film_Festival_group_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Andrea Patricia Arnold OBE (born 5 April 1961) is an English filmmaker and former actress. She won an Academy Award for her short film Wasp in 2005. Her feature films include Red Road (2006), Fish Tank (2009) and American Honey (2016), all of which have won the Jury Prize at the Cannes Film Festival, while her first documentary feature Cow premiered at the 2021 Cannes Film Festival."
     },
     "Miloš Forman": {
       "lbxd_slug": "milos-forman",
@@ -7231,6 +6774,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "stanley-schtinter",
       "photo": null,
       "bio": null
+    },
+    "Andrea Arnold": {
+      "lbxd_slug": "andrea-arnold",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Andrea_Arnold_receiving_2024_Carrosse_d%27Or_Award_at_2024_Cannes_Film_Festival_group_%28cropped%29.jpg/500px-Andrea_Arnold_receiving_2024_Carrosse_d%27Or_Award_at_2024_Cannes_Film_Festival_group_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Andrea Patricia Arnold OBE (born 5 April 1961) is an English filmmaker and former actress. She won an Academy Award for her short film Wasp in 2005. Her feature films include Red Road (2006), Fish Tank (2009) and American Honey (2016), all of which have won the Jury Prize at the Cannes Film Festival, while her first documentary feature Cow premiered at the 2021 Cannes Film Festival."
     },
     "Adriana Assunção": {
       "lbxd_slug": null,
@@ -7402,11 +6950,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Alejandro González Iñarritu": {
-      "lbxd_slug": "alejandro-g-inarritu",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg/500px-MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Alejandro González Iñárritu (born 15 August 1963) is a Mexican filmmaker. He is primarily known for making modern psychological drama films about the human condition. His most notable films include Amores perros (2000), 21 Grams (2003), Babel (2006), Biutiful (2010), Birdman (2014), The Revenant (2015), and Bardo (2022)."
-    },
     "Basil da Cunha": {
       "lbxd_slug": "basil-da-cunha",
       "photo": null,
@@ -7416,6 +6959,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "francois-truffaut",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg/500px-Fran%C3%A7ois_Truffaut_%281965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "François Roland Truffaut (UK:  TROO-foh, TRUU-, US:  troo-FOH; French: [fʁɑ̃swa ʁɔlɑ̃ tʁyfo]; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic. He is widely regarded as one of the founders of the French New Wave. Truffaut came under the tutelage of film critic Andre Bazin as a young man and was hired to write for Bazin's Cahiers du Cinéma, where he became a proponent of the auteur theory, which posits that a film's director is its true author."
+    },
+    "Alejandro González Iñarritu": {
+      "lbxd_slug": "alejandro-g-inarritu",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg/500px-MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Alejandro González Iñárritu (born 15 August 1963) is a Mexican filmmaker. He is primarily known for making modern psychological drama films about the human condition. His most notable films include Amores perros (2000), 21 Grams (2003), Babel (2006), Biutiful (2010), Birdman (2014), The Revenant (2015), and Bardo (2022)."
     },
     "Muriel d’Ansembourg": {
       "lbxd_slug": "muriel-dansembourg",
@@ -7432,10 +6980,25 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Vittorio De Sica": {
+      "lbxd_slug": "vittorio-de-sica-1",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/S_Kragujevic%2C_Vittorio_De_Sica%2C_1959.JPG/500px-S_Kragujevic%2C_Vittorio_De_Sica%2C_1959.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Vittorio De Sica ( də SEE-kə, Italian: [vitˈtɔːrjo de ˈsiːka]; 7 July 1901 – 13 November 1974) was an Italian film director and actor, a leading figure in the neorealist movement. Widely considered one of the most influential filmmakers in the history of cinema, four of the films he directed won Academy Awards: Sciuscià and Bicycle Thieves (honorary), while Yesterday, Today and Tomorrow, and Il giardino dei Finzi Contini won the Academy Award for Best Foreign Language Film. Indeed, the great critical success of Sciuscià (the first foreign film to be so recognized by the Academy of Motion Picture Arts and Sciences) and Bicycle Thieves helped establish the permanent Best Foreign Film Award."
+    },
     "Justine Triet": {
       "lbxd_slug": "justine-triet",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/AnatomyOfFallPicCent011123_%281_of_8%29_%2853327939769%29_%28cropped%29.jpg/500px-AnatomyOfFallPicCent011123_%281_of_8%29_%2853327939769%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Justine Triet (French: [ʒystin tʁije]; born 17 July 1978) is a French film director, screenwriter, and editor. She has received several awards including an Academy Award, BAFTA Award, a Palme d'Or, three César Awards, and two Golden Globe Awards. Triet started her career making documentary short films surrounding social justice issues and commentary starting with Sur Place (2007) which explored the 2006 youth protests in France."
+    },
+    "Arnold Pasquier": {
+      "lbxd_slug": null,
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Arnold_Pasquier%2C_autoportrait.jpg/500px-Arnold_Pasquier%2C_autoportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "French film director"
+    },
+    "Margarida Gil": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "Maria Margarida Gil Lopes (born 1950) is a Portuguese filmmaker, teacher and artist. She has been president of the Association of Portuguese Directors. She collaborated with and was married to the director, actor and film critic João César Monteiro."
     },
     "James Cameron": {
       "lbxd_slug": "jiahui-wang",

@@ -2617,6 +2617,16 @@
   "Louis e Auguste Lumière, Alice Guy-Blaché, Georges Méliès  e Aurélio Paz dos Reis,": {
     "photo": null,
     "bio": null,
+    "tries": 2
+  },
+  "Arnold Pasquier": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Arnold_Pasquier%2C_autoportrait.jpg/500px-Arnold_Pasquier%2C_autoportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "French film director",
+    "tries": 1
+  },
+  "Margarida Gil": {
+    "photo": null,
+    "bio": "Maria Margarida Gil Lopes (born 1950) is a Portuguese filmmaker, teacher and artist. She has been president of the Association of Portuguese Directors. She collaborated with and was married to the director, actor and film critic João César Monteiro.",
     "tries": 1
   }
 }
