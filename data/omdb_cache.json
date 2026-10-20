@@ -84381,7 +84381,22 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "description": "Documents Harpur College's Afro-Latin Alliance.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Larry Gottheim",
+      "lb_director_slug": "larry-gottheim",
+      "lb_year": 1969,
+      "lb_title": "ALA",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "944679"
+    },
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84418,7 +84433,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "537225"
+    "tmdb_id": "944679"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {
@@ -84930,12 +84945,93 @@
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills_focus": [
-      36.3
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
-    ],
-    "tmdb_id": "224264"
+    "stills": null,
+    "tmdb_id": "1361916"
+  },
+  "About Space and Depth|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/2/3/9/7/1652397-about-space-and-depth-0-500-0-750-crop.jpg?v=9325aa528e",
+      "description": "An intimate and ongoing dialogue between filmmaker Paula Gaitán and Ken Jacobs. Filmed over the last decade in New York, the documentary reveals Jacobs' thinking and presents previously unseen footage of Ken and his partner in life and art, Flo Jacobs.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Paula Gaitán",
+      "lb_director_slug": "paula-gaitan",
+      "lb_year": 2026,
+      "lb_title": "About Space and Depth",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1796047"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1796047"
+  },
+  "3- A DESCONHECIDA|2008": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/8/0/5/9/308059-sappers-0-500-0-750-crop.jpg?v=c1666d19fa",
+      "description": null,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "Russia",
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2007,
+      "lb_title": "Sappers",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "372434"
+    },
+    "omdb": {
+      "Title": "Toy Story 3",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "18 Jun 2010",
+      "Runtime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Lee Unkrich",
+      "Writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
+      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
+      "Plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan",
+      "Awards": "Won 2 Oscars. 64 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.3",
+      "imdbVotes": "992,912",
+      "imdbID": "tt0435761",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,004,880",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "372434"
   }
 }
