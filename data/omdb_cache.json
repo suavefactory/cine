@@ -82891,12 +82891,28 @@
     "tmdb_id": "260941"
   },
   "Visitas de Uma Parente Afastada|None": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/6/9/8/1/1656981-visitas-de-uma-parente-afastada-0-500-0-750-crop.jpg?v=63d4782c80",
+      "description": "Over the course of seven years, Mariana Viegas photographed the sets of some of the last productions shot on 35mm. Today, she returns to the perspective she had as a young woman, back when she worked with directors such as Šarūnas Bartas, Pedro Costa, João César Monteiro and Manoel de Oliveira. Joined by a few guests, she will take us on a journey through a surprising archive, in an encounter between photography and cinema, creation and life.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": 2026,
+      "lb_title": "Visitas de Uma Parente Afastada",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1802128"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1802128"
   },
   "Hipogeus + A casa é a ruína de uma casa|None": {
     "lbxd": null,
@@ -84893,65 +84909,33 @@
     "stills": null,
     "tmdb_id": "1796586"
   },
-  "3- A DESCONHECIDA|None": {
+  "Smarty|2026": {
     "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/6/8/9/1250689-3-0-500-0-750-crop.jpg?v=3209bd950e",
-      "description": null,
-      "genres": null,
-      "country": null,
-      "lb_director": "Shūji Kataoka",
-      "lb_director_slug": "shuji-kataoka",
-      "lb_year": 2008,
-      "lb_title": "高レート裏麻雀列伝 むこうぶち3 裏プロ",
-      "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "1361916"
-    },
-    "omdb": {
-      "Title": "Toy Story 3",
-      "Year": "2010",
-      "Rated": "G",
-      "Released": "18 Jun 2010",
-      "Runtime": "103 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "Lee Unkrich",
-      "Writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
-      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
-      "Plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
-      "Language": "English, Spanish",
-      "Country": "United States, Japan",
-      "Awards": "Won 2 Oscars. 64 wins & 96 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "92/100"
-        }
+      "rating": 3.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/2/4/3/158243-smarty-0-500-0-750-crop.jpg?v=bc0afdd90b",
+      "description": "Vicki Wallace takes great pleasure in teasing her husband Tony who takes no pleasure at all in being teased and it isn't long before he ups and clips her on the chin. Vicki's friend and attorney Vernon Thorpe secures a divorce for her, and Vicki and Vernon are soon married. Vicki's yen for wearing revealing clothes and a penchant for inviting ex-husband to dinner soon provokes the easily-provoked Vernon into belting one on her himself. She goes to Tony's apartment, where Tony is entertaining Bonnie, who is not all that entertained by the presence of Vicki, especially after Vicki shows every intent of moving in and staying.",
+      "genres": [
+        "Comedy"
       ],
-      "Metascore": "92",
-      "imdbRating": "8.3",
-      "imdbVotes": "992,912",
-      "imdbID": "tt0435761",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$415,004,880",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
+      "country": "USA",
+      "lb_director": "Robert Florey",
+      "lb_director_slug": "robert-florey",
+      "lb_year": 1934,
+      "lb_title": "Smarty",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a",
+      "imdb_id": "tt0025803",
+      "tmdb_id": "224264"
     },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "1361916"
+    "stills_focus": [
+      36.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
+    ],
+    "tmdb_id": "224264"
   }
 }

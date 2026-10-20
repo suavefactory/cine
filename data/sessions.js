@@ -597,6 +597,44 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "john-torres"
     },
     {
+      "id": "sao_jorge_12072",
+      "title": "Visitas de Uma Parente Afastada",
+      "director": null,
+      "duration": 62,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/6/9/8/1/1656981-visitas-de-uma-parente-afastada-0-500-0-750-crop.jpg?v=63d4782c80",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/visitas-de-uma-parente-afastada/",
+      "sessions": [
+        {
+          "date": "2026-10-19",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "Over the course of seven years, Mariana Viegas photographed the sets of some of the last productions shot on 35mm. Today, she returns to the perspective she had as a young woman, back when she worked with directors such as Šarūnas Bartas, Pedro Costa, João César Monteiro and Manoel de Oliveira. Joined by a few guests, she will take us on a journey through a surprising archive, in an encounter between photography and cinema, creation and life."
+    },
+    {
+      "id": "sao_jorge_12070",
+      "title": "Hipogeus + A casa é a ruína de uma casa",
+      "director": null,
+      "duration": 70,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/HPG_STILL_03.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/hipogeus-a-casa-e-a-ruina-de-uma-casa/",
+      "sessions": [
+        {
+          "date": "2026-10-19",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
       "id": "sao_jorge_12068",
       "title": "Saturn or a Brief Treatise on Melancholy",
       "director": null,
@@ -617,6 +655,28 @@ window.CINEMA_DATA = {
       "year": 2026,
       "plot": "In Lagunas del Rosario, in the arid lands of Mendoza, Rubén Díaz—artisan, Malvinas War veteran, and healer known as Caballo Loco (Crazy Horse)—each winter solstice summons a secret ceremony exclusively for initiates. During a night-long vigil, pilgrims from distant places gather in search of relief from illness, grief, and pain. Surrounded by bonfires, prayers, and ancestral stories, the community attempts to conjure away the afflictions of a territory ravaged by drought and the vanishing of its waters.",
       "director_lbxd_slug": "mariano-donoso"
+    },
+    {
+      "id": "sao_jorge_12065",
+      "title": "Smarty",
+      "director": "Robert Florey",
+      "duration": 82,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/8/2/4/3/158243-smarty-0-500-0-750-crop.jpg?v=bc0afdd90b",
+      "genres": [
+        "Comedy"
+      ],
+      "year": 1934,
+      "plot": "Vicki Wallace takes great pleasure in teasing her husband Tony who takes no pleasure at all in being teased and it isn't long before he ups and clips her on the chin. Vicki's friend and attorney Vernon Thorpe secures a divorce for her, and Vicki and Vernon are soon married. Vicki's yen for wearing revealing clothes and a penchant for inviting ex-husband to dinner soon provokes the easily-provoked Vernon into belting one on her himself. She goes to Tony's apartment, where Tony is entertaining Bonnie, who is not all that entertained by the presence of Vicki, especially after Vicki shows every intent of moving in and staying.",
+      "director_lbxd_slug": "mariano-donoso",
+      "rating": 3.14,
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/xo/8e/yv/7v/smarty-1920-1920-1080-1080-crop-000000.jpg?v=f2f605023a"
+      ],
+      "stills_focus": [
+        36.3
+      ],
+      "country": "USA"
     },
     {
       "id": "sao_jorge_12063",
@@ -6275,6 +6335,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "john-torres",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jt_hshot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "John Torres is an American songwriter and recording artist from Los Angeles."
+    },
+    "Robert Florey": {
+      "lbxd_slug": "mariano-donoso",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Robert_Florey_%281900%E2%80%931979%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Robert Florey (September 14, 1900 – May 16, 1979) was a French-American director, screenwriter, film journalist and actor. Florey directed more than 50 films, the majority of them during the 1930s, with the best known likely being the Marx Brothers first feature The Cocoanuts (1929). His 1932 foray into Universal-style horror, Murders in the Rue Morgue, is regarded by horror fans as highly reflective of German expressionism."
     },
     "Adrian Sibley": {
       "lbxd_slug": null,
