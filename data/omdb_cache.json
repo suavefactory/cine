@@ -81897,12 +81897,26 @@
     "stills": null
   },
   "About Space and Depth|None": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/2/3/9/7/1652397-about-space-and-depth-0-500-0-750-crop.jpg?v=9325aa528e",
+      "description": "An intimate and ongoing dialogue between filmmaker Paula Gaitán and Ken Jacobs. Filmed over the last decade in New York, the documentary reveals Jacobs' thinking and presents previously unseen footage of Ken and his partner in life and art, Flo Jacobs.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Paula Gaitán",
+      "lb_director_slug": "paula-gaitan",
+      "lb_year": 2026,
+      "lb_title": "About Space and Depth",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1796047"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1796047"
   },
   "Esta Vida de Marinheiro|None": {
     "lbxd": null,
@@ -84878,5 +84892,66 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1796586"
+  },
+  "3- A DESCONHECIDA|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/6/8/9/1250689-3-0-500-0-750-crop.jpg?v=3209bd950e",
+      "description": null,
+      "genres": null,
+      "country": null,
+      "lb_director": "Shūji Kataoka",
+      "lb_director_slug": "shuji-kataoka",
+      "lb_year": 2008,
+      "lb_title": "高レート裏麻雀列伝 むこうぶち3 裏プロ",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1361916"
+    },
+    "omdb": {
+      "Title": "Toy Story 3",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "18 Jun 2010",
+      "Runtime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Lee Unkrich",
+      "Writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
+      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
+      "Plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan",
+      "Awards": "Won 2 Oscars. 64 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.3",
+      "imdbVotes": "992,912",
+      "imdbID": "tt0435761",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,004,880",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1361916"
   }
 }
