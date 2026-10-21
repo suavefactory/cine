@@ -81979,12 +81979,26 @@
     "tmdb_id": "1743597"
   },
   "Memórias de Uma Viagem pelo Alto Rio Negro|None": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/5/9/7/0/1655970-memories-of-a-journey-through-alto-rio-negro-0-500-0-750-crop.jpg?v=57189c4b98",
+      "description": "Navigating the Negro, Tiquié, and Uaupés rivers, elders of the Ye’pã Mahsã people travel through places where ancestral histories endure. The film forms a sensory diary of a living territory, shaped by the presence of its inhabitants and the abundance of the rainforest.",
+      "genres": null,
+      "country": null,
+      "lb_director": null,
+      "lb_director_slug": null,
+      "lb_year": null,
+      "lb_title": null,
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1801057"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1801057"
   },
   "Kate Bush – The Timeless Genius|None": {
     "lbxd": null,
@@ -85033,5 +85047,206 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "372434"
+  },
+  "You Can See Everything|2026": {
+    "lbxd": {
+      "rating": 4.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-500-0-750-crop.jpg?v=84f6724d74",
+      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Nathan Fielder",
+      "lb_director_slug": "nathan-fielder",
+      "lb_year": 2026,
+      "lb_title": "You Can See Everything",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10",
+      "imdb_id": "tt45368240",
+      "tmdb_id": "1765072"
+    },
+    "omdb": {
+      "Title": "You Can See Everything",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "16 Oct 2026",
+      "Runtime": "174 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nathan Fielder, Lance Oppenheim",
+      "Writer": "N/A",
+      "Actors": "Billy Evans, Nathan Fielder, Elizabeth Holmes",
+      "Plot": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "7.9",
+      "imdbVotes": "165",
+      "imdbID": "tt45368240",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "country": "tados Unidos",
+      "plot_pt": "Elizabeth Holmes, fundadora da Theranos condenada a mais de 11 anos de prisão por fraude, convidou uma equipa de filmagem a acompanhá-la nos 34 dias antes de se entregar às autoridades. O que começou como um retrato íntimo transformou-se numa odisseia de três anos sobre verdade, identidade, representação e controlo."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10"
+    ],
+    "tmdb_id": "1765072"
+  },
+  "Trainspotting – 30º Aniversário|1996": {
+    "lbxd": {
+      "rating": 4.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/7/51497-trainspotting-0-500-0-750-crop.jpg?v=c8597f6cb5",
+      "description": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Danny Boyle",
+      "lb_director_slug": "danny-boyle",
+      "lb_year": 1996,
+      "lb_title": "Trainspotting",
+      "backdrop": null,
+      "imdb_id": "tt0117951",
+      "tmdb_id": "627"
+    },
+    "omdb": {
+      "Title": "Trainspotting",
+      "Year": "1996",
+      "Rated": "R",
+      "Released": "09 Aug 1996",
+      "Runtime": "93 min",
+      "Genre": "Crime, Drama",
+      "Director": "Danny Boyle",
+      "Writer": "Irvine Welsh, John Hodge",
+      "Actors": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+      "Plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "8.1",
+      "imdbVotes": "775,940",
+      "imdbID": "tt0117951",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$16,892,333",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1996,
+      "original_title": "Trainspotting",
+      "plot_pt": "Mark, viciado em heroína, envolve-se em más ideias e tentativas de sobriedade com os seus amigos pouco fiáveis: Sick Boy, Begbie, Spud e Tommy. Depois de se livrar do vício e de se mudar para Londres, Mark descobre que não consegue escapar à vida que deixou para trás quando Begbie aparece à sua porta, seguido pelo ardiloso Sick Boy."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "627"
+  },
+  "3- A DESCONHECIDA|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/6/8/9/1250689-3-0-500-0-750-crop.jpg?v=3209bd950e",
+      "description": null,
+      "genres": null,
+      "country": null,
+      "lb_director": "Shūji Kataoka",
+      "lb_director_slug": "shuji-kataoka",
+      "lb_year": 2008,
+      "lb_title": "高レート裏麻雀列伝 むこうぶち3 裏プロ",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1361916"
+    },
+    "omdb": {
+      "Title": "Toy Story 3",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "18 Jun 2010",
+      "Runtime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Lee Unkrich",
+      "Writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
+      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
+      "Plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan",
+      "Awards": "Won 2 Oscars. 64 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.3",
+      "imdbVotes": "992,912",
+      "imdbID": "tt0435761",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,004,880",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1361916"
   }
 }
