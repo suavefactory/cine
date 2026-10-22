@@ -2637,7 +2637,7 @@
   "Nathan Fielder, Lance Oppenheim": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Danny Boyle": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2026_Toronto_International_Film_Festival_-_Ink_03.jpg/500px-2026_Toronto_International_Film_Festival_-_Ink_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2648,5 +2648,25 @@
     "photo": null,
     "bio": null,
     "tries": 2
+  },
+  "Xavier Dolan": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Xavier_Dolan_Cannes_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Xavier Dolan-Tadros  (French: [ɡzavje dɔlan tadʁɔs]; born 20 March 1989) is a Canadian filmmaker and actor. He began his career as a child actor in commercials before directing several arthouse feature films. He first received international acclaim in 2009 for his feature film directorial debut, I Killed My Mother (J'ai tué ma mère), which he also starred in, wrote, and produced, and which premiered at the 62nd Cannes Film Festival in the Directors' Fortnight section and won three awards from the program.",
+    "tries": 1
+  },
+  "Patricio Guzmán": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patricio_Guzman_cortado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Patricio Guzmán Lozanes (August 11, 1941 – September 15, 2026) was a Chilean documentary and feature film director, and screenwriter. He is most known for his film trilogy The Battle of Chile (1975–1979) and more recently for another trilogy; Nostalgia for the Light (2010), The Pearl Button (2015) and The Cordillera of Dreams (2019).",
+    "tries": 1
+  },
+  "Karim Debbagh": {
+    "photo": null,
+    "bio": "Karim Debbagh (born January 25, 1972, in Tangier) is a Moroccan film producer.",
+    "tries": 1
+  },
+  "Cláudia Ribeiro": {
+    "photo": null,
+    "bio": "football referee",
+    "tries": 1
   }
 }

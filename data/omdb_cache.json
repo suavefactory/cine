@@ -34182,8 +34182,77 @@
     "tmdb_id": "88875"
   },
   "A Doce Vida|1960": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/5/6/51656-la-dolce-vita-0-500-0-750-crop.jpg?v=8fd824d49b",
+      "description": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Italy",
+      "lb_director": "Federico Fellini",
+      "lb_director_slug": "federico-fellini",
+      "lb_year": 1960,
+      "lb_title": "La Dolce Vita",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/y4/rq/7g/yq/d052qjuAub1AM0JIMmQI7enqEl0-1920-1920-1080-1080-crop-000000.jpg?v=83ea3aafab",
+      "imdb_id": "tt0053779",
+      "tmdb_id": "439"
+    },
+    "omdb": {
+      "Title": "La Dolce Vita",
+      "Year": "1961",
+      "Rated": "TV-14",
+      "Released": "19 Apr 1961",
+      "Runtime": "174 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Federico Fellini",
+      "Writer": "Federico Fellini, Ennio Flaiano, Tullio Pinelli",
+      "Actors": "Marcello Mastroianni, Anita Ekberg, Anouk Aimée",
+      "Plot": "A series of stories following a week in the life of a philandering tabloid journalist living in Rome.",
+      "Language": "Italian, English, French, German",
+      "Country": "Italy, France",
+      "Awards": "Won 1 Oscar. 11 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMjQ4NzU5N15BMl5BanBnXkFtZTgwMTkwODkzMTE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.0",
+      "imdbVotes": "86,757",
+      "imdbID": "tt0053779",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1960,
+      "original_title": "La Dolce Vita",
+      "plot_pt": "Sendo o maior sucesso do cineasta italiano mais popular de todos os tempos, La Dolce Vita representa um olhar à cultura do estrelato, com um protagonista no encalço do sedutor estilo de vida das ricas e glamorosas celebridades que, em pleno era da sociedade do espetáculo, se exibem em Roma. O mirone desse espetáculo mundano chama-se Marcello Rubini (Marcello Mastroianni) e, na qualidade de jornalista de mexericos, explora as periferias dos holofotes."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/y4/rq/7g/yq/d052qjuAub1AM0JIMmQI7enqEl0-1920-1920-1080-1080-crop-000000.jpg?v=83ea3aafab"
+    ],
+    "tmdb_id": "439"
   },
   "2001 – Odisseia no Espaço|1968": {
     "lbxd": {
@@ -80966,7 +81035,33 @@
   },
   "DOC FIVE EYES|None": {
     "lbxd": null,
-    "omdb": null,
+    "omdb": {
+      "Title": "Five Eyes",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "30 Nov 2025",
+      "Runtime": "75 min",
+      "Genre": "Documentary",
+      "Director": "Karim Debbagh",
+      "Writer": "N/A",
+      "Actors": "Mohammed Choukri, Karim Debbagh, Mohammed Mrabet",
+      "Plot": "LOGLINE A journey into Tangier's unique time, where Paul Bowles is seen through the Moroccans he lived with.",
+      "Language": "N/A",
+      "Country": "Morocco",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4MDgzZmItZjdlYy00MTNmLWEwZTYtY2Y0MzkwNzJjNzI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38942070",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -85186,20 +85281,59 @@
       "description": null,
       "genres": null,
       "country": null,
-      "lb_director": null,
-      "lb_director_slug": null,
-      "lb_year": 2026,
-      "lb_title": "Visitas de Uma Parente Afastada",
+      "lb_director": "Shūji Kataoka",
+      "lb_director_slug": "shuji-kataoka",
+      "lb_year": 2008,
+      "lb_title": "高レート裏麻雀列伝 むこうぶち3 裏プロ",
       "backdrop": null,
       "imdb_id": null,
-      "tmdb_id": "1802128"
+      "tmdb_id": "1361916"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Toy Story 3",
+      "Year": "2010",
+      "Rated": "G",
+      "Released": "18 Jun 2010",
+      "Runtime": "103 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Lee Unkrich",
+      "Writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
+      "Actors": "Tom Hanks, Tim Allen, Joan Cusack",
+      "Plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+      "Language": "English, Spanish",
+      "Country": "United States, Japan",
+      "Awards": "Won 2 Oscars. 64 wins & 96 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.3",
+      "imdbVotes": "992,912",
+      "imdbID": "tt0435761",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$415,004,880",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1802128"
+    "tmdb_id": "1361916"
   },
   "3- A DESCONHECIDA|2007": {
     "lbxd": {
@@ -85225,5 +85359,437 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "372434"
+  },
+  "Amores Imaginários|2010": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/4/2/14542-heartbeats-0-500-0-750-crop.jpg?v=2acdb8eaf7",
+      "description": "Francis is a young gay man, Marie is a young straight woman and the two of them are best friends -- until the day the gorgeous Nicolas walks into a Montreal coffee shop. The two friends, instantly and equally infatuated, compete for Nicolas' indeterminate affections, a conflict that climaxes when the trio visit the vacation home of Nicolas' mother. The frothy comedy unfolds through narrative, fantasy sequences and confessional monologues.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Canada",
+      "lb_director": "Xavier Dolan",
+      "lb_director_slug": "xavier-dolan",
+      "lb_year": 2010,
+      "lb_title": "Heartbeats",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/z9/d8/xx/im/heartbeats-1920-1920-1080-1080-crop-000000.jpg?v=360434c07a",
+      "imdb_id": "tt1600524",
+      "tmdb_id": "51241"
+    },
+    "omdb": {
+      "Title": "Heartbeats",
+      "Year": "2010",
+      "Rated": "Not Rated",
+      "Released": "29 Sep 2010",
+      "Runtime": "101 min",
+      "Genre": "Drama, Romance",
+      "Director": "Xavier Dolan",
+      "Writer": "Xavier Dolan",
+      "Actors": "Xavier Dolan, Monia Chokri, Niels Schneider",
+      "Plot": "The story of three close friends who are involved in a love-triangle.",
+      "Language": "French, English",
+      "Country": "Canada",
+      "Awards": "6 wins & 15 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE5OWY1NzQtZjRhMi00ZTdjLWExMDYtNzM3OWYyYmY1MWMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "7.0",
+      "imdbVotes": "30,588",
+      "imdbID": "tt1600524",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$68,723",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2010,
+      "original_title": "Heartbeats",
+      "plot_pt": "apaixonam. Com o mesmo objecto de desejo, cada um inicia um percurso individual de paixão, ciúme e fantasia. Porém, quanto mais a relação de cada um deles com Nicolas evolui, mais a amizade entre os dois se fragiliza."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      39.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/z9/d8/xx/im/heartbeats-1920-1920-1080-1080-crop-000000.jpg?v=360434c07a"
+    ],
+    "tmdb_id": "51241"
+  },
+  "Na Cama Com Victoria|2016": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/2/5/1/2/312512-in-bed-with-victoria-0-500-0-750-crop.jpg?v=411fd5ffda",
+      "description": "Victoria is a thirty-something divorced lawyer who's struggling to raise her two daughters. She is canny and cynical but on the verge of an emotional breakdown. At a friend's wedding she reconnects with Vincent, an old friend, and Sam, an old client. Her life is about to take a new turn.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Justine Triet",
+      "lb_director_slug": "justine-triet",
+      "lb_year": 2016,
+      "lb_title": "In Bed with Victoria",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/et/rq/j1/0u/in-bed-with-victoria-1920-1920-1080-1080-crop-000000.jpg?v=3ccb418960",
+      "imdb_id": "tt5078214",
+      "tmdb_id": "377275"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2016,
+      "original_title": "Victoria",
+      "plot_pt": "Victoria, uma advogada criminal num completo vazio sentimental, reencontra o seu amigo Vincent e Sam, um ex-traficante que ela defendeu. Quando Vincent é acusado de tentativa de homicídio, Victoria aceita defendê-lo. Também contrata Sam como babá. Este é apenas o início de tempos difíceis para Victoria."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/et/rq/j1/0u/in-bed-with-victoria-1920-1920-1080-1080-crop-000000.jpg?v=3ccb418960"
+    ],
+    "tmdb_id": "377275"
+  },
+  "Sibyl|2019": {
+    "lbxd": {
+      "rating": 3.33,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/2/5/488325-sibyl-0-500-0-750-crop.jpg?v=f472347cbf",
+      "description": "Sibyl, a jaded psychotherapist, returns to her first passion: writing. But her newest patient Margot, a troubled up-and-coming actress, proves to be a source of inspiration that is far too tempting. Fascinated almost to the point of obsession, Sibyl becomes more and more involved in Margot’s tumultuous life, reviving volatile memories that bring her face to face with her past.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Justine Triet",
+      "lb_director_slug": "justine-triet",
+      "lb_year": 2019,
+      "lb_title": "Sibyl",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/yi/rt/a1/ia/sybil-1920-1920-1080-1080-crop-000000.jpg?v=1d7667983a",
+      "imdb_id": "tt9173264",
+      "tmdb_id": "559401"
+    },
+    "omdb": {
+      "Title": "Sibyl",
+      "Year": "2020",
+      "Rated": "Not Rated",
+      "Released": "11 Sep 2020",
+      "Runtime": "101 min",
+      "Genre": "Drama",
+      "Director": "Justine Triet",
+      "Writer": "Arthur Harari, David H. Pickering, Justine Triet",
+      "Actors": "Virginie Efira, Adèle Exarchopoulos, Gaspard Ulliel",
+      "Plot": "A jaded psychotherapist returns to her first passion of becoming a writer. However, her life is complicated by a desperate film actress who wants her help, and who draws her into a world of questionable ethics.",
+      "Language": "French, English, Italian",
+      "Country": "France, Belgium",
+      "Awards": "2 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFlYmMyYTgtMDI4Ny00OWFjLWEyOWUtMWY2Y2Y4Y2VmZjM2XkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "56%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "6.0",
+      "imdbVotes": "6,674",
+      "imdbID": "tt9173264",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2019,
+      "country": "França e Bélgica",
+      "plot_pt": "Sibyl é uma psicanalista que decide largar a maioria dos seus pacientes quando é tomada pelo desejo de escrever, procurando inspiração em Margot, uma jovem atriz que lhe suplica que a receba. Em pleno período de filmagens, Margot engravidou do ator principal que mantém uma relação com a realizadora do filme. Enquanto Margot lhe vai contando o seu dilema passional, Sibyl, fascinada, vai gravando secretamente as sessões. A narrativa da paciente alimenta-lhe a ideia para o livro, mergulhando-a ao mesmo tempo no turbilhão do seu passado."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/yi/rt/a1/ia/sybil-1920-1920-1080-1080-crop-000000.jpg?v=1d7667983a"
+    ],
+    "tmdb_id": "559401"
+  },
+  "Nostalgia Da Luz|2010": {
+    "lbxd": {
+      "rating": 4.03,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/7/7/2/56772-nostalgia-for-the-light-0-500-0-750-crop.jpg?v=34ac44b6c9",
+      "description": "In Chile's Atacama Desert, astronomers peer deep into the cosmos in search for answers concerning the origins of life. Nearby, a group of women sift through the sand searching for body parts of loved ones, dumped unceremoniously by Pinochet's regime.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2010,
+      "lb_title": "Nostalgia for the Light",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/dc/d4/g1/2j/nostalgiaforhtelight-1920-1920-1080-1080-crop-000000.jpg?v=db68a4f3bd",
+      "imdb_id": "tt1556190",
+      "tmdb_id": "72721"
+    },
+    "omdb": {
+      "Title": "Nostalgia for the Light",
+      "Year": "2010",
+      "Rated": "Not Rated",
+      "Released": "17 Mar 2011",
+      "Runtime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Patricio Guzmán",
+      "Writer": "Patricio Guzmán",
+      "Actors": "Gaspar Galaz, Lautaro Núñez, Luís Henríquez",
+      "Plot": "A documentary about two different searches conducted in the Chilean Atacama Desert: one by astronomers looking for answers about the history of the cosmos, and one by women looking for the remains of loved ones killed by Pinochet'...",
+      "Language": "Spanish, English",
+      "Country": "France, Germany, Chile, Spain",
+      "Awards": "13 wins & 20 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGFlNzI4YzktOWVkMi00ZDFlLWE1YjQtZDk3MWQwOWVjN2ViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "Metascore": "91",
+      "imdbRating": "7.6",
+      "imdbVotes": "6,254",
+      "imdbID": "tt1556190",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$163,962",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2010,
+      "original_title": "Nostalgia de la luz",
+      "country": "França, Espanha, Chile e Suíça",
+      "plot_pt": "O céu do deserto do Atacama é tão límpido que os cientistas conseguem ver o universo. É também um local onde o calor preserva os restos mortais humanos. Enquanto os astrónomos se reúnem em busca de vida extraterrestre, um grupo de mulheres também se reúne para escavar em busca dos seus familiares desaparecidos durante a ditadura no Chile."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      43.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/dc/d4/g1/2j/nostalgiaforhtelight-1920-1920-1080-1080-crop-000000.jpg?v=db68a4f3bd"
+    ],
+    "tmdb_id": "72721"
+  },
+  "O Botão De Nácar|2015": {
+    "lbxd": {
+      "rating": 3.9,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/4/7/1/1/0/247110-the-pearl-button-0-500-0-750-crop.jpg?v=45d98ab464",
+      "description": "The ocean contains the history of all humanity. The sea holds all the voices of the earth and those that come from outer space. Water receives impetus from the stars and transmits it to living creatures. Water, the longest border in Chile, also holds the secret of two mysterious buttons which were found on its ocean floor. Chile, with its 2,670 miles of coastline and the largest archipelago in the world, presents a supernatural landscape. In it are volcanoes, mountains and glaciers. In it are the voices of the Patagonian Indigenous people, the first English sailors and also those of its political prisoners. Some say that water has memory. This film shows that it also has a voice.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2015,
+      "lb_title": "The Pearl Button",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/mf/lc/4j/kb/pearl%20button-1920-1920-1080-1080-crop-000000.jpg?v=f4831112b7",
+      "imdb_id": "tt4377864",
+      "tmdb_id": "319994"
+    },
+    "omdb": {
+      "Title": "The Pearl Button",
+      "Year": "2015",
+      "Rated": "Not Rated",
+      "Released": "15 Oct 2015",
+      "Runtime": "82 min",
+      "Genre": "Documentary",
+      "Director": "Patricio Guzmán",
+      "Writer": "Patricio Guzmán",
+      "Actors": "Martín Calderón, Cristina, Patricio Guzmán",
+      "Plot": "Delving into the nearly-religious significance of water, this profound rumination on memory and loss bridges the gap between its mystical origins, Pinochet's coup d'état, and the secret of a mother-of-pearl button at the bottom of...",
+      "Language": "Spanish",
+      "Country": "France, Spain, Chile, Switzerland",
+      "Awards": "11 wins & 11 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MjIxMjA0N15BMl5BanBnXkFtZTgwMDI5NjQwNzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.6",
+      "imdbVotes": "2,954",
+      "imdbID": "tt4377864",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$42,166",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2015,
+      "original_title": "El Botón De Nácar",
+      "country": "França, Espanha, Chile e Suíça",
+      "plot_pt": "O Chile, com os seus 4.300 quilómetros de costa, o maior arquipélago do mundo, apresenta uma paisagem sobrenatural. Nela encontram-se vulcões, montanhas e glaciares, bem como a voz dos povos indígenas da Patagónia. Há quem diga que a água tem memória, mas também tem voz."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      44.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/mf/lc/4j/kb/pearl%20button-1920-1920-1080-1080-crop-000000.jpg?v=f4831112b7"
+    ],
+    "tmdb_id": "319994"
+  },
+  "A Cordilheira Dos Sonhos|2019": {
+    "lbxd": {
+      "rating": 3.77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/8/2/5/510825-the-cordillera-of-dreams-0-500-0-750-crop.jpg?v=5b6d731d16",
+      "description": "\"In Chile, when the sun rises, it had to climb hills, walls and tops before reaching the last stone of the Cordillera. In my country, the Cordillera is everywhere. But for the Chilean citizens, it is an unknown territory. After going North for Nostalgia for the Light and South for The Pearl Button, I now feel ready to shoot this immense spine to explore its mysteries, powerful revelations of Chile’s past and present history.\" Patricio Guzmán",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2019,
+      "lb_title": "The Cordillera of Dreams",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/nj/oc/63/nc/dreams%20bd-1920-1920-1080-1080-crop-000000.jpg?v=506b3dfb99",
+      "imdb_id": "tt9567718",
+      "tmdb_id": "582944"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2019,
+      "original_title": "La Cordillère Des Songes",
+      "country": "Chile e França",
+      "plot_pt": "No Chile, ao nascer do sol, precisa de escalar colinas, paredões e cumes antes de chegar à última pedra da Cordilheira. No meu país, a Cordilheira está por todo o lado. Mas, para os chilenos, é um território desconhecido."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      21.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/nj/oc/63/nc/dreams%20bd-1920-1920-1080-1080-crop-000000.jpg?v=506b3dfb99"
+    ],
+    "tmdb_id": "582944"
+  },
+  "You Can See Everything|2026": {
+    "lbxd": {
+      "rating": 4.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-500-0-750-crop.jpg?v=84f6724d74",
+      "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Nathan Fielder",
+      "lb_director_slug": "nathan-fielder",
+      "lb_year": 2026,
+      "lb_title": "You Can See Everything",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10",
+      "imdb_id": "tt45368240",
+      "tmdb_id": "1765072"
+    },
+    "omdb": {
+      "Title": "You Can See Everything",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "16 Oct 2026",
+      "Runtime": "174 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nathan Fielder, Lance Oppenheim",
+      "Writer": "N/A",
+      "Actors": "Billy Evans, Nathan Fielder, Elizabeth Holmes",
+      "Plot": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "7.9",
+      "imdbVotes": "165",
+      "imdbID": "tt45368240",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "country": "tados Unidos",
+      "plot_pt": "Elizabeth Holmes, fundadora da Theranos condenada a mais de 11 anos de prisão por fraude, convidou uma equipa de filmagem a acompanhá-la nos 34 dias antes de se entregar às autoridades. O que começou como um retrato íntimo transformou-se numa odisseia de três anos sobre verdade, identidade, representação e controlo."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10"
+    ],
+    "tmdb_id": "1765072"
   }
 }
