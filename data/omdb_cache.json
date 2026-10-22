@@ -34239,7 +34239,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "La Dolce Vita",
+      "imdb_id": "tt0053779",
+      "extract_pt": "La dolce vita (bra/prt: A Doce Vida) (AFI: /ˈla ˈdol.tʃe ˈviː.ta/) é um filme franco-italiano de 1960, de gênero drama dirigido pelo cineasta Federico Fellini, sendo normalmente citado como o marco da transição de seus estilos, do neorrealismo para o simbolismo, e um dos filmes mais importantes da década de 1960 e do século XX. Uma das características capitais da obra é a imagem em preto-e-branco, e as sequências noturnas realçando um laço com o cinema noir e com o expressionismo alemão, apresentando um cenário festivo, e em algumas vezes com altos contrastes de luz e sombra.\nÉ considerado uma das obras-primas de Federico Fellini, juntamente com 8½ e Amarcord. O filme é uma crítica aberta à sociedade romana do pós-guerra, retratando uma instituição decadente e hedonista, marcada pela superficialidade e incomunicabilidade, temas desenvolvidos ao longo do filme.\nFoi considerado um dos 1000 melhores filmes de todos os tempos pelo The New York Times."
+    },
     "cinema": {
       "year": 1960,
       "original_title": "La Dolce Vita",
@@ -34252,7 +34256,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/y4/rq/7g/yq/d052qjuAub1AM0JIMmQI7enqEl0-1920-1920-1080-1080-crop-000000.jpg?v=83ea3aafab"
     ],
-    "tmdb_id": "439"
+    "tmdb_id": "439",
+    "wiki_tries": 1
   },
   "2001 – Odisseia no Espaço|1968": {
     "lbxd": {
@@ -84490,7 +84495,22 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "description": "Documents Harpur College's Afro-Latin Alliance.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Larry Gottheim",
+      "lb_director_slug": "larry-gottheim",
+      "lb_year": 1969,
+      "lb_title": "ALA",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "944679"
+    },
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84527,7 +84547,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "537225"
+    "tmdb_id": "944679"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {
@@ -85418,7 +85438,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Heartbeats (2010 film)",
+      "imdb_id": "tt1600524",
+      "extract_pt": "Les Amours Imaginaires (Brasil/Portugal: Amores Imaginários) é um filme canadense do diretor Xavier Dolan, lançado em 2010. Trata-se de uma história de três amigos (Francis, Marie e Nicolas) envolvidos em um triângulo amoroso. O diretor também atua no filme no papel de Francis, e fazem parte do elenco Monia Chokri, Niels Schneider e Anne Dorval.\nPor este filme o diretor foi premiado com o Regards Jeunes Prize em 2010 no Festival de Cannes."
+    },
     "cinema": {
       "year": 2010,
       "original_title": "Heartbeats",
@@ -85431,7 +85455,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/z9/d8/xx/im/heartbeats-1920-1920-1080-1080-crop-000000.jpg?v=360434c07a"
     ],
-    "tmdb_id": "51241"
+    "tmdb_id": "51241",
+    "wiki_tries": 1
   },
   "Na Cama Com Victoria|2016": {
     "lbxd": {
@@ -85453,7 +85478,11 @@
       "tmdb_id": "377275"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "In Bed with Victoria",
+      "imdb_id": "tt5078214",
+      "extract_pt": "Victoria (bra: Na Cama com Victoria) é um filme dirigido por Justine Triet sobre uma advogada criminal parisiense que vive sobre pressão de seu ex-marido, que era um traficante de drogas, e seu amigo perdedor. Foi exibido na seção Semana Internacional da Crítica no Festival de Cannes 2016. No Brasil, foi apresentado pela California Filmes no Festival Varilux de Cinema Francês 2017. Também foi apresentado gratuitamente no Festival Varilux Em Casa 2020."
+    },
     "cinema": {
       "year": 2016,
       "original_title": "Victoria",
@@ -85466,7 +85495,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/et/rq/j1/0u/in-bed-with-victoria-1920-1920-1080-1080-crop-000000.jpg?v=3ccb418960"
     ],
-    "tmdb_id": "377275"
+    "tmdb_id": "377275",
+    "wiki_tries": 1
   },
   "Sibyl|2019": {
     "lbxd": {
@@ -85525,7 +85555,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Sibyl (2019 film)",
+      "imdb_id": "tt9173264",
+      "extract_pt": "Sibyl é um filme francês de 2019 co-escrito e dirigido por Justine Triet. Foi apresentado na seleção oficial no Festival de Cannes 2019. No Brasil, foi lançado pela Imovision nos cinemas em 15 de julho de 2021. Antes do lançamento, foi apresentado na Mostra Internacional de Cinema de São Paulo."
+    },
     "cinema": {
       "year": 2019,
       "country": "França e Bélgica",
@@ -85538,7 +85572,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/yi/rt/a1/ia/sybil-1920-1920-1080-1080-crop-000000.jpg?v=1d7667983a"
     ],
-    "tmdb_id": "559401"
+    "tmdb_id": "559401",
+    "wiki_tries": 1
   },
   "Nostalgia Da Luz|2010": {
     "lbxd": {
@@ -85611,7 +85646,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/dc/d4/g1/2j/nostalgiaforhtelight-1920-1920-1080-1080-crop-000000.jpg?v=db68a4f3bd"
     ],
-    "tmdb_id": "72721"
+    "tmdb_id": "72721",
+    "wiki_tries": 1
   },
   "O Botão De Nácar|2015": {
     "lbxd": {
@@ -85684,7 +85720,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/mf/lc/4j/kb/pearl%20button-1920-1920-1080-1080-crop-000000.jpg?v=f4831112b7"
     ],
-    "tmdb_id": "319994"
+    "tmdb_id": "319994",
+    "wiki_tries": 1
   },
   "A Cordilheira Dos Sonhos|2019": {
     "lbxd": {
@@ -85718,7 +85755,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/nj/oc/63/nc/dreams%20bd-1920-1920-1080-1080-crop-000000.jpg?v=506b3dfb99"
     ],
-    "tmdb_id": "582944"
+    "tmdb_id": "582944",
+    "wiki_tries": 1
   },
   "You Can See Everything|2026": {
     "lbxd": {
@@ -85790,6 +85828,41 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10"
     ],
-    "tmdb_id": "1765072"
+    "tmdb_id": "1765072",
+    "wiki_tries": 1
+  },
+  "DOC FIVE EYES|2025": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Five Eyes",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "30 Nov 2025",
+      "Runtime": "75 min",
+      "Genre": "Documentary",
+      "Director": "Karim Debbagh",
+      "Writer": "N/A",
+      "Actors": "Mohammed Choukri, Karim Debbagh, Mohammed Mrabet",
+      "Plot": "LOGLINE A journey into Tangier's unique time, where Paul Bowles is seen through the Moroccans he lived with.",
+      "Language": "N/A",
+      "Country": "Morocco",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4MDgzZmItZjdlYy00MTNmLWEwZTYtY2Y0MzkwNzJjNzI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38942070",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
