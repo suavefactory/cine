@@ -19868,7 +19868,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/po/np/70/ou/spirit-of-beehive-1920-1920-1080-1080-crop-000000.jpg?v=90b8cb42a2"
     ],
-    "tmdb_id": "4495"
+    "tmdb_id": "4495",
+    "wiki_tries": 1
   },
   "As Virgens Suicidas|1998": {
     "lbxd": {
@@ -25966,7 +25967,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Underground (1995 film)",
+      "imdb_id": "tt0114787",
+      "extract_pt": "Underground (bra: Underground - Mentiras de Guerra; prt: Underground - Era uma Vez um País... ou Underground - Era uma Vez um País) é um filme franco-búlgaro-magiar-tcheco-teuto-iugoslavo de 1995, dos gêneros comédia dramática e guerra, dirigido por Emir Kusturica, com roteiro de Dusan Kovacevic."
+    },
     "cinema": {
       "year": 1995,
       "plot_pt": "Em Belgrado, durante a Segunda Guerra Mundial, um grupo de resistentes jugoslavos refugia-se num abrigo subterrâneo para resistir aos bombardeamentos nazis, começando a fabricar armas. Um deles é o único contacto com o exterior e começa a lucrar com o tráfico das armas que fabricam e, décadas depois, continua a afirmar que a guerra continua."
@@ -25978,7 +25983,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/fp/c9/4b/53/2nerKhF40OzjnGGOyzHcsAw8T53-1920-1920-1080-1080-crop-000000.jpg?v=ce45e58f22"
     ],
-    "tmdb_id": "11902"
+    "tmdb_id": "11902",
+    "wiki_tries": 1
   },
   "Vidas Secas|1963": {
     "lbxd": {
@@ -27196,8 +27202,55 @@
     "omdb": null
   },
   "O Grande Engarrafamento|1979": {
-    "lbxd": null,
-    "omdb": null,
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/4/0/3/61403-traffic-jam-1979-0-500-0-750-crop.jpg?v=25c8eb5cdd",
+      "description": "A tremendous congestion hits the Rome highway ring. The biggest traffic jam ever seen lasts more than 36 hours. At the beginning the people blocked in their cars react normally. But as more time passes, the more we witness personal dramas, hysteric reactions and other grotesque situations. All the episodes are linked as if in a single plot. Cars and their hosts are a microcosm of stories part of a larger universe: the congestion.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Luigi Comencini",
+      "lb_director_slug": "luigi-comencini-1",
+      "lb_year": 1979,
+      "lb_title": "Traffic Jam",
+      "backdrop": null,
+      "imdb_id": "tt0077734",
+      "tmdb_id": "74080"
+    },
+    "omdb": {
+      "Title": "Traffic Jam",
+      "Year": "1988",
+      "Rated": "N/A",
+      "Released": "04 Mar 1988",
+      "Runtime": "128 min",
+      "Genre": "Drama",
+      "Director": "Luigi Comencini",
+      "Writer": "Luigi Comencini, Ruggero Maccari, Bernardino Zapponi",
+      "Actors": "Alberto Sordi, Annie Girardot, Fernando Rey",
+      "Plot": "A tremendous congestion hit the Roma highway ring. The biggest traffic jam ever seen endures for more than 36 hours. People blocked in their cars react at the beginning normally. But the more the time advance the more we are witne...",
+      "Language": "Italian, French, Spanish, German",
+      "Country": "Italy, France, West Germany, Spain",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY3MjdlYmQtNjdiNS00ZmI1LWIyYjItMzEwMGQ2MjYyOGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,86,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "1,310",
+      "imdbID": "tt0077734",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {
       "year": 1979,
@@ -27206,7 +27259,8 @@
       "plot_pt": "Num enorme engarrafamento na autoestrada de Roma, pessoas e carros ficam presos durante horas. As suas histórias interligam-se num retrato engraçado e grotesco da Itália dos anos 1970. À medida que o tempo avança, a comédia dá lugar ao drama, transformando-se numa sátira social mordaz dos tempos modernos."
     },
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "74080"
   },
   "Vereda Tropical|1977": {
     "lbxd": null,
@@ -29099,7 +29153,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Aftersun",
+      "imdb_id": "tt19770238",
+      "extract_pt": "Aftersun é um filme de drama britânico-americano de 2022. Escrito e dirigido por Charlotte Wells, é estrelado por Paul Mescal, Frankie Corio e Celia Rowlson-Hall.\nRecebeu quatro indicações ao BAFTA 2023, com Wells ganhando o de melhor estreia de roteirista, diretor ou produtor britânicos. Mescal foi indicado ao Oscar de melhor ator na 95.ª edição."
+    },
     "cinema": {
       "year": 2022,
       "plot_pt": "Numa estância de férias em decadência, Sophie (interpretada, em jovem, pela revelação Frankie Corio), com 11 anos, disfruta de um raro período que tem para passar junto com o pai, Calum (Paul Mescal, num pujante momento de carreira). Enquanto o mundo da adolescência se anuncia para Sophie, fora do seu olhar Calum soçobra sob o peso da vida fora da paternidade. Vinte anos mais tarde, as ternas memórias de Sophie (em adulta, interpretada pela multitalentosa Celia Rowlson-Hall) das suas últimas férias juntos transformam-se num poderoso e desolador retrato da sua relação, enquanto tenta reconciliar o pai que conheceu com o homem que lhe permanece um desconhecido, neste soberbo e emocionalmente abrasador filme inaugural de Charlotte Wells."
@@ -29111,7 +29169,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/8p/e8/kc/48/aftersun-1920-1920-1080-1080-crop-000000.jpg?v=e57125ef44"
     ],
-    "tmdb_id": "965150"
+    "tmdb_id": "965150",
+    "wiki_tries": 1
   },
   "Rosebush Pruning|2028": {
     "lbxd": {
@@ -85812,7 +85871,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/dc/d4/g1/2j/nostalgiaforhtelight-1920-1920-1080-1080-crop-000000.jpg?v=db68a4f3bd"
     ],
     "tmdb_id": "72721",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Botão De Nácar|2015": {
     "lbxd": {
@@ -85886,7 +85945,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/mf/lc/4j/kb/pearl%20button-1920-1920-1080-1080-crop-000000.jpg?v=f4831112b7"
     ],
     "tmdb_id": "319994",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Cordilheira Dos Sonhos|2019": {
     "lbxd": {
@@ -85921,7 +85980,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/nj/oc/63/nc/dreams%20bd-1920-1920-1080-1080-crop-000000.jpg?v=506b3dfb99"
     ],
     "tmdb_id": "582944",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "You Can See Everything|2026": {
     "lbxd": {
@@ -85994,7 +86053,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10"
     ],
     "tmdb_id": "1765072",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "DOC FIVE EYES|2025": {
     "lbxd": null,
@@ -86471,7 +86530,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Possible Love",
+      "imdb_id": "tt37803364",
+      "extract_pt": "Possible Love (coreano: 가능한 사랑, RR: Ganeunghan sarang, bra: Amor Possível) é um longa-metragem sul-coreano e estadunidense dirigido por Lee Chang-dong e co-escrito pelo mesmo em parceira com Oh Jung-mi. Estrelado por Do-yeon, Sul Kyung-gu, Zo In-sung e Cho Yeo-jeong, a trama segue a vida entrelaçada de dois casais casados vivendo vidas completamente distintas.\nO filme estreou na competição principal do 83º Festival Internacional de Cinema de Veneza em 6 de setembro de 2026, onde conquistou o Grande Prêmio do Júri e o Prêmio FIPRESCI. Foi lançado nos cinemas da Coreia do Sul em 23 de setembro, seguido por um lançamento nos Estados Unidos em 23 de outubro e por um lançamento mundial pela Netflix em 6 de novembro. Por fim, foi selecionado como o representante da Coreia do Sul na categoria de Melhor Filme Internacional na 99ª edição do Oscar."
+    },
     "cinema": {
       "original_title": "Possible Love",
       "plot_pt": "Dois casais — um trabalhador despedido e a sua esposa, e uma documentarista e o seu marido — cruzam caminhos na rodagem de um documentário, sem imaginar a teia de emoções complexas que daí resultará. À medida que desejos e ressentimentos vêm à superfície, os limites da empatia e os compromissos do amor são postos à prova",
@@ -86494,7 +86557,8 @@
       "https://medeiafilmes.com/uploads/library/possible_love_n_01_35_20_18_rt1.jpg",
       "https://medeiafilmes.com/uploads/library/possible_love_n_01_43_08_10_rt2.jpg"
     ],
-    "tmdb_id": "1483525"
+    "tmdb_id": "1483525",
+    "wiki_tries": 1
   },
   "Ela Olhava Sem Nada Ver|2026": {
     "lbxd": {
@@ -86637,7 +86701,8 @@
       "https://medeiafilmes.com/uploads/library/flies_still_02.jpg",
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/1/5/5/7/7/tmdb/dlVvlYfvpD05KYbKFxEUvskvWWd-1920-1920-1080-1080-crop-000000.jpg?v=a81af0ba04"
     ],
-    "tmdb_id": "1437703"
+    "tmdb_id": "1437703",
+    "wiki_tries": 1
   },
   "Heysel 85|2026": {
     "lbxd": {
@@ -86708,7 +86773,8 @@
       "https://medeiafilmes.com/uploads/library/heysel_002.png",
       "https://medeiafilmes.com/uploads/library/heysel_003.png"
     ],
-    "tmdb_id": "1447885"
+    "tmdb_id": "1447885",
+    "wiki_tries": 1
   },
   "Diálogos Depois do Fim (Versão Série)|2023": {
     "lbxd": {
@@ -86860,6 +86926,224 @@
       "https://a.ltrbxd.com/resized/sm/upload/g2/ay/wq/ts/old-joy-1920-1920-1080-1080-crop-000000.jpg?v=0edbc50739",
       "https://medeiafilmes.com/uploads/library/28d737e0-f7f3-4986-82f9-8416e0c58dfb_xl.jpeg"
     ],
-    "tmdb_id": "26518"
+    "tmdb_id": "26518",
+    "wiki_tries": 1
+  },
+  "NOMAD SHADOW|2025": {
+    "lbxd": {
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/2/9/1118729-nomad-shadow-0-500-0-750-crop.jpg?v=ddecb9a90a",
+      "description": "A young Sahrawi woman faces deportation to Western Sahara, struggling to readjust to her homeland and confront family tensions sparked by her earlier departure.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Eimi Imanishi",
+      "lb_director_slug": "eimi-imanishi",
+      "lb_year": 2025,
+      "lb_title": "Nomad Shadow",
+      "backdrop": null,
+      "imdb_id": "tt37751099",
+      "tmdb_id": "1235286"
+    },
+    "omdb": {
+      "Title": "Nomad Shadow",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "82 min",
+      "Genre": "Drama",
+      "Director": "Eimi Imanishi",
+      "Writer": "Eimi Imanishi",
+      "Actors": "Nadhira Mohamed, Omar Salem, Suleiman Filali",
+      "Plot": "A young Sahrawi woman faces deportation to Western Sahara, struggling to readjust to her homeland and confront family tensions sparked by her earlier departure.",
+      "Language": "Arabic, Spanish",
+      "Country": "United States, Spain, France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37751099",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1235286"
+  },
+  "FANTASY|1976": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE GIRLS FROM ABOVE|2025": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/5/5/0/0/1015500-the-girls-from-above-0-500-0-750-crop.jpg?v=7309cf74bf",
+      "description": "Héloïse has nowhere to go. She meets Mallorie, who offers to let her stay in the flat she shares with two other young women. Héloïse finds a new home and a new family there. But their past wounds threaten the fragile balance between these women who appear so strong on the surface.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Bérangère McNeese",
+      "lb_director_slug": "berangere-mcneese-1",
+      "lb_year": 2025,
+      "lb_title": "The Girls From Above",
+      "backdrop": null,
+      "imdb_id": "tt35889287",
+      "tmdb_id": "1126694"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1126694"
+  },
+  "WAITHOOD|2019": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/3/6/7/6/1083676-waithood-0-500-0-750-crop.jpg?v=8131d390fd",
+      "description": "A group of young non-actors, from Athens (Greece) yearn to forget their idle futures while playing in luxurious Airbnb's. Nevertheless their fate catching up with them.",
+      "genres": null,
+      "country": "Belgium",
+      "lb_director": "Louisiana Mees-Fongang",
+      "lb_director_slug": "louisiana-mees-fongang",
+      "lb_year": 2019,
+      "lb_title": "Waithood",
+      "backdrop": null,
+      "imdb_id": "tt8873782",
+      "tmdb_id": "1198443"
+    },
+    "omdb": {
+      "Title": "Waithood",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "12 Jan 2019",
+      "Runtime": "22 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Louisiana Mees",
+      "Writer": "Louisiana Mees",
+      "Actors": "Xristous Kavallaris, Viky Maidanoglou, Yannis Sanidas, Jacques Simha",
+      "Plot": "A group of young non-actors, from Athens (Greece) yearn to forget their idle futures while playing in luxurious Airbnb's. Nevertheless their fate catching up with them.",
+      "Language": "Greek",
+      "Country": "Belgium, Greece",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZhZTg2NzktY2IyMC00MWFlLWIwMjEtMTVhYjVhZTM3OGNjXkEyXkFqcGdeQXVyOTE3MjcxMjY@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt8873782",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1198443"
+  },
+  "I’M HERE, I’M FINE|2025": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/4/6/4/1339464-im-here-im-fine-0-500-0-750-crop.jpg?v=ae623d1555",
+      "description": "Filiz, a young, working mother, struggles with postpartum depression. Seeking moments of escape, she sets out to buy ‘a car of her own.’ Along the way, Filiz meets Şule, and her search for a car turns into an unexpected bond, offering both women a chance at solidarity.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Turkey",
+      "lb_director": "Emine Emel Balcı",
+      "lb_director_slug": "emine-emel-balc",
+      "lb_year": 2025,
+      "lb_title": "I'm Here, I'm Fine",
+      "backdrop": null,
+      "imdb_id": "tt23867848",
+      "tmdb_id": "1462658"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1462658"
+  },
+  "LIFE IN A BEAT|2025": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/4/4/8/1339448-life-in-a-beat-0-500-0-750-crop.jpg?v=5886167f35",
+      "description": "Lena is a 20 year old woman who lives in Athens, works at a local supermarket and lives with her family.What if keeping her baby is the only way to keep her job?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "North Macedonia",
+      "lb_director": "Amerissa Basta",
+      "lb_director_slug": "amerissa-basta",
+      "lb_year": 2025,
+      "lb_title": "Life in a Beat",
+      "backdrop": null,
+      "imdb_id": "tt36347581",
+      "tmdb_id": "1462784"
+    },
+    "omdb": {
+      "Title": "Life in a Beat",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "04 Jun 2026",
+      "Runtime": "92 min",
+      "Genre": "Drama",
+      "Director": "Amerissa Basta",
+      "Writer": "Amerissa Basta, Dimitris Nakos",
+      "Actors": "Margarita Alexiadi, Giannis Anastasakis, Luli Bitri",
+      "Plot": "Lena is a 20 year old woman who lives in Athens, works at a local supermarket and lives with her family.What if keeping her baby is the only way to keep her job?",
+      "Language": "Greek, Albanian",
+      "Country": "Greece, Cyprus, Bulgaria, North Macedonia, Montenegro, France",
+      "Awards": "2 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzMyN2NiMDgtNGE4OC00ZmMwLWE2OTItYWM3NDYwZWJhYWJmXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "93",
+      "imdbID": "tt36347581",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1462784"
+  },
+  "DAMAS|2022": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
