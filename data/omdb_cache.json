@@ -19798,8 +19798,77 @@
     "omdb": null
   },
   "O Espírito Da Colmeia|1973": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/9/6/49296-the-spirit-of-the-beehive-0-500-0-750-crop.jpg?v=cf043c8b06",
+      "description": "In 1940, in the immediate aftermath of the Spanish Civil War, a young girl living on the Castilian plain is haunted after attending a screening of James Whale's 1931 film Frankenstein and hearing from her sister that the monster is not dead, instead existing as a spirit inhabiting a nearby barn.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Víctor Erice",
+      "lb_director_slug": "victor-erice",
+      "lb_year": 1973,
+      "lb_title": "The Spirit of the Beehive",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/po/np/70/ou/spirit-of-beehive-1920-1920-1080-1080-crop-000000.jpg?v=90b8cb42a2",
+      "imdb_id": "tt0070040",
+      "tmdb_id": "4495"
+    },
+    "omdb": {
+      "Title": "The Spirit of the Beehive",
+      "Year": "1975",
+      "Rated": "Not Rated",
+      "Released": "14 Mar 1975",
+      "Runtime": "98 min",
+      "Genre": "Drama, Fantasy",
+      "Director": "Víctor Erice",
+      "Writer": "Ángel Fernández-Santos de Blázquez, Víctor Erice",
+      "Actors": "Fernando Fernán Gómez, Teresa Gimpera, Ana Torrent",
+      "Plot": "In 1940, after watching and being traumatized by the movie Frankenstein (1931), a sensitive seven-year-old girl living in a small Spanish village drifts into her own fantasy world.",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "7 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ1ZmQ4OTEtZGUyZi00MThiLWJhMTUtYmFlODM0NmVjNmI2XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.7",
+      "imdbVotes": "23,059",
+      "imdbID": "tt0070040",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1973,
+      "country": "panha",
+      "plot_pt": "Numa pequena vila castelhana durante a década de 1940, no rescaldo de uma devastadora guerra civil, a pequena Ana, de seis anos, e a sua irmã Isabel, de oito, assistem a uma projecção de cinema ambulante de Frankenstein (1933) e ficam assombradas pela memória do filme. Um dia, Ana desaparece de casa…"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      44.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/po/np/70/ou/spirit-of-beehive-1920-1920-1080-1080-crop-000000.jpg?v=90b8cb42a2"
+    ],
+    "tmdb_id": "4495"
   },
   "As Virgens Suicidas|1998": {
     "lbxd": {
@@ -25839,8 +25908,77 @@
     }
   },
   "Underground: Era Uma Vez Um País|1995": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/4/44904-underground-1995-0-500-0-750-crop.jpg?v=08bb0433d3",
+      "description": "Black marketeers Marko and Blacky manufacture and sell weapons to the Communist resistance in WWII Belgrade, living the good life along the way. Marko's surreal duplicity propels him up the ranks of the Communist Party, and he eventually abandons Blacky and steals his girlfriend. After a lengthy stay in a below-ground shelter, the couple reemerges during the Yugoslavian Civil War of the 1990s as Marko sees the opportunity to exploit the situation.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "country": "Yugoslavia",
+      "lb_director": "Emir Kusturica",
+      "lb_director_slug": "emir-kusturica",
+      "lb_year": 1995,
+      "lb_title": "Underground",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fp/c9/4b/53/2nerKhF40OzjnGGOyzHcsAw8T53-1920-1920-1080-1080-crop-000000.jpg?v=ce45e58f22",
+      "imdb_id": "tt0114787",
+      "tmdb_id": "11902"
+    },
+    "omdb": {
+      "Title": "Underground",
+      "Year": "1997",
+      "Rated": "Not Rated",
+      "Released": "20 Jun 1997",
+      "Runtime": "167 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Emir Kusturica",
+      "Writer": "Dusan Kovacevic, Emir Kusturica",
+      "Actors": "Predrag &apos;Miki&apos; Manojlovic, Lazar Ristovski, Mirjana Jokovic",
+      "Plot": "Two underground black marketeers, Marko and Blacky, sell weapons to the Communist resistance in wartime Belgrade, living the good life along the way.",
+      "Language": "Serbian, German, French, English, Russian",
+      "Country": "Federal Republic of Yugoslavia, France, Germany, Bulgaria, Czech Republic, Hungary",
+      "Awards": "8 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGI3MGFhMTgtMDJjOC00ODU1LTlhMTQtZmYyZDQ3YWQxYjc5XkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "8.0",
+      "imdbVotes": "64,580",
+      "imdbID": "tt0114787",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$171,082",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1995,
+      "plot_pt": "Em Belgrado, durante a Segunda Guerra Mundial, um grupo de resistentes jugoslavos refugia-se num abrigo subterrâneo para resistir aos bombardeamentos nazis, começando a fabricar armas. Um deles é o único contacto com o exterior e começa a lucrar com o tráfico das armas que fabricam e, décadas depois, continua a afirmar que a guerra continua."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/fp/c9/4b/53/2nerKhF40OzjnGGOyzHcsAw8T53-1920-1920-1080-1080-crop-000000.jpg?v=ce45e58f22"
+    ],
+    "tmdb_id": "11902"
   },
   "Vidas Secas|1963": {
     "lbxd": {
@@ -27059,7 +27197,16 @@
   },
   "O Grande Engarrafamento|1979": {
     "lbxd": null,
-    "omdb": null
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 1979,
+      "original_title": "L'ingorgo",
+      "country": "Itália, França e Alemanha",
+      "plot_pt": "Num enorme engarrafamento na autoestrada de Roma, pessoas e carros ficam presos durante horas. As suas histórias interligam-se num retrato engraçado e grotesco da Itália dos anos 1970. À medida que o tempo avança, a comédia dá lugar ao drama, transformando-se numa sátira social mordaz dos tempos modernos."
+    },
+    "dir_checked": true,
+    "stills": null
   },
   "Vereda Tropical|1977": {
     "lbxd": null,
@@ -28906,7 +29053,11 @@
       "country": "UK",
       "lb_director": "Charlotte Wells",
       "lb_director_slug": "charlotte-wells",
-      "lb_year": 2022
+      "lb_year": 2022,
+      "lb_title": "Aftersun",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/8p/e8/kc/48/aftersun-1920-1920-1080-1080-crop-000000.jpg?v=e57125ef44",
+      "imdb_id": "tt19770238",
+      "tmdb_id": "965150"
     },
     "omdb": {
       "Title": "Aftersun",
@@ -28947,7 +29098,20 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2022,
+      "plot_pt": "Numa estância de férias em decadência, Sophie (interpretada, em jovem, pela revelação Frankie Corio), com 11 anos, disfruta de um raro período que tem para passar junto com o pai, Calum (Paul Mescal, num pujante momento de carreira). Enquanto o mundo da adolescência se anuncia para Sophie, fora do seu olhar Calum soçobra sob o peso da vida fora da paternidade. Vinte anos mais tarde, as ternas memórias de Sophie (em adulta, interpretada pela multitalentosa Celia Rowlson-Hall) das suas últimas férias juntos transformam-se num poderoso e desolador retrato da sua relação, enquanto tenta reconciliar o pai que conheceu com o homem que lhe permanece um desconhecido, neste soberbo e emocionalmente abrasador filme inaugural de Charlotte Wells."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/8p/e8/kc/48/aftersun-1920-1920-1080-1080-crop-000000.jpg?v=e57125ef44"
+    ],
+    "tmdb_id": "965150"
   },
   "Rosebush Pruning|2028": {
     "lbxd": {
@@ -80240,7 +80404,7 @@
       "lb_director": "Lino Brocka",
       "lb_director_slug": "lino-brocka",
       "lb_year": 1981,
-      "lb_title": "Dalaga si Misis, Binata si Mister",
+      "lb_title": "The Wife Is a Bachelorette, the Husband Is a Bachelor",
       "backdrop": null,
       "imdb_id": null,
       "tmdb_id": "935579"
@@ -80416,7 +80580,7 @@
       "lb_director": "Lino Brocka",
       "lb_director_slug": "lino-brocka",
       "lb_year": 1991,
-      "lb_title": "Sa Kabila ng Lahat",
+      "lb_title": "Above Everything Else",
       "backdrop": null,
       "imdb_id": "tt0313547",
       "tmdb_id": "392772"
@@ -81730,7 +81894,7 @@
       "lb_director": "Lino Brocka",
       "lb_director_slug": "lino-brocka",
       "lb_year": 1978,
-      "lb_title": "Wake Up... Maruja",
+      "lb_title": "Wake Up, Maruja",
       "backdrop": null,
       "imdb_id": "tt0077643",
       "tmdb_id": "371898"
@@ -85647,7 +85811,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/dc/d4/g1/2j/nostalgiaforhtelight-1920-1920-1080-1080-crop-000000.jpg?v=db68a4f3bd"
     ],
     "tmdb_id": "72721",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Botão De Nácar|2015": {
     "lbxd": {
@@ -85721,7 +85885,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/mf/lc/4j/kb/pearl%20button-1920-1920-1080-1080-crop-000000.jpg?v=f4831112b7"
     ],
     "tmdb_id": "319994",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Cordilheira Dos Sonhos|2019": {
     "lbxd": {
@@ -85756,7 +85920,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/nj/oc/63/nc/dreams%20bd-1920-1920-1080-1080-crop-000000.jpg?v=506b3dfb99"
     ],
     "tmdb_id": "582944",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "You Can See Everything|2026": {
     "lbxd": {
@@ -85829,7 +85993,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10"
     ],
     "tmdb_id": "1765072",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "DOC FIVE EYES|2025": {
     "lbxd": null,
@@ -85864,5 +86028,837 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "NOMAD SHADOW|None": {
+    "lbxd": {
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/8/7/2/9/1118729-nomad-shadow-0-500-0-750-crop.jpg?v=ddecb9a90a",
+      "description": "A young Sahrawi woman faces deportation to Western Sahara, struggling to readjust to her homeland and confront family tensions sparked by her earlier departure.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Spain",
+      "lb_director": "Eimi Imanishi",
+      "lb_director_slug": "eimi-imanishi",
+      "lb_year": 2025,
+      "lb_title": "Nomad Shadow",
+      "backdrop": null,
+      "imdb_id": "tt37751099",
+      "tmdb_id": "1235286"
+    },
+    "omdb": {
+      "Title": "Nomad Shadow",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "82 min",
+      "Genre": "Drama",
+      "Director": "Eimi Imanishi",
+      "Writer": "Eimi Imanishi",
+      "Actors": "Nadhira Mohamed, Omar Salem, Suleiman Filali",
+      "Plot": "A young Sahrawi woman faces deportation to Western Sahara, struggling to readjust to her homeland and confront family tensions sparked by her earlier departure.",
+      "Language": "Arabic, Spanish",
+      "Country": "United States, Spain, France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37751099",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1235286"
+  },
+  "FANTASY|None": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/9/2/0/307920-fantasy-0-500-0-750-crop.jpg?v=fceedb21f5",
+      "description": "A star-driven spiraling machine of hallucinatory wonder!",
+      "genres": [
+        "Animation"
+      ],
+      "country": "USA",
+      "lb_director": "Vince Collins",
+      "lb_director_slug": "vince-collins",
+      "lb_year": 1976,
+      "lb_title": "Fantasy",
+      "backdrop": null,
+      "imdb_id": "tt14625024",
+      "tmdb_id": "372265"
+    },
+    "omdb": {
+      "Title": "Fantasy",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "02 Sep 2022",
+      "Runtime": "99 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Pavan Kumar .R.",
+      "Writer": "N/A",
+      "Actors": "Priyanka Shivanna, Gaurish Akki, Harinishreekanth",
+      "Plot": "The story set in the backdrop of madikeri , The vindictive game of cat and mouse between akhil and Jennifer which ultimately blurs the line between fantasy and the reality in mind of the observer and the observed",
+      "Language": "Kannada",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWZmYTc5OWQtMTk3OS00NWYxLTlmNDktNDliM2NiZDQyODM1XkEyXkFqcGdeQXVyMTU0ODkyMTEy._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "229",
+      "imdbID": "tt13459736",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "372265"
+  },
+  "THE VEIL OF SENSES + AURA + SIGNS FROM BELOW + THE GAZE + OUR HOMES DO NOT EXIST + PEOPLE, PLACES, PIERS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "SESSÃO ACESSÍVEL: FILMES E DEBATE COM INTERPRETAÇÃO EM LÍNGUA GESTUAL  PORTUGUESA|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Sessão Famílias|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE GIRLS FROM ABOVE|None": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/5/5/0/0/1015500-the-girls-from-above-0-500-0-750-crop.jpg?v=7309cf74bf",
+      "description": "Héloïse has nowhere to go. She meets Mallorie, who offers to let her stay in the flat she shares with two other young women. Héloïse finds a new home and a new family there. But their past wounds threaten the fragile balance between these women who appear so strong on the surface.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Belgium",
+      "lb_director": "Bérangère McNeese",
+      "lb_director_slug": "berangere-mcneese-1",
+      "lb_year": 2025,
+      "lb_title": "The Girls From Above",
+      "backdrop": null,
+      "imdb_id": "tt35889287",
+      "tmdb_id": "1126694"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1126694"
+  },
+  "WAITHOOD|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Waithood",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "12 Jan 2019",
+      "Runtime": "22 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Louisiana Mees",
+      "Writer": "Louisiana Mees",
+      "Actors": "Xristous Kavallaris, Viky Maidanoglou, Yannis Sanidas, Jacques Simha",
+      "Plot": "A group of young non-actors, from Athens (Greece) yearn to forget their idle futures while playing in luxurious Airbnb's. Nevertheless their fate catching up with them.",
+      "Language": "Greek",
+      "Country": "Belgium, Greece",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZhZTg2NzktY2IyMC00MWFlLWIwMjEtMTVhYjVhZTM3OGNjXkEyXkFqcGdeQXVyOTE3MjcxMjY@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt8873782",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1198443"
+  },
+  "MĀNTHÖÛR BAYRŪT + YRUPẼ|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "SEE YOU NEXT MEAL + THE RIVER + CAMA DE LAVADO + NOBODY BARKS + UMA MULHER DO GÉNERO + GUARDIANS OF THE LAND|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "IF THE TURTLES COULD FLY + POMEGRANADE + 66 DAYS + A DRONE STORY + BAISANOS + FREE FISH|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "I’M HERE, I’M FINE|None": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/4/6/4/1339464-im-here-im-fine-0-500-0-750-crop.jpg?v=ae623d1555",
+      "description": "Filiz, a young, working mother, struggles with postpartum depression. Seeking moments of escape, she sets out to buy ‘a car of her own.’ Along the way, Filiz meets Şule, and her search for a car turns into an unexpected bond, offering both women a chance at solidarity.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Turkey",
+      "lb_director": "Emine Emel Balcı",
+      "lb_director_slug": "emine-emel-balc",
+      "lb_year": 2025,
+      "lb_title": "I'm Here, I'm Fine",
+      "backdrop": null,
+      "imdb_id": "tt23867848",
+      "tmdb_id": "1462658"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1462658"
+  },
+  "MY RAY OF SUNSHINE + HERE OR HERE + PAST FUTURE CONTINUOUS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "CURSED TOMATOES + ON THE DRY ROCK|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE SILENCE OF POMEGRANATES + RAHHALA: HAYYA ALA HAYYA + SHADOWS + DALIA + BREAKING IT ALL|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "LIFE IN A BEAT|None": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/4/4/8/1339448-life-in-a-beat-0-500-0-750-crop.jpg?v=5886167f35",
+      "description": "Lena is a 20 year old woman who lives in Athens, works at a local supermarket and lives with her family.What if keeping her baby is the only way to keep her job?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "North Macedonia",
+      "lb_director": "Amerissa Basta",
+      "lb_director_slug": "amerissa-basta",
+      "lb_year": 2025,
+      "lb_title": "Life in a Beat",
+      "backdrop": null,
+      "imdb_id": "tt36347581",
+      "tmdb_id": "1462784"
+    },
+    "omdb": {
+      "Title": "Life in a Beat",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "04 Jun 2026",
+      "Runtime": "92 min",
+      "Genre": "Drama",
+      "Director": "Amerissa Basta",
+      "Writer": "Amerissa Basta, Dimitris Nakos",
+      "Actors": "Margarita Alexiadi, Giannis Anastasakis, Luli Bitri",
+      "Plot": "Lena is a 20 year old woman who lives in Athens, works at a local supermarket and lives with her family.What if keeping her baby is the only way to keep her job?",
+      "Language": "Greek, Albanian",
+      "Country": "Greece, Cyprus, Bulgaria, North Macedonia, Montenegro, France",
+      "Awards": "2 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzMyN2NiMDgtNGE4OC00ZmMwLWE2OTItYWM3NDYwZWJhYWJmXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "93",
+      "imdbID": "tt36347581",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1462784"
+  },
+  "LOVE AND THE OTHERS + WHERE AM I IN MY STORY?|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "DAMAS|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/0/1/4/6/910146-damas-0-500-0-750-crop.jpg?v=351ecd53c1",
+      "description": "Tired, Isabel wakes up in a room she doesn't recognize and is greeted by an unknown woman. A query. A psychologist. During the service, the young woman starts a process of discoveries and self-knowledge, trying to understand how and why she is in that place. Would Isabel have the necessary maturity to face her fears and anxieties?",
+      "genres": null,
+      "country": null,
+      "lb_director": "Rodrigo Scaldaferri",
+      "lb_director_slug": "rodrigo-scaldaferri",
+      "lb_year": 2022,
+      "lb_title": "Damas",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1010313"
+    },
+    "omdb": {
+      "Title": "Damas",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "30 Apr 2026",
+      "Runtime": "93 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Cláudia Alves",
+      "Writer": "Cláudia Alves, Marcelo Gomes",
+      "Actors": "Teresa Mello Sampayo, Leonor Alecrim, Beatriz Rodrigues",
+      "Plot": "During the First World War, a group of high-society ladies known as \"gentlewomen nurses\" left Portugal on a mission to build a hospital in Ambleteuse, Northern France, in order to take care of the Portuguese Expeditionary Corps. D...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4MDZlOGMtZWRjMi00MmE0LWE3OGYtODgxMDJlZjA0ZTE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "41",
+      "imdbID": "tt28526663",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1010313"
+  },
+  "WHAT IF THE SKY SEES US? + LLEÓ + THE GIFT + DIEGO + MAL DE MADRE|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Possible Love|2026": {
+    "lbxd": {
+      "rating": 4.14,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/3/7/2/1360372-possible-love-0-500-0-750-crop.jpg?v=74d3cd22dc",
+      "description": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "South Korea",
+      "lb_director": "Lee Chang-dong",
+      "lb_director_slug": "lee-chang-dong",
+      "lb_year": 2026,
+      "lb_title": "Possible Love",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/su/95/as/k3/kPbyLj2OyjojqvR1jfK1VvXzabg-1920-1920-1080-1080-crop-000000.jpg?v=6eaf5bcb33",
+      "imdb_id": "tt37803364",
+      "tmdb_id": "1483525"
+    },
+    "omdb": {
+      "Title": "Possible Love",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "06 Nov 2026",
+      "Runtime": "164 min",
+      "Genre": "Drama, Romance",
+      "Director": "Lee Chang-dong",
+      "Writer": "Lee Chang-dong, Jungmi Oh",
+      "Actors": "Jeon Do-yeon, Sul Kyung-gu, Zo In-sung",
+      "Plot": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+      "Language": "Korean",
+      "Country": "South Korea, United States",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjU5NjQtZjQxOS00OGIwLThhM2MtYWU1OTc4Y2M4NGVmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "7.7",
+      "imdbVotes": "23",
+      "imdbID": "tt37803364",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Possible Love",
+      "plot_pt": "Dois casais — um trabalhador despedido e a sua esposa, e uma documentarista e o seu marido — cruzam caminhos na rodagem de um documentário, sem imaginar a teia de emoções complexas que daí resultará. À medida que desejos e ressentimentos vêm à superfície, os limites da empatia e os compromissos do amor são postos à prova",
+      "year": 2026,
+      "director": "Lee Chang-dong",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/possible_love_still_r43_aaa04362_rt3.jpg",
+        "https://medeiafilmes.com/uploads/library/possible_love_n_01_35_20_18_rt1.jpg",
+        "https://medeiafilmes.com/uploads/library/possible_love_n_01_43_08_10_rt2.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.7,
+      34.9,
+      30.0
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/possible_love_still_r43_aaa04362_rt3.jpg",
+      "https://medeiafilmes.com/uploads/library/possible_love_n_01_35_20_18_rt1.jpg",
+      "https://medeiafilmes.com/uploads/library/possible_love_n_01_43_08_10_rt2.jpg"
+    ],
+    "tmdb_id": "1483525"
+  },
+  "Ela Olhava Sem Nada Ver|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/1/9/4/8/1351948-she-looked-without-seeing-0-500-0-750-crop.jpg?v=e870d99415",
+      "description": "Forget everything, or recover memory and remember. Let yourself fall and stop, or return to life and start again. Adrift, lost face-to-face, two women confront their fates. Is there not just one thing worth saving? Without hesitation, the desire to live, that rebellious fury that takes no heed of risks. And how do you save a world where poetry has disappeared?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Fanny Ardant",
+      "lb_director_slug": "fanny-ardant",
+      "lb_year": null,
+      "lb_title": null,
+      "backdrop": null,
+      "imdb_id": "tt35696824",
+      "tmdb_id": "1474815"
+    },
+    "omdb": {
+      "Title": "Ela Olhava Sem Nada Ver",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Fanny Ardant",
+      "Writer": "Fanny Ardant",
+      "Actors": "Carolina Amaral, Ana Padrão, Paulo Pires",
+      "Plot": "N/A",
+      "Language": "Portuguese, French, Russian",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWIyNDFhNDYtZGY2Ni00NzQ3LTg5MGEtNjU1MjJkOTMxMjFiXkEyXkFqcGc@._V1_QL75_UX250_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt35696824",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Ela Olhava Sem Nada Ver",
+      "plot_pt": "Numa ilha remota, uma jovem sem nome é encontrada à beira de uma lagoa, quase afogada. Salva por um homem misterioso, é acolhida por Gabriela, uma mulher amarga e enigmática, que a esconde e lhe dá o nome de Malvina. Nesta terra marcada por segredos, luto, contrabando e vingança, a memória de Malvina regressa aos poucos, em estilhaços de vidro, sangue e amor perdido. E ambas têm de enfrentar a mesma pergunta: recordar para viver, ou esquecer para sobreviver.",
+      "country": "Portugal",
+      "genre": "Drama",
+      "year": 2026,
+      "director": "Fanny Ardant",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/ela-olhava_01.jpg",
+        "https://medeiafilmes.com/uploads/library/ela-olhava_02.jpg",
+        "https://medeiafilmes.com/uploads/library/ela-olhava_05.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.2,
+      28.6,
+      19.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/ela-olhava_01.jpg",
+      "https://medeiafilmes.com/uploads/library/ela-olhava_02.jpg",
+      "https://medeiafilmes.com/uploads/library/ela-olhava_05.jpg"
+    ],
+    "tmdb_id": "1474815"
+  },
+  "Moscas|2026": {
+    "lbxd": {
+      "rating": 3.88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/5/7/7/1315577-flies-2026-0-500-0-750-crop.jpg?v=3f35693e7c",
+      "description": "Olga lives a strictly regulated life without attachments in a vast apartment block. When out of financial necessity she rents a room in her apartment to a man who also sneaks-in his nine-year-old son, an unlikely bond forms. Her carefully controlled world begins to shift, and their lives become intertwined against her will.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Mexico",
+      "lb_director": "Fernando Eimbcke",
+      "lb_director_slug": "fernando-eimbcke",
+      "lb_year": 2026,
+      "lb_title": "Flies",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/1/5/5/7/7/tmdb/dlVvlYfvpD05KYbKFxEUvskvWWd-1920-1920-1080-1080-crop-000000.jpg?v=a81af0ba04",
+      "imdb_id": "tt35854741",
+      "tmdb_id": "1437703"
+    },
+    "omdb": {
+      "Title": "Moscas",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Feb 2026",
+      "Runtime": "99 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Fernando Eimbcke",
+      "Writer": "Fernando Eimbcke, Vanesa Garnica",
+      "Actors": "Teresita Sánchez, Hugo Ramírez, Bastian Escobar",
+      "Plot": "When Olga has to rent out a room in her apartment to a father, she forms an unlikely bond with his nine-year old son when, unexpectedly, their lives become intertwined.",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVmZGJmY2YtMTNiYi00Y2Y2LWJhMzUtMjEyNjU2Yjk5MjFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "50",
+      "imdbID": "tt35854741",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Moscas",
+      "plot_pt": "Por necessidade financeira, Olga começa a arrendar um quarto a um homem cuja esposa se encontra internada num hospital próximo. Escondido no quarto está também o filho dele, de nove anos, com quem a mulher criará um vínculo capaz de “desestabilizar” a sua vida demasiado regrada.",
+      "country": "MX, ES, AR",
+      "year": 2026,
+      "director": "Fernando Eimbcke",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/flies_still_02.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      52.4,
+      52.9
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/flies_still_02.jpg",
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/1/5/5/7/7/tmdb/dlVvlYfvpD05KYbKFxEUvskvWWd-1920-1920-1080-1080-crop-000000.jpg?v=a81af0ba04"
+    ],
+    "tmdb_id": "1437703"
+  },
+  "Heysel 85|2026": {
+    "lbxd": {
+      "rating": 3.54,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/5/0/1/9/1325019-heysel-85-0-500-0-750-crop.jpg?v=7d6faf0194",
+      "description": "When 39 people are killed prior to the European Cup at the Brussels Heysel stadium in 1985, the mayor's daughter and an Italian journalist are torn between their professional assignments, family, and human nature.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Belgium",
+      "lb_director": "Teodora Ana Mihai",
+      "lb_director_slug": "teodora-ana-mihai",
+      "lb_year": 2026,
+      "lb_title": "Heysel 85",
+      "backdrop": null,
+      "imdb_id": "tt30135000",
+      "tmdb_id": "1447885"
+    },
+    "omdb": {
+      "Title": "Heysel 85",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Feb 2026",
+      "Runtime": "91 min",
+      "Genre": "Drama, History, Sport",
+      "Director": "Teodora Mihai",
+      "Writer": "Isabelle Darras, Lode Desmet, Hans Everaert",
+      "Actors": "Violet Braeckman, Matteo Simoni, Josse De Pauw",
+      "Plot": "When 39 people get killed before the start of the European Cup at the Brussels Heysel stadium in 1985, the daughter of the mayor and a journalist with Italian roots are torn between their professional assignment, family and human ...",
+      "Language": "English, Italian, Dutch, French",
+      "Country": "Belgium, Netherlands, Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA5M2JiOWYtYzY1Zi00YjY2LTk3ZjAtMTQyYTc4MGNiZDE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "39",
+      "imdbID": "tt30135000",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Heysel 85",
+      "plot_pt": "Bruxelas, 1985. Antes da final da Taça dos Campeões Europeus, uma tragédia no estádio de Heysel resultou em 39 mortes. Marie, filha do presidente da Câmara, e Luca, jornalista italiano que cobre o jogo, procuram os seus familiares enquanto tentam cumprir as suas funções.",
+      "country": "BE, NL, DE",
+      "year": 2026,
+      "director": "Teodora Mihai",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/mv5bnznimdc5mzqtzmqzms00ndk5lwiyowytmzmwnddjm2m1nzywxkeyxkfqcgc_v1.jpg",
+        "https://medeiafilmes.com/uploads/library/heysel_002.png",
+        "https://medeiafilmes.com/uploads/library/heysel_003.png"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.2,
+      22.7,
+      27.9
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/mv5bnznimdc5mzqtzmqzms00ndk5lwiyowytmzmwnddjm2m1nzywxkeyxkfqcgc_v1.jpg",
+      "https://medeiafilmes.com/uploads/library/heysel_002.png",
+      "https://medeiafilmes.com/uploads/library/heysel_003.png"
+    ],
+    "tmdb_id": "1447885"
+  },
+  "Diálogos Depois do Fim (Versão Série)|2023": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/2/6/2/1013262-dialogues-after-the-end-0-500-0-750-crop.jpg?v=1c471c30a0",
+      "description": "Pavese considered Dialogues with Leucò his best work. Eloquent and at the same time sententious and fragile, but implausible among humanized gods, demigods, heroes, and other pagan figures of Greek mythology, who question, through the imaginary of myths, the society of contemporary man. Out of a time and a certain space, and thus, and like all myths, always current.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Tiago Guedes",
+      "lb_director_slug": "tiago-guedes",
+      "lb_year": 2023,
+      "lb_title": "Dialogues After the End",
+      "backdrop": null,
+      "imdb_id": "tt21990682",
+      "tmdb_id": "1124118"
+    },
+    "omdb": {
+      "Title": "Diálogos Depois do Fim",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "07 Mar 2024",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Tiago Guedes",
+      "Writer": "Cesare Pavese, Tiago Guedes, João Pedro Vaz",
+      "Actors": "João Pedro Mamede, Maria do Céu Ribeiro, Isabel Abreu",
+      "Plot": "Dialogues with Leuco are short dialogues between divine or heroic figures from Greek-Roman mythology. Each dialogue deals with destiny, life and death, sacrifice, suffering, memory and desire, time and place.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM4NjMzNmYtZTgwYS00OTM1LTk1OWQtOTU5YWU0ODhiMjJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "42",
+      "imdbID": "tt21990682",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Diálogos Depois do Fim",
+      "plot_pt": "Diálogos escritos por Cesare Pavese, eloquentes e ao mesmo tempo sentenciosos e frágeis, mas inverossímeis, entre deuses humanizados, semi-deuses, heróis e outras figuras pagãs, que questionam, através do imaginário dos mitos gregos, a sociedade do homem contemporâneo. Fora de um dado tempo e espaço, e portanto, como os mitos, sempre actuais.",
+      "country": "Portugal",
+      "year": 2023,
+      "director": "Tiago Guedes",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/dddf_12.jpg",
+        "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
+        "https://medeiafilmes.com/uploads/library/dddf_08.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.4,
+      43.2,
+      41.2
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
+      "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
+      "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
+    ],
+    "tmdb_id": "1124118"
+  },
+  "Old Joy|2006": {
+    "lbxd": {
+      "rating": 3.77,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/nt/1o/64/zd/uv0JeHG3Oj0YJgpHy0egA4WGTkv-0-500-0-750-crop.jpg?v=7ffee8ccec",
+      "description": "Soon to be a father, Mark feels the pressure of domestic responsibility closing in, so he is more than happy to accept when his old friend Kurt proposes a camping trip in the Oregon wilderness. During their time together, the men come to grips with the changes in their lives and the effect on their relationship.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Kelly Reichardt",
+      "lb_director_slug": "kelly-reichardt",
+      "lb_year": 2006,
+      "lb_title": "Old Joy",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/g2/ay/wq/ts/old-joy-1920-1920-1080-1080-crop-000000.jpg?v=0edbc50739",
+      "imdb_id": "tt0468526",
+      "tmdb_id": "26518"
+    },
+    "omdb": {
+      "Title": "Old Joy",
+      "Year": "2007",
+      "Rated": "Unrated",
+      "Released": "26 Jan 2007",
+      "Runtime": "76 min",
+      "Genre": "Drama",
+      "Director": "Kelly Reichardt",
+      "Writer": "Jonathan Raymond, Kelly Reichardt",
+      "Actors": "Daniel London, Will Oldham, Tanya Smith",
+      "Plot": "Two old pals reunite for a camping trip in Oregon's Cascade Mountains.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU0OWE2NDMtNDY0My00MzllLTk0YjItZDQ0YWZiNjhjZTY3XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "6.8",
+      "imdbVotes": "10,150",
+      "imdbID": "tt0468526",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$255,923",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Old Joy",
+      "plot_pt": "Kelly Reichardt regressa ao cinema independente americano, após uma ausência de 12 anos, com um road movie sobre a amizade e a masculinidade. Numa viagem de campismo pelos bosques do Oregon, dois velhos amigos – Mark, prestes a ser pai, e Kurt, nómada e errante –, tentam recuperar a cumplicidade de outros tempos. Adaptado de Jonathan Raymond, e com música de Yo La Tengo, Old Joy confirma o olhar contemplativo e irónico de Reichardt.",
+      "country": "US",
+      "year": 2006,
+      "director": "Kelly Reichardt",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/29062id_oldjoy_grabs_forannounce_0001_layer_14_w1600.jpg",
+        "https://medeiafilmes.com/uploads/library/28d737e0-f7f3-4986-82f9-8416e0c58dfb_xl.jpeg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.6,
+      21.1,
+      38.9
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/29062id_oldjoy_grabs_forannounce_0001_layer_14_w1600.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/g2/ay/wq/ts/old-joy-1920-1920-1080-1080-crop-000000.jpg?v=0edbc50739",
+      "https://medeiafilmes.com/uploads/library/28d737e0-f7f3-4986-82f9-8416e0c58dfb_xl.jpeg"
+    ],
+    "tmdb_id": "26518"
   }
 }
