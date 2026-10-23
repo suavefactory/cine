@@ -84067,12 +84067,28 @@
     "stills": null
   },
   "O Nosso Último Filme sobre Lisboa|None": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/8/4/7/9/1658479-our-last-movie-about-lisbon-0-500-0-750-crop.jpg?v=cb48c92af7",
+      "description": "This is our last movie about Lisbon. The starting point is this question: If one day the water swallows this city, what will be the traces of the struggles we shared in these streets? The strength of affections and bodies in motion, determined to disrupt normality, brings us back to the surface. The trace of this struggle will be our ability to imagine together another city, another world",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Left Hand Rotation",
+      "lb_director_slug": "left-hand-rotation",
+      "lb_year": 2026,
+      "lb_title": "Our Last Movie About Lisbon",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1804151"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1804151"
   },
   "Ala-Arriba!|None": {
     "lbxd": {
@@ -84659,22 +84675,7 @@
     "stills": null
   },
   "Ala-Arriba!|1969": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
-      "description": "Documents Harpur College's Afro-Latin Alliance.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": "USA",
-      "lb_director": "Larry Gottheim",
-      "lb_director_slug": "larry-gottheim",
-      "lb_year": 1969,
-      "lb_title": "ALA",
-      "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "944679"
-    },
+    "lbxd": null,
     "omdb": {
       "Title": "El-Zawag ala el-Tariqah el-Hadithah",
       "Year": "1968",
@@ -84711,7 +84712,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "944679"
+    "tmdb_id": "537225"
   },
   "Kurtág Fragments|2026": {
     "lbxd": {

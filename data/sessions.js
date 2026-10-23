@@ -629,6 +629,54 @@ window.CINEMA_DATA = {
       "year": 2012
     },
     {
+      "id": "sao_jorge_12117",
+      "title": "O Nosso Último Filme sobre Lisboa",
+      "director": null,
+      "duration": 67,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/8/4/7/9/1658479-our-last-movie-about-lisbon-0-500-0-750-crop.jpg?v=cb48c92af7",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/o-nosso-ultimo-filme-sobre-lisboa/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "This is our last movie about Lisbon. The starting point is this question: If one day the water swallows this city, what will be the traces of the struggles we shared in these streets? The strength of affections and bodies in motion, determined to disrupt normality, brings us back to the surface. The trace of this struggle will be our ability to imagine together another city, another world",
+      "title_en": "Our Last Movie About Lisbon",
+      "country": "Portugal",
+      "director_lbxd_slug": "left-hand-rotation"
+    },
+    {
+      "id": "sao_jorge_12115",
+      "title": "Ala-Arriba!",
+      "director": "Salah Karim",
+      "duration": 91,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/ala-arriba/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:15",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 1969,
+      "plot": "Documents Harpur College's Afro-Latin Alliance.",
+      "country": "USA",
+      "director_lbxd_slug": "larry-gottheim",
+      "title_en": "El-Zawag ala el-Tariqah el-Hadithah"
+    },
+    {
       "id": "sao_jorge_12113",
       "title": "The Measured Everlasting Is 1.334 Billion Years",
       "director": null,
@@ -661,6 +709,263 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
+    },
+    {
+      "id": "sao_jorge_12098",
+      "title": "Land Day +Where Life Holds",
+      "director": null,
+      "duration": 81,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/land.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/land-day-where-life-holds/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "21:45",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_12074",
+      "title": "Todo todo teros",
+      "director": "John Torres",
+      "duration": 110,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/4/4/4/7/184447-todo-todo-teros-0-500-0-750-crop.jpg?v=0a83af836b",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/todo-todo-teros/",
+      "sessions": [
+        {
+          "date": "2026-10-25",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2006,
+      "plot": "Basically an artist is also a terrorist, the protagonist thinks in an unguarded moment. And if he is a terrorist after all, then he might just as well be one. Not an instant product, but an experimental feature in which diary material is brought together to form an intriguing puzzle.",
+      "country": "Philippines",
+      "director_lbxd_slug": "john-torres"
+    },
+    {
+      "id": "sao_jorge_12068",
+      "title": "Saturn or a Brief Treatise on Melancholy",
+      "director": null,
+      "duration": 112,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/5/2/6/8/1/1652681-saturn-or-a-brief-treatise-on-melancholy-0-500-0-750-crop.jpg?v=dbd7d86583",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/saturn-or-a-brief-treatise-on-melancholy/",
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "16:15",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "In Lagunas del Rosario, in the arid lands of Mendoza, Rubén Díaz—artisan, Malvinas War veteran, and healer known as Caballo Loco (Crazy Horse)—each winter solstice summons a secret ceremony exclusively for initiates. During a night-long vigil, pilgrims from distant places gather in search of relief from illness, grief, and pain. Surrounded by bonfires, prayers, and ancestral stories, the community attempts to conjure away the afflictions of a territory ravaged by drought and the vanishing of its waters.",
+      "director_lbxd_slug": "mariano-donoso"
+    },
+    {
+      "id": "sao_jorge_12063",
+      "title": "The Pervert’s Guide to Utopias",
+      "director": null,
+      "duration": 134,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/1/0/7/6/1601076-the-perverts-guide-to-utopias-0-500-0-750-crop.jpg?v=da2e3595b0",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/the-perverts-guide-to-utopias/",
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "21:45",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "rating": 3.65,
+      "year": 2026,
+      "plot": "Philosopher Slavoj Žižek is our guide through landscapes of classic film, music, social media, archive and webcasts. Making unexpected twists and turns, he maps the utopian illusions of our times. Through absurd juxtapositions and startling insights, we are seduced into recognising our fate, in order to change it.",
+      "country": "Ireland",
+      "director_lbxd_slug": "sophie-fiennes",
+      "plot_pt": "O 83.º Festival Internacional de Cinema de Veneza ocorreu de 2 a 12 de setembro de 2026, em Lido de Veneza, na Itália. A atriz estadunidense Maggie Gyllenhaal serviu como presidente do júri para o painel principal de competição enquanto os atores italianos Greta Scarano e Nicolas Maupas apresentaram as cerimônias de abertura e encerramento.\nOs filmes apresentados no festival foram anunciados oficialmente em 23 de julho de 2026, sendo que o documentário de drama NAZA, de Yuval Abraham e Rachel Szor foi incluído no painel de apresentações somente em 24 de agosto por decisão da organização do evento em meio às eventuais tensões causadas pela repercussão da obra. O drama biográfico DAU, do diretor russo Ilya Khrzhanovsky, também causou controvérsias e protestos por parte de representantes ucranianos por retratar a vida do cientista soviético Lev Landau, que desenvolveu uma bomba atômica para o país na década de 1960."
+    },
+    {
+      "id": "sao_jorge_12061",
+      "title": "Lukas the Strange",
+      "director": "John Torres",
+      "duration": 83,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/6/7/6/134676-lukas-the-strange-0-500-0-750-crop.jpg?v=579e3dde37",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/lukas-the-strange/",
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "21:45",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2013,
+      "plot": "A small town in the Philippines is turned upside down by the arrival of a film crew that has everyone excited. Meanwhile, 13-year-old Lukas finds his own world overturned when he is told that his father is a tikbalang (half horse, half man). His father’s disappearance leaves Lukas to try to unravel the mystery of his own heritage and his own nature.",
+      "country": "Philippines",
+      "director_lbxd_slug": "john-torres"
+    },
+    {
+      "id": "sao_jorge_12044",
+      "title": "Kate Bush – The Timeless Genius",
+      "director": "Adrian Sibley",
+      "duration": 53,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/4/5/5/2/214552-the-kate-bush-story-running-up-that-hill-0-500-0-750-crop.jpg?v=689efa922b",
+      "genres": [
+        "Documentary",
+        "Tv Movie",
+        "Music"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/kate-bush-the-timeless-genius/",
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "plot": "This documentary explores Kate Bush's career and music, from January 1978's Wuthering Heights to her 2011 album 50 Words for Snow, through the testimony of some of her key collaborators and those she has inspired.",
+      "title_en": "The Kate Bush Story: Running Up That Hill",
+      "country": "UK",
+      "year": 2014,
+      "rating": 3.66,
+      "director_lbxd_slug": "adrian-sibley-1"
+    },
+    {
+      "id": "cinemateca_20380",
+      "title": "Gumapang Ka Sa Lusak",
+      "director": "Lino Brocka",
+      "year": 1990,
+      "duration": 120,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/5/5/9/8/325598-dirty-affair-0-500-0-750-crop.jpg?v=31cbb44f47",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20380",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "16:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A teenage boy befriends a starlet who is having an affair with an ambitious mayor. As the elections are coming up, the mayor's wife wants him to get rid of his mistress. The starlet agrees to stop the affair on condition that the mayor help release her boyfriend from jail. The mayor does so, but wants the former jail-bird to kill his political rival.",
+      "title_en": "Dirty Affair",
+      "country": "Philippines",
+      "director_lbxd_slug": "lino-brocka"
+    },
+    {
+      "id": "cinemateca_20360",
+      "title": "Macho Dancer",
+      "director": "Lino Brocka",
+      "year": 1988,
+      "duration": 136,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/6/3/0/125630-macho-dancer-0-500-0-750-crop.jpg?v=a5717eddea",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20360",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.7,
+      "plot": "Pol moves to Manila for better opportunities after his American lover leaves. However, he gets drawn into the gritty world of gay prostitution and sexual slavery.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/orEPVHx17XfeXYcmzINYx8u6CCX.jpg",
+        "https://image.tmdb.org/t/p/w1280/n6SDB2pVxhtW0NSWt9z0OnW4HdH.jpg",
+        "https://image.tmdb.org/t/p/w1280/i63Uz3v7ozOVKjb0uNWCjwmwJSw.jpg"
+      ],
+      "stills_focus": [
+        28.9,
+        38.1,
+        27.9
+      ],
+      "country": "Philippines",
+      "director_lbxd_slug": "lino-brocka"
+    },
+    {
+      "id": "cinemateca_20363",
+      "title": "Ina, Kapatid, Anak",
+      "director": "Lino Brocka",
+      "year": 1979,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/8/6/3/135863-mother-sister-daughter-0-500-0-750-crop.jpg?v=1255a6b5f0",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20363",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "After 20 years, Pura returns to her ancestral home to meet her father. However, this soon reignites a bitter rivalry between her and Emilia, her half-sister, that impacts the entire household.",
+      "title_en": "Mother, Sister, Daughter",
+      "country": "Philippines",
+      "director_lbxd_slug": "lino-brocka"
+    },
+    {
+      "id": "cinemateca_20382",
+      "title": "Gumising Ka... Maruja",
+      "director": "Lino Brocka",
+      "year": 1978,
+      "duration": 113,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/5/3/9/307539-wake-up-maruja-0-500-0-750-crop.jpg?v=950cc8edfb",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Horror"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20382",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "22:00",
+          "cinema": "cinemateca",
+          "labels": [
+            "Sessão com apresentação"
+          ]
+        },
+        {
+          "date": "2026-10-24",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A bride commits suicide on her wedding night. Years later, she is reincarnated as an actress-producer and tries to reveal her true story to the world.",
+      "title_en": "Wake Up, Maruja",
+      "country": "Philippines",
+      "director_lbxd_slug": "lino-brocka"
     },
     {
       "id": "cinemateca_20379",
@@ -926,7 +1231,8 @@ window.CINEMA_DATA = {
       "plot": "Famous TV commentator Maia Robles finds herself caught between having an affair with a politician and reporting on social issues, especially corruption.",
       "title_en": "Above Everything Else",
       "country": "Philippines",
-      "director_lbxd_slug": "lino-brocka"
+      "director_lbxd_slug": "lino-brocka",
+      "title_en": "Above Everything Else"
     },
     {
       "id": "cinemateca_20412",
@@ -1018,7 +1324,8 @@ window.CINEMA_DATA = {
       "plot": "A successful couple decide to separate and see other people.",
       "title_en": "The Wife Is a Bachelorette, the Husband Is a Bachelor",
       "country": "Philippines",
-      "director_lbxd_slug": "lino-brocka"
+      "director_lbxd_slug": "lino-brocka",
+      "title_en": "The Wife Is a Bachelorette, the Husband Is a Bachelor"
     },
     {
       "id": "cinemateca_20417",
