@@ -565,6 +565,110 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sam-taylor-johnson"
     },
     {
+      "id": "sao_jorge_12125",
+      "title": "Cantona",
+      "director": "Ben Nicholas, David Tryhorn",
+      "duration": 116,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/9/4/5/1/1529451-cantona-0-500-0-750-crop.jpg?v=efb3d0d088",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/cantona/",
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2026,
+      "plot": "Told largely in his own words, the remarkable story of Eric Cantona's journey from volatile French prodigy to Manchester United legend.",
+      "country": "UK",
+      "director_lbxd_slug": "david-tryhorn"
+    },
+    {
+      "id": "sao_jorge_12121",
+      "title": "In this Room",
+      "director": "Richard Swingle",
+      "duration": 93,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/1-scaled.webp",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/in-this-room/",
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "19:00",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "plot": "A man and a woman wake up in a blacked out room. Neither of them has any memory of who they are and how they got there. They discover that they are locked inside this room and that they are...",
+      "country": "UK",
+      "year": 2012
+    },
+    {
+      "id": "sao_jorge_12117",
+      "title": "O Nosso Último Filme sobre Lisboa",
+      "director": "Gabriel Mascaro",
+      "duration": 67,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/9/3/0/9/1059309-the-blue-trail-0-500-0-750-crop.jpg?v=94c97e57b0",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/o-nosso-ultimo-filme-sobre-lisboa/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 2025,
+      "plot": "In the name of economic recovery, the Brazilian Government created a perennial system of compulsory vertical isolation for seniors over 80 to be confined in a colony. Teca is 77 and lives in the village of Muriti, in the Amazon, when she is surprised by the announcement of the age reduction, including her age group. Cornered, Teca makes an intriguing journey hidden from the officers amidst rivers, boats and the underworld to clandestinely try to fulfill her last dream, to take a plane ride.",
+      "title_en": "The Blue Trail",
+      "country": "Brazil",
+      "director_lbxd_slug": "left-hand-rotation",
+      "rating": 3.72,
+      "plot_pt": "O Último Azul é um filme de drama e ficção científica de 2025, dirigido por Gabriel Mascaro com roteiro escrito por ele e Tibério Azul. O filme é uma coprodução internacional do Brasil, Chile, México e Países Baixos, tendo sido produzido pelas companhias produtoras Desvia Filmes, Cinevinay, Viking Film, Quijote Cine e Globo Filmes. Distribuído pela Vitrine Filmes, consta em seu elenco nomes como Denise Weinberg, Rodrigo Santoro, Miriam Socarrás, Adanilo, e Clarissa Pinheiro.\nA trama é ambientada no Brasil em um futuro distópico, onde o governo decreta que todos os idosos sejam transferidos para colônias habitacionais remotas, sob o pretexto de garantir uma velhice \"digna\".",
+      "stills": [
+        "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/9/3/0/9/tmdb/kStM4ybSFKHtpdudcFZbDDrlT9Z-1920-1920-1080-1080-crop-000000.jpg?v=9d0c48dd24"
+      ],
+      "stills_focus": [
+        38.2
+      ]
+    },
+    {
+      "id": "sao_jorge_12115",
+      "title": "Ala-Arriba!",
+      "director": "Salah Karim",
+      "duration": 91,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/8/9/3/1/848931-ala-0-500-0-750-crop.jpg?v=1fc98bd8bf",
+      "genres": [
+        "Documentary"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/ala-arriba/",
+      "sessions": [
+        {
+          "date": "2026-10-22",
+          "time": "19:15",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "year": 1969,
+      "plot": "Documents Harpur College's Afro-Latin Alliance.",
+      "country": "USA",
+      "director_lbxd_slug": "larry-gottheim",
+      "title_en": "El-Zawag ala el-Tariqah el-Hadithah"
+    },
+    {
       "id": "sao_jorge_12113",
       "title": "The Measured Everlasting Is 1.334 Billion Years",
       "director": null,
@@ -7221,6 +7325,26 @@ window.CINEMA_DATA = {
       "lbxd_slug": "mats-grorud",
       "photo": null,
       "bio": "Mats Grorud (born 1 August 1976) is a Norwegian director and animator. He is best known for his work on the films The Tower, Min Bestemor Beijing and more."
+    },
+    "Gabriel Mascaro": {
+      "lbxd_slug": "left-hand-rotation",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gabriel_Mascaro_at_Berlinale_2025.jpg/500px-Gabriel_Mascaro_at_Berlinale_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Gabriel Mascaro (born September 24, 1983) is a Brazilian visual artist and film director."
+    },
+    "Salah Karim": {
+      "lbxd_slug": "larry-gottheim",
+      "photo": null,
+      "bio": "Egyptian director"
+    },
+    "John Torres": {
+      "lbxd_slug": "john-torres",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jt_hshot_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "John Torres is an American songwriter and recording artist from Los Angeles."
+    },
+    "Adrian Sibley": {
+      "lbxd_slug": "adrian-sibley-1",
+      "photo": null,
+      "bio": null
     },
     "Lino Brocka": {
       "lbxd_slug": "lino-brocka",
