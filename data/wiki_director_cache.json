@@ -2757,7 +2757,7 @@
   "Taz F. Stark": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Pier Paolo Pasolini": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/PierPaoloPasolini_%28crop%29.jpg/500px-PierPaoloPasolini_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2797,7 +2797,7 @@
   "Gilles Pontecorvo": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Emmanuel Marre": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Emmanuel_Marre_at_the_2026_Cannes_Film_Festival_02.jpg/500px-Emmanuel_Marre_at_the_2026_Cannes_Film_Festival_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2837,6 +2837,11 @@
   "Charles Burnett": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Air_Chf_Mshl_Sir_Charles_Burnett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "bio": "Charles Burnett may refer to:\n\nCharles Burnett (director) (born 1944), American film director\nCharles Burnett (officer of arms) (1940–2024), Scottish Officer of Arms\nCharles Burnett (RAF officer) (1882–1945), Royal Air Force officer and Australian Chief of the Air Staff\nCharles Hiram Burnett Sr.",
+    "tries": 1
+  },
+  "Denis Côté": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Denis_C%C3%B4t%C3%A9_at_the_79th_Locarno_Film_Festival_2026_01_%28cropped%29.jpg/500px-Denis_C%C3%B4t%C3%A9_at_the_79th_Locarno_Film_Festival_2026_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Denis Côté (born November 16, 1973) is a Canadian filmmaker and producer from Quebec, and of Brayon origin. His experimental films have been shown at major film festivals around the world.",
     "tries": 1
   }
 }

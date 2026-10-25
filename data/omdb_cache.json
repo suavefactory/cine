@@ -27261,7 +27261,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "74080",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Vereda Tropical|1977": {
     "lbxd": null,
@@ -86139,7 +86139,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1235286",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "FANTASY|None": {
     "lbxd": {
@@ -86195,7 +86195,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "372265",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "THE VEIL OF SENSES + AURA + SIGNS FROM BELOW + THE GAZE + OUR HOMES DO NOT EXIST + PEOPLE, PLACES, PIERS|None": {
     "lbxd": null,
@@ -86244,7 +86244,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1126694",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "WAITHOOD|None": {
     "lbxd": null,
@@ -86328,7 +86328,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1462658",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "MY RAY OF SUNSHINE + HERE OR HERE + PAST FUTURE CONTINUOUS|None": {
     "lbxd": null,
@@ -86408,7 +86408,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1462784",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "LOVE AND THE OTHERS + WHERE AM I IN MY STORY?|None": {
     "lbxd": null,
@@ -87840,7 +87840,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/5/0/1/5/8/tmdb/t935ImPiov88IxrFcMzfAtLfwmr-1920-1920-1080-1080-crop-000000.jpg?v=61c1779710"
     ],
     "tmdb_id": "1473439",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Christophers|2025": {
     "lbxd": {
@@ -88218,7 +88218,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1728686",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Butterfly Jam|2026": {
     "lbxd": {
@@ -88288,7 +88288,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "920647",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Scherzetto|2023": {
     "lbxd": {
@@ -88326,7 +88326,8 @@
     "stills": [
       "https://medeiafilmes.com/uploads/library/scherzetto.jpg"
     ],
-    "tmdb_id": "1606776"
+    "tmdb_id": "1606776",
+    "wiki_tries": 1
   },
   "Kapò|1960": {
     "lbxd": {
@@ -88529,7 +88530,7 @@
       "https://medeiafilmes.com/uploads/library/fv_web_aztlan_header_1920x847.jpg"
     ],
     "tmdb_id": "261202",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Showing Up|2022": {
     "lbxd": {
@@ -88680,7 +88681,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/5/0/3/8/tmdb/39bNBSNYpGfrN4eac6ZIn6v5rnt-1920-1920-1080-1080-crop-000000.jpg?v=10bb4f46f1"
     ],
     "tmdb_id": "1550622",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Certain Women|2016": {
     "lbxd": {
@@ -88846,7 +88847,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/4/9/9/2/4/tmdb/m1kCODE9BjIxN7xnP3qVJp9Yceu-1920-1920-1080-1080-crop-000000.jpg?v=239bf18fda"
     ],
     "tmdb_id": "1472813",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Dreamed Adventure|2026": {
     "lbxd": {
@@ -88995,7 +88996,7 @@
       "https://medeiafilmes.com/uploads/library/la-derive-une-fille-a-la-derive.jpg"
     ],
     "tmdb_id": "272060",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Despedida de Ontem|1966": {
     "lbxd": {
@@ -89062,7 +89063,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/to/nu/0i/fb/cpi0WITSxBIPaAzqtXV7TJgWquN-1920-1920-1080-1080-crop-000000.jpg?v=b70a8864b7"
     ],
     "tmdb_id": "89785",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Hugo – Victor comme tout le monde|2026": {
     "lbxd": {
@@ -89108,7 +89109,7 @@
       "https://medeiafilmes.com/uploads/library/victor-3.jpg"
     ],
     "tmdb_id": "1454680",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Estrangeiro (1945)|1945": {
     "lbxd": {
@@ -89129,7 +89130,11 @@
       "tmdb_id": "20246"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Stranger (1946 film)",
+      "imdb_id": "tt0038991",
+      "extract_pt": "The Stranger (prt: O Estrangeiro; bra: O Estranho) é um filme estadunidense de 1946, do gênero suspense em estilo noir, escrito (entre outros), dirigido e estrelado por Orson Welles.\nTraz imagens de campos de concentração na II Guerra Mundial. Depois de Cidadão Kane, foi o filme de Welles mais bem acolhido pelo público, mas ainda assim não conseguiu lucros no lançamento para os produtores. O filme atualmente está sob domínio público."
+    },
     "cinema": {
       "original_title": "The Stranger",
       "plot_pt": "Um inspetor da Comissão de Crimes de Guerra chega a uma pequena cidade do Connecticut à procura de um antigo nazi, agora professor universitário e noivo da filha de um juiz do Supremo Tribunal. Sob a superfície ordeira da vida americana, a sua investigação expõe uma sociedade na qual os autores de atrocidades podem encontrar refúgio nas próprias instituições que personificam a autoridade.",
@@ -89150,7 +89155,8 @@
       "https://medeiafilmes.com/uploads/library/the-stranger.jpg",
       "https://medeiafilmes.com/uploads/library/oscupz9uxvuoca6aqsskns1unlq.jpg"
     ],
-    "tmdb_id": "20246"
+    "tmdb_id": "20246",
+    "wiki_tries": 1
   },
   "Pink Flamingos|1972": {
     "lbxd": {
@@ -89341,7 +89347,7 @@
       "https://medeiafilmes.com/uploads/library/kme67wax5cycfaedskrmwzyy6r3.jpeg"
     ],
     "tmdb_id": "91735",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "De Olhos Bem Fechados|1999": {
     "lbxd": {
@@ -89617,5 +89623,36 @@
       "https://medeiafilmes.com/uploads/library/oscupz9uxvuoca6aqsskns1unlq.jpg"
     ],
     "tmdb_id": "20246"
+  },
+  "Mariage au goût d’orange|2026": {
+    "lbxd": {
+      "rating": 3.39,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/7/1/0/9/1437109-orange-flavoured-wedding-0-500-0-750-crop.jpg?v=02de4e1a9c",
+      "description": "The Puig family has seven children. And today is the wedding of the youngest: Jacques. It's March 1978 in a church in a suburb of Nantes. The father isn't attending the wedding; he's been banished from the family. Jacques is marrying Martine, a young woman who lives in the same neighborhood. It's a love match. But can love heal the wounds of childhood?",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Christophe Honoré",
+      "lb_director_slug": "christophe-honore-1",
+      "lb_year": 2026,
+      "lb_title": "Orange-Flavoured Wedding",
+      "backdrop": null,
+      "imdb_id": "tt42007277",
+      "tmdb_id": "1563891"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Mariage au goût d’orange",
+      "plot_pt": "Março de 1978, arredores de Nantes. No dia do casamento de Jacques, o filho mais novo da família Puig, o pai não está presente, mas irmãos e irmãs — sete no total — demonstram a sua alegria no reencontro. Essa troca de alianças com Martine é resultado do amor. Um amor que deverá resistir a segredos e feridas de infância, revelados com o avançar da festa… Mariage au goût d’orange é uma adaptação da peça Le Ciel de Nantes, do próprio Christophe Honoré.",
+      "country": "FR",
+      "year": 2026,
+      "director": "Christophe Honoré"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1563891"
   }
 }
