@@ -86984,7 +86984,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1235286",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "FANTASY|1976": {
     "lbxd": null,
@@ -87017,7 +87017,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1126694",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "WAITHOOD|2019": {
     "lbxd": {
@@ -87090,7 +87090,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1462658",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "LIFE IN A BEAT|2025": {
     "lbxd": {
@@ -87146,7 +87146,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1462784",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "DAMAS|2022": {
     "lbxd": null,
@@ -89541,7 +89541,8 @@
     "stills": [
       "https://medeiafilmes.com/uploads/library/scherzetto.jpg"
     ],
-    "tmdb_id": "1606776"
+    "tmdb_id": "1606776",
+    "wiki_tries": 1
   },
   "O Estrangeiro (1945)|1946": {
     "lbxd": {
@@ -89601,7 +89602,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Stranger (1946 film)",
+      "imdb_id": "tt0038991",
+      "extract_pt": "The Stranger (prt: O Estrangeiro; bra: O Estranho) é um filme estadunidense de 1946, do gênero suspense em estilo noir, escrito (entre outros), dirigido e estrelado por Orson Welles.\nTraz imagens de campos de concentração na II Guerra Mundial. Depois de Cidadão Kane, foi o filme de Welles mais bem acolhido pelo público, mas ainda assim não conseguiu lucros no lançamento para os produtores. O filme atualmente está sob domínio público."
+    },
     "cinema": {
       "original_title": "The Stranger",
       "plot_pt": "Um inspetor da Comissão de Crimes de Guerra chega a uma pequena cidade do Connecticut à procura de um antigo nazi, agora professor universitário e noivo da filha de um juiz do Supremo Tribunal. Sob a superfície ordeira da vida americana, a sua investigação expõe uma sociedade na qual os autores de atrocidades podem encontrar refúgio nas próprias instituições que personificam a autoridade.",
@@ -89622,7 +89627,82 @@
       "https://medeiafilmes.com/uploads/library/the-stranger.jpg",
       "https://medeiafilmes.com/uploads/library/oscupz9uxvuoca6aqsskns1unlq.jpg"
     ],
-    "tmdb_id": "20246"
+    "tmdb_id": "20246",
+    "wiki_tries": 1
+  },
+  "O Nosso Último Filme sobre Lisboa|2025": {
+    "lbxd": {
+      "rating": 3.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/9/3/0/9/1059309-the-blue-trail-0-500-0-750-crop.jpg?v=94c97e57b0",
+      "description": "In the name of economic recovery, the Brazilian Government created a perennial system of compulsory vertical isolation for seniors over 80 to be confined in a colony. Teca is 77 and lives in the village of Muriti, in the Amazon, when she is surprised by the announcement of the age reduction, including her age group. Cornered, Teca makes an intriguing journey hidden from the officers amidst rivers, boats and the underworld to clandestinely try to fulfill her last dream, to take a plane ride.",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "country": "Brazil",
+      "lb_director": "Gabriel Mascaro",
+      "lb_director_slug": "gabriel-mascaro",
+      "lb_year": 2025,
+      "lb_title": "The Blue Trail",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/9/3/0/9/tmdb/kStM4ybSFKHtpdudcFZbDDrlT9Z-1920-1920-1080-1080-crop-000000.jpg?v=9d0c48dd24",
+      "imdb_id": "tt35340614",
+      "tmdb_id": "1172265"
+    },
+    "omdb": {
+      "Title": "The Blue Trail",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "28 Aug 2025",
+      "Runtime": "85 min",
+      "Genre": "Drama, Sci-Fi",
+      "Director": "Gabriel Mascaro",
+      "Writer": "Gabriel Mascaro, Tibério Azul, Murilo Hauser",
+      "Actors": "Denise Weinberg, Rodrigo Santoro, Miriam Socarras",
+      "Plot": "To maximize economic productivity, the Brazilian government orders elderly people to move to remote housing colonies. A 77-year-old woman refuses and embarks on a journey through the Amazon that will change her destiny forever.",
+      "Language": "Portuguese",
+      "Country": "Brazil, Mexico, Netherlands, Chile",
+      "Awards": "14 wins & 36 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1OWIzNzMtY2VlYy00NTc0LTk2NjQtMWFiOTdmYTNhYjg1XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.0",
+      "imdbVotes": "4,577",
+      "imdbID": "tt35340614",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$64,791",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Blue Trail",
+      "imdb_id": "tt35340614",
+      "extract_pt": "O Último Azul é um filme de drama e ficção científica de 2025, dirigido por Gabriel Mascaro com roteiro escrito por ele e Tibério Azul. O filme é uma coprodução internacional do Brasil, Chile, México e Países Baixos, tendo sido produzido pelas companhias produtoras Desvia Filmes, Cinevinay, Viking Film, Quijote Cine e Globo Filmes. Distribuído pela Vitrine Filmes, consta em seu elenco nomes como Denise Weinberg, Rodrigo Santoro, Miriam Socarrás, Adanilo, e Clarissa Pinheiro.\nA trama é ambientada no Brasil em um futuro distópico, onde o governo decreta que todos os idosos sejam transferidos para colônias habitacionais remotas, sob o pretexto de garantir uma velhice \"digna\"."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      38.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/9/3/0/9/tmdb/kStM4ybSFKHtpdudcFZbDDrlT9Z-1920-1920-1080-1080-crop-000000.jpg?v=9d0c48dd24"
+    ],
+    "tmdb_id": "1172265"
   },
   "Mariage au goût d’orange|2026": {
     "lbxd": {

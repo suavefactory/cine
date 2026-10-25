@@ -6760,6 +6760,46 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "French film director (born 1986)"
     },
+    "Grace Passô": {
+      "lbxd_slug": "grace-passo",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Grace_Pass%C3%B4.jpg/500px-Grace_Pass%C3%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Grace Passô (born May 20, 1980) is a Brazilian actress, director and playwright. Her film acting credits include Temporada and Praça Paris. As a writer, Passô has won the Associação Paulista de Críticos de Arte Award for \"Best Playwright."
+    },
+    "Eddie Romero": {
+      "lbxd_slug": "sam-taylor-johnson",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Eddie_Romero2007.jpg/500px-Eddie_Romero2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Edgar Sinco Romero,  (July 7, 1924 – May 28, 2013), commonly known as Eddie Romero, was a Filipino film director, film producer and screenwriter."
+    },
+    "Ben Nicholas, David Tryhorn": {
+      "lbxd_slug": "david-tryhorn",
+      "photo": null,
+      "bio": null
+    },
+    "Richard Swingle": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Gabriel Mascaro": {
+      "lbxd_slug": "left-hand-rotation",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gabriel_Mascaro_at_Berlinale_2025.jpg/500px-Gabriel_Mascaro_at_Berlinale_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Gabriel Mascaro (born September 24, 1983) is a Brazilian visual artist and film director."
+    },
+    "Salah Karim": {
+      "lbxd_slug": "larry-gottheim",
+      "photo": null,
+      "bio": "Egyptian director"
+    },
+    "Mats Grorud": {
+      "lbxd_slug": "mats-grorud",
+      "photo": null,
+      "bio": "Mats Grorud (born 1 August 1976) is a Norwegian director and animator. He is best known for his work on the films The Tower, Min Bestemor Beijing and more."
+    },
+    "Lino Brocka": {
+      "lbxd_slug": "lino-brocka",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NAAW-Lino-Brocka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Catalino Ortiz Brocka (April 3, 1939 – May 22, 1991) was a Filipino film director. He is widely regarded as one of the greatest and most important filmmakers in the history of Philippine cinema. Brocka directed over 60 films across two decades that span a variety of genres, with his acclaimed work combining elements of melodrama and social realism."
+    },
     "Leitão de Barros": {
       "lbxd_slug": "jose-leitao-de-barros-1",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leitaodebarros.jpg/500px-Leitaodebarros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
