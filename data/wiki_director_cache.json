@@ -2843,5 +2843,20 @@
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Gabriel_Mascaro_at_Berlinale_2025.jpg/500px-Gabriel_Mascaro_at_Berlinale_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Gabriel Mascaro (born September 24, 1983) is a Brazilian visual artist and film director.",
     "tries": 1
+  },
+  "Ken Annakin": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/59/Ken_Annakin_-_1969.jpg/500px-Ken_Annakin_-_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Kenneth Cooper Annakin,  (10 August 1914 – 22 April 2009) was an English filmmaker. His career spanned half a century, beginning in the early 1940s and ending in 1992, and in the 1960s he was noticed by critics with large-scale adventure epic and comedies films, like Swiss Family Robinson, The Longest Day, Those Magnificent Men in Their Flying Machines, Battle of the Bulge, The Biggest Bundle of Them All  and Monte Carlo or Bust!. He was an Academy Award and Directors Guild of America Award nominee, and received the Order of the British Empire in 2002.",
+    "tries": 1
+  },
+  "For the Moon": {
+    "photo": null,
+    "bio": "creative work by Erin Elizabeth, Scott Benish",
+    "tries": 1
+  },
+  "Hipogeus + A Voz de Todos": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }
