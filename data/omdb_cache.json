@@ -44073,7 +44073,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1548931"
+    "tmdb_id": "1548931",
+    "wiki_tries": 1
   },
   "Farpões Baldios|2017": {
     "lbxd": {
@@ -87090,7 +87091,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1462658",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "LIFE IN A BEAT|2025": {
     "lbxd": {
@@ -87146,7 +87147,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1462784",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "DAMAS|2022": {
     "lbxd": null,
@@ -89542,7 +89543,7 @@
       "https://medeiafilmes.com/uploads/library/scherzetto.jpg"
     ],
     "tmdb_id": "1606776",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Estrangeiro (1945)|1946": {
     "lbxd": {
@@ -89734,7 +89735,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1563891",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Tristeza e Alegria na Vida das Girafas|None": {
     "lbxd": {
@@ -89919,5 +89920,193 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Tristeza e Alegria na Vida das Girafas|2019": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/2/7/2/8/5/527285-sadness-and-joy-in-the-life-of-giraffes-0-500-0-750-crop.jpg?v=1a66fe05fe",
+      "description": "The economic crisis, a teddy bear with suicidal tendencies named Judy Garland, the Discovery Channel, a black panther and the Russian playwright Anton Tchekhov are all part of the heroic adventure of a little girl who has a problem to solve.",
+      "genres": [
+        "Adventure"
+      ],
+      "country": "Portugal",
+      "lb_director": "Tiago Guedes",
+      "lb_director_slug": "tiago-guedes",
+      "lb_year": 2019,
+      "lb_title": "Sadness and Joy in the Life of Giraffes",
+      "backdrop": null,
+      "imdb_id": "tt4610978",
+      "tmdb_id": "600039"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "List of Portuguese films of 2019",
+      "imdb_id": null,
+      "extract_pt": "Lista de filmes portugueses de longa-metragem lançados comercialmente em Portugal em 2019, nas salas de cinemas.\n\nNota: Na coluna coprodução, passando o cursor sobre a bandeira aparecerá o nome do país correspondente."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "600039"
+  },
+  "Amadeus – Director’s Cut|1984": {
+    "lbxd": {
+      "rating": 4.37,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-500-0-750-crop.jpg?v=907dc282ae",
+      "description": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+      "genres": [
+        "Drama",
+        "History",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Miloš Forman",
+      "lb_director_slug": "milos-forman",
+      "lb_year": 1984,
+      "lb_title": "Amadeus",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/93/25/ds/ar/amadeus-1920-1920-1080-1080-crop-000000.jpg?v=6c64f3c798",
+      "imdb_id": "tt0086879",
+      "tmdb_id": "279"
+    },
+    "omdb": {
+      "Title": "Amadeus",
+      "Year": "1984",
+      "Rated": "PG",
+      "Released": "19 Sep 1984",
+      "Runtime": "160 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Miloš Forman",
+      "Writer": "Peter Shaffer, Zdenek Mahler",
+      "Actors": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge",
+      "Plot": "In 18th-century Vienna, court composer Antonio Salieri becomes awed and consumed by envy when the gifted, irreverent Wolfgang Amadeus Mozart bursts onto the imperial music scene.",
+      "Language": "English, Italian, Latin, German, French",
+      "Country": "United States, France",
+      "Awards": "Won 8 Oscars. 47 wins & 19 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "8.4",
+      "imdbVotes": "474,296",
+      "imdbID": "tt0086879",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$51,973,029",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Amadeus (film)",
+      "imdb_id": "tt0086879",
+      "extract_pt": "Amadeus é um filme épico americano de 1984, do gênero drama biográfico e musical, dirigido por Milos Forman com roteiro de Peter Shaffer baseado em sua peça homônima, livremente inspirada na vida dos compositores Wolfgang Amadeus Mozart e Antonio Salieri.\nO filme foi indicado para 53 prêmios, e recebeu 40, incluindo oito Oscars (entre eles o de melhor filme), quatro prêmios BAFTA, quatro Globos de Ouro e um prêmio DGA.\nEm 1998, Amadeus foi classificado como o 53º melhor filme dos Estados Unidos pelo American Film Institute, em sua lista AFI's 100 Years… 100 Movies."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      34.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/93/25/ds/ar/amadeus-1920-1920-1080-1080-crop-000000.jpg?v=6c64f3c798"
+    ],
+    "tmdb_id": "279"
+  },
+  "L’âge d’or|1930": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/3/48693-lage-dor-0-500-0-750-crop.jpg?v=5d71879827",
+      "description": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1930,
+      "lb_title": "L'Âge d'or",
+      "backdrop": null,
+      "imdb_id": "tt0021577",
+      "tmdb_id": "5729"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "L'Age d'Or",
+      "imdb_id": "tt0021577",
+      "extract_pt": "A Idade do Ouro (francês: L'âge d'or) é um filme francês de 1930, dirigido por Luis Buñuel e escrito por Salvador Dalí. É o segundo filme de Buñuel. Neste filme merece destaque a participação do pintor Max Ernst, como líder de um grupo de bandidos.\nO que faz a \"A Idade do Ouro\" ser tão polêmico é a forma como Buñuel trata os dogmas da sociedade e, principalmente, da Igreja Católica."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "5729"
+  },
+  "PAPER TIGER|1975": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-500-0-750-crop.jpg?v=355717e725",
+      "description": "A somewhat prim and proper Englishman is hired as the tutor to the son of the Japanese ambassador. His life changes when he and the boy are kidnapped by terrorists for political purposes.",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Ken Annakin",
+      "lb_director_slug": "ken-annakin",
+      "lb_year": 1975,
+      "lb_title": "Paper Tiger",
+      "backdrop": null,
+      "imdb_id": "tt0073511",
+      "tmdb_id": "105240"
+    },
+    "omdb": {
+      "Title": "Paper Tiger",
+      "Year": "1975",
+      "Rated": "PG",
+      "Released": "05 Nov 1975",
+      "Runtime": "99 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Ken Annakin",
+      "Writer": "Jack Davies",
+      "Actors": "David Niven, Toshirô Mifune, Hardy Krüger",
+      "Plot": "A somewhat prim and proper Englishman is hired as the tutor to the son of the Japanese ambassador. His life changes when he and the boy are kidnapped by terrorists for political purposes.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3Nzk5OTQtMGY0Yi00M2FiLThlZWItNjI1ZmVjZTc2MWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "774",
+      "imdbID": "tt0073511",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "105240"
   }
 }
