@@ -44074,7 +44074,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1548931",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Farpões Baldios|2017": {
     "lbxd": {
@@ -86985,7 +86985,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1235286",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "FANTASY|1976": {
     "lbxd": null,
@@ -87018,7 +87018,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1126694",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "WAITHOOD|2019": {
     "lbxd": {
@@ -89543,7 +89543,7 @@
       "https://medeiafilmes.com/uploads/library/scherzetto.jpg"
     ],
     "tmdb_id": "1606776",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Estrangeiro (1945)|1946": {
     "lbxd": {
@@ -90111,7 +90111,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "105240"
+    "tmdb_id": "105240",
+    "wiki_tries": 1
   },
   "Gaby Baby Doll|None": {
     "lbxd": {
@@ -90862,6 +90863,763 @@
     "tmdb_id": "558582"
   },
   "Soudain|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Soudain",
+      "Year": "2007",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "1 min",
+      "Genre": "Animation, Short",
+      "Director": "Vân Ta-Minh",
+      "Writer": "Vân Ta-Minh",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 nomination.",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt3210562",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Gaby Baby Doll|2014": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/4/4/7/3/234473-gaby-baby-doll-0-500-0-750-crop.jpg?v=302208f584",
+      "description": "Gaby mustn’t be left alone at night. Yet that’s exactly what her boyfriend Vincent does, to test her love for him. She struggles against her natural instincts and quickly exhausts the patience of the local guys. But Gaby decides to turn to castle warden Nicolas, an expert in loneliness, for help.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Sophie Letourneur",
+      "lb_director_slug": "sophie-letourneur",
+      "lb_year": 2014,
+      "lb_title": "Gaby Baby Doll",
+      "backdrop": null,
+      "imdb_id": "tt3446862",
+      "tmdb_id": "307314"
+    },
+    "omdb": {
+      "Title": "Gaby Baby Doll",
+      "Year": "2014",
+      "Rated": "N/A",
+      "Released": "17 Dec 2014",
+      "Runtime": "88 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sophie Letourneur",
+      "Writer": "Sophie Letourneur, Anne-Louise Trividic",
+      "Actors": "Lolita Chammah, Benjamin Biolay, Félix Moati",
+      "Plot": "Gaby cannot stay alone, she's afraid of the dark, of everything. And she lives alone in an isolated country house.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGFkOTc4ODUtZmZlMy00NWQ3LTg0ZjItMTQ2ODMwYjM4ZDVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "229",
+      "imdbID": "tt3446862",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "307314"
+  },
+  "Elephants in the Fog|2026": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/5/4/8/3/1525483-elephants-in-the-fog-0-500-0-750-crop.jpg?v=9207c4cefc",
+      "description": "In a small Nepalese village nestled in the heart of a forest populated by wild elephants, Pirati is the matriarch of a Kinnar community. She dreams of escaping to a “normal” life with the man she is in love with. But when one of her daughters disappears, she must investigate and choose between love and responsibility to her community.",
+      "genres": [
+        "Thriller"
+      ],
+      "country": "Nepal",
+      "lb_director": "Abinash Bikram Shah",
+      "lb_director_slug": "abinash-bikram-shah",
+      "lb_year": 2026,
+      "lb_title": "Elephants in the Fog",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/1h/hz/x1/53/w0AOm8rAqRz5n0sjhKuLFW4dLhl-1920-1920-1080-1080-crop-000000.jpg?v=2e2ac204ca",
+      "imdb_id": "tt29279937",
+      "tmdb_id": "1661926"
+    },
+    "omdb": {
+      "Title": "Elephants in the Fog",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "20 May 2026",
+      "Runtime": "103 min",
+      "Genre": "Drama",
+      "Director": "Abinash Bikram Shah",
+      "Writer": "Abinash Bikram Shah, Sandeep Badal",
+      "Actors": "Maotse Gurung, Akanchha Karki, Dura Sanjay Gupta",
+      "Plot": "Follows Pirati, matriarch of a Kinnar community in a Nepalese village, who dreams of escaping to a normal life. When one of her daughters disappears, she must investigate and choose between love and responsibility.",
+      "Language": "N/A",
+      "Country": "Nepal, France",
+      "Awards": "1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGE5NzMxMGYtNDUzYS00OTJiLTllNmEtYTZjNTY2ODM0ODc3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "44",
+      "imdbID": "tt29279937",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/1h/hz/x1/53/w0AOm8rAqRz5n0sjhKuLFW4dLhl-1920-1920-1080-1080-crop-000000.jpg?v=2e2ac204ca"
+    ],
+    "tmdb_id": "1661926"
+  },
+  "Green Fish|1997": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/0/4/1/79041-green-fish-0-500-0-750-crop.jpg?v=a34dd4f5d7",
+      "description": "Returning home and finding his town drastically changed, a former soldier falls in with gangsters.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "South Korea",
+      "lb_director": "Lee Chang-dong",
+      "lb_director_slug": "lee-chang-dong",
+      "lb_year": 1997,
+      "lb_title": "Green Fish",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/i6/x9/w0/1e/652SQhVACFKeoElbCSsuOeiyukD-1920-1920-1080-1080-crop-000000.jpg?v=1281ad8ce6",
+      "imdb_id": "tt0126838",
+      "tmdb_id": "95482"
+    },
+    "omdb": {
+      "Title": "Green Fish",
+      "Year": "1997",
+      "Rated": "N/A",
+      "Released": "07 Feb 1997",
+      "Runtime": "111 min",
+      "Genre": "Crime, Drama",
+      "Director": "Lee Chang-dong",
+      "Writer": "Lee Chang-dong",
+      "Actors": "Han Suk-kyu, Shim Hye-jin, Moon Sung-keun",
+      "Plot": "Returning home and finding his town drastically changed, a former soldier falls in with gangsters.",
+      "Language": "Korean",
+      "Country": "South Korea",
+      "Awards": "20 wins & 7 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGNkNjI1ZjEtZDdjYS00OTdiLWFmNzItNzY5Njc2NTRjOWI5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "2,784",
+      "imdbID": "tt0126838",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/i6/x9/w0/1e/652SQhVACFKeoElbCSsuOeiyukD-1920-1920-1080-1080-crop-000000.jpg?v=1281ad8ce6"
+    ],
+    "tmdb_id": "95482"
+  },
+  "The Debut|2000": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/4/0/5/26405-the-debut-0-500-0-750-crop.jpg?v=0f3fd3c9b3",
+      "description": "Filipino-American high school student Ben works in a comic book shop to earn money to pay his way into Cal Arts. His father, a postman, is determined that his son, who has won a pre-med scholarship to UCLA, will become a doctor. The eighteenth birthday party of Ben's sister, Rose, sets off a comedic and touching series of events and family struggles that will in turn determine young Ben's future.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Gene Cajayon",
+      "lb_director_slug": "gene-cajayon",
+      "lb_year": 2000,
+      "lb_title": "The Debut",
+      "backdrop": null,
+      "imdb_id": "tt0163745",
+      "tmdb_id": "38135"
+    },
+    "omdb": {
+      "Title": "The Debut",
+      "Year": "2000",
+      "Rated": "R",
+      "Released": "13 Aug 2003",
+      "Runtime": "88 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Gene Cajayon",
+      "Writer": "Gene Cajayon, John Manal Castro",
+      "Actors": "Dante Basco, Eddie Garcia, Jayson Schaal",
+      "Plot": "A young man struggles with his desire to study art when his family thinks he's headed for premedical studies. Conflicts between Filipino traditions and expectations vs. personal dreams in the contemporary world erupt at his sister...",
+      "Language": "English, Tagalog, Filipino",
+      "Country": "United States",
+      "Awards": "4 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjg2MTEzMTgtMzhkZS00MTIxLWIwMjgtMTNiMTE2NTliYTJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "71%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "6.5",
+      "imdbVotes": "701",
+      "imdbID": "tt0163745",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,745,778",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "38135"
+  },
+  "Nagi Notes|2026": {
+    "lbxd": {
+      "rating": 3.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/5/7/5/2/1325752-nagi-notes-0-500-0-750-crop.jpg?v=a881521ebb",
+      "description": "Yoriko, an artist living in rural Nagi, is haunted by a former love affair she cannot bear to mourn. When Yuri, a recently separated architect, travels from Tokyo to visit her friend and former sister-in-law, both women find themselves at a crossroad, each searching for ways to let go of the past and define their identities. Yuri's brief escape from the city settles into a quiet confrontation of loss and probing for the two women in bucolic Nagi.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Koji Fukada",
+      "lb_director_slug": "koji-fukada",
+      "lb_year": 2026,
+      "lb_title": "Nagi Notes",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/2/5/7/5/2/tmdb/lnJ3R511iTJbQjemBole0MJDn6g-1920-1920-1080-1080-crop-000000.jpg?v=0d69dd3ad6",
+      "imdb_id": "tt28551050",
+      "tmdb_id": "1448971"
+    },
+    "omdb": {
+      "Title": "Nagi Notes",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "13 May 2026",
+      "Runtime": "110 min",
+      "Genre": "Drama",
+      "Director": "Koji Fukada",
+      "Writer": "Koji Fukada, Oriza Hirata",
+      "Actors": "Takako Matsu, Ken&apos;ichi Matsuyama, Shizuka Ishibashi",
+      "Plot": "Set in rural Nagi, Okayama Prefecture, it follows sculptor Yoriko, carrying unhealed loss, whose quiet life is disrupted when friend Yuri, a Tokyo/Taiwan-based architect, arrives to model for her work.",
+      "Language": "N/A",
+      "Country": "Japan, France, Philippines, Singapore",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjczZTEzYjMtMWQ4ZC00NzczLWEyMTYtNzU3M2ZhN2QwMTEyXkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "6.0",
+      "imdbVotes": "70",
+      "imdbID": "tt28551050",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/2/5/7/5/2/tmdb/lnJ3R511iTJbQjemBole0MJDn6g-1920-1920-1080-1080-crop-000000.jpg?v=0d69dd3ad6"
+    ],
+    "tmdb_id": "1448971"
+  },
+  "L’âge d’or – Cineconcerto|1930": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/3/48693-lage-dor-0-500-0-750-crop.jpg?v=5d71879827",
+      "description": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1930,
+      "lb_title": "L'Âge d'or",
+      "backdrop": null,
+      "imdb_id": "tt0021577",
+      "tmdb_id": "5729"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "L'Age d'Or",
+      "imdb_id": "tt0021577",
+      "extract_pt": "A Idade do Ouro (francês: L'âge d'or) é um filme francês de 1930, dirigido por Luis Buñuel e escrito por Salvador Dalí. É o segundo filme de Buñuel. Neste filme merece destaque a participação do pintor Max Ernst, como líder de um grupo de bandidos.\nO que faz a \"A Idade do Ouro\" ser tão polêmico é a forma como Buñuel trata os dogmas da sociedade e, principalmente, da Igreja Católica."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "5729"
+  },
+  "Night Moves|1975": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/7/0/1/30701-night-moves-0-500-0-750-crop.jpg?v=b65152bdf2",
+      "description": "Private detective and former football player Harry Moseby gets hired on to what seems a standard missing person case - a former Hollywood actress wants Moseby to find and return her daughter. Harry travels to Florida to find her, but he begins to see a connection between the runaway girl, the world of Hollywood stuntmen, and a suspicious mechanic when an unsolved murder comes to light.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Arthur Penn",
+      "lb_director_slug": "arthur-penn",
+      "lb_year": 1975,
+      "lb_title": "Night Moves",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ka/bs/xy/nr/7-1920-1920-1080-1080-crop-000000.jpg?v=f285470cc1",
+      "imdb_id": "tt0073453",
+      "tmdb_id": "32042"
+    },
+    "omdb": {
+      "Title": "Night Moves",
+      "Year": "1975",
+      "Rated": "R",
+      "Released": "30 Aug 1975",
+      "Runtime": "100 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Arthur Penn",
+      "Writer": "Alan Sharp",
+      "Actors": "Gene Hackman, Jennifer Warren, Edward Binns",
+      "Plot": "Los Angeles private investigator Harry Moseby is hired by a client to find her runaway teenage daughter. Moseby tracks the daughter down, only to stumble upon something much more intriguing and sinister.",
+      "Language": "English, Spanish, French",
+      "Country": "United States",
+      "Awards": "Nominated for 1 BAFTA Award. 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYyOWM0ZGQtYzQ4My00NGY3LTg1YTctYTQ5NzY3ODBmN2Q2XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.1",
+      "imdbVotes": "21,761",
+      "imdbID": "tt0073453",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/ka/bs/xy/nr/7-1920-1920-1080-1080-crop-000000.jpg?v=f285470cc1"
+    ],
+    "tmdb_id": "32042"
+  },
+  "Manderlay|2005": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/6/5/7/50657-manderlay-0-500-0-750-crop.jpg?v=7a1eec5091",
+      "description": "In 1933, a young woman and her father discover an Alabama plantation whose inhabitants live as if slavery had never been abolished. Feeling a sense of duty to those behind the heavy gates, she stays to liberate the people and see them through their first harvest. With four of her father's colleagues and a lawyer, she faces the daunting task of resurrecting the place known as Manderlay.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Denmark",
+      "lb_director": "Lars von Trier",
+      "lb_director_slug": "lars-von-trier",
+      "lb_year": 2005,
+      "lb_title": "Manderlay",
+      "backdrop": null,
+      "imdb_id": "tt0342735",
+      "tmdb_id": "1951"
+    },
+    "omdb": {
+      "Title": "Manderlay",
+      "Year": "2005",
+      "Rated": "Not Rated",
+      "Released": "03 Jun 2005",
+      "Runtime": "139 min",
+      "Genre": "Drama",
+      "Director": "Lars von Trier",
+      "Writer": "Lars von Trier",
+      "Actors": "Bryce Dallas Howard, Isaach De Bankolé, Danny Glover",
+      "Plot": "A story of slavery, set in the southern U.S. in the 1930s.",
+      "Language": "English",
+      "Country": "Denmark, Sweden, Netherlands, France, Germany, United Kingdom, Italy, United States",
+      "Awards": "1 win & 16 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM0NGQ3MTQtZDFhMy00NmFjLWFjN2QtNzljOWYyM2QzN2M4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "46/100"
+        }
+      ],
+      "Metascore": "46",
+      "imdbRating": "7.2",
+      "imdbVotes": "25,547",
+      "imdbID": "tt0342735",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$78,378",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Manderlay",
+      "imdb_id": "tt0342735",
+      "extract_pt": "Manderlay é um filme dirigido por Lars von Trier. É o segundo filme da trilogia projetada USA – Land of Opportunities, sendo precedido por Dogville, do mesmo diretor. Anthony Dod Mantle e Peter Grant foram responsáveis pela Direção de Fotografia e Direção de Arte, respectivamente."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1951"
+  },
+  "Ebenezer|1998": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/6/1/4/28614-ebenezer-0-500-0-750-crop.jpg?v=ed81f9df0c",
+      "description": "A Wild West retelling of Dickens' 'A Christmas Carol,\" with Scrooge as a land baron, gunfighter, and card cheat who is visited by three spirits who attempt to teach him the true meaning of Christmas.",
+      "genres": [
+        "Fantasy",
+        "Tv Movie",
+        "Drama",
+        "Western"
+      ],
+      "country": "Canada",
+      "lb_director": "Ken Jubenvill",
+      "lb_director_slug": "ken-jubenvill",
+      "lb_year": 1998,
+      "lb_title": "Ebenezer",
+      "backdrop": null,
+      "imdb_id": "tt0133727",
+      "tmdb_id": "35385"
+    },
+    "omdb": {
+      "Title": "Ebenezer",
+      "Year": "1998",
+      "Rated": "N/A",
+      "Released": "24 Dec 2000",
+      "Runtime": "89 min",
+      "Genre": "Drama, Fantasy, Western",
+      "Director": "Ken Jubenvill",
+      "Writer": "Douglas Berquist, Michael Frislev, Chad Oakes",
+      "Actors": "Jack Palance, Ricky Schroder, Amy Locane",
+      "Plot": "A Wild West retelling of Dickens' 'A Christmas Carol,\" with Scrooge as a land baron, gunfighter, and card cheat who is visited by three spirits who attempt to teach him the true meaning of Christmas.",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjAxMTI5NF5BMl5BanBnXkFtZTcwOTYxNjUxMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "296",
+      "imdbID": "tt0133727",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "35385"
+  },
+  "Les rayons et les ombres|2026": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/9/2/1/1198921-the-rays-and-shadows-0-500-0-750-crop.jpg?v=b586ff48cc",
+      "description": "Jean and Otto, a French newspaperman and a young German Francophile, are fighting for peace in Europe. Jean’s daughter, Corinne, is launching a brilliant acting career in the film world, but war breaks out and France is occupied. The two friends have a major role to play in this new France. Jean becomes a big press baron and an ardent advocate of collaboration with the occupying forces, while Otto becomes the Reich’s ambassador in Paris. Corinne, meanwhile, finds herself thrown into the lion’s pit.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "France",
+      "lb_director": "Xavier Giannoli",
+      "lb_director_slug": "xavier-giannoli",
+      "lb_year": 2026,
+      "lb_title": "The Rays and Shadows",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108",
+      "imdb_id": "tt36187539",
+      "tmdb_id": "1318335"
+    },
+    "omdb": {
+      "Title": "Les rayons et les ombres",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Mar 2026",
+      "Runtime": "195 min",
+      "Genre": "Drama, History",
+      "Director": "Xavier Giannoli",
+      "Writer": "Jacques Fieschi, Xavier Giannoli, Yves Stavrides",
+      "Actors": "Jean Dujardin, Nastya Golubeva Carax, August Diehl",
+      "Plot": "The fates of Jean and Corinne Luchaire, a father and daughter in occupied France. She is a young movie star and he is a prominent journalist but also a friend of the powerful Nazi German ambassador to Paris, Otto Abetz.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU2ZDJiYWYtNThhOS00ZjgxLTliZjUtMDNkYTM1NGQ2MTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36187539",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      46.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
+    ],
+    "tmdb_id": "1318335"
+  },
+  "Salvation|2007": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/6/0/33560-salvation-0-500-0-750-crop.jpg?v=4bb8b41663",
+      "description": "The centuries old battle between the powers of heaven and the forces of hell have collided in a final modern day showdown. The determining factor my lie in the heart of a little girl, murdered at 8 she has arisen to avenge those that have wronged her, but will find that the truth is not always as it seems. Will she risk damning her own soul to purgatory forever to do what's right?",
+      "genres": [
+        "Action",
+        "Horror",
+        "Fantasy"
+      ],
+      "country": null,
+      "lb_director": "J.A. Steel",
+      "lb_director_slug": "ja-steel",
+      "lb_year": 2007,
+      "lb_title": "Salvation",
+      "backdrop": null,
+      "imdb_id": "tt0860528",
+      "tmdb_id": "28563"
+    },
+    "omdb": {
+      "Title": "Salvation",
+      "Year": "2007",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "86 min",
+      "Genre": "Action, Horror, Sci-Fi",
+      "Director": "J.A. Steel",
+      "Writer": "J.A. Steel",
+      "Actors": "Heather Surdukan, Ben Bayless, Glen Jensen",
+      "Plot": "The centuries old battle between the powers of heaven and the forces of hell have collided in a final modern day showdown. The determining factor my lie in the heart of a little girl, murdered at 8 she has arisen to avenge those t...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjUxNDkyMF5BMl5BanBnXkFtZTcwMDQ4NTE3MQ@@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "2.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "2.4",
+      "imdbVotes": "137",
+      "imdbID": "tt0860528",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "28563"
+  },
+  "First Cow|2019": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/1/3/5/487135-first-cow-0-500-0-750-crop.jpg?v=e04cb2aaa3",
+      "description": "In the 1820s, a taciturn loner and skilled cook travels west to Oregon Territory, where he meets a Chinese immigrant also seeking his fortune. Soon the two team up on a dangerous scheme to steal milk from the wealthy landowner’s prized Jersey cow—the first, and only, in the territory.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "USA",
+      "lb_director": "Kelly Reichardt",
+      "lb_director_slug": "kelly-reichardt",
+      "lb_year": 2019,
+      "lb_title": "First Cow",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/i8/y0/mm/s7/first-cow-1920-1920-1080-1080-crop-000000.jpg?v=df9e2c6af3",
+      "imdb_id": "tt9231040",
+      "tmdb_id": "558582"
+    },
+    "omdb": {
+      "Title": "First Cow",
+      "Year": "2020",
+      "Rated": "PG-13",
+      "Released": "10 Jul 2020",
+      "Runtime": "122 min",
+      "Genre": "Drama, Western",
+      "Director": "Kelly Reichardt",
+      "Writer": "Jonathan Raymond, Kelly Reichardt",
+      "Actors": "Alia Shawkat, John Magaro, Dylan Smith",
+      "Plot": "In 1820, a cook travels to Oregon, where he meets a Chinese immigrant who is also looking to make his fortune. Soon, they team up in a dangerous scheme to steal milk from a prized local cow, the first and only in the territory.",
+      "Language": "English, North American Indian, Russian, French, Hawaiian",
+      "Country": "United States",
+      "Awards": "21 wins & 147 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiZTA3MDYtYzRiZi00OTdiLWI5NjItMTllZDQxMWM5NTQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.1",
+      "imdbVotes": "24,924",
+      "imdbID": "tt9231040",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$101,068",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "First Cow",
+      "imdb_id": "tt9231040",
+      "extract_pt": "First Cow (bra: First Cow - A Primeira Vaca da América, ou apenas First Cow) é um filme estadunidense de 2019, dos gêneros drama e faroeste, dirigido por Kelly Reichardt, com roteiro dela e Jonathan Raymond baseado no romance The Half Life, de Raymond. \nTeve sua estreia mundial no Festival de Cinema de Telluride em 30 de agosto de 2019, e também foi selecionado para concorrer ao Urso de Ouro na seção de competição principal do 70º Festival Internacional de Cinema de Berlim. Foi lançado nos Estados Unidos em 6 de março de 2020 pela A24 e posteriormente lançado em plataformas virtuais como VOD em 10 de julho de 2020. No Brasil, foi lançado em 10 de junho de 2021 pela Vitrine Filmes nos cinemas e 9 de julho de 2021 no streaming pela MUBI. Em dezembro de 2021, a Vitrine Filmes iniciou a pré-venda no Brasil da edição limitada e definitiva do filme em blu-ray em parceria com a Versátil Home Vídeo, que será lançado exclusivamente na loja virtual VersátilHV.\nO filme segue dois viajantes que fogem de um bando de caçadores vingativos no noroeste de 1820."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      5.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/i8/y0/mm/s7/first-cow-1920-1920-1080-1080-crop-000000.jpg?v=df9e2c6af3"
+    ],
+    "tmdb_id": "558582"
+  },
+  "Soudain|2007": {
     "lbxd": null,
     "omdb": {
       "Title": "Soudain",
