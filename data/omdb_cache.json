@@ -89760,7 +89760,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "600039",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Amadeus – Director’s Cut|None": {
     "lbxd": {
@@ -89831,7 +89831,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/93/25/ds/ar/amadeus-1920-1920-1080-1080-crop-000000.jpg?v=6c64f3c798"
     ],
     "tmdb_id": "279",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "L’âge d’or|None": {
     "lbxd": {
@@ -89858,7 +89858,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "5729",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "PAPER TIGER|None": {
     "lbxd": {
@@ -89915,7 +89915,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "105240",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "DOIS PROCURADORES - Ciclo de Cinema e Direito by Iniciativa Poética|None": {
     "lbxd": null,
@@ -90168,7 +90168,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "307314"
+    "tmdb_id": "307314",
+    "wiki_tries": 1
   },
   "Elephants in the Fog|None": {
     "lbxd": {
@@ -90232,7 +90233,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/1h/hz/x1/53/w0AOm8rAqRz5n0sjhKuLFW4dLhl-1920-1920-1080-1080-crop-000000.jpg?v=2e2ac204ca"
     ],
-    "tmdb_id": "1661926"
+    "tmdb_id": "1661926",
+    "wiki_tries": 1
   },
   "Ninfomaníaca Vol. 2 – Director’s Cut|None": {
     "lbxd": null,
@@ -90325,7 +90327,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/i6/x9/w0/1e/652SQhVACFKeoElbCSsuOeiyukD-1920-1920-1080-1080-crop-000000.jpg?v=1281ad8ce6"
     ],
-    "tmdb_id": "95482"
+    "tmdb_id": "95482",
+    "wiki_tries": 1
   },
   "The Debut|None": {
     "lbxd": {
@@ -90388,7 +90391,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "38135"
+    "tmdb_id": "38135",
+    "wiki_tries": 1
   },
   "Nagi Notes|None": {
     "lbxd": {
@@ -90456,7 +90460,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/2/5/7/5/2/tmdb/lnJ3R511iTJbQjemBole0MJDn6g-1920-1920-1080-1080-crop-000000.jpg?v=0d69dd3ad6"
     ],
-    "tmdb_id": "1448971"
+    "tmdb_id": "1448971",
+    "wiki_tries": 1
   },
   "L’âge d’or – Cineconcerto|None": {
     "lbxd": {
@@ -90482,7 +90487,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "5729"
+    "tmdb_id": "5729",
+    "wiki_tries": 1
   },
   "Night Moves|None": {
     "lbxd": {
@@ -90552,7 +90558,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/ka/bs/xy/nr/7-1920-1920-1080-1080-crop-000000.jpg?v=f285470cc1"
     ],
-    "tmdb_id": "32042"
+    "tmdb_id": "32042",
+    "wiki_tries": 1
   },
   "Manderlay|None": {
     "lbxd": {
@@ -90615,7 +90622,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1951"
+    "tmdb_id": "1951",
+    "wiki_tries": 1
   },
   "Ebenezer|None": {
     "lbxd": {
@@ -90737,7 +90745,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
     ],
-    "tmdb_id": "1318335"
+    "tmdb_id": "1318335",
+    "wiki_tries": 1
   },
   "Salvation|None": {
     "lbxd": {
@@ -90860,7 +90869,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/i8/y0/mm/s7/first-cow-1920-1920-1080-1080-crop-000000.jpg?v=df9e2c6af3"
     ],
-    "tmdb_id": "558582"
+    "tmdb_id": "558582",
+    "wiki_tries": 1
   },
   "Soudain|None": {
     "lbxd": null,
@@ -91659,5 +91669,865 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Par 4 chemins|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/6/1/3/3/2/1661332-par-4-chemins-0-500-0-750-crop.jpg?v=9b11912f0a",
+      "description": "In the 12th century, Brother Antoine and Brother Vincent decide to leave the monastery to return to the world and help people find joy. Filled with enthusiasm, they encounter all kinds of situations on a journey that transforms into a voyage of initiation.",
+      "genres": [
+        "Drama"
+      ],
+      "country": null,
+      "lb_director": "Marie Vermillard",
+      "lb_director_slug": "marie-vermillard",
+      "lb_year": 2026,
+      "lb_title": "Par 4 chemins",
+      "backdrop": null,
+      "imdb_id": "tt50050395",
+      "tmdb_id": "1808733"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1808733"
+  },
+  "Isabel|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/5/6/7/88567-isabel-0-500-0-750-crop.jpg?v=2e94fb845d",
+      "description": "A woman believes she is beginning to lose her mind when she begins seeing ghosts and spirits.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "Canada",
+      "lb_director": "Paul Almond",
+      "lb_director_slug": "paul-almond",
+      "lb_year": 1968,
+      "lb_title": "Isabel",
+      "backdrop": null,
+      "imdb_id": "tt0063140",
+      "tmdb_id": "110427"
+    },
+    "omdb": {
+      "Title": "Isabel",
+      "Year": "2011–2014",
+      "Rated": "N/A",
+      "Released": "10 Sep 2012",
+      "Runtime": "75 min",
+      "Genre": "Biography, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Michelle Jenner, Ramon Madaula, Rodolfo Sancho",
+      "Plot": "The life of Isabella I of Castile, also known as Isabella the Catholic.",
+      "Language": "Spanish, Arabic",
+      "Country": "Spain",
+      "Awards": "31 wins & 39 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQxODkzNGQtZjZmOC00YzIxLTg1YWMtMzdlZjM1YThmODEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "2,842",
+      "imdbID": "tt2011533",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "110427"
+  },
+  "Os Idiotas|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Os idiotas Mesmo",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Animation, Short",
+      "Director": "Allan Sieber",
+      "Writer": "Allan Sieber",
+      "Actors": "Paulo Betti, Berna Ceppas, Denise Garcia",
+      "Plot": "A cigarette factory decides to launch a new cigarette brand on the market, Relax 3000. A team of advertisers takes action.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzdjOWVlZWYtODQ5MS00Yjc3LTgxOTAtOGE1YjZlMjY0MTNkXkEyXkFqcGdeQXVyMjAyOTcwMjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.3",
+      "imdbVotes": "29",
+      "imdbID": "tt0498061",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "806281"
+  },
+  "La Maison du vent|None": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/7/6/9/9/1287699-house-of-the-wind-0-500-0-750-crop.jpg?v=d4b9dc717f",
+      "description": "Josette (80) lives alone in Yaoundé, Cameroon. All her children have left for the West. She encourages them to build houses in Cameroon, a ploy to bring them back to her. But the unexpected bond she forms with Sarah, a young woman from her neighborhood, shatters everything she has built her life on: her family, her responsibilities, and her hopes.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Cameroon",
+      "lb_director": "Auguste Kouemo Yanghu",
+      "lb_director_slug": "auguste-kouemo-yanghu",
+      "lb_year": 2026,
+      "lb_title": "House of the Wind",
+      "backdrop": null,
+      "imdb_id": "tt20244858",
+      "tmdb_id": "1404592"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1404592"
+  },
+  "L’Aventura|None": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/3/2/3/1198323-laventura-0-500-0-750-crop.jpg?v=3afec38f31",
+      "description": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Sophie Letourneur",
+      "lb_director_slug": "sophie-letourneur",
+      "lb_year": 2025,
+      "lb_title": "L'Aventura",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/3/2/3/tmdb/wmzLN6fs6QHQnIl5nVFuO9OO4xB-1920-1920-1080-1080-crop-000000.jpg?v=ee36e02b42",
+      "imdb_id": "tt36594601",
+      "tmdb_id": "1317616"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/3/2/3/tmdb/wmzLN6fs6QHQnIl5nVFuO9OO4xB-1920-1920-1080-1080-crop-000000.jpg?v=ee36e02b42"
+    ],
+    "tmdb_id": "1317616"
+  },
+  "Until the Day Ends|None": {
+    "lbxd": {
+      "rating": 3.05,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/7/1/6/8/1407168-until-the-day-ends-0-500-0-750-crop.jpg?v=00a5c504fe",
+      "description": "Two teenagers protesting political repression must flee, taking with them only their love and a dog.",
+      "genres": [
+        "Romance",
+        "Crime",
+        "Drama"
+      ],
+      "country": "Serbia",
+      "lb_director": "Jelena Maksimović",
+      "lb_director_slug": "jelena-maksimovic-1",
+      "lb_year": 2026,
+      "lb_title": "Until the Day Ends",
+      "backdrop": null,
+      "imdb_id": "tt37919722",
+      "tmdb_id": "1531947"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1531947"
+  },
+  "Voyages en Italie|None": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/1/4/1/3/901413-voyages-en-italie-0-500-0-750-crop.jpg?v=f093459bd5",
+      "description": "A French couple burnt out by the routine of their daily family life decides after much hesitation to travel to Sicily for a short holiday.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Sophie Letourneur",
+      "lb_director_slug": "sophie-letourneur",
+      "lb_year": 2023,
+      "lb_title": "Voyages en Italie",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/1/4/1/3/tmdb/3ovd4UsM5cEZcpnS2No2oGaKGcn-1920-1920-1080-1080-crop-000000.jpg?v=e0bc68a9c7",
+      "imdb_id": "tt25750424",
+      "tmdb_id": "1000559"
+    },
+    "omdb": {
+      "Title": "Voyages en Italie",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "23 Mar 2023",
+      "Runtime": "91 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Sophie Letourneur",
+      "Writer": "Laetitia Goffi, Sophie Letourneur",
+      "Actors": "Philippe Katerine, Sophie Letourneur",
+      "Plot": "A couple takes a trip to Sicily to reignite their romance.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZjYWEyMDQtYTE4My00MDA0LTlmNzUtNzJhYWFiOWI5OGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "209",
+      "imdbID": "tt25750424",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      36.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/1/4/1/3/tmdb/3ovd4UsM5cEZcpnS2No2oGaKGcn-1920-1920-1080-1080-crop-000000.jpg?v=e0bc68a9c7"
+    ],
+    "tmdb_id": "1000559"
+  },
+  "A Odisseia – episódios 1 a 4|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/5/0/1/1/1635011-a-odisseia-0-500-0-750-crop.jpg?v=a0d4b7dc8e",
+      "description": "A original take on Homers epic",
+      "genres": null,
+      "country": null,
+      "lb_director": "Rafael Araújo",
+      "lb_director_slug": "rafael-araujo-4",
+      "lb_year": null,
+      "lb_title": null,
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1770512"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1770512"
+  },
+  "Ceniza en la boca|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "The Kingdom Exodus|None": {
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/9/5/3/1/3/895313-the-kingdom-exodus-0-500-0-750-crop.jpg?v=301bc9482e",
+      "description": "The sleepwalker Karen seeks answers to the unresolved questions of the series in order to save the hospital from doom. Sound asleep one night, Karen wanders into the darkness and inexplicably ends up in front of the hospital. The gate to the Kingdom is opening again.",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "country": "Denmark",
+      "lb_director": "Lars von Trier",
+      "lb_director_slug": "lars-von-trier",
+      "lb_year": 2022,
+      "lb_title": "The Kingdom: Exodus",
+      "backdrop": null,
+      "imdb_id": "tt13678088",
+      "tmdb_id": "0"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "0"
+  },
+  "Anticristo|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "El anticristo 2 (Magic London)",
+      "Year": "1989",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "80 min",
+      "Genre": "Thriller, Horror",
+      "Director": "Germán Monzó",
+      "Writer": "N/A",
+      "Actors": "Víctor Israel, Óscar Morales, Mercé Fillola",
+      "Plot": "Something satanic is taking over people, leading them to practice satanism, sex and destruction.",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFiMWNlN2QtYzQ3Ni00ZjdmLThiY2QtMmIxMDcyZDc0OTMyXkEyXkFqcGdeQXVyMjQ0ODE4OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "2.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "2.3",
+      "imdbVotes": "33",
+      "imdbID": "tt0356854",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "330891"
+  },
+  "Hannah Arendt|None": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/mx/h1/82/nm/yCFcCbpGPZiTmVhpJyDv1Cccay5-0-500-0-750-crop.jpg?v=bccd55eccd",
+      "description": "A portrait of the genius that shook the world with her discovery of “the banality of evil.” After she attends the Nazi Adolf Eichmann’s trial in Jerusalem, Arendt dares to write about the Holocaust in terms no one has ever heard before. Her work instantly provokes a furious scandal, and Arendt stands strong as she is attacked by friends and foes alike. But as the German-Jewish émigré also struggles to suppress her own painful associations with the past, the film exposes her beguiling blend of arrogance and vulnerability — revealing a soul defined and derailed by exile.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Margarethe von Trotta",
+      "lb_director_slug": "margarethe-von-trotta",
+      "lb_year": 2012,
+      "lb_title": "Hannah Arendt",
+      "backdrop": null,
+      "imdb_id": "tt1674773",
+      "tmdb_id": "121873"
+    },
+    "omdb": {
+      "Title": "Hannah Arendt",
+      "Year": "2012",
+      "Rated": "Not Rated",
+      "Released": "10 Jan 2013",
+      "Runtime": "113 min",
+      "Genre": "Biography, Drama",
+      "Director": "Margarethe von Trotta",
+      "Writer": "Pamela Katz, Margarethe von Trotta",
+      "Actors": "Barbara Sukowa, Axel Milberg, Janet McTeer",
+      "Plot": "A look at the life of philosopher and political theorist Hannah Arendt, who reported for 'The New Yorker' on the trial of the Nazi leader Adolf Eichmann in Jerusalem.",
+      "Language": "German, English, French, Hebrew, Latin",
+      "Country": "Germany, Luxembourg, France, Israel",
+      "Awards": "7 wins & 18 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyMDM2NTUyNF5BMl5BanBnXkFtZTcwOTQ2NzAzOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "7.1",
+      "imdbVotes": "12,151",
+      "imdbID": "tt1674773",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$717,205",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "121873"
+  },
+  "Énorme|None": {
+    "lbxd": {
+      "rating": 2.97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/6/6/4/0/6/566406-enormous-0-500-0-750-crop.jpg?v=dc0f7a1338",
+      "description": "It takes him suddenly at 40 years: Frédéric wants a baby, Claire never wanted one and they agreed on that. He commits the unforgivable and makes a child behind her back. Claire turns into a whale and Frédéric becomes a doting father.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Sophie Letourneur",
+      "lb_director_slug": "sophie-letourneur",
+      "lb_year": 2019,
+      "lb_title": "Enormous",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/5/6/6/4/0/6/tmdb/knhTUr56ONw6UdCnozrLYq1eLm4-1920-1920-1080-1080-crop-000000.jpg?v=ca8f0e8f13",
+      "imdb_id": "tt8076110",
+      "tmdb_id": "640561"
+    },
+    "omdb": {
+      "Title": "Una mujer enorme",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "25 Oct 2019",
+      "Runtime": "N/A",
+      "Genre": "Short",
+      "Director": "Paulina Urreta",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "Spanish",
+      "Country": "Mexico",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA0Yzk5MzAtYTc4ZS00MGVjLTliZmItMTU3MTY2MjIzZGUxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,92,1000,563_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11085920",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      46.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/5/6/6/4/0/6/tmdb/knhTUr56ONw6UdCnozrLYq1eLm4-1920-1920-1080-1080-crop-000000.jpg?v=ca8f0e8f13"
+    ],
+    "tmdb_id": "640561"
+  },
+  "9 Temples to Heaven|None": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/4/3/7/8/3/943783-9-temples-to-heaven-0-500-0-750-crop.jpg?v=9bfb585032",
+      "description": "A man takes his sick mother and nine family members on a single-day temple pilgrimage after his boss predicts she may die soon.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Thailand",
+      "lb_director": "Sompot Chidgasornpongse",
+      "lb_director_slug": "sompot-chidgasornpongse",
+      "lb_year": 2026,
+      "lb_title": "9 Temples to Heaven",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/3b/jj/vt/e3/aTxI4pigee5Gj7mDGPy8Bj3xsn7-1920-1920-1080-1080-crop-000000.jpg?v=c9edc955cb",
+      "imdb_id": "tt37740247",
+      "tmdb_id": "1046304"
+    },
+    "omdb": {
+      "Title": "9 Temples to Heaven",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 May 2026",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "Sompot Chidgasornpongse",
+      "Writer": "N/A",
+      "Actors": "Yada Karnjanisakorn",
+      "Plot": "A man takes his sick mother and nine family members on a single-day temple pilgrimage after his boss predicts she may die soon.",
+      "Language": "Thai",
+      "Country": "Singapore, France, Norway, China, Hong Kong, Indonesia, Qatar, Thailand",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmUzN2UwMzEtNjFhYS00MDJjLTkzM2MtNmIzM2ViNjhlYmI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37740247",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/3b/jj/vt/e3/aTxI4pigee5Gj7mDGPy8Bj3xsn7-1920-1920-1080-1080-crop-000000.jpg?v=c9edc955cb"
+    ],
+    "tmdb_id": "1046304"
+  },
+  "La vie au ranch|None": {
+    "lbxd": {
+      "rating": 3.36,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/4/4/2344-chicks-0-500-0-750-crop.jpg?v=c42126b5e4",
+      "description": "Pam is twenty. She and her girlfriends hang out together on the couch at The Ranch, the apartment she shares with Manon. Sitting around chatting, drinking, smoking, and dancing are part of life at their age, but there comes a time when you need to cut loose from the group and go your own way...",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Sophie Letourneur",
+      "lb_director_slug": "sophie-letourneur",
+      "lb_year": 2009,
+      "lb_title": "Chicks",
+      "backdrop": null,
+      "imdb_id": "tt1509742",
+      "tmdb_id": "63774"
+    },
+    "omdb": {
+      "Title": "La vie au ranch",
+      "Year": "2009",
+      "Rated": "Not Rated",
+      "Released": "19 Oct 2012",
+      "Runtime": "90 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sophie Letourneur",
+      "Writer": "Sophie Letourneur, Delphine Agut",
+      "Actors": "Sarah-Jane Sauvegrain, Eulalie Juster, Mahault Mollaret",
+      "Plot": "A group of students share their joys and sorrows in an apartment on the Paris Rive Gauche.",
+      "Language": "Swedish, French",
+      "Country": "France",
+      "Awards": "2 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDU0YWUxMDEtN2U4Zi00M2RiLWJiNzktNTdlNmNiZDE1MzZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.4/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "5.4",
+      "imdbVotes": "387",
+      "imdbID": "tt1509742",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "63774"
+  },
+  "Furies|None": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/0/1/2/147012-furies-0-500-0-750-crop.jpg?v=e79ba117dc",
+      "description": "An animated experimental short film using charcoal and pastels to create Cubist and Art Deco-inspired designs evoking the curiosity, grace and beauty of two cats in constant motion.",
+      "genres": [
+        "Animation"
+      ],
+      "country": "USA",
+      "lb_director": "Sara Petty",
+      "lb_director_slug": "sara-petty",
+      "lb_year": 1978,
+      "lb_title": "Furies",
+      "backdrop": null,
+      "imdb_id": "tt0475589",
+      "tmdb_id": "205711"
+    },
+    "omdb": {
+      "Title": "Furies",
+      "Year": "2024–",
+      "Rated": "TV-MA",
+      "Released": "01 Mar 2024",
+      "Runtime": "N/A",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Jean-Yves Arnaud, Yoann Legave",
+      "Actors": "Lina El Arabi, Marina Foïs, Steve Tientcheu",
+      "Plot": "A dive into Paris's criminal underworld, where Lyna meets the enigmatic and brutal Furie, the boss of this hazardous environment.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ5NTg0ZDMtMDdjNC00ZTM3LThkNjQtYjZkMjFlNzcyYTJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,57,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "4,642",
+      "imdbID": "tt11384300",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "205711"
+  },
+  "O Elemento do Crime|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Ari|2025": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/0/4/2/1/1140421-ari-2025-0-500-0-750-crop.jpg?v=c509616d1b",
+      "description": "Right in the middle of a school inspector’s visit, Ari, a 27-year-old student teacher, collapses. Angry with him for being a failure, his father kicks him out of the house. Emotionally raw, and alone in the city, Ari reluctantly forces himself to rekindle his relationships with old friends. As his memories of the previous months successively ebb and flow, Ari discovers that other people aren’t doing as well as he imagined, and that perhaps he has been sleepwalking through his own life.",
+      "genres": [
+        "Drama",
+        "Tv Movie"
+      ],
+      "country": "France",
+      "lb_director": "Léonor Serraille",
+      "lb_director_slug": "leonor-serraille",
+      "lb_year": 2025,
+      "lb_title": "Ari",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/4/0/4/2/1/tmdb/mccHZJMj3pHfHtbmG48txYdgamR-1920-1920-1080-1080-crop-000000.jpg?v=847d7fc68e",
+      "imdb_id": "tt31869782",
+      "tmdb_id": "1256192"
+    },
+    "omdb": {
+      "Title": "Ari",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "03 Oct 2025",
+      "Runtime": "88 min",
+      "Genre": "Drama",
+      "Director": "Léonor Serraille",
+      "Writer": "Léonor Serraille",
+      "Actors": "Andranic Manet, Pascal Rénéric, Théo Delezenne",
+      "Plot": "Forced from home after quitting teaching, Ari navigates life's uncertainties. His reunion with childhood friends becomes a catalyst for personal transformation.",
+      "Language": "French",
+      "Country": "France, Belgium",
+      "Awards": "1 win & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4NGY3ZmQtMWNiZS00NDM4LWEzNjgtNTE1Y2RiNzU3ZWE4XkEyXkFqcGc@._V1_QL75_UY562_CR279,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "249",
+      "imdbID": "tt31869782",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/4/0/4/2/1/tmdb/mccHZJMj3pHfHtbmG48txYdgamR-1920-1920-1080-1080-crop-000000.jpg?v=847d7fc68e"
+    ],
+    "tmdb_id": "1256192"
+  },
+  "Casa Pequena|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/4/6/0/2/1614602-casa-pequena-0-500-0-750-crop.jpg?v=4a0b3f10dc",
+      "description": "A film by Ricardo Oliveira with original music by Capitão Fausto.",
+      "genres": null,
+      "country": null,
+      "lb_director": "Ricardo Oliveira",
+      "lb_director_slug": "ricardo-oliveira-3",
+      "lb_year": 2026,
+      "lb_title": "Casa Pequena",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1749714"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1749714"
+  },
+  "Mostra Imaginários Da Lusófonia - Cplp Audiovisual|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "NOSSO SEGREDO|None": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/8/2/1/1282821-our-secret-2026-0-500-0-750-crop.jpg?v=c3e6413798",
+      "description": "A Black Brazilian family in the city of Belo Horizonte, tries to rebuild their home after a recent loss. Caught between memories and nightmares, and unable to express what they feel to each other, a mother and her children shield themselves from the pain of grief through their individual routines. Only the youngest child understands the secret that the house holds within its four walls and tries to reveal it to the others, only to fall on deaf ears. Finally, confronted with the truth, they face the deep roots of their grief and come together to traverse this moment with love and courage.",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Grace Passô",
+      "lb_director_slug": "grace-passo",
+      "lb_year": 2026,
+      "lb_title": "Our Secret",
+      "backdrop": null,
+      "imdb_id": "tt39382724",
+      "tmdb_id": "1399253"
+    },
+    "omdb": {
+      "Title": "Nosso segredo",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Feb 2026",
+      "Runtime": "108 min",
+      "Genre": "Family",
+      "Director": "Grace Passô",
+      "Writer": "N/A",
+      "Actors": "Ju Colombo, Flip, Jessica Gaspar",
+      "Plot": "A grieving family moves silently through their house, each mourning alone. When the youngest reveals a secret, they learn they must unite with love and courage to overcome their loss.",
+      "Language": "Portuguese",
+      "Country": "Portugal, Brazil",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt39382724",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Nosso Segredo é um filme brasileiro de drama e fantasia de 2026 dirigido e roterizado pela atriz e cineasta  Grace Passô. o longa-metragem estrelado por Ju Colombo, terá sua estreia mundial durante o 76º Festival Internacional de Cinema de Berlim em competição na Mostra Perspectives.\nO filme que marca a estreia de Passô na direção é uma produção da EntreFilmes em cooprodução da Globo Filmes e Desvia Filmes. No Brasil, o longa possui distribuição da Vitrine Filmes."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1399253"
+  },
+  "O MEU PAÍS IMAGINÁRIO|None": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/2/6/4/4/862644-my-imaginary-country-0-500-0-750-crop.jpg?v=99d9ab8954",
+      "description": "This documentary explores the protests that exploded onto the streets of Chile’s capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2022,
+      "lb_title": "My Imaginary Country",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786",
+      "imdb_id": "tt19797494",
+      "tmdb_id": "958496"
+    },
+    "omdb": {
+      "Title": "My Imaginary Country",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "26 Oct 2022",
+      "Runtime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Patricio Guzmán",
+      "Writer": "Patricio Guzmán",
+      "Actors": "Youssef Suleiman Mohammed",
+      "Plot": "Protests that exploded onto the streets of Chile's capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "Language": "Spanish",
+      "Country": "Chile, France",
+      "Awards": "1 win & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUxZDYxNmItN2FlOS00MDZhLWE4MGEtYjgzYjc1MGE3NTE1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.2",
+      "imdbVotes": "562",
+      "imdbID": "tt19797494",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$12,738",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      70.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
+    ],
+    "tmdb_id": "958496"
   }
 }
