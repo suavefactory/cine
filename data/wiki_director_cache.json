@@ -2907,12 +2907,12 @@
   "Allan Sieber": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Germán Monzó": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Margarethe von Trotta": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Margarethe_von_Trotta_at_Berlinale_2023.jpg/500px-Margarethe_von_Trotta_at_Berlinale_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2922,12 +2922,12 @@
   "Paulina Urreta": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Sompot Chidgasornpongse": {
-    "photo": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sompot_Chidgasornpongse_%282026%29_A.jpg/500px-Sompot_Chidgasornpongse_%282026%29_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Léonor Serraille": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/L%C3%A9onor_Serraille_-_IFFR_2023.jpg/500px-L%C3%A9onor_Serraille_-_IFFR_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2947,6 +2947,16 @@
   "Promised Spaces": {
     "photo": null,
     "bio": null,
+    "tries": 2
+  },
+  "Paul Almond": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PaulAlmond.jpg/500px-PaulAlmond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Paul Almond (April 26, 1931 – April 9, 2015) was a Canadian television and motion picture screenwriter, director, producer, and novelist. He is known for being the director of the first film in the Up series.",
+    "tries": 1
+  },
+  "Sara Petty": {
+    "photo": null,
+    "bio": "researcher",
     "tries": 1
   }
 }

@@ -26,7 +26,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12321",
       "title": "Isabel",
-      "director": null,
+      "director": "Paul Almond",
       "duration": 85,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/5/6/7/88567-isabel-0-500-0-750-crop.jpg?v=2e94fb845d",
@@ -53,10 +53,10 @@ window.CINEMA_DATA = {
       "director": "Allan Sieber",
       "duration": 117,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/zNGmnUnVJO9w56i1cHnCPac9J2k.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/4/723504-os-idiotas-mesmo-0-500-0-750-crop.jpg?v=1a6888d477",
       "genres": [
         "Animation",
-        "Short"
+        "Comedy"
       ],
       "link": "https://cinemasaojorge.pt/evento/os-idiotas/",
       "sessions": [
@@ -66,10 +66,11 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "A cigarette factory decides to launch a new cigarette brand on the market, Relax 3000. A team of advertisers takes action.",
-      "title_en": "Os idiotas Mesmo",
+      "plot": "A cigarette factory decides to launch a new brand of cigarettes on the market, the Relax 3000. A team of publicists takes action. Thousands of dollars involved, thousands of meetings, thousands of scoldings and a smell of shit in the air.",
+      "title_en": "Os Idiotas Mesmo",
       "country": "Brazil",
-      "year": 2000
+      "year": 2000,
+      "director_lbxd_slug": "allan-sieber"
     },
     {
       "id": "sao_jorge_12317",
@@ -114,17 +115,22 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.52,
+      "rating": 3.5,
       "year": 2025,
       "plot": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
       "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/3/2/3/tmdb/wmzLN6fs6QHQnIl5nVFuO9OO4xB-1920-1920-1080-1080-crop-000000.jpg?v=ee36e02b42"
+        "https://image.tmdb.org/t/p/w1280/mKP4wapXPgIDVXrFZNzRQhPaExS.jpg",
+        "https://image.tmdb.org/t/p/w1280/oW0Hh4INOUFWIYxZXGm6HVZ9vdj.jpg",
+        "https://image.tmdb.org/t/p/w1280/fCmgziZVtyFT209eeswvEVGwOFh.jpg"
       ],
       "stills_focus": [
-        42.3
+        45.8,
+        41.5,
+        43.7
       ],
       "country": "France",
-      "director_lbxd_slug": "sophie-letourneur"
+      "director_lbxd_slug": "sophie-letourneur",
+      "plot_pt": "É o nosso filme de Verão, esta viagem à Sardenha de uma família francesa, que apaixonou a crítica e os espectadores. O cinema de Sophie Letourneur, entre a ficção e a realidade, e com um apurado sentido de mise-en-scène, revela-se em todo o seu esplendor neste filme divertido, terno, e por vezes melancólico, que capta a essência das férias estivais."
     },
     {
       "id": "sao_jorge_12314",
@@ -250,10 +256,10 @@ window.CINEMA_DATA = {
       "director": "Germán Monzó",
       "duration": 104,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/aKqXifpSXjwLUIFbOwVOqoXWtmj.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/7/1/5/258715-magic-london-0-500-0-750-crop.jpg?v=e73806e64a",
       "genres": [
-        "Thriller",
-        "Horror"
+        "Horror",
+        "Crime"
       ],
       "link": "https://cinemasaojorge.pt/evento/anticristo/",
       "sessions": [
@@ -263,10 +269,11 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "Something satanic is taking over people, leading them to practice satanism, sex and destruction.",
-      "title_en": "El anticristo 2 (Magic London)",
+      "plot": "Gothic horror film set in London and sold as a sequel to the film \"The Antichrist\" from 1974",
+      "title_en": "Magic London",
       "country": "Spain",
-      "year": 1989
+      "year": 1989,
+      "director_lbxd_slug": "german-monzo"
     },
     {
       "id": "sao_jorge_12302",
@@ -290,7 +297,8 @@ window.CINEMA_DATA = {
       "year": 2012,
       "plot": "A portrait of the genius that shook the world with her discovery of “the banality of evil.” After she attends the Nazi Adolf Eichmann’s trial in Jerusalem, Arendt dares to write about the Holocaust in terms no one has ever heard before. Her work instantly provokes a furious scandal, and Arendt stands strong as she is attacked by friends and foes alike. But as the German-Jewish émigré also struggles to suppress her own painful associations with the past, the film exposes her beguiling blend of arrogance and vulnerability — revealing a soul defined and derailed by exile.",
       "country": "Germany",
-      "director_lbxd_slug": "margarethe-von-trotta"
+      "director_lbxd_slug": "margarethe-von-trotta",
+      "plot_pt": "Hannah Arendt (prt: Hannah Arendt; bra: Hannah Arendt, ou Hannah Arendt - Ideias Que Chocaram o Mundo) é um filme teuto-franco-luxemburguês de 2012, do gênero drama histórico-biográfico, dirigido por Margarethe von Trotta, com roteiro de Pam Katz e da própria diretora baseado na vida da filósofa política judaico-alemã Hannah Arendt, interpretada por Barbara Sukowa.\nDistribuído pela Zeitgeist Films, estreou nos Estados Unidos em 29 de maio de 2013."
     },
     {
       "id": "sao_jorge_12300",
@@ -313,13 +321,7 @@ window.CINEMA_DATA = {
       "rating": 2.97,
       "year": 2019,
       "plot": "It takes him suddenly at 40 years: Frédéric wants a baby, Claire never wanted one and they agreed on that. He commits the unforgivable and makes a child behind her back. Claire turns into a whale and Frédéric becomes a doting father.",
-      "title_en": "Enormous",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/5/6/6/4/0/6/tmdb/knhTUr56ONw6UdCnozrLYq1eLm4-1920-1920-1080-1080-crop-000000.jpg?v=ca8f0e8f13"
-      ],
-      "stills_focus": [
-        46.4
-      ],
+      "title_en": "Una mujer enorme",
       "country": "France",
       "director_lbxd_slug": "sophie-letourneur"
     },
@@ -511,7 +513,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12278",
       "title": "Furies",
-      "director": null,
+      "director": "Sara Petty",
       "duration": 133,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/0/1/2/147012-furies-0-500-0-750-crop.jpg?v=e79ba117dc",
@@ -662,7 +664,8 @@ window.CINEMA_DATA = {
       "plot": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
       "title_en": "L’âge d’or",
       "country": "France",
-      "director_lbxd_slug": "luis-bunuel"
+      "director_lbxd_slug": "luis-bunuel",
+      "plot_pt": "A Idade do Ouro (francês: L'âge d'or) é um filme francês de 1930, dirigido por Luis Buñuel e escrito por Salvador Dalí. É o segundo filme de Buñuel. Neste filme merece destaque a participação do pintor Max Ernst, como líder de um grupo de bandidos.\nO que faz a \"A Idade do Ouro\" ser tão polêmico é a forma como Buñuel trata os dogmas da sociedade e, principalmente, da Igreja Católica."
     },
     {
       "id": "sao_jorge_12262",
@@ -718,7 +721,8 @@ window.CINEMA_DATA = {
       "year": 2005,
       "plot": "In 1933, a young woman and her father discover an Alabama plantation whose inhabitants live as if slavery had never been abolished. Feeling a sense of duty to those behind the heavy gates, she stays to liberate the people and see them through their first harvest. With four of her father's colleagues and a lawyer, she faces the daunting task of resurrecting the place known as Manderlay.",
       "country": "Denmark",
-      "director_lbxd_slug": "lars-von-trier"
+      "director_lbxd_slug": "lars-von-trier",
+      "plot_pt": "Manderlay é um filme dirigido por Lars von Trier. É o segundo filme da trilogia projetada USA – Land of Opportunities, sendo precedido por Dogville, do mesmo diretor. Anthony Dod Mantle e Peter Grant foram responsáveis pela Direção de Fotografia e Direção de Arte, respectivamente."
     },
     {
       "id": "sao_jorge_12258",
@@ -798,7 +802,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12252",
       "title": "Salvation",
-      "director": null,
+      "director": "J.A. Steel",
       "duration": 120,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/6/0/33560-salvation-0-500-0-750-crop.jpg?v=4bb8b41663",
@@ -849,7 +853,8 @@ window.CINEMA_DATA = {
         5.5
       ],
       "country": "USA",
-      "director_lbxd_slug": "kelly-reichardt"
+      "director_lbxd_slug": "kelly-reichardt",
+      "plot_pt": "First Cow (bra: First Cow - A Primeira Vaca da América, ou apenas First Cow) é um filme estadunidense de 2019, dos gêneros drama e faroeste, dirigido por Kelly Reichardt, com roteiro dela e Jonathan Raymond baseado no romance The Half Life, de Raymond. \nTeve sua estreia mundial no Festival de Cinema de Telluride em 30 de agosto de 2019, e também foi selecionado para concorrer ao Urso de Ouro na seção de competição principal do 70º Festival Internacional de Cinema de Berlim. Foi lançado nos Estados Unidos em 6 de março de 2020 pela A24 e posteriormente lançado em plataformas virtuais como VOD em 10 de julho de 2020. No Brasil, foi lançado em 10 de junho de 2021 pela Vitrine Filmes nos cinemas e 9 de julho de 2021 no streaming pela MUBI. Em dezembro de 2021, a Vitrine Filmes iniciou a pré-venda no Brasil da edição limitada e definitiva do filme em blu-ray em parceria com a Versátil Home Vídeo, que será lançado exclusivamente na loja virtual VersátilHV.\nO filme segue dois viajantes que fogem de um bando de caçadores vingativos no noroeste de 1820."
     },
     {
       "id": "sao_jorge_12248",
@@ -896,7 +901,8 @@ window.CINEMA_DATA = {
       "plot": "The economic crisis, a teddy bear with suicidal tendencies named Judy Garland, the Discovery Channel, a black panther and the Russian playwright Anton Tchekhov are all part of the heroic adventure of a little girl who has a problem to solve.",
       "title_en": "Sadness and Joy in the Life of Giraffes",
       "country": "Portugal",
-      "director_lbxd_slug": "tiago-guedes"
+      "director_lbxd_slug": "tiago-guedes",
+      "plot_pt": "Lista de filmes portugueses de longa-metragem lançados comercialmente em Portugal em 2019, nas salas de cinemas.\n\nNota: Na coluna coprodução, passando o cursor sobre a bandeira aparecerá o nome do país correspondente."
     },
     {
       "id": "sao_jorge_12244",
@@ -929,7 +935,8 @@ window.CINEMA_DATA = {
         34.1
       ],
       "country": "USA",
-      "director_lbxd_slug": "milos-forman"
+      "director_lbxd_slug": "milos-forman",
+      "plot_pt": "Amadeus é um filme épico americano de 1984, do gênero drama biográfico e musical, dirigido por Milos Forman com roteiro de Peter Shaffer baseado em sua peça homônima, livremente inspirada na vida dos compositores Wolfgang Amadeus Mozart e Antonio Salieri.\nO filme foi indicado para 53 prêmios, e recebeu 40, incluindo oito Oscars (entre eles o de melhor filme), quatro prêmios BAFTA, quatro Globos de Ouro e um prêmio DGA.\nEm 1998, Amadeus foi classificado como o 53º melhor filme dos Estados Unidos pelo American Film Institute, em sua lista AFI's 100 Years… 100 Movies."
     },
     {
       "id": "sao_jorge_12240",
@@ -1030,7 +1037,8 @@ window.CINEMA_DATA = {
       "year": 1930,
       "plot": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
       "country": "France",
-      "director_lbxd_slug": "luis-bunuel"
+      "director_lbxd_slug": "luis-bunuel",
+      "plot_pt": "A Idade do Ouro (francês: L'âge d'or) é um filme francês de 1930, dirigido por Luis Buñuel e escrito por Salvador Dalí. É o segundo filme de Buñuel. Neste filme merece destaque a participação do pintor Max Ernst, como líder de um grupo de bandidos.\nO que faz a \"A Idade do Ouro\" ser tão polêmico é a forma como Buñuel trata os dogmas da sociedade e, principalmente, da Igreja Católica."
     },
     {
       "id": "sao_jorge_12236",
@@ -2073,7 +2081,7 @@ window.CINEMA_DATA = {
       "stills_focus": [
         29.5,
         49.4,
-        29.1
+        29.3
       ],
       "country": "Romania",
       "director_lbxd_slug": "radu-jude"
@@ -3518,7 +3526,7 @@ window.CINEMA_DATA = {
       "title": "Scherzetto",
       "director": "Mario Martone",
       "year": 2026,
-      "duration": null,
+      "duration": 116,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/4/7/4/5/1474745-trick-2-0-500-0-750-crop.jpg?v=6de5d0140c",
       "genres": [
         "Drama"
@@ -3789,7 +3797,7 @@ window.CINEMA_DATA = {
       "title": "O Estrangeiro (1945)",
       "director": "Orson Welles",
       "year": 1946,
-      "duration": null,
+      "duration": 95,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
       "genres": [
         "Thriller",
@@ -4348,11 +4356,10 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Prefacio para el dialoguito",
-      "plot_pt": "Refletindo sobre as infinitas possibilidades contidas na ideia de um filme, após a estreia da sua mais recente longa-metragem, Tú me abrasas, Piñeiro decidiu criar um prefácio à parte para a obra. Filmando e editando novas cenas emulando a forma literária de uma nota do autor ao leitor, o realizador oferece uma introdução alternativa, lúdica e associativa.\nSessão apresentada e seguida de conversa com Matías Piñeiro e Garbiñe Ortega",
       "plot": "An adaptation of “Sea Foam”, a chapter from Cesare Pavese’s “Dialoghi con Leucò” published in 1947. The ancient Greek poet Sappho and the nymph Britomartis meet beside the sea and have a conversation about love and death. Sappho is said to have thrown herself into the ocean from lovesickness. Britomartis apparently tumbled off a cliff and into the water while fleeing from a man. Together, the two discuss the stories and images that have emerged around them to try and understand, at least for a moment, the bittersweet nature of desire.",
-      "country": "USA",
+      "country": "Argentina",
       "rating": 3.36,
-      "title_en": "Desire Lines",
+      "title_en": "You Burn Me",
       "stills": [
         "https://image.tmdb.org/t/p/w1280/8n9i3wfJ8bl8lvYAWL9YaijA6hP.jpg",
         "https://image.tmdb.org/t/p/w1280/wRBIySCkh2htuG850WSowU8gAV1.jpg",
@@ -4676,7 +4683,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
-      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4745,7 +4751,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -4768,7 +4773,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -4800,7 +4804,6 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
-      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -5667,7 +5670,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
-      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -6015,7 +6017,6 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
-      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -6445,12 +6446,12 @@ window.CINEMA_DATA = {
       "id": "ideal_1__naza",
       "title": "1- NAZA",
       "director": "Paul Crowder",
-      "year": 2009,
+      "year": 2010,
       "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/4/8/16048-1-0-500-0-750-crop.jpg?v=3d8ce087a9",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
       "genres": [
-        "Thriller",
-        "Science Fiction"
+        "Documentary",
+        "Music"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=69576",
@@ -6496,22 +6497,22 @@ window.CINEMA_DATA = {
           "cinema": "ideal"
         }
       ],
-      "rating": 3.27,
-      "plot": "A bookshop renowned for its rare works is mysteriously and filled with copies of a book entitled 1, which doesn't appear to have a publisher or author. The strange almanac describes what happens to humanity in a minute. A police investigation begins and the bookshop staff are placed in solitary confinement by the Bureau for Paranormal Research. As the investigation progresses, the situation becomes more complex and the book becomes increasingly well-known, raising numerous controversies. Plagued by doubts, the protagonist has to face facts: reality only exists in the imagination of individuals.",
-      "country": "Hungary",
-      "director_lbxd_slug": "pater-sparrow"
+      "rating": 3.6,
+      "plot": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
+      "country": "USA",
+      "director_lbxd_slug": "pater-sparrow",
+      "title_en": "Billy Joel - The Last Play at Shea"
     },
     {
       "id": "ideal_3__a_desconhecida",
       "title": "3- A DESCONHECIDA",
       "director": "Lee Unkrich",
-      "year": 2008,
+      "year": 2007,
       "duration": 103,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/6/8/9/1250689-3-0-500-0-750-crop.jpg?v=3209bd950e",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/8/0/5/9/308059-sappers-0-500-0-750-crop.jpg?v=c1666d19fa",
       "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
+        "Drama",
+        "War"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=73179",
@@ -6538,8 +6539,9 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
-      "country": "United States",
-      "director_lbxd_slug": "shuji-kataoka"
+      "country": "Russia",
+      "director_lbxd_slug": "shuji-kataoka",
+      "title_en": "Sappers"
     },
     {
       "id": "ideal_doc_premiados_5",
@@ -6709,11 +6711,11 @@ window.CINEMA_DATA = {
       "id": "ideal_2__hist_rias_paralelas",
       "title": "2- HISTÓRIAS PARALELAS",
       "director": "James Cameron",
-      "year": 2018,
+      "year": 2017,
       "duration": 137,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/9/8/5/1389985-2-0-500-0-750-crop.jpg?v=334405a787",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/7/1/6/5/717165-2-0-500-0-750-crop.jpg?v=4440cefcab",
       "genres": [
-        "Documentary"
+        "Romance"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=72111",
@@ -6752,8 +6754,13 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
+    "Paul Almond": {
+      "lbxd_slug": "paul-almond",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PaulAlmond.jpg/500px-PaulAlmond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Paul Almond (April 26, 1931 – April 9, 2015) was a Canadian television and motion picture screenwriter, director, producer, and novelist. He is known for being the director of the first film in the Up series."
+    },
     "Allan Sieber": {
-      "lbxd_slug": null,
+      "lbxd_slug": "allan-sieber",
       "photo": null,
       "bio": null
     },
@@ -6763,7 +6770,7 @@ window.CINEMA_DATA = {
       "bio": "French actress, film director and screenwriter"
     },
     "Germán Monzó": {
-      "lbxd_slug": null,
+      "lbxd_slug": "german-monzo",
       "photo": null,
       "bio": null
     },
@@ -6784,8 +6791,13 @@ window.CINEMA_DATA = {
     },
     "Sompot Chidgasornpongse": {
       "lbxd_slug": "sompot-chidgasornpongse",
-      "photo": null,
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sompot_Chidgasornpongse_%282026%29_A.jpg/500px-Sompot_Chidgasornpongse_%282026%29_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": null
+    },
+    "Sara Petty": {
+      "lbxd_slug": "sara-petty",
+      "photo": null,
+      "bio": "researcher"
     },
     "Lee Chang-dong": {
       "lbxd_slug": "lee-chang-dong",
@@ -6821,6 +6833,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "xavier-giannoli",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Xavier_Giannoli_Deauville_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Xavier Giannoli (born 7 March 1972) is a French film director, screenwriter and producer. Most known for his films Marguerite (2015) and Lost Illusions (2021). In 2010, he was named a Chevalier in the Ordre des Arts et des Lettres."
+    },
+    "J.A. Steel": {
+      "lbxd_slug": "ja-steel",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/J._A._Steel_on_RealTVfilms.jpg/500px-J._A._Steel_on_RealTVfilms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "J.A. Steel (born December 12, 1969) is an American writer, director, producer, editor, stunt person and actress best known for her role as C. Alexandra Jones in The Third Society."
     },
     "Kelly Reichardt": {
       "lbxd_slug": "kelly-reichardt",
