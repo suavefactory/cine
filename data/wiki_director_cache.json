@@ -2907,12 +2907,12 @@
   "Allan Sieber": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Germán Monzó": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Margarethe von Trotta": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Margarethe_von_Trotta_at_Berlinale_2023.jpg/500px-Margarethe_von_Trotta_at_Berlinale_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -2922,7 +2922,7 @@
   "Paulina Urreta": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
   },
   "Sompot Chidgasornpongse": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sompot_Chidgasornpongse_%282026%29_A.jpg/500px-Sompot_Chidgasornpongse_%282026%29_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2957,6 +2957,31 @@
   "Sara Petty": {
     "photo": null,
     "bio": "researcher",
+    "tries": 1
+  },
+  "Mohsen Gharaei": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Mohsen_Gharaei_at_Venice_Film_Festival_2026-2.jpg/500px-Mohsen_Gharaei_at_Venice_Film_Festival_2026-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Mohsen Gharaei (born January 27, 1984) is an Iranian film director and screenwriter. He studied mining engineering at the University of Tehran. Gharaei began his career in cinema in 2007 and has since gained recognition for his work.",
+    "tries": 1
+  },
+  "Lila Pinell": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Lila_Pinell_speaking_at_2026_Cannes_Film_Festival_01.jpg/500px-Lila_Pinell_speaking_at_2026_Cannes_Film_Festival_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "French film director",
+    "tries": 1
+  },
+  "Ange Leccia": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ange_Leccia.jpg/500px-Ange_Leccia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Ange Leccia (born 19 April 1952) is a  contemporary French painter, photographer and film-maker. He works in Paris primarily with photography and video.",
+    "tries": 1
+  },
+  "Mikio Naruse": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mikio_Naruse_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Mikio Naruse (成瀬 巳喜男 or 成瀬 巳㐂男, Naruse Mikio; 20 August 1905 – 2 July 1969) was a Japanese film director and screenwriter who directed 89 films spanning the period 1930 to 1967. Naruse is known for imbuing his films with a bleak and pessimistic outlook. He made primarily shōshimin-eiga (\"common people drama\") films with female protagonists, portrayed by actresses such as Hideko Takamine, Kinuyo Tanaka, and Setsuko Hara.",
+    "tries": 1
+  },
+  "Patrício Guzman": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patricio_Guzman_cortado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "bio": "Chilean film director (1941–2026)",
     "tries": 1
   }
 }

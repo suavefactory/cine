@@ -86626,16 +86626,7 @@
       ]
     },
     "dir_checked": true,
-    "stills_focus": [
-      27.2,
-      28.6,
-      19.8
-    ],
-    "stills": [
-      "https://medeiafilmes.com/uploads/library/ela-olhava_01.jpg",
-      "https://medeiafilmes.com/uploads/library/ela-olhava_02.jpg",
-      "https://medeiafilmes.com/uploads/library/ela-olhava_05.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1474815"
   },
   "Moscas|2026": {
@@ -86841,16 +86832,7 @@
       ]
     },
     "dir_checked": true,
-    "stills_focus": [
-      35.4,
-      43.2,
-      41.2
-    ],
-    "stills": [
-      "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
-      "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
-      "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1124118"
   },
   "Old Joy|2006": {
@@ -87256,7 +87238,8 @@
       "original_title": "Wendy & Lucy",
       "country": "US",
       "year": 2008,
-      "director": "Kelly Reichardt"
+      "director": "Kelly Reichardt",
+      "plot_pt": "O Último Azul é um filme de drama e ficção científica de 2025, dirigido por Gabriel Mascaro com roteiro escrito por ele e Tibério Azul. O filme é uma coprodução internacional do Brasil, Chile, México e Países Baixos, tendo sido produzido pelas companhias produtoras Desvia Filmes, Cinevinay, Viking Film, Quijote Cine e Globo Filmes. Distribuído pela Vitrine Filmes, consta em seu elenco nomes como Denise Weinberg, Rodrigo Santoro, Miriam Socarrás, Adanilo, e Clarissa Pinheiro.\nA trama é ambientada no Brasil em um futuro distópico, onde o governo decreta que todos os idosos sejam transferidos para colônias habitacionais remotas, sob o pretexto de garantir uma velhice \"digna\"."
     },
     "dir_checked": true,
     "stills_focus": [
@@ -87384,18 +87367,13 @@
       ]
     },
     "dir_checked": true,
-    "stills_focus": [
-      28.8
-    ],
-    "stills": [
-      "https://medeiafilmes.com/uploads/library/baja_f01cor_2026118617.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1736720"
   },
   "Amaretti|2026": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/4/7/4/2/1594742-amaretti-0-500-0-750-crop.jpg?v=aedcc7c61a",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/4/7/4/2/1594742-amaretti-0-500-0-750-crop.jpg?v=da5471b8f5",
       "description": "When septuagenarian Lennie's reality is devastated by the discovery of a prolonged, pernicious crime committed against her by her own son, an unexpected connection helps her to begin a journey towards re-forging her fractured identity.",
       "genres": [
         "Drama"
@@ -87421,12 +87399,7 @@
       ]
     },
     "dir_checked": true,
-    "stills_focus": [
-      32.5
-    ],
-    "stills": [
-      "https://medeiafilmes.com/uploads/library/timeline_1_01_04_05_22.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1727936"
   },
   "Child of the Rouge|2026": {
@@ -87485,12 +87458,7 @@
       ]
     },
     "dir_checked": true,
-    "stills_focus": [
-      39.6
-    ],
-    "stills": [
-      "https://medeiafilmes.com/uploads/library/large_childoftherouge-clean-16x9-01.jpg"
-    ],
+    "stills": null,
     "tmdb_id": "1702009"
   },
   "Carta de Amor|1953": {
@@ -90169,7 +90137,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "307314",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Elephants in the Fog|None": {
     "lbxd": {
@@ -90234,7 +90202,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/1h/hz/x1/53/w0AOm8rAqRz5n0sjhKuLFW4dLhl-1920-1920-1080-1080-crop-000000.jpg?v=2e2ac204ca"
     ],
     "tmdb_id": "1661926",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ninfomaníaca Vol. 2 – Director’s Cut|None": {
     "lbxd": null,
@@ -90328,7 +90296,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/i6/x9/w0/1e/652SQhVACFKeoElbCSsuOeiyukD-1920-1920-1080-1080-crop-000000.jpg?v=1281ad8ce6"
     ],
     "tmdb_id": "95482",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Debut|None": {
     "lbxd": {
@@ -90392,7 +90360,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "38135",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Nagi Notes|None": {
     "lbxd": {
@@ -90461,7 +90429,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/2/5/7/5/2/tmdb/lnJ3R511iTJbQjemBole0MJDn6g-1920-1920-1080-1080-crop-000000.jpg?v=0d69dd3ad6"
     ],
     "tmdb_id": "1448971",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "L’âge d’or – Cineconcerto|None": {
     "lbxd": {
@@ -90488,7 +90456,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "5729",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Night Moves|None": {
     "lbxd": {
@@ -90559,7 +90527,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/ka/bs/xy/nr/7-1920-1920-1080-1080-crop-000000.jpg?v=f285470cc1"
     ],
     "tmdb_id": "32042",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Manderlay|None": {
     "lbxd": {
@@ -90623,7 +90591,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1951",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ebenezer|None": {
     "lbxd": {
@@ -90746,7 +90714,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
     ],
     "tmdb_id": "1318335",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Salvation|None": {
     "lbxd": {
@@ -91809,7 +91777,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1404592"
+    "tmdb_id": "1404592",
+    "wiki_tries": 1
   },
   "L’Aventura|None": {
     "lbxd": {
@@ -91838,7 +91807,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/3/2/3/tmdb/wmzLN6fs6QHQnIl5nVFuO9OO4xB-1920-1920-1080-1080-crop-000000.jpg?v=ee36e02b42"
     ],
-    "tmdb_id": "1317616"
+    "tmdb_id": "1317616",
+    "wiki_tries": 1
   },
   "Until the Day Ends|None": {
     "lbxd": {
@@ -91864,7 +91834,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1531947"
+    "tmdb_id": "1531947",
+    "wiki_tries": 1
   },
   "Voyages en Italie|None": {
     "lbxd": {
@@ -91925,7 +91896,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/1/4/1/3/tmdb/3ovd4UsM5cEZcpnS2No2oGaKGcn-1920-1920-1080-1080-crop-000000.jpg?v=e0bc68a9c7"
     ],
-    "tmdb_id": "1000559"
+    "tmdb_id": "1000559",
+    "wiki_tries": 1
   },
   "A Odisseia – episódios 1 a 4|None": {
     "lbxd": {
@@ -91980,7 +91952,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "0"
+    "tmdb_id": "0",
+    "wiki_tries": 1
   },
   "Anticristo|None": {
     "lbxd": null,
@@ -92083,7 +92056,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "121873"
+    "tmdb_id": "121873",
+    "wiki_tries": 1
   },
   "Énorme|None": {
     "lbxd": {
@@ -92138,7 +92112,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/5/6/6/4/0/6/tmdb/knhTUr56ONw6UdCnozrLYq1eLm4-1920-1920-1080-1080-crop-000000.jpg?v=ca8f0e8f13"
     ],
-    "tmdb_id": "640561"
+    "tmdb_id": "640561",
+    "wiki_tries": 1
   },
   "9 Temples to Heaven|None": {
     "lbxd": {
@@ -92194,7 +92169,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/3b/jj/vt/e3/aTxI4pigee5Gj7mDGPy8Bj3xsn7-1920-1920-1080-1080-crop-000000.jpg?v=c9edc955cb"
     ],
-    "tmdb_id": "1046304"
+    "tmdb_id": "1046304",
+    "wiki_tries": 1
   },
   "La vie au ranch|None": {
     "lbxd": {
@@ -92254,7 +92230,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "63774"
+    "tmdb_id": "63774",
+    "wiki_tries": 1
   },
   "Furies|None": {
     "lbxd": {
@@ -92306,7 +92283,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "205711"
+    "tmdb_id": "205711",
+    "wiki_tries": 1
   },
   "O Elemento do Crime|None": {
     "lbxd": null,
@@ -92376,7 +92354,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/4/0/4/2/1/tmdb/mccHZJMj3pHfHtbmG48txYdgamR-1920-1920-1080-1080-crop-000000.jpg?v=847d7fc68e"
     ],
     "tmdb_id": "1256192",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Casa Pequena|2026": {
     "lbxd": {
@@ -92529,7 +92507,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
     ],
-    "tmdb_id": "958496"
+    "tmdb_id": "958496",
+    "wiki_tries": 1
   },
   "Par 4 chemins|2026": {
     "lbxd": {
@@ -93245,6 +93224,745 @@
     },
     "wiki": null,
     "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      70.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
+    ],
+    "tmdb_id": "958496"
+  },
+  "Filme vencedor do Grande Prémio NOS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "O Advogado do Terror|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "A Coleccionadora|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Citizen Kane|None": {
+    "lbxd": {
+      "rating": 4.19,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/7/0/2/2702-citizen-kane-0-500-0-750-crop.jpg?v=56bbc53dfd",
+      "description": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "country": "USA",
+      "lb_director": "Orson Welles",
+      "lb_director_slug": "orson-welles-1",
+      "lb_year": 1941,
+      "lb_title": "Citizen Kane",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/9b/2v/zw/cc/zGutQCLUIQ5LakubDZtfM8s22eA-1920-1920-1080-1080-crop-000000.jpg?v=c4e0e0922a",
+      "imdb_id": "tt0033467",
+      "tmdb_id": "15"
+    },
+    "omdb": {
+      "Title": "Citizen Kane",
+      "Year": "1941",
+      "Rated": "PG",
+      "Released": "05 Sep 1941",
+      "Runtime": "119 min",
+      "Genre": "Drama, Mystery",
+      "Director": "Orson Welles",
+      "Writer": "Herman J. Mankiewicz, Orson Welles, Roger Q. Denny",
+      "Actors": "Orson Welles, Joseph Cotten, Dorothy Comingore",
+      "Plot": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+      "Language": "English, Italian",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 16 wins & 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "99%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "8.2",
+      "imdbVotes": "497,451",
+      "imdbID": "tt0033467",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,867,787",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      15.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/9b/2v/zw/cc/zGutQCLUIQ5LakubDZtfM8s22eA-1920-1920-1080-1080-crop-000000.jpg?v=c4e0e0922a"
+    ],
+    "tmdb_id": "15"
+  },
+  "Oasis|None": {
+    "lbxd": {
+      "rating": 4.07,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/9/0/6/34906-oasis-0-500-0-750-crop.jpg?v=2176fcbd04",
+      "description": "A young man released from prison visits the widow of the man he killed drunk-driving and becomes infatuated with his cerebral palsy-stricken daughter.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "South Korea",
+      "lb_director": "Lee Chang-dong",
+      "lb_director_slug": "lee-chang-dong",
+      "lb_year": 2002,
+      "lb_title": "Oasis",
+      "backdrop": null,
+      "imdb_id": "tt0320193",
+      "tmdb_id": "26955"
+    },
+    "omdb": {
+      "Title": "Oasis",
+      "Year": "2004",
+      "Rated": "N/A",
+      "Released": "07 May 2004",
+      "Runtime": "133 min",
+      "Genre": "Drama, Romance",
+      "Director": "Lee Chang-dong",
+      "Writer": "Lee Chang-dong",
+      "Actors": "Sul Kyung-gu, Moon So-ri, Ahn Nae-sang",
+      "Plot": "An irresponsible and childish ex-con befriends a girl with cerebral palsy and develops a progressively stronger bond with her.",
+      "Language": "Korean",
+      "Country": "South Korea",
+      "Awards": "26 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjAwZWVjOGMtODA5OS00YWEwLWFhYTYtZGRlZWYxNzkzYzE1XkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "7.8",
+      "imdbVotes": "11,965",
+      "imdbID": "tt0320193",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$10,304",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "26955"
+  },
+  "La Vénus Électrique|None": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/0/1/9/0/1320190-la-venus-electrique-0-500-0-750-crop.jpg?v=8584ef2833",
+      "description": "Artist Antoine has lost all inspiration and slipped into alcoholism since the death of his wife Irène, a loss he blames himself for. Suzanne is a penniless sideshow performer pretending to be a clairvoyant, whom Antoine consults in a bid to connect with Irène. Antoine’s dealer Armand, desperate to keep Antoine from falling apart, urges Suzanne to keep the ruse alive. She stages a series of improvised hypnosis sessions, claiming she can channel Irène in exchange for having her debts paid by Armand.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Pierre Salvadori",
+      "lb_director_slug": "pierre-salvadori",
+      "lb_year": 2026,
+      "lb_title": "La Vénus électrique",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/hn/nk/6o/it/la%20venus-1920-1920-1080-1080-crop-000000.jpg?v=437618bb18",
+      "imdb_id": "tt37163509",
+      "tmdb_id": "1442669"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/hn/nk/6o/it/la%20venus-1920-1920-1080-1080-crop-000000.jpg?v=437618bb18"
+    ],
+    "tmdb_id": "1442669"
+  },
+  "A Odisseia – episódios 5 a 8|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/3/5/0/1/1/1635011-a-odisseia-0-500-0-750-crop.jpg?v=a0d4b7dc8e",
+      "description": "A original take on Homers epic",
+      "genres": null,
+      "country": null,
+      "lb_director": "Rafael Araújo",
+      "lb_director_slug": "rafael-araujo-4",
+      "lb_year": null,
+      "lb_title": null,
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1770512"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1770512"
+  },
+  "Anatomia do Inferno|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "A Professora de Francês|None": {
+    "lbxd": {
+      "rating": 3.47,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/3/1/1037731-the-french-teacher-2026-0-500-0-750-crop.jpg?v=e38577c6c1",
+      "description": "Graça, a lesbian woman living in Belo Horizonte with her French girlfriend Clara, gives private French lessons to support herself in a large Brazilian metropolis. As an independent Black woman from a lower-middle-class background, she finds herself confronted by the dark side of religious fanaticism when she is forced to live with an extremist evangelical family that gradually involves her in a mysterious plot that leads her to lose her mind.",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Thriller"
+      ],
+      "country": "Brazil",
+      "lb_director": "Ricardo Alves Jr.",
+      "lb_director_slug": "ricardo-alves-jr",
+      "lb_year": 2026,
+      "lb_title": "The French Teacher",
+      "backdrop": null,
+      "imdb_id": "tt45961801",
+      "tmdb_id": "1151260"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1151260"
+  },
+  "Falling House|None": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/2/6/2/6/1602626-falling-house-0-500-0-750-crop.jpg?v=2b545cda8a",
+      "description": "A modest family on the outskirts of Tehran faces the imminent destruction of their home as a part of a vast redevelopment project. While Rashid, the father and a prison guard, is being accused of corruption, he discovers that his eldest daughter, Ensi, is secretly planning to leave Iran to become a model. As the bulldozers draw ever closer, the tensions within the household start to rise.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Iran",
+      "lb_director": "Mohsen Gharaie",
+      "lb_director_slug": "mohsen-gharaie",
+      "lb_year": 2026,
+      "lb_title": "Falling House",
+      "backdrop": null,
+      "imdb_id": "tt43704167",
+      "tmdb_id": "1736497"
+    },
+    "omdb": {
+      "Title": "Falling House",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "03 Sep 2026",
+      "Runtime": "124 min",
+      "Genre": "Drama",
+      "Director": "Mohsen Gharaei",
+      "Writer": "Amir Mohammad Abdi, Mohsen Gharaei",
+      "Actors": "Farhad Aslani, Laleh Marzban, Rima Raminfar",
+      "Plot": "A veteran prison guard, suspended for a grave error, learns his eldest daughter intends to move abroad to model. Resolved to stop her, he tries everything to keep her from leaving.",
+      "Language": "Persian",
+      "Country": "Iran, United States, Germany",
+      "Awards": "2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTFjODE1YTYtODBkYi00OTVjLWE2YjItMDI4YmI0YWRhMDljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "71",
+      "imdbID": "tt43704167",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1736497"
+  },
+  "Shana|None": {
+    "lbxd": {
+      "rating": 3.4,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/1/3/6/1360136-shana-0-500-0-750-crop.jpg?v=b82592a3ba",
+      "description": "Shana navigates the trials and tribulations of everyday life with boundless energy and the support of her group of friends. When her grandmother passes away, she inherits a ring that is supposed to protect her from bad luck. Shana certainly needs this helping hand. Especially since her toxic partner has been released from prison, and misfortunes are piling up…",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Lila Pinell",
+      "lb_director_slug": "lila-pinell",
+      "lb_year": 2026,
+      "lb_title": "Shana",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/6/0/1/3/6/tmdb/6KhQIwEJxsfpW2Jla5eyKtXQYhN-1920-1920-1080-1080-crop-000000.jpg?v=eba5c00445",
+      "imdb_id": "tt39172310",
+      "tmdb_id": "1483319"
+    },
+    "omdb": {
+      "Title": "Shana",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Jun 2026",
+      "Runtime": "N/A",
+      "Genre": "N/A",
+      "Director": "Lila Pinell",
+      "Writer": "Catherine Paillé, Lila Pinell, Elie Wajeman",
+      "Actors": "Eva Huault, Noémie Lvovsky, Palachandiran Thyshaant",
+      "Plot": "Shana copes with the daily routine with the support of her tight-knit group of girlfriends. When her grandmother died, she inherited a ring that was supposed to ward off the evil eye.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJjNDE5YTAtMTA1Yy00NTlhLThhMjAtMDhiNDJkNzlkMWI3XkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt39172310",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      26.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/6/0/1/3/6/tmdb/6KhQIwEJxsfpW2Jla5eyKtXQYhN-1920-1920-1080-1080-crop-000000.jpg?v=eba5c00445"
+    ],
+    "tmdb_id": "1483319"
+  },
+  "Melancolia|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/1/8/7/3/691873-melancolia-0-500-0-750-crop.jpg?v=1b16fb7706",
+      "description": "A hospice nurse takes care of terminally ill patients all while trying to move past the tragedy of having lost her daughter in a school shooting.",
+      "genres": null,
+      "country": "USA",
+      "lb_director": "Jorge Xolalpa Jr.",
+      "lb_director_slug": "jorge-xolalpa-jr",
+      "lb_year": 2021,
+      "lb_title": "MELANCOLíA",
+      "backdrop": null,
+      "imdb_id": "tt10932638",
+      "tmdb_id": "772561"
+    },
+    "omdb": {
+      "Title": "Melancolia",
+      "Year": "2006",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Short",
+      "Director": "Ange Leccia",
+      "Writer": "Ange Leccia",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "None",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt10111112",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "772561"
+  },
+  "A Portuguesa|2018": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/7/1/3/4/437134-the-portuguese-woman-0-500-0-750-crop.jpg?v=6bb9fb9acd",
+      "description": "North of Italy, the von Kettens dispute the forces of the Episcopate of Trent. Herr Ketten seeks marriage in a distant country, Portugal. After their honeymoon journey back home, Ketten leaves again for the war. Eleven years elapsed… Rumours are running about the presence of that 'foreigner' in the castle. Some say she's a heretic. Until one day, the Bishop of Trento ends up dying and, with the signature of peace, falls the background of von Ketten's life. Will the Portuguese win, where death seems to be moving in?",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2018,
+      "lb_title": "The Portuguese Woman",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/07/ft/2s/zu/x3OkmsuxpFaiGskphHNv1c2Yc4Z-1920-1920-1080-1080-crop-000000.jpg?v=819e9ed8ca",
+      "imdb_id": "tt7746590",
+      "tmdb_id": "507317"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/07/ft/2s/zu/x3OkmsuxpFaiGskphHNv1c2Yc4Z-1920-1920-1080-1080-crop-000000.jpg?v=819e9ed8ca"
+    ],
+    "tmdb_id": "507317"
+  },
+  "Midaregumo|1967": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/8/7/7/98877-two-in-the-shadow-0-500-0-750-crop.jpg?v=ca71e28566",
+      "description": "A man is involved in a fatal car accident, and though he is blameless, his company transfers him to a remote branch in a small town. Before he leaves, he gives the man's widow a large sum of money that she uses to move back to her hometown.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Japan",
+      "lb_director": "Mikio Naruse",
+      "lb_director_slug": "mikio-naruse",
+      "lb_year": 1967,
+      "lb_title": "Two in the Shadow",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/89/u7/ly/ah/twointheshadow-1920-1920-1080-1080-crop-000000.jpg?v=e8f9accddd",
+      "imdb_id": "tt0061971",
+      "tmdb_id": "126432"
+    },
+    "omdb": {
+      "Title": "Scattered Clouds",
+      "Year": "1967",
+      "Rated": "N/A",
+      "Released": "24 Apr 1968",
+      "Runtime": "108 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mikio Naruse",
+      "Writer": "Nobuo Yamada",
+      "Actors": "Yûzô Kayama, Yôko Tsukasa, Mitsuko Kusabue",
+      "Plot": "A man falls in love with the widow of a man he killed in a car accident. Eventually she falls in love with him in return.",
+      "Language": "Japanese, English",
+      "Country": "Japan",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGUxNGYyMjgtMWRmOS00MGY0LTk3NzQtZDViYzg3MjJhYWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "1,404",
+      "imdbID": "tt0061971",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Scattered Clouds",
+      "imdb_id": "tt0061971",
+      "extract_pt": "Midaregumo (乱れ雲, Midaregumo; lit. \"nuvens turbulentas\") (bra/prt: Nuvens Dispersas) é um filme de drama japonês de 1967 dirigido por Mikio Naruse, estrelado por Yōko Tsukasa e Yūzō Kayama. Foi o último filme de Naruse após uma longa carreira iniciada em 1930."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/89/u7/ly/ah/twointheshadow-1920-1920-1080-1080-crop-000000.jpg?v=e8f9accddd"
+    ],
+    "tmdb_id": "126432"
+  },
+  "Beetlejuice Beetlejuice|2024": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/3/6/4/8/823648-beetlejuice-beetlejuice-0-500-0-750-crop.jpg?v=2759be608e",
+      "description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "country": "USA",
+      "lb_director": "Tim Burton",
+      "lb_director_slug": "tim-burton",
+      "lb_year": 2024,
+      "lb_title": "Beetlejuice Beetlejuice",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/b9/17/c0/3a/beetlejuice-beetlejuice-1920-1920-1080-1080-crop-000000.jpg?v=6f170c7899",
+      "imdb_id": "tt2049403",
+      "tmdb_id": "917496"
+    },
+    "omdb": {
+      "Title": "Beetlejuice Beetlejuice",
+      "Year": "2024",
+      "Rated": "PG-13",
+      "Released": "06 Sep 2024",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Fantasy, Horror",
+      "Director": "Tim Burton",
+      "Writer": "Michael McDowell, Larry Wilson, Alfred Gough",
+      "Actors": "Michael Keaton, Winona Ryder, Catherine O&apos;Hara",
+      "Plot": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Af...",
+      "Language": "English, Italian, French, Spanish, Latin, Yiddish",
+      "Country": "United States, France",
+      "Awards": "9 wins & 48 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ4Y2MzY2MtYzQyMS00ZTQ3LWIzZGQtNjVjYzgwYzA1MDkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "Metascore": "62",
+      "imdbRating": "6.6",
+      "imdbVotes": "180,282",
+      "imdbID": "tt2049403",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$294,100,435",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/b9/17/c0/3a/beetlejuice-beetlejuice-1920-1920-1080-1080-crop-000000.jpg?v=6f170c7899"
+    ],
+    "tmdb_id": "917496"
+  },
+  "O Ah! Das Coisas – O Pecado De João Palolo, 18 De Maio De 2020|2020": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Rita Azevedo Gomes & Gurcius Gewdner in conversation with Lesha Artamanov",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "20 Aug 2021",
+      "Runtime": "48 min",
+      "Genre": "History",
+      "Director": "Lesha Artamonov",
+      "Writer": "N/A",
+      "Actors": "Gurcius Gewdner, Rita Azevedo Gomes",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "Russia",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15126960",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "O Ah! das Coisas é uma pentalogia de curtas-metragens experimentais portuguesas de 2020, realizada, escrita e produzida por Rita Azevedo Gomes. Retratando reflexões e referências cinematográficas, literárias, musicais e plásticas da realizadora, os filmes do projeto intitulam-se: 6 de abril de 2020; \"Nos quartos das freiras não há espelhos.\"; 21 de abril de 2020; \"Um dia voltei ao quarto...\" e; O pecado de João Palolo. As curtas-metragens foram rodadas com recurso a smartphone e produzidas ao longo das primeiras semanas de confinamento pela pandemia de COVID-19 em Portugal."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "O Som Da Terra A Tremer|1990": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/7/4/3/371743-the-sound-of-the-shaking-earth-0-500-0-750-crop.jpg?v=d9cc8f5150",
+      "description": "Freely based on Gide ('Paludes') and Hawthorne ('Wakefield'), this is a film about a writer who never wrote anything and who blows at nightfall the breath of frost. The poem by Carlos Queiroz to which the above sentences belong is not cited in 'O som da Terra a Tremer', but the atmosphere is that, between written letters never received. Fiction within fiction, stories within stories, like those Chinese boxes in which there is always one inside another. Or the two margins of the same river, always being lateral.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 1990,
+      "lb_title": "The Sound of the Shaking Earth",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/76/a7/0a/0z/dIzxut1NEaCeCaDEYLNMvTdVBRe-1920-1920-1080-1080-crop-000000.jpg?v=8938fa4420",
+      "imdb_id": "tt0100656",
+      "tmdb_id": "438972"
+    },
+    "omdb": {
+      "Title": "O Som da Terra a Tremer",
+      "Year": "1990",
+      "Rated": "N/A",
+      "Released": "22 Nov 1990",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes",
+      "Actors": "José Mário Branco, Manuela de Freitas, Miguel Gonçalves",
+      "Plot": "An author writes a story entitled \"O som da terra a tremer\", and the story constantly entwines itself with his private life.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmI0OThlYmEtN2E0Yy00MmViLTk2YTctMmIyM2NmYjYyNzU2XkEyXkFqcGdeQXVyMjU4MzEwNTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "68",
+      "imdbID": "tt0100656",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0100656",
+      "extract_pt": "O Som da Terra a Tremer é um filme de drama português, de 1990, realizado e escrito por Rita Azevedo Gomes e produzido por José Mazeda. Esta longa-metragem de ficção marca a estreia de Azevedo Gomes na realização de cinema. O filme é protagonizado por Alberto (papel interpretado por José Mário Branco), um autor que tenta escrever um livro cuja história se entrelaça constantemente com sua vida privada. \nO filme estreou no Torino International Festival of Young Cinema, na sua edição de novembro de 1990."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      28.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/76/a7/0a/0z/dIzxut1NEaCeCaDEYLNMvTdVBRe-1920-1920-1080-1080-crop-000000.jpg?v=8938fa4420"
+    ],
+    "tmdb_id": "438972"
+  },
+  "Meu País Imaginário|2022": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/2/6/4/4/862644-my-imaginary-country-0-500-0-750-crop.jpg?v=99d9ab8954",
+      "description": "This documentary explores the protests that exploded onto the streets of Chile’s capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Chile",
+      "lb_director": "Patricio Guzmán",
+      "lb_director_slug": "patricio-guzman",
+      "lb_year": 2022,
+      "lb_title": "My Imaginary Country",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786",
+      "imdb_id": "tt19797494",
+      "tmdb_id": "958496"
+    },
+    "omdb": {
+      "Title": "My Imaginary Country",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "26 Oct 2022",
+      "Runtime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Patricio Guzmán",
+      "Writer": "Patricio Guzmán",
+      "Actors": "Youssef Suleiman Mohammed",
+      "Plot": "Protests that exploded onto the streets of Chile's capital of Santiago in 2019 as the population demanded more democracy and social equality around education, healthcare and job opportunities.",
+      "Language": "Spanish",
+      "Country": "Chile, France",
+      "Awards": "1 win & 5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUxZDYxNmItN2FlOS00MDZhLWE4MGEtYjgzYjc1MGE3NTE1XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.2",
+      "imdbVotes": "562",
+      "imdbID": "tt19797494",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$12,738",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2022,
+      "plot_pt": "“Outubro de 2019, uma revolução inesperada, uma explosão social. Um milhão e meio de pessoas manifestaram-se nas ruas de Santiago por mais democracia, uma vida mais digna, uma melhor educação, um melhor sistema de saúde e uma nova Constituição. O Chile tinha recuperado sua memória. O acontecimento de que eu estava à espera desde as minhas lutas estudantis em 1973 e que finalmente se materializou.” Patricio Guzmán"
+    },
     "dir_checked": true,
     "stills_focus": [
       70.0
