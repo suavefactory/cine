@@ -469,7 +469,8 @@
   },
   "Patrícia Saramago": {
     "photo": null,
-    "bio": null
+    "bio": null,
+    "tries": 1
   },
   "Olia Verriopoulou": {
     "photo": null,
@@ -2982,6 +2983,26 @@
   "Patrício Guzman": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patricio_Guzman_cortado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "bio": "Chilean film director (1941–2026)",
+    "tries": 1
+  },
+  "Tiago Guedes, Frederico Serra": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Frank Borzage": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States.",
+    "tries": 1
+  },
+  "Eric Rohmer": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Eric_Rohmer_cinematheque_2004-04.jpg/500px-Eric_Rohmer_cinematheque_2004-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Jean Marie Maurice Schérer or Maurice Henri Joseph Schérer, known as Éric Rohmer (French: [eʁik ʁomɛʁ]; 21 March 1920 – 11 January 2010), was a French film director, film critic, journalist, novelist, screenwriter, and teacher. Rohmer was the last of the post-World War II French New Wave directors to become established. He edited the influential film journal Cahiers du cinéma from 1957 to 1963, while most of his colleagues—among them Jean-Luc Godard and François Truffaut—were making the transition from critics to filmmakers and gaining international attention.",
+    "tries": 1
+  },
+  "Nicholas Roeg, Donald Cammell": {
+    "photo": null,
+    "bio": null,
     "tries": 1
   }
 }

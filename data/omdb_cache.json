@@ -8843,14 +8843,21 @@
   },
   "Niagara|1953": {
     "lbxd": {
-      "rating": 3.42,
+      "rating": 3.43,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/3/0/2/39302-niagara-0-500-0-750-crop.jpg?v=4ca4fed5fb",
-      "description": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls, N.Y. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
+      "description": "Rose Loomis and her older, gloomier husband, George, are vacationing at a cabin in Niagara Falls. The couple befriend Polly and Ray Cutler, who are honeymooning in the area. Polly begins to suspect that something is amiss between Rose and George, and her suspicions grow when she sees Rose in the arms of another man. While Ray initially thinks Polly is overreacting, things between George and Rose soon take a shockingly dark turn.",
       "genres": [
         "Crime",
         "Thriller"
       ],
-      "country": "USA"
+      "country": "USA",
+      "lb_director": "Henry Hathaway",
+      "lb_director_slug": "henry-hathaway",
+      "lb_year": 1953,
+      "lb_title": "Niagara",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/qb/zu/ov/oi/niagara-1920-1920-1080-1080-crop-000000.jpg?v=edb3824094",
+      "imdb_id": "tt0046126",
+      "tmdb_id": "19997"
     },
     "omdb": {
       "Title": "Niagara",
@@ -8891,7 +8898,21 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": {
+      "title_en": "Niagara (1953 film)",
+      "imdb_id": "tt0046126",
+      "extract_pt": "Niagara (bra: Torrentes de Paixões, ou Torrentes de Paixão; prt: Niagara) é um filme de suspense noir estadunidense de 1953, dirigido por Henry Hathaway, produzido por Charles Brackett e escrito por Brackett, Richard L. Breen e Walter Reisch. O filme é estrelado por Marilyn Monroe, Joseph Cotten, Jean Peters e Max Showalter (creditado como Casey Adams). Foi um dos maiores sucessos de bilheteria da 20th Century Fox naquele ano.\nMonroe recebeu o maior crédito em Niagara, o que a elevou ao status de estrela."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      23.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/qb/zu/ov/oi/niagara-1920-1920-1080-1080-crop-000000.jpg?v=edb3824094"
+    ],
+    "tmdb_id": "19997"
   },
   "The Razor's Edge|1985": {
     "lbxd": {
@@ -12083,9 +12104,23 @@
       ],
       "country": "Portugal",
       "lb_director": "Rita Azevedo Gomes",
-      "lb_year": 2001
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2001,
+      "lb_title": "Fragile as the World",
+      "backdrop": null,
+      "imdb_id": "tt0291183",
+      "tmdb_id": "382594"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": {
+      "title_en": "Fragile as the World",
+      "imdb_id": "tt0291183",
+      "extract_pt": "Frágil Como o Mundo é um filme português de 2001, do género drama romântico, realizado e escrito por Rita Azevedo Gomes e produzido por Paulo Branco. A longa-metragem é protagonizada por dois jovens apaixonados, Vera e João (interpretados respetivamente por Maria Gonçalves e Bruno Terra), que fogem de casa e se isolam numa floresta prometendo nunca se separar. O filme foi estreado comercialmente em Portugal no dia 20 de julho de 2001. No mês seguinte, Frágil Como o Mundo teve a sua apresentação internacional quando integrou a secção Novos Territórios do Festival de Cinema de Veneza."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "382594"
   },
   "Dogfight|None": {
     "lbxd": {
@@ -90170,7 +90205,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "307314",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Elephants in the Fog|None": {
     "lbxd": {
@@ -90235,7 +90270,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/1h/hz/x1/53/w0AOm8rAqRz5n0sjhKuLFW4dLhl-1920-1920-1080-1080-crop-000000.jpg?v=2e2ac204ca"
     ],
     "tmdb_id": "1661926",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ninfomaníaca Vol. 2 – Director’s Cut|None": {
     "lbxd": null,
@@ -90329,7 +90364,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/i6/x9/w0/1e/652SQhVACFKeoElbCSsuOeiyukD-1920-1920-1080-1080-crop-000000.jpg?v=1281ad8ce6"
     ],
     "tmdb_id": "95482",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Debut|None": {
     "lbxd": {
@@ -90393,7 +90428,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "38135",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Nagi Notes|None": {
     "lbxd": {
@@ -90462,7 +90497,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/2/5/7/5/2/tmdb/lnJ3R511iTJbQjemBole0MJDn6g-1920-1920-1080-1080-crop-000000.jpg?v=0d69dd3ad6"
     ],
     "tmdb_id": "1448971",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "L’âge d’or – Cineconcerto|None": {
     "lbxd": {
@@ -90489,7 +90524,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "5729",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Night Moves|None": {
     "lbxd": {
@@ -90560,7 +90595,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/ka/bs/xy/nr/7-1920-1920-1080-1080-crop-000000.jpg?v=f285470cc1"
     ],
     "tmdb_id": "32042",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Manderlay|None": {
     "lbxd": {
@@ -90624,7 +90659,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1951",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ebenezer|None": {
     "lbxd": {
@@ -90747,7 +90782,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
     ],
     "tmdb_id": "1318335",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Salvation|None": {
     "lbxd": {
@@ -91811,7 +91846,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1404592",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "L’Aventura|None": {
     "lbxd": {
@@ -91841,7 +91876,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/3/2/3/tmdb/wmzLN6fs6QHQnIl5nVFuO9OO4xB-1920-1920-1080-1080-crop-000000.jpg?v=ee36e02b42"
     ],
     "tmdb_id": "1317616",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Until the Day Ends|None": {
     "lbxd": {
@@ -91868,7 +91903,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1531947",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Voyages en Italie|None": {
     "lbxd": {
@@ -91930,7 +91965,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/1/4/1/3/tmdb/3ovd4UsM5cEZcpnS2No2oGaKGcn-1920-1920-1080-1080-crop-000000.jpg?v=e0bc68a9c7"
     ],
     "tmdb_id": "1000559",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Odisseia – episódios 1 a 4|None": {
     "lbxd": {
@@ -91986,7 +92021,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "0",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Anticristo|None": {
     "lbxd": null,
@@ -92090,7 +92125,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "121873",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Énorme|None": {
     "lbxd": {
@@ -92146,7 +92181,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/5/6/6/4/0/6/tmdb/knhTUr56ONw6UdCnozrLYq1eLm4-1920-1920-1080-1080-crop-000000.jpg?v=ca8f0e8f13"
     ],
     "tmdb_id": "640561",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "9 Temples to Heaven|None": {
     "lbxd": {
@@ -92203,7 +92238,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/3b/jj/vt/e3/aTxI4pigee5Gj7mDGPy8Bj3xsn7-1920-1920-1080-1080-crop-000000.jpg?v=c9edc955cb"
     ],
     "tmdb_id": "1046304",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "La vie au ranch|None": {
     "lbxd": {
@@ -92264,7 +92299,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "63774",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Furies|None": {
     "lbxd": {
@@ -92317,7 +92352,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "205711",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Elemento do Crime|None": {
     "lbxd": null,
@@ -92541,7 +92576,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
     ],
     "tmdb_id": "958496",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Par 4 chemins|2026": {
     "lbxd": {
@@ -93365,7 +93400,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/9b/2v/zw/cc/zGutQCLUIQ5LakubDZtfM8s22eA-1920-1920-1080-1080-crop-000000.jpg?v=c4e0e0922a"
     ],
-    "tmdb_id": "15"
+    "tmdb_id": "15",
+    "wiki_tries": 1
   },
   "Oasis|None": {
     "lbxd": {
@@ -93429,7 +93465,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "26955"
+    "tmdb_id": "26955",
+    "wiki_tries": 1
   },
   "La Vénus Électrique|None": {
     "lbxd": {
@@ -93459,7 +93496,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/hn/nk/6o/it/la%20venus-1920-1920-1080-1080-crop-000000.jpg?v=437618bb18"
     ],
-    "tmdb_id": "1442669"
+    "tmdb_id": "1442669",
+    "wiki_tries": 1
   },
   "A Odisseia – episódios 5 a 8|None": {
     "lbxd": {
@@ -93515,7 +93553,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1151260"
+    "tmdb_id": "1151260",
+    "wiki_tries": 1
   },
   "Falling House|None": {
     "lbxd": {
@@ -93570,7 +93609,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1736497"
+    "tmdb_id": "1736497",
+    "wiki_tries": 1
   },
   "Shana|None": {
     "lbxd": {
@@ -93626,7 +93666,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/6/0/1/3/6/tmdb/6KhQIwEJxsfpW2Jla5eyKtXQYhN-1920-1920-1080-1080-crop-000000.jpg?v=eba5c00445"
     ],
-    "tmdb_id": "1483319"
+    "tmdb_id": "1483319",
+    "wiki_tries": 1
   },
   "Melancolia|None": {
     "lbxd": {
@@ -93695,7 +93736,11 @@
       "tmdb_id": "507317"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Danses Macabres, Squelettes et Autres Fantaisies é um documentário franco-luso-suíço de 2019 realizado por Rita Azevedo Gomes, com Jean-Louis Schefer e Pierre Léon. O filme retrata o encontro destes três autores em Portugal para uma expedição pela teoria de cinema e imagem de Schefer, abordando momentos da história da representação alegórica ocidental.\nA longa-metragem fez parte da programação do 30º Festival International du Documentaire de Marseille, onde estreou a 12 de julho de 2019 e recebeu uma Menção Especial no Grande Prémio da Competição Nacional. Sem ter beneficiado de uma distribuição comercial, em Portugal, Danses Macabres, Squelettes et Autres Fantaisies estreou a 21 de outubro de 2019 no Grande Auditório da Culturgest, no âmbito do 17º Doclisboa."
+    },
     "cinema": {},
     "dir_checked": true,
     "stills_focus": [
@@ -93705,7 +93750,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/07/ft/2s/zu/x3OkmsuxpFaiGskphHNv1c2Yc4Z-1920-1920-1080-1080-crop-000000.jpg?v=819e9ed8ca"
     ],
     "tmdb_id": "507317",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Midaregumo|1967": {
     "lbxd": {
@@ -93840,7 +93885,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/b9/17/c0/3a/beetlejuice-beetlejuice-1920-1920-1080-1080-crop-000000.jpg?v=6f170c7899"
     ],
     "tmdb_id": "917496",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Ah! Das Coisas – O Pecado De João Palolo, 18 De Maio De 2020|2020": {
     "lbxd": null,
@@ -94014,7 +94059,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/6/2/6/4/4/tmdb/miWIEwxPih5zNbjiFVxuh9AAD9e-1920-1920-1080-1080-crop-000000.jpg?v=a816ca8786"
     ],
     "tmdb_id": "958496",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Citizen Kane|1941": {
     "lbxd": {
@@ -94327,5 +94372,1474 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Filme vencedor Grande Prémio Júri João Bénard da Costa|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Filme Premiado – Melhor Filme – Descobertas|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Noite Sangrenta|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/1/6/6/9/191669-bloody-night-0-500-0-750-crop.jpg?v=c25bf7fb11",
+      "description": "A group of soldiers are sentenced for the murders of key political figures in the night of October 19th, 1921, in the streets of Lisbon. But the names of the conspirators remain unknown. Berta Maia, a widow of the 1910 revolution hero Carlos da Maia, will fight for the truth…",
+      "genres": [
+        "History",
+        "Tv Movie",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Tiago Guedes",
+      "lb_director_slug": "tiago-guedes",
+      "lb_year": 2010,
+      "lb_title": "Bloody Night",
+      "backdrop": null,
+      "imdb_id": "tt1674941",
+      "tmdb_id": "268513"
+    },
+    "omdb": {
+      "Title": "Noite Sangrenta",
+      "Year": "2010–",
+      "Rated": "N/A",
+      "Released": "23 Oct 2010",
+      "Runtime": "104 min",
+      "Genre": "Drama",
+      "Director": "Tiago Guedes, Frederico Serra",
+      "Writer": "Tiago Gomes Rodrigues, Fernando Vendrell",
+      "Actors": "Isabel Abreu, Gonçalo Waddington, Nuno Lopes",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "Portugal",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2EwNzNlNmItZGMyZC00NGQ1LTkzZmUtNzI3NmQzOTEzNWJjXkEyXkFqcGdeQXVyNDg5MjMyMTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "57",
+      "imdbID": "tt1674941",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "268513"
+  },
+  "A Farewell To Arms|1932": {
+    "lbxd": {
+      "rating": 3.34,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/6/7/37767-a-farewell-to-arms-0-500-0-750-crop.jpg?v=dd64625bad",
+      "description": "A tale of the World War I love affair, begun in Italy, between American ambulance driver Lt. Frederic Henry and British nurse Catherine Barkley. Eventually separated by Frederic's transfer, tremendous challenges and difficult decisions face each as the war rages on.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1932,
+      "lb_title": "A Farewell to Arms",
+      "backdrop": null,
+      "imdb_id": "tt0022879",
+      "tmdb_id": "22649"
+    },
+    "omdb": {
+      "Title": "A Farewell to Arms",
+      "Year": "1932",
+      "Rated": "Approved",
+      "Released": "08 Dec 1932",
+      "Runtime": "80 min",
+      "Genre": "Drama, Romance, War",
+      "Director": "Frank Borzage",
+      "Writer": "Benjamin Glazer, Oliver H.P. Garrett, Ernest Hemingway",
+      "Actors": "Gary Cooper, Helen Hayes, Adolphe Menjou",
+      "Plot": "An American ambulance driver and an English nurse fall in love in Italy during World War I.",
+      "Language": "English, Italian, Latin, French",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 7 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM2ODc0NTY3OF5BMl5BanBnXkFtZTgwMjQwNzkzMjE@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "7,712",
+      "imdbID": "tt0022879",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "A Farewell to Arms (1932 film)",
+      "imdb_id": "tt0022879",
+      "extract_pt": "A Farewell to Arms (bra: Adeus às Armas; prt: O Adeus às Armas) é um filme estadunidense de 1932, do gênero drama de guerra, dirigido por Frank Borzage, com aclamadas atuações dos astros Gary Cooper e Helen Hayes. \nTrata-se da primeira adaptação de um romance de Ernest Hemingway para o cinema. Indicado a quatro prêmios Oscar, ganhou nas categorias Gravação de Som e Fotografia. Por imposição da Paramount Pictures, o filme tem final feliz, diferentemente do que acontece no livro, mas isso foi corrigido na reprise, em 1948."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "22649"
+  },
+  "No Greater Glory|1934": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/7/2/4/111724-no-greater-glory-0-500-0-750-crop.jpg?v=a4389c0b2f",
+      "description": "A frail boy fights to win acceptance from the leader of a street gang.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1934,
+      "lb_title": "No Greater Glory",
+      "backdrop": null,
+      "imdb_id": "tt0025569",
+      "tmdb_id": "147850"
+    },
+    "omdb": {
+      "Title": "No Greater Glory",
+      "Year": "1934",
+      "Rated": "Approved",
+      "Released": "30 Mar 1934",
+      "Runtime": "74 min",
+      "Genre": "Drama, War",
+      "Director": "Frank Borzage",
+      "Writer": "Jo Swerling, Ferenc Molnár",
+      "Actors": "Frankie Darro, George P. Breakston, Jimmy Butler",
+      "Plot": "Frail Nemecsek, a lonely boy craving belonging, idolizes charismatic Boka, leader of a gang, in an evocative depiction of youth's pain and war's senselessness.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0YTZiYTUtZTcwYS00ZWNkLTgyMDctODgwOTFiOGY4Yzk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "559",
+      "imdbID": "tt0025569",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "147850"
+  },
+  "Bad Girl|1931": {
+    "lbxd": {
+      "rating": 3.32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/7/2/7/70727-bad-girl-0-500-0-750-crop.jpg?v=6bcc841842",
+      "description": "A man and woman, skeptical about romance, nonetheless fall in love and are wed, but their lack of confidence in the opposite sex haunts their marriage.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1931,
+      "lb_title": "Bad Girl",
+      "backdrop": null,
+      "imdb_id": "tt0021635",
+      "tmdb_id": "84299"
+    },
+    "omdb": {
+      "Title": "Bad Girl",
+      "Year": "1931",
+      "Rated": "Approved",
+      "Released": "13 Sep 1931",
+      "Runtime": "90 min",
+      "Genre": "Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Viña Delmar, Brian Marlow, Edwin J. Burke",
+      "Actors": "James Dunn, Sally Eilers, Minna Gombell",
+      "Plot": "A man and woman, skeptical about romance, nonetheless fall in love and are wed, but their lack of confidence in the opposite sex haunts their marriage.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 2 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWZlYTRlOWUtM2EzNS00NzQ5LTk1ZDQtZjA2OGJhYTNhOTEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "1,676",
+      "imdbID": "tt0021635",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Bad Girl (1931 film)",
+      "imdb_id": "tt0021635",
+      "extract_pt": "Bad Girl (prt: Uma Joia de Rapariga; bra: Depois do Casamento) é um filme norte-americano de 1931, do gênero drama, dirigido por Frank Borzage  e estrelado por Sally Eilers e James Dunn."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "84299"
+  },
+  "After Tomorrow|1932": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/6/7/4/2/96742-after-tomorrow-0-500-0-750-crop.jpg?v=2b767140b6",
+      "description": "In the Depression, Pete and Sidney are good kids, working hard, giving money to their parents, and engaged for three years while they save to get married. Each has a selfish mother: Sydney's is cold, Pete's is clingy. Sidney's mother is looking for her own happiness, no matter how much that search harms her daughter and long-suffering husband; and, the longer the engagement lingers, the more pressure Pete's mom puts on Sidney to break it off and set her son free. \"After Tomorrow\" is Pete and Sidney's favorite song, but with illness, poverty, and temptation: will that good day ever come?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1932,
+      "lb_title": "After Tomorrow",
+      "backdrop": null,
+      "imdb_id": "tt0022613",
+      "tmdb_id": "123059"
+    },
+    "omdb": {
+      "Title": "After Tomorrow",
+      "Year": "1932",
+      "Rated": "Approved",
+      "Released": "06 Mar 1932",
+      "Runtime": "79 min",
+      "Genre": "Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Hugh Stanislaus Stange, John Golden, Sonya Levien",
+      "Actors": "Charles Farrell, Marian Nixon, Minna Gombell",
+      "Plot": "Engaged couple faces financial and family troubles that obstruct their marriage.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmExMzdjMWMtZjMyYi00YTY2LTg3MTUtYTVmZDRkODNhZjU2XkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "323",
+      "imdbID": "tt0022613",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "123059"
+  },
+  "Shadow Of A Doubt|1943": {
+    "lbxd": {
+      "rating": 3.95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/2/3/9/38239-shadow-of-a-doubt-0-500-0-750-crop.jpg?v=82c9d9cd7d",
+      "description": "In sleepy Santa Rosa, restless young Charlie’s world brightens when her sophisticated Uncle Charlie arrives for a long visit. But as his behavior grows increasingly strange, she begins to suspect that her beloved uncle may be hiding a terrible secret—and that danger has quietly entered her home.",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Alfred Hitchcock",
+      "lb_director_slug": "alfred-hitchcock",
+      "lb_year": 1943,
+      "lb_title": "Shadow of a Doubt",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/69/lu/1r/6s/shadow-of-a-doubt-1920-1920-1080-1080-crop-000000.jpg?v=703fb5ba36",
+      "imdb_id": "tt0036342",
+      "tmdb_id": "21734"
+    },
+    "omdb": {
+      "Title": "Shadow of a Doubt",
+      "Year": "1943",
+      "Rated": "PG",
+      "Released": "15 Jan 1943",
+      "Runtime": "108 min",
+      "Genre": "Film-Noir, Thriller",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Thornton Wilder, Sally Benson, Alma Reville",
+      "Actors": "Teresa Wright, Joseph Cotten, Macdonald Carey",
+      "Plot": "A teenage girl, overjoyed when her uncle comes to visit the family in their quiet California town, slowly begins to suspect that he is the \"Merry Widow\" killer sought by the authorities.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 2 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFhMzBlYzctMDhkOC00OTFiLTgyYzEtZTBkNmQzNGRlMmNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.8",
+      "imdbVotes": "72,106",
+      "imdbID": "tt0036342",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Shadow of a Doubt",
+      "imdb_id": "tt0036342",
+      "extract_pt": "Shadow of a Doubt (bra: A Sombra de uma Dúvida; prt: Mentira!) é um filme de longa-metragem estadunidense de 1943, dirigido por Alfred Hitchcock.\nShadow of a Doubt foi rodado em preto e branco e é considerado um exemplar do que ficou sendo chamado de film noir. É tido como um clássico do cinema hollywoodiano, e o próprio Hitchcock teria declarado que era um dos seus preferidos dentre os filmes que dirigiu.\nTambém foi considerado culturalmente relevante pela Biblioteca do Congresso Americano e selecionado como parte do acervo do National Film Registry."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      29.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/69/lu/1r/6s/shadow-of-a-doubt-1920-1920-1080-1080-crop-000000.jpg?v=703fb5ba36"
+    ],
+    "tmdb_id": "21734"
+  },
+  "Young America|1932": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/0/8/4/7/130847-young-america-0-500-0-750-crop.jpg?v=c44b38b4e4",
+      "description": "Mrs. Doray sits with a Juvenile Court Judge to learn more about problem children and what to do about them. One of the cases involves 13 year old Arthur, \"the worst kid in town\", who moves cars away from fiire-plugs without the knowledge of the owners. The judge gives Arthur and friend Nutty another chance. However they run into further trouble when they break into Mr. Doray's drugstore to get medicine for Nutty's grandmother. Mr. Doray is not sympathetic and completely against his wife's plan to become Arthur's guardian. More incidents occur with Mr. Doray quick to judge prior to getting all of the facts. Mrs. Doray must choose between her marriage and Arthur.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1932,
+      "lb_title": "Young America",
+      "backdrop": null,
+      "imdb_id": "tt0023719",
+      "tmdb_id": "179983"
+    },
+    "omdb": {
+      "Title": "Young America",
+      "Year": "1932",
+      "Rated": "Passed",
+      "Released": "17 Apr 1932",
+      "Runtime": "70 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "John Frederick Ballard, William M. Conselman",
+      "Actors": "Spencer Tracy, Doris Kenyon, Tommy Conlon",
+      "Plot": "Already in trouble with the law, Arthur and his friend Nutty break into a drugstore to get medicine for Nutty's grandmother. The druggist's wife, Mrs. Doray, asks for custody. When he hears them arguing over him, Arthur runs away....",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzliZWE4MDgtNDRlZi00NGFkLWE1NmQtMDFmZDUzZWJhOGFjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "261",
+      "imdbID": "tt0023719",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "179983"
+  },
+  "Man’s Castle|1933": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/1/8/7/88187-man-s-castle-0-500-0-750-crop.jpg?v=1b78ad7ead",
+      "description": "Bill takes Trina into his depression camp cabin. Later, just as he finds showgirl LaRue who will support him, Trina becomes pregnant.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1933,
+      "lb_title": "Man's Castle",
+      "backdrop": null,
+      "imdb_id": "tt0024302",
+      "tmdb_id": "109886"
+    },
+    "omdb": {
+      "Title": "Man's Castle",
+      "Year": "1933",
+      "Rated": "Approved",
+      "Released": "20 Nov 1933",
+      "Runtime": "75 min",
+      "Genre": "Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Jo Swerling, Lawrence Hazard",
+      "Actors": "Spencer Tracy, Loretta Young, Marjorie Rambeau",
+      "Plot": "Bill takes Trina into his depression camp cabin. Later, just as he finds showgirl LaRue who will support him, Trina becomes pregnant.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGUwZjlkMDEtOTkzMi00ODZhLWE5N2QtMjc1OWYxZjAzNWU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "1,875",
+      "imdbID": "tt0024302",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "109886"
+  },
+  "Efter Repetitionen|1984": {
+    "lbxd": {
+      "rating": 3.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/7/6/22976-after-the-rehearsal-0-500-0-750-crop.jpg?v=ce2df3e6ee",
+      "description": "Rational, exacting, and self-controlled theater director, Henrik Vogler, often stays after rehearsal to think and plan. On this day, Anna comes back, ostensibly looking for a bracelet. She is the lead in his new production of Strindberg's A Dream Play. She talks of her hatred for her mother, now dead, an alcoholic actress, who was Vogler's star and lover.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Ingmar Bergman",
+      "lb_director_slug": "ingmar-bergman",
+      "lb_year": 1984,
+      "lb_title": "After the Rehearsal",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/6n/f0/f4/ts/after%20the%20rehearsal-1920-1920-1080-1080-crop-000000.jpg?v=cf9e30e333",
+      "imdb_id": "tt0087193",
+      "tmdb_id": "42090"
+    },
+    "omdb": {
+      "Title": "After the Rehearsal",
+      "Year": "1984",
+      "Rated": "R",
+      "Released": "09 Apr 1984",
+      "Runtime": "70 min",
+      "Genre": "Drama",
+      "Director": "Ingmar Bergman",
+      "Writer": "Ingmar Bergman",
+      "Actors": "Erland Josephson, Ingrid Thulin, Lena Olin",
+      "Plot": "As an aging playwright interacts with the young lead in his play after everybody's gone home, he reminisces about her mother, whom he maintained a sexual relationship with before she died.",
+      "Language": "Swedish",
+      "Country": "Sweden, West Germany",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQwZjQ3YjUtY2YyYy00Njc0LTgzZmUtMGFhOWEwODAwNjQ3XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "3,324",
+      "imdbID": "tt0087193",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      37.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/6n/f0/f4/ts/after%20the%20rehearsal-1920-1920-1080-1080-crop-000000.jpg?v=cf9e30e333"
+    ],
+    "tmdb_id": "42090"
+  },
+  "Secrets|1933": {
+    "lbxd": {
+      "rating": 3.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/2/9/5/85295-secrets-0-500-0-750-crop.jpg?v=5e2ad59bea",
+      "description": "In the 1860s, Mary Marlowe defies her father's wishes to marry a British lord and runs away with clerk John Carlton as he heads West to make his fortune. Mary and John endure the difficult journey and settle into a small cabin, then face the hostilities of a cattle rustling gang, as well as the tragic loss of their only son. With Mary's help, John defeats the gang, which propels him to political power that, over the years, gradually erodes the once-happy marriage.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1933,
+      "lb_title": "Secrets",
+      "backdrop": null,
+      "imdb_id": "tt0024539",
+      "tmdb_id": "105548"
+    },
+    "omdb": {
+      "Title": "Secrets",
+      "Year": "1933",
+      "Rated": "Passed",
+      "Released": "16 Mar 1933",
+      "Runtime": "90 min",
+      "Genre": "Drama, Romance, Western",
+      "Director": "Frank Borzage",
+      "Writer": "Frances Marion, Salisbury Field, Leonard Praskins",
+      "Actors": "Mary Pickford, Leslie Howard, C. Aubrey Smith",
+      "Plot": "A New England society girl braves the West to help her husband build his fortune.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU1ODgxNGYtZGIxYi00YTEzLTgxZjYtYmE3Y2NjNTMwNmNkXkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "696",
+      "imdbID": "tt0024539",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "105548"
+  },
+  "Flirtation Walk|1934": {
+    "lbxd": {
+      "rating": 2.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/5/4/6/70546-flirtation-walk-0-500-0-750-crop.jpg?v=9ac4d5f5ea",
+      "description": "A private stationed in Hawaii gets involved with the general's engaged daughter. In order to avoid a scandal, the pair break up, but meet again years later when he's at West Point producing the annual play that turns out to star her.",
+      "genres": [
+        "Romance",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1934,
+      "lb_title": "Flirtation Walk",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rl/9y/w1/c9/d9qEKR1IA2sJJdd3UQmip1QJQx4-1920-1920-1080-1080-crop-000000.jpg?v=6f26f36f87",
+      "imdb_id": "tt0025124",
+      "tmdb_id": "84100"
+    },
+    "omdb": {
+      "Title": "Flirtation Walk",
+      "Year": "1934",
+      "Rated": "Approved",
+      "Released": "01 Dec 1934",
+      "Runtime": "97 min",
+      "Genre": "Musical",
+      "Director": "Frank Borzage",
+      "Writer": "Delmer Daves, Louis F. Edelman",
+      "Actors": "Dick Powell, Ruby Keeler, Pat O'Brien",
+      "Plot": "Musical-romance with Powell as a private in Hawaii involved with general's daughter Keeler. They break up to avoid scandal but reunite years later when he produces a play at West Point starring her.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "901",
+      "imdbID": "tt0025124",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Flirtation Walk (film)",
+      "imdb_id": "tt0025124",
+      "extract_pt": "Flirtation Walk (Brasil: Miss Generala / Portugal: Começou Num Automóvel) é um filme norte-americano de 1934, do gênero musical, dirigido por Frank Borzage  e estrelado por Dick Powell e Ruby Keeler."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      22.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/rl/9y/w1/c9/d9qEKR1IA2sJJdd3UQmip1QJQx4-1920-1920-1080-1080-crop-000000.jpg?v=6f26f36f87"
+    ],
+    "tmdb_id": "84100"
+  },
+  "Vertigo|1958": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/3o/ng/om/obhM86qyv8RsE69XSMTtT9FdE0b-0-500-0-750-crop.jpg?v=1403a5e003",
+      "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Mystery"
+      ],
+      "country": "USA",
+      "lb_director": "Alfred Hitchcock",
+      "lb_director_slug": "alfred-hitchcock",
+      "lb_year": 1958,
+      "lb_title": "Vertigo",
+      "backdrop": null,
+      "imdb_id": "tt0052357",
+      "tmdb_id": "426"
+    },
+    "omdb": {
+      "Title": "Vertigo",
+      "Year": "1958",
+      "Rated": "PG",
+      "Released": "28 May 1958",
+      "Runtime": "128 min",
+      "Genre": "Mystery, Romance, Thriller",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Alec Coppel, Samuel A. Taylor, Pierre Boileau",
+      "Actors": "James Stewart, Kim Novak, Barbara Bel Geddes",
+      "Plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 9 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "8.2",
+      "imdbVotes": "463,709",
+      "imdbID": "tt0052357",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$7,863,310",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Vertigo (film)",
+      "imdb_id": "tt0052357",
+      "extract_pt": "Vertigo (br: Um Corpo que Cai / pt: A Mulher que Viveu Duas Vezes) é um filme estadunidense de 1958, dos gêneros film noir e thriller psicológico, dirigido e produzido por Alfred Hitchcock. A história foi baseada no romance de 1954, D'entre les morts (Dentre os Mortos) por Boileau-Narcejac. O roteiro foi escrito por Alec Coppel e Samuel A. Taylor.\nO filme estrela James Stewart como o ex-policial detetive John \"Scottie\" Ferguson."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "426"
+  },
+  "Les Deux Anglaises Et Le Continent|1971": {
+    "lbxd": {
+      "rating": 3.69,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/5/7/0/22570-two-english-girls-0-500-0-750-crop.jpg?v=8141b583c9",
+      "description": "In the early 20th-century, Frenchman Claude meets Englishwoman Ann in Paris. Ann invites him to her family home, intending him for her sister Muriel. Claude falls for Muriel, but families demand year-long separation before approving marriage.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1971,
+      "lb_title": "Two English Girls",
+      "backdrop": null,
+      "imdb_id": "tt0066989",
+      "tmdb_id": "42513"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Two English Girls",
+      "imdb_id": "tt0066989",
+      "extract_pt": "Les Deux Anglaises et le Continent (bra: Duas Inglesas e o Amor ou As Duas Inglesas e o Amor; prt: As Duas Inglesas e o Continente) é um filme francês de 1971, do gênero comédia romântico-dramática, dirigido por François Truffaut, com roteiro de Jean Gruault e do próprio diretor baseado no romance homônimo de Henri-Pierre Roché."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "42513"
+  },
+  "Smilin’ Through|1941": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/6/0/0/101600-smilin-through-1941-0-500-0-750-crop.jpg?v=48730dba20",
+      "description": "John Carteret has long been depressed and lonely, because, at his wedding years ago, his bride, Moonyean, was murdered. He accepts into his house Kathleen, the 5-year-old orphaned niece of Moonyean, and she quickly grows up to look just like her aunt.",
+      "genres": [
+        "Music",
+        "Fantasy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1941,
+      "lb_title": "Smilin' Through",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/fb/2h/ui/ct/zqbz6F9dKDRGPtSdZez08IQ08HW-1920-1920-1080-1080-crop-000000.jpg?v=a995229449",
+      "imdb_id": "tt0034203",
+      "tmdb_id": "130866"
+    },
+    "omdb": {
+      "Title": "Smilin' Through",
+      "Year": "1941",
+      "Rated": "Approved",
+      "Released": "01 Oct 1941",
+      "Runtime": "100 min",
+      "Genre": "Musical, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Donald Ogden Stewart, John L. Balderston, Jane Cowl",
+      "Actors": "Jeanette MacDonald, Brian Aherne, Gene Raymond",
+      "Plot": "John Carteret has long been depressed and lonely, because at his wedding years ago, his bride Moonyean was murdered. He accepts into his house Kathleen, Moonyean's 5-year-old orphaned niece, and she quickly grows up to look just l...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVjNGYxYjctMmJkNi00MjI3LWJkMTEtMTExZjk1OWI3MjJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "477",
+      "imdbID": "tt0034203",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,892,240",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      23.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/fb/2h/ui/ct/zqbz6F9dKDRGPtSdZez08IQ08HW-1920-1920-1080-1080-crop-000000.jpg?v=a995229449"
+    ],
+    "tmdb_id": "130866"
+  },
+  "Die Marquise Von O|1976": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/3/1/3/17313-the-marquise-of-o-0-500-0-750-crop.jpg?v=964ac0c7cd",
+      "description": "A German Marquise has to deal with a pregnancy she cannot explain and an infatuated Russian Count.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "France",
+      "lb_director": "Éric Rohmer",
+      "lb_director_slug": "eric-rohmer",
+      "lb_year": 1976,
+      "lb_title": "The Marquise of O",
+      "backdrop": null,
+      "imdb_id": "tt0074870",
+      "tmdb_id": "48205"
+    },
+    "omdb": {
+      "Title": "The Marquise of O",
+      "Year": "1976",
+      "Rated": "PG",
+      "Released": "27 Mar 2015",
+      "Runtime": "102 min",
+      "Genre": "Drama, History",
+      "Director": "Éric Rohmer",
+      "Writer": "Éric Rohmer, Heinrich von Kleist",
+      "Actors": "Edith Clever, Bruno Ganz, Edda Seippel",
+      "Plot": "A German Marquise has to deal with a pregnancy she cannot explain and an infatuated Russian Count.",
+      "Language": "German",
+      "Country": "West Germany, France",
+      "Awards": "Won 1 BAFTA Award9 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY2YTQ4MmEtOTFjOC00MTU0LTljYTAtNzc0ZTJiYjE5ODllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.0",
+      "imdbVotes": "3,096",
+      "imdbID": "tt0074870",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$6,048",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "48205"
+  },
+  "Dois E Um Gato|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/5/0/8/3/7/1550837-dois-e-um-gato-0-500-0-750-crop.jpg?v=3227abd4d7",
+      "description": null,
+      "genres": null,
+      "country": "Portugal",
+      "lb_director": "Patrícia Saramago",
+      "lb_director_slug": "patricia-saramago",
+      "lb_year": 2026,
+      "lb_title": "Dois e Um Gato",
+      "backdrop": null,
+      "imdb_id": "tt40227729",
+      "tmdb_id": "1687829"
+    },
+    "omdb": {
+      "Title": "Dois e Um Gato",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "03 May 2026",
+      "Runtime": "24 min",
+      "Genre": "Short, Drama",
+      "Director": "Patricia Saramago",
+      "Writer": "Patricia Saramago",
+      "Actors": "Alice Ruiz, Mateus Alho, Mónica Calle",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0MmRiNjAtMjMzNy00YzI3LThjYjEtMDkyYjQ1ZjlhM2ZmXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt40227729",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1687829"
+  },
+  "Altar|2002": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/3/8/1/389381-altar-0-500-0-750-crop.jpg?v=3ebd9c4461",
+      "description": "A widowed theater actor relives his memory of a young love.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2002,
+      "lb_title": "Altar",
+      "backdrop": null,
+      "imdb_id": "tt0497015",
+      "tmdb_id": "457560"
+    },
+    "omdb": {
+      "Title": "Altar",
+      "Year": "2003",
+      "Rated": "N/A",
+      "Released": "01 Jan 2003",
+      "Runtime": "75 min",
+      "Genre": "Biography, Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes",
+      "Actors": "René Gouzenne",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "5",
+      "imdbID": "tt0497015",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0497015",
+      "extract_pt": "Altar é um filme de drama experimental português, de 2002, realizado, escrito e produzido por Rita Azevedo Gomes. A longa-metragem é protagonizada por René (versão ficcionalizada interpretada pelo próprio René Gouzenne), um dramaturgo que recorda as sensações do seu primeiro amor. A questão cinematográfica da obra relaciona-se com a literatura, o teatro e a pintura.\nAltar foi apresentado na secção European perspectives no Festival de Cinema de Turim, a 11 de novembro de 2002."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "457560"
+  },
+  "Intromissões; Parabéns Manoel De Oliveira|1998": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Belle De Jour|1967": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/7/5/51475-belle-de-jour-0-500-0-750-crop.jpg?v=456ee28616",
+      "description": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1967,
+      "lb_title": "Belle de Jour",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/om/hk/b2/fq/belle-de-jour-1920-1920-1080-1080-crop-000000.jpg?v=692648a566",
+      "imdb_id": "tt0061395",
+      "tmdb_id": "649"
+    },
+    "omdb": {
+      "Title": "Belle de Jour",
+      "Year": "1968",
+      "Rated": "Approved",
+      "Released": "10 Apr 1968",
+      "Runtime": "100 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luis Buñuel",
+      "Writer": "Joseph Kessel, Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Catherine Deneuve, Jean Sorel, Michel Piccoli",
+      "Plot": "A frigid young housewife decides to spend her midweek afternoons as a prostitute.",
+      "Language": "French, Kalmyk-Oirat, Spanish, Latin, English",
+      "Country": "France, Italy",
+      "Awards": "Nominated for 1 BAFTA Award. 7 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhiYmZmNjEtZjE1NC00YmIxLTgyMDEtODVkYTkyNzZkNzk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "54,097",
+      "imdbID": "tt0061395",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,063,348",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Belle de Jour (film)",
+      "imdb_id": "tt0061395",
+      "extract_pt": "Belle de Jour (bra: A Bela da Tarde; prt: A Bela de Dia) é um filme ítalo-francês de 1967, do gênero drama, dirigido por Luis Buñuel, e com roteiro baseado na obra de Joseph Kessel. Séverine é uma burguesa casada com o doutor Pierre, que passa suas tardes trabalhando no bordel de Madame Anaïs."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      24.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/om/hk/b2/fq/belle-de-jour-1920-1920-1080-1080-crop-000000.jpg?v=692648a566"
+    ],
+    "tmdb_id": "649"
+  },
+  "The Pitch O’Chance|1915": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/6/6/7/167667-the-pitch-o-chance-0-500-0-750-crop.jpg?v=c4e0d5cef4",
+      "description": "One of the earliest surviving short films by Franke Borzage. A simple western about a man who enjoys boozing, gambling and women.",
+      "genres": [
+        "Western",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1915,
+      "lb_title": "The Pitch o' Chance",
+      "backdrop": null,
+      "imdb_id": "tt0876516",
+      "tmdb_id": "238994"
+    },
+    "omdb": {
+      "Title": "The Pitch o' Chance",
+      "Year": "1915",
+      "Rated": "N/A",
+      "Released": "24 Dec 1915",
+      "Runtime": "25 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Frank Borzage",
+      "Writer": "N/A",
+      "Actors": "Frank Borzage, Helene Rosson, Jack Richardson",
+      "Plot": "Rocky bets on \"everything, anything and nothing at all\". On one occasion he wins a high bet including the saloon bully's gal, thanks to a cheat played by a girl competitor who wants the man for herself. When the bully finds out he...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI0MmMwMmQtYzE3OC00MDE4LTg1MTEtNTZjZTY2ODg1NzU5XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "66",
+      "imdbID": "tt0876516",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "238994"
+  },
+  "Land O’ Lizards|1916": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/2/7/0/7/4/627074-land-o-lizards-0-500-0-750-crop.jpg?v=dcf682f2dd",
+      "description": "Eastern capitalists hire a stranger to head out to Arizona to investigate property near the Bar C Ranch, which contains gold. The Bar C is run by Buck Moran, and he and his cowboys are a lawless bunch. They don't know about the gold, but Dave Moore does, and so does his daughter Bobbie, whom he dresses up like a boy. Her true gender is eventually sussed out by the stranger.",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1916,
+      "lb_title": "Land O' Lizards",
+      "backdrop": null,
+      "imdb_id": "tt0006907",
+      "tmdb_id": "703934"
+    },
+    "omdb": {
+      "Title": "Land o' Lizards",
+      "Year": "1916",
+      "Rated": "N/A",
+      "Released": "18 Sep 1916",
+      "Runtime": "N/A",
+      "Genre": "Western",
+      "Director": "Frank Borzage",
+      "Writer": "Kenneth B. Clarke",
+      "Actors": "Frank Borzage, Harvey Clark, Laura Sears",
+      "Plot": "Ward Curtis, president of a development company, comes to the western town of Los Huesos with his daughter, Wynne, to investigate a report made by one of his field scouts that there is a gold stream on the land occupied by the Bar...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I5ZGY5MzItNjI5OS00NDQ4LWExOWItYTIxMmZkMzFhZjhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0006907",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "703934"
+  },
+  "Life’s Harmony|1916": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/4/8/8/6/364886-life-s-harmony-0-500-0-750-crop.jpg?v=108e9a9e89",
+      "description": "Josiah Pringle, a benevolent old musician, who ekes out his livelihood by giving music lessons, after playing the organ for twenty years in the church of a little New England hamlet, must make way for a younger man, Gordon Howard, who comes from Boston. Faith Pringle, adopted by Josiah and his aged sister, Letitia, is leader of the choir, and when Pringle is replaced, she refuses to sing, but relents at Pringle's gentle insistence.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1916,
+      "lb_title": "Life's Harmony",
+      "backdrop": null,
+      "imdb_id": "tt0006920",
+      "tmdb_id": "431687"
+    },
+    "omdb": {
+      "Title": "Life's Harmony",
+      "Year": "1916",
+      "Rated": "N/A",
+      "Released": "22 Feb 1916",
+      "Runtime": "N/A",
+      "Genre": "Short, Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Lorimer Johnston",
+      "Actors": "George Periolat, Vivian Rich, Gayne Whitman",
+      "Plot": "Josiah Pringle, a benevolent old musician, who ekes out his livelihood by giving music lessons, after playing the organ for twenty years in the church of a little New England hamlet, must make way for a younger man, Gordon Howard,...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzcyNWIyNTItZjdjMC00YjQxLTk1NGUtNjZlMGY1ZGJmNjIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0006920",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "431687"
+  },
+  "The Pilgrim|1916": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/6/6/6/167666-the-pilgrim-1916-0-500-0-750-crop.jpg?v=fdf93be28e",
+      "description": "A drifter enters town to establish himself. Working as a cowhand, he meets the boss's daughter, who's eager to absorb some local color.",
+      "genres": [
+        "Romance",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1916,
+      "lb_title": "The Pilgrim",
+      "backdrop": null,
+      "imdb_id": "tt0876512",
+      "tmdb_id": "238996"
+    },
+    "omdb": {
+      "Title": "The Pilgrim",
+      "Year": "1916",
+      "Rated": "N/A",
+      "Released": "09 Jun 1916",
+      "Runtime": "28 min",
+      "Genre": "Short, Western",
+      "Director": "Frank Borzage",
+      "Writer": "Edward Kaufman",
+      "Actors": "Frank Borzage, Ann Little, Jack Richardson",
+      "Plot": "A wandering cowboy is hired by a ranch owner. When the other cowboys show the newcomer their refusal he turns to his donkey pal and his usual loneliness. Then his boss'daughter comes home wanting to experience Western life and the...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY1MjNiOTktYWYyYS00ZjE1LWE4MjAtY2U4Njc0N2ViYmY4XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "84",
+      "imdbID": "tt0876512",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "238996"
+  },
+  "Until They Get Me|1917": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/6/8/6/3/186863-until-they-get-me-0-500-0-750-crop.jpg?v=fbdff0299f",
+      "description": "In an effort to reach his wife's deathbed, Kirby is forced to kill a man in self-defense. He is arrested by Selwyn, a member of the North West Mounted Police, who allows him to say a last farewell to his wife. After visiting his wife's deathbed, Kirby eludes Selwyn and becomes a fugitive from the police. Each year he returns to visit his son and, during one of his sojourns, meets Margy, a little farmhouse servant who has run away from her life of drudgery.",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1917,
+      "lb_title": "Until They Get Me",
+      "backdrop": null,
+      "imdb_id": "tt0008723",
+      "tmdb_id": "263488"
+    },
+    "omdb": {
+      "Title": "Until They Get Me",
+      "Year": "1917",
+      "Rated": "N/A",
+      "Released": "02 Dec 1917",
+      "Runtime": "58 min",
+      "Genre": "Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Kenneth B. Clarke",
+      "Actors": "Pauline Starke, Jack Curtis, Joe King",
+      "Plot": "Kirby kills a man in self-defense and becomes a fugitive from the police.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdlY2U5MjktNGNmZi00YjM4LWJhMjMtNmE0ZTI0ODg0M2EzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "80",
+      "imdbID": "tt0008723",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "263488"
+  },
+  "O Ah! Das Coisas – «Nos Quartos Das Freiras Não Há Espelhos» 7 De Abril (2020)|2020": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Rita Azevedo Gomes & Gurcius Gewdner in conversation with Lesha Artamanov",
+      "Year": "2021",
+      "Rated": "N/A",
+      "Released": "20 Aug 2021",
+      "Runtime": "48 min",
+      "Genre": "History",
+      "Director": "Lesha Artamonov",
+      "Writer": "N/A",
+      "Actors": "Gurcius Gewdner, Rita Azevedo Gomes",
+      "Plot": "N/A",
+      "Language": "English",
+      "Country": "Russia",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15126960",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "O Ah! das Coisas é uma pentalogia de curtas-metragens experimentais portuguesas de 2020, realizada, escrita e produzida por Rita Azevedo Gomes. Retratando reflexões e referências cinematográficas, literárias, musicais e plásticas da realizadora, os filmes do projeto intitulam-se: 6 de abril de 2020; \"Nos quartos das freiras não há espelhos.\"; 21 de abril de 2020; \"Um dia voltei ao quarto...\" e; O pecado de João Palolo. As curtas-metragens foram rodadas com recurso a smartphone e produzidas ao longo das primeiras semanas de confinamento pela pandemia de COVID-19 em Portugal."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Performance|1970": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/1/8/9/35189-performance-0-500-0-750-crop.jpg?v=46653964f0",
+      "description": "In underworld terms, Chas Devlin is a 'performer,' a gangster with a talent for violence and intimidation. Turner is a reclusive rock superstar. When Chas and Turner meet, their worlds collide—and the impact is both exotic and explosive.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "country": "UK",
+      "lb_director": "Nicolas Roeg",
+      "lb_director_slug": "nicolas-roeg",
+      "lb_year": 1970,
+      "lb_title": "Performance",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/dp/go/pl/ff/performance-1920-1920-1080-1080-crop-000000.jpg?v=8a1ab84cb2",
+      "imdb_id": "tt0066214",
+      "tmdb_id": "26606"
+    },
+    "omdb": {
+      "Title": "Performance",
+      "Year": "1970",
+      "Rated": "R",
+      "Released": "04 Sep 1970",
+      "Runtime": "105 min",
+      "Genre": "Crime, Drama",
+      "Director": "Donald Cammell, Nicolas Roeg",
+      "Writer": "Donald Cammell",
+      "Actors": "James Fox, Mick Jagger, Anita Pallenberg",
+      "Plot": "A violent East London gangster undergoes a transformation of identity while hiding from his former colleagues in the home of a jaded Bohemian rock star and his two girlfriends.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 BAFTA Award. 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWEwMjZiOGYtNjUwOS00YWM1LTk5YWUtZmM3NzlkZGFiYzdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "6.7",
+      "imdbVotes": "12,377",
+      "imdbID": "tt0066214",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      20.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/dp/go/pl/ff/performance-1920-1920-1080-1080-crop-000000.jpg?v=8a1ab84cb2"
+    ],
+    "tmdb_id": "26606"
   }
 }
