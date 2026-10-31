@@ -3004,30 +3004,5 @@
     "photo": null,
     "bio": null,
     "tries": 2
-  },
-  "G.W. Pabst": {
-    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/G.W._Pabst_crop_from_Pabst_Prejean_1931.jpg/500px-G.W._Pabst_crop_from_Pabst_Prejean_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "bio": "Georg Wilhelm Pabst (25 August 1885 – 29 May 1967) was an Austrian film director and screenwriter. He started as an actor and theater director, before becoming one of the most influential German-language filmmakers during the Weimar Republic.",
-    "tries": 1
-  },
-  "Monique Rutler": {
-    "photo": null,
-    "bio": "Monique Rutler (born 2 February 1941) is a French-Portuguese director, screenwriter and film editor.",
-    "tries": 1
-  },
-  "Bille August": {
-    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bille_August_%28cropped%29.jpg/500px-Bille_August_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "bio": "Bille August R. (Danish: [ˈpilə ˈɑwkɔst]; born 9 November 1948) is a Danish director, screenwriter, and cinematographer of film and television. August's 1987 film Pelle the Conqueror won the Palme d'Or, Academy Award and Golden Globe Award.",
-    "tries": 1
-  },
-  "Aki Kaurismäki": {
-    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg/500px-Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "bio": "Aki Olavi Kaurismäki (Finnish pronunciation: [ˈɑki ˈo̞lɑʋi ˈkɑu̯rismæki] ; born 4 April 1957) is a Finnish filmmaker. He is best known for films such as Leningrad Cowboys Go America (1989), Drifting Clouds (1996), The Man Without a Past (2002), Le Havre (2011), The Other Side of Hope (2017), and Fallen Leaves (2023).",
-    "tries": 1
-  },
-  "Boris Barnet": {
-    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Boris_Barnet_1946.JPG/500px-Boris_Barnet_1946.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "bio": "Boris Vasilyevich Barnet (Russian: Борис Васильевич Барнет; 18 June 1902 – 8 January 1965) was a Soviet film director, actor and screenwriter of British heritage. He directed 27 films between 1927 and 1963. Barnet was awarded the titles of Merited Artist of the Russian SFSR in 1935 and Merited Artist of the Ukrainian SSR in 1951.",
-    "tries": 1
   }
 }
