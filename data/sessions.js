@@ -2801,7 +2801,17 @@ window.CINEMA_DATA = {
         37.5
       ],
       "country": "Portugal",
-      "director_lbxd_slug": "sergio-graciano"
+      "director_lbxd_slug": "sergio-graciano",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/315.jpg",
+        "https://medeiafilmes.com/uploads/library/410.jpg",
+        "https://medeiafilmes.com/uploads/library/217.jpg"
+      ],
+      "stills_focus": [
+        25.4,
+        26.5,
+        37.5
+      ]
     },
     {
       "id": "nimas_natal-amargo-2025",
@@ -3472,7 +3482,17 @@ window.CINEMA_DATA = {
         41.2
       ],
       "country": "Portugal",
-      "director_lbxd_slug": "tiago-guedes"
+      "director_lbxd_slug": "tiago-guedes",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
+        "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
+        "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
+      ],
+      "stills_focus": [
+        35.4,
+        43.2,
+        41.2
+      ]
     },
     {
       "id": "nimas_heysel-85-2026",
@@ -3493,21 +3513,21 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.54,
-      "plot": "When 39 people are killed prior to the European Cup at the Brussels Heysel stadium in 1985, the mayor's daughter and an Italian journalist are torn between their professional assignments, family, and human nature.",
-      "plot_pt": "Bruxelas, 1985. Antes da final da Taça dos Campeões Europeus, uma tragédia no estádio de Heysel resultou em 39 mortes. Marie, filha do presidente da Câmara, e Luca, jornalista italiano que cobre o jogo, procuram os seus familiares enquanto tentam cumprir as suas funções.",
+      "plot": "Forget everything, or recover memory and remember. Let yourself fall and stop, or return to life and start again. Adrift, lost face-to-face, two women confront their fates. Is there not just one thing worth saving? Without hesitation, the desire to live, that rebellious fury that takes no heed of risks. And how do you save a world where poetry has disappeared?",
+      "plot_pt": "Numa ilha remota, uma jovem sem nome é encontrada à beira de uma lagoa, quase afogada. Salva por um homem misterioso, é acolhida por Gabriela, uma mulher amarga e enigmática, que a esconde e lhe dá o nome de Malvina. Nesta terra marcada por segredos, luto, contrabando e vingança, a memória de Malvina regressa aos poucos, em estilhaços de vidro, sangue e amor perdido. E ambas têm de enfrentar a mesma pergunta: recordar para viver, ou esquecer para sobreviver.",
+      "country": "Portugal",
+      "director_lbxd_slug": "fanny-ardant",
+      "title_en": "She Looked Without Seeing",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/mv5bnznimdc5mzqtzmqzms00ndk5lwiyowytmzmwnddjm2m1nzywxkeyxkfqcgc_v1.jpg",
-        "https://medeiafilmes.com/uploads/library/heysel_002.png",
-        "https://medeiafilmes.com/uploads/library/heysel_003.png"
+        "https://medeiafilmes.com/uploads/library/ela-olhava_01.jpg",
+        "https://medeiafilmes.com/uploads/library/ela-olhava_02.jpg",
+        "https://medeiafilmes.com/uploads/library/ela-olhava_05.jpg"
       ],
       "stills_focus": [
-        23.2,
-        22.7,
-        27.9
-      ],
-      "country": "Belgium",
-      "director_lbxd_slug": "teodora-ana-mihai"
+        27.2,
+        28.6,
+        19.8
+      ]
     },
     {
       "id": "nimas_mariage-au-gout-d-orange-2026",
@@ -3630,13 +3650,13 @@ window.CINEMA_DATA = {
         }
       ],
       "plot_pt": "Bajañí é a palavra para violão na língua caló. Focando-se nesse instrumento, e, em particular, no violão e na arte de Niño Josele, Fernando Trueba convida-nos a entrar numa nova jornada musical: do flamenco à música brasileira, passando pelo jazz, Josele e o seu instrumento estabelecem diálogos musicais com Caetano Veloso, Ron Carter, Rubén Blades, Kenny Barron e Marisa Monte.",
+      "director_lbxd_slug": "fernando-trueba",
       "stills": [
         "https://medeiafilmes.com/uploads/library/baja_f01cor_2026118617.jpg"
       ],
       "stills_focus": [
         28.8
-      ],
-      "director_lbxd_slug": "fernando-trueba"
+      ]
     },
     {
       "id": "nimas_carta-de-amor-1953",
@@ -3730,7 +3750,13 @@ window.CINEMA_DATA = {
         39.6
       ],
       "country": "USA",
-      "director_lbxd_slug": "taz-f-stark"
+      "director_lbxd_slug": "taz-f-stark",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/large_childoftherouge-clean-16x9-01.jpg"
+      ],
+      "stills_focus": [
+        39.6
+      ]
     },
     {
       "id": "nimas_salo-ou-os-120-dias-de-sodoma-1975",
@@ -3828,12 +3854,14 @@ window.CINEMA_DATA = {
           ]
         }
       ],
-      "rating": 3.77,
-      "plot": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
-      "plot_pt": "Em Nova Iorque, um polícia corrupto usa a autoridade para assediar adolescentes e negociar droga com traficantes. Mas quando uma jovem freira é violada no altar de uma igreja, a investigação leva-o a confrontar-se com os próprios actos, procurando uma tentativa de redenção, nos caminhos da misericórdia.",
-      "title_en": "Bad Lieutenant",
-      "country": "USA",
-      "director_lbxd_slug": "abel-ferrara"
+      "plot": "When septuagenarian Lennie's reality is devastated by the discovery of a prolonged, pernicious crime committed against her by her own son, an unexpected connection helps her to begin a journey towards re-forging her fractured identity.",
+      "director_lbxd_slug": "stacy-martin",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/timeline_1_01_04_05_22.jpg"
+      ],
+      "stills_focus": [
+        32.5
+      ]
     },
     {
       "id": "nimas_bad-lieutenant-tokyo-2026",
@@ -7389,6 +7417,21 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Xavier_Giannoli_Deauville_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Xavier Giannoli (born 7 March 1972) is a French film director, screenwriter and producer. Most known for his films Marguerite (2015) and Lost Illusions (2021). In 2010, he was named a Chevalier in the Ordre des Arts et des Lettres."
     },
+    "J.A. Steel": {
+      "lbxd_slug": "ja-steel",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/J._A._Steel_on_RealTVfilms.jpg/500px-J._A._Steel_on_RealTVfilms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "J.A. Steel (born December 12, 1969) is an American writer, director, producer, editor, stunt person and actress best known for her role as C. Alexandra Jones in The Third Society."
+    },
+    "Louis e Auguste Lumière, Alice Guy-Blaché, Georges Méliès  e Aurélio Paz dos Reis,": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
+    "Fritz Lang": {
+      "lbxd_slug": "fritz-lang-1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fritz_Lang_%281969%29.jpg/500px-Fritz_Lang_%281969%29.jpg",
+      "bio": "Friedrich Christian Anton Lang (Austrian German: [ˈfriːdrɪç ˈkrɪsti̯a(ː)n ˈantɔn ˈlaŋ]; December 5, 1890 – August 2, 1976), better known as Fritz Lang (Austrian German: [ˈfrɪts ˈlaŋ]), was an Austrian film director, screenwriter, and producer, who worked in Germany and later the United States. One of the best-known émigrés from Germany's school of Expressionism, he was dubbed the \"Master of Darkness\" by the British Film Institute. He has been cited as one of the most influential filmmakers of all time."
+    },
     "Frank Borzage": {
       "lbxd_slug": "frank-borzage",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -7733,6 +7776,21 @@ window.CINEMA_DATA = {
       "lbxd_slug": "ricardo-oliveira-3",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ricardo_Oliveira_2015.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Ricardo José Dognella Lima de Oliveira (Brazilian Portuguese pronunciation: [ʁiˈkaʁdu oliˈvejɾɐ]; born 6 May 1980) is a Brazilian former professional footballer who played as a striker. Oliveira represented São Paulo and Santos in two different spells, but also played in Spain, amassing La Liga totals of 120 games and 58 goals for three teams. A Brazil international from 2004 to 2016, he helped the national team win one Copa América and one Confederations Cup."
+    },
+    "Matías Piñeiro": {
+      "lbxd_slug": "jules-rosskam",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mat%C3%ADas_Pi%C3%B1eiro_2024.png/500px-Mat%C3%ADas_Pi%C3%B1eiro_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "filmmaker (born 1982)"
+    },
+    "Barry Sonnenfeld": {
+      "lbxd_slug": "barry-sonnenfeld",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Barry_Sonnenfeld_2012.jpg/500px-Barry_Sonnenfeld_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Barry Sonnenfeld  (born April 1, 1953) is an American filmmaker and television director. He originally worked as a cinematographer for the Coen brothers before directing comedy films like The Addams Family (1991), Get Shorty (1995), the Men in Black trilogy (1997–2012), Wild Wild West (1999), and RV (2006)."
+    },
+    "Miloš Forman": {
+      "lbxd_slug": "milos-forman",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Milo%C5%A1_Forman_1999.jpg/500px-Milo%C5%A1_Forman_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Jan Tomáš \"Miloš\" Forman (; Czech: [ˈmɪloʃ ˈforman]; 18 February 1932 – 13 April 2018) was a Czech and American film director, screenwriter, actor, and professor. He rose to fame in his native Czechoslovakia before emigrating to the United States in 1968. Over a career spanning six decades, Forman won two Academy Awards, a BAFTA Award, three Golden Globe Awards, a Golden Bear, a César Award, and the Czech Lion."
     },
     "Stanley Schtinter": {
       "lbxd_slug": "stanley-schtinter",

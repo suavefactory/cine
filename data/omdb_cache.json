@@ -94210,7 +94210,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "26955",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "La Vénus Électrique|2026": {
     "lbxd": {
@@ -94241,7 +94241,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/hn/nk/6o/it/la%20venus-1920-1920-1080-1080-crop-000000.jpg?v=437618bb18"
     ],
     "tmdb_id": "1442669",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Professora de Francês|2026": {
     "lbxd": {
@@ -94268,7 +94268,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1151260",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Falling House|2026": {
     "lbxd": {
@@ -94324,7 +94324,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1736497",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Shana|2026": {
     "lbxd": {
@@ -94381,7 +94381,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/6/0/1/3/6/tmdb/6KhQIwEJxsfpW2Jla5eyKtXQYhN-1920-1920-1080-1080-crop-000000.jpg?v=eba5c00445"
     ],
     "tmdb_id": "1483319",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Melancolia|2021": {
     "lbxd": null,
@@ -96444,228 +96444,6 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "94638"
-  },
-  "KIRIKOU ET LES BêTES SAUVAGES|2005": {
-    "lbxd": {
-      "rating": 3.76,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/6/43686-kirikou-and-the-wild-beasts-0-500-0-750-crop.jpg?v=c6071cc32a",
-      "description": "Kirikou's grandfather thinks that the story of Kirikou and The Witch was too short, so he proceeds to explain more about Kirikou's accomplishments. We find out how the little boy became a gardener, a detective, a maker of pottery, a merchant, a traveler and a doctor.",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Animation",
-        "Family"
-      ],
-      "country": "France",
-      "lb_director": "Michel Ocelot",
-      "lb_director_slug": "michel-ocelot",
-      "lb_year": 2005,
-      "lb_title": "Kirikou and the Wild Beasts",
-      "backdrop": null,
-      "imdb_id": "tt0455142",
-      "tmdb_id": "13679"
-    },
-    "omdb": null,
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "13679"
-  },
-  "A 15ª PEDRA: MANOEL DE OLIVEIRA E JOÃO BÉNARD DA COSTA EM CONVERSA FILMADA POR RITA AZEVEDO GOMES|2004": {
-    "lbxd": null,
-    "omdb": null,
-    "wiki": {
-      "title_en": null,
-      "imdb_id": null,
-      "extract_pt": "Danses Macabres, Squelettes et Autres Fantaisies é um documentário franco-luso-suíço de 2019 realizado por Rita Azevedo Gomes, com Jean-Louis Schefer e Pierre Léon. O filme retrata o encontro destes três autores em Portugal para uma expedição pela teoria de cinema e imagem de Schefer, abordando momentos da história da representação alegórica ocidental.\nA longa-metragem fez parte da programação do 30º Festival International du Documentaire de Marseille, onde estreou a 12 de julho de 2019 e recebeu uma Menção Especial no Grande Prémio da Competição Nacional. Sem ter beneficiado de uma distribuição comercial, em Portugal, Danses Macabres, Squelettes et Autres Fantaisies estreou a 21 de outubro de 2019 no Grande Auditório da Culturgest, no âmbito do 17º Doclisboa."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null
-  },
-  "Banshun|1949": {
-    "lbxd": {
-      "rating": 4.32,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/5/3/38953-late-spring-0-500-0-750-crop.jpg?v=fa023efefc",
-      "description": "Noriko is perfectly happy living at home with her widowed father, Shukichi, and has no plans to marry -- that is, until her aunt Masa convinces Shukichi that unless he marries off his 27-year-old daughter soon, she will likely remain alone for the rest of her life. When Noriko resists Masa's matchmaking, Shukichi is forced to deceive his daughter and sacrifice his own happiness to do what he believes is right.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Japan",
-      "lb_director": "Yasujirō Ozu",
-      "lb_director_slug": "yasujiro-ozu",
-      "lb_year": 1949,
-      "lb_title": "Late Spring",
-      "backdrop": null,
-      "imdb_id": "tt0041154",
-      "tmdb_id": "20530"
-    },
-    "omdb": {
-      "Title": "Late Spring",
-      "Year": "1972",
-      "Rated": "Not Rated",
-      "Released": "21 Jul 1972",
-      "Runtime": "110 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Yasujiro Ozu",
-      "Writer": "Kazuo Hirotsu, Kogo Noda, Yasujiro Ozu",
-      "Actors": "Chishu Ryu, Setsuko Hara, Yumeji Tsukioka",
-      "Plot": "Several people try to talk 27-year-old Noriko into marrying, but all she wants is to keep on caring for her widowed father.",
-      "Language": "Japanese",
-      "Country": "Japan",
-      "Awards": "5 wins total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAxZjZhOTctY2E1Yi00MTFmLWEzOWEtZGNhYzkwNjdiZTYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.2/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "100%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "93/100"
-        }
-      ],
-      "Metascore": "93",
-      "imdbRating": "8.2",
-      "imdbVotes": "22,025",
-      "imdbID": "tt0041154",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "$13,254",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": "Late Spring",
-      "imdb_id": "tt0041154",
-      "extract_pt": "Banshun (晩春; Brasil: Pai e Filha / Portugal: Primavera Tardia) é um filme japonês de 1949, dirigido por Yasujiro Ozu e escrito por Kogo Noda, baseado no livro Chichi to musume, do escritor e crítico japonês Kazuo Hirotsu. O filme foi escrito e filmado durante a Ocupação do Japão pelas Forças Aliadas e estava sujeito aos critérios de censura da Ocupação. Estrelado por Chishū Ryū, que apareceu em quase todos os filmes do diretor, e Setsuko Hara, marcando sua primeira de seis colaborações com Ozu, esse foi o primeiro longa da chamada \"trilogia Noriko\" de Ozu, sucedida por Bakushū (1951) e Tōkyō Monogatari (1953); em cada um deles Hara retrata uma jovem chamada Noriko, embora as três Norikos sejam personagens distintas e que não posuem relação alguma, ligadas principalmente por seu status de mulheres solteiras no Japão do pós-guerra. \nBanshun pertence ao gênero de cinema japonês conhecido como shomin-geki, estilo este que trata do cotidiano comum das classes trabalhadora e média dos tempos modernos."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "20530"
-  },
-  "Stage Door Canteen|1943": {
-    "lbxd": {
-      "rating": 3.09,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/8/8/25888-stage-door-canteen-0-500-0-750-crop.jpg?v=fb03ab5edd",
-      "description": "A young soldier on a pass in New York City visits the famed Stage Door Canteen, where famous stars of theatre and film appear and host a recreational center for servicemen during the war. The soldier meets a pretty young hostess and they enjoy the many entertainers and a growing romance.",
-      "genres": [
-        "War",
-        "Romance",
-        "Comedy"
-      ],
-      "country": "USA",
-      "lb_director": "Frank Borzage",
-      "lb_director_slug": "frank-borzage",
-      "lb_year": 1943,
-      "lb_title": "Stage Door Canteen",
-      "backdrop": null,
-      "imdb_id": "tt0036384",
-      "tmdb_id": "38726"
-    },
-    "omdb": {
-      "Title": "Stage Door Canteen",
-      "Year": "1943",
-      "Rated": "Passed",
-      "Released": "22 Nov 1943",
-      "Runtime": "132 min",
-      "Genre": "Comedy, Romance, War",
-      "Director": "Frank Borzage",
-      "Writer": "Delmer Daves",
-      "Actors": "Cheryl Walker, William Terry, Judith Anderson",
-      "Plot": "\"Dakota\" Smith (William Terry), a young soldier on a pass in New York City, visits the famed Stage Door Canteen, where famous stars of the theatre and movies appear and host a recreational center for servicemen during the war. Dak...",
-      "Language": "English, Russian, Spanish",
-      "Country": "United States",
-      "Awards": "Nominated for 2 Oscars. 2 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiYWYyNzQtODhjMC00N2IxLTk4YWEtZmM0YjNkYTZlOTAyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.3",
-      "imdbVotes": "1,815",
-      "imdbID": "tt0036384",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": {
-      "title_en": "Stage Door Canteen (film)",
-      "imdb_id": "tt0036384",
-      "extract_pt": "Stage Door Canteen (bra: Noivas de Tio Sam; prt: Chuva de Estrelas) é um filme estadunidense de 1943, do gênero comédia musical, dirigido por Frank Borzage. É praticamente um show filmado, embora haja uma história. Os atores interpretam eles mesmos no musical. O filme celebra o Stage Door Canteen, local que servia como centro de recreação para militares que estavam de licença durante a guerra."
-    },
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "38726"
-  },
-  "Eika Katappa|1969": {
-    "lbxd": {
-      "rating": 3.56,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/1/1/0/105110-eika-katappa-0-500-0-750-crop.jpg?v=79e316e6a7",
-      "description": "Collage of dramatic scenes, some exaggerated to comic effect, with asynchronous sound from well known classic, operatic, and rock and roll music – with different approaches to love, suffering, and death.",
-      "genres": [
-        "Drama"
-      ],
-      "country": "Germany",
-      "lb_director": "Werner Schroeter",
-      "lb_director_slug": "werner-schroeter",
-      "lb_year": 1969,
-      "lb_title": "Eika Katappa",
-      "backdrop": null,
-      "imdb_id": "tt0064280",
-      "tmdb_id": "137028"
-    },
-    "omdb": {
-      "Title": "Eika Katappa",
-      "Year": "1969",
-      "Rated": "N/A",
-      "Released": "10 Oct 1969",
-      "Runtime": "144 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Werner Schroeter",
-      "Writer": "Werner Schroeter",
-      "Actors": "Gisela Trowe, Carla Egerer, Rosemarie Heinikel",
-      "Plot": "Collage of dramatic scenes, some exaggerated to comic effect, with asynchronous sound from well known classic, operatic, and rock and roll music - with different approaches to love, suffering, and death.",
-      "Language": "Italian, English, Spanish, German",
-      "Country": "West Germany",
-      "Awards": "1 win",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzczNTQyNTYyNF5BMl5BanBnXkFtZTcwMjg5MDM5Mw@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.5",
-      "imdbVotes": "125",
-      "imdbID": "tt0064280",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    "wiki": null,
-    "cinema": {},
-    "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "137028"
   },
   "Nugget Jim’s Partner|1916": {
     "lbxd": {
