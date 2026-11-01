@@ -49732,8 +49732,7 @@
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "1153232"
+    "stills": null
   },
   "The Landscape Is Empty and Emptiness Is Landscape|2018": {
     "lbxd": {
@@ -77399,7 +77398,16 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      25.4,
+      26.5,
+      37.5
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/315.jpg",
+      "https://medeiafilmes.com/uploads/library/410.jpg",
+      "https://medeiafilmes.com/uploads/library/217.jpg"
+    ],
     "tmdb_id": "1461062"
   },
   "Mistérios de Lisboa|2010": {
@@ -86618,8 +86626,8 @@
       "country": "Portugal",
       "lb_director": "Fanny Ardant",
       "lb_director_slug": "fanny-ardant",
-      "lb_year": null,
-      "lb_title": null,
+      "lb_year": 2026,
+      "lb_title": "She Looked Without Seeing",
       "backdrop": null,
       "imdb_id": "tt35696824",
       "tmdb_id": "1474815"
@@ -86666,7 +86674,16 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      27.2,
+      28.6,
+      19.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/ela-olhava_01.jpg",
+      "https://medeiafilmes.com/uploads/library/ela-olhava_02.jpg",
+      "https://medeiafilmes.com/uploads/library/ela-olhava_05.jpg"
+    ],
     "tmdb_id": "1474815"
   },
   "Moscas|2026": {
@@ -86872,7 +86889,16 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      35.4,
+      43.2,
+      41.2
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
+      "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
+      "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
+    ],
     "tmdb_id": "1124118"
   },
   "Old Joy|2006": {
@@ -87407,7 +87433,12 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      28.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/baja_f01cor_2026118617.jpg"
+    ],
     "tmdb_id": "1736720"
   },
   "Amaretti|2026": {
@@ -87439,7 +87470,12 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      32.5
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/timeline_1_01_04_05_22.jpg"
+    ],
     "tmdb_id": "1727936"
   },
   "Child of the Rouge|2026": {
@@ -87498,7 +87534,12 @@
       ]
     },
     "dir_checked": true,
-    "stills": null,
+    "stills_focus": [
+      39.6
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/large_childoftherouge-clean-16x9-01.jpg"
+    ],
     "tmdb_id": "1702009"
   },
   "Carta de Amor|1953": {
@@ -93373,7 +93414,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/9b/2v/zw/cc/zGutQCLUIQ5LakubDZtfM8s22eA-1920-1920-1080-1080-crop-000000.jpg?v=c4e0e0922a"
     ],
     "tmdb_id": "15",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Oasis|None": {
     "lbxd": {
@@ -93438,7 +93479,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "26955",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "La Vénus Électrique|None": {
     "lbxd": {
@@ -93469,7 +93510,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/hn/nk/6o/it/la%20venus-1920-1920-1080-1080-crop-000000.jpg?v=437618bb18"
     ],
     "tmdb_id": "1442669",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Odisseia – episódios 5 a 8|None": {
     "lbxd": {
@@ -93526,7 +93567,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1151260",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Falling House|None": {
     "lbxd": {
@@ -93582,7 +93623,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1736497",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Shana|None": {
     "lbxd": {
@@ -93639,7 +93680,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/6/0/1/3/6/tmdb/6KhQIwEJxsfpW2Jla5eyKtXQYhN-1920-1920-1080-1080-crop-000000.jpg?v=eba5c00445"
     ],
     "tmdb_id": "1483319",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Melancolia|None": {
     "lbxd": {
@@ -94539,7 +94580,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "147850",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Bad Girl|1931": {
     "lbxd": {
@@ -94655,7 +94696,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "123059",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Shadow Of A Doubt|1943": {
     "lbxd": {
@@ -94786,7 +94827,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "179983",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Man’s Castle|1933": {
     "lbxd": {
@@ -94847,7 +94888,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "109886",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Efter Repetitionen|1984": {
     "lbxd": {
@@ -94912,7 +94953,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/6n/f0/f4/ts/after%20the%20rehearsal-1920-1920-1080-1080-crop-000000.jpg?v=cf9e30e333"
     ],
     "tmdb_id": "42090",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Secrets|1933": {
     "lbxd": {
@@ -94969,7 +95010,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "105548",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Flirtation Walk|1934": {
     "lbxd": {
@@ -95199,7 +95240,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/fb/2h/ui/ct/zqbz6F9dKDRGPtSdZez08IQ08HW-1920-1920-1080-1080-crop-000000.jpg?v=a995229449"
     ],
     "tmdb_id": "130866",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Die Marquise Von O|1976": {
     "lbxd": {
@@ -95264,7 +95305,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "48205",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Dois E Um Gato|2026": {
     "lbxd": {
@@ -95826,7 +95867,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/dp/go/pl/ff/performance-1920-1920-1080-1080-crop-000000.jpg?v=8a1ab84cb2"
     ],
     "tmdb_id": "26606",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Noite Sangrenta|2010": {
     "lbxd": {
@@ -95881,5 +95922,859 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "268513"
+  },
+  "Das Tagebuch Einer Verlorenen|1929": {
+    "lbxd": {
+      "rating": 3.89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/4/4/9/22449-diary-of-a-lost-girl-0-500-0-750-crop.jpg?v=6c5cf699ae",
+      "description": "Thymian Henning, an innocent young girl, is raped by the clerk of her father's pharmacy. She becomes pregnant, is rejected by her family, and must fend for herself in a harsh, cruel world.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "G.W. Pabst",
+      "lb_director_slug": "gw-pabst",
+      "lb_year": 1929,
+      "lb_title": "Diary of a Lost Girl",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/jd/l1/uv/9t/diary%20of%20a%20lost%20girl-1920-1920-1080-1080-crop-000000.jpg?v=f09c36646f",
+      "imdb_id": "tt0020475",
+      "tmdb_id": "42637"
+    },
+    "omdb": {
+      "Title": "Diary of a Lost Girl",
+      "Year": "1929",
+      "Rated": "Not Rated",
+      "Released": "11 Apr 1930",
+      "Runtime": "79 min",
+      "Genre": "Drama",
+      "Director": "Georg Wilhelm Pabst",
+      "Writer": "Margarete Böhme, Rudolf Leonhardt",
+      "Actors": "Louise Brooks, Josef Rovenský, Fritz Rasp",
+      "Plot": "After falling pregnant by a pharmacist and refusing to marry, a young woman is ejected from her home and sent to a strict girls' reform school.",
+      "Language": "German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyMzg5Njk4Nl5BMl5BanBnXkFtZTgwOTkzOTA5MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "4,918",
+      "imdbID": "tt0020475",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Diary of a Lost Girl",
+      "imdb_id": "tt0020475",
+      "extract_pt": "Tagebuch einer Verlorenen (em Portugal: Jornal de uma Perdida, e no Brasil: Diário de uma Garota Perdida ou Diário de uma Perdida) é um filme mudo alemão de 1929 dirigido por Georg Wilhelm Pabst. Este foi o segundo e último filme de Pabst com Louise Brooks, e como sua primeira colaboração (Die Büchse der Pandora, 1929), é considerado um filme clássico. É filmado em preto e branco, e várias versões do filme variam de 79 minutos a 116 minutos de duração. Foi baseado no controverso romance best-seller do mesmo nome, Tagebuch einer Verlorenen (1905) de Margarete Böhme."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      34.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/jd/l1/uv/9t/diary%20of%20a%20lost%20girl-1920-1920-1080-1080-crop-000000.jpg?v=f09c36646f"
+    ],
+    "tmdb_id": "42637"
+  },
+  "Jogo De Mão|1983": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/0/1/5/6/250156-jogo-de-mao-0-500-0-750-crop.jpg?v=d190f53c1b",
+      "description": "In a unique approach to what amounts to four pseudo-morality plays, director Monique Rutler has a street entertainer with hand puppets summarize the characters and idea of each story. The first sketch is about a young man who shines shoes for a living, and tries to keep up a relationship with two women while convincing each she is his only true love. The next story is about a man who beats up his wife when he is drunk, and sells furs for a living. One day, as she is riding in the back of his truck with the furs, he hits a bad patch and she and some furs fall out. The question is, will the woman be enterprising and leave the jerk - or not? The third tale concerns a woman looking into how much control a prostitute has over her clients, and to really find out, she becomes a prostitute herself for awhile - leading to some quite unexpected situations. The last segment handles the uglier side of the life styles of the rich and famous.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Monique Rutler",
+      "lb_director_slug": "monique-rutler",
+      "lb_year": 1983,
+      "lb_title": "Jogo de Mão",
+      "backdrop": null,
+      "imdb_id": "tt0085759",
+      "tmdb_id": "323156"
+    },
+    "omdb": {
+      "Title": "Sleight of Hand",
+      "Year": "1983",
+      "Rated": "N/A",
+      "Released": "29 Jun 1984",
+      "Runtime": "115 min",
+      "Genre": "Drama",
+      "Director": "Monique Rutler",
+      "Writer": "Eduardo Guerra Carneiro, Gonçalves Preto, Monique Rutler",
+      "Actors": "Amílcar Botica, Márcia Breia, João Calvário",
+      "Plot": "Four different stories are connected by a puppet show.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBiNWM2YzMtMDhiNi00ZmM0LWE4YWQtYjAwZTlmYWFiNjMwXkEyXkFqcGdeQXVyOTQyMjgyMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "15",
+      "imdbID": "tt0085759",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "323156"
+  },
+  "Den Goda Viljan|1992": {
+    "lbxd": {
+      "rating": 3.79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/2/9/1/23291-the-best-intentions-0-500-0-750-crop.jpg?v=c0731feb26",
+      "description": "In this film about Ingmar Bergman's parents, Henrik Bergman is studying for the priesthood and trying to make ends meet when he encounters the lovely, affluent Anna. Despite their social differences, Henrik and Anna fall in love, wed and move to the country. They lead a quiet life as Henrik works as a priest, but it isn't long before the simple people and plain surroundings make Anna long for a more lavish lifestyle, which causes marital stress.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Denmark",
+      "lb_director": "Bille August",
+      "lb_director_slug": "bille-august",
+      "lb_year": 1992,
+      "lb_title": "The Best Intentions",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/xp/x2/vh/yl/bestintentions-1920-1920-1080-1080-crop-000000.jpg?v=023db85874",
+      "imdb_id": "tt0104350",
+      "tmdb_id": "41764"
+    },
+    "omdb": {
+      "Title": "The Best Intentions",
+      "Year": "1992",
+      "Rated": "Not Rated",
+      "Released": "10 Jul 1992",
+      "Runtime": "182 min",
+      "Genre": "Biography, Drama, Romance",
+      "Director": "Bille August",
+      "Writer": "Ingmar Bergman",
+      "Actors": "Samuel Fröler, Pernilla August, Max von Sydow",
+      "Plot": "In 1909, poor theology student Henrik falls in love with Anna, the intelligent daughter of a rich family in Uppsala. After marrying Henrik becomes a priest in northern Sweden. Urbane Anna hates living in the county, growing restless.",
+      "Language": "Swedish",
+      "Country": "Sweden, Denmark, Finland, France, Germany, United Kingdom, Italy, Norway, Iceland",
+      "Awards": "4 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgzNjExMzA1MV5BMl5BanBnXkFtZTgwNzA0MzUzMDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "7.7",
+      "imdbVotes": "3,563",
+      "imdbID": "tt0104350",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,253,106",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/xp/x2/vh/yl/bestintentions-1920-1920-1080-1080-crop-000000.jpg?v=023db85874"
+    ],
+    "tmdb_id": "41764"
+  },
+  "The Vanishing Virginian|1942": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/3/1/3/80313-the-vanishing-virginian-0-500-0-750-crop.jpg?v=fba348eb57",
+      "description": "The perineal District Attorney and conservative southern patriarch cherishes the old ways and does his best to adjust to change.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1942,
+      "lb_title": "The Vanishing Virginian",
+      "backdrop": null,
+      "imdb_id": "tt0035504",
+      "tmdb_id": "97591"
+    },
+    "omdb": {
+      "Title": "The Vanishing Virginian",
+      "Year": "1942",
+      "Rated": "Approved",
+      "Released": "01 Feb 1942",
+      "Runtime": "97 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Jan Fortune, Rebecca Yancey Williams",
+      "Actors": "Frank Morgan, Kathryn Grayson, Spring Byington",
+      "Plot": "Biography of Robert Yancey, long-term district attorney in Lynchburg, Virginia.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjljN2I0YzUtZWZlMS00NmJlLTg5NDktMTZmMmE2MmMwN2FjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "327",
+      "imdbID": "tt0035504",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "97591"
+  },
+  "Anim, 30 Anos | Curtas - Metragens|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Humoresque|1920": {
+    "lbxd": {
+      "rating": 3.27,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/3/6/128336-humoresque-0-500-0-750-crop.jpg?v=70d469ccc1",
+      "description": "Young Leon Kanter dreams of being a great violinist. His parents scrape up the money for a violin and for lessons, and Leon rewards them by becoming a great player. But as an adult, Leon finds that people want more from him than just music.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1920,
+      "lb_title": "Humoresque",
+      "backdrop": null,
+      "imdb_id": "tt0011317",
+      "tmdb_id": "175319"
+    },
+    "omdb": {
+      "Title": "Humoresque",
+      "Year": "1920",
+      "Rated": "N/A",
+      "Released": "30 May 1920",
+      "Runtime": "60 min",
+      "Genre": "Drama, War",
+      "Director": "Frank Borzage",
+      "Writer": "Fannie Hurst, William LeBaron, Frances Marion",
+      "Actors": "Gaston Glass, Vera Gordon, Alma Rubens",
+      "Plot": "The matriarch of a poor Jewish family nurtures her talented son's dream of being a great violinist, but as an adult, global events call for him to postpone his dream.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODAwOTEwNzctNzNlYi00MmUzLWI3ZWQtYWU3ZGMwMDEyMWQwXkEyXkFqcGdeQXVyMjQ3MTQ1MTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "201",
+      "imdbID": "tt0011317",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "175319"
+  },
+  "Seven Sweethearts|1942": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/3/1/8/81318-seven-sweethearts-0-500-0-750-crop.jpg?v=4204b44970",
+      "description": "Little Delft, Michigan follows the customs of old-world Holland and is known for its Tulip Festival. The owner of the hotel insists that his seven daughters marry in order, from eldest to youngest.",
+      "genres": [
+        "Music",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1942,
+      "lb_title": "Seven Sweethearts",
+      "backdrop": null,
+      "imdb_id": "tt0035309",
+      "tmdb_id": "99381"
+    },
+    "omdb": {
+      "Title": "Seven Sweethearts",
+      "Year": "1942",
+      "Rated": "Approved",
+      "Released": "14 Oct 1943",
+      "Runtime": "98 min",
+      "Genre": "Musical, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Walter Reisch, Leo Townsend, Ferenc Herczeg",
+      "Actors": "Kathryn Grayson, Marsha Hunt, Cecilia Parker",
+      "Plot": "Henry falls in love with Billie, one of seven daughters of an eccentric hotel owner. Billie loves him back but refuses marriage because family tradition demands that the eldest daughter must marry first.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ5YzBjNTAtOTY3YS00N2FjLWI1NzItYmNkNjQ4ZWNjMjQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "607",
+      "imdbID": "tt0035309",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "99381"
+  },
+  "La Vie De Bohème|1992": {
+    "lbxd": {
+      "rating": 3.96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/2/2/33822-la-vie-de-boheme-0-500-0-750-crop.jpg?v=63086ec9c6",
+      "description": "Three penniless artists become friends in modern-day Paris: Rodolfo, an Albanian painter with no visa, Marcel, a playwright and magazine editor with no publisher, and Schaunard, a post-modernist composer of execrable noise.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Aki Kaurismäki",
+      "lb_director_slug": "aki-kaurismaki",
+      "lb_year": 1992,
+      "lb_title": "La Vie de Bohème",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/l7/1i/5j/ep/lavie-1920-1920-1080-1080-crop-000000.jpg?v=e1cb85f5e9",
+      "imdb_id": "tt0105750",
+      "tmdb_id": "28212"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "La Vie de bohème (1992 film)",
+      "imdb_id": "tt0105750",
+      "extract_pt": "La Vie de bohème (prt: A Vida de Boémia) é um filme de tragicomédia de 1992 dirigido por Aki Kaurismäki e estrelado por Matti Pellonpää, Évelyne Didi e André Wilms. O roteiro de Kaurismäki para o filme foi vagamente baseado no influente romance de Henri Murger, Scènes de la vie de bohème, de 1851, que gerou várias adaptações para a tela, bem como peças e óperas, sendo a mais notável La bohème, de 1896, de Giacomo Puccini.\nO filme foi um sucesso de crítica ganhando vários prêmios. A Federação Internacional de Críticos de Cinema concedeu ao filme o prêmio Fórum do Novo Cinema no Festival Internacional de Cinema de Berlim de 1992."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/l7/1i/5j/ep/lavie-1920-1920-1080-1080-crop-000000.jpg?v=e1cb85f5e9"
+    ],
+    "tmdb_id": "28212"
+  },
+  "Panic In The Streets|1950": {
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/6/6/7/30667-panic-in-the-streets-0-500-0-750-crop.jpg?v=2efdc10ad1",
+      "description": "A medical examiner discovers that an innocent shooting victim in a robbery died of bubonic plague. With only 48 hours to find the killer, who is now a ticking time bomb threatening the entire city, a grisly manhunt through the seamy underworld of the New Orleans Waterfront is underway.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Elia Kazan",
+      "lb_director_slug": "elia-kazan",
+      "lb_year": 1950,
+      "lb_title": "Panic in the Streets",
+      "backdrop": null,
+      "imdb_id": "tt0042832",
+      "tmdb_id": "32078"
+    },
+    "omdb": {
+      "Title": "Panic in the Streets",
+      "Year": "1950",
+      "Rated": "Approved",
+      "Released": "15 Sep 1950",
+      "Runtime": "96 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Elia Kazan",
+      "Writer": "Richard Murphy, Daniel Fuchs, Edna Anhalt",
+      "Actors": "Richard Widmark, Paul Douglas, Barbara Bel Geddes",
+      "Plot": "A doctor and a policeman in New Orleans have only 48 hours to locate a killer infected with pneumonic plague.",
+      "Language": "English, Mandarin, Greek",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 4 wins & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkM2U5MjYtMjkzNy00MDlkLWFiNzItOGJjZjQxMGViNjI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "9,637",
+      "imdbID": "tt0042832",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Panic in the Streets (film)",
+      "imdb_id": "tt0042832",
+      "extract_pt": "Pânico nas Ruas (em inglês:  Panic in the Streets) é um filme norte-americano de 1950, do gênero policial, dirigido por Elia Kazan e estrelado por Richard Widmark e Paul Douglas."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "32078"
+  },
+  "Okraina|1933": {
+    "lbxd": {
+      "rating": 3.66,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/5/1/6/78516-outskirts-0-500-0-750-crop.jpg?v=c3ce63e2ab",
+      "description": "In a remote Russian village during World War I, colourful and nuanced characters experience divided loyalties: family loyalty vs. personal desire, nationalism vs. transcendent humanism.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "War"
+      ],
+      "country": "USSR",
+      "lb_director": "Boris Barnet",
+      "lb_director_slug": "boris-barnet",
+      "lb_year": 1933,
+      "lb_title": "Outskirts",
+      "backdrop": null,
+      "imdb_id": "tt0024402",
+      "tmdb_id": "94638"
+    },
+    "omdb": {
+      "Title": "Okraina",
+      "Year": "1933",
+      "Rated": "N/A",
+      "Released": "24 Sep 1933",
+      "Runtime": "98 min",
+      "Genre": "Drama, War",
+      "Director": "Boris Barnet",
+      "Writer": "Konstantin Finn, Boris Barnet",
+      "Actors": "Yelena Kuzmina, Mikhail Zharov, Nikolay Bogolyubov",
+      "Plot": "Outskirts is an internationally renowned masterpiece of early sound cinema. In a remote Russian village during World War I, colorful and nuanced characters experience divided loyalties: family loyalty vs. personal desire, national...",
+      "Language": "Russian, German",
+      "Country": "Soviet Union",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTFhMGIyZTUtYjk2OC00MjE1LTgwNjgtMmUxMWZmZDkwMDI5XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "1,093",
+      "imdbID": "tt0024402",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "94638"
+  },
+  "KIRIKOU ET LES BêTES SAUVAGES|2005": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/6/43686-kirikou-and-the-wild-beasts-0-500-0-750-crop.jpg?v=c6071cc32a",
+      "description": "Kirikou's grandfather thinks that the story of Kirikou and The Witch was too short, so he proceeds to explain more about Kirikou's accomplishments. We find out how the little boy became a gardener, a detective, a maker of pottery, a merchant, a traveler and a doctor.",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "country": "France",
+      "lb_director": "Michel Ocelot",
+      "lb_director_slug": "michel-ocelot",
+      "lb_year": 2005,
+      "lb_title": "Kirikou and the Wild Beasts",
+      "backdrop": null,
+      "imdb_id": "tt0455142",
+      "tmdb_id": "13679"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "13679"
+  },
+  "A 15ª PEDRA: MANOEL DE OLIVEIRA E JOÃO BÉNARD DA COSTA EM CONVERSA FILMADA POR RITA AZEVEDO GOMES|2004": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Danses Macabres, Squelettes et Autres Fantaisies é um documentário franco-luso-suíço de 2019 realizado por Rita Azevedo Gomes, com Jean-Louis Schefer e Pierre Léon. O filme retrata o encontro destes três autores em Portugal para uma expedição pela teoria de cinema e imagem de Schefer, abordando momentos da história da representação alegórica ocidental.\nA longa-metragem fez parte da programação do 30º Festival International du Documentaire de Marseille, onde estreou a 12 de julho de 2019 e recebeu uma Menção Especial no Grande Prémio da Competição Nacional. Sem ter beneficiado de uma distribuição comercial, em Portugal, Danses Macabres, Squelettes et Autres Fantaisies estreou a 21 de outubro de 2019 no Grande Auditório da Culturgest, no âmbito do 17º Doclisboa."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Banshun|1949": {
+    "lbxd": {
+      "rating": 4.32,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/5/3/38953-late-spring-0-500-0-750-crop.jpg?v=fa023efefc",
+      "description": "Noriko is perfectly happy living at home with her widowed father, Shukichi, and has no plans to marry -- that is, until her aunt Masa convinces Shukichi that unless he marries off his 27-year-old daughter soon, she will likely remain alone for the rest of her life. When Noriko resists Masa's matchmaking, Shukichi is forced to deceive his daughter and sacrifice his own happiness to do what he believes is right.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Yasujirō Ozu",
+      "lb_director_slug": "yasujiro-ozu",
+      "lb_year": 1949,
+      "lb_title": "Late Spring",
+      "backdrop": null,
+      "imdb_id": "tt0041154",
+      "tmdb_id": "20530"
+    },
+    "omdb": {
+      "Title": "Late Spring",
+      "Year": "1972",
+      "Rated": "Not Rated",
+      "Released": "21 Jul 1972",
+      "Runtime": "110 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Yasujiro Ozu",
+      "Writer": "Kazuo Hirotsu, Kogo Noda, Yasujiro Ozu",
+      "Actors": "Chishu Ryu, Setsuko Hara, Yumeji Tsukioka",
+      "Plot": "Several people try to talk 27-year-old Noriko into marrying, but all she wants is to keep on caring for her widowed father.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "5 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAxZjZhOTctY2E1Yi00MTFmLWEzOWEtZGNhYzkwNjdiZTYyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "Metascore": "93",
+      "imdbRating": "8.2",
+      "imdbVotes": "22,025",
+      "imdbID": "tt0041154",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$13,254",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Late Spring",
+      "imdb_id": "tt0041154",
+      "extract_pt": "Banshun (晩春; Brasil: Pai e Filha / Portugal: Primavera Tardia) é um filme japonês de 1949, dirigido por Yasujiro Ozu e escrito por Kogo Noda, baseado no livro Chichi to musume, do escritor e crítico japonês Kazuo Hirotsu. O filme foi escrito e filmado durante a Ocupação do Japão pelas Forças Aliadas e estava sujeito aos critérios de censura da Ocupação. Estrelado por Chishū Ryū, que apareceu em quase todos os filmes do diretor, e Setsuko Hara, marcando sua primeira de seis colaborações com Ozu, esse foi o primeiro longa da chamada \"trilogia Noriko\" de Ozu, sucedida por Bakushū (1951) e Tōkyō Monogatari (1953); em cada um deles Hara retrata uma jovem chamada Noriko, embora as três Norikos sejam personagens distintas e que não posuem relação alguma, ligadas principalmente por seu status de mulheres solteiras no Japão do pós-guerra. \nBanshun pertence ao gênero de cinema japonês conhecido como shomin-geki, estilo este que trata do cotidiano comum das classes trabalhadora e média dos tempos modernos."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "20530"
+  },
+  "Stage Door Canteen|1943": {
+    "lbxd": {
+      "rating": 3.09,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/8/8/25888-stage-door-canteen-0-500-0-750-crop.jpg?v=fb03ab5edd",
+      "description": "A young soldier on a pass in New York City visits the famed Stage Door Canteen, where famous stars of theatre and film appear and host a recreational center for servicemen during the war. The soldier meets a pretty young hostess and they enjoy the many entertainers and a growing romance.",
+      "genres": [
+        "War",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1943,
+      "lb_title": "Stage Door Canteen",
+      "backdrop": null,
+      "imdb_id": "tt0036384",
+      "tmdb_id": "38726"
+    },
+    "omdb": {
+      "Title": "Stage Door Canteen",
+      "Year": "1943",
+      "Rated": "Passed",
+      "Released": "22 Nov 1943",
+      "Runtime": "132 min",
+      "Genre": "Comedy, Romance, War",
+      "Director": "Frank Borzage",
+      "Writer": "Delmer Daves",
+      "Actors": "Cheryl Walker, William Terry, Judith Anderson",
+      "Plot": "\"Dakota\" Smith (William Terry), a young soldier on a pass in New York City, visits the famed Stage Door Canteen, where famous stars of the theatre and movies appear and host a recreational center for servicemen during the war. Dak...",
+      "Language": "English, Russian, Spanish",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Oscars. 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiYWYyNzQtODhjMC00N2IxLTk4YWEtZmM0YjNkYTZlOTAyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "1,815",
+      "imdbID": "tt0036384",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Stage Door Canteen (film)",
+      "imdb_id": "tt0036384",
+      "extract_pt": "Stage Door Canteen (bra: Noivas de Tio Sam; prt: Chuva de Estrelas) é um filme estadunidense de 1943, do gênero comédia musical, dirigido por Frank Borzage. É praticamente um show filmado, embora haja uma história. Os atores interpretam eles mesmos no musical. O filme celebra o Stage Door Canteen, local que servia como centro de recreação para militares que estavam de licença durante a guerra."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "38726"
+  },
+  "Eika Katappa|1969": {
+    "lbxd": {
+      "rating": 3.56,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/1/1/0/105110-eika-katappa-0-500-0-750-crop.jpg?v=79e316e6a7",
+      "description": "Collage of dramatic scenes, some exaggerated to comic effect, with asynchronous sound from well known classic, operatic, and rock and roll music – with different approaches to love, suffering, and death.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Werner Schroeter",
+      "lb_director_slug": "werner-schroeter",
+      "lb_year": 1969,
+      "lb_title": "Eika Katappa",
+      "backdrop": null,
+      "imdb_id": "tt0064280",
+      "tmdb_id": "137028"
+    },
+    "omdb": {
+      "Title": "Eika Katappa",
+      "Year": "1969",
+      "Rated": "N/A",
+      "Released": "10 Oct 1969",
+      "Runtime": "144 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Werner Schroeter",
+      "Writer": "Werner Schroeter",
+      "Actors": "Gisela Trowe, Carla Egerer, Rosemarie Heinikel",
+      "Plot": "Collage of dramatic scenes, some exaggerated to comic effect, with asynchronous sound from well known classic, operatic, and rock and roll music - with different approaches to love, suffering, and death.",
+      "Language": "Italian, English, Spanish, German",
+      "Country": "West Germany",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzczNTQyNTYyNF5BMl5BanBnXkFtZTcwMjg5MDM5Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "125",
+      "imdbID": "tt0064280",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "137028"
+  },
+  "Nugget Jim’s Partner|1916": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/0/2/137502-nugget-jims-pardner-0-500-0-750-crop.jpg?v=5cef07afd3",
+      "description": "Nugget Jim's pardner (Borzage), is an easy-come-easy-go character, an heirling who has worn through the last of pater's patience, eaten through his allowance of allowances. Off he pops, after one last drunken hurrah, to makes his living way out west. He teams up with a prospector and his daughter and they develop a happy family situation.",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1916,
+      "lb_title": "Nugget Jim's Pardner",
+      "backdrop": null,
+      "imdb_id": "tt0007136",
+      "tmdb_id": "190896"
+    },
+    "omdb": {
+      "Title": "Nugget Jim's Pardner",
+      "Year": "1916",
+      "Rated": "Not Rated",
+      "Released": "14 Jul 1916",
+      "Runtime": "23 min",
+      "Genre": "Short, Western",
+      "Director": "Frank Borzage",
+      "Writer": "Frank Borzage",
+      "Actors": "Frank Borzage, Jack Farrell, Ann Little",
+      "Plot": "Hal, the rich and good-for-nothing son of a rich man, is thrown out by his father after another night out. He ends up in the West and living with a gold digger. He'll help him with his daughter and they all will become fond of eac...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU5OTk3NTYtNjZiMi00ZDNhLWJiODktYzgzMTZlYzU5ZjBkXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "73",
+      "imdbID": "tt0007136",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "190896"
+  },
+  "The Gun Woman|1918": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/9/4/5/6/399456-the-gun-woman-0-500-0-750-crop.jpg?v=32f90296d0",
+      "description": "A saloon owner loans her lover the money to buy a house, which he has led her to believe they will live in after they're married. Instead, he takes the money and buys a saloon in another town.",
+      "genres": [
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1918,
+      "lb_title": "The Gun Woman",
+      "backdrop": null,
+      "imdb_id": "tt0009137",
+      "tmdb_id": "467950"
+    },
+    "omdb": {
+      "Title": "The Gun Woman",
+      "Year": "1918",
+      "Rated": "N/A",
+      "Released": "27 Jan 1918",
+      "Runtime": "50 min",
+      "Genre": "Western",
+      "Director": "Frank Borzage",
+      "Writer": "Alan James",
+      "Actors": "Texas Guinan, Ed Brady, Francis McDonald",
+      "Plot": "A saloon owner loans her lover the money to buy a house, which he has led her to believe they will live in after they're married. Instead, he takes the money and buys a saloon in another town.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQzMWMzMTYtN2U5OC00ZWFhLWJlMTktYzk4MzZmOTE2YWRhXkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "28",
+      "imdbID": "tt0009137",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "467950"
   }
 }
