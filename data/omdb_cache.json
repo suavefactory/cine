@@ -87421,7 +87421,33 @@
       "imdb_id": "tt43685656",
       "tmdb_id": "1736720"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Bajañí",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "21 Sep 2026",
+      "Runtime": "110 min",
+      "Genre": "Documentary, Music",
+      "Director": "Fernando Trueba",
+      "Writer": "Fernando Trueba",
+      "Actors": "Luiz Alves, Artemis, Kenny Barron",
+      "Plot": "N/A",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzZlMjYwY2EtMTdkNC00NmUyLWExZTktYmMzNTg5ZGMxZDVkXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt43685656",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {
       "original_title": "Bajañí",
@@ -96119,7 +96145,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/xp/x2/vh/yl/bestintentions-1920-1920-1080-1080-crop-000000.jpg?v=023db85874"
     ],
     "tmdb_id": "41764",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Vanishing Virginian|1942": {
     "lbxd": {
@@ -96239,7 +96265,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "175319",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Seven Sweethearts|1942": {
     "lbxd": {
@@ -96296,7 +96322,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "99381",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "La Vie De Bohème|1992": {
     "lbxd": {
@@ -96452,7 +96478,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "94638",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "KIRIKOU ET LES BêTES SAUVAGES|2005": {
     "lbxd": {
@@ -96480,7 +96506,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "13679",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A 15ª PEDRA: MANOEL DE OLIVEIRA E JOÃO BÉNARD DA COSTA EM CONVERSA FILMADA POR RITA AZEVEDO GOMES|2004": {
     "lbxd": null,
@@ -96676,7 +96702,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "137028",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Nugget Jim’s Partner|1916": {
     "lbxd": {
@@ -96787,5 +96813,26 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "467950"
+  },
+  "Working with Lars von Trier|2026": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Working with Lars von Trier",
+      "plot_pt": "Willem Dafoe (n. 1955) é um dos actores mais completos do cinema mundial. Capaz de vestir personagens tão excêntricas e sombrias quanto figuras ternas e empáticas, a sua marca fica a meio caminho entre a provocação e o fascínio, ou não fosse ele o intérprete americano “previsivelmente mais imprevisível”. A sua extensa e variadíssima filmografia é a prova dessa versatilidade e génio – desde Platoon - Os Bravos do Pelotão (1986), A Última Tentação de Cristo (1988), Nascido a 4 de Julho (1989), O Paciente Inglês (1996), até Um Peixe Fora de Água (2004), Manderlay (2005), Anticristo (2009), Ninfomaníaca (2013), The Florida Project (2017) ou À Porta da Eternidade (2019), Dafoe assume uma verdadeira índole camaleónica, que por certo o torna um actor intergeracional. Reputação que abrange ainda o teatro: Willem Dafoe é um dos nomes fundamentais da companhia nova-iorquina The Wooster Group e o actual director artístico do departamento de teatro da Biennale. Depois de várias passagens pelo LEFFEST, incluindo uma homenagem em 2019, estará presente na 20ª edição do Festival, na sessão de Ninfomaníaca, para uma conversa com Stacy Martin, em tributo a Lars von Trier. Dará também uma masterclass no dia 9 de Novembro (11h), no Cinema Medeia Nimas, precisamente sobre o privilégio de trabalhar com o cineasta dinamarquês: “Working with Lars von Trier”.",
+      "year": 2026,
+      "director": "Masterclass com Willem Dafoe"
+    },
+    "dir_checked": true,
+    "stills": null
+  },
+  "Aigo|2025": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
