@@ -92468,7 +92468,7 @@
     "lbxd": {
       "rating": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/1/4/6/0/2/1614602-casa-pequena-0-500-0-750-crop.jpg?v=be965575c1",
-      "description": "A film by Ricardo Oliveira with original music by Capitão Fausto.",
+      "description": "Five musicians travel to a secluded house in the Serra da Estrela mountains, hoping that a retreat will renew their friendship and creativity, but a mysterious host will place the band at the center of an intrigue. Is this house cursed?",
       "genres": null,
       "country": null,
       "lb_director": "Ricardo Oliveira",
@@ -96898,5 +96898,164 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "82474"
+  },
+  "Street Angel|1928": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/7/1/0/33710-street-angel-0-500-0-750-crop.jpg?v=daf8341085",
+      "description": "A spirited young woman finds herself destitute and on the streets before joining a traveling carnival, where she meets a vagabond painter.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1928,
+      "lb_title": "Street Angel",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/dr/zk/fa/xy/street%20angel-1920-1920-1080-1080-crop-000000.jpg?v=e49aa83175",
+      "imdb_id": "tt0019429",
+      "tmdb_id": "28391"
+    },
+    "omdb": {
+      "Title": "Street Angel",
+      "Year": "1928",
+      "Rated": "Not Rated",
+      "Released": "19 Aug 1928",
+      "Runtime": "102 min",
+      "Genre": "Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Monckton Hoffe, Philip Klein, Henry Roberts Symonds",
+      "Actors": "Janet Gaynor, Charles Farrell, Natalie Kingston",
+      "Plot": "A woman on the run from the law finds her past catching up to her just as she is on the verge of true happiness.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 4 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQwOWUwMjAtNzZiNy00YWJiLTk5NjctMWE2ZGM3NzMwNTUwXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "2,619",
+      "imdbID": "tt0019429",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,706,000",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Street Angel (1928 film)",
+      "imdb_id": "tt0019429",
+      "extract_pt": "Street Angel (bra: O Anjo das Ruas) é um filme mudo norte-americano de 1928 dirigido por Frank Borzage, com roteiro de H. H. Caldwell, Hilliker Katherine, Philip Klein, Marion Orth e Henry Roberts Symonds baseado na peça Lady Cristilinda, de Monckton Höffe."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/dr/zk/fa/xy/street%20angel-1920-1920-1080-1080-crop-000000.jpg?v=e49aa83175"
+    ],
+    "tmdb_id": "28391"
+  },
+  "Mosquito|2020": {
+    "lbxd": {
+      "rating": 3.5,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/6/7/4/1/356741-mosquito-2020-0-500-0-750-crop.jpg?v=76eb9b57c8",
+      "description": "Dreaming of great adventures and of standing up for his homeland, a young Portuguese man enlists in the army during World War I and is sent to the front line in Mozambique, Africa. Left behind by his platoon, he sets out on a grueling trek across the mystic Makua native land, walking for over a thousand kilometers, in search of his dream.",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "João Nuno Pinto",
+      "lb_director_slug": "joao-nuno-pinto",
+      "lb_year": 2020,
+      "lb_title": "Mosquito",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/xq/x8/12/8y/rNuwhPNjXnyMMOeTna6Rkt78SCR-1920-1920-1080-1080-crop-000000.jpg?v=e8585c9f3e",
+      "imdb_id": "tt5658540",
+      "tmdb_id": "423132"
+    },
+    "omdb": {
+      "Title": "Mosquito",
+      "Year": "2020",
+      "Rated": "N/A",
+      "Released": "05 Mar 2020",
+      "Runtime": "125 min",
+      "Genre": "Drama, War",
+      "Director": "João Nuno Pinto",
+      "Writer": "João Nuno Pinto, Fernanda Polacow, Gonçalo Waddington",
+      "Actors": "João Nunes Monteiro, João Lagarto, Filipe Duarte",
+      "Plot": "A Portugese soldier gets lost in the African jungle, in 1917",
+      "Language": "Portuguese",
+      "Country": "Portugal, Brazil, Mozambique",
+      "Awards": "19 wins & 30 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMwNzlmZGYtNGE2MS00ZTVmLWI1MWMtOTlhNGRhNWY1Y2MwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "692",
+      "imdbID": "tt5658540",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      46.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/xq/x8/12/8y/rNuwhPNjXnyMMOeTna6Rkt78SCR-1920-1920-1080-1080-crop-000000.jpg?v=e8585c9f3e"
+    ],
+    "tmdb_id": "423132"
+  },
+  "A Savana E A Montanha|2024": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/4/4/4/1158444-savanna-and-the-mountain-0-500-0-750-crop.jpg?v=99369ce7f9",
+      "description": "The community of Covas do Barroso, in northern Portugal, discovers that the British company Savannah Resources plans to build the largest open-pit lithium mine in Europe just few meters from their homes. Confronted by this imminent threat, the People decide to organize themselves and expel the company from their lands.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Paulo Carneiro",
+      "lb_director_slug": "paulo-carneiro",
+      "lb_year": 2024,
+      "lb_title": "Savanna and the Mountain",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968",
+      "imdb_id": "tt32128938",
+      "tmdb_id": "1275245"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "year": 2024,
+      "plot_pt": "A SAVANA E A MONTANHA (2024) fala-nos sobre a comunidade de Covas do Barroso, no norte de Portugal, ao descobrir que a empresa britânica Savannah Resources planeia construir a maior mina de lítio a céu aberto da Europa a poucos metros das suas casas. Diante dessa ameaça iminente, o Povo decide organizar-se para expulsar a empresa das suas terras."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      42.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968"
+    ],
+    "tmdb_id": "1275245"
   }
 }
