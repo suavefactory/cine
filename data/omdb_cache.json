@@ -89991,7 +89991,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "105240",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "DOIS PROCURADORES - Ciclo de Cinema e Direito by Iniciativa Poética|None": {
     "lbxd": null,
@@ -97024,7 +97024,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/xq/x8/12/8y/rNuwhPNjXnyMMOeTna6Rkt78SCR-1920-1920-1080-1080-crop-000000.jpg?v=e8585c9f3e"
     ],
     "tmdb_id": "423132",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Savana E A Montanha|2024": {
     "lbxd": {
@@ -97058,6 +97058,141 @@
       "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968"
     ],
     "tmdb_id": "1275245",
-    "wiki_tries": 1
+    "wiki_tries": 2
+  },
+  "Filmes-Ensaio:\r\nViver Em Algum Lugar \r\n(Aqui Ou Noutro Lado)|2026": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Danses Macabres, Squelettes, Et Autres Fantaisies|2019": {
+    "lbxd": {
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/3/0/8/1/543081-danses-macabres-skeletons-and-other-fantasies-0-500-0-750-crop.jpg?v=d60270599c",
+      "description": "Two film directors and a writer are in Portugal for an expedition through various images, moments from the history of Western allegorical representation. The writer is Jean-Louis Schefer, and this tale encapsulates his life’s mission.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Jean Louis Schefer",
+      "lb_director_slug": "jean-louis-schefer",
+      "lb_year": 2019,
+      "lb_title": "Danses Macabres, Skeletons, and Other Fantasies",
+      "backdrop": null,
+      "imdb_id": "tt11201678",
+      "tmdb_id": "616018"
+    },
+    "omdb": {
+      "Title": "Danses macabres, squelettes et autres fantaisies",
+      "Year": "2019",
+      "Rated": "N/A",
+      "Released": "08 Oct 2019",
+      "Runtime": "110 min",
+      "Genre": "Documentary",
+      "Director": "Rita Azevedo Gomes, Pierre Léon, Jean-Louis Schefer",
+      "Writer": "Pierre Léon",
+      "Actors": "Jean-Louis Schefer",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France, Portugal, Sweden",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTU2NjA2NzAtNzJkZS00MzJjLWEzMjQtZmYwNGE2YTZkYmM4XkEyXkFqcGdeQXVyOTE2MDk0MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "28",
+      "imdbID": "tt11201678",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Danses Macabres, Squelettes et Autres Fantaisies é um documentário franco-luso-suíço de 2019 realizado por Rita Azevedo Gomes, com Jean-Louis Schefer e Pierre Léon. O filme retrata o encontro destes três autores em Portugal para uma expedição pela teoria de cinema e imagem de Schefer, abordando momentos da história da representação alegórica ocidental.\nA longa-metragem fez parte da programação do 30º Festival International du Documentaire de Marseille, onde estreou a 12 de julho de 2019 e recebeu uma Menção Especial no Grande Prémio da Competição Nacional. Sem ter beneficiado de uma distribuição comercial, em Portugal, Danses Macabres, Squelettes et Autres Fantaisies estreou a 21 de outubro de 2019 no Grande Auditório da Culturgest, no âmbito do 17º Doclisboa."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "616018"
+  },
+  "A Girl In Every Port|1928": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/7/9/9/88799-a-girl-in-every-port-0-500-0-750-crop.jpg?v=60eebf30f4",
+      "description": "Two sailors with a rivalry over chasing women become friends. But when one decides to finally settle down, will this mysterious young woman come between them?",
+      "genres": [
+        "Comedy",
+        "Adventure"
+      ],
+      "country": "USA",
+      "lb_director": "Howard Hawks",
+      "lb_director_slug": "howard-hawks",
+      "lb_year": 1928,
+      "lb_title": "A Girl in Every Port",
+      "backdrop": null,
+      "imdb_id": "tt0018937",
+      "tmdb_id": "110887"
+    },
+    "omdb": {
+      "Title": "A Girl in Every Port",
+      "Year": "1928",
+      "Rated": "Passed",
+      "Released": "26 Feb 1928",
+      "Runtime": "78 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Howard Hawks",
+      "Writer": "Howard Hawks, James Kevin McGuinness, Seton I. Miller",
+      "Actors": "Victor McLaglen, Robert Armstrong, Louise Brooks",
+      "Plot": "Two sailors with a rivalry over chasing women become friends. But when one decides to finally settle down, will this mysterious young women come between them?",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTA2ZTY5ZjYtZjdlNy00NTlkLWJjZDktN2NiMjdjZmFiMTMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "864",
+      "imdbID": "tt0018937",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Seton I. Miller",
+      "imdb_id": null,
+      "extract_pt": "Seton Ingersoll Miller (Chehalis, 3 de maio de 1902 — Los Angeles, 29 de março de 1974) foi um roteirista e produtor cinematográfico estadunidense. Durante sua carreira, trabalhou com Howard Hawks e Michael Curtiz. Miller recebeu duas indicações ao Oscar e ganhou uma vez o prêmio de Melhor Roteiro pelo filme de fantasia romântica Here Comes Mr. Jordan junto com Sidney Buchman."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "110887"
+  },
+  "KABADDIS 5 – AFTER THE FINAL MATCH|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
