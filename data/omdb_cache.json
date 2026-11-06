@@ -77343,8 +77343,8 @@
   "Memórias do Cárcere|2026": {
     "lbxd": {
       "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/0/9/8/1338098-memorias-do-carcere-0-500-0-750-crop.jpg?v=a916734a62",
-      "description": "Accused of adultery, Ana Augusta Plácido and Camilo Castelo Branco were imprisoned for more than a year in the Porto Prison, she in June 1860, he in October of the same year, after an adventurous escape from justice through the lands of the North.",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/0/9/8/1338098-memories-of-prison-2026-0-500-0-750-crop.jpg?v=d72ff6588e",
+      "description": "A fascinating and vivid portrait of Camilo Castelo Branco, based on one of the most remarkable episodes of his life, when the writer and Ana Plácido were imprisoned in Porto's court jail as a result of the famous adultery trial that shook nineteenth-century Portuguese society.",
       "genres": [
         "Drama"
       ],
@@ -97194,5 +97194,253 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Curtas Sentidos e Lugares|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "A Divina Comédia|1991": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/6/0/3/84603-the-divine-comedy-0-500-0-750-crop.jpg?v=96e6a7da10",
+      "description": "In a mental institution the patients see themselves as people like Jesus, Lazarus, Martha, Mary, Adam, Eve, Sonia, Raskolnikov, Aliosha e Ivan Karamasov, a Philosopher, a Profet, Santa Teresa d'Avila, reciting the Divine Comedy.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Manoel de Oliveira",
+      "lb_director_slug": "manoel-de-oliveira",
+      "lb_year": 1991,
+      "lb_title": "The Divine Comedy",
+      "backdrop": null,
+      "imdb_id": "tt0101739",
+      "tmdb_id": "104482"
+    },
+    "omdb": {
+      "Title": "A Divina Comédia",
+      "Year": "1991",
+      "Rated": "N/A",
+      "Released": "11 Oct 1991",
+      "Runtime": "140 min",
+      "Genre": "Drama",
+      "Director": "Manoel de Oliveira",
+      "Writer": "Manoel de Oliveira, Fyodor Dostoevsky, José Régio",
+      "Actors": "Maria de Medeiros, Miguel Guilherme, Luís Miguel Cintra",
+      "Plot": "Patients in a mental institution see themselves as Adam and Eve, Sonia and Raskolnikov, a Philosopher and a Prophet, Alyosha and Ivan Karamazov, Jesus, Lazarus, Martha, Mary and St Teresa of Avila.",
+      "Language": "Portuguese",
+      "Country": "Portugal, France, Switzerland",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI0Mjk2NjE5N15BMl5BanBnXkFtZTYwNDg1Nzc5._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "512",
+      "imdbID": "tt0101739",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Paulo Branco",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Divine Comedy (film)",
+      "imdb_id": "tt0101739",
+      "extract_pt": "A Divina Comédia (em francês:  La Divine Comédie) é um filme de longa-metragem luso-franco-suíço de Manoel de Oliveira, do ano de 1991."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "104482"
+  },
+  "Silvestre|1981": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/9/7/3/2/69732-silvestre-0-500-0-750-crop.jpg?v=581f026368",
+      "description": "A bewitching combinatory adaptation of the Bluebeard tale and a 15th century Portuguese fable of a damsel who disguises herself as a knight errant.",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "country": "Portugal",
+      "lb_director": "João César Monteiro",
+      "lb_director_slug": "joao-cesar-monteiro",
+      "lb_year": 1981,
+      "lb_title": "Silvestre",
+      "backdrop": null,
+      "imdb_id": "tt0083082",
+      "tmdb_id": "83233"
+    },
+    "omdb": {
+      "Title": "Silvestre",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "06 May 1982",
+      "Runtime": "120 min",
+      "Genre": "Drama",
+      "Director": "João César Monteiro",
+      "Writer": "João César Monteiro, Maria Velho da Costa",
+      "Actors": "Maria de Medeiros, Teresa Madruga, Luís Miguel Cintra",
+      "Plot": "The daughters of a nobleman give shelter to a stranger. After that visit ends with a severed hand, the pilgrim takes on different identities to seek revenge. The nobleman goes missing and his youngest has to pose as a knight to sa...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTJjYjc1ZjQtZGFlMi00NjllLTgxMzYtMTk3MmY0NjE2MjEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "361",
+      "imdbID": "tt0083082",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Silvestre (film)",
+      "imdb_id": "tt0083082",
+      "extract_pt": "Silvestre é um filme português de 1981, do género drama fantástico, realizado por João César Monteiro e escrito com Maria Velho da Costa. A narrativa da longa-metragem é construída adaptando dois Contos Tradicionais Portugueses: A Donzela Que Vai à Guerra, de origem judaica peninsular; e A Mão do Finado, transmitido pela tradição oral e que faz parte do ciclo do Barba Azul. Silvestre marca a estreia em cinema da atriz Maria de Medeiros, que interpreta a protagonista, Sílvia, uma donzela prometida em casamento a um rico proprietário de hábitos grosseiros.\nO filme estreou a 9 de setembro de 1981 no Festival Internacional de Cinema de Veneza, onde competiu pelo Leão de Ouro."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "83233"
+  },
+  "O Trio Em Mi Bemol|2022": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/0/8/8/6/830886-the-kegelstatt-trio-0-500-0-750-crop.jpg?v=924df7f3a8",
+      "description": "Paul and Adèle were once lovers and separated but are still good friends, one year after everything seems to take them away from each other. The key of E-flat may be the key of true friendship, but it is Mozart that pushes them apart...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2022,
+      "lb_title": "The Kegelstatt Trio",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/9x/59/qi/vc/4qaP94uzL79smuSl3tF7Qyc3rBD-1920-1920-1080-1080-crop-000000.jpg?v=aaaf92b975",
+      "imdb_id": "tt17555654",
+      "tmdb_id": "925383"
+    },
+    "omdb": {
+      "Title": "O Trio em Mi Bemol",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "01 Dec 2022",
+      "Runtime": "127 min",
+      "Genre": "Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes, Éric Rohmer",
+      "Actors": "Pierre Léon, Rita Durão, Adolfo Arrieta",
+      "Plot": "A series of encounters between two ex-lovers who still are very fond of each other.",
+      "Language": "Portuguese, Spanish, French",
+      "Country": "Spain, Portugal",
+      "Awards": "6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNlYTcwODAtZWI5Ni00MjU3LTkyNGItMDFmNGRlZmI4YmNmXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.6",
+      "imdbVotes": "96",
+      "imdbID": "tt17555654",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/9x/59/qi/vc/4qaP94uzL79smuSl3tF7Qyc3rBD-1920-1920-1080-1080-crop-000000.jpg?v=aaaf92b975"
+    ],
+    "tmdb_id": "925383"
+  },
+  "Back Pay|1922": {
+    "lbxd": {
+      "rating": 3.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/6/5/6/0/296560-back-pay-0-500-0-750-crop.jpg?v=8367ae77c6",
+      "description": "Hester Bevins is a simple country girl who yearns for adventure. Though she has a handsome young man, Jerry, who is devoted to her, she leaves her village and goes to New York in search of a grander life. There she becomes the lover of a wealthy and unscrupulous businessman. But when Jerry returns blinded and dying from the war, Hester must choose between her new life and the man whose loyalty to her has never failed.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1922,
+      "lb_title": "Back Pay",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/f5/5a/et/cl/hkZH36sdACZwDnJlN1nJPKERwJc-1920-1920-1080-1080-crop-000000.jpg?v=89d4c07679",
+      "imdb_id": "tt0012917",
+      "tmdb_id": "363577"
+    },
+    "omdb": {
+      "Title": "Back Pay",
+      "Year": "1922",
+      "Rated": "N/A",
+      "Released": "05 Apr 1923",
+      "Runtime": "88 min",
+      "Genre": "Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Fannie Hurst, Frances Marion",
+      "Actors": "Seena Owen, Matt Moore, J. Barney Sherry",
+      "Plot": "Hester Bevins is a simple country girl who yearns for adventure. Though she has a handsome young man, Jerry, who is devoted to her, she leaves her village and goes to New York in search of a grander life. There she becomes the lov...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5ZjZlYWMtY2E3NC00ZTQ4LTk3MjItOTVhNWZhMDMwOGIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "88",
+      "imdbID": "tt0012917",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      41.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/f5/5a/et/cl/hkZH36sdACZwDnJlN1nJPKERwJc-1920-1920-1080-1080-crop-000000.jpg?v=89d4c07679"
+    ],
+    "tmdb_id": "363577"
   }
 }
