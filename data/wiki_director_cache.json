@@ -3069,5 +3069,25 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Bárbara Echevarría": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Andrea Luka Zimmerman": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Andrea_Luka_Zimmerman_-_IFFR_2024.jpg/500px-Andrea_Luka_Zimmerman_-_IFFR_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Andrea Luka Zimmerman (they/them) is a German-born, UK-based artist, filmmaker, and cultural activist. Their work focuses on themes of social injustice, class, and the experience of marginalized communities. They received the Jarman Award in 2020.",
+    "tries": 1
+  },
+  "Patrick Mimouni": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Patrick_Mimouni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "bio": "French film producer and director (born 1954)",
+    "tries": 1
+  },
+  "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }
