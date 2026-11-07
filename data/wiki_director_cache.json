@@ -3073,7 +3073,7 @@
   "Bárbara Echevarría": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Andrea Luka Zimmerman": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Andrea_Luka_Zimmerman_-_IFFR_2024.jpg/500px-Andrea_Luka_Zimmerman_-_IFFR_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3088,6 +3088,6 @@
   "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   }
 }
