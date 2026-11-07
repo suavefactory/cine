@@ -4307,8 +4307,8 @@ window.CINEMA_DATA = {
         }
       ],
       "plot": "Five musicians travel to a secluded house in the Serra da Estrela mountains, hoping that a retreat will renew their friendship and creativity, but a mysterious host will place the band at the center of an intrigue. Is this house cursed?",
-      "country": "Portugal",
-      "director_lbxd_slug": "ricardo-oliveira-3"
+      "director_lbxd_slug": "ricardo-oliveira-3",
+      "country": "Portugal"
     },
     {
       "id": "fernando_dra_cula",
