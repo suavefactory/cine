@@ -97798,5 +97798,411 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null
+  },
+  "Oficina: Brincar À Mesa|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Mistérios De Lisboa|2010": {
+    "lbxd": {
+      "rating": 4.07,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/5/1/7/0/2/1351702-mysteries-of-lisbon-1-0-500-0-750-crop.jpg?v=404482f2a0",
+      "description": "The tragic story of the many lives of Father Dinis, his dark origins and his pious works, and the different fates of all those who, trapped in a sinister web of love, hate and crime, cross paths with him through years of adventure.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 2010,
+      "lb_title": "Mysteries of Lisbon",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/9k/g5/rw/ck/mysteries-1920-1920-1080-1080-crop-000000.jpg?v=709bf7e0f4",
+      "imdb_id": "tt20259142",
+      "tmdb_id": "1474601"
+    },
+    "omdb": {
+      "Title": "Mysteries of Lisbon",
+      "Year": "2010",
+      "Rated": "N/A",
+      "Released": "20 Oct 2010",
+      "Runtime": "266 min",
+      "Genre": "Drama",
+      "Director": "Raúl Ruiz",
+      "Writer": "Camilo Castelo Branco, Carlos Saboga",
+      "Actors": "Adriano Luz, Maria João Bastos, Ricardo Pereira",
+      "Plot": "The tragic story of the many lives of Father Dinis, his dark origins and his pious works, and the different fates of all those who, trapped in a sinister web of love, hate and crime, cross paths with him through years of adventure.",
+      "Language": "Portuguese, Latin, French, Italian, English",
+      "Country": "Portugal, France",
+      "Awards": "20 wins & 31 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMDQ5ZDctNjc0ZC00Y2E3LThiMmUtZTM0ZmVlNDc5ZTVlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "469",
+      "imdbID": "tt20259142",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Mysteries of Lisbon",
+      "imdb_id": "tt1236371",
+      "extract_pt": "Mistérios de Lisboa é um filme português de 2010 realizado por Raúl Ruiz, baseado no livro homónimo de Camilo Castelo Branco. O filme estreou-se no dia 21 de outubro de 2010, em Portugal."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      34.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/9k/g5/rw/ck/mysteries-1920-1920-1080-1080-crop-000000.jpg?v=709bf7e0f4"
+    ],
+    "tmdb_id": "1474601"
+  },
+  "Frozen|2013": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/6w/m8/pw/94/eFnGmj63QPUpK7QUWSOUhypIQOT-0-500-0-750-crop.jpg?v=aae3ef24d7",
+      "description": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "country": "USA",
+      "lb_director": "Chris Buck",
+      "lb_director_slug": "chris-buck",
+      "lb_year": 2013,
+      "lb_title": "Frozen",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/68/ic/r8/kn/frozen-2013-1920-1920-1080-1080-crop-000000.jpg?v=a83bdc0e64",
+      "imdb_id": "tt2294629",
+      "tmdb_id": "109445"
+    },
+    "omdb": {
+      "Title": "Frozen",
+      "Year": "2013",
+      "Rated": "PG",
+      "Released": "27 Nov 2013",
+      "Runtime": "102 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Chris Buck, Jennifer Lee",
+      "Writer": "Jennifer Lee, Hans Christian Andersen, Chris Buck",
+      "Actors": "Kristen Bell, Idina Menzel, Jonathan Groff",
+      "Plot": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven in an epic journey to find Anna's sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter.",
+      "Language": "English",
+      "Country": "United States, Japan",
+      "Awards": "Won 2 Oscars. 84 wins & 61 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.4",
+      "imdbVotes": "722,633",
+      "imdbID": "tt2294629",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$400,738,009",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Jennifer Lee (filmmaker)",
+      "imdb_id": null,
+      "extract_pt": "Jennifer Michelle Lee (nascida Jennifer Michelle Rebecchi, East Providence, 22 de outubro de 1971), mais conhecida como Jennifer Lee, é uma cineasta, diretora e escritora norte-americana, vencedora do Oscar de Melhor Animação em 2013 pelo filme Frozen. Ela co-escreveu o roteiro para o filme Wreck-It Ralph (2012), que também foi indicado a um Oscar de melhor filme de animação.\nLee é a primeira diretora de um filme da Walt Disney Animation Studios, a primeira roteirista em qualquer grande estúdio de animação a se tornar uma diretora, e a primeira mulher a dirigir um longa-metragem que ganhou mais de 1 bilhão de dólares em bilheterias."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/68/ic/r8/kn/frozen-2013-1920-1920-1080-1080-crop-000000.jpg?v=a83bdc0e64"
+    ],
+    "tmdb_id": "109445"
+  },
+  "Nuestra Voz De Tierra, Memoria Y Futuro|1982": {
+    "lbxd": {
+      "rating": 3.79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/6/2/7/6/196276-our-voice-of-earth-memory-and-future-0-500-0-750-crop.jpg?v=4887d1129b",
+      "description": "The struggles of the community of the Coconuco indigenous reservation in Cauca, which by the eighteenth-century royal card is entitled to 10,000 hectares, and in 1971 it barely has 1,500.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Colombia",
+      "lb_director": "Marta Rodríguez",
+      "lb_director_slug": "marta-rodriguez",
+      "lb_year": 1982,
+      "lb_title": "Our Voice of Earth, Memory and Future",
+      "backdrop": null,
+      "imdb_id": "tt0134859",
+      "tmdb_id": "272685"
+    },
+    "omdb": {
+      "Title": "Nuestra voz de tierra, memoria y futuro",
+      "Year": "1982",
+      "Rated": "N/A",
+      "Released": "01 Feb 1982",
+      "Runtime": "110 min",
+      "Genre": "Documentary",
+      "Director": "Marta Rodríguez, Jorge Silva",
+      "Writer": "Marta Rodríguez, Jorge López Sotomayor",
+      "Actors": "Fernando Vélez, Eulogio Gurrute, Julian Avirama",
+      "Plot": "The struggles of the community of the Coconuco indigenous reservation in Cauca, which by the eighteenth-century royal card is entitled to 10,000 hectares, and in 1971 it barely has 1,500.",
+      "Language": "Spanish",
+      "Country": "Colombia",
+      "Awards": "3 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI2ZmFkZjUtMTg5Ny00OWU2LWEwMmQtODI0Mzc4N2Q4NWFmXkEyXkFqcGdeQXVyMjIxMTU3MDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "47",
+      "imdbID": "tt0134859",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "272685"
+  },
+  "On Dangerous Ground|1952": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/4/1/7/31417-on-dangerous-ground-0-500-0-750-crop.jpg?v=fa20a2d329",
+      "description": "A big-city cop is reassigned to the country after his superiors find him too angry to be an effective policeman. While on his temporary assignment he assists in a manhunt of a suspected murderer.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Nicholas Ray",
+      "lb_director_slug": "nicholas-ray",
+      "lb_year": 1951,
+      "lb_title": "On Dangerous Ground",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/id/ns/rt/5e/dangerous-1920-1920-1080-1080-crop-000000.jpg?v=e541bc6ad7",
+      "imdb_id": "tt0043879",
+      "tmdb_id": "31152"
+    },
+    "omdb": {
+      "Title": "On Dangerous Ground",
+      "Year": "1951",
+      "Rated": "Approved",
+      "Released": "12 Feb 1952",
+      "Runtime": "82 min",
+      "Genre": "Drama, Film-Noir",
+      "Director": "Nicholas Ray, Ida Lupino",
+      "Writer": "A.I. Bezzerides, Nicholas Ray, Gerald Butler",
+      "Actors": "Ida Lupino, Robert Ryan, Ward Bond",
+      "Plot": "Rough, violent city cop Jim Wilson is disciplined by his captain who sends him upstate to a snowy mountain town to help the local sheriff solve a murder case.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI5MWVkOWEtYTU3ZS00YzNmLTg1ZDctOGY0MWZhYzU5ZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.2",
+      "imdbVotes": "8,337",
+      "imdbID": "tt0043879",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "On Dangerous Ground",
+      "imdb_id": "tt0043879",
+      "extract_pt": "On Dangerous Ground (br.: Cinzas que queimam / pt.: Cega paixão) é um filme policial noir estadunidense de 1951, dirigido por Nicholas Ray para a RKO Pictures. O roteiro de A. I. Bezzerides se baseia no romance Mad with Much Heart de Gerald Butler."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/id/ns/rt/5e/dangerous-1920-1920-1080-1080-crop-000000.jpg?v=e541bc6ad7"
+    ],
+    "tmdb_id": "31152"
+  },
+  "A Colecção Invisível|2009": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/3/8/3/389383-the-invisible-collection-2009-0-500-0-750-crop.jpg?v=0e4767f2a1",
+      "description": "A story about art and educated men, and how their art and culture reveal themselves useless in the face of the harsh realities of the 20th century life.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2009,
+      "lb_title": "The Invisible Collection",
+      "backdrop": null,
+      "imdb_id": "tt2308445",
+      "tmdb_id": "457565"
+    },
+    "omdb": {
+      "Title": "A Colecção Invisível",
+      "Year": "2009",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "56 min",
+      "Genre": "Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Stefan Zweig",
+      "Actors": "João Bénard da Costa, Rita Durão, Anna Leppänen",
+      "Plot": "A story about art and educated men, and how their art and culture reveal themselves useless in the face of the harsh realities of the 20th century life.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGUzMmU1NWQtMTkwYi00ZTU0LWIwNDctYTkyMmRkYjRmNTk5XkEyXkFqcGdeQXVyOTE2MDk0MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "17",
+      "imdbID": "tt2308445",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "457565"
+  },
+  "Teatro E Cinema|1996": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Aus Dem Leben Der Marionetten|1980": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/1/4/22914-from-the-life-of-the-marionettes-0-500-0-750-crop.jpg?v=b469c1a4a0",
+      "description": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "Ingmar Bergman",
+      "lb_director_slug": "ingmar-bergman",
+      "lb_year": 1980,
+      "lb_title": "From the Life of the Marionettes",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ka/54/rr/jx/from%20the%20life-1920-1920-1080-1080-crop-000000.jpg?v=3ee4b3a479",
+      "imdb_id": "tt0080397",
+      "tmdb_id": "42152"
+    },
+    "omdb": {
+      "Title": "From the Life of the Marionettes",
+      "Year": "1981",
+      "Rated": "R",
+      "Released": "30 Jun 1981",
+      "Runtime": "104 min",
+      "Genre": "Drama",
+      "Director": "Ingmar Bergman",
+      "Writer": "Ingmar Bergman",
+      "Actors": "Robert Atzorn, Christine Buchegger, Martin Benrath",
+      "Plot": "An account of the events before and after a murder committed by a disturbed businessman in a strained marriage, and what led him to perform such a shocking act.",
+      "Language": "German",
+      "Country": "West Germany, Austria, United Kingdom",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZmMjg4YjEtYTFjYi00NTMyLTgyMzgtYzE2MTE5ZTg5YmZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "64%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "5,300",
+      "imdbID": "tt0080397",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      33.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/ka/54/rr/jx/from%20the%20life-1920-1920-1080-1080-crop-000000.jpg?v=3ee4b3a479"
+    ],
+    "tmdb_id": "42152"
   }
 }
