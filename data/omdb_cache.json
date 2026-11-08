@@ -98003,7 +98003,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "272685"
+    "tmdb_id": "272685",
+    "wiki_tries": 1
   },
   "On Dangerous Ground|1952": {
     "lbxd": {
@@ -98203,6 +98204,80 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/ka/54/rr/jx/from%20the%20life-1920-1920-1080-1080-crop-000000.jpg?v=3ee4b3a479"
     ],
-    "tmdb_id": "42152"
+    "tmdb_id": "42152",
+    "wiki_tries": 1
+  },
+  "On Dangerous Ground|1951": {
+    "lbxd": {
+      "rating": 3.74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/4/1/7/31417-on-dangerous-ground-0-500-0-750-crop.jpg?v=fa20a2d329",
+      "description": "A big-city cop is reassigned to the country after his superiors find him too angry to be an effective policeman. While on his temporary assignment he assists in a manhunt of a suspected murderer.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Nicholas Ray",
+      "lb_director_slug": "nicholas-ray",
+      "lb_year": 1951,
+      "lb_title": "On Dangerous Ground",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/id/ns/rt/5e/dangerous-1920-1920-1080-1080-crop-000000.jpg?v=e541bc6ad7",
+      "imdb_id": "tt0043879",
+      "tmdb_id": "31152"
+    },
+    "omdb": {
+      "Title": "On Dangerous Ground",
+      "Year": "1951",
+      "Rated": "Approved",
+      "Released": "12 Feb 1952",
+      "Runtime": "82 min",
+      "Genre": "Drama, Film-Noir",
+      "Director": "Nicholas Ray, Ida Lupino",
+      "Writer": "A.I. Bezzerides, Nicholas Ray, Gerald Butler",
+      "Actors": "Ida Lupino, Robert Ryan, Ward Bond",
+      "Plot": "Rough, violent city cop Jim Wilson is disciplined by his captain who sends him upstate to a snowy mountain town to help the local sheriff solve a murder case.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI5MWVkOWEtYTU3ZS00YzNmLTg1ZDctOGY0MWZhYzU5ZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.2",
+      "imdbVotes": "8,337",
+      "imdbID": "tt0043879",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "On Dangerous Ground",
+      "imdb_id": "tt0043879",
+      "extract_pt": "On Dangerous Ground (br.: Cinzas que queimam / pt.: Cega paixão) é um filme policial noir estadunidense de 1951, dirigido por Nicholas Ray para a RKO Pictures. O roteiro de A. I. Bezzerides se baseia no romance Mad with Much Heart de Gerald Butler."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/id/ns/rt/5e/dangerous-1920-1920-1080-1080-crop-000000.jpg?v=e541bc6ad7"
+    ],
+    "tmdb_id": "31152"
   }
 }
