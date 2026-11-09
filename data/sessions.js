@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-11-08T15:04:18.883367+00:00",
+  "generated": "2026-11-09T18:39:23.981985+00:00",
   "movies": [
     {
       "id": "sao_jorge_12211",
@@ -153,7 +153,7 @@ window.CINEMA_DATA = {
       "director": "Louisiana Mees",
       "duration": 67,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/3/6/7/6/1083676-waithood-0-500-0-750-crop.jpg?v=8131d390fd",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/Waithood_Still1.webp",
       "genres": [
         "Short",
         "Comedy",
@@ -169,8 +169,7 @@ window.CINEMA_DATA = {
       ],
       "plot": "A group of young non-actors, from Athens (Greece) yearn to forget their idle futures while playing in luxurious Airbnb's. Nevertheless their fate catching up with them.",
       "country": "Belgium",
-      "year": 2019,
-      "director_lbxd_slug": "louisiana-mees-fongang"
+      "year": 2019
     },
     {
       "id": "sao_jorge_12194",
@@ -434,8 +433,7 @@ window.CINEMA_DATA = {
       "plot": "A group of soldiers are sentenced for the murders of key political figures in the night of October 19th, 1921, in the streets of Lisbon. But the names of the conspirators remain unknown. Berta Maia, a widow of the 1910 revolution hero Carlos da Maia, will fight for the truth…",
       "title_en": "Bloody Night",
       "country": "Portugal",
-      "director_lbxd_slug": "tiago-guedes",
-      "plot_pt": "Frederico Serra (n. Lisboa, 27 de Outubro de 1964), cineasta português.\nCursou Técnicas de Expressão e Comunicação Audiovisual, na Escola Secundária António Arroio. Frequentou \"workshops\" de Direcção de Actores, no Raindance of London com Patrick Tucker, e de Realização em Cinema, no Four Corners Film Workshop em Londres com Peter Ellis."
+      "director_lbxd_slug": "tiago-guedes"
     },
     {
       "id": "sao_jorge_12349",
@@ -517,8 +515,7 @@ window.CINEMA_DATA = {
         15.7
       ],
       "country": "USA",
-      "director_lbxd_slug": "orson-welles-1",
-      "plot_pt": "Citizen Kane (prt: O Mundo a Seus Pés, ou Citizen Kane - O Mundo a Seus Pés; bra: Cidadão Kane) é um filme norte-americano de 1941, dirigido, escrito, produzido e estrelado por Orson Welles. O filme é considerado uma das obras-primas da história do cinema, sendo apontado por muitos críticos como o maior filme já produzido, e particularmente elogiado por sua inovação na música, fotografia e estrutura narrativa. Foi lançado pela RKO Pictures.\nCitizen Kane, que foi o primeiro filme de Welles, ganhou um Oscar de melhor roteiro original para Herman J. Mankiewicz e o próprio Welles."
+      "director_lbxd_slug": "orson-welles-1"
     },
     {
       "id": "sao_jorge_12340",
@@ -742,7 +739,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12321",
       "title": "Isabel",
-      "director": "Paul Almond",
+      "director": null,
       "duration": 85,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/5/6/7/88567-isabel-0-500-0-750-crop.jpg?v=2e94fb845d",
@@ -769,10 +766,10 @@ window.CINEMA_DATA = {
       "director": "Allan Sieber",
       "duration": 117,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/4/723504-os-idiotas-mesmo-0-500-0-750-crop.jpg?v=1a6888d477",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/zNGmnUnVJO9w56i1cHnCPac9J2k.webp",
       "genres": [
         "Animation",
-        "Comedy"
+        "Short"
       ],
       "link": "https://cinemasaojorge.pt/evento/os-idiotas/",
       "sessions": [
@@ -782,11 +779,10 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "A cigarette factory decides to launch a new brand of cigarettes on the market, the Relax 3000. A team of publicists takes action. Thousands of dollars involved, thousands of meetings, thousands of scoldings and a smell of shit in the air.",
-      "title_en": "Os Idiotas Mesmo",
+      "plot": "A cigarette factory decides to launch a new cigarette brand on the market, Relax 3000. A team of advertisers takes action.",
+      "title_en": "Os idiotas Mesmo",
       "country": "Brazil",
-      "year": 2000,
-      "director_lbxd_slug": "allan-sieber"
+      "year": 2000
     },
     {
       "id": "sao_jorge_12317",
@@ -831,22 +827,17 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "rating": 3.5,
+      "rating": 3.52,
       "year": 2025,
       "plot": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/mKP4wapXPgIDVXrFZNzRQhPaExS.jpg",
-        "https://image.tmdb.org/t/p/w1280/oW0Hh4INOUFWIYxZXGm6HVZ9vdj.jpg",
-        "https://image.tmdb.org/t/p/w1280/fCmgziZVtyFT209eeswvEVGwOFh.jpg"
+        "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/3/2/3/tmdb/wmzLN6fs6QHQnIl5nVFuO9OO4xB-1920-1920-1080-1080-crop-000000.jpg?v=ee36e02b42"
       ],
       "stills_focus": [
-        45.8,
-        41.5,
-        43.7
+        42.3
       ],
       "country": "France",
-      "director_lbxd_slug": "sophie-letourneur",
-      "plot_pt": "É o nosso filme de Verão, esta viagem à Sardenha de uma família francesa, que apaixonou a crítica e os espectadores. O cinema de Sophie Letourneur, entre a ficção e a realidade, e com um apurado sentido de mise-en-scène, revela-se em todo o seu esplendor neste filme divertido, terno, e por vezes melancólico, que capta a essência das férias estivais."
+      "director_lbxd_slug": "sophie-letourneur"
     },
     {
       "id": "sao_jorge_12314",
@@ -972,10 +963,10 @@ window.CINEMA_DATA = {
       "director": "Germán Monzó",
       "duration": 104,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/7/1/5/258715-magic-london-0-500-0-750-crop.jpg?v=e73806e64a",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/aKqXifpSXjwLUIFbOwVOqoXWtmj.webp",
       "genres": [
-        "Horror",
-        "Crime"
+        "Thriller",
+        "Horror"
       ],
       "link": "https://cinemasaojorge.pt/evento/anticristo/",
       "sessions": [
@@ -985,11 +976,10 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ],
-      "plot": "Gothic horror film set in London and sold as a sequel to the film \"The Antichrist\" from 1974",
-      "title_en": "Magic London",
+      "plot": "Something satanic is taking over people, leading them to practice satanism, sex and destruction.",
+      "title_en": "El anticristo 2 (Magic London)",
       "country": "Spain",
-      "year": 1989,
-      "director_lbxd_slug": "german-monzo"
+      "year": 1989
     },
     {
       "id": "sao_jorge_12302",
@@ -1013,8 +1003,7 @@ window.CINEMA_DATA = {
       "year": 2012,
       "plot": "A portrait of the genius that shook the world with her discovery of “the banality of evil.” After she attends the Nazi Adolf Eichmann’s trial in Jerusalem, Arendt dares to write about the Holocaust in terms no one has ever heard before. Her work instantly provokes a furious scandal, and Arendt stands strong as she is attacked by friends and foes alike. But as the German-Jewish émigré also struggles to suppress her own painful associations with the past, the film exposes her beguiling blend of arrogance and vulnerability — revealing a soul defined and derailed by exile.",
       "country": "Germany",
-      "director_lbxd_slug": "margarethe-von-trotta",
-      "plot_pt": "Hannah Arendt (prt: Hannah Arendt; bra: Hannah Arendt, ou Hannah Arendt - Ideias Que Chocaram o Mundo) é um filme teuto-franco-luxemburguês de 2012, do gênero drama histórico-biográfico, dirigido por Margarethe von Trotta, com roteiro de Pam Katz e da própria diretora baseado na vida da filósofa política judaico-alemã Hannah Arendt, interpretada por Barbara Sukowa.\nDistribuído pela Zeitgeist Films, estreou nos Estados Unidos em 29 de maio de 2013."
+      "director_lbxd_slug": "margarethe-von-trotta"
     },
     {
       "id": "sao_jorge_12300",
@@ -1037,7 +1026,13 @@ window.CINEMA_DATA = {
       "rating": 2.97,
       "year": 2019,
       "plot": "It takes him suddenly at 40 years: Frédéric wants a baby, Claire never wanted one and they agreed on that. He commits the unforgivable and makes a child behind her back. Claire turns into a whale and Frédéric becomes a doting father.",
-      "title_en": "Una mujer enorme",
+      "title_en": "Enormous",
+      "stills": [
+        "https://a.ltrbxd.com/resized/alternative-backdrop/5/6/6/4/0/6/tmdb/knhTUr56ONw6UdCnozrLYq1eLm4-1920-1920-1080-1080-crop-000000.jpg?v=ca8f0e8f13"
+      ],
+      "stills_focus": [
+        46.4
+      ],
       "country": "France",
       "director_lbxd_slug": "sophie-letourneur"
     },
@@ -1097,32 +1092,28 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "francois-truffaut"
     },
     {
-      "id": "cinemateca_20552",
-      "title": "7Th Heaven",
+      "id": "cinemateca_20555",
+      "title": "A Farewell To Arms",
       "director": "Frank Borzage",
-      "year": 1927,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/9/0/2/68902-7th-heaven-0-500-0-750-crop.jpg?v=88cbd6e03c",
+      "year": 1932,
+      "duration": 78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/6/7/37767-a-farewell-to-arms-0-500-0-750-crop.jpg?v=dd64625bad",
       "genres": [
         "Drama",
-        "Romance"
+        "Romance",
+        "War"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20552",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20555",
       "sessions": [
         {
           "date": "2026-11-09",
           "time": "19:30",
           "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:00",
-          "cinema": "cinemateca"
         }
       ],
-      "rating": 3.74,
-      "plot": "In 1910s Paris, a sewer worker disillusioned with Christianity feels his prayers have been answered when he chances upon a street waif and they fall in love.",
-      "plot_pt": "7th Heaven (bra: Sétimo Céu; prt: A Hora Suprema) é um filme estadunidense de 1927, do gênero drama, dirigido por Frank Borzage e com roteiro baseado em peça teatral de Austin Strong.",
+      "rating": 3.34,
+      "plot": "A tale of the World War I love affair, begun in Italy, between American ambulance driver Lt. Frederic Henry and British nurse Catherine Barkley. Eventually separated by Frederic's transfer, tremendous challenges and difficult decisions face each as the war rages on.",
+      "plot_pt": "A Farewell to Arms (bra: Adeus às Armas; prt: O Adeus às Armas) é um filme estadunidense de 1932, do gênero drama de guerra, dirigido por Frank Borzage, com aclamadas atuações dos astros Gary Cooper e Helen Hayes. \nTrata-se da primeira adaptação de um romance de Ernest Hemingway para o cinema. Indicado a quatro prêmios Oscar, ganhou nas categorias Gravação de Som e Fotografia. Por imposição da Paramount Pictures, o filme tem final feliz, diferentemente do que acontece no livro, mas isso foi corrigido na reprise, em 1948.",
       "country": "USA",
       "director_lbxd_slug": "frank-borzage"
     },
@@ -1655,6 +1646,31 @@ window.CINEMA_DATA = {
         }
       ],
       "plot_pt": "Mais ecos do TAXI DRIVER, ou não se tratasse também do reencontro entre Scorsese e um argumento escrito por Paul Schrader. Um “ambulance driver” agora, porque condutor de ambulâncias através da noite nova-iorquina é a atividade do protagonista, um Nicolas Cage excelente (algo que ele é frequentemente, ao contrário do que dizem as más línguas). O filme também é excelente, muitíssimo “atmosférico”, cheio de angústias e sombreados morais sem qualquer linearidade ou clareza telegrafadas, e tem ainda a característica de ter sido possivelmente a última vez em que Scorsese apostou num “tom menor”, numa altura em que os sinais exteriores de “grandiosidade” se tornavam a norma do seu cinema: será, mesmo, o último “pequeno filme” (também como operação de produção) na obra do seu realizador."
+    },
+    {
+      "id": "cinemateca_20512",
+      "title": "7Th Heaven",
+      "director": "Frank Borzage",
+      "year": 1927,
+      "duration": 118,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/8/9/0/2/68902-7th-heaven-0-500-0-750-crop.jpg?v=88cbd6e03c",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20512",
+      "sessions": [
+        {
+          "date": "2026-11-16",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.74,
+      "plot": "In 1910s Paris, a sewer worker disillusioned with Christianity feels his prayers have been answered when he chances upon a street waif and they fall in love.",
+      "plot_pt": "7th Heaven (bra: Sétimo Céu; prt: A Hora Suprema) é um filme estadunidense de 1927, do gênero drama, dirigido por Frank Borzage e com roteiro baseado em peça teatral de Austin Strong.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
     },
     {
       "id": "cinemateca_20550",
@@ -2422,6 +2438,24 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ingmar-bergman"
     },
     {
+      "id": "nimas_working-with-lars-von-trier-2026",
+      "title": "Working with Lars von Trier",
+      "director": "Masterclass com Willem Dafoe",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://medeiafilmes.com/uploads/library/wd-brad-trent-1198x1536.jpeg",
+      "genres": [],
+      "link": "https://medeiafilmes.com/filmes/working-with-lars-von-trier-2026",
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "plot_pt": "Willem Dafoe (n. 1955) é um dos actores mais completos do cinema mundial. Capaz de vestir personagens tão excêntricas e sombrias quanto figuras ternas e empáticas, a sua marca fica a meio caminho entre a provocação e o fascínio, ou não fosse ele o intérprete americano “previsivelmente mais imprevisível”. A sua extensa e variadíssima filmografia é a prova dessa versatilidade e génio – desde Platoon - Os Bravos do Pelotão (1986), A Última Tentação de Cristo (1988), Nascido a 4 de Julho (1989), O Paciente Inglês (1996), até Um Peixe Fora de Água (2004), Manderlay (2005), Anticristo (2009), Ninfomaníaca (2013), The Florida Project (2017) ou À Porta da Eternidade (2019), Dafoe assume uma verdadeira índole camaleónica, que por certo o torna um actor intergeracional. Reputação que abrange ainda o teatro: Willem Dafoe é um dos nomes fundamentais da companhia nova-iorquina The Wooster Group e o actual director artístico do departamento de teatro da Biennale. Depois de várias passagens pelo LEFFEST, incluindo uma homenagem em 2019, estará presente na 20ª edição do Festival, na sessão de Ninfomaníaca, para uma conversa com Stacy Martin, em tributo a Lars von Trier. Dará também uma masterclass no dia 9 de Novembro (11h), no Cinema Medeia Nimas, precisamente sobre o privilégio de trabalhar com o cineasta dinamarquês: “Working with Lars von Trier”."
+    },
+    {
       "id": "nimas_a-bola-negra-2026",
       "title": "A Bola Negra",
       "director": "Javier Calvo, Javier Ambrossi",
@@ -2434,36 +2468,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/a-bola-negra-2026",
       "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-09",
           "time": "18:30",
@@ -2526,13 +2530,28 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-11-13",
+          "time": "15:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-13",
           "time": "21:15",
           "cinema": "trindade"
         },
         {
           "date": "2026-11-14",
+          "time": "15:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-14",
           "time": "21:15",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:00",
+          "cinema": "fernando"
         },
         {
           "date": "2026-11-15",
@@ -2545,14 +2564,44 @@ window.CINEMA_DATA = {
           "cinema": "trindade"
         },
         {
+          "date": "2026-11-15",
+          "time": "18:20",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "15:30",
+          "cinema": "ideal"
+        },
+        {
           "date": "2026-11-16",
           "time": "19:00",
           "cinema": "nimas"
         },
         {
           "date": "2026-11-17",
+          "time": "18:20",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-17",
           "time": "21:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "15:30",
+          "cinema": "ideal"
         },
         {
           "date": "2026-11-18",
@@ -2578,134 +2627,98 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "javier-ambrossi"
     },
     {
-      "id": "nimas_wendy-e-lucy-2008",
-      "title": "Wendy & Lucy",
-      "director": "Kelly Reichardt",
-      "year": 2008,
-      "duration": 85,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/vb/lx/0p/s2/9KMZolGxwe1wmVdPmnd2MKHITu0-0-500-0-750-crop.jpg?v=0978f7b680",
+      "id": "nimas_amaretti-2026",
+      "title": "Amaretti",
+      "director": "Stacy Martin",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/4/7/4/2/1594742-amaretti-0-500-0-750-crop.jpg?v=da5471b8f5",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/wendy-e-lucy-2008",
+      "link": "https://medeiafilmes.com/filmes/amaretti-2026",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "21:30",
+          "date": "2026-11-09",
+          "time": "19:00",
           "cinema": "nimas",
           "labels": [
-            "Com a presença de Kelly Reichardt"
+            "Conversa com Stacy Martin e Taz F. Stark"
           ]
         }
       ],
-      "rating": 3.91,
-      "plot": "A near-penniless drifter's journey to Alaska in search of work is interrupted when she loses her dog while attempting to shoplift food for it.",
-      "plot_pt": "O Último Azul é um filme de drama e ficção científica de 2025, dirigido por Gabriel Mascaro com roteiro escrito por ele e Tibério Azul. O filme é uma coprodução internacional do Brasil, Chile, México e Países Baixos, tendo sido produzido pelas companhias produtoras Desvia Filmes, Cinevinay, Viking Film, Quijote Cine e Globo Filmes. Distribuído pela Vitrine Filmes, consta em seu elenco nomes como Denise Weinberg, Rodrigo Santoro, Miriam Socarrás, Adanilo, e Clarissa Pinheiro.\nA trama é ambientada no Brasil em um futuro distópico, onde o governo decreta que todos os idosos sejam transferidos para colônias habitacionais remotas, sob o pretexto de garantir uma velhice \"digna\".",
-      "title_en": "Wendy and Lucy",
+      "plot": "When septuagenarian Lennie's reality is devastated by the discovery of a prolonged, pernicious crime committed against her by her own son, an unexpected connection helps her to begin a journey towards re-forging her fractured identity.",
       "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/rg/pi/rz/8p/wendy-and-lucy-1920-1920-1080-1080-crop-000000.jpg?v=bcd182bc3e"
+        "https://medeiafilmes.com/uploads/library/timeline_1_01_04_05_22.jpg"
       ],
       "stills_focus": [
-        30.8
+        32.5
       ],
-      "country": "USA",
-      "director_lbxd_slug": "kelly-reichardt"
+      "director_lbxd_slug": "stacy-martin"
     },
     {
-      "id": "nimas_seven-7-pecados-mortais-1995",
-      "title": "Seven – 7 Pecados Mortais",
-      "director": "David Fincher",
-      "year": 1995,
-      "duration": 127,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/5/51345-se7en-0-500-0-750-crop.jpg?v=76a14ef6b4",
+      "id": "nimas_child-of-the-rouge-2026",
+      "title": "Child of the Rouge",
+      "director": "Taz F. Stark",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/6/3/2/1/8/1563218-child-of-the-rouge-0-500-0-750-crop.jpg?v=671fa424d4",
       "genres": [
-        "Mystery",
-        "Crime",
-        "Thriller"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/seven-7-pecados-mortais-1995",
+      "link": "https://medeiafilmes.com/filmes/child-of-the-rouge-2026",
       "sessions": [
         {
-          "date": "2026-11-08",
+          "date": "2026-11-09",
+          "time": "19:00",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com Stacy Martin e Taz F. Stark"
+          ]
+        }
+      ],
+      "plot": "The recounting of a tale about a young girl who had a traumatic coming into this world on April 17th 1975 when the Khmer Rouge entered Phnom Penh.",
+      "plot_pt": "A 17 de Abril de 1975, enquanto o Khmer Vermelho toma Phnom Penh, uma menina nasce num país à beira de uma profunda ruptura histórica. Entre o início da vida e a violência que viria a marcar o destino do Camboja, evoca-se aqui um nascimento indissociável de um dos períodos mais sombrios da história do país.",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/large_childoftherouge-clean-16x9-01.jpg"
+      ],
+      "stills_focus": [
+        39.6
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "taz-f-stark"
+    },
+    {
+      "id": "nimas_carta-de-amor-1953",
+      "title": "Carta de Amor",
+      "director": "Kinuyo Tanaka",
+      "year": 1953,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/2/8/2/193282-love-letter-0-500-0-750-crop.jpg?v=0d919e5ecf",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://medeiafilmes.com/filmes/carta-de-amor-1953",
+      "sessions": [
+        {
+          "date": "2026-11-09",
           "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.39,
-      "plot": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
-      "plot_pt": "Numa cidade chuvosa e decadente, dois detectives perseguem um assassino em série que escolhe as suas vítimas inspirado nos sete pecados mortais. À medida que Somerset e Mills lhe seguem o rasto meticulosamente traçado, a própria paisagem urbana parece integrar o seu desígnio: uma violência ritualizada, corpos como signos e o homicídio como forma macabra de espectáculo.",
-      "title_en": "Se7en",
+      "rating": 3.64,
+      "plot": "Five years after the end of the Second World War, Reikichi, a repatriated veteran, translates love letters for Japanese women to American GIs, while searching for his lost love, Michiko.",
+      "plot_pt": "Lançado um ano após o fim da ocupação americana do Japão, a estreia de Tanaka na realização explora os conflitos profissionais e pessoais de Reikichi, um veterano repatriado que procura o seu amor perdido enquanto traduz cartas românticas de prostitutas japonesas para soldados americanos.",
+      "title_en": "Love Letter",
       "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/om/48/ya/8v/se7en_uLHHCJ-1920-1920-1080-1080-crop-000000.jpg?v=04e9ff67b6",
-        "https://medeiafilmes.com/uploads/library/saeiojhvzhu5z6wgqfgiqyzuzc6.jpg"
+        "https://a.ltrbxd.com/resized/sm/upload/k0/q6/ym/qz/love%20letter-1920-1920-1080-1080-crop-000000.jpg?v=fd4861b35a"
       ],
       "stills_focus": [
-        34.9,
-        38.7
+        28.2
       ],
-      "country": "USA",
-      "director_lbxd_slug": "david-fincher"
-    },
-    {
-      "id": "nimas_bajani-2026",
-      "title": "Bajañí",
-      "director": "Fernando Trueba",
-      "year": 2026,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/2/6/8/7/1602687-bajani-0-500-0-750-crop.jpg?v=5b490078a6",
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/bajani-2026",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "15:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Fernando Trueba"
-          ]
-        }
-      ],
-      "plot_pt": "Bajañí é a palavra para violão na língua caló. Focando-se nesse instrumento, e, em particular, no violão e na arte de Niño Josele, Fernando Trueba convida-nos a entrar numa nova jornada musical: do flamenco à música brasileira, passando pelo jazz, Josele e o seu instrumento estabelecem diálogos musicais com Caetano Veloso, Ron Carter, Rubén Blades, Kenny Barron e Marisa Monte.",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/baja_f01cor_2026118617.jpg"
-      ],
-      "stills_focus": [
-        28.8
-      ],
-      "country": "Spain",
-      "director_lbxd_slug": "fernando-trueba"
-    },
-    {
-      "id": "nimas_mariage-au-gout-d-orange-2026",
-      "title": "Mariage au goût d’orange",
-      "director": "Christophe Honoré",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/7/1/0/9/1437109-orange-flavoured-wedding-0-500-0-750-crop.jpg?v=02de4e1a9c",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/mariage-au-gout-d-orange-2026",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "18:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa em francês com Christophe Honoré"
-          ]
-        }
-      ],
-      "rating": 3.39,
-      "plot": "The Puig family has seven children. And today is the wedding of the youngest: Jacques. It's March 1978 in a church in a suburb of Nantes. The father isn't attending the wedding; he's been banished from the family. Jacques is marrying Martine, a young woman who lives in the same neighborhood. It's a love match. But can love heal the wounds of childhood?",
-      "plot_pt": "Março de 1978, arredores de Nantes. No dia do casamento de Jacques, o filho mais novo da família Puig, o pai não está presente, mas irmãos e irmãs — sete no total — demonstram a sua alegria no reencontro. Essa troca de alianças com Martine é resultado do amor. Um amor que deverá resistir a segredos e feridas de infância, revelados com o avançar da festa… Mariage au goût d’orange é uma adaptação da peça Le Ciel de Nantes, do próprio Christophe Honoré.",
-      "title_en": "Orange-Flavoured Wedding",
-      "country": "France",
-      "director_lbxd_slug": "christophe-honore-1"
+      "country": "Japan",
+      "director_lbxd_slug": "kinuyo-tanaka"
     },
     {
       "id": "nimas_memorias-do-carcere-2026",
@@ -2719,16 +2732,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/memorias-do-carcere-2026",
       "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "15:30",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:45",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-11-09",
           "time": "21:00",
@@ -2782,123 +2785,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sergio-graciano"
     },
     {
-      "id": "nimas_child-of-the-rouge-2026",
-      "title": "Child of the Rouge",
-      "director": "Taz F. Stark",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/6/3/2/1/8/1563218-child-of-the-rouge-0-500-0-750-crop.jpg?v=671fa424d4",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/child-of-the-rouge-2026",
-      "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "19:00",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Stacy Martin e Taz F. Stark"
-          ]
-        }
-      ],
-      "plot": "The recounting of a tale about a young girl who had a traumatic coming into this world on April 17th 1975 when the Khmer Rouge entered Phnom Penh.",
-      "plot_pt": "A 17 de Abril de 1975, enquanto o Khmer Vermelho toma Phnom Penh, uma menina nasce num país à beira de uma profunda ruptura histórica. Entre o início da vida e a violência que viria a marcar o destino do Camboja, evoca-se aqui um nascimento indissociável de um dos períodos mais sombrios da história do país.",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/large_childoftherouge-clean-16x9-01.jpg"
-      ],
-      "stills_focus": [
-        39.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "taz-f-stark"
-    },
-    {
-      "id": "nimas_working-with-lars-von-trier-2026",
-      "title": "Working with Lars von Trier",
-      "director": "Masterclass com Willem Dafoe",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://medeiafilmes.com/uploads/library/wd-brad-trent-1198x1536.jpeg",
-      "genres": [],
-      "link": "https://medeiafilmes.com/filmes/working-with-lars-von-trier-2026",
-      "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "plot_pt": "Willem Dafoe (n. 1955) é um dos actores mais completos do cinema mundial. Capaz de vestir personagens tão excêntricas e sombrias quanto figuras ternas e empáticas, a sua marca fica a meio caminho entre a provocação e o fascínio, ou não fosse ele o intérprete americano “previsivelmente mais imprevisível”. A sua extensa e variadíssima filmografia é a prova dessa versatilidade e génio – desde Platoon - Os Bravos do Pelotão (1986), A Última Tentação de Cristo (1988), Nascido a 4 de Julho (1989), O Paciente Inglês (1996), até Um Peixe Fora de Água (2004), Manderlay (2005), Anticristo (2009), Ninfomaníaca (2013), The Florida Project (2017) ou À Porta da Eternidade (2019), Dafoe assume uma verdadeira índole camaleónica, que por certo o torna um actor intergeracional. Reputação que abrange ainda o teatro: Willem Dafoe é um dos nomes fundamentais da companhia nova-iorquina The Wooster Group e o actual director artístico do departamento de teatro da Biennale. Depois de várias passagens pelo LEFFEST, incluindo uma homenagem em 2019, estará presente na 20ª edição do Festival, na sessão de Ninfomaníaca, para uma conversa com Stacy Martin, em tributo a Lars von Trier. Dará também uma masterclass no dia 9 de Novembro (11h), no Cinema Medeia Nimas, precisamente sobre o privilégio de trabalhar com o cineasta dinamarquês: “Working with Lars von Trier”."
-    },
-    {
-      "id": "nimas_carta-de-amor-1953",
-      "title": "Carta de Amor",
-      "director": "Kinuyo Tanaka",
-      "year": 1953,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/3/2/8/2/193282-love-letter-0-500-0-750-crop.jpg?v=0d919e5ecf",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://medeiafilmes.com/filmes/carta-de-amor-1953",
-      "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.64,
-      "plot": "Five years after the end of the Second World War, Reikichi, a repatriated veteran, translates love letters for Japanese women to American GIs, while searching for his lost love, Michiko.",
-      "plot_pt": "Lançado um ano após o fim da ocupação americana do Japão, a estreia de Tanaka na realização explora os conflitos profissionais e pessoais de Reikichi, um veterano repatriado que procura o seu amor perdido enquanto traduz cartas românticas de prostitutas japonesas para soldados americanos.",
-      "title_en": "Love Letter",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/k0/q6/ym/qz/love%20letter-1920-1920-1080-1080-crop-000000.jpg?v=fd4861b35a"
-      ],
-      "stills_focus": [
-        28.2
-      ],
-      "country": "Japan",
-      "director_lbxd_slug": "kinuyo-tanaka"
-    },
-    {
-      "id": "nimas_o-atalho-2010",
-      "title": "O Atalho",
-      "director": "Kelly Reichardt",
-      "year": 2010,
-      "duration": 104,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/52/ii/34/2v/qfavwKNycjCSMgatZMJTKGObqHU-0-500-0-750-crop.jpg?v=c1324c669d",
-      "genres": [
-        "Western",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-atalho-2010",
-      "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "15:30",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Kelly Reichardt"
-          ]
-        }
-      ],
-      "rating": 3.73,
-      "plot": "A group of settlers traveling through the Oregon High Desert in 1845 find themselves stranded in harsh conditions.",
-      "plot_pt": "Em 1845, três famílias pioneiras atravessam a Cordilheira das Cascatas, guiadas pelo experiente explorador Stephen Meek, que garante conhecer um atalho. Mas o caminho depressa se transforma numa travessia pelo deserto árido das planícies do Oregon. Perdidos, o sonho de uma vida melhor no Oeste reduz-se à luta pela sobrevivência. Entre paisagens inóspitas e rostos castigados, neste western pouco convencional a austeridade e crueldade são sinónimos de beleza.",
-      "title_en": "Meek's Cutoff",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/ye/d7/zc/r1/meeks-cutoff-1920-1920-1080-1080-crop-000000.jpg?v=75b8ac08eb"
-      ],
-      "stills_focus": [
-        29.8
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "kelly-reichardt"
-    },
-    {
       "id": "nimas_salo-ou-os-120-dias-de-sodoma-1975",
       "title": "Salò ou Os 120 Dias de Sodoma",
       "director": "Pier Paolo Pasolini",
@@ -2938,34 +2824,68 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "pier-paolo-pasolini"
     },
     {
-      "id": "nimas_amaretti-2026",
-      "title": "Amaretti",
-      "director": "Stacy Martin",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/4/7/4/2/1594742-amaretti-0-500-0-750-crop.jpg?v=da5471b8f5",
+      "id": "nimas_o-atalho-2010",
+      "title": "O Atalho",
+      "director": "Kelly Reichardt",
+      "year": 2010,
+      "duration": 104,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/52/ii/34/2v/qfavwKNycjCSMgatZMJTKGObqHU-0-500-0-750-crop.jpg?v=c1324c669d",
       "genres": [
+        "Western",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/amaretti-2026",
+      "link": "https://medeiafilmes.com/filmes/o-atalho-2010",
       "sessions": [
         {
           "date": "2026-11-09",
-          "time": "19:00",
+          "time": "15:30",
           "cinema": "nimas",
           "labels": [
-            "Conversa com Stacy Martin e Taz F. Stark"
+            "Com a presença de Kelly Reichardt"
           ]
         }
       ],
-      "plot": "When septuagenarian Lennie's reality is devastated by the discovery of a prolonged, pernicious crime committed against her by her own son, an unexpected connection helps her to begin a journey towards re-forging her fractured identity.",
+      "rating": 3.73,
+      "plot": "A group of settlers traveling through the Oregon High Desert in 1845 find themselves stranded in harsh conditions.",
+      "plot_pt": "Em 1845, três famílias pioneiras atravessam a Cordilheira das Cascatas, guiadas pelo experiente explorador Stephen Meek, que garante conhecer um atalho. Mas o caminho depressa se transforma numa travessia pelo deserto árido das planícies do Oregon. Perdidos, o sonho de uma vida melhor no Oeste reduz-se à luta pela sobrevivência. Entre paisagens inóspitas e rostos castigados, neste western pouco convencional a austeridade e crueldade são sinónimos de beleza.",
+      "title_en": "Meek's Cutoff",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/timeline_1_01_04_05_22.jpg"
+        "https://a.ltrbxd.com/resized/sm/upload/ye/d7/zc/r1/meeks-cutoff-1920-1920-1080-1080-crop-000000.jpg?v=75b8ac08eb"
       ],
       "stills_focus": [
-        32.5
+        29.8
       ],
-      "director_lbxd_slug": "stacy-martin"
+      "country": "USA",
+      "director_lbxd_slug": "kelly-reichardt"
+    },
+    {
+      "id": "nimas_policia-sem-lei-1992-1992",
+      "title": "Polícia Sem Lei (1992)",
+      "director": "Abel Ferrara",
+      "year": 1992,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h6/co/bt/7z/oe8VjWCKXktqA19T1ZWtaSn8rc2-0-500-0-750-crop.jpg?v=6e84444fa6",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/policia-sem-lei-1992-1992",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "time": "16:30",
+          "cinema": "nimas",
+          "labels": [
+            "Com a presença de Abel Ferrara"
+          ]
+        }
+      ],
+      "rating": 3.77,
+      "plot": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
+      "plot_pt": "Em Nova Iorque, um polícia corrupto usa a autoridade para assediar adolescentes e negociar droga com traficantes. Mas quando uma jovem freira é violada no altar de uma igreja, a investigação leva-o a confrontar-se com os próprios actos, procurando uma tentativa de redenção, nos caminhos da misericórdia.",
+      "title_en": "Bad Lieutenant",
+      "country": "USA",
+      "director_lbxd_slug": "abel-ferrara"
     },
     {
       "id": "nimas_bad-lieutenant-tokyo-2026",
@@ -3067,33 +2987,56 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "werner-herzog"
     },
     {
-      "id": "nimas_policia-sem-lei-1992-1992",
-      "title": "Polícia Sem Lei (1992)",
-      "director": "Abel Ferrara",
-      "year": 1992,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/h6/co/bt/7z/oe8VjWCKXktqA19T1ZWtaSn8rc2-0-500-0-750-crop.jpg?v=6e84444fa6",
+      "id": "nimas_seize-moments-de-ma-vie-2026",
+      "title": "Seize moments de ma vie",
+      "director": "Albert Serra",
+      "year": 2026,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/3/4/1595134-sixteen-moments-of-my-life-0-500-0-750-crop.jpg?v=86dfddab27",
       "genres": [
-        "Drama",
-        "Crime"
+        "Documentary"
       ],
-      "link": "https://medeiafilmes.com/filmes/policia-sem-lei-1992-1992",
+      "link": "https://medeiafilmes.com/filmes/seize-moments-de-ma-vie-2026",
       "sessions": [
         {
-          "date": "2026-11-10",
-          "time": "16:30",
+          "date": "2026-11-11",
+          "time": "21:30",
           "cinema": "nimas",
           "labels": [
-            "Com a presença de Abel Ferrara"
+            "Conversa com Albert Serra"
           ]
         }
       ],
-      "rating": 3.77,
-      "plot": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
-      "plot_pt": "Em Nova Iorque, um polícia corrupto usa a autoridade para assediar adolescentes e negociar droga com traficantes. Mas quando uma jovem freira é violada no altar de uma igreja, a investigação leva-o a confrontar-se com os próprios actos, procurando uma tentativa de redenção, nos caminhos da misericórdia.",
-      "title_en": "Bad Lieutenant",
+      "rating": 3.25,
+      "plot": "Ingrid Caven sings about 16 moments from her life in a unique concert at the Théâtre des Bouffes du Nord in Paris.",
+      "plot_pt": "Celebrando uma vida inteira dedicada à arte, Ingrid Caven e a banda catalã Molforts, de Banyoles, protagonizam um concerto único na sala histórica parisiense Théâtre des Bouffes du Nord. Sem ser um filme-testamento, Seize moments de ma vie põe a tónica no arrojo vanguardista da actriz e cantora alemã, aqui captado enquanto performance irrepetível.",
+      "title_en": "Sixteen Moments of My Life",
+      "country": "Spain",
+      "director_lbxd_slug": "albert-serra"
+    },
+    {
+      "id": "nimas_butterfly-jam-2026",
+      "title": "Butterfly Jam",
+      "director": "Kantemir Balagov",
+      "year": 2026,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/6/5/6/1/826561-butterfly-jam-2026-0-500-0-750-crop.jpg?v=f75124f773",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/butterfly-jam-2026",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 2.94,
+      "plot": "16 years old Pyteh splits his time between the wrestling mat and his family’s struggling Circassian diner in Newark. A single impulsive decision by his hustling father changes the course of his life, shaping a tale of pride, legacy, and masculinity.",
+      "plot_pt": "Aos 16 anos, Pyteh divide o seu tempo entre os treinos de luta livre e o restaurante circassiano da família em Newark, Nova Jersey, negócio que enfrenta dificuldades financeiras. A sua rotina muda quando o pai, um homem sempre à procura de esquemas para fazer dinheiro, toma uma decisão impulsiva, que obrigará Pyteh a crescer demasiado depressa, entre a responsabilidade e a tradição.",
       "country": "USA",
-      "director_lbxd_slug": "abel-ferrara"
+      "director_lbxd_slug": "kantemir-balagov"
     },
     {
       "id": "nimas_everytime-2026",
@@ -3155,90 +3098,35 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "lars-von-trier"
     },
     {
-      "id": "nimas_seize-moments-de-ma-vie-2026",
-      "title": "Seize moments de ma vie",
-      "director": "Albert Serra",
-      "year": 2026,
-      "duration": 85,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/9/5/1/3/4/1595134-sixteen-moments-of-my-life-0-500-0-750-crop.jpg?v=86dfddab27",
+      "id": "nimas_showing-up-2022",
+      "title": "Showing Up",
+      "director": "Kelly Reichardt",
+      "year": 2022,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/4/5/8/708458-showing-up-0-500-0-750-crop.jpg?v=22d7ad84e0",
       "genres": [
-        "Documentary"
+        "Drama",
+        "Comedy"
       ],
-      "link": "https://medeiafilmes.com/filmes/seize-moments-de-ma-vie-2026",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "21:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Albert Serra"
-          ]
-        }
-      ],
-      "rating": 3.25,
-      "plot": "Ingrid Caven sings about 16 moments from her life in a unique concert at the Théâtre des Bouffes du Nord in Paris.",
-      "plot_pt": "Celebrando uma vida inteira dedicada à arte, Ingrid Caven e a banda catalã Molforts, de Banyoles, protagonizam um concerto único na sala histórica parisiense Théâtre des Bouffes du Nord. Sem ser um filme-testamento, Seize moments de ma vie põe a tónica no arrojo vanguardista da actriz e cantora alemã, aqui captado enquanto performance irrepetível.",
-      "title_en": "Sixteen Moments of My Life",
-      "country": "Spain",
-      "director_lbxd_slug": "albert-serra"
-    },
-    {
-      "id": "nimas_butterfly-jam-2026",
-      "title": "Butterfly Jam",
-      "director": "Kantemir Balagov",
-      "year": 2026,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/2/6/5/6/1/826561-butterfly-jam-2026-0-500-0-750-crop.jpg?v=f75124f773",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/butterfly-jam-2026",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 2.94,
-      "plot": "16 years old Pyteh splits his time between the wrestling mat and his family’s struggling Circassian diner in Newark. A single impulsive decision by his hustling father changes the course of his life, shaping a tale of pride, legacy, and masculinity.",
-      "plot_pt": "Aos 16 anos, Pyteh divide o seu tempo entre os treinos de luta livre e o restaurante circassiano da família em Newark, Nova Jersey, negócio que enfrenta dificuldades financeiras. A sua rotina muda quando o pai, um homem sempre à procura de esquemas para fazer dinheiro, toma uma decisão impulsiva, que obrigará Pyteh a crescer demasiado depressa, entre a responsabilidade e a tradição.",
-      "country": "USA",
-      "director_lbxd_slug": "kantemir-balagov"
-    },
-    {
-      "id": "nimas_scherzetto-2023",
-      "title": "Scherzetto",
-      "director": "Mario Martone",
-      "year": 2026,
-      "duration": 116,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/4/7/4/5/1474745-trick-2-0-500-0-750-crop.jpg?v=6de5d0140c",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/scherzetto-2023",
+      "link": "https://medeiafilmes.com/filmes/showing-up-2022",
       "sessions": [
         {
           "date": "2026-11-12",
-          "time": "18:15",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Mario Martone"
-          ]
+          "time": "16:00",
+          "cinema": "nimas"
         }
       ],
-      "rating": 3.2,
-      "plot": "Successful illustrator Daniele Mallarico travels to Naples to look after his four-year-old grand-son while his daughter is away for a few days. What begins as a simple babysitting job turns into a subtle psychological duel, as the child’s boundless imagination slowly unsettles him. Trapped together in the apartment, Daniele is forced to confront something far more disturbing than a mischievous child: the fear of aging and the loss of creativity. Through this strange encounter, he may rediscover the power of imagination he thought he had lost.",
-      "plot_pt": "Daniele Mallarico é um ilustrador renomado, viúvo, a viver sozinho em Milão, e avô de Mario, um garoto de cinco anos dado a travesuras, que fala como gente grande. Quando a filha de Daniele lhe pede que volte a Nápoles, à casa de família, para cuidar do neto durante alguns dias, o que sucede é um verdadeiro duelo entre criança e patriarca, confinados ao espaço de quatro paredes e uma varanda.",
-      "title_en": "Trick",
+      "rating": 3.53,
+      "plot": "In the days leading up to a possibly career-changing exhibition, a sculptor navigates her relationships with family, friends, and colleagues.",
+      "plot_pt": "Nos dias que antecedem uma exposição decisiva para a sua carreira, a escultora Lizzy (Michelle Williams) tenta conciliar o trabalho artístico com as tensões do quotidiano. À medida que a inauguração se aproxima, as tensões acumulam-se… Kelly Reichardt traça um retrato atento do processo de criação artística, entre a criatividade e a frustração, onde arte e vida quotidiana se entrelaçam a cada plano.",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/scherzetto.jpg"
+        "https://a.ltrbxd.com/resized/sm/upload/w0/df/vn/7g/showing-1920-1920-1080-1080-crop-000000.jpg?v=8d4405ad08"
       ],
       "stills_focus": [
-        36.7
+        18.3
       ],
-      "country": "Italy",
-      "director_lbxd_slug": "mario-martone"
+      "country": "USA",
+      "director_lbxd_slug": "kelly-reichardt"
     },
     {
       "id": "nimas_you-can-see-everything-2026",
@@ -3253,20 +3141,9 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/you-can-see-everything-2026",
       "sessions": [
         {
-          "date": "2026-11-08",
+          "date": "2026-11-12",
           "time": "15:00",
-          "cinema": "trindade",
-          "labels": [
-            "SESSÃO ESGOTADA"
-          ]
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:00",
-          "cinema": "trindade",
-          "labels": [
-            "SESSÃO ESGOTADA"
-          ]
+          "cinema": "ideal"
         },
         {
           "date": "2026-11-12",
@@ -3285,6 +3162,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-13",
           "time": "18:00",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "18:20",
+          "cinema": "ideal"
         },
         {
           "date": "2026-11-13",
@@ -3318,6 +3200,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-11-14",
+          "time": "18:20",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-14",
           "time": "18:45",
           "cinema": "campo_alegre"
         },
@@ -3330,6 +3217,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-15",
           "time": "15:00",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "cinema": "ideal"
         },
         {
           "date": "2026-11-15",
@@ -3353,6 +3245,11 @@ window.CINEMA_DATA = {
         },
         {
           "date": "2026-11-16",
+          "time": "18:20",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-16",
           "time": "20:45",
           "cinema": "campo_alegre"
         },
@@ -3360,6 +3257,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-17",
           "time": "13:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "15:00",
+          "cinema": "ideal"
         },
         {
           "date": "2026-11-17",
@@ -3370,6 +3272,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-18",
           "time": "13:00",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:20",
+          "cinema": "ideal"
         },
         {
           "date": "2026-11-18",
@@ -3388,6 +3295,40 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "nathan-fielder"
+    },
+    {
+      "id": "nimas_scherzetto-2023",
+      "title": "Scherzetto",
+      "director": "Mario Martone",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/7/4/7/4/5/1474745-trick-2-0-500-0-750-crop.jpg?v=6de5d0140c",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/scherzetto-2023",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "18:15",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com Mario Martone"
+          ]
+        }
+      ],
+      "rating": 3.2,
+      "plot": "Successful illustrator Daniele Mallarico travels to Naples to look after his four-year-old grand-son while his daughter is away for a few days. What begins as a simple babysitting job turns into a subtle psychological duel, as the child’s boundless imagination slowly unsettles him. Trapped together in the apartment, Daniele is forced to confront something far more disturbing than a mischievous child: the fear of aging and the loss of creativity. Through this strange encounter, he may rediscover the power of imagination he thought he had lost.",
+      "plot_pt": "Daniele Mallarico é um ilustrador renomado, viúvo, a viver sozinho em Milão, e avô de Mario, um garoto de cinco anos dado a travesuras, que fala como gente grande. Quando a filha de Daniele lhe pede que volte a Nápoles, à casa de família, para cuidar do neto durante alguns dias, o que sucede é um verdadeiro duelo entre criança e patriarca, confinados ao espaço de quatro paredes e uma varanda.",
+      "title_en": "Trick",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/scherzetto.jpg"
+      ],
+      "stills_focus": [
+        36.7
+      ],
+      "country": "Italy",
+      "director_lbxd_slug": "mario-martone"
     },
     {
       "id": "nimas_kapo-1960",
@@ -3503,32 +3444,68 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "juan-mora-catlett"
     },
     {
-      "id": "nimas_showing-up-2022",
-      "title": "Showing Up",
-      "director": "Kelly Reichardt",
-      "year": 2022,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/8/4/5/8/708458-showing-up-0-500-0-750-crop.jpg?v=22d7ad84e0",
+      "id": "nimas_la-perra-2026",
+      "title": "La perra",
+      "director": "Dominga Sotomayor",
+      "year": 2026,
+      "duration": 112,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/0/3/8/1425038-la-perra-2026-0-500-0-750-crop.jpg?v=4c122c1bb7",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/showing-up-2022",
+      "link": "https://medeiafilmes.com/filmes/la-perra-2026",
       "sessions": [
         {
-          "date": "2026-11-12",
-          "time": "16:00",
+          "date": "2026-11-13",
+          "time": "13:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.53,
-      "plot": "In the days leading up to a possibly career-changing exhibition, a sculptor navigates her relationships with family, friends, and colleagues.",
-      "plot_pt": "Nos dias que antecedem uma exposição decisiva para a sua carreira, a escultora Lizzy (Michelle Williams) tenta conciliar o trabalho artístico com as tensões do quotidiano. À medida que a inauguração se aproxima, as tensões acumulam-se… Kelly Reichardt traça um retrato atento do processo de criação artística, entre a criatividade e a frustração, onde arte e vida quotidiana se entrelaçam a cada plano.",
+      "rating": 3.22,
+      "plot": "On a remote, wind-lashed island off the Chilean coast, Silvia earns her living harvesting seaweed and shares a quiet life with her partner. When she adopts a stray puppy, Yuri, her days fill with joy, love, and a tenderness that stirs a long-suppressed longing for motherhood. But Yuri’s sudden disappearance reawakens a haunting childhood trauma, forcing Silvia to confront a past she has never truly left behind.",
+      "plot_pt": "Numa ilha remota no sul do Chile, fustigada pelos ventos costeiros, Silvia, uma mulher solitária de meia-idade, sustenta-se com a apanha de algas. Um dia adopta uma cadelinha abandonada, que chama de Yuri — nome escolhido para a filha que nunca teve —, e o que começa por ser uma promessa de felicidade quotidiana, converte-se no doloroso despertar de um trauma de infância, quando Yuri desaparece repentinamente. Dominga Sotomayor desafia aqui a tradicional narrativa de afectos entre humanos e animais domésticos.",
       "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/w0/df/vn/7g/showing-1920-1920-1080-1080-crop-000000.jpg?v=8d4405ad08"
+        "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/5/0/3/8/tmdb/39bNBSNYpGfrN4eac6ZIn6v5rnt-1920-1920-1080-1080-crop-000000.jpg?v=10bb4f46f1"
       ],
       "stills_focus": [
-        18.3
+        55.8
+      ],
+      "country": "Chile",
+      "director_lbxd_slug": "dominga-sotomayor"
+    },
+    {
+      "id": "nimas_certain-women-2016",
+      "title": "Certain Women",
+      "director": "Kelly Reichardt",
+      "year": 2016,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/8/9/8/269898-certain-women-0-500-0-750-crop.jpg?v=85708ca3a8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/certain-women-2016",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "18:00",
+          "cinema": "nimas",
+          "labels": [
+            "Com a presença de Kelly Reichardt"
+          ]
+        }
+      ],
+      "rating": 3.76,
+      "plot": "Three strong-willed women strive to forge their own paths amidst the wide-open plains of the American Northwest: a lawyer forced to subdue a troubled client; a wife and mother whose plans to construct her dream home reveal fissures in her marriage; and a lonely ranch hand who forms an ambiguous bond with a young law student.",
+      "plot_pt": "Um olhar inspirador sobre três mulheres que lutam para seguir o seu próprio caminho, por entre as vastas planícies do Noroeste americano. Uma advogada (Laura Dern) que combate práticas sexistas no escritório e é responsável por um caso de tomada de reféns; uma esposa e mãe (Michelle Williams) cuja determinação em construir a sua casa de sonho a faz entrar em conflito com os homens da sua vida; e uma jovem estudante de Direito (Kristen Stewart) com uma união ambígua com uma solitária ajudante de um rancho (Lily Gladstone). Adaptado de três contos de Maile Meloy, Certain Women é um estudo subtil e um retrato despretensioso de três mulheres que vivem na tensão entre os desejos pessoais e a expectativa social.",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/1_n9dyhvrozs9mdtl5fisgtq.jpg",
+        "https://medeiafilmes.com/uploads/library/03821914.jpg",
+        "https://medeiafilmes.com/uploads/library/423776.jpg"
+      ],
+      "stills_focus": [
+        40.8,
+        29.6,
+        42.6
       ],
       "country": "USA",
       "director_lbxd_slug": "kelly-reichardt"
@@ -3597,43 +3574,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "valeska-grisebach"
     },
     {
-      "id": "nimas_certain-women-2016",
-      "title": "Certain Women",
-      "director": "Kelly Reichardt",
-      "year": 2016,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/8/9/8/269898-certain-women-0-500-0-750-crop.jpg?v=85708ca3a8",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/certain-women-2016",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "18:00",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Kelly Reichardt"
-          ]
-        }
-      ],
-      "rating": 3.76,
-      "plot": "Three strong-willed women strive to forge their own paths amidst the wide-open plains of the American Northwest: a lawyer forced to subdue a troubled client; a wife and mother whose plans to construct her dream home reveal fissures in her marriage; and a lonely ranch hand who forms an ambiguous bond with a young law student.",
-      "plot_pt": "Um olhar inspirador sobre três mulheres que lutam para seguir o seu próprio caminho, por entre as vastas planícies do Noroeste americano. Uma advogada (Laura Dern) que combate práticas sexistas no escritório e é responsável por um caso de tomada de reféns; uma esposa e mãe (Michelle Williams) cuja determinação em construir a sua casa de sonho a faz entrar em conflito com os homens da sua vida; e uma jovem estudante de Direito (Kristen Stewart) com uma união ambígua com uma solitária ajudante de um rancho (Lily Gladstone). Adaptado de três contos de Maile Meloy, Certain Women é um estudo subtil e um retrato despretensioso de três mulheres que vivem na tensão entre os desejos pessoais e a expectativa social.",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/1_n9dyhvrozs9mdtl5fisgtq.jpg",
-        "https://medeiafilmes.com/uploads/library/03821914.jpg",
-        "https://medeiafilmes.com/uploads/library/423776.jpg"
-      ],
-      "stills_focus": [
-        40.8,
-        29.6,
-        42.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "kelly-reichardt"
-    },
-    {
       "id": "nimas_la-derive-1964",
       "title": "La Dérive",
       "director": "Paula Delsol",
@@ -3666,36 +3606,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "paula-delsol"
-    },
-    {
-      "id": "nimas_la-perra-2026",
-      "title": "La perra",
-      "director": "Dominga Sotomayor",
-      "year": 2026,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/0/3/8/1425038-la-perra-2026-0-500-0-750-crop.jpg?v=4c122c1bb7",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/la-perra-2026",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.22,
-      "plot": "On a remote, wind-lashed island off the Chilean coast, Silvia earns her living harvesting seaweed and shares a quiet life with her partner. When she adopts a stray puppy, Yuri, her days fill with joy, love, and a tenderness that stirs a long-suppressed longing for motherhood. But Yuri’s sudden disappearance reawakens a haunting childhood trauma, forcing Silvia to confront a past she has never truly left behind.",
-      "plot_pt": "Numa ilha remota no sul do Chile, fustigada pelos ventos costeiros, Silvia, uma mulher solitária de meia-idade, sustenta-se com a apanha de algas. Um dia adopta uma cadelinha abandonada, que chama de Yuri — nome escolhido para a filha que nunca teve —, e o que começa por ser uma promessa de felicidade quotidiana, converte-se no doloroso despertar de um trauma de infância, quando Yuri desaparece repentinamente. Dominga Sotomayor desafia aqui a tradicional narrativa de afectos entre humanos e animais domésticos.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/5/0/3/8/tmdb/39bNBSNYpGfrN4eac6ZIn6v5rnt-1920-1920-1080-1080-crop-000000.jpg?v=10bb4f46f1"
-      ],
-      "stills_focus": [
-        55.8
-      ],
-      "country": "Chile",
-      "director_lbxd_slug": "dominga-sotomayor"
     },
     {
       "id": "nimas_dialogos-depois-do-fim-versao-serie-2023",
@@ -3741,82 +3651,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "director_lbxd_slug": "tiago-guedes"
-    },
-    {
-      "id": "nimas_hugo-victor-comme-tout-le-monde-2026",
-      "title": "Hugo – Victor comme tout le monde",
-      "director": "Pascal Bonitzer",
-      "year": 2026,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/9/2/6/1331926-hugo-2026-0-500-0-750-crop.jpg?v=5255c6afce",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/hugo-victor-comme-tout-le-monde-2026",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "15:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Pascal Bonitzer"
-          ]
-        }
-      ],
-      "rating": 2.99,
-      "plot": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
-      "plot_pt": "Mergulhado na obra de Victor Hugo, o actor Robert Zucchini tenta definir o seu lugar entre o palco e a vida, entre a matéria das palavras e o mundo contemporâneo. Todas as noites, ele enche uma sala parisiense que só o quer ouvir recitar o clássico francês. O reaparecimento da filha, com quem perdera contacto, cria uma brecha emocional na sua melancolia quotidiana.",
-      "title_en": "Hugo",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/victor_1.jpg",
-        "https://medeiafilmes.com/uploads/library/victor-2.jpg",
-        "https://medeiafilmes.com/uploads/library/victor-3.jpg"
-      ],
-      "stills_focus": [
-        29.7,
-        32.4,
-        47.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "pascal-bonitzer"
-    },
-    {
-      "id": "nimas_o-estrangeiro-1945-1945",
-      "title": "O Estrangeiro (1945)",
-      "director": "Orson Welles",
-      "year": 1946,
-      "duration": 95,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1945-1945",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "18:30",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Frédéric Bonnaud"
-          ]
-        }
-      ],
-      "rating": 3.71,
-      "plot": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi, who may be hiding out in a small town in the guise of a distinguished professor engaged to the Supreme Court Justice’s daughter.",
-      "plot_pt": "Um inspetor da Comissão de Crimes de Guerra chega a uma pequena cidade do Connecticut à procura de um antigo nazi, agora professor universitário e noivo da filha de um juiz do Supremo Tribunal. Sob a superfície ordeira da vida americana, a sua investigação expõe uma sociedade na qual os autores de atrocidades podem encontrar refúgio nas próprias instituições que personificam a autoridade.",
-      "title_en": "The Stranger",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/the-stranger.jpg",
-        "https://medeiafilmes.com/uploads/library/oscupz9uxvuoca6aqsskns1unlq.jpg"
-      ],
-      "stills_focus": [
-        33.7,
-        27.3
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "orson-welles-1"
     },
     {
       "id": "nimas_pink-flamingos-1972",
@@ -3881,37 +3715,80 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "alexander-kluge"
     },
     {
-      "id": "nimas_my-brother-s-wedding-1983",
-      "title": "My Brother’s Wedding",
-      "director": "Charles Burnett",
-      "year": 1983,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/7/2/9/76729-my-brothers-wedding-0-500-0-750-crop.jpg?v=46e2e8dcab",
+      "id": "nimas_hugo-victor-comme-tout-le-monde-2026",
+      "title": "Hugo – Victor comme tout le monde",
+      "director": "Pascal Bonitzer",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/9/2/6/1331926-hugo-2026-0-500-0-750-crop.jpg?v=5255c6afce",
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "link": "https://medeiafilmes.com/filmes/my-brother-s-wedding-1983",
+      "link": "https://medeiafilmes.com/filmes/hugo-victor-comme-tout-le-monde-2026",
       "sessions": [
         {
-          "date": "2026-11-15",
-          "time": "14:00",
+          "date": "2026-11-14",
+          "time": "15:30",
           "cinema": "nimas",
           "labels": [
-            "Com a presença de Charles Burnett"
+            "Conversa com Pascal Bonitzer"
           ]
         }
       ],
-      "rating": 3.73,
-      "plot": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer.",
-      "plot_pt": "Em South Central Los Angeles, no início dos anos 1980, Pierce Mundy vive sem rumo, dividido entre as expectativas da família e a vida de bairro. Quando o irmão, um advogado em ascensão, se prepara para casar, Pierce aceita a contragosto ser o padrinho. Na sua segunda longa-metragem, Charles Burnett traça, num tom mais leve, o retrato de um jovem e de uma comunidade marcados pela estagnação, resignação, resistência e alegria de viver. Um clássico do movimento L.A. Rebellion.",
+      "rating": 2.99,
+      "plot": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
+      "plot_pt": "Mergulhado na obra de Victor Hugo, o actor Robert Zucchini tenta definir o seu lugar entre o palco e a vida, entre a matéria das palavras e o mundo contemporâneo. Todas as noites, ele enche uma sala parisiense que só o quer ouvir recitar o clássico francês. O reaparecimento da filha, com quem perdera contacto, cria uma brecha emocional na sua melancolia quotidiana.",
+      "title_en": "Hugo",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/kme67wax5cycfaedskrmwzyy6r3.jpeg"
+        "https://medeiafilmes.com/uploads/library/victor_1.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-2.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-3.jpg"
       ],
       "stills_focus": [
-        30.6
+        29.7,
+        32.4,
+        47.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "pascal-bonitzer"
+    },
+    {
+      "id": "nimas_o-estrangeiro-1945-1945",
+      "title": "O Estrangeiro (1945)",
+      "director": "Orson Welles",
+      "year": 1946,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1945-1945",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "18:30",
+          "cinema": "nimas",
+          "labels": [
+            "Com a presença de Frédéric Bonnaud"
+          ]
+        }
+      ],
+      "rating": 3.71,
+      "plot": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi, who may be hiding out in a small town in the guise of a distinguished professor engaged to the Supreme Court Justice’s daughter.",
+      "plot_pt": "Um inspetor da Comissão de Crimes de Guerra chega a uma pequena cidade do Connecticut à procura de um antigo nazi, agora professor universitário e noivo da filha de um juiz do Supremo Tribunal. Sob a superfície ordeira da vida americana, a sua investigação expõe uma sociedade na qual os autores de atrocidades podem encontrar refúgio nas próprias instituições que personificam a autoridade.",
+      "title_en": "The Stranger",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/the-stranger.jpg",
+        "https://medeiafilmes.com/uploads/library/oscupz9uxvuoca6aqsskns1unlq.jpg"
+      ],
+      "stills_focus": [
+        33.7,
+        27.3
       ],
       "country": "USA",
-      "director_lbxd_slug": "charles-burnett"
+      "director_lbxd_slug": "orson-welles-1"
     },
     {
       "id": "nimas_de-olhos-bem-fechados-1999",
@@ -3981,6 +3858,39 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "david-cronenberg"
     },
     {
+      "id": "nimas_my-brother-s-wedding-1983",
+      "title": "My Brother’s Wedding",
+      "director": "Charles Burnett",
+      "year": 1983,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/7/2/9/76729-my-brothers-wedding-0-500-0-750-crop.jpg?v=46e2e8dcab",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/my-brother-s-wedding-1983",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "14:00",
+          "cinema": "nimas",
+          "labels": [
+            "Com a presença de Charles Burnett"
+          ]
+        }
+      ],
+      "rating": 3.73,
+      "plot": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer.",
+      "plot_pt": "Em South Central Los Angeles, no início dos anos 1980, Pierce Mundy vive sem rumo, dividido entre as expectativas da família e a vida de bairro. Quando o irmão, um advogado em ascensão, se prepara para casar, Pierce aceita a contragosto ser o padrinho. Na sua segunda longa-metragem, Charles Burnett traça, num tom mais leve, o retrato de um jovem e de uma comunidade marcados pela estagnação, resignação, resistência e alegria de viver. Um clássico do movimento L.A. Rebellion.",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/kme67wax5cycfaedskrmwzyy6r3.jpeg"
+      ],
+      "stills_focus": [
+        30.6
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "charles-burnett"
+    },
+    {
       "id": "nimas_cavalo-selvagem-nove-2026",
       "title": "Cavalo Selvagem Nove",
       "director": "Martin McDonagh",
@@ -4033,79 +3943,47 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "martin-mcdonagh"
     },
     {
-      "id": "fernando_ari",
-      "title": "Ari",
-      "director": "Léonor Serraille",
-      "year": 2025,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/0/4/2/1/1140421-ari-2025-0-500-0-750-crop.jpg?v=c509616d1b",
-      "genres": [
-        "Drama",
-        "Tv Movie"
-      ],
+      "id": "fernando_mostra_imagina_rios_da_luso_fonia_cplp_audiovisual",
+      "title": "Mostra Imaginários Da Lusófonia - Cplp Audiovisual",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
       "festival": null,
-      "link": "https://cinemafernandolopes.pt/ARI",
+      "link": "https://cinemafernandolopes.pt/MOSTRA-IMAGINARIOS-DA-LUSOFONIA-CPLP-AUDIOVISUAL",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "14:30",
+          "date": "2026-11-11",
+          "time": "20:00",
           "cinema": "fernando"
         },
         {
-          "date": "2026-11-08",
-          "time": "17:30",
-          "cinema": "ideal"
+          "date": "2026-11-12",
+          "time": "20:00",
+          "cinema": "fernando"
         },
         {
-          "date": "2026-11-10",
-          "time": "17:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "17:30",
-          "cinema": "ideal"
+          "date": "2026-11-13",
+          "time": "20:00",
+          "cinema": "fernando"
         }
-      ],
-      "rating": 3.42,
-      "plot": "Right in the middle of a school inspector’s visit, Ari, a 27-year-old student teacher, collapses. Angry with him for being a failure, his father kicks him out of the house. Emotionally raw, and alone in the city, Ari reluctantly forces himself to rekindle his relationships with old friends. As his memories of the previous months successively ebb and flow, Ari discovers that other people aren’t doing as well as he imagined, and that perhaps he has been sleepwalking through his own life.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/4/0/4/2/1/tmdb/mccHZJMj3pHfHtbmG48txYdgamR-1920-1920-1080-1080-crop-000000.jpg?v=847d7fc68e"
-      ],
-      "stills_focus": [
-        42.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "leonor-serraille"
+      ]
     },
     {
-      "id": "fernando_naza",
-      "title": "Naza",
+      "id": "fernando_naza_with_english_subtitles",
+      "title": "NAZA",
       "director": "Yuval Abraham & Rachel Szor",
       "year": 2026,
       "duration": 80,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
       "genres": [
-        "Documentary"
+        "Documentary",
+        "War"
       ],
       "festival": null,
-      "link": "https://cinemafernandolopes.pt/NAZA-EN",
+      "link": "https://cinemafernandolopes.pt/NAZA-WITH-ENGLISH-SUBTITLES",
       "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "11:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-09",
           "time": "19:30",
@@ -4135,11 +4013,24 @@ window.CINEMA_DATA = {
           "date": "2026-11-12",
           "time": "17:30",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "22:30",
+          "cinema": "fernando",
+          "labels": [
+            "Legendas em inglês"
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "time": "11:30",
+          "cinema": "fernando"
         }
       ],
-      "rating": 4.38,
-      "plot": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
+      "rating": 4.55,
+      "plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "plot_pt": "NAZA é um longa-metragem documental britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorreu ao Leão de Ouro, e venceu o Prémio Especial do Júri. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza.",
       "stills": [
         "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
       ],
@@ -4148,6 +4039,88 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "yuval-abraham"
+    },
+    {
+      "id": "fernando_ari",
+      "title": "Ari",
+      "director": "Léonor Serraille",
+      "year": 2025,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/4/0/4/2/1/1140421-ari-2025-0-500-0-750-crop.jpg?v=c509616d1b",
+      "genres": [
+        "Drama",
+        "Tv Movie"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/ARI",
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "time": "17:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "17:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "11:30",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "Right in the middle of a school inspector’s visit, Ari, a 27-year-old student teacher, collapses. Angry with him for being a failure, his father kicks him out of the house. Emotionally raw, and alone in the city, Ari reluctantly forces himself to rekindle his relationships with old friends. As his memories of the previous months successively ebb and flow, Ari discovers that other people aren’t doing as well as he imagined, and that perhaps he has been sleepwalking through his own life.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/4/0/4/2/1/tmdb/mccHZJMj3pHfHtbmG48txYdgamR-1920-1920-1080-1080-crop-000000.jpg?v=847d7fc68e"
+      ],
+      "stills_focus": [
+        42.2
+      ],
+      "country": "France",
+      "director_lbxd_slug": "leonor-serraille"
+    },
+    {
+      "id": "fernando_a_praga",
+      "title": "A Praga",
+      "director": "Sarah Arnold",
+      "year": 2026,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/2/1/3/3/902133-too-many-beasts-0-500-0-750-crop.jpg?v=270deb6272",
+      "genres": [
+        "Comedy"
+      ],
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/A-PRAGA",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "17:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "21:00",
+          "cinema": "fernando"
+        }
+      ],
+      "rating": 3.35,
+      "plot": "In the French countryside, wild boars ravaging crops spark an open war between farmers and members of a gentlemen’s hunting club, who feed the game between hunts. Brun, a bankrupt farmer, struggles to keep his farm afloat. When the club’s president pushes him to his limits, Brun shoots him and disappears. A year later, Fulda, a volatile police officer just transferred to the region, leads the investigation. Still struggling after a recent breakup, and as wild boars proliferate across the region, he is pushed to the brink of sanity.",
+      "title_en": "Too Many Beasts",
+      "stills": [
+        "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/2/1/3/3/tmdb/nu5sI7lYxYbvagzI8YyQximiLCF-1920-1920-1080-1080-crop-000000.jpg?v=01108222d9"
+      ],
+      "stills_focus": [
+        35.4
+      ],
+      "country": "France",
+      "director_lbxd_slug": "sarah-arnold"
     },
     {
       "id": "fernando_casa_pequena",
@@ -4163,82 +4136,29 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/CASA-PEQUENA",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "16:30",
-          "cinema": "fernando",
-          "labels": [
-            "Sessão especial"
-          ]
+          "date": "2026-11-14",
+          "time": "19:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "22:40",
+          "cinema": "fernando"
         }
       ],
       "plot": "Five musicians travel to a secluded house in the Serra da Estrela mountains, hoping that a retreat will renew their friendship and creativity, but a mysterious host will place the band at the center of an intrigue. Is this house cursed?",
       "country": "Portugal",
       "director_lbxd_slug": "ricardo-oliveira-3"
-    },
-    {
-      "id": "fernando_dra_cula",
-      "title": "Drácula",
-      "director": "Radu Jude",
-      "year": 2025,
-      "duration": 170,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/0/4/0/0/1/1204001-dracula-2025-1-0-500-0-750-crop.jpg?v=4fb1824d1a",
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/DRACULA",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "21:45",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 3.14,
-      "plot": "In modern-day Transylvania, vampire hunts and labor strikes collide with sci-fi twists, romance, and AI-crafted tales, as multiple storylines blend folklore, classic horror, and contemporary elements into a fresh take on Dracula's legend.",
-      "plot_pt": "O que acontece quando um jovem e curioso realizador desafia a sua criatividade com as possibilidades ilimitadas de uma inteligência artificial falsa? Uma mistura surpreendente de várias histórias, de tempos antigos e modernos, sobre o mito original de Drácula: uma caça a vampiros, zombies e Drácula a interromper uma greve, um conto de ficção científica sobre o regresso de Vlad, o Empalador, uma adaptação da primeira novela romena de vampiros, um romance trágico, um conto popular vulgar, histórias kitsch geradas por IA… e muito mais!",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ucSE2LQXZ9KYUMZOZ9m1w9KPXp3.jpg",
-        "https://image.tmdb.org/t/p/w1280/7EIOi4Q2TTf19wAoCxeui0aEHOU.jpg",
-        "https://image.tmdb.org/t/p/w1280/qQcFamiXi03i7Zrd5MRt2HEOQ0t.jpg"
-      ],
-      "stills_focus": [
-        29.5,
-        49.4,
-        29.3
-      ],
-      "country": "Romania",
-      "director_lbxd_slug": "radu-jude"
-    },
-    {
-      "id": "fernando_mostra_imagina_rios_da_luso_fonia_cplp_audiovisual",
-      "title": "Mostra Imaginários Da Lusófonia - Cplp Audiovisual",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/MOSTRA-IMAGINARIOS-DA-LUSOFONIA-CPLP-AUDIOVISUAL",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "20:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "20:00",
-          "cinema": "fernando"
-        }
-      ]
     },
     {
       "id": "batalha_s4IOdUmYfGm8uNc3",
@@ -4347,6 +4267,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4433,6 +4354,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "The Family and the Zombie combina ficção científica, terror, comédia e documentário para retratar uma família indígena australiana que enfrenta as consequências da crise ecológica e do colonialismo. Guiados por conhecimentos ancestrais, os protagonistas procuram resistir e imaginar novos futuros. O filme, assinado pelo Coletivo de Cinema Karrabing, que reúne mais de 50 pessoas indígenas da Austrália Ocidental, explora simbolicamente a eterna batalha entre a continuidade da memória, da cultura e da ligação aos antepassados com os legados \"mortos-vivos\" do extrativismo colonial. Elizabeth Povinelli, a única integrante não indígena do coletivo, interpreta a zombie que dá título ao filme.",
       "plot": "The Family (A Zombie Movie) opens with future ancestors digging yams and their children playing...but then turn to their elders and ask, \"where did we come from?\" One kid howls in the background, pretending to be a dingo. A zombie emerges slowly from behind a log, its skin crusted with an oozing white substance, extending a clawed arm toward the children; when they notice, the figure quickly recoils. The children laugh and continue to play, before following the creature to its lair of rusted cars, plastic debris and tarnished woodland. By the end of the film, they’ve killed the monster. What opened as a fairly innocent scene has turned into a commentary on the toxic dangers of unbridled Western consumption.",
       "country": "Australia"
     },
@@ -4455,6 +4377,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Cruzando elementos de documentário, ficção e sobrenaturalidade, Bo Wang revisita as memórias da modernização asiática no século XX através da história do comércio de cabelo para perucas. Partindo do embargo norte-americano de 1965 ao chamado “cabelo comunista”, o filme acompanha a circulação de cabelo entre China, Hong Kong, Estados Unidos e Europa revelando as ligações entre imperialismo, Guerra Fria e capitalismo. Com humor e criatividade, transforma a peruca num objeto assombrado que persiste e viaja, revelando as relações políticas entre o continente asiático e o resto do mundo.",
       "plot": "A cinematic and conceptually inventive film that explores the haunting memories of Asia’s late 20th-century modernization through the large-scale export of wigs during the Cold War. Yet, in every wig resides a ghost from the imperial past.",
       "country": "Hong Kong",
       "rating": 3.55,
@@ -4486,6 +4409,7 @@ window.CINEMA_DATA = {
           "cinema": "batalha"
         }
       ],
+      "plot_pt": "Enquanto aguarda pela reencarnação, uma alma recorda a sua vida passada como uma das quatro freiras convocadas pelo Vaticano para mapear o céu e as estrelas no projeto Carte du Ciel, tornando-se uma das primeiras \"computadoras\". Fundindo ficção histórica e autobiografia, e filmado em 16mm e com smartphone, o filme reflete, com humor e perspicácia, sobre escolhas de vida, os sistemas que moldam a modernidade e a possibilidade de autodeterminação, enquanto esta ex-freira antecipa o seu renascimento em pleno boom económico português da década de 90.",
       "plot": "A soul waits to be reincarnated while reflecting back on her past life as a nun, who worked at the Vatican Astronomical Observatory in early-20th century. There, she took part in the “Carte du Ciel” — an ambitious international project to map the night sky, earning the early title of “computer” as a result of processing repetitive calculations. Disillusioned with her previous existence, she considers becoming a coder in her next life, amidst the wave of economic optimism awaiting her reincarnation in 1990s Portugal. Shot on 16mm film and smartphone, \"Oh Be a Fine Girl Kiss Me\" blends historical fiction and autobiography in a meditation on life’s choices and constraints, as well as on the systems and categories that shaped modernity.",
       "country": "Portugal",
       "director_lbxd_slug": "alice-dos-reis"
@@ -5352,6 +5276,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -5735,6 +5660,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
+      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -5758,48 +5684,6 @@ window.CINEMA_DATA = {
       "plot_pt": "Entre 2018 e 2023, Ewelina Rosińska visitou diferentes regiões e lugares de Portugal, sozinha ou na companhia de artistas e eco-activistas. A conservação da natureza, a etnografia, a agricultura e as ações contra a gentrificação atravessam o filme, compassado pelo ritmo de uma câmara Bolex. Entre observação e contemplação, Pedras Instáveis propõe um olhar sobre o território e sobre a possibilidade de abrandar.",
       "plot": "Between 2018 and 2023, Ewelina Rosińska visited different regions and places in Portugal, alone or in the company of artists and eco-activists. Geological elements, agricultural places, rural dwellings and non-human beings run through the film, poetically paced by the Bolex camera. Between the detail and the immensity of the landscape, Unstable Rocks proposes a contemplative gaze upon the territory, to the rhythm of the pulse of nature and its elements.",
       "country": "Alemanha / Portugal"
-    },
-    {
-      "id": "trindade_9599",
-      "title": "A Desconhecida",
-      "director": "Arthur Harari",
-      "year": 2026,
-      "duration": 139,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Fantasy"
-      ],
-      "link": "https://cinematrindade.pt/pt/filmes/a-desconhecida",
-      "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "16:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 3.21,
-      "plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
-      "plot_pt": "Com quase 40 anos, David Zimmerman é fotógrafo, mas ninguém sabe disso. Quando os amigos o arrastam para uma festa, ele avista uma mulher no meio da multidão e não consegue tirar os olhos dela; segue-a… Algumas horas depois, David acorda: está no corpo daquela mulher desconhecida.",
-      "title_en": "The Unknown",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
-        "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
-        "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
-      ],
-      "stills_focus": [
-        42.1,
-        44.0,
-        32.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "arthur-harari"
     },
     {
       "id": "trindade_9576",
@@ -5957,6 +5841,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-10",
           "time": "19:30",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "21:15",
+          "cinema": "ideal"
         }
       ],
       "rating": 3.24,
@@ -5973,6 +5862,43 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "paulo-carneiro"
     },
     {
+      "id": "trindade_9599",
+      "title": "A Desconhecida",
+      "director": "Arthur Harari",
+      "year": 2026,
+      "duration": 139,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/9/0/7/3/1069073-the-unknown-2026-0-500-0-750-crop.jpg?v=0598dd0b29",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Fantasy"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/a-desconhecida",
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "16:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.21,
+      "plot": "Photographer David Zimmerman rarely leaves home until friends bring him to a wild party. He becomes fixated on a mysterious woman and follows her. By dawn, his life transforms - he awakens in her body.",
+      "plot_pt": "Com quase 40 anos, David Zimmerman é fotógrafo, mas ninguém sabe disso. Quando os amigos o arrastam para uma festa, ele avista uma mulher no meio da multidão e não consegue tirar os olhos dela; segue-a… Algumas horas depois, David acorda: está no corpo daquela mulher desconhecida.",
+      "title_en": "The Unknown",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/ySMYS85oNl3V2kYz52VvgpUH6VH.jpg",
+        "https://image.tmdb.org/t/p/w1280/9J3Gttd4FlmN43gQ7gZeFIk0rMW.jpg",
+        "https://image.tmdb.org/t/p/w1280/nh8VYFuK8wUMCYMrYG3UtX854sd.jpg"
+      ],
+      "stills_focus": [
+        42.1,
+        44.0,
+        32.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "arthur-harari"
+    },
+    {
       "id": "trindade_9612",
       "title": "Nosso Segredo",
       "director": "Grace Passô",
@@ -5985,11 +5911,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://cinematrindade.pt/pt/filmes/nosso-segredo",
       "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "14:30",
-          "cinema": "ideal"
-        },
         {
           "date": "2026-11-11",
           "time": "17:00",
@@ -6071,6 +5992,30 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "victor-erice"
     },
     {
+      "id": "trindade_9912",
+      "title": "Ida",
+      "director": "Paweł Pawlikowski",
+      "year": 2013,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h3/mx/2r/h5/aO8dgaxaY1tcAdtFkLuz1WSxgdd-0-500-0-750-crop.jpg?v=2a05cca0fa",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/ida",
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.04,
+      "plot": "In 1960s Poland, young novitiate Anna is on the verge of taking her vows when she discovers a family secret dating back to the years of the German occupation.",
+      "plot_pt": "Polónia, 1962. Anna é uma bonita jovem de 18 anos que irá em breve celebrar os votos definitivos para se tornar freira no convento onde vive desde que ficou órfã em criança. A madre obriga-a a conhecer antes da celebração dos votos a única familiar viva, a tia Wanda. Juntas, as duas mulheres embarcam numa viagem à descoberta de si próprias e do passado que têm em comum. Anna descobre que é judia e que o seu verdadeiro nome é Ida. Esta revelação leva-a a dar início a uma jornada para desvendar as suas raízes e confrontar a verdade sobre a sua família. Ida terá de escolher entre a sua identidade biológica e a religião que a salvou dos massacres provocados pela ocupação Nazi na Polónia. E Wanda terá de confrontar as decisões que tomou durante a guerra quando optou por colocar a lealdade à causa à frente da sua família.",
+      "country": "Poland",
+      "director_lbxd_slug": "pawel-pawlikowski-1"
+    },
+    {
       "id": "trindade_2891",
       "title": "Underground: Era Uma Vez Um País",
       "director": "Emir Kusturica",
@@ -6101,6 +6046,69 @@ window.CINEMA_DATA = {
       ],
       "country": "Yugoslavia",
       "director_lbxd_slug": "emir-kusturica"
+    },
+    {
+      "id": "trindade_9913",
+      "title": "Cold War",
+      "director": "Paweł Pawlikowski",
+      "year": 2018,
+      "duration": 87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/3/0/1/8/373018-cold-war-0-500-0-750-crop.jpg?v=de8b168828",
+      "genres": [
+        "Romance",
+        "Music",
+        "Drama"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/cold-war",
+      "sessions": [
+        {
+          "date": "2026-11-24",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.06,
+      "plot": "A man and a woman meet in the ruins of post-war Poland. With vastly different backgrounds and temperaments, they are fatally mismatched and yet drawn to each other.",
+      "plot_pt": "Cold War é uma impetuosa história de amor entre duas pessoas de diferentes origens e temperamentos, que são fatalmente incompatíveis, mas que estão destinadas a estar juntas. Tendo como pano de fundo a Guerra Fria nos anos 50 na Polónia, Berlim, Jugoslávia e Paris, o filme retrata uma história de amor impossível em tempos impossíveis.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/rx/72/x5/uy/cold-war-1920-1920-1080-1080-crop-000000.jpg?v=ec5d39a54f"
+      ],
+      "stills_focus": [
+        33.1
+      ],
+      "country": "Poland",
+      "director_lbxd_slug": "pawel-pawlikowski-1"
+    },
+    {
+      "id": "trindade_9731",
+      "title": "Fatherland",
+      "director": "Paweł Pawlikowski",
+      "year": 2026,
+      "duration": 82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-500-0-750-crop.jpg?v=6995cce652",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "link": "https://cinematrindade.pt/pt/filmes/fatherland",
+      "sessions": [
+        {
+          "date": "2026-11-25",
+          "time": "19:30",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 3.65,
+      "plot": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+      "plot_pt": "No auge da Guerra Fria, \"Pátria\" centra-se na relação entre o escritor Thomas Mann e a sua filha Erika — atriz, escritora e piloto de ralis — enquanto embarcam numa viagem de carro num Buick preto através de uma Alemanha em ruínas.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/47/cn/d2/rt/f7plF7QuPfucWQU5DxqkgLp9gFN-1920-1920-1080-1080-crop-000000.jpg?v=b0a5f94100"
+      ],
+      "stills_focus": [
+        27.7
+      ],
+      "country": "Poland",
+      "director_lbxd_slug": "pawel-pawlikowski-1"
     },
     {
       "id": "trindade_9804",
@@ -6171,11 +6179,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=74621",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-11-09",
           "time": "21:30",
           "cinema": "ideal"
@@ -6206,11 +6209,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=74040",
       "sessions": [
         {
-          "date": "2026-11-08",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-11-10",
           "time": "19:15",
           "cinema": "ideal"
@@ -6218,6 +6216,16 @@ window.CINEMA_DATA = {
         {
           "date": "2026-11-11",
           "time": "19:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "13:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "13:15",
           "cinema": "ideal"
         }
       ],
@@ -6234,30 +6242,101 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "patricio-guzman"
     },
     {
+      "id": "ideal_wild_horse_nine",
+      "title": "WILD HORSE NINE",
+      "director": "Martin McDonagh",
+      "year": 2026,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "festival": null,
+      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=75208",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "19:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "13:15",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "11:00",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:30",
+          "cinema": "ideal"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "21:30",
+          "cinema": "ideal"
+        }
+      ],
+      "rating": 4.15,
+      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
+      ],
+      "stills_focus": [
+        59.6
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "martin-mcdonagh"
+    },
+    {
       "id": "ideal_1__naza",
       "title": "1- NAZA",
       "director": "Paul Crowder",
-      "year": 2010,
+      "year": 2009,
       "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/4/8/16048-1-0-500-0-750-crop.jpg?v=3d8ce087a9",
       "genres": [
-        "Documentary",
-        "Music"
+        "Thriller",
+        "Science Fiction"
       ],
       "festival": null,
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=69576",
       "sessions": [
         {
-          "date": "2026-11-09",
-          "time": "16:45",
+          "date": "2026-11-14",
+          "time": "11:30",
           "cinema": "ideal"
         }
       ],
-      "rating": 3.6,
-      "plot": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
-      "country": "USA",
-      "director_lbxd_slug": "pater-sparrow",
-      "title_en": "Billy Joel - The Last Play at Shea"
+      "rating": 3.27,
+      "plot": "A bookshop renowned for its rare works is mysteriously and filled with copies of a book entitled 1, which doesn't appear to have a publisher or author. The strange almanac describes what happens to humanity in a minute. A police investigation begins and the bookshop staff are placed in solitary confinement by the Bureau for Paranormal Research. As the investigation progresses, the situation becomes more complex and the book becomes increasingly well-known, raising numerous controversies. Plagued by doubts, the protagonist has to face facts: reality only exists in the imagination of individuals.",
+      "country": "Hungary",
+      "director_lbxd_slug": "pater-sparrow"
     },
     {
       "id": "culturgest_rimini-protokoll-theatre-vidy-lausanne-les-praticables-mali-futur-live",
@@ -6306,7 +6385,7 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Louisiana Mees": {
-      "lbxd_slug": "louisiana-mees-fongang",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -6355,13 +6434,8 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ange_Leccia.jpg/500px-Ange_Leccia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Ange Leccia (born 19 April 1952) is a  contemporary French painter, photographer and film-maker. He works in Paris primarily with photography and video."
     },
-    "Paul Almond": {
-      "lbxd_slug": "paul-almond",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PaulAlmond.jpg/500px-PaulAlmond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Paul Almond (April 26, 1931 – April 9, 2015) was a Canadian television and motion picture screenwriter, director, producer, and novelist. He is known for being the director of the first film in the Up series."
-    },
     "Allan Sieber": {
-      "lbxd_slug": "allan-sieber",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -6371,7 +6445,7 @@ window.CINEMA_DATA = {
       "bio": "French actress, film director and screenwriter"
     },
     "Germán Monzó": {
-      "lbxd_slug": "german-monzo",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -6520,43 +6594,23 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
       "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
     },
+    "Masterclass com Willem Dafoe": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Javier Calvo, Javier Ambrossi": {
       "lbxd_slug": "javier-ambrossi",
       "photo": null,
       "bio": null
     },
-    "Kelly Reichardt": {
-      "lbxd_slug": "kelly-reichardt",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kelly_Reichardt-4432.jpg/500px-Kelly_Reichardt-4432.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Kelly Reichardt ( RYE-kart; born March 3, 1964) is an American film director, film editor and screenwriter. She is known for her minimalist films closely associated with slow cinema, many of which deal with working-class characters in small, rural communities. Reichardt made her feature film debut with River of Grass (1994) and subsequently directed a series of films set and filmed in Oregon: the dramas Old Joy (2006) and Wendy and Lucy (2008); the Western Meek's Cutoff (2010); and the thriller Night Moves (2013)."
-    },
-    "David Fincher": {
-      "lbxd_slug": "david-fincher",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg/500px-TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "David Andrew Leo Fincher (born August 28, 1962) is an American filmmaker. Often described as one of the pre-eminent directors of his generation, his films have collectively grossed over $2.1 billion worldwide. Fincher has received numerous accolades, including nominations for three Academy Awards as well as a BAFTA Award, a Golden Globe Award, four Primetime Emmy Awards, and two Grammy Awards."
-    },
-    "Fernando Trueba": {
-      "lbxd_slug": "fernando-trueba",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Fernando_Trueba_Press_Conference_The_Queen_of_Spain_Berlinale_2017.jpg/500px-Fernando_Trueba_Press_Conference_The_Queen_of_Spain_Berlinale_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Fernando Rodríguez Trueba (born 18 January 1955), known as Fernando Trueba, is a Spanish filmmaker, writer, producer and book editor."
-    },
-    "Christophe Honoré": {
-      "lbxd_slug": "christophe-honore-1",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Christophe_Honor%C3%A9.jpg/500px-Christophe_Honor%C3%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Christophe Honoré (French: [kʁistɔf ɔnɔʁe]; born 10 April 1970) is a French writer, filmmaker and theatre director."
-    },
-    "Sérgio Graciano": {
-      "lbxd_slug": "sergio-graciano",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": "Portuguese film director"
+    "Stacy Martin": {
+      "lbxd_slug": "stacy-martin",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Stacy_Martin_Cannes_2017.jpg/500px-Stacy_Martin_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Stacy Martin (born 20 March 1990) is a French actress. Following her film debut in Nymphomaniac (2013), Martin had lead roles in films such as Redoubtable (2017), Amanda (2018), The Evening Hour, and Lovers (both 2020), as well as supporting roles in High-Rise (2015), All the Money in the World (2017), The Night House (2020), and The Testament of Ann Lee (2025). She is a frequent collaborator with Brady Corbet, having appeared in his films The Childhood of a Leader (2015), Vox Lux (2018), and The Brutalist (2024)."
     },
     "Taz F. Stark": {
       "lbxd_slug": "taz-f-stark",
-      "photo": null,
-      "bio": null
-    },
-    "Masterclass com Willem Dafoe": {
-      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -6565,15 +6619,25 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kinuyo_Tanaka_in_Jinsei_no_onimotsu_1935.jpg/500px-Kinuyo_Tanaka_in_Jinsei_no_onimotsu_1935.jpg",
       "bio": "Kinuyo Tanaka (Japanese: 田中 絹代, Hepburn: Tanaka Kinuyo; 29 November 1909 – 21 March 1977) was a Japanese actress and film director. She had a career lasting over 50 years with more than 250 acting credits, but was best known for her 15 films with director Kenji Mizoguchi, such as The Life of Oharu (1952) and Ugetsu (1953). With her 1953 directorial debut, Love Letter, Tanaka became the second Japanese woman to direct a film, after Tazuko Sakane."
     },
+    "Sérgio Graciano": {
+      "lbxd_slug": "sergio-graciano",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Portuguese film director"
+    },
     "Pier Paolo Pasolini": {
       "lbxd_slug": "pier-paolo-pasolini",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/PierPaoloPasolini_%28crop%29.jpg/500px-PierPaoloPasolini_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Pier Paolo Pasolini (Italian: [ˌpjɛr ˈpaːolo pazoˈliːni]; 5 March 1922 – 2 November 1975) was an Italian poet, revolutionary, writer, film director, actor and playwright. He is considered one of the defining public intellectuals in 20th-century Italian history, influential both as an artist and a political figure. He is known for directing The Gospel According to St."
     },
-    "Stacy Martin": {
-      "lbxd_slug": "stacy-martin",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Stacy_Martin_Cannes_2017.jpg/500px-Stacy_Martin_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Stacy Martin (born 20 March 1990) is a French actress. Following her film debut in Nymphomaniac (2013), Martin had lead roles in films such as Redoubtable (2017), Amanda (2018), The Evening Hour, and Lovers (both 2020), as well as supporting roles in High-Rise (2015), All the Money in the World (2017), The Night House (2020), and The Testament of Ann Lee (2025). She is a frequent collaborator with Brady Corbet, having appeared in his films The Childhood of a Leader (2015), Vox Lux (2018), and The Brutalist (2024)."
+    "Kelly Reichardt": {
+      "lbxd_slug": "kelly-reichardt",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kelly_Reichardt-4432.jpg/500px-Kelly_Reichardt-4432.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kelly Reichardt ( RYE-kart; born March 3, 1964) is an American film director, film editor and screenwriter. She is known for her minimalist films closely associated with slow cinema, many of which deal with working-class characters in small, rural communities. Reichardt made her feature film debut with River of Grass (1994) and subsequently directed a series of films set and filmed in Oregon: the dramas Old Joy (2006) and Wendy and Lucy (2008); the Western Meek's Cutoff (2010); and the thriller Night Moves (2013)."
+    },
+    "Abel Ferrara": {
+      "lbxd_slug": "abel-ferrara",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abel_Ferrara_Cannes_2017.jpg/500px-Abel_Ferrara_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Abel Ferrara (born July 19, 1951) is an American filmmaker, actor and musician. Closely associated with the independent film movement in the United States, he is known for his provocative and often-controversial films which use and redefine neo-noir imagery. His best-known works include the New York-set, gritty crime thrillers The Driller Killer (1979), Ms .45 (1981), Fear City (1984), King of New York (1990), Bad Lieutenant (1992), and The Funeral (1996), chronicling violent crime in urban settings with spiritual overtones."
     },
     "Takashi Miike": {
       "lbxd_slug": "takashi-miike",
@@ -6590,10 +6654,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg/500px-Werner_Herzog_Venice_Film_Festival_2025.jpg",
       "bio": "Werner Herzog (German: [ˈvɛʁnɐ ˈhɛʁtsoːk]; né Stipetić; born 5 September 1942) is a German filmmaker, actor, opera director, and author. Regarded as a pioneer of New German Cinema, his films often feature ambitious protagonists with impossible dreams, people with unusual talents in obscure fields, or individuals in conflict with nature. His film-making process involves avoiding storyboards, emphasizing improvisation, and placing his cast and crew into real situations mirroring those in the film on which they are working."
     },
-    "Abel Ferrara": {
-      "lbxd_slug": "abel-ferrara",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abel_Ferrara_Cannes_2017.jpg/500px-Abel_Ferrara_Cannes_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Abel Ferrara (born July 19, 1951) is an American filmmaker, actor and musician. Closely associated with the independent film movement in the United States, he is known for his provocative and often-controversial films which use and redefine neo-noir imagery. His best-known works include the New York-set, gritty crime thrillers The Driller Killer (1979), Ms .45 (1981), Fear City (1984), King of New York (1990), Bad Lieutenant (1992), and The Funeral (1996), chronicling violent crime in urban settings with spiritual overtones."
+    "Albert Serra": {
+      "lbxd_slug": "albert-serra",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/MKr348252_Albert_Serra_%28Berlinale_2024%29.jpg/500px-MKr348252_Albert_Serra_%28Berlinale_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Albert Serra Juanola (Catalan: [əlˈβɛrt ˈsɛrə]; born 9 October 1975) is a Spanish filmmaker and producer. His films usually explore the imminence of death through the slow cinema genre. He is best known for Story of My Death (2013), which won the Golden Leopard at the 66th Locarno Film Festival, The Death of Louis XIV (2016) and Pacifiction (2022)."
+    },
+    "Kantemir Balagov": {
+      "lbxd_slug": "kantemir-balagov",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kantemir_Balagov_at_the_2026_Cannes_Film_Festival_01_%28cropped%29.jpg/500px-Kantemir_Balagov_at_the_2026_Cannes_Film_Festival_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kantemir Arturovich Balagov (Kabardian: Бэлагъы Артурыкъуэ Къантемыр, Russian: Кантемир Артурович Балагов; born 28 July 1991) is a Russian filmmaker and cinematographer of Circassian ethnicity. Most known for his award-winning drama films Closeness (2017) and Beanpole (2019)."
     },
     "Sandra Wollner": {
       "lbxd_slug": "sandra-wollner",
@@ -6605,25 +6674,15 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Lars_von_Trier_2014_%28cropped%29.jpg/500px-Lars_von_Trier_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Lars von Trier (né Lars Trier; born 30 April 1956) is a Danish film director and screenwriter widely known for his provocative and highly polarizing style. His most notable works include Breaking the Waves (1996), The Idiots (1998), Dancer in the Dark (2000), Dogville (2003), Antichrist (2009), Melancholia (2011) and Nymphomaniac (2013), as well as The Kingdom miniseries trilogy (1994–2022). Beginning in the late-1960s as a child actor working on Danish television series Secret Summer, Trier's career has spanned more than five decades."
     },
-    "Albert Serra": {
-      "lbxd_slug": "albert-serra",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/MKr348252_Albert_Serra_%28Berlinale_2024%29.jpg/500px-MKr348252_Albert_Serra_%28Berlinale_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Albert Serra Juanola (Catalan: [əlˈβɛrt ˈsɛrə]; born 9 October 1975) is a Spanish filmmaker and producer. His films usually explore the imminence of death through the slow cinema genre. He is best known for Story of My Death (2013), which won the Golden Leopard at the 66th Locarno Film Festival, The Death of Louis XIV (2016) and Pacifiction (2022)."
-    },
-    "Kantemir Balagov": {
-      "lbxd_slug": "kantemir-balagov",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kantemir_Balagov_at_the_2026_Cannes_Film_Festival_01_%28cropped%29.jpg/500px-Kantemir_Balagov_at_the_2026_Cannes_Film_Festival_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Kantemir Arturovich Balagov (Kabardian: Бэлагъы Артурыкъуэ Къантемыр, Russian: Кантемир Артурович Балагов; born 28 July 1991) is a Russian filmmaker and cinematographer of Circassian ethnicity. Most known for his award-winning drama films Closeness (2017) and Beanpole (2019)."
+    "Nathan Fielder, Lance Oppenheim": {
+      "lbxd_slug": "nathan-fielder",
+      "photo": null,
+      "bio": null
     },
     "Mario Martone": {
       "lbxd_slug": "mario-martone",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mario_Martone-8102.jpg/500px-Mario_Martone-8102.jpg",
       "bio": "Mario Martone (born 20 November 1959) is an Italian filmmaker. He has directed more than 30 films since 1985. His films have been shown in prestigious international film festivals over the world."
-    },
-    "Nathan Fielder, Lance Oppenheim": {
-      "lbxd_slug": "nathan-fielder",
-      "photo": null,
-      "bio": null
     },
     "Gilles Pontecorvo": {
       "lbxd_slug": "gillo-pontecorvo",
@@ -6640,6 +6699,11 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Juan_Mora_Catlett.jpg/500px-Juan_Mora_Catlett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Juan Mora Catlett is a Mexican film and documentary director. He is known for making films focused on artists and the pre-Hispanic peoples of Mexico."
     },
+    "Dominga Sotomayor": {
+      "lbxd_slug": "dominga-sotomayor",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dominga_Sotomayor_Castillo.jpg/500px-Dominga_Sotomayor_Castillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Dominga Sotomayor Castillo (born 1985) is a Chilean filmmaker."
+    },
     "Radu Jude": {
       "lbxd_slug": "radu-jude",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Radu_Jude_at_Berlinale_2025-1.jpg/500px-Radu_Jude_at_Berlinale_2025-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6655,20 +6719,10 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Paula Delsol, or Paule Delsol, was born on October 6, 1923, in Montagnac, Hérault, France, died on June 12, 2015, at Sèvres (Hauts-de-Seine) and is buried at Père Lachaise Cemetery. She was a French feature film director, documentarian, screenwriter, novelist, and also made contributions to French television. Her contributions to the iconic French New Wave are only rarely acknowledged; alongside Agnès Varda, Delsol was one of only two women practitioners in the movement."
     },
-    "Dominga Sotomayor": {
-      "lbxd_slug": "dominga-sotomayor",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dominga_Sotomayor_Castillo.jpg/500px-Dominga_Sotomayor_Castillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Dominga Sotomayor Castillo (born 1985) is a Chilean filmmaker."
-    },
     "Tiago Guedes": {
       "lbxd_slug": "tiago-guedes",
       "photo": null,
       "bio": "Tiago Guedes (born 20 June 1971) is a Portuguese filmmaker. Most known for his films The Domain (2019) and Aquí (2026), and the television series Glória (2021)."
-    },
-    "Pascal Bonitzer": {
-      "lbxd_slug": "pascal-bonitzer",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pascal_bonitzer_deauville.jpg/500px-Pascal_bonitzer_deauville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Pascal Bonitzer (French: [bɔnitsɛʁ]; born 1 February 1946) is a French screenwriter, film director, actor, and former film critic for Cahiers du cinéma. Since 1967, he has written for 48 films, appeared in 30 films, and directed 10. He starred in Raúl Ruiz's 1978 film The Suspended Vocation."
     },
     "John Waters": {
       "lbxd_slug": "john-waters-2",
@@ -6680,10 +6734,10 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/MJKr01634_Alexander_Kluge_%28NRW-Empfang%2C_Berlinale_2020%29.jpg/500px-MJKr01634_Alexander_Kluge_%28NRW-Empfang%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Alexander Ernst Kluge (14 February 1932 – 25 March 2026) was a German author, film director, academic and founder of a television production company. After studies with Theodor W. Adorno in Frankfurt, he worked as an assistant to Fritz Lang for The Tiger of Eschnapur."
     },
-    "Charles Burnett": {
-      "lbxd_slug": "charles-burnett",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Air_Chf_Mshl_Sir_Charles_Burnett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bio": "Charles Burnett may refer to:\n\nCharles Burnett (director) (born 1944), American film director\nCharles Burnett (officer of arms) (1940–2024), Scottish Officer of Arms\nCharles Burnett (RAF officer) (1882–1945), Royal Air Force officer and Australian Chief of the Air Staff\nCharles Hiram Burnett Sr."
+    "Pascal Bonitzer": {
+      "lbxd_slug": "pascal-bonitzer",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pascal_bonitzer_deauville.jpg/500px-Pascal_bonitzer_deauville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Pascal Bonitzer (French: [bɔnitsɛʁ]; born 1 February 1946) is a French screenwriter, film director, actor, and former film critic for Cahiers du cinéma. Since 1967, he has written for 48 films, appeared in 30 films, and directed 10. He starred in Raúl Ruiz's 1978 film The Suspended Vocation."
     },
     "Stanley Kubrick": {
       "lbxd_slug": "stanley-kubrick",
@@ -6695,20 +6749,30 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/David_Cronenberg.jpg/500px-David_Cronenberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "David Paul Cronenberg (born March 15, 1943) is a Canadian film director, screenwriter, producer and actor. He is a principal originator of the body horror genre, with his films exploring visceral bodily transformation, infectious diseases, and the intertwining of the psychological, physical, and technological. Cronenberg is best known for exploring these themes through sci-fi horror films such as Shivers (1975), Scanners (1981), Videodrome (1983) and The Fly (1986), though he has also directed dramas, psychological thrillers and gangster films."
     },
+    "Charles Burnett": {
+      "lbxd_slug": "charles-burnett",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Air_Chf_Mshl_Sir_Charles_Burnett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bio": "Charles Burnett may refer to:\n\nCharles Burnett (director) (born 1944), American film director\nCharles Burnett (officer of arms) (1940–2024), Scottish Officer of Arms\nCharles Burnett (RAF officer) (1882–1945), Royal Air Force officer and Australian Chief of the Air Staff\nCharles Hiram Burnett Sr."
+    },
     "Martin McDonagh": {
       "lbxd_slug": "martin-mcdonagh",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg/500px-Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Martin Faranan McDonagh (  mək-DON-ə; born 26 March 1970) is a British-born Irish playwright and filmmaker. Known for his absurdist dark humour and provocative style, he has received numerous accolades, including an Academy Award, six BAFTAs, two Golden Globes, and three Laurence Olivier Awards in addition to nominations for five Tony Awards. His plays, many of which have been produced in the West End and on Broadway, include The Beauty Queen of Leenane, The Cripple of Inishmaan (both 1996), The Lonesome West (1997), The Lieutenant of Inishmore (2001), The Pillowman (2003), A Behanding in Spokane (2010), and Hangmen (2015)."
+    },
+    "Yuval Abraham & Rachel Szor": {
+      "lbxd_slug": "yuval-abraham",
+      "photo": null,
+      "bio": null
     },
     "Léonor Serraille": {
       "lbxd_slug": "leonor-serraille",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/L%C3%A9onor_Serraille_-_IFFR_2023.jpg/500px-L%C3%A9onor_Serraille_-_IFFR_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Léonor Serraille (born 1986) is a French screenwriter and director."
     },
-    "Yuval Abraham & Rachel Szor": {
-      "lbxd_slug": "yuval-abraham",
-      "photo": null,
-      "bio": null
+    "Sarah Arnold": {
+      "lbxd_slug": "sarah-arnold",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/2011_Canadian_Championships_Sarah_Arnold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bio": "Canadian ice dancer"
     },
     "Ricardo Oliveira": {
       "lbxd_slug": "ricardo-oliveira-3",
@@ -6890,11 +6954,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Arthur Harari": {
-      "lbxd_slug": "arthur-harari",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Arthur_Harari_2017.jpg/500px-Arthur_Harari_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Arthur Harari (born 1981 in Paris) is a French film director, screenwriter and actor. He is most known for co-writing Anatomy of a Fall (2023) with Justine Triet, for which he won the Golden Globe Award for Best Screenplay, BAFTA Award for Best Original Screenplay, César Award for Best Original Screenplay and Academy Award for Best Original Screenplay. He made his directorial debut in 2016 with the crime drama Dark Inclusion."
-    },
     "Alejandro González Iñarritu": {
       "lbxd_slug": "alejandro-g-inarritu",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg/500px-MKr386809_Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_%28Amores_Perros%2C_Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6920,6 +6979,11 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Photographs%2C_Paris_-_UNESCO_-_PHOTO0000003809_0001.tiff/lossy-page1-500px-Photographs%2C_Paris_-_UNESCO_-_PHOTO0000003809_0001.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "Brazilian chemist (1901–1982)"
     },
+    "Arthur Harari": {
+      "lbxd_slug": "arthur-harari",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Arthur_Harari_2017.jpg/500px-Arthur_Harari_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Arthur Harari (born 1981 in Paris) is a French film director, screenwriter and actor. He is most known for co-writing Anatomy of a Fall (2023) with Justine Triet, for which he won the Golden Globe Award for Best Screenplay, BAFTA Award for Best Original Screenplay, César Award for Best Original Screenplay and Academy Award for Best Original Screenplay. He made his directorial debut in 2016 with the crime drama Dark Inclusion."
+    },
     "Grace Passô": {
       "lbxd_slug": "grace-passo",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Grace_Pass%C3%B4.jpg/500px-Grace_Pass%C3%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6934,6 +6998,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "victor-erice",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Victor_Erice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Víctor Erice Aras (Spanish: [ˈbiɣtoɾ eˈɾiθe]; born 30 June 1940) is a Spanish film director. He is best known for his first two feature fiction films, The Spirit of the Beehive (1973), which many regard as one of the greatest Spanish films ever made, and El Sur (1983)."
+    },
+    "Paweł Pawlikowski": {
+      "lbxd_slug": "pawel-pawlikowski-1",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pawe%C5%82_Pawlikowski_fot._Aleksandra_Modrzejewska.jpg/500px-Pawe%C5%82_Pawlikowski_fot._Aleksandra_Modrzejewska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Paweł Aleksander Pawlikowski (Polish: [ˈpavɛw alɛˈksandɛr pavliˈkɔfskʲi]; born 15 September 1957) is a Polish filmmaker. He garnered early praise for a string of documentaries in the 1990s and for his award-winning feature films of the 2000s, Last Resort (2000) and My Summer of Love (2004). His success continued into the 2010s with Ida (2013), which won the Academy Award for Best International Feature Film representing Poland."
     },
     "Emir Kusturica": {
       "lbxd_slug": "emir-kusturica",

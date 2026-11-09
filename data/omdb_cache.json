@@ -98004,7 +98004,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "272685",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "On Dangerous Ground|1952": {
     "lbxd": {
@@ -98205,7 +98205,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/ka/54/rr/jx/from%20the%20life-1920-1920-1080-1080-crop-000000.jpg?v=3ee4b3a479"
     ],
     "tmdb_id": "42152",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "On Dangerous Ground|1951": {
     "lbxd": {
@@ -98279,5 +98279,402 @@
       "https://a.ltrbxd.com/resized/sm/upload/id/ns/rt/5e/dangerous-1920-1920-1080-1080-crop-000000.jpg?v=e541bc6ad7"
     ],
     "tmdb_id": "31152"
+  },
+  "NAZA|2026": {
+    "lbxd": {
+      "rating": 4.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
+      "description": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "country": "USA",
+      "lb_director": "Yuval Abraham",
+      "lb_director_slug": "yuval-abraham",
+      "lb_year": 2026,
+      "lb_title": "NAZA",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386",
+      "imdb_id": "tt44766123",
+      "tmdb_id": "1755291"
+    },
+    "omdb": {
+      "Title": "Naza",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "16 Oct 2026",
+      "Runtime": "80 min",
+      "Genre": "Documentary, War",
+      "Director": "Yuval Abraham, Rachel Szor",
+      "Writer": "Yuval Abraham, Rachel Szor",
+      "Actors": "Yuval Abraham",
+      "Plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "Language": "Hebrew, English, Arabic",
+      "Country": "United Kingdom, United States",
+      "Awards": "6 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5YjdhYTYtNmY5ZS00Mzg1LTkyNDItOGQ1YzQ1MDYzNWJlXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "7.9",
+      "imdbVotes": "3,173",
+      "imdbID": "tt44766123",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "NAZA (film)",
+      "imdb_id": "tt44766123",
+      "extract_pt": "NAZA é um longa-metragem documental britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorreu ao Leão de Ouro, e venceu o Prémio Especial do Júri. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      61.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
+    ],
+    "tmdb_id": "1755291"
+  },
+  "A Praga|2026": {
+    "lbxd": {
+      "rating": 3.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/0/2/1/3/3/902133-too-many-beasts-0-500-0-750-crop.jpg?v=270deb6272",
+      "description": "In the French countryside, wild boars ravaging crops spark an open war between farmers and members of a gentlemen’s hunting club, who feed the game between hunts. Brun, a bankrupt farmer, struggles to keep his farm afloat. When the club’s president pushes him to his limits, Brun shoots him and disappears. A year later, Fulda, a volatile police officer just transferred to the region, leads the investigation. Still struggling after a recent breakup, and as wild boars proliferate across the region, he is pushed to the brink of sanity.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Sarah Arnold",
+      "lb_director_slug": "sarah-arnold",
+      "lb_year": 2026,
+      "lb_title": "Too Many Beasts",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/2/1/3/3/tmdb/nu5sI7lYxYbvagzI8YyQximiLCF-1920-1920-1080-1080-crop-000000.jpg?v=01108222d9",
+      "imdb_id": "tt38841455",
+      "tmdb_id": "1001405"
+    },
+    "omdb": {
+      "Title": "Too Many Beasts",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "12 Nov 2026",
+      "Runtime": "95 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sarah Arnold",
+      "Writer": "Sarah Arnold, Mehdi Ben Attia, Jérémie Dubois",
+      "Actors": "Alexis Manenti, Ella Rumpf, Vincent Dedienne",
+      "Plot": "In the French countryside, wild boars have sparked a war between hunters and farmers. When a bigwig pushes a bankrupt farmer, he snaps and vanishes. A year later, Fulda takes charge of the investigation.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q1NDk1ZTktNzlhNi00ODRlLTllMWQtNjJmMWVkNzc0YWRmXkEyXkFqcGc@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "26",
+      "imdbID": "tt38841455",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/2/1/3/3/tmdb/nu5sI7lYxYbvagzI8YyQximiLCF-1920-1920-1080-1080-crop-000000.jpg?v=01108222d9"
+    ],
+    "tmdb_id": "1001405"
+  },
+  "Ida|2013": {
+    "lbxd": {
+      "rating": 4.04,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/h3/mx/2r/h5/aO8dgaxaY1tcAdtFkLuz1WSxgdd-0-500-0-750-crop.jpg?v=2a05cca0fa",
+      "description": "In 1960s Poland, young novitiate Anna is on the verge of taking her vows when she discovers a family secret dating back to the years of the German occupation.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Poland",
+      "lb_director": "Paweł Pawlikowski",
+      "lb_director_slug": "pawel-pawlikowski-1",
+      "lb_year": 2013,
+      "lb_title": "Ida",
+      "backdrop": null,
+      "imdb_id": "tt2718492",
+      "tmdb_id": "209274"
+    },
+    "omdb": {
+      "Title": "Ida",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "25 Oct 2013",
+      "Runtime": "82 min",
+      "Genre": "Drama",
+      "Director": "Pawel Pawlikowski",
+      "Writer": "Pawel Pawlikowski, Rebecca Lenkiewicz",
+      "Actors": "Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik",
+      "Plot": "A novice nun about to take her vows uncovers a family secret dating back to the German occupation.",
+      "Language": "Polish, Latin, French",
+      "Country": "Poland, Denmark, France, United Kingdom",
+      "Awards": "Won 1 Oscar. 75 wins & 92 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODAyN2EtYzg3Mi00OWY5LWI2MzgtMmVlNGRjZmNjMDgxXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "91/100"
+        }
+      ],
+      "Metascore": "91",
+      "imdbRating": "7.4",
+      "imdbVotes": "63,564",
+      "imdbID": "tt2718492",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,827,060",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2013,
+      "country": "Polônia e Dinamarca",
+      "plot_pt": "Polónia, 1962. Anna é uma bonita jovem de 18 anos que irá em breve celebrar os votos definitivos para se tornar freira no convento onde vive desde que ficou órfã em criança. A madre obriga-a a conhecer antes da celebração dos votos a única familiar viva, a tia Wanda. Juntas, as duas mulheres embarcam numa viagem à descoberta de si próprias e do passado que têm em comum. Anna descobre que é judia e que o seu verdadeiro nome é Ida. Esta revelação leva-a a dar início a uma jornada para desvendar as suas raízes e confrontar a verdade sobre a sua família. Ida terá de escolher entre a sua identidade biológica e a religião que a salvou dos massacres provocados pela ocupação Nazi na Polónia. E Wanda terá de confrontar as decisões que tomou durante a guerra quando optou por colocar a lealdade à causa à frente da sua família."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "209274"
+  },
+  "Cold War|2018": {
+    "lbxd": {
+      "rating": 4.06,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/3/0/1/8/373018-cold-war-0-500-0-750-crop.jpg?v=de8b168828",
+      "description": "A man and a woman meet in the ruins of post-war Poland. With vastly different backgrounds and temperaments, they are fatally mismatched and yet drawn to each other.",
+      "genres": [
+        "Romance",
+        "Music",
+        "Drama"
+      ],
+      "country": "Poland",
+      "lb_director": "Paweł Pawlikowski",
+      "lb_director_slug": "pawel-pawlikowski-1",
+      "lb_year": 2018,
+      "lb_title": "Cold War",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rx/72/x5/uy/cold-war-1920-1920-1080-1080-crop-000000.jpg?v=ec5d39a54f",
+      "imdb_id": "tt6543652",
+      "tmdb_id": "440298"
+    },
+    "omdb": {
+      "Title": "Cold War",
+      "Year": "2018",
+      "Rated": "R",
+      "Released": "08 Jun 2018",
+      "Runtime": "89 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Pawel Pawlikowski",
+      "Writer": "Pawel Pawlikowski, Janusz Glowacki, Piotr Borkowski",
+      "Actors": "Joanna Kulig, Tomasz Kot, Borys Szyc",
+      "Plot": "In the 1950s, a music director falls in love with a singer and tries to persuade her to flee communist Poland for France.",
+      "Language": "Polish, French, Croatian, German, Russian, Serbian, Italian",
+      "Country": "Poland, United Kingdom, France, Belgium, India, Croatia",
+      "Awards": "Nominated for 3 Oscars. 53 wins & 126 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQ5ZjYyMjAtNzBkMS00ZDJkLThmMmQtYTBjOTRiMjhkNGNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.5",
+      "imdbVotes": "66,162",
+      "imdbID": "tt6543652",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,580,048",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2018,
+      "original_title": "Zimna wojna",
+      "country": "Polônia, Dinamarca e Reino Unido",
+      "plot_pt": "Cold War é uma impetuosa história de amor entre duas pessoas de diferentes origens e temperamentos, que são fatalmente incompatíveis, mas que estão destinadas a estar juntas. Tendo como pano de fundo a Guerra Fria nos anos 50 na Polónia, Berlim, Jugoslávia e Paris, o filme retrata uma história de amor impossível em tempos impossíveis."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/rx/72/x5/uy/cold-war-1920-1920-1080-1080-crop-000000.jpg?v=ec5d39a54f"
+    ],
+    "tmdb_id": "440298"
+  },
+  "Fatherland|2026": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-500-0-750-crop.jpg?v=6995cce652",
+      "description": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Poland",
+      "lb_director": "Paweł Pawlikowski",
+      "lb_director_slug": "pawel-pawlikowski-1",
+      "lb_year": 2026,
+      "lb_title": "Fatherland",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/47/cn/d2/rt/f7plF7QuPfucWQU5DxqkgLp9gFN-1920-1920-1080-1080-crop-000000.jpg?v=b0a5f94100",
+      "imdb_id": "tt37304295",
+      "tmdb_id": "1437696"
+    },
+    "omdb": {
+      "Title": "Fatherland",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "19 Jun 2026",
+      "Runtime": "82 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Pawel Pawlikowski",
+      "Writer": "Pawel Pawlikowski, Henk Handloegten",
+      "Actors": "Sandra Hüller, Hanns Zischler, August Diehl",
+      "Plot": "At the height of the Cold War, Fatherland centers on the relationship between the writer Thomas Mann and his daughter Erika—actress, writer and rally driver—as they embark on a road trip in a black Buick cruiser across a Germany i...",
+      "Language": "German, French, English, Russian",
+      "Country": "Poland, Germany, Italy, France",
+      "Awards": "1 win & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M5ZmVkMWMtOTNjZS00MjM3LTg3ODYtYjJmMDJjMjU0ODU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.3",
+      "imdbVotes": "1,773",
+      "imdbID": "tt37304295",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "country": "Polônia, Alemanha, Itália e França",
+      "plot_pt": "No auge da Guerra Fria, \"Pátria\" centra-se na relação entre o escritor Thomas Mann e a sua filha Erika — atriz, escritora e piloto de ralis — enquanto embarcam numa viagem de carro num Buick preto através de uma Alemanha em ruínas."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/47/cn/d2/rt/f7plF7QuPfucWQU5DxqkgLp9gFN-1920-1920-1080-1080-crop-000000.jpg?v=b0a5f94100"
+    ],
+    "tmdb_id": "1437696"
+  },
+  "WILD HORSE NINE|None": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
+      "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Martin McDonagh",
+      "lb_director_slug": "martin-mcdonagh",
+      "lb_year": 2026,
+      "lb_title": "Wild Horse Nine",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7",
+      "imdb_id": "tt15799564",
+      "tmdb_id": "891621"
+    },
+    "omdb": {
+      "Title": "Wild Horse Nine",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "06 Nov 2026",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin McDonagh",
+      "Writer": "Martin McDonagh",
+      "Actors": "Sam Rockwell, Steve Buscemi, Parker Posey",
+      "Plot": "CIA agents Chris and Lee face a trust-testing mission from Santiago to Easter Island during 1973 in Chile.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15799564",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      59.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
+    ],
+    "tmdb_id": "891621"
   }
 }

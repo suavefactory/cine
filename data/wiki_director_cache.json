@@ -3099,5 +3099,15 @@
     "photo": null,
     "bio": null,
     "tries": 3
+  },
+  "Sarah Arnold": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/2011_Canadian_Championships_Sarah_Arnold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "bio": "Canadian ice dancer",
+    "tries": 1
+  },
+  "Paweł Pawlikowski": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pawe%C5%82_Pawlikowski_fot._Aleksandra_Modrzejewska.jpg/500px-Pawe%C5%82_Pawlikowski_fot._Aleksandra_Modrzejewska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Paweł Aleksander Pawlikowski (Polish: [ˈpavɛw alɛˈksandɛr pavliˈkɔfskʲi]; born 15 September 1957) is a Polish filmmaker. He garnered early praise for a string of documentaries in the 1990s and for his award-winning feature films of the 2000s, Last Resort (2000) and My Summer of Love (2004). His success continued into the 2010s with Ida (2013), which won the Academy Award for Best International Feature Film representing Poland.",
+    "tries": 1
   }
 }
