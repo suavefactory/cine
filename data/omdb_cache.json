@@ -98407,7 +98407,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/2/1/3/3/tmdb/nu5sI7lYxYbvagzI8YyQximiLCF-1920-1920-1080-1080-crop-000000.jpg?v=01108222d9"
     ],
-    "tmdb_id": "1001405"
+    "tmdb_id": "1001405",
+    "wiki_tries": 1
   },
   "Ida|2013": {
     "lbxd": {
@@ -98466,7 +98467,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Ida (film)",
+      "imdb_id": "tt2718492",
+      "extract_pt": "Ida é um filme dano-polonês de 2013, do gênero drama, dirigido por Pawel Pawlikowski, vencedor da 87.ª edição do Oscar na categoria de Melhor Filme Estrangeiro, além de indicado a melhor fotografia. O filme ganhou várias gratificações e prêmios, incluindo Melhor Filme no Academia de Cinema Polonesa e Melhor Filme para a Academia de Cinema Europeu.\nEstreou em Portugal no dia 17 de julho de 2014 e no Brasil em 25 de dezembro de 2014."
+    },
     "cinema": {
       "year": 2013,
       "country": "Polônia e Dinamarca",
@@ -98474,7 +98479,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "209274"
+    "tmdb_id": "209274",
+    "wiki_tries": 1
   },
   "Cold War|2018": {
     "lbxd": {
@@ -98535,7 +98541,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Cold War (2018 film)",
+      "imdb_id": "tt6543652",
+      "extract_pt": "Zimna wojna (bra: Guerra Fria; prt: Cold War - Guerra Fria) é um filme franco-britano-polonês de 2018, dos gêneros drama romântico e ficção histórica, dirigido por Paweł Pawlikowski, com roteiro de Janusz Glowacki e do próprio diretor. \nCold War recebeu aclamação universal da crítica, levando-o a competir ao Palma de Ouro do Festival de Cinema de Cannes de 2018, entre outros."
+    },
     "cinema": {
       "year": 2018,
       "original_title": "Zimna wojna",
@@ -98549,7 +98559,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/rx/72/x5/uy/cold-war-1920-1920-1080-1080-crop-000000.jpg?v=ec5d39a54f"
     ],
-    "tmdb_id": "440298"
+    "tmdb_id": "440298",
+    "wiki_tries": 1
   },
   "Fatherland|2026": {
     "lbxd": {
@@ -98618,9 +98629,67 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/47/cn/d2/rt/f7plF7QuPfucWQU5DxqkgLp9gFN-1920-1920-1080-1080-crop-000000.jpg?v=b0a5f94100"
     ],
-    "tmdb_id": "1437696"
+    "tmdb_id": "1437696",
+    "wiki_tries": 1
   },
   "WILD HORSE NINE|None": {
+    "lbxd": {
+      "rating": 4.15,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
+      "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Martin McDonagh",
+      "lb_director_slug": "martin-mcdonagh",
+      "lb_year": 2026,
+      "lb_title": "Wild Horse Nine",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7",
+      "imdb_id": "tt15799564",
+      "tmdb_id": "891621"
+    },
+    "omdb": {
+      "Title": "Wild Horse Nine",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "06 Nov 2026",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin McDonagh",
+      "Writer": "Martin McDonagh",
+      "Actors": "Sam Rockwell, Steve Buscemi, Parker Posey",
+      "Plot": "CIA agents Chris and Lee face a trust-testing mission from Santiago to Easter Island during 1973 in Chile.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt15799564",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      59.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
+    ],
+    "tmdb_id": "891621"
+  },
+  "WILD HORSE NINE|2026": {
     "lbxd": {
       "rating": 4.15,
       "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
