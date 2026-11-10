@@ -98408,7 +98408,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/2/1/3/3/tmdb/nu5sI7lYxYbvagzI8YyQximiLCF-1920-1920-1080-1080-crop-000000.jpg?v=01108222d9"
     ],
     "tmdb_id": "1001405",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ida|2013": {
     "lbxd": {
@@ -98630,7 +98630,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/47/cn/d2/rt/f7plF7QuPfucWQU5DxqkgLp9gFN-1920-1920-1080-1080-crop-000000.jpg?v=b0a5f94100"
     ],
     "tmdb_id": "1437696",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "WILD HORSE NINE|None": {
     "lbxd": {
@@ -98687,7 +98687,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
     ],
-    "tmdb_id": "891621"
+    "tmdb_id": "891621",
+    "wiki_tries": 1
   },
   "WILD HORSE NINE|2026": {
     "lbxd": {
@@ -98745,5 +98746,203 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
     ],
     "tmdb_id": "891621"
+  },
+  "Liebelei|1932": {
+    "lbxd": {
+      "rating": 3.79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/5/5/7/21557-liebelei-0-500-0-750-crop.jpg?v=3b6f611b9e",
+      "description": "Vienna in the beginning of the twentieth century. Cavalry Lieutenant Fritz Lobheimer is about to end his affair with Baroness Eggerdorff when he meets the young Christine, the daughter of an opera violinist. Baron Eggerdorff however soon hears of his past misfortune...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Germany",
+      "lb_director": "Max Ophüls",
+      "lb_director_slug": "max-ophuls",
+      "lb_year": 1933,
+      "lb_title": "Liebelei",
+      "backdrop": null,
+      "imdb_id": "tt0024252",
+      "tmdb_id": "43596"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "43596"
+  },
+  "Odresitev Za Zacetnike|2024": {
+    "lbxd": {
+      "rating": 3.02,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/3/1/6/0/1093160-family-therapy-2024-0-500-0-750-crop.jpg?v=50715b9074",
+      "description": "In this black comedy drama, we meet a seemingly perfect family consisting of Olivia, Alexander and their daughter Agata. With the arrival of 25-year-old Julian in their home, their lives are turned upside down and their dysfunctional relationships are revealed. Redemption through humour explores the theme of emotionally drained elites and places it in the context of contemporary social issues.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Croatia",
+      "lb_director": "Sonja Prosenc",
+      "lb_director_slug": "sonja-prosenc",
+      "lb_year": 2024,
+      "lb_title": "Family Therapy",
+      "backdrop": null,
+      "imdb_id": "tt28090401",
+      "tmdb_id": "1208795"
+    },
+    "omdb": {
+      "Title": "Family Therapy",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "08 Jun 2024",
+      "Runtime": "122 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sonja Prosenc",
+      "Writer": "Sonja Prosenc",
+      "Actors": "Marko Mandic, Aliocha Schneider, Katarina Stegnar",
+      "Plot": "Young stranger disrupts seemingly perfect family's life, exposing their internal issues, fears, and dysfunctional relationships as external chaos invades their once idyllic existence.",
+      "Language": "Slovenian, English, French",
+      "Country": "Italy, Croatia, Norway, Serbia, Slovenia",
+      "Awards": "2 wins & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhZDdkYTQtYmY2Ni00Yzk1LWE3MTYtY2I1YzBiMTFjNzViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "66",
+      "imdbID": "tt28090401",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Family Therapy (film)",
+      "imdb_id": "tt28090401",
+      "extract_pt": "Odrešitev za začetnike é um filme de tragicomédia de Sonja Prosenc. A estreia mundial do filme, estrelado por Mila Bezjak, Aliocha Schneider, Marko Mandić e Katarina Stegnar, sobre uma família nouveau riche cuja vida está virada de cabeça para baixo, aconteceu em junho de 2024 no Tribeca Film Festival. Odrešitev za začetnike foi apresentado pela Eslovênia como uma inscrição para o Oscar de Melhor Filme Internacional de 2025."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1208795"
+  },
+  "Correspondências|2016": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/2/5/0/1/342501-correspondences-0-500-0-750-crop.jpg?v=ba5cf5e7c1",
+      "description": "Jorge de Sena was forced to leave his country. First he moved to Brazil, and later to the USA. He never returned to Portugal. During his 20-year-long exile, he kept an epistolary correspondence with Sophia de Mello Breyner Andresen. These letters are a testimony of the profound friendship between the two poets, letters of longing and of desire to “fill years of distance with hours of conversation”. Through excerpts and verses, a dialog is established, revealing their divergent opinions but mostly their strong bond, and their efforts to preserve it until their last breaths.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2016,
+      "lb_title": "Correspondences",
+      "backdrop": null,
+      "imdb_id": "tt5921198",
+      "tmdb_id": "408264"
+    },
+    "omdb": {
+      "Title": "Correspondences",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "01 Oct 2016",
+      "Runtime": "145 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes",
+      "Actors": "Mário Barroso, Luís Miguel Cintra, Tânia Dinis",
+      "Plot": "The film was inspired by the letters exchanged between two leading Portuguese poets, Sophia de Mello Breyner Andresen and Jorge de Sena, during the exile of the latter (1957-78). Through their poetry and their letters, the film bu...",
+      "Language": "Portuguese, French, English, Greek, Italian",
+      "Country": "Portugal, Argentina, Brazil, France, Greece",
+      "Awards": "2 wins & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDczMWNiYzAtNzZkMy00MmQxLWJlMDktNzUwNjExMGM3MjNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "11%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "133",
+      "imdbID": "tt5921198",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "Danses Macabres, Squelettes et Autres Fantaisies é um documentário franco-luso-suíço de 2019 realizado por Rita Azevedo Gomes, com Jean-Louis Schefer e Pierre Léon. O filme retrata o encontro destes três autores em Portugal para uma expedição pela teoria de cinema e imagem de Schefer, abordando momentos da história da representação alegórica ocidental.\nA longa-metragem fez parte da programação do 30º Festival International du Documentaire de Marseille, onde estreou a 12 de julho de 2019 e recebeu uma Menção Especial no Grande Prémio da Competição Nacional. Sem ter beneficiado de uma distribuição comercial, em Portugal, Danses Macabres, Squelettes et Autres Fantaisies estreou a 21 de outubro de 2019 no Grande Auditório da Culturgest, no âmbito do 17º Doclisboa."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "408264"
+  },
+  "Moja Vesna|2022": {
+    "lbxd": {
+      "rating": 3.45,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/2/4/3/5/832435-moja-vesna-0-500-0-750-crop.jpg?v=849e996fcb",
+      "description": "After her mother's sudden death, ten-year-old Moja becomes the unexpected grown-up of her fragmented family, trying to bring her troubled older sister Vesna and distant father together.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Australia",
+      "lb_director": "Sara Kern",
+      "lb_director_slug": "sara-kern",
+      "lb_year": 2022,
+      "lb_title": "Moja Vesna",
+      "backdrop": null,
+      "imdb_id": "tt7298782",
+      "tmdb_id": "927038"
+    },
+    "omdb": {
+      "Title": "Moja Vesna",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "13 Feb 2022",
+      "Runtime": "80 min",
+      "Genre": "Drama",
+      "Director": "Sara Kern",
+      "Writer": "Sara Kern",
+      "Actors": "Loti Kovacic, Mackenzie Mazur, Gregor Bakovic",
+      "Plot": "After her mother's sudden death, ten-year-old Moja becomes the unexpected grown-up of her fragmented family, trying to bring her troubled older sister Vesna and distant father together.",
+      "Language": "English, Slovenian",
+      "Country": "Slovenia, Australia",
+      "Awards": "2 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyYzVkOGUtYWQxMS00YmExLTk1OGMtNGIzMjkzMDU1YjlhXkEyXkFqcGdeQXVyOTA1ODE5Mzk@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "76",
+      "imdbID": "tt7298782",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "927038"
   }
 }
