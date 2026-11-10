@@ -98408,7 +98408,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/0/2/1/3/3/tmdb/nu5sI7lYxYbvagzI8YyQximiLCF-1920-1920-1080-1080-crop-000000.jpg?v=01108222d9"
     ],
     "tmdb_id": "1001405",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ida|2013": {
     "lbxd": {
@@ -98630,7 +98630,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/47/cn/d2/rt/f7plF7QuPfucWQU5DxqkgLp9gFN-1920-1920-1080-1080-crop-000000.jpg?v=b0a5f94100"
     ],
     "tmdb_id": "1437696",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "WILD HORSE NINE|None": {
     "lbxd": {
@@ -98745,7 +98745,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
     ],
-    "tmdb_id": "891621"
+    "tmdb_id": "891621",
+    "wiki_tries": 1
   },
   "Liebelei|1932": {
     "lbxd": {
@@ -98943,6 +98944,32 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "927038"
+    "tmdb_id": "927038",
+    "wiki_tries": 1
+  },
+  "Liebelei|1933": {
+    "lbxd": {
+      "rating": 3.79,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/1/5/5/7/21557-liebelei-0-500-0-750-crop.jpg?v=3b6f611b9e",
+      "description": "Vienna in the beginning of the twentieth century. Cavalry Lieutenant Fritz Lobheimer is about to end his affair with Baroness Eggerdorff when he meets the young Christine, the daughter of an opera violinist. Baron Eggerdorff however soon hears of his past misfortune...",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Germany",
+      "lb_director": "Max Ophüls",
+      "lb_director_slug": "max-ophuls",
+      "lb_year": 1933,
+      "lb_title": "Liebelei",
+      "backdrop": null,
+      "imdb_id": "tt0024252",
+      "tmdb_id": "43596"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "43596"
   }
 }
