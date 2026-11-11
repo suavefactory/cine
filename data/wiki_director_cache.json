@@ -3124,5 +3124,25 @@
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Proslava_ob_Pre%C5%A1ernovem_dnevu_%2853515619133%29_%28cropped%29.jpg/500px-Proslava_ob_Pre%C5%A1ernovem_dnevu_%2853515619133%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "bio": "Slovene film director and screenwriter",
     "tries": 1
+  },
+  "Simon Stone": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Simon_Stone_Nestroy-Theaterpreis_2015.jpg/500px-Simon_Stone_Nestroy-Theaterpreis_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Simon Stone (born 1984) is an Australian film and theatre director, writer and actor.",
+    "tries": 1
+  },
+  "Ester Ivakic": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ester_Ivaki%C4%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "bio": "Slovenian film director",
+    "tries": 1
+  },
+  "Ursa Menart": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ur%C5%A1a_Menart_2018_%28cropped%29.jpg/500px-Ur%C5%A1a_Menart_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Slovene film director",
+    "tries": 1
+  },
+  "Andrei Zvyagintsev": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Andrey_Zvyagintsev_at_the_2026_Cannes_Film_Festival_winners_press_conference_%28cropped%29.jpg/500px-Andrey_Zvyagintsev_at_the_2026_Cannes_Film_Festival_winners_press_conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Andrey Petrovich Zvyagintsev (Russian: Андрей Петрович Звягинцев, pronounced [ˈzvʲæɡʲɪntsɨf]; born 6 February 1964) is a Russian filmmaker. His films usually explore Russian society and politics in the 21st century, featuring bleak atmosphere and neo-noir style. His debut film The Return (2003) won the Golden Lion at the Venice Film Festival.",
+    "tries": 1
   }
 }
