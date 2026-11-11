@@ -77409,7 +77409,8 @@
       "https://medeiafilmes.com/uploads/library/410.jpg",
       "https://medeiafilmes.com/uploads/library/217.jpg"
     ],
-    "tmdb_id": "1461062"
+    "tmdb_id": "1461062",
+    "wiki_tries": 1
   },
   "Mistérios de Lisboa|2010": {
     "lbxd": {
@@ -98946,7 +98947,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "927038",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Liebelei|1933": {
     "lbxd": {
@@ -98973,5 +98974,361 @@
     "stills": null,
     "tmdb_id": "43596",
     "wiki_tries": 1
+  },
+  "Elsinore|None": {
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-500-0-750-crop.jpg?v=858fb58a95",
+      "description": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Simon Stone",
+      "lb_director_slug": "simon-stone",
+      "lb_year": 2026,
+      "lb_title": "Elsinore",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108",
+      "imdb_id": "tt37363222",
+      "tmdb_id": "1599230"
+    },
+    "omdb": {
+      "Title": "Elsinore",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "24 Dec 2026",
+      "Runtime": "N/A",
+      "Genre": "Biography, Drama",
+      "Director": "Simon Stone",
+      "Writer": "Stephen Beresford",
+      "Actors": "Andrew Scott, Olivia Colman, Billie Piper",
+      "Plot": "A powerful, deeply moving and inspiring story of the actor Ian Charleson who faced incredible odds while preparing to give the performance of his life in Hamlet at the National Theatre in London.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MjI2NTc1Ml5BMl5BanBnXkFtZTcwMzM5NjY4Nw@@._V1_QL75_UX280_CR0,27,280,280_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37363222",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108"
+    ],
+    "tmdb_id": "1599230"
+  },
+  "Ida, Ki Je Pela Tako Grdo, Da So Se Mrtvi Vstali Od Mrtvih In Zapeli Z Njo|2025": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/5/5/0/0/1435500-ida-who-sang-so-badly-even-the-dead-rose-0-500-0-750-crop.jpg?v=ad62c9b8ef",
+      "description": "Ten-year-old Ida believes that the mysterious angelic singing resounding across the village graveyard is the only thing keeping her beloved Grandma alive. So she decides to join the school choir-even though she is absolutely tone deaf.",
+      "genres": [
+        "Music",
+        "Fantasy"
+      ],
+      "country": "Slovenia",
+      "lb_director": "Ester Ivakič",
+      "lb_director_slug": "ester-ivakic",
+      "lb_year": 2025,
+      "lb_title": "Ida Who Sang So Badly Even the Dead Rose Up and Joined Her in Song",
+      "backdrop": null,
+      "imdb_id": "tt38690249",
+      "tmdb_id": "1562398"
+    },
+    "omdb": {
+      "Title": "Ida, ki je pela tako grdo, da so se mrtvi vstali od mrtvih in zapeli z njo",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "07 Nov 2025",
+      "Runtime": "109 min",
+      "Genre": "Drama",
+      "Director": "Ester Ivakic",
+      "Writer": "Ester Ivakic, Nika Jurman",
+      "Actors": "Lana Maric, Liza Mursic, Judita Frankovic",
+      "Plot": "Ten-year-old Ida believes that the mysterious angelic singing resounding across the village graveyard is the only thing keeping her beloved Grandma alive. So she decides to join the school choir-even though she is absolutely tone ...",
+      "Language": "Slovenian, Bosnian",
+      "Country": "Slovenia",
+      "Awards": "3 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjUzNjY0YWQtYWVkNy00MWY5LTlkZDctNmE3YWZlZDkxNDFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "47",
+      "imdbID": "tt38690249",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1562398",
+    "wiki_tries": 1
+  },
+  "Ne Bom Vec Luzerka|2018": {
+    "lbxd": {
+      "rating": 3.46,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/1/6/4/0/431640-my-last-year-as-a-loser-0-500-0-750-crop.jpg?v=2e70f92ee0",
+      "description": "Špela graduated in Art History and has never had a steady job. Unlike her two best friends, who have moved out of Slovenia years ago with no plans to return, she is determined to stay in Ljubljana. When even her longtime boyfriend gets a job abroad she moves back in with her parents and her grandma. But Špela wants to grow up and cut the cord instead of delaying her already well overdue adulthood any longer.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "Slovenia",
+      "lb_director": "Urša Menart",
+      "lb_director_slug": "ursa-menart",
+      "lb_year": 2018,
+      "lb_title": "My Last Year as a Loser",
+      "backdrop": null,
+      "imdb_id": "tt8766224",
+      "tmdb_id": "501529"
+    },
+    "omdb": {
+      "Title": "My Last Year as a Loser",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "10 Sep 2018",
+      "Runtime": "88 min",
+      "Genre": "Drama",
+      "Director": "Ursa Menart",
+      "Writer": "Ursa Menart",
+      "Actors": "Eva Jesenovec, Ziva Selan, Sasa Pavcek",
+      "Plot": "A comedy/drama about disillusionment, shame and the gap between the over educated, under employed millennials and their parents, who had high expectations for their kids and feel powerless when watching them fail.",
+      "Language": "Slovenian",
+      "Country": "Slovenia",
+      "Awards": "6 wins & 2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcwMWYyMTgtNzY2ZC00ZWUyLWIxM2MtMTdkZjhiZmY0MzQ2XkEyXkFqcGdeQXVyMjQ0MjQ3NDk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "318",
+      "imdbID": "tt8766224",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "501529",
+    "wiki_tries": 1
+  },
+  "Minotauro|2026": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-500-0-750-crop.jpg?v=e55e5e7945",
+      "description": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Andrey Zvyagintsev",
+      "lb_director_slug": "andrey-zvyagintsev-1",
+      "lb_year": 2026,
+      "lb_title": "Minotaur",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/7/6/3/3/3/9/tmdb/u23GVuhvrbCTjJMMeDE7QCBdUkj-1920-1920-1080-1080-crop-000000.jpg?v=1eb9500dcc",
+      "imdb_id": "tt37118301",
+      "tmdb_id": "848700"
+    },
+    "omdb": {
+      "Title": "Minotaur",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "14 Oct 2026",
+      "Runtime": "135 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Andrey Zvyagintsev",
+      "Writer": "Claude Chabrol, Simon Lyashenko, Andrey Zvyagintsev",
+      "Actors": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin",
+      "Plot": "A high-powered executive's meticulously controlled existence unravels when professional crises, global chaos, and marital betrayal converge, pushing him toward a dangerous breaking point.",
+      "Language": "Russian",
+      "Country": "France, Latvia, Germany",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEwOWY3YTAtYzVlYS00YTdlLWJkMGQtMjkwM2M3NTMxZTY1XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "7.6",
+      "imdbVotes": "55",
+      "imdbID": "tt37118301",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "plot_pt": "A vida controlada de um executivo de sucesso começa a desmoronar-se quando enfrenta problemas no trabalho, uma crise mundial e uma traição no casamento, levando-o ao limite."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/7/6/3/3/3/9/tmdb/u23GVuhvrbCTjJMMeDE7QCBdUkj-1920-1920-1080-1080-crop-000000.jpg?v=1eb9500dcc"
+    ],
+    "tmdb_id": "848700",
+    "wiki_tries": 1
+  },
+  "A SAVANA E A MONTANHA|None": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/4/4/4/1158444-savanna-and-the-mountain-0-500-0-750-crop.jpg?v=99369ce7f9",
+      "description": "The community of Covas do Barroso, in northern Portugal, discovers that the British company Savannah Resources plans to build the largest open-pit lithium mine in Europe just few meters from their homes. Confronted by this imminent threat, the People decide to organize themselves and expel the company from their lands.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Paulo Carneiro",
+      "lb_director_slug": "paulo-carneiro",
+      "lb_year": 2024,
+      "lb_title": "Savanna and the Mountain",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968",
+      "imdb_id": "tt32128938",
+      "tmdb_id": "1275245"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968"
+    ],
+    "tmdb_id": "1275245"
+  },
+  "Elsinore|2026": {
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-500-0-750-crop.jpg?v=858fb58a95",
+      "description": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Simon Stone",
+      "lb_director_slug": "simon-stone",
+      "lb_year": 2026,
+      "lb_title": "Elsinore",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108",
+      "imdb_id": "tt37363222",
+      "tmdb_id": "1599230"
+    },
+    "omdb": {
+      "Title": "Elsinore",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "24 Dec 2026",
+      "Runtime": "N/A",
+      "Genre": "Biography, Drama",
+      "Director": "Simon Stone",
+      "Writer": "Stephen Beresford",
+      "Actors": "Andrew Scott, Olivia Colman, Billie Piper",
+      "Plot": "A powerful, deeply moving and inspiring story of the actor Ian Charleson who faced incredible odds while preparing to give the performance of his life in Hamlet at the National Theatre in London.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MjI2NTc1Ml5BMl5BanBnXkFtZTcwMzM5NjY4Nw@@._V1_QL75_UX280_CR0,27,280,280_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt37363222",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Elsinore (film)",
+      "imdb_id": "tt37363222",
+      "extract_pt": "Elsinore é um longa-metragem de drama biográfico de 2026 dirigido por Simon Stone e escrito por Stephen Beresford, sobre o ator escocês Ian Charleson (1949–1990). Coproduzido entre Estados Unidos, Reino Unido e Itália, é estrelado por Andrew Scott no papel de Charleson em sua atuação como Hamlet no National Theatre durante os últimos meses de sua vida, retratando os desafios que enfrentou para se preparar e atuar no papel enquanto lutava contra o HIV/AIDS. O elenco ainda é composto por Olivia Colman, Billie Piper, Sadie Soverall, Johnny Flynn.\nO filme teve sua estreia mundial em 4 de setembro de 2026, no 53º Festival de Cinema de Telluride, e estreou nos cinemas norte-americanos pela Focus Features em 20 de novembro de 2026. No Brasil, distribuído pela Universal chegará aos cinemas no dia 28 de janeiro de 2027."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      27.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108"
+    ],
+    "tmdb_id": "1599230"
+  },
+  "A SAVANA E A MONTANHA|2024": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/8/4/4/4/1158444-savanna-and-the-mountain-0-500-0-750-crop.jpg?v=99369ce7f9",
+      "description": "The community of Covas do Barroso, in northern Portugal, discovers that the British company Savannah Resources plans to build the largest open-pit lithium mine in Europe just few meters from their homes. Confronted by this imminent threat, the People decide to organize themselves and expel the company from their lands.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Paulo Carneiro",
+      "lb_director_slug": "paulo-carneiro",
+      "lb_year": 2024,
+      "lb_title": "Savanna and the Mountain",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968",
+      "imdb_id": "tt32128938",
+      "tmdb_id": "1275245"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "List of Portuguese films of 2025",
+      "imdb_id": null,
+      "extract_pt": "Lista de filmes portugueses de longa-metragem lançados comercialmente em Portugal em 2025, nas salas de cinemas."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      42.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968"
+    ],
+    "tmdb_id": "1275245"
   }
 }
