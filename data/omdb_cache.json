@@ -77410,7 +77410,7 @@
       "https://medeiafilmes.com/uploads/library/217.jpg"
     ],
     "tmdb_id": "1461062",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Mistérios de Lisboa|2010": {
     "lbxd": {
@@ -98689,7 +98689,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/8/0/2/6/3/2/tmdb/tk3NDKJYKBAUOKJaH0qshGwCV01-1920-1920-1080-1080-crop-000000.jpg?v=1693d6f7b7"
     ],
     "tmdb_id": "891621",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "WILD HORSE NINE|2026": {
     "lbxd": {
@@ -98773,7 +98773,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "43596",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Odresitev Za Zacetnike|2024": {
     "lbxd": {
@@ -99028,7 +99028,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108"
     ],
-    "tmdb_id": "1599230"
+    "tmdb_id": "1599230",
+    "wiki_tries": 1
   },
   "Ida, Ki Je Pela Tako Grdo, Da So Se Mrtvi Vstali Od Mrtvih In Zapeli Z Njo|2025": {
     "lbxd": {
@@ -99080,7 +99081,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1562398",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ne Bom Vec Luzerka|2018": {
     "lbxd": {
@@ -99136,7 +99137,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "501529",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Minotauro|2026": {
     "lbxd": {
@@ -99206,7 +99207,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/7/6/3/3/3/9/tmdb/u23GVuhvrbCTjJMMeDE7QCBdUkj-1920-1920-1080-1080-crop-000000.jpg?v=1eb9500dcc"
     ],
     "tmdb_id": "848700",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A SAVANA E A MONTANHA|None": {
     "lbxd": {
@@ -99236,7 +99237,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968"
     ],
-    "tmdb_id": "1275245"
+    "tmdb_id": "1275245",
+    "wiki_tries": 1
   },
   "Elsinore|2026": {
     "lbxd": {
@@ -99330,5 +99332,441 @@
       "https://a.ltrbxd.com/resized/sm/upload/sq/cv/5u/85/rDXrXDCH5BgNu9IDwKkIT69rVES-1920-1920-1080-1080-crop-000000.jpg?v=17a97b1968"
     ],
     "tmdb_id": "1275245"
+  },
+  "DESNORTE | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE LAST DAY | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 3.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/1/2/47612-the-last-day-0-500-0-750-crop.jpg?v=ac76047af1",
+      "description": "At Christmas time, 19-year-old Simon returns home to visit his dysfunctional family with Louise, a fearless girl he met during his train ride. While Simon struggles to cope with the growing distance between him and his parents, he starts to examine his feelings when Louise develop a liaison of her own with his childhood friend Mathieu.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Rodolphe Marconi",
+      "lb_director_slug": "rodolphe-marconi",
+      "lb_year": 2004,
+      "lb_title": "The Last Day",
+      "backdrop": null,
+      "imdb_id": "tt0402130",
+      "tmdb_id": "8772"
+    },
+    "omdb": {
+      "Title": "The Last Day",
+      "Year": "2004",
+      "Rated": "Not Rated",
+      "Released": "03 Nov 2004",
+      "Runtime": "104 min",
+      "Genre": "Drama, Romance",
+      "Director": "Rodolphe Marconi",
+      "Writer": "Rodolphe Marconi",
+      "Actors": "Nicole Garcia, Gaspard Ulliel, Mélanie Laurent",
+      "Plot": "A young artist's return home is offset by his unrequited love for a childhood male friend.",
+      "Language": "French, English",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NjgzMTY2MF5BMl5BanBnXkFtZTcwNDcyNDEzMQ@@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "1,205",
+      "imdbID": "tt0402130",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "8772"
+  },
+  "Neobichainie Prikliuchenia Mistera Vesta Vb Strane Bolshevikov|1924": {
+    "lbxd": {
+      "rating": 3.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/1/3/0/30130-the-extraordinary-adventures-of-mr-west-in-the-land-of-the-0-500-0-750-crop.jpg?v=cbf640a9a5",
+      "description": "An ignorant and prejudiced American’s visit of Soviet Russia goes off the rails after his luggage is stolen and he is separated from his bodyguard.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USSR",
+      "lb_director": "Lev Kuleshov",
+      "lb_director_slug": "lev-kuleshov-1",
+      "lb_year": 1924,
+      "lb_title": "The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks",
+      "backdrop": null,
+      "imdb_id": "tt0015167",
+      "tmdb_id": "32928"
+    },
+    "omdb": {
+      "Title": "The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks",
+      "Year": "1924",
+      "Rated": "Not Rated",
+      "Released": "27 Apr 1924",
+      "Runtime": "94 min",
+      "Genre": "Comedy, Fantasy, Romance",
+      "Director": "Lev Kuleshov",
+      "Writer": "Nikolay Aseev, Vsevolod Pudovkin",
+      "Actors": "Porfiri Podobed, Boris Barnet, Aleksandra Khokhlova",
+      "Plot": "Experience the chronicle adventures of Mr. West and his faithful bodyguard and servant Jeddie, as they visit the land of the horrible and evil Bolsheviks.",
+      "Language": "None",
+      "Country": "Soviet Union",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyZjM5YzktNDk3My00MmE5LWEzYmMtOWU3MzUxOTk5MDc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "1,138",
+      "imdbID": "tt0015167",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "32928"
+  },
+  "Noites|2000": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/3/7/3/1/343731-nights-0-500-0-750-crop.jpg?v=e2044cd2fd",
+      "description": "The pain, the weakness, the silence, the despair. These are some of the feelings faced by a couple lost in drugs. Nights can be seen as the story of people who made mistakes in life, but who still continue to seek happiness. It is about the despair of hopeless lives. The characters are, from the beginning, thrown into an empty and sterile world of indifference. In this true no-man's-land, João and Teresa are confronted with their precarious existence. They are broken pillars of a love that has become silent and painful, they share everything: the house, the drugs, the emptiness and the deprivations of their lives. To make the situation even more dramatic, Teresa falls ill. João does everything to help her, betting on his love for her. He, too, an addict, knows how to ease the pain of his beloved. But unfortunately this help also requires extra money, which forces João to prostitute himself, accelerating his process of destruction and his path to a tragic end.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Cláudia Tomaz",
+      "lb_director_slug": "claudia-tomaz",
+      "lb_year": 2000,
+      "lb_title": "Nights",
+      "backdrop": null,
+      "imdb_id": "tt0265420",
+      "tmdb_id": "409518"
+    },
+    "omdb": {
+      "Title": "Noites",
+      "Year": "2000",
+      "Rated": "N/A",
+      "Released": "22 Sep 2000",
+      "Runtime": "73 min",
+      "Genre": "Drama",
+      "Director": "Cláudia Tomaz",
+      "Writer": "João Pereira, Cláudia Tomaz",
+      "Actors": "João Pereira, Cláudia Tomaz, Ana Bustorff",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODdhMDAyZTgtN2IyYy00MjFmLWI4MGUtZDJhMjM2N2RkM2M3XkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.1",
+      "imdbVotes": "45",
+      "imdbID": "tt0265420",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt0265420",
+      "extract_pt": "Noites (2000) é um filme português de Cláudia Tomaz, sua primeira longa metragem. Caracteriza-se por ter sido filmado sem financiamentos e por, sendo uma ficção, recorrer a personagens reais, em situações reais, e a actores profissionais, em situações encenadas. Caracteriza-se ainda pelo uso de uma pequena câmara digital nas filmagens. Na linha da tradição  portuguesa empenhada no cinema do real, é uma mistura de documentário e ficção que, pelo tema, pela técnica e pelas influências pessoais se identifica com o cinema de Pedro Costa."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "409518"
+  },
+  "Gora Se Ne Bo Premaknila|2025": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/4/0/5/7/1324057-the-mountain-wont-move-0-500-0-750-crop.jpg?v=1675903042",
+      "description": "On the heights of a mountain in North Macedonia, in the midst of a flock of 600 sheep being watched over by huge dogs, stands a refuge. Children's laughter escapes from the precarious shelter. They are a brotherhood, ranging from ages eight to twenty. When they are not hard at work, they are playing and discussing the meaning of life. Is their future really here?",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "North Macedonia",
+      "lb_director": "Petra Seliškar",
+      "lb_director_slug": "petra-seliskar",
+      "lb_year": 2025,
+      "lb_title": "The Mountain Won’t Move",
+      "backdrop": null,
+      "imdb_id": "tt12032838",
+      "tmdb_id": "1447245"
+    },
+    "omdb": {
+      "Title": "The Mountain Won't Move",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "05 Apr 2025",
+      "Runtime": "91 min",
+      "Genre": "Documentary",
+      "Director": "Petra Seliskar",
+      "Writer": "Tancrède Rivière, Petra Seliskar",
+      "Actors": "Zekir Zekirov, Zarif Zekirov, Marijan Dimovski",
+      "Plot": "In the mountains of North Macedonia, three brothers with their unique shepherd dogs keep up a centuries-old tradition, torn between their way of life and dreams of a different future.",
+      "Language": "Albanian, Macedonian",
+      "Country": "Slovenia, North Macedonia, France",
+      "Awards": "5 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwZmEyNmUtODk1NC00ZGE3LWFjODMtMTZlMmYxNTQyNWNmXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "38",
+      "imdbID": "tt12032838",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1447245"
+  },
+  "Victor como toda a Gente|2026": {
+    "lbxd": {
+      "rating": 2.98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/9/2/6/1331926-hugo-2026-0-500-0-750-crop.jpg?v=5255c6afce",
+      "description": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Pascal Bonitzer",
+      "lb_director_slug": "pascal-bonitzer",
+      "lb_year": 2026,
+      "lb_title": "Hugo",
+      "backdrop": null,
+      "imdb_id": "tt39149806",
+      "tmdb_id": "1454680"
+    },
+    "omdb": {
+      "Title": "Victor comme tout le monde",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "11 Mar 2026",
+      "Runtime": "88 min",
+      "Genre": "Drama",
+      "Director": "Pascal Bonitzer",
+      "Writer": "N/A",
+      "Actors": "Fabrice Luchini, Chiara Mastroianni, Marie Narbonne",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyNGE4YTEtMzA1Yi00OTY4LWI5ODctYmQxOTk5YmI4NjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "7",
+      "imdbID": "tt39149806",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Victor comme tout le monde",
+      "plot_pt": "Mergulhado na obra de Victor Hugo, o actor Robert Zucchini tenta definir o seu lugar entre o palco e a vida, entre a matéria das palavras e o mundo contemporâneo. Todas as noites, ele enche uma sala parisiense que só o quer ouvir recitar o clássico francês. O reaparecimento da filha, com quem perdera contacto, cria uma brecha emocional na sua melancolia quotidiana.",
+      "country": "FR",
+      "year": 2026,
+      "director": "Pascal Bonitzer",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/victor_1.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-2.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-3.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.7,
+      32.4,
+      47.7
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/victor_1.jpg",
+      "https://medeiafilmes.com/uploads/library/victor-2.jpg",
+      "https://medeiafilmes.com/uploads/library/victor-3.jpg"
+    ],
+    "tmdb_id": "1454680"
+  },
+  "Barbs, Wastelands|2017": {
+    "lbxd": {
+      "rating": 3.22,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/2/3/4/5/392345-barbs-wastelands-0-500-0-750-crop.jpg?v=73cf4f4601",
+      "description": "After the Carnation Revolution the peasants in the Alentejo region occupied the huge proprieties where they were once submitted to the power of their masters. The protagonists of this film, resistants of this struggle, tell their story to the youngsters of today, in their own words.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Marta Mateus",
+      "lb_director_slug": "marta-mateus",
+      "lb_year": 2017,
+      "lb_title": "Barbs, Wastelands",
+      "backdrop": null,
+      "imdb_id": "tt6805022",
+      "tmdb_id": "460646"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Neste retrato alegórico da vida rural alentejana, Marta Mateus evoca as lutas dos trabalhadores agrícolas que, após gerações de pobreza e privação, veem na Revolução de Abril e na Reforma Agrária uma possibilidade de mudança. No interior do Alentejo, a ocupação de grandes propriedades agrícolas reconfigura relações de poder e trabalho, e a paisagem faz-se protagonista. A figura de Santa Luzia, invocada nas rezas para “ver melhor”, cruza religiosidade e consciência política, num território permeado pelas noções de resistência e memória coletiva."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "460646"
+  },
+  "The Van|2025": {
+    "lbxd": {
+      "rating": 3.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/1/1/4/2/1261142-the-van-2025-0-500-0-750-crop.jpg?v=1f08c52148",
+      "description": "Living in a van on the outskirts of Barcelona, Bear (Pol López) does everything he can to give his six-year-old daughter a life filled with joy, even when there's little to hold onto. Between unsteady routines and fragile hopes, their bond becomes a quiet act of resistance. A heartfelt story about love, dignity, and the small miracles that can bloom in the hardest places.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Animation"
+      ],
+      "country": "Spain",
+      "lb_director": "Eloy Calvo",
+      "lb_director_slug": "eloy-calvo",
+      "lb_year": 2025,
+      "lb_title": "The Van",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/8j/m3/29/q0/ygHYTVZOU0PAAbqJNY7YHuLsXHp-1920-1920-1080-1080-crop-000000.jpg?v=46eca8fc75",
+      "imdb_id": "tt32454647",
+      "tmdb_id": "1375097"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Oso, homem de 45 anos recém-divorciado, vive com a sua filha de seis anos numa carrinha em Barcelona, enquanto tenta reconstruir a sua vida. Entre trabalhos ocasionais e uma rotina improvisada sobre rodas, procura estabilidade num quotidiano marcado pela precariedade e pela incerteza. Este frágil equilíbrio é abalado pelo aproximar da data de casamento da sua ex-companheira. Um drama emotivo, que cruza imagem real e animação para refletir sobre a vida à margem, os laços familiares e a procura de segundas oportunidades.\nSessão apresentada por Eloy Calvo e seguida de conversa no Bar High Life com Eloy Calvo, Martin Tognola (autor da banda desenhada) e Bruno Dias (Bedeteca do Porto), com moderação de Júlio Moreira (Bedeteca do Porto)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/8j/m3/29/q0/ygHYTVZOU0PAAbqJNY7YHuLsXHp-1920-1920-1080-1080-crop-000000.jpg?v=46eca8fc75"
+    ],
+    "tmdb_id": "1375097"
+  },
+  "Green Book|2018": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/0/7/0/3/420703-green-book-0-500-0-750-crop.jpg?v=9919fcce4c",
+      "description": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+      "genres": [
+        "Drama",
+        "History",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Peter Farrelly",
+      "lb_director_slug": "peter-farrelly",
+      "lb_year": 2018,
+      "lb_title": "Green Book",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tq/qx/6u/a5/green-book-1920-1920-1080-1080-crop-000000.jpg?v=0999c32e8f",
+      "imdb_id": "tt6966692",
+      "tmdb_id": "490132"
+    },
+    "omdb": {
+      "Title": "Green Book",
+      "Year": "2018",
+      "Rated": "PG-13",
+      "Released": "16 Nov 2018",
+      "Runtime": "130 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Peter Farrelly",
+      "Writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
+      "Actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+      "Plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "Language": "English, Italian, Russian, German",
+      "Country": "China, South Korea, United States",
+      "Awards": "Won 3 Oscars. 58 wins & 125 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "8.2",
+      "imdbVotes": "706,770",
+      "imdbID": "tt6966692",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$85,080,171",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2018,
+      "country": "Estados Unidos, Coreia do Sul e China",
+      "plot_pt": "Um segurança italo-americano da classe trabalhadora torna-se motorista de um pianista clássico afro-americano numa digressão por salas de espetáculos no sul dos Estados Unidos, na década de 1960."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      26.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/tq/qx/6u/a5/green-book-1920-1920-1080-1080-crop-000000.jpg?v=0999c32e8f"
+    ],
+    "tmdb_id": "490132"
   }
 }
