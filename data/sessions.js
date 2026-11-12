@@ -2469,17 +2469,11 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "rating": 3.22,
-      "plot": "On a remote, wind-lashed island off the Chilean coast, Silvia earns her living harvesting seaweed and shares a quiet life with her partner. When she adopts a stray puppy, Yuri, her days fill with joy, love, and a tenderness that stirs a long-suppressed longing for motherhood. But Yuri’s sudden disappearance reawakens a haunting childhood trauma, forcing Silvia to confront a past she has never truly left behind.",
-      "plot_pt": "Numa ilha remota no sul do Chile, fustigada pelos ventos costeiros, Silvia, uma mulher solitária de meia-idade, sustenta-se com a apanha de algas. Um dia adopta uma cadelinha abandonada, que chama de Yuri — nome escolhido para a filha que nunca teve —, e o que começa por ser uma promessa de felicidade quotidiana, converte-se no doloroso despertar de um trauma de infância, quando Yuri desaparece repentinamente. Dominga Sotomayor desafia aqui a tradicional narrativa de afectos entre humanos e animais domésticos.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/5/0/3/8/tmdb/39bNBSNYpGfrN4eac6ZIn6v5rnt-1920-1920-1080-1080-crop-000000.jpg?v=10bb4f46f1"
-      ],
-      "stills_focus": [
-        55.8
-      ],
-      "country": "Chile",
-      "director_lbxd_slug": "dominga-sotomayor"
+      "plot": "16 years old Pyteh splits his time between the wrestling mat and his family’s struggling Circassian diner in Newark. A single impulsive decision by his hustling father changes the course of his life, shaping a tale of pride, legacy, and masculinity.",
+      "plot_pt": "Aos 16 anos, Pyteh divide o seu tempo entre os treinos de luta livre e o restaurante circassiano da família em Newark, Nova Jersey, negócio que enfrenta dificuldades financeiras. A sua rotina muda quando o pai, um homem sempre à procura de esquemas para fazer dinheiro, toma uma decisão impulsiva, que obrigará Pyteh a crescer demasiado depressa, entre a responsabilidade e a tradição.",
+      "country": "USA",
+      "director_lbxd_slug": "sergio-graciano",
+      "rating": 2.94
     },
     {
       "id": "nimas_victor-como-toda-a-gente-2026",
@@ -5477,6 +5471,51 @@ window.CINEMA_DATA = {
       "lbxd_slug": "nicholas-ray",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nicholas_Ray_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Nicholas Ray (born Raymond Nicholas Kienzle Jr., August 7, 1911 – June 16, 1979) was an American film director, screenwriter, and actor. Described by the Harvard Film Archive as \"Hollywood's last romantic\" and \"one of postwar American cinema's supremely gifted and ultimately tragic filmmakers,\" Ray was considered an iconoclastic auteur director who often clashed with the Hollywood studio system of the time, but would prove highly influential to future generations of filmmakers. His best-known work is the 1955 film Rebel Without a Cause, starring James Dean."
+    },
+    "Ingmar Bergman": {
+      "lbxd_slug": "ingmar-bergman",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
+      "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
+    },
+    "Albert Serra": {
+      "lbxd_slug": "albert-serra",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/MKr348252_Albert_Serra_%28Berlinale_2024%29.jpg/500px-MKr348252_Albert_Serra_%28Berlinale_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Albert Serra Juanola (Catalan: [əlˈβɛrt ˈsɛrə]; born 9 October 1975) is a Spanish filmmaker and producer. His films usually explore the imminence of death through the slow cinema genre. He is best known for Story of My Death (2013), which won the Golden Leopard at the 66th Locarno Film Festival, The Death of Louis XIV (2016) and Pacifiction (2022)."
+    },
+    "Kantemir Balagov": {
+      "lbxd_slug": "sergio-graciano",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kantemir_Balagov_at_the_2026_Cannes_Film_Festival_01_%28cropped%29.jpg/500px-Kantemir_Balagov_at_the_2026_Cannes_Film_Festival_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kantemir Arturovich Balagov (Kabardian: Бэлагъы Артурыкъуэ Къантемыр, Russian: Кантемир Артурович Балагов; born 28 July 1991) is a Russian filmmaker and cinematographer of Circassian ethnicity. Most known for his award-winning drama films Closeness (2017) and Beanpole (2019)."
+    },
+    "Steven Soderbergh": {
+      "lbxd_slug": "steven-soderbergh",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/58th_Karlovy_Vary_International_Film_Festival%2C_Steven_Soderbergh_07_%28cropped%29.jpg/500px-58th_Karlovy_Vary_International_Film_Festival%2C_Steven_Soderbergh_07_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Steven Andrew Soderbergh ( SOH-dər-burg; born January 14, 1963) is an American filmmaker, cinematographer, and editor. A pioneer of modern independent cinema, Soderbergh later drew acclaim for formally inventive films made within the studio system. Soderbergh's directorial breakthrough, the indie drama Sex, Lies, and Videotape (1989), won the Palme d'Or  at the Cannes Film Festival, as well numerous other accolades and was a worldwide commercial success."
+    },
+    "Sandra Wollner": {
+      "lbxd_slug": "sandra-wollner",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Sandra_Wollner-0878_%28cropped%29.jpg/500px-Sandra_Wollner-0878_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Sandra Wollner (born 1983) is an Austrian film director and screenwriter. She made her feature directorial debut with The Impossible Picture (2016), and also directed and co-wrote The Trouble with Being Born (2020)."
+    },
+    "Lars von Trier": {
+      "lbxd_slug": "lars-von-trier",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Lars_von_Trier_2014_%28cropped%29.jpg/500px-Lars_von_Trier_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Lars von Trier (né Lars Trier; born 30 April 1956) is a Danish film director and screenwriter widely known for his provocative and highly polarizing style. His most notable works include Breaking the Waves (1996), The Idiots (1998), Dancer in the Dark (2000), Dogville (2003), Antichrist (2009), Melancholia (2011) and Nymphomaniac (2013), as well as The Kingdom miniseries trilogy (1994–2022). Beginning in the late-1960s as a child actor working on Danish television series Secret Summer, Trier's career has spanned more than five decades."
+    },
+    "Javier Calvo, Javier Ambrossi": {
+      "lbxd_slug": "javier-ambrossi",
+      "photo": null,
+      "bio": null
+    },
+    "Sérgio Graciano": {
+      "lbxd_slug": "sergio-graciano",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Portuguese film director"
+    },
+    "Kelly Reichardt": {
+      "lbxd_slug": "kelly-reichardt",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kelly_Reichardt-4432.jpg/500px-Kelly_Reichardt-4432.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Kelly Reichardt ( RYE-kart; born March 3, 1964) is an American film director, film editor and screenwriter. She is known for her minimalist films closely associated with slow cinema, many of which deal with working-class characters in small, rural communities. Reichardt made her feature film debut with River of Grass (1994) and subsequently directed a series of films set and filmed in Oregon: the dramas Old Joy (2006) and Wendy and Lucy (2008); the Western Meek's Cutoff (2010); and the thriller Night Moves (2013)."
     },
     "Nathan Fielder, Lance Oppenheim": {
       "lbxd_slug": "nathan-fielder",
