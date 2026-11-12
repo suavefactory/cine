@@ -77410,7 +77410,7 @@
       "https://medeiafilmes.com/uploads/library/217.jpg"
     ],
     "tmdb_id": "1461062",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Mistérios de Lisboa|2010": {
     "lbxd": {
@@ -99081,7 +99081,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1562398",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ne Bom Vec Luzerka|2018": {
     "lbxd": {
@@ -99137,7 +99137,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "501529",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Minotauro|2026": {
     "lbxd": {
@@ -99207,7 +99207,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/7/6/3/3/3/9/tmdb/u23GVuhvrbCTjJMMeDE7QCBdUkj-1920-1920-1080-1080-crop-000000.jpg?v=1eb9500dcc"
     ],
     "tmdb_id": "848700",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A SAVANA E A MONTANHA|None": {
     "lbxd": {
@@ -99449,7 +99449,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "32928"
+    "tmdb_id": "32928",
+    "wiki_tries": 1
   },
   "Noites|2000": {
     "lbxd": {
@@ -99563,7 +99564,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1447245"
+    "tmdb_id": "1447245",
+    "wiki_tries": 1
   },
   "Victor como toda a Gente|2026": {
     "lbxd": {
@@ -99634,7 +99636,8 @@
       "https://medeiafilmes.com/uploads/library/victor-2.jpg",
       "https://medeiafilmes.com/uploads/library/victor-3.jpg"
     ],
-    "tmdb_id": "1454680"
+    "tmdb_id": "1454680",
+    "wiki_tries": 1
   },
   "Barbs, Wastelands|2017": {
     "lbxd": {
@@ -99660,7 +99663,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "460646"
+    "tmdb_id": "460646",
+    "wiki_tries": 1
   },
   "The Van|2025": {
     "lbxd": {
@@ -99693,7 +99697,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/8j/m3/29/q0/ygHYTVZOU0PAAbqJNY7YHuLsXHp-1920-1920-1080-1080-crop-000000.jpg?v=46eca8fc75"
     ],
-    "tmdb_id": "1375097"
+    "tmdb_id": "1375097",
+    "wiki_tries": 1
   },
   "Green Book|2018": {
     "lbxd": {
@@ -99754,7 +99759,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Green Book (film)",
+      "imdb_id": "tt6966692",
+      "extract_pt": "Green Book é um filme de comédia dramática norte-americano acerca de uma turnê na região do Sul Profundo dos Estados Unidos, feita pelo pianista de jazz clássico Don Shirley (Mahershala Ali) e Tony Vallelonga (Viggo Mortensen), um segurança ítalo-americano que trabalhou para Shirley como motorista e segurança. Dirigido por Peter Farrelly, o roteiro foi escrito por Farrelly, Brian Hayes Currie e Nick Vallelonga, baseado nas entrevistas de seu pai e de Shirley, além das cartas que foram enviadas à sua mãe. O título do filme refere-se ao livro The Negro Motorist Green Book, informalmente chamado de Green Book, um guia turístico, escrito por Victor Hugo Green, destinado a ajudar viajantes afro-americanos, indicando-lhes dormitórios e restaurantes relativamente amigáveis com negros, durante a vigência das chamadas leis Jim Crow.\nGreen Book teve estreia mundial no Festival Internacional de Cinema de Toronto, em setembro de 2018, onde foi galardoado com o People's Choice Award, que premia os filmes mais populares entre os festivais."
+    },
     "cinema": {
       "year": 2018,
       "country": "Estados Unidos, Coreia do Sul e China",
@@ -99767,6 +99776,62 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/tq/qx/6u/a5/green-book-1920-1920-1080-1080-crop-000000.jpg?v=0999c32e8f"
     ],
-    "tmdb_id": "490132"
+    "tmdb_id": "490132",
+    "wiki_tries": 1
+  },
+  "THE LAST DAY | TRIBECA CINEMA SESSIONS|2004": {
+    "lbxd": {
+      "rating": 3.28,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/6/1/2/47612-the-last-day-0-500-0-750-crop.jpg?v=ac76047af1",
+      "description": "At Christmas time, 19-year-old Simon returns home to visit his dysfunctional family with Louise, a fearless girl he met during his train ride. While Simon struggles to cope with the growing distance between him and his parents, he starts to examine his feelings when Louise develop a liaison of her own with his childhood friend Mathieu.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Rodolphe Marconi",
+      "lb_director_slug": "rodolphe-marconi",
+      "lb_year": 2004,
+      "lb_title": "The Last Day",
+      "backdrop": null,
+      "imdb_id": "tt0402130",
+      "tmdb_id": "8772"
+    },
+    "omdb": {
+      "Title": "The Last Day",
+      "Year": "2004",
+      "Rated": "Not Rated",
+      "Released": "03 Nov 2004",
+      "Runtime": "104 min",
+      "Genre": "Drama, Romance",
+      "Director": "Rodolphe Marconi",
+      "Writer": "Rodolphe Marconi",
+      "Actors": "Nicole Garcia, Gaspard Ulliel, Mélanie Laurent",
+      "Plot": "A young artist's return home is offset by his unrequited love for a childhood male friend.",
+      "Language": "French, English",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NjgzMTY2MF5BMl5BanBnXkFtZTcwNDcyNDEzMQ@@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "1,205",
+      "imdbID": "tt0402130",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "8772"
   }
 }
