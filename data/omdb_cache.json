@@ -99834,7 +99834,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "8772",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "VINDIMA | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100655,7 +100655,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2"
     ],
-    "tmdb_id": "1554956"
+    "tmdb_id": "1554956",
+    "wiki_tries": 1
   },
   "SOLOS | TRIBECA CINEMA SESSIONS|2007": {
     "lbxd": {
@@ -100735,7 +100736,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1575438"
+    "tmdb_id": "1575438",
+    "wiki_tries": 1
   },
   "JOSEPHINE | TRIBECA CINEMA SESSIONS|2013": {
     "lbxd": null,
@@ -100823,7 +100825,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1674210"
+    "tmdb_id": "1674210",
+    "wiki_tries": 1
   },
   "BOB AND DAVID CLIMB MACHU PICCHU | TRIBECA CINEMA SESSIONS|2026": {
     "lbxd": {
@@ -100874,7 +100877,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1530940"
+    "tmdb_id": "1530940",
+    "wiki_tries": 1
   },
   "W. Kamau Bell | TRIBECA NIGHT LIVE|2012": {
     "lbxd": null,
@@ -101073,6 +101077,15 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "41765"
+    "tmdb_id": "41765",
+    "wiki_tries": 1
+  },
+  "SOLOS | TRIBECA CINEMA SESSIONS|2005": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
   }
 }
