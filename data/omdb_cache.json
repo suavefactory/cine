@@ -98773,7 +98773,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "43596",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Odresitev Za Zacetnike|2024": {
     "lbxd": {
@@ -99029,7 +99029,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108"
     ],
     "tmdb_id": "1599230",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ida, Ki Je Pela Tako Grdo, Da So Se Mrtvi Vstali Od Mrtvih In Zapeli Z Njo|2025": {
     "lbxd": {
@@ -99394,7 +99394,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "8772"
+    "tmdb_id": "8772",
+    "wiki_tries": 1
   },
   "Neobichainie Prikliuchenia Mistera Vesta Vb Strane Bolshevikov|1924": {
     "lbxd": {
@@ -99450,7 +99451,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "32928",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Noites|2000": {
     "lbxd": {
@@ -99565,7 +99566,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1447245",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Victor como toda a Gente|2026": {
     "lbxd": {
@@ -99637,7 +99638,7 @@
       "https://medeiafilmes.com/uploads/library/victor-3.jpg"
     ],
     "tmdb_id": "1454680",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Barbs, Wastelands|2017": {
     "lbxd": {
@@ -99664,7 +99665,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "460646",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Van|2025": {
     "lbxd": {
@@ -99698,7 +99699,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/8j/m3/29/q0/ygHYTVZOU0PAAbqJNY7YHuLsXHp-1920-1920-1080-1080-crop-000000.jpg?v=46eca8fc75"
     ],
     "tmdb_id": "1375097",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Green Book|2018": {
     "lbxd": {
@@ -99833,5 +99834,736 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "8772"
+  },
+  "VINDIMA | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Uma Vindima no Douro",
+      "Year": "1936",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0128799",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "O DIA MAIS FELIZ DA MINHA VIDA | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "MULHERZINHA – documentário de Bárbara Tinoco | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE INCOMER | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/8/9/8/3/1428983-the-incomer-0-500-0-750-crop.jpg?v=1c6aa17923",
+      "description": "On an Orkney isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Louis Paxton",
+      "lb_director_slug": "louis-paxton",
+      "lb_year": 2026,
+      "lb_title": "The Incomer",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2",
+      "imdb_id": "tt36980182",
+      "tmdb_id": "1554956"
+    },
+    "omdb": {
+      "Title": "The Incomer",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Louis Paxton",
+      "Writer": "N/A",
+      "Actors": "Domhnall Gleeson, John Hannah, Michelle Gomez",
+      "Plot": "On a remote Scottish isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them.",
+      "Language": "English",
+      "Country": "United Kingdom, Ireland",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGExNTk0NjgtOGMxNS00MGE3LTk3NjAtNzE5MGEwZDA0Nzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36980182",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      12.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2"
+    ],
+    "tmdb_id": "1554956"
+  },
+  "VIAGENS – ENTRE ESTRELAS E ONDAS | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "DIAS LIVRES | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Daniela Ruah | TRIBECA NIGHT LIVE|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "SOLOS | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/5/9/8/115598-solos-0-500-0-750-crop.jpg?v=45bcbca7e8",
+      "description": "Inspired by true events, Solos explores relationships among three individuals who are struggling to open up their feelings towards each other. Filmmakers Kan Lume and Loo Zihan co-directed this pathos that dramatizes the selfishness of love and its tragic outcomes. Set in contemporary Singapore, Solos follows the endeavors of Boy, Man and Mother. Having been in a relationship with Man (Lim Yu Beng) for years, Boy (Loo Zihan) eventually grows up and wishes to quit the relationship. Conversely, Man still wants to be with Boy and for them to settle together. Meanwhile, Mother (Goh Guat Kian) is devastated that her son (Boy) has abandoned her and has been in relationship with Man. As the three characters fight their own demons, Solos juxtaposes reality and surreal scenes in order to give clues of each character’s inner desires. The film has minimum conversation to give freedom to the audience's individual interpretation of the film.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Singapore",
+      "lb_director": "Loo Zihan",
+      "lb_director_slug": "loo-zihan",
+      "lb_year": 2007,
+      "lb_title": "Solos",
+      "backdrop": null,
+      "imdb_id": "tt0995751",
+      "tmdb_id": "154133"
+    },
+    "omdb": {
+      "Title": "Solos",
+      "Year": "2021",
+      "Rated": "TV-14",
+      "Released": "21 May 2021",
+      "Runtime": "N/A",
+      "Genre": "Drama, Fantasy, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "David Weil",
+      "Actors": "Uzo Aduba, Nicole Beharie, Morgan Freeman",
+      "Plot": "Seven unique character-driven stories. Each character will set off on a thrilling adventure in an uncertain future and they'll come to reckon that even during our most isolated moments, we are all connected through the human exper...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcwYWQ1MzItYmZiNC00YzVmLWJlZDctNmI5YWM3OWQ0N2JhXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "6,397",
+      "imdbID": "tt13356646",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "154133"
+  },
+  "FINNEGAN’S FOURSOME | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 2.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/4/7/6/9/7/1447697-finnegans-foursome-0-500-0-750-crop.jpg?v=78006a9ff1",
+      "description": "Two middle aged brothers and their respective sons travel to Ireland to play the Finnegan Family's annual golf outing, where they distribute the ashes of the family patriarch",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Edward Burns",
+      "lb_director_slug": "edward-burns",
+      "lb_year": 2026,
+      "lb_title": "Finnegan's Foursome",
+      "backdrop": null,
+      "imdb_id": "tt23039114",
+      "tmdb_id": "1575438"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1575438"
+  },
+  "JOSEPHINE | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 2.95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/3/2/4/7/143247-josephine-0-500-0-750-crop.jpg?v=3105e3a30d",
+      "description": "Josephine doesn't like her job and keeps on having relationships without a future. Her sister and parents keep pushing her to find a good husband. To shut them up, she creates a handsome Brazilian millionaire but her little white lie has a flip side - she loses everything to find the love of her life.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Agnès Obadia",
+      "lb_director_slug": "agnes-obadia-1",
+      "lb_year": 2013,
+      "lb_title": "Josephine",
+      "backdrop": null,
+      "imdb_id": "tt2430044",
+      "tmdb_id": "199661"
+    },
+    "omdb": {
+      "Title": "Josephine",
+      "Year": "1978",
+      "Rated": "X",
+      "Released": "26 Jun 1978",
+      "Runtime": "94 min",
+      "Genre": "Adult",
+      "Director": "Hans Billian",
+      "Writer": "Hans Billian, Felix Salten",
+      "Actors": "Jane Iwanoff, Rainer Abendroth, Hervé Amalou",
+      "Plot": "N/A",
+      "Language": "German",
+      "Country": "West Germany",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "115",
+      "imdbID": "tt0078840",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "199661"
+  },
+  "SHORTS SELECTION | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "IN MEMORIAM | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/8/2/3/180823-in-memoriam-0-500-0-750-crop.jpg?v=790bbfed16",
+      "description": "In an anguished triangle of silences and unspoken words, a man secretly loves a woman who loves another man.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Spain",
+      "lb_director": "Enrique Brasó",
+      "lb_director_slug": "enrique-braso",
+      "lb_year": 1977,
+      "lb_title": "In Memoriam",
+      "backdrop": null,
+      "imdb_id": "tt0076183",
+      "tmdb_id": "257055"
+    },
+    "omdb": {
+      "Title": "In Memoriam",
+      "Year": "2024",
+      "Rated": "N/A",
+      "Released": "28 Mar 2024",
+      "Runtime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Catherine Bérubé, Thomas Antony Olajide, Emanuelle Gagné Néron",
+      "Plot": "Following the death of their father, a wealthy businessman, his heirs, including his four estranged adult children, must go through a series of troubling tests in order to obtain their inheritance.",
+      "Language": "French",
+      "Country": "Canada",
+      "Awards": "2 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjQ4ZjIyNTEtMmRhMS00ZTgwLTg5ZTMtNmI3NTIzMDMzNmU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "315",
+      "imdbID": "tt28013728",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "257055"
+  },
+  "Luís Franco-Bastos | TRIBECA NIGHT LIVE|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "HERE I’M ALIVE | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 3.27,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/0/2/7/0/1540270-here-im-alive-0-500-0-750-crop.jpg?v=d164ecad11",
+      "description": "One night. One city. Migrants, sex workers and dreamers hustle New York's digital underbelly in this neo-realist urban epic driven by underground rap and spiritual jazz. Raw, unforgettable and unmistakably New York.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Joshua Z Weinstein",
+      "lb_director_slug": "joshua-z-weinstein",
+      "lb_year": 2026,
+      "lb_title": "Here I'm Alive",
+      "backdrop": null,
+      "imdb_id": "tt41653310",
+      "tmdb_id": "1674210"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1674210"
+  },
+  "BOB AND DAVID CLIMB MACHU PICCHU | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/5/9/7/3/1405973-bob-and-david-climb-machu-picchu-0-500-0-750-crop.jpg?v=3fa6838eb3",
+      "description": "Comedy legends Bob Odenkirk and David Cross tackle one of the world's toughest hikes — and each other — in this high-altitude, coca-fueled meditation on friendship, mortality, and profoundly absurd comedy from two icons still magnificently in sync.",
+      "genres": [
+        "Comedy",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Michael LaHaie",
+      "lb_director_slug": "michael-lahaie",
+      "lb_year": 2026,
+      "lb_title": "Bob and David Climb Machu Picchu",
+      "backdrop": null,
+      "imdb_id": "tt38351005",
+      "tmdb_id": "1530940"
+    },
+    "omdb": {
+      "Title": "Bob and David Climb Machu Picchu",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "06 Jun 2026",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Michael LaHaie",
+      "Writer": "N/A",
+      "Actors": "Bob Odenkirk, David Cross",
+      "Plot": "A documentary following two friends as they face the challenge of climbing Machu Picchu. Along the way, they reflect on their 30 years as a comedy team as well as the ups and downs of their individual careers in show business.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTkzZGE2MGQtNjVmNi00MThkLThiNzUtMTJjMmEwNTI4OGEwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38351005",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1530940"
+  },
+  "TAMBÉM TU CLARA | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "W. Kamau Bell | TRIBECA NIGHT LIVE|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Totally Biased with W. Kamau Bell",
+      "Year": "2012–2013",
+      "Rated": "TV-MA",
+      "Released": "09 Aug 2012",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Talk-Show",
+      "Director": "N/A",
+      "Writer": "W. Kamau Bell, Chris Rock, Chuck Sklar",
+      "Actors": "W. Kamau Bell, Dwayne Kennedy, Janine Brito",
+      "Plot": "Series will focus on politics, pop culture, race, religion, media and sex.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDYzMDU0NF5BMl5BanBnXkFtZTcwNDMxNjUyOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.1",
+      "imdbVotes": "946",
+      "imdbID": "tt2330549",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "QUEEN AT SEA | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/1/0/8/0/921080-queen-at-sea-0-500-0-750-crop.jpg?v=0cd1782b5a",
+      "description": "As advanced dementia erodes an older woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Lance Hammer",
+      "lb_director_slug": "lance-hammer",
+      "lb_year": 2026,
+      "lb_title": "Queen at Sea",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9",
+      "imdb_id": "tt27541205",
+      "tmdb_id": "1021848"
+    },
+    "omdb": {
+      "Title": "Queen at Sea",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Feb 2026",
+      "Runtime": "121 min",
+      "Genre": "Drama",
+      "Director": "Lance Hammer",
+      "Writer": "N/A",
+      "Actors": "Noah Hunt Basden, Juliette Binoche, Anna Calder-Marshall",
+      "Plot": "As dementia erodes a woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interest, navigating love and the fragile boundaries between care, protection, and autonomy.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc3YjY5YWMtOWU3OC00N2Y1LTg2NWYtN2YzNjg5ZGFmMTkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "52",
+      "imdbID": "tt27541205",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      61.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9"
+    ],
+    "tmdb_id": "1021848"
+  },
+  "6:06 | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "6:06",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "05 Sep 2025",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Tekla Taidelli",
+      "Writer": "N/A",
+      "Actors": "Lou Di Giorgio, George Li, Davide Valle",
+      "Plot": "Leo life is in black and white. His days always begin at 6:06. drugs are not just an addiction but a mental loop that keeps Leo trapped in a déjà vu...until he meets Jo-Jo, an enigmatic girl with which he will leave together for P...",
+      "Language": "Italian, French",
+      "Country": "Italy, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTZlNTdjYTYtMDZkMy00Mjc4LWI3MzItZjIzZjVlY2EyNDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "15",
+      "imdbID": "tt37887096",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1520517"
+  },
+  "THE ACCOMPANIST | TRIBECA CINEMA SESSIONS|None": {
+    "lbxd": {
+      "rating": 3.37,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/2/9/0/23290-the-accompanist-0-500-0-750-crop.jpg?v=74181aca67",
+      "description": "In Nazi-occupied Paris, a young accompanist named Sophie Vasseur gets a job with famed singer Irene Brice. As Irene's husband Charles, a businessman collaborating with the Nazis, wrestles with his conscience, Sophie becomes obsessed with Irene, taking on the role of maid as well as accompanist, living life vicariously through Irene's triumphs and affairs.",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "France",
+      "lb_director": "Claude Miller",
+      "lb_director_slug": "claude-miller",
+      "lb_year": 1992,
+      "lb_title": "The Accompanist",
+      "backdrop": null,
+      "imdb_id": "tt0103616",
+      "tmdb_id": "41765"
+    },
+    "omdb": {
+      "Title": "The Accompanist",
+      "Year": "1993",
+      "Rated": "PG",
+      "Released": "23 Dec 1993",
+      "Runtime": "102 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Claude Miller",
+      "Writer": "Claude Miller, Luc Béraud, Nina Berberova",
+      "Actors": "Richard Bohringer, Elena Safonova, Romane Bohringer",
+      "Plot": "In Nazi-occupied Paris, a young accompanist named Sophie Vasseur gets a job with famed singer Irene Brice. As Irene's husband Charles, a businessman collaborating with the Nazis, wrestles with his conscience, Sophie becomes obsess...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "3 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc3YTgwZjQtOGE2My00NTc2LTk4NTQtMDEwNDdiM2MyYzdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,088",
+      "imdbID": "tt0103616",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$769,983",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "41765"
+  },
+  "The Spanish Main|1945": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/4/1/4/80414-the-spanish-main-0-500-0-750-crop.jpg?v=05e3f3d179",
+      "description": "Laurent van Horn is the leader of a band of Dutch refugees on a ship seeking freedom in the Carolinas, when the ship is wrecked on the coast of Cartagene, governed by Don Juan Alvardo, a Spanish ruler. Alvarado has Laurent thrown in prison, but the latter escapes, and five-years later is a pirate leader. He poses as the navigator on a ship in which Contessa Francesca, daughter of a Mexican noble, is traveling on her way to marry Alvarado, whom she has never seen. Laurent's pirates capture the ship and Francesca, in order to save another ship, gives her hand-in-marriage to Laurent, who sails her to the pirate hideout. This irks his jealous pirate comrades Anne Bonney and Captain Benjamin Black. They overpower Laurent and send Francesca to Alvarado, and then Mario du Billar, a trusted right-hand man, makes a deal to deliver Laurent to Alvarado.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Adventure"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1945,
+      "lb_title": "The Spanish Main",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wi/go/is/1b/c5yL92LGa4EYX8uhQeMvYyfsZNH-1920-1920-1080-1080-crop-000000.jpg?v=c17dd7c433",
+      "imdb_id": "tt0038108",
+      "tmdb_id": "97735"
+    },
+    "omdb": {
+      "Title": "The Spanish Main",
+      "Year": "1945",
+      "Rated": "Approved",
+      "Released": "01 Oct 1945",
+      "Runtime": "100 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "George Worthing Yates, Herman J. Mankiewicz, Æneas MacKenzie",
+      "Actors": "Paul Henreid, Maureen O'Hara, Walter Slezak",
+      "Plot": "After being wronged by the Caribbean authorities, a Dutch captain turns pirate to wage war.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE0NWY5NWQtMmI3NS00NmUzLThkNGItMWRjMDM0YWQ2NTZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "1,920",
+      "imdbID": "tt0038108",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Spanish Main",
+      "imdb_id": "tt0038108",
+      "extract_pt": "The Spanish Main (Brasil: Pirata dos Sete Mares / Portugal: O Terror dos Sete Mares) é um filme estadunidense de 1945, do gênero aventura, dirigido por Frank Borzage e estrelado por Paul Henreid e Maureen O'Hara."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/wi/go/is/1b/c5yL92LGa4EYX8uhQeMvYyfsZNH-1920-1920-1080-1080-crop-000000.jpg?v=c17dd7c433"
+    ],
+    "tmdb_id": "97735"
+  },
+  "Uma Rapariga No Verão|1986": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/2/0/7/7/172077-a-girl-in-summer-0-500-0-750-crop.jpg?v=74f9b885e3",
+      "description": "It is the end of summer and Isabel is a relationship with Diogo. She don't quite know what she wants from her life going forward as her father gets sick.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Vítor Gonçalves",
+      "lb_director_slug": "vitor-goncalves",
+      "lb_year": 1986,
+      "lb_title": "A Girl in Summer",
+      "backdrop": null,
+      "imdb_id": "tt0091824",
+      "tmdb_id": "245893"
+    },
+    "omdb": {
+      "Title": "Uma Rapariga no Verão",
+      "Year": "1986",
+      "Rated": "N/A",
+      "Released": "11 Dec 1986",
+      "Runtime": "80 min",
+      "Genre": "Drama",
+      "Director": "Vítor Gonçalves",
+      "Writer": "Vítor Gonçalves",
+      "Actors": "Isabel Galhardo, Diogo Dória, José Manuel Mendes",
+      "Plot": "Isabel, a girl in her late teens, is unable to determine herself and understand herself - lost in the memory of her late mother, living with her father and sister, and discovering love with Diogo. Emptiness and somber perspectives...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY4OTU5OTU4MF5BMl5BanBnXkFtZTcwMjMwMDE5Ng@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.9",
+      "imdbVotes": "78",
+      "imdbID": "tt0091824",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "A Girl in Summer",
+      "imdb_id": "tt0091824",
+      "extract_pt": "Uma Rapariga no Verão é um filme português de 1986, realizado por Vítor Gonçalves. Considerado pelo Harvard Film Archive um dos \"grandes filmes Portugueses dos anos 80\"."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "245893"
   }
 }

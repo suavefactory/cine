@@ -3174,5 +3174,40 @@
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Peter_Farrelly_at_TIFF_2026_02_%28cropped%29.jpg/500px-Peter_Farrelly_at_TIFF_2026_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Peter John Farrelly (born December 17, 1956) is an American film director, screenwriter, producer and novelist. Along with his brother Bobby, the Farrelly brothers are mostly famous for directing and producing quirky comedy and romantic comedy films such as Dumb and Dumber; Shallow Hal; Me, Myself and Irene; There's Something About Mary; and the 2007 remake of The Heartbreak Kid. Farrelly solo-directed and co-wrote the comedy-drama Green Book (2018), which won the Audience Award at the Toronto International Film Festival in 2018, the Golden Globe Award for Best Screenplay, and Academy Awards for Best Picture and Best Original Screenplay.",
     "tries": 1
+  },
+  "Louis Paxton": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sundance_awards_2026_-_The_Incomer_-_Louis_Paxton_%2802%29.jpg/500px-Sundance_awards_2026_-_The_Incomer_-_Louis_Paxton_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "British filmmaker",
+    "tries": 1
+  },
+  "Hans Billian": {
+    "photo": null,
+    "bio": "Hans Billian (born Hans Joachim Hubert Backe, 15 April 1918 in Breslau (today, Wrocław, Poland) – 18 December 2007 in Gräfelfing, Bavaria) was a German film director, screenwriter, and actor noted for the \"sex comedies\" he directed in the 1970s. He was also credited as Hans Billan, Phillip Halliday, and Christian Kessler.",
+    "tries": 1
+  },
+  "Michael LaHaie": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Lance Hammer": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Lance_Hammer_at_Berlinale_2026-1.jpg/500px-Lance_Hammer_at_Berlinale_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Lance Hammer is an American independent filmmaker. Most known for his debut feature film Ballast (2008).",
+    "tries": 1
+  },
+  "Tekla Taidelli": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Claude Miller": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Claude_Miller_Cannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Claude Miller (20 February 1942 – 4 April 2012) was a French film director, producer and screenwriter.",
+    "tries": 1
+  },
+  "Vítor Gonçalves": {
+    "photo": null,
+    "bio": "Vítor Gonçalves is a Portuguese filmmaker, film director, screenwriter and film producer. He is considered to be part of The School of Reis film family.",
+    "tries": 1
   }
 }
