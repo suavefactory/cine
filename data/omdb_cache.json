@@ -98973,7 +98973,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "43596",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Elsinore|None": {
     "lbxd": {
@@ -99451,7 +99451,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "32928",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Noites|2000": {
     "lbxd": {
@@ -99566,7 +99566,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1447245",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Victor como toda a Gente|2026": {
     "lbxd": {
@@ -99638,7 +99638,7 @@
       "https://medeiafilmes.com/uploads/library/victor-3.jpg"
     ],
     "tmdb_id": "1454680",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Barbs, Wastelands|2017": {
     "lbxd": {
@@ -99665,7 +99665,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "460646",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Van|2025": {
     "lbxd": {
@@ -99699,7 +99699,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/8j/m3/29/q0/ygHYTVZOU0PAAbqJNY7YHuLsXHp-1920-1920-1080-1080-crop-000000.jpg?v=46eca8fc75"
     ],
     "tmdb_id": "1375097",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Green Book|2018": {
     "lbxd": {
@@ -99833,7 +99833,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "8772"
+    "tmdb_id": "8772",
+    "wiki_tries": 1
   },
   "VINDIMA | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100565,5 +100566,513 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "245893"
+  },
+  "VINDIMA | TRIBECA CINEMA SESSIONS|1936": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Uma Vindima no Douro",
+      "Year": "1936",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "N/A",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0128799",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE INCOMER | TRIBECA CINEMA SESSIONS|2026": {
+    "lbxd": {
+      "rating": 3.73,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/8/9/8/3/1428983-the-incomer-0-500-0-750-crop.jpg?v=1c6aa17923",
+      "description": "On an Orkney isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Louis Paxton",
+      "lb_director_slug": "louis-paxton",
+      "lb_year": 2026,
+      "lb_title": "The Incomer",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2",
+      "imdb_id": "tt36980182",
+      "tmdb_id": "1554956"
+    },
+    "omdb": {
+      "Title": "The Incomer",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Louis Paxton",
+      "Writer": "N/A",
+      "Actors": "Domhnall Gleeson, John Hannah, Michelle Gomez",
+      "Plot": "On a remote Scottish isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them.",
+      "Language": "English",
+      "Country": "United Kingdom, Ireland",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGExNTk0NjgtOGMxNS00MGE3LTk3NjAtNzE5MGEwZDA0Nzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36980182",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      12.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2"
+    ],
+    "tmdb_id": "1554956"
+  },
+  "SOLOS | TRIBECA CINEMA SESSIONS|2007": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/3/8/0/498380-solos-0-500-0-750-crop.jpg?v=8a88ff334a",
+      "description": "Enrique is 37 years old, 12 years of living with his wife and two children. Sick with jealousy, he has just separated from his wife once more. Luis, 40 years old, has just finished a passionate relationship with a very hysterical TV journalist that he was madly in love with, and left him for another. One comes from the horror of jealousy and weariness, and the other from a passion that swept him away, and finally left him alone. As Enrique has nowhere to go, Luis invites him to live in his house, temporarily ...",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Argentina",
+      "lb_director": "José Glusman",
+      "lb_director_slug": "jose-glusman",
+      "lb_year": 2005,
+      "lb_title": "Solos",
+      "backdrop": null,
+      "imdb_id": "tt0497271",
+      "tmdb_id": "569978"
+    },
+    "omdb": {
+      "Title": "Solos",
+      "Year": "2007",
+      "Rated": "N/A",
+      "Released": "04 Nov 2007",
+      "Runtime": "77 min",
+      "Genre": "Drama, Romance",
+      "Director": "Zihan Loo, Kan Lume",
+      "Writer": "Zihan Loo",
+      "Actors": "Zihan Loo, Guat Kian Goh, Yu-Beng Lim",
+      "Plot": "Inspired by true events, SOLOS explores relationships among three individuals who are struggling to open up their feelings towards each other. Filmmakers Kan Lume and Loo Zihan co-directed this pathos that dramatizes the selfishne...",
+      "Language": "None",
+      "Country": "Singapore",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYzZjA3MTMtM2YwNi00ZjBmLWI0MGUtMGYwNDg3MGVjY2EyXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "115",
+      "imdbID": "tt0995751",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "569978"
+  },
+  "FINNEGAN’S FOURSOME | TRIBECA CINEMA SESSIONS|2026": {
+    "lbxd": {
+      "rating": 2.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/4/7/6/9/7/1447697-finnegans-foursome-0-500-0-750-crop.jpg?v=78006a9ff1",
+      "description": "Two middle aged brothers and their respective sons travel to Ireland to play the Finnegan Family's annual golf outing, where they distribute the ashes of the family patriarch",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Edward Burns",
+      "lb_director_slug": "edward-burns",
+      "lb_year": 2026,
+      "lb_title": "Finnegan's Foursome",
+      "backdrop": null,
+      "imdb_id": "tt23039114",
+      "tmdb_id": "1575438"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1575438"
+  },
+  "JOSEPHINE | TRIBECA CINEMA SESSIONS|2013": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "IN MEMORIAM | TRIBECA CINEMA SESSIONS|1977": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/8/2/3/180823-in-memoriam-0-500-0-750-crop.jpg?v=790bbfed16",
+      "description": "In an anguished triangle of silences and unspoken words, a man secretly loves a woman who loves another man.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "Spain",
+      "lb_director": "Enrique Brasó",
+      "lb_director_slug": "enrique-braso",
+      "lb_year": 1977,
+      "lb_title": "In Memoriam",
+      "backdrop": null,
+      "imdb_id": "tt0076183",
+      "tmdb_id": "257055"
+    },
+    "omdb": {
+      "Title": "In memoriam",
+      "Year": "1977",
+      "Rated": "N/A",
+      "Released": "05 Sep 1977",
+      "Runtime": "100 min",
+      "Genre": "N/A",
+      "Director": "Enrique Brasó",
+      "Writer": "Adolfo Bioy Casares, Enrique Brasó, José María Carreño",
+      "Actors": "Geraldine Chaplin, José Luis Gómez, Eusebio Poncela",
+      "Plot": "After spending several years in England, the writer Luis Bosch returns to Spain in search of Paulina, a woman whose love he once scorned for being too focused on his career and himself. In the course of his search, Bosch will disc...",
+      "Language": "Spanish",
+      "Country": "Spain",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNlMDljNjctZDFhYy00NDVmLTljNTMtODkwNWY0ZDY5ZGMxL2ltYWdlXkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "67",
+      "imdbID": "tt0076183",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "257055"
+  },
+  "HERE I’M ALIVE | TRIBECA CINEMA SESSIONS|2026": {
+    "lbxd": {
+      "rating": 3.27,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/0/2/7/0/1540270-here-im-alive-0-500-0-750-crop.jpg?v=d164ecad11",
+      "description": "One night. One city. Migrants, sex workers and dreamers hustle New York's digital underbelly in this neo-realist urban epic driven by underground rap and spiritual jazz. Raw, unforgettable and unmistakably New York.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Joshua Z Weinstein",
+      "lb_director_slug": "joshua-z-weinstein",
+      "lb_year": 2026,
+      "lb_title": "Here I'm Alive",
+      "backdrop": null,
+      "imdb_id": "tt41653310",
+      "tmdb_id": "1674210"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1674210"
+  },
+  "BOB AND DAVID CLIMB MACHU PICCHU | TRIBECA CINEMA SESSIONS|2026": {
+    "lbxd": {
+      "rating": 3.6,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/0/5/9/7/3/1405973-bob-and-david-climb-machu-picchu-0-500-0-750-crop.jpg?v=3fa6838eb3",
+      "description": "Comedy legends Bob Odenkirk and David Cross tackle one of the world's toughest hikes — and each other — in this high-altitude, coca-fueled meditation on friendship, mortality, and profoundly absurd comedy from two icons still magnificently in sync.",
+      "genres": [
+        "Comedy",
+        "Documentary"
+      ],
+      "country": "USA",
+      "lb_director": "Michael LaHaie",
+      "lb_director_slug": "michael-lahaie",
+      "lb_year": 2026,
+      "lb_title": "Bob and David Climb Machu Picchu",
+      "backdrop": null,
+      "imdb_id": "tt38351005",
+      "tmdb_id": "1530940"
+    },
+    "omdb": {
+      "Title": "Bob and David Climb Machu Picchu",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "06 Jun 2026",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Michael LaHaie",
+      "Writer": "N/A",
+      "Actors": "Bob Odenkirk, David Cross",
+      "Plot": "A documentary following two friends as they face the challenge of climbing Machu Picchu. Along the way, they reflect on their 30 years as a comedy team as well as the ups and downs of their individual careers in show business.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTkzZGE2MGQtNjVmNi00MThkLThiNzUtMTJjMmEwNTI4OGEwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt38351005",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1530940"
+  },
+  "W. Kamau Bell | TRIBECA NIGHT LIVE|2012": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Totally Biased with W. Kamau Bell",
+      "Year": "2012–2013",
+      "Rated": "TV-MA",
+      "Released": "09 Aug 2012",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Talk-Show",
+      "Director": "N/A",
+      "Writer": "W. Kamau Bell, Chris Rock, Chuck Sklar",
+      "Actors": "W. Kamau Bell, Dwayne Kennedy, Janine Brito",
+      "Plot": "Series will focus on politics, pop culture, race, religion, media and sex.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDYzMDU0NF5BMl5BanBnXkFtZTcwNDMxNjUyOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.1",
+      "imdbVotes": "946",
+      "imdbID": "tt2330549",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Chris Rock",
+      "imdb_id": null,
+      "extract_pt": "Christopher Julius \"Chris\" Rock III (Andrews, 7 de fevereiro de 1965) é um comediante, ator, roteirista, produtor, dublador e cineasta americano, ganhador de quatro prêmios Emmy e três prêmios Grammy, conhecido por criar, escrever e narrar o seriado Todo Mundo Odeia o Chris, baseado em sua vida real.\nApós trabalhar como comediante de stand-up e atuar em inúmeros papéis coadjuvantes, Rock ganhou destaque ao atuar em uma série de especiais de comédia aclamados da HBO e ao se tornar membro de elenco do Saturday Night Live no início dos anos 90. Ele passou a aparecer em filmes de maior destaque, com papéis principais em O Céu Pode Esperar (2001), Um Pobretão na Casa Branca (2003), Golpe Baixo (2005), Acho Que Amo Minha Mulher (2007), Gente Grande (2010), Gente Grande 2 (2013) e No Auge da Fama (2014), além de dar voz à zebra Marty na franquia Madagascar, da Dreamworks.\nRock apresentou o Oscar 2005 e o Oscar 2016."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "QUEEN AT SEA | TRIBECA CINEMA SESSIONS|2026": {
+    "lbxd": {
+      "rating": 3.83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/1/0/8/0/921080-queen-at-sea-0-500-0-750-crop.jpg?v=0cd1782b5a",
+      "description": "As advanced dementia erodes an older woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interests, navigating love and the fragile boundaries between care, protection and autonomy.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Lance Hammer",
+      "lb_director_slug": "lance-hammer",
+      "lb_year": 2026,
+      "lb_title": "Queen at Sea",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9",
+      "imdb_id": "tt27541205",
+      "tmdb_id": "1021848"
+    },
+    "omdb": {
+      "Title": "Queen at Sea",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "17 Feb 2026",
+      "Runtime": "121 min",
+      "Genre": "Drama",
+      "Director": "Lance Hammer",
+      "Writer": "N/A",
+      "Actors": "Noah Hunt Basden, Juliette Binoche, Anna Calder-Marshall",
+      "Plot": "As dementia erodes a woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interest, navigating love and the fragile boundaries between care, protection, and autonomy.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc3YjY5YWMtOWU3OC00N2Y1LTg2NWYtN2YzNjg5ZGFmMTkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "52",
+      "imdbID": "tt27541205",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Queen at Sea",
+      "imdb_id": "tt27541205",
+      "extract_pt": "Queen at Sea (bra: Rainha ao Mar) é um longa-metragem britânico-estadunidense de drama lançado em 2026, escrito, dirigido e montado por Lance Hammer. Estrelado por Juliette Binoche, Tom Courtenay, e Anna Calder-Marshall, acompanha Amanda, uma mulher de meia-idade sofrendo com a demência de sua mãe. \nA estreia mundial do filme ocorreu em 17 de fevereiro de 2026, na competição principal do 76.º Festival Internacional de Cinema de Berlim, onde venceu o Urso de Prata de Prêmio do Júri e o Urso de Prata de Melhor Atuação Coadjuvante, concedido conjuntamente a Tom Courtenay e Anna Calder-Marshall. A produção recebeu elogios da crítica, sobretudo pela direção e pelas atuações."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      61.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9"
+    ],
+    "tmdb_id": "1021848"
+  },
+  "6:06 | TRIBECA CINEMA SESSIONS|2025": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "6:06",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "05 Sep 2025",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Tekla Taidelli",
+      "Writer": "N/A",
+      "Actors": "Lou Di Giorgio, George Li, Davide Valle",
+      "Plot": "Leo life is in black and white. His days always begin at 6:06. drugs are not just an addiction but a mental loop that keeps Leo trapped in a déjà vu...until he meets Jo-Jo, an enigmatic girl with which he will leave together for P...",
+      "Language": "Italian, French",
+      "Country": "Italy, Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTZlNTdjYTYtMDZkMy00Mjc4LWI3MzItZjIzZjVlY2EyNDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "15",
+      "imdbID": "tt37887096",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1520517"
+  },
+  "THE ACCOMPANIST | TRIBECA CINEMA SESSIONS|1992": {
+    "lbxd": {
+      "rating": 3.37,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/2/9/0/23290-the-accompanist-0-500-0-750-crop.jpg?v=74181aca67",
+      "description": "In Nazi-occupied Paris, a young accompanist named Sophie Vasseur gets a job with famed singer Irene Brice. As Irene's husband Charles, a businessman collaborating with the Nazis, wrestles with his conscience, Sophie becomes obsessed with Irene, taking on the role of maid as well as accompanist, living life vicariously through Irene's triumphs and affairs.",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "country": "France",
+      "lb_director": "Claude Miller",
+      "lb_director_slug": "claude-miller",
+      "lb_year": 1992,
+      "lb_title": "The Accompanist",
+      "backdrop": null,
+      "imdb_id": "tt0103616",
+      "tmdb_id": "41765"
+    },
+    "omdb": {
+      "Title": "The Accompanist",
+      "Year": "1993",
+      "Rated": "PG",
+      "Released": "23 Dec 1993",
+      "Runtime": "102 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Claude Miller",
+      "Writer": "Claude Miller, Luc Béraud, Nina Berberova",
+      "Actors": "Richard Bohringer, Elena Safonova, Romane Bohringer",
+      "Plot": "In Nazi-occupied Paris, a young accompanist named Sophie Vasseur gets a job with famed singer Irene Brice. As Irene's husband Charles, a businessman collaborating with the Nazis, wrestles with his conscience, Sophie becomes obsess...",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "3 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc3YTgwZjQtOGE2My00NTc2LTk4NTQtMDEwNDdiM2MyYzdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,088",
+      "imdbID": "tt0103616",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$769,983",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "41765"
   }
 }

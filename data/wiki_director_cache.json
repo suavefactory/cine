@@ -3188,7 +3188,7 @@
   "Michael LaHaie": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Lance Hammer": {
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Lance_Hammer_at_Berlinale_2026-1.jpg/500px-Lance_Hammer_at_Berlinale_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -3198,7 +3198,7 @@
   "Tekla Taidelli": {
     "photo": null,
     "bio": null,
-    "tries": 1
+    "tries": 2
   },
   "Claude Miller": {
     "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Claude_Miller_Cannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -3208,6 +3208,16 @@
   "Vítor Gonçalves": {
     "photo": null,
     "bio": "Vítor Gonçalves is a Portuguese filmmaker, film director, screenwriter and film producer. He is considered to be part of The School of Reis film family.",
+    "tries": 1
+  },
+  "Zihan Loo, Kan Lume": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
+  },
+  "Enrique Brasó": {
+    "photo": null,
+    "bio": "Spanish director and screenwriter",
     "tries": 1
   }
 }
