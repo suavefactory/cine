@@ -1,6 +1,127 @@
 window.CINEMA_DATA = {
-  "generated": "2026-11-13T16:08:36.262533+00:00",
+  "generated": "2026-11-14T15:00:07.038903+00:00",
   "movies": [
+    {
+      "id": "sao_jorge_12436",
+      "title": "SHORTS SELECTION | TRIBECA CINEMA SESSIONS",
+      "director": null,
+      "duration": 130,
+      "festival": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/shorts-selection-tribeca-cinema-sessions/",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "14:30",
+          "cinema": "sao_jorge",
+          "labels": [
+            "Conversa com os realizadores."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_12441",
+      "title": "SOLOS | TRIBECA CINEMA SESSIONS",
+      "director": null,
+      "duration": 112,
+      "festival": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/5/9/8/115598-solos-0-500-0-750-crop.jpg?v=45bcbca7e8",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/solos-tribeca-cinema-sessions/",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "20:00",
+          "cinema": "sao_jorge",
+          "labels": [
+            "Conversa com o realizador Sebastião Salgado e os atores Ricardo Pereira e Afonso Laginha."
+          ]
+        }
+      ],
+      "year": 2007,
+      "plot": "Inspired by true events, Solos explores relationships among three individuals who are struggling to open up their feelings towards each other. Filmmakers Kan Lume and Loo Zihan co-directed this pathos that dramatizes the selfishness of love and its tragic outcomes. Set in contemporary Singapore, Solos follows the endeavors of Boy, Man and Mother. Having been in a relationship with Man (Lim Yu Beng) for years, Boy (Loo Zihan) eventually grows up and wishes to quit the relationship. Conversely, Man still wants to be with Boy and for them to settle together. Meanwhile, Mother (Goh Guat Kian) is devastated that her son (Boy) has abandoned her and has been in relationship with Man. As the three characters fight their own demons, Solos juxtaposes reality and surreal scenes in order to give clues of each character’s inner desires. The film has minimum conversation to give freedom to the audience's individual interpretation of the film.",
+      "country": "Singapore",
+      "director_lbxd_slug": "loo-zihan"
+    },
+    {
+      "id": "sao_jorge_12442",
+      "title": "Daniela Ruah | TRIBECA NIGHT LIVE",
+      "director": null,
+      "duration": 90,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/11/Night-Live-Daniela-Ruah-Still-scaled.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/daniela-ruah-tribeca-night-live/",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_12433",
+      "title": "Luís Franco-Bastos | TRIBECA NIGHT LIVE",
+      "director": null,
+      "duration": 90,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/11/Night-Live-Luis-Franco-Bastos-Still-scaled.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/luis-franco-bastos-tribeca-night-live/",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
+    {
+      "id": "sao_jorge_12425",
+      "title": "W. Kamau Bell | TRIBECA NIGHT LIVE",
+      "director": null,
+      "duration": 90,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/11/Night-Live-W-Kamau-Bell-Still-scaled.webp",
+      "genres": [
+        "Comedy",
+        "Talk-Show"
+      ],
+      "link": "https://cinemasaojorge.pt/evento/w-kamau-bell-tribeca-night-live/",
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "time": "21:30",
+          "cinema": "sao_jorge"
+        }
+      ],
+      "plot": "Series will focus on politics, pop culture, race, religion, media and sex.",
+      "title_en": "Totally Biased with W. Kamau Bell",
+      "country": "United States",
+      "year": 2012
+    },
+    {
+      "id": "sao_jorge_12445",
+      "title": "VIAGENS – ENTRE ESTRELAS E ONDAS | TRIBECA CINEMA SESSIONS",
+      "director": null,
+      "duration": 86,
+      "festival": null,
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/11/Viagens-Still.webp",
+      "genres": [],
+      "link": "https://cinemasaojorge.pt/evento/viagens-entre-estrelas-e-ondas-tribeca-cinema-sessions/",
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "time": "12:00",
+          "cinema": "sao_jorge"
+        }
+      ]
+    },
     {
       "id": "sao_jorge_12453",
       "title": "DESNORTE | TRIBECA CINEMA SESSIONS",
@@ -132,23 +253,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "louis-paxton"
     },
     {
-      "id": "sao_jorge_12445",
-      "title": "VIAGENS – ENTRE ESTRELAS E ONDAS | TRIBECA CINEMA SESSIONS",
-      "director": null,
-      "duration": 86,
-      "festival": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/viagens-entre-estrelas-e-ondas-tribeca-cinema-sessions/",
-      "sessions": [
-        {
-          "date": "2026-12-13",
-          "time": "12:00",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
       "id": "sao_jorge_12443",
       "title": "DIAS LIVRES | TRIBECA CINEMA SESSIONS",
       "director": null,
@@ -164,49 +268,6 @@ window.CINEMA_DATA = {
           "cinema": "sao_jorge"
         }
       ]
-    },
-    {
-      "id": "sao_jorge_12442",
-      "title": "Daniela Ruah | TRIBECA NIGHT LIVE",
-      "director": null,
-      "duration": 90,
-      "festival": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/daniela-ruah-tribeca-night-live/",
-      "sessions": [
-        {
-          "date": "2026-12-12",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ]
-    },
-    {
-      "id": "sao_jorge_12441",
-      "title": "SOLOS | TRIBECA CINEMA SESSIONS",
-      "director": "Zihan Loo, Kan Lume",
-      "duration": 112,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/3/8/0/498380-solos-0-500-0-750-crop.jpg?v=8a88ff334a",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/solos-tribeca-cinema-sessions/",
-      "sessions": [
-        {
-          "date": "2026-12-12",
-          "time": "20:00",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Conversa com o realizador Sebastião Salgado e os atores Ricardo Pereira e Afonso Laginha."
-          ]
-        }
-      ],
-      "year": 2005,
-      "plot": "Enrique is 37 years old, 12 years of living with his wife and two children. Sick with jealousy, he has just separated from his wife once more. Luis, 40 years old, has just finished a passionate relationship with a very hysterical TV journalist that he was madly in love with, and left him for another. One comes from the horror of jealousy and weariness, and the other from a passion that swept him away, and finally left him alone. As Enrique has nowhere to go, Luis invites him to live in his house, temporarily ...",
-      "country": "Argentina",
-      "director_lbxd_slug": "loo-zihan"
     },
     {
       "id": "sao_jorge_12439",
@@ -262,29 +323,9 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "agnes-obadia-1"
     },
     {
-      "id": "sao_jorge_12436",
-      "title": "SHORTS SELECTION | TRIBECA CINEMA SESSIONS",
-      "director": null,
-      "duration": 130,
-      "festival": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/shorts-selection-tribeca-cinema-sessions/",
-      "sessions": [
-        {
-          "date": "2026-12-12",
-          "time": "14:30",
-          "cinema": "sao_jorge",
-          "labels": [
-            "Conversa com os realizadores."
-          ]
-        }
-      ]
-    },
-    {
       "id": "sao_jorge_12434",
       "title": "IN MEMORIAM | TRIBECA CINEMA SESSIONS",
-      "director": "Enrique Brasó",
+      "director": null,
       "duration": 138,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/8/2/3/180823-in-memoriam-0-500-0-750-crop.jpg?v=790bbfed16",
@@ -307,23 +348,6 @@ window.CINEMA_DATA = {
       "plot": "In an anguished triangle of silences and unspoken words, a man secretly loves a woman who loves another man.",
       "country": "Spain",
       "director_lbxd_slug": "enrique-braso"
-    },
-    {
-      "id": "sao_jorge_12433",
-      "title": "Luís Franco-Bastos | TRIBECA NIGHT LIVE",
-      "director": null,
-      "duration": 90,
-      "festival": null,
-      "poster": null,
-      "genres": [],
-      "link": "https://cinemasaojorge.pt/evento/luis-franco-bastos-tribeca-night-live/",
-      "sessions": [
-        {
-          "date": "2026-12-11",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ]
     },
     {
       "id": "sao_jorge_12430",
@@ -401,31 +425,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "sao_jorge_12425",
-      "title": "W. Kamau Bell | TRIBECA NIGHT LIVE",
-      "director": null,
-      "duration": 90,
-      "festival": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNDYzMDU0NF5BMl5BanBnXkFtZTcwNDMxNjUyOQ@@._V1_SX300.jpg",
-      "genres": [
-        "Comedy",
-        "Talk-Show"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/w-kamau-bell-tribeca-night-live/",
-      "sessions": [
-        {
-          "date": "2026-12-10",
-          "time": "21:30",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "plot": "Series will focus on politics, pop culture, race, religion, media and sex.",
-      "title_en": "Totally Biased with W. Kamau Bell",
-      "country": "United States",
-      "year": 2012,
-      "plot_pt": "Christopher Julius \"Chris\" Rock III (Andrews, 7 de fevereiro de 1965) é um comediante, ator, roteirista, produtor, dublador e cineasta americano, ganhador de quatro prêmios Emmy e três prêmios Grammy, conhecido por criar, escrever e narrar o seriado Todo Mundo Odeia o Chris, baseado em sua vida real.\nApós trabalhar como comediante de stand-up e atuar em inúmeros papéis coadjuvantes, Rock ganhou destaque ao atuar em uma série de especiais de comédia aclamados da HBO e ao se tornar membro de elenco do Saturday Night Live no início dos anos 90. Ele passou a aparecer em filmes de maior destaque, com papéis principais em O Céu Pode Esperar (2001), Um Pobretão na Casa Branca (2003), Golpe Baixo (2005), Acho Que Amo Minha Mulher (2007), Gente Grande (2010), Gente Grande 2 (2013) e No Auge da Fama (2014), além de dar voz à zebra Marty na franquia Madagascar, da Dreamworks.\nRock apresentou o Oscar 2005 e o Oscar 2016."
-    },
-    {
       "id": "sao_jorge_12423",
       "title": "QUEEN AT SEA | TRIBECA CINEMA SESSIONS",
       "director": "Lance Hammer",
@@ -453,8 +452,7 @@ window.CINEMA_DATA = {
         61.0
       ],
       "country": "UK",
-      "director_lbxd_slug": "lance-hammer",
-      "plot_pt": "Queen at Sea (bra: Rainha ao Mar) é um longa-metragem britânico-estadunidense de drama lançado em 2026, escrito, dirigido e montado por Lance Hammer. Estrelado por Juliette Binoche, Tom Courtenay, e Anna Calder-Marshall, acompanha Amanda, uma mulher de meia-idade sofrendo com a demência de sua mãe. \nA estreia mundial do filme ocorreu em 17 de fevereiro de 2026, na competição principal do 76.º Festival Internacional de Cinema de Berlim, onde venceu o Urso de Prata de Prêmio do Júri e o Urso de Prata de Melhor Atuação Coadjuvante, concedido conjuntamente a Tom Courtenay e Anna Calder-Marshall. A produção recebeu elogios da crítica, sobretudo pela direção e pelas atuações."
+      "director_lbxd_slug": "lance-hammer"
     },
     {
       "id": "sao_jorge_12421",
@@ -462,9 +460,11 @@ window.CINEMA_DATA = {
       "director": "Tekla Taidelli",
       "duration": 110,
       "festival": null,
-      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/11/606-Still.webp",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/8/0/7/2/1678072-606-0-500-0-750-crop.jpg?v=849584ead3",
       "genres": [
-        "Drama"
+        "Thriller",
+        "Mystery",
+        "Fantasy"
       ],
       "link": "https://cinemasaojorge.pt/evento/606-tribeca-cinema-sessions/",
       "sessions": [
@@ -477,9 +477,10 @@ window.CINEMA_DATA = {
           ]
         }
       ],
-      "plot": "Leo life is in black and white. His days always begin at 6:06. drugs are not just an addiction but a mental loop that keeps Leo trapped in a déjà vu...until he meets Jo-Jo, an enigmatic girl with which he will leave together for P...",
+      "year": 2026,
+      "plot": "A father’s love knows no boundaries,but what happens when the path to his daughter lies beyond the boundaries of reality? When supernatural forces drag his daughter into an unknown world, he risks everything, venturing into terrifying dimensions where fear, mystery, and impossible truths stand between him and the only person he cannot afford to lose.",
       "country": "Italy",
-      "year": 2025
+      "director_lbxd_slug": "sathish-sekar"
     },
     {
       "id": "sao_jorge_12419",
@@ -538,72 +539,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Japan",
       "director_lbxd_slug": "koji-fukada"
-    },
-    {
-      "id": "sao_jorge_12315",
-      "title": "L’Aventura",
-      "director": null,
-      "duration": 107,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/3/2/3/1198323-laventura-0-500-0-750-crop.jpg?v=3afec38f31",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/laventura/",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "11:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.5,
-      "year": 2025,
-      "plot": "Summer holidays. Sardinia, Italy. A family (road) trip. Claudine, soon to be 11 y.o., decides to tell the story of their adventures as they go along. When Raoul, her 3-y.o. brother, doesn't bother her...",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/mKP4wapXPgIDVXrFZNzRQhPaExS.jpg",
-        "https://image.tmdb.org/t/p/w1280/oW0Hh4INOUFWIYxZXGm6HVZ9vdj.jpg",
-        "https://image.tmdb.org/t/p/w1280/fCmgziZVtyFT209eeswvEVGwOFh.jpg"
-      ],
-      "stills_focus": [
-        45.8,
-        41.5,
-        43.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "sophie-letourneur",
-      "plot_pt": "É o nosso filme de Verão, esta viagem à Sardenha de uma família francesa, que apaixonou a crítica e os espectadores. O cinema de Sophie Letourneur, entre a ficção e a realidade, e com um apurado sentido de mise-en-scène, revela-se em todo o seu esplendor neste filme divertido, terno, e por vezes melancólico, que capta a essência das férias estivais."
-    },
-    {
-      "id": "sao_jorge_12242",
-      "title": "Elsinore",
-      "director": "Simon Stone",
-      "duration": 111,
-      "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-500-0-750-crop.jpg?v=858fb58a95",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemasaojorge.pt/evento/elsinore/",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "21:00",
-          "cinema": "sao_jorge"
-        }
-      ],
-      "rating": 3.86,
-      "year": 2026,
-      "plot": "The deeply emotional and inspirational true story of Ian Charleson, a gifted actor whose greatest challenge becomes his greatest triumph. Facing his own mortality with unflinching honesty, wit, and grace, Charleson delivers a courageous performance that becomes a source of healing and inspiration for those around him.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/6/7/5/9/6/tmdb/6pMg3GaEamYdBvsuJfHPc12KXAz-1920-1920-1080-1080-crop-000000.jpg?v=b90eb6c108"
-      ],
-      "stills_focus": [
-        27.6
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "simon-stone",
-      "plot_pt": "Elsinore é um longa-metragem de drama biográfico de 2026 dirigido por Simon Stone e escrito por Stephen Beresford, sobre o ator escocês Ian Charleson (1949–1990). Coproduzido entre Estados Unidos, Reino Unido e Itália, é estrelado por Andrew Scott no papel de Charleson em sua atuação como Hamlet no National Theatre durante os últimos meses de sua vida, retratando os desafios que enfrentou para se preparar e atuar no papel enquanto lutava contra o HIV/AIDS. O elenco ainda é composto por Olivia Colman, Billie Piper, Sadie Soverall, Johnny Flynn.\nO filme teve sua estreia mundial em 4 de setembro de 2026, no 53º Festival de Cinema de Telluride, e estreou nos cinemas norte-americanos pela Focus Features em 20 de novembro de 2026. No Brasil, distribuído pela Universal chegará aos cinemas no dia 28 de janeiro de 2027."
     },
     {
       "id": "sao_jorge_12211",
@@ -757,7 +692,7 @@ window.CINEMA_DATA = {
       "director": "Louisiana Mees",
       "duration": 67,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/3/6/7/6/1083676-waithood-0-500-0-750-crop.jpg?v=8131d390fd",
+      "poster": "https://cinemasaojorge.pt/wp-content/uploads/2026/10/Waithood_Still1.webp",
       "genres": [
         "Short",
         "Comedy",
@@ -773,8 +708,7 @@ window.CINEMA_DATA = {
       ],
       "plot": "A group of young non-actors, from Athens (Greece) yearn to forget their idle futures while playing in luxurious Airbnb's. Nevertheless their fate catching up with them.",
       "country": "Belgium",
-      "year": 2019,
-      "director_lbxd_slug": "louisiana-mees-fongang"
+      "year": 2019
     },
     {
       "id": "sao_jorge_12194",
@@ -981,120 +915,6 @@ window.CINEMA_DATA = {
       ]
     },
     {
-      "id": "cinemateca_20508",
-      "title": "Seven Sweethearts",
-      "director": "Frank Borzage",
-      "year": 1942,
-      "duration": 97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/3/1/8/81318-seven-sweethearts-0-500-0-750-crop.jpg?v=4204b44970",
-      "genres": [
-        "Music",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20508",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.35,
-      "plot": "Little Delft, Michigan follows the customs of old-world Holland and is known for its Tulip Festival. The owner of the hotel insists that his seven daughters marry in order, from eldest to youngest.",
-      "country": "USA",
-      "director_lbxd_slug": "frank-borzage"
-    },
-    {
-      "id": "cinemateca_20455",
-      "title": "La Vie De Bohème",
-      "director": "Aki Kaurismäki",
-      "year": 1992,
-      "duration": 103,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/2/2/33822-la-vie-de-boheme-0-500-0-750-crop.jpg?v=63086ec9c6",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20455",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.96,
-      "plot": "Three penniless artists become friends in modern-day Paris: Rodolfo, an Albanian painter with no visa, Marcel, a playwright and magazine editor with no publisher, and Schaunard, a post-modernist composer of execrable noise.",
-      "plot_pt": "La Vie de bohème (prt: A Vida de Boémia) é um filme de tragicomédia de 1992 dirigido por Aki Kaurismäki e estrelado por Matti Pellonpää, Évelyne Didi e André Wilms. O roteiro de Kaurismäki para o filme foi vagamente baseado no influente romance de Henri Murger, Scènes de la vie de bohème, de 1851, que gerou várias adaptações para a tela, bem como peças e óperas, sendo a mais notável La bohème, de 1896, de Giacomo Puccini.\nO filme foi um sucesso de crítica ganhando vários prêmios. A Federação Internacional de Críticos de Cinema concedeu ao filme o prêmio Fórum do Novo Cinema no Festival Internacional de Cinema de Berlim de 1992.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/l7/1i/5j/ep/lavie-1920-1920-1080-1080-crop-000000.jpg?v=e1cb85f5e9"
-      ],
-      "stills_focus": [
-        31.1
-      ],
-      "country": "France",
-      "director_lbxd_slug": "aki-kaurismaki"
-    },
-    {
-      "id": "cinemateca_20547",
-      "title": "Panic In The Streets",
-      "director": "Elia Kazan",
-      "year": 1950,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/6/6/7/30667-panic-in-the-streets-0-500-0-750-crop.jpg?v=2efdc10ad1",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20547",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.61,
-      "plot": "A medical examiner discovers that an innocent shooting victim in a robbery died of bubonic plague. With only 48 hours to find the killer, who is now a ticking time bomb threatening the entire city, a grisly manhunt through the seamy underworld of the New Orleans Waterfront is underway.",
-      "plot_pt": "Pânico nas Ruas (em inglês:  Panic in the Streets) é um filme norte-americano de 1950, do gênero policial, dirigido por Elia Kazan e estrelado por Richard Widmark e Paul Douglas.",
-      "country": "USA",
-      "director_lbxd_slug": "elia-kazan"
-    },
-    {
-      "id": "cinemateca_20457",
-      "title": "Okraina",
-      "director": "Boris Barnet",
-      "year": 1933,
-      "duration": 98,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/5/1/6/78516-outskirts-0-500-0-750-crop.jpg?v=c3ce63e2ab",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "War"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20457",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "Com a presença de Rita Azevedo Gomes"
-          ]
-        }
-      ],
-      "rating": 3.66,
-      "plot": "In a remote Russian village during World War I, colourful and nuanced characters experience divided loyalties: family loyalty vs. personal desire, nationalism vs. transcendent humanism.",
-      "title_en": "Outskirts",
-      "country": "USSR",
-      "director_lbxd_slug": "boris-barnet"
-    },
-    {
       "id": "cinemateca_20425",
       "title": "KIRIKOU ET LES BêTES SAUVAGES",
       "director": "Bénédicte Galup, Michel Ocelot",
@@ -1229,34 +1049,28 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "werner-schroeter"
     },
     {
-      "id": "cinemateca_20554",
-      "title": "A Divina Comédia",
-      "director": "Manoel de Oliveira",
-      "year": 1991,
-      "duration": 140,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/6/0/3/84603-the-divine-comedy-0-500-0-750-crop.jpg?v=96e6a7da10",
+      "id": "cinemateca_20557",
+      "title": "Secrets",
+      "director": "Frank Borzage",
+      "year": 1933,
+      "duration": 83,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/5/2/9/5/85295-secrets-0-500-0-750-crop.jpg?v=5e2ad59bea",
       "genres": [
+        "Western",
         "Drama"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20554",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20557",
       "sessions": [
         {
           "date": "2026-11-16",
           "time": "15:30",
           "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "18:30",
-          "cinema": "cinemateca"
         }
       ],
-      "rating": 3.62,
-      "plot": "In a mental institution the patients see themselves as people like Jesus, Lazarus, Martha, Mary, Adam, Eve, Sonia, Raskolnikov, Aliosha e Ivan Karamasov, a Philosopher, a Profet, Santa Teresa d'Avila, reciting the Divine Comedy.",
-      "plot_pt": "A Divina Comédia (em francês:  La Divine Comédie) é um filme de longa-metragem luso-franco-suíço de Manoel de Oliveira, do ano de 1991.",
-      "title_en": "The Divine Comedy",
-      "country": "Portugal",
-      "director_lbxd_slug": "manoel-de-oliveira"
+      "rating": 3.26,
+      "plot": "In the 1860s, Mary Marlowe defies her father's wishes to marry a British lord and runs away with clerk John Carlton as he heads West to make his fortune. Mary and John endure the difficult journey and settle into a small cabin, then face the hostilities of a cattle rustling gang, as well as the tragic loss of their only son. With Mary's help, John defeats the gang, which propels him to political power that, over the years, gradually erodes the once-happy marriage.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
     },
     {
       "id": "cinemateca_20540",
@@ -1456,6 +1270,30 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jean-louis-schefer"
     },
     {
+      "id": "cinemateca_20509",
+      "title": "Seven Sweethearts",
+      "director": "Frank Borzage",
+      "year": 1942,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/3/1/8/81318-seven-sweethearts-0-500-0-750-crop.jpg?v=4204b44970",
+      "genres": [
+        "Music",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20509",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.35,
+      "plot": "Little Delft, Michigan follows the customs of old-world Holland and is known for its Tulip Festival. The owner of the hotel insists that his seven daughters marry in order, from eldest to youngest.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
       "id": "cinemateca_20542",
       "title": "A Girl In Every Port",
       "director": "Howard Hawks",
@@ -1501,11 +1339,41 @@ window.CINEMA_DATA = {
           "date": "2026-11-19",
           "time": "15:30",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "18:30",
+          "cinema": "cinemateca"
         }
       ],
       "plot": "The perineal District Attorney and conservative southern patriarch cherishes the old ways and does his best to adjust to change.",
       "country": "USA",
       "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20534",
+      "title": "A Divina Comédia",
+      "director": "Manoel de Oliveira",
+      "year": 1991,
+      "duration": 140,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/4/6/0/3/84603-the-divine-comedy-0-500-0-750-crop.jpg?v=96e6a7da10",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20534",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "time": "18:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.62,
+      "plot": "In a mental institution the patients see themselves as people like Jesus, Lazarus, Martha, Mary, Adam, Eve, Sonia, Raskolnikov, Aliosha e Ivan Karamasov, a Philosopher, a Profet, Santa Teresa d'Avila, reciting the Divine Comedy.",
+      "plot_pt": "A Divina Comédia (em francês:  La Divine Comédie) é um filme de longa-metragem luso-franco-suíço de Manoel de Oliveira, do ano de 1991.",
+      "title_en": "The Divine Comedy",
+      "country": "Portugal",
+      "director_lbxd_slug": "manoel-de-oliveira"
     },
     {
       "id": "cinemateca_20466",
@@ -2197,6 +2065,91 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "elia-kazan"
     },
     {
+      "id": "cinemateca_20456",
+      "title": "La Vie De Bohème",
+      "director": "Aki Kaurismäki",
+      "year": 1992,
+      "duration": 103,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/2/2/33822-la-vie-de-boheme-0-500-0-750-crop.jpg?v=63086ec9c6",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20456",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.96,
+      "plot": "Three penniless artists become friends in modern-day Paris: Rodolfo, an Albanian painter with no visa, Marcel, a playwright and magazine editor with no publisher, and Schaunard, a post-modernist composer of execrable noise.",
+      "plot_pt": "La Vie de bohème (prt: A Vida de Boémia) é um filme de tragicomédia de 1992 dirigido por Aki Kaurismäki e estrelado por Matti Pellonpää, Évelyne Didi e André Wilms. O roteiro de Kaurismäki para o filme foi vagamente baseado no influente romance de Henri Murger, Scènes de la vie de bohème, de 1851, que gerou várias adaptações para a tela, bem como peças e óperas, sendo a mais notável La bohème, de 1896, de Giacomo Puccini.\nO filme foi um sucesso de crítica ganhando vários prêmios. A Federação Internacional de Críticos de Cinema concedeu ao filme o prêmio Fórum do Novo Cinema no Festival Internacional de Cinema de Berlim de 1992.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/l7/1i/5j/ep/lavie-1920-1920-1080-1080-crop-000000.jpg?v=e1cb85f5e9"
+      ],
+      "stills_focus": [
+        31.1
+      ],
+      "country": "France",
+      "director_lbxd_slug": "aki-kaurismaki"
+    },
+    {
+      "id": "cinemateca_20537",
+      "title": "Aspern",
+      "director": "Eduardo de Gregorio",
+      "year": 1982,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/9/7/6/4/199764-aspern-0-500-0-750-crop.jpg?v=d2069dbc7f",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20537",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A publisher seeks information on a writer who died long ago.",
+      "country": "France",
+      "director_lbxd_slug": "eduardo-de-gregorio"
+    },
+    {
+      "id": "cinemateca_20520",
+      "title": "Till We Meet Again",
+      "director": "Frank Borzage",
+      "year": 1944,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/3/2/101932-till-we-meet-again-0-500-0-750-crop.jpg?v=71bde5174a",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20520",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.62,
+      "plot": "An American pilot is shot down over Nazi-occupied France and is taken to a convent by the Resistance. The young novice nun Clothilde is interested in him and is willing to help him escape to England, but the pilot must continue his mission undercover by posing as the husband of a different woman.",
+      "plot_pt": "Till We Meet Again (Brasil: Um Lírio na Cruz / Portugal: Até à Vista) é um filme estadunidense de 1944, do gênero drama de guerra, dirigido por Frank Borzage e estrelado por Ray Milland e Barbara Britton.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/7v/ao/o0/sc/3C415g6x9RpqvaDJFPhJQzfIriG-1920-1920-1080-1080-crop-000000.jpg?v=11952f70f1"
+      ],
+      "stills_focus": [
+        40.0
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
       "id": "cinemateca_20469_0",
       "title": "On Dangerous Ground",
       "director": "Nicholas Ray",
@@ -2298,6 +2251,59 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ingmar-bergman"
     },
     {
+      "id": "cinemateca_20476_0",
+      "title": "A Conquista De Faro",
+      "director": "Rita Azevedo Gomes",
+      "year": 2005,
+      "duration": 33,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/3/8/2/389382-the-conquest-of-faro-0-500-0-750-crop.jpg?v=fa05b75c90",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20476",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Arriving in a hotel in the city of Faro, a couple learns there are no available tables left. When another couple agrees to share a table, they spark a conversation on the city’s history, unfolding the tales of King Afonso III, who betrays his wife, and of a Moorish woman, who betrays her father.",
+      "title_en": "The Conquest of Faro",
+      "country": "Portugal",
+      "director_lbxd_slug": "rita-azevedo-gomes"
+    },
+    {
+      "id": "cinemateca_20476_1",
+      "title": "Fuck The Polis",
+      "director": "Rita Azevedo Gomes",
+      "year": 2025,
+      "duration": 74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/0/2/9/1/1370291-fuck-the-polis-0-500-0-750-crop.jpg?v=40c3c0850f",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20476",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.23,
+      "plot": "Twenty years ago, believing she was doomed, Irma took a trip to Greece. Today, she retraces that journey, accompanied by three young men. From island to island, between sky and sea, the travelers read, listen and live, carried by a longing for beauty and clarity.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/7/0/2/9/1/tmdb/7KCO5hHfllj9HmRIpB6jxp5fPeR-1920-1920-1080-1080-crop-000000.jpg?v=283631dbd4"
+      ],
+      "stills_focus": [
+        47.2
+      ],
+      "country": "Portugal",
+      "director_lbxd_slug": "rita-azevedo-gomes"
+    },
+    {
       "id": "nimas_you-can-see-everything-2026",
       "title": "You Can See Everything",
       "director": "Nathan Fielder, Lance Oppenheim",
@@ -2309,31 +2315,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/you-can-see-everything-2026",
       "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "18:20",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "20:45",
-          "cinema": "campo_alegre"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "22:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-14",
           "time": "15:00",
@@ -2463,367 +2444,11 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "nathan-fielder"
     },
     {
-      "id": "nimas_the-dreamed-adventure-2026",
-      "title": "The Dreamed Adventure",
-      "director": "Valeska Grisebach",
-      "year": 2026,
-      "duration": 167,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/1/3/2/2/9/913229-the-dreamed-adventure-0-500-0-750-crop.jpg?v=99f7a3ee77",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/the-dreamed-adventure-2026",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "21:00",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Valeska Grisebach"
-          ]
-        }
-      ],
-      "rating": 3.28,
-      "plot": "Journeying home to the Bulgarian hinterlands on the border of Turkey and Greece, Saïd seeks out a fuel-smuggling deal with a small-time crook, attracting the attention of Iliya, the local kingpin. Sensing danger, Saïd enlists the help of one-time romantic interest Veska, an archaeologist who years earlier had fallen in with the swindlers and operators of the post-Communist era. But when Saïd goes missing, Veska takes over the smuggling operation, deftly moving among the thunderous, posturing men and coming-face-to-face with the underworld that shaped her past.",
-      "plot_pt": "Numa pequena cidade na fronteira da Bulgária, Veska, arqueóloga, encontra Said, um conhecido de longa data a quem roubaram a viatura. Oferecendo-lhe ajuda, ela é arrastada para o submundo de onde ele emergiu, começando a investigar as ligações criminosas que se escondem sob a superfície dessa cidade aparentemente inocente, situada nos confins da Europa. Quando a tensão aumenta, Veska torna-se figura de um western moderno.",
-      "country": "Germany",
-      "director_lbxd_slug": "valeska-grisebach"
-    },
-    {
-      "id": "nimas_la-derive-1964",
-      "title": "La Dérive",
-      "director": "Paula Delsol",
-      "year": 1964,
-      "duration": 81,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/5/3/3/8/195338-the-drifting-0-500-0-750-crop.jpg?v=d81bffb69d",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/la-derive-1964",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.53,
-      "plot": "In the 1960s, Jacquie, a rebellious young woman, turns her back on her family to accompany an itinerant guitar player, Pierre, across France. The love affair is short-lived and when Pierre walks out of her life, Jacquie ends up in the bed of the first man she meets, a student. Disillusioned and broke, Jacquie returns to her home, but refuses to follow the example of her sister, who has become trapped in a life of domesticity. Whilst looking for a job worthy of her talents, she pursues a series of amorous adventures with men from all walks of life. Will any of them live up to her expectations...?",
-      "plot_pt": "Jacquie abandona a família para percorrer a França com um guitarrista itinerante. Quando a relação acaba, segue para a Riviera, onde se envolve numa série de encontros amorosos. Longe de se conformar com o casamento e a vida doméstica, ela reivindica para si outras formas de experienciar o desejo e afirmar a sua independência. La dérive é uma raridade feminista da década de 1960.",
-      "title_en": "The Drifting",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/la_derive.jpg",
-        "https://medeiafilmes.com/uploads/library/la-derive-une-fille-a-la-derive.jpg"
-      ],
-      "stills_focus": [
-        23.9,
-        44.2
-      ],
-      "country": "France",
-      "director_lbxd_slug": "paula-delsol"
-    },
-    {
-      "id": "nimas_la-perra-2026",
-      "title": "La perra",
-      "director": "Dominga Sotomayor",
-      "year": 2026,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/2/5/0/3/8/1425038-la-perra-2026-0-500-0-750-crop.jpg?v=4c122c1bb7",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/la-perra-2026",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.22,
-      "plot": "On a remote, wind-lashed island off the Chilean coast, Silvia earns her living harvesting seaweed and shares a quiet life with her partner. When she adopts a stray puppy, Yuri, her days fill with joy, love, and a tenderness that stirs a long-suppressed longing for motherhood. But Yuri’s sudden disappearance reawakens a haunting childhood trauma, forcing Silvia to confront a past she has never truly left behind.",
-      "plot_pt": "Numa ilha remota no sul do Chile, fustigada pelos ventos costeiros, Silvia, uma mulher solitária de meia-idade, sustenta-se com a apanha de algas. Um dia adopta uma cadelinha abandonada, que chama de Yuri — nome escolhido para a filha que nunca teve —, e o que começa por ser uma promessa de felicidade quotidiana, converte-se no doloroso despertar de um trauma de infância, quando Yuri desaparece repentinamente. Dominga Sotomayor desafia aqui a tradicional narrativa de afectos entre humanos e animais domésticos.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/5/0/3/8/tmdb/39bNBSNYpGfrN4eac6ZIn6v5rnt-1920-1920-1080-1080-crop-000000.jpg?v=10bb4f46f1"
-      ],
-      "stills_focus": [
-        55.8
-      ],
-      "country": "Chile",
-      "director_lbxd_slug": "dominga-sotomayor"
-    },
-    {
-      "id": "nimas_diario-de-uma-criada-de-quarto-2026",
-      "title": "Diário de uma Criada de Quarto",
-      "director": "Radu Jude",
-      "year": 2026,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/4/9/9/2/4/1349924-the-diary-of-a-chambermaid-2026-0-500-0-750-crop.jpg?v=d72580befb",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/diario-de-uma-criada-de-quarto-2026",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "15:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa zoom com Radu Jude"
-          ]
-        }
-      ],
-      "rating": 3.71,
-      "plot": "A young Romanian woman living in France works for a French family and joins a theatre company who are adapting Octave Mirbeau's The Diary of a Chambermaid.",
-      "plot_pt": "Gianina é uma jovem romena a viver em França. De dia, trabalha como empregada doméstica de uma família burguesa, cuidando também do filho dos patrões, enquanto, à noite, tem como ocupação os ensaios numa companhia de teatro amador, que está a adaptar a peça Diário de uma Criada de Quarto, de Octave Mirbeau. Longe, na Roménia, a filha de Gianina sente a ausência maternal.",
-      "title_en": "The Diary of a Chambermaid",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/4/9/9/2/4/tmdb/m1kCODE9BjIxN7xnP3qVJp9Yceu-1920-1920-1080-1080-crop-000000.jpg?v=239bf18fda"
-      ],
-      "stills_focus": [
-        22.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "radu-jude"
-    },
-    {
-      "id": "nimas_cavalo-selvagem-nove-2026",
-      "title": "Cavalo Selvagem Nove",
-      "director": "Martin McDonagh",
-      "year": 2026,
-      "duration": 118,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/cavalo-selvagem-nove-2026",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "22:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "19:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.09,
-      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-      "plot_pt": "Pouco antes do golpe chileno de 1973, os agentes da CIA, Chris (John Malkovich) e Lee (Sam Rockwell) são enviados de Santiago para a Ilha de Páscoa pelo seu chefe de serviço, MJ (Steve Buscemi). Entre as icónicas estátuas da ilha e enquanto os parceiros de longa data lidam com o seu passado obscuro e conspirações presentes, o recém-descoberto vínculo de Chris com um par de estudantes rebeldes (Mariana di Girolamo e Ailín Salas) ameaça transformar a viagem de todos neste paraíso remoto num verdadeiro caos.",
-      "title_en": "Wild Horse Nine",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/b17UWf3LqHgKolQkXckne32qv0.jpg",
-        "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-        "https://image.tmdb.org/t/p/w1280/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg"
-      ],
-      "stills_focus": [
-        23.0,
-        59.3,
-        27.0
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "martin-mcdonagh"
-    },
-    {
-      "id": "nimas_certain-women-2016",
-      "title": "Certain Women",
-      "director": "Kelly Reichardt",
-      "year": 2016,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/8/9/8/269898-certain-women-0-500-0-750-crop.jpg?v=85708ca3a8",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/certain-women-2016",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "18:00",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Kelly Reichardt"
-          ]
-        }
-      ],
-      "rating": 3.76,
-      "plot": "Three strong-willed women strive to forge their own paths amidst the wide-open plains of the American Northwest: a lawyer forced to subdue a troubled client; a wife and mother whose plans to construct her dream home reveal fissures in her marriage; and a lonely ranch hand who forms an ambiguous bond with a young law student.",
-      "plot_pt": "Um olhar inspirador sobre três mulheres que lutam para seguir o seu próprio caminho, por entre as vastas planícies do Noroeste americano. Uma advogada (Laura Dern) que combate práticas sexistas no escritório e é responsável por um caso de tomada de reféns; uma esposa e mãe (Michelle Williams) cuja determinação em construir a sua casa de sonho a faz entrar em conflito com os homens da sua vida; e uma jovem estudante de Direito (Kristen Stewart) com uma união ambígua com uma solitária ajudante de um rancho (Lily Gladstone). Adaptado de três contos de Maile Meloy, Certain Women é um estudo subtil e um retrato despretensioso de três mulheres que vivem na tensão entre os desejos pessoais e a expectativa social.",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/1_n9dyhvrozs9mdtl5fisgtq.jpg",
-        "https://medeiafilmes.com/uploads/library/03821914.jpg",
-        "https://medeiafilmes.com/uploads/library/423776.jpg"
-      ],
-      "stills_focus": [
-        40.8,
-        29.6,
-        42.6
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "kelly-reichardt"
-    },
-    {
-      "id": "nimas_despedida-de-ontem-1966",
-      "title": "Despedida de Ontem",
-      "director": "Alexander Kluge",
-      "year": 1966,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/3/7/5/75375-yesterday-girl-0-500-0-750-crop.jpg?v=6ecf6bc78a",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/despedida-de-ontem-1966",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "13:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "A young German woman searches for happiness, liberation, and independence in the illusive wake of a transformative national recovery.",
-      "plot_pt": "Anita G., uma jovem judia de Leipzig, muda-se para a Alemanha Ocidental em busca de uma vida nova. Apanhada na malha sedutora da sociedade capitalista, ela tenta encontrar o seu lugar num mundo desconhecido, acabando por cair numa errância ilustrativa do país do pós-guerra. Despedida de Ontem baseia-se no conto Anita G., do próprio Alexander Kluge, publicado no seu primeiro livro, Lebensläufe.",
-      "title_en": "Yesterday Girl",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/to/nu/0i/fb/cpi0WITSxBIPaAzqtXV7TJgWquN-1920-1920-1080-1080-crop-000000.jpg?v=b70a8864b7"
-      ],
-      "stills_focus": [
-        25.9
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "alexander-kluge"
-    },
-    {
-      "id": "nimas_dialogos-depois-do-fim-versao-serie-2023",
-      "title": "Diálogos Depois do Fim (Versão Série)",
-      "director": "Tiago Guedes",
-      "year": 2023,
-      "duration": 100,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/2/6/2/1013262-dialogues-after-the-end-0-500-0-750-crop.jpg?v=1c471c30a0",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/dialogos-depois-do-fim-versao-serie-2023",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "10:00",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Tiago Guedes"
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "time": "10:00",
-          "cinema": "nimas",
-          "labels": [
-            "Com a presença de Tiago Guedes"
-          ]
-        }
-      ],
-      "plot": "Pavese considered Dialogues with Leucò his best work. Eloquent and at the same time sententious and fragile, but implausible among humanized gods, demigods, heroes, and other pagan figures of Greek mythology, who question, through the imaginary of myths, the society of contemporary man. Out of a time and a certain space, and thus, and like all myths, always current.",
-      "plot_pt": "Diálogos escritos por Cesare Pavese, eloquentes e ao mesmo tempo sentenciosos e frágeis, mas inverossímeis, entre deuses humanizados, semi-deuses, heróis e outras figuras pagãs, que questionam, através do imaginário dos mitos gregos, a sociedade do homem contemporâneo. Fora de um dado tempo e espaço, e portanto, como os mitos, sempre actuais.",
-      "title_en": "Dialogues After the End",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
-        "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
-        "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
-      ],
-      "stills_focus": [
-        35.4,
-        43.2,
-        41.2
-      ],
-      "country": "Portugal",
-      "director_lbxd_slug": "tiago-guedes"
-    },
-    {
-      "id": "nimas_victor-como-toda-a-gente-2026",
-      "title": "Victor como toda a Gente",
-      "director": "Pascal Bonitzer",
-      "year": 2026,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/9/2/6/1331926-hugo-2026-0-500-0-750-crop.jpg?v=5255c6afce",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/victor-como-toda-a-gente-2026",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "15:30",
-          "cinema": "nimas",
-          "labels": [
-            "Conversa com Pascal Bonitzer"
-          ]
-        }
-      ],
-      "rating": 2.98,
-      "plot": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
-      "plot_pt": "Mergulhado na obra de Victor Hugo, o actor Robert Zucchini tenta definir o seu lugar entre o palco e a vida, entre a matéria das palavras e o mundo contemporâneo. Todas as noites, ele enche uma sala parisiense que só o quer ouvir recitar o clássico francês. O reaparecimento da filha, com quem perdera contacto, cria uma brecha emocional na sua melancolia quotidiana.",
-      "title_en": "Hugo",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/victor_1.jpg",
-        "https://medeiafilmes.com/uploads/library/victor-2.jpg",
-        "https://medeiafilmes.com/uploads/library/victor-3.jpg"
-      ],
-      "stills_focus": [
-        29.7,
-        32.4,
-        47.7
-      ],
-      "country": "France",
-      "director_lbxd_slug": "pascal-bonitzer"
-    },
-    {
       "id": "nimas_o-estrangeiro-1945-1945",
       "title": "O Estrangeiro (1945)",
       "director": "Orson Welles",
       "year": 1946,
-      "duration": 95,
+      "duration": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
       "genres": [
         "Thriller",
@@ -2887,37 +2512,191 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "john-waters-2"
     },
     {
-      "id": "nimas_my-brother-s-wedding-1983",
-      "title": "My Brother’s Wedding",
-      "director": "Charles Burnett",
-      "year": 1983,
-      "duration": 115,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/7/2/9/76729-my-brothers-wedding-0-500-0-750-crop.jpg?v=46e2e8dcab",
+      "id": "nimas_despedida-de-ontem-1966",
+      "title": "Despedida de Ontem",
+      "director": "Alexander Kluge",
+      "year": 1966,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/3/7/5/75375-yesterday-girl-0-500-0-750-crop.jpg?v=6ecf6bc78a",
       "genres": [
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/my-brother-s-wedding-1983",
+      "link": "https://medeiafilmes.com/filmes/despedida-de-ontem-1966",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "13:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.6,
+      "plot": "A young German woman searches for happiness, liberation, and independence in the illusive wake of a transformative national recovery.",
+      "plot_pt": "Anita G., uma jovem judia de Leipzig, muda-se para a Alemanha Ocidental em busca de uma vida nova. Apanhada na malha sedutora da sociedade capitalista, ela tenta encontrar o seu lugar num mundo desconhecido, acabando por cair numa errância ilustrativa do país do pós-guerra. Despedida de Ontem baseia-se no conto Anita G., do próprio Alexander Kluge, publicado no seu primeiro livro, Lebensläufe.",
+      "title_en": "Yesterday Girl",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/to/nu/0i/fb/cpi0WITSxBIPaAzqtXV7TJgWquN-1920-1920-1080-1080-crop-000000.jpg?v=b70a8864b7"
+      ],
+      "stills_focus": [
+        25.9
+      ],
+      "country": "Germany",
+      "director_lbxd_slug": "alexander-kluge"
+    },
+    {
+      "id": "nimas_cavalo-selvagem-nove-2026",
+      "title": "Cavalo Selvagem Nove",
+      "director": "Martin McDonagh",
+      "year": 2026,
+      "duration": 118,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-500-0-750-crop.jpg?v=eade7a541c",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/cavalo-selvagem-nove-2026",
       "sessions": [
         {
           "date": "2026-11-15",
-          "time": "14:00",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "22:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "16:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "19:00",
+          "cinema": "trindade"
+        }
+      ],
+      "rating": 4.09,
+      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+      "plot_pt": "Pouco antes do golpe chileno de 1973, os agentes da CIA, Chris (John Malkovich) e Lee (Sam Rockwell) são enviados de Santiago para a Ilha de Páscoa pelo seu chefe de serviço, MJ (Steve Buscemi). Entre as icónicas estátuas da ilha e enquanto os parceiros de longa data lidam com o seu passado obscuro e conspirações presentes, o recém-descoberto vínculo de Chris com um par de estudantes rebeldes (Mariana di Girolamo e Ailín Salas) ameaça transformar a viagem de todos neste paraíso remoto num verdadeiro caos.",
+      "title_en": "Wild Horse Nine",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/b17UWf3LqHgKolQkXckne32qv0.jpg",
+        "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+        "https://image.tmdb.org/t/p/w1280/1bf7dbeoTLNFFwk35bmzvgB6knZ.jpg"
+      ],
+      "stills_focus": [
+        23.0,
+        59.3,
+        27.0
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "martin-mcdonagh"
+    },
+    {
+      "id": "nimas_dialogos-depois-do-fim-versao-serie-2023",
+      "title": "Diálogos Depois do Fim (Versão Série)",
+      "director": "Tiago Guedes",
+      "year": 2023,
+      "duration": 100,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/2/6/2/1013262-dialogues-after-the-end-0-500-0-750-crop.jpg?v=1c471c30a0",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/dialogos-depois-do-fim-versao-serie-2023",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "10:00",
           "cinema": "nimas",
           "labels": [
-            "Com a presença de Charles Burnett"
+            "Com a presença de Tiago Guedes"
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "time": "10:00",
+          "cinema": "nimas",
+          "labels": [
+            "Com a presença de Tiago Guedes"
           ]
         }
       ],
-      "rating": 3.73,
-      "plot": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer.",
-      "plot_pt": "Em South Central Los Angeles, no início dos anos 1980, Pierce Mundy vive sem rumo, dividido entre as expectativas da família e a vida de bairro. Quando o irmão, um advogado em ascensão, se prepara para casar, Pierce aceita a contragosto ser o padrinho. Na sua segunda longa-metragem, Charles Burnett traça, num tom mais leve, o retrato de um jovem e de uma comunidade marcados pela estagnação, resignação, resistência e alegria de viver. Um clássico do movimento L.A. Rebellion.",
+      "plot": "Pavese considered Dialogues with Leucò his best work. Eloquent and at the same time sententious and fragile, but implausible among humanized gods, demigods, heroes, and other pagan figures of Greek mythology, who question, through the imaginary of myths, the society of contemporary man. Out of a time and a certain space, and thus, and like all myths, always current.",
+      "plot_pt": "Diálogos escritos por Cesare Pavese, eloquentes e ao mesmo tempo sentenciosos e frágeis, mas inverossímeis, entre deuses humanizados, semi-deuses, heróis e outras figuras pagãs, que questionam, através do imaginário dos mitos gregos, a sociedade do homem contemporâneo. Fora de um dado tempo e espaço, e portanto, como os mitos, sempre actuais.",
+      "title_en": "Dialogues After the End",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/kme67wax5cycfaedskrmwzyy6r3.jpeg"
+        "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
+        "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
+        "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
       ],
       "stills_focus": [
-        30.6
+        35.4,
+        43.2,
+        41.2
       ],
-      "country": "USA",
-      "director_lbxd_slug": "charles-burnett"
+      "country": "Portugal",
+      "director_lbxd_slug": "tiago-guedes"
+    },
+    {
+      "id": "nimas_victor-como-toda-a-gente-2026",
+      "title": "Victor como toda a Gente",
+      "director": "Pascal Bonitzer",
+      "year": 2026,
+      "duration": 89,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/9/2/6/1331926-hugo-2026-0-500-0-750-crop.jpg?v=5255c6afce",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/victor-como-toda-a-gente-2026",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "15:30",
+          "cinema": "nimas",
+          "labels": [
+            "Conversa com Pascal Bonitzer"
+          ]
+        }
+      ],
+      "rating": 2.98,
+      "plot": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
+      "plot_pt": "Mergulhado na obra de Victor Hugo, o actor Robert Zucchini tenta definir o seu lugar entre o palco e a vida, entre a matéria das palavras e o mundo contemporâneo. Todas as noites, ele enche uma sala parisiense que só o quer ouvir recitar o clássico francês. O reaparecimento da filha, com quem perdera contacto, cria uma brecha emocional na sua melancolia quotidiana.",
+      "title_en": "Hugo",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/victor_1.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-2.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-3.jpg"
+      ],
+      "stills_focus": [
+        29.7,
+        32.4,
+        47.7
+      ],
+      "country": "France",
+      "director_lbxd_slug": "pascal-bonitzer"
     },
     {
       "id": "nimas_m-butterfly-1993",
@@ -2987,6 +2766,39 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "stanley-kubrick"
     },
     {
+      "id": "nimas_my-brother-s-wedding-1983",
+      "title": "My Brother’s Wedding",
+      "director": "Charles Burnett",
+      "year": 1983,
+      "duration": 115,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/6/7/2/9/76729-my-brothers-wedding-0-500-0-750-crop.jpg?v=46e2e8dcab",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/my-brother-s-wedding-1983",
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "14:00",
+          "cinema": "nimas",
+          "labels": [
+            "Com a presença de Charles Burnett"
+          ]
+        }
+      ],
+      "rating": 3.73,
+      "plot": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer.",
+      "plot_pt": "Em South Central Los Angeles, no início dos anos 1980, Pierce Mundy vive sem rumo, dividido entre as expectativas da família e a vida de bairro. Quando o irmão, um advogado em ascensão, se prepara para casar, Pierce aceita a contragosto ser o padrinho. Na sua segunda longa-metragem, Charles Burnett traça, num tom mais leve, o retrato de um jovem e de uma comunidade marcados pela estagnação, resignação, resistência e alegria de viver. Um clássico do movimento L.A. Rebellion.",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/kme67wax5cycfaedskrmwzyy6r3.jpeg"
+      ],
+      "stills_focus": [
+        30.6
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "charles-burnett"
+    },
+    {
       "id": "nimas_a-bola-negra-2026",
       "title": "A Bola Negra",
       "director": "Javier Calvo, Javier Ambrossi",
@@ -2999,21 +2811,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/a-bola-negra-2026",
       "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "15:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "16:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "21:15",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-14",
           "time": "15:30",
@@ -3143,6 +2940,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-18",
           "time": "21:15",
           "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "14:15",
+          "cinema": "trindade"
         }
       ],
       "rating": 4.32,
@@ -3206,107 +3008,6 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "director_lbxd_slug": "sergio-graciano"
-    },
-    {
-      "id": "fernando_mostra_imagina_rios_da_luso_fonia_cplp_audiovisual",
-      "title": "Mostra Imaginários Da Lusófonia - Cplp Audiovisual",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": null,
-      "genres": [],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/MOSTRA-IMAGINARIOS-DA-LUSOFONIA-CPLP-AUDIOVISUAL",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "20:00",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_naza_with_english_subtitles",
-      "title": "NAZA",
-      "director": "Yuval Abraham & Rachel Szor",
-      "year": 2026,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
-      "genres": [
-        "Documentary",
-        "War"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/NAZA-WITH-ENGLISH-SUBTITLES",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "22:30",
-          "cinema": "fernando",
-          "labels": [
-            "Legendas em inglês"
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "time": "11:30",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "17:30",
-          "cinema": "trindade",
-          "labels": [
-            "with english subtitles"
-          ]
-        },
-        {
-          "date": "2026-11-17",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "17:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.55,
-      "plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
-      "plot_pt": "NAZA é um longa-metragem documental britânico de 2026 escrito e realizado por Yuval Abraham e Rachel Szor. Retrata o massacre contínuo de civis palestinianos pelas forças israelitas durante a guerra em Gaza. O filme teve a sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza, a 10 de setembro de 2026, onde concorreu ao Leão de Ouro, e venceu o Prémio Especial do Júri. O filme recebeu 24,5 minutos de aplausos de pé, um recorde, durante a estreia em Veneza.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
-      ],
-      "stills_focus": [
-        61.2
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "yuval-abraham"
     },
     {
       "id": "fernando_ari",
@@ -3419,76 +3120,73 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "ricardo-oliveira-3"
     },
     {
-      "id": "batalha_s4XiVNb5F0sTvEHK",
-      "title": "Millennium Actress",
-      "director": "Satoshi Kon",
-      "year": 2001,
-      "duration": 86,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/8/8/4/29884-millennium-actress-0-500-0-750-crop.jpg?v=7c3df2e20f",
+      "id": "fernando_naza",
+      "title": "Naza",
+      "director": "Yuval Abraham & Rachel Szor",
+      "year": 2026,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
       "genres": [
-        "Drama",
-        "Romance",
-        "Animation"
+        "Documentary"
       ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/millennium-actress",
+      "festival": null,
+      "link": "https://cinemafernandolopes.pt/NAZA",
       "sessions": [
         {
-          "date": "2026-11-13",
-          "time": "20:15",
-          "cinema": "batalha"
+          "date": "2026-11-15",
+          "time": "11:30",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:30",
+          "cinema": "trindade",
+          "labels": [
+            "with english subtitles"
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:00",
+          "cinema": "trindade"
         }
       ],
-      "original_title": "Sennen joyû",
-      "plot_pt": "Retirada da vida pública, a famosa atriz japonesa Chiyoko Fujiwara aceita o convite do cineasta Genya Tachibana para a realização de um documentário sobre a sua vida. Ao revisitar o passado, conduz-nos através das suas memórias e dos papéis que interpretou, atravessando diferentes épocas, do Japão antigo a um futuro distante. À medida que o relato avança, memória, ficção e realidade começam a misturar-se: os filmes confundem-se com as experiências vividas, e as personagens parecem atravessar universos encenados. Numa homenagem nostálgica ao cinema japonês — e à própria magia do cinema —, Satoshi Kon volta a cruzar a fronteira entre o real e a ilusão, agora num tom mais melancólico.",
-      "plot": "Documentary filmmaker Genya Tachibana has tracked down the legendary actress Chiyoko Fujiwara, who mysteriously vanished at the height of her career. When he presents her with a key she had lost and thought was gone forever, the filmmaker could not have imagined that it would not only unlock the long-held secrets of Chiyoko’s life... but also his own.",
-      "country": "Japan",
-      "rating": 4.24,
+      "rating": 4.38,
+      "plot": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
-        "https://image.tmdb.org/t/p/w1280/eODPHCGwYXOcViMePY3bP5zCDPM.jpg",
-        "https://image.tmdb.org/t/p/w1280/kITtZwshhqNMyLEUykvAcw0NwNE.jpg"
+        "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
       ],
       "stills_focus": [
-        23.3,
-        24.7,
-        46.5
+        61.2
       ],
-      "director_lbxd_slug": "satoshi-kon"
-    },
-    {
-      "id": "batalha_sXQYyiw00uXNOiDE",
-      "title": "Elephant",
-      "director": "Gus Van Sant",
-      "year": 2003,
-      "duration": 81,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/83/vy/ou/e2/AgSWtbb8zMtTyjHFP12QeRbQGD5-0-500-0-750-crop.jpg?v=27813a0514",
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "link": "https://www.batalhacentrodecinema.pt/filmes/elephant",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "22:15",
-          "cinema": "batalha"
-        }
-      ],
-      "plot_pt": "O projeto Saúde Mental, Estigma e Resiliência (SER), desenvolvido por profissionais das áreas da saúde, cultura, educação e comunicação social, propõe um espaço de reflexão sobre a doença mental e os estigmas que a rodeiam, promovendo o diálogo entre ciência, saúde e sociedade. Neste âmbito, o Batalha acolhe parte de um ciclo de cinema dedicado ao tema, com uma sessão especial onde será exibido Elephant, de Gus Van Sant — filme inspirado no massacre de Columbine, em 1999, quando dois adolescentes dispararam contra alunos e professores numa escola secundária do Colorado.",
-      "plot": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
       "country": "USA",
-      "rating": 3.44,
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/n9irXcigQGlcub5JJ6RV1EdDW1J.jpg",
-        "https://image.tmdb.org/t/p/w1280/t2DJFqKeoXwxkexpDyFtrNKcwlP.jpg",
-        "https://image.tmdb.org/t/p/w1280/yC2oJaQ5fzTECgQvRjsdh1jqUSh.jpg"
-      ],
-      "stills_focus": [
-        28.2,
-        17.4,
-        17.4
-      ],
-      "director_lbxd_slug": "gus-van-sant"
+      "director_lbxd_slug": "yuval-abraham"
     },
     {
       "id": "batalha_seoNtl8kwKz0OEZZ",
@@ -3745,6 +3443,7 @@ window.CINEMA_DATA = {
       ],
       "country": "Portugal",
       "plot": "One of the first films that looks at the Portuguese region of Trás-os-Montes. From the mask called “careto” and the popular festival to the everyday reality.",
+      "plot_pt": "Festa, Trabalho e Pão em Grijó da Parada (1973) é um documentário português de curta-metragem de Manuel Costa e Silva. É um dos primeiros documentários do Novo Cinema português – depois de concluídos A Almadraba Atuneira (1961) e Vilarinho das Furnas (filme) (1971), ambos de António Campos – que se insere na prática da antropologia visual como forma de expressão artística, recorrendo às técnicas do cinema directo.\nSendo uma incursão cinematográfica na área da antropologia visual, é especificamente um filme etnográfico, imbuído de uma forma de olhar que não exclui as vivências sociais, próprias da época, de uma aldeia típica de Trás-os-Montes.\nO filme estreou no cinema Estúdio, em Lisboa, a 10 de Abril 1974.",
       "director_lbxd_slug": "manuel-costa-e-silva"
     },
     {
@@ -4445,6 +4144,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -4828,6 +4528,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
+      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -5178,16 +4879,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=75208",
       "sessions": [
         {
-          "date": "2026-11-13",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "13:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-11-14",
           "time": "21:30",
           "cinema": "ideal"
@@ -5228,32 +4919,6 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "martin-mcdonagh"
-    },
-    {
-      "id": "ideal_1__naza",
-      "title": "1- NAZA",
-      "director": "Paul Crowder",
-      "year": 2010,
-      "duration": 112,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/3/17923-billy-joel-the-last-play-at-shea-0-500-0-750-crop.jpg?v=c0308df95b",
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "festival": null,
-      "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=69576",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "11:30",
-          "cinema": "ideal"
-        }
-      ],
-      "rating": 3.6,
-      "plot": "In 1964, when the New York Mets were regarded as little more than a punch line in major league baseball, the team moved into a brand new ballpark, Shea Stadium, which was to become their home for the next forty-four years. Shea Stadium was closed (in part to create more parking space for a new stadium, Citi Field), and on July 16 and 18, 2008, Billy Joel headlined the final concerts held at the stadium. Filmmaker Paul Crowder and a camera crew were on hand for Joel's shows, and the documentary THE LAST PLAY AT SHEA chronicles his historic two-night stand, as well as exploring Joel's career, his ties to working-class New York, and how his life and career paralleled the growth of suburban Long Island and the beloved ballpark.",
-      "country": "USA",
-      "director_lbxd_slug": "pater-sparrow",
-      "title_en": "Billy Joel - The Last Play at Shea"
     },
     {
       "id": "ideal_o_meu_pa_s_imagin_rio",
@@ -5310,8 +4975,8 @@ window.CINEMA_DATA = {
     },
     {
       "id": "culturgest_jogo-cruzado-10-ines-nunes-x-saba-alizadeh-tarta-relena-x-anouk-moyaux",
-      "title": "Jogo Cruzado #10",
-      "director": "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux",
+      "title": "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux",
+      "director": "Jogo Cruzado #10",
       "year": null,
       "duration": null,
       "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/08/f3/08f3473c-f855-42c1-bc40-36330c8866eb/artboard_2.png__768x768_q85_crop_subsampling-2_upscale.png",
@@ -5337,20 +5002,10 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sundance_awards_2026_-_The_Incomer_-_Louis_Paxton_%2802%29.jpg/500px-Sundance_awards_2026_-_The_Incomer_-_Louis_Paxton_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "British filmmaker"
     },
-    "Zihan Loo, Kan Lume": {
-      "lbxd_slug": "loo-zihan",
-      "photo": null,
-      "bio": null
-    },
     "Hans Billian": {
       "lbxd_slug": "agnes-obadia-1",
       "photo": null,
       "bio": "Hans Billian (born Hans Joachim Hubert Backe, 15 April 1918 in Breslau (today, Wrocław, Poland) – 18 December 2007 in Gräfelfing, Bavaria) was a German film director, screenwriter, and actor noted for the \"sex comedies\" he directed in the 1970s. He was also credited as Hans Billan, Phillip Halliday, and Christian Kessler."
-    },
-    "Enrique Brasó": {
-      "lbxd_slug": "enrique-braso",
-      "photo": null,
-      "bio": "Spanish director and screenwriter"
     },
     "Michael LaHaie": {
       "lbxd_slug": "michael-lahaie",
@@ -5363,7 +5018,7 @@ window.CINEMA_DATA = {
       "bio": "Lance Hammer is an American independent filmmaker. Most known for his debut feature film Ballast (2008)."
     },
     "Tekla Taidelli": {
-      "lbxd_slug": null,
+      "lbxd_slug": "sathish-sekar",
       "photo": null,
       "bio": null
     },
@@ -5377,11 +5032,6 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fukada_Koji_from_%22Harmonium%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2016_%2832799558474%29.jpg/500px-Fukada_Koji_from_%22Harmonium%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2016_%2832799558474%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Koji Fukada (深田 晃司, Fukada Kōji; born 1980 in Koganei, Tokyo) is a Japanese film director and screenwriter. Most known for his films Harmonium (2016), Love Life (2022) and Love on Trial (2025)."
     },
-    "Simon Stone": {
-      "lbxd_slug": "simon-stone",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Simon_Stone_Nestroy-Theaterpreis_2015.jpg/500px-Simon_Stone_Nestroy-Theaterpreis_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Simon Stone (born 1984) is an Australian film and theatre director, writer and actor."
-    },
     "Eimi Imanishi": {
       "lbxd_slug": "eimi-imanishi",
       "photo": null,
@@ -5393,7 +5043,7 @@ window.CINEMA_DATA = {
       "bio": null
     },
     "Louisiana Mees": {
-      "lbxd_slug": "louisiana-mees-fongang",
+      "lbxd_slug": null,
       "photo": null,
       "bio": null
     },
@@ -5412,26 +5062,6 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "researcher"
     },
-    "Frank Borzage": {
-      "lbxd_slug": "frank-borzage",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States."
-    },
-    "Aki Kaurismäki": {
-      "lbxd_slug": "aki-kaurismaki",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg/500px-Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Aki Olavi Kaurismäki (Finnish pronunciation: [ˈɑki ˈo̞lɑʋi ˈkɑu̯rismæki] ; born 4 April 1957) is a Finnish filmmaker. He is best known for films such as Leningrad Cowboys Go America (1989), Drifting Clouds (1996), The Man Without a Past (2002), Le Havre (2011), The Other Side of Hope (2017), and Fallen Leaves (2023)."
-    },
-    "Elia Kazan": {
-      "lbxd_slug": "elia-kazan",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Elias Kazantzoglou (Greek: Ηλίας Καζαντζόγλου, IPA: [iˈli.as kazanˈdzoɣlu]; September 7, 1909 – September 28, 2003), known as Elia Kazan ( EE-lee-ə kə-ZAN), was a Greek-American film and theatre director, producer, screenwriter and actor, described by The New York Times as \"one of the most honored and influential directors in Broadway and Hollywood history\". Born in Constantinople (now Istanbul) to Cappadocian Greek parents, his family came to the United States in 1913. After attending Williams College and then the Yale School of Drama, he acted professionally for eight years, later joining the Group Theatre in 1932, and co-founded the Actors Studio in 1947."
-    },
-    "Boris Barnet": {
-      "lbxd_slug": "boris-barnet",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Boris_Barnet_1946.JPG/500px-Boris_Barnet_1946.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Boris Vasilyevich Barnet (Russian: Борис Васильевич Барнет; 18 June 1902 – 8 January 1965) was a Soviet film director, actor and screenwriter of British heritage. He directed 27 films between 1927 and 1963. Barnet was awarded the titles of Merited Artist of the Russian SFSR in 1935 and Merited Artist of the Ukrainian SSR in 1951."
-    },
     "Bénédicte Galup, Michel Ocelot": {
       "lbxd_slug": "michel-ocelot",
       "photo": null,
@@ -5447,15 +5077,15 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Yasujiro_Ozu_01.jpg",
       "bio": "Yasujirō Ozu (小津 安二郎, Ozu Yasujirō; 12 December 1903 – 12 December 1963) was a Japanese filmmaker. He began his career during the era of silent films, and his last films were made in colour in the early 1960s. Ozu first made a number of short comedies, before turning to more serious themes in the 1930s."
     },
+    "Frank Borzage": {
+      "lbxd_slug": "frank-borzage",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States."
+    },
     "Werner Schroeter": {
       "lbxd_slug": "werner-schroeter",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Werner_Schroeter.jpg/500px-Werner_Schroeter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Werner Schroeter (7 April 1945 – 12 April 2010) was a German film director, screenwriter, and opera director known for his stylistic excess. Schroeter was cited by Rainer Werner Fassbinder as an influence both on his own work and on German cinema at large."
-    },
-    "Manoel de Oliveira": {
-      "lbxd_slug": "manoel-de-oliveira",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
     },
     "João César Monteiro": {
       "lbxd_slug": "joao-cesar-monteiro",
@@ -5486,6 +5116,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "howard-hawks",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Howard_Hawks_head_shot.jpg/500px-Howard_Hawks_head_shot.jpg",
       "bio": "Howard Winchester Hawks (May 30, 1896 – December 26, 1977) was an American film director, producer, and screenwriter of the classic Hollywood era. The critic Leonard Maltin called him \"the greatest American director who is not a household name.\" Roger Ebert called Hawks \"one of the greatest American directors of pure movies, and a hero of auteur critics because he found his own laconic values in so many different kinds of genre material.\" He was nominated for the Academy Award for Best Director for Sergeant York (1941) and earned the Honorary Academy Award in 1974. A versatile director, Hawks explored many genres such as comedies, dramas, gangster films, science fiction, film noir, war films and Westerns."
+    },
+    "Manoel de Oliveira": {
+      "lbxd_slug": "manoel-de-oliveira",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
     },
     "Andrea Luka Zimmerman": {
       "lbxd_slug": "andrea-luka-zimmerman",
@@ -5572,6 +5207,21 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Vítor Gonçalves is a Portuguese filmmaker, film director, screenwriter and film producer. He is considered to be part of The School of Reis film family."
     },
+    "Elia Kazan": {
+      "lbxd_slug": "elia-kazan",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Elias Kazantzoglou (Greek: Ηλίας Καζαντζόγλου, IPA: [iˈli.as kazanˈdzoɣlu]; September 7, 1909 – September 28, 2003), known as Elia Kazan ( EE-lee-ə kə-ZAN), was a Greek-American film and theatre director, producer, screenwriter and actor, described by The New York Times as \"one of the most honored and influential directors in Broadway and Hollywood history\". Born in Constantinople (now Istanbul) to Cappadocian Greek parents, his family came to the United States in 1913. After attending Williams College and then the Yale School of Drama, he acted professionally for eight years, later joining the Group Theatre in 1932, and co-founded the Actors Studio in 1947."
+    },
+    "Aki Kaurismäki": {
+      "lbxd_slug": "aki-kaurismaki",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg/500px-Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Aki Olavi Kaurismäki (Finnish pronunciation: [ˈɑki ˈo̞lɑʋi ˈkɑu̯rismæki] ; born 4 April 1957) is a Finnish filmmaker. He is best known for films such as Leningrad Cowboys Go America (1989), Drifting Clouds (1996), The Man Without a Past (2002), Le Havre (2011), The Other Side of Hope (2017), and Fallen Leaves (2023)."
+    },
+    "Eduardo de Gregorio": {
+      "lbxd_slug": "eduardo-de-gregorio",
+      "photo": null,
+      "bio": "Argentinian screenwriter and dialogue writer (1940–2012)"
+    },
     "Nicholas Ray": {
       "lbxd_slug": "nicholas-ray",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nicholas_Ray_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -5581,51 +5231,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "nathan-fielder",
       "photo": null,
       "bio": null
-    },
-    "Valeska Grisebach": {
-      "lbxd_slug": "valeska-grisebach",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Valeska_Grisebach_at_Berlinale_2023.jpg/500px-Valeska_Grisebach_at_Berlinale_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Valeska Grisebach (born 4 January 1968) is a German film director. She was born in Bremen. She is considered part of the Berlin School of filmmaking, and is most known for her drama films Western (2017) and The Dreamed Adventure (2026)."
-    },
-    "Paula Delsol": {
-      "lbxd_slug": "paula-delsol",
-      "photo": null,
-      "bio": "Paula Delsol, or Paule Delsol, was born on October 6, 1923, in Montagnac, Hérault, France, died on June 12, 2015, at Sèvres (Hauts-de-Seine) and is buried at Père Lachaise Cemetery. She was a French feature film director, documentarian, screenwriter, novelist, and also made contributions to French television. Her contributions to the iconic French New Wave are only rarely acknowledged; alongside Agnès Varda, Delsol was one of only two women practitioners in the movement."
-    },
-    "Dominga Sotomayor": {
-      "lbxd_slug": "dominga-sotomayor",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Dominga_Sotomayor_Castillo.jpg/500px-Dominga_Sotomayor_Castillo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Dominga Sotomayor Castillo (born 1985) is a Chilean filmmaker."
-    },
-    "Radu Jude": {
-      "lbxd_slug": "radu-jude",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Radu_Jude_at_Berlinale_2025-1.jpg/500px-Radu_Jude_at_Berlinale_2025-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Radu Jude (Romanian: [ˈradu ˈʒude]; born 28 March 1977) is a Romanian filmmaker. A figure in the Romanian New Wave, his films usually explore the country society and politics through comedy and satire. He is most known for the comedy film Bad Luck Banging or Loony Porn (2021), which won the Golden Bear at the 71st Berlin International Film Festival."
-    },
-    "Martin McDonagh": {
-      "lbxd_slug": "martin-mcdonagh",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg/500px-Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Martin Faranan McDonagh (  mək-DON-ə; born 26 March 1970) is a British-born Irish playwright and filmmaker. Known for his absurdist dark humour and provocative style, he has received numerous accolades, including an Academy Award, six BAFTAs, two Golden Globes, and three Laurence Olivier Awards in addition to nominations for five Tony Awards. His plays, many of which have been produced in the West End and on Broadway, include The Beauty Queen of Leenane, The Cripple of Inishmaan (both 1996), The Lonesome West (1997), The Lieutenant of Inishmore (2001), The Pillowman (2003), A Behanding in Spokane (2010), and Hangmen (2015)."
-    },
-    "Kelly Reichardt": {
-      "lbxd_slug": "kelly-reichardt",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kelly_Reichardt-4432.jpg/500px-Kelly_Reichardt-4432.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Kelly Reichardt ( RYE-kart; born March 3, 1964) is an American film director, film editor and screenwriter. She is known for her minimalist films closely associated with slow cinema, many of which deal with working-class characters in small, rural communities. Reichardt made her feature film debut with River of Grass (1994) and subsequently directed a series of films set and filmed in Oregon: the dramas Old Joy (2006) and Wendy and Lucy (2008); the Western Meek's Cutoff (2010); and the thriller Night Moves (2013)."
-    },
-    "Alexander Kluge": {
-      "lbxd_slug": "alexander-kluge",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/MJKr01634_Alexander_Kluge_%28NRW-Empfang%2C_Berlinale_2020%29.jpg/500px-MJKr01634_Alexander_Kluge_%28NRW-Empfang%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Alexander Ernst Kluge (14 February 1932 – 25 March 2026) was a German author, film director, academic and founder of a television production company. After studies with Theodor W. Adorno in Frankfurt, he worked as an assistant to Fritz Lang for The Tiger of Eschnapur."
-    },
-    "Tiago Guedes": {
-      "lbxd_slug": "tiago-guedes",
-      "photo": null,
-      "bio": "Tiago Guedes (born 20 June 1971) is a Portuguese filmmaker. Most known for his films The Domain (2019) and Aquí (2026), and the television series Glória (2021)."
-    },
-    "Pascal Bonitzer": {
-      "lbxd_slug": "pascal-bonitzer",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pascal_bonitzer_deauville.jpg/500px-Pascal_bonitzer_deauville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Pascal Bonitzer (French: [bɔnitsɛʁ]; born 1 February 1946) is a French screenwriter, film director, actor, and former film critic for Cahiers du cinéma. Since 1967, he has written for 48 films, appeared in 30 films, and directed 10. He starred in Raúl Ruiz's 1978 film The Suspended Vocation."
     },
     "Orson Welles": {
       "lbxd_slug": "orson-welles-1",
@@ -5637,10 +5242,25 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/JohnWaters-byPhilipRomano.jpg/500px-JohnWaters-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "John Samuel Waters Jr. (born April 22, 1946) is an American filmmaker, actor, writer, and artist. He rose to fame in the early 1970s for his transgressive cult films, including Multiple Maniacs (1970), Pink Flamingos (1972), and Female Trouble (1974)."
     },
-    "Charles Burnett": {
-      "lbxd_slug": "charles-burnett",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Air_Chf_Mshl_Sir_Charles_Burnett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bio": "Charles Burnett may refer to:\n\nCharles Burnett (director) (born 1944), American film director\nCharles Burnett (officer of arms) (1940–2024), Scottish Officer of Arms\nCharles Burnett (RAF officer) (1882–1945), Royal Air Force officer and Australian Chief of the Air Staff\nCharles Hiram Burnett Sr."
+    "Alexander Kluge": {
+      "lbxd_slug": "alexander-kluge",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/MJKr01634_Alexander_Kluge_%28NRW-Empfang%2C_Berlinale_2020%29.jpg/500px-MJKr01634_Alexander_Kluge_%28NRW-Empfang%2C_Berlinale_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Alexander Ernst Kluge (14 February 1932 – 25 March 2026) was a German author, film director, academic and founder of a television production company. After studies with Theodor W. Adorno in Frankfurt, he worked as an assistant to Fritz Lang for The Tiger of Eschnapur."
+    },
+    "Martin McDonagh": {
+      "lbxd_slug": "martin-mcdonagh",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg/500px-Martin_McDonagh_at_83rd_Venice_International_Film_Festival-7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Martin Faranan McDonagh (  mək-DON-ə; born 26 March 1970) is a British-born Irish playwright and filmmaker. Known for his absurdist dark humour and provocative style, he has received numerous accolades, including an Academy Award, six BAFTAs, two Golden Globes, and three Laurence Olivier Awards in addition to nominations for five Tony Awards. His plays, many of which have been produced in the West End and on Broadway, include The Beauty Queen of Leenane, The Cripple of Inishmaan (both 1996), The Lonesome West (1997), The Lieutenant of Inishmore (2001), The Pillowman (2003), A Behanding in Spokane (2010), and Hangmen (2015)."
+    },
+    "Tiago Guedes": {
+      "lbxd_slug": "tiago-guedes",
+      "photo": null,
+      "bio": "Tiago Guedes (born 20 June 1971) is a Portuguese filmmaker. Most known for his films The Domain (2019) and Aquí (2026), and the television series Glória (2021)."
+    },
+    "Pascal Bonitzer": {
+      "lbxd_slug": "pascal-bonitzer",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Pascal_bonitzer_deauville.jpg/500px-Pascal_bonitzer_deauville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Pascal Bonitzer (French: [bɔnitsɛʁ]; born 1 February 1946) is a French screenwriter, film director, actor, and former film critic for Cahiers du cinéma. Since 1967, he has written for 48 films, appeared in 30 films, and directed 10. He starred in Raúl Ruiz's 1978 film The Suspended Vocation."
     },
     "David Cronenberg": {
       "lbxd_slug": "david-cronenberg",
@@ -5652,6 +5272,11 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg/500px-Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Stanley Kubrick (July 26, 1928 – March 7, 1999) was an American filmmaker and photographer. A prominent figure of the New Hollywood era, Kubrick is regarded as one of the greatest and most influential filmmakers. His films spanned a number of genres and gained recognition for their attention to detail, innovative cinematography, extensive set design, and dark humor."
     },
+    "Charles Burnett": {
+      "lbxd_slug": "charles-burnett",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Air_Chf_Mshl_Sir_Charles_Burnett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "bio": "Charles Burnett may refer to:\n\nCharles Burnett (director) (born 1944), American film director\nCharles Burnett (officer of arms) (1940–2024), Scottish Officer of Arms\nCharles Burnett (RAF officer) (1882–1945), Royal Air Force officer and Australian Chief of the Air Staff\nCharles Hiram Burnett Sr."
+    },
     "Javier Calvo, Javier Ambrossi": {
       "lbxd_slug": "javier-ambrossi",
       "photo": null,
@@ -5661,11 +5286,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "sergio-graciano",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "bio": "Portuguese film director"
-    },
-    "Yuval Abraham & Rachel Szor": {
-      "lbxd_slug": "yuval-abraham",
-      "photo": null,
-      "bio": null
     },
     "Léonor Serraille": {
       "lbxd_slug": "leonor-serraille",
@@ -5682,15 +5302,10 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ricardo_Oliveira_2015.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Ricardo José Dognella Lima de Oliveira (Brazilian Portuguese pronunciation: [ʁiˈkaʁdu oliˈvejɾɐ]; born 6 May 1980) is a Brazilian former professional footballer who played as a striker. Oliveira represented São Paulo and Santos in two different spells, but also played in Spain, amassing La Liga totals of 120 games and 58 goals for three teams. A Brazil international from 2004 to 2016, he helped the national team win one Copa América and one Confederations Cup."
     },
-    "Satoshi Kon": {
-      "lbxd_slug": "satoshi-kon",
+    "Yuval Abraham & Rachel Szor": {
+      "lbxd_slug": "yuval-abraham",
       "photo": null,
-      "bio": "Satoshi Kon (今 敏, Kon Satoshi; October 12, 1963 – August 24, 2010) was a Japanese film director, animator, screenwriter and manga artist from Sapporo, Hokkaido, and a member of the Japanese Animation Creators Association (JAniCA). He was a graduate of the Graphic Design department of the Musashino Art University. He is best known for his acclaimed anime films Perfect Blue (1997), Millennium Actress (2001), Tokyo Godfathers (2003), and Paprika (2006), and the TV series Paranoia Agent (2004)."
-    },
-    "Gus Van Sant": {
-      "lbxd_slug": "gus-van-sant",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gus_Van_Sant_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg/500px-Gus_Van_Sant_at_82nd_Venice_International_Film_Festival-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Gus Green Van Sant Jr. (born July 24, 1952) is an American filmmaker, photographer, painter, and musician. He has earned acclaim as an independent filmmaker, and is considered to be one of the most prominent auteurs of the new queer cinema movement."
+      "bio": null
     },
     "Anca Damian": {
       "lbxd_slug": "anca-damian",
@@ -5771,6 +5386,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": null,
       "photo": null,
       "bio": "researcher"
+    },
+    "Satoshi Kon": {
+      "lbxd_slug": "takayuki-hirao",
+      "photo": null,
+      "bio": "Satoshi Kon (今 敏, Kon Satoshi; October 12, 1963 – August 24, 2010) was a Japanese film director, animator, screenwriter and manga artist from Sapporo, Hokkaido, and a member of the Japanese Animation Creators Association (JAniCA). He was a graduate of the Graphic Design department of the Musashino Art University. He is best known for his acclaimed anime films Perfect Blue (1997), Millennium Actress (2001), Tokyo Godfathers (2003), and Paprika (2006), and the TV series Paranoia Agent (2004)."
     },
     "Eloy Calvo": {
       "lbxd_slug": "eloy-calvo",
@@ -5882,11 +5502,6 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Andrey_Zvyagintsev_at_the_2026_Cannes_Film_Festival_winners_press_conference_%28cropped%29.jpg/500px-Andrey_Zvyagintsev_at_the_2026_Cannes_Film_Festival_winners_press_conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Andrey Petrovich Zvyagintsev (Russian: Андрей Петрович Звягинцев, pronounced [ˈzvʲæɡʲɪntsɨf]; born 6 February 1964) is a Russian filmmaker. His films usually explore Russian society and politics in the 21st century, featuring bleak atmosphere and neo-noir style. His debut film The Return (2003) won the Golden Lion at the Venice Film Festival."
     },
-    "Paul Crowder": {
-      "lbxd_slug": "pater-sparrow",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Paul_Crowder_UCLA_03-12-2025_%28cropped%29.png/500px-Paul_Crowder_UCLA_03-12-2025_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Paul Crowder (born 30 December 1962, London, England) is an English musician, who later became a film editor and director."
-    },
     "Patricio Guzmán": {
       "lbxd_slug": "patricio-guzman",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Patricio_Guzman_cortado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -5897,7 +5512,7 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
-    "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux": {
+    "Jogo Cruzado #10": {
       "lbxd_slug": null,
       "photo": null,
       "bio": null

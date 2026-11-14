@@ -99395,7 +99395,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "8772",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Neobichainie Prikliuchenia Mistera Vesta Vb Strane Bolshevikov|1924": {
     "lbxd": {
@@ -99940,7 +99940,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2"
     ],
-    "tmdb_id": "1554956"
+    "tmdb_id": "1554956",
+    "wiki_tries": 1
   },
   "VIAGENS – ENTRE ESTRELAS E ONDAS | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100041,7 +100042,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1575438"
+    "tmdb_id": "1575438",
+    "wiki_tries": 1
   },
   "JOSEPHINE | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100097,7 +100099,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "199661"
+    "tmdb_id": "199661",
+    "wiki_tries": 1
   },
   "SHORTS SELECTION | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100190,7 +100193,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1674210"
+    "tmdb_id": "1674210",
+    "wiki_tries": 1
   },
   "BOB AND DAVID CLIMB MACHU PICCHU | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100241,7 +100245,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1530940"
+    "tmdb_id": "1530940",
+    "wiki_tries": 1
   },
   "TAMBÉM TU CLARA | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100345,10 +100350,28 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9"
     ],
-    "tmdb_id": "1021848"
+    "tmdb_id": "1021848",
+    "wiki_tries": 1
   },
   "6:06 | TRIBECA CINEMA SESSIONS|None": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/7/8/0/7/2/1678072-606-0-500-0-750-crop.jpg?v=849584ead3",
+      "description": "A father’s love knows no boundaries,but what happens when the path to his daughter lies beyond the boundaries of reality? When supernatural forces drag his daughter into an unknown world, he risks everything, venturing into terrifying dimensions where fear, mystery, and impossible truths stand between him and the only person he cannot afford to lose.",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Fantasy"
+      ],
+      "country": null,
+      "lb_director": "Sathish Sekar",
+      "lb_director_slug": "sathish-sekar",
+      "lb_year": 2026,
+      "lb_title": "606",
+      "backdrop": null,
+      "imdb_id": "tt50827514",
+      "tmdb_id": "1824669"
+    },
     "omdb": {
       "Title": "6:06",
       "Year": "2025",
@@ -100380,7 +100403,7 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1520517"
+    "tmdb_id": "1824669"
   },
   "THE ACCOMPANIST | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100440,7 +100463,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "41765"
+    "tmdb_id": "41765",
+    "wiki_tries": 1
   },
   "The Spanish Main|1945": {
     "lbxd": {
@@ -101081,6 +101105,251 @@
     "wiki_tries": 1
   },
   "SOLOS | TRIBECA CINEMA SESSIONS|2005": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Aspern|1982": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/9/7/6/4/199764-aspern-0-500-0-750-crop.jpg?v=d2069dbc7f",
+      "description": "A publisher seeks information on a writer who died long ago.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Eduardo de Gregorio",
+      "lb_director_slug": "eduardo-de-gregorio",
+      "lb_year": 1982,
+      "lb_title": "Aspern",
+      "backdrop": null,
+      "imdb_id": "tt0088743",
+      "tmdb_id": "275615"
+    },
+    "omdb": {
+      "Title": "Aspern",
+      "Year": "1982",
+      "Rated": "N/A",
+      "Released": "01 May 1982",
+      "Runtime": "96 min",
+      "Genre": "Drama, Romance",
+      "Director": "Eduardo de Gregorio",
+      "Writer": "Michael Graham, Henry James",
+      "Actors": "Jean Sorel, Bulle Ogier, Alida Valli",
+      "Plot": "A publisher seeks information on a writer who died long ago.",
+      "Language": "French",
+      "Country": "Portugal, France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4NTljNDgtZTQ4OS00NWRkLTkyMjUtYzdiYzg3ZDNiN2M4XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "31",
+      "imdbID": "tt0088743",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "275615"
+  },
+  "Till We Meet Again|1944": {
+    "lbxd": {
+      "rating": 3.62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/3/2/101932-till-we-meet-again-0-500-0-750-crop.jpg?v=71bde5174a",
+      "description": "An American pilot is shot down over Nazi-occupied France and is taken to a convent by the Resistance. The young novice nun Clothilde is interested in him and is willing to help him escape to England, but the pilot must continue his mission undercover by posing as the husband of a different woman.",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1944,
+      "lb_title": "Till We Meet Again",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/7v/ao/o0/sc/3C415g6x9RpqvaDJFPhJQzfIriG-1920-1920-1080-1080-crop-000000.jpg?v=11952f70f1",
+      "imdb_id": "tt0037379",
+      "tmdb_id": "131465"
+    },
+    "omdb": {
+      "Title": "Till We Meet Again",
+      "Year": "1944",
+      "Rated": "Approved",
+      "Released": "30 Aug 1944",
+      "Runtime": "88 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Alfred Maury, Lenore J. Coffee",
+      "Actors": "Ray Milland, Barbara Britton, Walter Slezak",
+      "Plot": "Occupied France, World War II. The American pilot John is shot down and taken to a convent by the Resistance. The young novice Clothilde is interested in him and is willing to help him escape to England. John passes as being the h...",
+      "Language": "French, German, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI4NmRjYzQtODg2ZC00MzhkLTllMmItZjVlZGNkZjAzMTc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "242",
+      "imdbID": "tt0037379",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Till We Meet Again (1944 film)",
+      "imdb_id": "tt0037379",
+      "extract_pt": "Till We Meet Again (Brasil: Um Lírio na Cruz / Portugal: Até à Vista) é um filme estadunidense de 1944, do gênero drama de guerra, dirigido por Frank Borzage e estrelado por Ray Milland e Barbara Britton."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      40.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/7v/ao/o0/sc/3C415g6x9RpqvaDJFPhJQzfIriG-1920-1920-1080-1080-crop-000000.jpg?v=11952f70f1"
+    ],
+    "tmdb_id": "131465"
+  },
+  "A Conquista De Faro|2005": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/3/8/2/389382-the-conquest-of-faro-0-500-0-750-crop.jpg?v=fa05b75c90",
+      "description": "Arriving in a hotel in the city of Faro, a couple learns there are no available tables left. When another couple agrees to share a table, they spark a conversation on the city’s history, unfolding the tales of King Afonso III, who betrays his wife, and of a Moorish woman, who betrays her father.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2005,
+      "lb_title": "The Conquest of Faro",
+      "backdrop": null,
+      "imdb_id": "tt0490854",
+      "tmdb_id": "457564"
+    },
+    "omdb": {
+      "Title": "A Conquista de Faro",
+      "Year": "2005",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "30 min",
+      "Genre": "Short, History",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Agustina Bessa-Luís",
+      "Actors": "Rafael Almeida, Leonor Baldaque, João Pedro Bénard",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "14",
+      "imdbID": "tt0490854",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "457564"
+  },
+  "Fuck The Polis|2025": {
+    "lbxd": {
+      "rating": 3.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/0/2/9/1/1370291-fuck-the-polis-0-500-0-750-crop.jpg?v=40c3c0850f",
+      "description": "Twenty years ago, believing she was doomed, Irma took a trip to Greece. Today, she retraces that journey, accompanied by three young men. From island to island, between sky and sea, the travelers read, listen and live, carried by a longing for beauty and clarity.",
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2025,
+      "lb_title": "Fuck the Polis",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/7/0/2/9/1/tmdb/7KCO5hHfllj9HmRIpB6jxp5fPeR-1920-1920-1080-1080-crop-000000.jpg?v=283631dbd4",
+      "imdb_id": "tt37243951",
+      "tmdb_id": "1493022"
+    },
+    "omdb": {
+      "Title": "Fuck the Polis",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "01 Oct 2026",
+      "Runtime": "74 min",
+      "Genre": "Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Rita Azevedo Gomes, Regina Guimarães",
+      "Actors": "Bingham Bryant, Maria Farantouri, Rita Azevedo Gomes",
+      "Plot": "An aging woman returns to Greece two decades after a fateful trip, now joined by three young companions. Together they explore the islands, seeking meaning and beauty through shared experiences between the Mediterranean sky and sea.",
+      "Language": "Portuguese, Greek, English, French",
+      "Country": "Portugal",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTgxMzcyNTEtMzg2NC00Y2VlLWJjNWYtZGY5YTM2MWE4NDJhXkEyXkFqcGc@._V1_QL75_UY562_CR12,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.0",
+      "imdbVotes": "23",
+      "imdbID": "tt37243951",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      47.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/7/0/2/9/1/tmdb/7KCO5hHfllj9HmRIpB6jxp5fPeR-1920-1920-1080-1080-crop-000000.jpg?v=283631dbd4"
+    ],
+    "tmdb_id": "1493022"
+  },
+  "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux|None": {
     "lbxd": null,
     "omdb": null,
     "wiki": null,
