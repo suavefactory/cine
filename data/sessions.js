@@ -2718,16 +2718,6 @@ window.CINEMA_DATA = {
       "plot": "Pavese considered Dialogues with Leucò his best work. Eloquent and at the same time sententious and fragile, but implausible among humanized gods, demigods, heroes, and other pagan figures of Greek mythology, who question, through the imaginary of myths, the society of contemporary man. Out of a time and a certain space, and thus, and like all myths, always current.",
       "plot_pt": "Diálogos escritos por Cesare Pavese, eloquentes e ao mesmo tempo sentenciosos e frágeis, mas inverossímeis, entre deuses humanizados, semi-deuses, heróis e outras figuras pagãs, que questionam, através do imaginário dos mitos gregos, a sociedade do homem contemporâneo. Fora de um dado tempo e espaço, e portanto, como os mitos, sempre actuais.",
       "title_en": "Dialogues After the End",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/dddf_11.jpg",
-        "https://medeiafilmes.com/uploads/library/dddf_08.jpg",
-        "https://medeiafilmes.com/uploads/library/dddf_12.jpg"
-      ],
-      "stills_focus": [
-        35.4,
-        43.2,
-        41.2
-      ],
       "country": "Portugal",
       "director_lbxd_slug": "tiago-guedes"
     },
