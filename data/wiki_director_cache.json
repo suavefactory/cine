@@ -3228,6 +3228,26 @@
   "Jogo Cruzado #10": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
+  },
+  "Gaël Morel": {
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ga%C3%ABl_Morel_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "bio": "Gaël Morel (born 25 September 1972) is a French film director, screenwriter and actor.",
+    "tries": 1
+  },
+  "Charles Chaplin": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/500px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Sir Charles Spencer Chaplin Jr. (16 April 1889 – 25 December 1977) was an English comic actor, filmmaker, singer, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures.",
+    "tries": 1
+  },
+  "Hal Roach": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/WP_Hal_Roach_1920_%28cropped%29.jpg/500px-WP_Hal_Roach_1920_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Harold Eugene \"Hal\" Roach Sr. (January 14, 1892 – November 2, 1992) was an American film and television producer, director, and screenwriter, who was the founder of the namesake Hal Roach Studios. Roach was active in the industry from the 1910s to the 1990s.",
+    "tries": 1
+  },
+  "Buster Keaton, Edward F. Cline": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }

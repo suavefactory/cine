@@ -99395,7 +99395,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "8772",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Neobichainie Prikliuchenia Mistera Vesta Vb Strane Bolshevikov|1924": {
     "lbxd": {
@@ -99941,7 +99941,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2"
     ],
     "tmdb_id": "1554956",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "VIAGENS – ENTRE ESTRELAS E ONDAS | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100043,7 +100043,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1575438",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "JOSEPHINE | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100100,7 +100100,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "199661",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "SHORTS SELECTION | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100194,7 +100194,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1674210",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "BOB AND DAVID CLIMB MACHU PICCHU | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100246,7 +100246,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1530940",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "TAMBÉM TU CLARA | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100351,7 +100351,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9"
     ],
     "tmdb_id": "1021848",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "6:06 | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100464,7 +100464,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "41765",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Spanish Main|1945": {
     "lbxd": {
@@ -101348,7 +101348,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/7/0/2/9/1/tmdb/7KCO5hHfllj9HmRIpB6jxp5fPeR-1920-1920-1080-1080-crop-000000.jpg?v=283631dbd4"
     ],
     "tmdb_id": "1493022",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux|None": {
     "lbxd": null,
@@ -101392,5 +101392,363 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1520517"
+  },
+  "Notre Paradis|2011": {
+    "lbxd": {
+      "rating": 3.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/1/4/0/81140-our-paradise-0-500-0-750-crop.jpg?v=9ad392ccbf",
+      "description": "Vassili is an aged prostitute with killer instincts. He finds an unconscious young man in the Forest of Boulogne and takes him home. Now lovers and accomplices, the two men become a couple in prostitution and steal from their clients. And yet, menaces of retaliation leave the couple with no choice but to escape from Paris. The runaway begins...",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Romance",
+        "Thriller",
+        "Adventure"
+      ],
+      "country": "France",
+      "lb_director": "Gaël Morel",
+      "lb_director_slug": "gael-morel",
+      "lb_year": 2011,
+      "lb_title": "Our Paradise",
+      "backdrop": null,
+      "imdb_id": "tt1854568",
+      "tmdb_id": "99119"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "99119"
+  },
+  "A Vingança De Uma Mulher|2011": {
+    "lbxd": {
+      "rating": 3.86,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/5/3/5/1/75351-a-woman-s-revenge-0-500-0-750-crop.jpg?v=34878b5bd6",
+      "description": "Roberto is one of those men to whom simulation has become the greatest art. He is an unmoved, inscrutable, mysterious man. But the truth is that Robert feels an intimate, deep tedium. The boredom of those who have already exhausted all the pleasures of life. The only thing still surprising him is the fact that nothing surprises him anymore. One evening he has an overwhelming encounter with a woman. For his own bewilderment, he discovers the sublime horrors in which the woman has sank.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Rita Azevedo Gomes",
+      "lb_director_slug": "rita-azevedo-gomes",
+      "lb_year": 2012,
+      "lb_title": "A Woman's Revenge",
+      "backdrop": null,
+      "imdb_id": "tt2050453",
+      "tmdb_id": "89451"
+    },
+    "omdb": {
+      "Title": "A Woman's Revenge",
+      "Year": "2012",
+      "Rated": "Not Rated",
+      "Released": "29 Mar 2012",
+      "Runtime": "100 min",
+      "Genre": "Biography, Drama",
+      "Director": "Rita Azevedo Gomes",
+      "Writer": "Jules-Amédée Barbey d'Aurevilly, Rita Azevedo Gomes",
+      "Actors": "Rita Durão, Fernando Rodrigues, Hugo Tourita",
+      "Plot": "Roberto is a dandy!An unmoved, inscrutable and thus enigmatic man. He enjoys the aristocratic amusement of astonishment.Women, whom he knows full well in all sorts of styles and races, can no longer surprise him.The truth is that ...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "5 wins & 8 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc3NjZkNmMtYzhjZS00ZmFjLTlmMzktZWQyYjY3ZWJiOWJlXkEyXkFqcGdeQXVyMzY5NjAzMjM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "343",
+      "imdbID": "tt2050453",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "89451"
+  },
+  "Magnificent Doll|1946": {
+    "lbxd": {
+      "rating": 3.25,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/4/0/0/2/154002-magnificent-doll-0-500-0-750-crop.jpg?v=63f91adb2b",
+      "description": "While packing her belongings in preparation of evacuating the White House because of the impending British invasion of Washington D.C., Dolly Payne Madison thinks back on her childhood, her first marriage, and later romances with two very different politicians, Aaron Burr and his good friend James Madison. She plays each against the other, not only for romantic reasons, but also to influence the shaping of the young country. By manipulating Burr's affections, she helps Thomas Jefferson win the presidency, and eventually she becomes First Lady of the land herself.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1946,
+      "lb_title": "Magnificent Doll",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/6n/6g/zy/hi/wp1bwpV9RZOUz8u3mnTvMf8BCIJ-1920-1920-1080-1080-crop-000000.jpg?v=90ad2a0390",
+      "imdb_id": "tt0038715",
+      "tmdb_id": "217250"
+    },
+    "omdb": {
+      "Title": "Magnificent Doll",
+      "Year": "1946",
+      "Rated": "Approved",
+      "Released": "01 Nov 1946",
+      "Runtime": "90 min",
+      "Genre": "Drama, History",
+      "Director": "Frank Borzage",
+      "Writer": "Irving Stone",
+      "Actors": "Ginger Rogers, David Niven, Burgess Meredith",
+      "Plot": "Dolly Payne Madison is the daughter of boardinghouse owners in Washington, DC who falls in love with Aaron Burr and James Madison.",
+      "Language": "French, English",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGE5YjJjM2EtY2I3Yy00ZGYyLTkzODQtOWFlM2UyYzgyNTk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "516",
+      "imdbID": "tt0038715",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      32.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/6n/6g/zy/hi/wp1bwpV9RZOUz8u3mnTvMf8BCIJ-1920-1920-1080-1080-crop-000000.jpg?v=90ad2a0390"
+    ],
+    "tmdb_id": "217250"
+  },
+  "Les Anges Du Péché|1944": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/3/5/10335-angels-of-sin-0-500-0-750-crop.jpg?v=d7fb79e13e",
+      "description": "A well-off young woman decides to become a nun, joining a convent that rehabilitates female prisoners. Through their program, she meets a woman named Thérèse who refuses any help because she says she was innocent of the crime she was convicted for. After being released from prison, Thérèse murders the actual perpetrator of the crime and comes to seek sanctuary in the convent.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Robert Bresson",
+      "lb_director_slug": "robert-bresson",
+      "lb_year": 1943,
+      "lb_title": "Angels of Sin",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/0m/27/sx/35/2Cz56FBIOKEGxxFUoEzcFPLEfWv-1920-1920-1080-1080-crop-000000.jpg?v=30d5600397",
+      "imdb_id": "tt0035636",
+      "tmdb_id": "55835"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Angels of Sin",
+      "imdb_id": "tt0035636",
+      "extract_pt": "Os Anjos do Pecado (em francês:  Les anges du péché) é um filme francês em preto e branco de 1943, do gênero drama, dirigido por Robert Bresson."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/0m/27/sx/35/2Cz56FBIOKEGxxFUoEzcFPLEfWv-1920-1920-1080-1080-crop-000000.jpg?v=30d5600397"
+    ],
+    "tmdb_id": "55835"
+  },
+  "The Adventurer|1917": {
+    "lbxd": {
+      "rating": 3.63,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/8/5/4/30854-the-adventurer-0-500-0-750-crop.jpg?v=0407d8a80b",
+      "description": "The daring convict no. 23, known as The Eel, escapes from prison and, after mocking his inept persecutors, saves the lives of three people in peril: a beautiful girl, her mother and an annoying suitor, only to get exhausted and almost drowned. Once he regains his strength at Judge Brown's home, he participates on an upper-class social party where he competes with the suitor for the favors of the charming Miss Brown. But prison guards are still after him…",
+      "genres": [
+        "Comedy",
+        "Adventure"
+      ],
+      "country": "USA",
+      "lb_director": "Charlie Chaplin",
+      "lb_director_slug": "charlie-chaplin",
+      "lb_year": 1917,
+      "lb_title": "The Adventurer",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rg/sl/24/ye/2Q9FQinT807S55WdK6ozkyme69a-1920-1920-1080-1080-crop-000000.jpg?v=536d2f4686",
+      "imdb_id": "tt0007613",
+      "tmdb_id": "31819"
+    },
+    "omdb": {
+      "Title": "The Adventurer",
+      "Year": "1917",
+      "Rated": "Unrated",
+      "Released": "22 Oct 1917",
+      "Runtime": "24 min",
+      "Genre": "Comedy, Short",
+      "Director": "Charles Chaplin",
+      "Writer": "Vincent Bryan, Charles Chaplin, Maverick Terrell",
+      "Actors": "Charles Chaplin, Edna Purviance, Eric Campbell",
+      "Plot": "The Little Tramp escapes from prison; saves a girl and her mother from drowning; and creates havoc at a swank party.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUwNTY4NWUtNGRhMy00YjVmLWEyNmQtYTQyNWQyNDZhNjFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "4,613",
+      "imdbID": "tt0007613",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Adventurer (1917 film)",
+      "imdb_id": "tt0007613",
+      "extract_pt": "The Adventurer (br: Carlitos Presidiário e pt: Charlot o Evadido) é um filme mudo de 1917 escrito, produzido, dirigido e protagonizado por Charles Chaplin.\nVale dizer, que este é o seu último da Mutual Film Corporation."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      35.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/rg/sl/24/ye/2Q9FQinT807S55WdK6ozkyme69a-1920-1920-1080-1080-crop-000000.jpg?v=536d2f4686"
+    ],
+    "tmdb_id": "31819"
+  },
+  "Get Out And Get Under|1920": {
+    "lbxd": {
+      "rating": 3.37,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/4/4/2/12442-get-out-and-get-under-0-500-0-750-crop.jpg?v=5ab514d387",
+      "description": "The comic adventures of a new car owner.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Hal Roach",
+      "lb_director_slug": "hal-roach",
+      "lb_year": 1920,
+      "lb_title": "Get Out and Get Under",
+      "backdrop": null,
+      "imdb_id": "tt0011223",
+      "tmdb_id": "53523"
+    },
+    "omdb": {
+      "Title": "Get Out and Get Under",
+      "Year": "1920",
+      "Rated": "Passed",
+      "Released": "26 Sep 1920",
+      "Runtime": "25 min",
+      "Genre": "Comedy, Short",
+      "Director": "Hal Roach",
+      "Writer": "H.M. Walker",
+      "Actors": "Harold Lloyd, Mildred Davis, Fred McPherson",
+      "Plot": "The comic adventures of a new car owner.",
+      "Language": "None",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ3YWM0ZGMtYzk0My00N2U2LWJhM2ItMWRhNTE1M2Y3MjU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "1,071",
+      "imdbID": "tt0011223",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "53523"
+  },
+  "Balloonatic|1923": {
+    "lbxd": {
+      "rating": 3.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/4/7/3/19473-the-balloonatic-0-500-0-750-crop.jpg?v=bfe6245f5e",
+      "description": "Buster and Phyllis endure a number of outdoor adventures trying to prove to each other their survival skills. The balloon, which lands Buster in the wilderness, later proves useful as their canoe is about go over a waterfall.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Buster Keaton",
+      "lb_director_slug": "buster-keaton",
+      "lb_year": 1923,
+      "lb_title": "The Balloonatic",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/i4/96/mi/1d/p3d4YrY1JQyhpEA6B959t9WUwCV-1920-1920-1080-1080-crop-000000.jpg?v=aac431d661",
+      "imdb_id": "tt0013858",
+      "tmdb_id": "45807"
+    },
+    "omdb": {
+      "Title": "The Balloonatic",
+      "Year": "1923",
+      "Rated": "Not Rated",
+      "Released": "22 Jan 1923",
+      "Runtime": "22 min",
+      "Genre": "Short, Comedy",
+      "Director": "Edward F. Cline, Buster Keaton",
+      "Writer": "Buster Keaton, Edward F. Cline",
+      "Actors": "Buster Keaton, John Brown, Phyllis Haver",
+      "Plot": "A hapless amusement park attendant finds his runaway balloon ride has left him in a strange predicament.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ3MGRhZjctYzYwYy00ZmQ4LTkyNzktZTM2NWZmZDY0YTIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.6",
+      "imdbVotes": "3,297",
+      "imdbID": "tt0013858",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/i4/96/mi/1d/p3d4YrY1JQyhpEA6B959t9WUwCV-1920-1920-1080-1080-crop-000000.jpg?v=aac431d661"
+    ],
+    "tmdb_id": "45807"
   }
 }
