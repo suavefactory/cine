@@ -1316,13 +1316,20 @@
   "Andrei Rublev|1966": {
     "lbxd": {
       "rating": 4.44,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ta/n3/34/bp/andrey-rublyov-0-500-0-750-crop.jpg?v=d30a8bb2cb",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/5/7/51257-andrei-rublev-0-500-0-750-crop.jpg?v=150a45be3c",
       "description": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
       "genres": [
         "History",
         "Drama"
       ],
-      "country": "USSR"
+      "country": "USSR",
+      "lb_director": "Andrei Tarkovsky",
+      "lb_director_slug": "andrei-tarkovsky",
+      "lb_year": 1966,
+      "lb_title": "Andrei Rublev",
+      "backdrop": null,
+      "imdb_id": "tt0060107",
+      "tmdb_id": "895"
     },
     "omdb": {
       "Title": "Andrei Rublev",
@@ -1359,7 +1366,33 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Andrey Rublev",
+      "plot_pt": "Um conto medieval arrebatador sobre a vida do maior pintor iconográfico russo. O fresco de um período turbulento do século XV na Rússia, marcado por lutas intermináveis entre príncipes rivais e invasões. Um filme sobre o poder das imagens e das sensações.",
+      "country": "Rússia",
+      "genre": "Drama",
+      "year": 1966,
+      "director": "Andrei Tarkovsky",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/and_photo3.jpg",
+        "https://medeiafilmes.com/uploads/library/and_photo4.jpg",
+        "https://medeiafilmes.com/uploads/library/movie-70605198.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      43.7,
+      41.0,
+      29.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/and_photo3.jpg",
+      "https://medeiafilmes.com/uploads/library/and_photo4.jpg",
+      "https://medeiafilmes.com/uploads/library/movie-70605198.jpg"
+    ],
+    "tmdb_id": "895"
   },
   "Moloch|1999": {
     "lbxd": {
@@ -3254,7 +3287,7 @@
   },
   "O Sacrifício|1986": {
     "lbxd": {
-      "rating": 4.29,
+      "rating": 4.27,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-500-0-750-crop.jpg?v=abe0768e2a",
       "description": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
       "genres": [
@@ -3263,9 +3296,39 @@
       "country": "Sweden",
       "lb_director": "Andrei Tarkovsky",
       "lb_director_slug": "andrei-tarkovsky",
-      "lb_year": 1986
+      "lb_year": 1986,
+      "lb_title": "The Sacrifice",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/kx/zj/lr/gh/the-sacrifice-1920-1920-1080-1080-crop-000000.jpg?v=f7dc9b9333",
+      "imdb_id": "tt0091670",
+      "tmdb_id": "24657"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Sacrifice",
+      "plot_pt": "Alexander, jornalista e intelectual, confessa ao seu filho pequeno a preocupação que sente em relação à falta de espiritualidade no mundo moderno. Na noite do seu aniversário, irrompe a Terceira Guerra Mundial. Num momento de desespero, Alexander vira-se para Deus, argumentando e oferecendo-Lhe tudo para evitar o holocausto nuclear.",
+      "country": "Rússia",
+      "genre": "Drama",
+      "year": 1986,
+      "director": "Andrei Tarkovsky",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/o-sacrificio_1.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-sacrificio_2.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-sacrificio_3.jpeg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      30.4,
+      31.6,
+      26.3
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/o-sacrificio_1.jpeg",
+      "https://medeiafilmes.com/uploads/library/o-sacrificio_2.jpeg",
+      "https://medeiafilmes.com/uploads/library/o-sacrificio_3.jpeg"
+    ],
+    "tmdb_id": "24657"
   },
   "Antes da Meia-Noite|2013": {
     "lbxd": {
@@ -5607,16 +5670,48 @@
   },
   "Nostalgia (1983)|1983": {
     "lbxd": {
-      "rating": 4.28,
+      "rating": 4.26,
       "poster": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-500-0-750-crop.jpg?v=fc5f972431",
       "description": "Russian poet Andrei Gorchakov journeys through Italy with his interpreter Eugenia to research the life of an 18th-century Russian composer who once lived abroad. Isolated and consumed by an unrelenting longing for his homeland, Andrei becomes drawn to Domenico, a radical mystic obsessed with spiritual redemption. Through austere imagery and extended temporal rhythms, Tarkovsky examines exile, memory, and the profound melancholy of being unable to belong fully to either place or language.",
       "genres": [
         "Drama",
         "Romance"
       ],
-      "country": "Italy"
+      "country": "Italy",
+      "lb_director": "Andrei Tarkovsky",
+      "lb_director_slug": "andrei-tarkovsky",
+      "lb_year": 1983,
+      "lb_title": "Nostalgia",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/p8/r4/w2/n6/nostalghia-1920-1920-1080-1080-crop-000000.jpg?v=c7f2cf74d0",
+      "imdb_id": "tt0086022",
+      "tmdb_id": "1394"
     },
-    "omdb": null
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Nostalghia",
+      "plot_pt": "Um poeta russo, sentindo-se aprisionado pela fama e por um casamento infeliz, parte à procura do seu passado cultural em Itália. Viaja pela Toscana com Eugenia, a sua intérprete italiana. Um encontro com Domenico, um velho aparentemente lunático, acaba por permitir ao escritor compreender o segredo da sua própria nostalgia.",
+      "country": "Itália, URSS",
+      "genre": "Drama",
+      "year": 1983,
+      "director": "Andrei Tarkovsky",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/nostalgia_1.jpeg",
+        "https://medeiafilmes.com/uploads/library/nostalgia_2.jpeg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.9,
+      11.6,
+      45.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/nostalgia_1.jpeg",
+      "https://medeiafilmes.com/uploads/library/nostalgia_2.jpeg",
+      "https://a.ltrbxd.com/resized/sm/upload/p8/r4/w2/n6/nostalghia-1920-1920-1080-1080-crop-000000.jpg?v=c7f2cf74d0"
+    ],
+    "tmdb_id": "1394"
   },
   "O Último Padrinho|None": {
     "lbxd": {
@@ -20087,8 +20182,49 @@
     "omdb": null
   },
   "Viver - Ikiru|1952": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 4.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/9/5/49595-ikiru-0-500-0-750-crop.jpg?v=3b6666bd18",
+      "description": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Akira Kurosawa",
+      "lb_director_slug": "akira-kurosawa",
+      "lb_year": 1952,
+      "lb_title": "Ikiru",
+      "backdrop": null,
+      "imdb_id": "tt0044741",
+      "tmdb_id": "3782"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Ikiru",
+      "plot_pt": "“O mais belo, o mais sábio e o mais comovente dos filmes japoneses que me foi dado ver.” – André Bazin",
+      "country": "Japão",
+      "genre": "Drama",
+      "year": 1952,
+      "director": "Akira Kurosawa",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/1-1-copy.jpg",
+        "https://medeiafilmes.com/uploads/library/1496199938_1858146299592e330251317.jpg",
+        "https://medeiafilmes.com/uploads/library/1496199938_1874745880592e33025123a.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      49.3,
+      32.0,
+      39.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/1-1-copy.jpg",
+      "https://medeiafilmes.com/uploads/library/1496199938_1858146299592e330251317.jpg",
+      "https://medeiafilmes.com/uploads/library/1496199938_1874745880592e33025123a.jpg"
+    ],
+    "tmdb_id": "3782"
   },
   "YALLA HABIBI !|None": {
     "lbxd": {
@@ -20460,7 +20596,11 @@
       "country": "France",
       "lb_director": "David Lynch",
       "lb_director_slug": "david-lynch",
-      "lb_year": 2001
+      "lb_year": 2001,
+      "lb_title": "Mulholland Drive",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/h2/6c/u6/vy/mulholland-drive-60-1920-1920-1080-1080-crop-000000.jpg?v=39351034b2",
+      "imdb_id": "tt0166924",
+      "tmdb_id": "1018"
     },
     "omdb": {
       "Title": "Mulholland Drive",
@@ -20501,7 +20641,33 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Mulholland Drive",
+      "plot_pt": "Uma história de amor na cidade dos sonhos… De cabelos loiros, Betty Elms acaba de chegar a Hollywood para se tornar uma estrela de cinema, quando conhece uma enigmática mulher morena com amnésia. Entretanto, enquanto as duas tentam desvendar a identidade da segunda mulher, o cineasta Adam Kesher depara-se com problemas sinistros durante o casting do seu último projeto. A visão sedutora e assustadora de David Lynch da fábrica de sonhos que é Los Angeles é uma das verdadeiras obras-primas do novo milénio, uma história de amor, ciúme e vingança como nenhuma outra.",
+      "country": "EUA, França",
+      "genre": "Drama, Thriller",
+      "year": 2001,
+      "director": "David Lynch",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/8702f673-mulholland-dr-photos-015photo-1536x1024_1.jpg",
+        "https://medeiafilmes.com/uploads/library/9afe4e31-mulholland-dr-photos-020photo-1536x1024.jpg",
+        "https://medeiafilmes.com/uploads/library/7ac940eb-mulholland-dr-photos-016photo-1536x1024.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      28.5,
+      51.7,
+      35.6
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/8702f673-mulholland-dr-photos-015photo-1536x1024_1.jpg",
+      "https://medeiafilmes.com/uploads/library/9afe4e31-mulholland-dr-photos-020photo-1536x1024.jpg",
+      "https://medeiafilmes.com/uploads/library/7ac940eb-mulholland-dr-photos-016photo-1536x1024.jpg"
+    ],
+    "tmdb_id": "1018"
   },
   "Metropolis|1926": {
     "lbxd": {
@@ -21369,8 +21535,37 @@
     "omdb": null
   },
   "A Idade de Ouro|1930": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.61,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/3/48693-lage-dor-0-500-0-750-crop.jpg?v=5d71879827",
+      "description": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1930,
+      "lb_title": "L'Âge d'or",
+      "backdrop": null,
+      "imdb_id": "tt0021577",
+      "tmdb_id": "5729"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "L’Âge d’Or",
+      "plot_pt": "Numa ilha deserta vivem escorpiões e bandidos, ao pé de esqueletos de bispos deixados ao sol. Um cortejo oficial desembarca na ilha, para celebrar o lançamento da primeira pedra da Roma imperial. A cerimónia é perturbada por um casal que se abraça e rola na lama. O homem é preso mas foge, reencontrando a amada numa festa. Enquanto isto acontece, no castelo de Selliny Cristo parece satisfeito por participar nas cerimónias dos Cento e Vinte Dias de Sodoma.",
+      "country": "França",
+      "genre": "Comédia, Drama",
+      "year": 1930,
+      "director": "Luis Buñuel"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "5729"
   },
   "As Tears Go By - Ao Sabor da Ambição|1988": {
     "lbxd": {
@@ -27886,8 +28081,76 @@
     ]
   },
   "O Último Metro|1980": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/3/5/50835-the-last-metro-0-500-0-750-crop.jpg?v=1d67079450",
+      "description": "In occupied Paris, an actress wed to a Jewish theater owner must keep him hidden from the Nazis while doing both of their jobs.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "country": "France",
+      "lb_director": "François Truffaut",
+      "lb_director_slug": "francois-truffaut",
+      "lb_year": 1980,
+      "lb_title": "The Last Metro",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/o2/0l/hx/zc/last-metro-1920-1920-1080-1080-crop-000000.jpg?v=f427fa9b6f",
+      "imdb_id": "tt0080610",
+      "tmdb_id": "1716"
+    },
+    "omdb": {
+      "Title": "The Last Metro",
+      "Year": "1981",
+      "Rated": "PG",
+      "Released": "19 Feb 1981",
+      "Runtime": "132 min",
+      "Genre": "Drama, Romance, War",
+      "Director": "François Truffaut",
+      "Writer": "François Truffaut, Suzanne Schiffman, Jean-Claude Grumberg",
+      "Actors": "Catherine Deneuve, Gérard Depardieu, Jean Poiret",
+      "Plot": "In occupied Paris, an actress married to a Jewish theater owner must keep him hidden from the Germans while doing both of their jobs.",
+      "Language": "French, German, Italian",
+      "Country": "France",
+      "Awards": "Nominated for 1 Oscar. 13 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFiMTFlMzUtN2JmNS00MGIzLWEzOTUtY2RkNjQ2OTY2MDZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "17,042",
+      "imdbID": "tt0080610",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$3,007,945",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Le dernier métro",
+      "plot_pt": "Paris, 1942. No mundo do teatro, durante a ocupação alemã, Lucas Steiner, um judeu alemão refugiado em Paris, vê-se obrigado a exilar-se novamente, deixando a sua mulher, Marion, à frente do prestigioso Théâtre Montmartre. Marion enfrenta enormes desafios para manter o teatro de pé, lutando contra a adversidade e o medo num tempo de incerteza e perigo.",
+      "country": "França",
+      "year": 1980,
+      "director": "François Truffaut"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      44.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/o2/0l/hx/zc/last-metro-1920-1920-1080-1080-crop-000000.jpg?v=f427fa9b6f"
+    ],
+    "tmdb_id": "1716"
   },
   "Os Quatrocentos Golpes|1959": {
     "lbxd": {
@@ -85432,55 +85695,16 @@
       "genres": [
         "Documentary"
       ],
-      "country": "USA",
-      "lb_director": "Nathan Fielder",
-      "lb_director_slug": "nathan-fielder",
+      "country": null,
+      "lb_director": "Inês Oliveira",
+      "lb_director_slug": "ines-oliveira",
       "lb_year": 2026,
-      "lb_title": "You Can See Everything",
-      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10",
-      "imdb_id": "tt45368240",
-      "tmdb_id": "1765072"
+      "lb_title": "Visitas de Uma Parente Afastada",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1802128"
     },
-    "omdb": {
-      "Title": "You Can See Everything",
-      "Year": "2026",
-      "Rated": "R",
-      "Released": "16 Oct 2026",
-      "Runtime": "174 min",
-      "Genre": "Documentary, Biography",
-      "Director": "Nathan Fielder, Lance Oppenheim",
-      "Writer": "N/A",
-      "Actors": "Billy Evans, Nathan Fielder, Elizabeth Holmes",
-      "Plot": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "100%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "98/100"
-        }
-      ],
-      "Metascore": "98",
-      "imdbRating": "7.9",
-      "imdbVotes": "165",
-      "imdbID": "tt45368240",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {
       "year": 2026,
@@ -85488,14 +85712,8 @@
       "plot_pt": "Elizabeth Holmes, fundadora da Theranos condenada a mais de 11 anos de prisão por fraude, convidou uma equipa de filmagem a acompanhá-la nos 34 dias antes de se entregar às autoridades. O que começou como um retrato íntimo transformou-se numa odisseia de três anos sobre verdade, identidade, representação e controlo."
     },
     "dir_checked": true,
-    "stills_focus": [
-      42.4
-    ],
-    "stills": [
-      "https://a.ltrbxd.com/resized/sm/upload/wr/rf/xg/hl/IMG_2387-1920-1920-1080-1080-crop-000000.jpg?v=cfa3502c10"
-    ],
-    "tmdb_id": "1765072",
-    "wiki_tries": 1
+    "stills": null,
+    "tmdb_id": "1802128"
   },
   "Trainspotting – 30º Aniversário|1996": {
     "lbxd": {
@@ -97573,7 +97791,38 @@
       "imdb_id": "tt2860362",
       "tmdb_id": "230867"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Tashkafa: Stories of the Street",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "12 Apr 2013",
+      "Runtime": "66 min",
+      "Genre": "Documentary",
+      "Director": "Andrea Luka Zimmerman",
+      "Writer": "John Berger, Andrea Luka Zimmerman, Gülen Hurley",
+      "Actors": "John Berger",
+      "Plot": "A documentary about residents in Istanbul who care for the street dogs.",
+      "Language": "English, German, Turkish",
+      "Country": "Turkey",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1ZDRkY2QtOWFjNi00M2Y4LTkzNzQtNzZjNzgzMDljNzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "33",
+      "imdbID": "tt2860362",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -99932,7 +100181,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/4/2/8/9/8/3/tmdb/gdqm7D25PTLxnIaizZbCGXdqKMD-1920-1920-1080-1080-crop-000000.jpg?v=6ec70401a2"
     ],
     "tmdb_id": "1554956",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "VIAGENS – ENTRE ESTRELAS E ONDAS | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100034,7 +100283,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1575438",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "JOSEPHINE | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100091,7 +100340,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "199661",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "SHORTS SELECTION | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100185,7 +100434,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1674210",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "BOB AND DAVID CLIMB MACHU PICCHU | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100237,7 +100486,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1530940",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "TAMBÉM TU CLARA | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": null,
@@ -100342,7 +100591,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/2/1/0/8/0/tmdb/uamyuT0gNRXbS5fgsnLVbydifk7-1920-1920-1080-1080-crop-000000.jpg?v=4b825ca7d9"
     ],
     "tmdb_id": "1021848",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "6:06 | TRIBECA CINEMA SESSIONS|None": {
     "lbxd": {
@@ -100455,7 +100704,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "41765",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Spanish Main|1945": {
     "lbxd": {
@@ -101411,7 +101660,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "99119",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Vingança De Uma Mulher|2011": {
     "lbxd": {
@@ -101466,7 +101715,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "89451"
+    "tmdb_id": "89451",
+    "wiki_tries": 1
   },
   "Magnificent Doll|1946": {
     "lbxd": {
@@ -101528,7 +101778,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/6n/6g/zy/hi/wp1bwpV9RZOUz8u3mnTvMf8BCIJ-1920-1920-1080-1080-crop-000000.jpg?v=90ad2a0390"
     ],
     "tmdb_id": "217250",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Les Anges Du Péché|1944": {
     "lbxd": {
@@ -101682,7 +101932,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "53523",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Balloonatic|1923": {
     "lbxd": {
@@ -101744,7 +101994,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/i4/96/mi/1d/p3d4YrY1JQyhpEA6B959t9WUwCV-1920-1920-1080-1080-crop-000000.jpg?v=aac431d661"
     ],
     "tmdb_id": "45807",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Vingança De Uma Mulher|2012": {
     "lbxd": {
@@ -101833,5 +102083,2322 @@
       "https://a.ltrbxd.com/resized/sm/upload/0m/27/sx/35/2Cz56FBIOKEGxxFUoEzcFPLEfWv-1920-1920-1080-1080-crop-000000.jpg?v=30d5600397"
     ],
     "tmdb_id": "55835"
+  },
+  "Clayface|2026": {
+    "lbxd": {
+      "rating": 3.71,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/4/6/3/6/1284636-clayface-0-500-0-750-crop.jpg?v=eb305849d5",
+      "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Science Fiction"
+      ],
+      "country": "USA",
+      "lb_director": "James Watkins",
+      "lb_director_slug": "james-watkins",
+      "lb_year": 2026,
+      "lb_title": "Clayface",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/8/4/6/3/6/tmdb/xwdGfFO5TsVaRiiiAdatFrbh7bT-1920-1920-1080-1080-crop-000000.jpg?v=f7909fbddd",
+      "imdb_id": "tt34890576",
+      "tmdb_id": "1400940"
+    },
+    "omdb": {
+      "Title": "Clayface",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "23 Oct 2026",
+      "Runtime": "108 min",
+      "Genre": "Horror, Sci-Fi, Thriller",
+      "Director": "James Watkins",
+      "Writer": "Mike Flanagan, Hossein Amini",
+      "Actors": "Tom Rhys Harries, Tim Faraday, Naomi Todd",
+      "Plot": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "59/100"
+        }
+      ],
+      "Metascore": "59",
+      "imdbRating": "7.5",
+      "imdbVotes": "37,372",
+      "imdbID": "tt34890576",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$44,064,252",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Clayface",
+      "plot_pt": "Um dos filmes de terror do momento, com um papel marcante de Joana Ribeiro. Matt Hagen, um actorem voga, é atacado e desfigurado. Para recuperar a carreira, submete-se a um tratamento experimental.",
+      "country": "EUA",
+      "year": 2026,
+      "director": "James Watkins"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      35.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/8/4/6/3/6/tmdb/xwdGfFO5TsVaRiiiAdatFrbh7bT-1920-1920-1080-1080-crop-000000.jpg?v=f7909fbddd"
+    ],
+    "tmdb_id": "1400940"
+  },
+  "The Holy Boy|2025": {
+    "lbxd": {
+      "rating": 3.55,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/3/4/5/985345-the-holy-boy-0-500-0-750-crop.jpg?v=0e8bd81d97",
+      "description": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
+      "genres": [
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "country": "Italy",
+      "lb_director": "Paolo Strippoli",
+      "lb_director_slug": "paolo-strippoli",
+      "lb_year": 2025,
+      "lb_title": "The Holy Boy",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/5/3/4/5/tmdb/yJOeJH8NcOk73q6bY4hbYlC3ybG-1920-1920-1080-1080-crop-000000.jpg?v=29f51ccbe0",
+      "imdb_id": "tt33382323",
+      "tmdb_id": "1092936"
+    },
+    "omdb": {
+      "Title": "The Holy Boy",
+      "Year": "2025",
+      "Rated": "N/A",
+      "Released": "17 Sep 2025",
+      "Runtime": "122 min",
+      "Genre": "Drama, Horror",
+      "Director": "Paolo Strippoli",
+      "Writer": "Jacopo Del Giudice, Paolo Strippoli, Milo Tissone",
+      "Actors": "Michele Riondino, Romana Maggiora Vergano, Roberto Citran",
+      "Plot": "In Italy's happiest village, a haunted teacher discovers dark secret behind weekly gatherings where locals seek healing from a teenage boy's embrace. His quest to save the youth reveals the sinister nature of a community hiding be...",
+      "Language": "Italian",
+      "Country": "Italy, Slovenia",
+      "Awards": "8 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmUxZDVlMjYtZjdjNC00YjRkLTkwZjItZGI1YzhlYTA2MGVlXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "1,939",
+      "imdbID": "tt33382323",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "La valle dei sorrisi",
+      "plot_pt": "Sergio, um professor atormentado pelo passado, é transferido para Remis, uma aldeia isolada conhecida como a mais feliz de Itália. Cedo descobre que a aldeia esconde um segredo sombrio e perturbador.",
+      "country": "Itália, Eslovénia",
+      "year": 2025,
+      "director": "Paolo Strippoli"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/5/3/4/5/tmdb/yJOeJH8NcOk73q6bY4hbYlC3ybG-1920-1920-1080-1080-crop-000000.jpg?v=29f51ccbe0"
+    ],
+    "tmdb_id": "1092936"
+  },
+  "Trainspotting|1996": {
+    "lbxd": {
+      "rating": 4.23,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/7/51497-trainspotting-0-500-0-750-crop.jpg?v=c8597f6cb5",
+      "description": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "country": "UK",
+      "lb_director": "Danny Boyle",
+      "lb_director_slug": "danny-boyle",
+      "lb_year": 1996,
+      "lb_title": "Trainspotting",
+      "backdrop": null,
+      "imdb_id": "tt0117951",
+      "tmdb_id": "627"
+    },
+    "omdb": {
+      "Title": "Trainspotting",
+      "Year": "1996",
+      "Rated": "R",
+      "Released": "09 Aug 1996",
+      "Runtime": "93 min",
+      "Genre": "Crime, Drama",
+      "Director": "Danny Boyle",
+      "Writer": "Irvine Welsh, John Hodge",
+      "Actors": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+      "Plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "8.1",
+      "imdbVotes": "775,940",
+      "imdbID": "tt0117951",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$16,892,333",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Trainspotting",
+      "plot_pt": "“Queríamos que o filme tivesse vivacidade, irreverência; quisemos sempre que fosse maior do que a própria vida.” – Danny Boyle",
+      "country": "Reino Unido",
+      "year": 1996,
+      "director": "Danny Boyle"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "627"
+  },
+  "Rocky|1976": {
+    "lbxd": {
+      "rating": 4.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/0/9/0/51090-rocky-0-500-0-750-crop.jpg?v=da48c9eb5a",
+      "description": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "John G. Avildsen",
+      "lb_director_slug": "john-g-avildsen",
+      "lb_year": 1976,
+      "lb_title": "Rocky",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/5/1/0/9/0/tmdb/kK9v1wclQxug6ZUJucD4DTaHgVF-1920-1920-1080-1080-crop-000000.jpg?v=5cdbe54164",
+      "imdb_id": "tt0075148",
+      "tmdb_id": "1366"
+    },
+    "omdb": {
+      "Title": "Rocky",
+      "Year": "1976",
+      "Rated": "PG",
+      "Released": "03 Dec 1976",
+      "Runtime": "120 min",
+      "Genre": "Drama, Sport",
+      "Director": "John G. Avildsen",
+      "Writer": "Sylvester Stallone",
+      "Actors": "Sylvester Stallone, Talia Shire, Burt Young",
+      "Plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "Language": "English, Spanish, Italian",
+      "Country": "United States",
+      "Awards": "Won 3 Oscars. 23 wins & 23 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "70/100"
+        }
+      ],
+      "Metascore": "70",
+      "imdbRating": "8.1",
+      "imdbVotes": "703,457",
+      "imdbID": "tt0075148",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$117,235,147",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Rocky",
+      "plot_pt": "“Sabia que aquela não era apenas a minha oportunidade, era a minha vida. Tudo tinha de ser perfeito.” – Sylvester Stallone",
+      "country": "EUA",
+      "year": 1976,
+      "director": "John G. Avildsen"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      30.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/5/1/0/9/0/tmdb/kK9v1wclQxug6ZUJucD4DTaHgVF-1920-1920-1080-1080-crop-000000.jpg?v=5cdbe54164"
+    ],
+    "tmdb_id": "1366"
+  },
+  "Few of Us|1996": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/0/7/2/106072-few-of-us-0-500-0-750-crop.jpg?v=2cfbef1ef9",
+      "description": "A slow, dialogue-free film about a woman's journey in Siberia.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Šarūnas Bartas",
+      "lb_director_slug": "sarunas-bartas",
+      "lb_year": 1996,
+      "lb_title": "Few of Us",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/2b/5x/93/5z/A43R1vPlNLSjsBHcK1NPZ0jEsIN-1920-1920-1080-1080-crop-000000.jpg?v=32b058f8cf",
+      "imdb_id": "tt0116300",
+      "tmdb_id": "138522"
+    },
+    "omdb": {
+      "Title": "Few of Us",
+      "Year": "1996",
+      "Rated": "N/A",
+      "Released": "18 Sep 1996",
+      "Runtime": "105 min",
+      "Genre": "Drama",
+      "Director": "Sharunas Bartas",
+      "Writer": "Sharunas Bartas",
+      "Actors": "Alex Descas, Yekaterina Golubeva, Piotr Kishteev",
+      "Plot": "Silent Lithuanian film about a woman visiting a Fayre.",
+      "Language": "None",
+      "Country": "Portugal, France, Germany, Lithuania",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmI3NDU3OGItZjY1ZC00MDUzLTk2NTctOTNjZTExOTEzNmNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "682",
+      "imdbID": "tt0116300",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Few of Us",
+      "plot_pt": "Uma jovem chega de helicóptero a uma parte esquecida da Sibéria onde vivem os Tofalar, um antigo povo nómada que fora forçado a estabelecer-se ali. Neste filme quase documental, Sharunas Bartas retrata a vida deste povo numa série de imagens intuitivas – rostos, actividades quotidianas, a beleza arrebatadora da paisagem. Na ausência de diálogos, a atmosfera do filme é também criada pela encantadora banda sonora pontuada pela poesia de A. Ribnikov: “Somos poucos, raios, tão poucos, mas o pior é estarmos separados uns dos outros”.",
+      "country": "Portugal, França, Alemanha, Lituânia",
+      "genre": "Drama",
+      "year": 1996,
+      "director": "Sharunas Bartas",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/few_of_us.jpg",
+        "https://medeiafilmes.com/uploads/library/73c3e32a-b138-4c19-a167-4a49aa213265.jpg",
+        "https://medeiafilmes.com/uploads/library/518a0ba13e781982944695a21ceaf26b.png"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      22.1,
+      43.3,
+      42.3
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/73c3e32a-b138-4c19-a167-4a49aa213265.jpg",
+      "https://medeiafilmes.com/uploads/library/518a0ba13e781982944695a21ceaf26b.png",
+      "https://medeiafilmes.com/uploads/library/few_of_us.jpg"
+    ],
+    "tmdb_id": "138522"
+  },
+  "Os Christophers|2025": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/6/8/4/1283684-the-christophers-0-500-0-750-crop.jpg?v=4269379fb4",
+      "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Steven Soderbergh",
+      "lb_director_slug": "steven-soderbergh",
+      "lb_year": 2025,
+      "lb_title": "The Christophers",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/si/lj/ip/ns/wn1aZgUN6JP29iPKb7KTykBu6dP-1920-1920-1080-1080-crop-000000.jpg?v=45b780ed77",
+      "imdb_id": "tt34966562",
+      "tmdb_id": "1400357"
+    },
+    "omdb": {
+      "Title": "The Christophers",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "15 May 2026",
+      "Runtime": "100 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Steven Soderbergh",
+      "Writer": "Ed Solomon",
+      "Actors": "Michaela Coel, Ian McKellen, Jessica Gunning",
+      "Plot": "The children of a once famous artist hire a forger to complete some unfinished, long ago abandoned canvases so they'll have an inheritance when he dies.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjgyOTAtYjRlNS00NmE4LWE2YTgtZDcxNTBhZGVmMGVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "6.8",
+      "imdbVotes": "6,624",
+      "imdbID": "tt34966562",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,807,376",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Christophers",
+      "plot_pt": "Arte, comércio e ressentimento entrelaçam-se nesta comédia liderada pelo veterano Ian McKellen. Ele é Julian Sklar, nome importante da cena artística londrina desde os anos 60, agora voluntariamente recluso, e sem contacto com os filhos. Estes, para garantirem a herança, contratam uma talentosa falsificadora, que deverá fazer-se passar por assistente e assim finalizar uma série de quadros abandonados na casa de Sklar, com o objectivo de serem postos à venda depois da morte do velho artista.",
+      "country": "Reino Unido",
+      "year": 2025,
+      "director": "Steven Soderbergh",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/the-christophers_still6_ian-mckellen_credit-claudette-bariusjpg.jpg",
+        "https://medeiafilmes.com/uploads/library/the-christophers_still-1_michaela-coel-and-ian-mckellen_courtesy-of-neon.jpg",
+        "https://medeiafilmes.com/uploads/library/the-christophers_still-4_jessica-gunning-and-james-corden_credit-claudette-barius.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.5,
+      23.1,
+      30.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/the-christophers_still6_ian-mckellen_credit-claudette-bariusjpg.jpg",
+      "https://medeiafilmes.com/uploads/library/the-christophers_still-1_michaela-coel-and-ian-mckellen_courtesy-of-neon.jpg",
+      "https://medeiafilmes.com/uploads/library/the-christophers_still-4_jessica-gunning-and-james-corden_credit-claudette-barius.jpg"
+    ],
+    "tmdb_id": "1400357"
+  },
+  "A Bela de Dia|1967": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/7/5/51475-belle-de-jour-0-500-0-750-crop.jpg?v=456ee28616",
+      "description": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1967,
+      "lb_title": "Belle de Jour",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/om/hk/b2/fq/belle-de-jour-1920-1920-1080-1080-crop-000000.jpg?v=692648a566",
+      "imdb_id": "tt0061395",
+      "tmdb_id": "649"
+    },
+    "omdb": {
+      "Title": "Belle de Jour",
+      "Year": "1968",
+      "Rated": "Approved",
+      "Released": "10 Apr 1968",
+      "Runtime": "100 min",
+      "Genre": "Drama, Romance",
+      "Director": "Luis Buñuel",
+      "Writer": "Joseph Kessel, Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Catherine Deneuve, Jean Sorel, Michel Piccoli",
+      "Plot": "A frigid young housewife decides to spend her midweek afternoons as a prostitute.",
+      "Language": "French, Kalmyk-Oirat, Spanish, Latin, English",
+      "Country": "France, Italy",
+      "Awards": "Nominated for 1 BAFTA Award. 7 wins & 5 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhiYmZmNjEtZjE1NC00YmIxLTgyMDEtODVkYTkyNzZkNzk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "54,097",
+      "imdbID": "tt0061395",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$4,063,348",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Belle de jour",
+      "plot_pt": "Adaptação do romance de Joseph Kessel, A BELA DE DIA é um clássico moderno do mestre Luis Buñuel, protagonizado pela magnética Catherine Deneuve. A BELA DE DIA encapsula alguns dos temas recorrentes de Buñuel: sexo e obsessão, sonho e realidade. E burguesias, claro está. Para muitos uma obra resistente, agrupa referências sadomasoquistas e jogos de poder, dos quais se alimenta a história de Séverine (Catherine Deneuve), senhora de alto estatuto social que decide prostituir-se (mas só à tarde...). Os muito singulares encontros com as perversões dos seus clientes permitem-lhe materializar as suas próprias fantasias. Um dos papéis mais famosos de Catherine Deneuve e uma das obras-primas de Buñuel.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCópia Digital Restaurada - 4K",
+      "country": "França, Itália",
+      "genre": "Drama",
+      "year": 1967,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-008-1-jpg1.jpg",
+        "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-002-1-jpg.jpg",
+        "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-004-1-jpg.jpg",
+        "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-005-1-jpg1.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.8,
+      44.8,
+      47.2
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-008-1-jpg1.jpg",
+      "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-002-1-jpg.jpg",
+      "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-004-1-jpg.jpg"
+    ],
+    "tmdb_id": "649"
+  },
+  "Este Obscuro Objecto do Desejo|1977": {
+    "lbxd": {
+      "rating": 3.95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/5/3/48653-that-obscure-object-of-desire-0-500-0-750-crop.jpg?v=4898042e49",
+      "description": "After dumping a bucket of water on a beautiful young woman from the window of a train car, wealthy Frenchman Mathieu, regales his fellow passengers with the story of the dysfunctional relationship between himself and the young woman in question, a fiery 19-year-old flamenco dancer named Conchita. What follows is a tale of cruelty, depravity and lies -- the very building blocks of love.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1977,
+      "lb_title": "That Obscure Object of Desire",
+      "backdrop": null,
+      "imdb_id": "tt0075824",
+      "tmdb_id": "5781"
+    },
+    "omdb": {
+      "Title": "That Obscure Object of Desire",
+      "Year": "1977",
+      "Rated": "R",
+      "Released": "08 Oct 1977",
+      "Runtime": "103 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Jean-Claude Carrière, Pierre Louÿs",
+      "Actors": "Fernando Rey, Carole Bouquet, Ángela Molina",
+      "Plot": "Recounted in flashback are the romantic perils of Mathieu, a middle-aged French sophisticate as he falls for his nineteen-year-old former chambermaid Conchita.",
+      "Language": "French, Spanish",
+      "Country": "France, Spain",
+      "Awards": "Nominated for 2 Oscars. 6 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcwNjY3OTAtODNmYy00OTZlLWE0YmMtMGEwYmRmNjNiMmE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,18,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "7.8",
+      "imdbVotes": "27,299",
+      "imdbID": "tt0075824",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Cet obscur object du désir",
+      "plot_pt": "ESTE OBSCURO OBJECTO DO DESEJO é o último filme de Luís Buñuel e um dos seus mais irónicos comentários sobre o desejo e a sexualidade. A partir do romance de Pierre Louys \"La Femme et le Pantin\", Buñuel conta a história do desejo insaciável de um burguês de Sevilha, Mathieu Faber, pela sua criada virgem, Conchita, que, apesar das promessas, deixa Faber numa permanente expectativa.\nCópia Digital Restaurada",
+      "country": "França, Espanha",
+      "genre": "Comédia, Drama",
+      "year": 1977,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/6cf7f55d5a6678738b48d7d2ccedd26b.jpg",
+        "https://medeiafilmes.com/uploads/library/733d9848-78db-423f-b3b5-08417e53fc91.jpg",
+        "https://medeiafilmes.com/uploads/library/711772.jpg",
+        "https://medeiafilmes.com/uploads/library/that_obscure_object_of_desire-111019048-large.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.9,
+      28.5,
+      34.0
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/6cf7f55d5a6678738b48d7d2ccedd26b.jpg",
+      "https://medeiafilmes.com/uploads/library/733d9848-78db-423f-b3b5-08417e53fc91.jpg",
+      "https://medeiafilmes.com/uploads/library/711772.jpg"
+    ],
+    "tmdb_id": "5781"
+  },
+  "Nosferatu (1922)|1922": {
+    "lbxd": {
+      "rating": 3.82,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/7/1/51471-nosferatu-0-500-0-750-crop.jpg?v=97f8f97666",
+      "description": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal.",
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "country": "Germany",
+      "lb_director": "F. W. Murnau",
+      "lb_director_slug": "f-w-murnau",
+      "lb_year": 1922,
+      "lb_title": "Nosferatu",
+      "backdrop": null,
+      "imdb_id": "tt0013442",
+      "tmdb_id": "653"
+    },
+    "omdb": {
+      "Title": "Nosferatu",
+      "Year": "1922",
+      "Rated": "Not Rated",
+      "Released": "19 Dec 1922",
+      "Runtime": "95 min",
+      "Genre": "Fantasy, Horror",
+      "Director": "F.W. Murnau",
+      "Writer": "Bram Stoker, Henrik Galeen",
+      "Actors": "Max Schreck, Alexander Granach, Gustav von Wangenheim",
+      "Plot": "Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.",
+      "Language": "None, German, English",
+      "Country": "Germany",
+      "Awards": "3 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU0YjQ5OTUtZGJiYS00MWY0LTkxYjYtODEyZGJmYjhkNWIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "125,339",
+      "imdbID": "tt0013442",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Nosferatu",
+      "imdb_id": "tt0013442",
+      "extract_pt": "Nosferatu, Eine Symphonie des Grauens (prt: Nosferatu, o Vampiro) é um filme alemão de 1922, em cinco atos, dirigido por Friedrich Wilhelm Murnau.\nO roteiro é uma adaptação do romance Drácula, de Bram Stoker, embora com nomes de personagens e lugares alterados, pois os herdeiros do escritor não concederam aos produtores autorização para adaptar a obra. Processado por violação de direitos autorais, a justiça ordenou a destruição das cópias do filme, mas algumas delas, entre as muitas já distribuídas, permaneceram guardadas até a morte da viúva de Bram Stoker e estão hoje em dia disponíveis em versões restauradas.[carece de fontes]?\nO filme teve uma refilmagem em 1979, Nosferatu: Phantom der Nacht, dirigida por Werner Herzog."
+    },
+    "cinema": {
+      "original_title": "Nosferatu, eine Symphonie des Grauens",
+      "genre": "Drama, Terror",
+      "year": 1922,
+      "director": "F. W. Murnau"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "653"
+  },
+  "O Charme Discreto da Burguesia|1972": {
+    "lbxd": {
+      "rating": 3.98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/2/2/8/49228-the-discreet-charm-of-the-bourgeoisie-0-500-0-750-crop.jpg?v=1d36943c1a",
+      "description": "In Luis Buñuel’s deliciously satiric masterpiece, an upper-class sextet sits down to dinner but never eats, their attempts continually thwarted by a vaudevillian mixture of events both actual and imagined.",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1972,
+      "lb_title": "The Discreet Charm of the Bourgeoisie",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ew/94/pt/ng/the-discreet-charm-of-the-bourgeoisie-1920-1920-1080-1080-crop-000000.jpg?v=ab13a9d2b5",
+      "imdb_id": "tt0068361",
+      "tmdb_id": "4593"
+    },
+    "omdb": {
+      "Title": "The Discreet Charm of the Bourgeoisie",
+      "Year": "1972",
+      "Rated": "PG",
+      "Released": "22 Oct 1972",
+      "Runtime": "102 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Fernando Rey, Delphine Seyrig, Paul Frankeur",
+      "Plot": "A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.",
+      "Language": "French, Spanish, Latin",
+      "Country": "France, Italy, Spain",
+      "Awards": "Won 1 Oscar. 7 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0MDA0YTEtZTY4Mi00N2Y5LTk0ZjktMTY2ZGQzNGVlYzViXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "93/100"
+        }
+      ],
+      "Metascore": "93",
+      "imdbRating": "7.7",
+      "imdbVotes": "51,042",
+      "imdbID": "tt0068361",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$82,471",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Le charme discret de la bourgeosie",
+      "plot_pt": "Os Thevenot e um embaixador vão jantar a casa dos Sénechal, mas enganam-se na data do convite. Vão então a um restaurante, onde também não comem devido à morte súbita do dono. Os Sénechal reiteram o convite para jantar, mas uma súbita vontade de fazer amor obriga a que cheguem atrasados e falhem novamente a refeição. Pelo meio, diversos episódios sucedem: o sonho do sargento, o assassínio de um moribundo por um bispo, a interrupção por misteriosos intrusos ou gangsters. O humor do efeito de repetição acaba por se transformar num angustiante jogo de massacre. À altura da estreia, Robert Benayoun escreveu na Positif que “Buñuel é o único realizador no mundo de quem se pode dizer que cada novo filme é sempre o melhor”. O CHARME DISCRETO DA BURGUESIA é uma fabulosa e virulenta sátira à burguesia.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCópia Digital Restaurada",
+      "country": "França",
+      "genre": "Comédia",
+      "year": 1972,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/74b6d958-f767-436a-8f7d-242278d7919c.jpg",
+        "https://medeiafilmes.com/uploads/library/deddd526-3c36-48e8-a3b1-69be300808e9.jpg",
+        "https://medeiafilmes.com/uploads/library/cdf95cc5-80f5-4be5-b6c5-187a4363d928.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      36.0,
+      41.9,
+      23.3
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/74b6d958-f767-436a-8f7d-242278d7919c.jpg",
+      "https://medeiafilmes.com/uploads/library/deddd526-3c36-48e8-a3b1-69be300808e9.jpg",
+      "https://medeiafilmes.com/uploads/library/cdf95cc5-80f5-4be5-b6c5-187a4363d928.jpg"
+    ],
+    "tmdb_id": "4593"
+  },
+  "Dia de Cólera|1943": {
+    "lbxd": {
+      "rating": 4.18,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/6/3/3/23633-day-of-wrath-0-500-0-750-crop.jpg?v=8c76376e92",
+      "description": "In a Danish village in the early 1600s, a young woman named Anne, whose mother was thought to be a witch, develops sympathy toward an old woman, Marte, who is accused of witchcraft. The intervention of Anne's older but kindly husband, Pastor Absalon saved her mother -- but now, urged on by his overbearing mother, he refuses to help Marte. When Absalon's son returns home and is attracted to Anne, it's a matter of time before her family destiny catches up with her.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "Denmark",
+      "lb_director": "Carl Theodor Dreyer",
+      "lb_director_slug": "carl-theodor-dreyer-1",
+      "lb_year": 1943,
+      "lb_title": "Day of Wrath",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/b1/6y/5j/ne/day%20of%20wrath-1920-1920-1080-1080-crop-000000.jpg?v=84e2c0a9b0",
+      "imdb_id": "tt0036506",
+      "tmdb_id": "41391"
+    },
+    "omdb": {
+      "Title": "Day of Wrath",
+      "Year": "1948",
+      "Rated": "Not Rated",
+      "Released": "24 Apr 1948",
+      "Runtime": "97 min",
+      "Genre": "Drama, History",
+      "Director": "Carl Theodor Dreyer",
+      "Writer": "Carl Theodor Dreyer, Poul Knudsen, Paul La Cour",
+      "Actors": "Thorkild Roose, Lisbeth Movin, Sigrid Neiiendam",
+      "Plot": "The young wife of an aging priest falls in love with his son amidst the horror of a merciless witch hunt in 17th century Denmark.",
+      "Language": "Danish",
+      "Country": "Denmark",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY1ZWI1YTQtZDc5MS00YTI1LTgyNjQtOTE4YjMxMDg4NWJkXkEyXkFqcGc@._V1_QL75_UY562_CR14,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "12,330",
+      "imdbID": "tt0036506",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$7,642",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Vredens Dag",
+      "plot_pt": "“Parte do que torna Dia de Cólera grandioso é uma ambiguidade apaixonada que deixa todas as grandes questões frustrantemente em aberto, mas, ao mesmo tempo, vibrantes, a pulsar e a irradiar vida e sentido.” – Jonathan Rosenbaum",
+      "country": "Dinamarca",
+      "year": 1943,
+      "director": "Carl Theodor Dreyer",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/0xe75becfbb2aaeac6e0ba8ba599a2d9c3.jpg",
+        "https://medeiafilmes.com/uploads/library/0xf9732bd61bee3cf98fed862992d88031.jpg",
+        "https://medeiafilmes.com/uploads/library/dias-de-ira-plano-critico.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      23.3,
+      34.8,
+      39.7
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/0xe75becfbb2aaeac6e0ba8ba599a2d9c3.jpg",
+      "https://medeiafilmes.com/uploads/library/0xf9732bd61bee3cf98fed862992d88031.jpg",
+      "https://medeiafilmes.com/uploads/library/dias-de-ira-plano-critico.jpg"
+    ],
+    "tmdb_id": "41391"
+  },
+  "Aurora (1927)|1927": {
+    "lbxd": {
+      "rating": 4.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/3/51493-sunrise-a-song-of-two-humans-0-500-0-750-crop.jpg?v=0cf76799f9",
+      "description": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "F. W. Murnau",
+      "lb_director_slug": "f-w-murnau",
+      "lb_year": 1927,
+      "lb_title": "Sunrise: A Song of Two Humans",
+      "backdrop": null,
+      "imdb_id": "tt0018455",
+      "tmdb_id": "631"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Sunrise: A Song of Two Humans",
+      "imdb_id": "tt0018455",
+      "extract_pt": "Sunrise - A Song of Two Humans (bra/prt: Aurora) é um filme mudo de 1927, o primeiro dirigido por F. W. Murnau em Hollywood. Seu roteiro foi adaptado a partir do conto Viagem a Tilsit, do escritor alemão Herrman Suderman, embora nele possam ser inegavelmente encontrados vários elementos do romance Uma história americana, de Theodore Dreiser, lançado dois anos antes e o sucesso comercial literário daquela época nos Estados Unidos.\nUm dos mais importantes filmes da cinematografia mundial, e o até então mais caro lançado pela Fox Film Corporation, Aurora foi laureado com três Oscar em 1929. Recebeu, em 1989, a classificação de significância histórica, estética e cultural pela Biblioteca do Congresso dos Estados Unidos e foi selecionado para preservação pelo British Film Institute."
+    },
+    "cinema": {
+      "original_title": "Sunrise: A Song of Two Humans",
+      "country": "EUA",
+      "year": 1927,
+      "director": "F. W. Murnau"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "631"
+  },
+  "Shining|1980": {
+    "lbxd": {
+      "rating": 4.21,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-500-0-750-crop.jpg?v=88d9d6cce4",
+      "description": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Stanley Kubrick",
+      "lb_director_slug": "stanley-kubrick",
+      "lb_year": 1980,
+      "lb_title": "The Shining",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tm/ta/x1/yh/shining-1920-1920-1080-1080-crop-000000.jpg?v=3eeee4ee5a",
+      "imdb_id": "tt0081505",
+      "tmdb_id": "694"
+    },
+    "omdb": {
+      "Title": "The Shining",
+      "Year": "1980",
+      "Rated": "R",
+      "Released": "13 Jun 1980",
+      "Runtime": "146 min",
+      "Genre": "Drama, Horror",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stephen King, Stanley Kubrick, Diane Johnson",
+      "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+      "Plot": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "6 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,246,582",
+      "imdbID": "tt0081505",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$47,194,352",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Shining",
+      "plot_pt": "Jack Torrence, escritor e antigo professor, aceita trabalhar como guarda do Overlook Hotel, um lugar remoto cujo historial de violência explica o clima de tensão que aí se vive. À medida que o próprio Jack fica cada vez mais perturbado e agressivo, o seu filho, Danny, procura usar os seus poderes telepáticos – o “shining” – para estabelecer uma ligação com o exterior. Ainda que classificá-lo como terror psicológico possa ser redutivo, e as ambiguidades do filme tenham dado lugar às mais diversas interpretações, a vontade de Kubrick em explorar o género é inegável: “Há algo de inerentemente errado com a personalidade humana […] As histórias de terror revelam-nos os arquétipos do inconsciente; conseguimos ver o lado negro sem ter de o confrontar directamente”. Baseado no romance homónimo de Stephen King, que Kubrick extrapola largamente, Shining revela a marca do cineasta ao resistir à ideia de um sentido que não seja o do próprio enigma. Segue, pois, o percurso traçado em 2001: Odisseia no Espaço, de que é “precisamente o remake rarefeito e alucinado” (Enrico Ghezzi, Stanley Kubrick, ed. Il Castoro).",
+      "country": "EUA",
+      "genre": "Drama, Terror",
+      "year": 1980,
+      "director": "Stanley Kubrick",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/stanley-kubricks-the-shining-at-universals-halloween-horror-nights-2017.jpg",
+        "https://medeiafilmes.com/uploads/library/image.jpeg",
+        "https://medeiafilmes.com/uploads/library/hit-the-road-jack-torrance-drives-his-wife-wendy-and-son-danny-to-the-overlook-hotel.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.7,
+      36.6,
+      40.5
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/stanley-kubricks-the-shining-at-universals-halloween-horror-nights-2017.jpg",
+      "https://medeiafilmes.com/uploads/library/image.jpeg",
+      "https://medeiafilmes.com/uploads/library/hit-the-road-jack-torrance-drives-his-wife-wendy-and-son-danny-to-the-overlook-hotel.jpg"
+    ],
+    "tmdb_id": "694"
+  },
+  "Diário de uma Criada de Quarto (1963)|1963": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/6/1/28061-diary-of-a-chambermaid-0-500-0-750-crop.jpg?v=a8c395a3d4",
+      "description": "Celestine has a new job as a chambermaid for the quirky M. Monteil, his wife and her father. When the father dies, Celestine decides to quit her job and leave, but when a young girl is raped and murdered, Celestine believes that the Monteils' groundskeeper, Joseph, is guilty, and stays on in order to prove it. She uses her sexuality and the promise of marriage to get Joseph to confess -- but things do not go as planned.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1964,
+      "lb_title": "Diary of a Chambermaid",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tu/pp/43/ig/diary%20of%20a%20chambermaid-1920-1920-1080-1080-crop-000000.jpg?v=d925374e53",
+      "imdb_id": "tt0058249",
+      "tmdb_id": "36245"
+    },
+    "omdb": {
+      "Title": "Diary of a Chambermaid",
+      "Year": "1965",
+      "Rated": "Not Rated",
+      "Released": "09 Mar 1965",
+      "Runtime": "97 min",
+      "Genre": "Crime, Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Octave Mirbeau, Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Jeanne Moreau, Georges Géret, Michel Piccoli",
+      "Plot": "A sophisticated and self-assured woman from Paris joins a middle-class rural estate as a maid and causes quite a stir among the variously uptight, perverse and violent inhabitants.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVjYTA3MjgtMWVmYS00NjcxLWEwMzUtZTNlNmYzOGI4NDgyXkEyXkFqcGc@._V1_QL75_UY562_CR29,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "10,646",
+      "imdbID": "tt0058249",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Le Journal d’une Femme de Chambre",
+      "plot_pt": "Célèstine entra ao serviço dos Monteil, burgueses de província, mas não simpatiza com eles. Presta-se, no entanto, aos caprichos do velho Monteil, que gosta de a ver de botas. Quando pensa em despedir-se, Célèstine sabe da notícia da violação e morte de uma menina. Desconfia de Joseph, outro empregado dos Monteil e activista da extrema direita, e decide continuar ao serviço para confirmar a culpabilidade dele. Dorme com ele para tentar arrancar-lhe uma confissão. Fabrica provas falsas e faz com que Joseph seja preso. Célèstine casa então com o vizinho, o capitão Mauger, inimigo figadal dos Monteil, enquanto Joseph é libertado pouco tempo depois.",
+      "country": "França, Itália",
+      "genre": "Crime, Drama",
+      "year": 1963,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/le-journal-dune-femme-de-chambre-04jpg.jpg",
+        "https://medeiafilmes.com/uploads/library/ee11d766-5483-47af-b856-e526fd2060f6.jpg",
+        "https://medeiafilmes.com/uploads/library/4f519a0dfccbb54386292a290af2c48d.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.6,
+      25.8,
+      18.1
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/le-journal-dune-femme-de-chambre-04jpg.jpg",
+      "https://medeiafilmes.com/uploads/library/ee11d766-5483-47af-b856-e526fd2060f6.jpg",
+      "https://medeiafilmes.com/uploads/library/4f519a0dfccbb54386292a290af2c48d.jpg"
+    ],
+    "tmdb_id": "36245"
+  },
+  "Raios e Sombras|2026": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/8/9/2/1/1198921-the-rays-and-shadows-0-500-0-750-crop.jpg?v=b586ff48cc",
+      "description": "Jean and Otto, a French newspaperman and a young German Francophile, are fighting for peace in Europe. Jean’s daughter, Corinne, is launching a brilliant acting career in the film world, but war breaks out and France is occupied. The two friends have a major role to play in this new France. Jean becomes a big press baron and an ardent advocate of collaboration with the occupying forces, while Otto becomes the Reich’s ambassador in Paris. Corinne, meanwhile, finds herself thrown into the lion’s pit.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "France",
+      "lb_director": "Xavier Giannoli",
+      "lb_director_slug": "xavier-giannoli",
+      "lb_year": 2026,
+      "lb_title": "The Rays and Shadows",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108",
+      "imdb_id": "tt36187539",
+      "tmdb_id": "1318335"
+    },
+    "omdb": {
+      "Title": "Les rayons et les ombres",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Mar 2026",
+      "Runtime": "195 min",
+      "Genre": "Drama, History",
+      "Director": "Xavier Giannoli",
+      "Writer": "Jacques Fieschi, Xavier Giannoli, Yves Stavrides",
+      "Actors": "Jean Dujardin, Nastya Golubeva Carax, August Diehl",
+      "Plot": "The fates of Jean and Corinne Luchaire, a father and daughter in occupied France. She is a young movie star and he is a prominent journalist but also a friend of the powerful Nazi German ambassador to Paris, Otto Abetz.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU2ZDJiYWYtNThhOS00ZjgxLTliZjUtMDNkYTM1NGQ2MTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36187539",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Les Rayons et les ombres",
+      "plot_pt": "É um dos acontecimentos do ano em França, onde já foi visto por mais de um milhão de espectadores. Durante a ocupação nazi, Jean Luchaire, um jornalista, e a sua filha Corinne, uma estrela de cinema em ascensão, são atraídos para a órbita da elite alemã através da amizade com o embaixador alemão. O novo filme de Xavier Giannoli é um verdadeiro fresco de um dos períodos mais negros da história francesa.",
+      "country": "França",
+      "year": 2026,
+      "director": "Xavier Giannoli"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
+    ],
+    "tmdb_id": "1318335"
+  },
+  "The Loneliest Man in Town|2026": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Loneliest Man in Town",
+      "plot_pt": "O músico de blues Al Cook vive rodeado de memórias. O seu apartamento e estúdio na cave estão repletos de livros, cassetes VHS e discos de vinil. Neste espaço, o tempo parece ter parado, mas o mundo lá fora seguiu em frente. Quando uma imobiliária decide demolir a sua casa, Al Cook vê-se obrigado a libertar-se dos seus tesouros, um a um. Perante a perda total, escolhe um recomeço radical.",
+      "country": "Áustria",
+      "year": 2026,
+      "director": "Tizza Covi e Rainer Frimmel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/tlmit_still_0001_web.jpg",
+        "https://medeiafilmes.com/uploads/library/tlmit_still_0007_web.jpg",
+        "https://medeiafilmes.com/uploads/library/tlmit_still_0005_web.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.7,
+      40.2,
+      41.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0001_web.jpg",
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0007_web.jpg",
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0005_web.jpg"
+    ]
+  },
+  "Barry Lyndon|1975": {
+    "lbxd": {
+      "rating": 4.42,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0f/r6/bn/w7/x2JQCgLjieWOwvImeGtLmuNgsrq-0-500-0-750-crop.jpg?v=9c250ee969",
+      "description": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "UK",
+      "lb_director": "Stanley Kubrick",
+      "lb_director_slug": "stanley-kubrick",
+      "lb_year": 1975,
+      "lb_title": "Barry Lyndon",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/su/h6/e2/cr/barry-lyndon-1920-1920-1080-1080-crop-000000.jpg?v=b70b5426e8",
+      "imdb_id": "tt0072684",
+      "tmdb_id": "3175"
+    },
+    "omdb": {
+      "Title": "Barry Lyndon",
+      "Year": "1975",
+      "Rated": "PG",
+      "Released": "18 Dec 1975",
+      "Runtime": "185 min",
+      "Genre": "Adventure, Drama, War",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick, William Makepeace Thackeray",
+      "Actors": "Ryan O&apos;Neal, Marisa Berenson, Patrick Magee",
+      "Plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+      "Language": "English, German, French",
+      "Country": "United Kingdom, United States",
+      "Awards": "Won 4 Oscars. 18 wins & 14 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "8.1",
+      "imdbVotes": "208,965",
+      "imdbID": "tt0072684",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Barry Lyndon",
+      "plot_pt": "“As personagens de filmes como Barry Lyndon beneficiam de súbito de uma opacidade que provoca uma comoção tão forte que faz delas, a meu ver, personagens de ‘cinema’.” S.D.",
+      "country": "Reino Unido, EUA",
+      "year": 1975,
+      "director": "Stanley Kubrick"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/su/h6/e2/cr/barry-lyndon-1920-1920-1080-1080-crop-000000.jpg?v=b70b5426e8"
+    ],
+    "tmdb_id": "3175"
+  },
+  "O Estrangeiro (1946)|1946": {
+    "lbxd": {
+      "rating": 3.72,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
+      "description": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi, who may be hiding out in a small town in the guise of a distinguished professor engaged to the Supreme Court Justice’s daughter.",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "country": "USA",
+      "lb_director": "Orson Welles",
+      "lb_director_slug": "orson-welles-1",
+      "lb_year": 1946,
+      "lb_title": "The Stranger",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ll/1g/d9/qk/the-stranger-1920-1920-1080-1080-crop-000000.jpg?v=f6471b988f",
+      "imdb_id": "tt0038991",
+      "tmdb_id": "20246"
+    },
+    "omdb": {
+      "Title": "The Stranger",
+      "Year": "1946",
+      "Rated": "Approved",
+      "Released": "01 Aug 1946",
+      "Runtime": "95 min",
+      "Genre": "Crime, Drama, Film-Noir",
+      "Director": "Orson Welles",
+      "Writer": "Anthony Veiller, Victor Trivas, Decla Dunning",
+      "Actors": "Orson Welles, Edward G. Robinson, Loretta Young",
+      "Plot": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi.",
+      "Language": "English, Spanish, French",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGViZjhjNWQtZjY2MS00OTExLThlNDUtYTIwZTgwODdhMDdhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "Metascore": "76",
+      "imdbRating": "7.3",
+      "imdbVotes": "31,275",
+      "imdbID": "tt0038991",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "The Stranger",
+      "plot_pt": "“[sobre O Estrangeiro ser o primeiro filme comercial a mostrar imagens dos campos de concentração] Acho que todas as vezes que conseguimos que os espectadores vejam imagens de um campo de concentração, sob qualquer pretexto, é um passo em frente. As pessoas normalmente não querem saber que essas coisas aconteceram.” – Orson Welles",
+      "country": "EUA",
+      "year": 1946,
+      "director": "Orson Welles"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      27.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/ll/1g/d9/qk/the-stranger-1920-1920-1080-1080-crop-000000.jpg?v=f6471b988f"
+    ],
+    "tmdb_id": "20246"
+  },
+  "Tartufo|1925": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/0/1/10601-tartuffe-0-500-0-750-crop.jpg?v=a4bfdbc6b9",
+      "description": "A young man shows his millionaire grandfather a film based on Molière's play \"Tartuffe\" in order to expose the old man's hypocritical governess who covets the young man's inheritance.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Germany",
+      "lb_director": "F. W. Murnau",
+      "lb_director_slug": "f-w-murnau",
+      "lb_year": 1925,
+      "lb_title": "Tartuffe",
+      "backdrop": null,
+      "imdb_id": "tt0017448",
+      "tmdb_id": "55544"
+    },
+    "omdb": {
+      "Title": "Tartuffe",
+      "Year": "1927",
+      "Rated": "Not Rated",
+      "Released": "24 Jul 1927",
+      "Runtime": "70 min",
+      "Genre": "Comedy, Drama",
+      "Director": "F.W. Murnau",
+      "Writer": "Molière, Carl Mayer",
+      "Actors": "Hermann Picha, Rosa Valetti, André Mattoni",
+      "Plot": "A young man shows his millionaire grandfather a film based on Molière's Tartuffe, in order to expose the old man's hypocritical governess who covets his own inheritance.",
+      "Language": "None, German",
+      "Country": "Germany",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWE4NmNkOTQtZGMwYy00ZTNkLTk0NTAtNjc1ZDY2YzZmYjJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "2,976",
+      "imdbID": "tt0017448",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Tartuffe (1926 film)",
+      "imdb_id": "tt0017448",
+      "extract_pt": "Herr Tartüffe (em Portugal, Tartufo) é um drama Kammerspiel mudo filmado entre fevereiro e abril de 1925 pelo diretor alemão F. W. Murnau.\nO filme estreou em 20 de novembro do mesmo ano, em Viena, Áustria, e somente veio a ser exibido na Alemanha em 25 de janeiro de 1926, por ocasião da inauguração do cinema Gloria-Palast, em Berlim.\nO roteiro do filme, baseado livremente na peça teatral Tartufo ou O impostor, escrita por Molière em 1664, trata de um beato dominado por sentimentos claramente anticlericais que, municiado de uma humildade hipócrita, ludibria e controla um homem casado, culminando com a repressão de sua relação marital fundamentada em princípios pseudorreligiosos."
+    },
+    "cinema": {
+      "original_title": "Herr Tartüff",
+      "country": "Alemanha",
+      "year": 1925,
+      "director": "F. W. Murnau"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "55544"
+  },
+  "Eu Sou Rocky|2026": {
+    "lbxd": {
+      "rating": 3.77,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-500-0-750-crop.jpg?v=d568ec1f72",
+      "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "country": "USA",
+      "lb_director": "Peter Farrelly",
+      "lb_director_slug": "peter-farrelly",
+      "lb_year": 2026,
+      "lb_title": "I Play Rocky",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tu/40/a3/6v/oleqnn5d81MG3Oy1gfqjsbBkA9F-1920-1920-1080-1080-crop-000000.jpg?v=7e57154009",
+      "imdb_id": "tt11995650",
+      "tmdb_id": "1286656"
+    },
+    "omdb": {
+      "Title": "I Play Rocky",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "20 Nov 2026",
+      "Runtime": "N/A",
+      "Genre": "Biography, Drama",
+      "Director": "Peter Farrelly",
+      "Writer": "Peter Gamble",
+      "Actors": "AnnaSophia Robb, Toby Kebbell, Matt Dillon",
+      "Plot": "A failing actor writes the ultimate underdog story and must fight for his chance to play the role of a lifetime - Rocky Balboa.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZlN2IyYjUtM2FhMi00OTQ0LTk5YjktNTdiZGM1ZDg3NzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt11995650",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "I Play Rocky",
+      "plot_pt": "O jovem Sylvester Stallone, actor sem sorte em Hollywood, escreve o argumento de Rocky e recusa vendê-lo se não for ele a protagonizá-lo. A história verdadeira de como um filme improvável se fez, e de como um homem apostou tudo no papel da sua vida.",
+      "country": "EUA",
+      "year": 2026,
+      "director": "Peter Farrelly",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/eusourocky_01_praia.jpg",
+        "https://medeiafilmes.com/uploads/library/eusourocky_02_bracos_no_ar.jpg",
+        "https://medeiafilmes.com/uploads/library/eusourocky_03_taxi_chuva.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      11.4,
+      33.7,
+      35.0
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/eusourocky_01_praia.jpg",
+      "https://medeiafilmes.com/uploads/library/eusourocky_02_bracos_no_ar.jpg",
+      "https://a.ltrbxd.com/resized/sm/upload/tu/40/a3/6v/oleqnn5d81MG3Oy1gfqjsbBkA9F-1920-1920-1080-1080-crop-000000.jpg?v=7e57154009"
+    ],
+    "tmdb_id": "1286656"
+  },
+  "Mr. Klein – Um Homem na Sombra|1976": {
+    "lbxd": {
+      "rating": 4.02,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/0/6/7406-mr-klein-0-500-0-750-crop.jpg?v=3ce59ceab0",
+      "description": "Paris, France, 1942, during the Nazi occupation. Robert Klein, a successful art dealer who benefits from the misfortunes of those who are ruthlessly persecuted, discovers by chance that there is another Robert Klein, apparently a Jewish man; someone with whom he could be mistakenly identified, something dangerous in such harsh times.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "France",
+      "lb_director": "Joseph Losey",
+      "lb_director_slug": "joseph-losey",
+      "lb_year": 1976,
+      "lb_title": "Mr. Klein",
+      "backdrop": null,
+      "imdb_id": "tt0074916",
+      "tmdb_id": "58925"
+    },
+    "omdb": {
+      "Title": "Mr. Klein",
+      "Year": "1976",
+      "Rated": "PG",
+      "Released": "23 Sep 1976",
+      "Runtime": "123 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Joseph Losey",
+      "Writer": "Franco Solinas, Fernando Morandi, Costa-Gavras",
+      "Actors": "Alain Delon, Jeanne Moreau, Francine Bergé",
+      "Plot": "In German-occupied Paris, an immoral art dealer, Robert Klein, leads a life of luxury, until a copy of a Jewish newspaper brings him to the attention of the police, linking him with a mysterious doppelgänger. Will Mr. Klein clear ...",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "3 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMxMTg0OWQtMmQxMi00YWUwLWIxNDktZjIxNjQwMDcxYjgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "10,728",
+      "imdbID": "tt0074916",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$213,769",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Mr. Klein",
+      "plot_pt": "Primeiro filme francês de Joseph Losey e uma das suas obras maiores, Mr. Klein é, segundo o realizador, “uma fábula em forma de aviso”. Klein (Alain Delon, num dos seus melhores papéis) é um negociante de arte oportunista, que se aproveita da Ocupação comprando ao desbarato peças preciosas aos judeus em fuga, até ao momento em que a sua própria identidade é posta em causa, quando é confrontado com a existência de um “outro” Robert Klein, um judeu procurado pela polícia. Neste filme, que é também uma análise do estado policial e uma viagem pelos labirintos da culpa individual e colectiva, que pôs o dedo na ferida sobre o que se passou em França durante a Ocupação, Mr. Klein é um “Sr. Quase-Toda-a-Gente”, que não quer ver, que não quer compreender, aquele que tornou possíveis as grandes atrocidades do século XX.",
+      "country": "França",
+      "genre": "Drama, Crime",
+      "year": 1976,
+      "director": "Joseph Losey",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/modelos-compete2020-feder5.jpg",
+        "https://medeiafilmes.com/uploads/library/klein_3_studiocanal.jpg",
+        "https://medeiafilmes.com/uploads/library/klein_1_studiocanal.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.1,
+      34.4,
+      70.0
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/klein_3_studiocanal.jpg",
+      "https://medeiafilmes.com/uploads/library/klein_1_studiocanal.jpg",
+      "https://medeiafilmes.com/uploads/library/modelos-compete2020-feder5.jpg"
+    ],
+    "tmdb_id": "58925"
+  },
+  "Fausto (1926)|1926": {
+    "lbxd": {
+      "rating": 4.13,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ml/ms/2l/70/qVm0rfvoT72pabRR87AE36kxmR0-0-500-0-750-crop.jpg?v=36bbffd5c5",
+      "description": "God and Satan wager on the soul of a learned and prayerful alchemist as part of their eternal war over Earth.",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Horror"
+      ],
+      "country": "Germany",
+      "lb_director": "F. W. Murnau",
+      "lb_director_slug": "f-w-murnau",
+      "lb_year": 1926,
+      "lb_title": "Faust",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/vh/1l/3a/q1/faust-1920-1920-1080-1080-crop-000000.jpg?v=45dfe6e0c5",
+      "imdb_id": "tt0016847",
+      "tmdb_id": "10728"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Faust (1926 film)",
+      "imdb_id": "tt0016847",
+      "extract_pt": "Faust - Eine Deutsche Volkssage (bra: Fausto) é um filme mudo alemão de 1926, um drama de horror dirigido por F. W. Murnau baseado na obra homônima de Goethe."
+    },
+    "cinema": {
+      "original_title": "Faust: Eine Deutsche Volkssage",
+      "country": "Alemanha",
+      "year": 1926,
+      "director": "F. W. Murnau"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/vh/1l/3a/q1/faust-1920-1920-1080-1080-crop-000000.jpg?v=45dfe6e0c5"
+    ],
+    "tmdb_id": "10728"
+  },
+  "O Fantasma da Liberdade|1974": {
+    "lbxd": {
+      "rating": 3.93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/7/9/2/48792-the-phantom-of-liberty-0-500-0-750-crop.jpg?v=dfa795de23",
+      "description": "This Surrealist film, with a title referencing the Communist Manifesto, strings together short incidents based on the life of director Luis Buñuel. Presented as chance encounters, these loosely related, intersecting situations, all without a consistent protagonist, reach from the 19th century to the 1970s. Touching briefly on subjects such as execution, pedophilia, incest, and sex, the film features an array of characters, including a sick father and incompetent police officers.",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1974,
+      "lb_title": "The Phantom of Liberty",
+      "backdrop": null,
+      "imdb_id": "tt0071487",
+      "tmdb_id": "5558"
+    },
+    "omdb": {
+      "Title": "The Phantom of Liberty",
+      "Year": "1974",
+      "Rated": "R",
+      "Released": "27 Oct 1974",
+      "Runtime": "104 min",
+      "Genre": "Comedy",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Jean-Claude Brialy, Adolfo Celi, Michel Piccoli",
+      "Plot": "A series of surreal sequences that critique morality and society in a stream of consciousness style.",
+      "Language": "Latin, Spanish, French",
+      "Country": "France, Italy",
+      "Awards": "2 wins",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ1ZmU0ZDAtYjAxNS00OTgwLThkMjQtZGJkMzM2ZGYwZTZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "17,502",
+      "imdbID": "tt0071487",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$6,172",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Le fantôme de la liberté",
+      "plot_pt": "Em Toledo ocupada pelas forças napoleónicas, um soldado abraça uma estátua feminina numa igreja. Depois, exige que se abra o caixão. A história é contada por um criado num jardim público, que prefere ler em vez de tomar conta das filhas dos patrões, os Foucault. À noite, o senhor Foucault sofre de insónias, o que o leva a consultar o médico no dia seguinte. A partir daí, a história bifurca-se sucessivamente, num encadeado de sequências surreais e personagens autónomas, que criticam a moralidade e a sociedade. Penúltimo filme de Buñuel, O FANTASMA DA LIBERDADE faz - tão admirável quanto subtilmente - uma síntese de toda a carreira deste cineasta único e ímpar.\nCópia Digital Restaurada",
+      "country": "França",
+      "genre": "Comédia",
+      "year": 1974,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/fb86167a-4c8f-49e7-975e-98b9591700c4.jpg",
+        "https://medeiafilmes.com/uploads/library/bac9829b-eb0b-41ac-a487-31df1938161e.jpg",
+        "https://medeiafilmes.com/uploads/library/b339fd55-43ad-41ba-b9f3-21075d577396.jpg",
+        "https://medeiafilmes.com/uploads/library/fbebd0fe-8271-41bd-b488-91fe14a0d83e.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.9,
+      42.7,
+      35.3
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/fb86167a-4c8f-49e7-975e-98b9591700c4.jpg",
+      "https://medeiafilmes.com/uploads/library/bac9829b-eb0b-41ac-a487-31df1938161e.jpg",
+      "https://medeiafilmes.com/uploads/library/b339fd55-43ad-41ba-b9f3-21075d577396.jpg"
+    ],
+    "tmdb_id": "5558"
+  },
+  "​O Exército das Sombras|1969": {
+    "lbxd": {
+      "rating": 4.35,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/1/6/42416-army-of-shadows-0-500-0-750-crop.jpg?v=2eee689db8",
+      "description": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Jean-Pierre Melville",
+      "lb_director_slug": "jean-pierre-melville",
+      "lb_year": 1969,
+      "lb_title": "Army of Shadows",
+      "backdrop": null,
+      "imdb_id": "tt0064040",
+      "tmdb_id": "15383"
+    },
+    "omdb": {
+      "Title": "Army of Shadows",
+      "Year": "1970",
+      "Rated": "Not Rated",
+      "Released": "19 Jun 1970",
+      "Runtime": "145 min",
+      "Genre": "Drama, War",
+      "Director": "Jean-Pierre Melville",
+      "Writer": "Joseph Kessel, Jean-Pierre Melville",
+      "Actors": "Lino Ventura, Paul Meurisse, Jean-Pierre Cassel",
+      "Plot": "An account of underground resistance fighters in Nazi-occupied France.",
+      "Language": "French, German, English",
+      "Country": "France, Italy",
+      "Awards": "4 wins & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxZGZhOTctM2MyYi00OGZkLTgwOWItNThlNjJkNWEwOWM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "99/100"
+        }
+      ],
+      "Metascore": "99",
+      "imdbRating": "8.1",
+      "imdbVotes": "29,967",
+      "imdbID": "tt0064040",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$861,983",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "L'armée des ombres",
+      "plot_pt": "“Transportei este filme dentro de mim durante 25 anos. Era preciso fazê-lo, e fazê-lo agora, completamente desapaixonadamente, sem o menor vestígio de patriotismo triunfalista. É um pedaço da minha memória, da minha própria carne.” – Jean-Pierre Melville",
+      "country": "França, Itália",
+      "year": 1969,
+      "director": "Jean-Pierre Melville"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "15383"
+  },
+  "O Último dos Homens|1925": {
+    "lbxd": {
+      "rating": 4.02,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/2/4/48524-the-last-laugh-0-500-0-750-crop.jpg?v=531a931a98",
+      "description": "An aging doorman, after being fired from his prestigious job at a luxurious hotel, is forced to face the scorn of his friends, neighbours and society.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "F. W. Murnau",
+      "lb_director_slug": "f-w-murnau",
+      "lb_year": 1924,
+      "lb_title": "The Last Laugh",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rg/wa/o3/oc/last-laugh-1920-1920-1080-1080-crop-000000.jpg?v=38efe0b01a",
+      "imdb_id": "tt0015064",
+      "tmdb_id": "5991"
+    },
+    "omdb": {
+      "Title": "The Last Laugh",
+      "Year": "1925",
+      "Rated": "Not Rated",
+      "Released": "05 Jan 1925",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "F.W. Murnau",
+      "Writer": "Carl Mayer",
+      "Actors": "Emil Jannings, Maly Delschaft, Max Hiller",
+      "Plot": "An aging doorman is forced to face the scorn of his friends, neighbors and society after being fired from his prestigious job at a luxurious hotel.",
+      "Language": "None",
+      "Country": "Germany",
+      "Awards": "2 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU5ODQ5YjMtMWRmMC00MmI0LTgyNjUtY2FhMDcwZTBmOGI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "16,760",
+      "imdbID": "tt0015064",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$94,812",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Last Laugh (1924 film)",
+      "imdb_id": "tt0015064",
+      "extract_pt": "Der letzte Mann (br: A última gargalhada / pt: O últimos dos homens) é um filme alemão de 1924, do gênero Kammerspiel, dirigido por Friedrich Wilhelm Murnau e escrito por Carl Mayer."
+    },
+    "cinema": {
+      "original_title": "Der letzte Mann",
+      "country": "Alemanha",
+      "year": 1925,
+      "director": "Friedrich W. Murnau"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/rg/wa/o3/oc/last-laugh-1920-1920-1080-1080-crop-000000.jpg?v=38efe0b01a"
+    ],
+    "tmdb_id": "5991"
+  },
+  "Os Quatro Cavaleiros do Apocalipse|1962": {
+    "lbxd": {
+      "rating": 3.42,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/1/1/15211-the-four-horsemen-of-the-apocalypse-0-500-0-750-crop.jpg?v=6199baf06f",
+      "description": "In Argentina, one daughter of patriarch Madariaga is married to a Frenchman while the other is married to a German thus leading to a crisis when Nazi Germany occupies France and some Madariaga family members fight on opposite sides.",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Vincente Minnelli",
+      "lb_director_slug": "vincente-minnelli",
+      "lb_year": 1962,
+      "lb_title": "The Four Horsemen of the Apocalypse",
+      "backdrop": null,
+      "imdb_id": "tt0054890",
+      "tmdb_id": "50474"
+    },
+    "omdb": {
+      "Title": "The Four Horsemen of the Apocalypse",
+      "Year": "1962",
+      "Rated": "Approved",
+      "Released": "12 Jul 1962",
+      "Runtime": "153 min",
+      "Genre": "Drama, War",
+      "Director": "Vincente Minnelli",
+      "Writer": "Robert Ardrey, John Gay, Vicente Blasco Ibáñez",
+      "Actors": "Glenn Ford, Ingrid Thulin, Charles Boyer",
+      "Plot": "In Argentina, one daughter of patriarch Madariaga is married to a Frenchman while the other is married to a German thus leading to a crisis when Nazi Germany occupies France and some Madariaga family members fight on opposite sides.",
+      "Language": "English",
+      "Country": "United States, Mexico",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmMxMjgzM2MtNDgyMi00YjNlLThjMTctMzliMGU0MDc2Y2M3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "2,396",
+      "imdbID": "tt0054890",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Four Horsemen of the Apocalypse",
+      "plot_pt": "\"Este Os Quatro Cavaleiros do Apocalipse é um filme flamejante: da lareira ao vento, da chuva aos corpos, dos automóveis a toda a brida pelos campos Elíseos, das galinhas que, no convencional creme francês, saltam muros com o susto (que plano!), da alma de Ingrid Thulin às folhas mortas de Versalhes, da consciência de Glenn Ford (maravilhoso actor), tudo está num desequilíbrio febril num excesso de tensão, numa latência de pulsões [...]\nE se a infernal rede de sentidos que Minnelli constrói neste filme nos empolga (e o filme é empolgante), é apenas porque Minelli sabe o que é a realização, a mise-scène, o que complexifica e torna o cinema cinema. Ele é realizador.Vejam o plano sublime em que a Thulin e Ford dançam no cabaré latino, a maneira franca como, pela dança, cada um deles vai ficando em grande plano frontal, prefigurando os famosos grandes planos do Persona de Bergman, e, a meu ver, com uma bem mais imponderável suspensão do tempo. [um filme] extraordinário.\"\nJorge Silva Melo, Século Passado, Ed. Cotovia",
+      "country": "EUA, México",
+      "year": 1962,
+      "director": "Vincente Minnelli"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "50474"
+  },
+  "A Grande Ilusão|1937": {
+    "lbxd": {
+      "rating": 4.19,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/99/0o/ps/jk/lWg41zE0FVixkNsFgxnlRyvDYv9-0-500-0-750-crop.jpg?v=ac3af61682",
+      "description": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Maréchal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+      "genres": [
+        "War",
+        "Drama",
+        "History"
+      ],
+      "country": "France",
+      "lb_director": "Jean Renoir",
+      "lb_director_slug": "jean-renoir",
+      "lb_year": 1937,
+      "lb_title": "Grand Illusion",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/iu/2k/qd/hv/grand-illusion-1920-1920-1080-1080-crop-000000.jpg?v=80e2cca99f",
+      "imdb_id": "tt0028950",
+      "tmdb_id": "777"
+    },
+    "omdb": {
+      "Title": "Grand Illusion",
+      "Year": "1938",
+      "Rated": "Not Rated",
+      "Released": "12 Sep 1938",
+      "Runtime": "113 min",
+      "Genre": "Drama, War",
+      "Director": "Jean Renoir",
+      "Writer": "Charles Spaak, Jean Renoir",
+      "Actors": "Jean Gabin, Dita Parlo, Pierre Fresnay",
+      "Plot": "During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress.",
+      "Language": "French, German, English, Russian",
+      "Country": "France",
+      "Awards": "Nominated for 1 Oscar. 7 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3MTI5NTk0N15BMl5BanBnXkFtZTgwMjU1MDM5MTE@._V1_QL75_UY562_CR17,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "41,443",
+      "imdbID": "tt0028950",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "La grande illusion",
+      "plot_pt": "“As grandes ilusões são as ilusões do ódio, que divide arbitrariamente os homens que, na realidade, nada separa; a ilusão das fronteiras, com as guerras que daí resultam; a ilusão das raças e das classes sociais.” – André Bazin",
+      "country": "França",
+      "year": 1937,
+      "director": "Jean Renoir"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      31.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/iu/2k/qd/hv/grand-illusion-1920-1920-1080-1080-crop-000000.jpg?v=80e2cca99f"
+    ],
+    "tmdb_id": "777"
+  },
+  "O Canto das Florestas|2025": {
+    "lbxd": {
+      "rating": 3.94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/0/8/6/7/1190867-whispers-in-the-woods-2025-0-500-0-750-crop.jpg?v=388a26f3f3",
+      "description": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": "France",
+      "lb_director": "Vincent Munier",
+      "lb_director_slug": "vincent-munier",
+      "lb_year": 2025,
+      "lb_title": "Whispers in the Woods",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/0/8/6/7/tmdb/8rD2kkOoJ0CHMKcd9MfJu1hgXZn-1920-1920-1080-1080-crop-000000.jpg?v=5c4db73e10",
+      "imdb_id": "tt32368068",
+      "tmdb_id": "1309373"
+    },
+    "omdb": null,
+    "wiki": null,
+    "cinema": {
+      "original_title": "Le chant des forêts",
+      "plot_pt": "Três gerações de naturalistas percorrem as florestas dos Vosges para transmitir um conhecimento construído na observação paciente da vida selvagem, numa celebração da natureza, da memória e do legado entre gerações.",
+      "country": "França",
+      "genre": "Documentário",
+      "year": 2025,
+      "director": "Vincent Munier"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      45.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/0/8/6/7/tmdb/8rD2kkOoJ0CHMKcd9MfJu1hgXZn-1920-1920-1080-1080-crop-000000.jpg?v=5c4db73e10"
+    ],
+    "tmdb_id": "1309373"
+  },
+  "Dr. Estranhoamor|1964": {
+    "lbxd": {
+      "rating": 4.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love--0-500-0-750-crop.jpg?v=c814dfbae0",
+      "description": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "country": "UK",
+      "lb_director": "Stanley Kubrick",
+      "lb_director_slug": "stanley-kubrick",
+      "lb_year": 1964,
+      "lb_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "backdrop": null,
+      "imdb_id": "tt0057012",
+      "tmdb_id": "935"
+    },
+    "omdb": {
+      "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Year": "1964",
+      "Rated": "PG",
+      "Released": "29 Jan 1964",
+      "Runtime": "95 min",
+      "Genre": "Comedy, War",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick, Terry Southern, Peter George",
+      "Actors": "Peter Sellers, George C. Scott, Sterling Hayden",
+      "Plot": "After a rogue U.S. general orders an unauthorized nuclear attack on the Soviet Union, leaders in the War Room race to prevent global catastrophe.",
+      "Language": "English, Russian",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 4 Oscars. 14 wins & 11 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "8.3",
+      "imdbVotes": "555,375",
+      "imdbID": "tt0057012",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$9,440,272",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "plot_pt": "Esta comédia negra sobre o nuclear em plena Guerra Fria é uma das obras-primas de Kubrick, com fabulosas actuações, destacando-se Peter Sellers, que interpreta de forma sublime várias personagens.",
+      "country": "Reino Unido",
+      "year": 1964,
+      "director": "Stanley Kubrick",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/strangelove.jpg",
+        "https://medeiafilmes.com/uploads/library/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964-5.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bzgqwmzu2mwutmzrjni00zmu5lwe4mdmtmgi2mji1zgvkzdc5xkeyxkfqcgdeqxvynjkxmjm5nzc_v1.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      20.3,
+      37.6,
+      38.0
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/strangelove.jpg",
+      "https://medeiafilmes.com/uploads/library/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964-5.jpg",
+      "https://medeiafilmes.com/uploads/library/mv5bzgqwmzu2mwutmzrjni00zmu5lwe4mdmtmgi2mji1zgvkzdc5xkeyxkfqcgdeqxvynjkxmjm5nzc_v1.jpg"
+    ],
+    "tmdb_id": "935"
+  },
+  "Peço a Palavra|1939": {
+    "lbxd": {
+      "rating": 4.16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/8/49888-mr-smith-goes-to-washington-0-500-0-750-crop.jpg?v=f0af323ad6",
+      "description": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Capra",
+      "lb_director_slug": "frank-capra",
+      "lb_year": 1939,
+      "lb_title": "Mr. Smith Goes to Washington",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/ep/yy/ho/c3/mr-smith-goes-to-washington-1920-1920-1080-1080-crop-000000.jpg?v=e2b1d8b956",
+      "imdb_id": "tt0031679",
+      "tmdb_id": "3083"
+    },
+    "omdb": {
+      "Title": "Mr. Smith Goes to Washington",
+      "Year": "1939",
+      "Rated": "Approved",
+      "Released": "19 Oct 1939",
+      "Runtime": "129 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Frank Capra",
+      "Writer": "Sidney Buchman, Lewis R. Foster, Myles Connolly",
+      "Actors": "James Stewart, Jean Arthur, Claude Rains",
+      "Plot": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his c...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 8 wins & 12 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.1",
+      "imdbVotes": "130,675",
+      "imdbID": "tt0031679",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$144,738",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Mr. Smith Goes to Washington",
+      "plot_pt": "O idealista Jefferson Smith é inesperadamente nomeado para um cargo político em Washington. Ingénuo em relação ao sistema, depressa descobre que a corrupção e os interesses instalados imperam no congresso… Entre a defesa dos ideais e a crítica política, o clássico de Frank Capra é um retrato intemporal da integridade face ao poder.",
+      "country": "EUA",
+      "genre": "Drama",
+      "year": 1939,
+      "director": "Frank Capra"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      22.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/ep/yy/ho/c3/mr-smith-goes-to-washington-1920-1920-1080-1080-crop-000000.jpg?v=e2b1d8b956"
+    ],
+    "tmdb_id": "3083"
+  },
+  "A Via Láctea|1969": {
+    "lbxd": {
+      "rating": 3.65,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/8/0/1/28801-the-milky-way-0-500-0-750-crop.jpg?v=b22fca5a70",
+      "description": "Two men, part tramp, part pilgrim, are on their way from France to Santiago de Compostela in Spain. On their way, they meet a vast assortment of characters—some truculent, some violent, and some bizarre; they experience many adventures—some mysterious, some erotic, some even supernatural.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "Germany",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1969,
+      "lb_title": "The Milky Way",
+      "backdrop": null,
+      "imdb_id": "tt0066534",
+      "tmdb_id": "35031"
+    },
+    "omdb": {
+      "Title": "The Milky Way",
+      "Year": "1969",
+      "Rated": "M",
+      "Released": "28 Feb 1969",
+      "Runtime": "105 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Paul Frankeur, Laurent Terzieff, Alain Cuny",
+      "Plot": "Two drifters go on a pilgrimage from France to Santiago de Compostela in Spain. Along the way, they hitchhike, beg for food, and face the Christian dogmas and heresies from different Ages.",
+      "Language": "French, Italian, Latin, Spanish",
+      "Country": "France, Italy, West Germany",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDc4NTJlODctYTg1Ny00ZmI2LTk0MzEtOGQ0NTY1YTIzZDY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "8,256",
+      "imdbID": "tt0066534",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "La voie lactée",
+      "plot_pt": "Pierre e Paul são dois peregrinos que estão a caminho de Santiago de Compostela. É uma viagem no espaço que se desdobra pelo tempo, e que lhes permite percorrer os grandes dogmas que pontuaram a história do catolicismo. Encontram um padre fugido de um asilo psiquiátrico, um chefe de mesa que estuda teologia e testemunham um duelo de esgrima entre um jesuíta e um jansenista. E assistem às Bodas de Canã, à cura falhada de dois cegos por Jesus Cristo, à Virgem Maria a dizer ao filho que se barbeie...",
+      "country": "França, Itália",
+      "genre": "Comédia, Drama",
+      "year": 1969,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/c8ae37fd-368e-4b66-a7d4-dd0b4657a9d71.jpg",
+        "https://medeiafilmes.com/uploads/library/08cf739e-386e-4675-869c-9a1a1a5d01941.jpg",
+        "https://medeiafilmes.com/uploads/library/4613988d-99ff-4cf8-8db3-26c6acb25f9d.jpg",
+        "https://medeiafilmes.com/uploads/library/2cacb87f-5e8d-4f9e-9814-574194a013c0.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      33.1,
+      43.3,
+      49.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/c8ae37fd-368e-4b66-a7d4-dd0b4657a9d71.jpg",
+      "https://medeiafilmes.com/uploads/library/08cf739e-386e-4675-869c-9a1a1a5d01941.jpg",
+      "https://medeiafilmes.com/uploads/library/4613988d-99ff-4cf8-8db3-26c6acb25f9d.jpg"
+    ],
+    "tmdb_id": "35031"
+  },
+  "Psicopata Vitoriana|2026": {
+    "lbxd": {
+      "rating": 3.01,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/5/1/9/4/1265194-victorian-psycho-0-500-0-750-crop.jpg?v=092895bcaf",
+      "description": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Zachary Wigon",
+      "lb_director_slug": "zachary-wigon",
+      "lb_year": 2026,
+      "lb_title": "Victorian Psycho",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/6/5/1/9/4/tmdb/e0fnXg2wzQIwojgguv2hxgWSelB-1920-1920-1080-1080-crop-000000.jpg?v=d3867720d8",
+      "imdb_id": "tt34374553",
+      "tmdb_id": "1379486"
+    },
+    "omdb": {
+      "Title": "Victorian Psycho",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "13 Nov 2026",
+      "Runtime": "102 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Zachary Wigon",
+      "Writer": "Virginia Feito",
+      "Actors": "Maika Monroe, Jason Isaacs, Thomasin McKenzie",
+      "Plot": "In 1858, an eccentric young governess, Winifred Notty, arrives at the remote gothic manor Ensor House. As Winifred assimilates, staff begin to inexplicably disappear, and the owners wonder if something is amiss about this new gove...",
+      "Language": "English",
+      "Country": "United Kingdom, Ireland, United States",
+      "Awards": "2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjdmNmYwMzEtMzJmYS00MDkxLThiNGItZjA0MGJlMjU4MTNmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "Metascore": "52",
+      "imdbRating": "6.1",
+      "imdbVotes": "497",
+      "imdbID": "tt34374553",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      45.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/6/5/1/9/4/tmdb/e0fnXg2wzQIwojgguv2hxgWSelB-1920-1920-1080-1080-crop-000000.jpg?v=d3867720d8"
+    ],
+    "tmdb_id": "1379486"
+  },
+  "Os Christophers|2026": {
+    "lbxd": {
+      "rating": 3.52,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/3/6/8/4/1283684-the-christophers-0-500-0-750-crop.jpg?v=4269379fb4",
+      "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "country": "UK",
+      "lb_director": "Steven Soderbergh",
+      "lb_director_slug": "steven-soderbergh",
+      "lb_year": 2025,
+      "lb_title": "The Christophers",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/si/lj/ip/ns/wn1aZgUN6JP29iPKb7KTykBu6dP-1920-1920-1080-1080-crop-000000.jpg?v=45b780ed77",
+      "imdb_id": "tt34966562",
+      "tmdb_id": "1400357"
+    },
+    "omdb": {
+      "Title": "The Christophers",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "15 May 2026",
+      "Runtime": "100 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Steven Soderbergh",
+      "Writer": "Ed Solomon",
+      "Actors": "Michaela Coel, Ian McKellen, Jessica Gunning",
+      "Plot": "The children of a once famous artist hire a forger to complete some unfinished, long ago abandoned canvases so they'll have an inheritance when he dies.",
+      "Language": "English",
+      "Country": "United Kingdom, United States",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjgyOTAtYjRlNS00NmE4LWE2YTgtZDcxNTBhZGVmMGVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "6.8",
+      "imdbVotes": "6,624",
+      "imdbID": "tt34966562",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$1,807,376",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      18.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/si/lj/ip/ns/wn1aZgUN6JP29iPKb7KTykBu6dP-1920-1920-1080-1080-crop-000000.jpg?v=45b780ed77"
+    ],
+    "tmdb_id": "1400357"
   }
 }
