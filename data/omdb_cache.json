@@ -102085,7 +102085,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "89451",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Les Anges Du Péché|1943": {
     "lbxd": {
@@ -102499,7 +102499,7 @@
       "https://medeiafilmes.com/uploads/library/few_of_us.jpg"
     ],
     "tmdb_id": "138522",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Os Christophers|2025": {
     "lbxd": {
@@ -102585,7 +102585,7 @@
       "https://medeiafilmes.com/uploads/library/the-christophers_still-4_jessica-gunning-and-james-corden_credit-claudette-barius.jpg"
     ],
     "tmdb_id": "1400357",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "A Bela de Dia|1967": {
     "lbxd": {
@@ -102760,7 +102760,7 @@
       "https://medeiafilmes.com/uploads/library/711772.jpg"
     ],
     "tmdb_id": "5781",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Nosferatu (1922)|1922": {
     "lbxd": {
@@ -103000,7 +103000,7 @@
       "https://medeiafilmes.com/uploads/library/dias-de-ira-plano-critico.jpg"
     ],
     "tmdb_id": "41391",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Aurora (1927)|1927": {
     "lbxd": {
@@ -103268,7 +103268,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
     ],
     "tmdb_id": "1318335",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Loneliest Man in Town|2026": {
     "lbxd": null,
@@ -103597,7 +103597,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/tu/40/a3/6v/oleqnn5d81MG3Oy1gfqjsbBkA9F-1920-1920-1080-1080-crop-000000.jpg?v=7e57154009"
     ],
     "tmdb_id": "1286656",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Mr. Klein – Um Homem na Sombra|1976": {
     "lbxd": {
@@ -103877,7 +103877,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "15383",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Último dos Homens|1925": {
     "lbxd": {
@@ -104131,7 +104131,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/0/8/6/7/tmdb/8rD2kkOoJ0CHMKcd9MfJu1hgXZn-1920-1920-1080-1080-crop-000000.jpg?v=5c4db73e10"
     ],
     "tmdb_id": "1309373",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Dr. Estranhoamor|1964": {
     "lbxd": {
@@ -104454,7 +104454,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/6/5/1/9/4/tmdb/e0fnXg2wzQIwojgguv2hxgWSelB-1920-1920-1080-1080-crop-000000.jpg?v=d3867720d8"
     ],
     "tmdb_id": "1379486",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Os Christophers|2026": {
     "lbxd": {
@@ -104580,7 +104580,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Diary of a Chambermaid (1964 film)",
+      "imdb_id": "tt0058249",
+      "extract_pt": "Le journal d'une femme de chambre é um filme francês de 1964 dirigido por Luis Buñuel."
+    },
     "cinema": {
       "original_title": "Le Journal d’une Femme de Chambre",
       "plot_pt": "Célèstine entra ao serviço dos Monteil, burgueses de província, mas não simpatiza com eles. Presta-se, no entanto, aos caprichos do velho Monteil, que gosta de a ver de botas. Quando pensa em despedir-se, Célèstine sabe da notícia da violação e morte de uma menina. Desconfia de Joseph, outro empregado dos Monteil e activista da extrema direita, e decide continuar ao serviço para confirmar a culpabilidade dele. Dorme com ele para tentar arrancar-lhe uma confissão. Fabrica provas falsas e faz com que Joseph seja preso. Célèstine casa então com o vizinho, o capitão Mauger, inimigo figadal dos Monteil, enquanto Joseph é libertado pouco tempo depois.",
@@ -104605,7 +104609,8 @@
       "https://medeiafilmes.com/uploads/library/ee11d766-5483-47af-b856-e526fd2060f6.jpg",
       "https://medeiafilmes.com/uploads/library/4f519a0dfccbb54386292a290af2c48d.jpg"
     ],
-    "tmdb_id": "36245"
+    "tmdb_id": "36245",
+    "wiki_tries": 1
   },
   "O Último dos Homens|1924": {
     "lbxd": {
