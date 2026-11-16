@@ -1367,7 +1367,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Andrei Rublev (film)",
+      "imdb_id": "tt0060107",
+      "extract_pt": "Andrey Rublev é um filme soviético de 1966 dirigido e escrito por Andrei Tarkovsky e co-escrito com Andrei Konchalovsky. O filme é vagamente baseado na vida do pintor russo do século XV Andrei Rublev. O filme é estrelado por Anatoly Solonitsyn, Nikolai Grinko, Ivan Lapikov, Nikolai Burlyayev e por Irma Raush (esposa de Tarkovski). Savva Yamshchikov, um famoso restaurador e historiador artístico russo foi o consultor científico do filme."
+    },
     "cinema": {
       "original_title": "Andrey Rublev",
       "plot_pt": "Um conto medieval arrebatador sobre a vida do maior pintor iconográfico russo. O fresco de um período turbulento do século XV na Rússia, marcado por lutas intermináveis entre príncipes rivais e invasões. Um filme sobre o poder das imagens e das sensações.",
@@ -1392,7 +1396,8 @@
       "https://medeiafilmes.com/uploads/library/and_photo4.jpg",
       "https://medeiafilmes.com/uploads/library/movie-70605198.jpg"
     ],
-    "tmdb_id": "895"
+    "tmdb_id": "895",
+    "wiki_tries": 1
   },
   "Moloch|1999": {
     "lbxd": {
@@ -3303,7 +3308,11 @@
       "tmdb_id": "24657"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Sacrifice (1986 film)",
+      "imdb_id": "tt0091670",
+      "extract_pt": "Offret (em inglês:  The Sacrifice; em francês:  Le sacrifice; bra/prt: O Sacrifício) é um filme de drama sueco, britânico e francês de 1986 escrito e dirigido por Andrei Tarkovsky. Estrelado por Erland Josephson, o filme foi produzido pelo Instituto Sueco de Cinema. Muitos dos membros da equipe eram ex-alunos dos filmes de Ingmar Bergman, incluindo o diretor de fotografia Sven Nykvist. Offret centra-se em um intelectual de meia-idade que tenta negociar com Deus para impedir um iminente holocausto nuclear."
+    },
     "cinema": {
       "original_title": "The Sacrifice",
       "plot_pt": "Alexander, jornalista e intelectual, confessa ao seu filho pequeno a preocupação que sente em relação à falta de espiritualidade no mundo moderno. Na noite do seu aniversário, irrompe a Terceira Guerra Mundial. Num momento de desespero, Alexander vira-se para Deus, argumentando e oferecendo-Lhe tudo para evitar o holocausto nuclear.",
@@ -3328,7 +3337,8 @@
       "https://medeiafilmes.com/uploads/library/o-sacrificio_2.jpeg",
       "https://medeiafilmes.com/uploads/library/o-sacrificio_3.jpeg"
     ],
-    "tmdb_id": "24657"
+    "tmdb_id": "24657",
+    "wiki_tries": 1
   },
   "Antes da Meia-Noite|2013": {
     "lbxd": {
@@ -5687,7 +5697,11 @@
       "tmdb_id": "1394"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Nostalghia",
+      "imdb_id": "tt0086022",
+      "extract_pt": "Nostalgia  (Nostalghia) é um filme ítalo-soviético de 1983, dirigido por Andrei Tarkovsky."
+    },
     "cinema": {
       "original_title": "Nostalghia",
       "plot_pt": "Um poeta russo, sentindo-se aprisionado pela fama e por um casamento infeliz, parte à procura do seu passado cultural em Itália. Viaja pela Toscana com Eugenia, a sua intérprete italiana. Um encontro com Domenico, um velho aparentemente lunático, acaba por permitir ao escritor compreender o segredo da sua própria nostalgia.",
@@ -5711,7 +5725,8 @@
       "https://medeiafilmes.com/uploads/library/nostalgia_2.jpeg",
       "https://a.ltrbxd.com/resized/sm/upload/p8/r4/w2/n6/nostalghia-1920-1920-1080-1080-crop-000000.jpg?v=c7f2cf74d0"
     ],
-    "tmdb_id": "1394"
+    "tmdb_id": "1394",
+    "wiki_tries": 1
   },
   "O Último Padrinho|None": {
     "lbxd": {
@@ -20199,7 +20214,11 @@
       "tmdb_id": "3782"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "Ikiru",
+      "imdb_id": "tt0044741",
+      "extract_pt": "Ikiru (em japonês:  生きる; bra: Viver) é um filme japonês de 1952, do gênero drama, dirigido e coescrito por Akira Kurosawa."
+    },
     "cinema": {
       "original_title": "Ikiru",
       "plot_pt": "“O mais belo, o mais sábio e o mais comovente dos filmes japoneses que me foi dado ver.” – André Bazin",
@@ -20224,7 +20243,8 @@
       "https://medeiafilmes.com/uploads/library/1496199938_1858146299592e330251317.jpg",
       "https://medeiafilmes.com/uploads/library/1496199938_1874745880592e33025123a.jpg"
     ],
-    "tmdb_id": "3782"
+    "tmdb_id": "3782",
+    "wiki_tries": 1
   },
   "YALLA HABIBI !|None": {
     "lbxd": {
@@ -20642,7 +20662,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Mulholland Drive (film)",
+      "imdb_id": "tt0166924",
+      "extract_pt": "Mulholland Drive (prt: Mulholland Drive; bra: Cidade dos Sonhos) é um filme franco-estadunidense de 2001, dos gêneros drama e suspense, escrito e dirigido por David Lynch.\nEstrelado por Naomi Watts e Laura Harring, o filme conta a história de Betty (Naomi Watts), uma aspirante a atriz que se muda para Los Angeles e encontra Rita (Laura Harring), uma misteriosa mulher que acabara de perder a memória num acidente de carro. \nOriginalmente planejado para ser uma série de TV, grande parte da gravação foi feita em 1999. Entretanto, Lynch precisou fazer alterações de forma a transformá-lo num filme, uma vez que o projeto de série foi recusado."
+    },
     "cinema": {
       "original_title": "Mulholland Drive",
       "plot_pt": "Uma história de amor na cidade dos sonhos… De cabelos loiros, Betty Elms acaba de chegar a Hollywood para se tornar uma estrela de cinema, quando conhece uma enigmática mulher morena com amnésia. Entretanto, enquanto as duas tentam desvendar a identidade da segunda mulher, o cineasta Adam Kesher depara-se com problemas sinistros durante o casting do seu último projeto. A visão sedutora e assustadora de David Lynch da fábrica de sonhos que é Los Angeles é uma das verdadeiras obras-primas do novo milénio, uma história de amor, ciúme e vingança como nenhuma outra.",
@@ -20667,7 +20691,8 @@
       "https://medeiafilmes.com/uploads/library/9afe4e31-mulholland-dr-photos-020photo-1536x1024.jpg",
       "https://medeiafilmes.com/uploads/library/7ac940eb-mulholland-dr-photos-016photo-1536x1024.jpg"
     ],
-    "tmdb_id": "1018"
+    "tmdb_id": "1018",
+    "wiki_tries": 1
   },
   "Metropolis|1926": {
     "lbxd": {
@@ -21554,7 +21579,11 @@
       "tmdb_id": "5729"
     },
     "omdb": null,
-    "wiki": null,
+    "wiki": {
+      "title_en": "L'Age d'Or",
+      "imdb_id": "tt0021577",
+      "extract_pt": "A Idade do Ouro (francês: L'âge d'or) é um filme francês de 1930, dirigido por Luis Buñuel e escrito por Salvador Dalí. É o segundo filme de Buñuel. Neste filme merece destaque a participação do pintor Max Ernst, como líder de um grupo de bandidos.\nO que faz a \"A Idade do Ouro\" ser tão polêmico é a forma como Buñuel trata os dogmas da sociedade e, principalmente, da Igreja Católica."
+    },
     "cinema": {
       "original_title": "L’Âge d’Or",
       "plot_pt": "Numa ilha deserta vivem escorpiões e bandidos, ao pé de esqueletos de bispos deixados ao sol. Um cortejo oficial desembarca na ilha, para celebrar o lançamento da primeira pedra da Roma imperial. A cerimónia é perturbada por um casal que se abraça e rola na lama. O homem é preso mas foge, reencontrando a amada numa festa. Enquanto isto acontece, no castelo de Selliny Cristo parece satisfeito por participar nas cerimónias dos Cento e Vinte Dias de Sodoma.",
@@ -21565,7 +21594,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "5729"
+    "tmdb_id": "5729",
+    "wiki_tries": 1
   },
   "As Tears Go By - Ao Sabor da Ambição|1988": {
     "lbxd": {
@@ -28135,7 +28165,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Catherine Deneuve",
+      "imdb_id": null,
+      "extract_pt": "Catherine Fabienne Dorléac, mais conhecida como Catherine Deneuve (Paris, 22 de outubro de 1943), é uma atriz francesa.\nConsiderada uma das maiores atrizes francesas da segunda metade do século XX, foi musa de diretores como Jacques Demy, François Truffaut e André Téchiné. Ela conta em sua filmografia vários outros grandes nomes da história do cinema, como Luis Buñuel, Roman Polanski, Mauro Bolognini, Robert Aldrich, Marco Ferreri, Dino Risi, Tony Scott, Manoel de Oliveira, Raoul Ruiz, Hirokazu Kore-eda e Lars von Trier.\nUma verdadeira atriz camaleoa, ela interpretou muitos papéis marcantes explorando diferentes gêneros, indo da comédia ao drama, do filme histórico ao musical, ou do thriller à fantasia."
+    },
     "cinema": {
       "original_title": "Le dernier métro",
       "plot_pt": "Paris, 1942. No mundo do teatro, durante a ocupação alemã, Lucas Steiner, um judeu alemão refugiado em Paris, vê-se obrigado a exilar-se novamente, deixando a sua mulher, Marion, à frente do prestigioso Théâtre Montmartre. Marion enfrenta enormes desafios para manter o teatro de pé, lutando contra a adversidade e o medo num tempo de incerteza e perigo.",
@@ -28150,7 +28184,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/o2/0l/hx/zc/last-metro-1920-1920-1080-1080-crop-000000.jpg?v=f427fa9b6f"
     ],
-    "tmdb_id": "1716"
+    "tmdb_id": "1716",
+    "wiki_tries": 1
   },
   "Os Quatrocentos Golpes|1959": {
     "lbxd": {
@@ -101660,7 +101695,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "99119",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Vingança De Uma Mulher|2011": {
     "lbxd": {
@@ -101778,7 +101813,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/6n/6g/zy/hi/wp1bwpV9RZOUz8u3mnTvMf8BCIJ-1920-1920-1080-1080-crop-000000.jpg?v=90ad2a0390"
     ],
     "tmdb_id": "217250",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Les Anges Du Péché|1944": {
     "lbxd": {
@@ -101932,7 +101967,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "53523",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Balloonatic|1923": {
     "lbxd": {
@@ -101994,7 +102029,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/i4/96/mi/1d/p3d4YrY1JQyhpEA6B959t9WUwCV-1920-1920-1080-1080-crop-000000.jpg?v=aac431d661"
     ],
     "tmdb_id": "45807",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Vingança De Uma Mulher|2012": {
     "lbxd": {
@@ -102049,7 +102084,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "89451"
+    "tmdb_id": "89451",
+    "wiki_tries": 1
   },
   "Les Anges Du Péché|1943": {
     "lbxd": {
@@ -102139,7 +102175,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Clayface (film)",
+      "imdb_id": "tt34890576",
+      "extract_pt": "Clayface (prt: Clayface; bra: Cara-de-Barro ou Cara de Barro) é um filme de terror norte-americano baseado no personagem homônimo da DC Comics. Dirigido por James Watkins e com roteiro de Mike Flanagan e Hossein Amini, é o terceiro filme do Universo DC (DCU). Tom Rhys Harries estrela como Clayface, ao lado de Naomi Ackie e Max Minghella. Na trama, um ator cujo rosto está desfigurado recorre a uma cientista que transforma seu corpo em argila."
+    },
     "cinema": {
       "original_title": "Clayface",
       "plot_pt": "Um dos filmes de terror do momento, com um papel marcante de Joana Ribeiro. Matt Hagen, um actorem voga, é atacado e desfigurado. Para recuperar a carreira, submete-se a um tratamento experimental.",
@@ -102154,7 +102194,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/8/4/6/3/6/tmdb/xwdGfFO5TsVaRiiiAdatFrbh7bT-1920-1920-1080-1080-crop-000000.jpg?v=f7909fbddd"
     ],
-    "tmdb_id": "1400940"
+    "tmdb_id": "1400940",
+    "wiki_tries": 1
   },
   "The Holy Boy|2025": {
     "lbxd": {
@@ -102207,7 +102248,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Spiral (film)",
+      "imdb_id": "tt23411728",
+      "extract_pt": "L'estranea (em inglês: The Spiral) é um longa-metragem de suspense lançado em 2026 dirigido por Paolo Strippoli, que o co-escreveu com Salvatore de Chirico. Uma co-produção entre Itália, França e Bélgica é estrelado por Jasmine Trinca, uma mulher que se vê envolvida em uma situação perturbadora que a leva a confrontar segredos e acontecimentos de seu passado. O elenco ainda conta com Romana Maggiora Vergano, Adriano Giannini e Valeria Bruni Tedeschi.\nO filme teve sua estreia mundial na competição principal do 83º Festival Internacional de Cinema de Veneza em 26 de novembro de 2026, onde competiu pelo Leão de Ouro; e foi lançado nos cinemas da Itália em 26 de novembro de 2026."
+    },
     "cinema": {
       "original_title": "La valle dei sorrisi",
       "plot_pt": "Sergio, um professor atormentado pelo passado, é transferido para Remis, uma aldeia isolada conhecida como a mais feliz de Itália. Cedo descobre que a aldeia esconde um segredo sombrio e perturbador.",
@@ -102222,7 +102267,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/5/3/4/5/tmdb/yJOeJH8NcOk73q6bY4hbYlC3ybG-1920-1920-1080-1080-crop-000000.jpg?v=29f51ccbe0"
     ],
-    "tmdb_id": "1092936"
+    "tmdb_id": "1092936",
+    "wiki_tries": 1
   },
   "Trainspotting|1996": {
     "lbxd": {
@@ -102282,7 +102328,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Trainspotting (film)",
+      "imdb_id": "tt0117951",
+      "extract_pt": "Trainspotting (Brasil: Trainspotting - Sem Limites / Portugal: Trainspotting) é um filme independente britânico de humor negro e comédia dramática de 1996, dirigido por Danny Boyle, com Ewan McGregor, Ewen Bremner, Jonny Lee Miller, Kevin McKidd, Robert Carlyle e Kelly Macdonald em sua estreia no cinema. É roteirizado em inglês e escocês. Baseado no romance de 1993 de Irvine Welsh e inspirado na produção teatral de mesmo nome, o filme foi lançado no Reino Unido em 23 de fevereiro de 1996.\nO filme acompanha um grupo de viciados em heroína em uma área pobre de Edimburgo, liderados por um psicopata narcisista mentalmente doente e violento que permite sua vida de crime, e sua passagem pela vida."
+    },
     "cinema": {
       "original_title": "Trainspotting",
       "plot_pt": "“Queríamos que o filme tivesse vivacidade, irreverência; quisemos sempre que fosse maior do que a própria vida.” – Danny Boyle",
@@ -102292,7 +102342,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "627"
+    "tmdb_id": "627",
+    "wiki_tries": 1
   },
   "Rocky|1976": {
     "lbxd": {
@@ -102351,7 +102402,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Rocky",
+      "imdb_id": "tt0075148",
+      "extract_pt": "Rocky (bra: Rocky, um Lutador) é um filme americano de 1976 do gênero drama esportivo dirigido por John G. Avildsen, e escrito e estrelado por Sylvester Stallone. É o primeiro filme da franquia Rocky, sendo também estrelado por Talia Shire, Burt Young, Carl Weathers e Burgess Meredith. No filme, Rocky Balboa (Stallone), um modesto lutador de um clube de boxe e que trabalha como cobrador de dívidas para um agiota da Filadélfia, tem uma chance improvável de ganhar o campeonato mundial de pesos pesados, detido pelo imbatível Apollo Creed (Weathers).\nO longa entrou em desenvolvimento em março de 1975, depois que Stallone escreveu o roteiro em três dias."
+    },
     "cinema": {
       "original_title": "Rocky",
       "plot_pt": "“Sabia que aquela não era apenas a minha oportunidade, era a minha vida. Tudo tinha de ser perfeito.” – Sylvester Stallone",
@@ -102366,7 +102421,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/5/1/0/9/0/tmdb/kK9v1wclQxug6ZUJucD4DTaHgVF-1920-1920-1080-1080-crop-000000.jpg?v=5cdbe54164"
     ],
-    "tmdb_id": "1366"
+    "tmdb_id": "1366",
+    "wiki_tries": 1
   },
   "Few of Us|1996": {
     "lbxd": {
@@ -102442,7 +102498,8 @@
       "https://medeiafilmes.com/uploads/library/518a0ba13e781982944695a21ceaf26b.png",
       "https://medeiafilmes.com/uploads/library/few_of_us.jpg"
     ],
-    "tmdb_id": "138522"
+    "tmdb_id": "138522",
+    "wiki_tries": 1
   },
   "Os Christophers|2025": {
     "lbxd": {
@@ -102527,7 +102584,8 @@
       "https://medeiafilmes.com/uploads/library/the-christophers_still-1_michaela-coel-and-ian-mckellen_courtesy-of-neon.jpg",
       "https://medeiafilmes.com/uploads/library/the-christophers_still-4_jessica-gunning-and-james-corden_credit-claudette-barius.jpg"
     ],
-    "tmdb_id": "1400357"
+    "tmdb_id": "1400357",
+    "wiki_tries": 1
   },
   "A Bela de Dia|1967": {
     "lbxd": {
@@ -102583,7 +102641,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Belle de Jour (film)",
+      "imdb_id": "tt0061395",
+      "extract_pt": "Belle de Jour (bra: A Bela da Tarde; prt: A Bela de Dia) é um filme ítalo-francês de 1967, do gênero drama, dirigido por Luis Buñuel, e com roteiro baseado na obra de Joseph Kessel. Séverine é uma burguesa casada com o doutor Pierre, que passa suas tardes trabalhando no bordel de Madame Anaïs."
+    },
     "cinema": {
       "original_title": "Belle de jour",
       "plot_pt": "Adaptação do romance de Joseph Kessel, A BELA DE DIA é um clássico moderno do mestre Luis Buñuel, protagonizado pela magnética Catherine Deneuve. A BELA DE DIA encapsula alguns dos temas recorrentes de Buñuel: sexo e obsessão, sonho e realidade. E burguesias, claro está. Para muitos uma obra resistente, agrupa referências sadomasoquistas e jogos de poder, dos quais se alimenta a história de Séverine (Catherine Deneuve), senhora de alto estatuto social que decide prostituir-se (mas só à tarde...). Os muito singulares encontros com as perversões dos seus clientes permitem-lhe materializar as suas próprias fantasias. Um dos papéis mais famosos de Catherine Deneuve e uma das obras-primas de Buñuel.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCópia Digital Restaurada - 4K",
@@ -102609,7 +102671,8 @@
       "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-002-1-jpg.jpg",
       "https://medeiafilmes.com/uploads/library/belle-de-jour-die-sch-ne-des-tages-studiocanal-collection-blu-ray_khe-2fbelledejour-dieschoenedestagess-3255-2fbelledejour-004-1-jpg.jpg"
     ],
-    "tmdb_id": "649"
+    "tmdb_id": "649",
+    "wiki_tries": 1
   },
   "Este Obscuro Objecto do Desejo|1977": {
     "lbxd": {
@@ -102696,7 +102759,8 @@
       "https://medeiafilmes.com/uploads/library/733d9848-78db-423f-b3b5-08417e53fc91.jpg",
       "https://medeiafilmes.com/uploads/library/711772.jpg"
     ],
-    "tmdb_id": "5781"
+    "tmdb_id": "5781",
+    "wiki_tries": 1
   },
   "Nosferatu (1922)|1922": {
     "lbxd": {
@@ -102825,7 +102889,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Discreet Charm of the Bourgeoisie",
+      "imdb_id": "tt0068361",
+      "extract_pt": "Le charme discret de la bourgeoisie (pt: O charme discreto da burguesia / br: O discreto charme da burguesia) é um filme francês, italiano (Il fascino discreto della borghesia) e espanhol (El discreto encanto de la burguesía) de 1972, dirigido por Luis Buñuel com roteiro original de Jean-Claude Carrière."
+    },
     "cinema": {
       "original_title": "Le charme discret de la bourgeosie",
       "plot_pt": "Os Thevenot e um embaixador vão jantar a casa dos Sénechal, mas enganam-se na data do convite. Vão então a um restaurante, onde também não comem devido à morte súbita do dono. Os Sénechal reiteram o convite para jantar, mas uma súbita vontade de fazer amor obriga a que cheguem atrasados e falhem novamente a refeição. Pelo meio, diversos episódios sucedem: o sonho do sargento, o assassínio de um moribundo por um bispo, a interrupção por misteriosos intrusos ou gangsters. O humor do efeito de repetição acaba por se transformar num angustiante jogo de massacre. À altura da estreia, Robert Benayoun escreveu na Positif que “Buñuel é o único realizador no mundo de quem se pode dizer que cada novo filme é sempre o melhor”. O CHARME DISCRETO DA BURGUESIA é uma fabulosa e virulenta sátira à burguesia.\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nCópia Digital Restaurada",
@@ -102850,7 +102918,8 @@
       "https://medeiafilmes.com/uploads/library/deddd526-3c36-48e8-a3b1-69be300808e9.jpg",
       "https://medeiafilmes.com/uploads/library/cdf95cc5-80f5-4be5-b6c5-187a4363d928.jpg"
     ],
-    "tmdb_id": "4593"
+    "tmdb_id": "4593",
+    "wiki_tries": 1
   },
   "Dia de Cólera|1943": {
     "lbxd": {
@@ -102930,7 +102999,8 @@
       "https://medeiafilmes.com/uploads/library/0xf9732bd61bee3cf98fed862992d88031.jpg",
       "https://medeiafilmes.com/uploads/library/dias-de-ira-plano-critico.jpg"
     ],
-    "tmdb_id": "41391"
+    "tmdb_id": "41391",
+    "wiki_tries": 1
   },
   "Aurora (1927)|1927": {
     "lbxd": {
@@ -103024,7 +103094,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Shining (film)",
+      "imdb_id": "tt0081505",
+      "extract_pt": "The Shining (bra: O Iluminado; prt: Shining) é um filme de terror psicológico de 1980 produzido e dirigido por Stanley Kubrick e co-escrito com a romancista Diane Johnson. O filme é baseado no romance homônimo de Stephen King, de 1977, e estrelado por Jack Nicholson, Shelley Duvall, Scatman Crothers e Danny Lloyd.\nO personagem central de The Shining é Jack Torrance (Nicholson), um aspirante a escritor e alcoólatra em recuperação, que aceita uma posição como cuidador de entressafra do isolado histórico Overlook Hotel nas Montanhas Rochosas do Colorado. No inverno, Jack está com sua esposa, Wendy Torrance (Duvall) e o jovem filho Danny Torrance (Lloyd)."
+    },
     "cinema": {
       "original_title": "The Shining",
       "plot_pt": "Jack Torrence, escritor e antigo professor, aceita trabalhar como guarda do Overlook Hotel, um lugar remoto cujo historial de violência explica o clima de tensão que aí se vive. À medida que o próprio Jack fica cada vez mais perturbado e agressivo, o seu filho, Danny, procura usar os seus poderes telepáticos – o “shining” – para estabelecer uma ligação com o exterior. Ainda que classificá-lo como terror psicológico possa ser redutivo, e as ambiguidades do filme tenham dado lugar às mais diversas interpretações, a vontade de Kubrick em explorar o género é inegável: “Há algo de inerentemente errado com a personalidade humana […] As histórias de terror revelam-nos os arquétipos do inconsciente; conseguimos ver o lado negro sem ter de o confrontar directamente”. Baseado no romance homónimo de Stephen King, que Kubrick extrapola largamente, Shining revela a marca do cineasta ao resistir à ideia de um sentido que não seja o do próprio enigma. Segue, pois, o percurso traçado em 2001: Odisseia no Espaço, de que é “precisamente o remake rarefeito e alucinado” (Enrico Ghezzi, Stanley Kubrick, ed. Il Castoro).",
@@ -103049,7 +103123,8 @@
       "https://medeiafilmes.com/uploads/library/image.jpeg",
       "https://medeiafilmes.com/uploads/library/hit-the-road-jack-torrance-drives-his-wife-wendy-and-son-danny-to-the-overlook-hotel.jpg"
     ],
-    "tmdb_id": "694"
+    "tmdb_id": "694",
+    "wiki_tries": 1
   },
   "Diário de uma Criada de Quarto (1963)|1963": {
     "lbxd": {
@@ -103192,7 +103267,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
     ],
-    "tmdb_id": "1318335"
+    "tmdb_id": "1318335",
+    "wiki_tries": 1
   },
   "The Loneliest Man in Town|2026": {
     "lbxd": null,
@@ -103280,7 +103356,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Barry Lyndon",
+      "imdb_id": "tt0072684",
+      "extract_pt": "Barry Lyndon é um filme de drama anglo-estadunidense de 1975, dirigido por Stanley Kubrick, com roteiro baseado no romance As Memórias de Barry Lyndon, de William Makepeace Thackeray.\nFoi o primeiro filme de Kubrick após o lançamento do controverso Laranja Mecânica. E, apesar de algumas nomeações a prêmios importantes, jamais gozou do mesmo êxito que obtiveram os demais filmes do diretor. A iluminação deste filme foi inteiramente feita sob luz de velas e natural."
+    },
     "cinema": {
       "original_title": "Barry Lyndon",
       "plot_pt": "“As personagens de filmes como Barry Lyndon beneficiam de súbito de uma opacidade que provoca uma comoção tão forte que faz delas, a meu ver, personagens de ‘cinema’.” S.D.",
@@ -103295,7 +103375,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/su/h6/e2/cr/barry-lyndon-1920-1920-1080-1080-crop-000000.jpg?v=b70b5426e8"
     ],
-    "tmdb_id": "3175"
+    "tmdb_id": "3175",
+    "wiki_tries": 1
   },
   "O Estrangeiro (1946)|1946": {
     "lbxd": {
@@ -103355,7 +103436,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Stranger (1946 film)",
+      "imdb_id": "tt0038991",
+      "extract_pt": "The Stranger (prt: O Estrangeiro; bra: O Estranho) é um filme estadunidense de 1946, do gênero suspense em estilo noir, escrito (entre outros), dirigido e estrelado por Orson Welles.\nTraz imagens de campos de concentração na II Guerra Mundial. Depois de Cidadão Kane, foi o filme de Welles mais bem acolhido pelo público, mas ainda assim não conseguiu lucros no lançamento para os produtores. O filme atualmente está sob domínio público."
+    },
     "cinema": {
       "original_title": "The Stranger",
       "plot_pt": "“[sobre O Estrangeiro ser o primeiro filme comercial a mostrar imagens dos campos de concentração] Acho que todas as vezes que conseguimos que os espectadores vejam imagens de um campo de concentração, sob qualquer pretexto, é um passo em frente. As pessoas normalmente não querem saber que essas coisas aconteceram.” – Orson Welles",
@@ -103370,7 +103455,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/ll/1g/d9/qk/the-stranger-1920-1920-1080-1080-crop-000000.jpg?v=f6471b988f"
     ],
-    "tmdb_id": "20246"
+    "tmdb_id": "20246",
+    "wiki_tries": 1
   },
   "Tartufo|1925": {
     "lbxd": {
@@ -103510,7 +103596,8 @@
       "https://medeiafilmes.com/uploads/library/eusourocky_02_bracos_no_ar.jpg",
       "https://a.ltrbxd.com/resized/sm/upload/tu/40/a3/6v/oleqnn5d81MG3Oy1gfqjsbBkA9F-1920-1920-1080-1080-crop-000000.jpg?v=7e57154009"
     ],
-    "tmdb_id": "1286656"
+    "tmdb_id": "1286656",
+    "wiki_tries": 1
   },
   "Mr. Klein – Um Homem na Sombra|1976": {
     "lbxd": {
@@ -103563,7 +103650,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Monsieur Klein",
+      "imdb_id": "tt0074916",
+      "extract_pt": "Monsieur Klein (prt: Um Homem na Sombra) é um filme franco-italiano de 1976, do gênero drama, dirigido por Joseph Losey."
+    },
     "cinema": {
       "original_title": "Mr. Klein",
       "plot_pt": "Primeiro filme francês de Joseph Losey e uma das suas obras maiores, Mr. Klein é, segundo o realizador, “uma fábula em forma de aviso”. Klein (Alain Delon, num dos seus melhores papéis) é um negociante de arte oportunista, que se aproveita da Ocupação comprando ao desbarato peças preciosas aos judeus em fuga, até ao momento em que a sua própria identidade é posta em causa, quando é confrontado com a existência de um “outro” Robert Klein, um judeu procurado pela polícia. Neste filme, que é também uma análise do estado policial e uma viagem pelos labirintos da culpa individual e colectiva, que pôs o dedo na ferida sobre o que se passou em França durante a Ocupação, Mr. Klein é um “Sr. Quase-Toda-a-Gente”, que não quer ver, que não quer compreender, aquele que tornou possíveis as grandes atrocidades do século XX.",
@@ -103588,7 +103679,8 @@
       "https://medeiafilmes.com/uploads/library/klein_1_studiocanal.jpg",
       "https://medeiafilmes.com/uploads/library/modelos-compete2020-feder5.jpg"
     ],
-    "tmdb_id": "58925"
+    "tmdb_id": "58925",
+    "wiki_tries": 1
   },
   "Fausto (1926)|1926": {
     "lbxd": {
@@ -103683,7 +103775,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Phantom of Liberty",
+      "imdb_id": "tt0071487",
+      "extract_pt": "Le Fantôme de la liberté (bra/prt: O Fantasma da Liberdade) é um filme franco-italiano de 1974, do gênero comédia dramática, dirigido por Luis Buñuel e estrelado por Adriana Asti, Julien Bertheau e Jean-Claude Brialy.\nO filme divide-se em 14 capítulos unidos por uma personagem diferente. Buñuel já tinha provado esta forma de dirigir em L'Âge d'Or, com os amantes como fio conductor."
+    },
     "cinema": {
       "original_title": "Le fantôme de la liberté",
       "plot_pt": "Em Toledo ocupada pelas forças napoleónicas, um soldado abraça uma estátua feminina numa igreja. Depois, exige que se abra o caixão. A história é contada por um criado num jardim público, que prefere ler em vez de tomar conta das filhas dos patrões, os Foucault. À noite, o senhor Foucault sofre de insónias, o que o leva a consultar o médico no dia seguinte. A partir daí, a história bifurca-se sucessivamente, num encadeado de sequências surreais e personagens autónomas, que criticam a moralidade e a sociedade. Penúltimo filme de Buñuel, O FANTASMA DA LIBERDADE faz - tão admirável quanto subtilmente - uma síntese de toda a carreira deste cineasta único e ímpar.\nCópia Digital Restaurada",
@@ -103709,7 +103805,8 @@
       "https://medeiafilmes.com/uploads/library/bac9829b-eb0b-41ac-a487-31df1938161e.jpg",
       "https://medeiafilmes.com/uploads/library/b339fd55-43ad-41ba-b9f3-21075d577396.jpg"
     ],
-    "tmdb_id": "5558"
+    "tmdb_id": "5558",
+    "wiki_tries": 1
   },
   "​O Exército das Sombras|1969": {
     "lbxd": {
@@ -103779,7 +103876,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "15383"
+    "tmdb_id": "15383",
+    "wiki_tries": 1
   },
   "O Último dos Homens|1925": {
     "lbxd": {
@@ -103904,7 +104002,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Four Horsemen of the Apocalypse (1962 film)",
+      "imdb_id": "tt0054890",
+      "extract_pt": "Os Quatro Cavaleiros do Apocalipse (The Four Horsemen of the Apocalypse) é um filme méxico-estadunidense de 1962, dirigido por Vincente Minnelli, baseado na obra homônima de Vicente Blasco Ibáñez."
+    },
     "cinema": {
       "original_title": "Four Horsemen of the Apocalypse",
       "plot_pt": "\"Este Os Quatro Cavaleiros do Apocalipse é um filme flamejante: da lareira ao vento, da chuva aos corpos, dos automóveis a toda a brida pelos campos Elíseos, das galinhas que, no convencional creme francês, saltam muros com o susto (que plano!), da alma de Ingrid Thulin às folhas mortas de Versalhes, da consciência de Glenn Ford (maravilhoso actor), tudo está num desequilíbrio febril num excesso de tensão, numa latência de pulsões [...]\nE se a infernal rede de sentidos que Minnelli constrói neste filme nos empolga (e o filme é empolgante), é apenas porque Minelli sabe o que é a realização, a mise-scène, o que complexifica e torna o cinema cinema. Ele é realizador.Vejam o plano sublime em que a Thulin e Ford dançam no cabaré latino, a maneira franca como, pela dança, cada um deles vai ficando em grande plano frontal, prefigurando os famosos grandes planos do Persona de Bergman, e, a meu ver, com uma bem mais imponderável suspensão do tempo. [um filme] extraordinário.\"\nJorge Silva Melo, Século Passado, Ed. Cotovia",
@@ -103914,7 +104016,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "50474"
+    "tmdb_id": "50474",
+    "wiki_tries": 1
   },
   "A Grande Ilusão|1937": {
     "lbxd": {
@@ -103971,7 +104074,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "La Grande Illusion",
+      "imdb_id": "tt0028950",
+      "extract_pt": "La Grande Illusion (prt/bra: A Grande Ilusão) é um filme francês de 1937, do gênero drama de guerra, dirigido por Jean Renoir, com roteiro dele e Charles Spaak. A trama segue três pilotos franceses da Primeira Guerra Mundial que são capturados pelos alemães e entram entram em choque com oficial que comanda o campo.\nSegundo Renoir, que lutou na Primeira Guerra Mundial, esse filme é baseado em histórias reais, principalmente aquelas referentes ao personagem Pinsard, que conseguiu fugir de vários campos de prisioneiros e teria até salvo sua vida. Trata-se de um dos maiores clássicos do cinema, citado com frequência em várias enciclopédias cinematográficas."
+    },
     "cinema": {
       "original_title": "La grande illusion",
       "plot_pt": "“As grandes ilusões são as ilusões do ódio, que divide arbitrariamente os homens que, na realidade, nada separa; a ilusão das fronteiras, com as guerras que daí resultam; a ilusão das raças e das classes sociais.” – André Bazin",
@@ -103986,7 +104093,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/iu/2k/qd/hv/grand-illusion-1920-1920-1080-1080-crop-000000.jpg?v=80e2cca99f"
     ],
-    "tmdb_id": "777"
+    "tmdb_id": "777",
+    "wiki_tries": 1
   },
   "O Canto das Florestas|2025": {
     "lbxd": {
@@ -104022,7 +104130,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/0/8/6/7/tmdb/8rD2kkOoJ0CHMKcd9MfJu1hgXZn-1920-1920-1080-1080-crop-000000.jpg?v=5c4db73e10"
     ],
-    "tmdb_id": "1309373"
+    "tmdb_id": "1309373",
+    "wiki_tries": 1
   },
   "Dr. Estranhoamor|1964": {
     "lbxd": {
@@ -104082,7 +104191,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Stanley Kubrick filmography",
+      "imdb_id": null,
+      "extract_pt": "A filmografia do cineasta, roteirista e produtor norte-americano Stanley Kubrick (1928–1999) se iniciou em 1951, quando dirigiu o curta-metragem Day of the Fight, mas só dirigiu um longa-metragem no ano seguinte, em 1952, Fear and Desire, na época, Kubrick era fotógrafo da revista americana Look, a ajuda monetária de seu tio Martin Perveler, tio do diretor e proprietário de uma lucrativa farmácia. Seu trabalho como diretor abrangeu diversos gêneros, como terror, drama, ficção científica, comédia, história, guerra, épico e entre outros.\nKubrick dirigiu treze filmes e três curtas-metragens ao longo de sua carreira, que durou 47 anos. Diversas indicações e  ao Óscar e outros prêmios importantes na indústria surgiram ao longo desta trajetória, além de diversas polêmicas."
+    },
     "cinema": {
       "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
       "plot_pt": "Esta comédia negra sobre o nuclear em plena Guerra Fria é uma das obras-primas de Kubrick, com fabulosas actuações, destacando-se Peter Sellers, que interpreta de forma sublime várias personagens.",
@@ -104106,7 +104219,8 @@
       "https://medeiafilmes.com/uploads/library/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964-5.jpg",
       "https://medeiafilmes.com/uploads/library/mv5bzgqwmzu2mwutmzrjni00zmu5lwe4mdmtmgi2mji1zgvkzdc5xkeyxkfqcgdeqxvynjkxmjm5nzc_v1.jpg"
     ],
-    "tmdb_id": "935"
+    "tmdb_id": "935",
+    "wiki_tries": 1
   },
   "Peço a Palavra|1939": {
     "lbxd": {
@@ -104166,7 +104280,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Mr. Smith Goes to Washington",
+      "imdb_id": "tt0031679",
+      "extract_pt": "Mr. Smith Goes to Washington (bra: A Mulher Faz o Homem / pt: Peço a Palavra) é um filme estadunidense de 1939, do gênero drama, dirigido por Frank Capra."
+    },
     "cinema": {
       "original_title": "Mr. Smith Goes to Washington",
       "plot_pt": "O idealista Jefferson Smith é inesperadamente nomeado para um cargo político em Washington. Ingénuo em relação ao sistema, depressa descobre que a corrupção e os interesses instalados imperam no congresso… Entre a defesa dos ideais e a crítica política, o clássico de Frank Capra é um retrato intemporal da integridade face ao poder.",
@@ -104182,7 +104300,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/ep/yy/ho/c3/mr-smith-goes-to-washington-1920-1920-1080-1080-crop-000000.jpg?v=e2b1d8b956"
     ],
-    "tmdb_id": "3083"
+    "tmdb_id": "3083",
+    "wiki_tries": 1
   },
   "A Via Láctea|1969": {
     "lbxd": {
@@ -104238,7 +104357,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Milky Way (1969 film)",
+      "imdb_id": "tt0066534",
+      "extract_pt": "La voie lactée é um filme franco-italiano de 1969, do gênero comédia dramática, dirigido por Luis Buñuel."
+    },
     "cinema": {
       "original_title": "La voie lactée",
       "plot_pt": "Pierre e Paul são dois peregrinos que estão a caminho de Santiago de Compostela. É uma viagem no espaço que se desdobra pelo tempo, e que lhes permite percorrer os grandes dogmas que pontuaram a história do catolicismo. Encontram um padre fugido de um asilo psiquiátrico, um chefe de mesa que estuda teologia e testemunham um duelo de esgrima entre um jesuíta e um jansenista. E assistem às Bodas de Canã, à cura falhada de dois cegos por Jesus Cristo, à Virgem Maria a dizer ao filho que se barbeie...",
@@ -104264,7 +104387,8 @@
       "https://medeiafilmes.com/uploads/library/08cf739e-386e-4675-869c-9a1a1a5d01941.jpg",
       "https://medeiafilmes.com/uploads/library/4613988d-99ff-4cf8-8db3-26c6acb25f9d.jpg"
     ],
-    "tmdb_id": "35031"
+    "tmdb_id": "35031",
+    "wiki_tries": 1
   },
   "Psicopata Vitoriana|2026": {
     "lbxd": {
@@ -104329,7 +104453,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/6/5/1/9/4/tmdb/e0fnXg2wzQIwojgguv2hxgWSelB-1920-1920-1080-1080-crop-000000.jpg?v=d3867720d8"
     ],
-    "tmdb_id": "1379486"
+    "tmdb_id": "1379486",
+    "wiki_tries": 1
   },
   "Os Christophers|2026": {
     "lbxd": {
@@ -104400,5 +104525,159 @@
       "https://a.ltrbxd.com/resized/sm/upload/si/lj/ip/ns/wn1aZgUN6JP29iPKb7KTykBu6dP-1920-1920-1080-1080-crop-000000.jpg?v=45b780ed77"
     ],
     "tmdb_id": "1400357"
+  },
+  "Diário de uma Criada de Quarto (1963)|1964": {
+    "lbxd": {
+      "rating": 3.68,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/0/6/1/28061-diary-of-a-chambermaid-0-500-0-750-crop.jpg?v=a8c395a3d4",
+      "description": "Celestine has a new job as a chambermaid for the quirky M. Monteil, his wife and her father. When the father dies, Celestine decides to quit her job and leave, but when a young girl is raped and murdered, Celestine believes that the Monteils' groundskeeper, Joseph, is guilty, and stays on in order to prove it. She uses her sexuality and the promise of marriage to get Joseph to confess -- but things do not go as planned.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Luis Buñuel",
+      "lb_director_slug": "luis-bunuel",
+      "lb_year": 1964,
+      "lb_title": "Diary of a Chambermaid",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/tu/pp/43/ig/diary%20of%20a%20chambermaid-1920-1920-1080-1080-crop-000000.jpg?v=d925374e53",
+      "imdb_id": "tt0058249",
+      "tmdb_id": "36245"
+    },
+    "omdb": {
+      "Title": "Diary of a Chambermaid",
+      "Year": "1965",
+      "Rated": "Not Rated",
+      "Released": "09 Mar 1965",
+      "Runtime": "97 min",
+      "Genre": "Crime, Drama",
+      "Director": "Luis Buñuel",
+      "Writer": "Octave Mirbeau, Luis Buñuel, Jean-Claude Carrière",
+      "Actors": "Jeanne Moreau, Georges Géret, Michel Piccoli",
+      "Plot": "A sophisticated and self-assured woman from Paris joins a middle-class rural estate as a maid and causes quite a stir among the variously uptight, perverse and violent inhabitants.",
+      "Language": "French",
+      "Country": "France, Italy",
+      "Awards": "1 win & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVjYTA3MjgtMWVmYS00NjcxLWEwMzUtZTNlNmYzOGI4NDgyXkEyXkFqcGc@._V1_QL75_UY562_CR29,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "10,646",
+      "imdbID": "tt0058249",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Le Journal d’une Femme de Chambre",
+      "plot_pt": "Célèstine entra ao serviço dos Monteil, burgueses de província, mas não simpatiza com eles. Presta-se, no entanto, aos caprichos do velho Monteil, que gosta de a ver de botas. Quando pensa em despedir-se, Célèstine sabe da notícia da violação e morte de uma menina. Desconfia de Joseph, outro empregado dos Monteil e activista da extrema direita, e decide continuar ao serviço para confirmar a culpabilidade dele. Dorme com ele para tentar arrancar-lhe uma confissão. Fabrica provas falsas e faz com que Joseph seja preso. Célèstine casa então com o vizinho, o capitão Mauger, inimigo figadal dos Monteil, enquanto Joseph é libertado pouco tempo depois.",
+      "country": "França, Itália",
+      "genre": "Crime, Drama",
+      "year": 1963,
+      "director": "Luis Buñuel",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/le-journal-dune-femme-de-chambre-04jpg.jpg",
+        "https://medeiafilmes.com/uploads/library/ee11d766-5483-47af-b856-e526fd2060f6.jpg",
+        "https://medeiafilmes.com/uploads/library/4f519a0dfccbb54386292a290af2c48d.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      25.6,
+      25.8,
+      18.1
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/le-journal-dune-femme-de-chambre-04jpg.jpg",
+      "https://medeiafilmes.com/uploads/library/ee11d766-5483-47af-b856-e526fd2060f6.jpg",
+      "https://medeiafilmes.com/uploads/library/4f519a0dfccbb54386292a290af2c48d.jpg"
+    ],
+    "tmdb_id": "36245"
+  },
+  "O Último dos Homens|1924": {
+    "lbxd": {
+      "rating": 4.02,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/5/2/4/48524-the-last-laugh-0-500-0-750-crop.jpg?v=531a931a98",
+      "description": "An aging doorman, after being fired from his prestigious job at a luxurious hotel, is forced to face the scorn of his friends, neighbours and society.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Germany",
+      "lb_director": "F. W. Murnau",
+      "lb_director_slug": "f-w-murnau",
+      "lb_year": 1924,
+      "lb_title": "The Last Laugh",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/rg/wa/o3/oc/last-laugh-1920-1920-1080-1080-crop-000000.jpg?v=38efe0b01a",
+      "imdb_id": "tt0015064",
+      "tmdb_id": "5991"
+    },
+    "omdb": {
+      "Title": "The Last Laugh",
+      "Year": "1925",
+      "Rated": "Not Rated",
+      "Released": "05 Jan 1925",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "F.W. Murnau",
+      "Writer": "Carl Mayer",
+      "Actors": "Emil Jannings, Maly Delschaft, Max Hiller",
+      "Plot": "An aging doorman is forced to face the scorn of his friends, neighbors and society after being fired from his prestigious job at a luxurious hotel.",
+      "Language": "None",
+      "Country": "Germany",
+      "Awards": "2 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU5ODQ5YjMtMWRmMC00MmI0LTgyNjUtY2FhMDcwZTBmOGI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "16,760",
+      "imdbID": "tt0015064",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$94,812",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Last Laugh (1924 film)",
+      "imdb_id": "tt0015064",
+      "extract_pt": "Der letzte Mann (br: A última gargalhada / pt: O últimos dos homens) é um filme alemão de 1924, do gênero Kammerspiel, dirigido por Friedrich Wilhelm Murnau e escrito por Carl Mayer."
+    },
+    "cinema": {
+      "original_title": "Der letzte Mann",
+      "country": "Alemanha",
+      "year": 1925,
+      "director": "Friedrich W. Murnau"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      46.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/rg/wa/o3/oc/last-laugh-1920-1920-1080-1080-crop-000000.jpg?v=38efe0b01a"
+    ],
+    "tmdb_id": "5991"
   }
 }
