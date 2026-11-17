@@ -104821,5 +104821,69 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/1/0/9/6/tmdb/lOZJaGCrDUO5NK6PBQ3IhhoVR2z-1920-1920-1080-1080-crop-000000.jpg?v=94f9418989"
     ],
     "tmdb_id": "1514891"
+  },
+  "MEMÓRIA DE RAPARIGA|2026": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/1/0/9/6/1391096-a-girls-story-0-500-0-750-crop.jpg?v=906f5fa6aa",
+      "description": "During a book signing in Normandy, Annie Ernaux, 70, revisits her memories of the summer of 1958, when she was 17. That summer, she left her hometown to work as a camp counsellor. At the first party, the head counsellor set out to deflower her. Finding him handsome, she lets him do it, as if against her will... Her body becomes a foreign place for her, an offering to be sacrificed.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Judith Godrèche",
+      "lb_director_slug": "judith-godreche",
+      "lb_year": 2026,
+      "lb_title": "A Girl’s Story",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/1/0/9/6/tmdb/lOZJaGCrDUO5NK6PBQ3IhhoVR2z-1920-1920-1080-1080-crop-000000.jpg?v=94f9418989",
+      "imdb_id": "tt39088978",
+      "tmdb_id": "1514891"
+    },
+    "omdb": {
+      "Title": "Mémoire de fille",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "30 Sep 2026",
+      "Runtime": "117 min",
+      "Genre": "Drama",
+      "Director": "Judith Godrèche",
+      "Writer": "Annie Ernaux, Judith Godrèche",
+      "Actors": "Tess Barthélémy, Valérie Dréville, Victor Bonnel",
+      "Plot": "Annie Ernaux is invited to a book signing. On her way, she is overcome by a feeling of dizziness and is plunged back into the memory of the summer of 1958, the summer of her first night with a man.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYzYTk3NzMtYTEzZC00ZWVkLTlhYWEtZjY4ZDMzY2FmN2VjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.9",
+      "imdbVotes": "20",
+      "imdbID": "tt39088978",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "César Award for Best Supporting Actress",
+      "imdb_id": null,
+      "extract_pt": "O César de melhor atriz secundária (em francês: César de la meilleure actrice dans un second rôle) é um prémio cinematográfico atribuído anualmente desde 1976, pela academia dos Césares, à melhor atriz num papel secundário de um filme de produção francesa.\nAlgumas atrizes venceram esta categoria mais de uma vez:\n\nTrês vezes: Dominique Blanc (1991, 1993, 1999)\nDuas vezes: Marie-France Pisier (1976, 1977), Nathalie Baye (1981, 1982), Suzanne Flon (1984, 1990), Valérie Lemercier (1994, 2007), Annie Girardot (1996, 2002), Julie Depardieu (2004, 2008) e Anne Alvaro (2001, 2011)\nA atriz que mais vezes foi nomeada a este prémio é Dominique Blanc, obtendo no total 5 nomeações. Seguidas por:\n\n4 nomeações: Noémie Lvovsky, Stéphane Audran, Dominique Lavanant, Karin Viard;\n3 nomeações: Julie Depardieu, Valérie Lemercier, Danielle Darrieux, Agnès Jaoui, Line Renaud, Catherine Frot, Marie Trintignant;\n2 nomeações: Isabelle Nanty, Ludivine Sagnier, Myriam Boyer,  Mylène Demongeot, Anne Consigny, Jeanne Balibar, Clémentine Célarié, Michèle Laroque, Nelly Borgeaud, Bernadette Lafont, Hélène Vincent, Nicole Garcia, Annie Girardot, Judith Godrèche, Suzanne Flon, Carmen Maura.\nEm 2015, a atriz Kristen Stewart fez história ao ser a primeira atriz norte-americana indicada ao César em 30 anos."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      44.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/1/0/9/6/tmdb/lOZJaGCrDUO5NK6PBQ3IhhoVR2z-1920-1920-1080-1080-crop-000000.jpg?v=94f9418989"
+    ],
+    "tmdb_id": "1514891"
   }
 }
