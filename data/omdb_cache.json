@@ -101751,7 +101751,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "89451",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Magnificent Doll|1946": {
     "lbxd": {
@@ -102499,7 +102499,7 @@
       "https://medeiafilmes.com/uploads/library/few_of_us.jpg"
     ],
     "tmdb_id": "138522",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Os Christophers|2025": {
     "lbxd": {
@@ -102585,7 +102585,7 @@
       "https://medeiafilmes.com/uploads/library/the-christophers_still-4_jessica-gunning-and-james-corden_credit-claudette-barius.jpg"
     ],
     "tmdb_id": "1400357",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "A Bela de Dia|1967": {
     "lbxd": {
@@ -102760,7 +102760,7 @@
       "https://medeiafilmes.com/uploads/library/711772.jpg"
     ],
     "tmdb_id": "5781",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Nosferatu (1922)|1922": {
     "lbxd": {
@@ -103000,7 +103000,7 @@
       "https://medeiafilmes.com/uploads/library/dias-de-ira-plano-critico.jpg"
     ],
     "tmdb_id": "41391",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Aurora (1927)|1927": {
     "lbxd": {
@@ -103180,7 +103180,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Diary of a Chambermaid (1964 film)",
+      "imdb_id": "tt0058249",
+      "extract_pt": "Le journal d'une femme de chambre é um filme francês de 1964 dirigido por Luis Buñuel."
+    },
     "cinema": {
       "original_title": "Le Journal d’une Femme de Chambre",
       "plot_pt": "Célèstine entra ao serviço dos Monteil, burgueses de província, mas não simpatiza com eles. Presta-se, no entanto, aos caprichos do velho Monteil, que gosta de a ver de botas. Quando pensa em despedir-se, Célèstine sabe da notícia da violação e morte de uma menina. Desconfia de Joseph, outro empregado dos Monteil e activista da extrema direita, e decide continuar ao serviço para confirmar a culpabilidade dele. Dorme com ele para tentar arrancar-lhe uma confissão. Fabrica provas falsas e faz com que Joseph seja preso. Célèstine casa então com o vizinho, o capitão Mauger, inimigo figadal dos Monteil, enquanto Joseph é libertado pouco tempo depois.",
@@ -103205,7 +103209,8 @@
       "https://medeiafilmes.com/uploads/library/ee11d766-5483-47af-b856-e526fd2060f6.jpg",
       "https://medeiafilmes.com/uploads/library/4f519a0dfccbb54386292a290af2c48d.jpg"
     ],
-    "tmdb_id": "36245"
+    "tmdb_id": "36245",
+    "wiki_tries": 1
   },
   "Raios e Sombras|2026": {
     "lbxd": {
@@ -103268,7 +103273,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/2/1/tmdb/oGHaLeS3zObArChVHMnFvlAT5Gq-1920-1920-1080-1080-crop-000000.jpg?v=bd72bf5108"
     ],
     "tmdb_id": "1318335",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "The Loneliest Man in Town|2026": {
     "lbxd": null,
@@ -103597,7 +103602,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/tu/40/a3/6v/oleqnn5d81MG3Oy1gfqjsbBkA9F-1920-1920-1080-1080-crop-000000.jpg?v=7e57154009"
     ],
     "tmdb_id": "1286656",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Mr. Klein – Um Homem na Sombra|1976": {
     "lbxd": {
@@ -103877,7 +103882,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "15383",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "O Último dos Homens|1925": {
     "lbxd": {
@@ -104131,7 +104136,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/0/8/6/7/tmdb/8rD2kkOoJ0CHMKcd9MfJu1hgXZn-1920-1920-1080-1080-crop-000000.jpg?v=5c4db73e10"
     ],
     "tmdb_id": "1309373",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Dr. Estranhoamor|1964": {
     "lbxd": {
@@ -104454,7 +104459,7 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/6/5/1/9/4/tmdb/e0fnXg2wzQIwojgguv2hxgWSelB-1920-1920-1080-1080-crop-000000.jpg?v=d3867720d8"
     ],
     "tmdb_id": "1379486",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Os Christophers|2026": {
     "lbxd": {
@@ -104524,7 +104529,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/si/lj/ip/ns/wn1aZgUN6JP29iPKb7KTykBu6dP-1920-1920-1080-1080-crop-000000.jpg?v=45b780ed77"
     ],
-    "tmdb_id": "1400357"
+    "tmdb_id": "1400357",
+    "wiki_tries": 1
   },
   "Diário de uma Criada de Quarto (1963)|1964": {
     "lbxd": {
@@ -104684,5 +104690,136 @@
       "https://a.ltrbxd.com/resized/sm/upload/rg/wa/o3/oc/last-laugh-1920-1920-1080-1080-crop-000000.jpg?v=38efe0b01a"
     ],
     "tmdb_id": "5991"
+  },
+  "Km 224|2022": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/4/9/3/0/864930-km-224-0-500-0-750-crop.jpg?v=0d9cff200e",
+      "description": "Mário and Cláudia are going through a divorce process. When Cláudia accepts job in another country, situation will lead parents to reassess many of their certainties and question the effects on the happiness of their children.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "António-Pedro Vasconcelos",
+      "lb_director_slug": "antonio-pedro-vasconcelos",
+      "lb_year": 2022,
+      "lb_title": "Km 224",
+      "backdrop": null,
+      "imdb_id": "tt14144834",
+      "tmdb_id": "960959"
+    },
+    "omdb": {
+      "Title": "Km 224",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "21 Apr 2022",
+      "Runtime": "139 min",
+      "Genre": "Drama",
+      "Director": "António-Pedro Vasconcelos",
+      "Writer": "Filipa Martins, António-Pedro Vasconcelos",
+      "Actors": "José Fidalgo, Ana Varela, Gonçalo Menino",
+      "Plot": "Mário and Cláudia are going through a divorce process. When Cláudia accepts job in another country, situation will lead parents to reassess many of their certainties and question the effects on the happiness of their children.",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "2 wins & 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg4ZDkzMGItYWQ0Ni00OGQ5LWE4YTgtMzM5OWExZTljYzJhXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.3",
+      "imdbVotes": "160",
+      "imdbID": "tt14144834",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": null,
+      "extract_pt": "A Voz e os Ouvidos do MFA é uma média-metragem televisiva documental portuguesa de 2017, realizada por António-Pedro Vasconcelos e Leandro Ferreira. O filme retrata a operação que permitiu a comunicação do Movimento das Forças Armadas, uma coligação de militares que se uniu para derrubar o regime autoritário do Estado Novo e conspirar as ações da Revolução de 25 de abril de 1974. Através de entrevistas e reconstituição, é retratado o ponto de vista de Capitães de Abril, como Otelo Saraiva de Carvalho e Luís Macedo.\nA primeira exibição em Portugal de A Voz e os Ouvidos do MFA decorreu a 25 de abril de 2017, na RTP1."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "960959"
+  },
+  "Agora, Aqui|2026": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "MEMÓRIA DE RAPARIGA|None": {
+    "lbxd": {
+      "rating": 3.3,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/9/1/0/9/6/1391096-a-girls-story-0-500-0-750-crop.jpg?v=906f5fa6aa",
+      "description": "During a book signing in Normandy, Annie Ernaux, 70, revisits her memories of the summer of 1958, when she was 17. That summer, she left her hometown to work as a camp counsellor. At the first party, the head counsellor set out to deflower her. Finding him handsome, she lets him do it, as if against her will... Her body becomes a foreign place for her, an offering to be sacrificed.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Judith Godrèche",
+      "lb_director_slug": "judith-godreche",
+      "lb_year": 2026,
+      "lb_title": "A Girl’s Story",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/1/0/9/6/tmdb/lOZJaGCrDUO5NK6PBQ3IhhoVR2z-1920-1920-1080-1080-crop-000000.jpg?v=94f9418989",
+      "imdb_id": "tt39088978",
+      "tmdb_id": "1514891"
+    },
+    "omdb": {
+      "Title": "Mémoire de fille",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "30 Sep 2026",
+      "Runtime": "117 min",
+      "Genre": "Drama",
+      "Director": "Judith Godrèche",
+      "Writer": "Annie Ernaux, Judith Godrèche",
+      "Actors": "Tess Barthélémy, Valérie Dréville, Victor Bonnel",
+      "Plot": "Annie Ernaux is invited to a book signing. On her way, she is overcome by a feeling of dizziness and is plunged back into the memory of the summer of 1958, the summer of her first night with a man.",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYzYTk3NzMtYTEzZC00ZWVkLTlhYWEtZjY4ZDMzY2FmN2VjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "3.9",
+      "imdbVotes": "20",
+      "imdbID": "tt39088978",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "César Award for Best Supporting Actress",
+      "imdb_id": null,
+      "extract_pt": "O César de melhor atriz secundária (em francês: César de la meilleure actrice dans un second rôle) é um prémio cinematográfico atribuído anualmente desde 1976, pela academia dos Césares, à melhor atriz num papel secundário de um filme de produção francesa.\nAlgumas atrizes venceram esta categoria mais de uma vez:\n\nTrês vezes: Dominique Blanc (1991, 1993, 1999)\nDuas vezes: Marie-France Pisier (1976, 1977), Nathalie Baye (1981, 1982), Suzanne Flon (1984, 1990), Valérie Lemercier (1994, 2007), Annie Girardot (1996, 2002), Julie Depardieu (2004, 2008) e Anne Alvaro (2001, 2011)\nA atriz que mais vezes foi nomeada a este prémio é Dominique Blanc, obtendo no total 5 nomeações. Seguidas por:\n\n4 nomeações: Noémie Lvovsky, Stéphane Audran, Dominique Lavanant, Karin Viard;\n3 nomeações: Julie Depardieu, Valérie Lemercier, Danielle Darrieux, Agnès Jaoui, Line Renaud, Catherine Frot, Marie Trintignant;\n2 nomeações: Isabelle Nanty, Ludivine Sagnier, Myriam Boyer,  Mylène Demongeot, Anne Consigny, Jeanne Balibar, Clémentine Célarié, Michèle Laroque, Nelly Borgeaud, Bernadette Lafont, Hélène Vincent, Nicole Garcia, Annie Girardot, Judith Godrèche, Suzanne Flon, Carmen Maura.\nEm 2015, a atriz Kristen Stewart fez história ao ser a primeira atriz norte-americana indicada ao César em 30 anos."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      44.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/1/0/9/6/tmdb/lOZJaGCrDUO5NK6PBQ3IhhoVR2z-1920-1920-1080-1080-crop-000000.jpg?v=94f9418989"
+    ],
+    "tmdb_id": "1514891"
   }
 }
