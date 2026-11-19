@@ -97826,38 +97826,7 @@
       "imdb_id": "tt2860362",
       "tmdb_id": "230867"
     },
-    "omdb": {
-      "Title": "Tashkafa: Stories of the Street",
-      "Year": "2013",
-      "Rated": "N/A",
-      "Released": "12 Apr 2013",
-      "Runtime": "66 min",
-      "Genre": "Documentary",
-      "Director": "Andrea Luka Zimmerman",
-      "Writer": "John Berger, Andrea Luka Zimmerman, Gülen Hurley",
-      "Actors": "John Berger",
-      "Plot": "A documentary about residents in Istanbul who care for the street dogs.",
-      "Language": "English, German, Turkish",
-      "Country": "Turkey",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1ZDRkY2QtOWFjNi00M2Y4LTkzNzQtNzZjNzgzMDljNzgxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.7/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "6.7",
-      "imdbVotes": "33",
-      "imdbID": "tt2860362",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
+    "omdb": null,
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -104530,7 +104499,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/si/lj/ip/ns/wn1aZgUN6JP29iPKb7KTykBu6dP-1920-1920-1080-1080-crop-000000.jpg?v=45b780ed77"
     ],
     "tmdb_id": "1400357",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Diário de uma Criada de Quarto (1963)|1964": {
     "lbxd": {
@@ -104885,5 +104854,76 @@
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/9/1/0/9/6/tmdb/lOZJaGCrDUO5NK6PBQ3IhhoVR2z-1920-1920-1080-1080-crop-000000.jpg?v=94f9418989"
     ],
     "tmdb_id": "1514891"
+  },
+  "Victor como Toda a Gente|2026": {
+    "lbxd": {
+      "rating": 2.98,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/9/2/6/1331926-hugo-2026-0-500-0-750-crop.jpg?v=5255c6afce",
+      "description": "Imbued with Victor Hugo, the actor Robert Zucchini searches for his place between the stage and life. Every evening, he fills theaters by sharing his love of words. Until the day his daughter, whom he hasn’t seen grow up, reappears.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "country": "France",
+      "lb_director": "Pascal Bonitzer",
+      "lb_director_slug": "pascal-bonitzer",
+      "lb_year": 2026,
+      "lb_title": "Hugo",
+      "backdrop": null,
+      "imdb_id": "tt39149806",
+      "tmdb_id": "1454680"
+    },
+    "omdb": {
+      "Title": "Victor comme tout le monde",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "11 Mar 2026",
+      "Runtime": "88 min",
+      "Genre": "Drama",
+      "Director": "Pascal Bonitzer",
+      "Writer": "N/A",
+      "Actors": "Fabrice Luchini, Chiara Mastroianni, Marie Narbonne",
+      "Plot": "N/A",
+      "Language": "French",
+      "Country": "France",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyNGE4YTEtMzA1Yi00OTY4LWI5ODctYmQxOTk5YmI4NjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "7",
+      "imdbID": "tt39149806",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Victor comme tout le monde",
+      "plot_pt": "Mergulhado na obra de Victor Hugo, o actor Robert Zucchini tenta definir o seu lugar entre o palco e a vida, entre a matéria das palavras e o mundo contemporâneo. Todas as noites, ele enche uma sala parisiense que só o quer ouvir recitar o clássico francês. O reaparecimento da filha, com quem perdera contacto, cria uma brecha emocional na sua melancolia quotidiana. Entre o palco e a vida, o novo filme de Pascal Bonitzer traça um retrato divertido e sensível de um homem confrontado com as contradições do seu tempo.",
+      "country": "França",
+      "year": 2026,
+      "director": "Pascal Bonitzer",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/victor_1.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-2.jpg",
+        "https://medeiafilmes.com/uploads/library/victor-3.jpg"
+      ]
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      29.7,
+      32.4,
+      47.7
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/victor_1.jpg",
+      "https://medeiafilmes.com/uploads/library/victor-2.jpg",
+      "https://medeiafilmes.com/uploads/library/victor-3.jpg"
+    ],
+    "tmdb_id": "1454680"
   }
 }
