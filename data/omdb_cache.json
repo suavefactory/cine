@@ -97826,7 +97826,38 @@
       "imdb_id": "tt2860362",
       "tmdb_id": "230867"
     },
-    "omdb": null,
+    "omdb": {
+      "Title": "Tashkafa: Stories of the Street",
+      "Year": "2013",
+      "Rated": "N/A",
+      "Released": "12 Apr 2013",
+      "Runtime": "66 min",
+      "Genre": "Documentary",
+      "Director": "Andrea Luka Zimmerman",
+      "Writer": "John Berger, Andrea Luka Zimmerman, Gülen Hurley",
+      "Actors": "John Berger",
+      "Plot": "A documentary about residents in Istanbul who care for the street dogs.",
+      "Language": "English, German, Turkish",
+      "Country": "Turkey",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1ZDRkY2QtOWFjNi00M2Y4LTkzNzQtNzZjNzgzMDljNzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "33",
+      "imdbID": "tt2860362",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
     "wiki": null,
     "cinema": {},
     "dir_checked": true,
@@ -104925,6 +104956,6 @@
       "https://medeiafilmes.com/uploads/library/victor-3.jpg"
     ],
     "tmdb_id": "1454680",
-    "wiki_tries": 1
+    "wiki_tries": 2
   }
 }
