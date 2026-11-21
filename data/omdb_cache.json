@@ -22600,7 +22600,7 @@
   },
   "Mimosas|2016": {
     "lbxd": {
-      "rating": 3.45,
+      "rating": 3.44,
       "poster": "https://a.ltrbxd.com/resized/film-poster/3/2/7/9/7/5/327975-mimosas-0-500-0-750-crop.jpg?v=144af60c4d",
       "description": "A dying Sheikh travels across the Moroccan Atlas in a caravan escorted by two rogues.",
       "genres": [
@@ -22611,7 +22611,11 @@
       "country": "France",
       "lb_director": "Oliver Laxe",
       "lb_director_slug": "oliver-laxe",
-      "lb_year": 2016
+      "lb_year": 2016,
+      "lb_title": "Mimosas",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/w7/hc/va/re/mimosas%20bd-1920-1920-1080-1080-crop-000000.jpg?v=dbe4bbd62b",
+      "imdb_id": "tt5606268",
+      "tmdb_id": "393520"
     },
     "omdb": {
       "Title": "Mimosas",
@@ -22652,7 +22656,21 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2016,
+      "country": "Espanha, Marrocos, França, Romênia e Catar",
+      "plot_pt": "Nas montanhas do Alto Atlas, uma caravana escolta um xeque idoso e moribundo rumo a Sijilmasa. O seu último desejo é ser enterrado junto dos entes queridos, mas acaba por morrer ao atravessar os picos escarpados do Atlas marroquino. Com medo do percurso pela montanha, os viajantes recusam-se a continuar a transportar o cadáver. Dois vigaristas que seguem com a caravana, Said e Ahmed, dizem conhecer o caminho até Sijilmasa e oferecem-se para levar o corpo até lá. Mas saberão mesmo o caminho?"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      64.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/w7/hc/va/re/mimosas%20bd-1920-1920-1080-1080-crop-000000.jpg?v=dbe4bbd62b"
+    ],
+    "tmdb_id": "393520"
   },
   "Eureka|2023": {
     "lbxd": {
@@ -104957,5 +104975,74 @@
     ],
     "tmdb_id": "1454680",
     "wiki_tries": 3
+  },
+  "Club Kid|2026": {
+    "lbxd": {
+      "rating": 4.44,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-500-0-750-crop.jpg?v=b2d52aad9d",
+      "description": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Jordan Firstman",
+      "lb_director_slug": "jordan-firstman",
+      "lb_year": 2026,
+      "lb_title": "Club Kid",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/w1/i6/58/bq/xPs2mKGLcU7FpYJsMxFCYN8lroH-1920-1920-1080-1080-crop-000000.jpg?v=fcf89d6bd6",
+      "imdb_id": "tt38058097",
+      "tmdb_id": "1585239"
+    },
+    "omdb": {
+      "Title": "Club Kid",
+      "Year": "2026",
+      "Rated": "R",
+      "Released": "04 Nov 2026",
+      "Runtime": "122 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Jordan Firstman",
+      "Writer": "Jordan Firstman",
+      "Actors": "Jordan Firstman, Cara Delevingne, Kirby Howell-Baptiste",
+      "Plot": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUxYjgzMjgtMzgzMC00ZTdlLWJkMjktYmY4YWFiNDg1MWJmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "8.1",
+      "imdbVotes": "427",
+      "imdbID": "tt38058097",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "country": "tados Unidos",
+      "plot_pt": "Um promotor de discotecas de Nova Iorque, conhecido pelas suas festas intensas, vê o seu estilo de vida agitado ser virado de pernas para o ar com a chegada de um filho de 10 anos que nem sabia que tinha."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      48.5
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/w1/i6/58/bq/xPs2mKGLcU7FpYJsMxFCYN8lroH-1920-1920-1080-1080-crop-000000.jpg?v=fcf89d6bd6"
+    ],
+    "tmdb_id": "1585239"
   }
 }

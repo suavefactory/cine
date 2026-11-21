@@ -3324,5 +3324,10 @@
     "photo": null,
     "bio": null,
     "tries": 2
+  },
+  "Jordan Firstman": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/JordanFirstman%283%29TIFF2026_%28cropped%29.jpg/500px-JordanFirstman%283%29TIFF2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Jordan Firstman (born July 8, 1991) is an American actor, filmmaker, comedian, and singer living in Los Angeles, California. He is known for starring in the feature film Rotting in the Sun (2023) and for writing, directing, and starring in the film Club Kid (2026). Firstman rose to prominence for his short skits, called Impressions, shared on Instagram Live in 2020, during the COVID-19 pandemic.",
+    "tries": 1
   }
 }
