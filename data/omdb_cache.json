@@ -22657,7 +22657,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Mimosas (film)",
+      "imdb_id": "tt5606268",
+      "extract_pt": "Mimosas (em francês:  Mimosas: La Voie de l'Atlas) é um filme do género drama realizado e escrito por Óliver Laxe e Santiago Fillol, e coproduzido entre Espanha, França, Marrocos, e o Catar. Foi protagonizado por Ahmed Hammoud, Shakib Ben Omar e Said Aagli. A sua estreia mundial ocorreu no Festival de Cannes a 16 de maio de 2016, onde venceu o Grande Prémio Nespresso da Semana da Crítica. Estreou-se em França a 24 de agosto de 2016, na Galiza a 5 de janeiro de 2017, e no Brasil a 24 de agosto de 2017."
+    },
     "cinema": {
       "year": 2016,
       "country": "Espanha, Marrocos, França, Romênia e Catar",
@@ -22670,7 +22674,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/w7/hc/va/re/mimosas%20bd-1920-1920-1080-1080-crop-000000.jpg?v=dbe4bbd62b"
     ],
-    "tmdb_id": "393520"
+    "tmdb_id": "393520",
+    "wiki_tries": 1
   },
   "Eureka|2023": {
     "lbxd": {
@@ -105030,7 +105035,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Club Kid (film)",
+      "imdb_id": "tt38058097",
+      "extract_pt": "Club Kid é um longa-metragem de comédia dramática estadunidense de 2026, escrito, dirigido e estrelado por Jordan Firstman, em sua estreia como diretor. O filme acompanha Peter (Firstman), um promotor de festas underground decadente cuja vida sofre uma reviravolta inesperada quando ele é obrigado a cuidar de Arlo (Reggie Absolom), seu filho de 10 anos que sequer sabia que existia. Ainda compõe o elenco Cara Delevingne, Kirby Howell-Baptiste, Colleen Camp, Vicki Pepperdine, Nigil Whyte, Eldar Isgandarov, Saturn Risin9, Miss Benny, Alaska Riley, Diego Calva.\nO filme teve sua estreia mundial na seção Un Certain Regard do Festival de Cannes de 2026 em 15 de maio, onde foi indicado à Caméra d'Or e à Queer Palm."
+    },
     "cinema": {
       "year": 2026,
       "country": "tados Unidos",
@@ -105043,6 +105052,7 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/w1/i6/58/bq/xPs2mKGLcU7FpYJsMxFCYN8lroH-1920-1920-1080-1080-crop-000000.jpg?v=fcf89d6bd6"
     ],
-    "tmdb_id": "1585239"
+    "tmdb_id": "1585239",
+    "wiki_tries": 1
   }
 }
