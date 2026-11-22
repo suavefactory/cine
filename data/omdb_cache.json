@@ -9895,14 +9895,21 @@
   },
   "Sirât|2025": {
     "lbxd": {
-      "rating": 3.56,
+      "rating": 3.57,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/3/7/7/7/7/1037777-sirat-2025-0-500-0-750-crop.jpg?v=1660cb1f29",
       "description": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
       "genres": [
         "Thriller",
         "Drama"
       ],
-      "country": "Spain"
+      "country": "Spain",
+      "lb_director": "Oliver Laxe",
+      "lb_director_slug": "oliver-laxe",
+      "lb_year": 2025,
+      "lb_title": "Sirāt",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/3/7/7/7/7/tmdb/58MtlV69aVMskYj7X3aoi1Q0ItD-1920-1920-1080-1080-crop-000000.jpg?v=d9ed433926",
+      "imdb_id": "tt32298285",
+      "tmdb_id": "1151272"
     },
     "omdb": {
       "Title": "Sirat",
@@ -9943,7 +9950,21 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2025,
+      "country": "Espanha e França",
+      "plot_pt": "Um pai (Sergi López) e o seu filho chegam a uma rave nas montanhas do sul de Marrocos. Procuram Mar — filha e irmã — desaparecida há meses numa dessas festas intermináveis e sem descanso. Rodeados por música eletrónica e por uma sensação de liberdade crua e desconhecida, mostram a sua fotografia vezes sem conta. A esperança começa a esvanecer-se, mas insistem e seguem um grupo de ravers a caminho de uma última festa no deserto. À medida que se aventuram cada vez mais adentro do deserto escaldante, a viagem obriga-os a confrontar os seus próprios limites."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      18.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/3/7/7/7/7/tmdb/58MtlV69aVMskYj7X3aoi1Q0ItD-1920-1920-1080-1080-crop-000000.jpg?v=d9ed433926"
+    ],
+    "tmdb_id": "1151272"
   },
   "Stalker|1983": {
     "lbxd": {
