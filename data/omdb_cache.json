@@ -9951,7 +9951,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Sirāt (film)",
+      "imdb_id": "tt32298285",
+      "extract_pt": "Sirāt é um filme de drama de 2025 dirigido por Óliver Laxe, com roteiro escrito em parceria com Santiago Fillol. A trama acompanha Luis (Sergi López) e Esteban (Bruno Núñez Arjona), um pai e seu filho em busca da filha e irmã que desapareceu nos desertos do sul de Marrocos.\nO filme teve sua estreia mundial na competição principal do 78º Festival de Cannes em 15 de maio de 2025, onde ganhou o Prêmio do Júri. Foi lançado nos cinemas da Espanha em 6 de junho de 2025 pela BTeam Pictures e na França em 10 de setembro de 2025 pela Pyramide Films."
+    },
     "cinema": {
       "year": 2025,
       "country": "Espanha e França",
@@ -9964,7 +9968,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/3/7/7/7/7/tmdb/58MtlV69aVMskYj7X3aoi1Q0ItD-1920-1920-1080-1080-crop-000000.jpg?v=d9ed433926"
     ],
-    "tmdb_id": "1151272"
+    "tmdb_id": "1151272",
+    "wiki_tries": 1
   },
   "Stalker|1983": {
     "lbxd": {
