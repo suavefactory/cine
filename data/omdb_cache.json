@@ -7243,7 +7243,14 @@
         "Comedy",
         "Drama"
       ],
-      "country": "Italy"
+      "country": "Italy",
+      "lb_director": "Lina Wertmüller",
+      "lb_director_slug": "lina-wertmuller",
+      "lb_year": 1975,
+      "lb_title": "Seven Beauties",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/2/6/9/4/0/tmdb/7IgqLub2b1ZpdIYThZRfz3MZw3c-1920-1920-1080-1080-crop-000000.jpg?v=aa14cf80e4",
+      "imdb_id": "tt0075040",
+      "tmdb_id": "37550"
     },
     "omdb": {
       "Title": "Seven Beauties",
@@ -7280,7 +7287,19 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Esta pérola dos anos 70 retrata a decadência moral da Itália fascista através de Pasqualino (Giancarlo Giannini)—a personificação do machismo e da hipocrisia social. Pequeno criminoso napolitano, vive à custa das suas sete irmãs (“Settebellezze”), e, após matar um proxeneta em nome da “honra”, é preso e acaba num campo de concentração, onde tenta sobreviver seduzindo uma oficial nazi. Sombrio e provocador, o filme desafia os limites do humor e do politicamente correto, oscilando entre a comédia ácida e o realismo angustiante. Nomeado para quatro Óscares, tornou Lina Wertmüller a primeira mulher indicada ao Óscar de Melhor Realização."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      44.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/2/6/9/4/0/tmdb/7IgqLub2b1ZpdIYThZRfz3MZw3c-1920-1920-1080-1080-crop-000000.jpg?v=aa14cf80e4"
+    ],
+    "tmdb_id": "37550"
   },
   "Borbaad|2025": {
     "lbxd": {
@@ -7759,7 +7778,14 @@
       "genres": [
         "Drama"
       ],
-      "country": "Taiwan"
+      "country": "Taiwan",
+      "lb_director": "Edward Yang",
+      "lb_director_slug": "edward-yang",
+      "lb_year": 2000,
+      "lb_title": "Yi Yi",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/yc/mc/ep/c9/yi-yi-1920-1920-1080-1080-crop-000000.jpg?v=b55a45939d",
+      "imdb_id": "tt0244316",
+      "tmdb_id": "25538"
     },
     "omdb": {
       "Title": "Yi Yi",
@@ -7796,7 +7822,19 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Estreado no Festival de Cannes, onde Edward Yang venceu o prémio de Melhor Realizador, e hoje amplamente aclamado como uma obra-prima, Yi Yi acompanha, ao longo de um ano, a vida de três gerações de uma família em Taipé. Iniciando o filme num casamento e terminando-o num funeral, Yang convida-nos a observar atentamente o quotidiano, transformando os mais pequenos gestos num retrato do ciclo da vida. Uma obra entre o épico e o íntimo, repleta de delicadeza, compaixão e elegância formal, restaurada aquando do seu 25.º aniversário."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      47.7
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/yc/mc/ep/c9/yi-yi-1920-1920-1080-1080-crop-000000.jpg?v=b55a45939d"
+    ],
+    "tmdb_id": "25538"
   },
   "Phantoms of Nabua|2009": {
     "lbxd": {
@@ -9277,13 +9315,20 @@
   },
   "Hard, Fast and Beautiful!|1951": {
     "lbxd": {
-      "rating": 3.38,
+      "rating": 3.37,
       "poster": "https://a.ltrbxd.com/resized/film-poster/7/0/1/3/5/70135-hard-fast-and-beautiful-0-500-0-750-crop.jpg?v=dde2cc0280",
       "description": "When most people look at Florence Farley, they see a pretty teenager. But when Milly Farley looks at her daughter she sees something else: a tennis prodigy who could be Milly’s ticket to money and fame.",
       "genres": [
         "Drama"
       ],
-      "country": "USA"
+      "country": "USA",
+      "lb_director": "Ida Lupino",
+      "lb_director_slug": "ida-lupino",
+      "lb_year": 1951,
+      "lb_title": "Hard, Fast and Beautiful!",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/69/iz/yc/c1/1dE7kgzS1B1YLFMmujq3qJhQXsg-1920-1920-1080-1080-crop-000000.jpg?v=10e9bb0d2e",
+      "imdb_id": "tt0043619",
+      "tmdb_id": "83670"
     },
     "omdb": {
       "Title": "Hard, Fast and Beautiful!",
@@ -9316,7 +9361,19 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Com assinatura de Ida Lupino — uma das vozes mais disruptivas do cinema estadunidense das décadas de 40 e 50 — e protagonizado por Claire Trevor, Hard, Fast and Beautiful! acompanha Florence Farley, uma jovem-prodígio do ténis californiano, dividida entre o talento que a leva à competição nacional e a pressão de uma mãe ambiciosa que vê na filha a oportunidade de ascensão social. Enquanto acumula vitórias em campo, Florence parece perder o controlo sobre o próprio destino. Um retrato mordaz sobre a condição da mulher no desporto competitivo e sobre as pressões que lhe estão subjacentes."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/69/iz/yc/c1/1dE7kgzS1B1YLFMmujq3qJhQXsg-1920-1920-1080-1080-crop-000000.jpg?v=10e9bb0d2e"
+    ],
+    "tmdb_id": "83670"
   },
   "Pumping Iron|1977": {
     "lbxd": {
@@ -9685,7 +9742,7 @@
   },
   "The Misfits|1961": {
     "lbxd": {
-      "rating": 3.7,
+      "rating": 3.69,
       "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/2/1/2/45212-the-misfits-0-500-0-750-crop.jpg?v=db194cec22",
       "description": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
       "genres": [
@@ -9693,7 +9750,14 @@
         "Romance",
         "Drama"
       ],
-      "country": "USA"
+      "country": "USA",
+      "lb_director": "John Huston",
+      "lb_director_slug": "john-huston",
+      "lb_year": 1961,
+      "lb_title": "The Misfits",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/8q/7j/v6/up/misfits-1920-1920-1080-1080-crop-000000.jpg?v=2df0a75774",
+      "imdb_id": "tt0055184",
+      "tmdb_id": "11536"
     },
     "omdb": {
       "Title": "The Misfits",
@@ -9734,7 +9798,19 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Último filme finalizado de Marilyn Monroe, The Misfits é um faroeste dramático escrito por Arthur Miller, o marido da atriz na época. Monroe interpreta uma mulher recém-divorciada que, no deserto do Nevada, se cruza com um grupo de homens: um cowboy (Clark Gable, também no seu último filme), o seu amigo aventureiro (Eli Wallach) e um jovem fragilizado e inquieto (Montgomery Clift). Num registo mais contido, Marilyn surge despida dos seus trejeitos habituais, revelando uma vulnerabilidade rara. Insólito no cinema americano da época, o filme afasta-se do classicismo hollywoodiano e, embora tenha falhado comercialmente, é hoje considerado um marco moderno e uma obra-prima dos anos 60."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.8
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/8q/7j/v6/up/misfits-1920-1920-1080-1080-crop-000000.jpg?v=2df0a75774"
+    ],
+    "tmdb_id": "11536"
   },
   "Spoor|2017": {
     "lbxd": {
@@ -12033,7 +12109,7 @@
   },
   "The Lovers on the Bridge|1991": {
     "lbxd": {
-      "rating": 4.23,
+      "rating": 4.22,
       "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/1/0/4/50104-the-lovers-on-the-bridge-0-500-0-750-crop.jpg?v=5e8b06ab05",
       "description": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
       "genres": [
@@ -12042,7 +12118,12 @@
       ],
       "country": "France",
       "lb_director": "Leos Carax",
-      "lb_year": 1991
+      "lb_director_slug": "leos-carax",
+      "lb_year": 1991,
+      "lb_title": "The Lovers on the Bridge",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/kk/w0/ah/4o/lovers-on-the-bridge-1920-1920-1080-1080-crop-000000.jpg?v=a8b8e83ea8",
+      "imdb_id": "tt0101318",
+      "tmdb_id": "2767"
     },
     "omdb": {
       "Title": "The Lovers on the Bridge",
@@ -12079,7 +12160,19 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Alex (Denis Lavant) e Michèle (Juliette Binoche) são duas almas à deriva que se cruzam na ponte mais antiga de Paris. Ele vive na rua; ela perde gradualmente a visão. Num verão intenso, nasce um amor tão arrebatador quanto tóxico, vivido à margem da cidade e das suas regras. Filmado como um delírio romântico visual, este romance radical de Leos Carax transforma Paris num território de paixão absoluta, onde amar é também um ato de resistência. Inclui uma das mais belas cenas do cinema europeu dos anos 90: um fogo de artifício que explode sobre Paris, espelhando a intensidade do amor nocivo entre os protagonistas.\nEntrada livre"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      57.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/kk/w0/ah/4o/lovers-on-the-bridge-1920-1920-1080-1080-crop-000000.jpg?v=a8b8e83ea8"
+    ],
+    "tmdb_id": "2767"
   },
   "Romeo + Juliet|1996": {
     "lbxd": {
@@ -67327,30 +67420,14 @@
     "wiki_tries": 3
   },
   "It Went With The Sea|2024": {
-    "lbxd": {
-      "rating": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/6/0/2/7/1316027-it-went-with-the-sea-0-500-0-750-crop.jpg?v=59fb32cc9f",
-      "description": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
-      "genres": [
-        "Documentary"
-      ],
-      "country": null,
-      "lb_director": "Matilde César",
-      "lb_director_slug": "matilde-cesar-1",
-      "lb_year": 2025,
-      "lb_title": "It Went With The Sea",
-      "backdrop": null,
-      "imdb_id": null,
-      "tmdb_id": "1438226"
-    },
+    "lbxd": null,
     "omdb": null,
     "wiki": null,
     "cinema": {
       "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece."
     },
     "dir_checked": true,
-    "stills": null,
-    "tmdb_id": "1438226"
+    "stills": null
   },
   "Black Burns Fast|2025": {
     "lbxd": {
@@ -105080,5 +105157,228 @@
     ],
     "tmdb_id": "1585239",
     "wiki_tries": 1
+  },
+  "Conversa-Açorda|2026": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "A Semente Do Figo Sagrado|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "New Dystopias - Two People Exchanging Saliva And Other Shorts|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "The Lady Vanishes|1938": {
+    "lbxd": {
+      "rating": 3.91,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/3/51213-the-lady-vanishes-0-500-0-750-crop.jpg?v=98f270b46f",
+      "description": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "country": "UK",
+      "lb_director": "Alfred Hitchcock",
+      "lb_director_slug": "alfred-hitchcock",
+      "lb_year": 1938,
+      "lb_title": "The Lady Vanishes",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/2i/rd/fy/so/the-lady-vanishes-1920-1920-1080-1080-crop-000000.jpg?v=7124e5dde6",
+      "imdb_id": "tt0030341",
+      "tmdb_id": "940"
+    },
+    "omdb": {
+      "Title": "The Lady Vanishes",
+      "Year": "1938",
+      "Rated": "Approved",
+      "Released": "01 Nov 1938",
+      "Runtime": "96 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Ethel Lina White, Sidney Gilliat, Frank Launder",
+      "Actors": "Margaret Lockwood, Michael Redgrave, Paul Lukas",
+      "Plot": "While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.",
+      "Language": "English, German, French, Italian",
+      "Country": "United Kingdom",
+      "Awards": "1 win & 1 nomination total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxY2M5ODUtYjQ5ZS00M2NmLWI2OTMtYzY3ZWJmZjcyNDIwXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "7.7",
+      "imdbVotes": "62,189",
+      "imdbID": "tt0030341",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Durante um nevão, um grupo de passageiros fica retido numa estalagem, à espera de que as linhas férreas sejam desbloqueadas para seguirem viagem até ao Reino Unido. A jovem Iris faz amizade com a enigmática Sra. Froy, que desaparece misteriosamente quando o comboio retoma o percurso — e os restantes viajantes negam que esta tenha existido. Com a ajuda de Gilbert, um musicólogo, Iris tenta descobrir a verdade. O êxito internacional desta obra de Hitchcock, eleita pelo BFI como um dos melhores filmes britânicos do século XX, consolidou o prestígio do realizador e abriu caminho para a sua transição para Hollywood."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      18.6
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/2i/rd/fy/so/the-lady-vanishes-1920-1920-1080-1080-crop-000000.jpg?v=7124e5dde6"
+    ],
+    "tmdb_id": "940"
+  },
+  "Foreign Land|1995": {
+    "lbxd": {
+      "rating": 4.03,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/3/8/4/8384-foreign-land-0-500-0-750-crop.jpg?v=18f1702710",
+      "description": "During a time of political upheaval in Brazil, two strangers meet by coincidence in a foreign land and end up caught in the middle of a gem smuggling ring.",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama"
+      ],
+      "country": "Brazil",
+      "lb_director": "Walter Salles",
+      "lb_director_slug": "walter-salles",
+      "lb_year": 1995,
+      "lb_title": "Foreign Land",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/7k/wz/9n/eh/foreign-1920-1920-1080-1080-crop-000000.jpg?v=7315bd63b6",
+      "imdb_id": "tt0114651",
+      "tmdb_id": "57811"
+    },
+    "omdb": {
+      "Title": "Terra Estrangeira",
+      "Year": "1995",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "110 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Walter Salles, Daniela Thomas",
+      "Writer": "Marcos Bernstein, Millôr Fernandes, Walter Salles",
+      "Actors": "Fernanda Torres, Fernando Alves Pinto, Alexandre Borges",
+      "Plot": "After the death of his mother, a young Brazilian decides to leave his country and travel to his mother's native land. In a foreign land, he finds love and danger.",
+      "Language": "Portuguese",
+      "Country": "Brazil, Portugal",
+      "Awards": "16 wins & 15 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzliYTQ1ZmUtZWExYy00ZDIyLThkZjEtNTYzNDNjNzMzYmNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "2,005",
+      "imdbID": "tt0114651",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Nas palavras de Walter Salles, \"Terra Estrangeira aborda uma sensação de não pertença e de orfandade que os anos Fernando Collor de Mello realçaram. Esse exílio é ao mesmo tempo político, económico e existencial”. É nesta onda de angústia nacional que o brasileiro Paco atravessa um oceano para chegar a Portugal. Lá, encontra outros brasileiros que se sentem cada vez mais estrangeiros, entre eles, Alex (Fernanda Torres) e Miguel (Alexandre Borges)."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      37.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/7k/wz/9n/eh/foreign-1920-1920-1080-1080-crop-000000.jpg?v=7315bd63b6"
+    ],
+    "tmdb_id": "57811"
+  },
+  "The NeverEnding Story|1984": {
+    "lbxd": {
+      "rating": 3.64,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/0/7/8/29078-the-neverending-story-0-500-0-750-crop.jpg?v=d6c13b7351",
+      "description": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Adventure"
+      ],
+      "country": "Germany",
+      "lb_director": "Wolfgang Petersen",
+      "lb_director_slug": "wolfgang-petersen",
+      "lb_year": 1984,
+      "lb_title": "The NeverEnding Story",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/zs/qh/6c/u1/nevermind-1920-1920-1080-1080-crop-000000.jpg?v=567c7d237d",
+      "imdb_id": "tt0088323",
+      "tmdb_id": "34584"
+    },
+    "omdb": {
+      "Title": "The NeverEnding Story",
+      "Year": "1984",
+      "Rated": "PG",
+      "Released": "20 Jul 1984",
+      "Runtime": "102 min",
+      "Genre": "Adventure, Drama, Family",
+      "Director": "Wolfgang Petersen",
+      "Writer": "Wolfgang Petersen, Herman Weigel, Michael Ende",
+      "Actors": "Noah Hathaway, Barret Oliver, Tami Stronach",
+      "Plot": "Bastian finds a magical book in an old bookstore that takes him on an adventure into the land of Fantasia.",
+      "Language": "English",
+      "Country": "West Germany, United States",
+      "Awards": "6 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE0Y2E0NGYtYzRmMy00ZDRjLTk1NDItNjZjYTMyMmJjMGYxXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "49/100"
+        }
+      ],
+      "Metascore": "49",
+      "imdbRating": "7.3",
+      "imdbVotes": "172,959",
+      "imdbID": "tt0088323",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$20,192,381",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Bastian, um rapaz solitário perseguido na escola por bullies, descobre um misterioso livro que o transporta para Fantasia — um reino ameaçado pelo Nada. Imerso na leitura, acompanha Atreyu, um jovem guerreiro que, com o dragão Falkor, luta para salvar o seu universo. Entre realidade e imaginação, Bastian descobre o poder transformador das histórias. Um clássico dos anos 80 que marcou uma geração, História Interminável regressa ao grande ecrã numa cópia restaurada em 4K, convidando-nos a redescobrir a magia de sonhar."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      34.9
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/zs/qh/6c/u1/nevermind-1920-1920-1080-1080-crop-000000.jpg?v=567c7d237d"
+    ],
+    "tmdb_id": "34584"
   }
 }
