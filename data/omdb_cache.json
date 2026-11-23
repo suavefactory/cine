@@ -7288,7 +7288,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Seven Beauties",
+      "imdb_id": "tt0075040",
+      "extract_pt": "Pasqualino Settebellezze é um filme italiano de 1975 do gênero drama dirigido por Lina Wertmüller."
+    },
     "cinema": {
       "plot_pt": "Esta pérola dos anos 70 retrata a decadência moral da Itália fascista através de Pasqualino (Giancarlo Giannini)—a personificação do machismo e da hipocrisia social. Pequeno criminoso napolitano, vive à custa das suas sete irmãs (“Settebellezze”), e, após matar um proxeneta em nome da “honra”, é preso e acaba num campo de concentração, onde tenta sobreviver seduzindo uma oficial nazi. Sombrio e provocador, o filme desafia os limites do humor e do politicamente correto, oscilando entre a comédia ácida e o realismo angustiante. Nomeado para quatro Óscares, tornou Lina Wertmüller a primeira mulher indicada ao Óscar de Melhor Realização."
     },
@@ -7299,7 +7303,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/alternative-backdrop/2/6/9/4/0/tmdb/7IgqLub2b1ZpdIYThZRfz3MZw3c-1920-1920-1080-1080-crop-000000.jpg?v=aa14cf80e4"
     ],
-    "tmdb_id": "37550"
+    "tmdb_id": "37550",
+    "wiki_tries": 1
   },
   "Borbaad|2025": {
     "lbxd": {
@@ -7823,7 +7828,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Yi Yi",
+      "imdb_id": "tt0244316",
+      "extract_pt": "Yi Yi é um filme de Taiwan do diretor Edward Yang, lançado em 2000. Foi um grande sucesso internacional e foi aclamado pela crítica. Concorreu e venceu vários prêmios, dos quais se destaca o prêmio de melhor diretor a Edward Yang, no Festival de Cannes 2000."
+    },
     "cinema": {
       "plot_pt": "Estreado no Festival de Cannes, onde Edward Yang venceu o prémio de Melhor Realizador, e hoje amplamente aclamado como uma obra-prima, Yi Yi acompanha, ao longo de um ano, a vida de três gerações de uma família em Taipé. Iniciando o filme num casamento e terminando-o num funeral, Yang convida-nos a observar atentamente o quotidiano, transformando os mais pequenos gestos num retrato do ciclo da vida. Uma obra entre o épico e o íntimo, repleta de delicadeza, compaixão e elegância formal, restaurada aquando do seu 25.º aniversário."
     },
@@ -7834,7 +7843,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/yc/mc/ep/c9/yi-yi-1920-1920-1080-1080-crop-000000.jpg?v=b55a45939d"
     ],
-    "tmdb_id": "25538"
+    "tmdb_id": "25538",
+    "wiki_tries": 1
   },
   "Phantoms of Nabua|2009": {
     "lbxd": {
@@ -9362,7 +9372,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Stanley Lupino",
+      "imdb_id": null,
+      "extract_pt": "Stanley Lupino (nascido Stanley Richard Lupino Hook; 15 de junho de 1893 – 10 de junho de 1942) foi um ator, dançarino, cantor, libretista, diretor e escritor de contos inglês. Durante a década de 1930, Lupino apareceu em uma série de filmes de comédia musical de sucesso, muitas vezes baseados em seus shows de palco já populares.\nLupino era membro da célebre família teatral Lupino . Seu pai era o ator George Lupino."
+    },
     "cinema": {
       "plot_pt": "Com assinatura de Ida Lupino — uma das vozes mais disruptivas do cinema estadunidense das décadas de 40 e 50 — e protagonizado por Claire Trevor, Hard, Fast and Beautiful! acompanha Florence Farley, uma jovem-prodígio do ténis californiano, dividida entre o talento que a leva à competição nacional e a pressão de uma mãe ambiciosa que vê na filha a oportunidade de ascensão social. Enquanto acumula vitórias em campo, Florence parece perder o controlo sobre o próprio destino. Um retrato mordaz sobre a condição da mulher no desporto competitivo e sobre as pressões que lhe estão subjacentes."
     },
@@ -9373,7 +9387,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/69/iz/yc/c1/1dE7kgzS1B1YLFMmujq3qJhQXsg-1920-1920-1080-1080-crop-000000.jpg?v=10e9bb0d2e"
     ],
-    "tmdb_id": "83670"
+    "tmdb_id": "83670",
+    "wiki_tries": 1
   },
   "Pumping Iron|1977": {
     "lbxd": {
@@ -9799,7 +9814,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Misfits (1961 film)",
+      "imdb_id": "tt0055184",
+      "extract_pt": "The Misfits (bra: Os Desajustados; prt: Os Inadaptados) é um filme de drama estadunidense, lançado em 1961, dirigido por John Huston e escrito por Arthur Miller, que adaptou seu próprio conto de 1957. O elenco principal conta com Clark Gable, Marilyn Monroe e Montgomery Clift, ao lado de Thelma Ritter e Eli Wallach. O filme foi o último trabalho concluído por Gable (que faleceu três meses antes da estreia) e Monroe (que morreu um ano após o lançamento). Lançado pela United Artists em 1º de fevereiro de 1961, foi um fracasso comercial, mas recebeu aclamação da crítica por seu roteiro e pelas atuações."
+    },
     "cinema": {
       "plot_pt": "Último filme finalizado de Marilyn Monroe, The Misfits é um faroeste dramático escrito por Arthur Miller, o marido da atriz na época. Monroe interpreta uma mulher recém-divorciada que, no deserto do Nevada, se cruza com um grupo de homens: um cowboy (Clark Gable, também no seu último filme), o seu amigo aventureiro (Eli Wallach) e um jovem fragilizado e inquieto (Montgomery Clift). Num registo mais contido, Marilyn surge despida dos seus trejeitos habituais, revelando uma vulnerabilidade rara. Insólito no cinema americano da época, o filme afasta-se do classicismo hollywoodiano e, embora tenha falhado comercialmente, é hoje considerado um marco moderno e uma obra-prima dos anos 60."
     },
@@ -9810,7 +9829,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/8q/7j/v6/up/misfits-1920-1920-1080-1080-crop-000000.jpg?v=2df0a75774"
     ],
-    "tmdb_id": "11536"
+    "tmdb_id": "11536",
+    "wiki_tries": 1
   },
   "Spoor|2017": {
     "lbxd": {
@@ -12161,7 +12181,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Les Amants du Pont-Neuf",
+      "imdb_id": "tt0101318",
+      "extract_pt": "Les Amants du Pont-Neuf (bra: Os Amantes de Pont-Neuf; prt: Les amants du Pont-Neuf) é um filme de drama de França dirigido por Leos Carax."
+    },
     "cinema": {
       "plot_pt": "Alex (Denis Lavant) e Michèle (Juliette Binoche) são duas almas à deriva que se cruzam na ponte mais antiga de Paris. Ele vive na rua; ela perde gradualmente a visão. Num verão intenso, nasce um amor tão arrebatador quanto tóxico, vivido à margem da cidade e das suas regras. Filmado como um delírio romântico visual, este romance radical de Leos Carax transforma Paris num território de paixão absoluta, onde amar é também um ato de resistência. Inclui uma das mais belas cenas do cinema europeu dos anos 90: um fogo de artifício que explode sobre Paris, espelhando a intensidade do amor nocivo entre os protagonistas.\nEntrada livre"
     },
@@ -12172,7 +12196,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/kk/w0/ah/4o/lovers-on-the-bridge-1920-1920-1080-1080-crop-000000.jpg?v=a8b8e83ea8"
     ],
-    "tmdb_id": "2767"
+    "tmdb_id": "2767",
+    "wiki_tries": 1
   },
   "Romeo + Juliet|1996": {
     "lbxd": {
@@ -67420,14 +67445,30 @@
     "wiki_tries": 3
   },
   "It Went With The Sea|2024": {
-    "lbxd": null,
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/1/6/0/2/7/1316027-it-went-with-the-sea-0-500-0-750-crop.jpg?v=59fb32cc9f",
+      "description": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
+      "genres": [
+        "Documentary"
+      ],
+      "country": null,
+      "lb_director": "Matilde César",
+      "lb_director_slug": "matilde-cesar-1",
+      "lb_year": 2025,
+      "lb_title": "It Went With The Sea",
+      "backdrop": null,
+      "imdb_id": null,
+      "tmdb_id": "1438226"
+    },
     "omdb": null,
     "wiki": null,
     "cinema": {
       "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece."
     },
     "dir_checked": true,
-    "stills": null
+    "stills": null,
+    "tmdb_id": "1438226"
   },
   "Black Burns Fast|2025": {
     "lbxd": {
@@ -105236,7 +105277,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Lady Vanishes",
+      "imdb_id": "tt0030341",
+      "extract_pt": "The Lady Vanishes é um filme britânico de 1938, do gênero suspense, dirigido por Alfred Hitchcock, com roteiro baseado no romance The Wheel Spins, de Ethel Lina White.\nA habitual aparição de Hitchcock ocorre quase ao final do filme, na Victoria Station fumando um cigarro.\nThe Lady Vanishes foi refilmado como Mistérios na Bavária em 1979, com direção de Anthony Page e com Elliot Gould,  Cybill Shepherd e Angela Lansbury nos principais papéis."
+    },
     "cinema": {
       "plot_pt": "Durante um nevão, um grupo de passageiros fica retido numa estalagem, à espera de que as linhas férreas sejam desbloqueadas para seguirem viagem até ao Reino Unido. A jovem Iris faz amizade com a enigmática Sra. Froy, que desaparece misteriosamente quando o comboio retoma o percurso — e os restantes viajantes negam que esta tenha existido. Com a ajuda de Gilbert, um musicólogo, Iris tenta descobrir a verdade. O êxito internacional desta obra de Hitchcock, eleita pelo BFI como um dos melhores filmes britânicos do século XX, consolidou o prestígio do realizador e abriu caminho para a sua transição para Hollywood."
     },
@@ -105247,7 +105292,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/2i/rd/fy/so/the-lady-vanishes-1920-1920-1080-1080-crop-000000.jpg?v=7124e5dde6"
     ],
-    "tmdb_id": "940"
+    "tmdb_id": "940",
+    "wiki_tries": 1
   },
   "Foreign Land|1995": {
     "lbxd": {
@@ -105300,7 +105346,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Foreign Land (film)",
+      "imdb_id": "tt0114651",
+      "extract_pt": "Terra Estrangeira é um filme luso-brasileiro de 1996, do gênero drama, dirigido por Walter Salles e co-dirigido por Daniela Thomas. Em novembro de 2015 o filme entrou na lista feita pela Associação Brasileira de Críticos de Cinema (Abraccine) dos 100 melhores filmes brasileiros de todos os tempos."
+    },
     "cinema": {
       "plot_pt": "Nas palavras de Walter Salles, \"Terra Estrangeira aborda uma sensação de não pertença e de orfandade que os anos Fernando Collor de Mello realçaram. Esse exílio é ao mesmo tempo político, económico e existencial”. É nesta onda de angústia nacional que o brasileiro Paco atravessa um oceano para chegar a Portugal. Lá, encontra outros brasileiros que se sentem cada vez mais estrangeiros, entre eles, Alex (Fernanda Torres) e Miguel (Alexandre Borges)."
     },
@@ -105311,7 +105361,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/7k/wz/9n/eh/foreign-1920-1920-1080-1080-crop-000000.jpg?v=7315bd63b6"
     ],
-    "tmdb_id": "57811"
+    "tmdb_id": "57811",
+    "wiki_tries": 1
   },
   "The NeverEnding Story|1984": {
     "lbxd": {
@@ -105368,7 +105419,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The NeverEnding Story (film)",
+      "imdb_id": "tt0088323",
+      "extract_pt": "The NeverEnding Story (em alemão: Die unendliche Geschichte) (Brasil: A História Sem Fim / Portugal: História Interminável) é um filme de fantasia épico germano-americano de 1984 baseado no romance de mesmo nome escrito por Michael Ende. O filme foi dirigido e coescrito por Wolfgang Petersen (seu primeiro filme em inglês) e estrelado por Barret Oliver, Noah Hathaway, Tami Stronach, Moses Gunn, Thomas Hill e Alan Oppenheimer como as vozes de Falkor e Gmork. Na época de seu lançamento, foi o filme mais caro produzido fora dos EUA ou da URSS. Ele foi seguido por duas sequências: The NeverEnding Story II: The Next Chapter e The NeverEnding Story III: Escape From Fantasia."
+    },
     "cinema": {
       "plot_pt": "Bastian, um rapaz solitário perseguido na escola por bullies, descobre um misterioso livro que o transporta para Fantasia — um reino ameaçado pelo Nada. Imerso na leitura, acompanha Atreyu, um jovem guerreiro que, com o dragão Falkor, luta para salvar o seu universo. Entre realidade e imaginação, Bastian descobre o poder transformador das histórias. Um clássico dos anos 80 que marcou uma geração, História Interminável regressa ao grande ecrã numa cópia restaurada em 4K, convidando-nos a redescobrir a magia de sonhar."
     },
@@ -105379,6 +105434,7 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/zs/qh/6c/u1/nevermind-1920-1920-1080-1080-crop-000000.jpg?v=567c7d237d"
     ],
-    "tmdb_id": "34584"
+    "tmdb_id": "34584",
+    "wiki_tries": 1
   }
 }
