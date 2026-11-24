@@ -3344,5 +3344,25 @@
     "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Stanley_O%27Toole%2C_Dennis_Quaid%2C_Wolfgang_Petersen_%28cropped2%29.jpg/500px-Stanley_O%27Toole%2C_Dennis_Quaid%2C_Wolfgang_Petersen_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "bio": "Wolfgang Petersen (14 March 1941 – 12 August 2022) was a German film and television director, screenwriter and producer. His international breakthrough was the war film Das Boot (1981), which earned him Academy Award nominations for Best Director and Best Adapted Screenplay. He subsequently directed the blockbuster fantasy film The NeverEnding Story (1984), based on the 1979 novel of the same name.",
     "tries": 1
+  },
+  "Jane Campion": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/AV0A6422_Henriette_Raker%2C_Jane_Campion%2C_Petra_M%C3%BCller_1.jpg/500px-AV0A6422_Henriette_Raker%2C_Jane_Campion%2C_Petra_M%C3%BCller_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Dame Elizabeth Jane Campion (born (1954-04-30)April 30, 1954) is a New Zealand filmmaker whose accolades include two Academy Awards. From a feminist perspective, her films often explore themes such as female desire, sexuality, autonomy, and artistic expression, often portraying women’s pursuit of freedom and independence through their conflicts with patriarchy and tradition. Campion is best known for writing and directing the critically acclaimed films The Piano (1993), which earned her the Academy Award for Best Original Screenplay, and The Power of the Dog (2021), which earned her the Academy Award for Best Director, becoming only the third woman to win the award (after Kathryn Bigelow and Chloé Zhao).",
+    "tries": 1
+  },
+  "Elem Klimov": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Moscow_20200916_122131.jpg/500px-Moscow_20200916_122131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Elem Germanovich Klimov (Russian: Элем Германович Климов; 9 July 1933 – 26 October 2003) was a Soviet and Russian filmmaker. He studied at the Gerasimov Institute of Cinematography, and was married to film director Larisa Shepitko. Klimov is best known for his final film, Come and See (Иди и смотри), which follows a teenage boy in German-occupied Byelorussia during World War Two and which received universal acclaim.",
+    "tries": 1
+  },
+  "Denis Villeneuve": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg/500px-DVilleneuveRFH121024_%2812_of_23%29_%2854061976489%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Denis Villeneuve (French: [dəni vilnœv]; born October 3, 1967) is a Canadian film director and screenwriter. He has won seven Canadian Screen Awards as well as nominations for four Academy Awards, five BAFTA Awards, and two Golden Globe Awards. Villeneuve's films have grossed more than $1.8 billion worldwide.",
+    "tries": 1
+  },
+  "Michelangelo Antonioni": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Michelangelo_Antonioni_portrait_%28cropped%29.jpg/500px-Michelangelo_Antonioni_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Michelangelo Antonioni ( AHN-toh-NYOH-nee or  an-TOH-; Italian: [mikeˈlandʒelo antoˈnjoːni]; 29 September 1912 – 30 July 2007) was an Italian film director, screenwriter, and editor. He is best known for a trio of films often dubbed the \"alienation trilogy\": L'Avventura (1960), La Notte (1961), and L'Eclisse (1962); the English-language film Blowup (1966); and the multilingual  The Passenger (1975). His films have been described as \"enigmatic and intricate mood pieces\" that feature striking visual composition, subdued narratives, and a preoccupation with modern landscapes.",
+    "tries": 1
   }
 }

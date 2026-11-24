@@ -2910,11 +2910,18 @@
     "lbxd": {
       "rating": 3.98,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/4/7/2/106472-farewell-0-500-0-750-crop.jpg?v=154a95f64d",
-      "description": "Matyora is a small village on an eponymous beautiful island; its existence is threatened with flooding by the construction of a dam, leaving its citizens forced to bid farewell to their beloved home.",
+      "description": "Matyora is a small village on a beautiful island with the same name. The existence of the village is threatened with flooding by the construction of a dam. This is the story of the inhabitants of Matyora and their farewell to their homeland.",
       "genres": [
         "Drama"
       ],
-      "country": "USSR"
+      "country": "USSR",
+      "lb_director": "Elem Klimov",
+      "lb_director_slug": "elem-klimov",
+      "lb_year": 1983,
+      "lb_title": "Farewell",
+      "backdrop": null,
+      "imdb_id": "tt0086149",
+      "tmdb_id": "139169"
     },
     "omdb": {
       "Title": "Farewell",
@@ -2947,7 +2954,15 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1983,
+      "plot_pt": "Matiora é uma pequena aldeia, numa ilha com o mesmo nome. A existência da aldeia é ameaçada pela construção de uma barragem. Esta é a história dos habitantes de Matiora, que assistem ao fim da aldeia e se despedem da sua terra."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "139169"
   },
   "O Couraçado Potemkine|1925": {
     "lbxd": {
@@ -22899,8 +22914,72 @@
     "omdb": null
   },
   "O Piano|1993": {
-    "lbxd": null,
-    "omdb": null
+    "lbxd": {
+      "rating": 3.85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/1/3/51413-the-piano-0-500-0-750-crop.jpg?v=3b2718521a",
+      "description": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Australia",
+      "lb_director": "Jane Campion",
+      "lb_director_slug": "jane-campion",
+      "lb_year": 1993,
+      "lb_title": "The Piano",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/wp/yi/rj/vd/the-piano-1920-1920-1080-1080-crop-000000.jpg?v=66d8d3a271",
+      "imdb_id": "tt0107822",
+      "tmdb_id": "713"
+    },
+    "omdb": {
+      "Title": "The Piano",
+      "Year": "1994",
+      "Rated": "R",
+      "Released": "11 Feb 1994",
+      "Runtime": "121 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Jane Campion",
+      "Writer": "Jane Campion",
+      "Actors": "Holly Hunter, Harvey Keitel, Sam Neill",
+      "Plot": "In the mid-19th century a mute woman is sent to New Zealand along with her young daughter and prized piano for an arranged marriage to a farmer, but is soon lusted after by a farm worker.",
+      "Language": "English, British Sign Language, Maori",
+      "Country": "New Zealand, Australia, France",
+      "Awards": "Won 3 Oscars. 65 wins & 57 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZiYTQ0MmEtY2RmYy00ZjRkLWI3NTctYTRhMGJlMzA4ZDg0XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "7.5",
+      "imdbVotes": "102,655",
+      "imdbID": "tt0107822",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$40,268,457",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 1993,
+      "plot_pt": "Finais do século XIX, Nova Zelândia. Ada, muda desde a infância e mãe de uma menina de nove anos, vai encontrar o seu novo marido aos confins do “bush”. Ele aceita transportar toda a sua mobília à excepção do seu adorado piano, que fica retido em casa de um vizinho. Incapaz de suportar esta perda, Ada aceita o acordo que este último lhe propõe: recuperar o piano tecla a tecla, submetendo-se às suas fantasias."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      32.2
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/wp/yi/rj/vd/the-piano-1920-1920-1080-1080-crop-000000.jpg?v=66d8d3a271"
+    ],
+    "tmdb_id": "713"
   },
   "SOCO A SOCO|None": {
     "lbxd": {
@@ -105436,5 +105515,96 @@
     ],
     "tmdb_id": "34584",
     "wiki_tries": 1
+  },
+  "Dune: Parte III|2026": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/5/7/4/6/1/1057461-dune-part-three-0-500-0-750-crop.jpg?v=f577c5b9e7",
+      "description": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "country": "USA",
+      "lb_director": "Denis Villeneuve",
+      "lb_director_slug": "denis-villeneuve",
+      "lb_year": 2026,
+      "lb_title": "Dune: Part Three",
+      "backdrop": "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/7/4/6/1/tmdb/fgISFNlz8ZBplHa5cNXDsPe6VYK-1920-1920-1080-1080-crop-000000.jpg?v=36c20f30db",
+      "imdb_id": "tt31378509",
+      "tmdb_id": "1170608"
+    },
+    "omdb": {
+      "Title": "Dune: Part Three",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "18 Dec 2026",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Denis Villeneuve",
+      "Writer": "Denis Villeneuve, Brian K. Vaughan, Frank Herbert",
+      "Actors": "Timothée Chalamet, Zendaya, Jason Momoa",
+      "Plot": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt31378509",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "year": 2026,
+      "plot_pt": "Dune Duna Parte Três decorre quase duas décadas após Paul Atreides ter tomado o controlo do Império. Agora um Imperador impiedoso, Paul tem de enfrentar as consequências do seu reinado à medida que velhos aliados regressam, ameaças aterrorizantes emergem e a traição espreita em cada sombra. Assombrado por visões do colapso imperial e pelo reaparecimento do seu grande amor perdido, Paul é arrastado para uma vasta conspiração, com Chani no centro do seu mistério. À medida que a rebelião alastra e os inimigos se aproximam, Paul tem de confrontar o verdadeiro custo do poder e o destino de quem mais ama."
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      50.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/7/4/6/1/tmdb/fgISFNlz8ZBplHa5cNXDsPe6VYK-1920-1920-1080-1080-crop-000000.jpg?v=36c20f30db"
+    ],
+    "tmdb_id": "1170608"
+  },
+  "Blow Up|1966": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/6/3/51163-blow-up-0-500-0-750-crop.jpg?v=f30e99028b",
+      "description": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "country": "UK",
+      "lb_director": "Michelangelo Antonioni",
+      "lb_director_slug": "michelangelo-antonioni",
+      "lb_year": 1966,
+      "lb_title": "Blow-Up",
+      "backdrop": null,
+      "imdb_id": "tt0060176",
+      "tmdb_id": "1052"
+    },
+    "omdb": null,
+    "wiki": {
+      "title_en": "Blowup",
+      "imdb_id": "tt0060176",
+      "extract_pt": "Blow-Up (pt: Blow-Up - História de um Fotógrafo / br: Blow-Up - Depois Daquele Beijo) é um filme ítalo-britânico de 1966. Foi o primeiro filme em língua inglesa do cineasta italiano Michelangelo Antonioni e conta a história do envolvimento acidental de um fotógrafo com um crime de morte, baseado num pequeno conto de Julio Cortázar, Las Babas del Diablo, publicado em 1959, e na vida do famoso fotógrafo da época da Swinging London, o britânico David Bailey.\nO filme, que conquistou o Grand Prix do Festival de Cinema de Cannes, foi escrito por Antonioni e Tonino Guerra e traz no elenco David Hemmings, Vanessa Redgrave, Sarah Miles, Jane Birkin - nas primeiras cenas de nu frontal em filme britânico dirigido ao grande público -  e a supermodelo Veruschka, que interpreta a si própria e tem uma cena então considerada como o \"mais sexy momento cinematográfico da história\", pela revista especializada Premiere.\nO filme foi produzido por Carlo Ponti e em sua trilha sonora traz o jazz de Herbie Hancock e o rock dos Yardbirds."
+    },
+    "cinema": {
+      "year": 1966
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1052"
   }
 }
