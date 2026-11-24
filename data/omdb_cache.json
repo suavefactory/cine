@@ -2962,7 +2962,8 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "139169"
+    "tmdb_id": "139169",
+    "wiki_tries": 1
   },
   "O Couraçado Potemkine|1925": {
     "lbxd": {
@@ -22967,7 +22968,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "The Piano",
+      "imdb_id": "tt0107822",
+      "extract_pt": "The Piano (prt/bra: O Piano) é um filme australo-franco-neozelandês de 1993, do gênero drama romântico, escrito e dirigido pela neozelandesa Jane Campion. Estrelado por Holly Hunter, Harvey Keitel, Sam Neill e Anna Paquin (em seu primeiro papel), o filme é ambientado em meados do século 19 e conta a história de uma escocesa muda que viaja com sua filha para uma parte remota da Nova Zelândia para cumprir seu casamento arranjado com um neozelandês.\nO Piano foi um sucesso comercial e de crítica, e arrecadou 140 milhões de dólares em todo o mundo, contra um orçamento de 7 milhões. Hunter e Paquin receberam muitos elogios por suas atuações."
+    },
     "cinema": {
       "year": 1993,
       "plot_pt": "Finais do século XIX, Nova Zelândia. Ada, muda desde a infância e mãe de uma menina de nove anos, vai encontrar o seu novo marido aos confins do “bush”. Ele aceita transportar toda a sua mobília à excepção do seu adorado piano, que fica retido em casa de um vizinho. Incapaz de suportar esta perda, Ada aceita o acordo que este último lhe propõe: recuperar o piano tecla a tecla, submetendo-se às suas fantasias."
@@ -22979,7 +22984,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/wp/yi/rj/vd/the-piano-1920-1920-1080-1080-crop-000000.jpg?v=66d8d3a271"
     ],
-    "tmdb_id": "713"
+    "tmdb_id": "713",
+    "wiki_tries": 1
   },
   "SOCO A SOCO|None": {
     "lbxd": {
