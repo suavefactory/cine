@@ -2963,7 +2963,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "139169",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "O Couraçado Potemkine|1925": {
     "lbxd": {
@@ -105612,5 +105612,67 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1052"
+  },
+  "Nutcracker|1986": {
+    "lbxd": {
+      "rating": 3.43,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/8/1/5/6/58156-nutcracker-the-motion-picture-0-500-0-750-crop.jpg?v=570b007896",
+      "description": "In this Pacific Northwest Ballet performance, it is Christmas Eve and festivities are underway. Clara is excited when her godfather arrives with a bag full of gifts, one of which is an intriguing wooden nutcracker. That night, while the household sleeps, Clara visits the Christmas tree to inspect her nutcracker and soon finds herself immersed in a dream world both dark and enchanting.",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Carroll Ballard",
+      "lb_director_slug": "carroll-ballard",
+      "lb_year": 1986,
+      "lb_title": "Nutcracker: The Motion Picture",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/s6/r2/0k/zq/jFrIqkIcgiMKHLo7WXC2XRtiEkx-1920-1920-1080-1080-crop-000000.jpg?v=e47ea0689f",
+      "imdb_id": "tt0091658",
+      "tmdb_id": "71316"
+    },
+    "omdb": {
+      "Title": "Nutcracker",
+      "Year": "1986",
+      "Rated": "G",
+      "Released": "26 Nov 1986",
+      "Runtime": "89 min",
+      "Genre": "Family, Fantasy, Music",
+      "Director": "Carroll Ballard",
+      "Writer": "Kent Stowell, Maurice Sendak, E.T.A. Hoffmann",
+      "Actors": "Hugh Duncan Bigney Mitchell, Vanessa Sharp, Patricia Barker",
+      "Plot": "The colorful holiday classic is brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written to be as close to the original story. Based on the Pacific Northwest Ballet's original pro...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU0MWU2MTMtNTBiMS00ZDE3LTgxNzctZDY0OWMzMGZmYWJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "1,411",
+      "imdbID": "tt0091658",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$781,727",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      44.1
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/s6/r2/0k/zq/jFrIqkIcgiMKHLo7WXC2XRtiEkx-1920-1920-1080-1080-crop-000000.jpg?v=e47ea0689f"
+    ],
+    "tmdb_id": "71316"
   }
 }
