@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-11-25T18:37:20.362520+00:00",
+  "generated": "2026-11-26T18:18:14.363487+00:00",
   "movies": [
     {
       "id": "sao_jorge_12453",
@@ -62,10 +62,10 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12441",
       "title": "SOLOS | TRIBECA CINEMA SESSIONS",
-      "director": "Zihan Loo, Kan Lume",
+      "director": null,
       "duration": 112,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/3/8/0/498380-solos-0-500-0-750-crop.jpg?v=8a88ff334a",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/5/9/8/115598-solos-0-500-0-750-crop.jpg?v=45bcbca7e8",
       "genres": [
         "Drama"
       ],
@@ -80,9 +80,9 @@ window.CINEMA_DATA = {
           ]
         }
       ],
-      "year": 2005,
-      "plot": "Enrique is 37 years old, 12 years of living with his wife and two children. Sick with jealousy, he has just separated from his wife once more. Luis, 40 years old, has just finished a passionate relationship with a very hysterical TV journalist that he was madly in love with, and left him for another. One comes from the horror of jealousy and weariness, and the other from a passion that swept him away, and finally left him alone. As Enrique has nowhere to go, Luis invites him to live in his house, temporarily ...",
-      "country": "Argentina",
+      "year": 2007,
+      "plot": "Inspired by true events, Solos explores relationships among three individuals who are struggling to open up their feelings towards each other. Filmmakers Kan Lume and Loo Zihan co-directed this pathos that dramatizes the selfishness of love and its tragic outcomes. Set in contemporary Singapore, Solos follows the endeavors of Boy, Man and Mother. Having been in a relationship with Man (Lim Yu Beng) for years, Boy (Loo Zihan) eventually grows up and wishes to quit the relationship. Conversely, Man still wants to be with Boy and for them to settle together. Meanwhile, Mother (Goh Guat Kian) is devastated that her son (Boy) has abandoned her and has been in relationship with Man. As the three characters fight their own demons, Solos juxtaposes reality and surreal scenes in order to give clues of each character’s inner desires. The film has minimum conversation to give freedom to the audience's individual interpretation of the film.",
+      "country": "Singapore",
       "director_lbxd_slug": "loo-zihan"
     },
     {
@@ -141,8 +141,7 @@ window.CINEMA_DATA = {
       "plot": "Series will focus on politics, pop culture, race, religion, media and sex.",
       "title_en": "Totally Biased with W. Kamau Bell",
       "country": "United States",
-      "year": 2012,
-      "plot_pt": "Christopher Julius \"Chris\" Rock III (Andrews, 7 de fevereiro de 1965) é um comediante, ator, roteirista, produtor, dublador e cineasta americano, ganhador de quatro prêmios Emmy e três prêmios Grammy, conhecido por criar, escrever e narrar o seriado Todo Mundo Odeia o Chris, baseado em sua vida real.\nApós trabalhar como comediante de stand-up e atuar em inúmeros papéis coadjuvantes, Rock ganhou destaque ao atuar em uma série de especiais de comédia aclamados da HBO e ao se tornar membro de elenco do Saturday Night Live no início dos anos 90. Ele passou a aparecer em filmes de maior destaque, com papéis principais em O Céu Pode Esperar (2001), Um Pobretão na Casa Branca (2003), Golpe Baixo (2005), Acho Que Amo Minha Mulher (2007), Gente Grande (2010), Gente Grande 2 (2013) e No Auge da Fama (2014), além de dar voz à zebra Marty na franquia Madagascar, da Dreamworks.\nRock apresentou o Oscar 2005 e o Oscar 2016."
+      "year": 2012
     },
     {
       "id": "sao_jorge_12445",
@@ -326,7 +325,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12434",
       "title": "IN MEMORIAM | TRIBECA CINEMA SESSIONS",
-      "director": "Enrique Brasó",
+      "director": null,
       "duration": 138,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/8/2/3/180823-in-memoriam-0-500-0-750-crop.jpg?v=790bbfed16",
@@ -453,8 +452,7 @@ window.CINEMA_DATA = {
         61.0
       ],
       "country": "UK",
-      "director_lbxd_slug": "lance-hammer",
-      "plot_pt": "Queen at Sea (bra: Rainha ao Mar) é um longa-metragem britânico-estadunidense de drama lançado em 2026, escrito, dirigido e montado por Lance Hammer. Estrelado por Juliette Binoche, Tom Courtenay, e Anna Calder-Marshall, acompanha Amanda, uma mulher de meia-idade sofrendo com a demência de sua mãe. \nA estreia mundial do filme ocorreu em 17 de fevereiro de 2026, na competição principal do 76.º Festival Internacional de Cinema de Berlim, onde venceu o Urso de Prata de Prêmio do Júri e o Urso de Prata de Melhor Atuação Coadjuvante, concedido conjuntamente a Tom Courtenay e Anna Calder-Marshall. A produção recebeu elogios da crítica, sobretudo pela direção e pelas atuações."
+      "director_lbxd_slug": "lance-hammer"
     },
     {
       "id": "sao_jorge_12421",
@@ -511,134 +509,6 @@ window.CINEMA_DATA = {
       "plot": "In Nazi-occupied Paris, a young accompanist named Sophie Vasseur gets a job with famed singer Irene Brice. As Irene's husband Charles, a businessman collaborating with the Nazis, wrestles with his conscience, Sophie becomes obsessed with Irene, taking on the role of maid as well as accompanist, living life vicariously through Irene's triumphs and affairs.",
       "country": "France",
       "director_lbxd_slug": "claude-miller"
-    },
-    {
-      "id": "cinemateca_20446",
-      "title": "Efter Repetitionen",
-      "director": "Ingmar Bergman",
-      "year": 1984,
-      "duration": 72,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/9/7/6/22976-after-the-rehearsal-0-500-0-750-crop.jpg?v=ce2df3e6ee",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20446",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.59,
-      "plot": "Rational, exacting, and self-controlled theater director, Henrik Vogler, often stays after rehearsal to think and plan. On this day, Anna comes back, ostensibly looking for a bracelet. She is the lead in his new production of Strindberg's A Dream Play. She talks of her hatred for her mother, now dead, an alcoholic actress, who was Vogler's star and lover.",
-      "title_en": "After the Rehearsal",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/6n/f0/f4/ts/after%20the%20rehearsal-1920-1920-1080-1080-crop-000000.jpg?v=cf9e30e333"
-      ],
-      "stills_focus": [
-        37.4
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "ingmar-bergman"
-    },
-    {
-      "id": "cinemateca_20558",
-      "title": "The Vanishing Virginian",
-      "director": "Frank Borzage",
-      "year": 1942,
-      "duration": 97,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/8/0/3/1/3/80313-the-vanishing-virginian-0-500-0-750-crop.jpg?v=fba348eb57",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20558",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "18:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "The perineal District Attorney and conservative southern patriarch cherishes the old ways and does his best to adjust to change.",
-      "country": "USA",
-      "director_lbxd_slug": "frank-borzage"
-    },
-    {
-      "id": "cinemateca_20543",
-      "title": "Neobichainie Prikliuchenia Mistera Vesta Vb Strane Bolshevikov",
-      "director": "Lev Kulechov",
-      "year": 1924,
-      "duration": 70,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/0/1/3/0/30130-the-extraordinary-adventures-of-mr-west-in-the-land-of-the-0-500-0-750-crop.jpg?v=cbf640a9a5",
-      "genres": [
-        "Comedy"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20543",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.23,
-      "plot": "An ignorant and prejudiced American’s visit of Soviet Russia goes off the rails after his luggage is stolen and he is separated from his bodyguard.",
-      "title_en": "The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks",
-      "country": "USSR",
-      "director_lbxd_slug": "lev-kuleshov-1"
-    },
-    {
-      "id": "cinemateca_20536",
-      "title": "Noites",
-      "director": "Cláudia Tomaz",
-      "year": 2000,
-      "duration": 73,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/3/7/3/1/343731-nights-0-500-0-750-crop.jpg?v=e2044cd2fd",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20536",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "The pain, the weakness, the silence, the despair. These are some of the feelings faced by a couple lost in drugs. Nights can be seen as the story of people who made mistakes in life, but who still continue to seek happiness. It is about the despair of hopeless lives. The characters are, from the beginning, thrown into an empty and sterile world of indifference. In this true no-man's-land, João and Teresa are confronted with their precarious existence. They are broken pillars of a love that has become silent and painful, they share everything: the house, the drugs, the emptiness and the deprivations of their lives. To make the situation even more dramatic, Teresa falls ill. João does everything to help her, betting on his love for her. He, too, an addict, knows how to ease the pain of his beloved. But unfortunately this help also requires extra money, which forces João to prostitute himself, accelerating his process of destruction and his path to a tragic end.",
-      "plot_pt": "Noites (2000) é um filme português de Cláudia Tomaz, sua primeira longa metragem. Caracteriza-se por ter sido filmado sem financiamentos e por, sendo uma ficção, recorrer a personagens reais, em situações reais, e a actores profissionais, em situações encenadas. Caracteriza-se ainda pelo uso de uma pequena câmara digital nas filmagens. Na linha da tradição  portuguesa empenhada no cinema do real, é uma mistura de documentário e ficção que, pelo tema, pela técnica e pelas influências pessoais se identifica com o cinema de Pedro Costa.",
-      "title_en": "Nights",
-      "country": "Portugal",
-      "director_lbxd_slug": "claudia-tomaz"
-    },
-    {
-      "id": "cinemateca_20527",
-      "title": "Gora Se Ne Bo Premaknila",
-      "director": "Petra Seliskar",
-      "year": 2025,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/4/0/5/7/1324057-the-mountain-wont-move-0-500-0-750-crop.jpg?v=1675903042",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20527",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:30",
-          "cinema": "cinemateca",
-          "labels": [
-            "COM A PRESENÇA DE PETRA SELISKAR"
-          ]
-        }
-      ],
-      "rating": 3.51,
-      "plot": "On the heights of a mountain in North Macedonia, in the midst of a flock of 600 sheep being watched over by huge dogs, stands a refuge. Children's laughter escapes from the precarious shelter. They are a brotherhood, ranging from ages eight to twenty. When they are not hard at work, they are playing and discussing the meaning of life. Is their future really here?",
-      "title_en": "The Mountain Won’t Move",
-      "country": "North Macedonia",
-      "director_lbxd_slug": "petra-seliskar"
     },
     {
       "id": "cinemateca_20469",
@@ -830,6 +700,11 @@ window.CINEMA_DATA = {
           "date": "2026-11-27",
           "time": "21:30",
           "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "15:30",
+          "cinema": "cinemateca"
         }
       ],
       "rating": 3.62,
@@ -912,6 +787,11 @@ window.CINEMA_DATA = {
         {
           "date": "2026-11-28",
           "time": "19:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "15:30",
           "cinema": "cinemateca"
         }
       ],
@@ -1056,6 +936,224 @@ window.CINEMA_DATA = {
       ]
     },
     {
+      "id": "cinemateca_20569",
+      "title": "Arigato-San",
+      "director": "Hiroshi Shimizu",
+      "year": 1936,
+      "duration": 75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/7/2/0/81720-mr-thank-you-0-500-0-750-crop.jpg?v=d9e037b99e",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20569",
+      "sessions": [
+        {
+          "date": "2026-12-02",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.87,
+      "plot": "In Depression-era Japan, a courteous bus driver carries an eclectic group of passengers from the mountainous Izu to Tokyo.",
+      "title_en": "Mr. Thank You",
+      "country": "Japan",
+      "director_lbxd_slug": "hiroshi-shimizu-2"
+    },
+    {
+      "id": "cinemateca_20592",
+      "title": "They Had To See Paris",
+      "director": "Frank Borzage",
+      "year": 1929,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/5/6/1/170561-they-had-to-see-paris-0-500-0-750-crop.jpg?v=c3815e4cbf",
+      "genres": [
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20592",
+      "sessions": [
+        {
+          "date": "2026-12-02",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Oklahoma mechanic Pike Peters finds himself part owner of an oil field. His wife Idy, hitherto content, decides the family must go to Paris to get \"culture\" and meet \"the right kind of people.\" Pike and his grown son and daughter soon have flirtatious French admirers; Idy rents a chateau from an impoverished aristocrat; while Pike responds to each new development with homespun wit. In the inevitable clash, will pretentiousness and sophistication or common sense triumph?",
+      "plot_pt": "They Had to See Paris é um filme de comédia produzido nos Estados Unidos, dirigido por Frank Borzage e lançado em 1929.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20570",
+      "title": "Mori No Kajiya | Fue No Shiratama",
+      "director": "Hiroshi Shimizu",
+      "year": 1929,
+      "duration": 93,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/1/6/7/0/711670-the-blacksmith-of-the-forest-0-500-0-750-crop.jpg?v=d40a618d81",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20570",
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "A blacksmith is chased out of the village by the sinister village chief and forced to move to the forest with his wife and two sons. The blacksmith's younger son is disabled, and the other children in the village tease him. The older son aspires to become a doctor in order to fix his brother's leg. The film depicts the bond between a father and his sons. Only 18 minutes survive.",
+      "title_en": "The Blacksmith of the Forest",
+      "country": "Japan",
+      "director_lbxd_slug": "hiroshi-shimizu-2"
+    },
+    {
+      "id": "cinemateca_20625",
+      "title": "White Nights",
+      "director": "Taylor Hackford",
+      "year": 1985,
+      "duration": 137,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/4/7/41847-white-nights-0-500-0-750-crop.jpg?v=dea4e617f9",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20625",
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "time": "21:45",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.38,
+      "plot": "After his plane crashes in Siberia, a Russian dancer, who defected to the West, is held prisoner in the Soviet Union. The KGB keeps him under watch and tries to convince him to become a dancer for the Kirov Academy of Ballet again. Determined to escape, he befriends a black American expatriate and his pregnant Russian wife, who agree to help him escape to the American Embassy.",
+      "plot_pt": "O Sol da Meia-Noite  (original:White Nights), é um filme estadunidense de 1985, do gênero drama, dirigido por Taylor Hackford e com roteiro de James Goldman e Eric Hughes.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/bi/w2/dj/n5/nslaYodheZsVreDQfeu8qgEdr02%20(1)-1920-1920-1080-1080-crop-000000.jpg?v=b9a4cb5bc9"
+      ],
+      "stills_focus": [
+        31.3
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "taylor-hackford"
+    },
+    {
+      "id": "cinemateca_20626",
+      "title": "A Chorus Line",
+      "director": "Richard Attenborough",
+      "year": 1985,
+      "duration": 118,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/7/7/50777-a-chorus-line-0-500-0-750-crop.jpg?v=aafd742a4e",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20626",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.26,
+      "plot": "A group of dancers congregate on the stage of a Broadway theatre to audition for a new musical production directed by Zach. After the initial eliminations, seventeen hopefuls remain, among them Cassie, who once had a tempestuous romantic relationship with Zach. She is desperate enough for work to humble herself and audition for him; whether he's willing to let professionalism overcome his personal feelings about their past remains to be seen.",
+      "plot_pt": "A Chorus Line (br: Chorus Line - Em Busca da Fama – pt: Chorus Line - O Filme) é um filme musical norte-americano de 1985, dirigido pelo britânico Richard Attenborough e estrelado por Michael Douglas. Seu roteiro é baseado no livro do musical do mesmo nome, escrito originalmente por James Kirkwood Jr. e Nicholas Dante, vencedor de nove prêmios Tony em 1976.",
+      "country": "USA",
+      "director_lbxd_slug": "richard-attenborough"
+    },
+    {
+      "id": "cinemateca_20628",
+      "title": "Curtas Metragens Prémio Mário Ruivo - Gerações Oceãnicas - \"O Oceano e as Profissões do Mar\"",
+      "director": null,
+      "year": null,
+      "duration": null,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20628",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "16:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20571",
+      "title": "Donguri To Shiinomi | Joi No Kiroku",
+      "director": "Hiroshi Shimizu",
+      "year": 1941,
+      "duration": 29,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjcyODhjMDMtYjVhOS00NTk1LTljYzUtMmE1NThhMzY2NDkzXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX300.jpg",
+      "genres": [
+        "Short",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20571",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "country": "Japan"
+    },
+    {
+      "id": "cinemateca_20595",
+      "title": "Song O'My Heart",
+      "director": "Frank Borzage",
+      "year": 1930,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/2/9/8/6/122986-song-o-my-heart-0-500-0-750-crop.jpg?v=19beffbf87",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20595",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "Broken hearts in Ireland. Sean is a great tenor, in semi-retirement, living in a village close to Mary, the woman he’s always loved. Mary’s aunt convinced her to marry a man for his money; he has recently deserted her, leaving her penniless. She and her two children, Eileen and Tad, move in with the selfish and austere aunt. Eileen is falling in love with Fergus, a young man who’s off to Dublin to seek his fortune. Sean is drawn out of retirement and goes on tour in America. At his first concert, he’s nervous and out of sorts until the last song, when peace descends on him like a gift. What has happened, and can family life be set right?",
+      "title_en": "Song o' My Heart",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20572",
+      "title": "Minato No Nihon Musume",
+      "director": "Hiroshi Shimizu",
+      "year": 1933,
+      "duration": 78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/9/239-japanese-girls-at-the-harbor-0-500-0-750-crop.jpg?v=aff117ad1c",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20572",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.76,
+      "plot": "Set in the port city of Yokohama, two girls, Sunako and Dora who attend a Christian school, pledge to be friends. But when a youth named Henry appears on his motorcycle and offers to take Sunako for a ride, we know that this friendship won't last and that the lives of both girls will change in ways they are barely able to comprehend, and can do little to change.",
+      "title_en": "Japanese Girls at the Harbor",
+      "country": "Japan",
+      "director_lbxd_slug": "hiroshi-shimizu-2"
+    },
+    {
       "id": "cinemateca_20560",
       "title": "Nutcracker",
       "director": "Carroll Ballard",
@@ -1086,6 +1184,125 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "carroll-ballard"
+    },
+    {
+      "id": "cinemateca_20573",
+      "title": "Ginga",
+      "director": "Hiroshi Shimizu",
+      "year": 1931,
+      "duration": 188,
+      "poster": null,
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20573",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "18:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "country": "Japan"
+    },
+    {
+      "id": "cinemateca_20574",
+      "title": "Daigaku No Wakadanna",
+      "director": "Hiroshi Shimizu",
+      "year": 1933,
+      "duration": 85,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/6/7/9/254679-the-boss-s-son-at-college-0-500-0-750-crop.jpg?v=224363f543",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20574",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "The story deals with Fuji, nicknamed Waka-danna (Young Master), the star athlete on his university's rugby team. The son of a wealthy soy sauce manufacturer, Fuji basks in the glory of his athletic celebrity. Attracting the attention of admiring young women, Fuji resists family pressure to settle down and marry after college. Instead, he spends much of his time drinking and womanizing, behavior which eventually leads the college officials to expel him from the team.",
+      "title_en": "The Boss's Son at College",
+      "country": "Japan",
+      "director_lbxd_slug": "hiroshi-shimizu-2"
+    },
+    {
+      "id": "cinemateca_20597",
+      "title": "A Farewell To Arms",
+      "director": "Frank Borzage",
+      "year": 1932,
+      "duration": 78,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/7/6/7/37767-a-farewell-to-arms-0-500-0-750-crop.jpg?v=dd64625bad",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20597",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.34,
+      "plot": "A tale of the World War I love affair, begun in Italy, between American ambulance driver Lt. Frederic Henry and British nurse Catherine Barkley. Eventually separated by Frederic's transfer, tremendous challenges and difficult decisions face each as the war rages on.",
+      "plot_pt": "A Farewell to Arms (bra: Adeus às Armas; prt: O Adeus às Armas) é um filme estadunidense de 1932, do gênero drama de guerra, dirigido por Frank Borzage, com aclamadas atuações dos astros Gary Cooper e Helen Hayes. \nTrata-se da primeira adaptação de um romance de Ernest Hemingway para o cinema. Indicado a quatro prêmios Oscar, ganhou nas categorias Gravação de Som e Fotografia. Por imposição da Paramount Pictures, o filme tem final feliz, diferentemente do que acontece no livro, mas isso foi corrigido na reprise, em 1948.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20629",
+      "title": "The Insider",
+      "director": "Michael Mann",
+      "year": 1999,
+      "duration": 157,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/l7/vs/7t/qj/sYQsmMl4oG56NtFaNkDxuJhhODa-0-500-0-750-crop.jpg?v=2ee2c41378",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20629",
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 4.1,
+      "plot": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+      "plot_pt": "The Insider (bra: O Informante; prt: O Informador) é um filme estadunidense de 1999 dos gêneros drama biográfico e suspense, dirigido por Michael Mann, com roteiro dele e de Eric Roth baseado no artigo \"The Man Who Knew Too Much\", de Marie Brenner. O filme é estrelado por Al Pacino, Russell Crowe, Christopher Plummer, Bruce McGill, Diane Venora e Michael Gambon.\nUma versão ficcionalizada de uma história real, o filme gira em torno do polêmico segmento do programa 60 Minutes sobre Jeffrey Wigand, um denunciante da indústria do tabaco. A trama retrata a luta de Wigand e do produtor da CBS, Lowell Bergman, para defender seu testemunho contra os esforços da CBS e do ex-empregador de Wigand para desacreditá-lo e silenciá-lo.",
+      "country": "USA",
+      "director_lbxd_slug": "michael-mann"
+    },
+    {
+      "id": "cinemateca_20575",
+      "title": "Naki Nureta Haru No Onna Yo",
+      "director": "Hiroshi Shimizu",
+      "year": 1933,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/7/3/5/2/257352-a-woman-crying-in-spring-0-500-0-750-crop.jpg?v=53c349abc4",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20575",
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.58,
+      "plot": "Kenji and Chuko travel to Hokkaido as migrant workers and enlist as miners under the strict leadership of Guzuyasu. On the boat journey to Hokkaido, Kenji attracts Ohama, who is travelling to Hokkaido to open a bar. When Kenji visits the bar, he chases away a sailor who was hassling a shy girl, Ofuji, which makes Ohama jealous.",
+      "title_en": "A Woman Crying in Spring",
+      "country": "Japan",
+      "director_lbxd_slug": "hiroshi-shimizu-2"
     },
     {
       "id": "cinemateca_20476_0",
@@ -1226,6 +1443,114 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "buster-keaton"
     },
     {
+      "id": "cinemateca_20627_0",
+      "title": "Rhythmus Und Tanz",
+      "director": "Wilhelm Prager",
+      "year": 1932,
+      "duration": 12,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20627",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "16:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20627_1",
+      "title": "A Dancer’s World",
+      "director": "Peter Glushanok",
+      "year": 1957,
+      "duration": 31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/7/9/9/113799-a-dancer-s-world-0-500-0-750-crop.jpg?v=40966e9904",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20627",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "16:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.58,
+      "plot": "A glimpse into the world and methodology of dancer Martha Graham.",
+      "country": "USA",
+      "director_lbxd_slug": "peter-glushanok"
+    },
+    {
+      "id": "cinemateca_20627_2",
+      "title": "Gerhard Bohner: Tänzer & Choreograph",
+      "director": "Ulrich Tegeder",
+      "year": 1984,
+      "duration": 13,
+      "poster": null,
+      "genres": [],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20627",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "16:00",
+          "cinema": "cinemateca"
+        }
+      ]
+    },
+    {
+      "id": "cinemateca_20598_0",
+      "title": "THE GOOD PROVIDER (fragmento)",
+      "director": "Frank Borzage",
+      "year": 1922,
+      "duration": 8,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/8/4/7/7/548477-the-good-provider-0-500-0-750-crop.jpg?v=670fa749c5",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20598",
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "time": "21:30",
+          "cinema": "cinemateca",
+          "labels": [
+            "Sessão com apresentação"
+          ]
+        }
+      ],
+      "plot": "A prosperous small-town peddler accedes to his family's wish to move from their secure existence to the uncertainty of New York City. It proves fruitless and eventually his kin sees the error of their ways and return to their true home.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20598_1",
+      "title": "The Pride Of Palomar",
+      "director": "Frank Borzage",
+      "year": 1922,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/1/6/8/7/341687-the-pride-of-palomar-0-500-0-750-crop.jpg?v=1a20f8c684",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20598",
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "time": "21:30",
+          "cinema": "cinemateca",
+          "labels": [
+            "Sessão com apresentação"
+          ]
+        }
+      ],
+      "plot": "A soldier inaccurately reported as dead returns home to his Spanish family’s estate in California, only to find his father deceased and his ancestral land in the hands of strangers.",
+      "country": "United States",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
       "id": "nimas_os-christophers-2025",
       "title": "Os Christophers",
       "director": "Steven Soderbergh",
@@ -1239,21 +1564,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/os-christophers-2025",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "16:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:15",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
         {
           "date": "2026-11-26",
           "time": "19:15",
@@ -1301,44 +1611,6 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "steven-soderbergh"
-    },
-    {
-      "id": "nimas_viver-ikiru-1952",
-      "title": "Viver - Ikiru",
-      "director": "Akira Kurosawa",
-      "year": 1952,
-      "duration": 143,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/5/9/5/49595-ikiru-0-500-0-750-crop.jpg?v=3b6666bd18",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/viver-ikiru-1952",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "18:00",
-          "cinema": "nimas",
-          "labels": [
-            "Ciclo CINEMA & FILOSOFIA – Comentário por João Constâncio"
-          ]
-        }
-      ],
-      "rating": 4.52,
-      "plot": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
-      "plot_pt": "“O mais belo, o mais sábio e o mais comovente dos filmes japoneses que me foi dado ver.” – André Bazin",
-      "title_en": "Ikiru",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/1-1-copy.jpg",
-        "https://medeiafilmes.com/uploads/library/1496199938_1858146299592e330251317.jpg",
-        "https://medeiafilmes.com/uploads/library/1496199938_1874745880592e33025123a.jpg"
-      ],
-      "stills_focus": [
-        49.3,
-        32.0,
-        39.8
-      ],
-      "country": "Japan",
-      "director_lbxd_slug": "akira-kurosawa"
     },
     {
       "id": "nimas_primetime-2026",
@@ -1476,41 +1748,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "john-g-avildsen"
     },
     {
-      "id": "nimas_duas-estacoes-dois-desconhecidos-2025",
-      "title": "Duas Estações, Dois Desconhecidos",
-      "director": "Sho Miyake",
-      "year": 2025,
-      "duration": 89,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/9/6/5/2/1339652-two-seasons-two-strangers-0-500-0-750-crop.jpg?v=294be8ef47",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/duas-estacoes-dois-desconhecidos-2025",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.55,
-      "plot": "In summer, Nagisa and Natsuo meet by the sea. Their vacant gazes reflect each other as they exchange awkward words and wade into the rain-drenched ocean. In winter, Li, a screenwriter, travels to a snow-covered village. There, she finds a guesthouse run by Benzo.",
-      "plot_pt": "No Verão, numa cidade costeira, Nagisa, turista, e Natsuo encontram-se e trocam palavras desconfortáveis perante o oceano azul. No Inverno, a argumentista Li, a lidar com um bloqueio criativo, visita uma aldeia coberta de neve, onde encontra uma pensão gerida pelo solitário Benzo. Com uma lembrança deixada pelo seu mentor, ela embarca numa viagem que dissolve as fronteiras entre realidade e memória. Momentos de surpresa, encontros lúdicos e breves ligações ecoam ao longo de duas estações, entrelaçando a vida de estranhos por paisagens de Verão e Inverno. Adaptando duas manga de Yoshitaru Tsuge, Sho Miyake concebe um estudo sensível e surpreendente sobre a conexão humana.",
-      "title_en": "Two Seasons, Two Strangers",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/aJM7KIdC5mNPjqKp8NdwvzyHceS.jpg",
-        "https://image.tmdb.org/t/p/w1280/hO7nwvpweIbnxGvVF6mc3eQkHKb.jpg",
-        "https://image.tmdb.org/t/p/w1280/wDI2jGf42RAHymKkagKwEfIJYDi.jpg"
-      ],
-      "stills_focus": [
-        24.4,
-        30.9,
-        23.3
-      ],
-      "country": "Japan",
-      "director_lbxd_slug": "sho-miyake-1"
-    },
-    {
       "id": "nimas_naza-2026",
       "title": "Naza",
       "director": "Yuval Abraham, Rachel Szor",
@@ -1522,21 +1759,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/naza-2026",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "17:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:45",
-          "cinema": "nimas"
-        },
         {
           "date": "2026-11-26",
           "time": "18:00",
@@ -1604,11 +1826,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/cavalo-selvagem-nove-2026",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-26",
           "time": "16:00",
@@ -1843,11 +2060,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/fatherland-2026",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "19:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-26",
           "time": "13:00",
@@ -2178,21 +2390,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-bola-negra-2026",
       "sessions": [
         {
-          "date": "2026-11-25",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "18:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-11-26",
           "time": "14:00",
           "cinema": "ideal"
@@ -2379,16 +2576,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/you-can-see-everything-2026",
       "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "16:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-25",
-          "time": "21:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-26",
           "time": "18:30",
@@ -3538,38 +3725,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "kelly-reichardt"
     },
     {
-      "id": "fernando_psicopata_vitoriana",
-      "title": "Psicopata Vitoriana",
-      "director": "Zachary Wigon",
-      "year": 2026,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/5/1/9/4/1265194-victorian-psycho-0-500-0-750-crop.jpg?v=092895bcaf",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/PSICOPATA-VICTORIANA",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "22:30",
-          "cinema": "fernando"
-        }
-      ],
-      "rating": 3.01,
-      "plot": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
-      "title_en": "Victorian Psycho",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/2/6/5/1/9/4/tmdb/e0fnXg2wzQIwojgguv2hxgWSelB-1920-1920-1080-1080-crop-000000.jpg?v=d3867720d8"
-      ],
-      "stills_focus": [
-        45.9
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "zachary-wigon"
-    },
-    {
       "id": "fernando_conversa_ac_orda",
       "title": "Conversa-Açorda",
       "director": "Miguel Góis",
@@ -4327,6 +4482,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -4811,6 +4967,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
+      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -5510,31 +5667,9 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "martin-mcdonagh"
-    },
-    {
-      "id": "culturgest_jogo-cruzado-10-ines-nunes-x-saba-alizadeh-tarta-relena-x-anouk-moyaux",
-      "title": "Inês Nunes x Saba Alizadeh / Tarta Relena x Anouk Moyaux",
-      "director": "Jogo Cruzado #10",
-      "year": null,
-      "duration": null,
-      "poster": "https://www.culturgest.pt/media/filer_public_thumbnails/filer_public/08/f3/08f3473c-f855-42c1-bc40-36330c8866eb/artboard_2.png__768x768_q85_crop_subsampling-2_upscale.png",
-      "genres": [],
-      "link": "https://www.culturgest.pt/en/whats-on/jogo-cruzado-10-ines-nunes-x-saba-alizadeh-tarta-relena-x-anouk-moyaux",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "21:00",
-          "cinema": "culturgest"
-        }
-      ]
     }
   ],
   "directors": {
-    "Zihan Loo, Kan Lume": {
-      "lbxd_slug": "loo-zihan",
-      "photo": null,
-      "bio": null
-    },
     "Rodolphe Marconi": {
       "lbxd_slug": "rodolphe-marconi",
       "photo": null,
@@ -5549,11 +5684,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "agnes-obadia-1",
       "photo": null,
       "bio": "Hans Billian (born Hans Joachim Hubert Backe, 15 April 1918 in Breslau (today, Wrocław, Poland) – 18 December 2007 in Gräfelfing, Bavaria) was a German film director, screenwriter, and actor noted for the \"sex comedies\" he directed in the 1970s. He was also credited as Hans Billan, Phillip Halliday, and Christian Kessler."
-    },
-    "Enrique Brasó": {
-      "lbxd_slug": "enrique-braso",
-      "photo": null,
-      "bio": "Spanish director and screenwriter"
     },
     "Michael LaHaie": {
       "lbxd_slug": "michael-lahaie",
@@ -5575,31 +5705,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Claude_Miller_Cannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Claude Miller (20 February 1942 – 4 April 2012) was a French film director, producer and screenwriter."
     },
-    "Ingmar Bergman": {
-      "lbxd_slug": "ingmar-bergman",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingmar_Bergman_%281966%29.jpg/500px-Ingmar_Bergman_%281966%29.jpg",
-      "bio": "Ernst Ingmar Bergman (14 July 1918 – 30 July 2007) was a Swedish film and theatre director and screenwriter. He is considered one of the greatest and most important filmmakers in the history of cinema, most notably as a prominent figure of both European film industry and Swedish cinema. His films have been described as \"profoundly personal meditations into the myriad struggles facing the psyche and the soul.\"\nAmong his most acclaimed works are The Seventh Seal (1957), Wild Strawberries (1957), Persona (1966) and Fanny and Alexander (1982), which were included in the 2012 edition of Sight & Sound's Greatest Films of All Time."
-    },
-    "Frank Borzage": {
-      "lbxd_slug": "frank-borzage",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States."
-    },
-    "Lev Kulechov": {
-      "lbxd_slug": "lev-kuleshov-1",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Za_schastem_1917_kuleshov_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "bio": "Soviet filmmaker and film theorist (1899–1970)"
-    },
-    "Cláudia Tomaz": {
-      "lbxd_slug": "claudia-tomaz",
-      "photo": null,
-      "bio": "Portuguese film director"
-    },
-    "Petra Seliskar": {
-      "lbxd_slug": "petra-seliskar",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Dr%C5%BEavna_proslava_ob_dnevu_kulture_-_55083617838_%28Petra_Seli%C5%A1kar_cropped%29.jpg/500px-Dr%C5%BEavna_proslava_ob_dnevu_kulture_-_55083617838_%28Petra_Seli%C5%A1kar_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": null
-    },
     "Nicholas Ray": {
       "lbxd_slug": "nicholas-ray",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Nicholas_Ray_%281953%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -5609,6 +5714,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "vitor-goncalves",
       "photo": null,
       "bio": "Vítor Gonçalves is a Portuguese filmmaker, film director, screenwriter and film producer. He is considered to be part of The School of Reis film family."
+    },
+    "Frank Borzage": {
+      "lbxd_slug": "frank-borzage",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States."
     },
     "Elia Kazan": {
       "lbxd_slug": "elia-kazan",
@@ -5660,10 +5770,30 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Hiroshi Shimizu": {
+      "lbxd_slug": "hiroshi-shimizu-2",
+      "photo": null,
+      "bio": "Hiroshi Shimizu  may refer to:"
+    },
+    "Taylor Hackford": {
+      "lbxd_slug": "taylor-hackford",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TaylorHackfordHWOFJan2013.jpg/500px-TaylorHackfordHWOFJan2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Taylor Edwin Hackford (born December 31, 1944) is an American film director and former president of the Directors Guild of America. He won the Academy Award for Best Live Action Short Film for Teenage Father (1979). Hackford went on to direct a number of highly regarded feature films, including An Officer and a Gentleman (1982), The Devil's Advocate (1997) and Ray (2004), for the latter of which he was nominated for an Academy Award for Best Director and Academy Award for Best Picture."
+    },
+    "Richard Attenborough": {
+      "lbxd_slug": "richard-attenborough",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Richard_Attenborough_%283x4_cropped%29.jpg/500px-Richard_Attenborough_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Richard Samuel Attenborough, Baron Attenborough ( AT-ən-bər-rə; 29 August 1923 – 24 August 2014) was an English actor, film director, and producer. He won a total of two Academy Awards, four BAFTA Awards, and six Golden Globe Awards for his directing and acting career spanning seven decades. He was knighted in 1976 for services to film and in 1983 he received the BAFTA Fellowship for lifetime achievement."
+    },
     "Carroll Ballard": {
       "lbxd_slug": "carroll-ballard",
       "photo": null,
       "bio": "Carroll Ballard (born October 14, 1937) is an American filmmaker. Originally a documentarian, he became known for directing sweeping, visually striking films with natural and ecological themes. His body of work includes the films The Black Stallion (1979), Never Cry Wolf (1983), and Fly Away Home (1996)."
+    },
+    "Michael Mann": {
+      "lbxd_slug": "michael-mann",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Michael_Mann_in_2023.jpg/500px-Michael_Mann_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Michael Kenneth Mann (born February 5, 1943) is an American film director, screenwriter, and producer. Best known for his stylized crime dramas, he has won two Primetime Emmy Awards, as well as earned nominations for four Academy Awards, two Golden Globe Awards, and won a BAFTA Award for producing The Aviator. His most acclaimed works include the films The Jericho Mile (1979), Thief (1981), The Keep (1983), Manhunter (1986), The Last of the Mohicans (1992), Heat (1995), The Insider (1999), Ali (2001), Collateral (2004), Public Enemies (2009), Blackhat (2015), and Ferrari (2023)."
     },
     "Charles Chaplin": {
       "lbxd_slug": "charlie-chaplin",
@@ -5680,15 +5810,25 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": null
     },
+    "Wilhelm Prager": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": "German actor, director and producer (1876-1955)"
+    },
+    "Peter Glushanok": {
+      "lbxd_slug": "peter-glushanok",
+      "photo": null,
+      "bio": "(1911-1996) cinematographer, director, composer"
+    },
+    "Ulrich Tegeder": {
+      "lbxd_slug": null,
+      "photo": null,
+      "bio": null
+    },
     "Steven Soderbergh": {
       "lbxd_slug": "steven-soderbergh",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/58th_Karlovy_Vary_International_Film_Festival%2C_Steven_Soderbergh_07_%28cropped%29.jpg/500px-58th_Karlovy_Vary_International_Film_Festival%2C_Steven_Soderbergh_07_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Steven Andrew Soderbergh ( SOH-dər-burg; born January 14, 1963) is an American filmmaker, cinematographer, and editor. A pioneer of modern independent cinema, Soderbergh later drew acclaim for formally inventive films made within the studio system. Soderbergh's directorial breakthrough, the indie drama Sex, Lies, and Videotape (1989), won the Palme d'Or  at the Cannes Film Festival, as well numerous other accolades and was a worldwide commercial success."
-    },
-    "Akira Kurosawa": {
-      "lbxd_slug": "akira-kurosawa",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
-      "bio": "Akira Kurosawa (黒澤 明 or 黒沢 明, Kurosawa Akira; March 23, 1910 – September 6, 1998) was a Japanese filmmaker who directed 30 feature films in a career spanning six decades. With a bold and dynamic style strongly influenced by Western cinema yet distinct from it, he is widely regarded as one of the greatest and most influential filmmakers in the history of cinema. Known as a hands-on filmmaker, he was heavily involved with all aspects of production as a director, writer, producer, and editor."
     },
     "Lance Oppenheim": {
       "lbxd_slug": "lance-oppenheim",
@@ -5709,11 +5849,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "john-g-avildsen",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/John_G._Avildsen_%281986%29.png/500px-John_G._Avildsen_%281986%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "John Guilbert Avildsen (December 21, 1935 – June 16, 2017) was an American film director. He is best known for directing Rocky (1976), which earned him the Academy Award for Best Director. He is also known for directing the first three films in The Karate Kid franchise (1984–1989)."
-    },
-    "Sho Miyake": {
-      "lbxd_slug": "sho-miyake-1",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Sho_Miyake_at_the_2025_Locarno_Film_Festival_13.jpg/500px-Sho_Miyake_at_the_2025_Locarno_Film_Festival_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Sho Miyake (三宅 唱, Miyake Shō; born 18 July 1984) is a Japanese director. In 2025, he won the Golden Leopard at the Locarno Film Festival for his film Two Seasons, Two Strangers."
     },
     "Yuval Abraham, Rachel Szor": {
       "lbxd_slug": "yuval-abraham",
@@ -5854,11 +5989,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "vincente-minnelli",
       "photo": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Vincent_Minelli_-_1950s.jpg/500px-Vincent_Minelli_-_1950s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Vincente Minnelli ( ; born Lester Anthony Minnelli; February 28, 1903 – July 25, 1986) was an American director. From a career spanning over half a century, he is best known for his sophisticated innovation and artistry in musical films. As of 2026, six of his films have been selected for preservation in the United States National Film Registry."
-    },
-    "Zachary Wigon": {
-      "lbxd_slug": "zachary-wigon",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zachary_Wigon_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Zachary Wigon is an American film critic and film director. He has directed the feature films The Heart Machine, Sanctuary, and Victorian Psycho."
     },
     "Miguel Góis": {
       "lbxd_slug": null,
@@ -6074,12 +6204,16 @@ window.CINEMA_DATA = {
       "lbxd_slug": "judith-godreche",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Judith_Godr%C3%A8che_2007.jpg/500px-Judith_Godr%C3%A8che_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Judith Godrèche (French pronunciation: [ʒydit ɡɔdʁɛʃ]; born 23 March 1972 in Paris) is a French actress, author and feminist activist, who has appeared in more than 30 films."
-    },
-    "Jogo Cruzado #10": {
-      "lbxd_slug": null,
-      "photo": null,
-      "bio": null
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "cinema": "Medeia Nimas",
+      "error": "Não foi possível extrair global.data para Nimas"
+    },
+    {
+      "cinema": "Campo Alegre",
+      "error": "Não foi possível extrair global.data para Campo Alegre"
+    }
+  ]
 };

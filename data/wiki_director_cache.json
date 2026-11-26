@@ -3369,5 +3369,35 @@
     "photo": null,
     "bio": "Carroll Ballard (born October 14, 1937) is an American filmmaker. Originally a documentarian, he became known for directing sweeping, visually striking films with natural and ecological themes. His body of work includes the films The Black Stallion (1979), Never Cry Wolf (1983), and Fly Away Home (1996).",
     "tries": 1
+  },
+  "Taylor Hackford": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/TaylorHackfordHWOFJan2013.jpg/500px-TaylorHackfordHWOFJan2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Taylor Edwin Hackford (born December 31, 1944) is an American film director and former president of the Directors Guild of America. He won the Academy Award for Best Live Action Short Film for Teenage Father (1979). Hackford went on to direct a number of highly regarded feature films, including An Officer and a Gentleman (1982), The Devil's Advocate (1997) and Ray (2004), for the latter of which he was nominated for an Academy Award for Best Director and Academy Award for Best Picture.",
+    "tries": 1
+  },
+  "Richard Attenborough": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Richard_Attenborough_%283x4_cropped%29.jpg/500px-Richard_Attenborough_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Richard Samuel Attenborough, Baron Attenborough ( AT-ən-bər-rə; 29 August 1923 – 24 August 2014) was an English actor, film director, and producer. He won a total of two Academy Awards, four BAFTA Awards, and six Golden Globe Awards for his directing and acting career spanning seven decades. He was knighted in 1976 for services to film and in 1983 he received the BAFTA Fellowship for lifetime achievement.",
+    "tries": 1
+  },
+  "Michael Mann": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Michael_Mann_in_2023.jpg/500px-Michael_Mann_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Michael Kenneth Mann (born February 5, 1943) is an American film director, screenwriter, and producer. Best known for his stylized crime dramas, he has won two Primetime Emmy Awards, as well as earned nominations for four Academy Awards, two Golden Globe Awards, and won a BAFTA Award for producing The Aviator. His most acclaimed works include the films The Jericho Mile (1979), Thief (1981), The Keep (1983), Manhunter (1986), The Last of the Mohicans (1992), Heat (1995), The Insider (1999), Ali (2001), Collateral (2004), Public Enemies (2009), Blackhat (2015), and Ferrari (2023).",
+    "tries": 1
+  },
+  "Wilhelm Prager": {
+    "photo": null,
+    "bio": "German actor, director and producer (1876-1955)",
+    "tries": 1
+  },
+  "Peter Glushanok": {
+    "photo": null,
+    "bio": "(1911-1996) cinematographer, director, composer",
+    "tries": 1
+  },
+  "Ulrich Tegeder": {
+    "photo": null,
+    "bio": null,
+    "tries": 1
   }
 }

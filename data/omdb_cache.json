@@ -103077,7 +103077,8 @@
       "original_title": "Nosferatu, eine Symphonie des Grauens",
       "genre": "Drama, Terror",
       "year": 1922,
-      "director": "F. W. Murnau"
+      "director": "F. W. Murnau",
+      "plot_pt": "Nosferatu, Eine Symphonie des Grauens (prt: Nosferatu, o Vampiro) é um filme alemão de 1922, em cinco atos, dirigido por Friedrich Wilhelm Murnau.\nO roteiro é uma adaptação do romance Drácula, de Bram Stoker, embora com nomes de personagens e lugares alterados, pois os herdeiros do escritor não concederam aos produtores autorização para adaptar a obra. Processado por violação de direitos autorais, a justiça ordenou a destruição das cópias do filme, mas algumas delas, entre as muitas já distribuídas, permaneceram guardadas até a morte da viúva de Bram Stoker e estão hoje em dia disponíveis em versões restauradas.[carece de fontes]?\nO filme teve uma refilmagem em 1979, Nosferatu: Phantom der Nacht, dirigida por Werner Herzog."
     },
     "dir_checked": true,
     "stills": null,
@@ -103282,7 +103283,8 @@
       "original_title": "Sunrise: A Song of Two Humans",
       "country": "EUA",
       "year": 1927,
-      "director": "F. W. Murnau"
+      "director": "F. W. Murnau",
+      "plot_pt": "Sunrise - A Song of Two Humans (bra/prt: Aurora) é um filme mudo de 1927, o primeiro dirigido por F. W. Murnau em Hollywood. Seu roteiro foi adaptado a partir do conto Viagem a Tilsit, do escritor alemão Herrman Suderman, embora nele possam ser inegavelmente encontrados vários elementos do romance Uma história americana, de Theodore Dreiser, lançado dois anos antes e o sucesso comercial literário daquela época nos Estados Unidos.\nUm dos mais importantes filmes da cinematografia mundial, e o até então mais caro lançado pela Fox Film Corporation, Aurora foi laureado com três Oscar em 1929. Recebeu, em 1989, a classificação de significância histórica, estética e cultural pela Biblioteca do Congresso dos Estados Unidos e foi selecionado para preservação pelo British Film Institute."
     },
     "dir_checked": true,
     "stills": null,
@@ -103778,7 +103780,8 @@
       "original_title": "Herr Tartüff",
       "country": "Alemanha",
       "year": 1925,
-      "director": "F. W. Murnau"
+      "director": "F. W. Murnau",
+      "plot_pt": "Herr Tartüffe (em Portugal, Tartufo) é um drama Kammerspiel mudo filmado entre fevereiro e abril de 1925 pelo diretor alemão F. W. Murnau.\nO filme estreou em 20 de novembro do mesmo ano, em Viena, Áustria, e somente veio a ser exibido na Alemanha em 25 de janeiro de 1926, por ocasião da inauguração do cinema Gloria-Palast, em Berlim.\nO roteiro do filme, baseado livremente na peça teatral Tartufo ou O impostor, escrita por Molière em 1664, trata de um beato dominado por sentimentos claramente anticlericais que, municiado de uma humildade hipócrita, ludibria e controla um homem casado, culminando com a repressão de sua relação marital fundamentada em princípios pseudorreligiosos."
     },
     "dir_checked": true,
     "stills": null,
@@ -103968,7 +103971,8 @@
       "original_title": "Faust: Eine Deutsche Volkssage",
       "country": "Alemanha",
       "year": 1926,
-      "director": "F. W. Murnau"
+      "director": "F. W. Murnau",
+      "plot_pt": "Faust - Eine Deutsche Volkssage (bra: Fausto) é um filme mudo alemão de 1926, um drama de horror dirigido por F. W. Murnau baseado na obra homônima de Goethe."
     },
     "dir_checked": true,
     "stills_focus": [
@@ -104932,7 +104936,8 @@
       "original_title": "Der letzte Mann",
       "country": "Alemanha",
       "year": 1925,
-      "director": "Friedrich W. Murnau"
+      "director": "Friedrich W. Murnau",
+      "plot_pt": "Der letzte Mann (br: A última gargalhada / pt: O últimos dos homens) é um filme alemão de 1924, do gênero Kammerspiel, dirigido por Friedrich Wilhelm Murnau e escrito por Carl Mayer."
     },
     "dir_checked": true,
     "stills_focus": [
@@ -105674,6 +105679,855 @@
       "https://a.ltrbxd.com/resized/sm/upload/s6/r2/0k/zq/jFrIqkIcgiMKHLo7WXC2XRtiEkx-1920-1920-1080-1080-crop-000000.jpg?v=e47ea0689f"
     ],
     "tmdb_id": "71316",
-    "wiki_tries": 1
+    "wiki_tries": 2
+  },
+  "Arigato-San|1937": {
+    "lbxd": {
+      "rating": 3.87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/7/2/0/81720-mr-thank-you-0-500-0-750-crop.jpg?v=d9e037b99e",
+      "description": "In Depression-era Japan, a courteous bus driver carries an eclectic group of passengers from the mountainous Izu to Tokyo.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1936,
+      "lb_title": "Mr. Thank You",
+      "backdrop": null,
+      "imdb_id": "tt0027307",
+      "tmdb_id": "100033"
+    },
+    "omdb": {
+      "Title": "Mr. Thank You",
+      "Year": "1936",
+      "Rated": "N/A",
+      "Released": "27 Feb 1936",
+      "Runtime": "76 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Yasunari Kawabata, Hiroshi Shimizu",
+      "Actors": "Ken Uehara, Ryuji Ishiyama, Einosuke Naka",
+      "Plot": "A friendly bus driver and his passengers over the duration of one journey through the mountains to the nearest train station.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDExZDUtYTllOS00YWZmLWI0OWYtMTJhNGFhMjgxMjU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "1,330",
+      "imdbID": "tt0027307",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "100033"
+  },
+  "They Had To See Paris|1929": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/0/5/6/1/170561-they-had-to-see-paris-0-500-0-750-crop.jpg?v=c3815e4cbf",
+      "description": "Oklahoma mechanic Pike Peters finds himself part owner of an oil field. His wife Idy, hitherto content, decides the family must go to Paris to get \"culture\" and meet \"the right kind of people.\" Pike and his grown son and daughter soon have flirtatious French admirers; Idy rents a chateau from an impoverished aristocrat; while Pike responds to each new development with homespun wit. In the inevitable clash, will pretentiousness and sophistication or common sense triumph?",
+      "genres": [
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1929,
+      "lb_title": "They Had to See Paris",
+      "backdrop": null,
+      "imdb_id": "tt0020490",
+      "tmdb_id": "243549"
+    },
+    "omdb": {
+      "Title": "They Had to See Paris",
+      "Year": "1929",
+      "Rated": "Passed",
+      "Released": "18 Sep 1929",
+      "Runtime": "95 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Owen Davis, Homer Croy, Sonya Levien",
+      "Actors": "Will Rogers, Irene Rich, Owen Davis Jr.",
+      "Plot": "Oklahoma mechanic Pike Peters finds himself part owner of an oil field. His wife Idy, hitherto content, decides that the family must go to Paris to get \"culture\" and meet \"the right kind of people.\" Pike and his grown son and daug...",
+      "Language": "English, French",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwOTcyNzY4MV5BMl5BanBnXkFtZTgwMTk4ODQwMjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "199",
+      "imdbID": "tt0020490",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "They Had to See Paris",
+      "imdb_id": "tt0020490",
+      "extract_pt": "They Had to See Paris é um filme de comédia produzido nos Estados Unidos, dirigido por Frank Borzage e lançado em 1929."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "243549"
+  },
+  "Mori No Kajiya | Fue No Shiratama|None": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/1/6/7/0/711670-the-blacksmith-of-the-forest-0-500-0-750-crop.jpg?v=d40a618d81",
+      "description": "A blacksmith is chased out of the village by the sinister village chief and forced to move to the forest with his wife and two sons. The blacksmith's younger son is disabled, and the other children in the village tease him. The older son aspires to become a doctor in order to fix his brother's leg. The film depicts the bond between a father and his sons. Only 18 minutes survive.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1929,
+      "lb_title": "The Blacksmith of the Forest",
+      "backdrop": null,
+      "imdb_id": "tt0342793",
+      "tmdb_id": "793905"
+    },
+    "omdb": {
+      "Title": "Mori no kajiya",
+      "Year": "1929",
+      "Rated": "N/A",
+      "Released": "05 Jan 1929",
+      "Runtime": "93 min",
+      "Genre": "N/A",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Tokusaburô Murakami",
+      "Actors": "Masao Inoue, Kaoru Futaba, Kinuyo Tanaka",
+      "Plot": "N/A",
+      "Language": "None",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODExZmVhNjctYjkyNC00NmQxLTlhNDItOWQ3ZDE2YmYwNDBkXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "10",
+      "imdbID": "tt0342793",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "793905"
+  },
+  "White Nights|1985": {
+    "lbxd": {
+      "rating": 3.38,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/8/4/7/41847-white-nights-0-500-0-750-crop.jpg?v=dea4e617f9",
+      "description": "After his plane crashes in Siberia, a Russian dancer, who defected to the West, is held prisoner in the Soviet Union. The KGB keeps him under watch and tries to convince him to become a dancer for the Kirov Academy of Ballet again. Determined to escape, he befriends a black American expatriate and his pregnant Russian wife, who agree to help him escape to the American Embassy.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Taylor Hackford",
+      "lb_director_slug": "taylor-hackford",
+      "lb_year": 1985,
+      "lb_title": "White Nights",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/bi/w2/dj/n5/nslaYodheZsVreDQfeu8qgEdr02%20(1)-1920-1920-1080-1080-crop-000000.jpg?v=b9a4cb5bc9",
+      "imdb_id": "tt0090319",
+      "tmdb_id": "16082"
+    },
+    "omdb": {
+      "Title": "White Nights",
+      "Year": "1985",
+      "Rated": "PG-13",
+      "Released": "06 Dec 1985",
+      "Runtime": "136 min",
+      "Genre": "Drama, Music",
+      "Director": "Taylor Hackford",
+      "Writer": "James Goldman, Eric Hughes, Nancy Dowd",
+      "Actors": "Mikhail Baryshnikov, Gregory Hines, Jerzy Skolimowski",
+      "Plot": "A Russian American ballet dancer's airplane is forced to land in USSR, where he's \"repatriated\". He stays with an American man married to a Russian. Will the American help him flee USSR?",
+      "Language": "English, Russian",
+      "Country": "United States",
+      "Awards": "Won 1 Oscar. 3 wins & 2 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTJmNjYyZTctYTI5Yy00NmFlLWFmZTEtNmNjYTlhYzkzYmZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "46/100"
+        }
+      ],
+      "Metascore": "46",
+      "imdbRating": "6.7",
+      "imdbVotes": "9,215",
+      "imdbID": "tt0090319",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$42,160,849",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "White Nights (1985 film)",
+      "imdb_id": "tt0090319",
+      "extract_pt": "O Sol da Meia-Noite  (original:White Nights), é um filme estadunidense de 1985, do gênero drama, dirigido por Taylor Hackford e com roteiro de James Goldman e Eric Hughes."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      31.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/bi/w2/dj/n5/nslaYodheZsVreDQfeu8qgEdr02%20(1)-1920-1920-1080-1080-crop-000000.jpg?v=b9a4cb5bc9"
+    ],
+    "tmdb_id": "16082"
+  },
+  "A Chorus Line|1985": {
+    "lbxd": {
+      "rating": 3.26,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/7/7/50777-a-chorus-line-0-500-0-750-crop.jpg?v=aafd742a4e",
+      "description": "A group of dancers congregate on the stage of a Broadway theatre to audition for a new musical production directed by Zach. After the initial eliminations, seventeen hopefuls remain, among them Cassie, who once had a tempestuous romantic relationship with Zach. She is desperate enough for work to humble herself and audition for him; whether he's willing to let professionalism overcome his personal feelings about their past remains to be seen.",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Richard Attenborough",
+      "lb_director_slug": "richard-attenborough",
+      "lb_year": 1985,
+      "lb_title": "A Chorus Line",
+      "backdrop": null,
+      "imdb_id": "tt0088915",
+      "tmdb_id": "1816"
+    },
+    "omdb": {
+      "Title": "A Chorus Line",
+      "Year": "1985",
+      "Rated": "PG-13",
+      "Released": "20 Dec 1985",
+      "Runtime": "118 min",
+      "Genre": "Drama, Music, Musical",
+      "Director": "Richard Attenborough",
+      "Writer": "Arnold Schulman, Michael Bennett, James Kirkwood Jr.",
+      "Actors": "Michael Douglas, Terrence Mann, Michael Blevins",
+      "Plot": "Hopefuls try out before a demanding director for a part in a new musical.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Oscars. 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2NDIxZjktYmQzYS00MGEzLWE3NzktYjVmZjc4M2JkNGIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "46/100"
+        }
+      ],
+      "Metascore": "46",
+      "imdbRating": "6.2",
+      "imdbVotes": "12,996",
+      "imdbID": "tt0088915",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$14,202,899",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "A Chorus Line (film)",
+      "imdb_id": "tt0088915",
+      "extract_pt": "A Chorus Line (br: Chorus Line - Em Busca da Fama – pt: Chorus Line - O Filme) é um filme musical norte-americano de 1985, dirigido pelo britânico Richard Attenborough e estrelado por Michael Douglas. Seu roteiro é baseado no livro do musical do mesmo nome, escrito originalmente por James Kirkwood Jr. e Nicholas Dante, vencedor de nove prêmios Tony em 1976."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1816"
+  },
+  "Curtas Metragens Prémio Mário Ruivo - Gerações Oceãnicas - \"O Oceano e as Profissões do Mar\"|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Donguri To Shiinomi | Joi No Kiroku|None": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Donguri to shiinomi",
+      "Year": "1941",
+      "Rated": "N/A",
+      "Released": "29 May 1941",
+      "Runtime": "29 min",
+      "Genre": "Short, Drama",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Hiroshi Shimizu",
+      "Actors": "Kenji Ôyama, Kinuko Wakamizu, Norio Ôtsuka",
+      "Plot": "N/A",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcyODhjMDMtYjVhOS00NTk1LTljYzUtMmE1NThhMzY2NDkzXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "15",
+      "imdbID": "tt1556144",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "779257"
+  },
+  "Song O'My Heart|1930": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/2/9/8/6/122986-song-o-my-heart-0-500-0-750-crop.jpg?v=19beffbf87",
+      "description": "Broken hearts in Ireland. Sean is a great tenor, in semi-retirement, living in a village close to Mary, the woman he’s always loved. Mary’s aunt convinced her to marry a man for his money; he has recently deserted her, leaving her penniless. She and her two children, Eileen and Tad, move in with the selfish and austere aunt. Eileen is falling in love with Fergus, a young man who’s off to Dublin to seek his fortune. Sean is drawn out of retirement and goes on tour in America. At his first concert, he’s nervous and out of sorts until the last song, when peace descends on him like a gift. What has happened, and can family life be set right?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1930,
+      "lb_title": "Song o' My Heart",
+      "backdrop": null,
+      "imdb_id": "tt0021401",
+      "tmdb_id": "166317"
+    },
+    "omdb": {
+      "Title": "Song o' My Heart",
+      "Year": "1930",
+      "Rated": "Passed",
+      "Released": "07 Sep 1930",
+      "Runtime": "85 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Tom Barry, Sonya Levien",
+      "Actors": "John McCormack, Alice Joyce, Maureen O'Sullivan",
+      "Plot": "Broken hearts in Ireland. Sean is a great tenor, in semi-retirement, living in a village close to Mary, the woman he's always loved. Mary's aunt convinced her to marry a man for his money; he's has recently deserted her, leaving h...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDViYWExMjQtMWRkNy00MmM1LWEyZDgtZmVlNjIxODRmZTZkXkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.2",
+      "imdbVotes": "190",
+      "imdbID": "tt0021401",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "166317"
+  },
+  "Minato No Nihon Musume|1933": {
+    "lbxd": {
+      "rating": 3.76,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/3/9/239-japanese-girls-at-the-harbor-0-500-0-750-crop.jpg?v=aff117ad1c",
+      "description": "Set in the port city of Yokohama, two girls, Sunako and Dora who attend a Christian school, pledge to be friends. But when a youth named Henry appears on his motorcycle and offers to take Sunako for a ride, we know that this friendship won't last and that the lives of both girls will change in ways they are barely able to comprehend, and can do little to change.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1933,
+      "lb_title": "Japanese Girls at the Harbor",
+      "backdrop": null,
+      "imdb_id": "tt0160535",
+      "tmdb_id": "64728"
+    },
+    "omdb": {
+      "Title": "Japanese Girls at the Harbor",
+      "Year": "1933",
+      "Rated": "N/A",
+      "Released": "01 Jun 1933",
+      "Runtime": "72 min",
+      "Genre": "Drama, Romance",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Toma Kitabayashi, Mitsu Suyama",
+      "Actors": "Michiko Oikawa, Yukiko Inoue, Ureo Egawa",
+      "Plot": "Two schoolgirl friends drift apart when one of them falls for a handsome boy.",
+      "Language": "None, Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODc1Y2YwOWItOGQ4ZS00Y2MzLTk3OGMtNjNiNTU2NzdlZDY0XkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "864",
+      "imdbID": "tt0160535",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "64728"
+  },
+  "Ginga|1931": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Ginga",
+      "Year": "1931",
+      "Rated": "N/A",
+      "Released": "14 Feb 1931",
+      "Runtime": "188 min",
+      "Genre": "Drama",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Takeo Katô, Tokusaburô Murakami",
+      "Actors": "Satoko Date, Hideo Fujino, Kimiko Hikari",
+      "Plot": "N/A",
+      "Language": "None, Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "6",
+      "imdbID": "tt0472303",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "373264"
+  },
+  "Daigaku No Wakadanna|1933": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/4/6/7/9/254679-the-boss-s-son-at-college-0-500-0-750-crop.jpg?v=224363f543",
+      "description": "The story deals with Fuji, nicknamed Waka-danna (Young Master), the star athlete on his university's rugby team. The son of a wealthy soy sauce manufacturer, Fuji basks in the glory of his athletic celebrity. Attracting the attention of admiring young women, Fuji resists family pressure to settle down and marry after college. Instead, he spends much of his time drinking and womanizing, behavior which eventually leads the college officials to expel him from the team.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1933,
+      "lb_title": "The Boss's Son at College",
+      "backdrop": null,
+      "imdb_id": "tt0160169",
+      "tmdb_id": "327342"
+    },
+    "omdb": {
+      "Title": "Daigaku no wakadanna",
+      "Year": "1933",
+      "Rated": "N/A",
+      "Released": "01 Nov 1933",
+      "Runtime": "87 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Masao Arata, Hiroshi Shimizu",
+      "Actors": "Mitsugu Fujii, Harurô Takeda, Yoshiko Tsubouchi",
+      "Plot": "N/A",
+      "Language": "None, Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGYyZmY1OWItYmIwMi00MTA1LTk5NjgtYWU4NGFmMDVkZTU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "40",
+      "imdbID": "tt0160169",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "327342"
+  },
+  "The Insider|1999": {
+    "lbxd": {
+      "rating": 4.1,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/l7/vs/7t/qj/sYQsmMl4oG56NtFaNkDxuJhhODa-0-500-0-750-crop.jpg?v=2ee2c41378",
+      "description": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "country": "USA",
+      "lb_director": "Michael Mann",
+      "lb_director_slug": "michael-mann",
+      "lb_year": 1999,
+      "lb_title": "The Insider",
+      "backdrop": null,
+      "imdb_id": "tt0140352",
+      "tmdb_id": "9008"
+    },
+    "omdb": {
+      "Title": "The Insider",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "05 Nov 1999",
+      "Runtime": "157 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Michael Mann",
+      "Writer": "Marie Brenner, Eric Roth, Michael Mann",
+      "Actors": "Russell Crowe, Al Pacino, Christopher Plummer",
+      "Plot": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+      "Language": "English, Japanese, Arabic, Persian",
+      "Country": "United States",
+      "Awards": "Nominated for 7 Oscars. 23 wins & 58 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGY3ZjEyODAtNjAwMC00ZTEwLTg3NDctYzMzYTZkMjBmZDQwXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "85/100"
+        }
+      ],
+      "Metascore": "85",
+      "imdbRating": "7.8",
+      "imdbVotes": "193,704",
+      "imdbID": "tt0140352",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$29,089,912",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "The Insider (film)",
+      "imdb_id": "tt0140352",
+      "extract_pt": "The Insider (bra: O Informante; prt: O Informador) é um filme estadunidense de 1999 dos gêneros drama biográfico e suspense, dirigido por Michael Mann, com roteiro dele e de Eric Roth baseado no artigo \"The Man Who Knew Too Much\", de Marie Brenner. O filme é estrelado por Al Pacino, Russell Crowe, Christopher Plummer, Bruce McGill, Diane Venora e Michael Gambon.\nUma versão ficcionalizada de uma história real, o filme gira em torno do polêmico segmento do programa 60 Minutes sobre Jeffrey Wigand, um denunciante da indústria do tabaco. A trama retrata a luta de Wigand e do produtor da CBS, Lowell Bergman, para defender seu testemunho contra os esforços da CBS e do ex-empregador de Wigand para desacreditá-lo e silenciá-lo."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "9008"
+  },
+  "Naki Nureta Haru No Onna Yo|1933": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/7/3/5/2/257352-a-woman-crying-in-spring-0-500-0-750-crop.jpg?v=53c349abc4",
+      "description": "Kenji and Chuko travel to Hokkaido as migrant workers and enlist as miners under the strict leadership of Guzuyasu. On the boat journey to Hokkaido, Kenji attracts Ohama, who is travelling to Hokkaido to open a bar. When Kenji visits the bar, he chases away a sailor who was hassling a shy girl, Ofuji, which makes Ohama jealous.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1933,
+      "lb_title": "A Woman Crying in Spring",
+      "backdrop": null,
+      "imdb_id": "tt1570639",
+      "tmdb_id": "329926"
+    },
+    "omdb": {
+      "Title": "Nakinureta haru no onna yo",
+      "Year": "1933",
+      "Rated": "N/A",
+      "Released": "11 May 1933",
+      "Runtime": "99 min",
+      "Genre": "N/A",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Shun Honma, Mitsuru Suyama",
+      "Actors": "Den Ôhinata, Shigeru Ogura, Ryuji Ishiyama",
+      "Plot": "N/A",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNkZDQ0NTgtMDA1OC00OTRhLWI3NjMtYzY2Y2ZiZWZkMTY2XkEyXkFqcGdeQXVyMTg1MjM0NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "56",
+      "imdbID": "tt1570639",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "329926"
+  },
+  "Rhythmus Und Tanz|1932": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "A Dancer’s World|1957": {
+    "lbxd": {
+      "rating": 3.58,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/3/7/9/9/113799-a-dancer-s-world-0-500-0-750-crop.jpg?v=40966e9904",
+      "description": "A glimpse into the world and methodology of dancer Martha Graham.",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "country": "USA",
+      "lb_director": "Peter Glushanok",
+      "lb_director_slug": "peter-glushanok",
+      "lb_year": 1957,
+      "lb_title": "A Dancer's World",
+      "backdrop": null,
+      "imdb_id": "tt1116031",
+      "tmdb_id": "151381"
+    },
+    "omdb": {
+      "Title": "A Dancer's World",
+      "Year": "1957",
+      "Rated": "Not Rated",
+      "Released": "N/A",
+      "Runtime": "31 min",
+      "Genre": "Documentary, Music",
+      "Director": "Peter Glushanok",
+      "Writer": "Martha Graham, LeRoy Leatherman",
+      "Actors": "Lillian Biersteker, Robert Cohan, Miriam Cole",
+      "Plot": "Dancer, Choreographer, and Teacher Martha Graham offers insight into her theories about dance while the members of her world famous troupe display a number of their dance techniques in performance.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODA5NTIxNzItNTY0Yi00Y2E4LWJhZTYtYzNlYjA0NjExOTU2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "213",
+      "imdbID": "tt1116031",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "151381"
+  },
+  "Gerhard Bohner: Tänzer & Choreograph|1984": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "THE GOOD PROVIDER (fragmento)|1922": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/8/4/7/7/548477-the-good-provider-0-500-0-750-crop.jpg?v=670fa749c5",
+      "description": "A prosperous small-town peddler accedes to his family's wish to move from their secure existence to the uncertainty of New York City. It proves fruitless and eventually his kin sees the error of their ways and return to their true home.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1922,
+      "lb_title": "The Good Provider",
+      "backdrop": null,
+      "imdb_id": "tt0013197",
+      "tmdb_id": "621883"
+    },
+    "omdb": {
+      "Title": "The Good Provider",
+      "Year": "1922",
+      "Rated": "N/A",
+      "Released": "02 Apr 1922",
+      "Runtime": "80 min",
+      "Genre": "Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Fannie Hurst, John Lynch",
+      "Actors": "Vera Gordon, Dore Davidson, Miriam Battista",
+      "Plot": "Julius Binswanger, a poor Jewish immigrant, moves his family from New York City to the small town of Newton, where he becomes prosperous as a peddler; fifteen years later, great changes have transformed the community, and Binswang...",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "1 win",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYzNjlkZjctNmIzYi00ZjAxLTkwNDktZjZhYmI1NTM4NWJiXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt0013197",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$142,150",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "621883"
+  },
+  "The Pride Of Palomar|1922": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/1/6/8/7/341687-the-pride-of-palomar-0-500-0-750-crop.jpg?v=1a20f8c684",
+      "description": "A soldier inaccurately reported as dead returns home to his Spanish family’s estate in California, only to find his father deceased and his ancestral land in the hands of strangers.",
+      "genres": [
+        "Drama"
+      ],
+      "country": null,
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1922,
+      "lb_title": "The Pride of Palomar",
+      "backdrop": null,
+      "imdb_id": "tt0013511",
+      "tmdb_id": "407402"
+    },
+    "omdb": {
+      "Title": "The Pride of Palomar",
+      "Year": "1922",
+      "Rated": "N/A",
+      "Released": "26 Nov 1922",
+      "Runtime": "100 min",
+      "Genre": "Drama",
+      "Director": "Frank Borzage",
+      "Writer": "Grant Carpenter, Peter B. Kyne, John Lynch",
+      "Actors": "Forrest Stanley, Marjorie Daw, Tote Du Crow",
+      "Plot": "A soldier inaccurately reported as dead returns home to his Spanish family's estate in California, only to find his father deceased and his ancestral land in the hands of strangers.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FhZDEwNjItYzU1Ny00ZGNmLThmZmMtOTU3OTMzZjdhNGUwXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "38",
+      "imdbID": "tt0013511",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "407402"
   }
 }
