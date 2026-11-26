@@ -105679,7 +105679,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/s6/r2/0k/zq/jFrIqkIcgiMKHLo7WXC2XRtiEkx-1920-1920-1080-1080-crop-000000.jpg?v=e47ea0689f"
     ],
     "tmdb_id": "71316",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Arigato-San|1937": {
     "lbxd": {
@@ -106141,7 +106141,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "64728"
+    "tmdb_id": "64728",
+    "wiki_tries": 1
   },
   "Ginga|1931": {
     "lbxd": null,
@@ -106351,7 +106352,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "329926"
+    "tmdb_id": "329926",
+    "wiki_tries": 1
   },
   "Rhythmus Und Tanz|1932": {
     "lbxd": null,
@@ -106415,7 +106417,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "151381"
+    "tmdb_id": "151381",
+    "wiki_tries": 1
   },
   "Gerhard Bohner: Tänzer & Choreograph|1984": {
     "lbxd": null,
@@ -106529,5 +106532,161 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "407402"
+  },
+  "Arigato-San|1936": {
+    "lbxd": {
+      "rating": 3.87,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/8/1/7/2/0/81720-mr-thank-you-0-500-0-750-crop.jpg?v=d9e037b99e",
+      "description": "In Depression-era Japan, a courteous bus driver carries an eclectic group of passengers from the mountainous Izu to Tokyo.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1936,
+      "lb_title": "Mr. Thank You",
+      "backdrop": null,
+      "imdb_id": "tt0027307",
+      "tmdb_id": "100033"
+    },
+    "omdb": {
+      "Title": "Mr. Thank You",
+      "Year": "1936",
+      "Rated": "N/A",
+      "Released": "27 Feb 1936",
+      "Runtime": "76 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Yasunari Kawabata, Hiroshi Shimizu",
+      "Actors": "Ken Uehara, Ryuji Ishiyama, Einosuke Naka",
+      "Plot": "A friendly bus driver and his passengers over the duration of one journey through the mountains to the nearest train station.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDExZDUtYTllOS00YWZmLWI0OWYtMTJhNGFhMjgxMjU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "1,330",
+      "imdbID": "tt0027307",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Ken Uehara",
+      "imdb_id": null,
+      "extract_pt": "Ken Uehara (上原謙, Uehara Ken; 7 de novembro de 1909 – 23 de novembro de 1991) foi um ator japonês que apareceu em aproximadamente 200 filmes entre os anos de 1935 a 1990.\nGraduado da Universidade Rikkyo, Uehara ingressou na Shochiku em 1935. Após a Segunda Guerra Mundial, tornou-se ator freelancer, antes de assinar contrato com o estúdio cinematográfico  da Toho. Os diretores com quem Uehara trabalhou incluem Mikio Naruse, Yasujirō Shimazu, Hiroshi Shimizu, Keisuke Kinoshita, Yasujirō Ozu e Kenji Mizoguchi."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "100033"
+  },
+  "Mori No Kajiya | Fue No Shiratama|1929": {
+    "lbxd": {
+      "rating": 3.57,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/9/8/1/136981-eternal-heart-0-500-0-750-crop.jpg?v=c95983dab2",
+      "description": "Toshie, a young, conservative secretary-typist has fallen in love with Shozo Narita, a young man she has met through her work.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1929,
+      "lb_title": "Eternal Heart",
+      "backdrop": null,
+      "imdb_id": "tt0335110",
+      "tmdb_id": "190092"
+    },
+    "omdb": {
+      "Title": "Mori no kajiya",
+      "Year": "1929",
+      "Rated": "N/A",
+      "Released": "05 Jan 1929",
+      "Runtime": "93 min",
+      "Genre": "N/A",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Tokusaburô Murakami",
+      "Actors": "Masao Inoue, Kaoru Futaba, Kinuyo Tanaka",
+      "Plot": "N/A",
+      "Language": "None",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODExZmVhNjctYjkyNC00NmQxLTlhNDItOWQ3ZDE2YmYwNDBkXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "10",
+      "imdbID": "tt0342793",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "190092"
+  },
+  "Donguri To Shiinomi | Joi No Kiroku|1941": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Donguri to shiinomi",
+      "Year": "1941",
+      "Rated": "N/A",
+      "Released": "29 May 1941",
+      "Runtime": "29 min",
+      "Genre": "Short, Drama",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Hiroshi Shimizu",
+      "Actors": "Kenji Ôyama, Kinuko Wakamizu, Norio Ôtsuka",
+      "Plot": "N/A",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcyODhjMDMtYjVhOS00NTk1LTljYzUtMmE1NThhMzY2NDkzXkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "15",
+      "imdbID": "tt1556144",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "779257"
   }
 }
