@@ -3398,6 +3398,26 @@
   "Ulrich Tegeder": {
     "photo": null,
     "bio": null,
-    "tries": 2
+    "tries": 3
+  },
+  "Eduardo Brito": {
+    "photo": null,
+    "bio": "Eduardo Brito (January 22, 1906 – January 5, 1946) was a Dominican baritone singer. He was world-renowned for his voice and took to the stage in many countries performing operas and zarzuelas. The main hall of the Dominican National Theater is named after Brito.",
+    "tries": 1
+  },
+  "Jaime Silva": {
+    "photo": null,
+    "bio": "Jaime Silva may refer to:",
+    "tries": 1
+  },
+  "Carlos Saboga": {
+    "photo": null,
+    "bio": "Portuguese film director and screenwriter (1936–2026)",
+    "tries": 1
+  },
+  "Tony Gilroy": {
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Tony_Gilroy_at_the_2026_New_York_Film_Festival-104.jpg/500px-Tony_Gilroy_at_the_2026_New_York_Film_Festival-104.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "bio": "Anthony Joseph Gilroy (born September 11, 1956) is an American screenwriter, director, and producer. He wrote the screenplays of The Bourne Identity (2002), The Bourne Supremacy (2004), and The Bourne Ultimatum (2007), the first three films in the Bourne film franchise, and wrote and directed the fourth film of the franchise, The Bourne Legacy (2012), as well as Michael Clayton (2007), Duplicity (2009) and Behemoth! (2026).",
+    "tries": 1
   }
 }

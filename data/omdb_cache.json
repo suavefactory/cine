@@ -103546,7 +103546,16 @@
       ]
     },
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      20.7,
+      40.2,
+      41.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0001_web.jpg",
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0007_web.jpg",
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0005_web.jpg"
+    ]
   },
   "Barry Lyndon|1975": {
     "lbxd": {
@@ -105726,7 +105735,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "100033"
+    "tmdb_id": "100033",
+    "wiki_tries": 1
   },
   "They Had To See Paris|1929": {
     "lbxd": {
@@ -106133,7 +106143,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "64728",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Ginga|1931": {
     "lbxd": null,
@@ -106344,7 +106354,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "329926",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Rhythmus Und Tanz|1932": {
     "lbxd": null,
@@ -106409,7 +106419,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "151381",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Gerhard Bohner: Tänzer & Choreograph|1984": {
     "lbxd": null,
@@ -106679,5 +106689,696 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "779257"
+  },
+  "The Territory|1981": {
+    "lbxd": {
+      "rating": 3.51,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/7/3/6/111736-the-territory-0-500-0-750-crop.jpg?v=c8d9b967d1",
+      "description": "A small group of well-to-do vacationers go on a hiking trip into the woods just to find themselves mysteriously lost.",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Raúl Ruiz",
+      "lb_director_slug": "raul-ruiz",
+      "lb_year": 1981,
+      "lb_title": "The Territory",
+      "backdrop": null,
+      "imdb_id": "tt0083183",
+      "tmdb_id": "147925"
+    },
+    "omdb": {
+      "Title": "The Territory",
+      "Year": "1981",
+      "Rated": "N/A",
+      "Released": "17 Aug 1990",
+      "Runtime": "100 min",
+      "Genre": "Drama, Horror",
+      "Director": "Raúl Ruiz",
+      "Writer": "Gilbert Adair, Raúl Ruiz",
+      "Actors": "Geoffrey Carey, John Paul Getty III, Jeffrey Kime",
+      "Plot": "A small group of well-to-do vacationers go on a hiking trip into the woods. Foolishly unprepared to deal with Mother Nature and their situation, they wander around lost for days and weeks, becoming more and more fatigued, hungry, ...",
+      "Language": "English, French",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3NDZlOWEtMTE1YS00NzRlLWI4MGEtNDk2M2ZlY2U2ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.3",
+      "imdbVotes": "299",
+      "imdbID": "tt0083183",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "147925"
+  },
+  "Anim 30 Anos | Curtas Metragens|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "A Sibila|2022": {
+    "lbxd": {
+      "rating": 3.24,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/7/2/8/0/1/1072801-a-sibila-0-500-0-750-crop.jpg?v=d811301772",
+      "description": "In the mid-20th century, a troubled relationship between Germana, a young writer, and Quina, her aunt who lives in the northern Portuguese countryside. Feelings of jealousy, admiration and the complex magnetism between these two strong women arise.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "Eduardo Brito",
+      "lb_director_slug": "eduardo-brito",
+      "lb_year": 2022,
+      "lb_title": "The Sibyl",
+      "backdrop": null,
+      "imdb_id": "tt17939670",
+      "tmdb_id": "1186661"
+    },
+    "omdb": {
+      "Title": "A Sibila",
+      "Year": "2022",
+      "Rated": "N/A",
+      "Released": "12 Oct 2023",
+      "Runtime": "79 min",
+      "Genre": "Drama",
+      "Director": "Eduardo Brito",
+      "Writer": "Eduardo Brito, Agustina Bessa-Luís",
+      "Actors": "Joana Ribeiro, Marcello Urgeghe, Madalena Aragão",
+      "Plot": "The adaptation of the eponymous novel by Agustina Bessa-Luís portrays the relationship between a young writer and her aunt, vibrant characters inspired by real people, living in the northern Portuguese countryside in the mid-20th ...",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0YjQ2ZDAtZGIyZi00ZWFkLWE5NDEtOGFiMGQ3ZmQ2YzQ5XkEyXkFqcGdeQXVyMTU1ODIwMTM1._V1_SX300.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "87",
+      "imdbID": "tt17939670",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1186661"
+  },
+  "City Lights|1931": {
+    "lbxd": {
+      "rating": 4.31,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/5/1/51251-city-lights-0-500-0-750-crop.jpg?v=942b2629ea",
+      "description": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Charlie Chaplin",
+      "lb_director_slug": "charlie-chaplin",
+      "lb_year": 1931,
+      "lb_title": "City Lights",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/m1/nc/nt/ef/city-lights-1920-1920-1080-1080-crop-000000.jpg?v=daa3c1419f",
+      "imdb_id": "tt0021749",
+      "tmdb_id": "901"
+    },
+    "omdb": {
+      "Title": "City Lights",
+      "Year": "1931",
+      "Rated": "G",
+      "Released": "07 Mar 1931",
+      "Runtime": "87 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Charles Chaplin",
+      "Writer": "Charles Chaplin, Harry Carr, Harry Crocker",
+      "Actors": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+      "Plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a blind flower girl accumulates money to be able to help her medically.",
+      "Language": "None, English",
+      "Country": "United States",
+      "Awards": "6 wins total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "99/100"
+        }
+      ],
+      "Metascore": "99",
+      "imdbRating": "8.5",
+      "imdbVotes": "218,620",
+      "imdbID": "tt0021749",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$19,181",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "City Lights",
+      "imdb_id": "tt0021749",
+      "extract_pt": "Luzes da Cidade (em inglês:  City Lights) é um filme mudo de comédia romântica americano de 1931 estrelado, escrito e dirigido por Charlie Chaplin. O elenco também conta com a participação de Virginia Cherrill e Harry Myers. Apesar do fato de que a produção de filmes mudos tinha diminuído com o avanço do cinema \"falado\", City Lights tornou-se imediatamente popular e hoje é lembrado como uma das maiores realizações da prolífica carreira de Chaplin."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      16.0
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/m1/nc/nt/ef/city-lights-1920-1920-1080-1080-crop-000000.jpg?v=daa3c1419f"
+    ],
+    "tmdb_id": "901"
+  },
+  "Fim de Estação|1982": {
+    "lbxd": null,
+    "omdb": {
+      "Title": "Fim de Estação",
+      "Year": "1982",
+      "Rated": "N/A",
+      "Released": "28 Oct 1983",
+      "Runtime": "90 min",
+      "Genre": "Drama",
+      "Director": "Jaime Silva",
+      "Writer": "N/A",
+      "Actors": "Ávila Costa, David Carvalho, Fernanda Alves",
+      "Plot": "N/A",
+      "Language": "Portuguese",
+      "Country": "Portugal",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "2.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "2.6",
+      "imdbVotes": "15",
+      "imdbID": "tt0083940",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1096066"
+  },
+  "Photo|2012": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/0/3/8/125038-photo-0-500-0-750-crop.jpg?v=d6554cf328",
+      "description": "Her mother has just died. Her father is not what she had thought. Caught between an uncertain past, which she knows only through the photographs her mother has left behind, and the prospect of a marriage that she does not really want, Elisa sets out to discover the truth. But will she recognize it when she finds it?",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "Carlos Saboga",
+      "lb_director_slug": "carlos-saboga",
+      "lb_year": 2012,
+      "lb_title": "Photo",
+      "backdrop": null,
+      "imdb_id": "tt2278977",
+      "tmdb_id": "169909"
+    },
+    "omdb": {
+      "Title": "Photo",
+      "Year": "2012",
+      "Rated": "N/A",
+      "Released": "10 Apr 2013",
+      "Runtime": "85 min",
+      "Genre": "Drama",
+      "Director": "Carlos Saboga",
+      "Writer": "Carlos Saboga",
+      "Actors": "Anna Mouglalis, Simão Cayatte, Johan Leysen",
+      "Plot": "Learning of her mother's death in Paris, estranged daughter returns home to find a series of photo's where her mother, a renowned photo journalist, is seen with three Portuguese political exiles who were her friends.",
+      "Language": "Portuguese, French",
+      "Country": "Portugal, France",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDcyYmM0MTAtMjA2ZC00Mzg5LTkzZjMtYzBmYTBmZmM1NDkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.5",
+      "imdbVotes": "84",
+      "imdbID": "tt2278977",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": null,
+      "imdb_id": "tt2278977",
+      "extract_pt": "Photo é um filme luso-francês do género drama, realizado e escrito por Carlos Saboga, e protagonizado por Anna Mouglalis, Simão Cayatte, Johan Leysen, Didier Sandre, Anabela Brígida, Ana Padrão, Marisa Paredes e Rui Morrison. Foi exibido no Festival de Roma a 13 de novembro de 2012 e no Lisbon & Estoril Film Festival a 17 de novembro do mesmo ano. Estreou-se em França a 10 de abril de 2013 e em Portugal a 9 de maio do mesmo ano."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "169909"
+  },
+  "Conversa com Alexander Kluge na Cinemateca Portuguesa, \r\n15 de julho de 2021 [excerto]  \r\nDer Zirkus Kommit In Die Stadt | Abschied Von Gestern | Hommage à Manoel de Oliveira Vasco da Gama - Die Afrikanerin | Die Artisten in Der Zirkuskuppel: Ratlos|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Stranded|1935": {
+    "lbxd": {
+      "rating": 3.21,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/5/3/9/1/125391-stranded-0-500-0-750-crop.jpg?v=393a874fe2",
+      "description": "A Traveler's Aid worker who delights in solving people's problems gets mixed up with gangsters.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1935,
+      "lb_title": "Stranded",
+      "backdrop": null,
+      "imdb_id": "tt0027050",
+      "tmdb_id": "170514"
+    },
+    "omdb": {
+      "Title": "Stranded",
+      "Year": "1935",
+      "Rated": "Approved",
+      "Released": "29 Jun 1935",
+      "Runtime": "72 min",
+      "Genre": "Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Frank Wead, Ferdinand Reyher, Delmer Daves",
+      "Actors": "Kay Francis, George Brent, Patricia Ellis",
+      "Plot": "A construction engineer with a heart of steel courts a social worker with a heart of gold, while fighting a protection racketeer that tries to derail the construction of the Golden Gate Bridge.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ0OWZiOWYtNzAyOC00Zjc4LWI4NjYtNTk3YTVmYzEyNWMyXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "547",
+      "imdbID": "tt0027050",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "170514"
+  },
+  "The Valley of Silent Men|1922": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/9/6/7/2/549672-the-valley-of-silent-men-0-500-0-750-crop.jpg?v=3a54666cd8",
+      "description": "The hunter becomes the hunted, an officer of the Royal Mounted, fleeing, fighting for his life. Guided to a secret valley in the frozen North by a hot-blooded French-Canadian beauty, with a secret of her own...",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Western"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1922,
+      "lb_title": "The Valley of Silent Men",
+      "backdrop": null,
+      "imdb_id": "tt0013727",
+      "tmdb_id": "623346"
+    },
+    "omdb": {
+      "Title": "The Valley of Silent Men",
+      "Year": "1922",
+      "Rated": "Passed",
+      "Released": "10 Sep 1922",
+      "Runtime": "70 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "James Oliver Curwood, John Lynch",
+      "Actors": "Alma Rubens, Lew Cody, Joe King",
+      "Plot": "The hunter becomes the hunted as Corporal James Kent (Lew Cody), of the Canadian Royal Mounted, fighting for his life, is guided to a secret valley, a refuge for wanted men, by a French-Canadian beauty, Marette Radison (Alma Ruben...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY4NGRhM2QtOGMwYS00ZTY3LWIzODAtYmZiZjNkMzgzNmI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.5",
+      "imdbVotes": "95",
+      "imdbID": "tt0013727",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "623346"
+  },
+  "Seftybzcqdykjqlb|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "S79Septfzi5Ufbf3|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Sokutmhfdjapuxpp|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "S5T2Iqcrdxpkzcx6|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Sdmh9Ty5Dbryptm8|None": {
+    "lbxd": null,
+    "omdb": null,
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null
+  },
+  "Bad Living|2023": {
+    "lbxd": {
+      "rating": 3.41,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/1/2/5/5/2/1512552-bad-living-2023-0-500-0-750-crop.jpg?v=e76f5d86b1",
+      "description": "In a family-run hotel near the northern coast of Portugal, several women from the same family, spanning different generations, live together. Their relationship, poisoned by bitterness, struggles to survive in the decaying hotel. The unexpected arrival of a granddaughter in this claustrophobic space provokes turmoil and rekindles latent hatreds and accumulated resentments.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Portugal",
+      "lb_director": "João Canijo",
+      "lb_director_slug": "joao-canijo",
+      "lb_year": 2023,
+      "lb_title": "Bad Living",
+      "backdrop": null,
+      "imdb_id": "tt14007288",
+      "tmdb_id": "1648274"
+    },
+    "omdb": {
+      "Title": "Bad Living",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "11 May 2023",
+      "Runtime": "127 min",
+      "Genre": "Drama",
+      "Director": "João Canijo",
+      "Writer": "João Canijo",
+      "Actors": "Anabela Moreira, Rita Blanco, Madalena Almeida",
+      "Plot": "Follows five women who fight for the stability of a hotel they inherited, living an \"old and irresolvable conflict,\" with many conversations that have been postponed and much that remains to be said within a family.",
+      "Language": "Portuguese",
+      "Country": "Portugal, France",
+      "Awards": "10 wins & 11 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWI4NWM4ZmItZWY1Yy00YTU2LTg4MjctZTNiMDg3ZmE2MDEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "728",
+      "imdbID": "tt14007288",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Num hotel familiar junto à costa norte de Portugal, vivem várias mulheres de gerações diferentes da mesma família. Numa relação envenenada pela amargura, tentam sobreviver num espaço em decadência. A chegada inesperada de uma neta a este lugar claustrofóbico provoca perturbação e o avivar de ódios latentes e rancores acumulados. Vencedor do Urso de Prata no Festival de Berlim, Mal Viver é a primeira parte de um díptico sobre a ansiedade, completada por Viver Mal."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1648274"
+  },
+  "Living Bad|2023": {
+    "lbxd": {
+      "rating": 3.49,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/9/7/1/3/8/3/971383-living-bad-0-500-0-750-crop.jpg?v=963e8cd113",
+      "description": "A hotel by the northern shore of Portugal welcomes its guests over the weekend. A man is torn between being present for his wife and the space that his mother takes up between the two of them. A mother encourages her daughter’s marriage to enable her own love affair with her son-in-law. Another mother lives through her daughter, preventing her from making her own decisions. Three families at the end of their cycles of acceptance.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "France",
+      "lb_director": "João Canijo",
+      "lb_director_slug": "joao-canijo",
+      "lb_year": 2023,
+      "lb_title": "Living Bad",
+      "backdrop": null,
+      "imdb_id": "tt26440896",
+      "tmdb_id": "1077686"
+    },
+    "omdb": {
+      "Title": "Living Bad",
+      "Year": "2023",
+      "Rated": "N/A",
+      "Released": "11 May 2023",
+      "Runtime": "124 min",
+      "Genre": "Drama",
+      "Director": "João Canijo",
+      "Writer": "João Canijo",
+      "Actors": "Nuno Lopes, Filipa Areosa, Leonor Silveira",
+      "Plot": "Five women are running an old hotel. Guests arrive over the course of a weekend and are drawn into a web of ongoing conflict.",
+      "Language": "Portuguese",
+      "Country": "Portugal, France",
+      "Awards": "5 wins & 7 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY3N2NhODUtYjNkNi00NzRhLWE2NGUtMjkxZjA5YmM4ZmVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "483",
+      "imdbID": "tt26440896",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "plot_pt": "Durante o fim de semana, um hotel junto à costa norte de Portugal acolhe os seus clientes. Um homem vive repartido entre a atenção a dar à sua mulher e o espaço que a mãe ocupa na relação. Uma mãe promove o casamento da filha para facilitar a relação amorosa que mantém com o genro. Outra mãe vive através da filha, impedindo-a de tomar as suas próprias decisões. Três núcleos familiares divididos entre o confronto e a aceitação. Segunda parte do díptico sobre a ansiedade — que é completado por Mal Viver — , este filme eleva a protagonistas os figurantes que apareciam no primeiro. Integrou a competição Encounters, no Festival de Berlim."
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "1077686"
+  },
+  "Behemoth! – Uma Vida em Pedaços|2026": {
+    "lbxd": {
+      "rating": 3.53,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/2/9/5/3/4/1329534-behemoth-2026-0-500-0-750-crop.jpg?v=52065abd13",
+      "description": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Tony Gilroy",
+      "lb_director_slug": "tony-gilroy",
+      "lb_year": 2026,
+      "lb_title": "Behemoth!",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/2x/nm/80/lc/behemoth-1920-1920-1080-1080-crop-000000.jpg?v=f22c8cc1e0",
+      "imdb_id": "tt36415529",
+      "tmdb_id": "1452168"
+    },
+    "omdb": {
+      "Title": "Behemoth!",
+      "Year": "2026",
+      "Rated": "N/A",
+      "Released": "04 Dec 2026",
+      "Runtime": "124 min",
+      "Genre": "Drama, Music",
+      "Director": "Tony Gilroy",
+      "Writer": "Tony Gilroy",
+      "Actors": "Pedro Pascal, Olivia Wilde, Eva Victor",
+      "Plot": "Follows a musician from a family of musicians who returns to Los Angeles. A love letter to the music of the movies and the people who make it.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTU1YWQ5MzItNTQ0NC00ZThkLTlmNDAtOWFmY2JkMTNjNWRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Ratings": [],
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt36415529",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "Behemoth!",
+      "plot_pt": "Pedro Pascal na melhor interpretação da sua carreira, no papel de Alex, um violoncelista que se tenta recompor de uma vida desestruturada. Ex-criança prodígio que vive à sombra de uma família de músicos de renome, Alex abandonou o seu cargo numa orquestra em Chicago — fugindo de uma relação azeda com uma ex-namorada (Olivia Wilde, avassaladora) — e regressou a Los Angeles para gravar bandas sonoras de filmes de Hollywood e resolver assuntos familiares pendentes.\nBehemoth! é uma homenagem ao poder da música.",
+      "country": "EUA",
+      "year": 2026,
+      "director": "Tony Gilroy"
+    },
+    "dir_checked": true,
+    "stills_focus": [
+      38.3
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/2x/nm/80/lc/behemoth-1920-1920-1080-1080-crop-000000.jpg?v=f22c8cc1e0"
+    ],
+    "tmdb_id": "1452168"
+  },
+  "Na Sombra e no Silêncio|1962": {
+    "lbxd": {
+      "rating": 4.12,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/6/51526-to-kill-a-mockingbird-0-500-0-750-crop.jpg?v=c3c38bb332",
+      "description": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "USA",
+      "lb_director": "Robert Mulligan",
+      "lb_director_slug": "robert-mulligan",
+      "lb_year": 1962,
+      "lb_title": "To Kill a Mockingbird",
+      "backdrop": null,
+      "imdb_id": "tt0056592",
+      "tmdb_id": "595"
+    },
+    "omdb": {
+      "Title": "To Kill a Mockingbird",
+      "Year": "1963",
+      "Rated": "Approved",
+      "Released": "16 Mar 1963",
+      "Runtime": "129 min",
+      "Genre": "Crime, Drama",
+      "Director": "Robert Mulligan",
+      "Writer": "Harper Lee, Horton Foote",
+      "Actors": "Gregory Peck, John Megna, Frank Overton",
+      "Plot": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 3 Oscars. 14 wins & 16 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "8.2",
+      "imdbVotes": "353,750",
+      "imdbID": "tt0056592",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$592,237",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {
+      "original_title": "To Kill a Mockingbird",
+      "plot_pt": "Atticus Finch, celebremente interpretado por Gregory Peck, é um advogado de uma pequena cidade do sul dos EUA que é designado para defender Tom Robinson, um homem negro acusado de ter violado uma mulher branca. Decidido a fazer justiça, Finch esforça-se por educar os seus filhos num meio repressivo que se precipita em acusações a Robinson enquanto o condena a si e à sua família ao ostracismo. Adaptação de Horton Foote do famoso romance homónimo de Harper Lee, To Kill a Mockinbird (Mataram a Cotovia), o filme de Robert Mulligan é um dos mais sensíveis retratos sobre o racismo e a intolerância que pautam a vida numa comunidade rural do sul dos EUA na década de 30.\nCópia Digital Restaurada",
+      "country": "EUA",
+      "genre": "Drama, Crime",
+      "year": 1962,
+      "director": "Robert Mulligan"
+    },
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "595"
   }
 }
