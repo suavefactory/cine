@@ -3288,17 +3288,7 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "plot_pt": "O músico de blues Al Cook vive rodeado de memórias. O seu apartamento e estúdio na cave estão repletos de livros, cassetes VHS e discos de vinil. Neste espaço, o tempo parece ter parado, mas o mundo lá fora seguiu em frente. Quando uma imobiliária decide demolir a sua casa, Al Cook vê-se obrigado a libertar-se dos seus tesouros, um a um. Perante a perda total, escolhe um recomeço radical.",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/tlmit_still_0001_web.jpg",
-        "https://medeiafilmes.com/uploads/library/tlmit_still_0007_web.jpg",
-        "https://medeiafilmes.com/uploads/library/tlmit_still_0005_web.jpg"
-      ],
-      "stills_focus": [
-        20.7,
-        40.2,
-        41.8
-      ]
+      "plot_pt": "O músico de blues Al Cook vive rodeado de memórias. O seu apartamento e estúdio na cave estão repletos de livros, cassetes VHS e discos de vinil. Neste espaço, o tempo parece ter parado, mas o mundo lá fora seguiu em frente. Quando uma imobiliária decide demolir a sua casa, Al Cook vê-se obrigado a libertar-se dos seus tesouros, um a um. Perante a perda total, escolhe um recomeço radical."
     },
     {
       "id": "nimas_barry-lyndon-1975",
