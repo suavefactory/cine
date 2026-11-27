@@ -106143,7 +106143,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "64728",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Ginga|1931": {
     "lbxd": null,
@@ -106354,7 +106354,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "329926",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Rhythmus Und Tanz|1932": {
     "lbxd": null,
@@ -106419,7 +106419,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "151381",
-    "wiki_tries": 2
+    "wiki_tries": 3
   },
   "Gerhard Bohner: Tänzer & Choreograph|1984": {
     "lbxd": null,
@@ -106648,7 +106648,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "190092"
+    "tmdb_id": "190092",
+    "wiki_tries": 1
   },
   "Donguri To Shiinomi | Joi No Kiroku|1941": {
     "lbxd": null,
@@ -106744,7 +106745,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "147925"
+    "tmdb_id": "147925",
+    "wiki_tries": 1
   },
   "Anim 30 Anos | Curtas Metragens|None": {
     "lbxd": null,
@@ -106802,7 +106804,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1186661"
+    "tmdb_id": "1186661",
+    "wiki_tries": 1
   },
   "City Lights|1931": {
     "lbxd": {
@@ -107035,7 +107038,8 @@
     "cinema": {},
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "170514"
+    "tmdb_id": "170514",
+    "wiki_tries": 1
   },
   "The Valley of Silent Men|1922": {
     "lbxd": {
@@ -107188,13 +107192,18 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Bad Living",
+      "imdb_id": "tt14007288",
+      "extract_pt": "Mal Viver (em inglês:  Bad Living) é uma longa-metragem dramática franco-portuguesa lançada em 2023 dirigida por João Canijo. Protagonizada por Anabela Moreira e Rita Blanco, o filme retrata a história de uma família de várias mulheres de diferentes gerações, cujas relações entre si têm sido envenenadas pela amargura. Foi selecionado para concorrer ao Urso de Ouro na mostra competitiva do 73.º Festival Internacional de Cinema de Berlim, onde teve sua estreia mundial a 22 de fevereiro de 2023. Apesar de derrotado na categoria principal do festival, saiu vencedor do Urso de Prata Prémio do Júri."
+    },
     "cinema": {
       "plot_pt": "Num hotel familiar junto à costa norte de Portugal, vivem várias mulheres de gerações diferentes da mesma família. Numa relação envenenada pela amargura, tentam sobreviver num espaço em decadência. A chegada inesperada de uma neta a este lugar claustrofóbico provoca perturbação e o avivar de ódios latentes e rancores acumulados. Vencedor do Urso de Prata no Festival de Berlim, Mal Viver é a primeira parte de um díptico sobre a ansiedade, completada por Viver Mal."
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1648274"
+    "tmdb_id": "1648274",
+    "wiki_tries": 1
   },
   "Living Bad|2023": {
     "lbxd": {
@@ -107245,13 +107254,18 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "Living Bad",
+      "imdb_id": "tt26440896",
+      "extract_pt": "Viver mal (em inglês:  Living Bad) é um longa-metragem dramático franco-português lançado em 2023 dirigido por João Canijo. Nesta continuação de Mal Viver que também estreou no mesmo ano, o enfoque é nos hóspedes do hotel, inspirados nas temáticas de três peças de August Strindberg. Protagonizado por Nuno Lopes e Leonor Silveira, o filme retrata a história de um hotel familiar do litoral norte de Portugal, que recebe os seus hóspedes em um fim de semana. Selecionado na mostra Encounter no 73º Festival Internacional de Cinema de Berlim, teve sua estreia mundial em 23 de fevereiro de 2023."
+    },
     "cinema": {
       "plot_pt": "Durante o fim de semana, um hotel junto à costa norte de Portugal acolhe os seus clientes. Um homem vive repartido entre a atenção a dar à sua mulher e o espaço que a mãe ocupa na relação. Uma mãe promove o casamento da filha para facilitar a relação amorosa que mantém com o genro. Outra mãe vive através da filha, impedindo-a de tomar as suas próprias decisões. Três núcleos familiares divididos entre o confronto e a aceitação. Segunda parte do díptico sobre a ansiedade — que é completado por Mal Viver — , este filme eleva a protagonistas os figurantes que apareciam no primeiro. Integrou a competição Encounters, no Festival de Berlim."
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "1077686"
+    "tmdb_id": "1077686",
+    "wiki_tries": 1
   },
   "Behemoth! – Uma Vida em Pedaços|2026": {
     "lbxd": {
@@ -107313,7 +107327,8 @@
     "stills": [
       "https://a.ltrbxd.com/resized/sm/upload/2x/nm/80/lc/behemoth-1920-1920-1080-1080-crop-000000.jpg?v=f22c8cc1e0"
     ],
-    "tmdb_id": "1452168"
+    "tmdb_id": "1452168",
+    "wiki_tries": 1
   },
   "Na Sombra e no Silêncio|1962": {
     "lbxd": {
@@ -107368,7 +107383,11 @@
       "Website": "N/A",
       "Response": "True"
     },
-    "wiki": null,
+    "wiki": {
+      "title_en": "To Kill a Mockingbird (film)",
+      "imdb_id": "tt0056592",
+      "extract_pt": "To Kill a Mockingbird (bra: O Sol É para Todos; prt: Na Sombra e no Silêncio) é um filme norte-americano de 1962, do gênero drama, dirigido por Robert Mulligan com roteiro de Horton Foote baseado no romance homônimo de Harper Lee."
+    },
     "cinema": {
       "original_title": "To Kill a Mockingbird",
       "plot_pt": "Atticus Finch, celebremente interpretado por Gregory Peck, é um advogado de uma pequena cidade do sul dos EUA que é designado para defender Tom Robinson, um homem negro acusado de ter violado uma mulher branca. Decidido a fazer justiça, Finch esforça-se por educar os seus filhos num meio repressivo que se precipita em acusações a Robinson enquanto o condena a si e à sua família ao ostracismo. Adaptação de Horton Foote do famoso romance homónimo de Harper Lee, To Kill a Mockinbird (Mataram a Cotovia), o filme de Robert Mulligan é um dos mais sensíveis retratos sobre o racismo e a intolerância que pautam a vida numa comunidade rural do sul dos EUA na década de 30.\nCópia Digital Restaurada",
@@ -107379,6 +107398,7 @@
     },
     "dir_checked": true,
     "stills": null,
-    "tmdb_id": "595"
+    "tmdb_id": "595",
+    "wiki_tries": 1
   }
 }
