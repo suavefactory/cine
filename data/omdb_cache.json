@@ -22033,8 +22033,8 @@
   },
   "Palavra e Utopia|2000": {
     "lbxd": {
-      "rating": 3.46,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/4898-word-and-utopia-0-500-0-750-crop.jpg?v=4567daaee8",
+      "rating": 3.48,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/4898-word-and-utopia-0-500-0-750-crop.jpg?v=a01cf28024",
       "description": "The story of Father Antonio Vieira, a 17th-century Portuguese priest who lived in Brazil and worked for better treatment of the Indians and to abolish slavery.",
       "genres": [
         "History"
@@ -22042,7 +22042,11 @@
       "country": "Spain",
       "lb_director": "Manoel de Oliveira",
       "lb_director_slug": "manoel-de-oliveira",
-      "lb_year": 2000
+      "lb_year": 2000,
+      "lb_title": "Word and Utopia",
+      "backdrop": null,
+      "imdb_id": "tt0200257",
+      "tmdb_id": "61841"
     },
     "omdb": {
       "Title": "Palavra e Utopia",
@@ -22075,7 +22079,16 @@
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
-    }
+    },
+    "wiki": {
+      "title_en": "Word and Utopia",
+      "imdb_id": "tt0200257",
+      "extract_pt": "Palavra e Utopia é um filme português de 2000 dirigido pelo cineasta Manoel de Oliveira que conta a trajetória do padre António Vieira."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "61841"
   },
   "Eu vos Saúdo, Maria|1984": {
     "lbxd": null,
@@ -103546,7 +103559,16 @@
       ]
     },
     "dir_checked": true,
-    "stills": null
+    "stills_focus": [
+      20.7,
+      40.2,
+      41.8
+    ],
+    "stills": [
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0001_web.jpg",
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0007_web.jpg",
+      "https://medeiafilmes.com/uploads/library/tlmit_still_0005_web.jpg"
+    ]
   },
   "Barry Lyndon|1975": {
     "lbxd": {
@@ -105727,7 +105749,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "100033",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "They Had To See Paris|1929": {
     "lbxd": {
@@ -106737,7 +106759,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "147925",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Anim 30 Anos | Curtas Metragens|None": {
     "lbxd": null,
@@ -106796,7 +106818,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "1186661",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "City Lights|1931": {
     "lbxd": {
@@ -107030,7 +107052,7 @@
     "dir_checked": true,
     "stills": null,
     "tmdb_id": "170514",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "The Valley of Silent Men|1922": {
     "lbxd": {
@@ -107319,7 +107341,7 @@
       "https://a.ltrbxd.com/resized/sm/upload/2x/nm/80/lc/behemoth-1920-1920-1080-1080-crop-000000.jpg?v=f22c8cc1e0"
     ],
     "tmdb_id": "1452168",
-    "wiki_tries": 1
+    "wiki_tries": 2
   },
   "Na Sombra e no Silêncio|1962": {
     "lbxd": {
@@ -107391,5 +107413,187 @@
     "stills": null,
     "tmdb_id": "595",
     "wiki_tries": 1
+  },
+  "Living On Velvet|1935": {
+    "lbxd": {
+      "rating": 3.17,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/3/2/4/3/153243-living-on-velvet-0-500-0-750-crop.jpg?v=7bc6689ba0",
+      "description": "A lay-about falls for his best friend's fiancee. The two of them run away from a life of privilege to one of middle-class normalcy. When an influx of money enters their life, their differences come to light.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1935,
+      "lb_title": "Living on Velvet",
+      "backdrop": "https://a.ltrbxd.com/resized/sm/upload/mw/fo/ff/jm/8xLRyUV9XxXS4X9585SwsqkJVpz-1920-1920-1080-1080-crop-000000.jpg?v=8f7cfe56a4",
+      "imdb_id": "tt0026644",
+      "tmdb_id": "215885"
+    },
+    "omdb": {
+      "Title": "Living on Velvet",
+      "Year": "1935",
+      "Rated": "Approved",
+      "Released": "02 Mar 1935",
+      "Runtime": "80 min",
+      "Genre": "Drama, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Jerry Wald, Julius J. Epstein, Edward Chodorov",
+      "Actors": "Kay Francis, Warren William, George Brent",
+      "Plot": "Terry Parker (George Brent) is shattered by the crash of his airplane which killed his parents and sister, and adopts a listless attitude toward life. But romance enters in the person of Amy Prentiss (Kay Francis), the girl friend...",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MTc5OTUyOF5BMl5BanBnXkFtZTgwNjU5NjQ0MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "479",
+      "imdbID": "tt0026644",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills_focus": [
+      30.4
+    ],
+    "stills": [
+      "https://a.ltrbxd.com/resized/sm/upload/mw/fo/ff/jm/8xLRyUV9XxXS4X9585SwsqkJVpz-1920-1920-1080-1080-crop-000000.jpg?v=8f7cfe56a4"
+    ],
+    "tmdb_id": "215885"
+  },
+  "Kinkanshoku|1934": {
+    "lbxd": {
+      "rating": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/2/5/6/3/262563-eclipse-1934-0-500-0-750-crop.jpg?v=7f3a03ac78",
+      "description": "The story is centered around the devastating experiences of two villagers, Osaki Shuichi, and his cousin, Nishimiura Kinue, when they leave their hometown for the metropolis of Tokyo. They are in love with each other, but Kinue is expected to marry the lawyer Kanda Seiji. In consequence, Shukichi leaves for Tokyo, where he becomes tutor to the son of the rich Iwaki family. The heartbroken Kinue also makes her way to the capital, where she becomes a bar hostess.",
+      "genres": [
+        "Drama"
+      ],
+      "country": "Japan",
+      "lb_director": "Hiroshi Shimizu",
+      "lb_director_slug": "hiroshi-shimizu-2",
+      "lb_year": 1934,
+      "lb_title": "Eclipse",
+      "backdrop": null,
+      "imdb_id": "tt3078460",
+      "tmdb_id": "334167"
+    },
+    "omdb": {
+      "Title": "Kinkanshoku",
+      "Year": "1934",
+      "Rated": "N/A",
+      "Released": "01 Nov 1934",
+      "Runtime": "100 min",
+      "Genre": "Drama, Romance",
+      "Director": "Hiroshi Shimizu",
+      "Writer": "Masao Arata, Masao Kume",
+      "Actors": "Mitsugu Fujii, Hiroko Kawasaki, Michiko Kuwano",
+      "Plot": "N/A",
+      "Language": "Japanese, None",
+      "Country": "Japan",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjU1YTRhNTUtZjMyMi00N2JmLWFkYmYtMjRmNzZjMTg1YTcxXkEyXkFqcGdeQXVyNzczNjIwMzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "30",
+      "imdbID": "tt3078460",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": null,
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "334167"
+  },
+  "Desire|1936": {
+    "lbxd": {
+      "rating": 3.59,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/5/3/0/5/65305-desire-0-500-0-750-crop.jpg?v=ed9f932ee9",
+      "description": "Madeleine steals a string of pearls in Paris and uses American engineer Tom, who is driving on his vacation to Spain, to get the pearls out of France. But getting the pearls back from him proves to be difficult without falling in love.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime",
+        "Comedy"
+      ],
+      "country": "USA",
+      "lb_director": "Frank Borzage",
+      "lb_director_slug": "frank-borzage",
+      "lb_year": 1936,
+      "lb_title": "Desire",
+      "backdrop": null,
+      "imdb_id": "tt0027515",
+      "tmdb_id": "78998"
+    },
+    "omdb": {
+      "Title": "Desire",
+      "Year": "1936",
+      "Rated": "Approved",
+      "Released": "28 Feb 1936",
+      "Runtime": "95 min",
+      "Genre": "Comedy, Crime, Romance",
+      "Director": "Frank Borzage",
+      "Writer": "Edwin Justus Mayer, Waldemar Young, Samuel Hoffenstein",
+      "Actors": "Marlene Dietrich, Gary Cooper, John Halliday",
+      "Plot": "An automotive engineer bound for a holiday in Spain meets a sultry jewel thief.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "1 win total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzgwZjRhMDktMGU4MS00ZmQ0LWJiODUtYmIzMmM5MzdkYWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "7.1",
+      "imdbVotes": "3,429",
+      "imdbID": "tt0027515",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    "wiki": {
+      "title_en": "Desire (1936 film)",
+      "imdb_id": "tt0027515",
+      "extract_pt": "Desire (bra: Desejo, ou Tentação Irresistível) é um filme estadunidense de 1936, do gênero comédia romântica, dirigido por Frank Borzage e estrelado por Marlene Dietrich e Gary Cooper. Elogiada pela sua sofisticação, a produção é uma refilmagem de Die Schonen von Aranjuez (Alemanha, 1933). Marlene queria um papel para John Gilbert, que estava em decadência, porém este veio a falecer e John Halliday assumiu seu lugar.\nApesar de dirigido por Borzage, o filme é marcado pelo estilo de Ernst Lubitsch, à época chefe de produção da Paramount Pictures."
+    },
+    "cinema": {},
+    "dir_checked": true,
+    "stills": null,
+    "tmdb_id": "78998"
   }
 }

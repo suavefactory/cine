@@ -1,5 +1,5 @@
 window.CINEMA_DATA = {
-  "generated": "2026-11-27T18:02:53.729676+00:00",
+  "generated": "2026-11-28T16:49:49.751515+00:00",
   "movies": [
     {
       "id": "sao_jorge_12453",
@@ -62,10 +62,10 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12441",
       "title": "SOLOS | TRIBECA CINEMA SESSIONS",
-      "director": "Zihan Loo, Kan Lume",
+      "director": null,
       "duration": 112,
       "festival": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/9/8/3/8/0/498380-solos-0-500-0-750-crop.jpg?v=8a88ff334a",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/5/5/9/8/115598-solos-0-500-0-750-crop.jpg?v=45bcbca7e8",
       "genres": [
         "Drama"
       ],
@@ -80,9 +80,9 @@ window.CINEMA_DATA = {
           ]
         }
       ],
-      "year": 2005,
-      "plot": "Enrique is 37 years old, 12 years of living with his wife and two children. Sick with jealousy, he has just separated from his wife once more. Luis, 40 years old, has just finished a passionate relationship with a very hysterical TV journalist that he was madly in love with, and left him for another. One comes from the horror of jealousy and weariness, and the other from a passion that swept him away, and finally left him alone. As Enrique has nowhere to go, Luis invites him to live in his house, temporarily ...",
-      "country": "Argentina",
+      "year": 2007,
+      "plot": "Inspired by true events, Solos explores relationships among three individuals who are struggling to open up their feelings towards each other. Filmmakers Kan Lume and Loo Zihan co-directed this pathos that dramatizes the selfishness of love and its tragic outcomes. Set in contemporary Singapore, Solos follows the endeavors of Boy, Man and Mother. Having been in a relationship with Man (Lim Yu Beng) for years, Boy (Loo Zihan) eventually grows up and wishes to quit the relationship. Conversely, Man still wants to be with Boy and for them to settle together. Meanwhile, Mother (Goh Guat Kian) is devastated that her son (Boy) has abandoned her and has been in relationship with Man. As the three characters fight their own demons, Solos juxtaposes reality and surreal scenes in order to give clues of each character’s inner desires. The film has minimum conversation to give freedom to the audience's individual interpretation of the film.",
+      "country": "Singapore",
       "director_lbxd_slug": "loo-zihan"
     },
     {
@@ -141,8 +141,7 @@ window.CINEMA_DATA = {
       "plot": "Series will focus on politics, pop culture, race, religion, media and sex.",
       "title_en": "Totally Biased with W. Kamau Bell",
       "country": "United States",
-      "year": 2012,
-      "plot_pt": "Christopher Julius \"Chris\" Rock III (Andrews, 7 de fevereiro de 1965) é um comediante, ator, roteirista, produtor, dublador e cineasta americano, ganhador de quatro prêmios Emmy e três prêmios Grammy, conhecido por criar, escrever e narrar o seriado Todo Mundo Odeia o Chris, baseado em sua vida real.\nApós trabalhar como comediante de stand-up e atuar em inúmeros papéis coadjuvantes, Rock ganhou destaque ao atuar em uma série de especiais de comédia aclamados da HBO e ao se tornar membro de elenco do Saturday Night Live no início dos anos 90. Ele passou a aparecer em filmes de maior destaque, com papéis principais em O Céu Pode Esperar (2001), Um Pobretão na Casa Branca (2003), Golpe Baixo (2005), Acho Que Amo Minha Mulher (2007), Gente Grande (2010), Gente Grande 2 (2013) e No Auge da Fama (2014), além de dar voz à zebra Marty na franquia Madagascar, da Dreamworks.\nRock apresentou o Oscar 2005 e o Oscar 2016."
+      "year": 2012
     },
     {
       "id": "sao_jorge_12445",
@@ -326,7 +325,7 @@ window.CINEMA_DATA = {
     {
       "id": "sao_jorge_12434",
       "title": "IN MEMORIAM | TRIBECA CINEMA SESSIONS",
-      "director": "Enrique Brasó",
+      "director": null,
       "duration": 138,
       "festival": null,
       "poster": "https://a.ltrbxd.com/resized/film-poster/1/8/0/8/2/3/180823-in-memoriam-0-500-0-750-crop.jpg?v=790bbfed16",
@@ -453,8 +452,7 @@ window.CINEMA_DATA = {
         61.0
       ],
       "country": "UK",
-      "director_lbxd_slug": "lance-hammer",
-      "plot_pt": "Queen at Sea (bra: Rainha ao Mar) é um longa-metragem britânico-estadunidense de drama lançado em 2026, escrito, dirigido e montado por Lance Hammer. Estrelado por Juliette Binoche, Tom Courtenay, e Anna Calder-Marshall, acompanha Amanda, uma mulher de meia-idade sofrendo com a demência de sua mãe. \nA estreia mundial do filme ocorreu em 17 de fevereiro de 2026, na competição principal do 76.º Festival Internacional de Cinema de Berlim, onde venceu o Urso de Prata de Prêmio do Júri e o Urso de Prata de Melhor Atuação Coadjuvante, concedido conjuntamente a Tom Courtenay e Anna Calder-Marshall. A produção recebeu elogios da crítica, sobretudo pela direção e pelas atuações."
+      "director_lbxd_slug": "lance-hammer"
     },
     {
       "id": "sao_jorge_12421",
@@ -511,96 +509,6 @@ window.CINEMA_DATA = {
       "plot": "In Nazi-occupied Paris, a young accompanist named Sophie Vasseur gets a job with famed singer Irene Brice. As Irene's husband Charles, a businessman collaborating with the Nazis, wrestles with his conscience, Sophie becomes obsessed with Irene, taking on the role of maid as well as accompanist, living life vicariously through Irene's triumphs and affairs.",
       "country": "France",
       "director_lbxd_slug": "claude-miller"
-    },
-    {
-      "id": "cinemateca_20456",
-      "title": "La Vie De Bohème",
-      "director": "Aki Kaurismäki",
-      "year": 1992,
-      "duration": 103,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/8/2/2/33822-la-vie-de-boheme-0-500-0-750-crop.jpg?v=63086ec9c6",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20456",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.96,
-      "plot": "Three penniless artists become friends in modern-day Paris: Rodolfo, an Albanian painter with no visa, Marcel, a playwright and magazine editor with no publisher, and Schaunard, a post-modernist composer of execrable noise.",
-      "plot_pt": "La Vie de bohème (prt: A Vida de Boémia) é um filme de tragicomédia de 1992 dirigido por Aki Kaurismäki e estrelado por Matti Pellonpää, Évelyne Didi e André Wilms. O roteiro de Kaurismäki para o filme foi vagamente baseado no influente romance de Henri Murger, Scènes de la vie de bohème, de 1851, que gerou várias adaptações para a tela, bem como peças e óperas, sendo a mais notável La bohème, de 1896, de Giacomo Puccini.\nO filme foi um sucesso de crítica ganhando vários prêmios. A Federação Internacional de Críticos de Cinema concedeu ao filme o prêmio Fórum do Novo Cinema no Festival Internacional de Cinema de Berlim de 1992.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/l7/1i/5j/ep/lavie-1920-1920-1080-1080-crop-000000.jpg?v=e1cb85f5e9"
-      ],
-      "stills_focus": [
-        31.1
-      ],
-      "country": "France",
-      "director_lbxd_slug": "aki-kaurismaki"
-    },
-    {
-      "id": "cinemateca_20537",
-      "title": "Aspern",
-      "director": "Eduardo de Gregorio",
-      "year": 1982,
-      "duration": 96,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/9/9/7/6/4/199764-aspern-0-500-0-750-crop.jpg?v=d2069dbc7f",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20537",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "19:00",
-          "cinema": "cinemateca"
-        }
-      ],
-      "plot": "A publisher seeks information on a writer who died long ago.",
-      "country": "France",
-      "director_lbxd_slug": "eduardo-de-gregorio"
-    },
-    {
-      "id": "cinemateca_20520",
-      "title": "Till We Meet Again",
-      "director": "Frank Borzage",
-      "year": 1944,
-      "duration": 88,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/3/2/101932-till-we-meet-again-0-500-0-750-crop.jpg?v=71bde5174a",
-      "genres": [
-        "War",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20520",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "cinema": "cinemateca"
-        },
-        {
-          "date": "2026-12-03",
-          "time": "15:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.62,
-      "plot": "An American pilot is shot down over Nazi-occupied France and is taken to a convent by the Resistance. The young novice nun Clothilde is interested in him and is willing to help him escape to England, but the pilot must continue his mission undercover by posing as the husband of a different woman.",
-      "plot_pt": "Till We Meet Again (Brasil: Um Lírio na Cruz / Portugal: Até à Vista) é um filme estadunidense de 1944, do gênero drama de guerra, dirigido por Frank Borzage e estrelado por Ray Milland e Barbara Britton.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/7v/ao/o0/sc/3C415g6x9RpqvaDJFPhJQzfIriG-1920-1920-1080-1080-crop-000000.jpg?v=11952f70f1"
-      ],
-      "stills_focus": [
-        40.0
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "frank-borzage"
     },
     {
       "id": "cinemateca_20538",
@@ -841,8 +749,7 @@ window.CINEMA_DATA = {
       "plot": "In Depression-era Japan, a courteous bus driver carries an eclectic group of passengers from the mountainous Izu to Tokyo.",
       "title_en": "Mr. Thank You",
       "country": "Japan",
-      "director_lbxd_slug": "hiroshi-shimizu-2",
-      "plot_pt": "Ken Uehara (上原謙, Uehara Ken; 7 de novembro de 1909 – 23 de novembro de 1991) foi um ator japonês que apareceu em aproximadamente 200 filmes entre os anos de 1935 a 1990.\nGraduado da Universidade Rikkyo, Uehara ingressou na Shochiku em 1935. Após a Segunda Guerra Mundial, tornou-se ator freelancer, antes de assinar contrato com o estúdio cinematográfico  da Toho. Os diretores com quem Uehara trabalhou incluem Mikio Naruse, Yasujirō Shimazu, Hiroshi Shimizu, Keisuke Kinoshita, Yasujirō Ozu e Kenji Mizoguchi."
+      "director_lbxd_slug": "hiroshi-shimizu-2"
     },
     {
       "id": "cinemateca_20592",
@@ -897,14 +804,44 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "raul-ruiz"
     },
     {
+      "id": "cinemateca_20594",
+      "title": "Till We Meet Again",
+      "director": "Frank Borzage",
+      "year": 1944,
+      "duration": 88,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/9/3/2/101932-till-we-meet-again-0-500-0-750-crop.jpg?v=71bde5174a",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20594",
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "time": "15:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.62,
+      "plot": "An American pilot is shot down over Nazi-occupied France and is taken to a convent by the Resistance. The young novice nun Clothilde is interested in him and is willing to help him escape to England, but the pilot must continue his mission undercover by posing as the husband of a different woman.",
+      "plot_pt": "Till We Meet Again (Brasil: Um Lírio na Cruz / Portugal: Até à Vista) é um filme estadunidense de 1944, do gênero drama de guerra, dirigido por Frank Borzage e estrelado por Ray Milland e Barbara Britton.",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/7v/ao/o0/sc/3C415g6x9RpqvaDJFPhJQzfIriG-1920-1920-1080-1080-crop-000000.jpg?v=11952f70f1"
+      ],
+      "stills_focus": [
+        40.0
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
       "id": "cinemateca_20570",
       "title": "Mori No Kajiya | Fue No Shiratama",
       "director": "Hiroshi Shimizu",
       "year": 1929,
       "duration": 93,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/9/8/1/136981-eternal-heart-0-500-0-750-crop.jpg?v=c95983dab2",
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/1/1/6/7/0/711670-the-blacksmith-of-the-forest-0-500-0-750-crop.jpg?v=d40a618d81",
       "genres": [
-        "Romance",
         "Drama"
       ],
       "link": "https://cinemateca.pt/programacao.aspx?id=20570",
@@ -915,11 +852,10 @@ window.CINEMA_DATA = {
           "cinema": "cinemateca"
         }
       ],
-      "plot": "Toshie, a young, conservative secretary-typist has fallen in love with Shozo Narita, a young man she has met through her work.",
-      "title_en": "Eternal Heart",
+      "plot": "A blacksmith is chased out of the village by the sinister village chief and forced to move to the forest with his wife and two sons. The blacksmith's younger son is disabled, and the other children in the village tease him. The older son aspires to become a doctor in order to fix his brother's leg. The film depicts the bond between a father and his sons. Only 18 minutes survive.",
+      "title_en": "The Blacksmith of the Forest",
       "country": "Japan",
-      "director_lbxd_slug": "hiroshi-shimizu-2",
-      "rating": 3.57
+      "director_lbxd_slug": "hiroshi-shimizu-2"
     },
     {
       "id": "cinemateca_20644",
@@ -1408,57 +1344,109 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "frank-borzage"
     },
     {
-      "id": "cinemateca_20476_0",
-      "title": "A Conquista De Faro",
-      "director": "Rita Azevedo Gomes",
-      "year": 2005,
-      "duration": 33,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/3/8/2/389382-the-conquest-of-faro-0-500-0-750-crop.jpg?v=fa05b75c90",
+      "id": "cinemateca_20602",
+      "title": "Living On Velvet",
+      "director": "Frank Borzage",
+      "year": 1935,
+      "duration": 75,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/3/2/4/3/153243-living-on-velvet-0-500-0-750-crop.jpg?v=7bc6689ba0",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20476",
+      "link": "https://cinemateca.pt/programacao.aspx?id=20602",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "19:30",
+          "date": "2026-12-11",
+          "time": "16:30",
           "cinema": "cinemateca"
         }
       ],
-      "plot": "Arriving in a hotel in the city of Faro, a couple learns there are no available tables left. When another couple agrees to share a table, they spark a conversation on the city’s history, unfolding the tales of King Afonso III, who betrays his wife, and of a Moorish woman, who betrays her father.",
-      "title_en": "The Conquest of Faro",
-      "country": "Portugal",
-      "director_lbxd_slug": "rita-azevedo-gomes"
-    },
-    {
-      "id": "cinemateca_20476_1",
-      "title": "Fuck The Polis",
-      "director": "Rita Azevedo Gomes",
-      "year": 2025,
-      "duration": 74,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/7/0/2/9/1/1370291-fuck-the-polis-0-500-0-750-crop.jpg?v=40c3c0850f",
-      "genres": [
-        "Documentary",
-        "Drama"
-      ],
-      "link": "https://cinemateca.pt/programacao.aspx?id=20476",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "19:30",
-          "cinema": "cinemateca"
-        }
-      ],
-      "rating": 3.23,
-      "plot": "Twenty years ago, believing she was doomed, Irma took a trip to Greece. Today, she retraces that journey, accompanied by three young men. From island to island, between sky and sea, the travelers read, listen and live, carried by a longing for beauty and clarity.",
+      "rating": 3.17,
+      "plot": "A lay-about falls for his best friend's fiancee. The two of them run away from a life of privilege to one of middle-class normalcy. When an influx of money enters their life, their differences come to light.",
       "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/1/3/7/0/2/9/1/tmdb/7KCO5hHfllj9HmRIpB6jxp5fPeR-1920-1920-1080-1080-crop-000000.jpg?v=283631dbd4"
+        "https://a.ltrbxd.com/resized/sm/upload/mw/fo/ff/jm/8xLRyUV9XxXS4X9585SwsqkJVpz-1920-1920-1080-1080-crop-000000.jpg?v=8f7cfe56a4"
       ],
       "stills_focus": [
-        47.2
+        30.4
       ],
-      "country": "Portugal",
-      "director_lbxd_slug": "rita-azevedo-gomes"
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20576",
+      "title": "Kinkanshoku",
+      "director": "Hiroshi Shimizu",
+      "year": 1934,
+      "duration": 97,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/2/5/6/3/262563-eclipse-1934-0-500-0-750-crop.jpg?v=7f3a03ac78",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20576",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "19:00",
+          "cinema": "cinemateca"
+        }
+      ],
+      "plot": "The story is centered around the devastating experiences of two villagers, Osaki Shuichi, and his cousin, Nishimiura Kinue, when they leave their hometown for the metropolis of Tokyo. They are in love with each other, but Kinue is expected to marry the lawyer Kanda Seiji. In consequence, Shukichi leaves for Tokyo, where he becomes tutor to the son of the rich Iwaki family. The heartbroken Kinue also makes her way to the capital, where she becomes a bar hostess.",
+      "title_en": "Eclipse",
+      "country": "Japan",
+      "director_lbxd_slug": "hiroshi-shimizu-2"
+    },
+    {
+      "id": "cinemateca_20604",
+      "title": "Desire",
+      "director": "Frank Borzage",
+      "year": 1936,
+      "duration": 96,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/5/3/0/5/65305-desire-0-500-0-750-crop.jpg?v=ed9f932ee9",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime",
+        "Comedy"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20604",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "19:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.59,
+      "plot": "Madeleine steals a string of pearls in Paris and uses American engineer Tom, who is driving on his vacation to Spain, to get the pearls out of France. But getting the pearls back from him proves to be difficult without falling in love.",
+      "plot_pt": "Desire (bra: Desejo, ou Tentação Irresistível) é um filme estadunidense de 1936, do gênero comédia romântica, dirigido por Frank Borzage e estrelado por Marlene Dietrich e Gary Cooper. Elogiada pela sua sofisticação, a produção é uma refilmagem de Die Schonen von Aranjuez (Alemanha, 1933). Marlene queria um papel para John Gilbert, que estava em decadência, porém este veio a falecer e John Halliday assumiu seu lugar.\nApesar de dirigido por Borzage, o filme é marcado pelo estilo de Ernst Lubitsch, à época chefe de produção da Paramount Pictures.",
+      "country": "USA",
+      "director_lbxd_slug": "frank-borzage"
+    },
+    {
+      "id": "cinemateca_20636",
+      "title": "Palavra e Utopia",
+      "director": "Manoel de Oliveira",
+      "year": 2000,
+      "duration": 132,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/4898-word-and-utopia-0-500-0-750-crop.jpg?v=a01cf28024",
+      "genres": [
+        "History"
+      ],
+      "link": "https://cinemateca.pt/programacao.aspx?id=20636",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "21:30",
+          "cinema": "cinemateca"
+        }
+      ],
+      "rating": 3.48,
+      "plot": "The story of Father Antonio Vieira, a 17th-century Portuguese priest who lived in Brazil and worked for better treatment of the Indians and to abolish slavery.",
+      "plot_pt": "Palavra e Utopia é um filme português de 2000 dirigido pelo cineasta Manoel de Oliveira que conta a trajetória do padre António Vieira.",
+      "title_en": "Word and Utopia",
+      "country": "Spain",
+      "director_lbxd_slug": "manoel-de-oliveira"
     },
     {
       "id": "cinemateca_20428_0",
@@ -1667,16 +1655,6 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/victor-como-toda-a-gente-2026",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "19:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "cinema": "campo_alegre"
-        },
-        {
           "date": "2026-11-28",
           "time": "15:30",
           "cinema": "campo_alegre"
@@ -1787,26 +1765,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/fatherland-2026",
       "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-28",
           "time": "16:30",
@@ -1971,76 +1929,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "pawel-pawlikowski-1"
     },
     {
-      "id": "nimas_primetime-2026",
-      "title": "Primetime",
-      "director": "Lance Oppenheim",
-      "year": 2026,
-      "duration": 110,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/2/0/1/9/1262019-primetime-2026-0-500-0-750-crop.jpg?v=41640d6988",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/primetime-2026",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "17:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.72,
-      "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/9m0tVJ6JRIbqwtbJThDPFtAn6CY.jpg",
-        "https://image.tmdb.org/t/p/w1280/5k1DoJ71pWD5ydzRGliDyTnKqxt.jpg",
-        "https://image.tmdb.org/t/p/w1280/cg2WvuzI9Z3nsrY3ueooPd7izdJ.jpg"
-      ],
-      "stills_focus": [
-        18.2,
-        51.2,
-        40.9
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "lance-oppenheim"
-    },
-    {
-      "id": "nimas_the-holy-boy-2025",
-      "title": "The Holy Boy",
-      "director": "Paolo Strippoli",
-      "year": 2025,
-      "duration": 122,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/9/8/5/3/4/5/985345-the-holy-boy-0-500-0-750-crop.jpg?v=0e8bd81d97",
-      "genres": [
-        "Fantasy",
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/the-holy-boy-2025",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "23:59",
-          "cinema": "nimas",
-          "labels": [
-            "MOTELX e FilmTwist Apresentam: Nimas Fora de Horas"
-          ]
-        }
-      ],
-      "rating": 3.55,
-      "plot": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
-      "plot_pt": "Sergio, um professor atormentado pelo passado, é transferido para Remis, uma aldeia isolada conhecida como a mais feliz de Itália. Cedo descobre que a aldeia esconde um segredo sombrio e perturbador.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/alternative-backdrop/9/8/5/3/4/5/tmdb/yJOeJH8NcOk73q6bY4hbYlC3ybG-1920-1920-1080-1080-crop-000000.jpg?v=29f51ccbe0"
-      ],
-      "stills_focus": [
-        25.5
-      ],
-      "country": "Italy",
-      "director_lbxd_slug": "paolo-strippoli"
-    },
-    {
       "id": "nimas_trainspotting-1996",
       "title": "Trainspotting",
       "director": "Danny Boyle",
@@ -2168,77 +2056,64 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "sarunas-bartas"
     },
     {
-      "id": "nimas_este-obscuro-objecto-do-desejo-1977",
-      "title": "Este Obscuro Objecto do Desejo",
-      "director": "Luis Buñuel",
-      "year": 1977,
-      "duration": 103,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/5/3/48653-that-obscure-object-of-desire-0-500-0-750-crop.jpg?v=4898042e49",
+      "id": "nimas_naza-2026",
+      "title": "Naza",
+      "director": "Yuval Abraham, Rachel Szor",
+      "year": 2026,
+      "duration": 80,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
       "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
+        "Documentary"
       ],
-      "link": "https://medeiafilmes.com/filmes/este-obscuro-objecto-do-desejo-1977",
+      "link": "https://medeiafilmes.com/filmes/naza-2026",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.95,
-      "plot": "After dumping a bucket of water on a beautiful young woman from the window of a train car, wealthy Frenchman Mathieu, regales his fellow passengers with the story of the dysfunctional relationship between himself and the young woman in question, a fiery 19-year-old flamenco dancer named Conchita. What follows is a tale of cruelty, depravity and lies -- the very building blocks of love.",
-      "plot_pt": "ESTE OBSCURO OBJECTO DO DESEJO é o último filme de Luís Buñuel e um dos seus mais irónicos comentários sobre o desejo e a sexualidade. A partir do romance de Pierre Louys \"La Femme et le Pantin\", Buñuel conta a história do desejo insaciável de um burguês de Sevilha, Mathieu Faber, pela sua criada virgem, Conchita, que, apesar das promessas, deixa Faber numa permanente expectativa.\nCópia Digital Restaurada",
-      "title_en": "That Obscure Object of Desire",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/6cf7f55d5a6678738b48d7d2ccedd26b.jpg",
-        "https://medeiafilmes.com/uploads/library/733d9848-78db-423f-b3b5-08417e53fc91.jpg",
-        "https://medeiafilmes.com/uploads/library/711772.jpg"
-      ],
-      "stills_focus": [
-        38.9,
-        28.5,
-        34.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "luis-bunuel"
-    },
-    {
-      "id": "nimas_o-castelo-1997",
-      "title": "O Castelo",
-      "director": "Michael Haneke",
-      "year": 1997,
-      "duration": 130,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/9/6/0/34960-the-castle-0-500-0-750-crop.jpg?v=220c1f4d9f",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-castelo-1997",
-      "sessions": [
+          "date": "2026-11-28",
+          "time": "11:00",
+          "cinema": "fernando"
+        },
         {
-          "date": "2026-11-27",
-          "time": "15:00",
+          "date": "2026-11-28",
+          "time": "16:30",
           "cinema": "nimas"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "18:00",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "14:00",
+          "cinema": "fernando"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "14:30",
+          "cinema": "trindade"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "18:00",
+          "cinema": "trindade"
         }
       ],
-      "rating": 3.3,
-      "plot": "When land surveyor K arrives at a small village that houses a castle, local authorities refuse to allow him to enter. As he tries to convince the officials that they sent for him, they clamp down with increasingly complicated bureaucratic obstacles.",
-      "plot_pt": "Um agrimensor é chamado para trabalhar numa pequena aldeia à volta de um castelo. Porém, desde a sua chegada, não consegue convencer os habitantes da sua legitimidade, tentando sem sucesso entrar no castelo e cumprir o seu trabalho, e logo vendo-se preso numa espiral de burocracia provincial e rivalidades sociais insignificantes, que rapidamente se transforma num pesadelo surrealista. Baseado num dos livros mais inquietantes de Franz Kafka, O Castelo mergulha num universo pleno de desconforto e confusão.",
-      "title_en": "The Castle",
+      "rating": 4.38,
+      "plot": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
+      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
       "stills": [
-        "https://image.tmdb.org/t/p/w1280/rcmipcf9nRiL7609YZwF9haPRPL.jpg",
-        "https://image.tmdb.org/t/p/w1280/lAZpIsVTClPaCaLzIGZpEjQ1Oke.jpg",
-        "https://image.tmdb.org/t/p/w1280/cDRtn75v08NPYe2VjB6Mmv5qOb8.jpg"
+        "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
       ],
       "stills_focus": [
-        20.0,
-        36.2,
-        31.3
+        61.2
       ],
-      "country": "Germany",
-      "director_lbxd_slug": "michael-haneke"
+      "country": "USA",
+      "director_lbxd_slug": "yuval-abraham"
     },
     {
       "id": "nimas_a-bola-negra-2026",
@@ -2254,34 +2129,9 @@ window.CINEMA_DATA = {
       "link": "https://medeiafilmes.com/filmes/a-bola-negra-2026",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "18:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-27",
-          "time": "21:15",
-          "cinema": "trindade"
-        },
-        {
           "date": "2026-11-28",
           "time": "13:30",
           "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "14:00",
-          "cinema": "ideal"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "14:15",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "16:00",
-          "cinema": "trindade"
         },
         {
           "date": "2026-11-28",
@@ -2382,66 +2232,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "javier-ambrossi"
     },
     {
-      "id": "nimas_naza-2026",
-      "title": "Naza",
-      "director": "Yuval Abraham, Rachel Szor",
-      "year": 2026,
-      "duration": 80,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-500-0-750-crop.jpg?v=c34667d5c5",
-      "genres": [
-        "Documentary"
-      ],
-      "link": "https://medeiafilmes.com/filmes/naza-2026",
-      "sessions": [
-        {
-          "date": "2026-11-28",
-          "time": "11:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-11-28",
-          "time": "16:30",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-11-29",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-11-30",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "14:00",
-          "cinema": "fernando"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "14:30",
-          "cinema": "trindade"
-        },
-        {
-          "date": "2026-12-02",
-          "time": "18:00",
-          "cinema": "trindade"
-        }
-      ],
-      "rating": 4.38,
-      "plot": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them.",
-      "plot_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/4g/94/d6/gn/qkuEfYYOZTW6ymbZMeyJeYQaMd7-1920-1920-1080-1080-crop-000000.jpg?v=48df2c0386"
-      ],
-      "stills_focus": [
-        61.2
-      ],
-      "country": "USA",
-      "director_lbxd_slug": "yuval-abraham"
-    },
-    {
       "id": "nimas_you-can-see-everything-2026",
       "title": "You Can See Everything",
       "director": "Nathan Fielder, Lance Oppenheim",
@@ -2453,11 +2243,6 @@ window.CINEMA_DATA = {
       ],
       "link": "https://medeiafilmes.com/filmes/you-can-see-everything-2026",
       "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "18:00",
-          "cinema": "trindade"
-        },
         {
           "date": "2026-11-28",
           "time": "18:30",
@@ -2527,6 +2312,56 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "david-fincher"
     },
     {
+      "id": "nimas_memorias-do-carcere-2026",
+      "title": "Memórias do Cárcere",
+      "director": "Sérgio Graciano",
+      "year": 2026,
+      "duration": 167,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/0/9/8/1338098-memories-of-prison-2026-0-500-0-750-crop.jpg?v=d72ff6588e",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/memorias-do-carcere-2026",
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "13:00",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "14:15",
+          "cinema": "nimas"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "14:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.36,
+      "plot": "A fascinating and vivid portrait of Camilo Castelo Branco, based on one of the most remarkable episodes of his life, when the writer and Ana Plácido were imprisoned in Porto's court jail as a result of the famous adultery trial that shook nineteenth-century Portuguese society.",
+      "plot_pt": "Acusados de adultério, Ana Augusta Plácido e Camilo Castelo Branco foram encarcerados durante mais de um ano na Cadeia da Relação do Porto, ela em Junho de 1860, ele em Outubro do mesmo ano, após uma aventurosa fuga à justiça por terras do Norte.",
+      "title_en": "Memories of Prison",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/315.jpg",
+        "https://medeiafilmes.com/uploads/library/410.jpg",
+        "https://medeiafilmes.com/uploads/library/217.jpg"
+      ],
+      "stills_focus": [
+        25.4,
+        26.5,
+        37.5
+      ],
+      "country": "Portugal",
+      "director_lbxd_slug": "sergio-graciano"
+    },
+    {
       "id": "nimas_salo-ou-os-120-dias-de-sodoma-1975",
       "title": "Salò ou Os 120 Dias de Sodoma",
       "director": "Pier Paolo Pasolini",
@@ -2588,56 +2423,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "f-w-murnau"
     },
     {
-      "id": "nimas_memorias-do-carcere-2026",
-      "title": "Memórias do Cárcere",
-      "director": "Sérgio Graciano",
-      "year": 2026,
-      "duration": 167,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/3/8/0/9/8/1338098-memories-of-prison-2026-0-500-0-750-crop.jpg?v=d72ff6588e",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/memorias-do-carcere-2026",
-      "sessions": [
-        {
-          "date": "2026-11-29",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-12-01",
-          "time": "13:00",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-12-06",
-          "time": "14:15",
-          "cinema": "nimas"
-        },
-        {
-          "date": "2026-12-12",
-          "time": "14:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.36,
-      "plot": "A fascinating and vivid portrait of Camilo Castelo Branco, based on one of the most remarkable episodes of his life, when the writer and Ana Plácido were imprisoned in Porto's court jail as a result of the famous adultery trial that shook nineteenth-century Portuguese society.",
-      "plot_pt": "Acusados de adultério, Ana Augusta Plácido e Camilo Castelo Branco foram encarcerados durante mais de um ano na Cadeia da Relação do Porto, ela em Junho de 1860, ele em Outubro do mesmo ano, após uma aventurosa fuga à justiça por terras do Norte.",
-      "title_en": "Memories of Prison",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/315.jpg",
-        "https://medeiafilmes.com/uploads/library/410.jpg",
-        "https://medeiafilmes.com/uploads/library/217.jpg"
-      ],
-      "stills_focus": [
-        25.4,
-        26.5,
-        37.5
-      ],
-      "country": "Portugal",
-      "director_lbxd_slug": "sergio-graciano"
-    },
-    {
       "id": "nimas_os-christophers-2025",
       "title": "Os Christophers",
       "director": "Steven Soderbergh",
@@ -2693,6 +2478,42 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "steven-soderbergh"
+    },
+    {
+      "id": "nimas_a-pianista-2001",
+      "title": "A Pianista",
+      "director": "Michael Haneke",
+      "year": 2001,
+      "duration": 131,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-pianista-2001",
+      "sessions": [
+        {
+          "date": "2026-11-30",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.05,
+      "plot": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
+      "title_en": "The Piano Teacher",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+        "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
+        "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
+      ],
+      "stills_focus": [
+        21.4,
+        12.7,
+        26.0
+      ],
+      "country": "France",
+      "director_lbxd_slug": "michael-haneke"
     },
     {
       "id": "nimas_o-charme-discreto-da-burguesia-1972",
@@ -2767,42 +2588,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "carl-theodor-dreyer-1"
     },
     {
-      "id": "nimas_a-pianista-2001",
-      "title": "A Pianista",
-      "director": "Michael Haneke",
-      "year": 2001,
-      "duration": 131,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/9/1/50791-the-piano-teacher-0-500-0-750-crop.jpg?v=5ee594e70c",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-pianista-2001",
-      "sessions": [
-        {
-          "date": "2026-11-30",
-          "time": "22:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.05,
-      "plot": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
-      "plot_pt": "Erika Kohut é professora de piano no Conservatório de Viena. Aos 40 anos vive com a mãe, de cuja influência apenas consegue escapar em incursões regulares a salas de cinema pornográfico e peepshows. A sua sexualidade é um exercício de voyeurismo mórbido e auto-mutilação masoquista. Erika vive num outro mundo, até ao dia em que um dos seus alunos decide seduzi-la. A Pianista é um estudo tão cativante quanto perturbador sobre dinâmicas de poder e controlo, e um dos filmes mais aclamados de Michael Haneke.",
-      "title_en": "The Piano Teacher",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
-        "https://image.tmdb.org/t/p/w1280/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
-        "https://image.tmdb.org/t/p/w1280/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg"
-      ],
-      "stills_focus": [
-        21.4,
-        12.7,
-        26.0
-      ],
-      "country": "France",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
       "id": "nimas_in-the-mood-for-love-disponivel-para-amar-2000",
       "title": "In the Mood For Love — Disponível Para Amar",
       "director": "Wong Kar Wai",
@@ -2870,6 +2655,32 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "stanley-kubrick"
+    },
+    {
+      "id": "nimas_aurora-1927-1927",
+      "title": "Aurora (1927)",
+      "director": "F. W. Murnau",
+      "year": 1927,
+      "duration": 94,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/3/51493-sunrise-a-song-of-two-humans-0-500-0-750-crop.jpg?v=0cf76799f9",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/aurora-1927-1927",
+      "sessions": [
+        {
+          "date": "2026-12-01",
+          "time": "11:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.17,
+      "plot": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+      "plot_pt": "Sunrise - A Song of Two Humans (bra/prt: Aurora) é um filme mudo de 1927, o primeiro dirigido por F. W. Murnau em Hollywood. Seu roteiro foi adaptado a partir do conto Viagem a Tilsit, do escritor alemão Herrman Suderman, embora nele possam ser inegavelmente encontrados vários elementos do romance Uma história americana, de Theodore Dreiser, lançado dois anos antes e o sucesso comercial literário daquela época nos Estados Unidos.\nUm dos mais importantes filmes da cinematografia mundial, e o até então mais caro lançado pela Fox Film Corporation, Aurora foi laureado com três Oscar em 1929. Recebeu, em 1989, a classificação de significância histórica, estética e cultural pela Biblioteca do Congresso dos Estados Unidos e foi selecionado para preservação pelo British Film Institute.",
+      "title_en": "Sunrise: A Song of Two Humans",
+      "country": "USA",
+      "director_lbxd_slug": "f-w-murnau"
     },
     {
       "id": "nimas_cavalo-selvagem-nove-2026",
@@ -2947,32 +2758,6 @@ window.CINEMA_DATA = {
       ],
       "country": "UK",
       "director_lbxd_slug": "martin-mcdonagh"
-    },
-    {
-      "id": "nimas_aurora-1927-1927",
-      "title": "Aurora (1927)",
-      "director": "F. W. Murnau",
-      "year": 1927,
-      "duration": 94,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/3/51493-sunrise-a-song-of-two-humans-0-500-0-750-crop.jpg?v=0cf76799f9",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/aurora-1927-1927",
-      "sessions": [
-        {
-          "date": "2026-12-01",
-          "time": "11:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.17,
-      "plot": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
-      "plot_pt": "Sunrise - A Song of Two Humans (bra/prt: Aurora) é um filme mudo de 1927, o primeiro dirigido por F. W. Murnau em Hollywood. Seu roteiro foi adaptado a partir do conto Viagem a Tilsit, do escritor alemão Herrman Suderman, embora nele possam ser inegavelmente encontrados vários elementos do romance Uma história americana, de Theodore Dreiser, lançado dois anos antes e o sucesso comercial literário daquela época nos Estados Unidos.\nUm dos mais importantes filmes da cinematografia mundial, e o até então mais caro lançado pela Fox Film Corporation, Aurora foi laureado com três Oscar em 1929. Recebeu, em 1989, a classificação de significância histórica, estética e cultural pela Biblioteca do Congresso dos Estados Unidos e foi selecionado para preservação pelo British Film Institute.",
-      "title_en": "Sunrise: A Song of Two Humans",
-      "country": "USA",
-      "director_lbxd_slug": "f-w-murnau"
     },
     {
       "id": "nimas_71-fragmentos-de-uma-cronologia-do-acaso-1994",
@@ -3077,69 +2862,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luis-bunuel"
     },
     {
-      "id": "nimas_a-idade-de-ouro-1930",
-      "title": "A Idade de Ouro",
-      "director": "Luis Buñuel",
-      "year": 1930,
-      "duration": 62,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/3/48693-lage-dor-0-500-0-750-crop.jpg?v=5d71879827",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Comedy"
-      ],
-      "link": "https://medeiafilmes.com/filmes/a-idade-de-ouro-1930",
-      "sessions": [
-        {
-          "date": "2026-12-03",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.61,
-      "plot": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
-      "plot_pt": "Numa ilha deserta vivem escorpiões e bandidos, ao pé de esqueletos de bispos deixados ao sol. Um cortejo oficial desembarca na ilha, para celebrar o lançamento da primeira pedra da Roma imperial. A cerimónia é perturbada por um casal que se abraça e rola na lama. O homem é preso mas foge, reencontrando a amada numa festa. Enquanto isto acontece, no castelo de Selliny Cristo parece satisfeito por participar nas cerimónias dos Cento e Vinte Dias de Sodoma.",
-      "title_en": "L'Âge d'or",
-      "country": "France",
-      "director_lbxd_slug": "luis-bunuel"
-    },
-    {
-      "id": "nimas_um-cao-andaluz-1929",
-      "title": "Um Cão Andaluz",
-      "director": "Luis Buñuel",
-      "year": 1929,
-      "duration": 16,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/8/51498-un-chien-andalou-0-500-0-750-crop.jpg?v=6f1b84e3af",
-      "genres": [
-        "Fantasy",
-        "Thriller"
-      ],
-      "link": "https://medeiafilmes.com/filmes/um-cao-andaluz-1929",
-      "sessions": [
-        {
-          "date": "2026-12-03",
-          "time": "13:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.8,
-      "plot": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
-      "plot_pt": "Um homem afia uma lâmina de barbear, antes de com ela cortar o olho de uma mulher jovem e impassível. Um ciclista cai. Uma mulher e um homem observam um andrógino e uma mão cortada, e depois acariciam-se. Passado um ano, chega outro homem que ordena ao primeiro que saia da cama. Tudo acaba numa praia onde a mulher encontra um terceiro homem.",
-      "title_en": "Un Chien Andalou",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/lsv1GFDAR1euS5kFsnyQgguyozi.jpg",
-        "https://image.tmdb.org/t/p/w1280/hi5aTvx4gVJU6ruugZ8b2WOlUjA.jpg",
-        "https://image.tmdb.org/t/p/w1280/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg"
-      ],
-      "stills_focus": [
-        24.0,
-        30.9,
-        43.8
-      ],
-      "country": "France",
-      "director_lbxd_slug": "luis-bunuel"
-    },
-    {
       "id": "nimas_amor-2012",
       "title": "Amor",
       "director": "Michael Haneke",
@@ -3174,6 +2896,33 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_a-idade-de-ouro-1930",
+      "title": "A Idade de Ouro",
+      "director": "Luis Buñuel",
+      "year": 1930,
+      "duration": 62,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/8/6/9/3/48693-lage-dor-0-500-0-750-crop.jpg?v=5d71879827",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "link": "https://medeiafilmes.com/filmes/a-idade-de-ouro-1930",
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.61,
+      "plot": "The film consists of a series of tightly interlinked vignettes, the most sustained of which details the story of a man and a woman who are passionately in love. Their attempts to consummate their passion are constantly thwarted, by their families, by the Church and bourgeois society in general.",
+      "plot_pt": "Numa ilha deserta vivem escorpiões e bandidos, ao pé de esqueletos de bispos deixados ao sol. Um cortejo oficial desembarca na ilha, para celebrar o lançamento da primeira pedra da Roma imperial. A cerimónia é perturbada por um casal que se abraça e rola na lama. O homem é preso mas foge, reencontrando a amada numa festa. Enquanto isto acontece, no castelo de Selliny Cristo parece satisfeito por participar nas cerimónias dos Cento e Vinte Dias de Sodoma.",
+      "title_en": "L'Âge d'or",
+      "country": "France",
+      "director_lbxd_slug": "luis-bunuel"
     },
     {
       "id": "nimas_raios-e-sombras-2026",
@@ -3238,6 +2987,42 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "xavier-giannoli"
     },
     {
+      "id": "nimas_um-cao-andaluz-1929",
+      "title": "Um Cão Andaluz",
+      "director": "Luis Buñuel",
+      "year": 1929,
+      "duration": 16,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/8/51498-un-chien-andalou-0-500-0-750-crop.jpg?v=6f1b84e3af",
+      "genres": [
+        "Fantasy",
+        "Thriller"
+      ],
+      "link": "https://medeiafilmes.com/filmes/um-cao-andaluz-1929",
+      "sessions": [
+        {
+          "date": "2026-12-03",
+          "time": "13:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.8,
+      "plot": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
+      "plot_pt": "Um homem afia uma lâmina de barbear, antes de com ela cortar o olho de uma mulher jovem e impassível. Um ciclista cai. Uma mulher e um homem observam um andrógino e uma mão cortada, e depois acariciam-se. Passado um ano, chega outro homem que ordena ao primeiro que saia da cama. Tudo acaba numa praia onde a mulher encontra um terceiro homem.",
+      "title_en": "Un Chien Andalou",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/lsv1GFDAR1euS5kFsnyQgguyozi.jpg",
+        "https://image.tmdb.org/t/p/w1280/hi5aTvx4gVJU6ruugZ8b2WOlUjA.jpg",
+        "https://image.tmdb.org/t/p/w1280/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg"
+      ],
+      "stills_focus": [
+        24.0,
+        30.9,
+        43.8
+      ],
+      "country": "France",
+      "director_lbxd_slug": "luis-bunuel"
+    },
+    {
       "id": "nimas_the-loneliest-man-in-town-2026",
       "title": "The Loneliest Man in Town",
       "director": "Tizza Covi e Rainer Frimmel",
@@ -3288,7 +3073,17 @@ window.CINEMA_DATA = {
           "cinema": "nimas"
         }
       ],
-      "plot_pt": "O músico de blues Al Cook vive rodeado de memórias. O seu apartamento e estúdio na cave estão repletos de livros, cassetes VHS e discos de vinil. Neste espaço, o tempo parece ter parado, mas o mundo lá fora seguiu em frente. Quando uma imobiliária decide demolir a sua casa, Al Cook vê-se obrigado a libertar-se dos seus tesouros, um a um. Perante a perda total, escolhe um recomeço radical."
+      "plot_pt": "O músico de blues Al Cook vive rodeado de memórias. O seu apartamento e estúdio na cave estão repletos de livros, cassetes VHS e discos de vinil. Neste espaço, o tempo parece ter parado, mas o mundo lá fora seguiu em frente. Quando uma imobiliária decide demolir a sua casa, Al Cook vê-se obrigado a libertar-se dos seus tesouros, um a um. Perante a perda total, escolhe um recomeço radical.",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/tlmit_still_0001_web.jpg",
+        "https://medeiafilmes.com/uploads/library/tlmit_still_0007_web.jpg",
+        "https://medeiafilmes.com/uploads/library/tlmit_still_0005_web.jpg"
+      ],
+      "stills_focus": [
+        20.7,
+        40.2,
+        41.8
+      ]
     },
     {
       "id": "nimas_barry-lyndon-1975",
@@ -3355,30 +3150,36 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "francois-truffaut"
     },
     {
-      "id": "nimas_tartufo-1925",
-      "title": "Tartufo",
-      "director": "F. W. Murnau",
-      "year": 1925,
-      "duration": 74,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/0/1/10601-tartuffe-0-500-0-750-crop.jpg?v=a4bfdbc6b9",
+      "id": "nimas_o-estrangeiro-1946-1946",
+      "title": "O Estrangeiro (1946)",
+      "director": "Orson Welles",
+      "year": 1946,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Thriller",
+        "Crime"
       ],
-      "link": "https://medeiafilmes.com/filmes/tartufo-1925",
+      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1946-1946",
       "sessions": [
         {
           "date": "2026-12-05",
-          "time": "10:30",
+          "time": "12:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.65,
-      "plot": "A young man shows his millionaire grandfather a film based on Molière's play \"Tartuffe\" in order to expose the old man's hypocritical governess who covets the young man's inheritance.",
-      "plot_pt": "Herr Tartüffe (em Portugal, Tartufo) é um drama Kammerspiel mudo filmado entre fevereiro e abril de 1925 pelo diretor alemão F. W. Murnau.\nO filme estreou em 20 de novembro do mesmo ano, em Viena, Áustria, e somente veio a ser exibido na Alemanha em 25 de janeiro de 1926, por ocasião da inauguração do cinema Gloria-Palast, em Berlim.\nO roteiro do filme, baseado livremente na peça teatral Tartufo ou O impostor, escrita por Molière em 1664, trata de um beato dominado por sentimentos claramente anticlericais que, municiado de uma humildade hipócrita, ludibria e controla um homem casado, culminando com a repressão de sua relação marital fundamentada em princípios pseudorreligiosos.",
-      "title_en": "Tartuffe",
-      "country": "Germany",
-      "director_lbxd_slug": "f-w-murnau"
+      "rating": 3.72,
+      "plot": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi, who may be hiding out in a small town in the guise of a distinguished professor engaged to the Supreme Court Justice’s daughter.",
+      "plot_pt": "“[sobre O Estrangeiro ser o primeiro filme comercial a mostrar imagens dos campos de concentração] Acho que todas as vezes que conseguimos que os espectadores vejam imagens de um campo de concentração, sob qualquer pretexto, é um passo em frente. As pessoas normalmente não querem saber que essas coisas aconteceram.” – Orson Welles",
+      "title_en": "The Stranger",
+      "stills": [
+        "https://a.ltrbxd.com/resized/sm/upload/ll/1g/d9/qk/the-stranger-1920-1920-1080-1080-crop-000000.jpg?v=f6471b988f"
+      ],
+      "stills_focus": [
+        27.2
+      ],
+      "country": "USA",
+      "director_lbxd_slug": "orson-welles-1"
     },
     {
       "id": "nimas_chungking-express-1994",
@@ -3463,36 +3264,62 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "peter-farrelly"
     },
     {
-      "id": "nimas_o-estrangeiro-1946-1946",
-      "title": "O Estrangeiro (1946)",
-      "director": "Orson Welles",
-      "year": 1946,
-      "duration": 95,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/1/4/1/39141-the-stranger-0-500-0-750-crop.jpg?v=1a2cd30eda",
+      "id": "nimas_tartufo-1925",
+      "title": "Tartufo",
+      "director": "F. W. Murnau",
+      "year": 1925,
+      "duration": 74,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/0/1/10601-tartuffe-0-500-0-750-crop.jpg?v=a4bfdbc6b9",
       "genres": [
-        "Thriller",
-        "Crime"
+        "Drama",
+        "Comedy"
       ],
-      "link": "https://medeiafilmes.com/filmes/o-estrangeiro-1946-1946",
+      "link": "https://medeiafilmes.com/filmes/tartufo-1925",
       "sessions": [
         {
           "date": "2026-12-05",
-          "time": "12:00",
+          "time": "10:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.72,
-      "plot": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi, who may be hiding out in a small town in the guise of a distinguished professor engaged to the Supreme Court Justice’s daughter.",
-      "plot_pt": "“[sobre O Estrangeiro ser o primeiro filme comercial a mostrar imagens dos campos de concentração] Acho que todas as vezes que conseguimos que os espectadores vejam imagens de um campo de concentração, sob qualquer pretexto, é um passo em frente. As pessoas normalmente não querem saber que essas coisas aconteceram.” – Orson Welles",
-      "title_en": "The Stranger",
+      "rating": 3.65,
+      "plot": "A young man shows his millionaire grandfather a film based on Molière's play \"Tartuffe\" in order to expose the old man's hypocritical governess who covets the young man's inheritance.",
+      "plot_pt": "Herr Tartüffe (em Portugal, Tartufo) é um drama Kammerspiel mudo filmado entre fevereiro e abril de 1925 pelo diretor alemão F. W. Murnau.\nO filme estreou em 20 de novembro do mesmo ano, em Viena, Áustria, e somente veio a ser exibido na Alemanha em 25 de janeiro de 1926, por ocasião da inauguração do cinema Gloria-Palast, em Berlim.\nO roteiro do filme, baseado livremente na peça teatral Tartufo ou O impostor, escrita por Molière em 1664, trata de um beato dominado por sentimentos claramente anticlericais que, municiado de uma humildade hipócrita, ludibria e controla um homem casado, culminando com a repressão de sua relação marital fundamentada em princípios pseudorreligiosos.",
+      "title_en": "Tartuffe",
+      "country": "Germany",
+      "director_lbxd_slug": "f-w-murnau"
+    },
+    {
+      "id": "nimas_fausto-1926-1926",
+      "title": "Fausto (1926)",
+      "director": "F. W. Murnau",
+      "year": 1926,
+      "duration": 107,
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/ml/ms/2l/70/qVm0rfvoT72pabRR87AE36kxmR0-0-500-0-750-crop.jpg?v=36bbffd5c5",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Horror"
+      ],
+      "link": "https://medeiafilmes.com/filmes/fausto-1926-1926",
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "time": "10:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.13,
+      "plot": "God and Satan wager on the soul of a learned and prayerful alchemist as part of their eternal war over Earth.",
+      "plot_pt": "Faust - Eine Deutsche Volkssage (bra: Fausto) é um filme mudo alemão de 1926, um drama de horror dirigido por F. W. Murnau baseado na obra homônima de Goethe.",
       "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/ll/1g/d9/qk/the-stranger-1920-1920-1080-1080-crop-000000.jpg?v=f6471b988f"
+        "https://a.ltrbxd.com/resized/sm/upload/vh/1l/3a/q1/faust-1920-1920-1080-1080-crop-000000.jpg?v=45dfe6e0c5"
       ],
       "stills_focus": [
-        27.2
+        38.3
       ],
-      "country": "USA",
-      "director_lbxd_slug": "orson-welles-1"
+      "country": "Germany",
+      "director_lbxd_slug": "f-w-murnau"
     },
     {
       "id": "nimas_mr-klein-um-homem-na-sombra-1976",
@@ -3532,38 +3359,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "joseph-losey"
     },
     {
-      "id": "nimas_fausto-1926-1926",
-      "title": "Fausto (1926)",
-      "director": "F. W. Murnau",
-      "year": 1926,
-      "duration": 107,
-      "poster": "https://a.ltrbxd.com/resized/sm/upload/ml/ms/2l/70/qVm0rfvoT72pabRR87AE36kxmR0-0-500-0-750-crop.jpg?v=36bbffd5c5",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Horror"
-      ],
-      "link": "https://medeiafilmes.com/filmes/fausto-1926-1926",
-      "sessions": [
-        {
-          "date": "2026-12-06",
-          "time": "10:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.13,
-      "plot": "God and Satan wager on the soul of a learned and prayerful alchemist as part of their eternal war over Earth.",
-      "plot_pt": "Faust - Eine Deutsche Volkssage (bra: Fausto) é um filme mudo alemão de 1926, um drama de horror dirigido por F. W. Murnau baseado na obra homônima de Goethe.",
-      "stills": [
-        "https://a.ltrbxd.com/resized/sm/upload/vh/1l/3a/q1/faust-1920-1920-1080-1080-crop-000000.jpg?v=45dfe6e0c5"
-      ],
-      "stills_focus": [
-        38.3
-      ],
-      "country": "Germany",
-      "director_lbxd_slug": "f-w-murnau"
-    },
-    {
       "id": "nimas_o-fantasma-da-liberdade-1974",
       "title": "O Fantasma da Liberdade",
       "director": "Luis Buñuel",
@@ -3599,32 +3394,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "luis-bunuel"
     },
     {
-      "id": "nimas_o-exercito-das-sombras-1969",
-      "title": "​O Exército das Sombras",
-      "director": "Jean-Pierre Melville",
-      "year": 1969,
-      "duration": 145,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/1/6/42416-army-of-shadows-0-500-0-750-crop.jpg?v=2eee689db8",
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-exercito-das-sombras-1969",
-      "sessions": [
-        {
-          "date": "2026-12-08",
-          "time": "19:00",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.35,
-      "plot": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
-      "plot_pt": "“Transportei este filme dentro de mim durante 25 anos. Era preciso fazê-lo, e fazê-lo agora, completamente desapaixonadamente, sem o menor vestígio de patriotismo triunfalista. É um pedaço da minha memória, da minha própria carne.” – Jean-Pierre Melville",
-      "title_en": "Army of Shadows",
-      "country": "France",
-      "director_lbxd_slug": "jean-pierre-melville"
-    },
-    {
       "id": "nimas_o-ultimo-dos-homens-1925",
       "title": "O Último dos Homens",
       "director": "Friedrich W. Murnau",
@@ -3656,30 +3425,30 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "f-w-murnau"
     },
     {
-      "id": "nimas_os-quatro-cavaleiros-do-apocalipse-1962",
-      "title": "Os Quatro Cavaleiros do Apocalipse",
-      "director": "Vincente Minnelli",
-      "year": 1962,
-      "duration": 153,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/1/1/15211-the-four-horsemen-of-the-apocalypse-0-500-0-750-crop.jpg?v=6199baf06f",
+      "id": "nimas_o-exercito-das-sombras-1969",
+      "title": "​O Exército das Sombras",
+      "director": "Jean-Pierre Melville",
+      "year": 1969,
+      "duration": 145,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/1/6/42416-army-of-shadows-0-500-0-750-crop.jpg?v=2eee689db8",
       "genres": [
-        "War",
+        "Thriller",
         "Drama"
       ],
-      "link": "https://medeiafilmes.com/filmes/os-quatro-cavaleiros-do-apocalipse-1962",
+      "link": "https://medeiafilmes.com/filmes/o-exercito-das-sombras-1969",
       "sessions": [
         {
-          "date": "2026-12-09",
-          "time": "21:30",
+          "date": "2026-12-08",
+          "time": "19:00",
           "cinema": "nimas"
         }
       ],
-      "rating": 3.42,
-      "plot": "In Argentina, one daughter of patriarch Madariaga is married to a Frenchman while the other is married to a German thus leading to a crisis when Nazi Germany occupies France and some Madariaga family members fight on opposite sides.",
-      "plot_pt": "\"Este Os Quatro Cavaleiros do Apocalipse é um filme flamejante: da lareira ao vento, da chuva aos corpos, dos automóveis a toda a brida pelos campos Elíseos, das galinhas que, no convencional creme francês, saltam muros com o susto (que plano!), da alma de Ingrid Thulin às folhas mortas de Versalhes, da consciência de Glenn Ford (maravilhoso actor), tudo está num desequilíbrio febril num excesso de tensão, numa latência de pulsões [...]\nE se a infernal rede de sentidos que Minnelli constrói neste filme nos empolga (e o filme é empolgante), é apenas porque Minelli sabe o que é a realização, a mise-scène, o que complexifica e torna o cinema cinema. Ele é realizador.Vejam o plano sublime em que a Thulin e Ford dançam no cabaré latino, a maneira franca como, pela dança, cada um deles vai ficando em grande plano frontal, prefigurando os famosos grandes planos do Persona de Bergman, e, a meu ver, com uma bem mais imponderável suspensão do tempo. [um filme] extraordinário.\"\nJorge Silva Melo, Século Passado, Ed. Cotovia",
-      "title_en": "The Four Horsemen of the Apocalypse",
-      "country": "USA",
-      "director_lbxd_slug": "vincente-minnelli"
+      "rating": 4.35,
+      "plot": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
+      "plot_pt": "“Transportei este filme dentro de mim durante 25 anos. Era preciso fazê-lo, e fazê-lo agora, completamente desapaixonadamente, sem o menor vestígio de patriotismo triunfalista. É um pedaço da minha memória, da minha própria carne.” – Jean-Pierre Melville",
+      "title_en": "Army of Shadows",
+      "country": "France",
+      "director_lbxd_slug": "jean-pierre-melville"
     },
     {
       "id": "nimas_a-grande-ilusao-1937",
@@ -3715,6 +3484,32 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "jean-renoir"
     },
     {
+      "id": "nimas_os-quatro-cavaleiros-do-apocalipse-1962",
+      "title": "Os Quatro Cavaleiros do Apocalipse",
+      "director": "Vincente Minnelli",
+      "year": 1962,
+      "duration": 153,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/5/2/1/1/15211-the-four-horsemen-of-the-apocalypse-0-500-0-750-crop.jpg?v=6199baf06f",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/os-quatro-cavaleiros-do-apocalipse-1962",
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "time": "21:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.42,
+      "plot": "In Argentina, one daughter of patriarch Madariaga is married to a Frenchman while the other is married to a German thus leading to a crisis when Nazi Germany occupies France and some Madariaga family members fight on opposite sides.",
+      "plot_pt": "\"Este Os Quatro Cavaleiros do Apocalipse é um filme flamejante: da lareira ao vento, da chuva aos corpos, dos automóveis a toda a brida pelos campos Elíseos, das galinhas que, no convencional creme francês, saltam muros com o susto (que plano!), da alma de Ingrid Thulin às folhas mortas de Versalhes, da consciência de Glenn Ford (maravilhoso actor), tudo está num desequilíbrio febril num excesso de tensão, numa latência de pulsões [...]\nE se a infernal rede de sentidos que Minnelli constrói neste filme nos empolga (e o filme é empolgante), é apenas porque Minelli sabe o que é a realização, a mise-scène, o que complexifica e torna o cinema cinema. Ele é realizador.Vejam o plano sublime em que a Thulin e Ford dançam no cabaré latino, a maneira franca como, pela dança, cada um deles vai ficando em grande plano frontal, prefigurando os famosos grandes planos do Persona de Bergman, e, a meu ver, com uma bem mais imponderável suspensão do tempo. [um filme] extraordinário.\"\nJorge Silva Melo, Século Passado, Ed. Cotovia",
+      "title_en": "The Four Horsemen of the Apocalypse",
+      "country": "USA",
+      "director_lbxd_slug": "vincente-minnelli"
+    },
+    {
       "id": "nimas_showing-up-2022",
       "title": "Showing Up",
       "director": "Kelly Reichardt",
@@ -3744,75 +3539,6 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "kelly-reichardt"
-    },
-    {
-      "id": "nimas_happy-end-2017",
-      "title": "Happy End",
-      "director": "Michael Haneke",
-      "year": 2017,
-      "duration": 102,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/2/9/1/333291-happy-end-0-500-0-750-crop.jpg?v=fe45aa7a50",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/happy-end-2017",
-      "sessions": [
-        {
-          "date": "2026-12-10",
-          "time": "14:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 3.46,
-      "plot": "A well-to-do French family living in Calais deal with a series of setbacks and crises while paying little attention to the grim conditions in the refugee camps within a few miles of their home.",
-      "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
-        "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
-        "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
-      ],
-      "stills_focus": [
-        27.0,
-        19.8,
-        29.9
-      ],
-      "country": "France",
-      "director_lbxd_slug": "michael-haneke"
-    },
-    {
-      "id": "nimas_o-sacrificio-1986",
-      "title": "O Sacrifício",
-      "director": "Andrei Tarkovsky",
-      "year": 1986,
-      "duration": null,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-500-0-750-crop.jpg?v=abe0768e2a",
-      "genres": [
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/o-sacrificio-1986",
-      "sessions": [
-        {
-          "date": "2026-12-10",
-          "time": "16:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.27,
-      "plot": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
-      "plot_pt": "Alexander, jornalista e intelectual, confessa ao seu filho pequeno a preocupação que sente em relação à falta de espiritualidade no mundo moderno. Na noite do seu aniversário, irrompe a Terceira Guerra Mundial. Num momento de desespero, Alexander vira-se para Deus, argumentando e oferecendo-Lhe tudo para evitar o holocausto nuclear.",
-      "title_en": "The Sacrifice",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/o-sacrificio_1.jpeg",
-        "https://medeiafilmes.com/uploads/library/o-sacrificio_2.jpeg",
-        "https://medeiafilmes.com/uploads/library/o-sacrificio_3.jpeg"
-      ],
-      "stills_focus": [
-        30.4,
-        31.6,
-        26.3
-      ],
-      "country": "Sweden",
-      "director_lbxd_slug": "andrei-tarkovsky"
     },
     {
       "id": "nimas_club-kid-2026",
@@ -3884,6 +3610,111 @@ window.CINEMA_DATA = {
       ],
       "country": "USA",
       "director_lbxd_slug": "jordan-firstman"
+    },
+    {
+      "id": "nimas_happy-end-2017",
+      "title": "Happy End",
+      "director": "Michael Haneke",
+      "year": 2017,
+      "duration": 102,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/3/2/9/1/333291-happy-end-0-500-0-750-crop.jpg?v=fe45aa7a50",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/happy-end-2017",
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "time": "14:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 3.46,
+      "plot": "A well-to-do French family living in Calais deal with a series of setbacks and crises while paying little attention to the grim conditions in the refugee camps within a few miles of their home.",
+      "plot_pt": "“À nossa volta, o mundo, e nós, na sua névoa, cegos.”\n\r\n\r\nUm retrato da vida de uma família burguesa europeia.",
+      "stills": [
+        "https://image.tmdb.org/t/p/w1280/97mRqLyRHDeNd3rdHukMu7u46hN.jpg",
+        "https://image.tmdb.org/t/p/w1280/7DYkTG9eS7nGLlsl9YMav4mcHw6.jpg",
+        "https://image.tmdb.org/t/p/w1280/5p1NyA6moxAhVRvHet0vBWLjaSj.jpg"
+      ],
+      "stills_focus": [
+        27.0,
+        19.8,
+        29.9
+      ],
+      "country": "France",
+      "director_lbxd_slug": "michael-haneke"
+    },
+    {
+      "id": "nimas_o-sacrificio-1986",
+      "title": "O Sacrifício",
+      "director": "Andrei Tarkovsky",
+      "year": 1986,
+      "duration": null,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-500-0-750-crop.jpg?v=abe0768e2a",
+      "genres": [
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/o-sacrificio-1986",
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "time": "16:30",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.27,
+      "plot": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
+      "plot_pt": "Alexander, jornalista e intelectual, confessa ao seu filho pequeno a preocupação que sente em relação à falta de espiritualidade no mundo moderno. Na noite do seu aniversário, irrompe a Terceira Guerra Mundial. Num momento de desespero, Alexander vira-se para Deus, argumentando e oferecendo-Lhe tudo para evitar o holocausto nuclear.",
+      "title_en": "The Sacrifice",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/o-sacrificio_1.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-sacrificio_2.jpeg",
+        "https://medeiafilmes.com/uploads/library/o-sacrificio_3.jpeg"
+      ],
+      "stills_focus": [
+        30.4,
+        31.6,
+        26.3
+      ],
+      "country": "Sweden",
+      "director_lbxd_slug": "andrei-tarkovsky"
+    },
+    {
+      "id": "nimas_dr-estranhoamor-1964",
+      "title": "Dr. Estranhoamor",
+      "director": "Stanley Kubrick",
+      "year": 1964,
+      "duration": 95,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love--0-500-0-750-crop.jpg?v=c814dfbae0",
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "link": "https://medeiafilmes.com/filmes/dr-estranhoamor-1964",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "22:00",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.3,
+      "plot": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+      "plot_pt": "Esta comédia negra sobre o nuclear em plena Guerra Fria é uma das obras-primas de Kubrick, com fabulosas actuações, destacando-se Peter Sellers, que interpreta de forma sublime várias personagens.",
+      "title_en": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/strangelove.jpg",
+        "https://medeiafilmes.com/uploads/library/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964-5.jpg",
+        "https://medeiafilmes.com/uploads/library/mv5bzgqwmzu2mwutmzrjni00zmu5lwe4mdmtmgi2mji1zgvkzdc5xkeyxkfqcgdeqxvynjkxmjm5nzc_v1.jpg"
+      ],
+      "stills_focus": [
+        20.3,
+        37.6,
+        38.0
+      ],
+      "country": "UK",
+      "director_lbxd_slug": "stanley-kubrick"
     },
     {
       "id": "nimas_o-canto-das-florestas-2025",
@@ -3959,37 +3790,38 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "wong-kar-wai"
     },
     {
-      "id": "nimas_dr-estranhoamor-1964",
-      "title": "Dr. Estranhoamor",
+      "id": "nimas_2001-odisseia-no-espaco-1968",
+      "title": "2001 – Odisseia no Espaço",
       "director": "Stanley Kubrick",
-      "year": 1964,
-      "duration": 95,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love--0-500-0-750-crop.jpg?v=c814dfbae0",
+      "year": 1968,
+      "duration": 149,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-500-0-750-crop.jpg?v=a69c46a272",
       "genres": [
-        "Comedy",
-        "War"
+        "Science Fiction",
+        "Adventure",
+        "Mystery"
       ],
-      "link": "https://medeiafilmes.com/filmes/dr-estranhoamor-1964",
+      "link": "https://medeiafilmes.com/filmes/2001-odisseia-no-espaco-1968",
       "sessions": [
         {
-          "date": "2026-12-11",
-          "time": "22:00",
+          "date": "2026-12-12",
+          "time": "21:30",
           "cinema": "nimas"
         }
       ],
-      "rating": 4.3,
-      "plot": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
-      "plot_pt": "Esta comédia negra sobre o nuclear em plena Guerra Fria é uma das obras-primas de Kubrick, com fabulosas actuações, destacando-se Peter Sellers, que interpreta de forma sublime várias personagens.",
-      "title_en": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "rating": 4.23,
+      "plot": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "plot_pt": "O filme segue uma viagem a Júpiter após a descoberta de um monólito alienígena que afecta a evolução humana. Baseado em contos do co-argumentista Arthur C. Clark, o filme faz uso da temática da viagem ao espaço para tratar questões existenciais acerca da evolução humana, do desenvolvimento tecnológico e da possibilidade de criar inteligência artificial. Tecnicamente inovador e cientificamente rigoroso, Odisseia no Espaço é aclamado como um dos maiores e mais influentes filmes da história do cinema.",
+      "title_en": "2001: A Space Odyssey",
       "stills": [
-        "https://medeiafilmes.com/uploads/library/strangelove.jpg",
-        "https://medeiafilmes.com/uploads/library/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964-5.jpg",
-        "https://medeiafilmes.com/uploads/library/mv5bzgqwmzu2mwutmzrjni00zmu5lwe4mdmtmgi2mji1zgvkzdc5xkeyxkfqcgdeqxvynjkxmjm5nzc_v1.jpg"
+        "https://image.tmdb.org/t/p/w1280/6gyZF4SeifiUUYDELkCS8nOqsu2.jpg",
+        "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+        "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg"
       ],
       "stills_focus": [
-        20.3,
         37.6,
-        38.0
+        43.0,
+        39.9
       ],
       "country": "UK",
       "director_lbxd_slug": "stanley-kubrick"
@@ -4063,43 +3895,6 @@ window.CINEMA_DATA = {
       "director_lbxd_slug": "frank-capra"
     },
     {
-      "id": "nimas_2001-odisseia-no-espaco-1968",
-      "title": "2001 – Odisseia no Espaço",
-      "director": "Stanley Kubrick",
-      "year": 1968,
-      "duration": 149,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-500-0-750-crop.jpg?v=a69c46a272",
-      "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Mystery"
-      ],
-      "link": "https://medeiafilmes.com/filmes/2001-odisseia-no-espaco-1968",
-      "sessions": [
-        {
-          "date": "2026-12-12",
-          "time": "21:30",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.23,
-      "plot": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-      "plot_pt": "O filme segue uma viagem a Júpiter após a descoberta de um monólito alienígena que afecta a evolução humana. Baseado em contos do co-argumentista Arthur C. Clark, o filme faz uso da temática da viagem ao espaço para tratar questões existenciais acerca da evolução humana, do desenvolvimento tecnológico e da possibilidade de criar inteligência artificial. Tecnicamente inovador e cientificamente rigoroso, Odisseia no Espaço é aclamado como um dos maiores e mais influentes filmes da história do cinema.",
-      "title_en": "2001: A Space Odyssey",
-      "stills": [
-        "https://image.tmdb.org/t/p/w1280/6gyZF4SeifiUUYDELkCS8nOqsu2.jpg",
-        "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-        "https://image.tmdb.org/t/p/w1280/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg"
-      ],
-      "stills_focus": [
-        37.6,
-        43.0,
-        39.9
-      ],
-      "country": "UK",
-      "director_lbxd_slug": "stanley-kubrick"
-    },
-    {
       "id": "nimas_solaris-1972",
       "title": "Solaris",
       "director": "Andrei Tarkovsky",
@@ -4131,6 +3926,41 @@ window.CINEMA_DATA = {
         44.1,
         37.6,
         22.6
+      ],
+      "country": "USSR",
+      "director_lbxd_slug": "andrei-tarkovsky"
+    },
+    {
+      "id": "nimas_andrei-rublev-1966",
+      "title": "Andrei Rublev",
+      "director": "Andrei Tarkovsky",
+      "year": 1966,
+      "duration": 189,
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/5/7/51257-andrei-rublev-0-500-0-750-crop.jpg?v=150a45be3c",
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "link": "https://medeiafilmes.com/filmes/andrei-rublev-1966",
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "time": "17:45",
+          "cinema": "nimas"
+        }
+      ],
+      "rating": 4.44,
+      "plot": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
+      "plot_pt": "Um conto medieval arrebatador sobre a vida do maior pintor iconográfico russo. O fresco de um período turbulento do século XV na Rússia, marcado por lutas intermináveis entre príncipes rivais e invasões. Um filme sobre o poder das imagens e das sensações.",
+      "stills": [
+        "https://medeiafilmes.com/uploads/library/and_photo3.jpg",
+        "https://medeiafilmes.com/uploads/library/and_photo4.jpg",
+        "https://medeiafilmes.com/uploads/library/movie-70605198.jpg"
+      ],
+      "stills_focus": [
+        43.7,
+        41.0,
+        29.8
       ],
       "country": "USSR",
       "director_lbxd_slug": "andrei-tarkovsky"
@@ -4206,41 +4036,6 @@ window.CINEMA_DATA = {
       ],
       "country": "France",
       "director_lbxd_slug": "david-lynch"
-    },
-    {
-      "id": "nimas_andrei-rublev-1966",
-      "title": "Andrei Rublev",
-      "director": "Andrei Tarkovsky",
-      "year": 1966,
-      "duration": 189,
-      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/5/7/51257-andrei-rublev-0-500-0-750-crop.jpg?v=150a45be3c",
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "link": "https://medeiafilmes.com/filmes/andrei-rublev-1966",
-      "sessions": [
-        {
-          "date": "2026-12-14",
-          "time": "17:45",
-          "cinema": "nimas"
-        }
-      ],
-      "rating": 4.44,
-      "plot": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
-      "plot_pt": "Um conto medieval arrebatador sobre a vida do maior pintor iconográfico russo. O fresco de um período turbulento do século XV na Rússia, marcado por lutas intermináveis entre príncipes rivais e invasões. Um filme sobre o poder das imagens e das sensações.",
-      "stills": [
-        "https://medeiafilmes.com/uploads/library/and_photo3.jpg",
-        "https://medeiafilmes.com/uploads/library/and_photo4.jpg",
-        "https://medeiafilmes.com/uploads/library/movie-70605198.jpg"
-      ],
-      "stills_focus": [
-        43.7,
-        41.0,
-        29.8
-      ],
-      "country": "USSR",
-      "director_lbxd_slug": "andrei-tarkovsky"
     },
     {
       "id": "nimas_nostalgia-1983-1983",
@@ -4365,11 +4160,6 @@ window.CINEMA_DATA = {
       "link": "https://cinemafernandolopes.pt/CONVERSA-ACORDA",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "19:00",
-          "cinema": "fernando"
-        },
-        {
           "date": "2026-11-28",
           "time": "21:30",
           "cinema": "fernando",
@@ -4395,24 +4185,6 @@ window.CINEMA_DATA = {
         {
           "date": "2026-12-02",
           "time": "22:30",
-          "cinema": "fernando"
-        }
-      ]
-    },
-    {
-      "id": "fernando_a_semente_do_figo_sagrado",
-      "title": "A Semente Do Figo Sagrado",
-      "director": null,
-      "year": null,
-      "duration": null,
-      "poster": "https://freight.cargo.site/t/original/i/035c6d20669687a3390820e1d495fae205fe989288ec0723106790a070c0bb96/ciclo_de_direito_poster_site.png",
-      "genres": [],
-      "festival": null,
-      "link": "https://cinemafernandolopes.pt/CICLO-DE-CINEMA-E-DIREITO",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "21:30",
           "cinema": "fernando"
         }
       ]
@@ -5103,6 +4875,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Três Menos Eu",
+      "plot_pt": "O filme de estreia de João Canijo acompanha o reencontro entre Rita (Rita Blanco) e Anne (Anne Gautier), duas primas adolescentes que passam férias juntas em Portugal. Rita vive um período de incerteza, marcado pela separação dos pais e pela dificuldade em relacionar-se com a família e o namorado. A chegada de Anne, emigrada em França há vários anos, desperta a esperança de uma confidência renovada, mas também faz emergir diferenças, rivalidades e as tensões de um triângulo amoroso. Entre cumplicidade e conflito, o filme retrata com sensibilidade as descobertas, os desencontros e as transformações próprias da passagem para a idade adulta.",
       "plot": "A young woman, working as sales-girl at a shopping center's music shop, wants someone with whom to share her secrets. A distant mother separating from her father, an aunt who emigrated to France, and her pre-adolescent sister, can't do - neither the boyfriend. Such a confident arrives unexpectedly - but then there are three of them, one too much. One leaves, but then another young man arrives, and there are three again. One must go. A sad young adult love story, told in the first person, singular - and ultimately alone, under the rain.",
       "country": "France",
       "director_lbxd_slug": "joao-canijo"
@@ -5592,6 +5365,7 @@ window.CINEMA_DATA = {
         }
       ],
       "original_title": "Foi com o Mar",
+      "plot_pt": "Um jardim que caiu e o mar que o engoliu tornam-se o ponto de partida para uma reflexão sobre a distância e a fragilidade da vida. Era no jardim dos avós, virado para o mar, que a família se reunia e partilhava momentos de convívio. Depois da derrocada, ficaram as fotografias e as memórias desses encontros. Na Madeira, Matilde César constrói um filme sobre a passagem do tempo e o que permanece quando um lugar desaparece.",
       "plot": "A film about distance, loss and the fragility of life symbolized through a garden that fell and a sea that swallowed it up.",
       "country": "Portugal",
       "director_lbxd_slug": "matilde-cesar-1"
@@ -6048,7 +5822,7 @@ window.CINEMA_DATA = {
           "time": "19:15",
           "cinema": "trindade",
           "labels": [
-            "Entrada Livre | European Cinema Night"
+            "Âmbito da European Cinema Night e será apresentada pelo realizador e produtor Rodrigo Areias"
           ]
         }
       ],
@@ -6261,11 +6035,6 @@ window.CINEMA_DATA = {
       "link": "https://bilheteira.cinemaidealemcasa.pt/?movieid=75655",
       "sessions": [
         {
-          "date": "2026-11-27",
-          "time": "19:15",
-          "cinema": "ideal"
-        },
-        {
           "date": "2026-11-28",
           "time": "19:15",
           "cinema": "ideal"
@@ -6453,11 +6222,6 @@ window.CINEMA_DATA = {
     }
   ],
   "directors": {
-    "Zihan Loo, Kan Lume": {
-      "lbxd_slug": "loo-zihan",
-      "photo": null,
-      "bio": null
-    },
     "Rodolphe Marconi": {
       "lbxd_slug": "rodolphe-marconi",
       "photo": null,
@@ -6472,11 +6236,6 @@ window.CINEMA_DATA = {
       "lbxd_slug": "agnes-obadia-1",
       "photo": null,
       "bio": "Hans Billian (born Hans Joachim Hubert Backe, 15 April 1918 in Breslau (today, Wrocław, Poland) – 18 December 2007 in Gräfelfing, Bavaria) was a German film director, screenwriter, and actor noted for the \"sex comedies\" he directed in the 1970s. He was also credited as Hans Billan, Phillip Halliday, and Christian Kessler."
-    },
-    "Enrique Brasó": {
-      "lbxd_slug": "enrique-braso",
-      "photo": null,
-      "bio": "Spanish director and screenwriter"
     },
     "Michael LaHaie": {
       "lbxd_slug": "michael-lahaie",
@@ -6498,21 +6257,6 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Claude_Miller_Cannes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Claude Miller (20 February 1942 – 4 April 2012) was a French film director, producer and screenwriter."
     },
-    "Aki Kaurismäki": {
-      "lbxd_slug": "aki-kaurismaki",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg/500px-Aki_Kaurism%C3%A4ki_at_Berlinale_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Aki Olavi Kaurismäki (Finnish pronunciation: [ˈɑki ˈo̞lɑʋi ˈkɑu̯rismæki] ; born 4 April 1957) is a Finnish filmmaker. He is best known for films such as Leningrad Cowboys Go America (1989), Drifting Clouds (1996), The Man Without a Past (2002), Le Havre (2011), The Other Side of Hope (2017), and Fallen Leaves (2023)."
-    },
-    "Eduardo de Gregorio": {
-      "lbxd_slug": "eduardo-de-gregorio",
-      "photo": null,
-      "bio": "Argentinian screenwriter and dialogue writer (1940–2012)"
-    },
-    "Frank Borzage": {
-      "lbxd_slug": "frank-borzage",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States."
-    },
     "Gaël Morel": {
       "lbxd_slug": "gael-morel",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ga%C3%ABl_Morel_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -6522,6 +6266,11 @@ window.CINEMA_DATA = {
       "lbxd_slug": "rita-azevedo-gomes",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rita_Azevedo_Bilbon.jpg/500px-Rita_Azevedo_Bilbon.jpg",
       "bio": "Rita Azevedo Gomes (born in 1952) is a Portuguese filmmaker. Her work, Characterized by its experimental style, have been recognized at many film festivals such as the Berlin International Film Festival, DocLisboa, and the Las Palmas de Gran Canaria International Film Festival."
+    },
+    "Frank Borzage": {
+      "lbxd_slug": "frank-borzage",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frank_Borzage_Best_Dramatic_Director_1929.jpg/500px-Frank_Borzage_Best_Dramatic_Director_1929.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Frank Borzage ( né Borzaga; April 23, 1894 – June 19, 1962) was an American film director and actor. He was the first person to win the Academy Award for Best Director for his film 7th Heaven (1927) at the 1st Academy Awards. Born to Italian and Swiss immigrant parents in Salt Lake City, Borzage began his career as a teenager performing with traveling theater groups throughout the western United States."
     },
     "Robert Bresson": {
       "lbxd_slug": "robert-bresson",
@@ -6598,6 +6347,11 @@ window.CINEMA_DATA = {
       "photo": null,
       "bio": "Portuguese film director and screenwriter (1936–2026)"
     },
+    "Manoel de Oliveira": {
+      "lbxd_slug": "manoel-de-oliveira",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manoel_de_Oliveira_01_%28cropped%29.jpg/500px-Manoel_de_Oliveira_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Manoel Cândido Pinto de Oliveira  (Portuguese: [mɐnuˈɛl doliˈvɐjɾɐ]; 11 December 1908 – 2 April 2015) was a Portuguese film director and screenwriter born in Cedofeita, Porto. He first began making films in 1927, when he and some friends attempted to make a film about World War I. In 1931, he completed his first film Douro, Faina Fluvial, a documentary about his home city Porto made in the city-symphony genre."
+    },
     "Hal Roach": {
       "lbxd_slug": "hal-roach",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/WP_Hal_Roach_1920_%28cropped%29.jpg/500px-WP_Hal_Roach_1920_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6633,16 +6387,6 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pawe%C5%82_Pawlikowski_fot._Aleksandra_Modrzejewska.jpg/500px-Pawe%C5%82_Pawlikowski_fot._Aleksandra_Modrzejewska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Paweł Aleksander Pawlikowski (Polish: [ˈpavɛw alɛˈksandɛr pavliˈkɔfskʲi]; born 15 September 1957) is a Polish filmmaker. He garnered early praise for a string of documentaries in the 1990s and for his award-winning feature films of the 2000s, Last Resort (2000) and My Summer of Love (2004). His success continued into the 2010s with Ida (2013), which won the Academy Award for Best International Feature Film representing Poland."
     },
-    "Lance Oppenheim": {
-      "lbxd_slug": "lance-oppenheim",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg/500px-Lance_Oppenheim_at_the_83rd_Venice_International_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Lance Oppenheim (born January 26, 1996) is an American director and producer. His work blends nonfiction storytelling with heightened, cinematic formalism. Oppenheim's documentaries include the films Some Kind of Heaven (2020) about The Villages, Florida, Spermworld (2024), about unregulated sperm donation, and You Can See Everything, about Elizabeth Holmes, which he co-directed with Nathan Fielder."
-    },
-    "Paolo Strippoli": {
-      "lbxd_slug": "paolo-strippoli",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Paolo_Strippoli-6652.jpg/500px-Paolo_Strippoli-6652.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Paolo Strippoli (born 4 February 1993) is an Italian filmmaker, best known for his works in the horror and thriller genres, such as A Classic Horror Story (2021), Flowing (2022), The Holy Boy (2025), and The Spiral (2026)."
-    },
     "Danny Boyle": {
       "lbxd_slug": "danny-boyle",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2026_Toronto_International_Film_Festival_-_Ink_03.jpg/500px-2026_Toronto_International_Film_Festival_-_Ink_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6663,23 +6407,13 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg/500px-OIFF_2015-07-18_212746_-_%C5%A0ar%C5%ABnas_Bartas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Šarūnas Bartas (born 16 August 1964) is a Lithuanian film director. He is one of the most prominent Lithuanian film directors internationally from the late 20th century. His 2015 film Peace to Us in Our Dreams was screened in the Directors' Fortnight section at the 2015 Cannes Film Festival."
     },
-    "Luis Buñuel": {
-      "lbxd_slug": "luis-bunuel",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
-      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
-    },
-    "Michael Haneke": {
-      "lbxd_slug": "michael-haneke",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Michael Haneke (German: [ˈhaːnəkə]; born 23 March 1942) is a German-born Austrian retired film director and screenwriter. His work often examines social issues and depicts the feelings of estrangement experienced by individuals in modern society. Haneke has made films in French, German, and English and has worked in television and theatre."
-    },
-    "Javier Calvo, Javier Ambrossi": {
-      "lbxd_slug": "javier-ambrossi",
+    "Yuval Abraham, Rachel Szor": {
+      "lbxd_slug": "yuval-abraham",
       "photo": null,
       "bio": null
     },
-    "Yuval Abraham, Rachel Szor": {
-      "lbxd_slug": "yuval-abraham",
+    "Javier Calvo, Javier Ambrossi": {
+      "lbxd_slug": "javier-ambrossi",
       "photo": null,
       "bio": null
     },
@@ -6693,6 +6427,11 @@ window.CINEMA_DATA = {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg/500px-TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "David Andrew Leo Fincher (born August 28, 1962) is an American filmmaker. Often described as one of the pre-eminent directors of his generation, his films have collectively grossed over $2.1 billion worldwide. Fincher has received numerous accolades, including nominations for three Academy Awards as well as a BAFTA Award, a Golden Globe Award, four Primetime Emmy Awards, and two Grammy Awards."
     },
+    "Sérgio Graciano": {
+      "lbxd_slug": "sergio-graciano",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "bio": "Portuguese film director"
+    },
     "Pier Paolo Pasolini": {
       "lbxd_slug": "pier-paolo-pasolini",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/PierPaoloPasolini_%28crop%29.jpg/500px-PierPaoloPasolini_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -6703,15 +6442,20 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/F._W._Murnau_circa_1920-1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Friedrich Wilhelm Murnau (né Plumpe; 28 December 1888 – 11 March 1931) was a German film director, producer, and screenwriter. He is regarded as one of cinema's most influential filmmakers for his work in the silent era. An erudite child with an early interest in film, Murnau eventually studied philology and art before director Max Reinhardt recruited him to his acting school."
     },
-    "Sérgio Graciano": {
-      "lbxd_slug": "sergio-graciano",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg/500px-S%C3%A9rgio_Graciano_from_%22The_Englishman%27s_Papers%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2024_%2854577082832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "bio": "Portuguese film director"
-    },
     "Steven Soderbergh": {
       "lbxd_slug": "steven-soderbergh",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/58th_Karlovy_Vary_International_Film_Festival%2C_Steven_Soderbergh_07_%28cropped%29.jpg/500px-58th_Karlovy_Vary_International_Film_Festival%2C_Steven_Soderbergh_07_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Steven Andrew Soderbergh ( SOH-dər-burg; born January 14, 1963) is an American filmmaker, cinematographer, and editor. A pioneer of modern independent cinema, Soderbergh later drew acclaim for formally inventive films made within the studio system. Soderbergh's directorial breakthrough, the indie drama Sex, Lies, and Videotape (1989), won the Palme d'Or  at the Cannes Film Festival, as well numerous other accolades and was a worldwide commercial success."
+    },
+    "Michael Haneke": {
+      "lbxd_slug": "michael-haneke",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michael_Haneke_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Michael Haneke (German: [ˈhaːnəkə]; born 23 March 1942) is a German-born Austrian retired film director and screenwriter. His work often examines social issues and depicts the feelings of estrangement experienced by individuals in modern society. Haneke has made films in French, German, and English and has worked in television and theatre."
+    },
+    "Luis Buñuel": {
+      "lbxd_slug": "luis-bunuel",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LuisBu%C3%B1uel1929.jpg/500px-LuisBu%C3%B1uel1929.jpg",
+      "bio": "Luis Buñuel Portolés (Spanish: [ˈlwis βuˈɲwel poɾtoˈles]; 22 February 1900 – 29 July 1983) was a Spanish and Mexican filmmaker who worked in France, Mexico, and Spain. He has been widely considered by many film critics, historians, and directors to be one of the greatest and most influential filmmakers of all time. Buñuel's works are known for their avant-garde surrealism which was also infused with political commentary."
     },
     "Carl Theodor Dreyer": {
       "lbxd_slug": "carl-theodor-dreyer-1",
@@ -6753,55 +6497,55 @@ window.CINEMA_DATA = {
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg/500px-Fran%C3%A7ois_Truffaut_%281965%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "François Roland Truffaut (UK:  TROO-foh, TRUU-, US:  troo-FOH; French: [fʁɑ̃swa ʁɔlɑ̃ tʁyfo]; 6 February 1932 – 21 October 1984) was a French filmmaker, actor, and critic. He is widely regarded as one of the founders of the French New Wave. Truffaut came under the tutelage of film critic Andre Bazin as a young man and was hired to write for Bazin's Cahiers du Cinéma, where he became a proponent of the auteur theory, which posits that a film's director is its true author."
     },
-    "Peter Farrelly": {
-      "lbxd_slug": "peter-farrelly",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Peter_Farrelly_at_TIFF_2026_02_%28cropped%29.jpg/500px-Peter_Farrelly_at_TIFF_2026_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Peter John Farrelly (born December 17, 1956) is an American film director, screenwriter, producer and novelist. Along with his brother Bobby, the Farrelly brothers are mostly famous for directing and producing quirky comedy and romantic comedy films such as Dumb and Dumber; Shallow Hal; Me, Myself and Irene; There's Something About Mary; and the 2007 remake of The Heartbreak Kid. Farrelly solo-directed and co-wrote the comedy-drama Green Book (2018), which won the Audience Award at the Toronto International Film Festival in 2018, the Golden Globe Award for Best Screenplay, and Academy Awards for Best Picture and Best Original Screenplay."
-    },
     "Orson Welles": {
       "lbxd_slug": "orson-welles-1",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Orson_Welles_1937_cr3-4.jpg/500px-Orson_Welles_1937_cr3-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "George Orson Welles (May 6, 1915 – October 10, 1985) was an American actor and filmmaker. Remembered for his innovative work in film, radio, and theatre, he is considered among the greatest and most influential filmmakers of all time. Aged 21, Welles directed high-profile stage productions for the Federal Theatre Project in New York City—starting with a celebrated 1936 adaptation of Macbeth with an African-American cast, and ending with the political musical The Cradle Will Rock in 1937."
+    },
+    "Peter Farrelly": {
+      "lbxd_slug": "peter-farrelly",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Peter_Farrelly_at_TIFF_2026_02_%28cropped%29.jpg/500px-Peter_Farrelly_at_TIFF_2026_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Peter John Farrelly (born December 17, 1956) is an American film director, screenwriter, producer and novelist. Along with his brother Bobby, the Farrelly brothers are mostly famous for directing and producing quirky comedy and romantic comedy films such as Dumb and Dumber; Shallow Hal; Me, Myself and Irene; There's Something About Mary; and the 2007 remake of The Heartbreak Kid. Farrelly solo-directed and co-wrote the comedy-drama Green Book (2018), which won the Audience Award at the Toronto International Film Festival in 2018, the Golden Globe Award for Best Screenplay, and Academy Awards for Best Picture and Best Original Screenplay."
     },
     "Joseph Losey": {
       "lbxd_slug": "joseph-losey",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Joseph_Losey_1965_%28crop%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Joseph Walton Losey III (; January 14, 1909 – June 22, 1984) was an American film and theatre director, producer, and screenwriter. Born in Wisconsin, he studied in Germany with Bertolt Brecht and then returned to the United States. Blacklisted by Hollywood in the 1950s, he moved to Europe where he made the remainder of his films, mostly in the United Kingdom."
     },
-    "Jean-Pierre Melville": {
-      "lbxd_slug": "jean-pierre-melville",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Pierre_Melville_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-      "bio": "Jean-Pierre Grumbach (20 October 1917–2 August 1973), known professionally as Jean-Pierre Melville (French: [ʒɑ̃ pjɛʁ mɛlvil]), was a French filmmaker. Considered a spiritual godfather of the French New Wave, he was one of the first fully-independent French filmmakers to achieve commercial and critical success. His works include the crime dramas Bob le flambeur (1956), Le Doulos (1962), Le Samouraï (1967), and Le Cercle Rouge (1970), and the war films Le Silence de la mer (1949) and Army of Shadows (1969)."
-    },
     "Friedrich W. Murnau": {
       "lbxd_slug": "f-w-murnau",
       "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/F._W._Murnau_circa_1920-1930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "bio": "Friedrich Wilhelm Murnau (né Plumpe; 28 December 1888 – 11 March 1931) was a German film director, producer, and screenwriter. He is regarded as one of cinema's most influential filmmakers for his work in the silent era. An erudite child with an early interest in film, Murnau eventually studied philology and art before director Max Reinhardt recruited him to his acting school."
     },
-    "Vincente Minnelli": {
-      "lbxd_slug": "vincente-minnelli",
-      "photo": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Vincent_Minelli_-_1950s.jpg/500px-Vincent_Minelli_-_1950s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "bio": "Vincente Minnelli ( ; born Lester Anthony Minnelli; February 28, 1903 – July 25, 1986) was an American director. From a career spanning over half a century, he is best known for his sophisticated innovation and artistry in musical films. As of 2026, six of his films have been selected for preservation in the United States National Film Registry."
+    "Jean-Pierre Melville": {
+      "lbxd_slug": "jean-pierre-melville",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Pierre_Melville_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "bio": "Jean-Pierre Grumbach (20 October 1917–2 August 1973), known professionally as Jean-Pierre Melville (French: [ʒɑ̃ pjɛʁ mɛlvil]), was a French filmmaker. Considered a spiritual godfather of the French New Wave, he was one of the first fully-independent French filmmakers to achieve commercial and critical success. His works include the crime dramas Bob le flambeur (1956), Le Doulos (1962), Le Samouraï (1967), and Le Cercle Rouge (1970), and the war films Le Silence de la mer (1949) and Army of Shadows (1969)."
     },
     "Jean Renoir": {
       "lbxd_slug": "jean-renoir",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Jean_Renoir_%281959%29.tif/lossy-page1-500px-Jean_Renoir_%281959%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Jean Renoir (French: [ʁənwaʁ]; 15 September 1894 – 12 February 1979) was a French filmmaker, actor, producer and author. His La Grande Illusion (1937) and The Rules of the Game (1939) are often cited by critics as among the  greatest films ever made. In 2002, he was ranked fourth on the BFI's Sight & Sound poll of the greatest directors."
     },
+    "Vincente Minnelli": {
+      "lbxd_slug": "vincente-minnelli",
+      "photo": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5c/Vincent_Minelli_-_1950s.jpg/500px-Vincent_Minelli_-_1950s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "Vincente Minnelli ( ; born Lester Anthony Minnelli; February 28, 1903 – July 25, 1986) was an American director. From a career spanning over half a century, he is best known for his sophisticated innovation and artistry in musical films. As of 2026, six of his films have been selected for preservation in the United States National Film Registry."
+    },
     "Kelly Reichardt": {
       "lbxd_slug": "kelly-reichardt",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kelly_Reichardt-4432.jpg/500px-Kelly_Reichardt-4432.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Kelly Reichardt ( RYE-kart; born March 3, 1964) is an American film director, film editor and screenwriter. She is known for her minimalist films closely associated with slow cinema, many of which deal with working-class characters in small, rural communities. Reichardt made her feature film debut with River of Grass (1994) and subsequently directed a series of films set and filmed in Oregon: the dramas Old Joy (2006) and Wendy and Lucy (2008); the Western Meek's Cutoff (2010); and the thriller Night Moves (2013)."
     },
-    "Andrei Tarkovsky": {
-      "lbxd_slug": "andrei-tarkovsky",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
-      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
-    },
     "Jordan Firstman": {
       "lbxd_slug": "jordan-firstman",
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/JordanFirstman%283%29TIFF2026_%28cropped%29.jpg/500px-JordanFirstman%283%29TIFF2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "Jordan Firstman (born July 8, 1991) is an American actor, filmmaker, comedian, and singer living in Los Angeles, California. He is known for starring in the feature film Rotting in the Sun (2023) and for writing, directing, and starring in the film Club Kid (2026). Firstman rose to prominence for his short skits, called Impressions, shared on Instagram Live in 2020, during the COVID-19 pandemic."
+    },
+    "Andrei Tarkovsky": {
+      "lbxd_slug": "andrei-tarkovsky",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Andrei_tarkovsky_stamp_russia_2007.jpg",
+      "bio": "Andrei Arsenyevich Tarkovsky (Russian: Андрей Арсеньевич Тарковский, pronounced [ɐnˈdrʲej ɐrˈsʲenʲjɪvʲɪtɕ tɐrˈkofskʲɪj] ; 4 April 1932 – 29 December 1986) was a Soviet film director and screenwriter of Russian origin. He is widely considered one of the greatest directors in cinema history. His films explore spiritual and metaphysical themes and are known for their slow pacing and long takes, dreamlike visual imagery and preoccupation with nature and memory."
     },
     "Vincent Munier": {
       "lbxd_slug": "vincent-munier",
